@@ -71,3 +71,4 @@ L. K. Šemeta buvo Valkaviškio paviete įsitvirtinusios Šemetų giminės šako
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

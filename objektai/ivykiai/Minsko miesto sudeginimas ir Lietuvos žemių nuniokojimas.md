@@ -73,3 +73,4 @@ Jie sudegino Minsko miestą ir iš Lietuvos valsčių bei kaimų išsivarė bela
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

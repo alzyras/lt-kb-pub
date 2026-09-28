@@ -51,3 +51,4 @@ canonical_biography: "Į Vakarus nuo dešiniojo 1 Thunmann."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

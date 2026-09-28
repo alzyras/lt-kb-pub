@@ -69,3 +69,4 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

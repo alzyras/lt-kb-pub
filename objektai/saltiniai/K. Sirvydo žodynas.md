@@ -134,3 +134,4 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -80,3 +80,4 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

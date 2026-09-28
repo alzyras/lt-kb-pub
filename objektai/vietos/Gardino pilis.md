@@ -91,3 +91,4 @@ Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

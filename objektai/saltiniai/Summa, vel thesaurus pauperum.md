@@ -47,3 +47,4 @@ Dusburgietis pasakoja, kad 1276 metais popiežius Jonas XXI sudėjo didelę fizi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

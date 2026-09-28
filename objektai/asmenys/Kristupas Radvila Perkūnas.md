@@ -344,3 +344,4 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207783
+

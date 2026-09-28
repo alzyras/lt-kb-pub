@@ -65,3 +65,4 @@ Ta pati redakcija leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

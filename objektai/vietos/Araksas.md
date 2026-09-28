@@ -86,3 +86,4 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

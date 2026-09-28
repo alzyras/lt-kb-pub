@@ -80,3 +80,4 @@ Vilniaus pilies teisme veikė parinktų teisėjų teismas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -96,3 +96,4 @@ Solikovskis, padėjęs ją pastatyti, niekada nebu­ vo Vilniaus, bet Lvovo arki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

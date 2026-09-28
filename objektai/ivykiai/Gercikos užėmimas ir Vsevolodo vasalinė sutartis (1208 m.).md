@@ -111,3 +111,4 @@ Iš ten tiesiai priėjo prie Gercikos miesto.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

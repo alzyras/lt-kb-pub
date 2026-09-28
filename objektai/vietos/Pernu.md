@@ -125,3 +125,4 @@ Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

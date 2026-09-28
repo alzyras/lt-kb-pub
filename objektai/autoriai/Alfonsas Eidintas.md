@@ -266,3 +266,4 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

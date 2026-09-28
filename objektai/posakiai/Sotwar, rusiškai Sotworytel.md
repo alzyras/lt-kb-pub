@@ -75,3 +75,4 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

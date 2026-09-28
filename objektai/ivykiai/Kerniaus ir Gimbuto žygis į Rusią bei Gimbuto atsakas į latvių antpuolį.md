@@ -73,3 +73,4 @@ O paskui 1 didysis kunigaikštis Kernius ir Gimbu tas, geisdami praplėsti savo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

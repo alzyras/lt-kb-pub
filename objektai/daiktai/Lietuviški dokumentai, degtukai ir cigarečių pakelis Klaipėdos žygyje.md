@@ -94,3 +94,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir šnekamosios konstrukcijos; citata leidžia suformuluoti aiškesnį enciklopedinį sakinį."
   pagrindžia:
     - c-22259
+

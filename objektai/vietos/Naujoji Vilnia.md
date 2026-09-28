@@ -69,3 +69,4 @@ Rakantiškės yra senas Naujosios Vilnios pavadinimas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

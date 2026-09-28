@@ -95,3 +95,4 @@ Kiek tos kovos Kęstučio valdymo laiku padidėjo, rodo ir ta aplinkybė, kad vo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

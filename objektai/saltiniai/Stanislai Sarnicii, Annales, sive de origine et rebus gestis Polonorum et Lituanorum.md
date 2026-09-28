@@ -52,3 +52,4 @@ Stanislovo Sarnickio veikalas „Annales, sive de origine et rebus gestis Polono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

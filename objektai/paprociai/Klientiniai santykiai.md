@@ -101,3 +101,4 @@ Lietuvos Didžiosios Kunigaikštystės bajoriškoje visuomenėje XVI a. klientin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

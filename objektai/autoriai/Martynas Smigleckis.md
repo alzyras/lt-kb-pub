@@ -263,3 +263,4 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

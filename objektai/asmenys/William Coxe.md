@@ -75,3 +75,4 @@ Williamo Coxe’o nuomone, gėrimas iš vienos taurės XVIII a. Abiejų Tautų R
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

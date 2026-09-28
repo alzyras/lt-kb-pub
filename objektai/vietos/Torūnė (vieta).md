@@ -96,3 +96,4 @@ Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

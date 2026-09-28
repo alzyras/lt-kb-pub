@@ -117,3 +117,4 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

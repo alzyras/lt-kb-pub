@@ -116,3 +116,4 @@ Narbutas nesutinka su Okolskio aiškinimu, kad „Paparona“ kilusi iš „Part
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

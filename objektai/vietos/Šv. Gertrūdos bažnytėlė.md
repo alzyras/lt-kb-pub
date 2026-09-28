@@ -66,3 +66,4 @@ Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose priemiesčiuos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

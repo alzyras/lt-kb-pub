@@ -401,3 +401,4 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

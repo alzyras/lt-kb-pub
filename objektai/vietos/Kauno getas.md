@@ -87,3 +87,4 @@ historical_names: []
   temporalinis_llm_pakomentavimas: "Teiginys prasideda mažąja raide ir taisytinas į vientisą sakinį."
   pagrindžia:
     - c-24169
+

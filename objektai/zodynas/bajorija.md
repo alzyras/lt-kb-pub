@@ -97,3 +97,4 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215517
+

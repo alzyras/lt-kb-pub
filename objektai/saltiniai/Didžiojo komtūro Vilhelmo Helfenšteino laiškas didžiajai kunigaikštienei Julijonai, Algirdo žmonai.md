@@ -81,3 +81,4 @@ Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Perga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

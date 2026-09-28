@@ -237,3 +237,4 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

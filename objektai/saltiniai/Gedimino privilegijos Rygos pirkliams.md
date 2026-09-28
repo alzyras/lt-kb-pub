@@ -73,3 +73,4 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

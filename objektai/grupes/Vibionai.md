@@ -95,3 +95,4 @@ Narbutas rašo, kad vibionų, arba vitbionų, genties sostinė buvo senovės pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

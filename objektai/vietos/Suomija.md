@@ -150,3 +150,4 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

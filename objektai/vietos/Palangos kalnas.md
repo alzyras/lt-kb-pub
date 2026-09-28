@@ -163,3 +163,4 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

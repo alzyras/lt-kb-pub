@@ -51,3 +51,4 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

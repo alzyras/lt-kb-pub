@@ -85,3 +85,4 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie jo pakvietimą į Hel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

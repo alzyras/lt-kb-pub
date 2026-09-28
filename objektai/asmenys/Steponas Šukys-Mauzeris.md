@@ -73,3 +73,4 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

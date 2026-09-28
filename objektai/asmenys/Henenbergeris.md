@@ -749,3 +749,4 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

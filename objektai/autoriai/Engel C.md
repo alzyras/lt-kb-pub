@@ -89,3 +89,4 @@ Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

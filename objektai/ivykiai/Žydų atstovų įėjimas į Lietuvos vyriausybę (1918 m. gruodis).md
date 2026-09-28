@@ -95,3 +95,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako asmenis, pareigas ir datą."
   pagrindžia:
     - c-23312
+

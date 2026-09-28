@@ -53,3 +53,4 @@ Vilkijos seniūnui Zabielai uždraudus Upinės apeigas, ant Upinės kaupo buvo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -105,3 +105,4 @@ Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai r�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

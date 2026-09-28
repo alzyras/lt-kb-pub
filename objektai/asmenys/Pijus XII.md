@@ -91,3 +91,4 @@ canonical_biography: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

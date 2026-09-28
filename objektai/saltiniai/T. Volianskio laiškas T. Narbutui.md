@@ -55,3 +55,4 @@ T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

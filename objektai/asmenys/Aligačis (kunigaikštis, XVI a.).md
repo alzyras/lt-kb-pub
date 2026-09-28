@@ -75,3 +75,4 @@ XVI a. penktajame dešimtmetyje Krymo chanas Sagapas Girėjus per pasiuntinį ku
   atnaujinta: "2026-07-26 19:20"
   pagrindžia:
     - t-001
+

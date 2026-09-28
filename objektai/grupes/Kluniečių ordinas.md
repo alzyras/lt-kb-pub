@@ -44,3 +44,4 @@ Dusburgietis teigia, kad kluniečių ordinas — 900 viešpaties metais popieži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

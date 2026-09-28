@@ -75,3 +75,4 @@ Misionierių bažnyčios du bokštai Vorobjovo aprašyme buvo matomi virš Išga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

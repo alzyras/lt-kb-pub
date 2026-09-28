@@ -80,3 +80,4 @@ Narbutas teigia, kad apie 1500 m. pr. Kr. pelazgai davė pradžią dorėnams ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

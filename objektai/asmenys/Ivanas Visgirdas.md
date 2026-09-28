@@ -112,3 +112,4 @@ canonical_biography: "1585 m. Bartolomėjus Petravičius skundėsi dėl Ivano Vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

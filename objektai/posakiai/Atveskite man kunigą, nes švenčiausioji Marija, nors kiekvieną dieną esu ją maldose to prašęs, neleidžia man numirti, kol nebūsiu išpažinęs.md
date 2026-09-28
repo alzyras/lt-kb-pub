@@ -104,3 +104,4 @@ Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

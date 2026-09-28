@@ -99,3 +99,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir atitinka citatoje pateiktą informaciją."
   pagrindžia:
     - c-22985
+

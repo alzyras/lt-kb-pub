@@ -91,3 +91,4 @@ Andrzej B. Zakrzewski yra teisės istorikas ir habilituotas mokslų daktaras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

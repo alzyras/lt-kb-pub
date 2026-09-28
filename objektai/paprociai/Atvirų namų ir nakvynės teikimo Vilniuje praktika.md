@@ -80,3 +80,4 @@ Miestuose ir pačiame Vilniuje visi namai buvo atviri pra eiviams ir svečiams: 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -68,3 +68,4 @@ Tas ąžuolas buvo tuščiaviduris ir tokio storumo, kad į jį su arkliu buvo g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

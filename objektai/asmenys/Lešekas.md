@@ -87,3 +87,4 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

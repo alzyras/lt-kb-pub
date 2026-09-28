@@ -98,3 +98,4 @@ Narbutas, remdamasis Henenbergeriu, rašo, kad XVI a. pabaigoje Sakininkuose, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

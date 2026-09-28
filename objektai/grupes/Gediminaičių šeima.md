@@ -106,3 +106,4 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

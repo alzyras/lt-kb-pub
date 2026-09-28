@@ -93,3 +93,4 @@ Sukilimo metu Lietuvos tautinės tarybos narys ir Vilniaus miesto viceprezidenta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -54,3 +54,4 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

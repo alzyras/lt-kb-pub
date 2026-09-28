@@ -82,3 +82,4 @@ GURSČIŲ KAUTYNĖS 1946 m. sausio 22 d. Ukmergės aps.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

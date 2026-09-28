@@ -231,3 +231,4 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

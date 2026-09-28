@@ -68,5 +68,6 @@ Kupiškio rajono ūkiai buvo suskirstyti tarp Skapiškio ir Noriūnų mašinų t
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

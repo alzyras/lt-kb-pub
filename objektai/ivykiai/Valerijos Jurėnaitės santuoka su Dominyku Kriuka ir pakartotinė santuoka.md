@@ -77,5 +77,6 @@ Valerija Jurėnaitė 1904 m. vasario 8 d. ištekėjo už Dominyko Kriukos, o Dom
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

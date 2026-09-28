@@ -143,3 +143,4 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

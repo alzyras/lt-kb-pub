@@ -392,3 +392,4 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+

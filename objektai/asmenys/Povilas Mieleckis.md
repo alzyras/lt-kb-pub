@@ -88,3 +88,4 @@ Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

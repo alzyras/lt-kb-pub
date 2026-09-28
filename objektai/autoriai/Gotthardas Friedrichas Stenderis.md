@@ -145,3 +145,4 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

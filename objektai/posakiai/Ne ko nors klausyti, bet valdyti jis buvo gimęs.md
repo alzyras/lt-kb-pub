@@ -71,3 +71,4 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

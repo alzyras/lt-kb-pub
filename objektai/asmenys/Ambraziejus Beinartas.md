@@ -70,3 +70,4 @@ Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1605 m. Vilniaus kanaun
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

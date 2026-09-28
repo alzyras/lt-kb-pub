@@ -89,3 +89,4 @@ Pagamintas parlamento gynėjo, kūrėjo savanorio Vyganto Jociaus 2010 m. Analog
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

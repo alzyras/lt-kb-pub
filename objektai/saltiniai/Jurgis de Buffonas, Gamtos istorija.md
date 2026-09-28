@@ -111,3 +111,4 @@ Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direkt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

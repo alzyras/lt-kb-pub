@@ -55,3 +55,4 @@ Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

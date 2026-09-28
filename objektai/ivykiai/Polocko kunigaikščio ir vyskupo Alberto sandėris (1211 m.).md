@@ -104,3 +104,4 @@ Susitarimu Polocko kunigaikštis atsisakė teisių į Latviją, o vyskupas įsip
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

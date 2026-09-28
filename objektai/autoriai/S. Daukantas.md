@@ -554,3 +554,4 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218955
+

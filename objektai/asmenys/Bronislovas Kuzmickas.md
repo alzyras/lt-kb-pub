@@ -96,3 +96,4 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Bronislovą Kuzmicką ir remiasi citata."
   pagrindžia:
     - c-21631
+

@@ -48,3 +48,4 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

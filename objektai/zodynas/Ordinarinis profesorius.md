@@ -85,3 +85,4 @@ Tai pilnos profesoriaus pareigybės pavadinimas, pateiktas A. R. Niemi biografij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

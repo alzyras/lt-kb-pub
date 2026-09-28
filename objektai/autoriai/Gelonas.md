@@ -105,3 +105,4 @@ Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -77,3 +77,4 @@ AT-AS Aukščiausioji Taryba-Atkuriamasis Seimas. 1990 III 11 Lietuvos Respublik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

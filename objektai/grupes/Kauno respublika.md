@@ -54,3 +54,4 @@ Reikalas buvo suprantamas kaip apimantis visą Kauno respubliką ( wszystkq.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

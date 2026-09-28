@@ -78,3 +78,4 @@ Vytauto 1384 m. rašte teigiama, kad visa Žemaitija turi priklausyti Vokiečių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

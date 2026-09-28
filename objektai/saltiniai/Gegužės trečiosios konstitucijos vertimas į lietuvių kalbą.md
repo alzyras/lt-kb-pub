@@ -105,3 +105,4 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

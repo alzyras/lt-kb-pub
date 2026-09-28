@@ -91,3 +91,4 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
   temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs; citata paremia pilną sakinį."
   pagrindžia:
     - c-22083
+

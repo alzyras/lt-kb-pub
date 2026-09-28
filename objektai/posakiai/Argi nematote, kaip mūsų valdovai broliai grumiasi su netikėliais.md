@@ -90,3 +90,4 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

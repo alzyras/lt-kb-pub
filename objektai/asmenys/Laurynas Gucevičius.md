@@ -101,6 +101,7 @@ Laurynas Gucevičius (1753–1798) – architektas, projektavęs Vilniaus katedr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-21851
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -119,7 +120,7 @@ Laurynas Gucevičius (1753–1798) – architektas, projektavęs Vilniaus katedr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-21852
@@ -140,7 +141,7 @@ Laurynas Gucevičius (1753–1798) – architektas, projektavęs Vilniaus katedr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-198960
@@ -162,3 +163,4 @@ Laurynas Gucevičius (1753–1798) – architektas, projektavęs Vilniaus katedr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

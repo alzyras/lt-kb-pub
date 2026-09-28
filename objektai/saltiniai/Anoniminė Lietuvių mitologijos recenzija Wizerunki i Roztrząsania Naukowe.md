@@ -107,3 +107,4 @@ Anoniminė 1835 m. recenzija buvo apibūdinta kaip bene reikšmingiausia ir ypa�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

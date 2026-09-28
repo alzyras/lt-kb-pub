@@ -91,3 +91,4 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

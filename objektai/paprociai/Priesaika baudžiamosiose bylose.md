@@ -80,3 +80,4 @@ Bajoras, apkaltintas vagyste, pirmus tris kartus galėjo gintis priesaika, tači
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

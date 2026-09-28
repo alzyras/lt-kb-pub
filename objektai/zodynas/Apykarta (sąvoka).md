@@ -64,3 +64,4 @@ Saugojo tokias pilės nuo neprietelių patys ūkinykai pakarčiui ir tenai į gi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

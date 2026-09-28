@@ -77,3 +77,4 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

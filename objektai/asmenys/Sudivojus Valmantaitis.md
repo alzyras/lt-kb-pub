@@ -71,3 +71,4 @@ canonical_biography: "Štai 1431 m. Kauno seniūnas buvo vienos iš iškiliausi�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ canonical_biography: "Štai 1543 m. Kauno miesto tarybos ir suolininkų atleidž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

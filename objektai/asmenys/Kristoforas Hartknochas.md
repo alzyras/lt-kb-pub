@@ -948,3 +948,4 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

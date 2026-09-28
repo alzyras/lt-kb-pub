@@ -414,3 +414,4 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218692
+

@@ -72,3 +72,4 @@ Iš to atsira do 1253 metų bulė, kuri leido kunigaikščiams priimti sau goti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

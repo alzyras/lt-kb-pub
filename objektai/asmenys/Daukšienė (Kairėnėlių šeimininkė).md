@@ -81,3 +81,4 @@ Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -75,3 +75,4 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

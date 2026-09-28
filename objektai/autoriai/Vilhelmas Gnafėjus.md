@@ -75,3 +75,4 @@ Kitoje skrynioje dar buvo neįrištų protestantų poleminių knygų autoriaus i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

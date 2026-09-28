@@ -56,3 +56,4 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kur�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

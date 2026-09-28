@@ -79,3 +79,4 @@ Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

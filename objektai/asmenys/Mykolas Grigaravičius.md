@@ -87,3 +87,4 @@ canonical_biography: "23 Paveldėtojų parduodamų Svečių na­ mų pardavimo k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

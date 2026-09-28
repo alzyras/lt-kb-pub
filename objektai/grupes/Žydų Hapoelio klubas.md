@@ -85,3 +85,4 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

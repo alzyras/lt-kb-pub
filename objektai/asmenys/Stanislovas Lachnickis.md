@@ -93,3 +93,4 @@ canonical_biography: "1789 m. Ukmergės parapija buvo perduota kunigui Stanislov
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

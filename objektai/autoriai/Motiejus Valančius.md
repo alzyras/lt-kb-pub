@@ -1166,3 +1166,4 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-225933
+

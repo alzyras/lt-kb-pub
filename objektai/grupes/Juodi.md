@@ -107,3 +107,4 @@ Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219957
+

@@ -73,3 +73,4 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

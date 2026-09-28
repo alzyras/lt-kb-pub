@@ -198,3 +198,4 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

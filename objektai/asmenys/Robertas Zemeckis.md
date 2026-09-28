@@ -93,3 +93,4 @@ canonical_biography: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spekta
   temporalinis_llm_pakomentavimas: "Citata pagrindžia trumpą biografinį faktą."
   pagrindžia:
     - c-21948
+

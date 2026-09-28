@@ -117,3 +117,4 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218874
+

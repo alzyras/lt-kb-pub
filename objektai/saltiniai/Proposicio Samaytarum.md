@@ -67,3 +67,4 @@ Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­ tarum), kuriame s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

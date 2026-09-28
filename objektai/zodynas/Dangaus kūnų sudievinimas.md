@@ -73,3 +73,4 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -150,3 +150,4 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

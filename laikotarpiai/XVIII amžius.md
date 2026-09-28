@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVIII amžius"
 periodo_pradzia: 1701
 periodo_pabaiga: 1800
-periodo_objektu_skaicius: 1199
+periodo_objektu_skaicius: 1200
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1199.
+Objektų skaičius: 1200.
 
 ## Susiję objektai
 
@@ -901,6 +901,7 @@ Objektų skaičius: 1199.
 - [[objektai/saltiniai/1791 m. gegužės 16 d. įstatymas dėl kiekvieno trečio seimo Gardine]]
 - [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
 - [[objektai/saltiniai/1858 m. sausio 10 d. Motiejaus Valančiaus ganytojiškas laiškas apie valstiečių reformos ruošimą]]
+- [[objektai/saltiniai/1947 m. gegužės 5 d. operatyvinė suvestinė Nr. 66 apie Kupiškio apskritį]]
 - [[Ruigys] Ruhig P. Littauisch-deutsches und deutsch-littauisches Lexicon](/objektai/saltiniai/%5BRuigys%5D%20Ruhig%20P.%20Littauisch-deutsches%20und%20deutsch-littauisches%20Lexicon)
 - [[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistrict 1 150000. 25 Sectionen (Schr](/objektai/saltiniai/%5BSchroetter-Karte%5D%2C%20Karte%20von%20Ost-Preussen%20nebst%20Preussisch%20Litthauen%20und%20West-%20Preussen%20nebst%20dem%20Netzdistrict%201%20150000.%2025%20Sectionen%20%28Schr)
 - [[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistriect Von Schroetter in den Jahre](/objektai/saltiniai/%5BSchroetter-Karte%5D%2C%20Karte%20von%20Ost-Preussen%20nebst%20Preussisch%20Litthauen%20und%20West-%20Preussen%20nebst%20dem%20Netzdistriect%20Von%20Schroetter%20in%20den%20Jahre)

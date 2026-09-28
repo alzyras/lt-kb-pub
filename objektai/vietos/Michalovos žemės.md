@@ -119,3 +119,4 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

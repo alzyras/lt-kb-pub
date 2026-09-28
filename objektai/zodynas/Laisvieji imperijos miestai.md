@@ -101,3 +101,4 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
   pagrindžia:
     - t-001
     - t-002
+

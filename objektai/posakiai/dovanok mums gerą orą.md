@@ -76,3 +76,4 @@ Apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

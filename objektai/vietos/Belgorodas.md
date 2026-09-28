@@ -143,3 +143,4 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210450
+

@@ -67,3 +67,4 @@ Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -361,3 +361,4 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210802
+

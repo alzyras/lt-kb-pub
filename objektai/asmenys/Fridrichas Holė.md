@@ -86,3 +86,4 @@ Fridrichas su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

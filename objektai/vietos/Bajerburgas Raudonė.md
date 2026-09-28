@@ -217,3 +217,4 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -76,3 +76,4 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

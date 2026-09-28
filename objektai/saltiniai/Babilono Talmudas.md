@@ -136,3 +136,4 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207553
+

@@ -73,3 +73,4 @@ Narbutas pasakoja, kad prūsai Šventosios šventykloje sutrupindavo dievo Kurko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

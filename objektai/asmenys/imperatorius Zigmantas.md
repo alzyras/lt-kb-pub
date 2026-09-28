@@ -84,3 +84,4 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

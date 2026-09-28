@@ -85,3 +85,4 @@ Laiške T. Narbutas savo uždavinį apibūdino kaip praeities įvykių esmės at
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

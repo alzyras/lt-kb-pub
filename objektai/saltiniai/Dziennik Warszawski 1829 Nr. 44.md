@@ -76,3 +76,4 @@ Teodoras Narbutas, remdamasis „Dziennik Warszawski“ 1829 m. Nr. 44, herulus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

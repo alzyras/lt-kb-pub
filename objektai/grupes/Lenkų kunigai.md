@@ -60,3 +60,4 @@ Pasirodė, kad jų visų mokama kalbėti lietuviškai, tik visa bėda tame, kad 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

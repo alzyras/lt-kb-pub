@@ -71,3 +71,4 @@ Nora yra Rusijos Kalugos gubernijos upė, įtekanti į Oką.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

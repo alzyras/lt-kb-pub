@@ -168,3 +168,4 @@ Ermolao Barbaro 1490 m. ambasadoriaus pareigas siejo su valstybės apsaugos ir s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

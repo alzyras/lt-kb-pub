@@ -79,3 +79,4 @@ Mykolo salų, kur mūsų laivas semia paprastai anglis tilimesnei ( kelionei.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

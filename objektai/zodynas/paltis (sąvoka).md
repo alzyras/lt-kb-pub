@@ -63,3 +63,4 @@ Narbutas aiškina, kad paltis reiškia pusę kiaulės skerdienos kartu su riebal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

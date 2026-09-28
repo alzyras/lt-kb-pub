@@ -104,3 +104,4 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

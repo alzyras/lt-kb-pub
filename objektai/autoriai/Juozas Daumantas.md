@@ -82,3 +82,4 @@ Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

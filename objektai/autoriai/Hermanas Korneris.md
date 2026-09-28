@@ -80,3 +80,4 @@ Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Korner
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

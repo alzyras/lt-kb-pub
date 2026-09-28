@@ -70,3 +70,4 @@ Narbutas teigia, kad Livonijos riteriai klasta arba pasaloje sugavo Dangerutį i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

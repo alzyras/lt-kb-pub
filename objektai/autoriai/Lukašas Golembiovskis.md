@@ -81,3 +81,4 @@ Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

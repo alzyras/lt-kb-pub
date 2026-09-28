@@ -99,3 +99,4 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

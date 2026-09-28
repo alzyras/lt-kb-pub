@@ -123,3 +123,4 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

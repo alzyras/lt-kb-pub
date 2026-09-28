@@ -57,3 +57,4 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

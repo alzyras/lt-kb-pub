@@ -81,3 +81,4 @@ Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

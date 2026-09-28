@@ -56,3 +56,4 @@ Kojalavičių motina buvo kilusi iš į miestą atsikėlusios bajorų Beinartų 
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-001
+

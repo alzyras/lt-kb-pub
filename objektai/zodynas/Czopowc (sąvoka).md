@@ -67,3 +67,4 @@ Jį kartu su kitais valstybiniais mokesčiais po 1569 m. Liublino unijos skelbda
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

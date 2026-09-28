@@ -70,3 +70,4 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

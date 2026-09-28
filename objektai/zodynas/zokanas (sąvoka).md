@@ -101,3 +101,4 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

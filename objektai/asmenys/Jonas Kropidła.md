@@ -80,3 +80,4 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -69,3 +69,4 @@ Tverės kunigaikštis Jonas Michailovičius vedė Kęstučio dukterį Mariją, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

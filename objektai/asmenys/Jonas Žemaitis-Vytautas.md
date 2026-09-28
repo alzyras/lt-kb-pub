@@ -182,3 +182,4 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

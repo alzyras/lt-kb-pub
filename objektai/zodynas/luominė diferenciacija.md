@@ -71,3 +71,4 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

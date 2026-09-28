@@ -74,3 +74,4 @@ senoji Vakarų Europa skilo į dvi dalis – pietinę katalikiškąją ir šiaur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

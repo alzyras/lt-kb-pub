@@ -173,3 +173,4 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

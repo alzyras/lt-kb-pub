@@ -67,3 +67,4 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

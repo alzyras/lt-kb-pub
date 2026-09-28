@@ -136,3 +136,4 @@ Visuomenės saugumo deputacija veikė Lietuvoje nuo 1794 m. balandžio 25 d. iki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

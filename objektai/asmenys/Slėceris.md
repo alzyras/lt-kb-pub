@@ -409,3 +409,4 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

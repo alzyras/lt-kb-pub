@@ -67,3 +67,4 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-65567
+

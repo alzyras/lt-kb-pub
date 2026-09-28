@@ -343,3 +343,4 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

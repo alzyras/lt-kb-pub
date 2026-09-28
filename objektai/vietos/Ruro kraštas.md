@@ -99,3 +99,4 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

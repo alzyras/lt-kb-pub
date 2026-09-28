@@ -78,3 +78,4 @@ Aukštosios pilies bokštas citatoje lokalizuojamas ant Gedimino kalno kaip Kate
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

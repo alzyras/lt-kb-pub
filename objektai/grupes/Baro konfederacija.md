@@ -64,3 +64,4 @@ Baro konfederacija susidarė Podolės Baro miestelyje kovai su Rusijos priespaud
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

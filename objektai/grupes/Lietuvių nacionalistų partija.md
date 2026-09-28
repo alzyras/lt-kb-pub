@@ -76,3 +76,4 @@ Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

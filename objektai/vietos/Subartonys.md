@@ -76,3 +76,4 @@ Dar viena kovotojų grupė nuvyko Subartonių miško link.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -98,3 +98,4 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

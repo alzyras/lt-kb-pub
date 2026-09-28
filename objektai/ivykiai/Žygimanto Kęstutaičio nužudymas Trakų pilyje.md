@@ -71,3 +71,4 @@ O kitų ku nigaikščių ir didikų prie Žygimanto tuo metu nė vieno nebuvo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

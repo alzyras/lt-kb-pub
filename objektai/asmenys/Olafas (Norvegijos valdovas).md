@@ -81,3 +81,4 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs, citata palaiko aiškų faktą apie Olafą."
   pagrindžia:
     - c-21925
+

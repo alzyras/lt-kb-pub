@@ -70,3 +70,4 @@ Jurgis Abramovičius buvo Vilniaus pavaivadis. Jurgis Abramovičius Dalyvavo sos
   pagrindžia:
     - t-001
     - t-002
+

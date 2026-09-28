@@ -75,3 +75,4 @@ Gardaičio medalionas buvo auksinis, kiek didesnis nei colio skersmens ir turėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -72,3 +72,4 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

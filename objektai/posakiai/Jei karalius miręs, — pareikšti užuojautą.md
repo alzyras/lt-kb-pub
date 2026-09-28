@@ -76,3 +76,4 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

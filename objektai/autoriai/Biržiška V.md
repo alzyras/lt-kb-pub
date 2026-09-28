@@ -50,3 +50,4 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -74,3 +74,4 @@ Tie nuosprendžiai į knygas būdavo įrašomi rusiškai, lotyniškai arba lenki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

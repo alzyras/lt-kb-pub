@@ -99,3 +99,4 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

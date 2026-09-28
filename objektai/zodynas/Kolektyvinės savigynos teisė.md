@@ -87,3 +87,4 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
   pagrindžia:
     - t-001
     - t-002
+

@@ -118,3 +118,4 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -64,3 +64,4 @@ Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

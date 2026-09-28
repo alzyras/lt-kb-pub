@@ -85,3 +85,4 @@ Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

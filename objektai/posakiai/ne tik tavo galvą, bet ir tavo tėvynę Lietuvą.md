@@ -75,3 +75,4 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37168
+

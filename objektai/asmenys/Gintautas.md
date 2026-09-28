@@ -213,3 +213,4 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217600
+

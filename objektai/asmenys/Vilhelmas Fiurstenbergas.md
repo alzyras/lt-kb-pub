@@ -77,3 +77,4 @@ Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

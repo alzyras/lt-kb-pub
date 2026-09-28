@@ -96,3 +96,4 @@ Tomas Ignacy Zienkowicz buvo Baltarusijos sufraganas. Tomo Ignacy Zienkowicziaus
   pagrindžia:
     - t-001
     - t-002
+

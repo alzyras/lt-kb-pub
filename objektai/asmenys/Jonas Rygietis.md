@@ -100,3 +100,4 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
   temporalinis_llm_pakomentavimas: "Citata pagrindžia asmens veiksmą, vietą ir datą."
   pagrindžia:
     - c-83507
+

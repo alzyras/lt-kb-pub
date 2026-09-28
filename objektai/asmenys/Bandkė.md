@@ -99,3 +99,4 @@ Narbutas nurodo, kad Bandkė savo Lenkijos istorijoje lietuvių Gurko tapatino s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -59,3 +59,4 @@ Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Don
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

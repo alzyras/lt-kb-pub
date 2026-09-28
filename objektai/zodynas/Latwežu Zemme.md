@@ -60,3 +60,4 @@ Trečia lietuvių genties sritis, labiausiai nuto lusi į šiaurę, vadinasi Lat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

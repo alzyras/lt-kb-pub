@@ -88,3 +88,4 @@ Minsko mokestinės teritorijos dokumentai saugomi Lietuvos valstybės istorijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

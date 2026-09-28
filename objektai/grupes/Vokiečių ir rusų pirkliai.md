@@ -71,3 +71,4 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

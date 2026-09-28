@@ -68,3 +68,4 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

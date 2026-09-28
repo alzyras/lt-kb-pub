@@ -104,3 +104,4 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
   atnaujinta: "2026-07-26 17:49"
   pagrindžia:
     - t-002
+

@@ -68,3 +68,4 @@ surašytas Ostromiro ir Turovo evangelijas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

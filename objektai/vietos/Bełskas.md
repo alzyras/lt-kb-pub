@@ -98,3 +98,4 @@ Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

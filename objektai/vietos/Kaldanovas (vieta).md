@@ -72,3 +72,4 @@ Kaldanovas buvo dabartinės BTSR Minsko srities miestas Dzeržinskas ir XVI a. b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

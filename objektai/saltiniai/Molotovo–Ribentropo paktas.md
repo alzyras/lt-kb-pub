@@ -315,3 +315,4 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -84,3 +84,4 @@ Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus I
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

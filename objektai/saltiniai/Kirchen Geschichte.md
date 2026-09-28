@@ -79,3 +79,4 @@ Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217954
+

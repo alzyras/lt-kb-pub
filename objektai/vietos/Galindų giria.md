@@ -72,3 +72,4 @@ Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

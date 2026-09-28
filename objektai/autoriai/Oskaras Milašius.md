@@ -87,3 +87,4 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

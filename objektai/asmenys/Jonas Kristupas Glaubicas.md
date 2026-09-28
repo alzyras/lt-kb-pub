@@ -316,3 +316,4 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208078
+

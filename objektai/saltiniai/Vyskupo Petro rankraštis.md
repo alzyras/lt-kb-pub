@@ -142,3 +142,4 @@ Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216192
+

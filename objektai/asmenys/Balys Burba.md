@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Balys Burba"]
 sameAs: []
-canonical_biography: "Algis Baltrūnas, Balys Burba, Juozas Deleba gerai išmanė savo darbą."
 ---
 # Balys Burba
 

@@ -201,6 +201,18 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   pagrindžia:
     - c-192284
 
+<a id="claim-t-230679"></a>
+- t-230679
+  teiginys: "1944 m. rugpjūčio 5–6 d. Vytauto Januškevičiaus grupė Šiaulių miesto šiaurinėje dalyje susidūrė su sovietinės armijos kariais."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211317
+
 ## Citatos
 
 - id: c-12723
@@ -386,6 +398,18 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209664
+
+- id: c-211317
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 57"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 57."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230679
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Virgoličiaus rinktinė]]

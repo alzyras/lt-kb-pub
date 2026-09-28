@@ -88,3 +88,4 @@ canonical_biography: "1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant
   temporalinis_llm_pakomentavimas: "Pašalintos perteklinės aplinkybės, paliktas aiškus faktas apie asmenį."
   pagrindžia:
     - c-21862
+

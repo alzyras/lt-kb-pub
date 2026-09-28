@@ -77,3 +77,4 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

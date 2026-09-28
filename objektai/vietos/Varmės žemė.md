@@ -66,3 +66,4 @@ Broliai atplaukė prie Varmės žemės kranto ir netoli būsimos Baigos pilies p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

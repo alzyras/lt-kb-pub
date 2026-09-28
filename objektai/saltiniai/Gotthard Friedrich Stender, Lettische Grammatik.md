@@ -104,3 +104,4 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -122,3 +122,4 @@ Kunigaikščiai Olegovičiai1, norė dami atsiimti iš grįžtančių užpuolik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

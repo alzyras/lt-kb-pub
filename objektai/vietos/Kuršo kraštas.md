@@ -89,3 +89,4 @@ Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218925
+

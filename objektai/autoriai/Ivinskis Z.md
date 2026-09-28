@@ -66,3 +66,4 @@ Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

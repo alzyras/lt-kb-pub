@@ -91,3 +91,4 @@ XVI a. LDK valdovo medžioklės buvo rengiamos kaip didelė šventė, turėjusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

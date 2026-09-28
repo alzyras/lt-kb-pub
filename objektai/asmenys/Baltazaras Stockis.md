@@ -89,3 +89,4 @@ Baltazaras Stockis gyveno Liucynos palivarke prie Minsko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

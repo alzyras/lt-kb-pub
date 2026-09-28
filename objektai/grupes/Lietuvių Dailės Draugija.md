@@ -89,3 +89,4 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
   pagrindžia:
     - t-001
     - t-002
+

@@ -69,3 +69,4 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

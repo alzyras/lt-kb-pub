@@ -93,3 +93,4 @@ Narbutas Lėlių ir Lėlę laikė dvyniais, pamirštos deivės vaikais, kuriuos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -69,3 +69,4 @@ Toks bu vo vokiečių valdžios atsakymas į mano jiems inteiktą peticiją.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

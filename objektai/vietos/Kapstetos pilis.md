@@ -95,3 +95,4 @@ Karaliaučiaus komtūro vadovaujama kariuomenė užkariavo Kapstetos pilį ir j�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

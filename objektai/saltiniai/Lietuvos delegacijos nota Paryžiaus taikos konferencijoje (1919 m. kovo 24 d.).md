@@ -84,3 +84,4 @@ Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir nutrūkęs, o citata pagrindžia aiškesnę formuluotę."
   pagrindžia:
     - c-23859
+

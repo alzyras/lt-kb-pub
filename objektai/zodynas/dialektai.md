@@ -85,3 +85,4 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

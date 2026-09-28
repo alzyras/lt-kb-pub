@@ -80,3 +80,4 @@ Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -103,3 +103,4 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

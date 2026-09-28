@@ -125,3 +125,4 @@ Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vlad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

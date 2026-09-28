@@ -97,3 +97,4 @@ Latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas. Narbutas t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

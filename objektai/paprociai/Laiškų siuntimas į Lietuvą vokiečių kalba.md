@@ -78,3 +78,4 @@ Siuntinėti laiškus Lie tuvon — vokiečių kalboje išsirūpino dr. Sendeberg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

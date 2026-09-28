@@ -81,3 +81,4 @@ Laukai buvo iškasti apkasais, o dratinės tvoros išpintos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

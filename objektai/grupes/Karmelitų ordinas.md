@@ -146,3 +146,4 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224230
+

@@ -214,3 +214,4 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

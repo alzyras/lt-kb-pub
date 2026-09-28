@@ -191,3 +191,4 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

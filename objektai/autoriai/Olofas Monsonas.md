@@ -77,3 +77,4 @@ Turima omenyje Olafo Monsono (1490—1558) „Siaurės tautų is torija“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

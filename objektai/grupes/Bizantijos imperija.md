@@ -70,3 +70,4 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

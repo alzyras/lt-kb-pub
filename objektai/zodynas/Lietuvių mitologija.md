@@ -147,3 +147,4 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

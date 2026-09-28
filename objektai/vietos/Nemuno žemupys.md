@@ -95,3 +95,4 @@ Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu sią Vilniuje, su�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

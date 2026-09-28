@@ -66,3 +66,4 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

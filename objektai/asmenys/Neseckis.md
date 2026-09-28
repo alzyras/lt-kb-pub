@@ -120,3 +120,4 @@ Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Nese
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

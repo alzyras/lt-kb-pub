@@ -107,3 +107,4 @@ Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

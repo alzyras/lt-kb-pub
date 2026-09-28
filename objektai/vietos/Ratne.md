@@ -81,3 +81,4 @@ Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Če
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

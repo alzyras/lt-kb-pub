@@ -844,6 +844,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   susije_objektai: "mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-161891
     - c-182725
 
 <a id="claim-t-203316"></a>
@@ -1337,6 +1338,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-048
 
 - id: c-161892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

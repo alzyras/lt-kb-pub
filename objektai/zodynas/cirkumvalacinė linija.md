@@ -66,3 +66,4 @@ Cirkumvalacinė linija apibrėžiama kaip atakuojančiųjų aplink vietovę blok
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -58,3 +58,4 @@ Ten jis sugavo merginą, žymią paną iš gar sios Habdanko herbo 12 giminės, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

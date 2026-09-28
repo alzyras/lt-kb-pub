@@ -81,3 +81,4 @@ Turiu savo paties 26 Šiuo klausimu Bajeris parašė ištisą studiją: De nummi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

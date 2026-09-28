@@ -102,3 +102,4 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
   pagrindžia:
     - t-001
     - t-002
+

@@ -85,3 +85,4 @@ Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždavini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

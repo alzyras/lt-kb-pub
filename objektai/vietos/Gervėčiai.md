@@ -96,3 +96,4 @@ Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

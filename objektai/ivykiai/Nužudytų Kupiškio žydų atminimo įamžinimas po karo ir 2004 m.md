@@ -71,5 +71,6 @@ Pokario metais Stefanija Glemžaitė, padedama talkininkų, sudarė nužudytų K
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

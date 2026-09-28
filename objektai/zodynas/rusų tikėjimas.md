@@ -54,3 +54,4 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

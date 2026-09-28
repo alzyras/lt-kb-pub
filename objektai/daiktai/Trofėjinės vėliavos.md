@@ -117,3 +117,4 @@ Krokuvos pilies (Vavelio) katedroje 1411 m. rudenj buvo pa kabinta 51 kryžiuoč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -87,3 +87,4 @@ canonical_biography: "Narbutas teigia, kad 1253 m. Gnezno arkivyskupas Fulkonas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

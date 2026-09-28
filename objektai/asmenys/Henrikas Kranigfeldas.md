@@ -67,3 +67,4 @@ Henrikas Kranigfeldas buvo Rastenburgo konvento valdytojas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -75,3 +75,4 @@ Tad panašus rakto ženklas, iškaltas antkapiniame akme nyje, bus simbolis tiki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

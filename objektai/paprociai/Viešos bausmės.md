@@ -78,3 +78,4 @@ Viešos bausmės, anot Gitanos Zujienės, turėjo suvienyti visuomenę ir ugdyti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

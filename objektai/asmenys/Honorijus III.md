@@ -166,3 +166,4 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -86,3 +86,4 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

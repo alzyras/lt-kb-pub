@@ -128,3 +128,4 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

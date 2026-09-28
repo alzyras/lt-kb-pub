@@ -117,3 +117,4 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

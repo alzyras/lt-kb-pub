@@ -60,3 +60,4 @@ Tais pačiais metais, pabuvęs Lenkijoje, karalius Ka zimieras atvyko j Lietuvę
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

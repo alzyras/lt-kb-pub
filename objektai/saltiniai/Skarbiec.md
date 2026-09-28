@@ -49,3 +49,4 @@ A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -154,3 +154,4 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

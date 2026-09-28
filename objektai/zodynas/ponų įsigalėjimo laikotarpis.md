@@ -80,3 +80,4 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

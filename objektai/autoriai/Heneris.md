@@ -119,3 +119,4 @@ Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

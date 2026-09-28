@@ -833,3 +833,4 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

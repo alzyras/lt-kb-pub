@@ -89,3 +89,4 @@ Jurijus Gordejevas yra istorikas, habilituotas mokslų daktaras ir Krokuvos Joga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

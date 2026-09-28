@@ -85,3 +85,4 @@ Radvilų politinė klientūra tekste apima ir informacinio aptarnavimo funkciją
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

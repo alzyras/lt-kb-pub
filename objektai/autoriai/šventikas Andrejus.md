@@ -61,3 +61,4 @@ canonical_biography: "Šventikas Andrejus apie 1560-1563 m. metropolito Makarija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

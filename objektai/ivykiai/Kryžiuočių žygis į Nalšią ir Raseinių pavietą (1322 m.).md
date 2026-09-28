@@ -127,3 +127,4 @@ Teodoro Narbuto aprašymu, 1322 m. žiemą kryžiuočių armijai vadovavo kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

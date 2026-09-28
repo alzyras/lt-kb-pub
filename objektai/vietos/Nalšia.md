@@ -193,3 +193,4 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211449
+

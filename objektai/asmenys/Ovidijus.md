@@ -236,3 +236,4 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

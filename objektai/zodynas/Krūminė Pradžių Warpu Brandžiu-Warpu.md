@@ -114,3 +114,4 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

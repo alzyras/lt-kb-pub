@@ -93,3 +93,4 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu. Galusta
   pagrindžia:
     - t-001
     - t-186203
+

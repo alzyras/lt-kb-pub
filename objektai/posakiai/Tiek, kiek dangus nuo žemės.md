@@ -60,3 +60,4 @@ Vadinasi, Gero upė nutoltų nuo sa vo vietos tiek, kiek dangus nuo žemės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

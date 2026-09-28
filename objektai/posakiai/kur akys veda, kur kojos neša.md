@@ -70,3 +70,4 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

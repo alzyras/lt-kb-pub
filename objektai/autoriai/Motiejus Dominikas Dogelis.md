@@ -79,3 +79,4 @@ Motiejus Dominikas Dogelis citatoje pristatomas kaip įžymus archeografas, pare
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

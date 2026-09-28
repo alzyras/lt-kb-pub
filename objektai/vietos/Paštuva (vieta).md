@@ -178,3 +178,4 @@ Teodoras Narbutas aprašo, kad Paštuvos ir Gaižuvos valsčiuose susibūrusi ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-221447
+

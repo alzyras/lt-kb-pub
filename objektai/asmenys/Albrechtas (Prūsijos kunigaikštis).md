@@ -85,3 +85,4 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

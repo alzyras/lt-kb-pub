@@ -117,3 +117,4 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

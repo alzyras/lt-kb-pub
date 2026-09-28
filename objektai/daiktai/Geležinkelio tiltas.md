@@ -80,3 +80,4 @@ Rusų išgriautas Kauno geležinkelio tiltas buvo naujai atstatytas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -27,17 +27,17 @@ media_all_json: |-
 
 ## Santrauka
 
-Tvartas yra ūkinis trobesys gyvuliams laikyti.
+
 
 ## Santrauka
 
-Tvartas yra ūkinis trobesys gyvuliams laikyti.
+
 
 ## Teiginiai
 
 <a id="claim-t-226357"></a>
 - t-001
-  teiginys: "Tvartas yra ūkinis trobesys gyvuliams laikyti."
+  teiginys: ""
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -58,5 +58,6 @@ Tvartas yra ūkinis trobesys gyvuliams laikyti.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

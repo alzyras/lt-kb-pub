@@ -82,3 +82,4 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

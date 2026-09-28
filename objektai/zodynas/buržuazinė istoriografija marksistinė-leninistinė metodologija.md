@@ -75,3 +75,4 @@ Jie yra griežtai atsiriboję ir pasmerkę vad. «buržuazinę » istoriografij�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

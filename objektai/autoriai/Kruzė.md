@@ -106,3 +106,4 @@ Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

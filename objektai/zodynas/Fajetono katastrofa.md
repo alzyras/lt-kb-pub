@@ -131,3 +131,4 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
     - t-001
     - t-002
     - t-003
+

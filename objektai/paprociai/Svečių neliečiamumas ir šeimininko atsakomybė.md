@@ -81,3 +81,4 @@ Svečias, laikomas šventa persona, buvo šei mininko ibei draugų globojamas ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

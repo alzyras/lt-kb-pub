@@ -89,3 +89,4 @@ A. Mączakas Bastard Feudalism siūlo versti žodžių deriniu „menamas feodal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

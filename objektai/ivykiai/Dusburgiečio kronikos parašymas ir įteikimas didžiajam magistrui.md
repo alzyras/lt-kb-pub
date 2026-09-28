@@ -63,3 +63,4 @@ Dusburgietis savo kroniką rašė tarp 1320 ir 1326 metų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

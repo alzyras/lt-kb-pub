@@ -107,3 +107,4 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
   pagrindžia:
     - t-001
     - t-002
+

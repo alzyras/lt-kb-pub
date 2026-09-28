@@ -81,3 +81,4 @@ canonical_biography: "1737 m. Antanas Krukovskis su Juozapu Malinovskiu užpuol�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -72,3 +72,4 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

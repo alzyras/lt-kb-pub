@@ -82,3 +82,4 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

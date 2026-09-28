@@ -135,3 +135,4 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

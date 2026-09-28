@@ -85,3 +85,4 @@ Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

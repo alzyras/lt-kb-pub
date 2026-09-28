@@ -96,3 +96,4 @@ Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusi
   pagrindžia:
     - t-001
     - t-002
+

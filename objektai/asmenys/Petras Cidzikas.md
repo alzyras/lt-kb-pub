@@ -89,3 +89,4 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
   temporalinis_llm_pakomentavimas: "Citata leidžia aiškiai susieti Petrą Cidziką su kalinimu ir antisovietine veikla."
   pagrindžia:
     - c-21935
+

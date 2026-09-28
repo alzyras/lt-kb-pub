@@ -90,3 +90,4 @@ Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

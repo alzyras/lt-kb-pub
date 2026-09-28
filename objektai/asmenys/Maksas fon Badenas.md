@@ -91,3 +91,4 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

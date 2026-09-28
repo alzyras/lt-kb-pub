@@ -240,3 +240,4 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -83,3 +83,4 @@ Tarminė girtavimo pateisinimo patarlė apie neturtą.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177849
+

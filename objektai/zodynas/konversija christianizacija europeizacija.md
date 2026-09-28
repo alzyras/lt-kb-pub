@@ -164,3 +164,4 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   pagrindžia:
     - t-002
     - t-22197
+

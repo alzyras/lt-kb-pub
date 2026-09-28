@@ -214,3 +214,4 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

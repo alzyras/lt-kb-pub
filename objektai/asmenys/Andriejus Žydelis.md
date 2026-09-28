@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Andriejus Žydelis"]
 sameAs: []
-canonical_biography: "Vėžionys – 3 dūmai (Andriejaus Žydelio, Indrulienės našlės ir Anusios Jančyčios)."
+canonical_biography: "."
 ---
 # Andriejus Žydelis
 
@@ -61,5 +61,6 @@ Vėžionių kaime trys dūmai buvo siejami su Andriejumi Žydeliu, Indrulienės 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

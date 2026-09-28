@@ -81,3 +81,4 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

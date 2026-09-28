@@ -73,3 +73,4 @@ Vokiečių okupuota Lietuva (1941–1944).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

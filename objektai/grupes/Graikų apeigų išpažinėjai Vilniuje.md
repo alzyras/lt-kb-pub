@@ -151,3 +151,4 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

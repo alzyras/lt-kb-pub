@@ -108,3 +108,4 @@ Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

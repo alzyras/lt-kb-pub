@@ -83,3 +83,4 @@ Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

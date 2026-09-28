@@ -67,3 +67,4 @@ Kaune naujai besikuriančios vienuolės bernardinės supirko čia 8 miestiečių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

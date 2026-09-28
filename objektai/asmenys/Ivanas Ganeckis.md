@@ -125,3 +125,4 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

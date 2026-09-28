@@ -71,3 +71,4 @@ Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

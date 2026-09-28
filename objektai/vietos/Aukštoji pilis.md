@@ -80,3 +80,4 @@ Aukštoji pilis buvo pastatyta praktiniam apsigynimo reikalui, todėl Vorobjovas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -137,3 +137,4 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XV amžius"
 periodo_pradzia: 1401
 periodo_pabaiga: 1500
-periodo_objektu_skaicius: 1324
+periodo_objektu_skaicius: 1326
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1324.
+Objektų skaičius: 1326.
 
 ## Susiję objektai
 
@@ -20,6 +20,7 @@ Objektų skaičius: 1324.
 - [[objektai/asmenys/Albertas Vaitiekus Manvydas]]
 - [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]
 - [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]
+- [[objektai/asmenys/Aleksandras Chodkevičius (1475-1549)]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Alepas]]
 - [[objektai/asmenys/Andrius (Druško kunigaikštis)]]
@@ -39,7 +40,7 @@ Objektų skaičius: 1324.
 - [[objektai/asmenys/Cigala iš Vienos]]
 - [[objektai/asmenys/Danielius Aleksandraitis]]
 - [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- [[objektai/asmenys/Daumantas|Daumantas (Nalšios ir Pskovo kunigaikštis)]]
 - [[objektai/asmenys/Devletas]]
 - [[objektai/asmenys/Didysis Machmetas]]
 - [[objektai/asmenys/Dimitras Kaributas]]
@@ -1068,6 +1069,7 @@ Objektų skaičius: 1324.
 - [[objektai/saltiniai/1500 m. Aleksandro sprendimas dėl malūno prie Bernardinų vienuolyno]]
 - [[objektai/saltiniai/1529 m. Lietuvos Statutas]]
 - [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
+- [[objektai/saltiniai/1947 m. gegužės 5 d. operatyvinė suvestinė Nr. 66 apie Kupiškio apskritį]]
 - [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Nasonov, Novogrodskaja pervaja letopis' staršego ir mladšego izvodov|A. Nasonov, Novogrodskaja pervaja letopis'' staršego ir mladšego izvodov]]
 - [[objektai/saltiniai/A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329]]

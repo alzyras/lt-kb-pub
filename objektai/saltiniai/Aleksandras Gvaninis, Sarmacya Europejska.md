@@ -94,3 +94,4 @@ Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

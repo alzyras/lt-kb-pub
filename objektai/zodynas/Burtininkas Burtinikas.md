@@ -182,3 +182,4 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

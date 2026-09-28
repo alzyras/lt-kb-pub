@@ -77,3 +77,4 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

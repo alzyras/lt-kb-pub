@@ -66,3 +66,4 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

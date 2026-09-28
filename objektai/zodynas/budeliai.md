@@ -172,3 +172,4 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

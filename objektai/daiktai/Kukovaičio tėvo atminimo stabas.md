@@ -73,3 +73,4 @@ Stabas buvo pastatytas prie Šventosios upės ant kalno netoli Deltuvos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

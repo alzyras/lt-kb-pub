@@ -81,3 +81,4 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
   temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo nutrūkęs, todėl suformuluotas citata paremtas sakinys."
   pagrindžia:
     - c-24711
+

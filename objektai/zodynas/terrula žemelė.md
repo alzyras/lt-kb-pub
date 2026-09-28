@@ -166,3 +166,4 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro vald≈≥ dalyb≈
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -151,3 +151,4 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
   pagrindžia:
     - t-001
     - t-002
+

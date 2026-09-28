@@ -328,3 +328,4 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

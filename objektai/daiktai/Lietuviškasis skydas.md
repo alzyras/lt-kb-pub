@@ -139,3 +139,4 @@ Lietuviškieji, arba prūsiškieji, skydai buvo keturkampiai ir išilgai per vid
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -75,3 +75,4 @@ Borisas prie Berezinos upės įkūrė savo vardo miestą Borisovą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

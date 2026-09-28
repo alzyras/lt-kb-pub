@@ -57,3 +57,4 @@ Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

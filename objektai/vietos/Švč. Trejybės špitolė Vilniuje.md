@@ -190,3 +190,4 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

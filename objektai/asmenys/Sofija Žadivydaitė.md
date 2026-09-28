@@ -70,3 +70,4 @@ Sofija Žadivydaitė buvo Mitkos Zubrevickio žmona.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

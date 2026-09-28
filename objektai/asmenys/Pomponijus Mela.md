@@ -96,3 +96,4 @@ Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

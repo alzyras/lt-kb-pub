@@ -76,3 +76,4 @@ Iš Lietuvos per Karaliaučių jis išplaukė jūra į Angliją; ten pataikė į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

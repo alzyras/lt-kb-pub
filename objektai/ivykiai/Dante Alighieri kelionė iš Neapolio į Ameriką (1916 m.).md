@@ -72,3 +72,4 @@ Liepos 25 d. laivas Dante Alighieri turėjo išplaukti iš Neapolio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

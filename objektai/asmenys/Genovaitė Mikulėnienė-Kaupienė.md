@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Genovaitė Mikulėnienė-Kaupienė"]
 sameAs: []
-canonical_biography: "Genovaitė Mikulėnienė-Kaupienė (Tvirai, 1964–1991)."
+canonical_biography: "."
 ---
 # Genovaitė Mikulėnienė-Kaupienė
 
@@ -70,5 +70,6 @@ Genovaitė Mikulėnienė-Kaupienė 1964–1991 m. dirbo bibliotekininke Tviruose
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

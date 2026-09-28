@@ -83,3 +83,4 @@ Klasicizmas žavėjosi dorėniškomis Paestumo šventyklomis kaip graikų ir rom
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

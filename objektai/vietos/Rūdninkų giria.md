@@ -188,3 +188,4 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -110,3 +110,4 @@ Pasak Teodoro Narbuto, Liubarto valdose Vladimiras, Luckas ir Oleskas buvo užim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

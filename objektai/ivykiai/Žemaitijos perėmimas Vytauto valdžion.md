@@ -72,3 +72,4 @@ Paėmę auksą, jie daugiau Žemaitijos nebeužpuldinėjo, paliko ją ra mybėje
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

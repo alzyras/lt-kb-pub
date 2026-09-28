@@ -75,3 +75,4 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

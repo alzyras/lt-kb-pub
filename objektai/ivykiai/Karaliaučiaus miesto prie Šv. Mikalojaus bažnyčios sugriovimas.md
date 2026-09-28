@@ -86,3 +86,4 @@ Sembai netikėtai užpuolė ir visiškai sugriovė prie Šv. Mikalojaus bažnyč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

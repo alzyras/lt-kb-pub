@@ -278,3 +278,4 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208290
+

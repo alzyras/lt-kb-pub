@@ -195,3 +195,4 @@ canonical_biography: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

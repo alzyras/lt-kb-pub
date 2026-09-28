@@ -199,3 +199,4 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

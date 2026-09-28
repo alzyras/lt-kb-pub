@@ -114,3 +114,4 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
   pagrindžia:
     - t-001
     - t-002
+

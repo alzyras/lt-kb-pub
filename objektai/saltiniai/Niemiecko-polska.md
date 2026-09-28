@@ -80,3 +80,4 @@ Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

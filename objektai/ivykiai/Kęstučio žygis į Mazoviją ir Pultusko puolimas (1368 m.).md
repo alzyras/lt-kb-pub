@@ -80,3 +80,4 @@ Narbutas nurodo, kad prie Pultusko buvo nuniokoti vyskupo palivarkai ir kaimai, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

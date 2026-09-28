@@ -120,3 +120,4 @@ XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei. Žvėriena, ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

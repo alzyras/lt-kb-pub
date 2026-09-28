@@ -227,3 +227,4 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

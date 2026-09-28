@@ -70,3 +70,4 @@ Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ru
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

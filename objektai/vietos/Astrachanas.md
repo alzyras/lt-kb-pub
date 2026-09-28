@@ -98,3 +98,4 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

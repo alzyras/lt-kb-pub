@@ -152,3 +152,4 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
     - c-190718
+

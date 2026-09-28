@@ -72,3 +72,4 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

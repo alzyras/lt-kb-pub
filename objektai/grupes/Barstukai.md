@@ -86,3 +86,4 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217243
+

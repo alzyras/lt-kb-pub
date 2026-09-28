@@ -82,3 +82,4 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

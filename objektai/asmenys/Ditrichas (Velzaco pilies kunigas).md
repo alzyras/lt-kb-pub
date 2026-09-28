@@ -78,3 +78,4 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

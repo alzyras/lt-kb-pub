@@ -104,3 +104,4 @@ Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

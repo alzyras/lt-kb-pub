@@ -56,3 +56,4 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

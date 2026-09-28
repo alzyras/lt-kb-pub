@@ -76,3 +76,4 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

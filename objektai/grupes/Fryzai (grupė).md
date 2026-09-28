@@ -63,3 +63,4 @@ Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū roje, Austraviją, arba 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

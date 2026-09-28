@@ -87,3 +87,4 @@ Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

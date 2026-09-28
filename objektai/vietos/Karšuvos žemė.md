@@ -267,3 +267,4 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-220368
+

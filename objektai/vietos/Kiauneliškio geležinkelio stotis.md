@@ -95,3 +95,4 @@ Ožasiai fo} Svyroneéliai 6 Šemetas oje, Kiauneliškio geležinkelio stoties i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

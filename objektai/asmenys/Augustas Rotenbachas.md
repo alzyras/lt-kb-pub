@@ -69,3 +69,4 @@ Augustas Rotenbachas gimė Prūsijoje, Marienburgo mieste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

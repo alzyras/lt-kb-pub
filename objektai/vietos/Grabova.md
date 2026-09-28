@@ -133,3 +133,4 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

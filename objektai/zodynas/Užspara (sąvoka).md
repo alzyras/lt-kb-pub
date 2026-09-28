@@ -65,3 +65,4 @@ Viename senoviškame sienų nustatymo dokumente, ku rio data nežinoma, bet kuri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

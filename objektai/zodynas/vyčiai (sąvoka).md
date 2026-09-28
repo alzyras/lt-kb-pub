@@ -70,3 +70,4 @@ Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereid
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

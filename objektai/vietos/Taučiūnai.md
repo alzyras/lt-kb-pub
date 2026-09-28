@@ -121,3 +121,4 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

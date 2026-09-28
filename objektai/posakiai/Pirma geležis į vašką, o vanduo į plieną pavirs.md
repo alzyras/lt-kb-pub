@@ -80,3 +80,4 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

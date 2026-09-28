@@ -754,3 +754,4 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

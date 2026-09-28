@@ -93,3 +93,4 @@ Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su kuria seimo (1790 m.) buv
   pagrindžia:
     - t-001
     - t-67426
+

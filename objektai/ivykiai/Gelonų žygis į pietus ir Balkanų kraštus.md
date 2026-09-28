@@ -73,3 +73,4 @@ Gal tai davė pradžią romėnų žinioms apie gelonų žygį į getų dukras ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

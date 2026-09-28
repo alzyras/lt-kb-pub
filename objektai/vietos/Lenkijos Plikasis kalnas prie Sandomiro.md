@@ -59,3 +59,4 @@ Narbutas Lenkijos Plikąjį kalną prie Sandomiro įvardijo kaip garsų kalną, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -83,3 +83,4 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

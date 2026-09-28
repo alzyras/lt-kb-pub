@@ -118,3 +118,4 @@ Rupūžės buvo laikomos prie šventyklų ir kai kuriuose namuose ypač gerbiamo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -164,3 +164,4 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

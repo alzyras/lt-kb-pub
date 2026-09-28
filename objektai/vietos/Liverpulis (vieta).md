@@ -99,3 +99,4 @@ Liverpulyje minima Šv. Jurgio rotušė kaip neoklasicistinis pastatas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

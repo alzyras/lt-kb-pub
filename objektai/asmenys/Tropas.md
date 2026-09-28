@@ -52,3 +52,4 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

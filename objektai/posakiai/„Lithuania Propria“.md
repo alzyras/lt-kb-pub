@@ -146,3 +146,4 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

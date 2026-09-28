@@ -82,3 +82,4 @@ Teodoro Narbuto aiškinimu, Vitebsko priklausymas didžiajai kunigaikštienei Ju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

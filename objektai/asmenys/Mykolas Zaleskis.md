@@ -86,3 +86,4 @@ Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

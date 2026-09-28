@@ -492,3 +492,4 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+

@@ -151,3 +151,4 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

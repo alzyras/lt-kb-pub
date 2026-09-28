@@ -73,3 +73,4 @@ Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus bei suteikti jam vald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

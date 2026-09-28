@@ -270,3 +270,4 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

@@ -102,3 +102,4 @@ Gelonai dėl nesantaikos buvo išvyti iš Juodosios jūros emporiumų ir apsigyv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

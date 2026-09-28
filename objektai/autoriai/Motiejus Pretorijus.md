@@ -465,3 +465,4 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

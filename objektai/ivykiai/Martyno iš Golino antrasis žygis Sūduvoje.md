@@ -70,3 +70,4 @@ Martynas ir kiti vyrai vakaro prietemoje užpuolė Sūduvos kaimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

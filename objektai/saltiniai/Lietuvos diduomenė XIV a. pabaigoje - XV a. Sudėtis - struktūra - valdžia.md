@@ -63,3 +63,4 @@ Lietuvos diduomenė XIV a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

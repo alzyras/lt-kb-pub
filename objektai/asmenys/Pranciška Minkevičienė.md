@@ -33,7 +33,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Pranciška Minkevičienė"]
 sameAs: []
-canonical_biography: "Pranciška Minkevičienė (Didžprūdėliai, VB, 1979–2007)."
+canonical_biography: "."
 ---
 # Pranciška Minkevičienė
 
@@ -71,5 +71,6 @@ Pranciška Minkevičienė dirbo Didžprūdėlių viešojoje bibliotekoje 1979–
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

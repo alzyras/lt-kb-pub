@@ -72,3 +72,4 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

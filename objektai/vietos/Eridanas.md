@@ -152,3 +152,4 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

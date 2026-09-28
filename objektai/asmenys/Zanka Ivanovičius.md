@@ -81,3 +81,4 @@ canonical_biography: "Świadkowie: Miszko Wezgałowicz Namiestnik Wileński i Wo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83867
+

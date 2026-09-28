@@ -77,3 +77,4 @@ Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų ma
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

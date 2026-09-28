@@ -57,3 +57,4 @@ Mums prisieis mirti badu, nes neturime maisto.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -90,3 +90,4 @@ Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno pe
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

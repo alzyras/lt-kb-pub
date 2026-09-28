@@ -97,3 +97,4 @@ Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

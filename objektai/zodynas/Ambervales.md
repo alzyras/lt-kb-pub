@@ -48,3 +48,4 @@ Narbutas Ambervales apibūdina kaip romėnų laukų apvalymo arba pašventinimo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

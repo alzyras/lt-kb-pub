@@ -74,3 +74,4 @@ Kiekvienas einantis arba važiuojantis žmogus širdingai sveikindavo pasakotoju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -77,3 +77,4 @@ Narbutas gyventojų prieaugį ir išplitimą aiškina gelonų-budinų draugišku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

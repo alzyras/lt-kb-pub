@@ -23,7 +23,7 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Mykolas Vaitkus"]
 sameAs: []
-canonical_biography: "Antai poetas Mykolas Vaitkus pripažino, kad Petras yra ryškaus talento poetas."
+canonical_biography: "."
 ---
 # Mykolas Vaitkus
 
@@ -38,7 +38,7 @@ Poetas Mykolas Vaitkus Petrą apibūdino kaip ryškaus talento poetą.
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Antai poetas Mykolas Vaitkus pripažino, kad Petras yra ryškaus talento poetas.'
+  santrauka: '.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1119 (PDF 1120)"
   citatos_rezimas: "indeksas"

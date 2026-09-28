@@ -48,3 +48,4 @@ Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

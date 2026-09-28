@@ -91,3 +91,4 @@ Gibraltare anglų valdžia krato laivo pasažierius ir tikrina jų pašportus. M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

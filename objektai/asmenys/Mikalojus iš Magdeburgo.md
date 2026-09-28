@@ -80,3 +80,4 @@ Po vyskupo Alberto mirties Rygos kapitula išrinko Mikalojų iš Magdeburgo pave
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

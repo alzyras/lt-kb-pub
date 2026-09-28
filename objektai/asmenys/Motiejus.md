@@ -84,3 +84,4 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

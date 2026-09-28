@@ -71,3 +71,4 @@ Vienas kareivis dalina ■ženklelius prieš duris ir leidžia į kambarį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

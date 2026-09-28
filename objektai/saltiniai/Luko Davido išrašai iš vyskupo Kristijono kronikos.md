@@ -108,3 +108,4 @@ Narbutas svarsto, ar Lukas Davidas naudojosi visa vyskupo Kristijono kronika, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

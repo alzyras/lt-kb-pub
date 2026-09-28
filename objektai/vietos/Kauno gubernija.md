@@ -493,3 +493,4 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209625
+

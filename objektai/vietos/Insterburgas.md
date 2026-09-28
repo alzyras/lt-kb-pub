@@ -140,3 +140,4 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

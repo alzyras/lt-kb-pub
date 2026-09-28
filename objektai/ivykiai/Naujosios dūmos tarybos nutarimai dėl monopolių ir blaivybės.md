@@ -70,3 +70,4 @@ Naujoji dūmos taryba pasiūlė blaivybės draugijoms steigti nereikalauti leidi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

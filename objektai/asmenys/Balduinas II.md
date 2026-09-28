@@ -91,3 +91,4 @@ Karalius Balduinas II su įkarščiu ėmė rū pintis jų gerove: skyrė lėšas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

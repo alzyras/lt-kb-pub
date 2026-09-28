@@ -125,3 +125,4 @@ XV a. antroje pusėje Lietuvos Didžiosios Kunigaikštystės kilmingųjų pasaul
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

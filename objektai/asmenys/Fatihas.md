@@ -74,3 +74,4 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

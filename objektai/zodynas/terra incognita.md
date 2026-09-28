@@ -79,3 +79,4 @@ Vakarietiškoji kryptis šia prasme dar buvo laikoma terra incognita.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

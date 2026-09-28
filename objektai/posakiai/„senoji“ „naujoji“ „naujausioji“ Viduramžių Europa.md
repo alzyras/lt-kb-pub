@@ -67,3 +67,4 @@ Paprastai Viduramžių Europa tapatinama su Vakarų Europa.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

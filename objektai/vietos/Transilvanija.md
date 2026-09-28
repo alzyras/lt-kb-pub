@@ -91,3 +91,4 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

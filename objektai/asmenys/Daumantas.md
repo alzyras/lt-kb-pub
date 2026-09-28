@@ -141,6 +141,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-04830
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -158,7 +159,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-21642
@@ -178,6 +179,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-21643
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -197,6 +199,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-21645
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -220,7 +223,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-21646
@@ -249,7 +252,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168044
@@ -278,6 +281,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-168046
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -302,6 +306,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184328
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   puslapiai: "PDF 403"
@@ -324,6 +329,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-188277
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
   puslapiai: "PDF 199"
@@ -342,6 +348,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-188278
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
   puslapiai: "PDF 200"
@@ -362,6 +369,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-190075
   autorius: "Alfredas Bumblauskas"
   šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
@@ -383,7 +391,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-193084
@@ -400,6 +408,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-193432
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -415,6 +424,7 @@ Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 126
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-194180
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

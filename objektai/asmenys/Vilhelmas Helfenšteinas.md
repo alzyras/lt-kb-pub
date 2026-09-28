@@ -145,3 +145,4 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

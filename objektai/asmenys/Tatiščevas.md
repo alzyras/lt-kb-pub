@@ -146,3 +146,4 @@ Narbutas rašo, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

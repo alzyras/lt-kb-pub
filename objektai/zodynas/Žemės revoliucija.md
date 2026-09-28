@@ -158,3 +158,4 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

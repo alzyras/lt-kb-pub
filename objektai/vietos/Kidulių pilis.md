@@ -93,3 +93,4 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

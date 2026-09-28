@@ -72,3 +72,4 @@ Prie Aliamo apskrities vėliau buvo įkurti Malborko ordino namai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

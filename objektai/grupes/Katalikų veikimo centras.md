@@ -69,3 +69,4 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

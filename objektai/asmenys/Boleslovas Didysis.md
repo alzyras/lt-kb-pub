@@ -79,3 +79,4 @@ Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

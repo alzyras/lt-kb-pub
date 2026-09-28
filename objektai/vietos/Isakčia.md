@@ -58,3 +58,4 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

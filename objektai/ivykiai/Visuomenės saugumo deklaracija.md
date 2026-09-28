@@ -85,3 +85,4 @@ Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

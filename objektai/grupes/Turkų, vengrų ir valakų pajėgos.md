@@ -105,3 +105,4 @@ Moldavijos vaivada Steponas pranešė turkų sultonui, Vengrijai ir Valakijos va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

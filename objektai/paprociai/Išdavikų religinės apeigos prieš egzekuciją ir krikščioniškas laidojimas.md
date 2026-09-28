@@ -75,3 +75,4 @@ Išdavikai prieš egzekuciją galėjo atlikti išpažintį ir priimti Eucharisti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

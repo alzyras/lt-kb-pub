@@ -77,3 +77,4 @@ Pono Georgi nuomone, japonų dievai Kami buvo visiškai tapatūs egiptiečių Ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -123,3 +123,4 @@ Stravinskaitė minima kaip Starodubo žemės teisėjaitė, 1760 m. ištekėjusi 
   atnaujinta: "2026-07-26 17:37"
   pagrindžia:
     - t-003
+

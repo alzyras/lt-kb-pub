@@ -259,3 +259,4 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

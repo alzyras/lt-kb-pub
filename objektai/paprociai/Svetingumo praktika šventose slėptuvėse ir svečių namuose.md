@@ -75,3 +75,4 @@ Priešingai, priėmusiems tuos svečius gražiai ir svetingai būdavo garantuota
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

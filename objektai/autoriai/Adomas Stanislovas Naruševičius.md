@@ -1192,3 +1192,4 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

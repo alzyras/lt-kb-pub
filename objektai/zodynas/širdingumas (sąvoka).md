@@ -63,3 +63,4 @@ Jie visi pasitiki Amerikos lietuvių duosnumu, širdingumu ir noru gelbė ti did
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

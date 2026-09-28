@@ -83,3 +83,4 @@ Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

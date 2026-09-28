@@ -67,3 +67,4 @@ Sventopelkas su kariuomene priėjo Santyro pilį ir prie jos įsirengė stovykl�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

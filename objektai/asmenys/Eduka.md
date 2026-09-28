@@ -255,3 +255,4 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -60,3 +60,4 @@ Narbutas nurodo sutartį tarp Livonijos riterių ir Kuršo vyskupo Henriko dėl 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

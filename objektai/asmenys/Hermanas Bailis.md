@@ -70,3 +70,4 @@ canonical_biography: '102) turėjo žinių, jog „magistro Hermano Bai lio laik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

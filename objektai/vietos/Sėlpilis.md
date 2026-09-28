@@ -130,3 +130,4 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207977
+

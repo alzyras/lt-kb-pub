@@ -133,3 +133,4 @@ canonical_biography: "1055 m. poloviečių vadas Balušas kovojo su Rusia, bet p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212640
+

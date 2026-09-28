@@ -88,3 +88,4 @@ Jonathano Dewaldo studijos skirtos XV-XVIII a. Europos bajorijos tyrimams.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

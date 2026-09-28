@@ -64,3 +64,4 @@ Kauno liuteronų bendruomenei šitame pasitarime atstovavo kunigas Paulius Oderb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

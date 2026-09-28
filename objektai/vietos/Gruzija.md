@@ -76,3 +76,4 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

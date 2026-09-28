@@ -273,3 +273,4 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225568
+

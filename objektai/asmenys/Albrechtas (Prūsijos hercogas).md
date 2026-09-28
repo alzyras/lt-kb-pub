@@ -86,3 +86,4 @@ Dusburgietis teigia, kad nuorašo viršelyje yra Karaliaučiaus bibliotekos įk�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -64,3 +64,4 @@ Casus In strumentalis įnagininkas visiškai išnyko; nėra nė ženklo nei vie 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -92,3 +92,4 @@ Apie 1485 m. valdovas Kazimieras Jogailaitis laiške kreipėsi į Kauno seniūn�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

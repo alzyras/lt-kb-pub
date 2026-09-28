@@ -77,3 +77,4 @@ Stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio b�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

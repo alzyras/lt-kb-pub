@@ -79,3 +79,4 @@ Konradas iš Tirbergo su 1500 raitelių nusiaubė Kimenavos valsčių, paėmė 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

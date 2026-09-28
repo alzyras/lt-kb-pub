@@ -85,3 +85,4 @@ Dusburgietis teigia, kad massalski R.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

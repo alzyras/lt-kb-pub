@@ -99,3 +99,4 @@ Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

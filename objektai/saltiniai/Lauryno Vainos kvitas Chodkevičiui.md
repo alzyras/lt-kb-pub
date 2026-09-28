@@ -56,3 +56,4 @@ Kadangi tame pačiame kvite nurodoma, kad Kaune buvo mažiausiai 416 namų, iše
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

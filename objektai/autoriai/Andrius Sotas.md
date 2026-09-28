@@ -64,3 +64,4 @@ Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia C
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

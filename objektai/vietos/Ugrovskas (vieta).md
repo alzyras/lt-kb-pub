@@ -77,3 +77,4 @@ Ugrovskas yra Lenkijos Liublino vaivadijos gyvenvietė prie Bugo ir Uherkos upi�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

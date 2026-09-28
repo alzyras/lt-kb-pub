@@ -69,3 +69,4 @@ Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijo
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

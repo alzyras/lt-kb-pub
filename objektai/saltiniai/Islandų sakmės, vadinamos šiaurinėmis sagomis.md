@@ -97,3 +97,4 @@ Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

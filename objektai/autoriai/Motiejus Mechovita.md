@@ -101,3 +101,4 @@ Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

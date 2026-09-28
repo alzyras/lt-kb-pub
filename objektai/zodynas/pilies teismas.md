@@ -68,3 +68,4 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

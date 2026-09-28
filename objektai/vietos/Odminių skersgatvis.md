@@ -98,3 +98,4 @@ Namas buvo nurodytas antrame Odminių skersgatvyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

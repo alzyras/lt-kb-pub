@@ -157,3 +157,4 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -173,3 +173,4 @@ Palėvenėje vyskupas skelbė blaivybę.
   vertinimo_atnaujinta: "2026-09-24T07:18:07Z"
   pagrindžia:
     - c-206571
+

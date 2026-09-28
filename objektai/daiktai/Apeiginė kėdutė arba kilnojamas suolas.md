@@ -74,3 +74,4 @@ Vaižganto šventėje trobos viduryje arba klojime statydavo kėdutę ar aukšt�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

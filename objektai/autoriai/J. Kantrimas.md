@@ -78,3 +78,4 @@ Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

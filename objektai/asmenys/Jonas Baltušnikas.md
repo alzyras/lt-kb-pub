@@ -71,3 +71,4 @@ Jonas Baltušnikas prisipažino po savo stogu priglaudęs bėglį ir sutiko grą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

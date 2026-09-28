@@ -57,3 +57,4 @@ Latvių kalba yra nutolusi nuo šiau rinių kaimynų estų kalbos taip, kaip dan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

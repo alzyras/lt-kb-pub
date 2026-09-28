@@ -57,3 +57,4 @@ Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

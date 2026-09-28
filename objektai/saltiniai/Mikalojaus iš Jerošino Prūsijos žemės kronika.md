@@ -159,3 +159,4 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

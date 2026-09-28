@@ -83,3 +83,4 @@ APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

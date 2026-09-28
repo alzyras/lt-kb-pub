@@ -79,3 +79,4 @@ Werneris Conze įrodė, kad Bonos į LDK perkelta ūkio sistema buvo ne lenkišk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

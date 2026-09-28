@@ -78,3 +78,4 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
   temporalinis_llm_pakomentavimas: "Teiginys tiesiogiai nusako bulės turinį ir yra pagrįstas citata."
   pagrindžia:
     - c-23796
+

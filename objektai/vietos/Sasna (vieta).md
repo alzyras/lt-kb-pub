@@ -71,3 +71,4 @@ Sasna buvo į vakarus nuo Galindos, tarp Galindos ir Lubavos žemės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

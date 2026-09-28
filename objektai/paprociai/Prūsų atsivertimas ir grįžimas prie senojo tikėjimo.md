@@ -103,3 +103,4 @@ Visi netruko atsimesti nuo ano tikėjimo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

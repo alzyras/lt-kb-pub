@@ -78,3 +78,4 @@ Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

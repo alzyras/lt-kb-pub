@@ -48,3 +48,4 @@ Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

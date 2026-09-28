@@ -50,3 +50,4 @@ T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

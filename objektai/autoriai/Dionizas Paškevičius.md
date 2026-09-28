@@ -87,3 +87,4 @@ Dionizas Paškevičius aprašė Raseinių, Šiaulių ir Telšių apskrityse bei 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

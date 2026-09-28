@@ -92,3 +92,4 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   pagrindžia:
     - t-001
     - t-002
+

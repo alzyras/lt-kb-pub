@@ -96,3 +96,4 @@ Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

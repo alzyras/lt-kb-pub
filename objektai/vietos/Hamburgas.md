@@ -119,3 +119,4 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208406
+

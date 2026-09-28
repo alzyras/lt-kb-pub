@@ -100,3 +100,4 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

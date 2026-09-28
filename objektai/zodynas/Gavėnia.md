@@ -91,3 +91,4 @@ Terminas vartojamas kalbant apie triukšmo draudimą ir tam laikui būdingus val
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -130,3 +130,4 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

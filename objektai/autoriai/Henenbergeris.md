@@ -625,3 +625,4 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

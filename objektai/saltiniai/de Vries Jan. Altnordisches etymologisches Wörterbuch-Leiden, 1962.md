@@ -61,3 +61,4 @@ Dusburgietis teigia, kad de Vries Jan.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

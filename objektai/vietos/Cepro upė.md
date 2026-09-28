@@ -59,3 +59,4 @@ Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius apli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

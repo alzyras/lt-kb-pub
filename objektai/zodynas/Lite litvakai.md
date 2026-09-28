@@ -126,3 +126,4 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   pagrindžia:
     - t-002
     - t-003
+

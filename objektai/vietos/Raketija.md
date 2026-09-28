@@ -73,3 +73,4 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

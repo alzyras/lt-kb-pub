@@ -63,3 +63,4 @@ Taryba kasmet iš miesto piliečių rinkdavo 2 turgaus prižiūrėtojus (inspekt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

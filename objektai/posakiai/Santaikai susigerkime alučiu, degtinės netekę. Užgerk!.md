@@ -80,3 +80,4 @@ Taikymosi ir susitaikymo per gėrimą formulė.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177851
+

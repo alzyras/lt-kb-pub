@@ -50,3 +50,4 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

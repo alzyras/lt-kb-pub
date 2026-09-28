@@ -59,3 +59,4 @@ Narbutas lietuvių gėrimą ratu lygino su Antikos Circumpotatio ir rašė, kad 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

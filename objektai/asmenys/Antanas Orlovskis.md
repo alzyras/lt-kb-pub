@@ -80,3 +80,4 @@ canonical_biography: "1792 m. Antakalnio gubernatoriaus Adomavičiaus žmonės u
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

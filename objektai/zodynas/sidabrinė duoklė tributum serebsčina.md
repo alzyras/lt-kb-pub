@@ -67,3 +67,4 @@ Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­ prastieji žmonės, kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

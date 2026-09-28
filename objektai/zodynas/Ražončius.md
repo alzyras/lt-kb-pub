@@ -84,3 +84,4 @@ Terminas vartojamas kaip religinio bendruomeninio elgesio matas, už kurio nelan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -71,3 +71,4 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

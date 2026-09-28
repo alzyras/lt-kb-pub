@@ -92,3 +92,4 @@ Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

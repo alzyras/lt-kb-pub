@@ -78,3 +78,4 @@ Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

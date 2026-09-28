@@ -69,3 +69,4 @@ Pasakojimas apie pasikėsinimą prieš Lietuvos atstovus Parčevo seime žinomas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

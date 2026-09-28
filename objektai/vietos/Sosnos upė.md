@@ -85,3 +85,4 @@ Vakaruose miestą prie Sosnos upės, dešiniojo Dono tęsėsi diplomatinė kova,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

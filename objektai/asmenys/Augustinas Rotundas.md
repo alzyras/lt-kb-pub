@@ -104,3 +104,4 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

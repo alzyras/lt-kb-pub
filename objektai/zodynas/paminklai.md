@@ -215,3 +215,4 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

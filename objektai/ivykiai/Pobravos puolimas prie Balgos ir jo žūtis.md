@@ -72,3 +72,4 @@ Pobravas su notangais ir variniais pasiuntė pėstininkus į Balgos lauką.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

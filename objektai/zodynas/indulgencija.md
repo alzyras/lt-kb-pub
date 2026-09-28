@@ -82,3 +82,4 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -134,3 +134,4 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

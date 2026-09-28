@@ -114,3 +114,4 @@ Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

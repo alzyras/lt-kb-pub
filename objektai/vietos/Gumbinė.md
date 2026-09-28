@@ -87,3 +87,4 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

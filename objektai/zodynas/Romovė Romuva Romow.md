@@ -195,3 +195,4 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

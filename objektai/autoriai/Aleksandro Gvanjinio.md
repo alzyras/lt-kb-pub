@@ -128,3 +128,4 @@ canonical_biography: "įvykęs Kijevo nusiaubimas, kurio metu į totorių nelais
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

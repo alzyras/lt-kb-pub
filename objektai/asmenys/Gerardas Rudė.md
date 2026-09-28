@@ -77,3 +77,4 @@ Teodoras Narbutas žemaičius apibūdina kaip „fanatikus“ ir pasakoja, kad j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

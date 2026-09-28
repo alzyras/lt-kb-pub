@@ -152,3 +152,4 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207516
+

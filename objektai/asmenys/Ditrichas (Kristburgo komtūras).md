@@ -79,3 +79,4 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -83,3 +83,4 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie objektą ir tiksliai remiasi citata."
   pagrindžia:
     - c-24831
+

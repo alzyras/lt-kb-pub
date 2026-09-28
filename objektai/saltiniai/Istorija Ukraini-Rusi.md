@@ -75,3 +75,4 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

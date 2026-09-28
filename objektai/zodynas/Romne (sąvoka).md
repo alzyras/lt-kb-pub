@@ -64,3 +64,4 @@ Pačios seniausios lietuvių šventyklos buvo miškuose ir po šventuoju ąžuol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -39,56 +39,91 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-78161"></a>
-- t-001
-  teiginys: "Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algimanto apygarda: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algimanto apygarda\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas; citata palaiko sakinį apie apygardos vadą ir jo žūtį."
-  pagrindžia:
-    - c-75468
-
-<a id="claim-t-78162"></a>
-- t-002
-  teiginys: "1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė."
-  atnaujinta: "2026-06-14 10:59"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Šimonių girios apgultis: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algimanto apygarda: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šimonių girios apgultis: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Claimas nurodo, kad per Šimonių girios apgultį žuvo apygardos vadovybė, todėl apygarda tiesiogiai siejama su šiuo įvykiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Algimanto apygarda dalyvavo mūšyje Šimonių girios apgultis (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata apie 1949 m. įvykius."
-  pagrindžia:
-    - c-42634
-
-<a id="claim-t-193731"></a>
-- t-003
-  teiginys: "Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji."
-  atnaujinta: "2026-07-06 12:55"
+<a id="claim-t-230496"></a>
+- t-230496
+  teiginys: "1947 m. Algimanto apygarda įkurta Šarūno rinktinės bazėje Kupiškio, Panevėžio ir Rokiškio apskričių teritorijoje, jai vadovavo Antanas Slučka-Šarūnas."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
   pagrindžia:
-    - c-42633
+    - c-211135
+
+<a id="claim-t-230497"></a>
+- t-230497
+  teiginys: "Algimanto apygarda įkurta 1947 m. gegužės 1 d. Šiaurės Rytų Lietuvos vadų suvažiavime, o jos vadu tapo Antanas Slučka-Šarūnas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211136
+
+<a id="claim-t-230498"></a>
+- t-230498
+  teiginys: "Algimanto apygardoje 1948 m. įkurta Kunigaikščio Margio rinktinė, o 1949 m. – jai priklausiusi Plechavičiaus kuopa."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:06Z"
+  pagrindžia:
+    - c-211137
+
+<a id="claim-t-230500"></a>
+- t-230500
+  teiginys: "Algimanto apygarda buvo įkurta 1947 m. gegužės 1 d. Šiaurės Rytų Lietuvos vadų suvažiavime, o jos vadu tapo Antanas Slučka-Šarūnas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211139
+
+<a id="claim-t-230502"></a>
+- t-230502
+  teiginys: "1947 m. Šarūno rinktinės bazėje įkurta Algimanto apygarda, vadovaujama Antano Slučkos-Šarūno."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211141
+
+<a id="claim-t-230503"></a>
+- t-230503
+  teiginys: "Kun. Margio rinktinė buvo įkurta Algimanto apygardoje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211142
+
+<a id="claim-t-230504"></a>
+- t-230504
+  teiginys: "Agento „Miko“ duomenimis, Algimanto apygarda priklausė Rytų Lietuvos (Karaliaus Mindaugo) sričiai, o apygardai vadovavo Antanas Slučka-Šarūnas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:06Z"
+  pagrindžia:
+    - c-211143
 
 ## Citatos
 
@@ -115,8 +150,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - id: c-42634
   sudarytojas: "Karolis Zikaras"
@@ -148,8 +181,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - id: c-75468
   sudarytojas: "Karolis Zikaras"
@@ -189,5 +220,88 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-211135
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 23"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 23."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
   pagrindžia:
-    - t-001
+    - t-230496
+
+- id: c-211136
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 24"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 24."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230497
+
+- id: c-211137
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 24"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 24."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230498
+
+- id: c-211139
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 83"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 83."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230500
+
+- id: c-211141
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 229"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 229."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230502
+
+- id: c-211142
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 300"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 300."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230503
+
+- id: c-211143
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 343"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 343."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230504
+

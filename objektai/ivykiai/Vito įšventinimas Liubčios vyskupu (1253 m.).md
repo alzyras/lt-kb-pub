@@ -88,3 +88,4 @@ Teodoras Narbutas nurodo, kad Gnezno arkivyskupas Fulkonas 1253 m. Kozlove domin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

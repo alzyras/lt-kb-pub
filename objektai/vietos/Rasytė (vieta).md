@@ -72,3 +72,4 @@ Tad gamtinė revoliucija padarė žemesnius senovės Meme lio krantus ir tuo pat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

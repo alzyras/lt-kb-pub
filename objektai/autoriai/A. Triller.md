@@ -95,3 +95,4 @@ Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

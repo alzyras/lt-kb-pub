@@ -71,3 +71,4 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

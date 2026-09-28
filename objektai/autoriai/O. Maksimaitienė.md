@@ -87,3 +87,4 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

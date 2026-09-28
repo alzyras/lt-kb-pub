@@ -80,3 +80,4 @@ Su duonos ženkleliu buvo galima gauti 90 gramų duonos per dieną.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -89,3 +89,4 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Pašušvis šiame šaltinyje yra gyvenvietė ar vietovė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Dvaro kasdienybės tikslą Lituanistika-3-Kazimiero-Jogailaicio-dvaras aiškina 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

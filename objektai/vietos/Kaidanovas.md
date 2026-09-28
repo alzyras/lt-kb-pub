@@ -149,3 +149,4 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   pagrindžia:
     - t-001
     - t-002
+

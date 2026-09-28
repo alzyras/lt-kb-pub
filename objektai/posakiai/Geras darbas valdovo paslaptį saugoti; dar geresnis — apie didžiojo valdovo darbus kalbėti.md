@@ -57,3 +57,4 @@ Geras darbas valdovo paslaptį saugoti; dar geres nis — apie didžiojo valdovo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

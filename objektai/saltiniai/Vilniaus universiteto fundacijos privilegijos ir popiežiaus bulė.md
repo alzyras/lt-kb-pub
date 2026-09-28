@@ -133,3 +133,4 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

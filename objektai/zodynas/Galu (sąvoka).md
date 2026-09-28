@@ -64,3 +64,4 @@ Lietuvių kalboje žodis Galu reiškia, kad gali, tai yra turi gali mybę kažk�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

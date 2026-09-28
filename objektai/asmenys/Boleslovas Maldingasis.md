@@ -87,3 +87,4 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

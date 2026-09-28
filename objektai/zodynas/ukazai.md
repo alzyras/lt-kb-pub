@@ -61,3 +61,4 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

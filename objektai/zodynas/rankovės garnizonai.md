@@ -63,3 +63,4 @@ Kampuose buvo išdėstomi šaulių padaliniai - „rankovės, batalionu, kolona 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

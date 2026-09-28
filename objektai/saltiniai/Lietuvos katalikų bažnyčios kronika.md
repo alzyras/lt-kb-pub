@@ -73,3 +73,4 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

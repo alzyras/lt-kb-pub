@@ -91,3 +91,4 @@ Dalyvavusio sprendime raštininko Stanislo­ vo Veeno ranka.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -80,3 +80,4 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

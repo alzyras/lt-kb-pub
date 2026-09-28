@@ -150,3 +150,4 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217707
+

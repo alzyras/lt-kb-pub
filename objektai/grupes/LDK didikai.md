@@ -68,3 +68,4 @@ Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė b�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

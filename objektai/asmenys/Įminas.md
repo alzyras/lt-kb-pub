@@ -53,3 +53,4 @@ Narbuto pasakojime kunigaikštis Įminas vaikystėje buvo išvestas į Lietuvai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

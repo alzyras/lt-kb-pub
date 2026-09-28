@@ -80,3 +80,4 @@ Ne mažiau įdomus buvo įstatymu įtvirtintas pa protys, kuris, kaip pastebėta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

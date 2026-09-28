@@ -89,3 +89,4 @@ Laiške Žygimantas Augustas Lietuvos Didžiąją Kunigaikštystę vadina „mū
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

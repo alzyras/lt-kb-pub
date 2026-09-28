@@ -68,3 +68,4 @@ Per dešimt dienų trukusį žygį į Trakų apylinkes buvo sunaikintas Pavanden
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

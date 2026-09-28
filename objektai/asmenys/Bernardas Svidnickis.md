@@ -85,3 +85,4 @@ Prasidėjus 1322 metų žiemai, Teodoras Narbutas aprašo kryžiuočių kariuome
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

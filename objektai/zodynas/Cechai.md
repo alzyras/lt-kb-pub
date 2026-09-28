@@ -73,3 +73,4 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

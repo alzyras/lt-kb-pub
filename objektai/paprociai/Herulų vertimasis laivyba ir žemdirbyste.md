@@ -73,3 +73,4 @@ Herulai, gavę laisvai valdyti pajūrio koloni ją, gal Malabatui patarus, ėmė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

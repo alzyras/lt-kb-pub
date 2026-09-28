@@ -119,3 +119,4 @@ Delegatai Vilniuje iš vokiečių kariškos valdžios gavo du automobilius. Jau 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

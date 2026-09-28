@@ -74,3 +74,4 @@ Jis teigė, kad Kauno kalvis Stanislovas Galaitis yra jo valdinys ir pabėgo su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -69,3 +69,4 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -70,3 +70,4 @@ Se­ niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi išvengė gai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

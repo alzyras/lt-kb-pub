@@ -75,3 +75,4 @@ Teodoras Narbutas nurodo, kad Didžiąją ordino vėliavą puošė Švenčiausio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

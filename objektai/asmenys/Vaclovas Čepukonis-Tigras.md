@@ -72,5 +72,6 @@ Vaclovas Čepukonis-Tigras vadovavo rinktinei, kurios sudėtyje 1951 m. veikė k
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

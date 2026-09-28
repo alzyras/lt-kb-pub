@@ -177,3 +177,4 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211336
+

@@ -70,3 +70,4 @@ canonical_biography: "1525 m. Kauno miestietė Barbora Juškienė, burmistro Jur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

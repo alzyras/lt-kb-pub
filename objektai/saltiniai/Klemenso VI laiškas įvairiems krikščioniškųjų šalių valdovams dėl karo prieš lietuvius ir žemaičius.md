@@ -110,3 +110,4 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

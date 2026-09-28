@@ -118,3 +118,4 @@ Anot Maksimilijono Osolinskio, germanų giminėje jūros pakrančių gyventojai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214879
+

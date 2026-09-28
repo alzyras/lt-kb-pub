@@ -102,3 +102,4 @@ O. Backus 1962 m. tyrime kėlė klausimą, ar XVI a. Lietuvos Didžiojoje Kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

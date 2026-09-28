@@ -71,3 +71,4 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Narbutas teigia, kad likimas buvo pagrindinis senovės latvių filosofijos princ
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

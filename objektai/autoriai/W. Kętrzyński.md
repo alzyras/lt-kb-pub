@@ -84,3 +84,4 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

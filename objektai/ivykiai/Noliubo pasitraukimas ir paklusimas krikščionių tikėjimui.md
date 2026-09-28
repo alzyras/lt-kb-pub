@@ -71,3 +71,4 @@ Vėliau Noliubas, dažnų antpuolių nukamuotas, priėmė krikščionių tikėji
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

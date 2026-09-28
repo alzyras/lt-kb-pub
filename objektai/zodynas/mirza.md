@@ -46,3 +46,4 @@ Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs term
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

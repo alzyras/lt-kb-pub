@@ -112,3 +112,4 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -71,3 +71,4 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

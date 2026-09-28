@@ -84,3 +84,4 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -83,3 +83,4 @@ Vos tik kryžiuočių flotilė paliko Dauguvos žio-- tis, latviai ėmė burtis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

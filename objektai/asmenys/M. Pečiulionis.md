@@ -108,3 +108,4 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

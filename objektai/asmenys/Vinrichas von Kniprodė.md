@@ -173,3 +173,4 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

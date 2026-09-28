@@ -69,6 +69,26 @@ Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pa
   pagrindžia:
     - c-201054
 
+<a id="claim-t-219900"></a>
+- t-219900
+  teiginys: "Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Papuošalai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Šulcas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Papuošalai: mention_match, thing, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Šulcas\" parinktas kaip owner_note_path. Targetas \"Papuošalai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200353
+
 ## Citatos
 
 - id: c-00166
@@ -90,6 +110,7 @@ Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184111
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -108,7 +129,7 @@ Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-200353
@@ -135,6 +156,9 @@ Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219900
+
 - id: c-201054
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -149,7 +173,7 @@ Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-201255
@@ -171,3 +195,4 @@ Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

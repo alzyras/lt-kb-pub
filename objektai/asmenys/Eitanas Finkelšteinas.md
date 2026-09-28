@@ -89,3 +89,4 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Eitaną Finkelšteiną ir atitinka citatą."
   pagrindžia:
     - c-21658
+

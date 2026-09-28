@@ -61,3 +61,4 @@ Teodoras Narbutas pranašystę apibūdina kaip kryžiuočių satyrinę išmonę 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

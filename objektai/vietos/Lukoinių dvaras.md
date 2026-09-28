@@ -88,3 +88,4 @@ Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212238
+

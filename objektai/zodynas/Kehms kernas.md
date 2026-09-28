@@ -82,3 +82,4 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219072
+

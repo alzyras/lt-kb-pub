@@ -73,3 +73,4 @@ p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

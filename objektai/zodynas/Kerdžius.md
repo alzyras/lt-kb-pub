@@ -87,3 +87,4 @@ Terminas vartojamas kaip kaimo ūkinės tvarkos pareigybės pavadinimas.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177874
+

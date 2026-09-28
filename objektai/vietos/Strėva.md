@@ -320,3 +320,4 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

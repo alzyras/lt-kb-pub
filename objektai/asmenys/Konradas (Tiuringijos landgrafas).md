@@ -158,3 +158,4 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

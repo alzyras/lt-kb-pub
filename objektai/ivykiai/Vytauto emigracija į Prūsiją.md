@@ -77,3 +77,4 @@ Gavusi žinią, Vytautienė su vaikais, Ringaile, Žygimantu Kęstutaičiu ir Gl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

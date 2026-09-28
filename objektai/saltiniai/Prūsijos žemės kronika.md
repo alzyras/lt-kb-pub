@@ -115,6 +115,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   susije_objektai: "mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Viena"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-175820
     - c-38783
 
 <a id="claim-t-193055"></a>
@@ -161,6 +162,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-175820
+    - c-38783
 
 <a id="claim-t-193054"></a>
 - t-193054
@@ -171,6 +173,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-175820
+    - c-38783
 
 ## Citatos
 
@@ -197,6 +200,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+    - t-12462
+    - t-193054
 
 - id: c-43295
   sudarytojas: "Karolis Zikaras"
@@ -303,6 +308,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-004
     - t-12462
     - t-193054
 
@@ -387,3 +393,4 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

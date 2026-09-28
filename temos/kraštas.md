@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 221
+tema_objektu_skaicius: 222
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 221.
+Objektų skaičius: 222.
 
 ## Kaip naudoti
 
@@ -27,6 +27,7 @@ Objektų skaičius: 221.
 
 ### Asmenys
 - [[objektai/asmenys/Celestinas III]]
+- [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/asmenys/Mykolas Kazimieras Radvila]]
 
 ### Grupės
@@ -54,7 +55,7 @@ Objektų skaičius: 221.
 - [[objektai/vietos/Brandenburgo pilis]]
 - [[objektai/vietos/Breslauja]]
 - [[objektai/vietos/Busavna]]
-- [[objektai/vietos/Ceklis]]
+- [Ceklis](../objektai/vietos/Ceklis)
 - [Chersonas](../objektai/vietos/Chersonas)
 - [Dainava](../objektai/vietos/Dainava)
 - [Dakija](../objektai/vietos/Dakija)

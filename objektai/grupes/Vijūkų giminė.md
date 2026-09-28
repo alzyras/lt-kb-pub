@@ -129,3 +129,4 @@ Vijūkų giminė nuolat minima nuo 1580 m.; jos nariai Romainių Vijūkų lauke 
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-003
+

@@ -139,3 +139,4 @@ Kupiškio bažnyčios šventoriuje stovėjusioje stulpinėje varpinėje kabėjo 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
+

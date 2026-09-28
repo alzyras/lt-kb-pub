@@ -142,3 +142,4 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

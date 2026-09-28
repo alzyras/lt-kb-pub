@@ -177,3 +177,4 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   pagrindžia:
     - t-72075
     - t-72076
+

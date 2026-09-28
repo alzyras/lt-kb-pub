@@ -78,3 +78,4 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

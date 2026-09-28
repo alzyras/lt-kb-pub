@@ -120,3 +120,4 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

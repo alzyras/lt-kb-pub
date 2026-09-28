@@ -69,3 +69,4 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

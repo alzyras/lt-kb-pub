@@ -101,3 +101,4 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
   pagrindžia:
     - t-001
     - t-002
+

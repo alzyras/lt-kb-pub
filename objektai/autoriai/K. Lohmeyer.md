@@ -151,3 +151,4 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -78,3 +78,4 @@ Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Al
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

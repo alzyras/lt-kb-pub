@@ -113,3 +113,4 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213237
+

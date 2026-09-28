@@ -81,3 +81,4 @@ canonical_biography: "1688 m. į Gardino seimą vykęs Mogiliavo vaitas ir suoli
   atnaujinta: "2026-07-26 19:26"
   pagrindžia:
     - t-001
+

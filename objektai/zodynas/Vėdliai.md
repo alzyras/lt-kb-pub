@@ -77,3 +77,4 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

@@ -152,3 +152,4 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

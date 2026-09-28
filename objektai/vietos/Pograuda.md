@@ -86,3 +86,4 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

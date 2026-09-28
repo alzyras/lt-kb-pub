@@ -79,5 +79,6 @@ Nuo 1968 m. šv. Mišiose lotynų kalbą ėmė keisti lietuvių kalba: pirmiausi
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

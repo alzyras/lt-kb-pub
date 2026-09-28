@@ -72,3 +72,4 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

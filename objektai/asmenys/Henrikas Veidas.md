@@ -77,3 +77,4 @@ canonical_biography: 1249 m. prūsų magistras Henrikas Veidas sudarė su Svento
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

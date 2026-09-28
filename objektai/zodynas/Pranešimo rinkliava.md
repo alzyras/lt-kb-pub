@@ -60,3 +60,4 @@ O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kaun
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

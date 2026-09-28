@@ -77,3 +77,4 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
   pagrindžia:
     - t-001
     - t-002
+

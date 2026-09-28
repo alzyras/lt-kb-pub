@@ -95,3 +95,4 @@ Rašte nurodoma išduoti 1500 kapų grašių Jonui Chodkevičiui samdiniams sumo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

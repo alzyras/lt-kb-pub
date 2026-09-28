@@ -100,3 +100,4 @@ Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

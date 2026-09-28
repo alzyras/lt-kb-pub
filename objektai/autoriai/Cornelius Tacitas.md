@@ -72,3 +72,4 @@ patvirtina ir romėnų istorikas Cornelius Tacitas (52-117 m. po Kr.) savo Germa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

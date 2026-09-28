@@ -122,3 +122,4 @@ Sitna minimas kaip gynybinė pilis prie ežero ir Polotės upės, paimta 1579 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

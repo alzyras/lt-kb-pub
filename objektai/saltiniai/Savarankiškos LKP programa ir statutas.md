@@ -77,3 +77,4 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie LKP programą, statutą ir atsiskyrimą nuo SSKP."
   pagrindžia:
     - c-23960
+

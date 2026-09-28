@@ -77,3 +77,4 @@ canonical_biography: "1749 m. Smolensko pavieto seimelyje Karolis Eidžiatoviči
   atnaujinta: "2026-07-26 17:37"
   pagrindžia:
     - t-001
+

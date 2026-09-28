@@ -99,3 +99,4 @@ Narbutas mini turėjęs pereito amžiaus viduryje rašytą laišką su Kazimiero
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

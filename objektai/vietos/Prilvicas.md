@@ -131,3 +131,4 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

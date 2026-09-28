@@ -85,3 +85,4 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

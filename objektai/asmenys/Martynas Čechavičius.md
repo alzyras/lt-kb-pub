@@ -72,3 +72,4 @@ canonical_biography: "1633 m. Kauno miestas skundėsi Vladislovui Vazai, kad Kau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

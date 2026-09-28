@@ -89,3 +89,4 @@ Alfredas Bumblauskas kartografinės klaidos ištakas sieja su 1613 m. T. Makovsk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

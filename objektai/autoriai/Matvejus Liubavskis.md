@@ -75,3 +75,4 @@ M. Liubavskis svarbiausiu naujos parlamentarizmo kokybės požymiu laikė sritin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

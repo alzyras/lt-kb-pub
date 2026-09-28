@@ -74,3 +74,4 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Vytauto privilegijos Kaunui publikacija); Tarasenka Petras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

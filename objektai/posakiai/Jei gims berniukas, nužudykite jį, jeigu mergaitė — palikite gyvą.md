@@ -90,3 +90,4 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

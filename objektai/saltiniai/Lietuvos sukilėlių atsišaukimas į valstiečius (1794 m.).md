@@ -132,3 +132,4 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

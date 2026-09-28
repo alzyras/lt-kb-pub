@@ -79,3 +79,4 @@ Turkų desantas pradėjo apšaudyti Kafą 1475 m. birželio 1 d.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

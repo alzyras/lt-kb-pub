@@ -73,3 +73,4 @@ Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o šve
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

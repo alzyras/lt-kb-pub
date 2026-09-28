@@ -82,3 +82,4 @@ Terminas vartojamas dvaro, kaimo ir bendruomeninio taikymosi kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

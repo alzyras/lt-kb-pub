@@ -80,3 +80,4 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

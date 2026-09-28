@@ -51,3 +51,4 @@ Dusburgietis teigia, kad mikalauskaitė E.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

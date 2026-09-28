@@ -76,3 +76,4 @@ Rygos arkivyskupas sudarė sutartį su Lietuvos valdovu, kurį Teodoras Narbutas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

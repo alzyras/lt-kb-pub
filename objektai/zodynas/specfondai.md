@@ -78,3 +78,4 @@ Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereišk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

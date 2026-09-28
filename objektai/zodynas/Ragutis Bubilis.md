@@ -104,3 +104,4 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

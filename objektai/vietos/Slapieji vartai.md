@@ -98,3 +98,4 @@ Odminių skersgatvis aprašomas kaip einantis nuo Totorių vartų iki Slapiųjų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

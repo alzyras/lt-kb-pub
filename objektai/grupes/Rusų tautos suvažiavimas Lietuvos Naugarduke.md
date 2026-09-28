@@ -175,3 +175,4 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

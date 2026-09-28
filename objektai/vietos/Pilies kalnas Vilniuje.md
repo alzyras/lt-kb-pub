@@ -59,3 +59,4 @@ Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

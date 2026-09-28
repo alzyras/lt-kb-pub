@@ -214,3 +214,4 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

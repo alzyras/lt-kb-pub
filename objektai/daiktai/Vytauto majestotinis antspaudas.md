@@ -95,3 +95,4 @@ Vytauto majestotiniame antspaude pavaizduotam raiteliui Alfredas Bumblauskas pri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -63,3 +63,4 @@ Jis nurodo ir konkretesnę alanų gyvenamą ją vietą, rašydamas, kad jie buvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

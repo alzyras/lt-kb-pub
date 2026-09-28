@@ -148,3 +148,4 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

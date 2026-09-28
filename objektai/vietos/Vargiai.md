@@ -67,3 +67,4 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

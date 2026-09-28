@@ -126,3 +126,4 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

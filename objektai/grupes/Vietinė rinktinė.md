@@ -310,3 +310,4 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

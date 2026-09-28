@@ -112,3 +112,4 @@ canonical_biography: "Žuvo Livonijos ordino magistras Ernestas fon Racburgas, d
   pagrindžia:
     - t-001
     - t-002
+

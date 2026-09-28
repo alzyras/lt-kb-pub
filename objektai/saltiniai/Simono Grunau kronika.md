@@ -468,3 +468,4 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

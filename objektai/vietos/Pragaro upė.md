@@ -75,3 +75,4 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

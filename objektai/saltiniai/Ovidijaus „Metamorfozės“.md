@@ -92,3 +92,4 @@ Narbutas Ksaverui Bogušui priskiria Ovidijaus „Metamorfozių“ II knygos 1�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

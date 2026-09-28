@@ -515,3 +515,4 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211143
+

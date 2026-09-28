@@ -82,3 +82,4 @@ Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

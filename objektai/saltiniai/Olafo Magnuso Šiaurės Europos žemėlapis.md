@@ -60,3 +60,4 @@ Nemuno laivai 1539 m. Olafo Magnuso Šiaurės Europos žemėlapyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

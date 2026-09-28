@@ -48,3 +48,4 @@ Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

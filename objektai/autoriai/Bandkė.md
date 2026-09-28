@@ -138,3 +138,4 @@ Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su sl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217175
+

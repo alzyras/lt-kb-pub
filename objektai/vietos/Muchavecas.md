@@ -100,3 +100,4 @@ Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

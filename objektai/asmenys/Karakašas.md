@@ -86,3 +86,4 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

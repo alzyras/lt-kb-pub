@@ -90,3 +90,4 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
   pagrindžia:
     - t-001
     - t-002
+

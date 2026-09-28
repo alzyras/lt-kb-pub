@@ -136,3 +136,4 @@ Rygos arkivyskupo Frideriko teigimu, Livonijos ordino magistras ir broliai suči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-223682
+

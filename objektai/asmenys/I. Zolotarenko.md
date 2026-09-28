@@ -83,3 +83,4 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

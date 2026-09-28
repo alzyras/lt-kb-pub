@@ -129,3 +129,4 @@ M. P. Karpavičius kalbėdamas Prienų pavieto bajorams aiškino, kad nuo įstat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

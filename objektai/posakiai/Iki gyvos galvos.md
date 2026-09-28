@@ -116,3 +116,4 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

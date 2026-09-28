@@ -62,3 +62,4 @@ Brodnicos vienuolyno riteriai miesto sienoje priešais savo pozicijas pralaužė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

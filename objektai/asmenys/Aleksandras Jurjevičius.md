@@ -67,3 +67,4 @@ Aleksandras Jurjevičius buvo Vilniaus kaštelionas ir Gardino vietininkas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

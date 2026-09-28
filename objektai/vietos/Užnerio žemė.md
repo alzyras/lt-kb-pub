@@ -84,3 +84,4 @@ Vytautas apkrikštijo visą Užnerio žemę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

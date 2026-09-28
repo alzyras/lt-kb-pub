@@ -76,3 +76,4 @@ Ključevskij : Kurs russkoj istorii, I, Maskva 1956, 30-45 p.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

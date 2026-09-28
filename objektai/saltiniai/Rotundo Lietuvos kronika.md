@@ -57,3 +57,4 @@ Versta iš Rotundo Lietuvos kroni kos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

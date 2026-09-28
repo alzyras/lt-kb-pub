@@ -179,3 +179,4 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

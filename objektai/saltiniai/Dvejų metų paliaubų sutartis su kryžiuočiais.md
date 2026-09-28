@@ -156,3 +156,4 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

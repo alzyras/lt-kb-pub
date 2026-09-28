@@ -73,3 +73,4 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

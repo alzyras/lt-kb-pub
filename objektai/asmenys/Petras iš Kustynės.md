@@ -130,3 +130,4 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

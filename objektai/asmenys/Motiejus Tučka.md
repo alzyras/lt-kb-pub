@@ -89,3 +89,4 @@ Iš septynių kasėjų pirmasis nurodytas meistras Motiejus Tučka.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -62,3 +62,4 @@ canonical_biography: "Šinkūno, LIETUVOS GEOGRAFIJA. Šinkūno, GEOGRAFIJOS VAD
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

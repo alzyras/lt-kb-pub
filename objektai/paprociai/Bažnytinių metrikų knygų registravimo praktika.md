@@ -92,3 +92,4 @@ XVII a. vidurio Kupiškio bažnytinės metrikų knygos teikia duomenų apie asme
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

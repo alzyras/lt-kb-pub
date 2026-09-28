@@ -274,3 +274,4 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

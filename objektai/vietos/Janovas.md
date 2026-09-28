@@ -81,3 +81,4 @@ Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

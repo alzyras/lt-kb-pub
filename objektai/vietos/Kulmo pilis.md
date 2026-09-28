@@ -73,3 +73,4 @@ Kulmo pilis pastatyta vietoje, kur dabar yra senoji pilis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

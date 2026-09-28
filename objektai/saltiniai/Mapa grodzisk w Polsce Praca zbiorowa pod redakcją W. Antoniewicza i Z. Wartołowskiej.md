@@ -86,3 +86,4 @@ Dusburgietis teigia, kad mapa grodzisk w Polsce / Praca zbiorowa pod redakcją W
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

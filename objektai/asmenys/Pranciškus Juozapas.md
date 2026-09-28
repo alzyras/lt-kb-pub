@@ -66,3 +66,4 @@ Jisai yra susi giminiavęs su Austrijos Pranciškų Juozapu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ Tuomet pateko nelaisvėn etmonas Kons tantinas Ivanovičius Ostrogiškis, ponas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

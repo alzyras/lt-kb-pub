@@ -73,3 +73,4 @@ T. Narbuto pateiktame aprašyme Kurchas yra derliaus, vaisių ir daržininkystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

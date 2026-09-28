@@ -57,3 +57,4 @@ Ne tik islandų „Edą“, bet ir pati gamta patvirtina šią nuomonę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

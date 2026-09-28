@@ -75,3 +75,4 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

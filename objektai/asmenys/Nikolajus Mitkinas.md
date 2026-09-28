@@ -101,3 +101,4 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

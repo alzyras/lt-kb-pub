@@ -74,3 +74,4 @@ Mikalojus IV 1288 metais buvo popiežius ir priklausė mažesniųjų brolių ord
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -102,3 +102,4 @@ Tai 1694 m. generalinės kapitulos patvirtinti mokymo nuostatai, skirti užsieni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

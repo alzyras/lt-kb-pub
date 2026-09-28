@@ -77,3 +77,4 @@ Ragučio stabas buvo iš nedailaus medžio gabalo, ištašyto iš seno barčio, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

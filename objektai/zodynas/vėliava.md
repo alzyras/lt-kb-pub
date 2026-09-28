@@ -234,3 +234,4 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

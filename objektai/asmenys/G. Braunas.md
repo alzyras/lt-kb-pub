@@ -150,3 +150,4 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

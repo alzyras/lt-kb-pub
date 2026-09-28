@@ -82,3 +82,4 @@ Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

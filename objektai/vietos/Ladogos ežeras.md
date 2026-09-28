@@ -69,3 +69,4 @@ Gal senų seniausiais laikais skandinavai kitu keliu iš Baltijos jūros patekda
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -75,3 +75,4 @@ Ta čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai kiją, išgri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

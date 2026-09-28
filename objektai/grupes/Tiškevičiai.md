@@ -69,3 +69,4 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   semantiniai_rysiai: "Tiškevičiai priklausė Rusėnai (0.78)"
   pagrindžia:
     - c-22785
+

@@ -226,3 +226,4 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

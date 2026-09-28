@@ -74,3 +74,4 @@ Miesto dūmoje randasi 4 lietuviai iš 8 narių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -95,3 +95,4 @@ Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

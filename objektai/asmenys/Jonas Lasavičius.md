@@ -90,3 +90,4 @@ Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

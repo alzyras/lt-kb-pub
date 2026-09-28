@@ -479,3 +479,4 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210125
+

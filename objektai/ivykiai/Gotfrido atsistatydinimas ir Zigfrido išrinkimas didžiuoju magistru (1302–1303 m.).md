@@ -83,3 +83,4 @@ Po Gotfrido atsistatydinimo didžiuoju magistru buvo išrinktas Zigfridas iš Fo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

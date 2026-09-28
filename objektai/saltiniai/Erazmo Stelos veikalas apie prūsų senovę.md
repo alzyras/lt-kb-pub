@@ -65,3 +65,4 @@ Narbutas nurodo, kad Stela viename šaltinyje rado žinią apie litalanų žygį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

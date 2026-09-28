@@ -84,3 +84,4 @@ Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

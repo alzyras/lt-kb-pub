@@ -74,3 +74,4 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -86,3 +86,4 @@ Saremas brolis Otto (Blanehom).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

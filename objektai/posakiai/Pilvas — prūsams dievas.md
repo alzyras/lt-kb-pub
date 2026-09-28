@@ -80,3 +80,4 @@ Todėl kryžiuočiai turėjo priežodį: „Pilvas — prūsams dievas“5.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

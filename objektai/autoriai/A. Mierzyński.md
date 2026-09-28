@@ -109,3 +109,4 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

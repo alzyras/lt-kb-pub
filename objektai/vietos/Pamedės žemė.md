@@ -67,3 +67,4 @@ Broliai su maldininkais patraukė į Pamedės žemę, pasiėmę pilims statyti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

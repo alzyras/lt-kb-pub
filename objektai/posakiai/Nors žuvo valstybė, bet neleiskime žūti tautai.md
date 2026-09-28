@@ -156,3 +156,4 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   pagrindžia:
     - t-216807
     - t-219092
+

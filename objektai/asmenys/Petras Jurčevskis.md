@@ -92,3 +92,4 @@ Petras Jurčevskis buvo Vilniaus pavieto bajoras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

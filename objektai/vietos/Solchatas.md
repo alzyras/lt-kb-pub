@@ -96,3 +96,4 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, dar vadinta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

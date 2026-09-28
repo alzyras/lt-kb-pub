@@ -58,3 +58,4 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

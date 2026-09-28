@@ -84,3 +84,4 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

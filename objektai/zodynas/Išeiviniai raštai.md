@@ -67,3 +67,4 @@ Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

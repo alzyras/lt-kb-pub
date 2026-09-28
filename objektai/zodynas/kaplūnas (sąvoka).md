@@ -74,3 +74,4 @@ Kaplūnai buvo kastruoti gaidžiai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

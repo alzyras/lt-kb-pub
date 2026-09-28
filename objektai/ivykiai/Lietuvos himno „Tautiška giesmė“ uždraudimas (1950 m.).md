@@ -93,3 +93,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutolsta nuo įvykio objekto; citata geriau pagrindžia himno uždraudimą."
   pagrindžia:
     - c-23030
+

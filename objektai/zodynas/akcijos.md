@@ -147,3 +147,4 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
   pagrindžia:
     - t-001
     - t-003
+

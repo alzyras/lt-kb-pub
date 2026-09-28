@@ -54,3 +54,4 @@ Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

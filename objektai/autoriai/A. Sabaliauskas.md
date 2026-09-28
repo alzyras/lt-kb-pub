@@ -162,3 +162,4 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

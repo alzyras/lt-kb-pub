@@ -98,3 +98,4 @@ Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

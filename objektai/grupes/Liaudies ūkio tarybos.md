@@ -80,3 +80,4 @@ Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nebaigtas, o citata pagrindžia aiškesnį sakinį apie tarybas."
   pagrindžia:
     - c-22522
+

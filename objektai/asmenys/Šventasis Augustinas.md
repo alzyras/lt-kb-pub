@@ -106,3 +106,4 @@ Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

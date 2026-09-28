@@ -66,3 +66,4 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

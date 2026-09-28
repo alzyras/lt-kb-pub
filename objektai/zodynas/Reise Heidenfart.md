@@ -67,3 +67,4 @@ Reise arba Heidenfart vadinti gausių kariaunų žygiai, kuriuose dalyvaudavo ke
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

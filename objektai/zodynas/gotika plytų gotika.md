@@ -106,3 +106,4 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

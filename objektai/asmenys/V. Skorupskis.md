@@ -86,3 +86,4 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

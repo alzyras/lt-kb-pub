@@ -103,3 +103,4 @@ Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

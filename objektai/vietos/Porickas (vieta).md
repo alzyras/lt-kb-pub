@@ -78,3 +78,4 @@ Porickas buvo Voluinės miestelis ir dvaras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

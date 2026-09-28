@@ -90,3 +90,4 @@ Prigimtinė teisė leidžia atskirti gamtos tvarką ir prigimtinius žmogaus por
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

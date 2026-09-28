@@ -154,3 +154,4 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

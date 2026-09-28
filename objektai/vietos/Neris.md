@@ -1137,3 +1137,4 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+

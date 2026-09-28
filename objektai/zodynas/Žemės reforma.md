@@ -99,3 +99,4 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

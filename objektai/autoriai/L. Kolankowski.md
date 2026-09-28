@@ -170,3 +170,4 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

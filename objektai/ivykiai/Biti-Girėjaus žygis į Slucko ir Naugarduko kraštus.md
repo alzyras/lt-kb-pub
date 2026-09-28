@@ -61,3 +61,4 @@ Totoriai siaubė Slucko, Klecko, Nesvyžiaus ir Naugarduko apylinkes bei sudegin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

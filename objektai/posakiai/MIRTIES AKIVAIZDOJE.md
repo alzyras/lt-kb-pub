@@ -67,3 +67,4 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

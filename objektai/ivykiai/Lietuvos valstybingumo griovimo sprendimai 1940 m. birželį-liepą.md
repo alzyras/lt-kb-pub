@@ -142,3 +142,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos datą, spaudimą, sprendimą ir objektą."
   pagrindžia:
     - c-23096
+

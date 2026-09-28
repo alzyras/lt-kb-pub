@@ -58,3 +58,4 @@ Svajonė apie šį susijungimą, kaip gana taikliai spėja Krugas savo veikale a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

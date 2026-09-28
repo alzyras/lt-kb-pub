@@ -67,3 +67,4 @@ Anonas iš Zangershauzeno buvo Teutonų ordino didysis magistras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

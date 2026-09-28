@@ -110,3 +110,4 @@ Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

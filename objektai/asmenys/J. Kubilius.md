@@ -76,3 +76,4 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

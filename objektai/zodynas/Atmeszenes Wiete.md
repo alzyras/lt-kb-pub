@@ -58,3 +58,4 @@ Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

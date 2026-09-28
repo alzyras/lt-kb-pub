@@ -175,3 +175,4 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

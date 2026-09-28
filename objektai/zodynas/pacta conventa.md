@@ -112,3 +112,4 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

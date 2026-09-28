@@ -140,3 +140,4 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

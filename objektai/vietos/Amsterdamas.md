@@ -138,3 +138,4 @@ Amsterdamas, 1650 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

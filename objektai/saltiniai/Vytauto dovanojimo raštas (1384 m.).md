@@ -137,3 +137,4 @@ Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovano
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

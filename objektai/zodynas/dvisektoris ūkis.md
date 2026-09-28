@@ -63,3 +63,4 @@ XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams sva
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

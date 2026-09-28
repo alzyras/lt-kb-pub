@@ -111,3 +111,4 @@ Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224104
+

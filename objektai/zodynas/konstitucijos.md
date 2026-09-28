@@ -57,3 +57,4 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

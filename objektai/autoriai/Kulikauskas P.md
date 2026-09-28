@@ -86,3 +86,4 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

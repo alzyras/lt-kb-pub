@@ -75,3 +75,4 @@ Valatkaičių dvaras šiame šaltinyje yra dvaras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

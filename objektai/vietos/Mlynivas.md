@@ -81,3 +81,4 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
   semantiniai_rysiai: "Mlynivas priklausė Chodkevičiai (0.83)"
   pagrindžia:
     - c-24308
+

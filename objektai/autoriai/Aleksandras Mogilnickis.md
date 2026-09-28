@@ -77,3 +77,4 @@ Aleksandras Mogilnickis tyrė mirties bausmės ryšį su infamija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

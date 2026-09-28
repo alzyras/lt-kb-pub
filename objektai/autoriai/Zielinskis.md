@@ -57,3 +57,4 @@ Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1 1 Histoire de Pologn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

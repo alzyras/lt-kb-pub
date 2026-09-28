@@ -73,3 +73,4 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

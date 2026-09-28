@@ -95,3 +95,4 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

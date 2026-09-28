@@ -43,3 +43,4 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -90,3 +90,4 @@ Sewerynas Uruskis, kaip genealogijos tyrinėtojas, kildino Middletonų (Mitleton
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

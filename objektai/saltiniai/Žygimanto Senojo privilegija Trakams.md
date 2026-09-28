@@ -94,3 +94,4 @@ Kauno, Vilniaus ir Trakų pirklių bendravimą, šį kartą sausumos keliais, pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

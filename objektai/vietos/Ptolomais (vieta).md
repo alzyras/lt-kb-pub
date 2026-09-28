@@ -87,3 +87,4 @@ Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

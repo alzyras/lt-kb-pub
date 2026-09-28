@@ -79,3 +79,4 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

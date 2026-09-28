@@ -102,3 +102,4 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

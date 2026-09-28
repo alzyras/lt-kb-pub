@@ -97,3 +97,4 @@ Pats vyriausiasis chanaitis Mechmet-Girėjus tą pa čią dieną įsikūrė stov
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

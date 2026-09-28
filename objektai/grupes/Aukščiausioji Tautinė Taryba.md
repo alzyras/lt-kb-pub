@@ -136,3 +136,4 @@ Aukščiausioji Tautinė Taryba buvo bendra visai Abiejų Tautų Respublikai vyr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

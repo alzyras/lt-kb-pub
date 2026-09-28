@@ -73,3 +73,4 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

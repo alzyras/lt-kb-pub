@@ -161,3 +161,4 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   pagrindžia:
     - t-002
     - t-185365
+

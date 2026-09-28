@@ -57,3 +57,4 @@ Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, pask
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

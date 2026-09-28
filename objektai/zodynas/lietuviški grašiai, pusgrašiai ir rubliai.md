@@ -118,3 +118,4 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

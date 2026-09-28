@@ -73,3 +73,4 @@ O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

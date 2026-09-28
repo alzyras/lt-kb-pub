@@ -74,3 +74,4 @@ Mat ant švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki tose v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

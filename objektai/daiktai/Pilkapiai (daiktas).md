@@ -108,3 +108,4 @@ Pilkapiams naudota netoliese iškasta žemė; juose nerasta medžių, akmenų ar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

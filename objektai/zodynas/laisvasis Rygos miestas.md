@@ -63,3 +63,4 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

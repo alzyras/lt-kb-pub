@@ -75,3 +75,4 @@ Toji duktė davė įžadą, kad liksianti ligi mirties skaisti, ir tapo šventoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

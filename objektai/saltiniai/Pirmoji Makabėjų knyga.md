@@ -77,3 +77,4 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

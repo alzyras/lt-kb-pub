@@ -124,3 +124,4 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

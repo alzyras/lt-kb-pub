@@ -113,3 +113,4 @@ Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

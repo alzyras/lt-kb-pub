@@ -80,3 +80,4 @@ Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

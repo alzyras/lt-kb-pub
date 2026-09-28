@@ -69,3 +69,4 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -186,3 +186,4 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

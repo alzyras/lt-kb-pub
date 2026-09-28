@@ -74,3 +74,4 @@ Prie Romnos upės žiočių yra miestelis, vadinamas Romnais arba Romne.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

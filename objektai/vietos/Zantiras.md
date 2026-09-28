@@ -85,3 +85,4 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217241
+

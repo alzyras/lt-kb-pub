@@ -79,3 +79,4 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

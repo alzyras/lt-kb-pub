@@ -95,3 +95,4 @@ Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
   temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti paties asmens veiksmą."
   pagrindžia:
     - c-21656
+

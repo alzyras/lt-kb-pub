@@ -201,3 +201,4 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

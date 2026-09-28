@@ -80,3 +80,4 @@ Netoli Daugailių palivarko buvo ežeras, vadinamas Alksniu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

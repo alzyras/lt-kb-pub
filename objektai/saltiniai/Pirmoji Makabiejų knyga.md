@@ -46,3 +46,4 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

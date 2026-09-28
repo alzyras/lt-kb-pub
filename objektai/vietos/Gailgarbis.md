@@ -129,3 +129,4 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213443
+

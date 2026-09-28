@@ -46,3 +46,4 @@ Narbutas posakį „tas jau biją winnam Likis“ pateikia kaip latvių valstie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

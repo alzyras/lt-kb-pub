@@ -73,3 +73,4 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

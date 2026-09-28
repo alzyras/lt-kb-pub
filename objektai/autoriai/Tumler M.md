@@ -75,3 +75,4 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

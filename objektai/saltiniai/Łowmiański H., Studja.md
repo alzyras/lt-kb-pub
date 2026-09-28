@@ -225,3 +225,4 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

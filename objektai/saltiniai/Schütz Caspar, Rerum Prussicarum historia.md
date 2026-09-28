@@ -48,3 +48,4 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

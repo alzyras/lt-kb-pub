@@ -104,3 +104,4 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

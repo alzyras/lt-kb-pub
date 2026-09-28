@@ -94,3 +94,4 @@ K. Bücherio ūkio raidos tipologijoje paprastoji prekinė gamyba priskiriama �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

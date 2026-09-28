@@ -85,3 +85,4 @@ Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

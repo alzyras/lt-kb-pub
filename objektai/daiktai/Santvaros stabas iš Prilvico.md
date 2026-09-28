@@ -74,3 +74,4 @@ Stabas buvo vienas iš 72 žemėje atkastų stabų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

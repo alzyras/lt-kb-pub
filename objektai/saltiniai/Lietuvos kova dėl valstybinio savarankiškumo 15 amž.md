@@ -52,3 +52,4 @@ Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

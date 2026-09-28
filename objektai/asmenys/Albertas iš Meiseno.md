@@ -400,3 +400,4 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

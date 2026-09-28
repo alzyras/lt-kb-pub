@@ -86,3 +86,4 @@ Teodoro Narbuto pasakojimu, 1254 m. gegužės 8 d. Krokuvoje Lietuvos vyskupas V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -78,3 +78,4 @@ Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus planta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

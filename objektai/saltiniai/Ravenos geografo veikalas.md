@@ -112,3 +112,4 @@ Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad aga
   pagrindžia:
     - t-001
     - t-002
+

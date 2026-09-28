@@ -104,3 +104,4 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

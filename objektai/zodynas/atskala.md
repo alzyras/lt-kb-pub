@@ -103,3 +103,4 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

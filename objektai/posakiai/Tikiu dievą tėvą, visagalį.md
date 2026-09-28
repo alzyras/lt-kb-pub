@@ -47,3 +47,4 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

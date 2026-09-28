@@ -102,3 +102,4 @@ Elenos skulptūros ant katedros frontono.
   pagrindžia:
     - t-001
     - t-002
+

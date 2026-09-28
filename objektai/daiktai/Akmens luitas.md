@@ -109,3 +109,4 @@ T. Narbutas rašo, kad akmens luitai guli ant pagrindo, atitinkančio jų svorio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

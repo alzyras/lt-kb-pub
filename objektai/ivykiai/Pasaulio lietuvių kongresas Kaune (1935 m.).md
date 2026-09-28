@@ -94,3 +94,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiksliai paremtas citata."
   pagrindžia:
     - c-23167
+

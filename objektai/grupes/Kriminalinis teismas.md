@@ -135,3 +135,4 @@ Kriminalinis teismas buvo viena iš sukilimo valdžios institucijų, įsteigtų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

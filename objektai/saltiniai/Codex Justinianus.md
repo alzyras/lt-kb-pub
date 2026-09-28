@@ -70,3 +70,4 @@ Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

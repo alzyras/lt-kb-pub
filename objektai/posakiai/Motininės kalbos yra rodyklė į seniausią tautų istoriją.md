@@ -97,3 +97,4 @@ Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad mot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

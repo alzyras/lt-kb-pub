@@ -79,3 +79,4 @@ canonical_biography: "[iš] Sta­ nislovo Vaitkavičiaus žemės dešimtinę kvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

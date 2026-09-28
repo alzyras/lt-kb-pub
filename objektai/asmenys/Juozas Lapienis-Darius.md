@@ -79,3 +79,4 @@ adjutantas Juozas Lapienis-Darius, pasidavė rinktinės vadas Stasys GimbutasTar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

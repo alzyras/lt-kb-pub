@@ -79,3 +79,4 @@ Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio o
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

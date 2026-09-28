@@ -118,3 +118,4 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

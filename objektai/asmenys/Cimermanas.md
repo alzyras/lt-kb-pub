@@ -80,3 +80,4 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

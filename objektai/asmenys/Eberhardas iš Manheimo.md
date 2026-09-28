@@ -101,3 +101,4 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

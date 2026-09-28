@@ -72,3 +72,4 @@ Lietuvos metraštis Žemaičių krikšto nuopelną priskiria vien Vytautui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

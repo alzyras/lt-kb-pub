@@ -79,3 +79,4 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

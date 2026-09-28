@@ -132,3 +132,4 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

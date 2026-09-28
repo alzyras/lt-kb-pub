@@ -170,3 +170,4 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212964
+

@@ -76,3 +76,4 @@ Napierskiu, bet tik 1842 metais rankraštis buvo galutinai sutvarkytas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

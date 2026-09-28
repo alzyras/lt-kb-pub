@@ -38,21 +38,18 @@ Beveik tuo pat metu buvo puolamas ir Alberto Žilio-Kęstučio būrio bunkeris �
 
 ## Teiginiai
 
-<a id="claim-t-42140"></a>
-- t-001
-  teiginys: "Šimonių girioje netoli Sliepšiškio kaimo buvo puolamas Alberto Žilio-Kęstučio būrio bunkeris, kuriame žuvo 5 partizanai."
-  atnaujinta: "2026-07-10 10:39"
+<a id="claim-t-230655"></a>
+- t-230655
+  teiginys: "Kupiškio krašto partizanų kronikoje nurodoma, kad Sliepšiškio kaime, Svėdasų valsčiuje, gyvenęs Vincas Skardžius palaikė ryšius su partizanais, išveždavo šiukšles iš bunkerio ir pranešdavo apie MGB karių pasirodymą bei galimybę išeiti iš bunkerio."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sliepšiškio kaimas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sliepšiškio kaimas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:18Z"
   pagrindžia:
-    - c-45330
+    - c-211293
 
 ## Citatos
 
@@ -77,5 +74,16 @@ Beveik tuo pat metu buvo puolamas ir Alberto Žilio-Kęstučio būrio bunkeris �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-211293
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 324"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 324."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
   pagrindžia:
-    - t-001
+    - t-230655
+

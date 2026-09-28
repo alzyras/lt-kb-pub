@@ -612,3 +612,4 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -104,3 +104,4 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -71,3 +71,4 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -113,3 +113,4 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

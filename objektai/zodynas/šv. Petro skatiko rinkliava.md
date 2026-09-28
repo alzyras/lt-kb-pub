@@ -91,3 +91,4 @@ Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

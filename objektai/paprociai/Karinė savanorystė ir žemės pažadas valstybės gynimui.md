@@ -159,3 +159,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys patikslintas pagal citatą, išlaikant jos faktinį turinį."
   pagrindžia:
     - c-23530
+

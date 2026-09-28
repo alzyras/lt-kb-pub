@@ -91,3 +91,4 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178031
+

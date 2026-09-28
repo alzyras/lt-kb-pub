@@ -148,3 +148,4 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   pagrindžia:
     - t-002
     - t-003
+

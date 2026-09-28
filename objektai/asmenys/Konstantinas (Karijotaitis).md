@@ -157,3 +157,4 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

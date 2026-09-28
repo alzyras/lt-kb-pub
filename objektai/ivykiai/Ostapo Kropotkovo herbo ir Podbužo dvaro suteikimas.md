@@ -76,3 +76,4 @@ Pasak T. Narbuto, Ostapui Kropotkovui už nuopelnus kare su totoriais buvo sutei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

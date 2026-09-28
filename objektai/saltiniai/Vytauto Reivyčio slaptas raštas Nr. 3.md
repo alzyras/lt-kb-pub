@@ -78,3 +78,4 @@ Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

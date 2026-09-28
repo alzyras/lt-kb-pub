@@ -297,3 +297,4 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-220745
+

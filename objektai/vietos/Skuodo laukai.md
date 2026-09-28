@@ -111,3 +111,4 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

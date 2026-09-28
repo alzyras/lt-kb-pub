@@ -72,3 +72,4 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

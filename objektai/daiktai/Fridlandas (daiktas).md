@@ -76,3 +76,4 @@ Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

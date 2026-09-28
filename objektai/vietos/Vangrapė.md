@@ -84,3 +84,4 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

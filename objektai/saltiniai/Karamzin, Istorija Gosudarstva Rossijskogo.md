@@ -75,3 +75,4 @@ Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

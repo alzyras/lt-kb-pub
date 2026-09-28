@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 103
+tema_objektu_skaicius: 102
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 103.
+Objektų skaičius: 102.
 
 ## Kaip naudoti
 
@@ -93,7 +93,6 @@ Objektų skaičius: 103.
 - [Tlumačas](../objektai/vietos/Tluma%C4%8Das)
 - [Trakų apskritis](../objektai/vietos/Trak%C5%B3%20apskritis)
 - [Trošinas](../objektai/vietos/Tro%C5%A1inas)
-- [Troškūnai](../objektai/vietos/Tro%C5%A1k%C5%ABnai)
 - [Turgeliai](../objektai/vietos/Turgeliai)
 - [Turmantas](../objektai/vietos/Turmantas)
 - [Tyniec](../objektai/vietos/Tyniec)

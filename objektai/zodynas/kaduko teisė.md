@@ -114,3 +114,4 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

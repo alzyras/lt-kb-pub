@@ -169,3 +169,4 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -109,3 +109,4 @@ Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

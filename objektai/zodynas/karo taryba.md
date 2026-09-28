@@ -65,3 +65,4 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

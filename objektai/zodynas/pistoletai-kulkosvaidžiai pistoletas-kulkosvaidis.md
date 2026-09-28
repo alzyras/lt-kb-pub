@@ -96,3 +96,4 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

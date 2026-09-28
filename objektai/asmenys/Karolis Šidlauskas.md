@@ -85,3 +85,4 @@ Karolis Šidlauskas aprašomas kaip nedidelio ūgio samdinys, drauge tarnavęs s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

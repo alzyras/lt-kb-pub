@@ -115,3 +115,4 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

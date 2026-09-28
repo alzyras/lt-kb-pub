@@ -224,3 +224,4 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -82,3 +82,4 @@ Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tauta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

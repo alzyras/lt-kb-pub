@@ -76,3 +76,4 @@ Glinskis išgavo, kad Trakų vaivados vieta būtų atimta iš Zaberezinskio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

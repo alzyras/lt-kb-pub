@@ -83,3 +83,4 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

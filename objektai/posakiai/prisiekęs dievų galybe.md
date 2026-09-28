@@ -66,3 +66,4 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

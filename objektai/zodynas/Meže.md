@@ -143,3 +143,4 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

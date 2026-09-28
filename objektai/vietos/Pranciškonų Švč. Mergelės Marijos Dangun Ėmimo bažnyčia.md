@@ -66,3 +66,4 @@ Centrinėje raižinio dalyje, šalia parapinės bažnyčios, į dangų šauna li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

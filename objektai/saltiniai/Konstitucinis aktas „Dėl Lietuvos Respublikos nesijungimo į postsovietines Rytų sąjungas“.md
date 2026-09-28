@@ -78,3 +78,4 @@ Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

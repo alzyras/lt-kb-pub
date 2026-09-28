@@ -251,3 +251,4 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

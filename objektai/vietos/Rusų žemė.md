@@ -138,3 +138,4 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

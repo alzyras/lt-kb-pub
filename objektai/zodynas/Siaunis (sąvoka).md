@@ -63,3 +63,4 @@ Kaimiečiai Siauniais vadina beveik juodos spalvos prie namų šliaužiojančius
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

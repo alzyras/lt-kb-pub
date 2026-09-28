@@ -117,3 +117,4 @@ Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211627
+

@@ -80,3 +80,4 @@ XVI a. LDK bajorų virtuvę maisto produktais aprūpindavo bajoro dvaro ūkinė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Anusija Jančyčia"]
 sameAs: []
-canonical_biography: "Vėžionys – 3 dūmai (Andriejaus Žydelio, Indrulienės našlės ir Anusios Jančyčios)."
+canonical_biography: "."
 ---
 # Anusija Jančyčia
 
@@ -61,5 +61,6 @@ Anusijos Jančyčios dūmas buvo vienas iš trijų Vėžionyse nurodytų dūmų.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

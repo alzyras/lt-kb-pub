@@ -82,3 +82,4 @@ Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gard
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

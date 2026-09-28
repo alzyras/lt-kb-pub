@@ -686,3 +686,4 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215945
+

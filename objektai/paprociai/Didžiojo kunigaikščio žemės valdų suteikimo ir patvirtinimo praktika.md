@@ -118,3 +118,4 @@ Vytauto laikais (1392–1430) Lietuvoje pradėta žemės valdų suteikimo ir pat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

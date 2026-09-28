@@ -266,3 +266,4 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

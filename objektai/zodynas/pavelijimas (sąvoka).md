@@ -64,3 +64,4 @@ Prekėjai, norėdami verstis prekyba, privalėjo išsipirkti pavelijimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -92,3 +92,4 @@ Szymon Jachimowicz buvo Antano Jachimovičiaus sūnus ir Mykolo bei Motiejaus Ja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

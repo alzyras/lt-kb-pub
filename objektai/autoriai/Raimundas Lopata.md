@@ -135,3 +135,4 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-23254
+

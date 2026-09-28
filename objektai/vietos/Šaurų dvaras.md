@@ -96,3 +96,4 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -88,3 +88,4 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

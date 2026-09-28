@@ -72,3 +72,4 @@ Polonnyj arba Polonnoje — dabar LTSR Chraelnickio sr.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

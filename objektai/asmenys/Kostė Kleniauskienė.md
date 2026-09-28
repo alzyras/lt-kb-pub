@@ -33,7 +33,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Kostė Kleniauskienė"]
 sameAs: []
-canonical_biography: "Kostė Kleniauskienė (Juodpėnai, VB, 1963–1975, 1998–2004)."
+canonical_biography: "."
 ---
 # Kostė Kleniauskienė
 

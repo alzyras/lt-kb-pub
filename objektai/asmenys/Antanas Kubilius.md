@@ -47,3 +47,15 @@ Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubili
   patikimumo_saltinis: ai
   statusas: verified
 - t-002
+
+## Citatos
+
+- id: c-212952
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 343"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 343."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:31"
+

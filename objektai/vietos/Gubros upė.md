@@ -52,3 +52,4 @@ Prie Gubros upės stovėjo Weistote-Pil ir Wallewona pilys.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

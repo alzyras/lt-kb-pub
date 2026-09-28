@@ -263,3 +263,4 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   pagrindžia:
     - t-001
     - t-004
+

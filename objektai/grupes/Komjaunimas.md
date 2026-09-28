@@ -100,3 +100,4 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

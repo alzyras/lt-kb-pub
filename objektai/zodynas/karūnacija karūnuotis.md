@@ -169,3 +169,4 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

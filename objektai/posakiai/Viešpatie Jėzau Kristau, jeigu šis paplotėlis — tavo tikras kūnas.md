@@ -87,3 +87,4 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

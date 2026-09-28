@@ -57,3 +57,4 @@ Ištrauka iš Foigto (Gesch.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

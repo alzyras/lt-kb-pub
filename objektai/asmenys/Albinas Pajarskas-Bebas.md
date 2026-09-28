@@ -83,3 +83,4 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

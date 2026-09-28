@@ -127,3 +127,4 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

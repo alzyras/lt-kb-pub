@@ -82,3 +82,4 @@ Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo u�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

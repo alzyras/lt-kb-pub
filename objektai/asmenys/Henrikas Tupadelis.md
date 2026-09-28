@@ -222,3 +222,4 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-223678
+

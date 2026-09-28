@@ -121,3 +121,4 @@ Narbutas nurodo, kad didysis magistras Henrikas Kniprodė Lietuvoje parinko tvir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

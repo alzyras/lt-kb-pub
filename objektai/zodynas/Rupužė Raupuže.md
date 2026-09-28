@@ -82,3 +82,4 @@ Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

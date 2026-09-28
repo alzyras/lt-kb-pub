@@ -79,3 +79,4 @@ Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

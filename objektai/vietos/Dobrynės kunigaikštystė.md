@@ -119,3 +119,4 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

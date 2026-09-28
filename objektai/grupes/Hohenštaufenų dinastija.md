@@ -78,3 +78,4 @@ Narbutas nurodo, kad imperatoriai Fridrikas I ir Henrikas VI iš Hohenštaufenų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

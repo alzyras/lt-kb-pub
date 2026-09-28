@@ -127,3 +127,4 @@ Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

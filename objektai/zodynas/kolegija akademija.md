@@ -67,3 +67,4 @@ Visur, kur tik leido valdžia, jie ėmė steigti savo mokyklas, pradėdami nuo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

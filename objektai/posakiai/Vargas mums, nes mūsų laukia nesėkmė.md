@@ -48,3 +48,4 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

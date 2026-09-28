@@ -77,3 +77,4 @@ canonical_biography: "1733 m. Agota Daukantienė su Jurgiu Daukantu skundėsi d�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

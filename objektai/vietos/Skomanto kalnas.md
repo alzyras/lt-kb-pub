@@ -73,3 +73,4 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

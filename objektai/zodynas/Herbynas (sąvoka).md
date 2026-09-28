@@ -66,3 +66,4 @@ T. Narbutas buvo puikaus šio „Herbyno“ nuorašo, padaryto S. Daukanto ranka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

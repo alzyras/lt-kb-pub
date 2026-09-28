@@ -95,3 +95,4 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

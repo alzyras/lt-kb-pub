@@ -88,3 +88,4 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie Turku suomių liciej�
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177870
+

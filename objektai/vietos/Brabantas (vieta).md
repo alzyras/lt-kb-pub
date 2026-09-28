@@ -71,3 +71,4 @@ Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

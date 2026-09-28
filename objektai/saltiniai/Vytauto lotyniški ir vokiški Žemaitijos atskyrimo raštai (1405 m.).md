@@ -131,3 +131,4 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

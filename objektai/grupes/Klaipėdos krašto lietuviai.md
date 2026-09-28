@@ -96,3 +96,4 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

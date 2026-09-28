@@ -75,3 +75,4 @@ Buvo sudaužytos gimtųjų dievų statulos, su griautos šventyklos, iškirsti �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

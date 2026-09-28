@@ -57,3 +57,4 @@ Ir nubaudė mus dievas už mūsų nuodėmes, sumušė mūsiškius totoriai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

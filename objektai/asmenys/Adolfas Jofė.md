@@ -76,3 +76,4 @@ Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

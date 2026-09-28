@@ -61,3 +61,4 @@ Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje i≈°leistas veikalas ‚
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

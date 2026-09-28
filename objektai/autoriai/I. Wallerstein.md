@@ -73,3 +73,4 @@ I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

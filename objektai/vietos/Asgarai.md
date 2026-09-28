@@ -234,3 +234,4 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

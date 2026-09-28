@@ -113,3 +113,4 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
   atnaujinta: "2026-07-19 13:07"
   pagrindžia:
     - t-002
+

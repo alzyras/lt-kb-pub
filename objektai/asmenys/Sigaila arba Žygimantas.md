@@ -57,3 +57,4 @@ Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

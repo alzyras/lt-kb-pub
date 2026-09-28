@@ -59,3 +59,4 @@ Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisc
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

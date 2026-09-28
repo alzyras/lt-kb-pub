@@ -62,3 +62,4 @@ Vakarų Europos riterio rekonstrukcija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

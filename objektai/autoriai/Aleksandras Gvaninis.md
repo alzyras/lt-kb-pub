@@ -404,3 +404,4 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

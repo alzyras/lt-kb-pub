@@ -118,3 +118,4 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
   pagrindžia:
     - t-001
     - t-002
+

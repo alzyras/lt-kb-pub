@@ -99,3 +99,4 @@ Liuteronų dvasininkai atvykdavo į kalėjimą ruošti mirties bausme nuteistojo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

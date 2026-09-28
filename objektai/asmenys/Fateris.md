@@ -91,3 +91,4 @@ Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

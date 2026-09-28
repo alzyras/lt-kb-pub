@@ -92,6 +92,34 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   pagrindžia:
     - c-206165
 
+<a id="claim-t-223071"></a>
+- t-223071
+  teiginys: "J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Galinda: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Poverskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Galinda: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Poverskis\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204227
+
+<a id="claim-t-223926"></a>
+- t-223926
+  teiginys: "J. Poverskis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205279
+
 ## Citatos
 
 - id: c-00339
@@ -115,6 +143,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-00378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -130,6 +159,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-202233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -145,6 +175,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-202851
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -165,6 +196,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-204227
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -183,6 +215,9 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223071
+
 - id: c-205279
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -201,6 +236,9 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223926
+
 - id: c-205875
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,7 +256,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-206165
@@ -242,5 +280,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+

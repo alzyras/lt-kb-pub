@@ -70,3 +70,4 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

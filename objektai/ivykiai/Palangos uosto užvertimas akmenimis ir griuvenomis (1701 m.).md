@@ -94,3 +94,4 @@ Narbutas, remdamasis Zaluskio liudijimu, teigia, kad 1701 metais švedai, rygie�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -92,3 +92,4 @@ Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

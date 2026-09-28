@@ -244,3 +244,4 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

@@ -74,3 +74,4 @@ Johansen, Eine Riga-Wisby-Urkunde des 13.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

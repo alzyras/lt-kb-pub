@@ -66,3 +66,4 @@ Atver timas j krikščionybę, prasidėjęs tenai apie X amžiaus pabaigą, vyko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

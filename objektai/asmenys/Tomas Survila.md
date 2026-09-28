@@ -93,3 +93,4 @@ Talkinink킬 kry탑iuo훾i킬 liko tik keletas, tarp j킬 탑uvo tarnaudami senajai T�
   patikimumo_saltinis: ai
   pagrind탑ia:
     - t-001
+

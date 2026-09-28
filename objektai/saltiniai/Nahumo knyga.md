@@ -69,3 +69,4 @@ Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -77,3 +77,4 @@ Data: 1850 m. Vieta: Vilniaus gimnazija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

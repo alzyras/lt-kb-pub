@@ -46,3 +46,4 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

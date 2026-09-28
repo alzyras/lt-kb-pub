@@ -85,3 +85,4 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -482,3 +482,4 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

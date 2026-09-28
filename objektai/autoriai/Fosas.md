@@ -126,3 +126,4 @@ Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austravij�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

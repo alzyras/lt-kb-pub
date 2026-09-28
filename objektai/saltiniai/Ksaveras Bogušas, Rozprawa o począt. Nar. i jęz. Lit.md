@@ -98,3 +98,4 @@ Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalbo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -79,3 +79,4 @@ Kazimieras išvyko į Lenkiją užimti karaliaus sosto 1447 m., veikiausiai gegu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

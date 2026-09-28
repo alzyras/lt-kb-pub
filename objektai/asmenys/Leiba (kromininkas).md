@@ -169,3 +169,4 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

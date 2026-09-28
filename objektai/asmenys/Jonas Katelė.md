@@ -86,3 +86,4 @@ Jonas Katelė nuo 1872 m. pabaigos iki mirties dirbo Panemunėlyje. 1876 m. rugp
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

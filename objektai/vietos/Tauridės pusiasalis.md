@@ -66,3 +66,4 @@ Kimerų Bosporas yra priešais Tauridės pusiasalio rytinį kyšulį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -116,3 +116,4 @@ Lietuvos mokyklose viešpatavo lietuvių kalba, o vokiečių valdžia leido naud
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

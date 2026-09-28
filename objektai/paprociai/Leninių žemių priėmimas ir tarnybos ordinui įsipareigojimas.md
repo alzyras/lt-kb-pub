@@ -123,3 +123,4 @@ Vytautas savo ir tėvui priklausiusius kraštus iš Ordino priėmė lenais, įsi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

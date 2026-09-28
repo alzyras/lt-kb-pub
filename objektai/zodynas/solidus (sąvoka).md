@@ -64,3 +64,4 @@ Lukulanumas Odoakrui atnešdavo šešis tūkstančius solidų metinių pajamų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

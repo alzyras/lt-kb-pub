@@ -252,3 +252,4 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   pagrindžia:
     - t-222976
     - t-224064
+

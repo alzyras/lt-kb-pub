@@ -75,3 +75,4 @@ Nutarta užimti gynybines pozicijas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

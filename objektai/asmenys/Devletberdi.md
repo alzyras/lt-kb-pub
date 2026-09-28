@@ -77,3 +77,4 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

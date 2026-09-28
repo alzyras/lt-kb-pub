@@ -106,3 +106,4 @@ Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -85,3 +85,4 @@ Kiekvienas laiptas buvo skirtas kuriam nors vienam Zodiako ženklui; kas mėnes�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

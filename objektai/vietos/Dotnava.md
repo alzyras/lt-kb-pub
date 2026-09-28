@@ -108,3 +108,4 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-195486
+

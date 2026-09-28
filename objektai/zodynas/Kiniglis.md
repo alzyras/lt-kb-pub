@@ -158,3 +158,4 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218052
+

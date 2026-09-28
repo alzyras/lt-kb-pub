@@ -81,3 +81,4 @@ Per Lukovijos žemę netikėtai įsiveržta į Sandomiro kunigaikštystę, kur p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

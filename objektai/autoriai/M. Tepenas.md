@@ -378,3 +378,4 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224132
+

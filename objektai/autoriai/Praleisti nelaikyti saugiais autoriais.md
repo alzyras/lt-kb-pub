@@ -55,3 +55,4 @@ Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

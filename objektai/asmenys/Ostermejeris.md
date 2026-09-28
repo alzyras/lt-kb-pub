@@ -52,3 +52,4 @@ Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškian�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

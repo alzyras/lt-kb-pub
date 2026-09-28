@@ -102,3 +102,4 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo dona
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

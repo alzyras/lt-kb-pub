@@ -95,3 +95,4 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. Antanas Tadas Pšezdeckis Veik
   pagrindžia:
     - t-001
     - t-002
+

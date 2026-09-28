@@ -85,3 +85,4 @@ Kurtas Bašvitcas rašo, kad „Raganų kūjas“ greitai išplito Europoje, buv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

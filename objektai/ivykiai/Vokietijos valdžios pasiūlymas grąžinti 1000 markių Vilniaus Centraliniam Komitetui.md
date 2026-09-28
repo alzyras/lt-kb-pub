@@ -88,3 +88,4 @@ Pasakotojas su tuo nesutiko ir reikalavo pinigus grąžinti jam.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

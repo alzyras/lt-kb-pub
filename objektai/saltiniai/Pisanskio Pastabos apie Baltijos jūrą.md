@@ -206,3 +206,4 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -77,3 +77,4 @@ Lenkai pasinaudoję tais pinigais, kuriuos jiems pri siuntė Šveicarijos Komite
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

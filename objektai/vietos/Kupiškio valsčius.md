@@ -52,6 +52,58 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   pagrindžia:
     - c-206640
 
+<a id="claim-t-230627"></a>
+- t-230627
+  teiginys: "1914 m. Kupiškio valsčiaus Astravų kaime gimęs Povilas Laužikas-Liudas 1944 m., pasitraukus vokiečiams, įstojo į Albino Tindžiulio-Dėdės partizanų junginį, veikusį Vabalninko ir Kupreliškio valsčiuose."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211265
+
+<a id="claim-t-230628"></a>
+- t-230628
+  teiginys: "Ginkluoto pasipriešinimo metu Bronius Navarskas, gyvenęs Siaurių kaime Kupiškio valsčiuje, buvo suimtas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211266
+
+<a id="claim-t-230629"></a>
+- t-230629
+  teiginys: "1921 m. Likalaukių kaime, Kupiškio valsčiuje, gimęs Tautvilis Vaitiekūnas-Zubrys (Vėjelis) partizanu tapo 1944 m."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211267
+
+<a id="claim-t-230631"></a>
+- t-230631
+  teiginys: "Kupiškio valsčiuje buvo viena karinė grupė, kurią sudarė 15 kareivių."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211269
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse.'
@@ -99,3 +151,52 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+
+- id: c-211265
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 289"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 289."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230627
+
+- id: c-211266
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 290"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 290."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230628
+
+- id: c-211267
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 290"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 290."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230629
+
+- id: c-211269
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 339"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 339."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230631
+

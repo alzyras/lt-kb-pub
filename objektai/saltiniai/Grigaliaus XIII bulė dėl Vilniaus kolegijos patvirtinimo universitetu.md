@@ -90,3 +90,4 @@ Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

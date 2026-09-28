@@ -70,3 +70,4 @@ GŪŽĖ (GUČE), geriau gal GUCIE, kadangi Gudas vie tos kalba, Guszdas arba Gus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

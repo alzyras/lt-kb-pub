@@ -50,3 +50,4 @@ Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

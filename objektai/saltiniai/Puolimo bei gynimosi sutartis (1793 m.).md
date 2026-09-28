@@ -72,3 +72,4 @@ Be to, Rusijai reikalaujant, su ja buvo padaryta puolimo bei gynimosi sutartis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

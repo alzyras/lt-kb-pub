@@ -116,3 +116,4 @@ Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijo
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus ir gramatiškas, o citata tiesiogiai nurodo, kad deklaracija priimta Prancūzijos revoliucijos metu. Papildomų faktų nepridėta."
   pagrindžia:
     - c-190187
+

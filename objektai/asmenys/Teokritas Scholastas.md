@@ -59,3 +59,4 @@ Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

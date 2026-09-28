@@ -274,3 +274,4 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -83,3 +83,4 @@ Vladislovas, kurį Narbutas įvardija karaliumi, paskyrė Jaską Olesnickį Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

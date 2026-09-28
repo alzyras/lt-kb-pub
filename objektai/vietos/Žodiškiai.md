@@ -82,3 +82,4 @@ Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

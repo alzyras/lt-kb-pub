@@ -1,0 +1,44 @@
+---
+tipas: asmuo
+pavadinimas: 'Antanas Pukenis'
+saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-0369f32e2348e0522080b2bf"
+canonical_name: "Antanas Pukenis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Pukenis"]
+sameAs: []
+canonical_biography: "Antanas Pukenis, informatorius „Vyras“, 1951 m. pasiūlė paskelbti, kad jo sūnus slapstosi, kad šis susisiektų su partizanais ir sudarytų galimybę smogti jiems."
+---
+# Antanas Pukenis
+
+## Santrauka
+
+Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Antanui Pukeniui priskiria 1951 m. pasiūlymą paskelbti, esą sūnus Napalys slapstosi, kad Napalys susisiektų su partizanais ir sudarytų sąlygas smogti jiems.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Antanui Pukeniui priskiria 1951 m. pasiūlymą paskelbti, esą sūnus Napalys slapstosi, kad Napalys susisiektų su partizanais ir sudarytų sąlygas smogti jiems.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 404"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

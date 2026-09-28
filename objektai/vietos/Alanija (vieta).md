@@ -73,3 +73,4 @@ Dėl alanų galios padidėjimo ir išplitimo Europos dalis į šiaurę nuo sarma
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

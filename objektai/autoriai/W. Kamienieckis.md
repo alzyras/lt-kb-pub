@@ -86,3 +86,4 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

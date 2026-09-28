@@ -75,3 +75,4 @@ Teodoras Narbutas nurodo, kad Suzdalės kunigaikštis Borisas Konstantinovičius
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

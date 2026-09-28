@@ -105,3 +105,4 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

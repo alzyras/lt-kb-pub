@@ -70,3 +70,4 @@ Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

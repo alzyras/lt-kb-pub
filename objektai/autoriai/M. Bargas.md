@@ -71,3 +71,4 @@ M. Bargo regioninės koncepcijos požiūriu, Vakarų Europoje feodalizmo raida p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -101,3 +101,4 @@ Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

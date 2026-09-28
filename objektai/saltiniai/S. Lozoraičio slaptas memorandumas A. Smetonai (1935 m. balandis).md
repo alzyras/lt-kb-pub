@@ -80,3 +80,4 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

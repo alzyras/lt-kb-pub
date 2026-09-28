@@ -76,3 +76,4 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

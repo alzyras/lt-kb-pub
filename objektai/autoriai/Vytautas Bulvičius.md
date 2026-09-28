@@ -90,3 +90,4 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

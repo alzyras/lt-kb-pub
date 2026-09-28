@@ -110,3 +110,4 @@ Teodoras Narbutas nurodo, kad Steponas Bizantietis, Eustatijas, scholastai ir vÄ
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

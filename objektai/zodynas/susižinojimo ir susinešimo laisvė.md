@@ -59,3 +59,4 @@ Palikta jiems visiška susižinoji mo ir susinešimo laisvė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

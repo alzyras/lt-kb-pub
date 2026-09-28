@@ -175,3 +175,4 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

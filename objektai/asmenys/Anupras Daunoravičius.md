@@ -79,3 +79,4 @@ canonical_biography: "1779 m. Tomo Uzaro žmonės užpuolė Anupro Daunoravičia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

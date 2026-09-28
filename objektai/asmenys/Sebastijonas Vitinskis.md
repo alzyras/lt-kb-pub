@@ -84,3 +84,4 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

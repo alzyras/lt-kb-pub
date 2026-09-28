@@ -79,3 +79,4 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

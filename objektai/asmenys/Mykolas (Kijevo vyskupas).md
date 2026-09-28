@@ -92,3 +92,4 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

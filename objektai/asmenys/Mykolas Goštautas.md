@@ -84,3 +84,4 @@ Mykolas Goštautas užpuolė priešą ir jį sumušė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

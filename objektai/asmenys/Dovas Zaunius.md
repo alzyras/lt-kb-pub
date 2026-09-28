@@ -94,3 +94,4 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

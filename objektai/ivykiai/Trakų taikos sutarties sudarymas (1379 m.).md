@@ -83,3 +83,4 @@ Trakų taikos sutartyje, sudarytoje 1379 m. per šv. Mykolo dieną, nustatyta, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

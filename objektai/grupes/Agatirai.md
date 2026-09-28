@@ -194,3 +194,4 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

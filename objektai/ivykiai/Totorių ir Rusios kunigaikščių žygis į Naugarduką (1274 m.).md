@@ -155,3 +155,4 @@ Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisid
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

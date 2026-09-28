@@ -55,3 +55,4 @@ Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

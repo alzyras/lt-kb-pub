@@ -66,3 +66,4 @@ Pinsko krašte dainuojama tokia vestuvinė daina:.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

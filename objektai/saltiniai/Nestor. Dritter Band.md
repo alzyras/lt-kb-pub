@@ -59,3 +59,4 @@ Slėceris paskelbė prielaidą (Nestor.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

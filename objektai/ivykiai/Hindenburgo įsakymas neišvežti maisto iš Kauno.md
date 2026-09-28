@@ -79,3 +79,4 @@ Hindenburgas įsakė neišvežti iš Kauno Rusijos armijai privežto maisto.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

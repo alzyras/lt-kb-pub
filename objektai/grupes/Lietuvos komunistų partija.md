@@ -699,3 +699,4 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+

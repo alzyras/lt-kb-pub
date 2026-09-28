@@ -70,3 +70,4 @@ Strijkov skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy bas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

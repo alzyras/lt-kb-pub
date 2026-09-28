@@ -80,3 +80,4 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

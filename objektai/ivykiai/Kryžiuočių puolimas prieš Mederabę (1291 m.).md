@@ -86,3 +86,4 @@ Užėmus Mederabės tvirtovę, kaip pasakoja Teodoras Narbutas, buvo išlaisvint
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

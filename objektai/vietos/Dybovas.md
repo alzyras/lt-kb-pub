@@ -93,3 +93,4 @@ Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217586
+

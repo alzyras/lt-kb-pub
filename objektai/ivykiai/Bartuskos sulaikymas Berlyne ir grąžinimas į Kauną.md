@@ -79,3 +79,4 @@ Jau daiktai buvo automobiliuje ir aš sėdau važiuoti ant Potsdam’o stoties, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

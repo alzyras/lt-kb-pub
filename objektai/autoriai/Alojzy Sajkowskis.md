@@ -80,3 +80,4 @@ Alojzy Sajkowskis tyrė Bobruisko seniūno J. Bojanovskio ryšius su Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

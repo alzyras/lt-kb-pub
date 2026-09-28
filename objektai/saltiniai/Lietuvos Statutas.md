@@ -244,3 +244,4 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207939
+

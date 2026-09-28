@@ -85,3 +85,4 @@ Dusburgietis teigia, kad speratui priklausiusios knygos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

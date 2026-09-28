@@ -115,3 +115,4 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Triglifas dorėniškame frize yra stačiakampė plokštė, dviem grioveliais pad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

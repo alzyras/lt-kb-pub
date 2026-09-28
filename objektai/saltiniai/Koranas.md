@@ -117,3 +117,4 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213199
+

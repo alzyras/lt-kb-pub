@@ -93,3 +93,4 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

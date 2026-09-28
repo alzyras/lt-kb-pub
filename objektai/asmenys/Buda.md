@@ -210,3 +210,4 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214667
+

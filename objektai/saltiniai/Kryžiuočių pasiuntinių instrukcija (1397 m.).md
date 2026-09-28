@@ -67,3 +67,4 @@ Kryžiuočių pasiuntinių 1397 m. instrukcija įpareigojo pasiuntinius teigti, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

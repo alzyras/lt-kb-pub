@@ -853,3 +853,4 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

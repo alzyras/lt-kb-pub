@@ -258,3 +258,4 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

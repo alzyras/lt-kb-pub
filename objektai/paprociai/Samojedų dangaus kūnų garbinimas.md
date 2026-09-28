@@ -74,3 +74,4 @@ T. Narbutas teigia, kad samojedai dar XVII amžiuje prie Baltosios jūros garbin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

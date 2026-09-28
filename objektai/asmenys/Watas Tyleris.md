@@ -77,3 +77,4 @@ Watas Tyleris vadovavo XVI a. Anglijos valstiečių sukilimui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

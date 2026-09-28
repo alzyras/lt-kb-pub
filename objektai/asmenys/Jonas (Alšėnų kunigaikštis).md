@@ -77,3 +77,4 @@ Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

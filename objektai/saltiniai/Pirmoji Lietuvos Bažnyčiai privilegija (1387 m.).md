@@ -116,3 +116,4 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

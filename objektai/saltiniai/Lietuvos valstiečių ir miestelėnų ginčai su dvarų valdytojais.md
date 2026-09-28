@@ -73,3 +73,4 @@ iš XVI-XVII amžių doku­ mentų rinkinio « Lietuvos valstiečių ir miestel�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

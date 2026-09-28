@@ -58,3 +58,4 @@ Nors Ksaveras Bogušas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

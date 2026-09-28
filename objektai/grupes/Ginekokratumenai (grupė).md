@@ -67,3 +67,4 @@ Ginekokratumenai gyveno už maiotų, rytinėse Meotidės pakrantėse, ir buvo ap
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

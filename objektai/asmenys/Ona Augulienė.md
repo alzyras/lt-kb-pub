@@ -1,0 +1,43 @@
+---
+tipas: asmuo
+pavadinimas: 'Ona Augulienė'
+saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-9806a1282afbe7c5c8d6f9fa"
+canonical_name: "Ona Augulienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ona Augulienė"]
+sameAs: []
+canonical_biography: "Valevičienė; partizanų nurodymu produktų jai davė Augulio žmona Ona [Augulienė]."
+---
+# Ona Augulienė
+
+## Santrauka
+
+Augulio žmona Ona Augulienė partizanų nurodymu davė produktų O. Valevičienei iš atsargų.
+
+## Citatos
+
+- id: c-213245
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 405"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 405."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:37"

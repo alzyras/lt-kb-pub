@@ -164,3 +164,4 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
   pagrindžia:
     - t-001
     - t-003
+

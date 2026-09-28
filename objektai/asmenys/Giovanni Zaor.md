@@ -88,3 +88,4 @@ Iš Krokuvos pakviestas italas Giovanni Zaor 1668 metais pradėjo Šv. Petro ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

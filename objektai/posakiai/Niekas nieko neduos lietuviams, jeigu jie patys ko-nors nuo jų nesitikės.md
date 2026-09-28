@@ -56,3 +56,4 @@ Niekas nieko neduos lietuviams, jeigu jie patys ko-nors nuo jų nesitikės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

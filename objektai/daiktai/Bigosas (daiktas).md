@@ -84,3 +84,4 @@ XVI a. bajorų tarpe ypač populiarus buvo bigosas – troškintų kopūstų ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

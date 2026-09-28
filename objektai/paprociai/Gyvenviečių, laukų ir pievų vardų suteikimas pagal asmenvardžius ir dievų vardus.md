@@ -76,3 +76,4 @@ Be to, reikia at minti, kad visi gyvenviečių, laukų ir pievų pavadinimai kil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

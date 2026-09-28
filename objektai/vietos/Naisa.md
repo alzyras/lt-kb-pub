@@ -114,3 +114,4 @@ Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

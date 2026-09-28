@@ -61,3 +61,4 @@ Herodoto aprašymuose teigiama, kad Gero upė, susiliejusi su Hippakariu, įtek�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, tai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

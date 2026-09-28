@@ -69,3 +69,4 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

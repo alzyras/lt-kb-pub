@@ -91,3 +91,4 @@ XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo d�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

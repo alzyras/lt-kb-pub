@@ -69,3 +69,4 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

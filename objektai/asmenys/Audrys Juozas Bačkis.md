@@ -95,3 +95,4 @@ Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respub
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

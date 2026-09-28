@@ -133,3 +133,4 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

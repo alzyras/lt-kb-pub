@@ -71,3 +71,4 @@ Teodoro Narbuto cituojamo rankraščio teigimu, Andrius Sonenbergas, Austrijoje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

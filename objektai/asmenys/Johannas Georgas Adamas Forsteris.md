@@ -68,3 +68,4 @@ Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu tr
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

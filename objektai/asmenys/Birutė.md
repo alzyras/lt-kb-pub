@@ -257,6 +257,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-15262
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -274,6 +275,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-160327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -303,6 +305,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-160328
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -325,6 +328,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-160331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -347,7 +351,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -391,7 +395,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168036
@@ -420,7 +424,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-168037
@@ -448,6 +452,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-190034
   autorius: "Alfredas Bumblauskas"
   šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
@@ -466,7 +471,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-194275
@@ -486,6 +491,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-198556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -509,7 +515,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-199097
@@ -532,7 +538,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-200035
@@ -556,6 +562,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-200481
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -577,7 +584,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-201015
@@ -602,7 +609,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-201502
@@ -627,6 +634,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-201546
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -650,6 +658,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-201567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -665,6 +674,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-205710
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -682,7 +692,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 ## Ryšiai

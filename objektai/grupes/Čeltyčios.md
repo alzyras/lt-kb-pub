@@ -52,3 +52,4 @@ Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio že
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

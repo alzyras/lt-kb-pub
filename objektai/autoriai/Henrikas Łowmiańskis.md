@@ -98,3 +98,4 @@ Henrikas Łowmiańskis 1935 m. teoriškai svarstė feodalizmo Lietuvoje problem�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

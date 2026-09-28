@@ -96,3 +96,4 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

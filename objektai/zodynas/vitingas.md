@@ -261,3 +261,4 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   pagrindžia:
     - t-002
     - t-003
+

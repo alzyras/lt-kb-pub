@@ -87,7 +87,7 @@ Specialiai paruošti kiminai buvo naudojami kaip vaistažolė negyjančioms žai
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-207562
@@ -99,5 +99,6 @@ Specialiai paruošti kiminai buvo naudojami kaip vaistažolė negyjančioms žai
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

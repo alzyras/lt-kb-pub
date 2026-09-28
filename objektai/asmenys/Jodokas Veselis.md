@@ -71,3 +71,4 @@ canonical_biography: "Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statyb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

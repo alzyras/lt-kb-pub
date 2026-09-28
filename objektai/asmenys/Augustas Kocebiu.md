@@ -62,3 +62,4 @@ Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

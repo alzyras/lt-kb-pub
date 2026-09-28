@@ -222,3 +222,4 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

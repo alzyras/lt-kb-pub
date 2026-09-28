@@ -77,3 +77,4 @@ Po slavų krašto pavergimo Jarmerikas įsiveržė į Prūsiją ir užgrobė Sem
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

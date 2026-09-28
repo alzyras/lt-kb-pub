@@ -122,3 +122,4 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

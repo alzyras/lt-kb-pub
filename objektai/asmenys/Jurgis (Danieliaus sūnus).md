@@ -88,3 +88,4 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

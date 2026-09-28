@@ -58,3 +58,4 @@ XIV a. pabaigoje buvo sudaryti 100 kelių į Lietuvą aprašymai, paremti kryži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

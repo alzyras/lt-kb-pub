@@ -75,3 +75,4 @@ Miršta ramūs tik tuomet, kai pernelyg užsitęsęs gyveni mas jiems jau netenk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

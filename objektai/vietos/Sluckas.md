@@ -484,3 +484,4 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211549
+

@@ -136,3 +136,4 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

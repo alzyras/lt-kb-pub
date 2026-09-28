@@ -136,3 +136,4 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

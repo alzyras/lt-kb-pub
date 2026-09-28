@@ -160,3 +160,4 @@ XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

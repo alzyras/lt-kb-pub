@@ -79,3 +79,4 @@ Leninių valdų gavėjas ordinui dovanojimo aktu turėjo užrašyti visas žemes
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

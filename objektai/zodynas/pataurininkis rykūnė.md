@@ -67,3 +67,4 @@ Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

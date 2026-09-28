@@ -73,3 +73,4 @@ Sagtis buvo skirta marškinių apykaklei susegti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -71,3 +71,4 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

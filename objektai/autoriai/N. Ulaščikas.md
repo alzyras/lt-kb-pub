@@ -135,3 +135,4 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

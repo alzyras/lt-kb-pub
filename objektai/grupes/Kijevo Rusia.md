@@ -77,3 +77,4 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

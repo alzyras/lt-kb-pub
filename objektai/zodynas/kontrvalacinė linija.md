@@ -66,3 +66,4 @@ Kontrvalacinė linija apibrėžiama kaip apgulėjų aplink tvirtovę blokados me
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

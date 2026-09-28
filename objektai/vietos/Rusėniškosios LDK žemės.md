@@ -79,3 +79,4 @@ Rusėniškosios LDK žemės priskiriamos kanapių ir linų gamybos regionams pag
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

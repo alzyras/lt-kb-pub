@@ -301,3 +301,4 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

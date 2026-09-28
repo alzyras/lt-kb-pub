@@ -73,3 +73,4 @@ Sutrupintas akmuo, žaibo trenktas me dis jau tampa kokio nors garbinimo objektu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

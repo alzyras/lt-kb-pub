@@ -110,3 +110,4 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

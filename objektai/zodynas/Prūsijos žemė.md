@@ -252,3 +252,4 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -80,3 +80,4 @@ Pasak Teodoro Narbuto, po penkių dienų kryžiuočiai vėl tapo Gotesverderio t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

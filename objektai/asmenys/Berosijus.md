@@ -57,3 +57,4 @@ Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

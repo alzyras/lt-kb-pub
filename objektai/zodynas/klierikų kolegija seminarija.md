@@ -131,3 +131,4 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

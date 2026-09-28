@@ -139,3 +139,4 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

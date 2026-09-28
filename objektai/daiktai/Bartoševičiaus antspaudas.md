@@ -84,3 +84,4 @@ Bartoševičiaus antspaude pavaizduotas iškilus lygiakraštis trikampis ant aps
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

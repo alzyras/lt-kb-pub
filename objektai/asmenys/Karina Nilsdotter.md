@@ -94,3 +94,4 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

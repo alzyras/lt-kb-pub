@@ -322,3 +322,4 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -63,3 +63,4 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

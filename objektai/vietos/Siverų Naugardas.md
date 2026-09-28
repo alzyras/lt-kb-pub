@@ -92,3 +92,4 @@ Siverų Naugardą valdyti gavo iš Voluinės Vladimiro atkeltas Teodoras Liubart
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

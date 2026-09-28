@@ -70,3 +70,4 @@ Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -61,3 +61,4 @@ Trečiasis Statutas numatė trejų metų senaties terminą tokiose bylose.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

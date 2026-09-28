@@ -97,3 +97,4 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

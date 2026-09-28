@@ -84,3 +84,4 @@ Amuletai būdavo kabinami ant namų sienų ir dvivėrių durų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -86,3 +86,4 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

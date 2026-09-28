@@ -100,3 +100,4 @@ Henrikas Leo „Marienburgo glosose“ teigė, kad marienburgiškais vadinti žo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

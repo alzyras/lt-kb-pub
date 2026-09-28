@@ -175,3 +175,4 @@ canonical_biography: "1542 m. turėjo emigruoti į protestantiškąją (nuo 1525
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225320
+

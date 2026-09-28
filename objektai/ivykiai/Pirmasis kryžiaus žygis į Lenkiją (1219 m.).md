@@ -122,3 +122,4 @@ Kryžiaus žygis esą paskelbtas ne pavergti ar kamuoti ne laisvėje pagonis, d�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Brolis Verneris generalinėje kapitulos nutarė, kad kunigai po sumos kasdien sk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

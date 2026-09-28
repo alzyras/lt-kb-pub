@@ -74,3 +74,4 @@ canonical_biography: "1627 m. Kauno suolininkas Martynas Slaveckis skundėsi Kau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -115,3 +115,4 @@ Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugoda
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

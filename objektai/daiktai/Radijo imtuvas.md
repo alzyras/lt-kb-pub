@@ -55,3 +55,51 @@ Nenurodyta
 ## Santrauka
 
 Žydų prekių asortimentas buvo įvairus – jame minimi degtukai, dviračiai ir radijo imtuvai.
+
+## Citatos
+
+- id: c-213557
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 316"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 316."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213558
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 103"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 103."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213560
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 405"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 405."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213561
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 68"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 68."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213562
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 67"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 67."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+

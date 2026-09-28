@@ -168,3 +168,4 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   pagrindžia:
     - t-003
     - t-004
+

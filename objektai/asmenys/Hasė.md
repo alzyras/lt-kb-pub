@@ -108,3 +108,4 @@ Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -55,3 +55,4 @@ Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

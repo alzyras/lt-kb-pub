@@ -68,3 +68,4 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

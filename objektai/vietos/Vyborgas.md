@@ -87,3 +87,4 @@ Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

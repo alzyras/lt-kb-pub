@@ -83,3 +83,4 @@ Išlikę dokumentai, iš įvairių rankų gauti, tai patikina.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

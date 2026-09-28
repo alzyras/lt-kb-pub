@@ -106,3 +106,4 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

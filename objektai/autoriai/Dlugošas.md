@@ -138,3 +138,4 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-220001
+

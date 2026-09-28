@@ -173,3 +173,4 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

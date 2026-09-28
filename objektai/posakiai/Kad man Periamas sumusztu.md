@@ -103,3 +103,4 @@ Narbutas posakį „Kad man Periamas sumusztu“ aiškino kaip lietuvių priesai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

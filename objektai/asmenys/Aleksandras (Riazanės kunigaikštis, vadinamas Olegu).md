@@ -69,3 +69,4 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

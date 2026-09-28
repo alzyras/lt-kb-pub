@@ -108,3 +108,4 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

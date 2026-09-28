@@ -104,3 +104,4 @@ Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš ist
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

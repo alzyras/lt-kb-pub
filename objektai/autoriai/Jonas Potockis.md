@@ -331,3 +331,4 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

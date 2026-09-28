@@ -218,3 +218,4 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

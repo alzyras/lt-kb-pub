@@ -141,3 +141,4 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211801
+

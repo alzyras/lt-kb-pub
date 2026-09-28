@@ -228,3 +228,4 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

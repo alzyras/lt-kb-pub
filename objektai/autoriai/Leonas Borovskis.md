@@ -75,3 +75,4 @@ Leonas Borovskis anksčiau buvo Vilniaus universiteto, o tuo metu – Dvasinės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

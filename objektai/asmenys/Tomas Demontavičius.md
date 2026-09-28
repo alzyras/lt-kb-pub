@@ -72,5 +72,6 @@ canonical_biography: "1739 m. prioras Tomas Demontavičius rūpinosi Palėvenės
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

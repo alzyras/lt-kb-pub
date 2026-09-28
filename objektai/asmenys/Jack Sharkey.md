@@ -93,3 +93,4 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

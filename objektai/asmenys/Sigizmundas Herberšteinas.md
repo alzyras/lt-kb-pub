@@ -90,3 +90,4 @@ Sigizmundas Herberšteinas tarnavo Austrijos Habsburgams ir jų valdytai Imperij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

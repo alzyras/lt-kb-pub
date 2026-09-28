@@ -105,3 +105,4 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

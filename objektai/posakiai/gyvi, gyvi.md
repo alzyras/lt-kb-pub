@@ -74,3 +74,4 @@ Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

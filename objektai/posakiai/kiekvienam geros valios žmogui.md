@@ -62,3 +62,4 @@ Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

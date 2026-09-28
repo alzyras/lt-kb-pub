@@ -272,3 +272,4 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211231
+

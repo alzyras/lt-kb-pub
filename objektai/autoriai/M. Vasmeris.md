@@ -76,3 +76,4 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

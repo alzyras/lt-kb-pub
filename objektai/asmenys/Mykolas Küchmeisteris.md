@@ -208,3 +208,4 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

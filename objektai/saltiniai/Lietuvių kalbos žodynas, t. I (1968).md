@@ -52,3 +52,4 @@ Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

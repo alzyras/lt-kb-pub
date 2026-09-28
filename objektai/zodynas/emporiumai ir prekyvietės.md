@@ -108,3 +108,4 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
   pagrindžia:
     - t-001
     - t-002
+

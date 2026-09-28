@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Jonas Jakštonis"]
 sameAs: []
-canonical_biography: "Astravai – 1 dūmas (Jono Jakštonio)."
+canonical_biography: "."
 ---
 # Jonas Jakštonis
 

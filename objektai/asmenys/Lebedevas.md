@@ -76,3 +76,4 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

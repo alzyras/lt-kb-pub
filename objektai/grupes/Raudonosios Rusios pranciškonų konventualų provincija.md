@@ -94,3 +94,4 @@ Raudonosios Rusios pranciškonų konventualų provincija buvo trumpam prijungta 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

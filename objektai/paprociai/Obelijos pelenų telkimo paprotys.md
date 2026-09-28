@@ -142,3 +142,4 @@ Ukmergės, Vilniaus, Trakų ir Lydos ap skrityse, nuo seniausių laikų buvo spe
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

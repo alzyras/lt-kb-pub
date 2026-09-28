@@ -97,3 +97,4 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-192648
+

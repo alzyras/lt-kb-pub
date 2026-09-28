@@ -151,3 +151,4 @@ Iki reformų pilies teismai buvo masiškai lankoma vieta, kur susitikdavo skirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

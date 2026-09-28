@@ -59,3 +59,4 @@ Henenbergeris tikina, kad dar jo laikais, tai yra XVI amžiaus pabaigoje, Nemuno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

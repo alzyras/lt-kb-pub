@@ -129,3 +129,4 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -71,3 +71,4 @@ Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religio
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

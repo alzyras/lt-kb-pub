@@ -88,3 +88,4 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

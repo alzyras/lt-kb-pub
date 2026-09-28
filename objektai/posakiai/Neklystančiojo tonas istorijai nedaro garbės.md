@@ -156,3 +156,4 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -47,3 +47,4 @@ Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių gimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

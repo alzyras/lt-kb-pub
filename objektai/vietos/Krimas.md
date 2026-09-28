@@ -122,3 +122,4 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -90,3 +90,4 @@ XVI a. LDK bajorams žvejai tiekdavo dvaro ežeruose, upėse ir tvenkiniuose su�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

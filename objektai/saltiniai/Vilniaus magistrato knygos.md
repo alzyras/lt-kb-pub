@@ -96,3 +96,4 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

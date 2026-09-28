@@ -86,3 +86,4 @@ Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

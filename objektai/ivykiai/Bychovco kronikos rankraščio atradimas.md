@@ -76,3 +76,4 @@ Ipolitas Klimaševskis prieš 1830 m. aptiko Bychovco kronikos rankraštį Aleks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

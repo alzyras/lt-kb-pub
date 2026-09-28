@@ -77,3 +77,4 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

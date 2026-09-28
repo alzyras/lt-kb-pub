@@ -87,3 +87,4 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

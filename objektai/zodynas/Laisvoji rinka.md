@@ -131,3 +131,4 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -80,3 +80,4 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

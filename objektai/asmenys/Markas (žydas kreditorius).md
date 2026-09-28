@@ -102,3 +102,4 @@ canonical_biography: "Žydui Markui palūkanų nuo pustrečio šimto zlotų už 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

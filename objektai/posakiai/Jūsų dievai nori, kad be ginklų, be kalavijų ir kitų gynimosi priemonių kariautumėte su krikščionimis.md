@@ -238,3 +238,4 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

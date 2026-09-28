@@ -94,3 +94,4 @@ Teodoro Narbuto aprašyme lietuviai nuoširdžiai apraudojo karalienę Jadvygą,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

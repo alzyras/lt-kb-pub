@@ -79,3 +79,4 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

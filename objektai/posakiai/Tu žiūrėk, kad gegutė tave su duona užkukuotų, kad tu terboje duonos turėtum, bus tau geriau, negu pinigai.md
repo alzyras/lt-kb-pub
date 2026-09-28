@@ -79,3 +79,4 @@ Pamokomoji formulė, iškelianti duoną aukščiau už pinigus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

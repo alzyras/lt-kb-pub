@@ -79,3 +79,4 @@ Aukotojas padėdavo ant lėkštės gabaliuką duonos, puoduką su alumi ir ja ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Janina Timukienė"]
 sameAs: []
-canonical_biography: "Janina Timukienė (Didžprūdėliai, Aukštupėnai, 1971–1972, 1974–1992)."
+canonical_biography: "."
 ---
 # Janina Timukienė
 

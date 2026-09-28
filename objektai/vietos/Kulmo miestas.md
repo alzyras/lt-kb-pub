@@ -96,3 +96,4 @@ Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miest
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

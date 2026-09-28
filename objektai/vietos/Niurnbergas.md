@@ -178,3 +178,4 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211647
+

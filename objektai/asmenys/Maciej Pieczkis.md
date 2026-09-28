@@ -102,3 +102,4 @@ Maciej Pieczkis kartu su broliu Kazimieru buvo nuteistas mirti už bajoro nužud
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

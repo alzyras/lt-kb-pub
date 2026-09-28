@@ -69,3 +69,4 @@ Trumpajame sąvade, sudarytame apie 1446 m., nuo sekliau ir išsamiau nušvieči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -80,3 +80,4 @@ Beveik iki XVII amžiaus Lietuvos kaimiečiai per kasmetines šventes po pamald�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

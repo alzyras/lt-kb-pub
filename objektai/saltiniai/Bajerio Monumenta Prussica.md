@@ -150,3 +150,4 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

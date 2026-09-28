@@ -70,3 +70,4 @@ Mikalojus Vorobjovas Bazilijonų vienuolyno vartus vertino kaip vėlyvojo baroko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

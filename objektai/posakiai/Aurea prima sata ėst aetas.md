@@ -103,3 +103,4 @@ Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filoso
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218070
+

@@ -124,3 +124,4 @@ Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas. Apaštališkojo s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

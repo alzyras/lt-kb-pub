@@ -74,3 +74,4 @@ Trumpa elgetavimo ir maldavimo formulė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmųjų šmotelių ir Ilgių dienos vaišinimas vėlėms\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

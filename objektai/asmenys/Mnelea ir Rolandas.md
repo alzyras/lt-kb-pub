@@ -113,3 +113,4 @@ Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

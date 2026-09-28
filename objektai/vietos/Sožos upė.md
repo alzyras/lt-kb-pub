@@ -77,3 +77,4 @@ S. Podobaila išsirinko vietą tarp Dniepro ir Sožos žiočių, apsuptą neprae
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

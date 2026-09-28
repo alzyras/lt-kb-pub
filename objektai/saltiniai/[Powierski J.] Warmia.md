@@ -85,3 +85,4 @@ Dusburgietis teigia, kad [Powierski J.] Warmia.— SSS, Wrocław—Warszawa—Kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

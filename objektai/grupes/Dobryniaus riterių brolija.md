@@ -70,3 +70,4 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

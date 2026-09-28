@@ -72,3 +72,4 @@ Teodoras Narbutas aprašo, kad po netikėto smūgio Pamedės valsčiaus apylink�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

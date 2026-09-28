@@ -137,3 +137,4 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

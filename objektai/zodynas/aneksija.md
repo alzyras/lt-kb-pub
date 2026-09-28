@@ -243,3 +243,4 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

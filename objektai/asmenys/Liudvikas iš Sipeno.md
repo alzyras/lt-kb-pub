@@ -76,3 +76,4 @@ Teodoras Narbutas Liudviką iš Sipeno apibūdina kaip trečiąjį po Meinhardo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

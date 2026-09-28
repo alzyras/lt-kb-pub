@@ -71,3 +71,4 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

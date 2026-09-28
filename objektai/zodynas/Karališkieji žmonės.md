@@ -88,3 +88,4 @@ Terminas vartojamas 1862 m. kaimo gyvenimo aprašymo rėmuose.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

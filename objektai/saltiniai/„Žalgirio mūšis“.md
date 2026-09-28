@@ -86,3 +86,4 @@ Alfredas Bumblauskas 1939 m. Maskvoje karinėje leidykloje „Voenizdate“ išl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

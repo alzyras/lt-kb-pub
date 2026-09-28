@@ -168,3 +168,4 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

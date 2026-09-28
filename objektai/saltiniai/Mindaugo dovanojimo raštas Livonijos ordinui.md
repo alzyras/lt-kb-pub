@@ -78,3 +78,4 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

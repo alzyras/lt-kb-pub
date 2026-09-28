@@ -78,3 +78,4 @@ Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

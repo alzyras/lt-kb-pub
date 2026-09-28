@@ -65,3 +65,4 @@ Antikos žmonių šventyklos susidėdavo iš dviejų dalių: Naos, kurioje stov�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

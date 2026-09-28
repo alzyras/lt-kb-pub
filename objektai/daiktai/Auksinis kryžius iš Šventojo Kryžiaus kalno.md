@@ -83,3 +83,4 @@ Auksinis kryžius, pasak Teodoro Narbuto, buvo paimtas kartu su Šventojo Kryži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

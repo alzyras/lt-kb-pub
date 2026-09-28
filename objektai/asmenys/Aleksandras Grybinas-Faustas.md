@@ -94,3 +94,4 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

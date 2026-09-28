@@ -62,3 +62,4 @@ p. 235, Karikatūrų ir satyrų leidinys „Raudonasis rojus“ išleistas 1951 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

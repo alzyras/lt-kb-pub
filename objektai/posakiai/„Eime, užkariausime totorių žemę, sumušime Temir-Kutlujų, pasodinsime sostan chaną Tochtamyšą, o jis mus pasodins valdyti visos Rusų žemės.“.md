@@ -97,3 +97,4 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

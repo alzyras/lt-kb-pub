@@ -105,3 +105,4 @@ Narbutas Petionkos pavadinimą kildino iš senojo miško vardo, siejamo su Ragu�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

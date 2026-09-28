@@ -184,3 +184,4 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

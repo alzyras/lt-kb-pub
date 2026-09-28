@@ -88,3 +88,4 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
   temporalinis_llm_pakomentavimas: "Teiginys faktinis, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-21681
+

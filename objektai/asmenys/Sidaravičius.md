@@ -84,3 +84,4 @@ Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

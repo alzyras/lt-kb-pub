@@ -103,3 +103,4 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
   pagrindžia:
     - t-001
     - t-002
+

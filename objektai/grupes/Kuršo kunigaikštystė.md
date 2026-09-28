@@ -210,3 +210,4 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

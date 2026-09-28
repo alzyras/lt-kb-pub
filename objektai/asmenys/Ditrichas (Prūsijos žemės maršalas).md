@@ -192,3 +192,4 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -87,3 +87,4 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -103,3 +103,4 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
   temporalinis_llm_pakomentavimas: "Pradinis teiginys užterštas pašaliniu OCR fragmentu, citata pagrindžia trumpą faktą."
   pagrindžia:
     - c-21770
+

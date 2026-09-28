@@ -78,3 +78,4 @@ Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

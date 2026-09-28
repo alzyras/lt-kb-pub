@@ -86,3 +86,4 @@ Terminas šiame šaltinyje siejamas su 1891 m. gautu akademiniu laipsniu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

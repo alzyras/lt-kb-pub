@@ -96,3 +96,4 @@ Narbutas Gercikos pilį prie Dauguvos vadina rusų kunigaikščio Visvaldžio so
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218171
+

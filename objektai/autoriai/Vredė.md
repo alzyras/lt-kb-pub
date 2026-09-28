@@ -111,3 +111,4 @@ Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

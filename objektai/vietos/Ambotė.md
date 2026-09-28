@@ -123,3 +123,4 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

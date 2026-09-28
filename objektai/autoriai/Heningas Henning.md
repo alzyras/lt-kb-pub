@@ -119,3 +119,4 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213451
+

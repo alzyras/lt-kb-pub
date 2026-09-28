@@ -84,3 +84,4 @@ Tuo pat metu Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno Min
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

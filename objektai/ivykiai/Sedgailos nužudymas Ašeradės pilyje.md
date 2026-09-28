@@ -87,3 +87,4 @@ Ašeradės pilyje, pasak Teodoro Narbuto, buvo žiauriai nužudytas karaliaus pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

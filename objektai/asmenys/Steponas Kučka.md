@@ -80,3 +80,4 @@ Pasak paplitusio padavimo, jis vadinosi Steponas Kučka, Jono sūnus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

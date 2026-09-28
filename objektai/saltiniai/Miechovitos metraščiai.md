@@ -84,3 +84,4 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

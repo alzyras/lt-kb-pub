@@ -94,3 +94,4 @@ Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

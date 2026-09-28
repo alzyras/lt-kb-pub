@@ -162,3 +162,4 @@ canonical_biography: "97 Grunau S., kronikininkas 58, 145, 205, 243, 294 Grünha
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224464
+

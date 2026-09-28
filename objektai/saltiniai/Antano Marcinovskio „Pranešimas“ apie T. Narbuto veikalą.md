@@ -60,3 +60,4 @@ Marcinovskis LTI vadina „do vana visuomenei“ ir sako, jog pirmą kartą Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

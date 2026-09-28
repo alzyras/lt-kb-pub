@@ -53,3 +53,4 @@ J. Chodzkos knygelė „Jonas iš Svisiočės“ buvo išversta į lietuvių kal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

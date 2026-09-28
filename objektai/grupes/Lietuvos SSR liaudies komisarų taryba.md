@@ -123,3 +123,4 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

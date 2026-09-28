@@ -58,3 +58,4 @@ Narbutas Pramžimą laikė pirmuoju ir visuotinai paplitusiu Senojo pasaulio die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

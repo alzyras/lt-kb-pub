@@ -77,3 +77,4 @@ Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antaka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

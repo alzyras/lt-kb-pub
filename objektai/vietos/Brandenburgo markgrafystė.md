@@ -77,3 +77,4 @@ Teodoras Narbutas pasakoja, kad Vladislovas Lokietka, norėdamas įtikti popiež
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

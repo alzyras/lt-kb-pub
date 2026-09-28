@@ -72,3 +72,4 @@ Jurijus (Jurgis) Vytautaitis apie 1342 metus valdė Pskovo žemę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

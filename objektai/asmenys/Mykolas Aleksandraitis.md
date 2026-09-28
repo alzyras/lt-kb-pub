@@ -74,3 +74,4 @@ Mykolas Aleksandraitis buvo pasiųstas vietininku į Didįjį Naugardą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

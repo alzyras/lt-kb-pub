@@ -55,3 +55,4 @@ Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

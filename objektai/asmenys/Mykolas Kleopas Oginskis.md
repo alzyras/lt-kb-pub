@@ -180,3 +180,4 @@ Diplomatinės misijos reikmėms iš valstybės iždo Mykolui Kleopui Oginskiui b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

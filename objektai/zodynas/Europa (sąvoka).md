@@ -74,3 +74,4 @@ Vorobjovas Vilnių apibūdino kaip gyvų vaizdų knygą, atskleidžiančią Euro
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

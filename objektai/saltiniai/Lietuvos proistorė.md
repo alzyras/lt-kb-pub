@@ -79,3 +79,4 @@ Gimbutienė (Gimbutas), Marija : Lietuvos proistorė, LE, t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

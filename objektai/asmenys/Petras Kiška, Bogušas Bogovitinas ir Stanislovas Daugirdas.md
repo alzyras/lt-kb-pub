@@ -89,3 +89,4 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

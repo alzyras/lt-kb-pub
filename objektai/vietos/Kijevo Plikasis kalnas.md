@@ -85,3 +85,4 @@ Kijevo Plikasis kalnas garsėjo 1 1 Tokie kalnai pačioje Europoje buvo žinomi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

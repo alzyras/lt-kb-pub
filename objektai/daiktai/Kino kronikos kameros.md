@@ -95,3 +95,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatinis ir pagrįstas citata."
   pagrindžia:
     - c-22252
+

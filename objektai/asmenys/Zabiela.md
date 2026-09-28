@@ -91,3 +91,4 @@ Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218802
+

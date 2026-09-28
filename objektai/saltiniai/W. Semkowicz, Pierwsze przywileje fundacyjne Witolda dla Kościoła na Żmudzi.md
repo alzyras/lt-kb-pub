@@ -76,3 +76,4 @@ Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

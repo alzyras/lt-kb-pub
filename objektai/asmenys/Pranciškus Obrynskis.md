@@ -87,3 +87,4 @@ Pranciškus Obrynskis šaltinyje nurodomas kaip pirmasis Vilniaus gvardijonas po
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

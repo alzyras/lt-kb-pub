@@ -174,3 +174,4 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

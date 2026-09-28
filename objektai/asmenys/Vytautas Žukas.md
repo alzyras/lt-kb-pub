@@ -76,3 +76,4 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

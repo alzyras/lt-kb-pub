@@ -65,3 +65,4 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

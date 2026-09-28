@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 107
+tema_objektu_skaicius: 106
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 107.
+Objektų skaičius: 106.
 
 ## Kaip naudoti
 
@@ -108,7 +108,6 @@ Objektų skaičius: 107.
 - [Sdubrai](../objektai/vietos/Sdubrai)
 - [Sedlcai](../objektai/vietos/Sedlcai)
 - [Sklunija](../objektai/vietos/Sklunija)
-- [Sliepšiškio kaimas](../objektai/vietos/Sliep%C5%A1i%C5%A1kio%20kaimas)
 - [Subartonys](../objektai/vietos/Subartonys)
 - [Svisločė](../objektai/vietos/Svislo%C4%8D%C4%97)
 - [Taučiūnai](../objektai/vietos/Tau%C4%8Di%C5%ABnai)

@@ -107,3 +107,4 @@ canonical_biography: "Švėgžda aprašomas kaip geras ir nepavydingas ūkininka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -80,3 +80,4 @@ Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo ded
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

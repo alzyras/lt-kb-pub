@@ -79,3 +79,4 @@ Skirgaila, Teodoro Narbuto pasakojime tautos papročiu išrinktas kunigaikštis,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

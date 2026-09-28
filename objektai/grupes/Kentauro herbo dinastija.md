@@ -78,3 +78,4 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

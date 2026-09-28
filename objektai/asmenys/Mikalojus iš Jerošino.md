@@ -159,3 +159,4 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

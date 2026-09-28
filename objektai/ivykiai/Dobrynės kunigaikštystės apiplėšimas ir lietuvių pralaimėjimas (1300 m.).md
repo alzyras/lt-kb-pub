@@ -83,3 +83,4 @@ Broliai Kulmo žemėje nukovė 70 per Drevantos upę persikėlusių lietuvių ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

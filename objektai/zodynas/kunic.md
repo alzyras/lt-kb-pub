@@ -66,3 +66,4 @@ Pats Traidenis, kaip in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

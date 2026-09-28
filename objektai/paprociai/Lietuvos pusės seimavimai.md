@@ -96,3 +96,4 @@ Prieš vykstant į bendrus seimus Lietuvos pusė surengdavo savo seimavimus bend
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -352,3 +352,4 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

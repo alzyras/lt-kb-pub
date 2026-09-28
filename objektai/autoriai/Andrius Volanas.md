@@ -99,3 +99,4 @@ Andrius Volanas yra XVI a. antrosios pusės–XVII a. pradžios valstybės polit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

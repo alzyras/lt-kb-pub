@@ -72,3 +72,4 @@ Lietuvos metraštis pasakoja, kad Vilniaus vaivada Petras Goštautas Algirdo lai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

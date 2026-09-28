@@ -75,3 +75,4 @@ Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

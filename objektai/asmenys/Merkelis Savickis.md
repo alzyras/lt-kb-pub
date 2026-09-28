@@ -70,3 +70,4 @@ Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės ba�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

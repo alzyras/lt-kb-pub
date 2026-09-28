@@ -63,3 +63,4 @@ Narbutas nurodo, kad latviai didelius pilkapius vadina milžinkapiais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -83,3 +83,4 @@ Dusburgietis teigia, kad lietuvos metraštis: Bychovco kronika / Parengė R.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

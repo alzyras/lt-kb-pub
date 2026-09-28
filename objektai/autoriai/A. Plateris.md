@@ -93,3 +93,4 @@ Plateris : Janulaitis mokslininkas , LE 9 t., 293 p. 62 ĮVADAS Bažnyčios isto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

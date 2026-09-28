@@ -82,3 +82,4 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

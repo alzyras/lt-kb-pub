@@ -138,3 +138,4 @@ A. K. Sapiegą, 04-ldk-personalijos-idejos-refleksijos autoriaus vaizdavimu, erz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

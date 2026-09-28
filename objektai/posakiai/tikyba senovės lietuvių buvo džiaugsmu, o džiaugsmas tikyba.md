@@ -66,3 +66,4 @@ Teisingai taria išmintingas vyras, jog tikyba senovės lietuvių buvo džiaugsm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

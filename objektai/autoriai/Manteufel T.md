@@ -100,3 +100,4 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -94,3 +94,4 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

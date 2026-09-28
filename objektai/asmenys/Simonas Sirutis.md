@@ -88,3 +88,4 @@ Simonas Sirutis buvo Kauno pavieto pilies teismo seniūnas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

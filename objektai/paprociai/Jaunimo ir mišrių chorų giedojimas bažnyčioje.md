@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Bažnyčioje giedojo jaunimo ir mišrūs chorai.
+
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -43,7 +43,7 @@ Nenurodyta
 
 <a id="claim-t-227607"></a>
 - t-001
-  teiginys: "Bažnyčioje giedojo jaunimo ir mišrūs chorai."
+  teiginys: ""
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Santrauka
 
-Bažnyčioje giedojo jaunimo ir mišrūs chorai.
+
 
 ## Citatos
 
@@ -69,5 +69,6 @@ Bažnyčioje giedojo jaunimo ir mišrūs chorai.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

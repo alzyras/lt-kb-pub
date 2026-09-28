@@ -85,3 +85,4 @@ Mindaugas, Teodoro Narbuto pasakojimu, kryžiuočių spaudžiamas paskelbė Kry�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

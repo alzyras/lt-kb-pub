@@ -65,3 +65,4 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

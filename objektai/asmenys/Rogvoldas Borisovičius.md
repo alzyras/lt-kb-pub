@@ -83,3 +83,4 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

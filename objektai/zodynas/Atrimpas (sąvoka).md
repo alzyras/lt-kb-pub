@@ -69,3 +69,4 @@ Visa tai galima suderinti, padarius prie laidą, jog Atrimpo simbolis buvo žalt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

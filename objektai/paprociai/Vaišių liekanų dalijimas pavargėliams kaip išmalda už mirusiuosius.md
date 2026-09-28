@@ -74,3 +74,4 @@ Pasibaigus vaišėms ir mal doms už mirusiųjų sielas, troba ir priemenė iš�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -88,3 +88,4 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą."
   pagrindžia:
     - c-21562
+

@@ -81,3 +81,4 @@ Dusburgietis teigia, kad sembritzki J.
   temporaliniai_duomenys: "įvykio data: 1926 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas pagrindžia autoriaus knygos temą, leidimo vietą ir metus."
+

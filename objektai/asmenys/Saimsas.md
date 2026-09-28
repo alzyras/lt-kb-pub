@@ -117,3 +117,4 @@ Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212662
+

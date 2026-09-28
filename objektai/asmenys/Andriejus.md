@@ -84,3 +84,4 @@ canonical_biography: "Į tą suvažiavi­ mą atsiuntė popiežius savo legatą 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

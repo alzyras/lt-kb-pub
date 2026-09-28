@@ -125,3 +125,4 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

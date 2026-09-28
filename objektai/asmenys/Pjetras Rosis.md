@@ -127,3 +127,4 @@ Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu
   pagrindžia:
     - t-216422
     - t-217046
+

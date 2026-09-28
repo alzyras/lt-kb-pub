@@ -106,3 +106,4 @@ Teofaną Kolbiečinskį, bazilijonų vienuolį ir pamokslininką, 1705 m. liepos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

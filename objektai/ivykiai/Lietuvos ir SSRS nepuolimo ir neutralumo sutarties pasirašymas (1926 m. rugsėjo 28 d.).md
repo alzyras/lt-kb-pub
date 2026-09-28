@@ -160,3 +160,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-16896
+

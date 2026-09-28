@@ -87,3 +87,4 @@ Dusburgietis teigia, kad [Ibrahim ibn Jákūb].
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

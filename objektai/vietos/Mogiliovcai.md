@@ -128,3 +128,4 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
   pagrindžia:
     - t-001
     - t-002
+

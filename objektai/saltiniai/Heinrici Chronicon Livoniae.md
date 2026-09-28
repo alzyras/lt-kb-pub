@@ -280,3 +280,4 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219019
+

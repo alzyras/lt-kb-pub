@@ -87,3 +87,4 @@ canonical_biography: "1976 m. gegužės 12 d. įkurta pirmoji Maskvos Helsinkio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

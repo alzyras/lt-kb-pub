@@ -61,3 +61,4 @@ Keletą mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske). Pravoslavai: j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

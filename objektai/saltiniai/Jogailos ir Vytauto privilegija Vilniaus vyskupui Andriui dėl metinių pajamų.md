@@ -89,3 +89,4 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -177,3 +177,4 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -225,3 +225,4 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

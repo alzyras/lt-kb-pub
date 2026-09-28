@@ -107,3 +107,4 @@ Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

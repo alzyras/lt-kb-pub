@@ -121,3 +121,4 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Liaudies vyriausybės sudarymą ir sudėtį."
   pagrindžia:
     - c-22520
+

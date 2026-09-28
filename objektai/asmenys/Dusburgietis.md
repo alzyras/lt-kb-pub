@@ -54,3 +54,4 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

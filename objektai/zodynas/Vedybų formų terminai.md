@@ -104,3 +104,4 @@ Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papro�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

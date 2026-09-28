@@ -73,3 +73,4 @@ Iš paukščių balsų ir kitų oro bei meteorizmo reiškinių jie pranašaudavo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

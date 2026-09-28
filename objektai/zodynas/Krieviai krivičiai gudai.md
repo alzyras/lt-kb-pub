@@ -56,3 +56,4 @@ Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

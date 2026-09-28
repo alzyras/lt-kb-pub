@@ -634,3 +634,4 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+

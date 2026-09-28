@@ -120,3 +120,4 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-222275
+

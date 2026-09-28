@@ -122,3 +122,4 @@ Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

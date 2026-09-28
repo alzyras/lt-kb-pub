@@ -108,3 +108,4 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

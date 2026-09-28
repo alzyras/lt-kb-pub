@@ -93,3 +93,4 @@ Per šiuos ir panašius užka riavimus Latgala XII amžiuje buvo tapusi Rusios k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -144,3 +144,4 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

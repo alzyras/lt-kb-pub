@@ -61,3 +61,4 @@ Tarp kitų, mažiau įsimintinų, pasirodė žmo gėdrų (androfagų) tauta, kur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

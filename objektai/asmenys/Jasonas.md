@@ -106,3 +106,4 @@ Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir apraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

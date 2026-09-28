@@ -159,3 +159,4 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   pagrindžia:
     - t-001
     - t-002
+

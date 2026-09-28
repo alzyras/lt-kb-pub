@@ -77,3 +77,4 @@ Mikalojus Vorobjovas Piero della Francescą mini tarp italų tapytojų, sprendus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -82,3 +82,4 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -172,3 +172,4 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

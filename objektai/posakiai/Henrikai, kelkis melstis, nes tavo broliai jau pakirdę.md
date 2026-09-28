@@ -148,3 +148,4 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -62,3 +62,4 @@ Nepradedami aiškinti šios Dusburgiečio kronikos vietos, pateiksime tą patį 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

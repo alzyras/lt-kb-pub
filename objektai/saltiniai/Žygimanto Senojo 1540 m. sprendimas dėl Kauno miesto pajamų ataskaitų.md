@@ -63,3 +63,4 @@ Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Kaip rašė Leo Straussas,.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -164,3 +164,4 @@ Kristupas Manvydas Dorohostaiskis 1587 m. kreipėsi į Vilniaus vaivadą Kristup
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

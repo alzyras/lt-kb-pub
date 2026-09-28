@@ -64,3 +64,4 @@ Zigmantas Vaza priminė vaitui, kad šis neskriaus tų miestiečių, nes šie tu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

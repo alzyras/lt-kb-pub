@@ -110,3 +110,4 @@ canonical_biography: "6 Danielius Romaoovičius (1201— 1264) — Haličo ir Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -70,3 +70,4 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

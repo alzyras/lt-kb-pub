@@ -76,3 +76,4 @@ Tautvilas Konradas buvo Kęstučio sūnus ir Vytauto bei Žygimanto brolis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

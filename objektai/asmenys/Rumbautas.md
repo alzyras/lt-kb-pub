@@ -92,3 +92,4 @@ Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

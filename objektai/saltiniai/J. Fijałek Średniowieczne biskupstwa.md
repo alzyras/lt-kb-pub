@@ -76,3 +76,4 @@ Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

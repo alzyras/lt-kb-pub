@@ -81,3 +81,4 @@ canonical_biography: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

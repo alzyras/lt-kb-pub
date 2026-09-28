@@ -279,3 +279,4 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

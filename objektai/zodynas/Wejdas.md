@@ -47,3 +47,4 @@ Narbutas aiškino Wejdas kaip „stabą arba veidą, atvaizdą“ ir laikė jį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

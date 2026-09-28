@@ -51,3 +51,4 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

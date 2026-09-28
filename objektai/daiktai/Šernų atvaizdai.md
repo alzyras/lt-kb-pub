@@ -74,3 +74,4 @@ Jie garbina Dievo Motiną, kaip savo burto ženklus nešioja šernų at vaizdus,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

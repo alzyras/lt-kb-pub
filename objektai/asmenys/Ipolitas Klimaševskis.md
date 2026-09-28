@@ -218,3 +218,4 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

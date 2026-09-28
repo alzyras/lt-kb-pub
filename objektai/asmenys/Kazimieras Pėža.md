@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Kazimieras Pėža"]
 sameAs: []
-canonical_biography: "Kuosėnai – 1 dūmas (Kazimiero Pėžos)."
+canonical_biography: "."
 ---
 # Kazimieras Pėža
 

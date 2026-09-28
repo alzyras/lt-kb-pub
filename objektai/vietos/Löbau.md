@@ -130,3 +130,4 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

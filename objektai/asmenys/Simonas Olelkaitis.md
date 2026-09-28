@@ -157,3 +157,4 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

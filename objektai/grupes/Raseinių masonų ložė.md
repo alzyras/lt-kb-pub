@@ -57,3 +57,4 @@ Raseinių masonų ložė buvo pasivadinusi mitinio personažo Palemono vardu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

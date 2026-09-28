@@ -64,3 +64,4 @@ Ten teveikė viena istorijos katedra su (^32) Geschichte von Litauen als einem e
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

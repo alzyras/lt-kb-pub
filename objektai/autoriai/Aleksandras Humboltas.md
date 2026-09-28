@@ -191,3 +191,4 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai Å
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

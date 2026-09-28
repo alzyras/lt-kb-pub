@@ -58,3 +58,4 @@ Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupū�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

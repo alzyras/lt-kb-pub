@@ -106,3 +106,4 @@ Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -44,3 +44,4 @@ Pats Dusburgas (nepaisant jo teksto šiame skyriuje apie Prūsijos sienas), regi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

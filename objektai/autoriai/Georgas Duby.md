@@ -104,3 +104,4 @@ Georgo Duby feodalizmo samprata naudojama A. Bumblausko svarstymuose apie Lietuv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Narbutas 1805 m. Kalnėnų kaime prie Jurbarko pastebėjo ištekėjusių moterų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

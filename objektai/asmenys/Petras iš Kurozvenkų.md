@@ -101,3 +101,4 @@ Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217335
+

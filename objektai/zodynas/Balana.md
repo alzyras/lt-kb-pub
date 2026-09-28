@@ -91,3 +91,4 @@ Terminas vartojamas kaip vienas senosios kaimo buities ženklų.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177871
+

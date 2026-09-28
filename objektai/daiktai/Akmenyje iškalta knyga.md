@@ -79,3 +79,4 @@ Knyga turėjo į medinius panašius lapus, užrašytus hebrajiškai, graikiškai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

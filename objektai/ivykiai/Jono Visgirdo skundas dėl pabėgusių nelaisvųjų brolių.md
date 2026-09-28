@@ -85,3 +85,4 @@ Gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

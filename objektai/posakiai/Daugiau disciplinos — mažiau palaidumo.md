@@ -56,3 +56,4 @@ Daugiau disciplinos — mažiau pa laidumo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

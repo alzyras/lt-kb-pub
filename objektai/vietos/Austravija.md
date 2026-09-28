@@ -97,3 +97,4 @@ Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amela
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

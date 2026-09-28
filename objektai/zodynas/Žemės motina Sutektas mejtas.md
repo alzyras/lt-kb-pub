@@ -49,3 +49,4 @@ Narbutas Žemės motiną (Žemines Mahti) aprašo kaip požemio deivę, gyvenusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

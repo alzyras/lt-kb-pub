@@ -107,3 +107,4 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

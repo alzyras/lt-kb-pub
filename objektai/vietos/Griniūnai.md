@@ -86,3 +86,4 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

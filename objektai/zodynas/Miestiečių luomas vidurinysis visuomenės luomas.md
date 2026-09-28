@@ -151,3 +151,4 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

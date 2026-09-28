@@ -436,3 +436,4 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

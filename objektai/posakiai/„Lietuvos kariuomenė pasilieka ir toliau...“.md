@@ -68,3 +68,4 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

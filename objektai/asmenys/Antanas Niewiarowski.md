@@ -107,3 +107,4 @@ canonical_biography: "1842 m. Antanas Niewiarowski suteikė memorialui galutinį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

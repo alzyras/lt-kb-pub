@@ -76,3 +76,4 @@ Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­ demija neturi, išsk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

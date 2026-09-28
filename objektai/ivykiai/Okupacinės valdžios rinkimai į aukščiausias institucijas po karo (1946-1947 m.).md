@@ -150,3 +150,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti teiginį su pokario okupacinės valdžios rinkimais ir užbaigti mintį."
   pagrindžia:
     - c-66930
+

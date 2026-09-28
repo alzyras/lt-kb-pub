@@ -138,3 +138,4 @@ Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

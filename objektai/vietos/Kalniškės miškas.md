@@ -253,3 +253,4 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

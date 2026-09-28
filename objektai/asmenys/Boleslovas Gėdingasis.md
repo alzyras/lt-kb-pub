@@ -144,3 +144,4 @@ canonical_biography: "1253 m. galindai ir jotvingiai perėjo Krokuvos Boleslovo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -142,3 +142,4 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

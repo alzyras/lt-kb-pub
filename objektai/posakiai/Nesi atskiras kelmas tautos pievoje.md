@@ -71,3 +71,4 @@ Lietuvis nesupran ta arba suprasti nemoka, kad lietuvių šeimy nos yra surišto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

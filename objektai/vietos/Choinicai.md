@@ -150,3 +150,4 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211492
+

@@ -68,3 +68,4 @@ Glėbas Karijotaitis buvo Glėbo Sviatoslavovičiaus įbrolis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

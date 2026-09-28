@@ -134,3 +134,4 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

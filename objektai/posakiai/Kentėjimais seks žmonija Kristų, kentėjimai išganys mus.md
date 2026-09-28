@@ -62,3 +62,4 @@ Jeigu tasai begalinis šimtų tūkstančių žmonių kentėjimas pamokys žmonij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

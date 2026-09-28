@@ -62,3 +62,4 @@ O Vilniuje tarybos metinėse ataskaitose turėjo dalyvauti miestiečių bendruom
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

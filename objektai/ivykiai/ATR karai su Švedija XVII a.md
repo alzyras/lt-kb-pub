@@ -94,3 +94,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata nepagrindžia karų datų ar Vazų pretenzijų, bet pagrindžia karo eigą ir padarinius."
   pagrindžia:
     - c-22900
+

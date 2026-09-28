@@ -89,3 +89,4 @@ Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

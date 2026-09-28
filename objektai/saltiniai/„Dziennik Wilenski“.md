@@ -84,3 +84,4 @@ Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -87,3 +87,4 @@ Terminas vartojamas kerdžiaus darbo ir kaimo signalų perdavimo kontekste.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177875
+

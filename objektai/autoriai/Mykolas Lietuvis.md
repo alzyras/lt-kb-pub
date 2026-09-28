@@ -540,3 +540,4 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216914
+

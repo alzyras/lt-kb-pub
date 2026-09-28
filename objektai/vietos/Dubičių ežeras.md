@@ -54,3 +54,4 @@ Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aišk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Bronė Vezbergienė"]
 sameAs: []
-canonical_biography: "Bronė Vezbergienė (Antašava, 1957–1979)."
+canonical_biography: "."
 ---
 # Bronė Vezbergienė
 

@@ -176,3 +176,4 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

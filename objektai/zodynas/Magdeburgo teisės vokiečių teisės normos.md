@@ -116,3 +116,4 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

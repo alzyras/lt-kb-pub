@@ -150,3 +150,4 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
   pagrindžia:
     - t-001
     - t-003
+

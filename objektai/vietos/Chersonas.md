@@ -178,3 +178,4 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

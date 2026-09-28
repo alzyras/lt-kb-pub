@@ -91,3 +91,4 @@ Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

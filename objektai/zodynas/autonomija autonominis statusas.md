@@ -243,3 +243,4 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

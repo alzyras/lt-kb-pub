@@ -75,3 +75,4 @@ Gal todėl, kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai čiuojamą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

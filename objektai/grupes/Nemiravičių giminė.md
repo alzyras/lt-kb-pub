@@ -69,3 +69,4 @@ Pasak metraščio, po Vytauto atsakymo dėl taikos ponas Andrius buvo pramintas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -121,3 +121,4 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

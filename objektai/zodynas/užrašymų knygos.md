@@ -56,3 +56,4 @@ Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrini�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

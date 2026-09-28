@@ -114,3 +114,4 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

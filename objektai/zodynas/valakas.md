@@ -162,3 +162,4 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-225951
+

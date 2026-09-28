@@ -64,3 +64,4 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

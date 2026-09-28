@@ -81,3 +81,4 @@ canonical_biography: "1741 m. Stanislovas Pioro buvo LDK kariuomenės petihorų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

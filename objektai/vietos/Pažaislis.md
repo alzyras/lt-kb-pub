@@ -75,3 +75,4 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

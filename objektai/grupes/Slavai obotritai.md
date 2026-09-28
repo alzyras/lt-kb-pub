@@ -103,3 +103,4 @@ Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

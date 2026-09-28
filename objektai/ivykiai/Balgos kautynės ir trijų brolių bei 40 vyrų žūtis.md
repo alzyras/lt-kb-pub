@@ -73,3 +73,4 @@ Skumas ir Stucė su didele kariuomene patraukė prie Balgos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

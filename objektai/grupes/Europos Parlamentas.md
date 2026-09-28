@@ -140,3 +140,4 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

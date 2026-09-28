@@ -57,3 +57,4 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -98,3 +98,4 @@ Oviučį, Lietuvos metraščio pasakojimu, tą patį pavasarį kartu su Žitomir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

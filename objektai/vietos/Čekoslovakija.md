@@ -92,3 +92,4 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

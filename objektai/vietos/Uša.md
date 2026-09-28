@@ -57,3 +57,4 @@ Uša yra Nemuno intakas, prie kurio yra Nesvyžius. Uša yra Nemuno intakas, pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

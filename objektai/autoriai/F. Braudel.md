@@ -74,3 +74,4 @@ W. Kula, siekdamas įgyvendinti savo tyrimų tikslus, naudojo F. Braudelio idėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

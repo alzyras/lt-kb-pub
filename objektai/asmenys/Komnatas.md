@@ -57,3 +57,4 @@ Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

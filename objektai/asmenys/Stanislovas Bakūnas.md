@@ -90,3 +90,4 @@ Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217107
+

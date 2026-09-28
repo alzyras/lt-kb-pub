@@ -87,3 +87,4 @@ Krokuvos mokyklos istorikai parengė daugiatomę „Lenkijos istoriją“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

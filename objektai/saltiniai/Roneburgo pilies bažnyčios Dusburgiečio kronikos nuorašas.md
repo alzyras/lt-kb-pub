@@ -110,3 +110,4 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikos nuorašas buvo ir Livonijoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-222489
+

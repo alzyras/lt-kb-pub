@@ -52,3 +52,4 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Jono Potockio ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

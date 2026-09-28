@@ -157,3 +157,4 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

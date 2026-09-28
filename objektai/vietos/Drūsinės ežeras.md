@@ -183,3 +183,4 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

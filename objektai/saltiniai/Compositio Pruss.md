@@ -64,3 +64,4 @@ Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum C
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84391
+

@@ -68,3 +68,4 @@ Zirgūna įteka į Drūzo ežerą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

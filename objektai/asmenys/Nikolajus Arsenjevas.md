@@ -120,3 +120,4 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

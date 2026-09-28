@@ -69,3 +69,4 @@ Lyda Judsonas Hanifanas socialinį kapitalą apibrėžė ne kaip materialų turt
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

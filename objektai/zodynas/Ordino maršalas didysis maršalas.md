@@ -153,3 +153,4 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

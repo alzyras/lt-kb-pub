@@ -127,3 +127,4 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

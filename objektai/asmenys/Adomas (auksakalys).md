@@ -63,3 +63,4 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

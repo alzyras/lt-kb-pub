@@ -122,3 +122,4 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

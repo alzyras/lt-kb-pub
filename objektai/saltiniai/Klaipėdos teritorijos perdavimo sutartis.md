@@ -74,3 +74,4 @@ Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investic
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -59,3 +59,4 @@ Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Alge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

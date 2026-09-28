@@ -96,3 +96,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-22952
+

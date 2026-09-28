@@ -101,6 +101,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170560
+    - c-182399
 
 <a id="claim-t-199607"></a>
 - t-003
@@ -311,6 +312,8 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
 
 - id: c-182400
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -427,3 +430,4 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211557
+

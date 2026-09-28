@@ -22,17 +22,17 @@ media_all_json: |-
 
 ## Santrauka
 
-Nijolė Stulgienė apybraižoje „Amžių sandūroje“ posakiu „Išmokome – ne šventieji puodus lipdo.“ apibūdino kolektyvo mokymąsi maketuoti kompiuteriu.
+Nijolė Stulgienė apybraižoje „Amžių sandūroje“ posakiu „“ apibūdino kolektyvo mokymąsi maketuoti kompiuteriu.
 
 ## Santrauka
 
-Nijolė Stulgienė apybraižoje „Amžių sandūroje“ posakiu „Išmokome – ne šventieji puodus lipdo.“ apibūdino kolektyvo mokymąsi maketuoti kompiuteriu.
+Nijolė Stulgienė apybraižoje „Amžių sandūroje“ posakiu „“ apibūdino kolektyvo mokymąsi maketuoti kompiuteriu.
 
 ## Teiginiai
 
 <a id="claim-t-226510"></a>
 - t-001
-  teiginys: "Nijolė Stulgienė apybraižoje „Amžių sandūroje“ posakiu „Išmokome – ne šventieji puodus lipdo.“ apibūdino kolektyvo mokymąsi maketuoti kompiuteriu."
+  teiginys: "Nijolė Stulgienė apybraižoje „Amžių sandūroje“ posakiu „“ apibūdino kolektyvo mokymąsi maketuoti kompiuteriu."
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -54,5 +54,6 @@ Nijolė Stulgienė apybraižoje „Amžių sandūroje“ posakiu „Išmokome �
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

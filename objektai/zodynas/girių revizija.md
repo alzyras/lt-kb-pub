@@ -60,3 +60,4 @@ Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

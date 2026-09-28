@@ -87,3 +87,4 @@ Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

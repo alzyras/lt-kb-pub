@@ -116,3 +116,4 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

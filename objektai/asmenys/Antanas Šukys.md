@@ -121,3 +121,4 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

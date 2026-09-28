@@ -84,3 +84,4 @@ Putnas buvo tvirtovinio tipo vienuolynas šiaurės Rumunijoje, įsteigtas Moldav
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -240,3 +240,4 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

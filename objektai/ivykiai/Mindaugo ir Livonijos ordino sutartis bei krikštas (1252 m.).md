@@ -120,3 +120,4 @@ Anot Teodoro Narbuto, Mindaugo pasiuntiniai Livonijoje su turtingomis dovanomis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -122,3 +122,4 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

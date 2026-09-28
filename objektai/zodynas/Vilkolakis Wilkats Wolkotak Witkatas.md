@@ -48,3 +48,4 @@ Vilkolakį Narbutas aiškina kaip latvių Wilkats, rusinų Wolkotak ir lietuvių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

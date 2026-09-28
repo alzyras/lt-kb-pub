@@ -92,3 +92,4 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

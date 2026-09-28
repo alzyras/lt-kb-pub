@@ -197,3 +197,4 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

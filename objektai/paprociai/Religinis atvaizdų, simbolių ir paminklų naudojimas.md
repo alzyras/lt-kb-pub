@@ -79,3 +79,4 @@ Dėl to buvo išrasti atvaizdai, sim boliai, paminklai, trofėjai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

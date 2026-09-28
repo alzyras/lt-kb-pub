@@ -199,3 +199,4 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211957
+

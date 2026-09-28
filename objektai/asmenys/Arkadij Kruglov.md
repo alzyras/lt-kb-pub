@@ -139,3 +139,4 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

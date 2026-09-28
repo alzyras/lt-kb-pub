@@ -117,3 +117,4 @@ Eržvilkas šiame šaltinyje yra vietovė.
   vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
   pagrindžia:
     - c-191153
+

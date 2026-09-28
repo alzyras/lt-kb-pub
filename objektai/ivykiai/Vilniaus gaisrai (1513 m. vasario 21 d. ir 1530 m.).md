@@ -210,3 +210,4 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218741
+

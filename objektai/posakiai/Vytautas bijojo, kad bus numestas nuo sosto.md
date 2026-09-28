@@ -69,3 +69,4 @@ Kronikininko žodžiais, «Vytautas ėmė smarkiai bijoti, kad karaliui (Jogaila
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

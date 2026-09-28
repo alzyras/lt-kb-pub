@@ -107,3 +107,4 @@ Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

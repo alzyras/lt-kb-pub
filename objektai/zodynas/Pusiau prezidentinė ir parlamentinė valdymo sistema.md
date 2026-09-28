@@ -74,3 +74,4 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

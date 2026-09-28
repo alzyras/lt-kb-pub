@@ -72,3 +72,4 @@ Jie garbino Saulę ir Mėnulį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

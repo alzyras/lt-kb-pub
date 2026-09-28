@@ -81,3 +81,4 @@ Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

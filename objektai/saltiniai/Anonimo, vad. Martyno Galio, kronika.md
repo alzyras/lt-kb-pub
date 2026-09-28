@@ -66,3 +66,4 @@ XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­ tyno Galio, kroni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

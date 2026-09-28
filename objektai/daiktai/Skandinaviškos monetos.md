@@ -81,3 +81,4 @@ T. Volianskis manė, kad skandinaviški numizmatiniai paminklai turi nenuginčij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -97,3 +97,4 @@ canonical_biography: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarins
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir paremtas citata."
   pagrindžia:
     - c-21566
+

@@ -82,3 +82,4 @@ Narbutas Voigto „Geschichte Preussens“ I tomo 113 puslapį cituoja prie Ange
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

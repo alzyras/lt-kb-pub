@@ -118,3 +118,4 @@ Kryžiuočių žygio į Gardiną metu šešiasdešimt riterių su kariuomene pat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

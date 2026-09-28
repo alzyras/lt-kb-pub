@@ -73,3 +73,4 @@ Balys : Lithuania and Lithuanians.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Narbutas nurodo, kad Varmijos vyskupo Anzelmo raÅ¡te Lemptenburgas minimas frazÄ
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

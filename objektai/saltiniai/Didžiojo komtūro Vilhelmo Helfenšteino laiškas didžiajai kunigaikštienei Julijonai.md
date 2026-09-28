@@ -81,3 +81,4 @@ Vilhelmo Helfenšteino laiškas didžiajai kunigaikštienei Julijonai parašytas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

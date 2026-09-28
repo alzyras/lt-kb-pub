@@ -53,3 +53,4 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

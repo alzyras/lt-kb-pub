@@ -129,3 +129,4 @@ Nyderlandų Respublika buvo siejama su trišale sąjungos sutartimi kartu su Pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

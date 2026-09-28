@@ -74,3 +74,4 @@ Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

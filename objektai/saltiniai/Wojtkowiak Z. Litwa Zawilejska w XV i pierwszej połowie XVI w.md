@@ -67,3 +67,4 @@ Dusburgietis teigia, kad wojtkowiak Z.
   temporaliniai_duomenys: "įvykio data: 1980 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį faktą apie leidinį."
+

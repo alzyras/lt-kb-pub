@@ -69,3 +69,4 @@ Martyno iš Opavos kronika paraleliai pateikė Romos popiežių ir imperatorių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Reikia daryti išvadą, kad ąžuolas, iš po kurio kelmo iškasti tie seno vės
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

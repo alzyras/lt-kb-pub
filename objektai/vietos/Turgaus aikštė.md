@@ -257,3 +257,4 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

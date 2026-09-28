@@ -131,3 +131,4 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

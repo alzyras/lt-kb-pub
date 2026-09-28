@@ -493,3 +493,4 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

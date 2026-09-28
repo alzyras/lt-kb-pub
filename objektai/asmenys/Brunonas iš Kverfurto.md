@@ -156,3 +156,4 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

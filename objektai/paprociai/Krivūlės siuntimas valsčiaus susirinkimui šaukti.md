@@ -75,3 +75,4 @@ Tą lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy nui, tas tuč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

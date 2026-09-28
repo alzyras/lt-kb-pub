@@ -73,3 +73,4 @@ Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip švie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

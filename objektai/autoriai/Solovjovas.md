@@ -104,3 +104,4 @@ Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

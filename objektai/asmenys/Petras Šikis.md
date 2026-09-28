@@ -71,3 +71,4 @@ canonical_biography: "1580 m. Kaune besisukinėjantis valstietis Motiejus Juknev
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

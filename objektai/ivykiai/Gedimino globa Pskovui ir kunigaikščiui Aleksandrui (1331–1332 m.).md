@@ -121,3 +121,4 @@ Po aštuoniolikos mėnesių Gediminas, pasak Teodoro Narbuto, sudarė Aleksandru
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

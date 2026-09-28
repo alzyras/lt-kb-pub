@@ -59,3 +59,4 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

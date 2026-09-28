@@ -64,3 +64,4 @@ Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

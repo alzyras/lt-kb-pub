@@ -105,3 +105,4 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

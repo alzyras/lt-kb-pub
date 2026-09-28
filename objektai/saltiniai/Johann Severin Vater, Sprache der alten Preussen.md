@@ -97,3 +97,4 @@ Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išle
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

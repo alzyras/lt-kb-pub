@@ -69,3 +69,4 @@ Galutinai po pusės valandos jo rūpes tingo vaikščiojimo, pavyko surasti vež
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

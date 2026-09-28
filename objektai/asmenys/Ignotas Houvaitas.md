@@ -89,3 +89,4 @@ canonical_biography: "žemės teismo antspaudu, išduo­ tas Jo Malonybei kunigu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

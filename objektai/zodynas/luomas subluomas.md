@@ -88,3 +88,4 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

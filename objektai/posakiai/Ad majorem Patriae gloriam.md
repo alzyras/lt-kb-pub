@@ -57,3 +57,4 @@ Tuom tik save ir savo žings nį teisinau, kad tai darau ad majorem Patriae glor
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

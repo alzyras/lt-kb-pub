@@ -105,3 +105,4 @@ Bevažinėjant jam po Europą sudaryta jojo pastangomis komisija iš neutralių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

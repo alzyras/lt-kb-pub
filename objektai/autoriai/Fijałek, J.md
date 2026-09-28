@@ -87,3 +87,4 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   pagrindžia:
     - t-001
     - t-002
+

@@ -77,3 +77,4 @@ Dusburgietis teigia, kad otrembskis etnonimą prūsas siejo su sanskrito púrusa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

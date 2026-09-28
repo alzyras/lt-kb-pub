@@ -68,5 +68,6 @@ Kupiškio parapijos 1936, 1937 ir 1938 m. apyskaitos naudotos lentelei sudaryti.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

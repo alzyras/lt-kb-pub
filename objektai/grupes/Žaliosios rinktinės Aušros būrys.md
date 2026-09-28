@@ -69,3 +69,4 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

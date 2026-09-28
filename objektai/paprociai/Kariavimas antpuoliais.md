@@ -82,3 +82,4 @@ Kariavimą antpuoliais Teodoras Narbutas sieja su pykčiu, goduliu ir pasileidim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

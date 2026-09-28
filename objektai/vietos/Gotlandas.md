@@ -159,3 +159,4 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

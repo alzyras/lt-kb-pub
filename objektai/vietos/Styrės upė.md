@@ -107,3 +107,4 @@ Narbutas, sekdamas Malte-Brunu, Styrės upę laikė stūmių gyvenamųjų vietų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -104,3 +104,4 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
   pagrindžia:
     - t-001
     - t-002
+

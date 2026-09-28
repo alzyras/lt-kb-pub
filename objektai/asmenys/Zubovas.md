@@ -73,3 +73,4 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

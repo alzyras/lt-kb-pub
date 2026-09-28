@@ -81,3 +81,4 @@ canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

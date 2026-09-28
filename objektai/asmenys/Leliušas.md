@@ -96,3 +96,4 @@ Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimanta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211535
+

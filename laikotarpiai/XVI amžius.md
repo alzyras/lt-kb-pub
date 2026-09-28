@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVI amžius"
 periodo_pradzia: 1501
 periodo_pabaiga: 1600
-periodo_objektu_skaicius: 1409
+periodo_objektu_skaicius: 1411
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1409.
+Objektų skaičius: 1411.
 
 ## Susiję objektai
 
@@ -27,6 +27,7 @@ Objektų skaičius: 1409.
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
 - [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]
+- [[objektai/asmenys/Aleksandras Chodkevičius (1475-1549)]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Andrius Kopernikas]]
 - [[objektai/asmenys/Andrius Naruševičius]]
@@ -1072,6 +1073,7 @@ Objektų skaičius: 1409.
 - [[objektai/saltiniai/1581 m. apaštališkojo nuncijaus patvirtinimas dėl Jus Patronatus]]
 - [[objektai/saltiniai/1583 m. lapkričio 26 d. karaliaus raštas dėl švenčių pagal naująjį kalendorių]]
 - [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
+- [[objektai/saltiniai/1947 m. gegužės 5 d. operatyvinė suvestinė Nr. 66 apie Kupiškio apskritį]]
 - [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329]]
 - [[objektai/saltiniai/A. Prochaska, Dzieje Witolda]]

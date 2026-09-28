@@ -66,3 +66,4 @@ Henrikas, [Pfalco prie] Reino pfalcgrafas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -104,3 +104,4 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

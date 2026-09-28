@@ -74,3 +74,4 @@ Kunigaikščio M. Glinskio šalininkas, Nikolskio vietininkas Čečerske Kurbaka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

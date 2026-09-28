@@ -77,3 +77,4 @@ Jurgis Daukantas pasipriešino užpuolimui ir nuginklavo Kazimierą Bivainį, at
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -113,3 +113,4 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

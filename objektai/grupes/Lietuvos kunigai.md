@@ -91,3 +91,4 @@ Vilniaus vyskupijos administratoriaus buvo prašoma pasirašyti Lietuvos kunigų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

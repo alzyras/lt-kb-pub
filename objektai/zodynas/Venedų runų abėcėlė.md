@@ -60,3 +60,4 @@ To dievaičio vardo užrašė raidė „o“ yra įterpta į vidurį, o ne į pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

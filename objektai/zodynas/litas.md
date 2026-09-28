@@ -158,3 +158,4 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

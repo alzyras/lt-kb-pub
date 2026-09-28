@@ -98,3 +98,4 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

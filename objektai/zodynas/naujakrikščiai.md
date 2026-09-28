@@ -83,3 +83,4 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

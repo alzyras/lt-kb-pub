@@ -82,3 +82,4 @@ Teodoro Narbuto aiškinimu, ant Vilniaus herbo esantis milžinas su figūrėle t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

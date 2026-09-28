@@ -55,3 +55,4 @@ Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

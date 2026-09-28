@@ -63,3 +63,4 @@ Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -144,3 +144,4 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

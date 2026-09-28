@@ -62,3 +62,4 @@ Meta lietuvių senąja tarme reiškia kiekvieną laiko tarpą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

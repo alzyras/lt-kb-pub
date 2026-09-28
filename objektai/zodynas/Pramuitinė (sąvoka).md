@@ -62,3 +62,4 @@ Pirklys galėjo laivą iškrauti tik muitininkui apžiūrėjus prekes, be to, gr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

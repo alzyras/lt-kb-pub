@@ -109,3 +109,4 @@ Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

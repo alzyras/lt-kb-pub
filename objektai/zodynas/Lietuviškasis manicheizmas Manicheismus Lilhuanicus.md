@@ -107,3 +107,4 @@ Lietuviškuoju manicheizmu Narbutas vadina tarytum naują Lietuvos bajorų sekt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

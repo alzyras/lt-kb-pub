@@ -104,3 +104,4 @@ Olafo bažnyčioje, pats mačiau medinį kotą su kažkokio audeklo gabalu, kuri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

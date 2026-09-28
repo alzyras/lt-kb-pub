@@ -76,3 +76,4 @@ Iš plytų buvo spėjami geri arba prasti metai, o paskutinė plyta turėjo dvig
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

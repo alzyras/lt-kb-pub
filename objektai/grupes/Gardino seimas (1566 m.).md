@@ -75,3 +75,4 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

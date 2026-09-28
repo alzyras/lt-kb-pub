@@ -140,3 +140,4 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

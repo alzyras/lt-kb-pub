@@ -70,3 +70,4 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

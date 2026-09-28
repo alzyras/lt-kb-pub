@@ -105,3 +105,4 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -76,3 +76,4 @@ Jeigu kronikininkas Wigandas teisingai užrašė, jie dar vidaus karo metu 1382 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

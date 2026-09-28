@@ -113,3 +113,4 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

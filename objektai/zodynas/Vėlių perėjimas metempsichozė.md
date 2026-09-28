@@ -55,3 +55,4 @@ Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

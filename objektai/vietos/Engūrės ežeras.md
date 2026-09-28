@@ -195,3 +195,4 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

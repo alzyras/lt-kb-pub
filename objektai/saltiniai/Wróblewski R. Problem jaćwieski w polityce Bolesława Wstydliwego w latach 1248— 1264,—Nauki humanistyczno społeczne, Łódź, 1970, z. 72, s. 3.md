@@ -51,3 +51,4 @@ Dusburgietis teigia, kad wróblewski R.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

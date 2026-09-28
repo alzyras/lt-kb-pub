@@ -86,3 +86,4 @@ Medvėgalio pilis po ilgų kovų pasidavė krikščionių tikėjimui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

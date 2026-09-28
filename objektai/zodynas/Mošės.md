@@ -80,3 +80,4 @@ Terminas vartojamas vestuvių dovanų paskirstymo kontekste.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178034
+

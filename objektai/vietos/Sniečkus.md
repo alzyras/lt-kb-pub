@@ -91,3 +91,4 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

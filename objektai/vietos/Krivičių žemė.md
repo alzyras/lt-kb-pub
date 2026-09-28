@@ -102,3 +102,4 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

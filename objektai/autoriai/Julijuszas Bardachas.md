@@ -106,3 +106,4 @@ Julijuszas Bardachas tyrė romėnų teisės ir humanizmo įtaką Lietuvos Statut
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207539
+

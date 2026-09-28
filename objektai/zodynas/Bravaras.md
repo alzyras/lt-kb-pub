@@ -86,3 +86,4 @@ Terminas vartojamas XIX a. kaimo gėrimo ir dvaro ūkio kontekste.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178017
+

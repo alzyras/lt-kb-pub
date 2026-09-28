@@ -236,3 +236,4 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218648
+

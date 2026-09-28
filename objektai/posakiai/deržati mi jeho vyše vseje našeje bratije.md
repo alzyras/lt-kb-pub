@@ -70,3 +70,4 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

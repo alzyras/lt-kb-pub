@@ -163,3 +163,4 @@ Hugas Grocijus, tirdamas budinų kolonijas Prūsijoje, citavo Geropijų Bekaną 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

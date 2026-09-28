@@ -71,3 +71,4 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

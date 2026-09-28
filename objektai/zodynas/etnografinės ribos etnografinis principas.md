@@ -292,3 +292,4 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

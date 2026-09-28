@@ -216,3 +216,4 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

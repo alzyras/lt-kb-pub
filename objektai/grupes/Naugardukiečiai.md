@@ -72,3 +72,4 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -49,3 +49,4 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

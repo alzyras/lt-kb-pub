@@ -107,3 +107,4 @@ Kupiškio savanorių gaisrininkų draugija įsteigta 1913 m. vasario 23 d. Vytau
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
+

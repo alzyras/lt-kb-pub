@@ -107,3 +107,4 @@ Adomo Rogalskio vertimas iš lotynų kalbos 1823 m. buvo išspausdintas Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

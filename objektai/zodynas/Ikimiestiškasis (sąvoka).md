@@ -67,3 +67,4 @@ Pirmasis ikimiestiškasis prasideda nuo pirmosios archeologijos metodais fiksuoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -321,3 +321,4 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

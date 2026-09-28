@@ -85,3 +85,4 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   temporalinis_llm_pakomentavimas: "Iš citatos išplėstas veiksnys ir kontekstas, kad sakinys būtų enciklopedinis."
   pagrindžia:
     - c-45249
+

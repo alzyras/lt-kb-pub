@@ -82,3 +82,4 @@ Lietuvos metraštis teigia, kad nuo pasaulio sutvėrimo septyni tūkstančiai a�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

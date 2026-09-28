@@ -105,3 +105,4 @@ Narbutas Ragučio šventikus pietiniki, arba Puotininkus (Potinikaj), aiškino k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

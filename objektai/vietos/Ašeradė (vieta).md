@@ -163,3 +163,4 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

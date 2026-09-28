@@ -744,3 +744,4 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217542
+

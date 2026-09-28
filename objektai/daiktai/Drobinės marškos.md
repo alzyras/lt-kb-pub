@@ -76,3 +76,4 @@ Prieš egzekuciją išdavikai būdavo perrengiami paprastomis drobinėmis maršk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

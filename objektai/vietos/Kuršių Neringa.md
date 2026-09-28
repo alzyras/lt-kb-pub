@@ -86,3 +86,4 @@ Ji ne tik gynė svarbų kelią tarp Prūsų ir Livonijos per patogią Kuršių N
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

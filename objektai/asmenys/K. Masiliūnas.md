@@ -106,7 +106,7 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-00118
@@ -128,7 +128,7 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176296
@@ -150,5 +150,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+

@@ -58,3 +58,4 @@ Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

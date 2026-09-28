@@ -76,3 +76,4 @@ Dusburgietis teigia, kad apie Dovydo GardiniÅ¡kio alodo, arba dvaro, sunaikinimÄ
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

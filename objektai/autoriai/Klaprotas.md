@@ -228,3 +228,4 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216974
+

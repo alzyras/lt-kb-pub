@@ -111,3 +111,4 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

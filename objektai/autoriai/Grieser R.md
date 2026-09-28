@@ -87,3 +87,4 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

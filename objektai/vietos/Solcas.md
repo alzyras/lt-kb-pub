@@ -75,3 +75,4 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

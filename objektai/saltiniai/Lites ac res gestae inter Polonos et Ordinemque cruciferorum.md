@@ -89,3 +89,4 @@ Dusburgietis teigia, kad lites ac res gestae inter Polonos et Ordinemque crucife
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

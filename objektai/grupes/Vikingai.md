@@ -116,3 +116,4 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

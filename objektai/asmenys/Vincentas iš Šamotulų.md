@@ -138,3 +138,4 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

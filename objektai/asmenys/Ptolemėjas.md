@@ -409,3 +409,4 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

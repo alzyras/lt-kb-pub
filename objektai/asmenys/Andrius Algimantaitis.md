@@ -61,3 +61,4 @@ Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

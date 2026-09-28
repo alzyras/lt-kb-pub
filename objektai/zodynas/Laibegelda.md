@@ -91,3 +91,4 @@ Narbutas Laibegeldą apibūdino kaip deivę Žinią, skleidžiančią žinias, �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

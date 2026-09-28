@@ -50,3 +50,4 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

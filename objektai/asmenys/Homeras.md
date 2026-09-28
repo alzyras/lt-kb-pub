@@ -136,3 +136,4 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

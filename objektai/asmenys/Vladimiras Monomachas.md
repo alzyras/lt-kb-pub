@@ -100,3 +100,4 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

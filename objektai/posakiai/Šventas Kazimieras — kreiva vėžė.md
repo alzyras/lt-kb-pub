@@ -87,3 +87,4 @@ Liaudiškas posakis, siejamas su žiemos pabaigos kelių būkle.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177869
+

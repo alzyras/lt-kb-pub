@@ -173,3 +173,4 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

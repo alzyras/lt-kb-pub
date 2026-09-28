@@ -123,3 +123,4 @@ Kauno lenkai, norėdami gauti pinigų iš lietuvio delegato, pereidavo prie liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

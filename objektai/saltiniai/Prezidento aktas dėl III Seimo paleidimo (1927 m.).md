@@ -80,3 +80,4 @@ Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -71,3 +71,4 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

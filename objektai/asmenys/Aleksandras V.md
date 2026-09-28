@@ -75,3 +75,4 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

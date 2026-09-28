@@ -150,3 +150,4 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
   pagrindžia:
     - c-192173
+

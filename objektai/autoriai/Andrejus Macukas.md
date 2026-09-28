@@ -127,3 +127,4 @@ Andrejus Macukas yra istorijos mokslų kandidatas (daktaras).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -322,3 +322,4 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

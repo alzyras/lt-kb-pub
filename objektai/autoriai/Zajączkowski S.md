@@ -81,3 +81,4 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

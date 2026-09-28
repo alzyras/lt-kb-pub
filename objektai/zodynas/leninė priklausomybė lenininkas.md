@@ -73,3 +73,4 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

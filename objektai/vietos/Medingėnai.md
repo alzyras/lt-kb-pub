@@ -78,3 +78,4 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

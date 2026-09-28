@@ -73,3 +73,4 @@ Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

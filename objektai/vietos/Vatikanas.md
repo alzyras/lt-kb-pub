@@ -85,3 +85,4 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

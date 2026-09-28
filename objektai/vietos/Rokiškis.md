@@ -92,3 +92,4 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

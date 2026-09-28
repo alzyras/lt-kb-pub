@@ -63,3 +63,4 @@ Tai buvo duonos kepėjai ir pyragiai (bandelių ar pyragų kepėjai ir kepėjos,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

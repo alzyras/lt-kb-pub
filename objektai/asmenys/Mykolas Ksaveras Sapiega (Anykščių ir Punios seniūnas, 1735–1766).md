@@ -162,3 +162,4 @@ Mykolas Ksaveras Sapiega buvo Punios ir Anykščių seniūnas. Vėliau jis tapo 
   atnaujinta: "2026-07-26 17:49"
   pagrindžia:
     - t-004
+

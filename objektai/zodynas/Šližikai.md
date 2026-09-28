@@ -86,3 +86,4 @@ Terminas vartojamas kalbant apie Kūčių valgį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

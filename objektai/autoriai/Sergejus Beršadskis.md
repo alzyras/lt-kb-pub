@@ -71,3 +71,4 @@ Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

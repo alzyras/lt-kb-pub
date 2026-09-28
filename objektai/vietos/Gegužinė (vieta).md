@@ -76,3 +76,4 @@ Vėliau 1643 m. Vladislovas Vaza sprendė Kauno miestiečių bylą su Gegužinė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

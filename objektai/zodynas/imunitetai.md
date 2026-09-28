@@ -78,3 +78,4 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

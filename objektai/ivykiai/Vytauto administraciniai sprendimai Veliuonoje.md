@@ -77,3 +77,4 @@ Vytautas įsteigė Veliuonos vėliavininkiją arba apskritį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

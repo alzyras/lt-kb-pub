@@ -98,3 +98,4 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

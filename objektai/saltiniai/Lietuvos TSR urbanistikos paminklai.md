@@ -83,3 +83,4 @@ Dusburgietis teigia, kad lietuvos TSR urbanistikos paminklai.— Kn.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

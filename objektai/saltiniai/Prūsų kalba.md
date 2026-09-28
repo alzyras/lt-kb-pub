@@ -62,3 +62,4 @@ Dusburgietis teigia, kad prūsų kalba —MLTE, 1968, 2, p. 935—936.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

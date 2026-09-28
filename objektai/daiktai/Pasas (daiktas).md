@@ -79,3 +79,4 @@ Iš vokiečių konsulio Kopenhagene gau ta pasas Kaunan per Warnemundą, Berlyn�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -56,3 +56,4 @@ T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

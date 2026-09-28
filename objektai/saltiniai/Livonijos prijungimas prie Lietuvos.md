@@ -83,3 +83,4 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

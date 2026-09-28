@@ -103,3 +103,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie raudonų vėliavų naudojimą minimame kontekste."
   pagrindžia:
     - c-22288
+

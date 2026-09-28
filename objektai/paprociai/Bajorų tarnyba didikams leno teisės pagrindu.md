@@ -176,3 +176,4 @@ XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

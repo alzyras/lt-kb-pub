@@ -67,3 +67,4 @@ Sutarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

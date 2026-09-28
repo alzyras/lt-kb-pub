@@ -104,3 +104,4 @@ Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

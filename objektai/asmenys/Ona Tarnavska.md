@@ -75,3 +75,4 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

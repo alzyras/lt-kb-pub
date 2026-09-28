@@ -136,3 +136,4 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

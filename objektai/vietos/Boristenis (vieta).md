@@ -74,3 +74,4 @@ Jiems priklausiusi skitų gentis, vadinama borestenitais, neabejotinai buvo ta, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

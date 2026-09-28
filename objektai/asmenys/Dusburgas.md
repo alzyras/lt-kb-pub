@@ -245,3 +245,4 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

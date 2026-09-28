@@ -56,3 +56,4 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

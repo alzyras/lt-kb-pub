@@ -72,3 +72,4 @@ Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl H
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

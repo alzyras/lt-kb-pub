@@ -84,3 +84,4 @@ Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

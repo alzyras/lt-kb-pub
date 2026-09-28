@@ -104,3 +104,4 @@ Ištrauka iš Johano Foigto „Prūsijos istorijos“ priedo (t. Net ne dėl to 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

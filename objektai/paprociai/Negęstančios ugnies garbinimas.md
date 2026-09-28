@@ -72,3 +72,4 @@ Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

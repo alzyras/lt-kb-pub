@@ -745,3 +745,4 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217645
+

@@ -61,3 +61,4 @@ Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

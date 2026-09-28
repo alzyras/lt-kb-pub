@@ -66,3 +66,4 @@ Tai pačiai deivei, arba Laimai, priklausė ir Laumės (Lauma) vardas, nors kai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

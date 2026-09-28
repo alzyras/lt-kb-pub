@@ -69,3 +69,4 @@ O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

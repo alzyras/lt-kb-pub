@@ -74,3 +74,4 @@ Dusburgietis teigia, kad krivio pasiuntinys, keliaujantis su krivūle ar kitu ž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -63,3 +63,4 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

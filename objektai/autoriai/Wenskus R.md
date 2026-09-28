@@ -88,3 +88,4 @@ Dusburgietis teigia, kad hP, 1, 1, p. 284; Wenskus R.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

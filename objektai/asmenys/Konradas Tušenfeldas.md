@@ -65,3 +65,4 @@ Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

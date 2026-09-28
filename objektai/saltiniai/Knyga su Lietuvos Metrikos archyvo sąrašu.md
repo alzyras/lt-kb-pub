@@ -79,3 +79,4 @@ Lietuvos Metrikos archyvo sąrašo ištraukoje užfiksuotas Jano Filipovičiaus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

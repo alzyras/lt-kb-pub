@@ -72,3 +72,4 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

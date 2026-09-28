@@ -116,3 +116,4 @@ Pasak Teodoro Narbuto, po Algirdo mirties 1377 m. Vilniuje Kęstučio ir Liubart
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

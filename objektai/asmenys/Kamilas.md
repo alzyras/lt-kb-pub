@@ -99,3 +99,4 @@ Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -92,3 +92,4 @@ canonical_biography: "Į Šv. Antano vienuolyną 1573 m. rugsėjo 14 d. važiavo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

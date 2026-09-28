@@ -91,3 +91,4 @@ Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovič
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

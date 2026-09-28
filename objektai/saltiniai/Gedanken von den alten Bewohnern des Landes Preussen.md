@@ -101,3 +101,4 @@ Gotfrydo Ostermejerio veikalas „Gedanken von den alten Bewohnern des Landes Pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -50,3 +50,4 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

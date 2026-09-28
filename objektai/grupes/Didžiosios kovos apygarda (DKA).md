@@ -113,3 +113,4 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

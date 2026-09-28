@@ -85,3 +85,4 @@ Gaudencijus buvo šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

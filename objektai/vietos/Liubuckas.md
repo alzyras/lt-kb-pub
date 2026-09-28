@@ -140,3 +140,4 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

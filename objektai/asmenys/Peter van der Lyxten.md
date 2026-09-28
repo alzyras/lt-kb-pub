@@ -79,3 +79,4 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

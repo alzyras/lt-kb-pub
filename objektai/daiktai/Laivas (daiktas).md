@@ -469,3 +469,4 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+

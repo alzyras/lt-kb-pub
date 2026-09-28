@@ -237,3 +237,4 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-222213
+

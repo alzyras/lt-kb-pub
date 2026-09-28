@@ -126,3 +126,4 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -2,6 +2,7 @@ import test, { describe } from "node:test"
 import assert from "node:assert"
 import {
   collectCorpusEvidenceIntegrityIssues,
+  collectDuplicateCitationIdentityIssues,
   collectEvidenceIntegrityIssues,
   evidenceCitationQuoteForClaim,
   evidenceSupportsClaim,
@@ -26,6 +27,37 @@ const validMarkdown = `# Objektas
 `
 
 describe("evidence integrity", () => {
+  test("allows an identical global citation to be reused across object pages", () => {
+    const sharedCitation = validMarkdown.replaceAll("c-001", "c-00001")
+    const secondClaim = validMarkdown
+      .replace("t-001", "t-002")
+      .replace("t-10001", "t-10002")
+      .replaceAll("c-001", "c-00001")
+
+    assert.deepEqual(
+      collectDuplicateCitationIdentityIssues([
+        { filePath: "a.md", markdown: sharedCitation },
+        { filePath: "b.md", markdown: secondClaim },
+      ]),
+      [],
+    )
+  })
+
+  test("rejects a global citation id reused for different citation content", () => {
+    const conflictingCitation = validMarkdown
+      .replaceAll("c-001", "c-00001")
+      .replace(
+        "Vytautas vedė kariuomenę prie mūšio.",
+        "Vilnius buvo didelis miestas.",
+      )
+
+    const issues = collectDuplicateCitationIdentityIssues([
+      { filePath: "a.md", markdown: validMarkdown.replaceAll("c-001", "c-00001") },
+      { filePath: "b.md", markdown: conflictingCitation },
+    ])
+    assert.ok(issues.some((issue) => issue.code === "duplicate_global_citation_id_across_files"))
+  })
+
   test("accepts a matching forward and backlink pair", () => {
     assert.deepEqual(collectEvidenceIntegrityIssues(validMarkdown), [])
   })

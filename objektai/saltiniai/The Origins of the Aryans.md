@@ -92,3 +92,4 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškų teiginį apie autorių ir jo mintį."
   pagrindžia:
     - c-23983
+

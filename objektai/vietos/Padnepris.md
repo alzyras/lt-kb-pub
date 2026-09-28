@@ -56,3 +56,4 @@ Narbutas rašė, kad senieji Padneprio ir Pavyslio gyventojai pildavo milžinkap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

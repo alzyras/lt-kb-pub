@@ -100,3 +100,4 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

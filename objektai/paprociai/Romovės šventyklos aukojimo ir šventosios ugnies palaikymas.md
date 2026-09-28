@@ -76,3 +76,4 @@ Narbutas teigia, kad žmonės šventyklos aikštėje susirinkdavo dalyvauti apei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

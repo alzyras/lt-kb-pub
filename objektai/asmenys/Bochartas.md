@@ -112,3 +112,4 @@ Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-220009
+

@@ -130,3 +130,4 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

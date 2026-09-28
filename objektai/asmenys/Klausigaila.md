@@ -86,3 +86,4 @@ Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

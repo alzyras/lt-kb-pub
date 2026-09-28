@@ -76,3 +76,4 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

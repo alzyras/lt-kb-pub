@@ -145,3 +145,4 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

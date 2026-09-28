@@ -82,3 +82,4 @@ LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skel
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-23756
+

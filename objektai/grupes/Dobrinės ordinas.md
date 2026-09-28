@@ -79,3 +79,4 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

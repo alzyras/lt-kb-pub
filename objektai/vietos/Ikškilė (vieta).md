@@ -117,3 +117,4 @@ Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

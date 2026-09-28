@@ -97,3 +97,4 @@ Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingri�
   pagrindžia:
     - t-001
     - t-002
+

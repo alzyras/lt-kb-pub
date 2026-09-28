@@ -72,3 +72,4 @@ canonical_biography: "Štai 1554 m. Kauno miestietis Andrius Oršuliškis Kauno 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

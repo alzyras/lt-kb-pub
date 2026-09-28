@@ -81,3 +81,4 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

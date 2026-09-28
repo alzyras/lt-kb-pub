@@ -124,3 +124,4 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

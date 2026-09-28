@@ -62,3 +62,4 @@ Pasirinkus pabėgimą į kitą dvarą, nelegalų statusą buvo lengviau įteisin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

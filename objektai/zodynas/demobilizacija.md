@@ -93,3 +93,4 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

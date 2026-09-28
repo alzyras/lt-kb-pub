@@ -75,3 +75,4 @@ Kiek teko sužinoti pas švedų Raudonojo Kryžiaus valdybą apie drabužių siu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

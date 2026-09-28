@@ -349,3 +349,4 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   pagrindžia:
     - t-002
     - t-003
+

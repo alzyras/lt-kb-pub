@@ -112,3 +112,4 @@ Varmės, Notangos ir Bartos prūsai buvo priversti paklusti, duoti įkaitų ir p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

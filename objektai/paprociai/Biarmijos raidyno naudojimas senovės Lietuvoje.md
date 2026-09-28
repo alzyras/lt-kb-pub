@@ -77,3 +77,4 @@ Rašydami šį veikalą, ne kartą kalbėjome apie Biarmijos (Permės) raidyną,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -117,3 +117,4 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   pagrindžia:
     - t-001
     - t-003
+

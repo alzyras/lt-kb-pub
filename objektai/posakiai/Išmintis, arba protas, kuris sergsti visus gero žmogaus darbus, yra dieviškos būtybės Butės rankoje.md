@@ -63,3 +63,4 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

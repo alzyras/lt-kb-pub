@@ -71,3 +71,4 @@ Ta priežastis buvo šioje Siaurės Europos dalyje įvykusi stichinė ne laimė,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

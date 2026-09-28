@@ -81,3 +81,4 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83838
+

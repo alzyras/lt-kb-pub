@@ -72,3 +72,4 @@ Fridrichas iš Libencelės, Albrechtas iš Oros ir Ditrichas iš Altenburgo su 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

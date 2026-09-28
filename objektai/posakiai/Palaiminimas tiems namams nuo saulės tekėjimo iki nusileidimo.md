@@ -77,3 +77,4 @@ Ritualinė elgetos palaiminimo formulė.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177864
+

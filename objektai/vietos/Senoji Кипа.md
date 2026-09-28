@@ -50,3 +50,4 @@ Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

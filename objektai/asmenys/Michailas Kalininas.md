@@ -90,3 +90,4 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

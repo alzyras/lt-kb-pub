@@ -109,3 +109,4 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

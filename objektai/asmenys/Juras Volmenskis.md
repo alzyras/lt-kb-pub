@@ -71,3 +71,4 @@ canonical_biography: "1601 m. Vilniaus pilies teisme Kauno miestietis ir pirklys
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

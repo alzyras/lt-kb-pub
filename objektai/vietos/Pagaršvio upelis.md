@@ -84,3 +84,4 @@ Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo partizanų bunkerį, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

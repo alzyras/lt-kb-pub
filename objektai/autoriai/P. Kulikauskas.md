@@ -82,3 +82,4 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

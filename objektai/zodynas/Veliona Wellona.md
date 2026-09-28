@@ -52,3 +52,4 @@ Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

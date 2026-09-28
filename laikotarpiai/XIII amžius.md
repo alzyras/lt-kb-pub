@@ -49,7 +49,7 @@ Objektų skaičius: 1080.
 - [[objektai/asmenys/Danielius]]
 - [[objektai/asmenys/Danielius Romanovičius]]
 - [[objektai/asmenys/Darsgaitis]]
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- [[objektai/asmenys/Daumantas|Daumantas (Nalšios ir Pskovo kunigaikštis)]]
 - [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/asmenys/Ditrichas (Velzaco pilies kunigas)]]

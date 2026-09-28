@@ -51,3 +51,4 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

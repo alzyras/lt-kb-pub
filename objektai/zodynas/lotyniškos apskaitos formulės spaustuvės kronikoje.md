@@ -83,3 +83,4 @@ Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

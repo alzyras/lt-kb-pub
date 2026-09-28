@@ -70,3 +70,4 @@ Anot jo, senovės rusai yra šiandienos rusų protėviai; šią savo prie laidą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -171,3 +171,4 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

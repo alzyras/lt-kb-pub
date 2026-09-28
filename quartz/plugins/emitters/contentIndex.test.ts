@@ -5,6 +5,7 @@ import {
   exhibitionContentEntry,
   filterPublicNavigationLinks,
   authorityDetailsFromFrontmatter,
+  evidenceQuoteEntries,
   ContentDetails,
   ContentIndexMap,
 } from "./contentIndex"
@@ -115,6 +116,24 @@ describe("ContentIndex sitemap", () => {
 })
 
 describe("ContentIndex links", () => {
+  test("keeps exact quotations out of page-locator-only graph entries", () => {
+    const exactText = "CONFIDENTIAL EXACT QUOTATION"
+    const entries = evidenceQuoteEntries(`## Citatos
+- id: c-001
+  šaltinis: Kupiškio krašto partizanai (2013 m.)
+  citata_originali: ${exactText}
+  indeksas: Kupiškio krašto partizanai (2013 m.), p. 17 (PDF 20).
+  citatos_rezimas: indeksas
+- id: c-002
+  šaltinis: Kitas leidinys
+  citata_originali: Įprasta rodomos citatos ištrauka.
+`)
+
+    assert.strictEqual(entries[0].text, "")
+    assert.strictEqual(entries[0].sourceTitle, "Kupiškio krašto partizanai (2013 m.)")
+    assert.strictEqual(entries[1].text, "Įprasta rodomos citatos ištrauka.")
+  })
+
   test("filters broad navigation-only targets from the public link index", () => {
     const links = filterPublicNavigationLinks([
       "objektai/asmenys/Vytautas",

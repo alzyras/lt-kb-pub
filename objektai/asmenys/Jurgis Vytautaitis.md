@@ -121,3 +121,4 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217677
+

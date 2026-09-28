@@ -156,3 +156,4 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

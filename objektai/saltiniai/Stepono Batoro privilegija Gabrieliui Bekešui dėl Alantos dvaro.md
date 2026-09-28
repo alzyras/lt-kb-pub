@@ -199,3 +199,4 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

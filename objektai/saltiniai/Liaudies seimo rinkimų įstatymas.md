@@ -59,3 +59,4 @@ Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie ga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

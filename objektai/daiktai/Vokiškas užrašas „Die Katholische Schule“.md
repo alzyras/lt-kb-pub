@@ -78,3 +78,4 @@ Ant Saulės namų durų buvo uždėtas vokiškas užrašas „Die Katholische Sc
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

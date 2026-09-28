@@ -100,3 +100,4 @@ canonical_biography: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

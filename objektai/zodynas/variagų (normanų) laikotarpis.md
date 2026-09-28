@@ -67,3 +67,4 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

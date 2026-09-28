@@ -73,3 +73,4 @@ Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

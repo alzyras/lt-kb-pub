@@ -71,3 +71,4 @@ Motiejus Strijkovskis Bychovco kronikos variantą rado Gardino-Volkovysko krašt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

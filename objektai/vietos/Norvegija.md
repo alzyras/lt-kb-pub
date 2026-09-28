@@ -150,3 +150,4 @@ Norvegija šiame šaltinyje yra valstybė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

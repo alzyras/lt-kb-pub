@@ -239,3 +239,4 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

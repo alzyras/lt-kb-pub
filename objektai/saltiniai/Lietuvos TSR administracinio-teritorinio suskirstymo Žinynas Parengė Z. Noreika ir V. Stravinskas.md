@@ -85,3 +85,4 @@ Dusburgietis teigia, kad lietuvos TSR administracinio-teritorinio suskirstymo Ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

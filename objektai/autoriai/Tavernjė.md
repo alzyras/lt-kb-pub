@@ -52,3 +52,4 @@ Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

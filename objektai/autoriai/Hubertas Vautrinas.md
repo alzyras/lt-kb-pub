@@ -80,3 +80,4 @@ Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respu
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

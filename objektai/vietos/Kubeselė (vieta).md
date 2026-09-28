@@ -119,3 +119,4 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

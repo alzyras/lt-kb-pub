@@ -48,3 +48,4 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

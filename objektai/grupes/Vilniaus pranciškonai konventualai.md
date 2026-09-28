@@ -72,3 +72,4 @@ Vilniuje Kazimierą galėjo aptarnauti pranciškonai konventualai arba bernardin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

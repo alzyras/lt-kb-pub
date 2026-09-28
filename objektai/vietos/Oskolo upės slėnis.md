@@ -61,3 +61,4 @@ Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

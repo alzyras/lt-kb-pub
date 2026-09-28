@@ -122,3 +122,4 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

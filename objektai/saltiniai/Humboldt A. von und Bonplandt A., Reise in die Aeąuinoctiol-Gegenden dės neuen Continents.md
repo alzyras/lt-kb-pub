@@ -100,3 +100,4 @@ Narbutas, tikėtina, rėmėsi Aleksandro von Humboldto ir A. Bonplando kelionių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

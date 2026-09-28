@@ -310,3 +310,4 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

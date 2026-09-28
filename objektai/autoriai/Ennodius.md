@@ -50,3 +50,4 @@ Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Enno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

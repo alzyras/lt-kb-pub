@@ -93,3 +93,4 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

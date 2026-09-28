@@ -210,3 +210,4 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

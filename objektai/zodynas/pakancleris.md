@@ -175,3 +175,4 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

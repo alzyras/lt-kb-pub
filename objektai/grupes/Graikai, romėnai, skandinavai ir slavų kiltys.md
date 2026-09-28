@@ -53,3 +53,4 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

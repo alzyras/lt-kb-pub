@@ -95,3 +95,4 @@ Karaliaučiaus komtūras su sembų kariuomene netikėtai įsiveržė į Vonsdorf
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

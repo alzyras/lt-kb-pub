@@ -185,3 +185,4 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

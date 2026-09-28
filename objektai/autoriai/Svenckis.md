@@ -86,3 +86,4 @@ Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storum
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217716
+

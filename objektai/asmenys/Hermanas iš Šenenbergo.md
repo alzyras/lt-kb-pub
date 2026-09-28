@@ -133,3 +133,4 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

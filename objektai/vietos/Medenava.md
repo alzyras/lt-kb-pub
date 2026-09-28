@@ -91,3 +91,4 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

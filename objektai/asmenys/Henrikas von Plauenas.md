@@ -211,3 +211,4 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

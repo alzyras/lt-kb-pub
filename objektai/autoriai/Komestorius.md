@@ -98,3 +98,4 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

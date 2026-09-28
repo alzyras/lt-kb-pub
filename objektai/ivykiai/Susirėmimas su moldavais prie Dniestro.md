@@ -75,3 +75,4 @@ Stanislovo Petravičiaus vedamą pagalbos kariuomenę prie Dniestro pasitiko mol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

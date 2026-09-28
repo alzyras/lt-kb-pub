@@ -111,3 +111,4 @@ Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dyd�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

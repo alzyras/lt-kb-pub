@@ -80,3 +80,4 @@ Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

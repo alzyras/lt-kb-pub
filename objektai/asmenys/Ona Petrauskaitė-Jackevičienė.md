@@ -45,20 +45,18 @@ Ona Petrauskaitė-Jackevičienė žuvo 1948 m. lapkričio 10 d. Šepetos pelkėj
 
 ## Teiginiai
 
-<a id="claim-t-228210"></a>
-- t-001
-  teiginys: "Ona Petrauskaitė-Jackevičienė žuvo 1948 m. lapkričio 10 d. Šepetos pelkėje."
-  atnaujinta: "2026-09-25 02:17"
+<a id="claim-t-230607"></a>
+- t-230607
+  teiginys: "Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Oną Petrauskaitę-Jackevičienę apibūdina kaip eilinę partizanę."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
-  temporaliniai_duomenys: "įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Aiškiai įvardytos Onos žūties data ir vieta. Kautynių bei kitų žuvusiųjų kontekstas į teiginį nepridėtas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:01Z"
   pagrindžia:
-    - c-208726
+    - c-211245
 
 ## Citatos
 
@@ -71,5 +69,25 @@ Ona Petrauskaitė-Jackevičienė žuvo 1948 m. lapkričio 10 d. Šepetos pelkėj
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
-    - t-001
+
+- id: c-211245
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 288"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 288."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230607
+
+- id: c-213249
+  autorius: "Edita Jankauskienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Partizaninis ginkluotas pasipriešinimas ir jo slopinimas Kupiškio valsčiuje 1944–1953 metais"
+  puslapiai: "p. 617 (PDF 618)"
+  indeksas: "Edita Jankauskienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Partizaninis ginkluotas pasipriešinimas ir jo slopinimas Kupiškio valsčiuje 1944–1953 metais, p. 617 (PDF 618)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+

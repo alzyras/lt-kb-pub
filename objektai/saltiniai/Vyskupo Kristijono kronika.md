@@ -217,3 +217,4 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
   pagrindžia:
     - t-216171
     - t-216973
+

@@ -72,3 +72,4 @@ Aikštė, kur bausti nusikaltėliai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

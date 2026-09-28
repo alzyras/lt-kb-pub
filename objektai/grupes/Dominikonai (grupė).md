@@ -97,3 +97,4 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

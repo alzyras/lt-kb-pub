@@ -100,3 +100,4 @@ Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

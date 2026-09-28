@@ -109,3 +109,4 @@ Jonas Jurgaitis Zaberezinskis buvo Trakų vaivada ir krašto maršalas nuo 1498 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

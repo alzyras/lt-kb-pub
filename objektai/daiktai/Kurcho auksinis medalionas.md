@@ -84,3 +84,4 @@ Kurcho auksinis medalionas buvo maždaug dviejų colių ir dviejų linijų skers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

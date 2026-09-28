@@ -46,3 +46,4 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

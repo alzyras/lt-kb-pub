@@ -79,3 +79,4 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

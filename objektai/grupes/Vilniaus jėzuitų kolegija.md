@@ -382,3 +382,4 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

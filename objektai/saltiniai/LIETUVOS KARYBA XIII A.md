@@ -65,3 +65,4 @@ Informacinių blokų apie karybą sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPER
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

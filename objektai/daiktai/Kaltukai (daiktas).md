@@ -81,3 +81,4 @@ Kaltukai, rasti prie gryno vario likučių, šaltinyje siejami su seniausia epoc
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

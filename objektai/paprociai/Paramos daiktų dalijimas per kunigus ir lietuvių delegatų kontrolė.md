@@ -75,3 +75,4 @@ Vokiečių valdžia numatė dalyti paramos daiktus per kunigus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

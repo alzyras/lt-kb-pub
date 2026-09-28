@@ -90,3 +90,4 @@ Kazimieras Semenavičius yra viena iš žymiausių LDK kultūros asmenybių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

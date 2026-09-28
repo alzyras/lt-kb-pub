@@ -181,3 +181,4 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

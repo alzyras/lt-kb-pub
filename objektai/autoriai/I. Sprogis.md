@@ -91,3 +91,4 @@ I. Sprogis aprašė archyvo knygų turinį. Sprogis k u o p ų t e i s m u i yra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

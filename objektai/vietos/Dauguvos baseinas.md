@@ -64,3 +64,4 @@ Tai ne vietinės kilmės laivo tipas, perimtas iš Dauguvos baseino.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

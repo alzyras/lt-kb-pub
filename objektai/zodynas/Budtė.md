@@ -83,3 +83,4 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

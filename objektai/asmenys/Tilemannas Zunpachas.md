@@ -77,3 +77,4 @@ Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpach
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

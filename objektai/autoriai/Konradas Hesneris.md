@@ -103,3 +103,4 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

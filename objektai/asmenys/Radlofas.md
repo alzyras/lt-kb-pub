@@ -167,3 +167,4 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212908
+

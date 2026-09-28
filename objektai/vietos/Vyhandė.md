@@ -87,3 +87,4 @@ Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218024
+

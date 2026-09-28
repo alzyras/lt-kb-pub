@@ -59,3 +59,4 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

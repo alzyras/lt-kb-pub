@@ -191,3 +191,4 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

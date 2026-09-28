@@ -101,3 +101,4 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

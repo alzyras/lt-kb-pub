@@ -61,3 +61,4 @@ Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

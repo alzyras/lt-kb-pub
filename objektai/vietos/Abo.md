@@ -61,3 +61,4 @@ Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

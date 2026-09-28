@@ -226,3 +226,4 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   pagrindžia:
     - t-002
     - t-004
+

@@ -133,3 +133,4 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

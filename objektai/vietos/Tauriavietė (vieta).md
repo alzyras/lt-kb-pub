@@ -77,3 +77,4 @@ Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

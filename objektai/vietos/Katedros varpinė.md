@@ -78,3 +78,4 @@ Katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

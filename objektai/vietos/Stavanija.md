@@ -130,3 +130,4 @@ Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

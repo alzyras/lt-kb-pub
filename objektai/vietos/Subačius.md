@@ -38,38 +38,6 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 ## Teiginiai
 
-<a id="claim-t-42170"></a>
-- t-001
-  teiginys: "Gegužės 27 d. Panevėžio rinktinė, persekiodama priešą, užėmė Troškūnus ir Subačių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Biržai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Subačius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Biržai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Subačius\" parinktas kaip owner_note_path. Targetas \"Biržai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-45349
-
-<a id="claim-t-42171"></a>
-- t-002
-  teiginys: "Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kupiškis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Subačius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kupiškis: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Subačius\" parinktas kaip owner_note_path. Targetas \"Kupiškis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-45348
-
 <a id="claim-t-226078"></a>
 - t-226078
   teiginys: "Subačiaus geležinkelio stoties biblioteka veikė stoties rajone, o 1941 m. sausio 14 d. buvo pavadinta Subačiaus geležinkelio stoties valstybine viešąja biblioteka."
@@ -99,6 +67,18 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   pagrindžia:
     - c-206595
 
+<a id="claim-t-230656"></a>
+- t-230656
+  teiginys: "Subačiaus valsčius priklausė Laisvės rajonui."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211294
+
 ## Citatos
 
 - id: c-45348
@@ -124,8 +104,6 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - id: c-45349
   sudarytojas: "Karolis Zikaras"
@@ -150,8 +128,6 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-206594
   autorius: "unknown"
@@ -176,6 +152,18 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-226079
+
+- id: c-211294
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 330"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 330."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230656
 
 ## Ryšiai
 - Užėmė Subačių: [[objektai/grupes/Panevėžio rinktinė]]

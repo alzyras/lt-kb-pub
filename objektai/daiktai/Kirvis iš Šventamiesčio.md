@@ -81,3 +81,4 @@ Kaimiečiai šį kirvį laikė stabmeldiškos šventenybės paminklu ir laikė a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

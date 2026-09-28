@@ -50,3 +50,4 @@ Moralius Narbuto išnašoje nurodomas prie aiškinimo apie slavų žodį, reišk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

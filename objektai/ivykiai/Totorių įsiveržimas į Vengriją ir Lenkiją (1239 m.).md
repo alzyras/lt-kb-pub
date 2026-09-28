@@ -72,3 +72,4 @@ Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -72,3 +72,4 @@ T. Narbutas nurodo, kad Vilniuje kunigai lietuviškus pamokslus iš ambonų saky
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ canonical_biography: "1589 m. Zigmantas Vaza paskyrė Stanislovą Dziatkovskį K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

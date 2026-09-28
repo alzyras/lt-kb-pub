@@ -69,3 +69,4 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

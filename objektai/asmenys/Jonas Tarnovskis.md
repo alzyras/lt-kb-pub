@@ -118,3 +118,4 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

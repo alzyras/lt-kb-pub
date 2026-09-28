@@ -75,3 +75,4 @@ Teodoras Narbutas nurodo, kad Dusburgietis nenaudėliais (latrunculi) vadino ma�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

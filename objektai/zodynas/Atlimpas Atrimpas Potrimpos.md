@@ -115,3 +115,4 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   pagrindžia:
     - t-001
     - t-003
+

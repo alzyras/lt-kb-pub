@@ -81,3 +81,4 @@ Išskiriamos trys patriotizmo rūšys: tautos, doktrinos ir peizažo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

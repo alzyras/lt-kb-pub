@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Genovaitė Jurėnienė"]
 sameAs: []
-canonical_biography: "Genovaitė Jurėnienė (Vėžionys, VB, 1964–1994)."
+canonical_biography: "."
 ---
 # Genovaitė Jurėnienė
 
@@ -70,5 +70,6 @@ Genovaitė Jurėnienė 1964–1994 m. dirbo bibliotekininke Vėžionyse.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

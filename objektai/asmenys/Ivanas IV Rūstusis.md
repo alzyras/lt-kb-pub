@@ -94,3 +94,4 @@ canonical_biography: "1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėm�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

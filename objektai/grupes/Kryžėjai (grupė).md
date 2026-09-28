@@ -77,3 +77,4 @@ Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne pl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

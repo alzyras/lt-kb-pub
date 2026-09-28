@@ -77,3 +77,4 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

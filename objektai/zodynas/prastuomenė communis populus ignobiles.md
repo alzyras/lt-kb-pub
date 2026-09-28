@@ -96,3 +96,4 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

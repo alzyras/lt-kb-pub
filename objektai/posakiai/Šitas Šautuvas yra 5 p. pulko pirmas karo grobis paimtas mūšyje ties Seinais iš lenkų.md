@@ -81,3 +81,4 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

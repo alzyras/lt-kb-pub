@@ -79,3 +79,4 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -80,3 +80,4 @@ Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

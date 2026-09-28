@@ -123,3 +123,4 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-65734
+

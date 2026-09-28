@@ -74,3 +74,4 @@ Prie šventyklų būdavo šaltiniai arba šventieji šuliniai, iš kurių semdav
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

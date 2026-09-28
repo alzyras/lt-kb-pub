@@ -89,3 +89,4 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33098
+

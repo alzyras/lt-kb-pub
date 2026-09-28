@@ -97,3 +97,4 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

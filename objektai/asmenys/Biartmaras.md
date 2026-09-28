@@ -101,3 +101,4 @@ Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs gars
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

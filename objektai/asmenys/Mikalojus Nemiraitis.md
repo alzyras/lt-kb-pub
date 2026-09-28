@@ -98,3 +98,4 @@ canonical_biography: "Mikalojaus Nemiraičio Iškoldės dvarui priklausę bajora
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

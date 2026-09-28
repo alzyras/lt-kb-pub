@@ -104,3 +104,4 @@ Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

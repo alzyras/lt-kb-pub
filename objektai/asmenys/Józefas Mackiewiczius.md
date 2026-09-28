@@ -96,3 +96,4 @@ Józefas Mackiewiczius 1940 m., Alfredo Bumblausko perteikimu, apgailestavo, kad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

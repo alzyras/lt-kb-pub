@@ -63,3 +63,4 @@ Moteriškės nešioja, kaip miniškos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

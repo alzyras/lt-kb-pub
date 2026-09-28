@@ -344,3 +344,4 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207569
+

@@ -57,3 +57,4 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

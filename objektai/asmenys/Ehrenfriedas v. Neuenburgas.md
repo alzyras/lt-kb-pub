@@ -70,3 +70,4 @@ Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Krist
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -106,3 +106,4 @@ Narbutas rašė, kad Tatiščevas klaidingai prie Osteros upės žiočių lokali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

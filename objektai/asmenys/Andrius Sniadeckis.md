@@ -157,3 +157,4 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
   pagrindžia:
     - c-191938
+

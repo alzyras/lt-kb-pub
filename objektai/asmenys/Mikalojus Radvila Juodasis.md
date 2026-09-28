@@ -693,3 +693,4 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207729
+

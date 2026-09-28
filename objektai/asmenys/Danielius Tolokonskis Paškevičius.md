@@ -111,3 +111,4 @@ canonical_biography: "Kaip rodo Liudo Glemžos tyrimai, dar 1791 m. rugsėjo 17 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

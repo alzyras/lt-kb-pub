@@ -69,3 +69,4 @@ Jeronimas Maleckis dievą Ukapirmą apibūdino kaip dangaus ir žemės dievą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

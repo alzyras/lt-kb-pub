@@ -69,3 +69,4 @@ Teodoras Narbutas teigia, kad naujų atėjūnų pasirodymas ir Lietuvos valdžio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

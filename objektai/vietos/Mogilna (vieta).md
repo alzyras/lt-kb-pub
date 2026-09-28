@@ -74,3 +74,4 @@ Mogilna buvo BTSR gyvenvietė prie Nemuno aukštupio, apie 80 km į pietus nuo M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

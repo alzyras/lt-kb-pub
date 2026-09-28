@@ -102,3 +102,4 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

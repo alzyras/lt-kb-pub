@@ -107,3 +107,4 @@ Dusburgietis pasakoja, kad Konradas, patartas vyskupo Kristijono ir didikų, sub
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

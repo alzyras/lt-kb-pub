@@ -83,3 +83,4 @@ Lietuviai apnuo dytas strėles naudojo dar 1512 m.1 2 Lietuvos didysis etmo nas,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

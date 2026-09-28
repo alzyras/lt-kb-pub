@@ -78,3 +78,4 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

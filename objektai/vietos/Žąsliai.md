@@ -107,3 +107,4 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

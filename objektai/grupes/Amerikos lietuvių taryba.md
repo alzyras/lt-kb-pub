@@ -82,3 +82,4 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
   temporalinis_llm_pakomentavimas: "Sutrumpinta iki aiškaus enciklopedinio sakinio apie objektą."
   pagrindžia:
     - c-25106
+

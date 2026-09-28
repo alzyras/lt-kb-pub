@@ -78,3 +78,4 @@ Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

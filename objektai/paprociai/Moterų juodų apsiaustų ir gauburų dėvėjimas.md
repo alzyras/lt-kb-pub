@@ -73,3 +73,4 @@ Dauguma moterų dėvėjo juodus apsiaustus su dideliu gauburu ant galvos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

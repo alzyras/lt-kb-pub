@@ -74,3 +74,4 @@ Juška : Mindaugo krikštas, Lux Christi 1951, 1 nr., 3-8 p. ; Mindaugas ir Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

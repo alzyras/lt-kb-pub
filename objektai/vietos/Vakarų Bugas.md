@@ -69,3 +69,4 @@ Horodlė šiame gabale lokalizuojama prie Vakarų Bugo. Vakarų Bugas naudojamas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

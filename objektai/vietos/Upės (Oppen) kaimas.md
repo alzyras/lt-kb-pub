@@ -98,3 +98,4 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -665,3 +665,4 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

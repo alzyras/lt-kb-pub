@@ -97,3 +97,4 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

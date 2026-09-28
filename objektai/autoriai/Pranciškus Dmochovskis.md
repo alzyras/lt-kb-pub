@@ -77,3 +77,4 @@ Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

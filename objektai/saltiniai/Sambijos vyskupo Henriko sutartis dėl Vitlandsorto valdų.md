@@ -91,3 +91,4 @@ Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

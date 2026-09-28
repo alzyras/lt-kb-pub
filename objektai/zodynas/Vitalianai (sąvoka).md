@@ -69,3 +69,4 @@ Teodoras Narbutas aprašo, kad vyskupas, matydamas XIV amžiaus vandalų nunioko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

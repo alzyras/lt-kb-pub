@@ -86,3 +86,4 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

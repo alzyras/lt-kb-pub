@@ -73,3 +73,4 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų išplaukė į pietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

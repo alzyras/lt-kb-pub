@@ -60,3 +60,4 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

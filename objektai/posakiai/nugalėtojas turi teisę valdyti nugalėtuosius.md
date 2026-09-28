@@ -48,3 +48,4 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

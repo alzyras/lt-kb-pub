@@ -68,3 +68,4 @@ Sužinojau, kad dalykas yra sugrą žinime tą 1000 markią.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

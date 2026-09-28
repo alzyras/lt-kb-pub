@@ -138,3 +138,4 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

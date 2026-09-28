@@ -101,3 +101,4 @@ Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

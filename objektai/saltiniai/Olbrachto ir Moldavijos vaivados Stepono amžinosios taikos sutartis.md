@@ -96,3 +96,4 @@ Moldavijos vaivada Steponas su karaliumi Olbrachtu sudarė taiką, davė vasalo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

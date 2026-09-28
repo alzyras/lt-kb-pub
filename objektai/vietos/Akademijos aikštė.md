@@ -139,3 +139,4 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

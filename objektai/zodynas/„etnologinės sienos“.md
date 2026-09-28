@@ -77,3 +77,4 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

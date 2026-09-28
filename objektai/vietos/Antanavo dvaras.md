@@ -67,3 +67,4 @@ Nuo Antanavo dvaro iki Liudvinavo pašešupiuose buvo labai mažai išlikusių s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -90,3 +90,4 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

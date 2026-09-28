@@ -103,3 +103,4 @@ Irena Katilienė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

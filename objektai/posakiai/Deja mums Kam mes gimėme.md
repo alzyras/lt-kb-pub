@@ -75,3 +75,4 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

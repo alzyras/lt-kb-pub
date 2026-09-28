@@ -66,3 +66,4 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

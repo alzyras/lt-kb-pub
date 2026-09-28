@@ -116,3 +116,4 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

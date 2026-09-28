@@ -67,3 +67,4 @@ Vorobjovas Vilniaus gatvių vaizdus lygino su Venecija, Bergamu ir kitais turist
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

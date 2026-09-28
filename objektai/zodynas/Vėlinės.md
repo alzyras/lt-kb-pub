@@ -49,3 +49,4 @@ Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

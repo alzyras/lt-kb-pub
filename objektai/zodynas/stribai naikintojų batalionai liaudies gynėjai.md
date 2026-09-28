@@ -131,3 +131,4 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

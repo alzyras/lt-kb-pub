@@ -197,3 +197,4 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

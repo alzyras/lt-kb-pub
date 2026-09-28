@@ -89,3 +89,4 @@ Rugsėjo 10 d. dienraštyje „Lietuva“ paskelbtoje publikacijoje Hymanso proj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

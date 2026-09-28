@@ -80,3 +80,4 @@ Jėzuitų kongregacija aktyviai dalyvavo XVIII a. Lietuvos viešajame gyvenime.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

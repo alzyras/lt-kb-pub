@@ -58,3 +58,4 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

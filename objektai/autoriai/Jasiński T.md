@@ -78,3 +78,4 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

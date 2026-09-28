@@ -23,7 +23,7 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Gediminas Grina"]
 sameAs: []
-canonical_biography: "Šapalų Grinos ir jų palikuonys Gediminas Grina."
+canonical_biography: "."
 ---
 # Gediminas Grina
 

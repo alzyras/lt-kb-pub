@@ -57,3 +57,4 @@ Tokį pat nuotolį nuo Vys los žiočių į Panoniją suskaičiuoja ir Ptolemėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

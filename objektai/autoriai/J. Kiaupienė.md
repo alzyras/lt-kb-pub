@@ -106,3 +106,4 @@ J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemait
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

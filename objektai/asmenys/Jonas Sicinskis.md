@@ -76,3 +76,4 @@ Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

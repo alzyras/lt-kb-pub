@@ -60,3 +60,4 @@ Simonas Daukantas Didžiajame lenkų-lietuvių kalbų žodyne žodį dzieje aiš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

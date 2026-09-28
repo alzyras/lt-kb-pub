@@ -65,3 +65,4 @@ Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių še
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

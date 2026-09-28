@@ -165,3 +165,4 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

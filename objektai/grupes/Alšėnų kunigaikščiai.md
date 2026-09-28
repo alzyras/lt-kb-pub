@@ -132,3 +132,4 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

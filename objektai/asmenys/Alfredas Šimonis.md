@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Alfredas Šimonis"]
 sameAs: []
-canonical_biography: "Alfredo Šimonio namų pjaustytų lentelių apvadai."
 ---
 # Alfredas Šimonis
 

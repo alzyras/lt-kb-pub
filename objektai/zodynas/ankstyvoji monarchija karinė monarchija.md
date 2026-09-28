@@ -155,3 +155,4 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

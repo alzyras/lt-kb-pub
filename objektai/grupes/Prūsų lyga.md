@@ -58,3 +58,4 @@ Narbutas teigia, kad jotvingiai ir slovėnai priklausė prūsų lygai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

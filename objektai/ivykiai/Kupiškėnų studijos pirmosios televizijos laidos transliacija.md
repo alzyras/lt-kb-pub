@@ -75,5 +75,6 @@ Kupiškėnų studijos pirmąją televizijos laidą kupiškėnai išvydo 1996 m. 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

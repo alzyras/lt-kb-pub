@@ -81,3 +81,4 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -117,3 +117,4 @@ Narbutas Konstantiną Purpurinį vadina istoriku ir juo remiasi aiškindamas apt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

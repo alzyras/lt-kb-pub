@@ -61,3 +61,4 @@ Be vokabuliarinio panašumo, sakinio san dara, balsio ilgumas ir daug kitų gram
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

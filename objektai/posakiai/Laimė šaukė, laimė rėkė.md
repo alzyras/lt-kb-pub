@@ -57,3 +57,4 @@ Laimė šaukė, laimė rėkė, Basa bėgant per kalnelį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

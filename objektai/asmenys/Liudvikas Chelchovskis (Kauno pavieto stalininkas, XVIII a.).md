@@ -95,3 +95,4 @@ Liudvikas Chelchovskis buvo Kauno pavieto stalininkas. 1754 m. karnavalo metu ji
   pagrindžia:
     - t-001
     - t-002
+

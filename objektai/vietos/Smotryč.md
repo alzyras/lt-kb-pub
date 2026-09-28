@@ -81,3 +81,4 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

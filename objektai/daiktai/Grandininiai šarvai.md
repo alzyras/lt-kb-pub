@@ -107,3 +107,4 @@ Hermanas iš Lichtenburgo dėvėjo grandininius marškinius ant pliko kūno. Bro
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

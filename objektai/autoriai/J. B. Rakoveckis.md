@@ -92,3 +92,4 @@ J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

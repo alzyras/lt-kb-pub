@@ -72,3 +72,4 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Gediminaičių-Jogailaičių dinastija buvo aktyvi daugelio šių procesų dalyv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

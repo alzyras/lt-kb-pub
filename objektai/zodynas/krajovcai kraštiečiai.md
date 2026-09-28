@@ -72,3 +72,4 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

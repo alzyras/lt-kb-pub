@@ -59,3 +59,4 @@ Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik riausiai pristaty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

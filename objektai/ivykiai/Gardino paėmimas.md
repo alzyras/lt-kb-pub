@@ -78,3 +78,4 @@ Pasak Teodoro Narbuto, karalius, skubėdamas Gardino link, persikėlė per Nemun
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

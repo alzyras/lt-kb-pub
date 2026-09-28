@@ -35,7 +35,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Vabalninkas","Vabalninkas (vieta)"]
 sameAs: []
-canonical_biography: "Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamiesčio filijinės bažnyčios. Daugiausia Kupiškio dekanato kunigų konferencijų vyko Vabalninke ir Kupiškyje. Nuo 1963 m. rugsėjo 18 d. paskiriamas Vabalninko klebonu."
+canonical_biography: "Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamiesčio filijinės bažnyčios. Daugiausia Kupiškio dekanato kunigų konferencijų vyko Vabalninke ir Kupiškyje. "
 place_authority: true
 historical_names: []
 ---
@@ -100,7 +100,7 @@ Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamies
     - t-006
 
 - c-005
-  santrauka: 'Po talkos baliukui Vabalninkan buteliuko važiuodavom nusipirkt, Utenon alaus.'
+  santrauka: '.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 925 (PDF 926)"
   citatos_rezimas: "indeksas"
@@ -108,3 +108,81 @@ Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamies
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-230664"></a>
+- t-001
+  teiginys: "1944 m. lapkričio 6 d. prie Vabalninko miestelio buvo apšaudyta kariniam daliniui priklausiusi automašina; aukų nebuvo."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:19Z"
+  pagrindžia:
+    - c-211302
+
+<a id="claim-t-230665"></a>
+- t-002
+  teiginys: "Edvardas Pranevičius gimė 1927 m. Vabalninko miestelyje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211303
+
+<a id="claim-t-230666"></a>
+- t-003
+  teiginys: "Antanas Tamulionis-Neris gyveno Vabalninko miestelyje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211304
+
+## Citatos
+
+- id: c-211302
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 147"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 147."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211303
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 208"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 208."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+
+- id: c-211304
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 329"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 329."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-003
+

@@ -153,3 +153,4 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
   pagrindžia:
     - t-220532
     - t-224097
+

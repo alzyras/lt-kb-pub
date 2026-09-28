@@ -66,3 +66,4 @@ Vytauto pagyrimo vertimas atliktas pagal Lietuvos metraščių Trumpojo sąvado 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

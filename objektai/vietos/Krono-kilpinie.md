@@ -104,3 +104,4 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

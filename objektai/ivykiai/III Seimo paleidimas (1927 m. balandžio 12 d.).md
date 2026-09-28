@@ -97,3 +97,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Seimo paleidimą ir rinkimų nepaskelbimą."
   pagrindžia:
     - c-22938
+

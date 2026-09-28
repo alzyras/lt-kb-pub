@@ -69,3 +69,4 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

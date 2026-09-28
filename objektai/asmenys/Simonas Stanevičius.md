@@ -231,3 +231,4 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217026
+

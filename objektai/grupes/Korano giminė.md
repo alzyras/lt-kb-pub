@@ -99,3 +99,4 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

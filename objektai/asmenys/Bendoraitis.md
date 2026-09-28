@@ -76,3 +76,4 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

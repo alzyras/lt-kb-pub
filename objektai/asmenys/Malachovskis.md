@@ -56,3 +56,4 @@ Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

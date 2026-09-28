@@ -87,3 +87,4 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

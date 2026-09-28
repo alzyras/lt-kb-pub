@@ -86,3 +86,4 @@ Ten pat užsimenama, jog Megrelijoje tau ro ragus naudoja kaip taures puotose; j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

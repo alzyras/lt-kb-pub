@@ -106,3 +106,4 @@ Ingigerdą, galbūt rusnėnų kariūno Ingvaro dukrą, Sturlaugas išleido už F
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

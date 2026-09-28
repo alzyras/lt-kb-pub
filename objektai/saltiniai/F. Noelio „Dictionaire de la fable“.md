@@ -47,3 +47,4 @@ Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

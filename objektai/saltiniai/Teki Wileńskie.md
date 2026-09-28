@@ -78,3 +78,4 @@ Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplank
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

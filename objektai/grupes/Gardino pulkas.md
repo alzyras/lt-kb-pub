@@ -72,3 +72,4 @@ Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

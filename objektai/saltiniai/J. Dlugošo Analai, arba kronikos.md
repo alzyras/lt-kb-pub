@@ -234,3 +234,4 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -73,3 +73,4 @@ Brandenburgo pilies gynėjai nuo prūsų gynėsi mediniame kuore.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

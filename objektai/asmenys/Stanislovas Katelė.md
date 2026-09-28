@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Stanislovas Katelė"]
 sameAs: []
-canonical_biography: "Suvainiai – 1 dūmas (Stanislovo Katelės)."
+canonical_biography: "."
 ---
 # Stanislovas Katelė
 

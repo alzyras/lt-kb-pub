@@ -144,3 +144,4 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

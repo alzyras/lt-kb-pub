@@ -85,3 +85,4 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -62,3 +62,4 @@ Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

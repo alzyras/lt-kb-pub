@@ -76,3 +76,4 @@ Fordo komisija derėjosi su neutraliomis Europos šalimis ir kreipėsi į kariau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

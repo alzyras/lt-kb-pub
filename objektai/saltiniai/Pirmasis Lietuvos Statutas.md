@@ -430,3 +430,4 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207773
+

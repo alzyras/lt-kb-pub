@@ -95,3 +95,4 @@ canonical_biography: "Škirpos, įkalinus jį „namų arešte“, birželio 23 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

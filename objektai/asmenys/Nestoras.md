@@ -720,3 +720,4 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

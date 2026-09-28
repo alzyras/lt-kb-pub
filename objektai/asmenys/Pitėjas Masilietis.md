@@ -738,3 +738,4 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

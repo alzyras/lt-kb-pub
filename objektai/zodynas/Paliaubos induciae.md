@@ -126,3 +126,4 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

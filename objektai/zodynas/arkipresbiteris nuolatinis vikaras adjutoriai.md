@@ -132,3 +132,4 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

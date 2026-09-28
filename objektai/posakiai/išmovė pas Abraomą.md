@@ -55,3 +55,4 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -170,3 +170,4 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217694
+

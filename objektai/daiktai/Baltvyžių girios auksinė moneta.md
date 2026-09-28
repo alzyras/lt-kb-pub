@@ -118,3 +118,4 @@ Moneta buvo auksinė ir didelė kaip lenkiškas varinis grašis. Kitoje pusėje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

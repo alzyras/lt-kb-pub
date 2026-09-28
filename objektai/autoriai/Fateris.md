@@ -370,3 +370,4 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

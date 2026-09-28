@@ -61,3 +61,4 @@ Narbutas gelonų-budinų tautą atveda į Sniatyno apylinkes prie Maročės ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

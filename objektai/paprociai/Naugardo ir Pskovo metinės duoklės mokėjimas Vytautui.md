@@ -80,3 +80,4 @@ Naugardiečiai kasmet į Vytauto iždą mokėjo 10 000 auksinų, 40 sunkiųjų �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -87,3 +87,4 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

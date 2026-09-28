@@ -84,3 +84,4 @@ Kauno turgaus aikštėje prie gėdos stulpo turėjo būti atliekama plakimo baus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Mikalojus Vorobjovas Igno Šeiniaus posakį pateikė aiškindamas, kaip architek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

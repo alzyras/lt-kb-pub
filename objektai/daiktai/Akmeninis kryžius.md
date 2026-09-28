@@ -123,3 +123,4 @@ Iš akmens nutašyti antkapiniai kryžiai Lietuvoje plito nuo XIX a. antrosios p
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
+

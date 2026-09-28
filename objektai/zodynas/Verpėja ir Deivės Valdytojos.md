@@ -148,3 +148,4 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

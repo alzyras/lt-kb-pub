@@ -67,3 +67,4 @@ Maiotai gyveno rytinėse Meotidės pakrantėse, prie pietinių Kubanės žioči�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

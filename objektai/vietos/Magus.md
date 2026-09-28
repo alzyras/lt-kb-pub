@@ -91,3 +91,4 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

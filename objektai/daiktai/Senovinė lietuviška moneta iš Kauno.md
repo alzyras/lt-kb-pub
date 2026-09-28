@@ -108,3 +108,4 @@ Prie Kauno rastoje monetoje vienoje pusėje pavaizduoti Gediminaičių Stulpai i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -72,5 +72,6 @@ canonical_biography: "Petras Duda-Lalys žuvo 1948 m. birželio 12 d. Juodymo mi
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

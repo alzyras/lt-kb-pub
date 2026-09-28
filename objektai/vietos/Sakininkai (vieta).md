@@ -74,3 +74,4 @@ Nemuno žemupyje, netoli Rus nės, Sakininkų (Szakaniki) kaime, dabar bene Šak
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

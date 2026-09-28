@@ -175,3 +175,4 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -83,3 +83,4 @@ Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -33,17 +33,17 @@ media_all_json: |-
 
 ## Santrauka
 
-1933 m. Kupiškyje buvo 3 traktieriai, 4 aludės ir 30 arbatinių.
+.
 
 ## Santrauka
 
-1933 m. Kupiškyje buvo 3 traktieriai, 4 aludės ir 30 arbatinių.
+.
 
 ## Teiginiai
 
 <a id="claim-t-226316"></a>
 - t-001
-  teiginys: "1933 m. Kupiškyje buvo 3 traktieriai, 4 aludės ir 30 arbatinių."
+  teiginys: "."
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -67,5 +67,6 @@ media_all_json: |-
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

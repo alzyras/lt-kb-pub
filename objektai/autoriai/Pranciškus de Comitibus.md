@@ -77,3 +77,4 @@ Gi Pranciškus de Comitibus yra užrašęs, kad Vytauto bijojo ir jį gerbė ne 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

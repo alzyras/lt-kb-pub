@@ -88,3 +88,4 @@ Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Be
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

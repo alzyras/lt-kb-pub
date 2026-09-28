@@ -126,3 +126,4 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

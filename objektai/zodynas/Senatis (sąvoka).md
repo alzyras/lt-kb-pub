@@ -102,3 +102,4 @@ Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

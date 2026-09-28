@@ -63,3 +63,4 @@ Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Brac
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -111,3 +111,4 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

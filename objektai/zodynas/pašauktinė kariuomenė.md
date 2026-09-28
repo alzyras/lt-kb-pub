@@ -204,3 +204,4 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207767
+

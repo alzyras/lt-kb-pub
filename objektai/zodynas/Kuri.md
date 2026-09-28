@@ -88,3 +88,4 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

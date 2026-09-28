@@ -80,3 +80,4 @@ Nicolaus, arba Mikalojus Kremderis, 1480 m. ėjo Vokiečių ordino kanclerio par
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

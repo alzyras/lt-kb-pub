@@ -48,3 +48,4 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

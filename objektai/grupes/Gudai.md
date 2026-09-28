@@ -103,3 +103,4 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

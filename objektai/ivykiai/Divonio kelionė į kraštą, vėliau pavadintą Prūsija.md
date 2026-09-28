@@ -75,3 +75,4 @@ Narbutas pasakoja, kad Bitinijos keliautojas Divonis neva 17 metais prieš Krist
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

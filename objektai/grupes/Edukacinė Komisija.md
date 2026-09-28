@@ -518,3 +518,4 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207504
+

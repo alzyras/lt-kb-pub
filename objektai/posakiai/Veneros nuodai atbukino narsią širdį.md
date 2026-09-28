@@ -70,3 +70,4 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

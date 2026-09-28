@@ -72,3 +72,4 @@ canonical_biography: "1584 m. Kauno miesto taryba, turėda ma leidimą miesto gi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

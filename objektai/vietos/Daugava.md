@@ -332,3 +332,4 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

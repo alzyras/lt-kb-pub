@@ -50,3 +50,4 @@ Dusburgietis teigia, kad ziesemer W.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

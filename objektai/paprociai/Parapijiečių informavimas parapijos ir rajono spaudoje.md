@@ -77,5 +77,6 @@ Kupiškio Kristaus Žengimo į dangų ir Palėvenės Šv. Dominyko parapijų lai
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

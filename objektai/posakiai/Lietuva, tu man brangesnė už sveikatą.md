@@ -93,3 +93,4 @@ Posakis „Lietuva, tu man brangesnė už sveikatą“ išreiškia kalbėtojo te
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

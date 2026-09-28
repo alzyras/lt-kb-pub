@@ -66,3 +66,4 @@ Dlugošas 1455–1480 m. rašytuose „Analuose, arba kronikose“ panaudojo Mik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

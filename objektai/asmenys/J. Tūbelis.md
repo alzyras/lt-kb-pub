@@ -130,3 +130,4 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

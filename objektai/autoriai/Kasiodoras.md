@@ -138,3 +138,4 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215243
+

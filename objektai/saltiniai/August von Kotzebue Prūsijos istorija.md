@@ -100,3 +100,4 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

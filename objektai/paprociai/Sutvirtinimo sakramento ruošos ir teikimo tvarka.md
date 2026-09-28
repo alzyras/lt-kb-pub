@@ -100,3 +100,4 @@ Sutvirtinimo sakramento tvarkos aprašyme aiškinama, kas yra šis sakramentas, 
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191418
+

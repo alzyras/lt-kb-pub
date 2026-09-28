@@ -99,3 +99,4 @@ Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

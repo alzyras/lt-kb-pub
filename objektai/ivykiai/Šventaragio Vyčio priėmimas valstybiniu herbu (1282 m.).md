@@ -81,3 +81,4 @@ Jeigu net Prūso herbo nelaikytume mitologiniu žen klu, tai jį randame raiteli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

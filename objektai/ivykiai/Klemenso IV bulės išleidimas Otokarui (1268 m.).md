@@ -81,3 +81,4 @@ Pasak Teodoro Narbuto, popiežius Klemensas IV pritarė Čekijos karaliaus Otoka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -109,3 +109,4 @@ Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, varto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

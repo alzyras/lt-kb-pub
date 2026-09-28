@@ -124,3 +124,4 @@ Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

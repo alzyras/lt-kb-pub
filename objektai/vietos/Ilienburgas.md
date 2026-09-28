@@ -153,3 +153,4 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

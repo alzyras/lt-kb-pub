@@ -115,3 +115,4 @@ Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

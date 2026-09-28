@@ -86,3 +86,4 @@ Aleksandro privilegijoje Žemaitijai nustatyta, kad įskųstasis negali būti ba
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

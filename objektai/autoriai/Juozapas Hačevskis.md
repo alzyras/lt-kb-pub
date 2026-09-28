@@ -57,3 +57,4 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

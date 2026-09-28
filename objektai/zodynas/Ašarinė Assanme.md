@@ -192,3 +192,4 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

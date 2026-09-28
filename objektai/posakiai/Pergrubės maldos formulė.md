@@ -64,3 +64,4 @@ Ten viršaitis ar ba atnašautojas, stovėdamas prieš ryką su alumi, padėtą 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

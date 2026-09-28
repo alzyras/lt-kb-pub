@@ -85,3 +85,4 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl paliktas citatos pagrindžiamas faktas apie pranešimą."
   pagrindžia:
     - c-23808
+

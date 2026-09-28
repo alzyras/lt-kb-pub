@@ -72,3 +72,4 @@ Taip 1433 m. su Žygimantu Kęstutaičiu kovojęs Livonijos ordino magistras pra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

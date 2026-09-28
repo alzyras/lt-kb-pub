@@ -100,3 +100,4 @@ Todėl vikingai, kitaip sakant, patys tikrieji plėšikai, nepuldinėdavo keliau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

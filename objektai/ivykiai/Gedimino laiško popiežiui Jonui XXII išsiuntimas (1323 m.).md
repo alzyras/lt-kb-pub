@@ -88,3 +88,4 @@ Gediminas laiške popiežiui Jonui XXII, kaip perteikia Teodoras Narbutas, pripa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

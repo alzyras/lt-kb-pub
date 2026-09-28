@@ -70,3 +70,4 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -162,3 +162,4 @@ Teodoras Narbutas rašė, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

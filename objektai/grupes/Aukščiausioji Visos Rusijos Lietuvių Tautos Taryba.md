@@ -66,3 +66,4 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

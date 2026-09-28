@@ -87,3 +87,4 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

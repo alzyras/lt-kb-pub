@@ -73,3 +73,4 @@ Dusburgietis teigia, kad Varmės, Notangos ir Bartos prūsai, priversti paklusti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

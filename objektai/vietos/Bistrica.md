@@ -75,3 +75,4 @@ Jogaila buvo pastatęs bažnyčias Aš­ menoje, Lydoje, Medininkuose (Vil.), Kr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

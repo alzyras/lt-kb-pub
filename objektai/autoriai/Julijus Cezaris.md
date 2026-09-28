@@ -100,3 +100,4 @@ Narbutas teigia, kad Julijus Cezaris pasakojo apie Litavietį, lietuvių vadą, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

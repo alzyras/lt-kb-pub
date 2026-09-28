@@ -84,3 +84,4 @@ Gardino gyventojų sutikimas su duona, druska ir kryžiais, pasak Narbuto, prive
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

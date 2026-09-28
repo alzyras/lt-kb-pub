@@ -81,3 +81,4 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatiškas ir pagrįstas citata."
   pagrindžia:
     - c-23965
+

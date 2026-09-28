@@ -54,3 +54,4 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

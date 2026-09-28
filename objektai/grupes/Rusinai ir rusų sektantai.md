@@ -49,3 +49,4 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

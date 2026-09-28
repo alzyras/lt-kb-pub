@@ -80,3 +80,4 @@ Antspaudo viršuje yra lotyniškos D raidės pavidalo figūrėlė, o šonuose �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

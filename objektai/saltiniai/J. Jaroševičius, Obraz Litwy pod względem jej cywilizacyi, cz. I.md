@@ -50,3 +50,4 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

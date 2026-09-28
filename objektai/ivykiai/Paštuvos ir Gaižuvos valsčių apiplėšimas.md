@@ -90,3 +90,4 @@ Meinhardas su šimtu brolių ir raitelių įsiveržė į Gaižuvos ir Paštuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

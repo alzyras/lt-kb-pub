@@ -85,3 +85,4 @@ Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

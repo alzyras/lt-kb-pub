@@ -64,3 +64,4 @@ Pomeranijoje gyvenę joanitų riteriai padėjo sukilėliams, kuriuos rėmė Svia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

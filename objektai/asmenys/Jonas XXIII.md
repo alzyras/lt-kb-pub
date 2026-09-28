@@ -260,3 +260,4 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

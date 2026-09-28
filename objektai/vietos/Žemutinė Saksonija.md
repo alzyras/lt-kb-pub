@@ -57,3 +57,4 @@ Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

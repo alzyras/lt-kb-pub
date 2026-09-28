@@ -82,3 +82,4 @@ Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -186,3 +186,4 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

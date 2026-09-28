@@ -197,3 +197,4 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

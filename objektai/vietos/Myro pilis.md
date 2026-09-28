@@ -78,3 +78,4 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

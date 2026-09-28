@@ -136,3 +136,4 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

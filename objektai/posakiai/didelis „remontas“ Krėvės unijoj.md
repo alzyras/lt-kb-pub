@@ -78,3 +78,4 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

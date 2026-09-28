@@ -57,3 +57,4 @@ Anot legendos, tuo metu uolos skilo į uolas, kalnai griuvo ant kalnų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

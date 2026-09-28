@@ -58,3 +58,4 @@ Dėl to reikia manyti, kad Evarto Krivis buvo pavaduoto jas arba pareigūnas, at
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

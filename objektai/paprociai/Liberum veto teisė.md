@@ -96,3 +96,4 @@ LLV seimuose ilgainiui įsigalėjo liberum veto teisė, pagal kurią sprendimai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

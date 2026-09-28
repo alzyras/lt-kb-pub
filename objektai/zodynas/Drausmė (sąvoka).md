@@ -74,3 +74,4 @@ Vokiečių armijoje drausmė viešpatavo ramybės ir karo metu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

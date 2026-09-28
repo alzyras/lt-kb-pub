@@ -73,3 +73,4 @@ Vytautas paėmė Pskovo miestą Veližą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

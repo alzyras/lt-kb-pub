@@ -62,3 +62,4 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

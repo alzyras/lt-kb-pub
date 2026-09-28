@@ -77,3 +77,4 @@ canonical_biography: "1721 m. Vitebsko pavieto iždininkas Vladislovas Vaina su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

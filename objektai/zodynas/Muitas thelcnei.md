@@ -83,3 +83,4 @@ Vilniaus miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­ je L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

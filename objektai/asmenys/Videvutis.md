@@ -88,3 +88,4 @@ Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -71,3 +71,4 @@ Ir mano motiną taip pat nužudė, o ir mane patį jie paėmė į ne laisvę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

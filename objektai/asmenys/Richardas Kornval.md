@@ -82,3 +82,4 @@ Richardas Kornval, Teutonijos viešpats, daugiaus vardą, ne valdžią, turėdam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

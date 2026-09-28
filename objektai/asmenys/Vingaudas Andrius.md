@@ -69,3 +69,4 @@ Pasak T. Narbuto, Vingaudo Andriaus, buvusio Polocko kunigaikščio, laiškai bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

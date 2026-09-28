@@ -115,3 +115,4 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169402
+

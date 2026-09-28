@@ -92,3 +92,4 @@ Natalija Jakovenko yra šiuolaikinė Ukrainos istorikė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ Kryžiuočiai nei iš už Nemuno, nei iš už Dauguvos nesibrovė su gink lu ran
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

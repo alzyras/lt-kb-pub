@@ -190,3 +190,4 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219012
+

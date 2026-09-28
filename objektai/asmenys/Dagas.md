@@ -98,3 +98,4 @@ Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

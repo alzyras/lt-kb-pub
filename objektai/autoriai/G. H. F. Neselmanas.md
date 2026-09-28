@@ -205,3 +205,4 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

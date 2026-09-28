@@ -67,3 +67,4 @@ A. Dailydė priešinosi Marijampolės mokyklų direktoriui Meyeriui-pastoriui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

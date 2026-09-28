@@ -116,3 +116,4 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

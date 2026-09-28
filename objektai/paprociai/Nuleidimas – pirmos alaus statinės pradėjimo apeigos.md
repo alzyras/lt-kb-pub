@@ -77,3 +77,4 @@ Pirmos alaus statinės pradėjimo apeigos vadintos nuleidimu ir buvo atliekamos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

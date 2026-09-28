@@ -111,3 +111,4 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -171,3 +171,4 @@ Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

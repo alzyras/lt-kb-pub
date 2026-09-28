@@ -118,3 +118,4 @@ XVI a. valdovo organizuojamomis medžioklėmis siekta teigiamų emocijų ir pasi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

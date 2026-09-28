@@ -90,3 +90,4 @@ Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios l
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė remiasi neaiškiu įvardžiu, reikia savarankiško sakinio."
   pagrindžia:
     - c-24610
+

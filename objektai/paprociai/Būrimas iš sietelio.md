@@ -74,3 +74,4 @@ Būdavo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

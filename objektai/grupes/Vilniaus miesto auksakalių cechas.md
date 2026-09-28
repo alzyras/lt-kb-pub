@@ -154,3 +154,4 @@ Vilniaus miesto amatininkų cechas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

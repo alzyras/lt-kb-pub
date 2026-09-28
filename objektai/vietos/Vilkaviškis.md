@@ -156,3 +156,4 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209650
+

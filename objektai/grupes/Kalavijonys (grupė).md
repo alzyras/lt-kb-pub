@@ -64,3 +64,4 @@ Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

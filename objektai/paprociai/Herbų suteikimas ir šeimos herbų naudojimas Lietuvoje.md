@@ -83,3 +83,4 @@ T. Narbutas teigia, kad didieji kunigaikščiai kartais suteikdavo herbus slavų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

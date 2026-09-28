@@ -128,3 +128,4 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

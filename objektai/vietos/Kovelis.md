@@ -125,3 +125,4 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

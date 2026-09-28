@@ -72,3 +72,4 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

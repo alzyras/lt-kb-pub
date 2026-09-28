@@ -67,3 +67,4 @@ Pasak Strijkovskio, Speros ežeras buvo laikomas šventu ir garbinamas iki pasku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

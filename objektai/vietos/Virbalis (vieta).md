@@ -102,3 +102,4 @@ Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209657
+

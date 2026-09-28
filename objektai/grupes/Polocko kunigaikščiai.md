@@ -45,3 +45,4 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

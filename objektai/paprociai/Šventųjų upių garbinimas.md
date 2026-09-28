@@ -75,3 +75,4 @@ Indai svarbiu savo religingumo dalyku laiko tų upių garbinimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

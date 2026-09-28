@@ -145,3 +145,4 @@ Volkovysko mieste buvo sudaryta transakcija, kuria lenkų tautos vardu Jogaila p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211326
+

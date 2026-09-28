@@ -72,3 +72,4 @@ Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo pol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

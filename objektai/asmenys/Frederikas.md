@@ -112,3 +112,4 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213841
+

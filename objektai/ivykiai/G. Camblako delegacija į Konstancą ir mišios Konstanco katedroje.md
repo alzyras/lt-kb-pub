@@ -97,3 +97,4 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-22925
+

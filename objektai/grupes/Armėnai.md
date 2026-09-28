@@ -145,3 +145,4 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

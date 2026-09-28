@@ -99,3 +99,4 @@ Elijas ben Saliamonas Zalmanas sukūrė veikalų beveik visose to meto žydų mo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

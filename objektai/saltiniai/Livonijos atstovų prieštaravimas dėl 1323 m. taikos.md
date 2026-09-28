@@ -184,3 +184,4 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

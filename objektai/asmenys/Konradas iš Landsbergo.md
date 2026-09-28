@@ -133,3 +133,4 @@ Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

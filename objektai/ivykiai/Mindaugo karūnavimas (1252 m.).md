@@ -86,3 +86,4 @@ Mindaugo karūnavimas, anot Teodoro Narbuto, galėjo įvykti rugsėjo 8 d.; Mind
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj baž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

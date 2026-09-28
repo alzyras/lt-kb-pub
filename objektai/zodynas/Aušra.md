@@ -48,3 +48,4 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

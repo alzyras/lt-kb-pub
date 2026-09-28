@@ -71,3 +71,4 @@ Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

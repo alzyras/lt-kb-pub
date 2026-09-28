@@ -206,3 +206,4 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

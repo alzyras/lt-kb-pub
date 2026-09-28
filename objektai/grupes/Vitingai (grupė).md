@@ -158,3 +158,4 @@ Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

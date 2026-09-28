@@ -59,3 +59,4 @@ Apie 355 metus Edukas išvedė skirių ir kitų persekiojamų gotų genčių lik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

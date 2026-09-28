@@ -70,3 +70,4 @@ canonical_biography: "Štai 1528 m. Lietuvos kariuomenės surašyme tarp Upytės
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

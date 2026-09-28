@@ -77,3 +77,4 @@ Delegatai galėjo atsilankyti Naumiestyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Taip pat ir Čekų karalystė didžią garbę teikė šlovingajam valdovui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

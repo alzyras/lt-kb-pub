@@ -139,3 +139,4 @@ Lietuvos metraštis teigia, kad šventikai su žvakėmis, giedodami laido tuvių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

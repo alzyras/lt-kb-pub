@@ -82,3 +82,4 @@ PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas žurn.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

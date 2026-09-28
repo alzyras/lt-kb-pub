@@ -229,3 +229,4 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

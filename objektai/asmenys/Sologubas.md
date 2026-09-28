@@ -58,3 +58,4 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

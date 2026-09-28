@@ -100,3 +100,4 @@ Kryžiuočiai sutartyje įsipareigojo atiduoti šeštadalį jotvingių krašto. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

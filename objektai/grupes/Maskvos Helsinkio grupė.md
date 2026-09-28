@@ -84,3 +84,4 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

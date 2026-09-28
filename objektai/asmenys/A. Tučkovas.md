@@ -77,3 +77,4 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -90,3 +90,4 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

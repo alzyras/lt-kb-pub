@@ -92,3 +92,4 @@ Perkūnas, Jupiteris griausmavaldis, Jupiter tonam - seno vės Europoje labiausi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

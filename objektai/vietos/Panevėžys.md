@@ -368,3 +368,4 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-226060
+

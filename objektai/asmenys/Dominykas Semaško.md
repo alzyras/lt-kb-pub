@@ -136,3 +136,4 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
   temporalinis_llm_pakomentavimas: "Pradinis teiginys fragmentiškas, o citata patvirtina Semaškos argumentų panaudojimą."
   pagrindžia:
     - c-64547
+

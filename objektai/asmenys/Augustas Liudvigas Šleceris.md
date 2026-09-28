@@ -72,3 +72,4 @@ Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savaja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

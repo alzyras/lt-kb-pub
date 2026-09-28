@@ -134,3 +134,4 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207828
+

@@ -206,3 +206,4 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

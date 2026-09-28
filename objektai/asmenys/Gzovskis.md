@@ -96,3 +96,4 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

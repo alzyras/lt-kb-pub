@@ -165,3 +165,4 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
