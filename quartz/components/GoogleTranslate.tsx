@@ -15,7 +15,7 @@ const GoogleTranslate: QuartzComponent = () => {
         <option value="pl">PL - Polski</option>
         <option value="lv">LV - Latviešu</option>
         <option value="et">EE - Eesti</option>
-        <option value="be">BY - Беларуская</option>
+        <option value="by">BY - Беларуская</option>
         <option value="ru">RU - Русский</option>
         <option value="uk">UA - Українська</option>
         <option value="de">DE - Deutsch</option>

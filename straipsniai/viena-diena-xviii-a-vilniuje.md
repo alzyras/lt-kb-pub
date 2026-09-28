@@ -1,12 +1,19 @@
 ---
 title: "Viena diena XVIII a. Vilniuje: ką apie miestą pasakoja kanauninko laiškai"
+seo_title: "Viena diena XVIII a. Vilniuje: miesto gyvenimas laiškuose"
 description: "Sudėtinė 1747–1760 m. Vilniaus diena pagal Jono Dominyko Lopacinskio korespondenciją: Tribunolas, rūmai, vaišės, lošimai, karnavalas ir konfliktai."
+image: "/static/articles/viena-diena-xviii-a-vilniuje/vilniaus-piliu-panorama-1785-1786.jpg"
+media_primary_thumb_url: "/static/articles/viena-diena-xviii-a-vilniuje/vilniaus-piliu-panorama-1785-1786.jpg"
+media_primary_width: 600
+media_primary_height: 383
+media_social_alt: "Pranciškaus Smuglevičiaus piešta Vilniaus pilių panorama"
 tipas: straipsnis
-statusas: publikuota
+statusas: paskelbta
+noindex: false
 autorius: "Lietuvos istorijos žinių lobynas"
 date: 2026-07-26
 sukurta: "2026-07-26"
-atnaujinta: "2026-07-26"
+atnaujinta: "2026-09-27"
 tags:
   - Vilnius
   - XVIII amžius
@@ -20,6 +27,8 @@ cssclasses:
 
 <p class="history-article-lead">Vilnius nubunda ne vienu metu. Vieni dar leidžiasi nuo Panerių, kiti jau derasi dėl vietos Vyriausiajame Lietuvos tribunole, treti tikrina rūmų stogą, renkasi prie kortų stalo arba ruošiasi vardinių fejerverkams. Apie tokį miestą pasakoja ne miesto planas ir ne valdovo įsakas, o kanauninko Jono Dominyko Lopacinskio laiškai.</p>
 
+<p class="puota-evidence-note">Parengė Lietuvos istorijos žinių lobynas · atnaujinta 2026-09-27.</p>
+
 <figure class="history-article-figure history-article-figure--hero">
   <img src="/static/articles/viena-diena-xviii-a-vilniuje/vilniaus-piliu-panorama-1785-1786.jpg" alt="Pranciškaus Smuglevičiaus piešta Vilniaus pilių panorama" loading="eager">
   <figcaption><span>Vilniaus pilių panorama, 1785–1786 m.</span> Pranciškus Smuglevičius. Kūrinys vėlesnis už šiame straipsnyje aptariamus laiškus, tačiau rodo to paties XVIII a. miesto branduolį. Viešoji sritis. <a href="/galerija/vilniaus-piliu-panorama-1785-1786-m--m-article-fabf1282489b48ea0681478d">Kūrinio kortelė</a>.</figcaption>
@@ -27,10 +36,10 @@ cssclasses:
 
 <aside class="history-article-note">
   <strong>Kaip skaityti šį tekstą?</strong>
-  „Viena diena“ čia yra pasakojimo būdas, o ne viena kalendorinė data. Dienos scenos sudėtos iš 1747–1760 m. laiškuose paliudytų epizodų. Kur šaltinis abejoja, abejojame ir mes; kur iliustracija sukurta vėliau, tai nurodome. Kortelėse pateikiami patikrinti duomenų bazės teiginiai ir indeksuotų citatų numeriai; pažodžiui cituojami tik kabutėmis pažymėti šaltinio žodžiai.
+  „Viena diena“ čia yra pasakojimo būdas, o ne viena kalendorinė data. Scenos sudėtos iš skirtingais 1747–1760 m. parašytuose laiškuose paliudytų epizodų. Valandos sutartinės: jos žymi pasakojimo eigą, o ne šaltiniuose užfiksuotą įvykių laiką. Kabutėmis pažymėti šaltinio žodžiai, prie epizodų pateiktos ištraukos ir nuorodos.
 </aside>
 
-## Laiškas vietoj laiko mašinos
+## Kanauninkas ir jo korespondencija
 
 Jonas Dominykas Lopacinskis kilo iš gana įtakingos Lietuvos Didžiosios Kunigaikštystės bajorų giminės. 1732 m. datuoto laiško bibliografiniame įraše jis jau įvardytas Vilniaus kanauninku; 1755 m. buvo LDK sekretorius, o nuo 1762 m. – Žemaičių vyskupas. Amžininkų vertinimu, jis sumaniai laviravo tarp konkuruojančių bajorijos grupuočių ir turėjo platų pažinčių ratą. Tai padeda suprasti, kodėl jo laiškuose taip dažnai pasirodo atvykėliai, derybos, rūmų darbai ir miesto naujienos.[^1]
 
@@ -60,9 +69,9 @@ Vis dėlto laiškai turi savybę, kurios stokoja oficialūs dokumentai: juose gi
 
 Į Vilnių važiuojantis aukštas pareigūnas dar nepasiekė miesto centro, o sostinės socialinis sezonas jau prasidėjo jo prieigose. 1751 m. Lopacinskis, nors jam skaudėjo galvą, vyko į [[objektai/vietos/Paneriai|Panerius]] pasitikti Vyriausiojo Lietuvos tribunolo maršalo Juozapo Antano Solohubo ir artilerijos generolo Antano Solohubo. Ten Solohubai pakvietė jį „be ceremonijų“ prie „mažojo staliuko“.[^2]
 
-Šiame straipsnyje scena svarbi kaip miesto ribų išplėtimas: „Vilniaus publika“ judėjo ne tik tarp rūmų ir teismo salių, bet ir keliuose, priemiesčiuose bei laikino sustojimo vietose. Išsamiau apie priėmimo socialinę pareigą, „mažojo staliuko“ neapibrėžtumą ir Antakalnio pietus pasakojama straipsnyje [[straipsniai/puota-svecias-ir-statusas|„Puota, svečias ir statusas“]].
+Pasitikti svečių kanauninkas vykdavo už miesto. Apie priėmimo pareigas ir laiške minimą „mažąjį staliuką“ plačiau pasakojama straipsnyje [[straipsniai/puota-svecias-ir-statusas|„Puota, svečias ir statusas“]].
 
-Atvykėliui reikėjo ne tik pasitikimo, bet ir kur apsistoti. 1754 m. artilerijos generolas Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.[^9] Viena tokia detalė neleidžia atkurti miesto svečių namų sistemos, tačiau primena, kad Tribunolo sezonas rėmėsi ir konkrečiomis laikino gyvenimo vietomis miesto centre.
+Atvykėliui reikėjo susirasti nakvynę. 1754 m. artilerijos generolas Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.[^9]
 
 <details class="article-evidence">
   <summary><span class="article-evidence__eyebrow">2 patikrinti teiginiai</span><strong>Susitikimas prieigose ir nakvynė miesto centre</strong></summary>
@@ -155,7 +164,7 @@ Stichija galėjo viską pakeisti per vieną naktį. 1754 m. gausus sniegas įlau
 
 ## 14.00 val. Apranga nurodo, kas jūs esate
 
-Laiškai neleidžia tiksliai aprengti kiekvieno šios „dienos“ veikėjo, tačiau kitų XVIII a. LDK šaltinių tyrimai paaiškina, kodėl susitikimas rūmuose buvo ir reginys. Aprangos istorikė Marija Matušakaitė aprašo to meto diduomenės garderobą kaip vietinių, Rytų ir Vakarų madų sankirtą. Tas pats didikas skirtingomis aplinkybėmis galėjo rinktis vietinį žiponą, ispanišką, vengrišką ar vakarietišką drabužį. Portretai veikė panašiai kaip mados pavyzdžiai, o kailis dėl klimato buvo ne vien prabangos, bet ir praktiškumo ženklas.[^6]
+Laiškai neleidžia tiksliai nustatyti šios „dienos“ veikėjų aprangos. Platesnį jos kontekstą atskleidžia Marijos Matušakaitės XVI–XVIII a. drabužių tyrimas: vietinės tradicijos per šiuos šimtmečius kito, jas veikė Rytų ir Vakarų Europos mados. Visų tyrime aptartų drabužių negalima priskirti XVIII a. vidurio Vilniui. Čia rodomas vėlyvesnis bajoro portretas leidžia apžiūrėti vieną aprangos pavyzdį.[^6]
 
 <figure class="history-article-figure history-article-figure--portrait history-article-figure--right">
   <img src="/static/articles/viena-diena-xviii-a-vilniuje/bajoro-portretas-1790-ieji.jpg" alt="XVIII amžiaus pabaigos Abiejų Tautų Respublikos bajoro portretas" loading="lazy">
@@ -190,7 +199,7 @@ Apie maisto, vyno, bendros taurės ir svečio priėmimo reikšmes plačiau pasak
 
 Vakare skirtingos politinės aplinkos nebūtinai išsiskirdavo. 1754 m. Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos lankė viena kitą ir visą naktį lošė faraoną – prie [[objektai/vietos/Šv. Jono bažnyčia|Šv. Jono bažnyčios]] ir Paplaujoje. Pats epizodas patvirtina naktinį lošimą per abipusius vizitus; jo negalime paversti įrodymu, kad partija išsprendė politinį konfliktą.[^4]
 
-Žiemą šią energiją sustiprindavo [[objektai/paprociai/Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai|karnavalas]]. 1757 m. tarp laukiamų jo dalyvių buvo Mykolas Kazimieras Radvila Žuvelė. Kitame laiške Lopacinskis prieš Užgavėnes ironiškai rašė, kad į Vilnių bėga visokie „nereikalingi skaramušai“ – juokdariai ar vaidintojai. Tai ne išsamus šventės aprašas, bet labai aiškus autoriaus požiūris: miestas traukė ne tik bylų dalyvius, bet ir pramogų ieškotojus.[^9]
+Žiemą svečių atvykdavo ir į [[objektai/paprociai/Vilniaus karnavalai, seimelio kaukės ir Užgavėnių skaramušai|karnavalą]]. 1757 m. tarp laukiamų jo dalyvių buvo Mykolas Kazimieras Radvila Žuvelė. Kitame laiške Lopacinskis prieš Užgavėnes ironiškai rašė, kad į Vilnių bėga visokie „nereikalingi skaramušai“ – juokdariai ar vaidintojai. Šiuo pašaipiu žodžiu Lopacinskis apibūdino į šventes atvykstančius žmones.[^9]
 
 Karnavalas laiškuose pasirodo ir kaip santuokinių lūkesčių laikas: Lopacinskis Mykolui Ksaverui Sapiegai linkėjo per jį susirasti žmoną. Tai korespondento palinkėjimas, ne žinia apie įvykusias sužadėtuves, tačiau jis dar kartą sujungia miesto pramogas ir giminystės strategijas.
 
@@ -218,7 +227,7 @@ Net knyga šiame pasaulyje galėjo tapti socialinio žaidimo dalimi. 1754 m. Ant
 
 ## Po vidurnakčio. Miestas ne visada saugus
 
-Ne visi susitikimai baigdavosi taure ar partija. 1758 m. rugsėjį neblaivūs bajorai Antanas Lapa ir Weysenhoffas susikovė kardais. Lopacinskio laiške beveik inventoriškai surašytos žaizdos: Lapa sužeistas į kaktą ir ranką, Weysenhoffas – į nosį, ranką ir kaktą, be to, neteko piršto. Tai nėra romantiška dvikova. Alkoholis ir nešiojami ginklai galėjo akimirksniu paversti susitikimą pavojingu.[^10]
+Ne visi susitikimai baigdavosi taure ar partija. 1758 m. rugsėjį neblaivūs bajorai Antanas Lapa ir Weysenhoffas susikovė kardais. Lopacinskio laiške beveik inventoriškai surašytos žaizdos: Lapa sužeistas į kaktą ir ranką, Weysenhoffas – į nosį, ranką ir kaktą, be to, neteko piršto. [^10]
 
 Miestas turėjo ir kitą, mažiau matomą kasdienybės sluoksnį: bajorų reikalai patekdavo į jo teismus. 1750 m. Vilniaus pilies teisme buvo keliama nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą. Šis epizodas neleidžia teigti, kad teisingumas veikė vienodai visiems, tačiau parodo, kad sostinės politinis gyvenimas buvo susietas su konkrečiomis teisinėmis procedūromis.[^10]
 
@@ -239,10 +248,10 @@ Miestas turėjo ir kitą, mažiau matomą kasdienybės sluoksnį: bajorų reikal
   </div>
 </details>
 
-1759 m. laiške pasirodo ir gatvėmis vaikštantys girti pijorų mokyklos auklėtiniai. Tokių epizodų nereikėtų paversti teiginiu, kad visas Vilnius buvo smurtingas ar girtas. Laiško autorius juos užrašė būtent todėl, kad jie buvo verti naujienos. Tačiau jie atskleidžia ribą, kurios oficiali miesto reprezentacija nerodo: drausmė buvo derybų objektas, o viešoji tvarka – trapi.[^10]
+1759 m. laiške minimi gatvėmis vaikštantys girti pijorų mokyklos auklėtiniai. Tai kanauninko užrašytas viešosios tvarkos pažeidimas; iš jo negalima spręsti apie visų mokinių ar miestiečių elgesį.[^10]
 
 <blockquote class="history-article-pullquote">
-  Vilnius laiškuose yra ne fonas, o laikina susitikimų mašina: ji prisipildo žmonių, bylų, paslaugų ir pramogų, o politiniam sezonui pasibaigus vėl aprimsta.
+  Tribunolo sesijos į Vilnių sutraukdavo bajorus, jų šeimas ir palydas. Jiems išvykstant retėjo ir Lopacinskio aprašomi susitikimai.
 </blockquote>
 
 ## Ką ši „diena“ iš tiesų parodo
@@ -260,7 +269,7 @@ Miestas turėjo ir kitą, mažiau matomą kasdienybės sluoksnį: bajorų reikal
 
 Tai nėra visas XVIII a. Vilnius. Beveik nematome kasdienio žydų bendruomenės gyvenimo, cechų, tarnų, vežikų, prekeivių ar moterų patirčių, jei jos nepateko į kanauninko interesų lauką. Net ir diduomenės pasaulį matome per vieno gerai informuoto, bet šališko žmogaus korespondenciją. Būtent todėl šis šaltinis vertingas: ne kaip visažinis miesto aprašas, o kaip itin detalus vieno socialinio tinklo pjūvis.[^11]
 
-Jeigu į Vilnių žvelgtume tik per rūmų fasadus, matytume užbaigtą baroko sostinę. Lopacinskio laiškai tą vaizdą išardo ir vėl surenka: stogas įlūžta nuo sniego, seimelių savaitė prasideda vestuvėmis, o auštant dar nebaigta kortų partija. XVIII a. miestas gyvas ne todėl, kad apie jį galime viską žinoti, bet todėl, kad išlikę žmonės rašė apie tai, kas tą akimirką jiems atrodė svarbiausia.
+Jeigu į Vilnių žvelgtume tik per rūmų fasadus, matytume užbaigtą baroko sostinę. Laiškuose minimi ir rūmų kasdieniai rūpesčiai: stogas įlūžta nuo sniego, seimelių savaitė prasideda vestuvėmis, o auštant dar nebaigta kortų partija. Lopacinskis užrašė tai, kas tuo metu rūpėjo jam ir jo adresatams.
 
 <aside class="article-read-next"><strong>Skaitykite toliau.</strong> Maisto, vyno, bendros taurės, svečio priėmimo ir nematomo namų ūkio darbo reikšmes išsamiai nagrinėja straipsnis <a href="/straipsniai/puota-svecias-ir-statusas">„Puota, svečias ir statusas“</a>.</aside>
 

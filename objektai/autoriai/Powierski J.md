@@ -1,11 +1,23 @@
 ---
 tipas: autorius
-pavadinimas: Powierski J
+pavadinimas: 'Powierski J'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
 date_start: ''
 date_end: ''
+external_sources_json: '[]'
+object_page_finisher: 'true'
+object_page_finisher_hash: '9aebaa4c58f010ad'
+object_page_generated_at: '2026-09-20T14:55:27+00:00'
+object_page_source_checked_at: '2026-09-20T14:55:27+00:00'
+object_page_content_state: 'content'
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Powierski J: Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p.…'
+object_page_seo_input_hash: 'e98182cae8c20b1eb14bd5d3f19c85f57d5feaa3f8d2a8b486bf1849e9b3745f'
+object_page_seo_generated_at: '2026-09-20T14:55:27+00:00'
+object_page_seo_policy_version: 'object-page-policy/v7'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,32 +31,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-6b1daf3ff594333b80640a97
-canonical_name: Powierski J
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Powierski J
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-6b1daf3ff594333b80640a97"
+canonical_name: "Powierski J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Powierski J"]
 sameAs: []
-canonical_biography: 'Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.'
-external_sources_json: '[]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:55:27+00:00","source_checked_at":"2026-09-20T14:55:27+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"74ee2c1d0eda9de3e58bbdce","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Jo darbai nagrinėja Romovės arba Romuvos temą.","context":"J. Powierskio darbai „Nadrowia“ ir „Stosunki...“ nurodyti 1985 m. leidinio literatūros sąraše prie Romovės arba Romuvos temos.","support_ids":["t-224684","c-202519"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224684","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202519","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808; Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32, d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T14:55:27+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: 9aebaa4c58f010ad
-object_page_generated_at: '2026-09-20T14:55:27+00:00'
-object_page_source_checked_at: '2026-09-20T14:55:27+00:00'
-object_page_content_state: content
-object_page_claim_count: '1'
-object_page_source_count: '1'
-object_page_seo_description: 'Powierski J: Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p.…'
-object_page_seo_input_hash: e98182cae8c20b1eb14bd5d3f19c85f57d5feaa3f8d2a8b486bf1849e9b3745f
-object_page_seo_generated_at: '2026-09-20T14:55:27+00:00'
-object_page_seo_policy_version: object-page-policy/v7
+canonical_biography: "Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J."
 ---
 # Powierski J
 
@@ -54,10 +53,10 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 
 ## Teiginiai
 
-<a id="claim-t-60506"></a>
+<a id="claim-t-220591"></a>
 - t-001
   teiginys: "J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-20 17:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Hermanas Balkas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,12 +67,12 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Powierski J\" parinktas kaip owner_note_path. Targetas \"Hermanas Balkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-61143
+    - c-204492
 
-<a id="claim-t-60507"></a>
+<a id="claim-t-221143"></a>
 - t-002
   teiginys: "J. Powierski sukilimo pradžią siejo su 1243 m. paskutiniu ketvirčiu."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-20 17:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,12 +86,12 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata nurodo Powierskio poziciją, bet pradinį teiginį reikia sutvarkyti."
   pagrindžia:
-    - c-61141
+    - c-203315
 
-<a id="claim-t-60509"></a>
-- t-004
+<a id="claim-t-222332"></a>
+- t-003
   teiginys: "J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-20 17:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> S. Grunau: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -103,12 +102,12 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Powierski J\" parinktas kaip owner_note_path. Targetas \"S. Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-61138
+    - c-201635
 
-<a id="claim-t-60512"></a>
-- t-006
+<a id="claim-t-224684"></a>
+- t-004
   teiginys: "J. Powierskio darbai nurodyti tarp literatūros apie Romovę arba Romuvą."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-20 17:55"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Romuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -120,254 +119,9 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
-    - c-61139
+    - c-202519
 
 ## Citatos
-
-- id: c-61138
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
-  citata_originali: |
-    Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
-    mitologijos tyrinėjimai leidžia konstatuoti ryšį tarp S. Grunau šventojo trijų dalių ąžuolo
-    Romovėje resp. Romuvoje ir kitų indoeuropiečių tautų mitologinių vaizdinių. Šventasis
-    ąžuolas buvęs kosmogoninis tridalio pasaulio medžio simbolis (Иванов В. В., Топоров
-    B. H., Исследования в области славянских..., с. 12—16; Powierski J., Z badań nad
-    mitologią..., p. 306—307).
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- id: c-61139
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
-  citata_originali: |
-    Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
-    Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
-    d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J.,
-    Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89;
-    Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės
-    baltų..., p. 221—223, 234.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- id: c-61141
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
-  citata_originali: |
-    271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
-    Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
-    p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342). Kai kas mano, kad sukilimas
-    galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204,
-    211).
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- id: c-61142
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 43"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
-  citata_originali: |
-    kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
-    jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
-    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
-    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
-    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
-    išsigelbėjo pabėgdamas.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-61143
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51."
-  citata_originali: |
-    Nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1,
-    1, Nr. 76; Powierski J. Przekaz..., p. 389—391; to paties, Dobra ostrowicko-golubskie...,
-    p. 32, 100; Guldon Z.. Powierski J. Podziały..., p. 171; Janikowski J., Domagała R.
-    Wyniki..., p. 47—59).
-  citata_rodoma: "Nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1,\n1, Nr. 76; Powierski J. Przekaz..., p. 389—391; to paties, Dobra ostrowicko-golubskie...,\np. 32, 100; Guldon Z.. Powierski J. Podziały..., p. 171; Janikowski J., Domagała R.\nWyniki..., p. 47—59)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- id: c-61144
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
-  citata_originali: |
-    teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
-    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
-    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
-  citata_rodoma: "teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška\ndykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo\nišlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-61145
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
-  citata_originali: |
-    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
-    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
-    Krokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme
-    (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
-    Stosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-
-    golubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40).
-  citata_rodoma: "178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII\na. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir\nKrokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme\n(Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.\nStosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-\ngolubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-61146
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
-  citata_originali: |
-    Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
-    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
-    tikėjimui ir broliams.
-    212 (207). Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
-    dvikas antrą kartą pakliuvo į nelaisvę
-    Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš
-    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
-    vardu Zilija504.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201635
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
-  citata_originali: |
-    Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
-    mitologijos tyrinėjimai leidžia konstatuoti ryšį tarp S. Grunau šventojo trijų dalių ąžuolo
-    Romovėje resp. Romuvoje ir kitų indoeuropiečių tautų mitologinių vaizdinių. Šventasis
-    ąžuolas buvęs kosmogoninis tridalio pasaulio medžio simbolis (Иванов В. В., Топоров
-    B. H., Исследования в области славянских..., с. 12—16; Powierski J., Z badań nad
-    mitologią..., p. 306—307).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202519
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
-  citata_originali: |
-    Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
-    Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
-    d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J.,
-    Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89;
-    Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės
-    baltų..., p. 221—223, 234.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203315
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
-  citata_originali: |
-    271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
-    Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
-    p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342). Kai kas mano, kad sukilimas
-    galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204,
-    211).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203741
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 43"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
-  citata_originali: |
-    kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
-    jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
-    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
-    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
-    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
-    išsigelbėjo pabėgdamas.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-206246
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
-  citata_originali: |
-    Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
-    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
-    tikėjimui ir broliams.
-    212 (207). Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
-    dvikas antrą kartą pakliuvo į nelaisvę
-    Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš
-    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
-    vardu Zilija504.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 - id: c-00340
   autorius: "Petras Dusburgietis"
@@ -447,6 +201,87 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+- id: c-201635
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  citata_originali: |
+    Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
+    mitologijos tyrinėjimai leidžia konstatuoti ryšį tarp S. Grunau šventojo trijų dalių ąžuolo
+    Romovėje resp. Romuvoje ir kitų indoeuropiečių tautų mitologinių vaizdinių. Šventasis
+    ąžuolas buvęs kosmogoninis tridalio pasaulio medžio simbolis (Иванов В. В., Топоров
+    B. H., Исследования в области славянских..., с. 12—16; Powierski J., Z badań nad
+    mitologią..., p. 306—307).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-202519
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  citata_originali: |
+    Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
+    Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
+    d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J.,
+    Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89;
+    Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės
+    baltų..., p. 221—223, 234.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- id: c-203315
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
+  citata_originali: |
+    271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
+    Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
+    p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342). Kai kas mano, kad sukilimas
+    galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204,
+    211).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+- id: c-203741
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
+    jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
+    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
+    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
+    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
+    išsigelbėjo pabėgdamas.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
 - id: c-204492
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -465,6 +300,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
 
 - id: c-204890
   autorius: "Petras Dusburgietis"
@@ -501,6 +338,27 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   citata_rodoma: "priemonėmis, nes priešas nugalimas ne tik daiktiškais, bet ir dvasiškais ginklais, vadinasi, \nmalda. (Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs \nAmalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir \nIšminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno \nstiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda. Apie tą patį sakoma Teisėjų \nknygoje (Ts 4, 13): „Atsiminkite viešpaties tarną, kur Amalechą, pasitikintį savo skydais, \napgalėjo ne kovodamas, bet melsdamasis maldomis“."
   statusas: verified
   atnaujinta: "2026-09-27 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206246
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
+  citata_originali: |
+    Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
+    212 (207). Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
+    dvikas antrą kartą pakliuvo į nelaisvę
+    Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš
+    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
+    vardu Zilija504.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

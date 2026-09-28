@@ -121,12 +121,13 @@ for p in people:
    assert p.get('reactivateStub'),f'Identity needs reconciliation before reuse: {path}'
    assert not re.search(r'\b[tc]-\d+\b',old['content_final']),f'Inactive identity has evidence: {path}'
    old_meta=json.loads(old['metadata_json'] or '{}')
-   assert old_meta.get('noble_family')==payload['family'],f'Inactive identity belongs to another scope: {path}'
+   assert (old_meta.get('noble_family') or old_meta.get('family_editorial'))==payload['family'],f'Inactive identity belongs to another scope: {path}'
    reactivated.append(path)
   if not (p.get('enrichStub') or p.get('enrichExisting') or p.get('reactivateStub')):
    existing.append(path);continue
   previous_meta=json.loads(old['metadata_json'] or '{}')
-  if ('Šis pradinis puslapis sukurtas pagal VLE' not in old['content_final']
+  if (old['status']=='active' and 'Šis pradinis puslapis sukurtas pagal VLE' not in old['content_final']
+      and not re.search(r'(?m)^## Teiginiai\s*\n(?=## |\Z)',old['content_final'])
       and previous_meta.get('seed_hash')==hashlib.sha256(json.dumps(p,ensure_ascii=False,sort_keys=True).encode()).hexdigest()):
    existing.append(path);continue
   if not p.get('enrichExisting'):
@@ -150,6 +151,10 @@ for p in people:
   fm=re.sub(r'^canonical_biography:.*\n?', '',fm,flags=re.M)
   fm+='canonical_biography: '+json.dumps(p['bio'],ensure_ascii=False)+'\n'
   body=previous_text.split('---',2)[2]
+  # A sourced editorial biography is not an empty evidence placeholder.
+  # Remove only empty headings; never remove a claim or quotation block.
+  body=re.sub(r'(?m)^## (?:Teiginiai|Reikšmingi paminėjimai|Bibliografiniai įrodymai)\s*\n(?=## |\Z)','',body)
+  body=re.sub(r'(?m)^## Pastabos\s*\n\s*Aprėpties įrašas: `[^`]+`\.\s*(?=## |\Z)','',body)
   body=re.sub(r'(^## Santrauka\s*\n)[\s\S]*?(?=^## |\Z)',lambda m:m[1]+'\n'+p['bio']+'\n\n',body,count=1,flags=re.M)
   body=re.sub(r'\n## Šaltiniai\s*\n[\s\S]*?(?=\n## |\Z)','',body,count=1)
   body=re.sub(r'\n## Šeima\s*\n[\s\S]*?(?=\n## |\Z)','',body,count=1)
@@ -162,7 +167,7 @@ for p in people:
   if related:body+='\n## Šeima\n\n'+related+'\n'
   body+=f"\n[[objektai/grupes/{payload['family']}|{payload['family']}]] · [[straipsniai/{payload['articleSlug']}|Giminės narių registras ir istorija]]\n"
   text='---'+fm+'---'+body
- metadata={'external_summary':True,'family_editorial':payload['family'],'editorial_sources':p['sources'],
+ metadata={'external_summary':True,'family_editorial':payload['family'],'noble_family':payload['family'],'editorial_sources':p['sources'],
            'identity_scope':p['dates'],'seed_hash':hashlib.sha256(json.dumps(p,ensure_ascii=False,sort_keys=True).encode()).hexdigest()}
  if old:
   # Only the explicitly checked empty VLE biography is replaced. Preserve every

@@ -27,20 +27,20 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Mykolas Šulcas"]
 sameAs: []
-canonical_biography: "Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą. Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas. Mykolas Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
+canonical_biography: "Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pasakojimų apie senienas pateikėją. Jam taip pat priskiria Gucevičiaus popieriuose rasto rankraščio apie Mildos šventyklą atradimą. Tai Narbuto pasakojimo atribucijos."
 ---
 # Mykolas Šulcas
 
 ## Santrauka
 
-Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą. Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas. Mykolas Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį.
+Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pasakojimų apie senienas pateikėją. Jam taip pat priskiria Gucevičiaus popieriuose rasto rankraščio apie Mildos šventyklą atradimą. Tai Narbuto pasakojimo atribucijos.
 
 ## Teiginiai
 
 <a id="claim-t-200766"></a>
-- t-003
+- t-001
   teiginys: "Mykolas Šulcas po Gucevičiaus mirties užbaigė Katedrą ir prie fasado pridėjo statulas, kurių nebuvo Gucevičiaus projekte."
-  atnaujinta: "2026-07-14 21:36"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,7 +58,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
     - c-184111
 
 <a id="claim-t-218013"></a>
-- t-218013
+- t-002
   teiginys: "Teodoras Narbutas architektūrą studijavo pas Mykolą Šulcą."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -69,65 +69,44 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   pagrindžia:
     - c-201054
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaukolės likučiai buvo pažaliavę
-    nuo metalo oksidacijos: matyt, mirusysis buvo su galvos ap­
-    dangalu, papuoštu vario arba sidabro gabaliukais; jų likučių
-    nepastebėjome. Senoviniuose kapuose su kaulais randama me­
-    talinių daiktų, amato įrankių, šarvų, šalmų, kalavijų, pinigų.
-    Gardino apskrityje^ prie Druskininkų kaimo, žinomo gydomojo
-    vandens šaltiniais , netoli nuo Nemuno, mačiau platų, dau­
-    giau kaip margo dydžio pilkapyną, vėjams nu pusčius smėlį,
-    beveik visiškai atvirą; kaimiečiai tuos kapus priskiria stabmel­
-    dystės laikams; pasakoja, kad, prie skeletų būdavo randama
-    labai senų pinigų ir visokių metalo gabalų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-219900"></a>
+- t-219900
+  teiginys: "Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Papuošalai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Šulcas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Papuošalai: mention_match, thing, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Šulcas\" parinktas kaip owner_note_path. Targetas \"Papuošalai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200353
+
 ## Citatos
 
-- id: c-172937
+- id: c-00166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
-    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
-    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį.
+    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
+    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
+    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
+    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
+    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
+    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
+    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
+  citata_rodoma: "Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­\nteto architektūros profesorius ponas Šulcas tarp mirusio ar­\nchitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­\ntinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­\nkimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­"
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+  atnaujinta: "2026-09-27 13:25"
 
-- id: c-172938
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 374"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
-  citata_originali: |
-    Statinio viduje paprastai stovi maži mo­
-    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
-    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
-    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
-    žmonės priskiria kažkokią šventumo ypatybe5.
-    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
-    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
-    rius*.
-  citata_rodoma: "Statinio viduje paprastai stovi maži mo­\nliniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­\nna pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų\narba jūros bangų nutrintų akmenukų, kuriems dievobaimingi\nžmonės priskiria kažkokią šventumo ypatybe5.\n3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man\npasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­\nrius*."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,63 +130,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
-- id: c-201054
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
-  citata_originali: |
-    Be matematikos ir inžinerijos mokslų, T. Narbutas studija­
-    vo architektūrą pas Mykolą Šulcą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218013
-
-- id: c-201255
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
-  citata_originali: |
-    Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
-    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
-    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-00166
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
-    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
-    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
-  citata_rodoma: "Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­\nteto architektūros profesorius ponas Šulcas tarp mirusio ar­\nchitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­\ntinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­\nkimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­"
-  statusas: verified
-  atnaujinta: "2026-09-27 13:25"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+    - t-001
 
 - id: c-200353
   autorius: "Teodoras Narbutas"
@@ -229,6 +152,45 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   citata_rodoma: "Kaukolės likučiai buvo pažaliavę \nnuo metalo oksidacijos: matyt, mirusysis buvo su galvos ap­\ndangalu, papuoštu vario arba sidabro gabaliukais; jų likučių \nnepastebėjome. Senoviniuose kapuose su kaulais randama me­\ntalinių daiktų, amato įrankių, šarvų, šalmų, kalavijų, pinigų. \nGardino apskrityje^ prie Druskininkų kaimo, žinomo gydomojo \nvandens šaltiniais , netoli nuo Nemuno, mačiau platų, dau­\ngiau kaip margo dydžio pilkapyną, vėjams nu pusčius smėlį, \nbeveik visiškai atvirą; kaimiečiai tuos kapus priskiria stabmel­\ndystės laikams; pasakoja, kad, prie skeletų būdavo randama \nlabai senų pinigų ir visokių metalo gabalų."
   statusas: verified
   atnaujinta: "2026-09-27 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219900
+
+- id: c-201054
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  citata_originali: |
+    Be matematikos ir inžinerijos mokslų, T. Narbutas studija­
+    vo architektūrą pas Mykolą Šulcą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+- id: c-201255
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
+  citata_originali: |
+    Pats pavadinimas, iš­
+    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
+    kovskis, o deivei.
+    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
+    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

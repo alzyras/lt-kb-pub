@@ -93,7 +93,7 @@ export function ArticleCatalog({ allFiles }: QuartzComponentProps) {
   return (
     <EditorialCatalog
       title="Straipsniai"
-      lead="Istorija iš arti. Žmonės, kasdienybė ir įvykiai — pasakojimuose, kurie prasideda nuo šaltinių."
+      lead="Straipsniai apie Lietuvos istorijos žmones, įvykius ir kasdienybę, paremti dokumentais ir istorikų tyrimais."
       entries={entries}
     />
   )

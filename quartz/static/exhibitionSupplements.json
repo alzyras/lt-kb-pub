@@ -5,9 +5,9 @@
       "slug": "parodos/vytauto-atminties-kultas-tarpukariu",
       "title": "Kuriant Vytautą Didįjį",
       "subtitle": "1918–1940 m. valstybė, jubiliejus ir Vytauto kultas",
-      "description": "Paroda pasakoja, kaip 1918–1940 m. Lietuva iš naujo susikūrė Vytauto atvaizdą: banknotuose, ceremonijose, keliaujančiame paveiksle, fonduose ir leidiniuose valdovas tapo matomu valstybės atminties ženklu.",
+      "description": "Vytauto atvaizdai 1918–1940 m. Lietuvos piniguose, leidiniuose ir viešose iškilmėse. Daugiausia eksponatų skirta 1930 m. minėtoms 500-osioms valdovo mirties metinėms.",
       "heroMediaId": "m-cce7ef2ff57be05f19ef17db",
-      "updatedAt": "2026-07-21",
+      "updatedAt": "2026-09-27",
       "theme": "interwar",
       "sections": [
         {
@@ -66,8 +66,8 @@
               "claimRefs": []
             },
             {
-              "catalogDescriptionLt": "Karūnuotas Vytautas čia įvardytas Lietuvos didžiuoju kunigaikščiu, o po atvaizdu išrašytos 1392–1430 m. valdymo datos. Kataloge leidimo data nenurodyta.",
-              "descriptionLt": "Karūnuotas Vytautas čia įvardytas Lietuvos didžiuoju kunigaikščiu, o po atvaizdu aiškiai išrašytos 1392–1430 m. valdymo datos. Istorija paversta lengvai perskaitomu vaizdo ženklu, kuris galėjo veikti ir be ilgo paaiškinimo.",
+              "catalogDescriptionLt": "Su karūna pavaizduotas Vytautas čia įvardytas Lietuvos didžiuoju kunigaikščiu, o po atvaizdu išrašytos 1392–1430 m. valdymo datos. Kataloge leidimo data nenurodyta.",
+              "descriptionLt": "Su karūna pavaizduotas Vytautas čia įvardytas Lietuvos didžiuoju kunigaikščiu, o po atvaizdu aiškiai išrašytos 1392–1430 m. valdymo datos. Istorija paversta lengvai perskaitomu vaizdo ženklu, kuris galėjo veikti ir be ilgo paaiškinimo.",
               "exhibitionItemId": "atm-valstybe-04",
               "featured": false,
               "mediaId": "m-359dd4ec749cade04f726b8a",
@@ -104,12 +104,22 @@
               "exhibitionItemId": "atm-kelione-01",
               "mediaId": "m-f20d4ca30550878794cc7bc6",
               "titleLt": "Sutikimas Kretingoje",
-              "descriptionLt": "1930 m. rugsėjo 8 d. Kretingoje Vytauto portretas sutinkamas kaip viešas įvykis. Fotografijoje susitinka portretas, iškilminga minia ir miesto erdvė – atmintis čia tampa tuo, ką bendruomenė daro kartu.",
-              "catalogDescriptionLt": "1930 m. rugsėjo 8 d. Kretingoje fotografuotas Vytauto portreto sutikimas. Portretas, minia ir miesto erdvė paverčia atmintį viešu bendruomenės veiksmu.",
+              "descriptionLt": "Kretingoje susirinkę žmonės sutinka Vytauto atvaizdą. Fotografija siejama su 1930 m. jubiliejumi. Jos šaltinio metaduomenyse nurodyta rugsėjo 8-oji nesutampa su dokumentuota keliaujančio portreto sutikimo Kretingoje liepos 24 d. data, todėl konkreti fotografavimo diena čia nepatvirtinama.",
+              "catalogDescriptionLt": "Vytauto atvaizdo sutikimo Kretingoje fotografija, 1930 m. Tiksli fotografavimo diena tikslintina: šaltinių antraštės nevienodos.",
               "featured": true,
               "creatorDisplay": "Nežinomas fotografas",
-              "dateDisplay": "1930 m. rugsėjo 8 d.",
-              "claimRefs": []
+              "dateDisplay": "1930 m. (diena tikslintina)",
+              "claimRefs": [],
+              "externalSources": [
+                {
+                  "title": "Kretingos rajono bibliotekos sukakčių chronologija",
+                  "url": "https://www.kretingosenciklopedija.lt/istorija/sukaktys/sukaktys-2020-m/"
+                },
+                {
+                  "title": "Lietuvos centrinis valstybės archyvas apie 1930 m. portreto kelionę",
+                  "url": "https://archyvai.lrv.lt/lt/naujienos/lietuvos-centrinio-valstybes-archyvo-virtuali-paroda-raportu-knygai-vytauto-didziojo-garbei-95-WUY/"
+                }
+              ]
             },
             {
               "exhibitionItemId": "atm-kelione-02",
@@ -140,9 +150,9 @@
             {
               "exhibitionItemId": "atm-kelione-04",
               "mediaId": "m-c7367f575ad13fe8d4204619",
-              "titleLt": "Paveikslas nešamas Palangoje",
-              "descriptionLt": "Katalogo įrašas fotografiją sieja su M. Barkausko Vytauto paveikslo nešimu Palangoje 1930 m. Vaizdas tiesiogiai parodo keliaujančio atvaizdo apeigą viešojoje erdvėje.",
-              "catalogDescriptionLt": "Katalogo įrašas fotografiją sieja su M. Barkausko Vytauto paveikslo nešimu Palangoje 1930 m. Vaizdas tiesiogiai parodo keliaujančio atvaizdo apeigą viešojoje erdvėje.",
+              "titleLt": "Vytauto atvaizdo nešimas",
+              "descriptionLt": "Fotografijoje žmonės neša stendą su Vytauto portretu ir jubiliejinėmis 1430–1930 m. datomis. Katalogas vaizdą sieja su 1930 m. portreto kelione per Lietuvą. Jame minimas M. Barkauskas, tačiau įrašo nepakanka patikimai nustatyti jo vaidmenį kuriant atvaizdą.",
+              "catalogDescriptionLt": "Vytauto portreto nešimo fotografija, 1930 m. Fotografas kataloge nenurodytas.",
               "featured": true,
               "creatorDisplay": "Nežinomas fotografas",
               "dateDisplay": "1930 m.",
@@ -233,8 +243,8 @@
           ],
           "items": [
             {
-              "catalogDescriptionLt": "1936 m. dešimties litų monetoje karūnuotas Vytauto profilis tapo oficialiu valstybės pinigo atvaizdu. Tai meninė, vėlesnės epochos sukurta valdovo rekonstrukcija.",
-              "descriptionLt": "1936 m. dešimties litų monetoje karūnuotas Vytauto profilis tapo oficialiu valstybės pinigo atvaizdu. Meninė rekonstrukcija ant monetos pavertė valdovo atvaizdą kasdieniu daiktu, keliaujančiu iš rankų į rankas.",
+              "catalogDescriptionLt": "1936 m. dešimties litų monetoje Vytauto profilis su karūna tapo oficialiu valstybės pinigo atvaizdu. Tai meninė, vėlesnės epochos sukurta valdovo rekonstrukcija.",
+              "descriptionLt": "1936 m. dešimties litų monetoje Vytauto profilis su karūna tapo oficialiu valstybės pinigo atvaizdu. Meninė rekonstrukcija ant monetos pavertė valdovo atvaizdą kasdieniu daiktu, keliaujančiu iš rankų į rankas.",
               "exhibitionItemId": "atm-apyvarta-01",
               "featured": true,
               "mediaId": "m-adbb1006da8033214865ebab",

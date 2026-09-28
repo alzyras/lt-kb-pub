@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-09-28T19:33:24.756938+03:00",
-  "db_revision": "e7a487b43d7719c8dd7a92ba467d6a4b8c2a15c7a3a86a78cd4983ceb8f7d116",
-  "public_tree_hash": "37b3b76a1b0ea4fd845d4c27f2ad8e5349061b4d74458d499c54fcfa56f521a1",
-  "release_id": "7a28330cc1d368c81ef60c6542fa215179f7be4eab459c03029e3ea8c50ba64c",
+  "created_at": "2026-09-28T21:51:02.509517+03:00",
+  "db_revision": "ae8c8ad44dbb261c81ed0b03ea131c02eef5154512f37718658a620bc92b5933",
+  "public_tree_hash": "414c1eaf04cd96cc3be3a0e65ad56f4b4aa7e1a0ef938e4577eea31c7ed3342e",
+  "release_id": "77878bce96be9b5c2ec68fc89c6660bcd0f027a83129e141f86bae6697c73765",
   "schema": "ltkb-site-release/v1",
   "sources": [
     {

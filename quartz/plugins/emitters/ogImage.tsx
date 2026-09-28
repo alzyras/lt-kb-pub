@@ -77,7 +77,7 @@ async function processOgImage(
     fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title,
   ).trim()
   const siteTitle = String(cfg.pageTitle ?? "").trim()
-  const titleSuffix = titleBase === siteTitle ? "" : cfg.pageTitleSuffix ?? ""
+  const titleSuffix = titleBase === siteTitle ? "" : (cfg.pageTitleSuffix ?? "")
   const title = titleBase + titleSuffix
   const description =
     fileData.frontmatter?.socialDescription ??

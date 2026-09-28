@@ -25,53 +25,15 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Šulcas"]
 sameAs: []
-canonical_biography: "Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą. Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
+canonical_biography: "Teodoras Narbutas Vilniaus universiteto architektūros profesoriui Šulcui priskiria Gucevičiaus popieriuose rasto rankraščio apie Mildos šventyklą atradimą. Pasakojimas nėra savarankiškas tokios šventyklos egzistavimo įrodymas."
 ---
 # Šulcas
 
 ## Santrauka
 
-Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą. Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį.
+Teodoras Narbutas Vilniaus universiteto architektūros profesoriui Šulcui priskiria Gucevičiaus popieriuose rasto rankraščio apie Mildos šventyklą atradimą. Pasakojimas nėra savarankiškas tokios šventyklos egzistavimo įrodymas.
 
 ## Citatos
-
-- id: c-173134
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
-  citata_originali: |
-    Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
-    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
-    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198042
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
-  citata_originali: |
-    Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
-    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
-    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
-    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
-    nepaprasto grožio vienatinę dukterį.
-  statusas: verified
-  atnaujinta: "2026-09-13 18:02"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 - id: c-00167
   autorius: "Teodoras Narbutas"
@@ -92,4 +54,40 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-198042
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
+  citata_originali: |
+    Pats pavadinimas, iš­
+    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
+    kovskis, o deivei.
+    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
+    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:02"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-217642"></a>
+- t-001
+  teiginys: "Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198042
 

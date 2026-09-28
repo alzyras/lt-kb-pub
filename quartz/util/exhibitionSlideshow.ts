@@ -164,6 +164,7 @@ export function exhibitionSlideshowLanguage(
   value: string | undefined | null,
 ): ExhibitionSlideshowLanguage {
   const language = (value || "lt").toLowerCase().split(/[-_]/, 1)[0]
+  if (language === "by") return "be"
   return (EXHIBITION_SLIDESHOW_LANGUAGES as readonly string[]).includes(language)
     ? (language as ExhibitionSlideshowLanguage)
     : "lt"

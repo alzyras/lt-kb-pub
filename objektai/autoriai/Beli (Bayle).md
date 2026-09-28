@@ -25,49 +25,15 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Beli (Bayle)"]
 sameAs: []
-canonical_biography: "Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių. Beli (Bayle) buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
+canonical_biography: "Teodoras Narbutas tarp naudotos literatūros nurodo Bayle’o žodyno straipsnį apie Jeronimą Prahiškį."
 ---
 # Beli (Bayle)
 
 ## Santrauka
 
-Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių. Beli (Bayle) buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
+Teodoras Narbutas tarp naudotos literatūros nurodo Bayle’o žodyno straipsnį apie Jeronimą Prahiškį.
 
 ## Citatos
-
-- id: c-173297
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 400"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
-  citata_originali: |
-    Taip anot pono Foigto tyrimų.
-    Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
-    se ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas. Is­
-    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
-    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198213
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 400"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
-  citata_originali: |
-    Taip anot pono Foigto tyrimų.
-    Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
-    se ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas. Is­
-    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
-    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 - id: c-00168
   autorius: "Teodoras Narbutas"
@@ -84,4 +50,20 @@ Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-198213
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
+  citata_originali: |
+    Taip anot pono Foigto tyrimų.
+    Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
+    se ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas. Is­
+    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
+    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

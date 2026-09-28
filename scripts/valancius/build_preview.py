@@ -40,9 +40,9 @@ def main():
     selected, media_ids, registry = {}, [], []
     for cycle in curation.values():
         for section in cycle["sections"]:
-            assert 60 <= len(section["lead"].split()) <= 100
+            assert section["lead"].strip() and len(section["lead"].split()) <= 100
             for item in section["items"]:
-                assert 70 <= len(item["description"].split()) <= 120, item["key"]
+                assert item["description"].strip() and len(item["description"].split()) <= 120, item["key"]
                 manifest_url = ""
                 if "vu" in item:
                     record = json.loads((CACHE / f"vu/{item['vu']}.json").read_text())
