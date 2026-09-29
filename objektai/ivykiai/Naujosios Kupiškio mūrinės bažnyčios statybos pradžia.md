@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'XIX–XX a. sandūroje pradėta statyti naujoji Kupiškio mūrinė bažnyčia iš esmės pakeitė miestelio panoramą ir kraštovaizdžio apybraižas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 335 (PDF 336)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 335 (PDF 336)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

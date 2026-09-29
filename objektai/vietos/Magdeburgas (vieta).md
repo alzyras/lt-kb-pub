@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-846dc455db2fc084136ea2d8
-canonical_name: Magdeburgas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Magdeburgas
-  - Magdeburgas (vieta)
+entity_id: "ent-846dc455db2fc084136ea2d8"
+canonical_name: "Magdeburgas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Magdeburgas","Magdeburgas (vieta)"]
 sameAs: []
-canonical_biography: Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis.
+canonical_biography: "Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis."
+place_authority: true
+historical_names: []
 ---
 # Magdeburgas (vieta)
 

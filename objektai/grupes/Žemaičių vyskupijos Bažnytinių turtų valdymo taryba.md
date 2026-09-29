@@ -40,6 +40,7 @@ Kapelionas E. Baltrimas 1922 m. gegužės 11 d. perėmė cerkvę iš Žemės ūk
   santrauka: '1922 m. vasario 22 d. Žemaičių vyskupijos Bažnytinių turtų valdymo tarybos raštu kapelionas E. Baltrimas gegužės 11 d. perėmė cerkvę iš Žemės ūkio ir valstybės turtų ministerijos, o birželio 8 d. ją pašventino.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 525 (PDF 526)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 525 (PDF 526)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -30,6 +30,7 @@ Povilas Samuolis-Juodas Ponas su Antano Šilo-Kovo grupe parašiutu nusileido Ge
   santrauka: 'Povilas Samuolis-Juodas Ponas su Antano Šilo-Kovo grupe parašiutu nusileido Geležių kaime, o Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ šią užduotį apibūdina kaip skirtą diversinei veiklai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 270"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 270."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

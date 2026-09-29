@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Karklinės dvaras"]
 sameAs: []
 canonical_biography: "Nuostoliai buvo atidirbami Karklinės dvaro ekonomui Juozapui Celarijui."
+place_authority: true
+historical_names: []
 ---
 # Karklinės dvaras
 

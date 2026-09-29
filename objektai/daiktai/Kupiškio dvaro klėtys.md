@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Klėtys buvo pastatytos iš pušų ir eglių rąstų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 144 (PDF 145)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 144 (PDF 145)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

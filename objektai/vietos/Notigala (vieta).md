@@ -42,6 +42,7 @@ canonical_biography: "Jono Šiupinio-Bermono vadovaujamas būrys veikė Notigalo
   santrauka: '1918 m. Daupelių kaime, Pandėlio valsčiuje, gimęs Jonas Šiupinys-Bermonas vadovavo būriui, veikusiam Notigalos miškų masyve.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 211"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 211."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

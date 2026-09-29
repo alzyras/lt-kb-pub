@@ -74,4 +74,3 @@ Danutė Bukinienė vadovavo Paketurių šv. Kazimiero vaikų globos namams, įku
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

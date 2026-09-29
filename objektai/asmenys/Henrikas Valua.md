@@ -20,6 +20,12 @@ media_direct_json: '[{"mediaId":"m-11a84d7c4d0834814e145073","title":"Henrikas V
 media_total_count: 1
 media_primary_width: 764
 media_primary_height: 1024
+entity_id: "ent-aca8ed6f23771530b4d3d554"
+canonical_name: "Henrikas Valua"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Valua","[\"Henrikas Valua\", \"Henrikas Valua\"]"]
+sameAs: []
 ---
 
 # Henrikas Valua

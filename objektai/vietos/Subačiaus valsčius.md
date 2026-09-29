@@ -103,6 +103,7 @@ Antano Jodelio (Judalio) suburta partizanų grupė veikė Subačiaus valsčiaus 
   santrauka: 'Parabelio partizanų būriui vadovavo Kazys Jatkevičius-Parabelis; būrys veikė Troškūnų ir Subačiaus valsčiuose, o jam priklausė 15 partizanų, 30 ryšininkų ir 6 partizanų rėmėjai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 289"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 289."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -169,4 +170,3 @@ Antano Jodelio (Judalio) suburta partizanų grupė veikė Subačiaus valsčiaus 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-005
-

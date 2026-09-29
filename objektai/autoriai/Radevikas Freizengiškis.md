@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9377ebc787d1da7cee6c3d21
-canonical_name: Radevikas Freizengiškis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Radevikas Freizengiškis
+entity_id: "ent-9377ebc787d1da7cee6c3d21"
+canonical_name: "Radevikas Freizengiškis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Radevikas Freizengiškis"]
 sameAs: []
-canonical_biography: 'Narbutas nurodo, kad Radevikas Freizengiškis, aprašinėdamas XIII amžiaus Lenkijos sienas, greta Prūsijos mini rusus, kuriuos vadina rutėnais.'
+canonical_biography: "Narbutas nurodo, kad Radevikas Freizengiškis, aprašinėdamas XIII amžiaus Lenkijos sienas, greta Prūsijos mini rusus, kuriuos vadina rutėnais."
 ---
 # Radevikas Freizengiškis
 

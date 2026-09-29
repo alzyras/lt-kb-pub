@@ -89,6 +89,26 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   pagrindžia:
     - c-205669
 
+<a id="claim-t-220415"></a>
+- t-220415
+  teiginys: "Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Durbė: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Burchardas iš Hornhauzeno: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Durbė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Burchardas žuvo kautynėse lauke prie Durbės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Burchardas iš Hornhauzeno mirė Durbė (0.92); Burchardas iš Hornhauzeno mirė Kuršas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1219 m.; įvykio data: 1238 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citatos informacija apie žūtį."
+  pagrindžia:
+    - c-202492
+
 ## Citatos
 
 - id: c-60726
@@ -187,6 +207,8 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220415
 
 - id: c-205669
   autorius: "Petras Dusburgietis"

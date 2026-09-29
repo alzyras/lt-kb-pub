@@ -43,6 +43,7 @@ Senasis kelio ruožas nuo Zuntės gatvės iki Palėvenėlės kaimo liko Kupiški
   santrauka: 'Senasis kelio ruožas nuo Zuntės gatvės iki Palėvenėlės kaimo liko Kupiškio marių dugne; vietoj jo nutiestas naujas kelias.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 32 (PDF 33)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 32 (PDF 33)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

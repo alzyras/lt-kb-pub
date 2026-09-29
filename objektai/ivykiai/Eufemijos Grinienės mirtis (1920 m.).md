@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: '1920 m. pradžioje Eufemija Grinienė mirė nuo senatvinio marazmo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 201 (PDF 202)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 201 (PDF 202)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

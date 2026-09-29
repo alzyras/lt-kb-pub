@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f3d4805b0619f90f1022f7cd
-canonical_name: Grinkiškis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Grinkiškis
-  - Grinkiškis (vieta)
+entity_id: "ent-f3d4805b0619f90f1022f7cd"
+canonical_name: "Grinkiškis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grinkiškis","Grinkiškis (vieta)"]
 sameAs: []
-canonical_biography: 'Grinkiškio parapijai skirtas vienas vysk. M. Valančiaus pastoracinių laiškų. But kiškės, Plungės, Grinkiškio ir Kupiškio.'
+canonical_biography: "Grinkiškio parapijai skirtas vienas vysk. M. Valančiaus pastoracinių laiškų. But kiškės, Plungės, Grinkiškio ir Kupiškio."
 place_authority: true
 historical_names: []
 ---

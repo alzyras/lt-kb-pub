@@ -41,6 +41,7 @@ Antrojo pasaulinio karo metu kunigas padėjo iš Vilniaus geto pabėgusioms Mira
   santrauka: 'Mira Burde ir Irma Degon pabėgo iš Vilniaus geto, o kunigas padėjo joms slapstytis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 236 (PDF 237)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 236 (PDF 237)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

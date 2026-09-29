@@ -27,16 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-97ec4bcfe9ceeded14bb6221
-canonical_name: Mikalojus Kiška (XVI a.)
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Mikalojus Kiška
-  - Mikalojus Kiška (XVI a.)
+entity_id: "ent-noble-97ec4bcfe9ceeded14bb6221"
+canonical_name: "Mikalojus Kiška (XVI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Kiška","Mikalojus Kiška (XVI a.)"]
 sameAs: []
-canonical_biography: Mikalojus Kiška (XVI a.) - Kiškos giminės atstovas.
+canonical_biography: "Mikalojus Kiška (XVI a.) - Kiškos giminės atstovas."
 ---
 # Mikalojus Kiška (XVI a.)
 

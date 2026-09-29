@@ -68,6 +68,7 @@ Tumo Vaižganto kuopa priklausė Algimanto apygardos Kun. Margio rinktinei. 1949
   santrauka: 'Algimanto apygardos Kun. Margio rinktinės Tumo Vaižganto kuopos bunkeris buvo surastas ir sunaikintas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 369"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 369."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -110,4 +111,3 @@ Tumo Vaižganto kuopa priklausė Algimanto apygardos Kun. Margio rinktinei. 1949
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-003
-

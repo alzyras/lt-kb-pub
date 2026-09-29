@@ -49,6 +49,7 @@ canonical_biography: "Julius Šinkūnas 1940 m. lapkričio 16 d. paskirtas Kupi�
   santrauka: '1940 m. lapkričio 16 d. Julius Šinkūnas paskirtas bibliotekos vedėju.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 792 (PDF 793)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 792 (PDF 793)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

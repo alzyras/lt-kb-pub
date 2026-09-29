@@ -40,6 +40,7 @@ Juozapas Grina 1903 m. buvo LSDP Kupiškio kuopelės narys.
   santrauka: 'Juozapas Grina 1903 m. buvo LSDP Kupiškio kuopelės narys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 208 (PDF 209)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 208 (PDF 209)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

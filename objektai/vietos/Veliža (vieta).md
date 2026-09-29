@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4285d41c3aa972ef3e636d63
-canonical_name: Veliža (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Veliža
-  - Veliža (vieta)
+entity_id: "ent-4285d41c3aa972ef3e636d63"
+canonical_name: "Veliža (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Veliža","Veliža (vieta)"]
 sameAs: []
-canonical_biography: Vytautas paėmė Pskovo miestą Veližą.
+canonical_biography: "Vytautas paėmė Pskovo miestą Veližą."
+place_authority: true
+historical_names: []
 ---
 # Veliža (vieta)
 

@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1655 m. švedų okupacijos metu Kupiškio krašto kaimuose nuo kiekvieno valako reikėjo mokėti po 5 talerius, o mokesčių rinkėjai, lydimi ginkluotų kareivių, mokestį rinko prievarta.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 156 (PDF 157)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 156 (PDF 157)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

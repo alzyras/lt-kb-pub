@@ -53,6 +53,7 @@ Vėlesni aprašymai leidžia numanyti, kad prioras Hiacintas Kmita 1701 m. baig�
   santrauka: 'Vėlesni aprašymai leidžia spręsti, kad prioras Hiacintas Kmita 1701 m. baigė statyti prie Lėvens buvusį Palėvenės dominikonų vienuolyno korpusą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 318 (PDF 319)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 318 (PDF 319)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -64,6 +65,7 @@ Vėlesni aprašymai leidžia numanyti, kad prioras Hiacintas Kmita 1701 m. baig�
   santrauka: 'Apie 1770 m. pradėta mūryti tvora, aptvėrusi šventorių ir vėliau vienuolyno teritoriją; teritorijoje statyti ūkiniai pastatai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 320 (PDF 321)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 320 (PDF 321)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -75,6 +77,7 @@ Vėlesni aprašymai leidžia numanyti, kad prioras Hiacintas Kmita 1701 m. baig�
   santrauka: 'Vienuolyno ūkiniai trobesiai stovėjo į šiaurę nuo vienuolyno ir juosė ūkio kiemą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 323 (PDF 324)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 323 (PDF 324)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

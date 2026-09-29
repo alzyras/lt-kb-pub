@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio rajone šv. Jono koplytstulpius prie upelių statydavo kaimų bendruomenės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 962 (PDF 963)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 962 (PDF 963)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

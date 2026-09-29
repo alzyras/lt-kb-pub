@@ -51,6 +51,7 @@ R. Racevičiaus tyrimo duomenimis, ankstyviausias rytinis Palėvenės vienuolyno
   santrauka: 'R. Racevičiaus tyrimo duomenimis, ankstyviausias rytinis Palėvenės vienuolyno korpusas pastatytas 1690–1701 m. ir buvo vienaukštis, su dviaukščiais bokšteliais šiauriniame bei pietiniame galuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 319 (PDF 320)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 319 (PDF 320)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

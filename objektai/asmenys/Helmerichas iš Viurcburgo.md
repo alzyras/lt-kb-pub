@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-aa6b8080b6ecd559a709da80
-canonical_name: Helmerichas iš Viurcburgo
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Helmerichas iš Viurcburgo
+entity_id: "ent-aa6b8080b6ecd559a709da80"
+canonical_name: "Helmerichas iš Viurcburgo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Helmerichas iš Viurcburgo"]
 sameAs: []
-canonical_biography: Helmerichas buvo šeštasis Prūsijos žemės magistras ir vadovavo trejus metus.
+canonical_biography: "Helmerichas buvo šeštasis Prūsijos žemės magistras ir vadovavo trejus metus."
 ---
 # Helmerichas iš Viurcburgo
 

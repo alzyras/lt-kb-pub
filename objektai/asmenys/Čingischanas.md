@@ -69,6 +69,27 @@ canonical_biography: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vad
   pagrindžia:
     - c-196081
 
+<a id="claim-t-213180"></a>
+- t-213180
+  teiginys: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vadovaujamą kariuomenės būrį užimti Samachos ir Derbento vakarinėje Kaspijos pakrantėje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bojaduras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čingischanas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bojaduras: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čingischanas\" parinktas kaip owner_note_path. Targetas \"Bojaduras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1223 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, veiksmą, datą, vadus ir tikslą. Jis neperima moralinių ar motyvų vertinimų, todėl papildoma atribucija nereikalinga."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-174372

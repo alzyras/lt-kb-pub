@@ -56,6 +56,7 @@ Nenurodyta
   santrauka: '1800 m. pastatyta medinė klebonija buvo dengta malksnomis, turėjo 10 langų, lentų grindis ir dvi juodų koklių krosnis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 263 (PDF 264)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 263 (PDF 264)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,6 +68,7 @@ Nenurodyta
   santrauka: '1842–1843 m. Kupiškio dvaro inventoriuje klebonija aprašyta kaip pušinių rąstų pastatas su keturiais kambariais, virtuve ir trimis sandėliukais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 264 (PDF 265)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 264 (PDF 265)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

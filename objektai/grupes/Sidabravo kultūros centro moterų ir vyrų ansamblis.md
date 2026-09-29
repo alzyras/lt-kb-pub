@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '2011 m. lapkričio 13 d. Palėvenėje koncertavusiam Sidabravo kultūros centro moterų ir vyrų ansambliui vadovavo Arūnas Kotinskas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 255 (PDF 256)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 255 (PDF 256)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -64,6 +64,7 @@ Juozas Vaitiekūnas buvo 24 metų ir gyveno Daskapio kaime, Vabalninko valsčiuj
   santrauka: '1947 m. gruodžio 6 d. agentas „Ladiga“ pranešė nušovęs Juozą Vaitiekūną, Jono sūnų, kurį kronika įvardija Albino Tindžiulio junginio partizanu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 273"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 273."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,4 +95,3 @@ Juozas Vaitiekūnas buvo 24 metų ir gyveno Daskapio kaime, Vabalninko valsčiuj
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7c1008420819b3f472837f84
-canonical_name: Zaraso ežeras
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Zaraso ežeras
+entity_id: "ent-7c1008420819b3f472837f84"
+canonical_name: "Zaraso ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zaraso ežeras"]
 sameAs: []
-canonical_biography: 'Į Zaraso ežerą įteka panašiai pavadinta upė, tekėjusi per Neromos tautos žemę.'
+canonical_biography: "Į Zaraso ežerą įteka panašiai pavadinta upė, tekėjusi per Neromos tautos žemę."
+place_authority: true
+historical_names: []
 ---
 # Zaraso ežeras
 

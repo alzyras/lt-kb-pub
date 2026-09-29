@@ -37,6 +37,7 @@ Steponas Bajarūnas (Bojarūnas), gimęs 1911 m. ir gyvenęs Mockūnų kaime, va
   santrauka: 'Steponas Bajarūnas (Bojarūnas), gimęs 1911 m. ir gyvenęs Mockūnų kaime, vadovavo maždaug 28 partizanų būriui ir 1947 m. legalizavosi.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 135"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 135."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ Steponas Bajarūnas (Bojarūnas), gimęs 1911 m. ir gyvenęs Mockūnų kaime, va
   santrauka: '1947 m. spalį Steponas Bajarūnas pasitraukė iš Albino Tindžiulio junginio ir išvyko į Tauragės apskritį; agentė „Kairienė“ perdavė Juozo Pačekajaus sesers pasakojimą, kad Bajarūnas legalizavosi Tauragės apskrityje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 271"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 271."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

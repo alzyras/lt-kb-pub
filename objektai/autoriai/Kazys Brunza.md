@@ -63,6 +63,7 @@ Kazys Brunza nurodė, kad Šepetos pelkėje aptinkama plaukuotojo beržo ir ber�
   santrauka: '1959 m. Kazys Brunza Šepetos pelkėje aptiko beržo keružio hibridų su plaukuotuoju ir liekniniu beržais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 107 (PDF 108)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 107 (PDF 108)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Kazys Brunza nurodė, kad Šepetos pelkėje aptinkama plaukuotojo beržo ir ber�
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

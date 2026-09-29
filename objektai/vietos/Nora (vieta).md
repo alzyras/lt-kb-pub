@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5e4fdd313166cf3147033e87
-canonical_name: Nora (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Nora
-  - Nora (vieta)
+entity_id: "ent-5e4fdd313166cf3147033e87"
+canonical_name: "Nora (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nora","Nora (vieta)"]
 sameAs: []
-canonical_biography: 'Nora yra Rusijos Kalugos gubernijos upė, įtekanti į Oką.'
+canonical_biography: "Nora yra Rusijos Kalugos gubernijos upė, įtekanti į Oką."
+place_authority: true
+historical_names: []
 ---
 # Nora (vieta)
 

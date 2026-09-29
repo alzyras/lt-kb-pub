@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2effb70bda137d2f8f641e31
-canonical_name: Naujoji Vilnia
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Naujoji Vilnia
+entity_id: "ent-2effb70bda137d2f8f641e31"
+canonical_name: "Naujoji Vilnia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujoji Vilnia"]
 sameAs: []
-canonical_biography: Rakantiškės yra senas Naujosios Vilnios pavadinimas.
+canonical_biography: "Rakantiškės yra senas Naujosios Vilnios pavadinimas."
+place_authority: true
+historical_names: []
 ---
 # Naujoji Vilnia
 

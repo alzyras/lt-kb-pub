@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Dirbtuvių vedėjas B. Jonuška, valdybos viršininko pavaduotojas mechanizacijai P. Urbonavičius ir viršininkas V. Sirevičius sukūrė griovių valymo mašiną, kurios metinis ekonominis efektas sudarė 18 tūkst. rublių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 698 (PDF 699)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 698 (PDF 699)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

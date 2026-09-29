@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Vladimiro-Suzdalės žemė"]
 sameAs: []
 canonical_biography: "Vladimiro-Suzdalės žemė pretendavo į Kijevo Rusios bažnytinį palikimą."
+place_authority: true
+historical_names: []
 ---
 # Vladimiro-Suzdalės žemė
 

@@ -63,6 +63,7 @@ Vytautas Skrupskis dalyvavo Zdanausko susitikime su Starkumi ir jų pokalbyje. 1
   santrauka: '1947 m. pavasarį Vytautas Skrupskis laiške Starkui rašė, kad Zdanauskas, vykdydamas MGB organų užduotį, gavo nurodymą Starkų sučiupti gyvą arba nušauti.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 191-192"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 191-192."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -93,4 +94,3 @@ Vytautas Skrupskis dalyvavo Zdanausko susitikime su Starkumi ir jų pokalbyje. 1
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

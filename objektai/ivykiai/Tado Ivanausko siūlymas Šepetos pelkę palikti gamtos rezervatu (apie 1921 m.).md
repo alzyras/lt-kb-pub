@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Apie 1921 m. Tadas Ivanauskas siūlė Šepetos pelkę palikti gamtos rezervatu, nes joje buvo pastebėjęs labai retų baltųjų tetervinų ir beržą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 103 (PDF 104)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 103 (PDF 104)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

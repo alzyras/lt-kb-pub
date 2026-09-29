@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'V. Liovė turto surašymui paskyrė Kupiškio gimnazijos mokytojus Feliksą Visocką, Kazį Pajarską ir Petrą Snarskį; sąrašai buvo perduodami V. Liovei, kuris juos tvirtindavo ir nurodydavo turtą realizuoti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

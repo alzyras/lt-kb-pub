@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Buvę tremtiniai ir politiniai kaliniai minėjime dalijosi atsiminimais, įvardijo trėmimų organizatorius ir talkininkus bei skaitė savo kūrybos eilėraščius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 859 (PDF 860)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 859 (PDF 860)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

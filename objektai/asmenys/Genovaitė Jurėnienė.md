@@ -72,4 +72,3 @@ Genovaitė Jurėnienė 1964–1994 m. dirbo bibliotekininke Vėžionyse.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

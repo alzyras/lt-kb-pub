@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Jonas Kastytis Matulionis su arkikatedros choru vyko į Paryžių, Stokholmą ir Oslą, o kai kurių šių miestų iškiliose šventovėse giedojo solo partijas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 478 (PDF 479)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 478 (PDF 479)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

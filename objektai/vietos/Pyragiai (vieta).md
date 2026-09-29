@@ -57,6 +57,7 @@ Pyragiai ir Vėžionys tiesiogiai nesiribojo su pagrindiniu vaitijos žemių mas
   santrauka: 'Pyragiai tiesiogiai nesiribojo su pagrindiniu Laukminiškių vaitijos žemių masyvu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 147 (PDF 148)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 147 (PDF 148)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -71,6 +72,7 @@ Pyragiai ir Vėžionys tiesiogiai nesiribojo su pagrindiniu vaitijos žemių mas
   santrauka: 'Pyragiai ribojosi su Pienionių seniūnijos Kuosėnų vaitijos Plundakų kaimu, Pranckevičiaus palivarku ir Kupiškio miestelio žemėmis; už Kupos ribojosi su Slavinčiškio palivarko žemėmis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1031 (PDF 1032)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1031 (PDF 1032)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

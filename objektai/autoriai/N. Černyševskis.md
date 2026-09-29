@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-38d92ff9a335a97dc71f0324
-canonical_name: N. Černyševskis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - N. Černyševskis
+entity_id: "ent-38d92ff9a335a97dc71f0324"
+canonical_name: "N. Černyševskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["N. Černyševskis"]
 sameAs: []
-canonical_biography: 'N. Černyševskis čia nurodomas kaip revoliucinių demokratų publicistas, kurio tekstuose skamba padėka Kauno gubernijos mužikams dėl biudžeto atsigavimo.'
+canonical_biography: "N. Černyševskis čia nurodomas kaip revoliucinių demokratų publicistas, kurio tekstuose skamba padėka Kauno gubernijos mužikams dėl biudžeto atsigavimo."
 ---
 # N. Černyševskis
 

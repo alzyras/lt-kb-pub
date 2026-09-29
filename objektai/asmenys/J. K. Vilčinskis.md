@@ -41,6 +41,7 @@ Leidybiniai centrai, ieškodami sieninio religinio paveikslo pavyzdžių, naudoj
   santrauka: 'Pasak Ievos Bobinaitės, leidybiniai centrai aptariamo paveikslo pavyzdžių ieškojo J. K. Vilčinskio albume.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 675 (PDF 676)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 675 (PDF 676)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

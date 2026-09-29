@@ -51,6 +51,7 @@ Kupiškio archeologinių tyrimų etape, prasidėjusiame 2008 m., daugiausia darb
   santrauka: 'Kupiškio archeologinių tyrimų etape, prasidėjusiame 2008 m., daugiausia darbavosi Panevėžio kraštotyros muziejaus archeologė Alfreda Petrulienė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 123 (PDF 124)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 123 (PDF 124)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

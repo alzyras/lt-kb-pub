@@ -114,6 +114,7 @@ Albinas Tindžiulis, gimęs 1902 m. Gineišių kaime ir gyvenęs Žilių kaime, 
   santrauka: 'Tardomas Stasys Blėkas teigė esąs Albino Tindžiulio, Vytauto Sabulio ir Petro Navicko partizanų ryšininkas ir nurodė, kur slepiasi Albino Tindžiulio vadovaujamas maždaug 150 žmonių junginys.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 153"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 153."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -123,6 +124,7 @@ Albinas Tindžiulis, gimęs 1902 m. Gineišių kaime ir gyvenęs Žilių kaime, 
   santrauka: 'Albinas Tindžiulis, buvęs Lietuvos aviacijos kapitonas ir 45 metų amžiaus Žilių kaimo gyventojas, žuvo 1949 m. sausio 30 d. Ožkinių kaime, Aukštupėnų valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 383"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 383."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -201,4 +203,3 @@ Albinas Tindžiulis, gimęs 1902 m. Gineišių kaime ir gyvenęs Žilių kaime, 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-006
-

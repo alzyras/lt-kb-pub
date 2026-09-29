@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Totorio teigimu, 1930–1932 m. kunigo Stanislovo Eduardo Baltrimo rūpesčiu Kupiškio bažnyčios koplyčiose pastatyti Šv. Teresėlės ir Nukryžiuotojo altoriai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 341 (PDF 342)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 341 (PDF 342)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

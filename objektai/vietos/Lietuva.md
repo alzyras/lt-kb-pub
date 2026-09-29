@@ -37,19 +37,6 @@ media_primary_json: '{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great 
 media_direct_json: '[{"mediaId":"m-2a6a42e79dc9e9e46d7bd52d","title":"Lietuva 1921-1939.svg","caption":"Lietuvos žemėlapis 1921–1939 m.","originalTitle":"Lietuva 1921-1939.svg","creator":"Derivation of work Renata3 This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Self-made using Inkscape; used Image:Lithuania territory 1939-1940.svg by Renata3 and Image:LithuaniaPhysicalMap-Clean.svg by Knutux for some background features; Source map: (2001) Lietuvos istorijos atlasas , Vilnius: Vaga, p. 44 &amp; 45","dateDisplay":"2009","dateStart":null,"dateEnd":null,"width":2078,"height":1689,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALietuva_1921-1939.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Belarusian-language maps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0,3.0,2.5,2.0,1.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG maps of the First Lithuanian Republic","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Territorial evolution of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec New SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec SVG created with Inkscape","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:18.879721+03:00","reviewedAt":"2026-08-11T00:47:16.370355+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas žaliai pažymėtas Lietuvos teritorijos kontūras, miestai ir aplinkinės vietovės.","metadataEvidence":"Pavadinimas „Lietuva 1921–1939“ ir aprašas tiesiogiai įvardija žemėlapį kaip Lietuvos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Žemėlapis tiesiogiai vaizduoja konkrečią Lietuvos valstybės teritoriją.","isPrimary":1},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Didysis Lietuvos antspaudas su Vyčiu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seal of Grand Duchy of Lithuania (Alexander Jagiellon)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.187610+03:00","reviewedAt":"2026-08-11T00:47:16.376319+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus istorinis antspaudas su raitelio figūra ir aplinkiniu įrašu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Didįjį Lietuvos antspaudą, naudotą Aleksandro Jogailaičio valdymo metu 1503 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Antspaudas tiesiogiai identifikuojamas kaip Lietuvos valstybės istorinis antspaudas.","isPrimary":0}]'
 media_contextual_json: '[{"mediaId":"m-9c29cb2c3e391833e2bdb0ff","title":"Piersy statut VKL - first Statut of the Grand Duchy of Lithuania, Ruthenia and Samogitia.png","caption":"Pirmojo Lietuvos Statuto rankraščio puslapis","originalTitle":"Piersy statut VKL - first Statut of the Grand Duchy of Lithuania, Ruthenia and Samogitia.png","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://pravo.by/upload/pdf/pamjatniki-prava/Statut_Vielikjgo_Kniazestva_Litovskogo_1529g.pdf","dateDisplay":"1529 (original text); 16th century (manuscript copy)","dateStart":null,"dateEnd":null,"width":913,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APiersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"teisinis-terminas","label":"teisinis-terminas","facetKind":"tema","confidence":0.95},{"code":"teisinė-praktika","label":"teisinė-praktika","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ruthenian language","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T19:33:55.185853+03:00","reviewedAt":"2026-08-11T00:47:16.361198+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senas rankraščio puslapis su iškiliu antraštiniu įrašu ir rankraštiniu tekstu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Pirmąjį Lietuvos Statutą, išleistą Lietuvos Didžiajai Kunigaikštystei, Rusėnų ir Žemaičių žemėms.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne pats Lietuvos valstybės atvaizdas, bet aiškiai identifikuojamas su Lietuva susijęs istorinis dokumentas.","isPrimary":0}]'
 media_all_json: '[{"mediaId":"m-2a6a42e79dc9e9e46d7bd52d","title":"Lietuva 1921-1939.svg","caption":"Lietuvos žemėlapis 1921–1939 m.","originalTitle":"Lietuva 1921-1939.svg","creator":"Derivation of work Renata3 This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Self-made using Inkscape; used Image:Lithuania territory 1939-1940.svg by Renata3 and Image:LithuaniaPhysicalMap-Clean.svg by Knutux for some background features; Source map: (2001) Lietuvos istorijos atlasas , Vilnius: Vaga, p. 44 &amp; 45","dateDisplay":"2009","dateStart":null,"dateEnd":null,"width":2078,"height":1689,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALietuva_1921-1939.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Belarusian-language maps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0,3.0,2.5,2.0,1.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG maps of the First Lithuanian Republic","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Territorial evolution of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec New SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec SVG created with Inkscape","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:18.879721+03:00","reviewedAt":"2026-08-11T00:47:16.370355+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas žaliai pažymėtas Lietuvos teritorijos kontūras, miestai ir aplinkinės vietovės.","metadataEvidence":"Pavadinimas „Lietuva 1921–1939“ ir aprašas tiesiogiai įvardija žemėlapį kaip Lietuvos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Žemėlapis tiesiogiai vaizduoja konkrečią Lietuvos valstybės teritoriją.","isPrimary":1},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Didysis Lietuvos antspaudas su Vyčiu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seal of Grand Duchy of Lithuania (Alexander Jagiellon)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.187610+03:00","reviewedAt":"2026-08-11T00:47:16.376319+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus istorinis antspaudas su raitelio figūra ir aplinkiniu įrašu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Didįjį Lietuvos antspaudą, naudotą Aleksandro Jogailaičio valdymo metu 1503 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Antspaudas tiesiogiai identifikuojamas kaip Lietuvos valstybės istorinis antspaudas.","isPrimary":0},{"mediaId":"m-9c29cb2c3e391833e2bdb0ff","title":"Piersy statut VKL - first Statut of the Grand Duchy of Lithuania, Ruthenia and Samogitia.png","caption":"Pirmojo Lietuvos Statuto rankraščio puslapis","originalTitle":"Piersy statut VKL - first Statut of the Grand Duchy of Lithuania, Ruthenia and Samogitia.png","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://pravo.by/upload/pdf/pamjatniki-prava/Statut_Vielikjgo_Kniazestva_Litovskogo_1529g.pdf","dateDisplay":"1529 (original text); 16th century (manuscript copy)","dateStart":null,"dateEnd":null,"width":913,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APiersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"teisinis-terminas","label":"teisinis-terminas","facetKind":"tema","confidence":0.95},{"code":"teisinė-praktika","label":"teisinė-praktika","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ruthenian language","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T19:33:55.185853+03:00","reviewedAt":"2026-08-11T00:47:16.361198+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senas rankraščio puslapis su iškiliu antraštiniu įrašu ir rankraštiniu tekstu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Pirmąjį Lietuvos Statutą, išleistą Lietuvos Didžiajai Kunigaikštystei, Rusėnų ir Žemaičių žemėms.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne pats Lietuvos valstybės atvaizdas, bet aiškiai identifikuojamas su Lietuva susijęs istorinis dokumentas.","isPrimary":0}]'
-entity_id: ent-c7213aa680eab59ac9bf37ec
-canonical_name: Lietuva
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Didžioji Lietuva
-  - Lietuva
-  - Lietuvos valstybė
-sameAs: []
-canonical_biography: 'Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise. Iki taikos tarp Lietuvos žemių ir Prūsijos kryžiuočių kasmet per Kalėdas turėjo būti mokama šimtas grivinų. Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Lietuva","url":"https://lt.wikipedia.org/wiki/Lietuva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Didžioji Lietuva","url":"https://www.vle.lt/straipsnis/didzioji-lietuva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T18:03:08+00:00","source_checked_at":"2026-09-18T18:03:08+00:00","counts":{"relations":311,"gallery":3,"sources":25},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi- elgė Latvija ir Estija).","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-180068","evidence_id":"c-163705","origin":"internal"},"wiki":{"intro":"Lietuva (oficialiai Lietuvos Respublika) – valstybė Vidurio Rytų Europoje, Baltijos jūros pietrytinėje pakrantėje. Plotas 65 300 km². Lietuva – viena iš Baltijos valstybių. Šiaurėje ribojasi su Latvija (sausumos sienos ilgis – 588 km, jūros siena – 22 km), rytuose ir pietuose – su Baltarusija (sienos ilgis – 677 km), pietvakariuose – su Lenkija (sienos ilgis – 104 km) ir Rusija (Kaliningrado sritis; sausumos sienos ilgis – 255 km, Kuršių mariomis – 18 km, jūra – 22 km). Baltijos jūros pakrantės ilgis – 90,66 km. Lietuvos–Baltarusijos ir Lietuvos–Rusijos siena yra ir Europos Sąjungos siena. Lietuvos ekonominė zona Baltijos jūroje (vakaruose) siekia Švedijos ekonominę zoną. Didžiausias šalies miestas yra sostinė Vilnius. Kiti didieji miestai: Kaunas, Klaipėda, Šiauliai, Panevėžys.","infobox":[{"code":"row_1","label":"Nr.","value":"Miestas\nApskritis\nGyventojai\nNr.\nMiestas\nApskritis\nGyventojai\nVilnius\nKaunas\nKlaipėda\nŠiauliai\nPanevėžys","cells":[{"text":"Nr.","header":true,"colspan":1,"rowspan":1},{"text":"Miestas","header":true,"colspan":1,"rowspan":1},{"text":"Apskritis","header":true,"colspan":1,"rowspan":1},{"text":"Gyventojai","header":true,"colspan":1,"rowspan":1},{"text":"Nr.","header":true,"colspan":1,"rowspan":1},{"text":"Miestas","header":true,"colspan":1,"rowspan":1},{"text":"Apskritis","header":true,"colspan":1,"rowspan":1},{"text":"Gyventojai","header":true,"colspan":1,"rowspan":1},{"text":"Vilnius\nKaunas\nKlaipėda\nŠiauliai\nPanevėžys","header":true,"colspan":1,"rowspan":11}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"1","value":"Vilnius\nVilniaus apskritis\n550834\n11\nKėdainiai\nKauno apskritis\n22677","cells":[{"text":"1","header":false,"colspan":1,"rowspan":1},{"text":"Vilnius","header":false,"colspan":1,"rowspan":1},{"text":"Vilniaus apskritis","header":false,"colspan":1,"rowspan":1},{"text":"550834","header":false,"colspan":1,"rowspan":1},{"text":"11","header":false,"colspan":1,"rowspan":1},{"text":"Kėdainiai","header":false,"colspan":1,"rowspan":1},{"text":"Kauno apskritis","header":false,"colspan":1,"rowspan":1},{"text":"22677","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"2","value":"Kaunas\nKauno apskritis\n289364\n12\nTauragė\nTauragės apskritis\n21520","cells":[{"text":"2","header":false,"colspan":1,"rowspan":1},{"text":"Kaunas","header":false,"colspan":1,"rowspan":1},{"text":"Kauno apskritis","header":false,"colspan":1,"rowspan":1},{"text":"289364","header":false,"colspan":1,"rowspan":1},{"text":"12","header":false,"colspan":1,"rowspan":1},{"text":"Tauragė","header":false,"colspan":1,"rowspan":1},{"text":"Tauragės apskritis","header":false,"colspan":1,"rowspan":1},{"text":"21520","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"3","value":"Klaipėda\nKlaipėdos apskritis\n149116\n13\nTelšiai\nTelšių apskritis\n21287","cells":[{"text":"3","header":false,"colspan":1,"rowspan":1},{"text":"Klaipėda","header":false,"colspan":1,"rowspan":1},{"text":"Klaipėdos apskritis","header":false,"colspan":1,"rowspan":1},{"text":"149116","header":false,"colspan":1,"rowspan":1},{"text":"13","header":false,"colspan":1,"rowspan":1},{"text":"Telšiai","header":false,"colspan":1,"rowspan":1},{"text":"Telšių apskritis","header":false,"colspan":1,"rowspan":1},{"text":"21287","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"4","value":"Šiauliai\nŠiaulių apskritis\n101511\n14\nUkmergė\nVilniaus apskritis\n20154","cells":[{"text":"4","header":false,"colspan":1,"rowspan":1},{"text":"Šiauliai","header":false,"colspan":1,"rowspan":1},{"text":"Šiaulių apskritis","header":false,"colspan":1,"rowspan":1},{"text":"101511","header":false,"colspan":1,"rowspan":1},{"text":"14","header":false,"colspan":1,"rowspan":1},{"text":"Ukmergė","header":false,"colspan":1,"rowspan":1},{"text":"Vilniaus apskritis","header":false,"colspan":1,"rowspan":1},{"text":"20154","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"5","value":"Panevėžys\nPanevėžio apskritis\n85885\n15\nVisaginas\nUtenos apskritis\n18024","cells":[{"text":"5","header":false,"colspan":1,"rowspan":1},{"text":"Panevėžys","header":false,"colspan":1,"rowspan":1},{"text":"Panevėžio apskritis","header":false,"colspan":1,"rowspan":1},{"text":"85885","header":false,"colspan":1,"rowspan":1},{"text":"15","header":false,"colspan":1,"rowspan":1},{"text":"Visaginas","header":false,"colspan":1,"rowspan":1},{"text":"Utenos apskritis","header":false,"colspan":1,"rowspan":1},{"text":"18024","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"6","value":"Alytus\nAlytaus apskritis\n49895\n16\nPlungė\nTelšių apskritis\n16755","cells":[{"text":"6","header":false,"colspan":1,"rowspan":1},{"text":"Alytus","header":false,"colspan":1,"rowspan":1},{"text":"Alytaus apskritis","header":false,"colspan":1,"rowspan":1},{"text":"49895","header":false,"colspan":1,"rowspan":1},{"text":"16","header":false,"colspan":1,"rowspan":1},{"text":"Plungė","header":false,"colspan":1,"rowspan":1},{"text":"Telšių apskritis","header":false,"colspan":1,"rowspan":1},{"text":"16755","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"7","value":"Marijampolė\nMarijampolės apskritis\n34975\n17\nKretinga\nKlaipėdos apskritis\n16583","cells":[{"text":"7","header":false,"colspan":1,"rowspan":1},{"text":"Marijampolė","header":false,"colspan":1,"rowspan":1},{"text":"Marijampolės apskritis","header":false,"colspan":1,"rowspan":1},{"text":"34975","header":false,"colspan":1,"rowspan":1},{"text":"17","header":false,"colspan":1,"rowspan":1},{"text":"Kretinga","header":false,"colspan":1,"rowspan":1},{"text":"Klaipėdos apskritis","header":false,"colspan":1,"rowspan":1},{"text":"16583","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"8","value":"Mažeikiai\nTelšių apskritis\n32470\n18\nPalanga\nKlaipėdos apskritis\n16038","cells":[{"text":"8","header":false,"colspan":1,"rowspan":1},{"text":"Mažeikiai","header":false,"colspan":1,"rowspan":1},{"text":"Telšių apskritis","header":false,"colspan":1,"rowspan":1},{"text":"32470","header":false,"colspan":1,"rowspan":1},{"text":"18","header":false,"colspan":1,"rowspan":1},{"text":"Palanga","header":false,"colspan":1,"rowspan":1},{"text":"Klaipėdos apskritis","header":false,"colspan":1,"rowspan":1},{"text":"16038","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"9","value":"Jonava\nKauno apskritis\n26423\n19\nRadviliškis\nŠiaulių apskritis\n15161","cells":[{"text":"9","header":false,"colspan":1,"rowspan":1},{"text":"Jonava","header":false,"colspan":1,"rowspan":1},{"text":"Kauno apskritis","header":false,"colspan":1,"rowspan":1},{"text":"26423","header":false,"colspan":1,"rowspan":1},{"text":"19","header":false,"colspan":1,"rowspan":1},{"text":"Radviliškis","header":false,"colspan":1,"rowspan":1},{"text":"Šiaulių apskritis","header":false,"colspan":1,"rowspan":1},{"text":"15161","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"10","value":"Utena\nUtenos apskritis\n25397\n20\nŠilutė\nKlaipėdos apskritis\n14980","cells":[{"text":"10","header":false,"colspan":1,"rowspan":1},{"text":"Utena","header":false,"colspan":1,"rowspan":1},{"text":"Utenos apskritis","header":false,"colspan":1,"rowspan":1},{"text":"25397","header":false,"colspan":1,"rowspan":1},{"text":"20","header":false,"colspan":1,"rowspan":1},{"text":"Šilutė","header":false,"colspan":1,"rowspan":1},{"text":"Klaipėdos apskritis","header":false,"colspan":1,"rowspan":1},{"text":"14980","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"","value":"2020 m. pradžios duomenys","cells":[{"text":"2020 m. pradžios duomenys","header":false,"colspan":11,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"29","revision_id":"7889285","status":"published","translation_status":"native","source":{"title":"Lietuva","url":"https://lt.wikipedia.org/wiki/Lietuva","publisher":"Vikipedija","language":"lt","article_id":"29","revision_id":"7889285","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7889285","history_url":"https://lt.wikipedia.org/w/index.php?title=Lietuva&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:36.246768+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"0c48ab07796153f6753ea0ca269b25374675093797a047b527e01b1dabc4ef41","version_pk":"ef6b881cec335b4dbf3b5a8367abc410"}},"source_buttons":[{"label":"Vikipedija","title":"Lietuva","url":"https://lt.wikipedia.org/wiki/Lietuva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Didžioji Lietuva","url":"https://www.vle.lt/straipsnis/didzioji-lietuva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Lietuva","https://www.vle.lt/straipsnis/didzioji-lietuva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"59e3d212f87347cad147ab01","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"XVI–XVII a. Lietuva buvo šiauriausias katalikiškojo Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys.","context":"Šaltinio autorių apibūdinimas apie XVI–XVII a.","support_ids":["t-180094","c-163707"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180094","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163707","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li- sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės šviesą iki pat Meksikos, Paragvajaus. Kitas šio pasaulio pakraštys, labiau- siai nutolęs į šiaurę, buvo Lietuva."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a03eed6f47a5db2dadb90cb4","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Lietuva valdė nedidelį ir uostų stokojantį Baltijos pakrantės ruožą.","context":"Michał Baliński, aprašydamas XIII a. vidurio Lietuvą.","support_ids":["t-180072","c-163725"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180072","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163725","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Visi kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­ vių, kad galėtų bent kiek paveikti kaimyninius kraštus. Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­ siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­ kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje jau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­ daugo (Mendogo) sostinė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ef161c9cb12506de29acc7b8","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Lietuva buvo didelis, bet nedaug dirbamos žemės turintis, pelkėtas ir miškingas kraštas.","context":"Teodoro Narbuto pateiktas Lietuvos apibūdinimas; autoriaus vertinimas, laikas nenurodytas.","support_ids":["t-216785","c-200259"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216785","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200259","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Lietuva - tai didelis, bet nedaug dirbamos žemės turintis kraš­ tas, ry’tuose prisišliejęs prie Lenkijos; kraštas pelkėtas ir miškin­ gas; jo sostinė yra Vilnius - Vyskupų miestas, toks pat didelis 5. Medžiagą pralenkė darbas: jose Geležies apdirbėjas Buvo iškalęs marias ir jų apsuptuosius žemynus, Žemė visus kraštus ir aukštcrjj dangti virš jųjų Ir vandenų žydriuosius dievus: Tritoną skardingą Ir daugiaveidį Protėją, ir atsirėmusį rankom 10. Į milžinų banginių kupras Egeoną šimtarankj Ir Doridės dukras, kurių keliolika nardo. Kitos žalsvąsias kasas, ant uolų susėdę, džiovinąs, Keletas joja žuvim. Ne visos iš veido vienodos, Betgi ir skirias nedaug, kaip sesėm tikrosiom pritinka. 15.…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"08a382969c63dbdf9c903ef8","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Lietuva turėjo didžiulius miškus, o vasaros joje buvo labai lietingos.","context":"Teodoro Narbuto apibūdinimas; autoriaus teiginys apie jo laikų ir ankstesnę Lietuvą.","support_ids":["t-215587","c-193017"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215587","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-193017","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Negalima ginčyti, jog Lietuva, kuri ir dabar turi didžiulių miškų, buvo labai drėg­ nas kraštas; ir dabar vasaros čia yra labai lietingos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a8023d3194f6a69bad746aa8","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"XIII a. viduryje Lietuva savo žemėje jau turėjo keletą miestų.","context":"Michał Baliński, aprašydamas XIII a. vidurį.","support_ids":["t-199377","c-163725"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199377","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163725","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Visi kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­ vių, kad galėtų bent kiek paveikti kaimyninius kraštus. Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­ siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­ kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje jau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­ daugo (Mendogo) sostinė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"13a50ece26b334975c2c9132","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Valdant Algirdui Lietuva išsiplėtė nuo Baltijos iki Juodosios jūros ir apėmė etnines lietuvių bei platesnes stačiatikiškas senrusių žemes.","context":"Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio aprašymas apie Algirdo valdymą (1345–1377).","support_ids":["t-203371","c-163782"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203371","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163782","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Kryžiaus karai prieš Lietuvą iš dalies paaiški- na Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose. Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"85fdaba10957408dbe1838cb","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Lietuva tapo politinės sistemos centru, apie kurį telkėsi prijungtos ir jos politinėje įtakoje buvusios žemės.","context":"Šaltinio autorių aprašymas apie Gedimino arba Algirdo valdymą.","support_ids":["t-199341","c-163818"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199341","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163818","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung- tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4c3db224a6e32c9b5706faa7","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros, jungęs Lietuvą su Rytais.","context":"Michał Baliński aprašė istorinę Lietuvos prekybinę sistemą.","support_ids":["t-199408","c-163709"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199408","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163709","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"27. 79 Kijevo kunigaikštystė ir Podolė, anais laikais nusidriekusi iki pat Dniepro ir Dniestro žiočių, priklau­ sė Lietuvai; Kafos* miestas prie Juo­ dosios jūros buvo svarbiausias Lie­ tuvos prekybinis uostas, jungęs su Rytais, iš kur prekės būdavo gabe­ namos į Kijevą; pastarajam tarpinin­ kaujant Vilnius, kaip valstybės sos­ tinė, palaikė prekybinius ryšius su Rytais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2ae46cc37c44569c596359f6","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Valdant Gediminui arba Algirdui aplink valstybės branduolį ir sostinę buvo sukurta mūrinių pilių sistema: Medininkai, Krėva, Lyda, Trakai, Gardinas ir Kaunas.","context":"Šaltinio autorių aprašymas apie Gedimino arba Algirdo valdymą.","support_ids":["t-199341","c-163818"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199341","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163818","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung- tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"902275668def35ad40e93acd","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Sovietmečiu į Lietuvą buvo integruoti keliai, autostrada ir geležinkeliai.","context":"Šaltinio autorių aprašymas apie sovietmetį.","support_ids":["t-199495","c-163798"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199495","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163798","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Visų pirma lietuviai neprastai išmoko rusų kalbą ir galėjo tiesiogiai naudotis didžios rusų kultūros pasiekimais. Keliais, autostrada, geležinkeliais, galų gale žmonėmis į Lietuvą integruoti Klaipėdos kraštas ir Vilnius. Unitari- nė, unifikacinė SSRS politika gerokai nusmukdė Latvijos ir Estijos lygį, bet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijo- me kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2d52d8fb2d7b1c42e1489716","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"XVI amžiuje, pasibaigus karams su vokiečių ordinu, Lietuvoje atsivėrė prekybos keliai į Baltijos jūrą, o prekyba ėmė klestėti.","context":"A. Šapokos redaguotos Lietuvos istorijos aprašymas apie XVI a.","support_ids":["t-199447","c-182001"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199447","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-182001","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"**Pastangos sutvarkyti ūkį.** XVI amžiuje vakaruose Lietuva karų jau nebeturėjo. Pasibaigus karams su vokiečių ordinu, atsi- darė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba. Rytuose ėję karai su Maskva reikalavo daug pinigų, todėl rei- kėjo rūpintis, kad būtų daugiau ką parduoti. Didžiausi žemės plotai priklausė didžiajam kunigaikščiui, todėl jam pirmiausia teko susirūpinti, kad būtų pertvarkytas ūkis ir kad jis duotų daugiau pajamų."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Lietuva – istorinė valstybė ir politinė erdvė, kurios raida apima Lietuvos Didžiąją Kunigaikštystę, nepriklausomybės atkūrimus ir sudėtingus XX amžiaus lūžius. Lietuvos Didžioji Kunigaikštystė susikūrė XIII a. viduryje, o jos pirmasis valdovas Mindaugas 1253 m. buvo karūnuotas karaliumi. Gedimino ir Algirdo laikais Lietuva tapo politinės sistemos centru: aplink sostinę buvo kuriama mūrinių pilių sistema, o jos įtakoje atsidūrė Voluinė, Haličas, Kijevas ir Pskovas. Vytauto politika padėjo valstybei pašalinti didžiuosius pavojus, įteisinti savo egzistenciją, įžengti į Europą ir joje išsilaikyti. 1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę, o 1991 m. jos tarptautinis pripažinimas ir pasirinktas euroatlantinės integracijos kelias įtvirtino sugrįžimą į pasaulio politinę erdvę.","sentences":[{"sentence_id":"s1","text":"Lietuva – istorinė valstybė ir politinė erdvė, kurios raida apima Lietuvos Didžiąją Kunigaikštystę, nepriklausomybės atkūrimus ir sudėtingus XX amžiaus lūžius.","support_ids":["t-180159","t-199355","t-180101"]},{"sentence_id":"s2","text":"Lietuvos Didžioji Kunigaikštystė susikūrė XIII a. viduryje, o jos pirmasis valdovas Mindaugas 1253 m. buvo karūnuotas karaliumi.","support_ids":["t-180159"]},{"sentence_id":"s3","text":"Gedimino ir Algirdo laikais Lietuva tapo politinės sistemos centru: aplink sostinę buvo kuriama mūrinių pilių sistema, o jos įtakoje atsidūrė Voluinė, Haličas, Kijevas ir Pskovas.","support_ids":["t-180097"]},{"sentence_id":"s4","text":"Vytauto politika padėjo valstybei pašalinti didžiuosius pavojus, įteisinti savo egzistenciją, įžengti į Europą ir joje išsilaikyti.","support_ids":["t-203460"]},{"sentence_id":"s5","text":"1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę, o 1991 m. jos tarptautinis pripažinimas ir pasirinktas euroatlantinės integracijos kelias įtvirtino sugrįžimą į pasaulio politinę erdvę.","support_ids":["t-199355","t-180069","t-180068"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį tiesiogiai pagrindžia nurodyti šaltiniai apie LDK, nepriklausomybės atkūrimą ir XX a. okupacijos lūžius."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo LDK susikūrimą XIII a. viduryje ir Mindaugo karūnaciją 1253 m."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo mūrinių pilių sistemą, politinį centrą ir Voluinę, Haličą, Kijevą bei Pskovą Lietuvos įtakoje."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad Vytauto politika pašalino pavojus, įteisino valstybės egzistenciją ir padėjo jai įsitvirtinti Europoje."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai pagrindžia 1918 m. Vasario 16-osios aktą, 1991 m. tarptautinį pripažinimą ir euroatlantinės integracijos kelią."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180159","t-199355","t-180101"]},{"sentence_id":"s2","supported":false,"support_ids":["t-180159"]},{"sentence_id":"s3","supported":false,"support_ids":["t-180097"]},{"sentence_id":"s4","supported":false,"support_ids":["t-203460"]},{"sentence_id":"s5","supported":false,"support_ids":["t-199355","t-180069","t-180068"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-547e7226472ac5ae9878a6e7","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-2a6a42e79dc9e9e46d7bd52d","relation_type":"map_of"},{"media_id":"m-9c29cb2c3e391833e2bdb0ff","relation_type":"manuscript_depiction_of"}],"media_verification":{"status":"not_required","primary_media_id":"m-547e7226472ac5ae9878a6e7","candidate_count":3,"visual_verified_count":3,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Antspaudas tiesiogiai identifikuojamas kaip Lietuvos valstybės istorinis antspaudas.","visual_evidence":"Matomas apvalus istorinis antspaudas su raitelio figūra ir aplinkiniu įrašu.","metadata_evidence":"Pavadinimas ir aprašas aiškiai nurodo Didįjį Lietuvos antspaudą, naudotą Aleksandro Jogailaičio valdymo metu 1503 m.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Aleksandras Jogailaitis","claim_id":"t-88471","confidence":0.93},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-108282","confidence":0.9},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Germantas","claim_id":"t-87425","confidence":0.82},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-176952","confidence":0.9},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-177280","confidence":0.85},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-212250","confidence":0.91},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Netimeras","claim_id":"t-19170","confidence":0.96},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Pukuveras","claim_id":"t-223408","confidence":0.93},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Simonas Lengvenis","claim_id":"t-82662","confidence":0.82},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-113651","confidence":0.83},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Stanislovas Augustas Poniatovskis","claim_id":"t-170896","confidence":0.86},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Tautvila","claim_id":"t-87601","confidence":0.8},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Tautvilas","claim_id":"t-121175","confidence":0.8},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Vaišelga","claim_id":"t-75375","confidence":0.9},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176653","confidence":0.95},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-176817","confidence":0.92},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Žygimantas Augustas","claim_id":"t-88469","confidence":0.84},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Žygimantas Senasis","claim_id":"t-88112","confidence":0.93},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Žygimantas","claim_id":"t-113653","confidence":0.82},{"predicate":"gime","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-215978","confidence":0.62},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-176438","confidence":0.7},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-177345","confidence":0.82},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Paulius Vladimiri","claim_id":"t-35262","confidence":0.78},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Stanislovas Kiška","claim_id":"t-184831","confidence":0.73},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Vytautas Landsbergis","claim_id":"t-170248","confidence":0.64},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-05214","confidence":0.91},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Šv. Kazimieras","claim_id":"t-183289","confidence":0.72},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/II brigada","claim_id":"t-40890","confidence":0.73},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/NATO","claim_id":"t-181722","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Kazys Ladyga","claim_id":"t-40281","confidence":0.63},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Krivis","claim_id":"t-217128","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Tochtamišas","claim_id":"t-111432","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-215978","confidence":0.6},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Anglai","claim_id":"t-210298","confidence":0.6},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Armėnai","claim_id":"t-117317","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Augustinijonų ordinas","claim_id":"t-01273","confidence":0.64},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Bajorai","claim_id":"t-177297","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Dalomoji Komisija","claim_id":"t-182886","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Karaimai","claim_id":"t-120189","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Karmelitų ordinas","claim_id":"t-112560","confidence":0.65},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-179143","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lenkų socialistų partija","claim_id":"t-19793","confidence":0.61},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lenkų tautiniai demokratai","claim_id":"t-77826","confidence":0.56},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-176763","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuvos rusinai","claim_id":"t-219185","confidence":0.92},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuvos totoriai","claim_id":"t-31501","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Litvakai","claim_id":"t-45106","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Litvinai","claim_id":"t-219716","confidence":0.84},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Normanai","claim_id":"t-180647","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Pranciškonų ordinas","claim_id":"t-87182","confidence":0.8},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Raganos","claim_id":"t-216066","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-183380","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Skandinavai","claim_id":"t-180647","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Slavai","claim_id":"t-31053","confidence":0.58},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Stačiatikiai","claim_id":"t-20172","confidence":0.69},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-222235","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-10521","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Unitai","claim_id":"t-101480","confidence":0.58},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-183084","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Žydai","claim_id":"t-117317","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/A. Smetona","claim_id":"t-77980","confidence":0.7},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Aleksandras Balinskis","claim_id":"t-85929","confidence":0.58},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Antanas Mackevičius","claim_id":"t-75699","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Audrys Juozas Bačkis","claim_id":"t-18837","confidence":0.62},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bazilijus Serebrianas","claim_id":"t-40066","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bona Sforca","claim_id":"t-13464","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Brunonas Bonifacijus","claim_id":"t-13543","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Ernekė","claim_id":"t-225800","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Fransua Miteranas","claim_id":"t-46038","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Fridrichas iš Libencelės","claim_id":"t-221268","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-05292","confidence":0.62},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jaranda iš Brudzevo","claim_id":"t-186214","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-181859","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas Paulius II","claim_id":"t-71296","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas Tarnovskis","claim_id":"t-63737","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas iš Lichino","claim_id":"t-186215","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas iš Vienos","claim_id":"t-222609","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Kazys Ladyga","claim_id":"t-40281","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Konradas Lichtenhagenas","claim_id":"t-102840","confidence":0.7},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-184675","confidence":0.85},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Libonas","claim_id":"t-114293","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Michailas Aleksandrovičius","claim_id":"t-183753","confidence":0.94},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Mikalojus Maskoževskis","claim_id":"t-35228","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Stasys Girėnas","claim_id":"t-183273","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Steponas Darius","claim_id":"t-183273","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogaila","claim_id":"t-173243","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-10704","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zbignevas Olesnickis","claim_id":"t-184893","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zbignievas Olesnickis","claim_id":"t-176855","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Bartai","claim_id":"t-225002","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Danijos karaliaus kariai iš Revelio","claim_id":"t-40872","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Gotai","claim_id":"t-214430","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Jėzuitų ordinas","claim_id":"t-172113","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Karaimai","claim_id":"t-120184","confidence":0.94},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lenkijos karalystės kariuomenė","claim_id":"t-179977","confidence":0.89},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Napoleono kariuomenė","claim_id":"t-43516","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Naugardukiečiai","claim_id":"t-210662","confidence":0.66},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Pijarų ordinas","claim_id":"t-72604","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Romėnai","claim_id":"t-217109","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/SSRS kariuomenė","claim_id":"t-183184","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Senovės romėnai","claim_id":"t-215999","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Silezijos ir Vroclavo gyventojai","claim_id":"t-86825","confidence":0.98},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-225002","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-176630","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/osios oro desanto divizijos 234-asis pulkas","claim_id":"t-80651","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Želigovskininkai","claim_id":"t-20114","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Žydai","claim_id":"t-117384","confidence":0.86},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Brunonas","claim_id":"t-31616","confidence":0.62},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Šach Achmedas","claim_id":"t-87415","confidence":0.9},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Anglai","claim_id":"t-210298","confidence":0.62},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Rygiečiai","claim_id":"t-97038","confidence":0.85},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Vilniaus miestiečių luomas","claim_id":"t-55080","confidence":0.91},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Kafa","claim_id":"t-88203","confidence":0.8},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Leningradas","claim_id":"t-177734","confidence":0.62},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/grupes/Egiptiečiai","claim_id":"t-210257","confidence":0.78},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/grupes/Finikiečiai","claim_id":"t-210010","confidence":0.78},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/grupes/Hanza","claim_id":"t-02629","confidence":0.86},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/grupes/Nepriklausomų Valstybių Sandrauga","claim_id":"t-19957","confidence":0.82},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Dancigas","claim_id":"t-135453","confidence":0.92},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Karaliaučius","claim_id":"t-135453","confidence":0.92},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-183271","confidence":0.86},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-35871","confidence":0.7},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-35871","confidence":0.72},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Rusija","claim_id":"t-183270","confidence":0.72},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Ryga","claim_id":"t-31104","confidence":0.78},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vokietija","claim_id":"t-183271","confidence":0.88},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Maskva","claim_id":"t-177734","confidence":0.62},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Silezija","claim_id":"t-95161","confidence":0.8},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-87188","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Lietuvos auksas","claim_id":"t-13781","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Lietuvos herbas Vytis","claim_id":"t-77927","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis","claim_id":"t-40745","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Vytis","claim_id":"t-183249","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Vėliavos","claim_id":"t-210509","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Šarvuotasis traukinys Gediminas","claim_id":"t-78695","confidence":0.67},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija","claim_id":"t-87008","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/12-asis ulonų pulkas","claim_id":"t-38925","confidence":0.77},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/2-asis pėstininkų pulkas","claim_id":"t-38927","confidence":0.77},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Abiejų Tautų Respublika","claim_id":"t-169905","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Bajorai","claim_id":"t-87185","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Edukacinė Komisija","claim_id":"t-107740","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Kijevo kunigaikštystė","claim_id":"t-177917","confidence":0.96},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Kuršo kunigaikštystė","claim_id":"t-71644","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Laikinė Lietuvos vyriausybė","claim_id":"t-01362","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-183371","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Livonijos kunigaikštystė","claim_id":"t-78384","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Livonijos ordinas","claim_id":"t-41134","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Rygos vyskupija","claim_id":"t-41134","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-183765","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Vyriausiasis Lietuvos tribunolas","claim_id":"t-02047","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-05210","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Adutiškis","claim_id":"t-41584","confidence":0.63},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Baltoji Rusia","claim_id":"t-176401","confidence":0.92},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Dainava","claim_id":"t-223797","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Dubysa","claim_id":"t-32644","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Europos geografinis centras","claim_id":"t-76260","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kafa","claim_id":"t-183755","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Karaliaučius","claim_id":"t-220427","confidence":0.94},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kaunas","claim_id":"t-179933","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kauno gubernija","claim_id":"t-170425","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kauno pilis","claim_id":"t-179923","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kijevas","claim_id":"t-41739","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kijevo Rusia","claim_id":"t-83619","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Klaipėda","claim_id":"t-26492","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Klaipėdos kraštas","claim_id":"t-183702","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Latgala","claim_id":"t-02535","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Jadvyga Jogailienė","claim_id":"t-88429","confidence":0.68},{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Jadvyga","claim_id":"t-67414","confidence":0.7},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Abiejų Tautų Respublika","claim_id":"t-169842","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Auksinė Orda","claim_id":"t-183436","confidence":0.62},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Europos Sąjunga","claim_id":"t-183127","confidence":0.93},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Europos Taryba","claim_id":"t-19687","confidence":0.91},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-31483","confidence":0.66},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-214072","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/NATO","claim_id":"t-183173","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Tautų Sąjunga","claim_id":"t-181338","confidence":0.92},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)","claim_id":"t-75053","confidence":0.95},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Dubrovna","claim_id":"t-54180","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Europa","claim_id":"t-183337","confidence":0.91},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-102095","confidence":0.7},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Rusija","claim_id":"t-101544","confidence":0.93},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Rytų Europa","claim_id":"t-77299","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Rytų kraštas (Ostlandas)","claim_id":"t-21781","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/SSRS","claim_id":"t-177779","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Vidurio Europa","claim_id":"t-183640","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Vokietija","claim_id":"t-179983","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Livonija","claim_id":"t-01315","confidence":0.92},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Minija","claim_id":"t-32367","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Minsko Lietuva","claim_id":"t-77011","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Nadruva","claim_id":"t-223797","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Naugardukas","claim_id":"t-119109","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Nevėžis","claim_id":"t-69428","confidence":0.52},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Novosilė","claim_id":"t-211052","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Pagraudenė","claim_id":"t-86098","confidence":0.85},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Pagraudė","claim_id":"t-223476","confidence":0.92},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Palanga","claim_id":"t-36248","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Podolija","claim_id":"t-119215","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Podolė","claim_id":"t-112363","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Polockas","claim_id":"t-10470","confidence":0.93},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Pskovas","claim_id":"t-180097","confidence":0.69},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ragainė","claim_id":"t-220427","confidence":0.94},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Rokiškio apskritis","claim_id":"t-171953","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Romanova","claim_id":"t-185273","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Rusia","claim_id":"t-212272","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Severskas","claim_id":"t-86104","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Skalva","claim_id":"t-223797","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Smolenskas","claim_id":"t-02157","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Sūduva","claim_id":"t-32420","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Trakai","claim_id":"t-179982","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Venta","claim_id":"t-32367","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-108562","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vitebskas","claim_id":"t-181128","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Voluinė","claim_id":"t-112344","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Šušvė","claim_id":"t-32644","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Žemaitija","claim_id":"t-123042","confidence":0.95},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Burundajus","claim_id":"t-78960","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Dimitras Kaributas","claim_id":"t-182020","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Eberhardas (Varmės vyskupas)","claim_id":"t-86098","confidence":0.8},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Eberhardas de Virnemburgas","claim_id":"t-87656","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Glebas (Smolensko kunigaikštis)","claim_id":"t-40124","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Konradas Ciolneris Rotenšteinas","claim_id":"t-178025","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Levas (Haličo kunigaikštis)","claim_id":"t-171442","confidence":0.8},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)","claim_id":"t-39620","confidence":0.98},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Olegas (Romano sūnus)","claim_id":"t-40378","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vasiljevičius (Maskvos valdovas)","claim_id":"t-186020","confidence":0.57},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Auksinė Orda","claim_id":"t-78960","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Aukso orda","claim_id":"t-187447","confidence":0.94},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Haličo kunigaikščiai","claim_id":"t-113191","confidence":0.94},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kalavijuočių ordinas","claim_id":"t-10287","confidence":0.75},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kijevo Rusia","claim_id":"t-181458","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-113641","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-106804","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Livonijos ordinas","claim_id":"t-180365","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lotoriai","claim_id":"t-210291","confidence":0.7},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Maskvėnai","claim_id":"t-09883","confidence":0.92},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Mongolai","claim_id":"t-113191","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-171402","confidence":0.68},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-171402","confidence":0.7},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totorių pajėgos","claim_id":"t-114163","confidence":0.95},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-169694","confidence":0.74},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Vokiečių ordinas","claim_id":"t-179114","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Švedai","claim_id":"t-01747","confidence":0.94},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Želigovskininkai","claim_id":"t-179180","confidence":0.68},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Benediktas Makras","claim_id":"t-93183","confidence":0.93},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-180131","confidence":0.65},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-184728","confidence":0.91},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Nogajus (Aukso ordos valdytojas)","claim_id":"t-40377","confidence":0.95},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Nogajus","claim_id":"t-40326","confidence":0.73},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-34497","confidence":0.86},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-171402","confidence":0.78},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Žygimantas","claim_id":"t-217212","confidence":0.88},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti","claim_id":"t-168140","confidence":0.82},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-169691","confidence":0.74},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Lenkijos karalystės kariuomenė","claim_id":"t-23482","confidence":0.93},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Lenkijos senatas","claim_id":"t-184539","confidence":0.95},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Lenkų senatas","claim_id":"t-185430","confidence":0.95},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Lietuvių aktyvistų frontas","claim_id":"t-26625","confidence":0.62},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-72057","confidence":0.91},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Vitebsko gvardijos 103-ioji oro desanto divizija","claim_id":"t-41198","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/A. N. Trubeckojus","claim_id":"t-39979","confidence":0.78},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Andriejus (Polocko kunigaikštis)","claim_id":"t-35024","confidence":0.92},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Jaroslavas (Kijevo valdovas)","claim_id":"t-39556","confidence":0.99},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Jaroslavas","claim_id":"t-05298","confidence":0.93},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Konradas","claim_id":"t-185012","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Petras Šuiskis","claim_id":"t-40393","confidence":0.72},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Valteris, pravarde Goldinas","claim_id":"t-225374","confidence":0.73},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Verneris iš Orzelno","claim_id":"t-223900","confidence":0.93},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vinrichas Kniprodė","claim_id":"t-55149","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Volkvinas","claim_id":"t-171495","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Zigfridas iš Rechbergo","claim_id":"t-223263","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Zöllneris","claim_id":"t-35024","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179715","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Bermontininkai","claim_id":"t-66493","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Europos kryžininkai","claim_id":"t-86725","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-05363","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-66493","confidence":0.67},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-45330","confidence":0.7},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/P. Virgoličius","claim_id":"t-80741","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Bermontininkai","claim_id":"t-40868","confidence":0.92},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Napoleono kariuomenė","claim_id":"t-182911","confidence":0.94},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusijos kariuomenė","claim_id":"t-180661","confidence":0.88},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Sovietų Sąjunga","claim_id":"t-183276","confidence":0.94},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-20557","confidence":0.94},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-28843","confidence":0.82},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/grupes/Sovietų Sąjunga","claim_id":"t-74921","confidence":0.95},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/A. Smetona","claim_id":"t-77966","confidence":0.9},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-176292","confidence":0.9},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Antanas Smetona","claim_id":"t-75710","confidence":0.94},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Augustas","claim_id":"t-173325","confidence":0.76},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-169687","confidence":0.79},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-12172","confidence":0.95},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-221525","confidence":0.95},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-179662","confidence":0.84},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Trobius","claim_id":"t-185404","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogaila","claim_id":"t-173229","confidence":0.72},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-10105","confidence":0.86},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Šventaragis","claim_id":"t-87898","confidence":0.9},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Živinbudas","claim_id":"t-220998","confidence":0.74},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Žygimantas Augustas","claim_id":"t-183827","confidence":0.74},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Žygimantas Senasis","claim_id":"t-173310","confidence":0.92},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Jogailaičių dinastija","claim_id":"t-101620","confidence":0.94},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė","claim_id":"t-31260","confidence":0.62},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Lietuvos Respublikos Seimas","claim_id":"t-74771","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Lietuvos partizanai","claim_id":"t-101600","confidence":0.9},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Saksų dinastija","claim_id":"t-183180","confidence":0.83},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-41495","confidence":0.7},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-26341","confidence":0.68},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-67414","confidence":0.88},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/11 brigada","claim_id":"t-38839","confidence":0.56},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Lietuvos partizanai","claim_id":"t-74759","confidence":0.88},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Nacių Vokietija","claim_id":"t-74876","confidence":0.78}],"timeline":[{"date":"1131 m.","label":"Narbutas nurodo, kad 1131 m.","claimId":"t-205130"},{"date":"1219 m.","label":"1219 m.","claimId":"t-220280"},{"date":"1219 m.","label":"1219 m.","claimId":"t-225161"},{"date":"1299 m.","label":"1299 m.","claimId":"t-199357"},{"date":"1386 m.","label":"Iki Jogailos tapimo Lenkijos karaliumi 1386 m.","claimId":"t-180132"},{"date":"1386 m.","label":"Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio knygoje „Lietuvos istorija“ teigiama, kad iki Jogailos tapimo Lenkijos karaliumi 1386 m.","claimId":"t-203181"},{"date":"1388 m.","label":"1388 m.","claimId":"t-180192"},{"date":"1388 m.","label":"1388 m.","claimId":"t-199463"}],"support_disclosure":{"claims":325,"sources":23}}'
 object_page_finisher: 'true'
@@ -63,6 +50,15 @@ object_page_seo_description: 'Lietuva – istorinė valstybė ir politinė erdv�
 object_page_seo_input_hash: 6c9876dc007f703656fdbf189e1b340a2f4e629a2a998d105c7dda0d6099bc8f
 object_page_seo_generated_at: '2026-09-18T18:03:08+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-c7213aa680eab59ac9bf37ec"
+canonical_name: "Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didžioji Lietuva","Lietuva","Lietuvos valstybė"]
+sameAs: ["https://www.wikidata.org/entity/Q37"]
+canonical_biography: "Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise. Iki taikos tarp Lietuvos žemių ir Prūsijos kryžiuočių kasmet per Kalėdas turėjo būti mokama šimtas grivinų. Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas."
+place_authority: true
+historical_names: []
 ---
 # Lietuva
 
@@ -3664,6 +3660,549 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-206555
 
+<a id="claim-t-180065"></a>
+- t-180065
+  teiginys: "Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-163762
+    - c-182088
+    - c-163776
+    - c-182066
+
+<a id="claim-t-180069"></a>
+- t-180069
+  teiginys: "1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didžioji Britanija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didžioji Britanija: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Didžioji Britanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie Lietuvos tarptautinį pripažinimą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163763
+    - c-181972
+    - c-182074
+
+<a id="claim-t-180074"></a>
+- t-180074
+  teiginys: "LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nusako LLKS deklaracijos nuostatas."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163823
+    - c-181982
+    - c-182078
+
+<a id="claim-t-180076"></a>
+- t-180076
+  teiginys: "1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai aprašo Vasario 16-osios rezoliucijos esmę."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163749
+    - c-181964
+    - c-182025
+
+<a id="claim-t-180081"></a>
+- t-180081
+  teiginys: "1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> SSRS: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "SSRS: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nurodo trėmimo datą bei mastą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-163710
+    - c-181986
+    - c-182073
+
+<a id="claim-t-180085"></a>
+- t-180085
+  teiginys: "1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopino paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią Lenkijos ir Lietuvos valstybę."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paaiškina 1864 m. kaip ribos reikšmę Lietuvai."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-163719
+    - c-163745
+    - c-182013
+    - c-182019
+    - c-182044
+
+<a id="claim-t-180110"></a>
+- t-180110
+  teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta gramatinė derinimo forma pagal Lietuvos rinktinę."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-163793
+    - c-182003
+    - c-182053
+
+<a id="claim-t-180120"></a>
+- t-180120
+  teiginys: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: po 1586 m.; gyvenimo laikotarpis: 1586 m.; gyvenimo laikotarpis: 1784-1787; gyvenimo laikotarpis: 1787 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie baroko laikotarpį Lietuvoje."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163695
+    - c-182064
+    - c-182072
+
+<a id="claim-t-180126"></a>
+- t-180126
+  teiginys: "1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys perrašytas be neaiškios nuorodos „jų“ ir su aiškiu objektu."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163719
+    - c-163735
+    - c-182013
+    - c-182027
+    - c-182044
+
+<a id="claim-t-180141"></a>
+- t-180141
+  teiginys: "Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=108"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1938 m.; įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163778
+    - c-181954
+    - c-163762
+    - c-182088
+    - c-181943
+
+<a id="claim-t-180143"></a>
+- t-180143
+  teiginys: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai aprašo trečiąjį valstybės padalijimą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-163761
+    - c-163803
+    - c-181915
+    - c-182022
+
+<a id="claim-t-180144"></a>
+- t-180144
+  teiginys: "Modernioji Lietuvos vardo samprata vis labiau siejo Lietuvą su lietuvių kalbos vartojimu."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163719
+    - c-182013
+    - c-182044
+    - c-163735
+    - c-182027
+
+<a id="claim-t-180160"></a>
+- t-180160
+  teiginys: "1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163827
+    - c-182071
+    - c-181968
+
+<a id="claim-t-180163"></a>
+- t-180163
+  teiginys: "1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Latvija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir aiškiai aprašo 1940 m. sovietinę okupaciją."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163795
+    - c-181929
+    - c-182058
+
+<a id="claim-t-180169"></a>
+- t-180169
+  teiginys: "Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163708
+    - c-163773
+    - c-182069
+    - c-181979
+    - c-182023
+
+<a id="claim-t-180179"></a>
+- t-180179
+  teiginys: "Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir aprašo lietuvių reakciją į vermachto įžengimą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163730
+    - c-181926
+    - c-181940
+
+<a id="claim-t-180193"></a>
+- t-180193
+  teiginys: "Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir padėjo jai pritapti Europoje."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-163720
+    - c-181925
+    - c-182063
+
+<a id="claim-t-180198"></a>
+- t-180198
+  teiginys: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antantė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antantė: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Antantė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1921 m.; įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nurodo Lietuvos priėmimą į Tautų Sąjungą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-163749
+    - c-163776
+    - c-182066
+    - c-181964
+    - c-182025
+    - c-163730
+    - c-181926
+    - c-181940
+
+<a id="claim-t-180199"></a>
+- t-180199
+  teiginys: "1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia aiškesnį sakinį apie sovietų kariuomenės veiksmus."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-163755
+    - c-182055
+    - c-182087
+
+<a id="claim-t-180200"></a>
+- t-180200
+  teiginys: "Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1992 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir apibūdina Lietuvos vidaus valdymo kryptį."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-163750
+    - c-181988
+    - c-182032
+    - c-163773
+    - c-182069
+    - c-182023
+
+<a id="claim-t-193645"></a>
+- t-193645
+  teiginys: "Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-176315
+    - c-182004
+
+<a id="claim-t-193774"></a>
+- t-193774
+  teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-176428
+    - c-182080
+
+<a id="claim-t-193775"></a>
+- t-193775
+  teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-176429
+    - c-181923
+
+<a id="claim-t-194255"></a>
+- t-194255
+  teiginys: "Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose, gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė ir apsaugojo."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-176849
+    - c-182065
+
+<a id="claim-t-203132"></a>
+- t-203132
+  teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio knygoje „Lietuvos istorija“ teigiama, kad Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe ir kad tik atsitiktinumas sutrukdė jai tapti karalyste."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176315
+    - c-182004
+
+<a id="claim-t-203134"></a>
+- t-203134
+  teiginys: "1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-176429
+    - c-181923
+
+<a id="claim-t-203144"></a>
+- t-203144
+  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad Vytautas mirė 1430 m. spalio 30 d. Trakuose, gedint visai Lietuvai ir net lenkams, kuriuos jis tiek kartų vedė į pergalingo mūšio lauką ir kurių karalių tvirtu petimi parėmė bei apsaugojo."
+  atnaujinta: "2026-09-29 18:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176849
+    - c-182065
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą.'
@@ -4213,6 +4752,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180120
 
 - id: c-163696
   autorius: "Michał Baliński"
@@ -4521,6 +5062,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
+    - t-180169
 
 - id: c-163709
   autorius: "Michał Baliński"
@@ -4567,6 +5109,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180081
 
 - id: c-163711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4726,6 +5270,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180085
+    - t-180126
+    - t-180144
 
 - id: c-163720
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4747,6 +5295,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180193
 
 - id: c-163721
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4907,6 +5457,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180179
+    - t-180198
 
 - id: c-163731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5020,6 +5573,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180126
+    - t-180144
 
 - id: c-163736
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5234,6 +5790,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180085
 
 - id: c-163747
   autorius: "Michał Baliński"
@@ -5301,6 +5859,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180076
+    - t-180198
 
 - id: c-163750
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5324,6 +5885,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-160
+    - t-180200
 
 - id: c-163751
   autorius: "Petras Dusburgietis"
@@ -5420,6 +5982,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180199
 
 - id: c-163756
   autorius: "Michał Baliński"
@@ -5531,6 +6095,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+    - t-180143
     - t-182
 
 - id: c-163762
@@ -5552,6 +6117,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180065
+    - t-180141
 
 - id: c-163763
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5577,6 +6145,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180069
 
 - id: c-163764
   autorius: "Michał Baliński"
@@ -5802,6 +6372,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180169
+    - t-180200
 
 - id: c-163774
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5871,6 +6444,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180065
+    - t-180198
 
 - id: c-163777
   autorius: "Michał Baliński"
@@ -5920,6 +6496,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180141
 
 - id: c-163780
   autorius: "Petras Dusburgietis"
@@ -6219,6 +6797,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180110
 
 - id: c-163795
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -6248,6 +6828,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180163
 
 - id: c-163796
   autorius: "Michał Baliński"
@@ -6455,6 +7037,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-180143
     - t-181
 
 - id: c-163804
@@ -6703,6 +7286,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180074
 
 - id: c-163824
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -6770,6 +7355,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180160
 
 - id: c-167243
   autorius: "Michał Baliński"
@@ -7630,6 +8217,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193645
+    - t-203132
 
 - id: c-176428
   sudarytojas: "Karolis Zikaras"
@@ -7650,6 +8240,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193774
 
 - id: c-176429
   sudarytojas: "Karolis Zikaras"
@@ -7668,6 +8260,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193775
+    - t-203134
 
 - id: c-176849
   autorius: "Michał Baliński"
@@ -7690,6 +8285,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-194255
+    - t-203144
 
 - id: c-177134
   autorius: "Teodoras Narbutas"
@@ -7998,6 +8596,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-180143
     - t-181
 
 - id: c-181916
@@ -8185,6 +8784,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193775
+    - t-203134
 
 - id: c-181924
   autorius: "Anoniminis metraštininkas"
@@ -8229,6 +8831,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-167
+    - t-180193
 
 - id: c-181926
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -8255,6 +8858,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180179
+    - t-180198
 
 - id: c-181927
   autorius: "Teodoras Narbutas"
@@ -8335,6 +8941,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180163
 
 - id: c-181930
   autorius: "Michał Baliński"
@@ -8584,6 +9192,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180179
+    - t-180198
 
 - id: c-181941
   autorius: "Petras Dusburgietis"
@@ -8671,6 +9282,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180141
 
 - id: c-181944
   autorius: "Petras Dusburgietis"
@@ -8909,6 +9522,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180141
 
 - id: c-181956
   autorius: "Teodoras Narbutas"
@@ -9059,6 +9674,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180076
+    - t-180198
 
 - id: c-181965
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -9162,6 +9780,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180160
 
 - id: c-181969
   autorius: "Michał Baliński"
@@ -9248,6 +9868,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180069
 
 - id: c-181974
   autorius: "Teodoras Narbutas"
@@ -9395,6 +10017,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
+    - t-180169
 
 - id: c-181980
   autorius: "Teodoras Narbutas"
@@ -9477,6 +10100,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180074
 
 - id: c-181983
   autorius: "Anoniminis metraštininkas"
@@ -9564,6 +10189,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180081
 
 - id: c-181987
   autorius: "Teodoras Narbutas"
@@ -9608,6 +10235,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-160
+    - t-180200
 
 - id: c-181989
   autorius: "Teodoras Narbutas"
@@ -9966,6 +10594,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180110
 
 - id: c-182004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -9986,6 +10616,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193645
+    - t-203132
 
 - id: c-182005
   autorius: "Teodoras Narbutas"
@@ -10162,6 +10795,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180085
+    - t-180126
+    - t-180144
 
 - id: c-182015
   autorius: "Teodoras Narbutas"
@@ -10287,6 +10924,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-166
+    - t-180085
 
 - id: c-182021
   autorius: "Teodoras Narbutas"
@@ -10332,6 +10970,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-180143
     - t-181
 
 - id: c-182023
@@ -10360,6 +10999,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-170
+    - t-180169
+    - t-180200
 
 - id: c-182024
   redaktorius: "A. Šapoka"
@@ -10422,6 +11063,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180076
+    - t-180198
 
 - id: c-182026
   autorius: "Michał Baliński"
@@ -10471,6 +11115,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180126
+    - t-180144
 
 - id: c-182028
   autorius: "Teodoras Narbutas"
@@ -10557,6 +11204,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-160
+    - t-180200
 
 - id: c-182033
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -10840,6 +11488,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180085
+    - t-180126
+    - t-180144
 
 - id: c-182046
   autorius: "Teodoras Narbutas"
@@ -11049,6 +11701,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180110
 
 - id: c-182054
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11097,6 +11751,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180199
 
 - id: c-182056
   autorius: "Michał Baliński"
@@ -11196,6 +11852,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180163
 
 - id: c-182059
   autorius: "Teodoras Narbutas"
@@ -11302,6 +11960,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180193
 
 - id: c-182064
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11323,6 +11983,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180120
 
 - id: c-182065
   autorius: "Michał Baliński"
@@ -11345,6 +12007,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-194255
+    - t-203144
 
 - id: c-182066
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11364,6 +12029,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180065
+    - t-180198
 
 - id: c-182067
   autorius: "Teodoras Narbutas"
@@ -11434,6 +12102,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180169
+    - t-180200
 
 - id: c-182070
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -11481,6 +12152,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180160
 
 - id: c-182072
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11501,6 +12174,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180120
 
 - id: c-182073
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11520,6 +12195,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180081
 
 - id: c-182074
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11545,6 +12222,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180069
 
 - id: c-182075
   autorius: "Michał Baliński"
@@ -11662,6 +12341,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180074
 
 - id: c-182079
   autorius: "Michał Baliński"
@@ -11705,6 +12386,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193774
 
 - id: c-182082
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11797,6 +12480,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180199
 
 - id: c-182088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11817,6 +12502,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-180065
+    - t-180141
 
 - id: c-182089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

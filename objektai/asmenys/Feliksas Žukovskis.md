@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8b664aabf23c07b8e14108bd
-canonical_name: Feliksas Žukovskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Feliksas Žukovskis
+entity_id: "ent-8b664aabf23c07b8e14108bd"
+canonical_name: "Feliksas Žukovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Feliksas Žukovskis"]
 sameAs: []
-canonical_biography: Feliksas Žukovskis buvo Adakavo parapijos klebonas.
+canonical_biography: "Feliksas Žukovskis buvo Adakavo parapijos klebonas."
 ---
 # Feliksas Žukovskis
 

@@ -83,6 +83,7 @@ Nenurodyta
   santrauka: 'Kai kurie kupiškėnų muzikantai smuiku grojo ir XX a. antrojoje pusėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1078 (PDF 1079)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1078 (PDF 1079)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -119,4 +120,3 @@ Jurgis Stankevičius griežė smuiku, pūtė lumzdelį, skudučius, birbynes ir 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
-

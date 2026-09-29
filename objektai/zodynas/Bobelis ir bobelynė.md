@@ -67,4 +67,19 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195644"></a>
+- t-001
+  teiginys: "Bobelynė šiame šaltinyje reiškia mažą žemės sklypą ar ūkį, kurį galima gauti ar parduoti."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178045
 

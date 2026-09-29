@@ -40,6 +40,7 @@ Kunigo Kazimiero Mockaus testamentas ilgai buvo teisme vykstant bylai dėl Panev
   santrauka: 'Kunigo Kazimiero Mockaus testamentas teisme užtruko dėl bylos, iškeltos dėl Panevėžio mokesčių inspektoriaus paskirto palaikų mokesčio; testamento vykdytojas jį gavo tik 1939 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 402 (PDF 403)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 402 (PDF 403)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -51,6 +52,7 @@ Kunigo Kazimiero Mockaus testamentas ilgai buvo teisme vykstant bylai dėl Panev
   santrauka: 'Testamento vykdytojas M. Kirlys turėjo Valerijai Bražinskaitei iki gyvos galvos užleisti 85 × 45 m altarijos žemės sklypą su trobesiais ir vaismedžiais, suteikti teisę naudotis šuliniu bei įvažiavimu ir primokėti 4 000 Lt.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 402 (PDF 403)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 402 (PDF 403)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

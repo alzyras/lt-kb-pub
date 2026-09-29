@@ -76,6 +76,16 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   pagrindžia:
     - c-177963
 
+<a id="claim-t-195547"></a>
+- t-195547
+  teiginys: "Jokūbas derėjosi su Grigoru dėl algos ir pasirūpino duoti du auksinus rankpinigių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177964
+
 ## Citatos
 
 - id: c-177962
@@ -128,6 +138,8 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195547
 
 - id: c-177965
   autorius: "M. Katkus"

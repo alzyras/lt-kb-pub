@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2dc59947559e16e0923273ab
-canonical_name: Vitlandsortas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Vitlandsortas
-  - Vitlandsortas (vieta)
+entity_id: "ent-2dc59947559e16e0923273ab"
+canonical_name: "Vitlandsortas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vitlandsortas","Vitlandsortas (vieta)"]
 sameAs: []
-canonical_biography: 'Sambijos vyskupas Henrikas Vitlandsorto žemes perleido Ordinui, kad ten būtų pastatyta tvirtovė.'
+canonical_biography: "Sambijos vyskupas Henrikas Vitlandsorto žemes perleido Ordinui, kad ten būtų pastatyta tvirtovė."
+place_authority: true
+historical_names: []
 ---
 # Vitlandsortas (vieta)
 

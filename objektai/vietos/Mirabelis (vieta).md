@@ -48,6 +48,7 @@ Mirabelyje esantis objektas, tradiciškai priskiriamas Lietuvos Didžiosios Kuni
   santrauka: 'Mirabelio aikštė tradiciškai priskiriama Lietuvos Didžiosios Kunigaikštystės laikotarpio žemių įtvirtinimams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 134 (PDF 135)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 134 (PDF 135)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

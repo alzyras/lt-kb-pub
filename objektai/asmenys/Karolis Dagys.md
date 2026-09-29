@@ -41,6 +41,7 @@ Karolis Dagys jaunystėje persikėlė į Jūžintus, o šaltinio pasakojime šis
   santrauka: 'Karolis Dagys jaunystėje persikėlė į Jūžintus, o šaltinio pasakojime šis persikėlimas siejamas su tėvo nepritarimu jo norui dirbti dievdirbiu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 951 (PDF 952)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 951 (PDF 952)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

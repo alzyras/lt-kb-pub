@@ -58,6 +58,7 @@ Nenurodyta
   santrauka: 'Didžiąją savaitę varpai nutyla Didįjį ketvirtadienį ir vėl skamba Didįjį šeštadienį per velyknakčio apeigas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1000 (PDF 1001)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1000 (PDF 1001)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,4 +83,3 @@ Prieš sekmadienio Mišias naudojami du mažieji varpai, o per Velykas ir Kalėd
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

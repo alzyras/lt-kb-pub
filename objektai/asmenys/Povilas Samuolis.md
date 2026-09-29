@@ -64,6 +64,7 @@ Povilas Samuolis-Šimkus, Antano sūnus, 1920 m. gimė ir gyveno Bagdoniškių k
   santrauka: 'Povilas Samuolis, kurį kronika vadina „Juodu Ponu“, 1944 m. pasitraukė su vokiečiais, baigė diversinės žvalgybos mokyklą, su Antano Šilo-Kovo grupe parašiutu nuleistas į Geležių kaimą ir tapo partizanų būrio vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 270"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 270."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,4 +95,3 @@ Povilas Samuolis-Šimkus, Antano sūnus, 1920 m. gimė ir gyveno Bagdoniškių k
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

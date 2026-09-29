@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e23eb884dc0c0390a94b5901
-canonical_name: Desnos upė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Desnos upė
+entity_id: "ent-e23eb884dc0c0390a94b5901"
+canonical_name: "Desnos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Desnos upė"]
 sameAs: []
-canonical_biography: 'Tuoj už Desnos prasideda pilkapių kraš tas, ir prie Rogačiovo jų yra daugiausia;.'
+canonical_biography: "Tuoj už Desnos prasideda pilkapių kraš tas, ir prie Rogačiovo jų yra daugiausia;."
+place_authority: true
+historical_names: []
 ---
 # Desnos upė
 

@@ -49,6 +49,7 @@ Aldonos Vasiliauskienės pastangomis kunigas Feliksas Ereminas po mirties 2012 m
   santrauka: 'Aldonos Vasiliauskienės pastangomis kunigas Feliksas Ereminas po mirties 2012 m. rugsėjo 21 d. apdovanotas Žūvančiųjų gelbėjimo kryžiumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 523 (PDF 524)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 523 (PDF 524)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ A. J. Greimo rašiniuose svarbią vietą užėmė vaikystės prisiminimai.
   santrauka: 'A. J. Greimo rašiniuose svarbią vietą užėmė vaikystės prisiminimai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1104 (PDF 1105)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1104 (PDF 1105)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

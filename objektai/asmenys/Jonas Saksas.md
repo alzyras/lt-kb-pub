@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e913e72772a58794c31131b9
-canonical_name: Jonas Saksas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jonas Saksas
+entity_id: "ent-e913e72772a58794c31131b9"
+canonical_name: "Jonas Saksas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Saksas"]
 sameAs: []
-canonical_biography: Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje.
+canonical_biography: "Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje."
 ---
 # Jonas Saksas
 

@@ -64,6 +64,21 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   pagrindžia:
     - c-59189
 
+<a id="claim-t-223049"></a>
+- t-223049
+  teiginys: "Glotava laikoma pietrytiniu Pagudės valsčiumi."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pagudė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Glotava: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pagudė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Glotava tiesiogiai apibūdinta kaip Pagudės valsčius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Glotava priklausė Pagudė (0.90)"
+
 ## Citatos
 
 - id: c-59188

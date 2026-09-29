@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4b32b2cbe29f9c84ac616cf9
-canonical_name: Divanas Klokinis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Divanas Klokinis
+entity_id: "ent-4b32b2cbe29f9c84ac616cf9"
+canonical_name: "Divanas Klokinis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Divanas Klokinis"]
 sameAs: []
-canonical_biography: Divanas Klokinis su didele kariuomene įsiveržė į Kulmo žemę.
+canonical_biography: "Divanas Klokinis su didele kariuomene įsiveržė į Kulmo žemę."
 ---
 # Divanas Klokinis
 

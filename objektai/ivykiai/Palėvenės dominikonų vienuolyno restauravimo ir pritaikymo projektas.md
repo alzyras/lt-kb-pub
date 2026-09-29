@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '2011 m. gegužės 20 d. pasirašytas ES finansuojamas projektas, skirtas Palėvenės dominikonų ansamblio restauravimo techniniam projektui parengti ir daliai svirno pritaikyti turizmui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 259 (PDF 260)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 259 (PDF 260)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

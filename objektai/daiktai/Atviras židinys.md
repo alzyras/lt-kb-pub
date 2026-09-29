@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Prie griovio stovėjo 12 gyvenamųjų pastatų, kuriuose buvo atviri židiniai, apdėti ratu dideliais akmenimis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 704 (PDF 705)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 704 (PDF 705)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f68d13dda52ff37cace14a6e
-canonical_name: Švento Jurgio kalnas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Švento Jurgio kalnas
+entity_id: "ent-f68d13dda52ff37cace14a6e"
+canonical_name: "Švento Jurgio kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švento Jurgio kalnas"]
 sameAs: []
-canonical_biography: 1259 m. ant švento Jurgio kalno Karšuvos žemėje buvo pastatyta pilis.
+canonical_biography: "1259 m. ant švento Jurgio kalno Karšuvos žemėje buvo pastatyta pilis."
+place_authority: true
+historical_names: []
 ---
 # Švento Jurgio kalnas
 

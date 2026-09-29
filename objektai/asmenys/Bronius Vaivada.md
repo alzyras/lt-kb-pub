@@ -50,6 +50,7 @@ Bronius Vaivada 1951 m. sausio 31 d. buvo nukautas Žadeikių kaime.
   santrauka: 'Bronius Vaivada 1951 m. sausio 31 d. buvo nukautas Žadeikių kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

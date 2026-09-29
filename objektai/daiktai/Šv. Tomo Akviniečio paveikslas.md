@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Šv. Tomo Akviniečio altoriui 1849 m. buvo nutapytas naujas paveikslas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 232 (PDF 233)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 232 (PDF 233)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

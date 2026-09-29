@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-eda60810d8c8441ed746a423
-canonical_name: Alsėdžiai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Alsėdžiai
-  - Alsėdžiai (vieta)
+entity_id: "ent-eda60810d8c8441ed746a423"
+canonical_name: "Alsėdžiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alsėdžiai","Alsėdžiai (vieta)"]
 sameAs: []
-canonical_biography: 'Valančius rašė Alsėdžių deka nui, kad Uršulę Veinicką apskundęs kaimynas Mykolas Juozapavičius.'
+canonical_biography: "Valančius rašė Alsėdžių deka nui, kad Uršulę Veinicką apskundęs kaimynas Mykolas Juozapavičius."
 place_authority: true
 historical_names: []
 ---

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Rudikų kapinaičių paminklas aprašymo rengimo metu tebestovėjo kaip akmeninis kryžius ant stambaus, gana aukšto stačiakampio cokolio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 951 (PDF 952)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 951 (PDF 952)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

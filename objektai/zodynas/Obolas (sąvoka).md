@@ -39,6 +39,7 @@ Senovės Graikijos mituose obolas būdavo dedamas mirusiajam į burną kaip moke
   santrauka: 'Senovės Graikijos mituose obolas būdavo dedamas mirusiajam į burną kaip mokestis, kurį mirusiojo šešėlis Hade turėdavo sumokėti Charonui už perkėlimą per Acherono upę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 629 (PDF 630)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 629 (PDF 630)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

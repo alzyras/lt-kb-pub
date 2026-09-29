@@ -112,3 +112,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-210157"></a>
+- t-001
+  teiginys: "Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

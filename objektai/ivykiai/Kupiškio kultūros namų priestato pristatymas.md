@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Vaido Petrulio vertinimu, 1975 m. prie kultūros namų pristatytas priestatas su erdviu holu ir sanitariniais mazgais nepatenkino išaugusių kultūros namų, rajoninės bibliotekos ir muziejaus poreikių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 778 (PDF 779)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 778 (PDF 779)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

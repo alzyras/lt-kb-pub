@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8873cc565b2bfe37adbbfa24
-canonical_name: Pilikė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pilikė
-  - Pilikė (vieta)
+entity_id: "ent-8873cc565b2bfe37adbbfa24"
+canonical_name: "Pilikė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilikė","Pilikė (vieta)"]
 sameAs: []
-canonical_biography: 'Pilikėje, Akmenos kairiojo kranto vingyje, galėjo būti anksčiau statyta pilaitė.'
+canonical_biography: "Pilikėje, Akmenos kairiojo kranto vingyje, galėjo būti anksčiau statyta pilaitė."
+place_authority: true
+historical_names: []
 ---
 # Pilikė (vieta)
 

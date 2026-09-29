@@ -50,6 +50,7 @@ Janina Timukienė dirbo Didžprūdėlių ir Aukštupėnų bibliotekose 1971–19
   santrauka: 'Janina Timukienė dirbo Didžprūdėlių ir Aukštupėnų bibliotekose 1971–1972 m. ir 1974–1992 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 817 (PDF 818)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 817 (PDF 818)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

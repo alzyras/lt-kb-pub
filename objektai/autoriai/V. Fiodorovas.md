@@ -23,16 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-dd0f19286eaabab8d1d3817b
-canonical_name: V. Fiodorovas
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - V. Fiodorovas
+entity_id: "ent-dd0f19286eaabab8d1d3817b"
+canonical_name: "V. Fiodorovas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Fiodorovas"]
 sameAs: []
-canonical_biography: V. Fiodorovas parašė darbą „Valstiečių blaivybės judėjimas 1858-1860 m.“.
+canonical_biography: "V. Fiodorovas parašė darbą „Valstiečių blaivybės judėjimas 1858-1860 m.“."
 ---
 # V. Fiodorovas
 

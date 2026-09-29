@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1951 m. spalio 7 d. Šniukštų kaime partizanas Danielius Ruželė iš daržinės apšaudė namus tikrinusius stribus; žuvo jis ir Panemunio stribų būrio vado pavaduotojas Nikiforas Ivanovičius Turkovas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 412"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 412."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

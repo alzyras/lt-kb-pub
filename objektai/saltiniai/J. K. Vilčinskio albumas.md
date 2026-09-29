@@ -34,6 +34,7 @@ Ieva Bobinaitė teigia, kad aptariamo paveikslo pirmavaizdis randamas J. K. Vil�
   santrauka: 'J. K. Vilčinskio albume randamas aptariamo paveikslo pirmavaizdis, o leidybiniai centrai albumu naudojosi ieškodami šio paveikslo pavyzdžių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 675 (PDF 676)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 675 (PDF 676)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

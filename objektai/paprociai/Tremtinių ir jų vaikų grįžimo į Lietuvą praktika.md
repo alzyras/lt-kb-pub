@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Nuo 1956-ųjų prasidėjo masinis tremtinių grįžimas į Lietuvą, trukęs keletą metų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 606 (PDF 607)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 606 (PDF 607)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ Stasys Valma-Dobilas žuvo 1950 m. sausio 21 d. MGB operacijos metu Mirabelio mi
   santrauka: 'Stasys Valma-Dobilas žuvo 1950 m. sausio 21 d. MGB operacijos metu Mirabelio miške.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 623-624 (PDF 624-625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 623-624 (PDF 624-625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

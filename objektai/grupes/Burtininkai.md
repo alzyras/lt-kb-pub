@@ -49,6 +49,17 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   pagrindžia:
     - c-172338
 
+<a id="claim-t-216674"></a>
+- t-216674
+  teiginys: "Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo sukurtų giesmių giedotojus, panašius į senovės bardus ir skaldus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-172337

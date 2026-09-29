@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ 1945 m. gruodžio 11 d. Girėnų miške NKVD pulkas su stribais padegė Broniaus Zuozos bunkerį; iš jo ištraukė keturių partizanų palaikus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 64-65"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 64-65."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

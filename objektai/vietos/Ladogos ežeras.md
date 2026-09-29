@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4cc841f724a9644c4a24f1de
-canonical_name: Ladogos ežeras
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ladogos ežeras
+entity_id: "ent-4cc841f724a9644c4a24f1de"
+canonical_name: "Ladogos ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ladogos ežeras"]
 sameAs: []
-canonical_biography: 'Gal senų seniausiais laikais skandinavai kitu keliu iš Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es tijos atgabentas prekes sugebėdavo pergabenti į pietus Volgos, Dono ir Dnepro upėmis.'
+canonical_biography: "Gal senų seniausiais laikais skandinavai kitu keliu iš Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es tijos atgabentas prekes sugebėdavo pergabenti į pietus Volgos, Dono ir Dnepro upėmis."
+place_authority: true
+historical_names: []
 ---
 # Ladogos ežeras
 

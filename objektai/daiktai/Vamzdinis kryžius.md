@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Lietuvoje vamzdiniai kryžiai atsirado ir paplito pokario bei sovietmečiu, kai kalviai privalėjo dirbti valstybinėse įstaigose, o kryžių kalyba dėl religinio turinio nebuvo pageidaujama.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 989 (PDF 990)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 989 (PDF 990)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-57dc788ad78bbc40087fdf9f
-canonical_name: T. Metju
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - T. Metju
+entity_id: "ent-57dc788ad78bbc40087fdf9f"
+canonical_name: "T. Metju"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["T. Metju"]
 sameAs: []
-canonical_biography: '1838 m. Airijoje blaivybės brolijos buvo pradėtos kurti katalikų vienuolio kapucino T. Metju iniciatyvos kontekste. Penktajame dešimtmetyje T. Metju išvyko į Šiaurės Ameriką, kur taip pat buvo kuriamos blaivybės draugijų atšakos.'
+canonical_biography: "1838 m. Airijoje blaivybės brolijos buvo pradėtos kurti katalikų vienuolio kapucino T. Metju iniciatyvos kontekste. Penktajame dešimtmetyje T. Metju išvyko į Šiaurės Ameriką, kur taip pat buvo kuriamos blaivybės draugijų atšakos."
 ---
 # T. Metju
 

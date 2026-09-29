@@ -40,6 +40,24 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
   pagrindžia:
     - c-179147
 
+<a id="claim-t-218938"></a>
+- t-218938
+  teiginys: "Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Meletijus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Meletijaus šaltiniai apie prūsų ir lietuvių papročius: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Meletijus: mention_match, author, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meletijaus šaltiniai apie prūsų ir lietuvių papročius\" parinktas kaip owner_note_path. Targetas \"Meletijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-173400

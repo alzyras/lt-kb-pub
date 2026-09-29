@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-37aaa2afe61adb5fab9f75f8
-canonical_name: Kajetonas Nezabitauskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Kajetonas Nezabitauskis
+entity_id: "ent-37aaa2afe61adb5fab9f75f8"
+canonical_name: "Kajetonas Nezabitauskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kajetonas Nezabitauskis"]
 sameAs: []
-canonical_biography: Kajetonas Nezabitauskis 1823 m. per viešuosius egzaminus skaitė rašinį apie lietuvių mitologiją.
+canonical_biography: "Kajetonas Nezabitauskis 1823 m. per viešuosius egzaminus skaitė rašinį apie lietuvių mitologiją."
 ---
 # Kajetonas Nezabitauskis
 

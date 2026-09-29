@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Masinių religinių paveikslų suklestėjimą lėmė atpigusi produkcija ir vis labiau skatinamas bei praktikuojamas asmeninis pamaldumas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 667 (PDF 668)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 667 (PDF 668)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

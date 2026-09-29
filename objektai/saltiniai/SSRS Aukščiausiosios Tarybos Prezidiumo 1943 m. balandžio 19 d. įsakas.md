@@ -30,6 +30,7 @@ Pagal SSRS Aukščiausiosios Tarybos Prezidiumo 1943 m. balandžio 19 d. įsako 
   santrauka: 'Pagal SSRS Aukščiausiosios Tarybos Prezidiumo 1943 m. balandžio 19 d. įsako I dalį, Pirmasis Pabaltijo karo tribunolas 1945 m. sausio 30 d. nuteisė V. Januškevičių sušaudyti ir konfiskuoti jo turtą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 34"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 34."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

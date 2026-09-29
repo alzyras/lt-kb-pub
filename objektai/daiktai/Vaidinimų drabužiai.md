@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Vaidinimus surengę asmenys patys pasisiuvo tiems vaidinimams reikalingus drabužius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 409 (PDF 410)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 409 (PDF 410)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Lifliandijos gubernija"]
 sameAs: []
 canonical_biography: "Lifliandijos gubernija priklausė Rusijos imperijos erdvei."
+place_authority: true
+historical_names: []
 ---
 # Lifliandijos gubernija
 

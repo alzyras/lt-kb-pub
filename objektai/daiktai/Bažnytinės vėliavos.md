@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Baltriškės bažnyčios vidaus tvarkymo metu buvo nupirkta bažnytinių vėliavų, įrengta sakykla ir Dievo stalas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 545 (PDF 546)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 545 (PDF 546)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

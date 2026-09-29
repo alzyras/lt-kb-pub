@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Religinio būrelio nariams kas mėnesį vykdavo bendra išpažintis, Komunija ir agapė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 412 (PDF 413)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 412 (PDF 413)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

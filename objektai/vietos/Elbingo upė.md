@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-c08dfb60c1cb356106e22a9c
-canonical_name: Elbingo upė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Elbingo upė
+entity_id: "ent-c08dfb60c1cb356106e22a9c"
+canonical_name: "Elbingo upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Elbingo upė"]
 sameAs: []
-canonical_biography: Elbingo upė įteka į Gėlo vandens marias.
+canonical_biography: "Elbingo upė įteka į Gėlo vandens marias."
+place_authority: true
+historical_names: []
 ---
 # Elbingo upė
 

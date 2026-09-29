@@ -92,4 +92,3 @@ Stasys Karoblis buvo 20 metų amžiaus ir gyveno Misiškių kaime, Vabalninko va
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

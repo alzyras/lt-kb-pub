@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-97ea5d66a764348f16198b1e
-canonical_name: Sasna (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Sasna
-  - Sasna (vieta)
+entity_id: "ent-97ea5d66a764348f16198b1e"
+canonical_name: "Sasna (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sasna","Sasna (vieta)"]
 sameAs: []
-canonical_biography: 'Sasna buvo į vakarus nuo Galindos, tarp Galindos ir Lubavos žemės.'
+canonical_biography: "Sasna buvo į vakarus nuo Galindos, tarp Galindos ir Lubavos žemės."
+place_authority: true
+historical_names: []
 ---
 # Sasna (vieta)
 

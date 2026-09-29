@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Melioratorių mišrus choras ir šokių kolektyvas dalyvaudavo rajono dainų šventėse Kupiškyje ir Anykščiuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 702 (PDF 703)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 702 (PDF 703)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

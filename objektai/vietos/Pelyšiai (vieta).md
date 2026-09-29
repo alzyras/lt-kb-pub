@@ -55,6 +55,7 @@ Pelyšių kaime buvo stogastulpis, Balio Buračo vertinimu, pastatytas apie 1798
   santrauka: 'Pelyšių kaime buvo stogastulpis, Balio Buračo vertinimu, pastatytas apie 1798 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 991 (PDF 992)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 991 (PDF 992)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -114,4 +115,3 @@ Pelyšių kaime buvo stogastulpis, Balio Buračo vertinimu, pastatytas apie 1798
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

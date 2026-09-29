@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1947 m. spalio 16 d. Viktoras Abakumovas pasirašė SSRS valstybės saugumo ministro potvarkį Nr. 00616.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 594 (PDF 595)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 594 (PDF 595)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

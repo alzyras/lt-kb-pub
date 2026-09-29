@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6247fc603990550ced77ced4
-canonical_name: A. Piotuchas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Piotuchas
+entity_id: "ent-6247fc603990550ced77ced4"
+canonical_name: "A. Piotuchas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Piotuchas"]
 sameAs: []
-canonical_biography: A. Piotuchas buvo Novoaleksandrovsko (Zarasų) apskrities bajorų maršalka.
+canonical_biography: "A. Piotuchas buvo Novoaleksandrovsko (Zarasų) apskrities bajorų maršalka."
 ---
 # A. Piotuchas
 

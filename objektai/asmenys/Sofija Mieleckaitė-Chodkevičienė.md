@@ -27,7 +27,7 @@ entity_id: "ent-c7dc76defa1ba39b87800c2b"
 canonical_name: "Sofija Mieleckaitė-Chodkevičienė"
 entity_roles: ["person"]
 entity_view_role: "person"
-entity_aliases: ["Sofija Mieleckaitė-Chodkevičienė","[\"Zofija Mielecka\", \"Sofija Mieleckaitė\"]"]
+entity_aliases: ["Sofija Mieleckaitė","Sofija Mieleckaitė-Chodkevičienė","Zofija Mielecka","[\"Zofija Mielecka\", \"Sofija Mieleckaitė\"]"]
 sameAs: []
 canonical_biography: "Sofija Mieleckaitė buvo Jono Karolio Chodkevičiaus žmona ir Kretingos fundacijų bendraautorė. 1619 m. sutuoktiniai patvirtino bernardinų vienuolynui skirtą žemę ir metinį išlaikymą; Sofija palaidota Kretingos bažnyčios šeimos kriptoje."
 ---

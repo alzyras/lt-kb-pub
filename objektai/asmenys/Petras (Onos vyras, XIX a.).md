@@ -88,6 +88,16 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   pagrindžia:
     - c-177967
 
+<a id="claim-t-195550"></a>
+- t-195550
+  teiginys: "Uršulės ir pasakotojo aplinkoje Petras buvo atpažįstamas kaip Onai artimas vaikinas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177968
+
 ## Citatos
 
 - id: c-177966
@@ -135,6 +145,8 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195550
 
 - id: c-177969
   autorius: "M. Katkus"

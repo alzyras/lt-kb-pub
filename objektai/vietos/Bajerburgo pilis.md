@@ -66,6 +66,18 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   pagrindžia:
     - c-177437
 
+<a id="claim-t-195054"></a>
+- t-195054
+  teiginys: "Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata pagrindžia pavadinimo aiškinimą, bet pradinę formuluotę verta sutvarkyti."
+  susije_objektai: "mentioned_place: Bajerburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Veliuona"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177437
+
 ## Citatos
 
 - id: c-177436
@@ -136,6 +148,7 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-195054
 
 - id: c-177438
   autorius: "Michał Baliński"

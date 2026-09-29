@@ -34,6 +34,7 @@ A. Jonušytės pastangomis buvo išleistas Kupiškio krašto medinių paminklų 
   santrauka: 'A. Jonušytės pastangomis buvo išleistas Kupiškio krašto medinių paminklų katalogas, o pati A. Jonušytė aprašė naujai pastatytus sodybų, pakelių ir kitų vietų medinius paminklus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 965 (PDF 966)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 965 (PDF 966)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

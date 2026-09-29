@@ -58,6 +58,7 @@ Nenurodyta
   santrauka: 'Atkurdami Palėvenės bažnyčią, parapijiečiai pamažu pirko medieną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 242 (PDF 243)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 242 (PDF 243)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,4 +83,3 @@ Atkurdami Palėvenės bažnyčią, parapijiečiai pamažu pirko medieną. Kupiš
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

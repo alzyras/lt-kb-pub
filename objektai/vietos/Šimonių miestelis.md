@@ -43,6 +43,7 @@ canonical_biography: "[Bočiulį] (byloje – Bačiulį), gyvenantį Šimonių m
   santrauka: '1947 m. kovo mėn. Antanas Starkus siūlė Zdanauskui susitikti pas Bočiulį, gyvenusį Šimonių miestelio pakraštyje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 173"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 173."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

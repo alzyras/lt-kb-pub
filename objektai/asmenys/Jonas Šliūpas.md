@@ -41,6 +41,7 @@ Gyvendamas Amerikoje, Jonas Šliūpas palaikė draugijos veiklą ir rinko aukas.
   santrauka: 'Gyvendamas Amerikoje, Jonas Šliūpas palaikė draugijos veiklą ir rinko aukas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 789 (PDF 790)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 789 (PDF 790)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Birželio 20 d. Antanas Sniečkus paskirtas Saugumo departamento direktoriumi.
   santrauka: 'Birželio 20 d. Antanas Sniečkus paskirtas Saugumo departamento direktoriumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 593 (PDF 594)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 593 (PDF 594)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

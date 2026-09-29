@@ -41,6 +41,7 @@ Elvyra Glemžaitė-Dulaitienė pateikė duomenų apie Kupiškio krašto liaudies
   santrauka: 'Elvyra Glemžaitė-Dulaitienė įvardijama kaip kraštotyrininkė, pateikusi duomenų apie Kupiškio krašto liaudies architektūrą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 703 (PDF 704)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 703 (PDF 704)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

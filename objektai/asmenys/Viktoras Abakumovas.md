@@ -66,6 +66,7 @@ canonical_biography: "Viktoras Abakumovas buvo SSRS valstybės saugumo ministras
   santrauka: 'Spalio 16 d. Viktoras Abakumovas išleido potvarkį, kuriuo nurodyta ištremti buožių šeimas iš Lietuvos SSR.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 594 (PDF 595)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 594 (PDF 595)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,4 +87,3 @@ canonical_biography: "Viktoras Abakumovas buvo SSRS valstybės saugumo ministras
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

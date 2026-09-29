@@ -37,6 +37,7 @@ Jonas Aidukas-Klevas, Petro sūnus, 1917 m. gimęs Užusienių kaime Šimonių v
   santrauka: 'Jonas Aidukas-Klevas, Petro sūnus, 1917 m. gimęs Užusienių kaime Šimonių valsčiuje, 1947 m. rugsėjo 28–29 d. žuvo prie Vėderiškių kaimo kaip Antano Starkaus-Blindos būrio partizanas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 270"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 270."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

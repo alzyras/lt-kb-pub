@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-985e96001c41174496bfe302
-canonical_name: Motiejus Kazimieras Volončevskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Motiejus Kazimieras Volončevskis
+entity_id: "ent-985e96001c41174496bfe302"
+canonical_name: "Motiejus Kazimieras Volončevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Kazimieras Volončevskis"]
 sameAs: []
-canonical_biography: Rašiau Varniuose 1858 metuose gruodžio 25 d. Motiejus vyskupas.
+canonical_biography: "Rašiau Varniuose 1858 metuose gruodžio 25 d. Motiejus vyskupas."
 ---
 # Motiejus Kazimieras Volončevskis
 

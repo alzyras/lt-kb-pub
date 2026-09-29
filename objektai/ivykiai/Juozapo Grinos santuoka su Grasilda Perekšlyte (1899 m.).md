@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1899 m. birželio 7 d. Vabalninko bažnyčioje Juozapas Grina vedė Grasildą Perekšlytę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 201 (PDF 202)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 201 (PDF 202)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

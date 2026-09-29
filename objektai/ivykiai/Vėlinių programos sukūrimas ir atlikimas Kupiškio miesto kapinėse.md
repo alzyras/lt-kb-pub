@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Kupiškio miesto kapinėse atlikta Vėlinių programa tapo tradicija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1082 (PDF 1083)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1082 (PDF 1083)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

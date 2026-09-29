@@ -70,6 +70,7 @@ Apatiniame Kerelių piliakalnio kultūriniame sluoksnyje rasti akmens ir kaulo d
   santrauka: 'Gintauto Zabielos vertinimu, Kerelių piliakalnio radiniai suteikė žinių apie ankstyvąją statybą, architektūrinę ir dailės kultūrą besiformuojančiame sėlių genties regione.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 705 (PDF 706)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 705 (PDF 706)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,4 +103,3 @@ Apatiniame Kerelių piliakalnio kultūriniame sluoksnyje rasti akmens ir kaulo d
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
-

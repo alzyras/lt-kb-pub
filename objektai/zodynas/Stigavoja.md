@@ -47,6 +47,13 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - c-192578
 
+<a id="claim-t-210126"></a>
+- t-210126
+  teiginys: "Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
 ## Citatos
 
 - id: c-09743

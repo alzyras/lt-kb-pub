@@ -49,6 +49,7 @@ canonical_biography: "Vigeliui, komandos veikla atgijo ir pradėjo pelningiau di
   santrauka: '1934 m. šaulys B. Vigelis perėmė ugniagesių komandos vadovavimą, po kurio jos veikla atgijo ir komanda gavo 116 Lt pelno.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 689 (PDF 690)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 689 (PDF 690)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

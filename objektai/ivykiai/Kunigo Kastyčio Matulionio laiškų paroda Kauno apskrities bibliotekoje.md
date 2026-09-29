@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Kunigo Kastyčio Matulionio laiškų paroda Kauno apskrities bibliotekoje sulaukė tiek lankytojų iš Šiaulių, Klaipėdos, Vilniaus ir kitų miestų, kad jie netilpo didžiojoje salėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 477 (PDF 478)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 477 (PDF 478)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

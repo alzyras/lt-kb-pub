@@ -37,6 +37,7 @@ Janina Vengrienė-Undinė, Antano duktė, 1916 m. gimė ir gyveno Duoniūnų kai
   santrauka: 'Janina Vengrienė-Undinė, Antano duktė, 1916 m. gimė ir gyveno Duoniūnų kaime Kupiškio valsčiuje; kronikoje ji įvardyta kaip Šiaurės Rytų Lietuvos srities vado Dėdės, Dobilo (Jono Kimšto) ir Šarūno rinktinės ryšininkė.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 306"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 306."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

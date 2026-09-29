@@ -41,6 +41,7 @@ Danutė Sarsevičienė vėliau prisijungė prie moterų ansamblio.
   santrauka: 'Danutė Sarsevičienė vėliau prisijungė prie melioratorių moterų ansamblio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 700 (PDF 701)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 700 (PDF 701)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

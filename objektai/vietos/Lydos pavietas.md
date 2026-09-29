@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Lydos pavietas"]
 sameAs: []
 canonical_biography: "Lydos pavieto žemvaldžiams, ponams broliams man maloningiems ir mieliems."
+place_authority: true
+historical_names: []
 ---
 # Lydos pavietas
 

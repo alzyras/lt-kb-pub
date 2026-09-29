@@ -26,16 +26,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-01e948bc59748e8c88f0cd2f
-canonical_name: Balninkai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Balninkai
-  - Balninkai (vieta)
+entity_id: "ent-01e948bc59748e8c88f0cd2f"
+canonical_name: "Balninkai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Balninkai","Balninkai (vieta)"]
 sameAs: []
-canonical_biography: 'Iš jų vienuolika skirti atskiroms parapijoms: Balninkų, Brunavos, Butkiškės, Grinkiškio, Grūšlaukės, Kamajų bei Skapiškio (šis laiškas buvo iš siųstas taip pat Rietavo ir Veliuonos dekanatų parapi joms), Kartenos, Kupiškio, Plungės, Tytuvėnų ir Kuršo.'
+canonical_biography: "Iš jų vienuolika skirti atskiroms parapijoms: Balninkų, Brunavos, Butkiškės, Grinkiškio, Grūšlaukės, Kamajų bei Skapiškio (šis laiškas buvo iš siųstas taip pat Rietavo ir Veliuonos dekanatų parapi joms), Kartenos, Kupiškio, Plungės, Tytuvėnų ir Kuršo."
 place_authority: true
 historical_names: []
 ---

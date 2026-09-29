@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fcb1e1dc6b3155386ea3f7a7
-canonical_name: Kulių parapija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kulių parapija
+entity_id: "ent-fcb1e1dc6b3155386ea3f7a7"
+canonical_name: "Kulių parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kulių parapija"]
 sameAs: []
-canonical_biography: Kulių parapijoje veikė kun. Kazimieras Skrodzkis.
+canonical_biography: "Kulių parapijoje veikė kun. Kazimieras Skrodzkis."
 place_authority: true
 historical_names: []
 ---

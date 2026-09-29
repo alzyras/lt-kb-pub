@@ -49,6 +49,7 @@ P. Valma buvo pirmasis Arvydo Kirdos mokytojas ir mokė Kirdą tradiciškai grie
   santrauka: 'P. Valma buvo pirmasis Arvydo Kirdos mokytojas ir mokė Kirdą tradiciškai griežti akordeonu; vėliau Kirda tapo profesionaliu akordeonininku, bandonininku ir etnomuzikologu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1076 (PDF 1077)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1076 (PDF 1077)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

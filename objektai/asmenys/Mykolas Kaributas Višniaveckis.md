@@ -20,6 +20,12 @@ media_direct_json: '[{"mediaId":"m-291df95ba98f1b6627d95086","title":"Mykolas Ka
 media_total_count: 1
 media_primary_width: 379
 media_primary_height: 517
+entity_id: "ent-c632cd95ff71bc67f11b07db"
+canonical_name: "Mykolas Kaributas Višnioveckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Kaributas Višniaveckis","Mykolas Kaributas Višnioveckis","[\"Mykolas Kaributas Višnioveckis\", \"Mykolas Kaributas Višnioveckis\"]"]
+sameAs: []
 ---
 
 # Mykolas Kaributas Višnioveckis

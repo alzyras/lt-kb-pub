@@ -50,6 +50,7 @@ canonical_biography: "2005 m. pasirodė Lino Brogos ir R. Brogienės parengtas l
   santrauka: '2005 m. pasirodė Lino Brogos ir R. Brogienės parengtas leidinys „Laiškai. Amžininkų atsiminimai“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1112 (PDF 1113)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1112 (PDF 1113)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

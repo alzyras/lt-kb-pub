@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Tremtinių prievartinio iškeldinimo scenarijus buvo vykdomas 1948–1951 m. prievartinės kolektyvizacijos metu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 595 (PDF 596)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 595 (PDF 596)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

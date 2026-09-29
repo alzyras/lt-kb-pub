@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Bekešo kalnas"]
 sameAs: []
 canonical_biography: "Ant Bekešo kalno viršūnės stovėjo koplyčia, pastatyta šio karžygio atminimui."
+place_authority: true
+historical_names: []
 ---
 # Bekešo kalnas
 

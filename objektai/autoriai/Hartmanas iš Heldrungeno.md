@@ -23,16 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-62daf000e5dc31dbbc0bbf77
-canonical_name: Hartmanas iš Heldrungeno
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Hartmanas iš Heldrungeno
+entity_id: "ent-62daf000e5dc31dbbc0bbf77"
+canonical_name: "Hartmanas iš Heldrungeno"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hartmanas iš Heldrungeno"]
 sameAs: []
-canonical_biography: Hartmano iš Heldrungeno pranešimas aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos perdavimą pastarajam. Hartmanas buvo aprašomų įvykių liudytojas ir į Ordiną įstojo apie 1234 m.
+canonical_biography: "Hartmano iš Heldrungeno pranešimas aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos perdavimą pastarajam. Hartmanas buvo aprašomų įvykių liudytojas ir į Ordiną įstojo apie 1234 m."
 ---
 # Hartmanas iš Heldrungeno
 

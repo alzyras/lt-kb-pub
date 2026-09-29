@@ -34,6 +34,7 @@ Posakyje velnių atbaidymas siejamas su siekiu, kad jie neprikibtų ir sielų ne
   santrauka: 'Posakyje velnių atbaidymas siejamas su siekiu, kad jie neprikibtų ir sielų nepagrobtų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 895 (PDF 896)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 895 (PDF 896)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

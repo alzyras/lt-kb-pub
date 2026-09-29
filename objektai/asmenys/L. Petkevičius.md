@@ -26,16 +26,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-95e08650dde31c0b0f89c3f6
-canonical_name: Li Petkevičius (XIX a.)
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - L. Petkevičius
-  - Li Petkevičius (XIX a.)
+entity_id: "ent-95e08650dde31c0b0f89c3f6"
+canonical_name: "Li Petkevičius (XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["L. Petkevičius","Li Petkevičius (XIX a.)"]
 sameAs: []
-canonical_biography: 1861 m. L. Petkevičius paskelbė uždarąs savas degtinės gamybos ir prekybos įmones ir kvietė kaimynus elgtis taip pat.
+canonical_biography: "1861 m. L. Petkevičius paskelbė uždarąs savas degtinės gamybos ir prekybos įmones ir kvietė kaimynus elgtis taip pat."
 ---
 # Li Petkevičius (XIX a.)
 

@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-697b60ad0889dcd4d886dca9
-canonical_name: Jonas Jurgaitis Zaberezinskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jonas Jurgaitis Zaberezinskis
+entity_id: "ent-697b60ad0889dcd4d886dca9"
+canonical_name: "Jonas Jurgaitis Zaberezinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Jurgaitis Zaberezinskis"]
 sameAs: []
-canonical_biography: 'Jonas Jurgaitis Zaberezinskis buvo Trakų vaivada ir krašto maršalas nuo 1498 m. Kova dėl (takos didžiajam kunigaikščiui, kilusi tarp Jono Zaberezinskio ir naujojo Aleksandro favorito My kolo Glinskio, pasibaigė Zaberezinskio nužudymu t508.II.2.'
+canonical_biography: "Jonas Jurgaitis Zaberezinskis buvo Trakų vaivada ir krašto maršalas nuo 1498 m. Kova dėl (takos didžiajam kunigaikščiui, kilusi tarp Jono Zaberezinskio ir naujojo Aleksandro favorito My kolo Glinskio, pasibaigė Zaberezinskio nužudymu t508.II.2."
 ---
 # Jonas Jurgaitis Zaberezinskis
 

@@ -49,6 +49,7 @@ canonical_biography: "1929 m. gegužės 25 d. Juozapas Skvireckas įšventino An
   santrauka: '1929 m. gegužės 25 d. Juozapas Skvireckas įšventino Antaną Jušką į kunigus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a5b1ab420782872153c55845
-canonical_name: Stanislovas Mikuckis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Stanislovas Mikuckis
+entity_id: "ent-a5b1ab420782872153c55845"
+canonical_name: "Stanislovas Mikuckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Mikuckis"]
 sameAs: []
-canonical_biography: 1858 metais Teodoras Narbutas „Teka Wilenska“ puslapiuose atsakė į Stanislovo Mikuckio kaltinimus.
+canonical_biography: "1858 metais Teodoras Narbutas „Teka Wilenska“ puslapiuose atsakė į Stanislovo Mikuckio kaltinimus."
 ---
 # Stanislovas Mikuckis
 

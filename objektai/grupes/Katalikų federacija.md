@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1942 m. rugsėjo 19 d. Katalikų federacijos žinyboje kunigo J. Prunskio iniciatyva buvo atkuriamas Katalikų spaudos biuras.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 527 (PDF 528)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 527 (PDF 528)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

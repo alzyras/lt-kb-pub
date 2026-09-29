@@ -93,6 +93,18 @@ Pilviškių vis. Pilviškių vls.
   pagrindžia:
     - c-192259
 
+<a id="claim-t-209640"></a>
+- t-209640
+  teiginys: "Pilviškių parapijoje, nuo Antanavo dvaro iki Liudvinavo, po karo buvo likę labai mažai sveikų ūkių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192260
+
 ## Citatos
 
 - id: c-43742
@@ -169,4 +181,6 @@ Pilviškių vis. Pilviškių vls.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209640
 

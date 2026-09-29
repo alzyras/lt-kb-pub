@@ -20,6 +20,12 @@ media_direct_json: '[{"mediaId":"m-94dd6a7e0329a70964023636","title":"Butvydas. 
 media_total_count: 1
 media_primary_width: 476
 media_primary_height: 800
+entity_id: "ent-3946b292f2d531ea64a6f8fb"
+canonical_name: "Butvydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Butvydas","[\"Butvydas\", \"Butvydas\"]"]
+sameAs: []
 ---
 
 # Butvydas

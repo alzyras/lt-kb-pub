@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Žydrūnė Rakauskaitė 2009 m. įkūrė Alizavos pagrindinės mokyklos vaikų folkloro ansamblį „Sodėlis“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1083 (PDF 1084)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1083 (PDF 1084)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +53,7 @@ Nenurodyta
   santrauka: 'Atnaujinus Sodėlio ansamblio veiklą, greitai vėl buvo suburtas jo branduolys ir dainuotos sutartinės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1083 (PDF 1084)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1083 (PDF 1084)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

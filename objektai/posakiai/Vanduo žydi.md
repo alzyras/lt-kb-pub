@@ -34,6 +34,7 @@ Posakis „vanduo žydi“ nusako reiškinį, kai karštomis vasaros dienomis mi
   santrauka: 'Fraze „vanduo žydi“ įvardijamas reiškinys, kai karštomis vasaros dienomis dėl gausiai prisidauginusių vienaląsčių dumblių vanduo tampa žalsvai drumstas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 26 (PDF 27)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 26 (PDF 27)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

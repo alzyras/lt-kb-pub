@@ -51,6 +51,7 @@ Adomas Stankevičius susirgo ir mirė Sibire.
   santrauka: 'Adomas Stankevičius susirgo ir mirė Sibire.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 466 (PDF 467)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 466 (PDF 467)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -85,4 +86,3 @@ Adomas Stankevičius susirgo ir mirė Sibire.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

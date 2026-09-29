@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1935 m. Kazimieras Šaulinskas užrašė 94 O. Glemžienės dainas su melodijomis, tarp jų – sutartines.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1013 (PDF 1014)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1013 (PDF 1014)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -67,6 +67,7 @@ Alvydas Totoris parašė skyrių „Kupiškio seniūnija XVI–XIX amžiais“. 
   santrauka: 'Alvydas Totoris parašė skyrių „Kupiškio seniūnija XVI–XIX amžiais“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 137 (PDF 138)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 137 (PDF 138)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -85,4 +86,3 @@ Alvydas Totoris parašė skyrių „Kupiškio seniūnija XVI–XIX amžiais“. 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

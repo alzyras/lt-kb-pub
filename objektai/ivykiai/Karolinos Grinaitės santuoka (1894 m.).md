@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Karolina Grinaitė 1894 m. birželio 26 d. buvo ištekinta už Jurgio Bagdžiūno, o sutuoktiniai įsikūrė Bieliokų viensėdyje, Troškūnų parapijoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 201 (PDF 202)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 201 (PDF 202)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

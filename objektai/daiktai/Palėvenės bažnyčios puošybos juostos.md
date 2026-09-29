@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Iš įsigyto audeklo pasiūta 12 geltonos, žalios ir raudonos spalvos juostų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 248 (PDF 249)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 248 (PDF 249)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

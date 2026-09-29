@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b63544480f6f08ea0d4b371c
-canonical_name: Kasparas Dankvertas
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Kasparas Dankvertas
+entity_id: "ent-b63544480f6f08ea0d4b371c"
+canonical_name: "Kasparas Dankvertas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kasparas Dankvertas"]
 sameAs: []
-canonical_biography: Kasparas Dankvertas buvo prūsų kronikų rašytojas.
+canonical_biography: "Kasparas Dankvertas buvo prūsų kronikų rašytojas."
 ---
 # Kasparas Dankvertas
 

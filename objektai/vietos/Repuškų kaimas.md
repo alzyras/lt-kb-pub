@@ -37,6 +37,7 @@ canonical_biography: "1945 m. rugsėjo 3 d. Repuškų kaime, Viešintų valsčiu
   santrauka: '1945 m. rugsėjo 3 d. NKVD kariuomenės 12-ojo pasienio pulko kareivių grupė Repuškų kaime, Viešintų valsčiuje, nušovė į mišką mėginusį bėgti žmogų, kurį vietiniai atpažino kaip kaimo gyventoją Vladą Kazlauską, priklausiusį partizanų grupei.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 63"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 63."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

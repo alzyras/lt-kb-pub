@@ -50,6 +50,7 @@ Po 1957 m. lapkričio 28 d. kratos Panevėžio Šv. apaštalų Petro ir Povilo b
   santrauka: '1957 m. gruodžio 11 d. Matas Grigonis parašė paaiškinimą dėl per kratą Panevėžio Šv. apaštalų Petro ir Povilo bažnyčioje paimtų jo poezijos kūrinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 461 (PDF 462)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 461 (PDF 462)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

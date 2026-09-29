@@ -49,6 +49,7 @@ Stasys Gurklys-Nagaika buvo P. Laužiko būrio kovotojas ir vėliau tapo Vyčio 
   santrauka: 'Stasys Gurklys-Nagaika buvo P. Laužiko būrio kovotojas ir vėliau tapo Vyčio apygardos Žaliosios rinktinės Gedimino tėvūnijos būrio vadu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 625 (PDF 626)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 625 (PDF 626)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

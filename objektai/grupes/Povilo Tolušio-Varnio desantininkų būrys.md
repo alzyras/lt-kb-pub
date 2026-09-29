@@ -30,6 +30,7 @@ Povilas Tolušis, 1941 m. sukilėlis ir desantininkų būrio vadas, 1944 m. buvo
   santrauka: 'Povilas Tolušis, 1941 m. sukilėlis ir desantininkų būrio vadas, 1944 m. buvo pasiųstas į Tilžytės žvalgybos mokyklą, o ją baigęs 1945 m. sausio 21 d. su Subačiaus valsčiaus desantininkais nusileido Šiaulių apskrityje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 51"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 51."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Varniškiuose užfiksuotas vienas Adomo Andriulionio dūmas.
   santrauka: 'Varniškiuose užfiksuotas vienas Adomo Andriulionio dūmas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 162 (PDF 163)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 162 (PDF 163)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f08c7d6532022c08f28abaf4
-canonical_name: A. Rybelis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - A. Rybelis
+entity_id: "ent-f08c7d6532022c08f28abaf4"
+canonical_name: "A. Rybelis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Rybelis"]
 sameAs: []
-canonical_biography: A. Rybelis paskelbė keletą svarbių straipsnių blaivybės tema.
+canonical_biography: "A. Rybelis paskelbė keletą svarbių straipsnių blaivybės tema."
 ---
 # A. Rybelis
 

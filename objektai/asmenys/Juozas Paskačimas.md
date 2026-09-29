@@ -41,6 +41,7 @@ Juozas Paskačimas mūre iškirto langelį ir langą į Lėvens pusę, o iš bok
   santrauka: 'Juozas Paskačimas mūre iškirto langelį ir langą į Lėvens pusę, o iš bokšto išgabeno 16 didelių vežimų žabų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1005 (PDF 1006)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1005 (PDF 1006)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

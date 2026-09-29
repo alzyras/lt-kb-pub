@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fdd0c438ad2f754f49ee241e
-canonical_name: Varšava (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Varšava
-  - Varšava (vieta)
+entity_id: "ent-fdd0c438ad2f754f49ee241e"
+canonical_name: "Varšava (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varšava","Varšava (vieta)"]
 sameAs: []
-canonical_biography: 'Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, ku rie, važinėdami po kaimus, kursto žmones, kad dėtūsi su lenkais. Iš Varšavos Kauno bažnytinei administracijai buvo išsiųstos reikalingos popieros.'
+canonical_biography: "Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, ku rie, važinėdami po kaimus, kursto žmones, kad dėtūsi su lenkais. Iš Varšavos Kauno bažnytinei administracijai buvo išsiųstos reikalingos popieros."
+place_authority: true
+historical_names: []
 ---
 # Varšava (vieta)
 

@@ -41,6 +41,7 @@ Gediminas Grina parašė skyrių „Šapalų Grinos ir jų palikuonys“.
   santrauka: 'Gediminas Grina parašė skyrių „Šapalų Grinos ir jų palikuonys“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 187 (PDF 188)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 187 (PDF 188)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

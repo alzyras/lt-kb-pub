@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ad07bcaf4521325e1bb0e897
-canonical_name: Kazimieras Dmochovskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Kazimieras Dmochovskis
+entity_id: "ent-ad07bcaf4521325e1bb0e897"
+canonical_name: "Kazimieras Dmochovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Dmochovskis"]
 sameAs: []
-canonical_biography: 'Pašventė ma ne dievobaimingas Godojamas Mogyliavo Archivyskupas visų katalikų bažnyčių, Maskolių ciesarystėje esančių, Metropolitą Jo Mylista Kazimieras Dmochovskis, drau gystėje savo padėjėjo ir busimojo įpėdinio Karistijos Vyskupo Jo mylistos Ignaciaus.'
+canonical_biography: "Pašventė ma ne dievobaimingas Godojamas Mogyliavo Archivyskupas visų katalikų bažnyčių, Maskolių ciesarystėje esančių, Metropolitą Jo Mylista Kazimieras Dmochovskis, drau gystėje savo padėjėjo ir busimojo įpėdinio Karistijos Vyskupo Jo mylistos Ignaciaus."
 ---
 # Kazimieras Dmochovskis
 

@@ -67,4 +67,3 @@ Suimto partizano Jono Kalkio tardymo protokolas datuotas 1947 m. sausio 13 d.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-65986481374c76a0e7422566
-canonical_name: Pamedės žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pamedės žemė
+entity_id: "ent-65986481374c76a0e7422566"
+canonical_name: "Pamedės žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pamedės žemė"]
 sameAs: []
-canonical_biography: 'Broliai su maldininkais patraukė į Pamedės žemę, pasiėmę pilims statyti reikalingus daiktus.'
+canonical_biography: "Broliai su maldininkais patraukė į Pamedės žemę, pasiėmę pilims statyti reikalingus daiktus."
+place_authority: true
+historical_names: []
 ---
 # Pamedės žemė
 

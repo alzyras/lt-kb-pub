@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Adomo Petrausko riedulių rinkinys yra prie muziejinės sodybos Uoginių kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 14 (PDF 15)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 14 (PDF 15)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

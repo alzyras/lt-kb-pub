@@ -54,3 +54,15 @@ canonical_biography: "1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK aut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-211799"></a>
+- t-001
+  teiginys: "1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius ¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+

@@ -40,6 +40,7 @@ Pareiškimą, reikalaujantį, kad SSRS Konstitucijos pakeitimų ir papildymų pr
   santrauka: 'Pareiškimą, reikalaujantį, kad SSRS Konstitucijos pakeitimų ir papildymų projektas nebūtų svarstomas artimiausioje SSRS Aukščiausiosios Tarybos sesijoje, Kupiškio mieste ir Aukštupėnų apylinkėje pasirašė 5 340 gyventojų, o rajone – 11 550.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 853-855 (PDF 854-856)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 853-855 (PDF 854-856)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

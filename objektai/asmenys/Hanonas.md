@@ -55,6 +55,28 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
   pagrindžia:
     - c-196233
 
+<a id="claim-t-213724"></a>
+- t-213724
+  teiginys: "Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir palei Afrikos krantus nuplaukė iki Bajadoro kyšulio."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Afrika: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hanonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Afrika: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Hanonas tiesiogiai aprašomas plaukęs palei Afrikos krantus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Hanonas keliavo į Afrika (0.86)"
+  temporaliniai_duomenys: "kelionės data: 450 m; kelionės data: apie 450 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Hanonas keliavo į Afrika“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Hanono žygį iš Kartaginos. Jame nurodyti laikas, kryptis ir pasiektas kyšulys, neperimant nereikšmingumo vertinimo."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-174288

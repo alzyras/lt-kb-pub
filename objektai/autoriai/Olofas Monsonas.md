@@ -24,16 +24,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-52e9bb56e4df4f8403ed64a5
-canonical_name: Olofas Monsonas
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Olofas Monsonas
+entity_id: "ent-52e9bb56e4df4f8403ed64a5"
+canonical_name: "Olofas Monsonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Olofas Monsonas"]
 sameAs: []
-canonical_biography: Turima omenyje Olafo Monsono (1490—1558) „Siaurės tautų is torija“.
+canonical_biography: "Turima omenyje Olafo Monsono (1490—1558) „Siaurės tautų is torija“."
 ---
 # Olofas Monsonas
 

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3131300e5e1043a63e578e32
-canonical_name: Diodoras Sicilietis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Diodoras Sicilietis
+entity_id: "ent-3131300e5e1043a63e578e32"
+canonical_name: "Diodoras Sicilietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Diodoras Sicilietis"]
 sameAs: []
-canonical_biography: Diodoras Sicilietis gyveno paskutiniais metais prieš krikščioniškosios eros pradžią.
+canonical_biography: "Diodoras Sicilietis gyveno paskutiniais metais prieš krikščioniškosios eros pradžią."
 ---
 # Diodoras Sicilietis
 

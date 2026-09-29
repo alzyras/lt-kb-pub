@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2cd67e05f5e59117afaf5958
-canonical_name: Karolis iš Tryro
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Karolis iš Tryro
+entity_id: "ent-2cd67e05f5e59117afaf5958"
+canonical_name: "Karolis iš Tryro"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis iš Tryro"]
 sameAs: []
-canonical_biography: Karolis iš Tryro buvo tryliktas Teutonų ordino ir devynioliktas Prūsijos žemės didysis magistras.
+canonical_biography: "Karolis iš Tryro buvo tryliktas Teutonų ordino ir devynioliktas Prūsijos žemės didysis magistras."
 ---
 # Karolis iš Tryro
 

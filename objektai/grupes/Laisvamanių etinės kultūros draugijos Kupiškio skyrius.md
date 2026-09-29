@@ -45,6 +45,7 @@ P. Vaitiekūnui pasitraukus iš Laisvamanių etinės kultūros draugijos, 1936 m
   santrauka: 'Kupiškio skyrius įsikūrė 1930 m., jam vadovavo Petras Vaitiekūnas, o draugijos veiklą palaikė ir aukas rinko Jonas Šliūpas, Andrius Liucijonas Graičiūnas ir Jonas Kulys, tuo metu gyvenę Amerikoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 789 (PDF 790)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 789 (PDF 790)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

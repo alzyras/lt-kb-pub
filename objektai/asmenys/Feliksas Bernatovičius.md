@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4a59fc3d92710f3f0fa93d56
-canonical_name: Feliksas Bernatovičius
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Feliksas Bernatovičius
+entity_id: "ent-4a59fc3d92710f3f0fa93d56"
+canonical_name: "Feliksas Bernatovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Feliksas Bernatovičius"]
 sameAs: []
-canonical_biography: 'Be to, neretai istori kas daro ir tokią „pasibaisėtiną“ klaidą, kad grožinį kūrinį trak tuoja kaip istorijos šaltinį: čia kaip pavyzdį referentas nurodo Felikso Bernatovičiaus „Pajautą“.'
+canonical_biography: "Be to, neretai istori kas daro ir tokią „pasibaisėtiną“ klaidą, kad grožinį kūrinį trak tuoja kaip istorijos šaltinį: čia kaip pavyzdį referentas nurodo Felikso Bernatovičiaus „Pajautą“."
 ---
 # Feliksas Bernatovičius
 

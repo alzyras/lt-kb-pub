@@ -65,6 +65,17 @@ canonical_biography: "1227 metais prie Voluinės Vladimiro buvo suimti du jotvin
   pagrindžia:
     - c-174206
 
+<a id="claim-t-212644"></a>
+- t-212644
+  teiginys: "Pasak Teodoro Narbuto, Sutras Monoduničius krito mūšio lauke nuo pačių kunigaikščių ginklo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-174206

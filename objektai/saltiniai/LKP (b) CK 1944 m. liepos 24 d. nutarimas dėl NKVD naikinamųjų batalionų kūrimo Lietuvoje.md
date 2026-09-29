@@ -40,6 +40,7 @@ LKP (b) CK 1944 m. liepos 24 d. nutarime numatytos priemonės ir prielaidos Liet
   santrauka: 'Arūnas Bubnys straipsnyje „Masinės sovietinių aktyvistų ir žydų žudynės Kupiškyje 1941 metais“ rašo, kad 1944 m. liepos 24 d. nutarimu kurti NKVD naikinamieji batalionai turėjo slopinti lietuvių pasipriešinimą okupantams ir dalyvauti trėmimuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 593 (PDF 594)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 593 (PDF 594)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

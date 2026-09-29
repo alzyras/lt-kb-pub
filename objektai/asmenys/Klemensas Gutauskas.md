@@ -65,6 +65,7 @@ Klemenso Gutausko iniciatyva meistras J. Lašukas gavo iš Panevėžio atvežtus
   santrauka: 'Monsinjoro Klemenso Gutausko iniciatyva Jonui Lašukui pateikti iš Panevėžio atvežti brėžiniai, pagal kuriuos meistras gamino koplyčių altorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 341 (PDF 342)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 341 (PDF 342)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,6 +77,7 @@ Klemenso Gutausko iniciatyva meistras J. Lašukas gavo iš Panevėžio atvežtus
   santrauka: 'Klemensas Gutauskas 1964 m. buvo paskirtas Kupiškio bažnyčios klebonu ir ėmėsi šventovės tvarkymo bei atnaujinimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 346 (PDF 347)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 346 (PDF 347)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -87,6 +89,7 @@ Klemenso Gutausko iniciatyva meistras J. Lašukas gavo iš Panevėžio atvežtus
   santrauka: 'Aldona Vasiliauskienė straipsnyje apie Kupiškio bažnyčios ir parapijos istoriją rašė, kad monsinjoras Klemensas Gutauskas išpuoselėjo 18 vikarų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 440 (PDF 441)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 440 (PDF 441)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,6 +99,7 @@ Klemenso Gutausko iniciatyva meistras J. Lašukas gavo iš Panevėžio atvežtus
   santrauka: '1989 m. liepos 9 d. Kupiškio parapijos dekanas Klemensas Gutauskas į „Caritas“ steigiamąjį susirinkimą pasikvietė iš tremties ką tik grįžusį kunigą Sigitą Tamkevičių SJ.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 445 (PDF 446)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 445 (PDF 446)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -116,4 +120,3 @@ Klemenso Gutausko iniciatyva meistras J. Lašukas gavo iš Panevėžio atvežtus
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

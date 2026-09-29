@@ -43,6 +43,7 @@ Aloyzas Zaborskis groja pučiamųjų instrumentų orkestre.
   santrauka: 'Aloyzas Zaborskis nurodomas tarp Kupiškio valsčiaus folkloro vyrų ansamblio dalyvių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 702 (PDF 703)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 702 (PDF 703)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

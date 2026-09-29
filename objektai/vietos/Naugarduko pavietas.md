@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Naugarduko pavietas"]
 sameAs: []
 canonical_biography: "Tai buvo katedros kapitulos stalo valda Naugarduko paviete."
+place_authority: true
+historical_names: []
 ---
 # Naugarduko pavietas
 

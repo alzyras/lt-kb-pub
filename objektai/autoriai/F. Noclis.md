@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-390cf670f0c242b7a39164d2
-canonical_name: F. Noclis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - F. Noclis
+entity_id: "ent-390cf670f0c242b7a39164d2"
+canonical_name: "F. Noclis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["F. Noclis"]
 sameAs: []
-canonical_biography: 'Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai.'
+canonical_biography: "Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai."
 ---
 # F. Noclis
 

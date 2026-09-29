@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9dcffd39da7c6c942d4f0034
-canonical_name: Šventosios šventykla
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Šventosios šventykla
+entity_id: "ent-9dcffd39da7c6c942d4f0034"
+canonical_name: "Šventosios šventykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventosios šventykla"]
 sameAs: []
-canonical_biography: 'Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) šven tykloje, dabartiniame Heiligenbeilyje; ten stovėjusį dievo Kurko, arba Žemininko, stabą sutrupindavo ir padirbdavo naują.'
+canonical_biography: "Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) šven tykloje, dabartiniame Heiligenbeilyje; ten stovėjusį dievo Kurko, arba Žemininko, stabą sutrupindavo ir padirbdavo naują."
+place_authority: true
+historical_names: []
 ---
 # Šventosios šventykla
 

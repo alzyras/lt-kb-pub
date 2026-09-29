@@ -30,17 +30,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b106b04cfdfe931d5f3e364b
-canonical_name: Akonas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Akonas
-sameAs: []
-canonical_biography: 'Akonas šiame šaltinyje minimas kaip Jeruzalės karalystės sostinė, Vokiečių ordino ankstyvosios pradžios vieta ir paskutinis likęs Šventosios žemės miestas prieš jo žlugimą.'
-place_authority: true
-historical_names: []
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:10:36+00:00","source_checked_at":"2026-09-19T19:10:36+00:00","counts":{"relations":4,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_palaidotas","direction":"inbound","target":"objektai/asmenys/Henrikas Valpotas","claim_id":"t-220866","confidence":0.96},{"predicate":"buvo_palaidotas","direction":"inbound","target":"objektai/asmenys/Otonas","claim_id":"t-223458","confidence":0.99},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Otonas","claim_id":"t-223458","confidence":0.68},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Henrikas Valpotas","claim_id":"t-222395","confidence":0.74}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -54,6 +43,15 @@ object_page_seo_description: 'Akonas šiame šaltinyje minimas kaip Jeruzalės k
 object_page_seo_input_hash: 3c1811bd8db5a9e8b55198b7e539d2fb0138bfbada97c4e870dff2a1bf7811e0
 object_page_seo_generated_at: '2026-09-19T19:10:36+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-b106b04cfdfe931d5f3e364b"
+canonical_name: "Akonas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Akonas"]
+sameAs: []
+canonical_biography: "Akonas šiame šaltinyje minimas kaip Jeruzalės karalystės sostinė, Vokiečių ordino ankstyvosios pradžios vieta ir paskutinis likęs Šventosios žemės miestas prieš jo žlugimą."
+place_authority: true
+historical_names: []
 ---
 # Akonas
 

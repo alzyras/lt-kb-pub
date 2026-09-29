@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Liongino Virbalo SJ ingreso šventėje dalyvavo beveik 100 kunigų, daugiau kaip 20 vyskupų ir tikintieji iš įvairių Lietuvos vietų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 534 (PDF 535)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 534 (PDF 535)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

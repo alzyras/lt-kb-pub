@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Per 1781 m. rugpjūčio 14 d. Kupiškio gaisrą sudegė bažnytinės knygos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 509 (PDF 510)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 509 (PDF 510)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

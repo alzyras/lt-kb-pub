@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Vaivorus rinkdavo greitai vartojamai uogienei arba vynui gaminti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 105-106 (PDF 106-107)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 105-106 (PDF 106-107)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

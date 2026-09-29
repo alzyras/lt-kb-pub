@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9bee74f57c7f7c7fcd4c16b1
-canonical_name: Ksenofontas Lampsakietis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Ksenofontas Lampsakietis
+entity_id: "ent-9bee74f57c7f7c7fcd4c16b1"
+canonical_name: "Ksenofontas Lampsakietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ksenofontas Lampsakietis"]
 sameAs: []
-canonical_biography: 'Ksenofontas Lampsakietis žino žemę, arba neišmatuojamo dy džio salą, esančią trijų dienų kelio atstumu nuo Skitijos, ir vadina ją Baltija3, t.'
+canonical_biography: "Ksenofontas Lampsakietis žino žemę, arba neišmatuojamo dy džio salą, esančią trijų dienų kelio atstumu nuo Skitijos, ir vadina ją Baltija3, t."
 ---
 # Ksenofontas Lampsakietis
 

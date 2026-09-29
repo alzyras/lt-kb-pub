@@ -51,6 +51,7 @@ Jonas Grižas-Beržas, gyvenęs Obonių kaime Šimonių valsčiuje, buvo A. Star
   santrauka: 'Partizanai Joną Grižą rado mirusį bunkeryje ir palaidojo jo palaikus Obonių kaimo kapinėse.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 273"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 273."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,4 +70,3 @@ Jonas Grižas-Beržas, gyvenęs Obonių kaime Šimonių valsčiuje, buvo A. Star
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

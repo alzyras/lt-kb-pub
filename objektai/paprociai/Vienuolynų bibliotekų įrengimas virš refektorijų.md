@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Knygų istorikas Arvydas Pacevičius pastebėjo, kad vienuolynų bibliotekos paprastai būdavo įrengiamos virš refektorijų, tačiau Palėvenės vienuolyne jos buvo atskiruose korpusuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 219 (PDF 220)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 219 (PDF 220)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

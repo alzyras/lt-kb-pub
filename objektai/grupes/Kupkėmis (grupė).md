@@ -39,6 +39,7 @@ Publikacijos rengimo metu Alma Pustovaitienė puoselėjo sutartines ir vadovavo 
   santrauka: 'Alma Pustovaitienė vadovauja folkloro ansambliui „Kupkėmis“ ir puoselėja sutartines.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1044 (PDF 1045)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1044 (PDF 1045)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

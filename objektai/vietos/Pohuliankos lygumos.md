@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Pohuliankos lygumos"]
 sameAs: []
 canonical_biography: "Septintą valandą vakaro visas miestas jau buvo Pohuliankos lygumose."
+place_authority: true
+historical_names: []
 ---
 # Pohuliankos lygumos
 

@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-139e3c6e5cb5173fee69583a
-canonical_name: A. Baranauskas
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - A. Baranauskas
+entity_id: "ent-139e3c6e5cb5173fee69583a"
+canonical_name: "A. Baranauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Baranauskas"]
 sameAs: []
-canonical_biography: A. Baranauskas „Metskaitliuose“ paskelbė blaivybės raidos refleksiją „Suvveiga girtuoklu“.
+canonical_biography: "A. Baranauskas „Metskaitliuose“ paskelbė blaivybės raidos refleksiją „Suvveiga girtuoklu“."
 ---
 # A. Baranauskas
 

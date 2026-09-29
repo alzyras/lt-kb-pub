@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Liudijime pasakojama, kad Geršonas buvo palikęs apie 40 kg svėrusį aukso maišą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 588 (PDF 589)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 588 (PDF 589)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

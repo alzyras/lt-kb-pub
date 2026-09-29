@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-cba3d58552d70e17bea3505c
-canonical_name: Fogelzangas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Fogelzangas
-  - Fogelzangas (vieta)
+entity_id: "ent-cba3d58552d70e17bea3505c"
+canonical_name: "Fogelzangas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Fogelzangas","Fogelzangas (vieta)"]
 sameAs: []
-canonical_biography: '13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu.'
+canonical_biography: "13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu."
+place_authority: true
+historical_names: []
 ---
 # Fogelzangas (vieta)
 

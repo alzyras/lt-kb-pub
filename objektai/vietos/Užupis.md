@@ -29,17 +29,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-90dde457a6ec7c839e2487cc
-canonical_name: Užupis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Užupis
-sameAs: []
-canonical_biography: 'Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau daliai pavyko prasiveržti ir užimti Paupį bei Užupį, pastarasis buvo padegtas.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Užupis","url":"https://lt.wikipedia.org/wiki/U%C5%BEupis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Užupis","url":"https://www.vle.lt/straipsnis/uzupis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:17:21+00:00","source_checked_at":"2026-09-19T20:17:21+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Užupis – Vilniaus miesto dalis, esanti į rytus nuo Senamiesčio, dešiniajame Vilnios krante prie jos žiočių. Gana uždara teritorija, kurią iš trijų pusių nuo Senamiesčio skiria upė, iš kitos pusės yra stačios kalvos ir pramoninis rajonas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"62134","revision_id":"7891685","status":"published","translation_status":"native","source":{"title":"Užupis","url":"https://lt.wikipedia.org/wiki/U%C5%BEupis","publisher":"Vikipedija","language":"lt","article_id":"62134","revision_id":"7891685","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7891685","history_url":"https://lt.wikipedia.org/w/index.php?title=U%C5%BEupis&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:22:40.096198+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"a7e5f5b82b99376f6f68f631ee846fbcf63b995bbbeda67c884f3a3559cb6987","version_pk":"f4888ea495bd897038932555021aca83"}},"source_buttons":[{"label":"Vikipedija","title":"Užupis","url":"https://lt.wikipedia.org/wiki/U%C5%BEupis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Užupis","url":"https://www.vle.lt/straipsnis/uzupis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/U%C5%BEupis","https://www.vle.lt/straipsnis/uzupis/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-38525","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -53,6 +42,15 @@ object_page_seo_description: 'Užupis: Keli rusų jėgerių batalionai patyrė n
 object_page_seo_input_hash: 03e271799696e19f0f49b4a75716722c0af4d318c0dae86ac172300c2b3a1d5e
 object_page_seo_generated_at: '2026-09-19T20:17:21+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-90dde457a6ec7c839e2487cc"
+canonical_name: "Užupis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Užupis"]
+sameAs: ["https://www.wikidata.org/entity/Q945499"]
+canonical_biography: "Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau daliai pavyko prasiveržti ir užimti Paupį bei Užupį, pastarasis buvo padegtas."
+place_authority: true
+historical_names: []
 ---
 # Užupis
 

@@ -41,6 +41,7 @@ Dalia Klajumienė apibendrino, kad antriniai liudijimai ir istoriniai faktai lei
   santrauka: 'Dalia Klajumienė apibendrino, kad antriniai liudijimai ir istoriniai faktai leidžia Kupiškio Kristaus Žengimo į dangų bažnyčios projektą priskirti iš Rygos kilusiam architektui Konstantinui Rončevskiui, nors tiesioginių dokumentų nėra.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 361 (PDF 362)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 361 (PDF 362)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

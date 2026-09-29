@@ -41,6 +41,7 @@ Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubili
   santrauka: 'Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubilius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 689 (PDF 690)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 689 (PDF 690)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,4 +59,3 @@ Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubili
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-09-28 18:31"
-

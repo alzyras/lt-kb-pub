@@ -34,6 +34,7 @@ Kairiosios Šv. Kūdikėlio Jėzaus Teresės koplyčios altorių puošė Norblin
   santrauka: 'Kairiosios Šv. Kūdikėlio Jėzaus Teresės koplyčios altorių puošė Norblino firmos gaminys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 360 (PDF 361)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 360 (PDF 361)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

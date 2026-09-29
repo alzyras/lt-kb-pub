@@ -90,6 +90,7 @@ Petras Vaidakavičius, Kosto sūnus, gimė 1905 m. Trakinių kaime, Ukmergės va
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1945 m. sausio operacijos metu Alfonsas Augulis ir Petras Vaidakavičius įsakė partizanams „atremti priešą“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 112"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 112."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -144,4 +145,3 @@ Petras Vaidakavičius, Kosto sūnus, gimė 1905 m. Trakinių kaime, Ukmergės va
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-004
-

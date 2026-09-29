@@ -49,6 +49,7 @@ Angelė Vyšniauskaitė 1970 m. fotografavo kryžių Kupiškio kapinėse.
   santrauka: 'Angelė Vyšniauskaitė 1970 m. fotografavo kryžių Kupiškio kapinėse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 954 (PDF 955)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 954 (PDF 955)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

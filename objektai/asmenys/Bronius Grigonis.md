@@ -37,6 +37,7 @@ Bronius Grigonis, Zigmanto sūnus, gimė 1926 m., gyveno Miežiškių miestelyje
   santrauka: 'Bronius Grigonis, Zigmanto sūnus, gimė 1926 m., gyveno Miežiškių miestelyje, priklausė Samuolio-Juodo Pono būriui ir buvo suimtas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 270"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 270."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

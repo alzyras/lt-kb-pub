@@ -41,6 +41,7 @@ Išeivių palikuonys reiškia padėkas buvusiam Kupiškio merui Leonui Apšegai 
   santrauka: 'Išeivių palikuonys reiškė padėkas buvusiam Kupiškio merui Leonui Apšegai ir miestelio muziejininkams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 578 (PDF 579)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 578 (PDF 579)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

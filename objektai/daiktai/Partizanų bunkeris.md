@@ -94,6 +94,7 @@ Nenurodyta
   santrauka: 'Šimonių miške, Ertėjos kaimo apylinkėse, buvo įkurtas Šiaurės rytų Lietuvos partizanų srities štabo bunkeris.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 619 (PDF 620)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 619 (PDF 620)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,6 +106,7 @@ Nenurodyta
   santrauka: '1949 m. lapkričio 1–2 d. Svėdasų valsčiuje vykusių operacijų metu buvo sunaikinti 9 bunkeriai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -153,4 +155,3 @@ Vytenio būrio bunkeriai buvo įrengti Kuosėnų, Duoniūnų ir Skuodinių kaimu
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-003
-

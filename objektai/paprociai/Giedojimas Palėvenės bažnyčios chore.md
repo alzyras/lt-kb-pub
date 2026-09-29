@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Povilo Bučio vadovaujamas Palėvenės bažnyčios choras garsėjo taisyklingai atliekamomis giesmėmis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235 (PDF 236)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235 (PDF 236)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ Nenurodyta
   santrauka: 'Choras savo giedojimu garsino Palėvenės parapiją visoje Panevėžio vyskupijoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235 (PDF 236)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235 (PDF 236)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

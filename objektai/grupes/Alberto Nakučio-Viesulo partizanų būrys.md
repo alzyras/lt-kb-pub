@@ -57,6 +57,7 @@ Byloje keli partizanų būriai priskiriami Alberto Nakučio vadovaujamai kuopai;
   santrauka: 'Byloje keli partizanų būriai priskiriami Alberto Nakučio vadovaujamai kuopai; Albertas Nakutis ne kartą lankėsi viename iš minimų būrių.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 75"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 75."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -87,4 +88,3 @@ Byloje keli partizanų būriai priskiriami Alberto Nakučio vadovaujamai kuopai;
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ca8a669892e804dcd17bd5c8
-canonical_name: Augustas Rotenbachas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Augustas Rotenbachas
+entity_id: "ent-ca8a669892e804dcd17bd5c8"
+canonical_name: "Augustas Rotenbachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas Rotenbachas"]
 sameAs: []
-canonical_biography: 'Augustas Rotenbachas gimė Prūsijoje, Marienburgo mieste.'
+canonical_biography: "Augustas Rotenbachas gimė Prūsijoje, Marienburgo mieste."
 ---
 # Augustas Rotenbachas
 

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Palėvenėje varpu būdavo skambinama votyvoms prieš sumą, 7–8 valandą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1001 (PDF 1002)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1001 (PDF 1002)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

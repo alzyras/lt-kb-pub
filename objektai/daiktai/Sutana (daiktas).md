@@ -56,6 +56,7 @@ Nenurodyta
   santrauka: '1979 m. sausio 9–30 d. kelionės į Lenkiją metu kun. S. Krumpliauskas mišių patarnautojams atvežė raudonas sutanas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 437 (PDF 438)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 437 (PDF 438)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

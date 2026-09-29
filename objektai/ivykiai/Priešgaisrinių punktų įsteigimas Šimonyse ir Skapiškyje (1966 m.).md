@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1966 m. Šimonyse ir Skapiškyje buvo įsteigti priešgaisriniai punktai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 689 (PDF 690)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 689 (PDF 690)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

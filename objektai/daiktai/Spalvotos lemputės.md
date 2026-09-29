@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1946 m. lapkričio 1 d. Kupiškio vidurinės mokyklos dešimtokai Kulešova ir Vainauskas ant kapų degė žvakutes prie Lietuvos vėliavą imituojančių spalvotų lempučių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 436 (PDF 437)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 436 (PDF 437)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

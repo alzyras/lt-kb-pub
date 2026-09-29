@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Po 1918 m. žemės ūkio reformos valstiečiai, keldamiesi į vienkiemius, kartais persiveždavo senus medinius kaimo pastatus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 730 (PDF 731)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 730 (PDF 731)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

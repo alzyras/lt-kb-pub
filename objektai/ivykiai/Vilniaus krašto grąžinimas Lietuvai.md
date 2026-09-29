@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Lietuvai atgavus Vilniaus kraštą, 1939 m. spalio 29 d. į Vilnių su pirmaisiais lietuvių kariuomenės daliniais įžengė Petras Babickas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1121 (PDF 1122)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1121 (PDF 1122)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

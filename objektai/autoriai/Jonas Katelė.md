@@ -41,6 +41,7 @@ Jonas Katelė, dr. Broniaus Riaukos teigimu, parašė ir aritmetikos vadovėlį.
   santrauka: 'Dr. Bronius Riauka teigia, kad Jonas Katelė yra parašęs ir aritmetikos vadovėlį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 468 (PDF 469)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 468 (PDF 469)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

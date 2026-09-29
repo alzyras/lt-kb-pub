@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'XVII a. antrajame ketvirtyje Lenkijos ir Lietuvos piniginę rinką užtvindė Rygoje ir Livonijoje Švedijos valdovų kaldinti šilingai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 664 (PDF 665)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 664 (PDF 665)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

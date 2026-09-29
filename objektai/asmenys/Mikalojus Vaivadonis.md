@@ -47,6 +47,7 @@ canonical_biography: "1641 m. Kupiškio teismas Mikalojų Vaivadonį nuteisė nu
   santrauka: '1641 m. Kupiškio teismas Mikalojų Vaivadonį nuteisė nukirsdinti galvą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 155-156 (PDF 156-157)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 155-156 (PDF 156-157)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1947 m. rugsėjo 29 d. Sovietų Sąjungos vyriausybė priėmė nutarimą „Dėl priemonių kovoje su banditizmu Lietuvos SSR teritorijoje“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 594 (PDF 595)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 594 (PDF 595)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

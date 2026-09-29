@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Sąjūdžio parašų rinkimo akcijoje per trumpą laiką surinkta daugiau kaip 11 tūkst. parašų iš 18 tūkst. balsavimo teisę turėjusių rajono gyventojų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 859 (PDF 860)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 859 (PDF 860)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ Nenurodyta
   santrauka: 'Sąjūdžio vasaros parašų rinkimo akcija buvo skirta Molotovo–Ribentropo pakto slaptųjų protokolų pripažinimui netekusiais juridinės galios nuo pasirašymo momento ir SSRS kariuomenės išvedimui iš Baltijos valstybių; surinkta per 9 000 rajono gyventojų parašų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 862 (PDF 863)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 862 (PDF 863)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

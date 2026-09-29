@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-1ea1da8bdb4e671f1d47cf41
-canonical_name: I. Nikotinas
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - I. Nikotinas
+entity_id: "ent-1ea1da8bdb4e671f1d47cf41"
+canonical_name: "I. Nikotinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["I. Nikotinas"]
 sameAs: []
-canonical_biography: I. Nikotinas M. Muravjovo nurodymu redagavo gautąjį vertimą.
+canonical_biography: "I. Nikotinas M. Muravjovo nurodymu redagavo gautąjį vertimą."
 ---
 # I. Nikotinas
 

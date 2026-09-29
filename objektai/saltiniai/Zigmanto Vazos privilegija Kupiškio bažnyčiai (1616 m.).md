@@ -47,6 +47,7 @@ media_all_json: |-
   santrauka: '1616 m. birželio 13 d. Zigmantas Vaza Kupiškio bažnyčiai užrašė Sodžiaus arba Pyragių kaimą su 10 valakų žemės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 153-154 (PDF 154-155)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 153-154 (PDF 154-155)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

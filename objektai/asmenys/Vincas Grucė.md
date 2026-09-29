@@ -41,6 +41,7 @@ Vincas Grucė dalyvavo vyrų ansamblyje. Vincas Grucė grojo pučiamųjų instru
   santrauka: 'Vincas Grucė dalyvavo vyrų ansamblyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 700 (PDF 701)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 700 (PDF 701)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +53,7 @@ Vincas Grucė dalyvavo vyrų ansamblyje. Vincas Grucė grojo pučiamųjų instru
   santrauka: 'Vincas Grucė grojo pučiamųjų instrumentų orkestre.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 702 (PDF 703)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 702 (PDF 703)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

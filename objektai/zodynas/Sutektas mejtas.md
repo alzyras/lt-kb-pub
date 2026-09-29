@@ -50,3 +50,16 @@ Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-216969"></a>
+- t-001
+  teiginys: "Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsias ir nemarias mergeles."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

@@ -40,6 +40,7 @@ V. Marcinkevičiaus „Geologinė apžvalga“ publikuota „Kupiškėnų encikl
   santrauka: 'V. Marcinkevičiaus „Geologinė apžvalga“ publikuota „Kupiškėnų enciklopedijos“ I tome (Vilnius, 2006, p. 422–426).'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 11 (PDF 12)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 11 (PDF 12)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

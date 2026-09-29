@@ -49,6 +49,7 @@ Petras Juodiškis žuvo Girelės miške kartu su Algirdu Laužiku ir Mataušu Ku
   santrauka: 'Petras Juodiškis žuvo Girelės miške kartu su Algirdu Laužiku ir Mataušu Kunčiu-Starkumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

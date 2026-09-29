@@ -49,6 +49,7 @@ Balandžio 27 d. Šimonių miške žuvo Birutė Kiaulevičiūtė-Neužmirštuol�
   santrauka: 'Birutė Kiaulevičiūtė-Neužmirštuolė buvo nukauta Šimonių miške balandžio 27 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

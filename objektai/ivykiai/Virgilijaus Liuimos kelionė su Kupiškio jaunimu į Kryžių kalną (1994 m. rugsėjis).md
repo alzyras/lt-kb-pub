@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1994 m. rugsėjį kunigas Virgilijus Liuima su Kupiškio jaunimu vyko į Kryžių kalną dalyvauti teletilte, surengtame minint Šventojo Tėvo apsilankymo Lietuvoje metines.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 554 (PDF 555)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 554 (PDF 555)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Dailės istorikė Regimanta Stankevičienė analizavo Nukryžiuotojo figūros pl
   santrauka: 'Dailės istorikė Regimanta Stankevičienė analizavo Nukryžiuotojo figūros plastiką ir patvirtino, kad tai vienas įspūdingiausių XVII a. Išganytojo kančią vaizduojančių kūrinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 216 (PDF 217)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 216 (PDF 217)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

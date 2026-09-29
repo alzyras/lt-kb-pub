@@ -51,6 +51,7 @@ Algimanto apygardai vadovavo Antanas Slučka-Šarūnas (1947 m. gegužė - 1948 
   santrauka: '1947 m. gegužės 1 d. Šiaurės rytų partizanų srities vadų suvažiavime nutarta įkurti Algimanto apygardą, kurios vadu paskirtas Antanas Slučka-Šarūnas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 615 (PDF 616)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 615 (PDF 616)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ Algimanto apygardai vadovavo Antanas Slučka-Šarūnas (1947 m. gegužė - 1948 
   santrauka: '1949 m. spalio 27 d. Anykščių valsčiaus Andrioniškio apylinkėse apsupti Antanas Slučka-Šarūnas, jo žmona Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys susisprogdino.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -63,6 +63,7 @@ Ichtiologiniai tyrimai Kupiškio mariose atlikti dviejose stotyse – ties Pajuo
   santrauka: 'Kupiškio marių žuvingumas viršija 130 kg/ha, o Egidijus Bukelskis jas apibūdina kaip vieną produktyviausių Lietuvos vandens telkinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 96 (PDF 97)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 96 (PDF 97)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -81,4 +82,3 @@ Ichtiologiniai tyrimai Kupiškio mariose atlikti dviejose stotyse – ties Pajuo
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

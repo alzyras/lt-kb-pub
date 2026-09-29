@@ -62,4 +62,3 @@ Danutė Baronienė straipsnyje „Ugniagesiai ir jų veikla Kupiškio krašte (I
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

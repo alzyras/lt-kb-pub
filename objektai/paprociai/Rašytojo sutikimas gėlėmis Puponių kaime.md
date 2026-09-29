@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Puponių kaimo vaikai, Baltušiui atvykstant, laukdavo jo prie pieninės su glėbiais gėlių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1130 (PDF 1131)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1130 (PDF 1131)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

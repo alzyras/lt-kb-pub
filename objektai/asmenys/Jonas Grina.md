@@ -49,6 +49,7 @@ canonical_biography: "Jonas Grina 1833 m. Kupiškio bažnyčioje vedė Konstanci
   santrauka: '1833 m. Jonas Grina Kupiškio bažnyčioje vedė iš Rekučių kaimo kilusią Konstanciją, kuriai dar nebuvo sukakę 17 metų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 194 (PDF 195)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 194 (PDF 195)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

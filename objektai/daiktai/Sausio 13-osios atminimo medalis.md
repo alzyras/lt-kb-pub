@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Sausio 13-osios atminimo medaliais buvo apdovanoti 25 kupiškėnai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 867 (PDF 868)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 867 (PDF 868)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

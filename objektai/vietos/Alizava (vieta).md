@@ -76,6 +76,7 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Ku
   santrauka: 'Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 398 (PDF 399)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 398 (PDF 399)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,6 +91,7 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Ku
   santrauka: 'Romo Petronio būrys daugiausia veikė Alizavos apylinkėse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 403 (PDF 404)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 403 (PDF 404)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -101,6 +103,7 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Ku
   santrauka: 'Alizavos viešajai bibliotekai vadovavo Albinas Mickevičius; joje buvo 1 346 knygos ir 190 skaitytojų, o per mėnesį vidutiniškai išduodavo 200 knygų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -112,6 +115,7 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Ku
   santrauka: 'Alizavos biblioteka atiteko Vabalninko rajonui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 797 (PDF 798)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 797 (PDF 798)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -123,6 +127,7 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Ku
   santrauka: 'Kun. Kazimieras Mockus buvo Alizavos klebonas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 919 (PDF 920)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 919 (PDF 920)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -141,4 +146,3 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Ku
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

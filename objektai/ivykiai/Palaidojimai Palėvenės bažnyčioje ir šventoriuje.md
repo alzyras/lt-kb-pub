@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Už 1765 m. Palėvenės bažnyčios šventoriuje palaidotos Žemaičių seniūno žmonos tarnaitės laidotuves dominikonams sumokėta tik 6 auksinai ir 10 grašių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 223 (PDF 224)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 223 (PDF 224)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

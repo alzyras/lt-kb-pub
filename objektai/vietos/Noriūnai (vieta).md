@@ -74,6 +74,7 @@ Noriūnuose iš dolomito plokščių buvo pastatyti kumetynas ir du bokštai. Jo
   santrauka: 'Noriūnuose iš dolomito plokščių buvo pastatyti kumetynas ir du bokštai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 12 (PDF 13)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 12 (PDF 13)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,6 +84,7 @@ Noriūnuose iš dolomito plokščių buvo pastatyti kumetynas ir du bokštai. Jo
   santrauka: 'Jonas Bucholcas XVIII a. trečiajame dešimtmetyje tapo Noriūnų dvaro savininku.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 227 (PDF 228)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 227 (PDF 228)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,6 +96,7 @@ Noriūnuose iš dolomito plokščių buvo pastatyti kumetynas ir du bokštai. Jo
   santrauka: '2010 m. Noriūnų Jono Černiaus pagrindinės mokyklos mokiniai ir tikybos mokytoja Inga Paugienė pristatė kalėdinių sveikinimų parodą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 252 (PDF 253)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 252 (PDF 253)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,6 +108,7 @@ Noriūnuose iš dolomito plokščių buvo pastatyti kumetynas ir du bokštai. Jo
   santrauka: 'Noriūnų dvaro žemių sausinimą liudija iki šiol išlikę medinio drenažo fragmentai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 692 (PDF 693)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 692 (PDF 693)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -116,6 +120,7 @@ Noriūnuose iš dolomito plokščių buvo pastatyti kumetynas ir du bokštai. Jo
   santrauka: 'Genė Inčiurienė gimė 1928 m. Noriūnuose, o įraše jos dabartinė gyvenamoji vieta nurodyta kaip Kupiškis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 920 (PDF 921)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 920 (PDF 921)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -134,4 +139,3 @@ Noriūnuose iš dolomito plokščių buvo pastatyti kumetynas ir du bokštai. Jo
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

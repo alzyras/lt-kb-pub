@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Leidybos redaktorės kompiuteryje buvo laikraščio gamybos ištekliai, įskaitant autorių pateiktus rašinius ir skaitmeninį archyvą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 839 (PDF 840)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 839 (PDF 840)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

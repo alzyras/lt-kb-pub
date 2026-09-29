@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Respublikos Krasinskių rūmai"]
 sameAs: []
 canonical_biography: "Respublikos Krasinskių rūmuose Varšuvoje vyko iškilmingas Karūnos ir Lietuvos iždo komisijų susiliejimo posėdis."
+place_authority: true
+historical_names: []
 ---
 # Respublikos Krasinskių rūmai
 

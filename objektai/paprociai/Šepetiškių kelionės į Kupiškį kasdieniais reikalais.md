@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Dalis Šepetiškių durpyno darbuotojų gyveno Kupiškyje, o į rajono centrą dažniausiai vykdavo pėsčiomis, dviračiais, motociklais, pakeleivingomis mašinomis ar arklių traukiamais vežimais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 115 (PDF 116)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 115 (PDF 116)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Tam tikru laikotarpiu tarp Kupiškio ir Šepetos kursavo autobusas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 115 (PDF 116)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 115 (PDF 116)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

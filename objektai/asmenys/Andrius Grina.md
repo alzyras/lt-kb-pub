@@ -63,6 +63,7 @@ Andrius Grina gyveno Liudiškiuose, vėliau – Migonyse ir Grubų užusienyje n
   santrauka: 'Andriaus Grinos sūnus Laurynas 1843 m. vedė iš Migonių kilusią Marijoną Pavilonytę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 194 (PDF 195)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 194 (PDF 195)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Andrius Grina gyveno Liudiškiuose, vėliau – Migonyse ir Grubų užusienyje n
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

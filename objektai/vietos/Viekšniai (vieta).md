@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-55c95cd220eebdc17e7b1472
-canonical_name: Viekšniai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Viekšniai
-  - Viekšniai (vieta)
+entity_id: "ent-55c95cd220eebdc17e7b1472"
+canonical_name: "Viekšniai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viekšniai","Viekšniai (vieta)"]
 sameAs: []
-canonical_biography: Viekšnių bažnyčia buvo statoma visų parapijiečių rūpesčiu ir aukomis.
+canonical_biography: "Viekšnių bažnyčia buvo statoma visų parapijiečių rūpesčiu ir aukomis."
 place_authority: true
 historical_names: []
 ---

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Maždaug nuo XX a. 5–7-ojo dešimtmečių Lietuvoje plito betoniniai kryžiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 989 (PDF 990)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 989 (PDF 990)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Maždaug nuo XX a. 5-ojo iki 9-ojo dešimtmečių betoniniai kryžiai tęsė akmeninių kryžių tradiciją, nors buvo naudojama kita medžiaga.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 990 (PDF 991)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 990 (PDF 991)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

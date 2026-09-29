@@ -43,6 +43,7 @@ Juozas Mikėnas-Žvirblis 1944 m. spalį suorganizavo apie 30 partizanų būrį,
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ pateikia pažymos duomenis: 1946 m. žuvus Juozui Mikėnui-Žvirbliui, būrio vadu tapo Antanas Gūra-Varnas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 106"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 106."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,4 +62,3 @@ Juozas Mikėnas-Žvirblis 1944 m. spalį suorganizavo apie 30 partizanų būrį,
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

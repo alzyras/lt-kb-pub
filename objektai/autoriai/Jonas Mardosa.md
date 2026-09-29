@@ -50,6 +50,7 @@ Etnologo Jono Mardosos nuomone, liaudiškasis pamaldumas gali reikštis nuo Baž
   santrauka: 'Jonas Mardosa įvardijamas etnologu, nagrinėjančiu liaudiškojo pamaldumo problemą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 893 (PDF 894)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 893 (PDF 894)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

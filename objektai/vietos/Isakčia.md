@@ -59,3 +59,16 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-213975"></a>
+- t-001
+  teiginys: "Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai kams."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+

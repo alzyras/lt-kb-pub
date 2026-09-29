@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ef69542a8203a992828f1f93
-canonical_name: Žemaičių (Telšių) vyskupystė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Žemaičių (Telšių) vyskupystė
+entity_id: "ent-ef69542a8203a992828f1f93"
+canonical_name: "Žemaičių (Telšių) vyskupystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemaičių (Telšių) vyskupystė"]
 sameAs: []
-canonical_biography: Blaivybės brolijų tinklas buvo išsiskleidęs visoje Žemaičių (Telšių) vyskupystėje. Vyskupo instrukcija buvo išsiųsta visiems Žemaičių (Telšių) vyskupystės klebonams ir filianistams.
+canonical_biography: "Blaivybės brolijų tinklas buvo išsiskleidęs visoje Žemaičių (Telšių) vyskupystėje. Vyskupo instrukcija buvo išsiųsta visiems Žemaičių (Telšių) vyskupystės klebonams ir filianistams."
 place_authority: true
 historical_names: []
 ---

@@ -37,6 +37,7 @@ canonical_biography: "1944 m. gruodžio 21–22 d. Juostininkų miške buvusiame
   santrauka: '1944 m. gruodžio 21–22 d. naktį Juostininkų miške kronikoje aprašyta čekistų operacija rėmėsi agento „Kazbek“ duomenimis apie bunkeryje besislapstantį Kazio Šaučiūno vadovaujamą 15 partizanų būrį; per operaciją žuvo 12 partizanų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 58"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 58."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ canonical_biography: "1944 m. gruodžio 21–22 d. Juostininkų miške buvusiame
   santrauka: 'Po Stepono Jočio-Barzdos (bylos duomenimis – Vytauto Jočio-Barzdos) žūties 1946 m. birželio 7 d. Vytautas Kujelavičius-Nemunėlis perėmė partizanų būrio vadovavimą ir 1946 m. lapkričio 22 d. žuvo Juostininkų miške.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 168"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 168."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -55,6 +57,7 @@ canonical_biography: "1944 m. gruodžio 21–22 d. Juostininkų miške buvusiame
   santrauka: 'Partizanų būrio vado Vytauto Kujelavičiaus-Nemunėlio nušovimą 1946 m. lapkričio 22 d. Juostininkų miške kronika sieja su karine čekistų operacija.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 210"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 210."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

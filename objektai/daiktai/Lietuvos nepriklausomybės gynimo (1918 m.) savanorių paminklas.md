@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Aktyviausi visuomenininkai spalio 29 d. sutvarkė Lietuvos nepriklausomybės gynimo (1918 m.) savanorių paminklo aplinką.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 853 (PDF 854)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 853 (PDF 854)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

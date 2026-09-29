@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kunigams buvo draudžiama šventinti Sąjungos vėliavas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 407 (PDF 408)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 407 (PDF 408)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

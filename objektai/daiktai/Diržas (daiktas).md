@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'V. Liovė pasirodė švarką persijuosęs plačiu diržu, prie kurio buvo pistoletas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 582 (PDF 583)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 582 (PDF 583)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

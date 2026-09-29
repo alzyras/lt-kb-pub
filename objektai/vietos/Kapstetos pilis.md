@@ -21,15 +21,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-cf9499d8d91113363363af63
-canonical_name: Kapstetos pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kapstetos pilis
+entity_id: "ent-cf9499d8d91113363363af63"
+canonical_name: "Kapstetos pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kapstetos pilis"]
 sameAs: []
-canonical_biography: Karaliaučiaus komtūro vadovaujama kariuomenė užkariavo Kapstetos pilį ir ją pavertė pelenais.
+canonical_biography: "Karaliaučiaus komtūro vadovaujama kariuomenė užkariavo Kapstetos pilį ir ją pavertė pelenais."
+place_authority: true
+historical_names: []
 ---
 # Kapstetos pilis
 

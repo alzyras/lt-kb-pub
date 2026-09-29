@@ -49,6 +49,7 @@ Renė Sankauskienės duomenimis, 1959 m. Šepetos pelkėje Kazys Brunza buvo apt
   santrauka: '1959 m. Šepetos pelkėje mokslininkas Kazys Brunza buvo aptikęs beržo keružio ir plaukuotojo beržo bei beržo keružio ir liekninio beržo hibridus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 107 (PDF 108)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 107 (PDF 108)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -58,6 +58,7 @@ Nenurodyta
   santrauka: 'Sieniniai paveikslai buvo platinami dirbtuvių parduotuvėse, knygynuose, per knygnešius, keliaujančius prekeivius ir dvasininkus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 671 (PDF 672)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 671 (PDF 672)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,4 +83,3 @@ XIX a. pabaigoje–XX a. pradžioje sieniniai religiniai paveikslai daugiausia p
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

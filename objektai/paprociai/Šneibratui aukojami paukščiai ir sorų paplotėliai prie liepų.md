@@ -65,6 +65,17 @@ Nenurodyta
   pagrindžia:
     - c-172769
 
+<a id="claim-t-216749"></a>
+- t-216749
+  teiginys: "Narbutas Šneibratą apibūdina kaip paukščių ūkio ir medžioklės dievą, kuriam daugiausia aukotos vištos, antys, balandžiai ir povai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-172768

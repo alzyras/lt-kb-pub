@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-973982e8ef2ab4c6e3ea1310
-canonical_name: Platelių valsčius
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Platelių valsčius
+entity_id: "ent-973982e8ef2ab4c6e3ea1310"
+canonical_name: "Platelių valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Platelių valsčius"]
 sameAs: []
-canonical_biography: 'Ypač jis globojo Platelių valsčių, ku riame ir buvusi toji legendinė pilis.'
+canonical_biography: "Ypač jis globojo Platelių valsčių, ku riame ir buvusi toji legendinė pilis."
+place_authority: true
+historical_names: []
 ---
 # Platelių valsčius
 

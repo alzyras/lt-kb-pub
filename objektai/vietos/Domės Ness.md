@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5f7cf58b919abfaef287da0e
-canonical_name: Domės Ness
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Domės Ness
+entity_id: "ent-5f7cf58b919abfaef287da0e"
+canonical_name: "Domės Ness"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Domės Ness"]
 sameAs: []
-canonical_biography: 'Jūra nuo Dauguvos žiočių iki Domės Ness kyšulio buvo pasiglemžusi daug sausumos, ypač tarp kyšulio ir Engūrės ežero.'
+canonical_biography: "Jūra nuo Dauguvos žiočių iki Domės Ness kyšulio buvo pasiglemžusi daug sausumos, ypač tarp kyšulio ir Engūrės ežero."
+place_authority: true
+historical_names: []
 ---
 # Domės Ness
 

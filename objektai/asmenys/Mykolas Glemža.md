@@ -51,6 +51,7 @@ Mykolas Glemža buvo vaistininkas, kurio namuose Kupiškyje 1919–1926 m. veik�
   santrauka: 'Mykolas Glemža buvo vaistininkas, kurio namuose Kupiškyje 1919–1926 m. veikė jaunimo organizacija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 788 (PDF 789)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 788 (PDF 789)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

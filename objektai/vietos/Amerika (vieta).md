@@ -34,17 +34,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-13e7e1aa7c19c7fbce1cea79
-canonical_name: Amerika (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Amerika
-  - Amerika (vieta)
-sameAs:
-  - 'https://www.wikidata.org/entity/Q828'
-canonical_biography: 'Ir mums pri sėjo vienų-vieniems apleisti Amerikos angas. Jeigu kas nors iš lietuvių gyvenančių Ame rikoje panorėtų sušelpti savo gimines Lietuvo je gali tai padaryti šitokiu būdu: Kreipties Amerikoie pas ispanų konsulį ir pareikalauti, kad jisai persiųstų pinigus Lietuvon, užimton vokiečių. Jisai sunervuotas grįžo Amerikon.'
+entity_id: "ent-13e7e1aa7c19c7fbce1cea79"
+canonical_name: "Amerika (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Amerika","Amerika (vieta)"]
+sameAs: ["https://www.wikidata.org/entity/Q828"]
+canonical_biography: "Ir mums pri sėjo vienų-vieniems apleisti Amerikos angas. Jeigu kas nors iš lietuvių gyvenančių Ame rikoje panorėtų sušelpti savo gimines Lietuvo je gali tai padaryti šitokiu būdu: Kreipties Amerikoie pas ispanų konsulį ir pareikalauti, kad jisai persiųstų pinigus Lietuvon, užimton vokiečių. Jisai sunervuotas grįžo Amerikon."
+place_authority: true
+historical_names: []
 ---
 # Amerika (vieta)
 

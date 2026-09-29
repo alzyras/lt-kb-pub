@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1960 m. liepos 25 d. Palėvenės bažnyčios komitetas, dalyvaujant buvusiam klebonui Pranciškui Masilioniui, perdavė naujam klebonui Jonui Uogintui bažnyčios inventorių ir statybines medžiagas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 245 (PDF 246)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 245 (PDF 246)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

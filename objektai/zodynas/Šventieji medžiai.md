@@ -75,6 +75,18 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
     - c-198995
     - c-199146
 
+<a id="claim-t-216787"></a>
+- t-216787
+  teiginys: "Turime kažkokį aprašymą šio medžio, kurį Bo leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin kai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200210
+
 ## Citatos
 
 - id: c-172079
@@ -201,4 +213,6 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216787
 

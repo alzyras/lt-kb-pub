@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Vietos architektai nurodė daugelį metų bendradarbiavę su Vilniaus inžinerinio statybos instituto Architektūros katedra ir gavę, jų vertinimu, vertingų pasiūlymų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 756 (PDF 757)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 756 (PDF 757)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

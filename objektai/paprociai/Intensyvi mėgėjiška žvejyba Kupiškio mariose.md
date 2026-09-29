@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio marių žuvų ištekliai, nors intensyviai naudojami mėgėjų žvejybai, nebuvo nualinti, o jų apskaičiuotas kiekis visame marių plote buvo gana didelis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 94 (PDF 95)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 94 (PDF 95)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Kupiškio marių lydekų kiekis apibūdintas kaip pernelyg mažas dėl intensyvios mėgėjiškos žvejybos, nors lydekų amžius įvairus, o vyrauja 4–5 metų žuvys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 95 (PDF 96)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 95 (PDF 96)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

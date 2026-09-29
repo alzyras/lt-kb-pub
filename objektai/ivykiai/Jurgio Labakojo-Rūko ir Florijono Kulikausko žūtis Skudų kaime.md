@@ -56,6 +56,7 @@ Nenurodyta
   santrauka: 'Po Jurgio Labakojo-Rūko žūties 1947 m. balandžio 11 d. Vladas Petronis-Klevas tapo partizanų būrio vadu ir veikė Subačiaus bei Kupiškio valsčiuose.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 219"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 219."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -74,4 +75,3 @@ Nenurodyta
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

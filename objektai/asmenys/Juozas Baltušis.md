@@ -64,6 +64,7 @@ Prieš rašydamas galutinę romano „Parduotos vasaros“ redakciją, Juozas Ba
   santrauka: 'Donata Jutkienė rašė, kad Juozas Baltušis ir jo romanas buvo tarsi paskata skulptūrinei grupei „Piemenukas“ atsirasti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1140 (PDF 1141)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1140 (PDF 1141)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -75,6 +76,7 @@ Prieš rašydamas galutinę romano „Parduotos vasaros“ redakciją, Juozas Ba
   santrauka: 'Baltušis lankydavosi Kupiškyje susitikti su skaitytojais ir pristatyti knygų; jubiliejus švęsdavo Kupiškyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1165 (PDF 1166)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1165 (PDF 1166)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -84,6 +86,7 @@ Prieš rašydamas galutinę romano „Parduotos vasaros“ redakciją, Juozas Ba
   santrauka: 'Juozas Baltušis dalyvaudavo visuose jubiliejiniuose spektakliuose ir scenoje dainuodavo greta Piršlio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1166 (PDF 1167)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1166 (PDF 1167)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,4 +105,3 @@ Prieš rašydamas galutinę romano „Parduotos vasaros“ redakciją, Juozas Ba
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

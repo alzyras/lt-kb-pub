@@ -41,6 +41,7 @@ Dumplinių instrumentų muzikantas Feliksas Gasparionis grieždavo kartu su A. K
   santrauka: 'Dumplinių instrumentų muzikantas Feliksas Gasparionis grieždavo kartu su A. Kriūka.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1073 (PDF 1074)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1073 (PDF 1074)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -52,6 +52,7 @@ Po Antrojo pasaulinio karo apdegusi Palėvenės bažnyčia remontuota klebono Pr
   santrauka: '1952 m. Pranciškus Masilionis paskirtas Palėvenės parapijos administratoriumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 314 (PDF 315)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 314 (PDF 315)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

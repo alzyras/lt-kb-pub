@@ -47,6 +47,7 @@ Pazvanų metu skambinama maždaug 30–40 kartų, sustojant ir laikantis Viešpa
   santrauka: 'Pazvanų metu skambinama maždaug 30–40 kartų, sustojant ir laikantis Viešpaties Angelo maldos ritmo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1000-1001 (PDF 1001-1002)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1000-1001 (PDF 1001-1002)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,6 +34,7 @@ Posakis išreiškia, kad Kristaus kryžius turi būti įspaustas į kiekvieno ti
   santrauka: 'Posakis išreiškia, kad Kristaus kryžius turi būti įspaustas į kiekvieno tikinčiojo širdį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 269 (PDF 270)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 269 (PDF 270)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

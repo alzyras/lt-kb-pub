@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-664478dd8a0d9db8a7a886a8
-canonical_name: Sasavos pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Sasavos pilis
+entity_id: "ent-664478dd8a0d9db8a7a886a8"
+canonical_name: "Sasavos pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sasavos pilis"]
 sameAs: []
-canonical_biography: Brolis Konradas iš Tirbergo su kariuomene užėmė ir sudegino Sasavos pilį.
+canonical_biography: "Brolis Konradas iš Tirbergo su kariuomene užėmė ir sudegino Sasavos pilį."
+place_authority: true
+historical_names: []
 ---
 # Sasavos pilis
 

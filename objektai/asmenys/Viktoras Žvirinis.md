@@ -49,6 +49,7 @@ canonical_biography: "Liovė paskyrė Viktorą ŽvirinÒ."
   santrauka: '1941 m. liepos pabaigoje komendantas V. Liovė paskyrė Viktorą Žvirinį prižiūrėti ir tvarkyti žydų turtą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

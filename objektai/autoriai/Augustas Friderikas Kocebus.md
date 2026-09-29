@@ -24,16 +24,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-87360853f0bf9676fa928eed
-canonical_name: Augustas Friderikas Kocebus
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Augustas Friderikas Kocebus
+entity_id: "ent-87360853f0bf9676fa928eed"
+canonical_name: "Augustas Friderikas Kocebus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Augustas Friderikas Kocebus"]
 sameAs: []
-canonical_biography: Augustas Friderikas Kocebus (1761–1819) buvo vokiečių literatas ir Rusijos imperatoriaus dvariškis.
+canonical_biography: "Augustas Friderikas Kocebus (1761–1819) buvo vokiečių literatas ir Rusijos imperatoriaus dvariškis."
 ---
 # Augustas Friderikas Kocebus
 

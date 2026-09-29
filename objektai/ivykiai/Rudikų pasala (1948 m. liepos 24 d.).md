@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: '1948 m. liepos 24 d. Rudikų kaime per pasalą kareiviai apšaudė tris partizanus; partizanas Vytautas Laužikas žuvo, o kiti du pabėgo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 314"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 314."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

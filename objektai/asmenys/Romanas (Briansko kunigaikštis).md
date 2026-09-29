@@ -103,6 +103,16 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   pagrindžia:
     - c-188325
 
+<a id="claim-t-211703"></a>
+- t-211703
+  teiginys: "O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas.'

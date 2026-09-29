@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1944 m. lapkričio 7-osios naktį į 8-ąją 20–25 Alfonso Augulio vadovaujami partizanai užpuolė Skapiškio vykdomąjį komitetą, paėmė dvi rašomąsias mašinėles ir dokumentus bei pasitraukė.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 112"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 112."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

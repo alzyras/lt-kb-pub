@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: '1746 m. pastatyta medinė kryžiaus plano Mykolo Arkangelo titulo bažnyčia.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 263 (PDF 264)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 263 (PDF 264)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -64,6 +65,7 @@ Nenurodyta
   santrauka: 'Kupiškio bažnyčia buvo didelė medinė, kryžiaus plano, turėjo dvi koplyčias ir 13 langų, lentų bei akmenų grindis ir lentų lubas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 263 (PDF 264)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 263 (PDF 264)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -75,6 +77,7 @@ Nenurodyta
   santrauka: 'Dalia Klajumienė senosios Kupiškio bažnyčios statybą ar perstatymą sieja su klasicizmu, o remdamasi istorine nuotrauka įžvelgia ir baroko įtaką jos architektūrai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 264 (PDF 265)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 264 (PDF 265)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

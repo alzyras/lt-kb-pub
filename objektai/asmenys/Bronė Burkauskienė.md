@@ -72,4 +72,3 @@ Bronė Burkauskienė dirbo bibliotekininke Šimonyse 1955–1989 m.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

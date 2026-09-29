@@ -41,6 +41,7 @@ canonical_biography: "Didžiausią užeigų tinklą turėjo Šlomas Kaplanas alu
   santrauka: 'Šlomas Kaplanas turėjo didžiausią užeigų tinklą, kurį sudarė šešios aludės ir krautuvė, kurioje buvo prekiaujama išsinešti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 572 (PDF 573)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 572 (PDF 573)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

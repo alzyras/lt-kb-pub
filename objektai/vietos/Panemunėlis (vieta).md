@@ -56,6 +56,7 @@ Kunigas K. Mockus, anksčiau tarnavęs Kupiškio vikaru, vėliau buvo Alizavos i
   santrauka: 'Kunigas K. Mockus, anksčiau tarnavęs Kupiškio vikaru, vėliau buvo Alizavos ir Panemunėlio klebonas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 401 (PDF 402)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 401 (PDF 402)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Leono Stančiko sodyboje Naivių kaime buvo vienas iš Juozo Jankausko-Pilsudski
   santrauka: 'Leono Stančiko sodyboje Naivių kaime buvo vienas iš Juozo Jankausko-Pilsudskio būrio bunkerių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 623 (PDF 624)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 623 (PDF 624)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

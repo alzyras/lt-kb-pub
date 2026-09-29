@@ -63,6 +63,7 @@ Silvestras Gabrėnas 1804 m. Kupiškio bažnyčioje vedė Oną Kėdainytę iš M
   santrauka: 'Silvestrui Gabrėnui 1812 m. gimė duktė Pranciška.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 192 (PDF 193)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 192 (PDF 193)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Silvestras Gabrėnas 1804 m. Kupiškio bažnyčioje vedė Oną Kėdainytę iš M
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

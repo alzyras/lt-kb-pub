@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-aefe9d36b65add73a1a7f2a3
-canonical_name: Airija (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Airija
-  - Airija (vieta)
+entity_id: "ent-aefe9d36b65add73a1a7f2a3"
+canonical_name: "Airija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Airija","Airija (vieta)"]
 sameAs: []
-canonical_biography: 'Nenuostabu, kad blaivybės brolijų veikla surado Airijoje tinkamą dirvą.'
+canonical_biography: "Nenuostabu, kad blaivybės brolijų veikla surado Airijoje tinkamą dirvą."
 place_authority: true
 historical_names: []
 ---

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Pirmą kartą laukan išleidžiami paukščiai būdavo varomi pro rato stebulę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 931 (PDF 932)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 931 (PDF 932)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

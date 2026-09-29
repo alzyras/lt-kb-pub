@@ -64,6 +64,7 @@ Kazys Valentėlis ir Vytautas Valentėlis dažniausiai būdavo su Broniumi Mikon
   santrauka: 'Kazys Valentėlis-Pavasaris kronikoje nurodytas kaip eilinis.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 403"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 403."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,4 +95,3 @@ Kazys Valentėlis ir Vytautas Valentėlis dažniausiai būdavo su Broniumi Mikon
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

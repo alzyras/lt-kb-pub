@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3102fa03db601e43cd194dd1
-canonical_name: Grūšlaukis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Grūšlaukis
-  - Grūšlaukis (vieta)
+entity_id: "ent-3102fa03db601e43cd194dd1"
+canonical_name: "Grūšlaukis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grūšlaukis","Grūšlaukis (vieta)"]
 sameAs: []
-canonical_biography: Grūšlaukio parapijai1 5 Maja 1861 N 1274.
+canonical_biography: "Grūšlaukio parapijai1 5 Maja 1861 N 1274."
 place_authority: true
 historical_names: []
 ---

@@ -39,6 +39,7 @@ Kupiškio mieste ir kaimuose karčemos bei aludės minimos nuo XVI a. pabaigos; 
   santrauka: 'Kupiškio mieste ir kaimuose karčemos bei aludės minimos nuo XVI a. pabaigos; jos veikė prie kelių, sankryžų ir kaimų galulaukėse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 728 (PDF 729)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 728 (PDF 729)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,6 +51,7 @@ Kupiškio mieste ir kaimuose karčemos bei aludės minimos nuo XVI a. pabaigos; 
   santrauka: 'Karčemas kaip pelningas įmones steigti ir laikyti galėjo tik pasaulietiniai ir bažnytiniai dvarai bei vienuolynai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 728 (PDF 729)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 728 (PDF 729)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

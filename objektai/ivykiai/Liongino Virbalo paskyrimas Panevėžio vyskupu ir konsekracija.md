@@ -64,6 +64,7 @@ Nenurodyta
   santrauka: '2013 m. rugpjūčio 14 d. Panevėžio Kristaus Karaliaus katedroje vyko Liongino Virbalo vyskupo šventimų ir ingreso iškilmės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 424 (PDF 425)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 424 (PDF 425)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,4 +89,3 @@ Nenurodyta
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

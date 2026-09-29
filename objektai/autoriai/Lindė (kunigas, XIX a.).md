@@ -28,17 +28,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9daf90c7590c6ebc051f6773
-canonical_name: 'Lindė (kunigas, XIX a.)'
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Lindė
-  - 'Lindė (kunigas, XIX a.)'
+entity_id: "ent-9daf90c7590c6ebc051f6773"
+canonical_name: "Lindė (kunigas, XIX a.)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lindė","Lindė (kunigas, XIX a.)"]
 sameAs: []
-canonical_biography: 'Pasiremsime tiktai Faterio, Lindės ir Bole- .'
+canonical_biography: "Pasiremsime tiktai Faterio, Lindės ir Bole- ."
 ---
 # Lindė (kunigas, XIX a.)
 

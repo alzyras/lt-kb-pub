@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6a456f46d0e50cf2586eca90
-canonical_name: Telšių pavietas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Telšių pavietas
+entity_id: "ent-6a456f46d0e50cf2586eca90"
+canonical_name: "Telšių pavietas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Telšių pavietas"]
 sameAs: []
-canonical_biography: 'Telšių pavietas minimas dėl pavieto maršalkos, išdalijusio knygoms gauti bilietus.'
+canonical_biography: "Telšių pavietas minimas dėl pavieto maršalkos, išdalijusio knygoms gauti bilietus."
 place_authority: true
 historical_names: []
 ---

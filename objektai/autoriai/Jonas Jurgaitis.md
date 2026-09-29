@@ -41,6 +41,7 @@ Kun. Jonas Jurgaitis knygoje „Aukos keliu“ nurodė, kad kun. Stasio Gruodži
   santrauka: 'Kun. Jonas Jurgaitis knygoje „Aukos keliu“ nurodė, kad kun. Stasio Gruodžio knyga „Laikykis įsakymų“ neaiškiomis aplinkybėmis pateko pas parapijietį, kuris pranešė saugumo organų atstovams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 459 (PDF 460)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 459 (PDF 460)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

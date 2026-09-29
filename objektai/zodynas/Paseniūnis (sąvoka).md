@@ -46,6 +46,7 @@ media_all_json: |-
   santrauka: '1581–1596 m. Kupiškio vietininku (paseniūniu) buvo Grigalius Kaptis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 138 (PDF 139)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 138 (PDF 139)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Mažeika nuo 1762 m. rugsėjo iki 1766 m. gegužės dirbo prie Palėvenės bažnyčios kairiosios koplyčios Jėzaus Kristaus altoriaus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 220 (PDF 221)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 220 (PDF 221)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

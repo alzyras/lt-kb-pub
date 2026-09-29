@@ -41,6 +41,7 @@ Elena Šerelienė prisiminė, kad Juozas Baltušis dalyvaudavo jubiliejiniuose s
   santrauka: 'Elena Šerelienė prisiminė, kad Juozas Baltušis dalyvaudavo jubiliejiniuose spektakliuose ir, užlipęs į sceną, dainuodavo „Oi tu strazdėli“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1128 (PDF 1129)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1128 (PDF 1129)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

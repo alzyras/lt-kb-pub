@@ -45,6 +45,7 @@ media_all_json: |-
   santrauka: 'Nuo 1951 m. Kupiškio ugniagesių komanda priklausė VRM Šiaulių apskrities Priešgaisrinės apsaugos inspekcijai, vėliau – Kupiškio rajono vykdomojo komiteto Komunalinio ūkio skyriui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 683 (PDF 684)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 683 (PDF 684)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

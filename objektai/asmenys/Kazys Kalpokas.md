@@ -51,6 +51,7 @@ Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o t�
   santrauka: 'Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o tų metų spalį Girsteikių miške jam pavesta vadovauti Kupreliškio valsčiaus partizanams, kurių būrys vadintas „Kupreliškiečių“ būriu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 131-132"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 131-132."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o t�
   santrauka: '1946 m. Kazys Kalpokas, įsigijęs fiktyvius Boliaus Rabašausko dokumentus, pasitraukė iš būrio ir gyveno legaliai; 1950 m. kovą Kalpokas pabėgo, kai buvo etapais vežamas į Vilnių, apsigyveno Rygoje, o 1951 m. gruodžio 7 d. vėl buvo suimtas ir nuteistas sušaudyti.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 132"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 132."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,6 +71,7 @@ Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o t�
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Kazio Kalpoko 1944 m. gruodžio 12 d. Panemunio puolimą sieja su žinia apie rengiamą lietuvių tremtį į Sibirą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 148"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 148."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +81,7 @@ Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o t�
   santrauka: 'Pasak Onos Dapšytės-Kriukelienės kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“, partizanai Kazį Kalpoką vadino kapitonu; Kazys Kalpokas kaimuose platino antisovietinius lapelius, o jo grupė išpuolius vykdė Kazio Kalpoko įsakymu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 153"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 153."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,4 +100,3 @@ Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o t�
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

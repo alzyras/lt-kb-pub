@@ -27,15 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-787c107c8b8a16eb8a4cb3c9
-canonical_name: Martynas Goštautas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Martynas Goštautas
+entity_id: "ent-noble-787c107c8b8a16eb8a4cb3c9"
+canonical_name: "Martynas Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Goštautas"]
 sameAs: []
-canonical_biography: Martynas Goštautas - Goštautai giminės atstovas.
+canonical_biography: "Martynas Goštautas - Goštautai giminės atstovas."
 ---
 # Martynas Goštautas
 

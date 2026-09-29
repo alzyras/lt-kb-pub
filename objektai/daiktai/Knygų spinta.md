@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Eugenija Lukošienė prisiminė, kad trys knygų spintos buvo pilnos knygų, kurias B. Juodzevičius iš Paketurių kaimo tvarkė ir sekmadieniais po pamaldų išduodavo į namus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 788 (PDF 789)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 788 (PDF 789)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -24,16 +24,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3176ef376fffd5e335d75a86
-canonical_name: J. Ochmanskis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. Ochmanskis
+entity_id: "ent-3176ef376fffd5e335d75a86"
+canonical_name: "J. Ochmanskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Ochmanskis"]
 sameAs: []
-canonical_biography: 'Ochmanskis neneigia kronikos ryšio su kunigaikš čiais Olelkaičiais, bet mano, kad jų aplinkoje apie 1510—1514 m. buvo sukurtas tik Aleksandro valdymo aprašymas; goštautinę kronikos medžiagą — pasakoji mą apie Kazimiero Jogailaičio valdymo pradžią (1440—.'
+canonical_biography: "Ochmanskis neneigia kronikos ryšio su kunigaikš čiais Olelkaičiais, bet mano, kad jų aplinkoje apie 1510—1514 m. buvo sukurtas tik Aleksandro valdymo aprašymas; goštautinę kronikos medžiagą — pasakoji mą apie Kazimiero Jogailaičio valdymo pradžią (1440—."
 ---
 # J. Ochmanskis
 

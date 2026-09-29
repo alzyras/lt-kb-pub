@@ -27,16 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-56f99968e042b5e65442577c
-canonical_name: Kamajai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kamajai
-  - Kamajai (vieta)
+entity_id: "ent-56f99968e042b5e65442577c"
+canonical_name: "Kamajai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kamajai","Kamajai (vieta)"]
 sameAs: []
-canonical_biography: 'Iš jų vienuolika skirti atskiroms parapijoms: Balninkų, Brunavos, Butkiškės, Grinkiškio, Grūšlaukės, Kamajų bei Skapiškio (šis laiškas buvo iš siųstas taip pat Rietavo ir Veliuonos dekanatų parapi joms), Kartenos, Kupiškio, Plungės, Tytuvėnų ir Kuršo. Skapiškio bei Kamajų parapijoms.'
+canonical_biography: "Iš jų vienuolika skirti atskiroms parapijoms: Balninkų, Brunavos, Butkiškės, Grinkiškio, Grūšlaukės, Kamajų bei Skapiškio (šis laiškas buvo iš siųstas taip pat Rietavo ir Veliuonos dekanatų parapi joms), Kartenos, Kupiškio, Plungės, Tytuvėnų ir Kuršo. Skapiškio bei Kamajų parapijoms."
 place_authority: true
 historical_names: []
 ---

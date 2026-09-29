@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Pasak Dalios Klajumienės, 1757–1766 m. antrojoje Palėvenės bažnyčios šoninėje koplyčioje pastačius Rožinio Švč. Mergelės Marijos altorių, koplyčia, anksčiau vadinta Šv. Mykolo vardu, XVIII a. pabaigoje imta vadinti Rožinio Švč. Mergelės vardu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 227 (PDF 228)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 227 (PDF 228)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

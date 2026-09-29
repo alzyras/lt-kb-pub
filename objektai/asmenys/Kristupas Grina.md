@@ -37,6 +37,7 @@ Mikniūnų revizijos įraše Kristupas Grina įvardytas tarp dviejų dūmų tur�
   santrauka: 'Mikniūnuose buvo du dūmai, priskirti Kristupui Grinai ir Jokūbui Zubui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 163 (PDF 164)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 163 (PDF 164)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

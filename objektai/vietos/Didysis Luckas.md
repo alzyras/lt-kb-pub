@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3423460ff5086b7e5e0e9701
-canonical_name: Didysis Luckas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Didysis Luckas
+entity_id: "ent-3423460ff5086b7e5e0e9701"
+canonical_name: "Didysis Luckas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didysis Luckas"]
 sameAs: []
-canonical_biography: 'Vytautas, būdamas savo pilyje Didžiajame Lucke, pasiuntė pasiuntinius pas Vengrų karalių.'
+canonical_biography: "Vytautas, būdamas savo pilyje Didžiajame Lucke, pasiuntė pasiuntinius pas Vengrų karalių."
+place_authority: true
+historical_names: []
 ---
 # Didysis Luckas
 

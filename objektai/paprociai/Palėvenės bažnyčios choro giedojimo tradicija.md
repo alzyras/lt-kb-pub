@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Pirmaisiais G. Lauciutės vadovavimo metais Palėvenės bažnyčios choras buvo kviečiamas giedoti Kupiškio, Daugailių ir Vajesiškio bažnyčiose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 249 (PDF 250)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 249 (PDF 250)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8623687c78dcff5ad4c7330c
-canonical_name: Skapiškio parapija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Skapiškio parapija
+entity_id: "ent-8623687c78dcff5ad4c7330c"
+canonical_name: "Skapiškio parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skapiškio parapija"]
 sameAs: []
-canonical_biography: Blaivybės laiškas adresuotas Skapiškio parapijai.
+canonical_biography: "Blaivybės laiškas adresuotas Skapiškio parapijai."
 place_authority: true
 historical_names: []
 ---

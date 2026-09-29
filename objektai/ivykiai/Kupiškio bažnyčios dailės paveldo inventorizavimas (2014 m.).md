@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '2014 m. rugpjūtį buvo inventorizuojamas Kupiškio bažnyčios dailės paveldas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 353 (PDF 354)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 353 (PDF 354)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

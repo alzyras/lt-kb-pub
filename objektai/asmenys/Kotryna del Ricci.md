@@ -41,6 +41,7 @@ Kotrynos del Ricci atvaizdas yra šalia sakyklos esančiame Palėvenės bažnyč
   santrauka: 'Kotrynos del Ricci atvaizdas yra šalia sakyklos esančiame Palėvenės bažnyčios šoniniame altoriuje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 232 (PDF 233)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 232 (PDF 233)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

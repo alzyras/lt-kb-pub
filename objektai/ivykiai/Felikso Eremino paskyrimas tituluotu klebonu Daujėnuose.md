@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Nuo 1948 m. liepos 1 d. Feliksas Ereminas paliktas tituluotu klebonu Daujėnuose prie administratoriaus Antano Benesevičiaus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 522 (PDF 523)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 522 (PDF 523)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

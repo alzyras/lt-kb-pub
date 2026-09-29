@@ -41,6 +41,7 @@ Kupiškio marių ichtiologiniai tyrimai 2012 m. atlikti pagal ichtiologinių tyr
   santrauka: 'Kupiškio marių ichtiologiniai tyrimai 2012 m. atlikti pagal ichtiologinių tyrimų metodiką, patvirtintą Lietuvos Respublikos aplinkos ministro 2005 m. spalio 20 d. įsakymu Nr. D1-501.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 90 (PDF 91)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 90 (PDF 91)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

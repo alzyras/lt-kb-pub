@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Apie 1995 m. Virbališkių pagrindinės mokyklos vaikų etnografinis ansamblis pasivadino „Narštupėliu“, o jam vadovavo etnokultūros mokytoja Lidija Mačiulienė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1084 (PDF 1085)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1084 (PDF 1085)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

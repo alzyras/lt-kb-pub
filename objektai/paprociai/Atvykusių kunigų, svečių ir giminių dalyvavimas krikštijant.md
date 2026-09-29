@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio bažnyčioje naujagimius krikštijo Kupiškio bažnyčiai priklausiusių filijų ar parapijų kunigai, Palėvenės vienuolyno ir kitų vienuolynų kunigai, Kupiškyje viešėję svečiai bei iš toliau atvykę giminaičiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 371 (PDF 372)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 371 (PDF 372)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

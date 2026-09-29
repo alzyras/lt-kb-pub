@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kun. A. Mažeika Zarasuose darė įtaką ateitininkams, juos stiprino ir atgaivino ateitininkų veiklą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 543 (PDF 544)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 543 (PDF 544)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Kun. E. Vaišnoras aktyviai talkino kuriant katalikiškas organizacijas ir vėliau prisidėjo prie jų veiklos stiprinimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 545 (PDF 546)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 545 (PDF 546)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

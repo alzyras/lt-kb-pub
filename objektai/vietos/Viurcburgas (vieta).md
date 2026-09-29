@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d14bcbfe73ea3cc4e6b929af
-canonical_name: Viurcburgas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Viurcburgas
-  - Viurcburgas (vieta)
+entity_id: "ent-d14bcbfe73ea3cc4e6b929af"
+canonical_name: "Viurcburgas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viurcburgas","Viurcburgas (vieta)"]
 sameAs: []
-canonical_biography: Viurcburgo vyskupas bei Romos imperijos kancleris Konradas.
+canonical_biography: "Viurcburgo vyskupas bei Romos imperijos kancleris Konradas."
+place_authority: true
+historical_names: []
 ---
 # Viurcburgas (vieta)
 

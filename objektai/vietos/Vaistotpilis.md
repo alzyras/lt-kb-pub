@@ -78,6 +78,36 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   pagrindžia:
     - c-205964
 
+<a id="claim-t-222745"></a>
+- t-222745
+  teiginys: "Vaistotpilis buvo sena prūsų pilis, kurioje įsitvirtino Ordinas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_group_context"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vaistotpilis: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vaistotpilis tiesiogiai apibūdinta kaip sena prūsų pilis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vaistotpilis priklausė Prūsai (0.82)"
+
+<a id="claim-t-222923"></a>
+- t-222923
+  teiginys: "Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Barta: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vaistotpilis: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vaistotpilio pilis aprašoma kaip buvusi Bartos žemėje, todėl tai laikoma priklausymo teritorijai santykiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vaistotpilis priklausė Barta (0.78)"
+
 ## Citatos
 
 - id: c-59116

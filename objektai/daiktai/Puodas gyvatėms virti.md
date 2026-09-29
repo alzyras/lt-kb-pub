@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Vidurinės Azijos gyventojai gyvatėms virti turėjo specialius puodus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 101 (PDF 102)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 101 (PDF 102)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

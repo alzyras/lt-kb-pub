@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio bažnyčioje Viešpaties Angelo maldos skambinimo varpais tradicija buvo nutrūkusi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1000 (PDF 1001)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1000 (PDF 1001)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

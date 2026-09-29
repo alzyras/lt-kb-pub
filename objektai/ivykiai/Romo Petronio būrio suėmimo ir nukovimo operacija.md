@@ -65,6 +65,7 @@ Nenurodyta
   santrauka: 'Operacijos metu suimti penki žmonės, tarp jų Romo Petronio būrio vadas Romas Petronis, o nukauti partizanai Kazys Valentėlis-Pavasarėlis ir Stasys Liaudanskas-Žirgelis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,4 +90,3 @@ Nenurodyta
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

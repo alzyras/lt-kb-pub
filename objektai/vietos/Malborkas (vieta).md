@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-c199f82f9b59bbf72cc56f05
-canonical_name: Malborkas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Malborkas
-  - Malborkas (vieta)
+entity_id: "ent-c199f82f9b59bbf72cc56f05"
+canonical_name: "Malborkas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Malborkas","Malborkas (vieta)"]
 sameAs: []
-canonical_biography: Prie Aliamo apskrities vėliau buvo įkurti Malborko ordino namai.
+canonical_biography: "Prie Aliamo apskrities vėliau buvo įkurti Malborko ordino namai."
+place_authority: true
+historical_names: []
 ---
 # Malborkas (vieta)
 

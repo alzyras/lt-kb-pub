@@ -63,6 +63,7 @@ Nenurodyta
   santrauka: 'Kupiškio šaulių būrio knygynėlis 1932 m. turėjo 330 knygų, o 62 skaitytojai per metus perskaitė 588 knygas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 787 (PDF 788)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 787 (PDF 788)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -74,6 +75,7 @@ Nenurodyta
   santrauka: 'Knygynėlyje 1933 m. buvo 190 knygų, o 1935 m. jų skaičius siekė 328.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 788 (PDF 789)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 788 (PDF 789)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -85,6 +87,7 @@ Nenurodyta
   santrauka: 'Knygynėlyje 1935 m. buvo 292 knygos, o 1938 m. jų skaičius siekė 386.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 788 (PDF 789)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 788 (PDF 789)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -99,6 +102,7 @@ Nenurodyta
   santrauka: '1977–1989 m. bibliotekų fondai kasmet pasipildydavo 23–35 tūkst. dokumentų, daugiausia knygomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 789 (PDF 790)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 789 (PDF 790)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

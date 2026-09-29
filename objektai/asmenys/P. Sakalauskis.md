@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-75a3fecf76c8adbe5950dd8a
-canonical_name: P. Sakalauskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - P. Sakalauskis
+entity_id: "ent-75a3fecf76c8adbe5950dd8a"
+canonical_name: "P. Sakalauskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["P. Sakalauskis"]
 sameAs: []
-canonical_biography: 1858 m. gegužės mėnesį P. Sakalauskis buvo Skapiškio klebonas.
+canonical_biography: "1858 m. gegužės mėnesį P. Sakalauskis buvo Skapiškio klebonas."
 ---
 # P. Sakalauskis
 

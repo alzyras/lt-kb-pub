@@ -41,6 +41,7 @@ Jurga Jonutytė religinės tradicijos dinamikoje įžvelgė, kad prasmės, verty
   santrauka: 'Jurga Jonutytė religinės tradicijos dinamikoje įžvelgė, kad prasmės, vertybės ir požiūriai perimami iš sakralaus centro, per kurį susikuria nenutrūkstamas ryšys su vyresne karta ir ankstesnėmis kartomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 894 (PDF 895)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 894 (PDF 895)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,6 +37,7 @@ Juozas Buzevičius, Jurgio sūnus, gimė 1923 m. Berniūniškių kaime, Vabalnin
   santrauka: 'Juozas Buzevičius, Jurgio sūnus, gimė 1923 m. Berniūniškių kaime, Vabalninko valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 155"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 155."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

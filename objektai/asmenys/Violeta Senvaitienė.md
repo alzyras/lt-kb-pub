@@ -49,6 +49,7 @@ canonical_biography: "Violeta Senvaitienė buvo Kupos katalikiškos mokyklos dir
   santrauka: 'Violeta Senvaitienė buvo Kupos katalikiškos mokyklos direktoriaus pavaduotoja ir 1997 m. paskirta Kupiškio dekanato Šeimos centro vadove.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 446 (PDF 447)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 446 (PDF 447)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

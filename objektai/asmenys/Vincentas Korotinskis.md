@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-db2c445e8b0a6c973c516312
-canonical_name: Vincentas Korotinskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Vincentas Korotinskis
+entity_id: "ent-db2c445e8b0a6c973c516312"
+canonical_name: "Vincentas Korotinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vincentas Korotinskis"]
 sameAs: []
-canonical_biography: 'O vyskupo amžininkas Vincentas Korotinskis teigia, kad vysk.'
+canonical_biography: "O vyskupo amžininkas Vincentas Korotinskis teigia, kad vysk."
 ---
 # Vincentas Korotinskis
 

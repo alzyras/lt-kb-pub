@@ -64,6 +64,7 @@ Nenurodyta
   santrauka: 'Iki Pirmojo pasaulinio karo Kupiškio bažnyčioje pastatyti trys altoriai: didysis altorius ir du altoriai šoninėse navose, o koplyčios liko tuščios.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 338 (PDF 339)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 338 (PDF 339)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,4 +89,3 @@ Tris Kupiškio bažnyčios neogotikinius altorius pagamino Šiauliuose veikusios
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

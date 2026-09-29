@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1906 m. vyskupas Mečislovas Leonardas Paliulionis Jonui Katelei suteikė garbės kanauninko titulą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 468 (PDF 469)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 468 (PDF 469)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

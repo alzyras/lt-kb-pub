@@ -45,6 +45,7 @@ media_all_json: |-
   santrauka: '2006 m. rugsėjo 30 d. Utenos dekanato gimimo metrikų knygoje rastas Juozapo Grinos gimimo metrikų įrašas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 188-189 (PDF 189-190)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 188-189 (PDF 189-190)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

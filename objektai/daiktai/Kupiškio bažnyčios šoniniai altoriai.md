@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio bažnyčios klebonas įrengė du naujus šoninius altorius: kairėje Šv. Teresėlės, dešinėje Nukryžiuotojo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 526 (PDF 527)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 526 (PDF 527)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

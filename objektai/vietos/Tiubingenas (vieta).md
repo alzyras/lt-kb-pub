@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Tiubingenas","Tiubingenas (vieta)"]
 sameAs: []
 canonical_biography: "Jezerskiu išvyko į Tiubingeną, vėliau keliavo po Šveicariją bei Italiją."
+place_authority: true
+historical_names: []
 ---
 # Tiubingenas (vieta)
 

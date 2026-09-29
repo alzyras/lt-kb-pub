@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3e03966b67dae20719a93335
-canonical_name: Baigos pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Baigos pilis
+entity_id: "ent-3e03966b67dae20719a93335"
+canonical_name: "Baigos pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baigos pilis"]
 sameAs: []
-canonical_biography: 'Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos.'
+canonical_biography: "Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos."
+place_authority: true
+historical_names: []
 ---
 # Baigos pilis
 

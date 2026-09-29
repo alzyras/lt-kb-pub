@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-1be8ee2207fdbef793927b5a
-canonical_name: Robkojai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Robkojai
-  - Robkojai (vieta)
+entity_id: "ent-1be8ee2207fdbef793927b5a"
+canonical_name: "Robkojai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Robkojai","Robkojai (vieta)"]
 sameAs: []
-canonical_biography: 'Be to, šiam reikalui delegavo Beržininkų vi karą kun. Antaną Brundzą, kurį Varmijos vyskupas pa skyrė Robkojų filijos administratorium.'
+canonical_biography: "Be to, šiam reikalui delegavo Beržininkų vi karą kun. Antaną Brundzą, kurį Varmijos vyskupas pa skyrė Robkojų filijos administratorium."
 place_authority: true
 historical_names: []
 ---

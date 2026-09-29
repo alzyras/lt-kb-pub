@@ -119,6 +119,8 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209607
 
 - id: c-192615
   autorius: "Simonas Daukantas"
@@ -170,4 +172,16 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-192615
+
+<a id="claim-t-209607"></a>
+- t-209607
+  teiginys: "Žmonių liuosybė taip suvarSusinešimai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192227
 

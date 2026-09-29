@@ -34,6 +34,7 @@ Kupiškyje grafo Mykolo Tiškevičiaus iniciatyva pradėtas formuoti 17-asis ulo
   santrauka: 'Kupiškyje grafo Mykolo Tiškevičiaus iniciatyva pradėtas formuoti 17-asis ulonų pulkas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 174 (PDF 175)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 174 (PDF 175)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

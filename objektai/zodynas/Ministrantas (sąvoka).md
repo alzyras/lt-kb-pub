@@ -46,6 +46,7 @@ Aivaras nuo ketvirtos klasės patarnavo bažnyčioje kaip ministrantas ir šias 
   santrauka: 'Aivaras nuo ketvirtos klasės patarnavo bažnyčioje kaip ministrantas ir šias pareigas ėjo iki Kupiškio Povilo Matulionio vidurinės mokyklos baigimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 470 (PDF 471)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 470 (PDF 471)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

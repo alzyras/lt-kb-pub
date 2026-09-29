@@ -57,6 +57,35 @@ Nenurodyta
   pagrindžia:
     - c-172789
 
+<a id="claim-t-216575"></a>
+- t-216575
+  teiginys: "Narbutas mini padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško, teikusio prieglobstį persekiojamiesiems, liekana."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventųjų miškų, medžių ir giraičių garbinimas, apsauga ir neliečiamumas: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventųjų miškų, medžių ir giraičių garbinimas, apsauga ir neliečiamumas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
+<a id="claim-t-217494"></a>
+- t-217494
+  teiginys: "Seniausiais amžiais, kai miškai, dengiantys žemę, buvo žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra žumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai ten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-172789

@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fc4f5b590da2f332ef4a0d0e
-canonical_name: Sventamiestis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Sventamiestis
-  - Sventamiestis (vieta)
+entity_id: "ent-fc4f5b590da2f332ef4a0d0e"
+canonical_name: "Sventamiestis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sventamiestis","Sventamiestis (vieta)"]
 sameAs: []
-canonical_biography: 'Sventamiestyje, vėliau vadintame Heiligenbeiliu arba Šventuoju Kirveliu, augo milžiniškas žalias ąžuolas.'
+canonical_biography: "Sventamiestyje, vėliau vadintame Heiligenbeiliu arba Šventuoju Kirveliu, augo milžiniškas žalias ąžuolas."
+place_authority: true
+historical_names: []
 ---
 # Sventamiestis (vieta)
 

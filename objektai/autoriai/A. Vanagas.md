@@ -57,6 +57,14 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
   pagrindžia:
     - c-56014
 
+<a id="claim-t-220578"></a>
+- t-220578
+  teiginys: "Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-56012

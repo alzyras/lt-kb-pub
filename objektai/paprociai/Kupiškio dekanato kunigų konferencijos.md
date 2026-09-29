@@ -68,6 +68,7 @@ Nenurodyta
   santrauka: 'Kupiškio dekanate kunigų konferencijos vykdavo du tris kartus per metus įvairiose parapijose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 406 (PDF 407)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 406 (PDF 407)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,4 +91,3 @@ Kupiškio dekanato kunigų konferencijose buvo svarstomi teologijos ir sielovado
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

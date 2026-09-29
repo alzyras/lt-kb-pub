@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1843 m. po Kupiškio seniūnijos panaikinimo Kupiškio ir Virbališkių valstybiniuose dvaruose pagal Kiseliovo reformą pradėta įgyvendinti valstiečių bendruomenės savivalda.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 180 (PDF 181)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 180 (PDF 181)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

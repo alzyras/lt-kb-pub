@@ -50,6 +50,7 @@ Konstantinas Kuprevičius 1905 m. įkūrė Skapiškio parapijos biblioteką; 191
   santrauka: 'Konstantinas Kuprevičius 1905 m. įkūrė Skapiškio parapijos biblioteką; 1910 m. ji susijungė su žemės ūkio ratelio knygynėliu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 786 (PDF 787)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 786 (PDF 787)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

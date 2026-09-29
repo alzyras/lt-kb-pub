@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Buvo tradicija namuose turėti savo dangiškojo globėjo, to paties vardo šventojo, paveikslą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 677 (PDF 678)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 677 (PDF 678)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

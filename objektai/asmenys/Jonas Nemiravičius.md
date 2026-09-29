@@ -54,6 +54,18 @@ canonical_biography: "Žygimantas pasiuntė Joną Nemiravičių pranešti karali
   pagrindžia:
     - c-169577
 
+<a id="claim-t-211384"></a>
+- t-211384
+  teiginys: "1523 m. Jurgis Nemiravičius tapo karaliaus arba didžiojo kunigaikščio maršalu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193647
+
 ## Citatos
 
 - id: c-169577
@@ -103,4 +115,6 @@ canonical_biography: "Žygimantas pasiuntė Joną Nemiravičių pranešti karali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211384
 

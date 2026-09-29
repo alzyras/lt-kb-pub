@@ -73,4 +73,3 @@ Bronė Ažusienienė dirbo bibliotekininke Lukonyse 1972–2009 m.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

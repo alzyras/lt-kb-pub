@@ -58,6 +58,15 @@ Nenurodyta
   pagrindžia:
     - c-10258
 
+<a id="claim-t-210071"></a>
+- t-210071
+  teiginys: "Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192844
+
 ## Pastabos
 
 - žodis čia gali reikšti apeiginį laužą ar malkų sukrautą pakylą; kandidatas pateikiamas dėl aiškaus materialaus panaudojimo apeiginiame veiksme.
@@ -128,4 +137,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210071
 

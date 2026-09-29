@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Po 1690 m. Palėvenės bažnyčios statybos darbai dėl Šiaurės karo, krašto suirutės ir maro kuriam laikui sustojo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 214 (PDF 215)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 214 (PDF 215)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1751 m. bažnyčioje buvo dažyta ir pasidabruota sakykla.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 217 (PDF 218)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 217 (PDF 218)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ Nenurodyta
   santrauka: '1763 m. birželį Butkevičius kartu su J. Mažeika padengė sakyklą dirbtinio marmuro paviršiais; už šį darbą Butkevičiui sumokėta 150 auksinų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 220 (PDF 221)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 220 (PDF 221)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

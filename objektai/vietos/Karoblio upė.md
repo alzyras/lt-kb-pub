@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-233938d581b36dd3e4511fb0
-canonical_name: Karoblio upė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Karoblio upė
+entity_id: "ent-233938d581b36dd3e4511fb0"
+canonical_name: "Karoblio upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karoblio upė"]
 sameAs: []
-canonical_biography: Alšys įkūrė miestą ant kalno prie Karoblio upės. Karoblio upelis išteka iš Alšėnų piliakalnio pašlaičių.
+canonical_biography: "Alšys įkūrė miestą ant kalno prie Karoblio upės. Karoblio upelis išteka iš Alšėnų piliakalnio pašlaičių."
+place_authority: true
+historical_names: []
 ---
 # Karoblio upė
 

@@ -55,6 +55,7 @@ Pranas Variakojis gimė 1914 m. Zizonių kaime, Vabalninko valsčiuje. Kregždė
   santrauka: 'Kregždė-Ūsorius, kronikos įvardytas Kostu, o byloje Kaziu, gyveno Zizonių kaime, Vabalninko valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 329"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 329."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -73,4 +74,3 @@ Pranas Variakojis gimė 1914 m. Zizonių kaime, Vabalninko valsčiuje. Kregždė
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

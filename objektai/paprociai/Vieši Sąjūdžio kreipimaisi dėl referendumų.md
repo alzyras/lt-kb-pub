@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1992 m. Sąjūdžio seimelis telkė kupiškėnus dalyvauti referendumuose dėl Lietuvos Prezidento institucijos atkūrimo, Rusijos kariuomenės išvedimo ir Konstitucijos priėmimo bei Lietuvos Seimo rinkimuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 871 (PDF 872)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 871 (PDF 872)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

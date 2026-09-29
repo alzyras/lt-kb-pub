@@ -72,4 +72,3 @@ Marija Gabnienė dirbo bibliotekininke Skapiškyje 1956–1998 m.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

@@ -31,16 +31,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-4216fb25f4a710d4f114b8ed
-canonical_name: Stanislovas Stanislovaitis Kęsgaila (m. 1532)
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Stanislovas Stanislovaitis Kęsgaila
-  - Stanislovas Stanislovaitis Kęsgaila (m. 1532)
+entity_id: "ent-noble-4216fb25f4a710d4f114b8ed"
+canonical_name: "Stanislovas Stanislovaitis Kęsgaila (m. 1532)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Stanislovaitis Kęsgaila","Stanislovas Stanislovaitis Kęsgaila (m. 1532)"]
 sameAs: []
-canonical_biography: Stanislovas Stanislovaitis Kęsgaila (m. 1532) - Kęsgailos giminės atstovas.
+canonical_biography: "Stanislovas Stanislovaitis Kęsgaila (m. 1532) - Kęsgailos giminės atstovas."
 ---
 # Stanislovas Stanislovaitis Kęsgaila (m. 1532)
 

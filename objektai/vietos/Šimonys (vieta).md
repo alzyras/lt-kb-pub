@@ -109,6 +109,7 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Š
   santrauka: 'Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 398 (PDF 399)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 398 (PDF 399)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -120,6 +121,7 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Š
   santrauka: 'Šimonių viešoji biblioteka turėjo 1 269 knygas, tačiau neveikė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 797 (PDF 798)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 797 (PDF 798)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -176,4 +178,3 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Š
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-230689
-

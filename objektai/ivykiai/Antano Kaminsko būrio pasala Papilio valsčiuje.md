@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1945 m. birželį Antano Kaminsko būrio partizanai Papilio valsčiuje surengė pasalą stribams, kaip nurodoma Onos Dapšytės-Kriukelienės kronikoje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 152"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 152."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

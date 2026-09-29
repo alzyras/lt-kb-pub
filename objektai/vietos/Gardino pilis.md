@@ -47,6 +47,18 @@ Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuv
   pagrindžia:
     - c-184484
 
+<a id="claim-t-224674"></a>
+- t-224674
+  teiginys: "1296 m. kryžiuočiai persikėlė per užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206306
+
 ## Citatos
 
 - id: c-184484
@@ -91,4 +103,6 @@ Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224674
 

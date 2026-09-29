@@ -59,3 +59,24 @@ Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakran
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-212864"></a>
+- t-001
+  teiginys: "Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Arno: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pelazgai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Arno: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Arno žiotys tiesiogiai įtrauktos į pelazgų pasklidimo arealą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Pelazgai gyveno Po (0.78); Pelazgai gyveno Arno (0.78); Pelazgai gyveno Dnepras (0.78); Pelazgai gyveno Donas (0.78)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+

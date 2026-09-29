@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Blokados fondo lėšas pradėta rinkti siekiant šelpti piliečius, netekusius darbo dėl sovietų vyriausybės sankcijų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 864 (PDF 865)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 864 (PDF 865)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,6 +55,7 @@ Nenurodyta
   santrauka: 'Sąjūdžio rajono taryba blokados fondui skyrė 500 rublių, F. ir A. Seibučiai – 100 rublių, E. ir G. Aleksaičiai – 500 rublių, J. Babickas – 370 rublių, o B. Mikonienė ir E. Lauciuvienė – po 1 000 rublių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 864 (PDF 865)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 864 (PDF 865)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

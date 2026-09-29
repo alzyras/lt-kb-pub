@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1909–1910 m. Kupiškio bažnyčios bokštai buvo išmūryti maždaug 56 metrų aukščio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 380 (PDF 381)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 380 (PDF 381)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

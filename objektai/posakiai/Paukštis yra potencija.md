@@ -34,6 +34,7 @@ Pašnekovas paukštį apibūdina kaip potenciją ir savo kūryboje naudoja jį k
   santrauka: 'Pašnekovas paukštį apibūdina kaip potenciją ir savo kūryboje naudoja jį kaip vertikalės atitikmenį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1155 (PDF 1156)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1155 (PDF 1156)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Palėvenės bažnyčios prienavyje pritvirtintoje vario plokštėje išgraviruotas Lauryno Gucevičiaus portretas, Vilniaus katedros bendras vaizdas ir įrašas apie jo krikštą šioje bažnyčioje 1753 m. rugpjūčio 5 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 316 (PDF 317)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 316 (PDF 317)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

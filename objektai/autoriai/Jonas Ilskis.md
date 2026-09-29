@@ -41,6 +41,7 @@ Kunigas Jonas Ilskis atsiminimuose A. Jušką apibūdino kaip nepaprasto būdo, 
   santrauka: 'Kunigas Jonas Ilskis atsiminimuose A. Jušką apibūdino kaip nepaprasto būdo, visada gerai nusiteikusį, humorą mėgusį, kalbų ir draugišką žmogų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 466 (PDF 467)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 466 (PDF 467)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

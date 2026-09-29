@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Freiburgas","Freiburgas (vieta)"]
 sameAs: []
 canonical_biography: "Studijų kelias nusitiesė per Freiburgą."
+place_authority: true
+historical_names: []
 ---
 # Freiburgas (vieta)
 

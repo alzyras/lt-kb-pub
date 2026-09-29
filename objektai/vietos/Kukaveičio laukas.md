@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Kukaveičio laukas"]
 sameAs: []
 canonical_biography: "2002 m. Vykintas Vaitkevičius lokalizavo Kukaveičio lauką."
+place_authority: true
+historical_names: []
 ---
 # Kukaveičio laukas
 

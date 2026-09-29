@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2d9a8b90c85f1b5b55e33f26
-canonical_name: Arimfėjų žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Arimfėjų žemė
+entity_id: "ent-2d9a8b90c85f1b5b55e33f26"
+canonical_name: "Arimfėjų žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Arimfėjų žemė"]
 sameAs: []
-canonical_biography: IV amžiaus pradžios geografai Vyslos ir Nemuno tarpupį vadino Arimfėjų žeme.
+canonical_biography: "IV amžiaus pradžios geografai Vyslos ir Nemuno tarpupį vadino Arimfėjų žeme."
+place_authority: true
+historical_names: []
 ---
 # Arimfėjų žemė
 

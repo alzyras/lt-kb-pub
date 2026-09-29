@@ -39,6 +39,7 @@ Uoginių koplyčios Kryžiaus kelio stočių įrėminti devociniai atvaizdai buv
   santrauka: 'Abrozdėliais vadinti devociniai atvaizdai, kurių pirminė funkcija buvo puoselėti asmeninį pamaldumą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 678 (PDF 679)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 678 (PDF 679)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

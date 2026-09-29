@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ce88d3d1cb1fc9c11abbb790
-canonical_name: J. Bielinski
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - J. Bielinski
+entity_id: "ent-ce88d3d1cb1fc9c11abbb790"
+canonical_name: "J. Bielinski"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Bielinski"]
 sameAs: []
-canonical_biography: J. Bielinski laikė S. Valiūną priklausančiu šubraveams-rustikanams.
+canonical_biography: "J. Bielinski laikė S. Valiūną priklausančiu šubraveams-rustikanams."
 ---
 # J. Bielinski
 

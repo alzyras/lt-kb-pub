@@ -41,6 +41,7 @@ Elvyros Dulaitienės-Glemžaitės monografija „Kupiškėnų senovė“ aprašo
   santrauka: 'Elvyros Dulaitienės-Glemžaitės monografija „Kupiškėnų senovė“ aprašo kupiškėnų šventinius papročius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 928 (PDF 929)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 928 (PDF 929)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

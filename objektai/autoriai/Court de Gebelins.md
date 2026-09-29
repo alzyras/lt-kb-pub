@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-937cba1b49823bce77dc51a3
-canonical_name: Court de Gebelins
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Court de Gebelins
+entity_id: "ent-937cba1b49823bce77dc51a3"
+canonical_name: "Court de Gebelins"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Court de Gebelins"]
 sameAs: []
-canonical_biography: Pagal tas pačias taisykles Kur de Zebelen (Court de Gebelins) savo „Monde pri mitif“ žodį Peruką kildino iš jtVQQaÇ;.
+canonical_biography: "Pagal tas pačias taisykles Kur de Zebelen (Court de Gebelins) savo „Monde pri mitif“ žodį Peruką kildino iš jtVQQaÇ;."
 ---
 # Court de Gebelins
 

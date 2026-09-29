@@ -48,6 +48,7 @@ Kupiškio rajone giliausias gręžinys buvo išgręžtas Šernupio kaime: jis si
   santrauka: 'Kupiškio rajone giliausias gręžinys buvo išgręžtas Šernupio kaime: jis siekė 292,4 m ir kirto beveik vien ledynmečio uolienų storymę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 11 (PDF 12)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 11 (PDF 12)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

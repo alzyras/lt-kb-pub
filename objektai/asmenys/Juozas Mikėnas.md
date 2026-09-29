@@ -50,6 +50,7 @@ Juozas Mikėnas-Žvirblis gimė 1905 m. Jokšių kaime, 1944 m. spalį suorganiz
   santrauka: 'Po Juozo Mikėno žūties 1946 m. partizanų būrio vadu tapo kitas asmuo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 106"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 106."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,6 +60,7 @@ Juozas Mikėnas-Žvirblis gimė 1905 m. Jokšių kaime, 1944 m. spalį suorganiz
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Juozo Mikėno būriui Skapiškio valsčiuje priskiriama 17 partizanų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 167"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 167."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -68,6 +70,7 @@ Juozas Mikėnas-Žvirblis gimė 1905 m. Jokšių kaime, 1944 m. spalį suorganiz
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1946 m. gruodžio 12 d. Notigaloje per operaciją sunaikinta dvylikos partizanų grupė, kuriai vadovavo Juozas Mikėnas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 211"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 211."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,4 +89,3 @@ Juozas Mikėnas-Žvirblis gimė 1905 m. Jokšių kaime, 1944 m. spalį suorganiz
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

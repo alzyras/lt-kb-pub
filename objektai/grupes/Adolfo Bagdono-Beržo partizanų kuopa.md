@@ -69,6 +69,7 @@ media_all_json: |-
   santrauka: '1945 m. gegužės 2 d. Adolfas Bagdonas-Beržas įstojo į partizanų junginį; Ona Dapšytė-Kriukelienė knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad Steponas Girdžiūnas jį paskyrė vadu dėl aukštojo karinio išsilavinimo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 38"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 38."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +79,7 @@ media_all_json: |-
   santrauka: 'Iki Adolfo Bagdono-Beržo vadovavimo partizanų junginį, veikusį Subačiaus valsčiaus miškuose, sudarė daugiau kaip 100 partizanų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 38"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 38."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -87,6 +89,7 @@ media_all_json: |-
   santrauka: 'R. Sargautas ir J. Gasiūnas Gitėnų miško bunkeryje spausdino bei gyventojams platino lapelius ir atsišaukimus; knygos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ autorė Ona Dapšytė-Kriukelienė lapelius vadina „antisovietiniais“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 41"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 41."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,6 +99,7 @@ media_all_json: |-
   santrauka: '„Lietuvos partizanai“ LLA vardu leido lapelius, kuriuos knygos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ autorė Ona Dapšytė-Kriukelienė vadina „antisovietiniais“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 41"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 41."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,6 +109,7 @@ media_all_json: |-
   santrauka: 'V. Stankevičiaus ir Dominyko Marcinkevičiaus būriuose iš viso buvo 35 partizanai; 1945 m. rugpjūčio–spalio mėn. 10 buvo nukauti, 19 legalizavosi ir atidavė ginklus, o likę įstojo į Adolfo Bagdono-Beržo kuopą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 48"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 48."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -147,4 +152,3 @@ media_all_json: |-
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-003
-

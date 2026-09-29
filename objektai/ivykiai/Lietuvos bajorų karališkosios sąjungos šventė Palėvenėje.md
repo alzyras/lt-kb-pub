@@ -62,6 +62,7 @@ Nenurodyta
   santrauka: '2011 m. liepos 24 d. Palėvenės Šv. Dominyko bažnyčioje vyko Lietuvos bajorų karališkosios sąjungos šventė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 255 (PDF 256)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 255 (PDF 256)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -84,4 +85,3 @@ Lietuvos bajorų karališkosios sąjungos šventės Palėvenėje aprašyme Karol
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

@@ -66,6 +66,7 @@ Gaisrininkai gaisrui gesinti vandenį sėmė iš Lėvens upės. 1745 m. korpusas
   santrauka: '1745 m. korpusas buvo nutinkuotas iš Lėvens upės pusės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 318 (PDF 319)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 318 (PDF 319)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,6 +78,7 @@ Gaisrininkai gaisrui gesinti vandenį sėmė iš Lėvens upės. 1745 m. korpusas
   santrauka: 'Vienuolyno rytinis korpusas Lėvens upės pusėje statytas 1690–1701 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 319 (PDF 320)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 319 (PDF 320)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,4 +99,3 @@ Gaisrininkai gaisrui gesinti vandenį sėmė iš Lėvens upės. 1745 m. korpusas
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

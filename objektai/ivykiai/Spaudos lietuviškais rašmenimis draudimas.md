@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Lietuviškos spaudos draudimas ir carinės Rusijos priespauda, straipsnio aiškinimu, pristabdė senųjų spaustuvių veiklą ir naujų spaustuvių kūrimąsi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 669 (PDF 670)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 669 (PDF 670)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

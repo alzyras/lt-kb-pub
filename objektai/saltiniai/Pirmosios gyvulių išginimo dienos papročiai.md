@@ -34,6 +34,7 @@ Vacys Milius straipsnyje „Pirmosios gyvulių išginimo dienos papročiai“ ap
   santrauka: 'Vacys Milius straipsnyje „Pirmosios gyvulių išginimo dienos papročiai“ apibendrino Jurginių dienos apeigas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 928 (PDF 929)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 928 (PDF 929)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

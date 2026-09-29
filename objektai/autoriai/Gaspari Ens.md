@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7f34ec74050a8df7c8c5bacf
-canonical_name: Gaspari Ens
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Gaspari Ens
+entity_id: "ent-7f34ec74050a8df7c8c5bacf"
+canonical_name: "Gaspari Ens"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gaspari Ens"]
 sameAs: []
-canonical_biography: 'Narbutas nurodo, kad Gardino aprašymas turėtų būti veikale „Gaspari Ens. Deliciae Epadonper Germaniam“.'
+canonical_biography: "Narbutas nurodo, kad Gardino aprašymas turėtų būti veikale „Gaspari Ens. Deliciae Epadonper Germaniam“."
 ---
 # Gaspari Ens
 

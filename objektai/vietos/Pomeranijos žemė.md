@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2acba33a49b94d88dfbc2bfe
-canonical_name: Pomeranijos žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pomeranijos žemė
+entity_id: "ent-2acba33a49b94d88dfbc2bfe"
+canonical_name: "Pomeranijos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pomeranijos žemė"]
 sameAs: []
-canonical_biography: 'Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas. Apaštališkojo sosto legatas siekė padėti tikėjimui ir pakenkti Pomeranijos kunigaikščiui. Magistras ir broliai įsiveržė į Pomeranijos žemę netoli Nojenburgo pilies.'
+canonical_biography: "Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas. Apaštališkojo sosto legatas siekė padėti tikėjimui ir pakenkti Pomeranijos kunigaikščiui. Magistras ir broliai įsiveržė į Pomeranijos žemę netoli Nojenburgo pilies."
+place_authority: true
+historical_names: []
 ---
 # Pomeranijos žemė
 

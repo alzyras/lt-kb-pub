@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Palėvenės bažnyčios rūsiuose galėjo būti laidojami tik didikai, bažnyčios geradariai ir globėjai, o kitiems už mažesnį mokestį skirta vieta šventoriuje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 222 (PDF 223)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 222 (PDF 223)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,6 +37,7 @@ canonical_biography: "Bronius Liubkevičius buvo atpažintas kaip 1945 m. spalio
   santrauka: '1945 m. spalio 20 d. Karaliūnų kaime prie aptikto bunkerio žuvęs partizanas buvo atpažintas kaip Bronius Liubkevičius.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 121"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 121."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ canonical_biography: "Projekto vadovė Jolita Janušonienė (kairėje)."
   santrauka: '2010 m. rugsėjo 24 d. nuotraukoje projekto vadovė Jolita Janušonienė pavaizduota kairėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 813 (PDF 814)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 813 (PDF 814)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Sujungęs apylinkėse veikusius būrius, Antano Tindžiulio junginys turėjo apie 200 partizanų, susiskirsčiusių į atskiras grupes.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 609 (PDF 610)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 609 (PDF 610)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

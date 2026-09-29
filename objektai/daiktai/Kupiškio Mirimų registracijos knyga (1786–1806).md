@@ -57,6 +57,7 @@ Nenurodyta
   santrauka: 'Mirimų registracijos knygoje buvo 76 lapai, o 77-ajame lape įrašytas Kupiškio dekano Gasparo Dulskio parašas ir du antspaudai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 372 (PDF 373)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 372 (PDF 373)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

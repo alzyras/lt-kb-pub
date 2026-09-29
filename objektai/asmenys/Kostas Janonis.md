@@ -49,6 +49,7 @@ canonical_biography: "Kostas Janonis buvo Skapiškio ugniagesių draugijos mokes
   santrauka: '1929 m. susikūrusioje ugniagesių draugijoje Kostas Janonis ėjo mokesčių rinkėjo pareigas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 688 (PDF 689)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 688 (PDF 689)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

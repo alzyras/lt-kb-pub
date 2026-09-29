@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Zabluduvė","Zabluduvė (vieta)"]
 sameAs: []
 canonical_biography: "Zabluduvėje 1569 m. Chodkevičiai įsteigė spaustuvę."
+place_authority: true
+historical_names: []
 ---
 # Zabluduvė (vieta)
 

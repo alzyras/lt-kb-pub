@@ -34,6 +34,7 @@ Alfonsas Motuzas rožinį priskiria prie tradicinių lietuvių maldingumo prakti
   santrauka: 'Alfonsas Motuzas rožinį priskiria prie tradicinių lietuvių maldingumo praktikų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 676 (PDF 677)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 676 (PDF 677)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

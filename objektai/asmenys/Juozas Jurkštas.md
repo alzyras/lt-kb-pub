@@ -37,6 +37,7 @@ Kronikos pasakotojas liaudies gynėjui Juozui Jurkštui papasakojo apie savo sp�
   santrauka: 'Kronikos pasakotojas liaudies gynėjui Juozui Jurkštui papasakojo apie savo spėliojimus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 191"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 191."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ Kronikos pasakotojas liaudies gynėjui Juozui Jurkštui papasakojo apie savo sp�
   santrauka: '1949 m. rugsėjo 14 d. Ypatingasis pasitarimas suimtą Juozą Jurkštą apkaltino pagal RSFSR BK 58-1a ir 58-11 straipsnius ir nuteisė 25 metams lagerio.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 192"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 192."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

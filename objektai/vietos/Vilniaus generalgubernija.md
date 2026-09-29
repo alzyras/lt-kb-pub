@@ -20,15 +20,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-bb79b9fca287cf4fa54b1f8b
-canonical_name: Vilniaus generalgubernija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Vilniaus generalgubernija
+entity_id: "ent-bb79b9fca287cf4fa54b1f8b"
+canonical_name: "Vilniaus generalgubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus generalgubernija"]
 sameAs: []
-canonical_biography: '1853 m. Vilniaus generalgubernijoje įsigaliojo įstatymas, draudžiantis kištis į valstiečių santuoką, kai tuokiasi to paties pono valstiečiai.'
+canonical_biography: "1853 m. Vilniaus generalgubernijoje įsigaliojo įstatymas, draudžiantis kištis į valstiečių santuoką, kai tuokiasi to paties pono valstiečiai."
 place_authority: true
 historical_names: []
 ---

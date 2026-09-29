@@ -25,16 +25,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0cfa68908626ebf17de6b473
-canonical_name: Svarcburgas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Svarcburgas
-  - Svarcburgas (vieta)
+entity_id: "ent-0cfa68908626ebf17de6b473"
+canonical_name: "Svarcburgas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svarcburgas","Svarcburgas (vieta)"]
 sameAs: []
-canonical_biography: Grafas Henrikas iš Svarcburgo kitais metais po 1251 m. įsiveržė į Prūsijos žemę su daugybe karių.
+canonical_biography: "Grafas Henrikas iš Svarcburgo kitais metais po 1251 m. įsiveržė į Prūsijos žemę su daugybe karių."
+place_authority: true
+historical_names: []
 ---
 # Svarcburgas (vieta)
 

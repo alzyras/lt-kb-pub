@@ -34,6 +34,7 @@ Posakis „Prieš kelionę reikia pailsėt ir prie stalo susėst“ nusako, kad 
   santrauka: 'Posakiu „Prieš kelionę reikia pailsėt ir prie stalo susėst“ nusakoma, kad prieš kelionę reikia pailsėti, susėsti prie stalo ir paskutinę minutę pabūti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 909 (PDF 910)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 909 (PDF 910)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -44,6 +44,7 @@ media_all_json: |-
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Aušros tėvūnijos 1951 m. vasaros įraše palieka žymą „vado neprisiminė“, o skliaustuose nurodo Joną Mackų-Don Kichotą, Vėją.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 416"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 416."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,4 +63,3 @@ media_all_json: |-
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

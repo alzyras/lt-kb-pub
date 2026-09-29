@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Šaudydami į dar judėjusius žmones prie duobės, Damidavičius ir Greičiūnas pasišviesdavo kišenine baterija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 585 (PDF 586)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 585 (PDF 586)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

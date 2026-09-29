@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Smulkiųjų bajorų gyvenvietės, vadinamos bajorkaimiais ir akalicomis, buvo artimos padrikiems kaimams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 707 (PDF 708)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 707 (PDF 708)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

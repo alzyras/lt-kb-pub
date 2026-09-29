@@ -41,6 +41,7 @@ Eleonora Vaičiūnienė prisiminė, kad Ingrida Nagrockienė į redakciją atėj
   santrauka: 'Eleonora Vaičiūnienė prisiminė, kad Ingrida Nagrockienė į redakciją atėjo būdama jauna, bet jau patyrusi žurnalistė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 838 (PDF 839)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 838 (PDF 839)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

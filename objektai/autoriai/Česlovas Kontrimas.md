@@ -51,6 +51,7 @@ canonical_biography: "Česlovo Kontrimo straipsniuose trumpai aptarti Kupiškio 
   santrauka: 'Česlovo Kontrimo straipsniuose trumpai aptarti Kupiškio kalviai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 965 (PDF 966)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 965 (PDF 966)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

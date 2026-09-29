@@ -52,17 +52,16 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 
 ## Teiginiai
 
-<a id="claim-t-195627"></a>
-- t-195627
-  teiginys: "Kraičvežiai šiame šaltinyje yra du su pastote atvykstantys kraičio vežėjai."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-195626"></a>
+- t-195626
+  teiginys: "Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas."
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-178028
-    - c-178029
 
 ## Citatos
 
@@ -86,7 +85,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-195627
+    - t-195626
 
 - id: c-178029
   autorius: "M. Katkus"
@@ -108,6 +107,4 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195627
 

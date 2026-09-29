@@ -31,6 +31,8 @@ entity_view_role: "place"
 entity_aliases: ["Kauno rotušė"]
 sameAs: []
 canonical_biography: "Kauno rotušės kalėjime turėjo būti atliekamos 3 arba 6 savaičių laisvės atėmimo bausmės."
+place_authority: true
+historical_names: []
 ---
 # Kauno rotušė
 

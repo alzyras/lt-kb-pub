@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Žydų karių sąjungos Kupiškio skyriaus biblioteka atidaryta 1939 m. pradžioje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 568 (PDF 569)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 568 (PDF 569)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

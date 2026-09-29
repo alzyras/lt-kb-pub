@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-89f828d2a34280803a7558ef
-canonical_name: Wanzino (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Wanzino
-  - Wanzino (vieta)
+entity_id: "ent-89f828d2a34280803a7558ef"
+canonical_name: "Wanzino (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Wanzino","Wanzino (vieta)"]
 sameAs: []
-canonical_biography: 'Ten taip pat randame tarp daugelio ežerų, kurie buvo tarsi šio krašto priedanga, nemažai pi laičių: Wanzino; Vondzinas prie Lembergo parapijos kai mo paežerėje, Ostromit, parapijos kaimas į pietus nuo Bišoisverderio, Kovalero, Komalek priešais Plovistą šiauri.'
+canonical_biography: "Ten taip pat randame tarp daugelio ežerų, kurie buvo tarsi šio krašto priedanga, nemažai pi laičių: Wanzino; Vondzinas prie Lembergo parapijos kai mo paežerėje, Ostromit, parapijos kaimas į pietus nuo Bišoisverderio, Kovalero, Komalek priešais Plovistą šiauri."
+place_authority: true
+historical_names: []
 ---
 # Wanzino (vieta)
 

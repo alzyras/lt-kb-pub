@@ -28,7 +28,7 @@ entity_id: "ent-4c1cede7ba4893a7593bc75b"
 canonical_name: "Jonas Chodkevičius (apie 1420–1485)"
 entity_roles: ["person"]
 entity_view_role: "person"
-entity_aliases: ["[\"Jonas Chodkaitis\", \"Ivanas Chodkevičius\"]","Jonas Chodkevičius (apie 1420–1485)"]
+entity_aliases: ["Ivanas Chodkevičius","Jonas Chodkaitis","[\"Jonas Chodkaitis\", \"Ivanas Chodkevičius\"]","Jonas Chodkevičius (apie 1420–1485)"]
 sameAs: []
 canonical_biography: "Chodkos Jurgaičio sūnus Jonas iškilo tarnaudamas Kazimierui Jogailaičiui. Jis buvo valdovo maršalka, Lydos vietininkas, Vitebsko vietininkas, Lucko seniūnas ir Kijevo vaivada. 1482 m. pateko į Krymo totorių nelaisvę ir iš jos negrįžo."
 ---

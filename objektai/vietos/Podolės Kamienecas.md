@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Podolės Kamienecas"]
 sameAs: []
 canonical_biography: "Podolės Kamenece buvo vykdoma kalėjimo iki gyvos galvos bausmė."
+place_authority: true
+historical_names: []
 ---
 # Podolės Kamienecas
 

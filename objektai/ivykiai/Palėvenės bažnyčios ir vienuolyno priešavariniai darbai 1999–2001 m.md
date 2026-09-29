@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: '1999–2001 m. atlikti Palėvenės bažnyčios fasadų, cokolio, drenažo ir pamatų hidroizoliacijos darbai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 259 (PDF 260)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 259 (PDF 260)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

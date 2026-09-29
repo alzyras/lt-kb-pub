@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-335ad6354d46209de4edfbc4
-canonical_name: Senenzės pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Senenzės pilis
+entity_id: "ent-335ad6354d46209de4edfbc4"
+canonical_name: "Senenzės pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senenzės pilis"]
 sameAs: []
-canonical_biography: Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.
+canonical_biography: "Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį."
+place_authority: true
+historical_names: []
 ---
 # Senenzės pilis
 

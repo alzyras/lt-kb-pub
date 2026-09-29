@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2b6b7a31c3d215c67389fb22
-canonical_name: Teodoras Lenku
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Teodoras Lenku
+entity_id: "ent-2b6b7a31c3d215c67389fb22"
+canonical_name: "Teodoras Lenku"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodoras Lenku"]
 sameAs: []
-canonical_biography: Vladislovas Jogaila į Konstancos susirinkimą pasiuntė dominikoną Teodorą Lenku.
+canonical_biography: "Vladislovas Jogaila į Konstancos susirinkimą pasiuntė dominikoną Teodorą Lenku."
 ---
 # Teodoras Lenku
 

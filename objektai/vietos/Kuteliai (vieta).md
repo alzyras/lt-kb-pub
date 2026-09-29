@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-221d6d81af16b3ef5aff26d9
-canonical_name: Kuteliai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kuteliai
-  - Kuteliai (vieta)
+entity_id: "ent-221d6d81af16b3ef5aff26d9"
+canonical_name: "Kuteliai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuteliai","Kuteliai (vieta)"]
 sameAs: []
-canonical_biography: 'Kutelių kaimo žmonės minimi kaip Biržų parapijiečiai, kurie per Sekmines nėjo į bažnyčią ir tris dienas gėrė.'
+canonical_biography: "Kutelių kaimo žmonės minimi kaip Biržų parapijiečiai, kurie per Sekmines nėjo į bažnyčią ir tris dienas gėrė."
 place_authority: true
 historical_names: []
 ---

@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1951 m. liepos 16–17 d. per 330 karių operaciją miške aptikti šeši partizanai pasitraukė pro apsupties žiedą, o juos persekiojant buvo nušautas partizanas Alfonsas Pajuodis-Radvila.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 411-412"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 411-412."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

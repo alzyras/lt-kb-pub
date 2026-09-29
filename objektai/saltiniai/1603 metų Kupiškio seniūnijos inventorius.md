@@ -56,6 +56,7 @@ Inventorius sudarytas 1603 m. rugsėjo 19 d. LDK paiždininkio Jeronimo Valavič
   santrauka: 'Inventorius pradedamas Kupiškio dvaro aprašymu; dvaras buvo prie Juodupės upelio ir netoli Lėvens upės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 144 (PDF 145)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 144 (PDF 145)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -68,6 +69,7 @@ Inventorius sudarytas 1603 m. rugsėjo 19 d. LDK paiždininkio Jeronimo Valavič
   santrauka: '1603 metų Kupiškio seniūnijos inventoriuje nurodyta, kad Kupiškio valsčių sudarė Laukminiškių, Palėvenės ir Marnakos vaitijos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 145 (PDF 146)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 145 (PDF 146)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,4 +88,3 @@ Inventorius sudarytas 1603 m. rugsėjo 19 d. LDK paiždininkio Jeronimo Valavič
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

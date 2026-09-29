@@ -65,6 +65,7 @@ Nenurodyta
   santrauka: 'Rugpjūčio 16 d. Kauniškio kaime vykusioje Sąjūdžio dešimtmečio prisiminimų popietėje susirinko daugiau kaip 20 Sąjūdžio narių, o dešimt jų buvo apdovanoti atminimo medaliais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 874 (PDF 875)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 874 (PDF 875)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,4 +90,3 @@ Sąjūdžio gimtadienio 10-mečio minėjimas Kupiškyje prasidėjo šv. Mišiomi
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

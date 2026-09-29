@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1631 m. kovo 11 d. Zigmantas III Vaza Kupiškio bažnyčiai užrašė Dievelionių (Plundakų) kaimą su 10 valakų, pusę valako lankos Lėvens slėnyje ir kelis sklypus miestelyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 366 (PDF 367)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 366 (PDF 367)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

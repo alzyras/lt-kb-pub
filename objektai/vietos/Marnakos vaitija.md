@@ -43,6 +43,7 @@ Marnakos vaitiją sudarė 18 kaimų, 28 užusieniai ir 212 dūmų; ji turėjo 19
   santrauka: 'Marnakos vaitiją sudarė 18 kaimų, 28 užusieniai ir 212 dūmų; ji turėjo 194,3 valako žemės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 150 (PDF 151)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 150 (PDF 151)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

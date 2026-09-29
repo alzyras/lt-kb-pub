@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1947 m. rugpjūčio 26 d. Antano Starkaus būrio partizanai Jurgeliškių kaime, kaip nurodoma Onos Dapšytės-Kriukelienės kronikoje, mirties bausme nubaudė du stribus Drozdovus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 268"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 268."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

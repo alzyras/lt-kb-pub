@@ -41,6 +41,7 @@ Palėvenės dominikonų vienuolyno 1758–1785 m. pajamų ir išlaidų knygoje u
   santrauka: 'Palėvenės dominikonų vienuolyno 1758–1785 m. pajamų ir išlaidų knygoje užfiksuota, kad Jurgis Mažeika ir Butkevičius dirbo prie statomų šoninių mūrinių altorių ir sakyklos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 220 (PDF 221)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 220 (PDF 221)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

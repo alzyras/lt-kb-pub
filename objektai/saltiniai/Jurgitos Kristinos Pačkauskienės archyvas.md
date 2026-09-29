@@ -34,6 +34,7 @@ Jurgitos Kristinos Pačkauskienės archyvo medžiaga naudota aptariant Kupiškio
   santrauka: 'Jurgitos Kristinos Pačkauskienės archyvo medžiaga naudota aptariant Kupiškio lietų paminklų bruožus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 966 (PDF 967)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 966 (PDF 967)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Marijona Jančienė buvo paskirta Kupos katalikiškos mokyklos direktore.
   santrauka: 'Marijona Jančienė buvo paskirta Kupos katalikiškos mokyklos direktore.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 446 (PDF 447)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 446 (PDF 447)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

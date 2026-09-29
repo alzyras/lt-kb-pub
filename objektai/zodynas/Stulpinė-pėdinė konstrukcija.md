@@ -34,6 +34,7 @@ Stulpinės-pėdinės konstrukcijos pastatai buvo antžeminiai, nedideli ir ketur
   santrauka: 'Pastatai buvo antžeminio tipo, nedideli, keturkampio plano ir stulpinės-pėdinės konstrukcijos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 704 (PDF 705)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 704 (PDF 705)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -111,6 +111,29 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   pagrindžia:
     - c-168265
 
+<a id="claim-t-184901"></a>
+- t-184901
+  teiginys: "Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "vede -> Pajauta: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Živinbudas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pajauta: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginyje aiškiai pasakyta, kad Živinbudas vedė Pajautą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Živinbudas vedė Pajauta (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1089 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia įsūnijimą, vedybas ir kraitį."
+  pagrindžia:
+    - c-168262
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.'
@@ -228,6 +251,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-184901
 
 - id: c-168265
   autorius: "Albertas Vijūkas-Kojelavičius"

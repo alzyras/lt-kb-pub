@@ -43,6 +43,7 @@ Jauniaus būrys priklausė Gintaro rajonui.
   santrauka: 'Algimanto apygardai priklausė Jauniaus būrys.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 358"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 358."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,4 +62,3 @@ Jauniaus būrys priklausė Gintaro rajonui.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

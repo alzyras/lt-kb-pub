@@ -34,6 +34,7 @@ Kupiškio vietinėje spaudoje buvo rašoma apie žydų apsilankymus mieste ir fi
   santrauka: 'Kupiškio vietinėje spaudoje fiksuojamos žydų protėvių paieškos ir apsilankymai Kupiškyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 578 (PDF 579)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 578 (PDF 579)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

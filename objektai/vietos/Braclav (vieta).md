@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2693bd7fc999794524dc1b51
-canonical_name: Braclav (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Braclav
-  - Braclav (vieta)
+entity_id: "ent-2693bd7fc999794524dc1b51"
+canonical_name: "Braclav (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Braclav","Braclav (vieta)"]
 sameAs: []
-canonical_biography: Braclav buvo toliausiai į pietus išsikišęs LDK atsparos punktas.
+canonical_biography: "Braclav buvo toliausiai į pietus išsikišęs LDK atsparos punktas."
+place_authority: true
+historical_names: []
 ---
 # Braclav (vieta)
 

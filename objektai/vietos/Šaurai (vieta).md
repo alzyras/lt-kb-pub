@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4c0a4ebb4c0b205343742d03
-canonical_name: Šaurai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Šaurai
-  - Šaurai (vieta)
+entity_id: "ent-4c0a4ebb4c0b205343742d03"
+canonical_name: "Šaurai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šaurai","Šaurai (vieta)"]
 sameAs: []
-canonical_biography: Šaurų dvaro bibliotekoje buvo saugoma nemažai D. Poškos rankraščių.
+canonical_biography: "Šaurų dvaro bibliotekoje buvo saugoma nemažai D. Poškos rankraščių."
+place_authority: true
+historical_names: []
 ---
 # Šaurai (vieta)
 

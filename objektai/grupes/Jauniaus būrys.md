@@ -43,6 +43,7 @@ Jauniaus būriui vadovavo Juozas Karvelis-Šernas; būrys veikė Šimonių, Vie�
   santrauka: 'Antanas Starkus-Blinda 1947 m. gegužės 1 d. raporte nurodė, kad Jauniaus būrio partizanai, vadovaujami Šerno (Vlado Valikonio), mirties bausme nubaudė Šimonių valsčiaus partorgą S. Braknę.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 265"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 265."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,4 +62,3 @@ Jauniaus būriui vadovavo Juozas Karvelis-Šernas; būrys veikė Šimonių, Vie�
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

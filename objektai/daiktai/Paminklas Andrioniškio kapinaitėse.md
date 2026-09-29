@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Grasildos Grinienės pėdsakus mena paminklas Andrioniškio kapinaitėse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 202 (PDF 203)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 202 (PDF 203)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

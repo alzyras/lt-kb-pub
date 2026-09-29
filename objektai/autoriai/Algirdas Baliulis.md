@@ -41,6 +41,7 @@ Algirdas Baliulis tyrinėjo Kupiškio miesto istoriją, Palėvenės ir Palėven�
   santrauka: 'Algirdas Baliulis tyrinėjo Kupiškio miesto istoriją, Palėvenės ir Palėvenėlės vietovių istoriją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 262 (PDF 263)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 262 (PDF 263)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

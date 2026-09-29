@@ -131,6 +131,7 @@ Balys Buračas ir Elvyra Glemžaitė-Dulaitienė pateikė duomenų apie Kupiški
   santrauka: 'Balys Buračas įvardijamas kaip kraštotyrininkas, pateikęs duomenų apie Kupiškio krašto liaudies architektūrą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 703 (PDF 704)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 703 (PDF 704)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -143,6 +144,7 @@ Balys Buračas ir Elvyra Glemžaitė-Dulaitienė pateikė duomenų apie Kupiški
   santrauka: 'B. Buračo pasakojime kiekvienas piemuo į vaišes atsinešdavo savo šaukštą ir dubenėlį, o pirmiausia gaudavo po septynis virtinius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 943 (PDF 944)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 943 (PDF 944)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -154,6 +156,7 @@ Balys Buračas ir Elvyra Glemžaitė-Dulaitienė pateikė duomenų apie Kupiški
   santrauka: 'Balys Buračas rašė, kad seniau kupiškėnai vaikams skirtus margučius dėdavo ant mirusių artimųjų kapų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 991 (PDF 992)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 991 (PDF 992)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -232,4 +235,3 @@ Balys Buračas ir Elvyra Glemžaitė-Dulaitienė pateikė duomenų apie Kupiški
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-006
-

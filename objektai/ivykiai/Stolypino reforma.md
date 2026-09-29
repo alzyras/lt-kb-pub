@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Stolypino reforma priskiriama prie vėlesnių reformų, lėmusių kaimų sodybų retėjimą ir planinės struktūros kitimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 708 (PDF 709)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 708 (PDF 709)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

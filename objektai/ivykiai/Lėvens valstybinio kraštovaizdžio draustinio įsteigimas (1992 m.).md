@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Draustinio paskirtis – išsaugoti Lėvens fliuvioglacialinio senslėnio kraštovaizdį su gamtos ir kultūros paminklais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 17 (PDF 18)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 17 (PDF 18)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

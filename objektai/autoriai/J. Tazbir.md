@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9aed5761f5edb392efde77a5
-canonical_name: J. Tazbir
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. Tazbir
+entity_id: "ent-9aed5761f5edb392efde77a5"
+canonical_name: "J. Tazbir"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Tazbir"]
 sameAs: []
-canonical_biography: J. Tazbiras tekste įvardijamas kaip bajoriškosios Abiejų Tautų Respublikos kultūros tyrinėtojas.
+canonical_biography: "J. Tazbiras tekste įvardijamas kaip bajoriškosios Abiejų Tautų Respublikos kultūros tyrinėtojas."
 ---
 # J. Tazbir
 

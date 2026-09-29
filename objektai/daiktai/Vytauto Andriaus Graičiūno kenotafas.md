@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Vytauto Andriaus Graičiūno kenotafą Unė Babickaitė-Graičiūnienė pastatė Palėvenės kapinėse, nes jo amžinojo poilsio vieta nežinoma.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1112 (PDF 1113)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1112 (PDF 1113)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

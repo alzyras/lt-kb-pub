@@ -54,6 +54,7 @@ historical_names: []
   santrauka: '2011 m. lapkričio 13 d. Palėvenės parapijoje surengtame kunigo Antano Valantino 95-ųjų gimimo metinių minėjime dalyvavo Vadaktų seniūnijos delegacija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 255 (PDF 256)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 255 (PDF 256)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

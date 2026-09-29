@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1937 m. Antanas Juška buvo paskirtas Troškūnų Švč. Trejybės parapijos klebonu ir ten praleido visą karo laikotarpį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Nenurodyta
   santrauka: 'Troškūnų miestelÒ atvyko 1937 m. balandžio 23-iąją, Šv.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465-466 (PDF 466-467)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465-466 (PDF 466-467)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

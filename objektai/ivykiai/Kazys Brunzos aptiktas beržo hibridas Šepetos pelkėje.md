@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Turimi duomenys rodo, kad 1959 m. mokslininkas Kazys Brunza Šepetos pelkėje buvo aptikęs beržo keružio ir liekninio beržo hibridą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 107 (PDF 108)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 107 (PDF 108)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

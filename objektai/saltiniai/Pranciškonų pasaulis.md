@@ -41,6 +41,7 @@ Mėnraštyje „Pranciškonų pasaulis“ išspausdintame straipsnyje „Žinios
   santrauka: 'Mėnraštyje „Pranciškonų pasaulis“ išspausdintame straipsnyje „Žinios iš kongregacijų. Kupiškis“ nurodyta, kad 1938 m. Kupiškio tretininkų kongregacijoje buvo 220 narių, 1917–1938 m. mirė 139 nariai, o 20 išvyko į kitas parapijas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 409 (PDF 410)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 409 (PDF 410)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

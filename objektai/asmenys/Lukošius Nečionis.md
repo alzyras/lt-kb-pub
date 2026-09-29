@@ -41,6 +41,7 @@ Vaitas Lukošius Nečionis gyveno Gyvakaruose.
   santrauka: 'Vaitas Lukošius Nečionis gyveno Gyvakaruose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 148 (PDF 149)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 148 (PDF 149)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

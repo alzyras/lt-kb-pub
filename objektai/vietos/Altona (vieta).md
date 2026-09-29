@@ -36,6 +36,8 @@ entity_view_role: "place"
 entity_aliases: ["Altona","Altona (vieta)"]
 sameAs: []
 canonical_biography: "A. Midletonas persikėlė į Danijai priklausiusią Altoną. A. Midletonas po viešnagės Kopenhagoje vėl persikėlė į Altoną."
+place_authority: true
+historical_names: []
 ---
 # Altona (vieta)
 

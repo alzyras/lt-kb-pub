@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7a6b5fa6ccd95c8674af570f
-canonical_name: Rygos įlanka
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Rygos įlanka
+entity_id: "ent-7a6b5fa6ccd95c8674af570f"
+canonical_name: "Rygos įlanka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rygos įlanka"]
 sameAs: []
-canonical_biography: 'Plinijus Rygos įlanką vadino Sinus Clytipenus. Nuo Dauguvos žiočių iki kyšulio Domės Ness jūra pasiglemžė daug sausumos, ypač tarp šio kyšu lio ir Engūrės ežero, todėl Rygos įlanką sudaręs kyšulys išsikišo labiau į jūrą šiaurės link ir pasisuko į Eželio sa los pusę.'
+canonical_biography: "Plinijus Rygos įlanką vadino Sinus Clytipenus. Nuo Dauguvos žiočių iki kyšulio Domės Ness jūra pasiglemžė daug sausumos, ypač tarp šio kyšu lio ir Engūrės ežero, todėl Rygos įlanką sudaręs kyšulys išsikišo labiau į jūrą šiaurės link ir pasisuko į Eželio sa los pusę."
+place_authority: true
+historical_names: []
 ---
 # Rygos įlanka
 

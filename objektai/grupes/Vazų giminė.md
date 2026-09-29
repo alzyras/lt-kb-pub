@@ -61,6 +61,7 @@ Zigmanto III Vazos monograma averse buvo pavaizduota kartu su Vazų giminės her
   santrauka: 'Denaro averse esančio keturių laukų skydo centre pavaizduotas Vazų giminės javų pėdas, o laukuose pakaitomis – liūtas ir trys karūnos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 640 (PDF 641)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 640 (PDF 641)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -93,4 +94,3 @@ Zigmanto III Vazos monograma averse buvo pavaizduota kartu su Vazų giminės her
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
-

@@ -41,6 +41,7 @@ Renata Balsienė kartu su Ryčiu Abrazevičiumi teigia, kad skambinimo varpais b
   santrauka: 'Renata Balsienė kartu su Ryčiu Abrazevičiumi teigia, kad skambinimo varpais būdai atsispindi balsiniuose pamėgdžiojimuose, laikytinuose nedideliais tautosakos elementais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1007 (PDF 1008)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1007 (PDF 1008)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

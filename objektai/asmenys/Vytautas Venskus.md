@@ -41,6 +41,7 @@ Vytautas Venskus dalyvavo vyrų ansamblyje kartu su Vytautu Šimkumi, Broniumi N
   santrauka: 'Vytautas Venskus dalyvavo vyrų ansamblyje kartu su Vytautu Šimkumi, Broniumi Navarsku ir kitais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 700 (PDF 701)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 700 (PDF 701)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Iki 1946 m. pavasario Šarūno rinktinė veikė savarankiškai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 610 (PDF 611)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 610 (PDF 611)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

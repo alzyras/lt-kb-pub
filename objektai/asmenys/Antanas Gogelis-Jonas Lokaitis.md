@@ -37,6 +37,7 @@ canonical_biography: "Antanas Gogelis-Jonas Lokaitis gimė 1918 m. Obonių kaime
   santrauka: '1918 m. Obonių kaime, Šimonių valsčiuje, gimęs Antanas Gogelis-Jonas Lokaitis vadovavo devynių desantininkų diversinei grupei ir per atsakomąjį susišaudymą buvo sužeistas bei suimtas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 90-91"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 90-91."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

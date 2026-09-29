@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1870 m. Rudikų pievose stogastulpį pastatė Žegunių, Mutkūnų ir Didžprūdėlių kaimai, o salamiestietis dievdirbys Anundis jį dirbdino; aprašyme spėjama, kad Anundis dirbdino ir skulptūras.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 962 (PDF 963)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 962 (PDF 963)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

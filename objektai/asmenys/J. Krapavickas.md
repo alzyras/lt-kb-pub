@@ -41,6 +41,7 @@ J. Krapavickas buvo vienas iš asmenų, atsiuntusių knygų iš Amerikos.
   santrauka: 'J. Krapavickas buvo vienas iš asmenų, atsiuntusių knygų iš Amerikos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 787 (PDF 788)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 787 (PDF 788)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

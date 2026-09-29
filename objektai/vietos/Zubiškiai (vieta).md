@@ -56,6 +56,7 @@ MGB vidaus kariuomenės 137-ojo šaulių pulko karinė grupė gegužės 2 d. per
   santrauka: 'MGB vidaus kariuomenės 137-ojo šaulių pulko karinė grupė gegužės 2 d. per operaciją Zubiškių kaimo apylinkėse surado tris bunkerius.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 186"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 186."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -74,4 +75,3 @@ MGB vidaus kariuomenės 137-ojo šaulių pulko karinė grupė gegužės 2 d. per
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

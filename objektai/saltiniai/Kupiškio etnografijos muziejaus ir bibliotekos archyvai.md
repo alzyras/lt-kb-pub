@@ -34,6 +34,7 @@ Kupiškio etnografijos muziejaus ir bibliotekos archyvų.
   santrauka: 'Kupiškio etnografijos muziejaus ir bibliotekos archyvų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 562 (PDF 563)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 562 (PDF 563)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

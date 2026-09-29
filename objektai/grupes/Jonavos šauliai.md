@@ -40,6 +40,7 @@ Jonavos klebonas kunigas P. Vaitiekūnas buvo Jonavos šaulių globėjas.
   santrauka: 'Kun. Petras Vaitiekūnas buvo Jonavos šaulių globėjas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 506 (PDF 507)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 506 (PDF 507)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

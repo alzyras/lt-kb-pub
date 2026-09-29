@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-12cbdb0f375540d73ea63cf3
-canonical_name: Pabaltijis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pabaltijis
-  - Pabaltijis (vieta)
+entity_id: "ent-12cbdb0f375540d73ea63cf3"
+canonical_name: "Pabaltijis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pabaltijis","Pabaltijis (vieta)"]
 sameAs: []
-canonical_biography: Pabaltijyje tūkstančiui mirties atvejų teko tik 0.194 mirties nuo degtinės atvejo.
+canonical_biography: "Pabaltijyje tūkstančiui mirties atvejų teko tik 0.194 mirties nuo degtinės atvejo."
 place_authority: true
 historical_names: []
 ---

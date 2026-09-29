@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0bb0054e45d61047c860de97
-canonical_name: Veisika (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Veisika
-  - Veisika (vieta)
+entity_id: "ent-0bb0054e45d61047c860de97"
+canonical_name: "Veisika (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Veisika","Veisika (vieta)"]
 sameAs: []
-canonical_biography: Viena pilaitė stovėjo tarp Ragavos ir Veisikos upių.
+canonical_biography: "Viena pilaitė stovėjo tarp Ragavos ir Veisikos upių."
+place_authority: true
+historical_names: []
 ---
 # Veisika (vieta)
 

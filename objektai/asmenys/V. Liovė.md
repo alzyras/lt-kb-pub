@@ -63,6 +63,7 @@ Prieš sušaudymą V. Liovės nurodymu iš žydų būdavo atimami vertingesni da
   santrauka: 'Prieš sušaudymą V. Liovės nurodymu žmonės būdavo apiplėšiami, iš jų atimant vertingesnius daiktus ir pinigus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 588 (PDF 589)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 588 (PDF 589)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -75,6 +76,7 @@ Prieš sušaudymą V. Liovės nurodymu iš žydų būdavo atimami vertingesni da
   santrauka: 'Liovė paskyrė Viktorą ŽvirinÒ.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -93,4 +95,3 @@ Prieš sušaudymą V. Liovės nurodymu iš žydų būdavo atimami vertingesni da
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

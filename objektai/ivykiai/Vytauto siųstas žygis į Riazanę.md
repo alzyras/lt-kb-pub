@@ -126,6 +126,16 @@ Nenurodyta
   pagrindžia:
     - c-178911
 
+<a id="claim-t-211444"></a>
+- t-211444
+  teiginys: "O kunigaikštis Jurgis Svetoslavovičius tuo metu viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą Ivanovičių IJ."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

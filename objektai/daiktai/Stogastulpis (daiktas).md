@@ -72,6 +72,7 @@ Nenurodyta
   santrauka: 'Rastų stogastulpių Kupiškio krašte pavyzdžių yra vos keli, tačiau jų struktūros bruožai leidžia spėti, kad Kupiškio krašte buvo statomi įvairūs stogastulpių tipai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 991 (PDF 992)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 991 (PDF 992)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,4 +95,3 @@ Skuodinių kaimo stogastulpis buvo 2,5–3 m aukščio, kresnų formų, su ketur
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

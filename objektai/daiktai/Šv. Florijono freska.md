@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Galbūt po XIX a. vidurio gaisro Palėvenės bažnyčios presbiterijos kairiojoje sienoje nutapyta freska vaizdavo šv. Florijoną, liejantį vandenį ant Palėvenės šventovę primenančios bažnyčios stogo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 230 (PDF 231)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 230 (PDF 231)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

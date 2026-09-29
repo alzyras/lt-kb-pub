@@ -68,6 +68,7 @@ Algimanto apygardai vadovavo Antanas Slučka-Šarūnas (1947 m. gegužė - 1948 
   santrauka: '1949 m. lapkričio 1–2 d. per karines operacijas Svėdasų valsčiuje žuvo Algimanto apygardos vadas Antanas Starkus-Montė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,4 +89,3 @@ Algimanto apygardai vadovavo Antanas Slučka-Šarūnas (1947 m. gegužė - 1948 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

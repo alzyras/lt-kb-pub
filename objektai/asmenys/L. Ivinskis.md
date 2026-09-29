@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5fc424c24aad467c985490aa
-canonical_name: L. Ivinskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - L. Ivinskis
+entity_id: "ent-5fc424c24aad467c985490aa"
+canonical_name: "L. Ivinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["L. Ivinskis"]
 sameAs: []
-canonical_biography: Ivinskio įnašas į blaivybės idėjų propagavimą.
+canonical_biography: "Ivinskio įnašas į blaivybės idėjų propagavimą."
 ---
 # L. Ivinskis
 

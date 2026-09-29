@@ -37,6 +37,7 @@ Vladas Gudas, gyvenęs Piūklų kaime, žuvo 1944 m. lapkričio 26 d. Butėnų k
   santrauka: 'Vladas Gudas, gyvenęs Piūklų kaime, žuvo 1944 m. lapkričio 26 d. Butėnų kaime, Šimonių valsčiuje, per karinę čekistų operaciją.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 88"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 88."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

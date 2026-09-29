@@ -51,6 +51,18 @@ Nenurodyta
   pagrindžia:
     - c-205315
 
+<a id="claim-t-223292"></a>
+- t-223292
+  teiginys: "Kita brolių kariuomenės dalis nusiaubė Aukaimio apylinkes, o 30 krikščionių žuvo nuo kalavijo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203846
+
 ## Santrauka
 
 Pilėnas Svirtilas išdavė Aukaimio pilį broliams, kurie nužudė vyrus, paėmė moteris ir vaikus bei antrą kartą iki pamatų sugriovė pilį. Kita brolių kariuomenės dalis nusiaubė Aukaimio apylinkes, o 30 krikščionių žuvo nuo kalavijo.
@@ -72,6 +84,8 @@ Pilėnas Svirtilas išdavė Aukaimio pilį broliams, kurie nužudė vyrus, paėm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223292
 
 - id: c-205315
   autorius: "Petras Dusburgietis"

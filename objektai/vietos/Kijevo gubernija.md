@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-87fb07658837f23b8e94a386
-canonical_name: Kijevo gubernija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kijevo gubernija
+entity_id: "ent-87fb07658837f23b8e94a386"
+canonical_name: "Kijevo gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kijevo gubernija"]
 sameAs: []
-canonical_biography: Kijevo gubernijoje esanti Rosės upė įteka į Dneprą dešiniajame krante.
+canonical_biography: "Kijevo gubernijoje esanti Rosės upė įteka į Dneprą dešiniajame krante."
+place_authority: true
+historical_names: []
 ---
 # Kijevo gubernija
 

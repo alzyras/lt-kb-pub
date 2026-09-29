@@ -34,6 +34,7 @@ Arūnas Vaicekauskas straipsnyje „Didžiosios pavasario šventės Kupiškio kr
   santrauka: 'Elvyros Dulaitienės-Glemžaitės monografija „Kupiškėnų senovė“ priskiriama prie kupiškėnų šventiniams papročiams skirtų darbų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 928 (PDF 929)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 928 (PDF 929)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

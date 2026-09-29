@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Raseinių valsčius"]
 sameAs: []
 canonical_biography: "Raseinių valsčiaus žemininko Tomo Petravičiaus."
+place_authority: true
+historical_names: []
 ---
 # Raseinių valsčius
 

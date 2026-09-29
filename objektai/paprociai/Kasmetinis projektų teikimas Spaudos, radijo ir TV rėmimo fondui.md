@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Redakcija kasmet teikė ir teikia Spaudos, radijo ir TV rėmimo fondui po naują projektą finansuoti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 837 (PDF 838)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 837 (PDF 838)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

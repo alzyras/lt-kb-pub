@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Aldona Vasiliauskienė rašė, kad Kupiškio parapijos dvasininkus skaudino asocialių šeimų vaikų skurdas, o parapijos „Caritas“ ėmėsi rūpintis vaikų globos namų steigimu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 555 (PDF 556)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 555 (PDF 556)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

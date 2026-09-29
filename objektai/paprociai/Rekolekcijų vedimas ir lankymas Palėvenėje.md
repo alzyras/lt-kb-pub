@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'P. Masilionis vedė rekolekcijas Kauno kunigų seminarijoje ir Palėvenės Šv. Dominyko bažnyčioje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 244 (PDF 245)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 244 (PDF 245)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -39,6 +39,7 @@ Kupiškyje veikė „Hapoel“ ir „Makabi“ sporto organizacijų padaliniai, 
   santrauka: 'Kupiškyje veikė „Hapoel“ ir „Makabi“ sporto organizacijų padaliniai, o šių draugijų tikslai buvo rūpintis doru tautiniu, dvasiniu ir fiziniu auklėjimu, skaityti paskaitas apie sportą bei rengti sporto šventes.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 567 (PDF 568)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 567 (PDF 568)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

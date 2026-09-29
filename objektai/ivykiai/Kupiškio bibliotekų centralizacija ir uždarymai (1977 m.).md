@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1977 m. vykdant bibliotekų centralizaciją uždaryta rajoninė vaikų biblioteka.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 815 (PDF 816)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 815 (PDF 816)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

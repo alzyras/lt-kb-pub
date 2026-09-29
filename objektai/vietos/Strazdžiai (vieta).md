@@ -54,6 +54,7 @@ Paulius Čiučkis gimė Strazdžių kaime, Vabalninko parapijoje, 1915 m. lapkri
   santrauka: 'Paulius Čiučkis gimė Strazdžių kaime, Vabalninko parapijoje, 1915 m. lapkričio 4 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 536 (PDF 537)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 536 (PDF 537)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

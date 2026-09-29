@@ -50,6 +50,7 @@ Kazys Misius rašė apie Kupiškio bažnyčią ir parapiją.
   santrauka: 'Kazys Misius rašė apie Kupiškio bažnyčią ir parapiją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 362 (PDF 363)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 362 (PDF 363)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

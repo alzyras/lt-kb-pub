@@ -41,6 +41,7 @@ R. Puškorius iš Kretingos buvo Aleknų šeimos, Dapšių ir Deksnių kapų pam
   santrauka: 'R. Puškorius iš Kretingos sukūrė Aleknų šeimos, Dapšių ir Deksnių kapų paminklus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 994 (PDF 995)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 994 (PDF 995)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

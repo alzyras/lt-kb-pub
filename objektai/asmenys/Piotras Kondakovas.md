@@ -50,6 +50,7 @@ Už 1952 m. trėmimus buvo atsakingas SSRS MGB ministro pavaduotojas, generolas 
   santrauka: 'Už 1952 m. trėmimus buvo atsakingas SSRS MGB ministro pavaduotojas, generolas majoras Piotras Kondakovas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 595 (PDF 596)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 595 (PDF 596)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

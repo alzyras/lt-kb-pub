@@ -39,6 +39,7 @@ TSKP nubrėžta programa numatė kolūkiuose plėsti naujų pastatų statybą, a
   santrauka: 'Vykdant TSKP nubrėžtą programą buvo raginama plėsti naujų pastatų statybą kolūkiuose, įrengti tinkamas patalpas visuomeniniams gyvuliams ir organizuoti kolūkiečių persikėlimą į gyvenvietes.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 783 (PDF 784)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 783 (PDF 784)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

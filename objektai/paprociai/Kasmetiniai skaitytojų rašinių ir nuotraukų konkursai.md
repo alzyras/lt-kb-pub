@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Lietuvos Nepriklausomybės atkūrimo 20-mečio proga paskelbtas rašinių konkursas „Mano vasara Europos Sąjungoje“ paskatino skaitytojus dalytis kelionių po užsienį įspūdžiais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 835 (PDF 836)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 835 (PDF 836)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

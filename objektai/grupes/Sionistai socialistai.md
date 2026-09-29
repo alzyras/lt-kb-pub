@@ -34,6 +34,7 @@ Kupiškyje veikė pagrindinių sionistinių organizacijų poskyriai, tarp jų �
   santrauka: 'Kupiškyje veikė sionistų socialistų organizacijos poskyris.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 566 (PDF 567)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 566 (PDF 567)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

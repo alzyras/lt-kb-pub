@@ -98,6 +98,7 @@ Kazys Morkūnas, Juozo sūnus, gimė 1918 m. Ančiškių kaime, buvo Šaulių s�
   santrauka: 'Ona Dapšytė-Kriukelienė dokumentinėje kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Kazio Morkūno junginį vadina „gauja“ ir nurodo, kad 1945 m. ją sudarė trys dalyvių grupės.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 130"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 130."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -152,4 +153,3 @@ Kazys Morkūnas, Juozo sūnus, gimė 1918 m. Ančiškių kaime, buvo Šaulių s�
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-004
-

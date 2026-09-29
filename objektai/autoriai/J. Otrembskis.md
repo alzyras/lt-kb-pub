@@ -22,16 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-cb33a306cf797eb6f96fa4e2
-canonical_name: J. Otrembskis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. Otrembskis
+entity_id: "ent-cb33a306cf797eb6f96fa4e2"
+canonical_name: "J. Otrembskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Otrembskis"]
 sameAs: []
-canonical_biography: 'Šaltinio komentare teigiama, kad J. Otrembskio mintis apie 1322 m. Gedimino sutartyje dar neturėtą vėlesnę bendrinę Lietuvos reikšmę paskatino skirti aukštaičius nuo lietuvių.'
+canonical_biography: "Šaltinio komentare teigiama, kad J. Otrembskio mintis apie 1322 m. Gedimino sutartyje dar neturėtą vėlesnę bendrinę Lietuvos reikšmę paskatino skirti aukštaičius nuo lietuvių."
 ---
 # J. Otrembskis
 

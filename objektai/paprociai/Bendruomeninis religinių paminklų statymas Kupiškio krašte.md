@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Iki sovietmečio Kupiškio krašte išliko paprotys bendruomenės grupėms statyti paminklus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 964 (PDF 965)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 964 (PDF 965)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Rankraščiuose kryžių statymo intencija nurodoma kaip Dievo palaimos siekis, o nuotraukos liudija, kad Kupiškio krašte kryžiai statyti karo, pokario ir sovietmečio sąlygomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 964 (PDF 965)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 964 (PDF 965)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

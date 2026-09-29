@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Trečiajame korpuse įrengta biblioteka, o refektorijus ir biblioteka buvo atskiruose korpusuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 219 (PDF 220)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 219 (PDF 220)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

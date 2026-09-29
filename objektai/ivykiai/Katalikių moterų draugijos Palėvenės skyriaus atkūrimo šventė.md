@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Katalikių moterų draugijos Palėvenės skyriaus atkūrimo iškilmėse kanauninkas V. Rabašauskas pašventino vėliavą ir palaimino draugijos moteris.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 255 (PDF 256)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 255 (PDF 256)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -51,6 +52,7 @@ Nenurodyta
   santrauka: 'Palėvenės skyriaus atkūrimo šventėje po sveikinimų vyko konferencija tema „Moters vaidmuo bažnyčioje“, kurią vedė Kupiškio dekanas kunigas dr. Rimantas Gudelis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 255 (PDF 256)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 255 (PDF 256)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

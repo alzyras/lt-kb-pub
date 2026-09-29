@@ -40,6 +40,17 @@ media_all_json: |-
   pagrindžia:
     - c-194866
 
+<a id="claim-t-212741"></a>
+- t-212741
+  teiginys: "„Laiškai nuo Kražantės krantų“ trejus metus buvo spausdinami „Gazeta Warszawska“ puslapiuose."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-174705

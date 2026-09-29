@@ -41,6 +41,7 @@ Gruodžio 23 d. Ukmergės pavieto vaznys Valentinas Grigaitis atvyko ir surašė
   santrauka: 'Valentinas Grigaitis buvo Ukmergės pavieto vaznys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 138 (PDF 139)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 138 (PDF 139)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

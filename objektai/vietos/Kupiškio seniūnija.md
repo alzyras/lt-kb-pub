@@ -68,6 +68,7 @@ historical_names: []
   santrauka: '1775 m. Kupiškio seniūniją sudarė Pajuodupės dvaras, Kupiškio miestelis ir 45 kaimai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 170 (PDF 171)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 170 (PDF 171)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,4 +89,3 @@ historical_names: []
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

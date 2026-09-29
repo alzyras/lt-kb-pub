@@ -98,6 +98,24 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   pagrindžia:
     - c-201208
 
+<a id="claim-t-218711"></a>
+- t-218711
+  teiginys: "Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Kanada: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Huronai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kanada: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kanadoje gyvenančius huronus."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Huronai gyveno Kanada (0.91)"
+
 ## Citatos
 
 - id: c-67726

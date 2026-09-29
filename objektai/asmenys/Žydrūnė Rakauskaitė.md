@@ -41,6 +41,7 @@ canonical_biography: "Tačiau Žydrūnės Rakauskaitės entuziazmo dėka veikla 
   santrauka: 'Žydrūnės Rakauskaitės entuziazmas padėjo išlaikyti ansamblio veiklą: netrukus vėl suburtas jo branduolys ir dainuotos sutartinės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1083 (PDF 1084)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1083 (PDF 1084)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

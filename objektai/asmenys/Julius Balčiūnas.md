@@ -66,4 +66,3 @@ Julius Balčiūnas gimė 1926 m. Sungailių kaime, Vabalninko valsčiuje.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

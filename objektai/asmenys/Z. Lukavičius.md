@@ -41,6 +41,7 @@ Gaila Kirdienė Z. Lukavičių apibūdina kaip anuomet plačiai pagarsėjusį Di
   santrauka: 'Gaila Kirdienė Z. Lukavičių apibūdina kaip anuomet plačiai pagarsėjusį Didžiagrašių kaimo muzikantą; iš jo smuikuoti mokėsi J. Stankevičius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1077 (PDF 1078)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1077 (PDF 1078)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

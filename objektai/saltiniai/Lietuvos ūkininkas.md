@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1933 m. sausio 7 d. „Lietuvos ūkininke“ P. Vaitiekūnas paskelbė informaciją apie Kupiškyje įsteigtą Laisvamanių etinės kultūros draugijos biblioteką.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 789 (PDF 790)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 789 (PDF 790)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

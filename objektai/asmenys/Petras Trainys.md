@@ -41,6 +41,7 @@ Petras Trainys iš Alizavos buvo vienas kaimuose veikusių gaisrininkų draugij�
   santrauka: 'Petras Trainys iš Alizavos buvo vienas kaimuose veikusių gaisrininkų draugijų veteranų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 689 (PDF 690)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 689 (PDF 690)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

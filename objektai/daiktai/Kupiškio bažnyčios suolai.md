@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Vietos meistras Jonas Jakutis pagamino Kupiškio bažnyčios suolus, pritaikytus prie pagrindinio altoriaus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 381 (PDF 382)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 381 (PDF 382)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ Kupiškio seniūnijoje buvo apsistojusi Zigmanto Adomo Sluškos kazokų vėliava
   santrauka: 'Zigmanto Adomo Sluškos kazokų vėliava buvo apsistojusi rudenį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 156 (PDF 157)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 156 (PDF 157)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

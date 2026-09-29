@@ -74,6 +74,7 @@ Juozas Petrulis nustatė apie šimtą dievdirbių pavardžių ir, rengdamas knyg
   santrauka: 'Petrulis sukaupė medžiagos apie įvairių regionų meistrus, ekspedicijų dienoraščiuose fiksavo kūrinius, statymo intencijas ir paminklų būklę, fotografavo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 949 (PDF 950)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 949 (PDF 950)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,6 +89,7 @@ Juozas Petrulis nustatė apie šimtą dievdirbių pavardžių ir, rengdamas knyg
   santrauka: 'Juozas Petrulis rankraščiuose paliko nuorodų apie Kupiškio rajone stovėjusius paminklus ir aprašė kapinaites bei jose matytus paminklus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 949 (PDF 950)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 949 (PDF 950)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,6 +104,7 @@ Juozas Petrulis nustatė apie šimtą dievdirbių pavardžių ir, rengdamas knyg
   santrauka: '1962–1963 m. užrašuose, remdamasis senų žmonių pasakojimais, Petrulis aprašė Kupiškio kraštui būdingus stogastulpius ir koplytstulpius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 963 (PDF 964)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 963 (PDF 964)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -111,6 +114,7 @@ Juozas Petrulis nustatė apie šimtą dievdirbių pavardžių ir, rengdamas knyg
   santrauka: 'Juozo Petrulio straipsniuose trumpai aptarti Kupiškio kalviai, pateikiant jų biografijas ir paminklų vietoves.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 962 (PDF 963)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 962 (PDF 963)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -152,4 +156,3 @@ Juozas Petrulis nustatė apie šimtą dievdirbių pavardžių ir, rengdamas knyg
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
-

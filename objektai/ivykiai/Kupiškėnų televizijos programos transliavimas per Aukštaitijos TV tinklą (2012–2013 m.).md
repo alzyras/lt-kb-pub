@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Kupiškio televizijos darbuotojai 2012 m. lapkritį gavo licenciją transliuoti savo programą per „Aukštaitijos TV“ tinklą, tačiau ši galimybė baigėsi kitais metais dėl tinklo bankroto.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 846 (PDF 847)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 846 (PDF 847)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

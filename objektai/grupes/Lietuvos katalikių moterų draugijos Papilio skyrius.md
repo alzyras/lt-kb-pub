@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1932 m. balandžio 18 d. vysk. K. Paltarokas paskyrė kun. F. Ereminą Lietuvos katalikių moterų draugijos Papilio skyriaus Dvasios vadu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 522 (PDF 523)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 522 (PDF 523)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

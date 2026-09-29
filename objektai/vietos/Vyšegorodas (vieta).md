@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5f066b4abb13c3a0ebaaa6b0
-canonical_name: Vyšegorodas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Vyšegorodas
-  - Vyšegorodas (vieta)
+entity_id: "ent-5f066b4abb13c3a0ebaaa6b0"
+canonical_name: "Vyšegorodas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyšegorodas","Vyšegorodas (vieta)"]
 sameAs: []
-canonical_biography: 'Kijevo priemiesčiai—Vyšegorodas IS, Čer kasai l6, Kanevas l7, Putivlis l8, Slepovrodis l9, kad kijeviečiai su miestu pasidavė.'
+canonical_biography: "Kijevo priemiesčiai—Vyšegorodas IS, Čer kasai l6, Kanevas l7, Putivlis l8, Slepovrodis l9, kad kijeviečiai su miestu pasidavė."
+place_authority: true
+historical_names: []
 ---
 # Vyšegorodas (vieta)
 

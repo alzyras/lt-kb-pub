@@ -48,6 +48,7 @@ Kupiškio parapijos kunigai aptarnauja Rudilių koplyčią.
   santrauka: 'Kupiškio parapijos kunigai aptarnavo Rudilių koplyčią.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 453 (PDF 454)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 453 (PDF 454)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

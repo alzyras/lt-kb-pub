@@ -51,6 +51,7 @@ Tautvilis Vaitiekūnas gyveno Likalaukių kaime, Kupiškio valsčiuje. Tautvilis
   santrauka: 'Tautvilis Vaitiekūnas-Zubrys, vadintas Vėjeliu, buvo partizanas nuo 1944 m.; iš pradžių tarnavo eiliniu, o vėliau tapo Žaliosios rinktinės Eimučio būrio vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 147"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 147."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Tautvilis Vaitiekūnas gyveno Likalaukių kaime, Kupiškio valsčiuje. Tautvilis
   santrauka: 'Agentui „Angliui“ buvo pavesta nustatyti Vabalninko teritorijoje veikusių Stasio Gurklio ir Tautvilio Vaitiekūno, buvusių Povilo Laužiko skyriaus partizanų, slapstymosi vietas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 290"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 290."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,6 +71,7 @@ Tautvilis Vaitiekūnas gyveno Likalaukių kaime, Kupiškio valsčiuje. Tautvilis
   santrauka: 'Agentas „Jurgis“ per partizanų ryšininkus ir rėmėjus sekė Vabalninko teritorijoje veikusius Tautvilį Vaitiekūną ir Stasį Gurklį, buvusius Povilo Laužiko skyriaus partizanus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 304"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 304."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +81,7 @@ Tautvilis Vaitiekūnas gyveno Likalaukių kaime, Kupiškio valsčiuje. Tautvilis
   santrauka: 'Agentas „Jonas“ sekė Tautvilio Vaitiekūno ir Stasio Gurklio gimines, palaikė su jomis gerus ryšius ir per jas nustatė partizanų slapstymosi vietas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 340"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 340."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,4 +100,3 @@ Tautvilis Vaitiekūnas gyveno Likalaukių kaime, Kupiškio valsčiuje. Tautvilis
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

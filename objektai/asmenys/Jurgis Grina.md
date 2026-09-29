@@ -49,6 +49,7 @@ canonical_biography: "Jurgis Grina 1812 m. rugsėjo 24 d. Viešintų bažnyčioj
   santrauka: '1812 m. rugsėjo 24 d. Jurgis Grina vedė našlę Domicelę Gabrėnienę ir taip pradėjo 138 metus trukusią Grinų istoriją Šapaluose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 194 (PDF 195)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 194 (PDF 195)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

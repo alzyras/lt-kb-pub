@@ -34,6 +34,7 @@ Knyga „Kupiškis: Atmintis stipresnė“ naudojasi Kupiškyje savo šaknų ie�
   santrauka: 'Kupiškyje savo šaknų ieškantys žydai naudojasi knyga „Kupiškis: Atmintis stipresnė“ ir nuo jos pradeda paieškas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 577 (PDF 578)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 577 (PDF 578)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

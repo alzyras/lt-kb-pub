@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1930–1932 m. Kupiškio bažnyčiai Bochume nupirkti trys iš plieno nulieti varpai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 351 (PDF 352)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 351 (PDF 352)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -64,6 +65,7 @@ Nenurodyta
   santrauka: 'Varpai beveik neturi ornamentinės puošybos; jų puošmenos yra reljefiniai įrašai ir trys reljefinės juostos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 351 (PDF 352)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 351 (PDF 352)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

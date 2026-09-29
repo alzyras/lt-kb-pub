@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Juozas Alekna, parapijos geradaris iš Terpeikių kaimo, paaukojo naują baltą arnotą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 237 (PDF 238)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 237 (PDF 238)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

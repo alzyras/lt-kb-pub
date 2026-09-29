@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Dailininkas Antanas Kmieliauskas 1960 m. sukūrė didįjį altorių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 487 (PDF 488)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 487 (PDF 488)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

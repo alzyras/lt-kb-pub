@@ -36,6 +36,8 @@ entity_view_role: "place"
 entity_aliases: ["Krasnoje","Krasnoje (vieta)"]
 sameAs: []
 canonical_biography: "Krasnoje minimas kaip pilis į pietus nuo Polocko, paimta 1579 m."
+place_authority: true
+historical_names: []
 ---
 # Krasnoje (vieta)
 

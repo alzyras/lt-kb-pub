@@ -200,6 +200,7 @@ Antanas Bielskis buvo Albino Tindžiulio junginio, kurį sudarė apie 100 partiz
   santrauka: 'Apklausiamas neįvardytas asmuo teigė esąs Kazio Morkūno būrio partizanas ir nurodė, kad šis būrys priklausė Albino Tindžiulio partizanų junginiui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 260"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 260."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -362,4 +363,3 @@ Antanas Bielskis buvo Albino Tindžiulio junginio, kurį sudarė apie 100 partiz
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-013
-

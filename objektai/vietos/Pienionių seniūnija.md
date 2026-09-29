@@ -50,6 +50,7 @@ historical_names: []
   santrauka: '1819 m. Pienionių seniūnijos valstiečiai kartu su Kupiškio seniūnijos valstiečiais susitarė su dvarų valdytojais dėl atsiskaitymo linais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 174 (PDF 175)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 174 (PDF 175)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ historical_names: []
   santrauka: 'Adomas Jurgis Čartoriskis buvo Kupiškio ir Pienionių seniūnijų valdytojas ir aktyviai dalyvavo sukilime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 174 (PDF 175)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 174 (PDF 175)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

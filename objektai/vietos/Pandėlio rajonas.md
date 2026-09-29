@@ -49,6 +49,7 @@ Skapiškio biblioteka atiteko Pandėlio rajonui, o Alizavos biblioteka – Vabal
   santrauka: 'Skapiškio biblioteka priklausė Pandėlio rajonui, o Alizavos biblioteka – Vabalninko rajonui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 799 (PDF 800)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 799 (PDF 800)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

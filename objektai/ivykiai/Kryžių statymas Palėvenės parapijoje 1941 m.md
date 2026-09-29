@@ -65,6 +65,7 @@ Nenurodyta
   santrauka: 'Palėvenės miestelio tikintieji, nepaisydami sovietinės valdžios pasiuntinio draudimo, be leidimo pastatė kryžių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235 (PDF 236)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235 (PDF 236)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,4 +90,3 @@ Buivėnų kaimo žmonės pirmieji pastatė kryžių, o iki 1941 m. birželio Pal
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

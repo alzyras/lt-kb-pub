@@ -49,6 +49,7 @@ Klebonui J. Laurenčikui tvarkyti parapijos reikalus padėjo 1920 m. išrinktas 
   santrauka: 'Klebonui J. Laurenčikui tvarkyti parapijos reikalus padėjo 1920 m. išrinktas Palėvenės bažnyčios komitetas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 319 (PDF 320)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 319 (PDF 320)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -56,6 +56,7 @@ Albertas Nakutis-Viesulas, partizanas nuo 1944 m., vėliau tapo Algimanto apygar
   santrauka: '1948 m. liepą (kitur nurodoma birželio 15 d.) Algimanto apygardoje įkurta Kun. Margio rinktinė suvienijo Rokiškio ir Zarasų apskričių bei dalies Kupiškio apskrities, įskaitant Svėdasų valsčių, partizanus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 300"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 300."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,4 +87,3 @@ Albertas Nakutis-Viesulas, partizanas nuo 1944 m., vėliau tapo Algimanto apygar
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

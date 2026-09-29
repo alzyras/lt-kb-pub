@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Antanas Slučka-Šarūnas, Onos Dapšytės-Kriukelienės kronikoje įvardytas Rytų Lietuvos srities vadu, 1949 m. antroje pusėje pagal GDPS GPŠ statutą kuopas pertvarkė į rajonus; Šarūno rinktinėje įkurti Gintaro ir Laisvės rajonai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 330"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 330."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

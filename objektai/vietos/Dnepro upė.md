@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6a8dcb14c78fe7a0fd737514
-canonical_name: Dnepro upė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Dnepro upė
+entity_id: "ent-6a8dcb14c78fe7a0fd737514"
+canonical_name: "Dnepro upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dnepro upė"]
 sameAs: []
-canonical_biography: 'Jų žemės buvo abipus Dnepro, netoli šios upės.'
+canonical_biography: "Jų žemės buvo abipus Dnepro, netoli šios upės."
+place_authority: true
+historical_names: []
 ---
 # Dnepro upė
 

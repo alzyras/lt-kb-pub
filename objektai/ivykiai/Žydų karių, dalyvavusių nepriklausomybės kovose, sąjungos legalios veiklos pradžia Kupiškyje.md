@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Žydų karių, dalyvavusių nepriklausomybės kovose, sąjunga Kupiškyje veikė neoficialiai nuo 1927 m., o nuo 1933 m. – legaliai ir buvo viena aktyviausių organizacijų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 568 (PDF 569)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 568 (PDF 569)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

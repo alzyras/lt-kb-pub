@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4945fc01a77c535c4a81ccbf
-canonical_name: Adomas Honorijus Kirkoras
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Adomas Honorijus Kirkoras
+entity_id: "ent-4945fc01a77c535c4a81ccbf"
+canonical_name: "Adomas Honorijus Kirkoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas Honorijus Kirkoras"]
 sameAs: []
-canonical_biography: 'Šį faktą patvirtina ir keletas juodraštinių laiškų, adre suotų įvairioms valdiškoms įstaigoms, taip pat nuolatinė Ado mo Honorijaus Kirkoro pagalba panašiuose reikaluose.'
+canonical_biography: "Šį faktą patvirtina ir keletas juodraštinių laiškų, adre suotų įvairioms valdiškoms įstaigoms, taip pat nuolatinė Ado mo Honorijaus Kirkoro pagalba panašiuose reikaluose."
 ---
 # Adomas Honorijus Kirkoras
 
@@ -51,4 +49,20 @@ canonical_biography: 'Šį faktą patvirtina ir keletas juodraštinių laiškų,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-216811"></a>
+- t-001
+  teiginys: "Šį faktą patvirtina ir keletas juodraštinių laiškų, adre suotų įvairioms valdiškoms įstaigoms, taip pat nuolatinė Ado mo Honorijaus Kirkoro pagalba panašiuose reikaluose."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198526
 

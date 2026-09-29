@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Vaižganto rinktinės 1951 m. sausio 1 d. įsakyme nurodyta nuo tos dienos pavadinimą „Rajonas“ keisti į „Tėvūnijas“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 394"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 394."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -51,6 +52,7 @@ Nenurodyta
   santrauka: '1951 m. birželio 1 d. Vaižganto rinktinės įsakymu Vilties tėvūnijos vadu paskirtas Viktoras Sabaliauskas-Kirvis, Gintaro tėvūnijos vadovo pareigos laikinai pavestos Vaclovui Čepukoniui-Tigrui, o Aušros tėvūnijos vadu paskirtas Jonas Mackus-Don Kichotas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 394"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 394."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

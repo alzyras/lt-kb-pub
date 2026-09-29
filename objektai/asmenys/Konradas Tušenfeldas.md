@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f33abb22933b21470c53170e
-canonical_name: Konradas Tušenfeldas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Konradas Tušenfeldas
+entity_id: "ent-f33abb22933b21470c53170e"
+canonical_name: "Konradas Tušenfeldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Tušenfeldas"]
 sameAs: []
-canonical_biography: 'Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
+canonical_biography: "Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu."
 ---
 # Konradas Tušenfeldas
 

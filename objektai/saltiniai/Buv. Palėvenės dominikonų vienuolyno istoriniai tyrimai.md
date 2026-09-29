@@ -34,6 +34,7 @@ A. Racevičienė rankraštyje aptarė Palėvenės dominikonų vienuolyno pastat�
   santrauka: 'A. Racevičienė rankraštyje aptarė Palėvenės dominikonų vienuolyno pastatų raidą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 217 (PDF 218)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 217 (PDF 218)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

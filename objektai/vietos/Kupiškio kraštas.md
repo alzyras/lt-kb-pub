@@ -57,6 +57,7 @@ Rimutė Garnevičiūtė straipsnyje „Katalikų laidotuvių apeigos, papročiai
   santrauka: 'Rimutė Garnevičiūtė straipsnyje „Katalikų laidotuvių apeigos, papročiai ir religingumo raiška (Kupiškio apylinkės, XX a. antroji pusė–XXI a. pradžia)“ Kupiškio kraštą priskiria vidurio Lietuvos laidotuvėse giedamo Švč. Jėzaus Vardo rožinio arealui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 915 (PDF 916)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 915 (PDF 916)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,6 +67,7 @@ Rimutė Garnevičiūtė straipsnyje „Katalikų laidotuvių apeigos, papročiai
   santrauka: 'Unė Babickaitė gimė Laukminiškiuose, Kupiškio krašte.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1042 (PDF 1043)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1042 (PDF 1043)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,4 +88,3 @@ Rimutė Garnevičiūtė straipsnyje „Katalikų laidotuvių apeigos, papročiai
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

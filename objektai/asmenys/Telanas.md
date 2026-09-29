@@ -54,6 +54,16 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
   semantiniai_rysiai: "Telanas buvo sūnus Odoakras (0.96)"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
 
+<a id="claim-t-213757"></a>
+- t-213757
+  teiginys: "Telanas savo rankomis nužudė jo rūmuose puotavusį Odoakrą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.'

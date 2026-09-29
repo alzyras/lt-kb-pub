@@ -47,6 +47,7 @@ Redakcija veikė Gedimino g. 34 pastato antrajame aukšte, partijos rajono komit
   santrauka: 'Redakcija veikė Gedimino g. 34 pastato antrajame aukšte, partijos rajono komiteto jai skirtame „raudonajame kampelyje“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 829 (PDF 830)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 829 (PDF 830)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Kalviai Jonas Dagys ir Juozapas Tilindis trumpai aptarti ir Antano Stravinsko st
   santrauka: 'Kalviai Jonas Dagys ir Juozapas Tilindis trumpai aptarti ir Antano Stravinsko straipsniuose, kuriuose pateiktos jų biografijos bei paminklų vietovės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 965 (PDF 966)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 965 (PDF 966)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

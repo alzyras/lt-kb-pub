@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8d30b60e13374c52739a0092
-canonical_name: Nemunynas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Nemunynas
-  - Nemunynas (vieta)
+entity_id: "ent-8d30b60e13374c52739a0092"
+canonical_name: "Nemunynas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemunynas","Nemunynas (vieta)"]
 sameAs: []
-canonical_biography: 'Timbrą, kuri įteka į Nemunyną, arba į pietinę Nemuno atšaką.'
+canonical_biography: "Timbrą, kuri įteka į Nemunyną, arba į pietinę Nemuno atšaką."
+place_authority: true
+historical_names: []
 ---
 # Nemunynas (vieta)
 

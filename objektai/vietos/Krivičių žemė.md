@@ -64,6 +64,21 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   pagrindžia:
     - c-59210
 
+<a id="claim-t-221303"></a>
+- t-221303
+  teiginys: "Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Naugardukas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Krivičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad krivičiai apgyvendino Naugarduko regioną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Krivičiai gyveno Naugardukas (0.91)"
+
 ## Citatos
 
 - id: c-59210

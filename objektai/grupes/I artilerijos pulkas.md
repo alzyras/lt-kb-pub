@@ -34,6 +34,7 @@ Kupiškyje, Lietuvos kariuomenės kareivinėse, veikė I artilerijos pulko bibli
   santrauka: 'Kupiškyje, Lietuvos kariuomenės kareivinėse, veikė I artilerijos pulko biblioteka; keletas išlikusių knygų saugoma Kupiškio Lauryno Stuokos-Gucevičiaus gimnazijos bibliotekos fonde.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 790 (PDF 791)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 790 (PDF 791)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

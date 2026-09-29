@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1949 m. rugsėjo 4 d. Jonas Šidlauskas ir penki partizanai, vilkėję milicininkų bei sovietų karių uniformomis, užpuolė Juozą Landzbergą ir Antaną Remeiką; Remeika žuvo, o sužeistas Šidlauskas po dviejų dienų mirė.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 133-134"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 133-134."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

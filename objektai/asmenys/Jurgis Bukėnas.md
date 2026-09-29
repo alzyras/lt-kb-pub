@@ -49,6 +49,7 @@ Iki vokiečių kariuomenės atėjimo Jurgis Bukėnas buvo išrinktas Kupiškio v
   santrauka: 'Iki vokiečių kariuomenės atėjimo Jurgis Bukėnas buvo išrinktas Kupiškio valsčiaus viršaičiu ir šias pareigas ėjo visą vokiečių okupacijos laikotarpį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 581 (PDF 582)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 581 (PDF 582)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

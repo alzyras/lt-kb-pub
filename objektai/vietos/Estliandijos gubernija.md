@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Estliandijos gubernija"]
 sameAs: []
 canonical_biography: "Estliandijos gubernija priklausė Rusijos imperijos erdvei."
+place_authority: true
+historical_names: []
 ---
 # Estliandijos gubernija
 

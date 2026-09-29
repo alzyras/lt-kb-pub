@@ -49,6 +49,7 @@ canonical_biography: "1751 m. prioras Alanas Žaba rūpinosi bažnyčios remontu
   santrauka: '1751 m. naujuoju prioru paskirtas Alanas Žaba rūpinosi tik bažnyčios remontu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 318 (PDF 319)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 318 (PDF 319)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

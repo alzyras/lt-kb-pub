@@ -40,4 +40,3 @@ Petras Montrimas gyveno Girvalakių kaime, Skapiškio valsčiuje.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-09-28 17:38"
-

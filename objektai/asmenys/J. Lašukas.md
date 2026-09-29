@@ -51,6 +51,7 @@ J. Lašukas apie 1975–1980 m. pagamino medinius Kryžiaus kelio stočių rėmu
   santrauka: 'J. Lašukas apie 1975–1980 m. pagamino medinius Kryžiaus kelio stočių rėmus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 346-348 (PDF 347-349)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 346-348 (PDF 347-349)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

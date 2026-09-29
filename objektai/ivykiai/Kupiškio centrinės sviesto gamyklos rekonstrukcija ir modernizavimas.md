@@ -66,6 +66,7 @@ Nenurodyta
   santrauka: '1981 m. Kupiškio centrinėje sviesto gamykloje nuo 1973 m. veikusią vokišką sviesto gamybos liniją pakeitė įranga iš Čekijos, kurią Vaidas Petrulis apibūdino kaip modernesnę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 779 (PDF 780)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 779 (PDF 780)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,4 +91,3 @@ Nenurodyta
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-64e62bfedb0a0cc746ed8d9b
-canonical_name: Žasliai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Žasliai
-  - Žasliai (vieta)
+entity_id: "ent-64e62bfedb0a0cc746ed8d9b"
+canonical_name: "Žasliai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žasliai","Žasliai (vieta)"]
 sameAs: []
-canonical_biography: Prie Žaslių buvo išlikę du Pajautiškių kaimai.
+canonical_biography: "Prie Žaslių buvo išlikę du Pajautiškių kaimai."
+place_authority: true
+historical_names: []
 ---
 # Žasliai (vieta)
 

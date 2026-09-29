@@ -34,6 +34,7 @@ Salamiestyje laiku nepamelžtos karvės rėkimas lygintas su dūdos skleidžiamu
   santrauka: 'Salamiestyje laiku nepamelžtos karvės rėkimas lygintas su dūdos skleidžiamu garsu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1096 (PDF 1097)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1096 (PDF 1097)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Rudilių Jono Laužiko pagrindinės mokyklos direktorius ir tautodailininkas A. 
   santrauka: 'Pradinė skulptūrinės grupės „Piemenukas“ idėja priklausė Rudilių Jono Laužiko pagrindinės mokyklos direktoriui ir tautodailininkui A. Venckui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1165 (PDF 1166)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1165 (PDF 1166)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

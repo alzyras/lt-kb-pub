@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: '1948 m. birželio 3 d. Miliūnų kaime MGB kariams ieškant Šarūno rinktinės partizanų, prie Anatalijos Užtupienės namų pagal agento „Sakalo“ duomenis surengtoje pasaloje žuvo 5 MGB darbuotojai ir 2 partizanai, o 3 rusų kareiviai buvo sužeisti.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 313"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 313."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

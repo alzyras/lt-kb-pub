@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Vienas vaidinimo šaltinių buvo B. Buračo kupiškėnų vestuvių aprašas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1065 (PDF 1066)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1065 (PDF 1066)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Kunigas Juozapas Bardišauskas, padaręs daug pakeitimų ir perstatymų, užbaig
   santrauka: 'Kunigas Juozapas Bardišauskas, padaręs daug pakeitimų ir perstatymų, užbaigė Papilio bažnyčios statybą, o gyvenimą baigė Sibire, nušautas sargybinio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 522 (PDF 523)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 522 (PDF 523)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

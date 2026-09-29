@@ -34,6 +34,7 @@ XIX a. antrojoje pusėje Šapalų Grinų linija plito per Šapalų, Šalnakandž
   santrauka: 'XIX a. antrojoje pusėje Šapalų Grinų linija plito per Šapalų, Šalnakandžių ir Liepdegėnų bei Naujonių kaimus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 210 (PDF 211)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 210 (PDF 211)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

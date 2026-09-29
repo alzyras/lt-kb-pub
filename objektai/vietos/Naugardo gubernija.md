@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ae23db99bc3531405a51a6cf
-canonical_name: Naugardo gubernija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Naugardo gubernija
+entity_id: "ent-ae23db99bc3531405a51a6cf"
+canonical_name: "Naugardo gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naugardo gubernija"]
 sameAs: []
-canonical_biography: 'Naugardo gubernijoje Rusa, ar ba Russ, upei vardą davė lietuvių tautos kolonija.'
+canonical_biography: "Naugardo gubernijoje Rusa, ar ba Russ, upei vardą davė lietuvių tautos kolonija."
+place_authority: true
+historical_names: []
 ---
 # Naugardo gubernija
 

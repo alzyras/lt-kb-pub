@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1977 m. vasario 1 d. Kupiškio rajono valstybinių (viešųjų) bibliotekų tinklas buvo centralizuotas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 803 (PDF 804)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 803 (PDF 804)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

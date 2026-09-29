@@ -70,6 +70,7 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 28 (PDF 29)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 28 (PDF 29)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,6 +83,7 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Senasis kelio ruožas ėjo nuo Zuntės gatvės iki Palėvenėlės kaimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 32 (PDF 33)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 32 (PDF 33)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,6 +96,7 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Vėžionys ribojosi su Iciūnų kaimo žemėmis, priklausiusiomis Palėvenėlės dvarui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 148 (PDF 149)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 148 (PDF 149)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -113,6 +116,7 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Palėvenėlė įsikūrusi abipus kelio Kupiškis–Alizava, 7 km į šiaurę nuo Kupiškio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 779 (PDF 780)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 779 (PDF 780)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -122,6 +126,7 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Albina Žiūkienė (Katelytė), gim. 1892 m., Palėvenėlės vnk., užr.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1008 (PDF 1009)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1008 (PDF 1009)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -140,4 +145,3 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

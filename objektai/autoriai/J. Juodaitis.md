@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-df2fc9527cd9a4505725cd51
-canonical_name: J. Juodaitis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. Juodaitis
+entity_id: "ent-df2fc9527cd9a4505725cd51"
+canonical_name: "J. Juodaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Juodaitis"]
 sameAs: []
-canonical_biography: 'Juodaitis8, tačiau tai greičiau populiarinimo bandymai.'
+canonical_biography: "Juodaitis8, tačiau tai greičiau populiarinimo bandymai."
 ---
 # J. Juodaitis
 

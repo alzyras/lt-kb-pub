@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Slapieji vartai"]
 sameAs: []
 canonical_biography: "Odminių skersgatvis aprašomas kaip einantis nuo Totorių vartų iki Slapiųjų vartų."
+place_authority: true
+historical_names: []
 ---
 # Slapieji vartai
 

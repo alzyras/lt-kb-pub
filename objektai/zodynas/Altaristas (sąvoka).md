@@ -63,6 +63,7 @@ Kunigas A. Mažeika 1963 m. rugsėjo 6 d. paskirtas Kupiškio altaristu. Klebono
   santrauka: 'Klebono pareigų atsisakęs kunigas 1966 m. kovo 21 d. paskirtas Kupiškio parapijos altaristu ir šešerius metus talkino kunigui Klemensui Gutauskui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 545 (PDF 546)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 545 (PDF 546)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Kunigas A. Mažeika 1963 m. rugsėjo 6 d. paskirtas Kupiškio altaristu. Klebono
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

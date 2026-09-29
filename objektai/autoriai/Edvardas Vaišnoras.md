@@ -50,6 +50,7 @@ Būdamas silpnos sveikatos, Kupiškio altaristas Edvardas Vaišnoras stengėsi p
   santrauka: 'Būdamas silpnos sveikatos, Kupiškio altaristas Edvardas Vaišnoras stengėsi padėti parapijiečiams, klausydamas išpažinčių ir teikdamas kitas dvasines paslaugas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 427-428 (PDF 428-429)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 427-428 (PDF 428-429)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

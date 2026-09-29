@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f5ee3bb9496c514077ee37b0
-canonical_name: Grinkiškio parapija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Grinkiškio parapija
+entity_id: "ent-f5ee3bb9496c514077ee37b0"
+canonical_name: "Grinkiškio parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grinkiškio parapija"]
 sameAs: []
-canonical_biography: Grinkiškio parapijai skirtas blaivybės laiškas.
+canonical_biography: "Grinkiškio parapijai skirtas blaivybės laiškas."
 place_authority: true
 historical_names: []
 ---

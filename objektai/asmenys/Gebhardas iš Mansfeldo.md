@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0e85195451b3d4e9bbacc453
-canonical_name: Gebhardas iš Mansfeldo
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Gebhardas iš Mansfeldo
+entity_id: "ent-0e85195451b3d4e9bbacc453"
+canonical_name: "Gebhardas iš Mansfeldo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gebhardas iš Mansfeldo"]
 sameAs: []
-canonical_biography: Gebhardas iš Mansfeldo su 1500 vyrų nusiaubė Pagraudės valsčių.
+canonical_biography: "Gebhardas iš Mansfeldo su 1500 vyrų nusiaubė Pagraudės valsčių."
 ---
 # Gebhardas iš Mansfeldo
 

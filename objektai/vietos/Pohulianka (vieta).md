@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Pohulianka","Pohulianka (vieta)"]
 sameAs: []
 canonical_biography: "Septintą valandą vakaro visas miestas jau buvo Pohuliankos lygumose."
+place_authority: true
+historical_names: []
 ---
 # Pohulianka (vieta)
 

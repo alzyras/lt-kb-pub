@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'XIX a. pabaigoje–XX a. pirmojoje pusėje Kupiškio apylinkėse vyravo lotyniško tipo kryžiai su stambia altorėlio formos koplytėle kryžmos centre.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 953 (PDF 954)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 953 (PDF 954)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

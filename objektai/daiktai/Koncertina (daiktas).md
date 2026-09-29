@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Gaila Kirdienė darė prielaidą, kad koncertinos skaidrus, aukštas tembras galėjo lemti jos populiarumą tarp kupiškėnų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1076 (PDF 1077)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1076 (PDF 1077)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,6 +60,7 @@ Nenurodyta
   santrauka: 'Kupiškėnai ypač mėgo koncertiną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1078 (PDF 1079)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1078 (PDF 1079)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

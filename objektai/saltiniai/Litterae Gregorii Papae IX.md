@@ -52,3 +52,16 @@ Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-217991"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Papae IX“, paskelbtas Raynaldo „Annales ecclesiasticae“ prie 1232 metų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

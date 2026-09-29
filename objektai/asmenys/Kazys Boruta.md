@@ -41,6 +41,7 @@ Kazys Boruta patarė Juozui Baltušiui semtis kūrybos medžiagos stebint ir pa�
   santrauka: 'Kazys Boruta patarė Juozui Baltušiui semtis kūrybos medžiagos stebint ir pažįstant žmones, gamtą bei gyvenimo reiškinius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1137 (PDF 1138)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1137 (PDF 1138)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

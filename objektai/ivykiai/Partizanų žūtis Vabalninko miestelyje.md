@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1945 m. vasario 23 d. per karinę čekistų operaciją Vabalninko miestelyje buvo nušauti trys partizanai – Jonas Aukštikalnis, Petras Pavilonis ir Vaclovas Rakauskas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 151"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 151."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Egidijus Bukelskis siūlė gegužę–birželį sustiprinti žuvų apsaugą, nes trumpu ir koncentruotu neršto laikotarpiu dalis reproduktorių galėjo būti išgaudyta.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 95 (PDF 96)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 95 (PDF 96)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1909 m. Palėvenės bažnyčios remonto metu bažnytinių reikmenų dirbtuvėse nulietos gipsinės Kryžiaus kelio stotys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 231 (PDF 232)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 231 (PDF 232)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

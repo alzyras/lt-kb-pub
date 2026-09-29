@@ -56,6 +56,7 @@ media_all_json: |-
   santrauka: 'Ona Dapšytė-Kriukelienė knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ rašo, kad 1947 m. rugpjūčio 26 d. Starkaus būrio partizanai Jurgeliškių kaime mirties bausme nubaudė du stribus Drozdovus, kurių vardai nenurodyti.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 268"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 268."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,6 +66,7 @@ media_all_json: |-
   santrauka: 'Antanas Aidukas-Katinas ir Jonas Aidukas-Klevas priklausė Antano Starkaus-Blindos partizanų būriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 270"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 270."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,4 +97,3 @@ media_all_json: |-
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

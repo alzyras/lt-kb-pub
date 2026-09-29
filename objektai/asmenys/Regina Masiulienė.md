@@ -51,6 +51,7 @@ Prie Reginos Masiulienės vardo pateikti vietovardžiai Gaigaliai ir Migonys bei
   santrauka: 'Prie Reginos Masiulienės vardo pateikti vietovardžiai Gaigaliai ir Migonys bei 1967–2009 m. datos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 817 (PDF 818)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 817 (PDF 818)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

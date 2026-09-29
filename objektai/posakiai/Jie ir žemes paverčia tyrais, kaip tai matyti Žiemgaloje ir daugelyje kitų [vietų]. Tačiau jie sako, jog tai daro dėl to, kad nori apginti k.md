@@ -53,6 +53,17 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
   pagrindžia:
     - c-59738
 
+<a id="claim-t-222824"></a>
+- t-222824
+  teiginys: "Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui ir Rygos miesto tarybai)50."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:37:26Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1322 m. laiške popiežiui Gediminas kaltino kryžiuočius žemes paverčiant tyrais ir teigiant, kad taip jie gina krikščionis.'

@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Pirmasis Kupiškio sąjūdininkų susirinkimas Juozo Vanago malūne įvyko 1988 m. rugpjūčio 17 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 848 (PDF 849)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 848 (PDF 849)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

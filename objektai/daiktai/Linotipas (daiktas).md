@@ -73,6 +73,7 @@ Nenurodyta
   santrauka: 'Rajonų spaustuvėse linotipai pasirodė tik po 1960 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 825 (PDF 826)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 825 (PDF 826)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,4 +98,3 @@ Rajonų spaustuvėse linotipai pasirodė tik po 1960 m. Elvyra Didžiulytė-Bizi
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

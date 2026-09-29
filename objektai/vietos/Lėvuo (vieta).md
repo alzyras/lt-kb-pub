@@ -48,6 +48,7 @@ Iš Kupiškio tvenkinio išteka Lėvuo. Lėvuo teka rytiniu Palėvenėlės pakra
   santrauka: 'Iš Kupiškio tvenkinio išteka Lėvuo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 28 (PDF 29)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 28 (PDF 29)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Iš Kupiškio tvenkinio išteka Lėvuo. Lėvuo teka rytiniu Palėvenėlės pakra
   santrauka: 'Lėvuo teka rytiniu Palėvenėlės pakraščiu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 325-326 (PDF 326-327)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 325-326 (PDF 326-327)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

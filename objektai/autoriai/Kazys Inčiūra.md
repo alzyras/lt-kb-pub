@@ -49,6 +49,7 @@ Kazys Inčiūra 1936 m. parašė poemą „Šepetos ragana“.
   santrauka: 'Kazys Inčiūra 1936 m. parašė poemą „Šepetos ragana“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 99 (PDF 100)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 99 (PDF 100)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

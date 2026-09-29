@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-28cfa0a1580e789d2991a8e8
-canonical_name: Lencenbergas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Lencenbergas
-  - Lencenbergas (vieta)
+entity_id: "ent-28cfa0a1580e789d2991a8e8"
+canonical_name: "Lencenbergas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lencenbergas","Lencenbergas (vieta)"]
 sameAs: []
-canonical_biography: 'Lencenbergas buvo pilis, kurioje vakarieniavo Volradas su Notangos ir Varmės kilmingaisiais.'
+canonical_biography: "Lencenbergas buvo pilis, kurioje vakarieniavo Volradas su Notangos ir Varmės kilmingaisiais."
+place_authority: true
+historical_names: []
 ---
 # Lencenbergas (vieta)
 

@@ -41,6 +41,7 @@ media_all_json: |-
   santrauka: '2011 m. triatlono varžybos, tuomet vykusios kaip atviras Baltijos šalių čempionatas, pirmą kartą įtrauktos į Europos triatlono sąjungos oficialių renginių kalendorių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 41 (PDF 42)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 41 (PDF 42)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

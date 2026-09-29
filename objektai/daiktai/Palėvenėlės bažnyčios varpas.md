@@ -78,6 +78,7 @@ Nenurodyta
   santrauka: '1937 m. parapijos apyskaitoje nurodyta, kad Palėvenėlės bažnyčios varpas svėrė 10 pūdų ir neturėjo įrašų, o juo skambinta Viešpaties Angelo maldai rytais, per pietus ir vakarais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1008 (PDF 1009)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1008 (PDF 1009)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -87,6 +88,7 @@ Nenurodyta
   santrauka: 'Balandžiai apdergia Palėvenėlės bažnyčios varpą ir jo konstrukcijas bei trukdo jam gerai skambėti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1011 (PDF 1012)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1011 (PDF 1012)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -121,4 +123,3 @@ Aprašymo metu Palėvenėlės bažnyčios varpinėje buvo vienas varpas. 1937 m.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
-

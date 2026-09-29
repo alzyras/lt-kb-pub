@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1948 m. rugpjūčio 4 d. Šimonių miške įvyko Šiaurės rytų Lietuvos srities partizanų vadų ir jų atstovų sąskrydis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 619 (PDF 620)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 619 (PDF 620)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

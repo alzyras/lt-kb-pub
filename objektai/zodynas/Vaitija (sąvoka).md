@@ -48,6 +48,7 @@ media_all_json: |-
   santrauka: '1688 m. Kupiškio seniūniją sudarė keturios vaitijos, nes prie jos neseniai buvo prijungta Pienionių seniūnijai priklausiusi Kuosėnų vaitija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 159 (PDF 160)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 159 (PDF 160)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ media_all_json: |-
   santrauka: '1732 m. inventoriuje Kupiškio seniūniją sudarė keturios vaitijos: Dešrio, Morkūno, Poškos ir Kuosėnų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 169 (PDF 170)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 169 (PDF 170)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

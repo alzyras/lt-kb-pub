@@ -66,6 +66,7 @@ Jonas Katelė nuo 1872 m. pabaigos iki mirties dirbo Panemunėlyje. 1876 m. rugp
   santrauka: '1876 m. rugpjūčio 31 d. Vilniaus generalgubernatorius Petras Albedinskis kunigą Joną Katelę atidavė policijos priežiūrai už slaptų mokyklų laikymą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 468 (PDF 469)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 468 (PDF 469)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,4 +87,3 @@ Jonas Katelė nuo 1872 m. pabaigos iki mirties dirbo Panemunėlyje. 1876 m. rugp
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-18c117610845938605c5236c
-canonical_name: Vincentas Juzumas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Vincentas Juzumas
+entity_id: "ent-18c117610845938605c5236c"
+canonical_name: "Vincentas Juzumas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vincentas Juzumas"]
 sameAs: []
-canonical_biography: Vincentas Juzumas (Juzumavičius) bendradarbiavo su vysk. M. Valančiumi literatūrinėje veikloje.
+canonical_biography: "Vincentas Juzumas (Juzumavičius) bendradarbiavo su vysk. M. Valančiumi literatūrinėje veikloje."
 ---
 # Vincentas Juzumas
 

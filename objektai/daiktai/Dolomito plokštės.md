@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Dolomito plokštės naudotos statyboms: iš jų pastatyti kai kurie Palėvenės dvaro pastatai, kumetynas ir du bokštai Noriūnuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 12 (PDF 13)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 12 (PDF 13)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

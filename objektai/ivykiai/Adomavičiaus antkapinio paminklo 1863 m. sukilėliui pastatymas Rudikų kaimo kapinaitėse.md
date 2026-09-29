@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Adomavičius iškalė antkapinį paminklą savo giminaičiui, 1863 m. sukilėliui atminti, ir pastatė jį Rudikų kaimo kapinaitėse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 951 (PDF 952)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 951 (PDF 952)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

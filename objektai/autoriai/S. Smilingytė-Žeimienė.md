@@ -41,6 +41,7 @@ Dailės istorikės S. Smilingytės-Žeimienės teiginys kartu su paveikslų papl
   santrauka: 'S. Smilingytė-Žeimienė yra dailės istorikė, kurios teigimu remiamasi hipoteze, kad figūrėlių gamybos centras buvo įsikūręs Vokietijoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 671 (PDF 672)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 671 (PDF 672)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

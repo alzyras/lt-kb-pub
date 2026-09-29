@@ -54,6 +54,7 @@ Nijolė Marcinkevičienė teigia, kad Šiaurės Aukštaitijos rajonuose kadagys 
   santrauka: 'Nijolė Marcinkevičienė šiaudines figūras, vadinamas vorais arba sodais, įvardija kaip vieną svarbiausių Velykų puošybos akcentų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 934 (PDF 935)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 934 (PDF 935)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -74,4 +75,3 @@ Nijolė Marcinkevičienė teigia, kad Šiaurės Aukštaitijos rajonuose kadagys 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

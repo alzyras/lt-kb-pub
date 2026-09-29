@@ -34,6 +34,7 @@ Dalia Klajumienė pažymi, kad baldų dekore išlaikyta neogotikai būdingų ele
   santrauka: 'Baldai išlaikė neogotikai būdingų dekoro elementų visumą ir buvo derinami prie A. Zaborskio dirbtuvių altorių dekoro.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 346 (PDF 347)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 346 (PDF 347)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

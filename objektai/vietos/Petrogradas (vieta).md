@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7c7993237c00225db162934b
-canonical_name: Petrogradas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Petrogradas
-  - Petrogradas (vieta)
+entity_id: "ent-7c7993237c00225db162934b"
+canonical_name: "Petrogradas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Petrogradas","Petrogradas (vieta)"]
 sameAs: []
-canonical_biography: Nesulau kę jokios iš Petrogrado žinios mušėme te legramą Centraliniam komitetui. Centralinis komitetas iš Petrogrado atsiuntė pinigus Augštuoliui. Siunčiant daiktus į Petrogradą siūloma kartu perduoti daiktus Lietuvai.
+canonical_biography: "Nesulau kę jokios iš Petrogrado žinios mušėme te legramą Centraliniam komitetui. Centralinis komitetas iš Petrogrado atsiuntė pinigus Augštuoliui. Siunčiant daiktus į Petrogradą siūloma kartu perduoti daiktus Lietuvai."
+place_authority: true
+historical_names: []
 ---
 # Petrogradas (vieta)
 

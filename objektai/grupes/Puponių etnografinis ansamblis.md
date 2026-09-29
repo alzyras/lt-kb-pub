@@ -41,6 +41,7 @@ Jonė Žebrytė įkūrė Puponių etnografinį ansamblį ir subūrė keturias mo
   santrauka: 'Jonė Žebrytė įkūrė Puponių etnografinį ansamblį ir subūrė keturias moteris, kurios koncertuose atskirai pagiedodavo po keletą sutartinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1017 (PDF 1018)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1017 (PDF 1018)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

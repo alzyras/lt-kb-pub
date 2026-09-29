@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1914 m. rugpjūčio 3 d.–1918 m. vasario 27 d. Feliksas Grina tarnavo Rusijos kariuomenėje ir dalyvavo kovose su kaizerine Vokietija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 203 (PDF 204)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 203 (PDF 204)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

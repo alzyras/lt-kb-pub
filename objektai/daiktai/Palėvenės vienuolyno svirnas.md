@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Palėvenės vienuolyno svirnas buvo suremontuotas, o jo aplinka iš dalies sutvarkyta.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 260 (PDF 261)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 260 (PDF 261)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

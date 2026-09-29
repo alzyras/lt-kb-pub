@@ -24,16 +24,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3478dbd4ac06c9c4f4354038
-canonical_name: K. Giečys
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - K. Giečys
+entity_id: "ent-3478dbd4ac06c9c4f4354038"
+canonical_name: "K. Giečys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Giečys"]
 sameAs: []
-canonical_biography: 'K. Giečys 1935 m. Vilniuje lenkų kalba išleido studiją „Blaivybės brolijos Žemaičių diecezijoje 1858-1864 m.“. K. Giečys išsamiausiai tyrė blaivybės brolijų veiklą Žemaičių (Telšių) vyskupystėje. K. Giečys aiškino, kad pirmieji blaivybės brolijų žingsniai galėjo būti žengti neviešai.'
+canonical_biography: "K. Giečys 1935 m. Vilniuje lenkų kalba išleido studiją „Blaivybės brolijos Žemaičių diecezijoje 1858-1864 m.“. K. Giečys išsamiausiai tyrė blaivybės brolijų veiklą Žemaičių (Telšių) vyskupystėje. K. Giečys aiškino, kad pirmieji blaivybės brolijų žingsniai galėjo būti žengti neviešai."
 ---
 # K. Giečys
 

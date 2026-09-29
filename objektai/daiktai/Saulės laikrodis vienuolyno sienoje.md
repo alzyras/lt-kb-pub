@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Vienuolyno korpuso išorinėje sienoje buvo įtaisytas saulės laikrodis, kurio likučiai matomi ir šiandien.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 219 (PDF 220)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 219 (PDF 220)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

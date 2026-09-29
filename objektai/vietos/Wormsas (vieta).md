@@ -48,6 +48,7 @@ Wormso apylinkėse aptikti IV mūsų eros amžiumi datuojami marginti kiaušinia
   santrauka: 'Wormso apylinkėse aptikti IV mūsų eros amžiumi datuojami marginti kiaušiniai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 939 (PDF 940)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 939 (PDF 940)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

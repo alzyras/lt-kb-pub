@@ -49,6 +49,7 @@ canonical_biography: "1939 m. prof. V. Vilkaitis sudarė įvairių mokslo sriči
   santrauka: '1939 m. prof. V. Vilkaitis sudarė įvairių mokslo sričių tyrėjų grupę Šepetos pelkei ištirti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 23 (PDF 24)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 23 (PDF 24)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ canonical_biography: "1939 m. prof. V. Vilkaitis sudarė įvairių mokslo sriči
   santrauka: 'Profesorius V. Vilkaitis buvo ištremtas į Sibirą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 23 (PDF 24)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 23 (PDF 24)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

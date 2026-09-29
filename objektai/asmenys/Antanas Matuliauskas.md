@@ -37,6 +37,7 @@ Per 1947 m. rugpjūčio 1 d. partizanų paieškos operaciją Kraštų miške buv
   santrauka: 'Per 1947 m. rugpjūčio 1 d. partizanų paieškos operaciją Kraštų miške buvo nušautas 1914 m. Daujočių kaime gimęs ir gyvenęs partizanas Antanas Matuliauskas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 268"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 268."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

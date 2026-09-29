@@ -44,6 +44,7 @@ media_all_json: |-
   santrauka: '1945 m. Kazio Morkūno vadovaujamą partizanų būrį sudarė trys dalyvių grupės.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 130"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 130."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -53,6 +54,7 @@ media_all_json: |-
   santrauka: 'Ona Dapšytė-Kriukelienė savo kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Kazio Morkūno būrį 1945–1950 m. apibūdina kaip visiškai sunaikintą: 39 partizanai buvo nušauti, 41 suimti gyvi, o kiti legalizavosi.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 383"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 383."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -71,4 +73,3 @@ media_all_json: |-
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

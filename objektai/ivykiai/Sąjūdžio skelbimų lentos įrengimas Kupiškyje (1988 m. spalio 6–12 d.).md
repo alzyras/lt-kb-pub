@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1988 m. spalio 6 d. Sąjūdžio grupės aktyvistai pradėjo statyti skelbimų lentą prie rajono ryšių mazgo, tačiau rajono valdžiai sutrukdžius darbą užbaigė tik spalio 12 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 849 (PDF 850)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 849 (PDF 850)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -42,6 +42,7 @@ Panevėžio vyskupijos kurijos Bažnytinių turtų valdymo taryba įgaliojo Kupi
   santrauka: 'Panevėžio vyskupijos kurijos Bažnytinių turtų valdymo taryba įgaliojo Kupiškio kleboną S. Baltrimą parduoti savivaldybei 2 ha beneficijos žemės turgavietei įrengti, o gautas lėšas skirti bažnyčios reikalams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 399 (PDF 400)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 399 (PDF 400)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kelionių dalyviai lankydavo ir Vilniaus Švč. Trejybės Graikų apeigų katalikų bažnyčią, kur išgirsdavo jos, Šv. Juozapato ir Šv. Bazilijaus didžiojo ordino istorijas bei bendraudavo su bazilijonais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 550 (PDF 551)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 550 (PDF 551)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

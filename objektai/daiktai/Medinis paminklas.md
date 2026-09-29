@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Kupiškio kapinėse XX a. II pusėje–XXI a. pradžioje pastatyta nedaug medinių paminklų: vienas stogastulpis, aštuoni kryžiai ir iki 2013 m. keturiolika skulptūrinių stulpų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 991 (PDF 992)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 991 (PDF 992)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

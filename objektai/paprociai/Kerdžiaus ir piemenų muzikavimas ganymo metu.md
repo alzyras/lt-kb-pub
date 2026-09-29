@@ -59,6 +59,7 @@ Nenurodyta
   santrauka: 'Pasak B. Buračo, visi Kupiškio apylinkių piemenys grodavo ožragiais ir trimitais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1060 (PDF 1061)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1060 (PDF 1061)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Pasak B. Buračo, visi Kupiškio apylinkių piemenys grodavo ožragiais ir trimi
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

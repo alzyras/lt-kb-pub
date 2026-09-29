@@ -51,6 +51,30 @@ historical_names: []
   pagrindžia:
     - c-176870
 
+<a id="claim-t-185319"></a>
+- t-185319
+  teiginys: "Prisiekęs ištikimybę Vytautui ir jo įpėdiniams, Dimitras gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168680
+
+<a id="claim-t-193455"></a>
+- t-193455
+  teiginys: "Vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168680
+
 ## Citatos
 
 - id: c-168680
@@ -79,6 +103,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185319
+    - t-193455
 
 - id: c-176870
   autorius: "Michał Baliński"

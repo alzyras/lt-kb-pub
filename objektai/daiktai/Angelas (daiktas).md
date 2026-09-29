@@ -58,6 +58,7 @@ Nenurodyta
   santrauka: 'Skulptūra „Angelas“ yra poilsio namų teritorijoje prie Puožo ežero.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1143-1144 (PDF 1144-1145)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1143-1144 (PDF 1144-1145)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

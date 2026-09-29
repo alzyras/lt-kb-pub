@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0248ac11960bf441ff8cab39
-canonical_name: Bitinija (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Bitinija
-  - Bitinija (vieta)
+entity_id: "ent-0248ac11960bf441ff8cab39"
+canonical_name: "Bitinija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bitinija","Bitinija (vieta)"]
 sameAs: []
-canonical_biography: 'Bitinijos keliautojai vyko tirti, ar žmonės gali gyventi septintojo dangaus rato pabaigoje.'
+canonical_biography: "Bitinijos keliautojai vyko tirti, ar žmonės gali gyventi septintojo dangaus rato pabaigoje."
+place_authority: true
+historical_names: []
 ---
 # Bitinija (vieta)
 

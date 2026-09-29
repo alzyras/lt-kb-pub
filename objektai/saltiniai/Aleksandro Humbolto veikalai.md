@@ -48,3 +48,20 @@ Susimąstykime skaity dami išmintingus Aleksandro Humbolto veikalus apie Žemė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-215625"></a>
+- t-001
+  teiginys: "Susimąstykime skaity dami išmintingus Aleksandro Humbolto veikalus apie Žemės rutulio temperatūros kitimą ir aiškiai suprasime mūsų pateiktas mintis, jų tikėtinumą, žodžiu, įsitikinsi me, kad mūsų Šiaurėje labai seniai būta gyventojų, ku rie gyveno po."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195965
+

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Dalia Klajumienė paveikslą „Stemus Simul (Stosime kartu)“ apibūdino kaip simbolinę legendinio šv. Dominyko ir šv. Pranciškaus susitikimo bei apsikabinimo sceną, siejamą su krikščioniško pasaulio reforma ir išgelbėjimu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 215 (PDF 216)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 215 (PDF 216)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

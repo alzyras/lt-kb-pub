@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-bbd9b512b75432fbdfe3fc73
-canonical_name: Jurgis Nosis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jurgis Nosis
+entity_id: "ent-bbd9b512b75432fbdfe3fc73"
+canonical_name: "Jurgis Nosis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Nosis"]
 sameAs: []
-canonical_biography: 'Pinsko kunigaikštis Jurgis Nosis, kuris būtų buvęs LDK vie tininku Pskove, kituose šaltiniuose nąpaliudytas.'
+canonical_biography: "Pinsko kunigaikštis Jurgis Nosis, kuris būtų buvęs LDK vie tininku Pskove, kituose šaltiniuose nąpaliudytas."
 ---
 # Jurgis Nosis
 

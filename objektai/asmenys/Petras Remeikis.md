@@ -49,6 +49,7 @@ Nuo 2010 m. rugsėjo 23 d. Petras Remeikis vadovauja Šv. Kazimiero globos namam
   santrauka: 'Nuo 2010 m. rugsėjo 23 d. Petras Remeikis vadovauja Šv. Kazimiero globos namams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 445 (PDF 446)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 445 (PDF 446)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

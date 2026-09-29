@@ -64,6 +64,20 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   pagrindžia:
     - c-204409
 
+<a id="claim-t-224894"></a>
+- t-224894
+  teiginys: "Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225551"></a>
+- t-225551
+  teiginys: "Dažnų antpuolių nukamuotas Noliubas ilgainiui priėmė tikėjimą ir, Dusburgiečio vertinimu, tapo pagirtinu žmogumi."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Noliubas, Sklodo iš Kvedenavos sūnus, atsisakė paklusti Karaliaučiaus broliams ir nesekė savo tėvų pavyzdžiu.'

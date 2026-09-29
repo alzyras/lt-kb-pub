@@ -41,6 +41,7 @@ Aleksandro Kriūkos namai Aukštupėnuose buvo kupiškėnų muzikantų susibūri
   santrauka: 'Aleksandro Kriūkos namai Aukštupėnuose buvo kupiškėnų muzikantų susibūrimo vieta, kur jis kartu su smuikininku Kleopu Mickevičiumi ir kitais muzikantais grieždavo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1073 (PDF 1074)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1073 (PDF 1074)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

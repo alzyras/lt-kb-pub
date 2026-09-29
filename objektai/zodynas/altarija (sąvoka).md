@@ -45,6 +45,7 @@ media_all_json: |-
   santrauka: '1992 m. Kupiškio parapija kelis kartus pirko silikatinių plytų altarijos remontui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 542 (PDF 543)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 542 (PDF 543)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0abc877f85748001bbcaf386
-canonical_name: A. Kitovičius
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Kitovičius
+entity_id: "ent-0abc877f85748001bbcaf386"
+canonical_name: "A. Kitovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Kitovičius"]
 sameAs: []
-canonical_biography: A. Kitovičius aprašo Augusto III laikų kasdienį gyvenimą ir papročius.
+canonical_biography: "A. Kitovičius aprašo Augusto III laikų kasdienį gyvenimą ir papročius."
 ---
 # A. Kitovičius
 

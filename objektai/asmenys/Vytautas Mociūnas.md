@@ -37,6 +37,7 @@ Vytautas Mociūnas-Jagminas, kaip nurodo Ona Dapšytė-Kriukelienė, buvo suimta
   santrauka: 'Vytautas Mociūnas-Jagminas, kaip nurodo Ona Dapšytė-Kriukelienė, buvo suimtas 1948 m. sausio 3 d. per karinę čekistų operaciją Duoniūnų kaime.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 253"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 253."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ Vytautas Mociūnas-Jagminas, kaip nurodo Ona Dapšytė-Kriukelienė, buvo suimta
   santrauka: 'Vytautas Mociūnas-Jagminas, kaip nurodo Ona Dapšytė-Kriukelienė, buvo suimtas 1948 m. sausio 3 d. per karinę čekistų operaciją prie Duoniūnų kapinių.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 278-279"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 278-279."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

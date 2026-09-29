@@ -48,6 +48,7 @@ Salamiesčio apylinkėse srautų vagos ir smėlio bei žvyro plotai siaurais ruo
   santrauka: 'Apie Salamiestį yra srautų vagų ir smėlio bei žvyro plotų, kurie siaurais ruožais tęsiasi pietryčių kryptimi pro Gyvakarų kaimą iki Kupiškio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 13 (PDF 14)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 13 (PDF 14)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

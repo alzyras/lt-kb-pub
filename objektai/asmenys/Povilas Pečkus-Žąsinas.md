@@ -49,6 +49,7 @@ canonical_biography: "Povilas Pečkus-Žąsinas žuvo 1949 m. balandžio 27 d. �
   santrauka: 'Šarūno rinktinės Algirdo kuopos Jauniaus būrio partizanas Povilas Pečkus-Žąsinas buvo nukautas balandžio 27 d. Šimonių miške.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

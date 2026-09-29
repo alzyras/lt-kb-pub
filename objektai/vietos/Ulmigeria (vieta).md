@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ebdc6e98e6edc9ba0de0c494
-canonical_name: Ulmigeria (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ulmigeria
-  - Ulmigeria (vieta)
+entity_id: "ent-ebdc6e98e6edc9ba0de0c494"
+canonical_name: "Ulmigeria (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ulmigeria","Ulmigeria (vieta)"]
 sameAs: []
-canonical_biography: 'Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri.'
+canonical_biography: "Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri."
+place_authority: true
+historical_names: []
 ---
 # Ulmigeria (vieta)
 

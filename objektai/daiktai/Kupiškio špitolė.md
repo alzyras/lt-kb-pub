@@ -71,6 +71,7 @@ Nenurodyta
   santrauka: 'Aldona Vasiliauskienė „Kristaus Žengimo į dangų bažnyčios ir parapijos istorijoje“ Kupiškio špitolės 1811 m. statybą sieja su Antano Sebastijansko rūpesčiu; 1812 m. joje gyveno 10 elgetų ir 3 invalidai, išlaikomi Angelės Rodzevičienės lėšomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 374 (PDF 375)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 374 (PDF 375)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,4 +96,3 @@ Kupiškio špitolė, kaip šaltinis nurodo, 1811 m. pastatyta klebono Antano Seb
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

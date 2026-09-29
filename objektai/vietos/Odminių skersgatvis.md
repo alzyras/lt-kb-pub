@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Odminių skersgatvis"]
 sameAs: []
 canonical_biography: "Namas buvo nurodytas antrame Odminių skersgatvyje."
+place_authority: true
+historical_names: []
 ---
 # Odminių skersgatvis
 

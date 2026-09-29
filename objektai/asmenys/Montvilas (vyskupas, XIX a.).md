@@ -27,16 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-208c0ed33da7214e768f55b4
-canonical_name: 'Montvilas (vyskupas, XIX a.)'
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Montvilas
-  - 'Montvilas (vyskupas, XIX a.)'
+entity_id: "ent-208c0ed33da7214e768f55b4"
+canonical_name: "Montvilas (vyskupas, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Montvilas","Montvilas (vyskupas, XIX a.)"]
 sameAs: []
-canonical_biography: '1867 m. VII.20 vyskupas rašė Batakių dekanui kun. Montvilui, jog dekanas privaląs budėti, kad kunigai sekma dieniais katekizuotų žmones, o per šventes sakytų pamoks lus.'
+canonical_biography: "1867 m. VII.20 vyskupas rašė Batakių dekanui kun. Montvilui, jog dekanas privaląs budėti, kad kunigai sekma dieniais katekizuotų žmones, o per šventes sakytų pamoks lus."
 ---
 # Montvilas (vyskupas, XIX a.)
 

@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-dcaad2ce6d1a290b6355fda5
-canonical_name: Brabantas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Brabantas
-  - Brabantas (vieta)
+entity_id: "ent-dcaad2ce6d1a290b6355fda5"
+canonical_name: "Brabantas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brabantas","Brabantas (vieta)"]
 sameAs: []
-canonical_biography: 'Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei.'
+canonical_biography: "Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei."
+place_authority: true
+historical_names: []
 ---
 # Brabantas (vieta)
 

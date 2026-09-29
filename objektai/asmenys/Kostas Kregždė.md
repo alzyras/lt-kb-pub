@@ -64,6 +64,7 @@ Suimtas Pilėnų tėvūnijos vadas Kostas Kregždė teigė, kad 1944 m. lapkrič
   santrauka: '1951 m. po dalies Pilėnų tėvūnijos štabo vadų sunaikinimo, kaip nurodo kronika, štabo viršininku paskirtas Kostas Kregždė, Jurgio.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 400-401"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 400-401."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,4 +95,3 @@ Suimtas Pilėnų tėvūnijos vadas Kostas Kregždė teigė, kad 1944 m. lapkrič
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

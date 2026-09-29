@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Šv. Hiacinto altorius turėjo tik vieną titulinį paveikslą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 216 (PDF 217)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 216 (PDF 217)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

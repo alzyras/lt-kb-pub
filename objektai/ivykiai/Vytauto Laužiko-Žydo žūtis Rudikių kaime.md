@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Ona Dapšytė-Kriukelienė knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad Vytautas Laužikas-Žydas žuvo 1948 m. liepos 24 d. naktį į 25 d. emgėbistų pasaloje Rudikių kaime.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 289"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 289."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

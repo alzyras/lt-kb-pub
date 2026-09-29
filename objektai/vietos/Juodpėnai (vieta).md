@@ -54,6 +54,7 @@ Nuo 1952 m. lapkričio 22 d. biblioteka veikė Juodpėnuose.
   santrauka: 'Nuo 1952 m. lapkričio 22 d. biblioteka veikė Juodpėnuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 800 (PDF 801)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 800 (PDF 801)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

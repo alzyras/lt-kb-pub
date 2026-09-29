@@ -84,4 +84,3 @@ Viename kronikos įraše Petras Žemaitis nurodytas kaip eilinis iš Pandėlio v
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

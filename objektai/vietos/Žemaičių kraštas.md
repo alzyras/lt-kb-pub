@@ -73,6 +73,15 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   pagrindžia:
     - c-192894
 
+<a id="claim-t-210023"></a>
+- t-210023
+  teiginys: "Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192587
+
 ## Citatos
 
 - id: c-10528
@@ -122,6 +131,8 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210023
 
 - id: c-192894
   autorius: "Simonas Daukantas"

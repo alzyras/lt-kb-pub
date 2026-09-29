@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Ingolštatas","Ingolštatas (vieta)"]
 sameAs: []
 canonical_biography: "Iš Ingolštato Aleksandras Olelkaitis atvyko į Bazelį."
+place_authority: true
+historical_names: []
 ---
 # Ingolštatas (vieta)
 

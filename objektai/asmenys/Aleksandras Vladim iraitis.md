@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5ab300843f07a1d00686d7cf
-canonical_name: Aleksandras Vladim iraitis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Aleksandras Vladim iraitis
+entity_id: "ent-5ab300843f07a1d00686d7cf"
+canonical_name: "Aleksandras Vladim iraitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Vladim iraitis"]
 sameAs: []
-canonical_biography: 'Aleksandras Vladim iraitis, pramintas Olelka, buvo Kijevo kunigaikštis.'
+canonical_biography: "Aleksandras Vladim iraitis, pramintas Olelka, buvo Kijevo kunigaikštis."
 ---
 # Aleksandras Vladim iraitis
 

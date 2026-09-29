@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Palėvenės bažnyčios Šv. Dominyko ir Šv. Tomo Akviniečio altoriai restauruoti 2010–2012 m.; jie yra abipus Didžiojo altoriaus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 234 (PDF 235)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 234 (PDF 235)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

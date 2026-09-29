@@ -58,3 +58,24 @@ Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-216585"></a>
+- t-001
+  teiginys: "Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie Prilvico kaimo netoli Penclino Meklenburge."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Herulai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Retra: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata Retrą apibūdina kaip herulų miestą, todėl ji siejama su herulais."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Retra priklausė Herulai (0.88)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

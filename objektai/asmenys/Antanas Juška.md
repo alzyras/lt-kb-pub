@@ -66,6 +66,7 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   santrauka: 'Panevėžyje Juška organizavo slapta veikusius ateitininkus, vadovavo blaivybės draugijai ir buvo pavasarininkų dvasios vadas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +79,7 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   santrauka: 'Po Stalino mirties speciali komisija, iš naujo persvarsčiusi Antano Juškos bylą, sumažino jam skirtą bausmę nuo 25 iki 8 metų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,6 +92,7 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   santrauka: 'Kunigas Antanas Juška rėmė spaudą ir katalikiškas organizacijas bei globojo moksleivius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 467 (PDF 468)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 467 (PDF 468)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -108,4 +111,3 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

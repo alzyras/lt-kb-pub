@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1850 m. nuvalyti bažnyčios karnizai ir dirbtinio marmuro paviršiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 227 (PDF 228)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 227 (PDF 228)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

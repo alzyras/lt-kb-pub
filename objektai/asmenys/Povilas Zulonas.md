@@ -41,6 +41,7 @@ Kupiškio L. Stuokos-Gucevičiaus aikštėje esanti skulptūrų kompozicija „S
   santrauka: 'Pagrindinėje Kupiškio L. Stuokos-Gucevičiaus aikštėje esanti skulptūrų kompozicija „Senovinės kupiškėnų vestuvės“ skirta režisieriui Povilui Zulonui ir jo atgaivintam spektakliui įamžinti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1146 (PDF 1147)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1146 (PDF 1147)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

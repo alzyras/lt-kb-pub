@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Savisaugos būrio nariams buvo išduodami raudoni raiščiai su svastika baltame apskritime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 583 (PDF 584)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 583 (PDF 584)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

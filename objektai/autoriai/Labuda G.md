@@ -27,16 +27,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fbdc1115982e4222cc22e763
-canonical_name: Labuda G
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Labuda G
-sameAs: []
-canonical_biography: 'Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigia, kad jučas); Labuda G. Dusburgietis teigia, kad labuda G.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:48:28+00:00","source_checked_at":"2026-09-20T14:48:28+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"45493dac0e0ce8b3f96c0fde","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus.","context":"Nurodyta 1985 m. leidinio bibliografijoje: „Labuda G. Rec.: M. Hellman. Über die Grundlagen...“","support_ids":["t-224698","c-203985"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224698","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203985","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro 149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование..., с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24— 30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV iš Dusburgo kronikos faktai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T14:48:28+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
 object_page_finisher: 'true'
@@ -50,6 +40,13 @@ object_page_seo_description: 'Labuda G: Dusburgietis teigia, kad , norėdamas kr
 object_page_seo_input_hash: ad8575edde51ee1008c73db9c5b63ec3918a8055e1af1a703cdd25be0a0467a4
 object_page_seo_generated_at: '2026-09-20T14:48:28+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-fbdc1115982e4222cc22e763"
+canonical_name: "Labuda G"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Labuda G"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigia, kad jučas); Labuda G. Dusburgietis teigia, kad labuda G."
 ---
 # Labuda G
 

@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1948 m. vasario 13 d. vyskupas K. Paltarokas, kongregacijos provincijolei prašant, paskyrė kun. K. Dulksnį Rokiškio namų paprastuoju nuodėmklausiu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 458 (PDF 459)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 458 (PDF 459)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

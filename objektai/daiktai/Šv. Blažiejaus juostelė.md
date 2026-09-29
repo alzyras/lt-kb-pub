@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Pašventinus Šv. Blažiejaus juostelę, jos galas būdavo uždegamas kaip žvakė, o šventoji ugnis parsinešama namo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 934 (PDF 935)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 934 (PDF 935)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

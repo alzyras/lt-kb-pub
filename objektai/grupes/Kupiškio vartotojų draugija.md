@@ -34,6 +34,7 @@ Blaivybės skyrius buvo įnešęs 100 rublių pajų į Kupiškio vartotojų drau
   santrauka: 'Blaivybės skyrius buvo įnešęs 100 rublių pajų į Kupiškio vartotojų draugiją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 394 (PDF 395)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 394 (PDF 395)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

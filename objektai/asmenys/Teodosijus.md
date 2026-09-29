@@ -77,6 +77,18 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   pagrindžia:
     - c-198634
 
+<a id="claim-t-216840"></a>
+- t-216840
+  teiginys: "Teodosijus yra pasišventimo simbolis, dievų paslapčių ir glo- 14 Qui etiam hieroglificamm literarum interpretendarum periti, characterem sub crucis forma vitam futurum significare dixerunt (lib."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198634
+
 ## Citatos
 
 - id: c-32808
@@ -136,5 +148,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-216840
     - t-220088
 

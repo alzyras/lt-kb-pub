@@ -49,6 +49,7 @@ Juozo Giedraičio SJ sekimas ir tyrimas 1981 m. turėjo būti sustiprinti.
   santrauka: '1981 m. buvo numatyta sustiprinti Juozo Giedraičio SJ sekimą ir tyrimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 438 (PDF 439)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 438 (PDF 439)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

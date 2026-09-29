@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Kinas Kupiškyje pradėtas demonstruoti 1944 m. rugsėjo 15 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 772 (PDF 773)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 772 (PDF 773)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

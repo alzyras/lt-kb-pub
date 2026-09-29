@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-bba27efe76f64aa88b9d9273
-canonical_name: Anonas iš Zangershauzeno
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Anonas iš Zangershauzeno
+entity_id: "ent-bba27efe76f64aa88b9d9273"
+canonical_name: "Anonas iš Zangershauzeno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Anonas iš Zangershauzeno"]
 sameAs: []
-canonical_biography: Anonas iš Zangershauzeno buvo Teutonų ordino didysis magistras.
+canonical_biography: "Anonas iš Zangershauzeno buvo Teutonų ordino didysis magistras."
 ---
 # Anonas iš Zangershauzeno
 

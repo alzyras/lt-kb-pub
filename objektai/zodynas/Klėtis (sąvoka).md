@@ -39,6 +39,7 @@ Klėtis (kup. klatis) yra atskiras kaimo sodybos ūkinis trobesys, kuriame laiky
   santrauka: 'Klėtis (kupi. klatis) – atskiras kaimo sodybos ūkinis trobesys grūdams, maisto produktams ir drabužiams laikyti, taip pat poilsiui bei miegui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 713 (PDF 714)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 713 (PDF 714)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -48,3 +48,20 @@ Plinijus rašo, kad spaliai buvę kairiojoje Dono pakrantėje, prie Kimerijos Bo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-212960"></a>
+- t-001
+  teiginys: "Plinijus rašo, kad spaliai buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo ro2; šis teiginys, paimtas iš senovės geografų ir esantis Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai sena, be to, Jordanas teigia, kad spaliai gyveno dabarti nėje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196342
+

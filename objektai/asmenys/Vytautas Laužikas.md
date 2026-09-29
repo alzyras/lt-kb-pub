@@ -51,6 +51,7 @@ Vytautas Laužikas gyveno Astravų kaime, Kupiškio valsčiuje. Vytautas Laužik
   santrauka: 'Vytautas Laužikas-Žydas, kaip nurodo Ona Dapšytė-Kriukelienė, žuvo 1948 m. liepos 24 d. naktį į 25 d. emgėbistų surengtoje pasaloje Rudikių kaime, Aukštupėnų valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 289"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 289."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,4 +70,3 @@ Vytautas Laužikas gyveno Astravų kaime, Kupiškio valsčiuje. Vytautas Laužik
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

@@ -22,7 +22,7 @@ entity_id: "ent-67ce2c88bc4dd3a8a35be37c"
 canonical_name: "Chodka Jurgaitis"
 entity_roles: ["person"]
 entity_view_role: "person"
-entity_aliases: ["Chodka Jurgaitis","[\"Chodka\", \"Chodor\", \"Fiodoras\"]"]
+entity_aliases: ["Chodka","Chodka Jurgaitis","[\"Chodka\", \"Chodor\", \"Fiodoras\"]","Chodor","Fiodoras"]
 sameAs: []
 canonical_biography: "Chodka Jurgaitis – XV a. pirmosios pusės Lietuvos Didžiosios Kunigaikštystės didikas, laikomas Chodkevičių giminės pirmtaku. Genutė Kirkienė jį sieja su Gardino žeme ir pabrėžia, kad ankstesnės kilmės versijos nėra galutinai įrodytos."
 ---

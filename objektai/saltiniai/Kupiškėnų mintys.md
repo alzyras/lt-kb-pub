@@ -34,6 +34,7 @@ Kupiškėnų mintys buvo rajoninis laikraštis, kurio žurnalistai buvo kviečia
   santrauka: 'Kupiškėnų mintys buvo rajoninis laikraštis, kurio žurnalistai buvo kviečiami rengti televizijos laidas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 846 (PDF 847)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 846 (PDF 847)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

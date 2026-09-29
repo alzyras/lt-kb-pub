@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Per 1781 m. gaisrą Kupiškio parapinė mokykla sudegė iki pamatų kartu su klebonijos trobesiais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 271 (PDF 272)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 271 (PDF 272)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

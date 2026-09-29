@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Teksto rinkėjų darbas prie raidžių kasų buvo įtemptas, reikalavo kruopštumo ir fiziškai vargino.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 826 (PDF 827)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 826 (PDF 827)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Harlemas","Harlemas (vieta)"]
 sameAs: []
 canonical_biography: "Harlemo laikraščiuose buvo publikuojami A. Midletono parengti straipsniai."
+place_authority: true
+historical_names: []
 ---
 # Harlemas (vieta)
 

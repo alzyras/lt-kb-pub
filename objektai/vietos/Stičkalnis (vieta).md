@@ -48,6 +48,7 @@ Tūbelio sodyboje Stičkalnyje buvo K. Gabrėno darytas kryžius.
   santrauka: 'Tūbelio sodyboje Stičkalnyje buvo K. Gabrėno darytas kryžius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 992 (PDF 993)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 992 (PDF 993)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

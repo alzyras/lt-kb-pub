@@ -49,6 +49,7 @@ Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodišk
   santrauka: 'Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodiškiu ir Mataušu Kunčiu-Starkumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodišk
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

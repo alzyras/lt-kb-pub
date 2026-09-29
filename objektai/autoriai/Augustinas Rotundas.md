@@ -23,16 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-c3371b754b932cc0f62868ce
-canonical_name: Augustinas Rotundas
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Augustinas Rotundas
+entity_id: "ent-c3371b754b932cc0f62868ce"
+canonical_name: "Augustinas Rotundas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Augustinas Rotundas"]
 sameAs: []
-canonical_biography: 'Augustinas Rotundas, pavestas Žygimanto Augusto, lotyniškai rašė pirmąją Lietuvos istoriją.'
+canonical_biography: "Augustinas Rotundas, pavestas Žygimanto Augusto, lotyniškai rašė pirmąją Lietuvos istoriją."
 ---
 # Augustinas Rotundas
 

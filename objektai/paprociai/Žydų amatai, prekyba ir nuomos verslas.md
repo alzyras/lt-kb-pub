@@ -59,6 +59,7 @@ Nenurodyta
   santrauka: 'Nepaisydami suvaržymų ir konkurencijos, žydai toliau vertėsi amatais ir prekyba, o kai kurie užsiėmė dvarų ar jų objektų, įskaitant malūnus, lentpjūves ir alaus daryklas, nuoma.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 564 (PDF 565)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 564 (PDF 565)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Kupiškio žydai, nepaisydami suvaržymų ir augančios konkurencijos, vertėsi 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Šepetos apylinkėse rasti akmeniniai kirvukai aptikti dirvos paviršiuje dirbant lauko darbus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 107 (PDF 108)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 107 (PDF 108)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

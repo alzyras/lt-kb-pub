@@ -41,6 +41,7 @@ Naivių kaime Domo Tunkevičiaus namo langai turėjo lygius klasicistinio stilia
   santrauka: 'Naivių kaime Domo Tunkevičiaus namo langai turėjo lygius klasicistinio stiliaus karnizus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 712 (PDF 713)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 712 (PDF 713)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

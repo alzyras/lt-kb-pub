@@ -66,4 +66,3 @@ Stasys Indriliūnas, Alekso sūnus, gimė 1914 m. ir gyveno Deikiškių kaime.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

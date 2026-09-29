@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Eilutėse pasakojama, kad neįvardyta veikėja išvyko stiklinėje karietoje, o dvylika raitelių ją išvežė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 99 (PDF 100)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 99 (PDF 100)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

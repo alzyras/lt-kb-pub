@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: '1929 m. gimusi pateikėja pasakojo, kad nuo paauglystės giedojo bažnyčioje ir laidotuvėse, bažnyčios chore – iki 1958 m., o laidotuvėse retkarčiais gieda ir dabar.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1081-1082 (PDF 1082-1083)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1081-1082 (PDF 1082-1083)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

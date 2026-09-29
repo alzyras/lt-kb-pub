@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Po nesėkmingos paieškos nutarta suimti ryšininkus ir rėmėjus, kuriuos atskleisti padėjo Zdanauskas; iš viso sulaikyta 18 žmonių.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 177"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 177."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

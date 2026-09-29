@@ -72,4 +72,3 @@ Milda Skardžiuvienė Topolių bibliotekoje dirbo 1960–1993 metais.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

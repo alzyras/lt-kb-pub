@@ -41,6 +41,7 @@ media_all_json: |-
   santrauka: '1930–1932 m., statant altorius koplyčiose, Bochumo liejykloje Vereinigte Stahlwerke-Bochumener-Verein už 8 805 Lt nupirkti trys plieniniai varpai, pavadinti šv. Onos, šv. Angelo Sargo ir šv. Jono vardais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 351 (PDF 352)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 351 (PDF 352)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

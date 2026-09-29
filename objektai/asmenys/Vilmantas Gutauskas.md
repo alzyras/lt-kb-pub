@@ -49,6 +49,7 @@ canonical_biography: "Vilmantas Gutauskas 1996 m. buvo paskirtas Kupiškio parap
   santrauka: 'Vilmantas Gutauskas 1996 m. buvo paskirtas Kupiškio parapijos vikaru.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 441 (PDF 442)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 441 (PDF 442)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

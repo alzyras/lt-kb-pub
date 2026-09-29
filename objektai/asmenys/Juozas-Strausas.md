@@ -49,6 +49,7 @@ Juozas-Strausas ir jo brolis žuvo 1948 m. gruodžio 13 d.
   santrauka: 'Juozas-Strausas žuvo kartu su broliu 1948 m. gruodžio 13 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 626 (PDF 627)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 626 (PDF 627)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

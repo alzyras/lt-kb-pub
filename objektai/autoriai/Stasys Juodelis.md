@@ -49,6 +49,7 @@ Stasys Juodelis buvo Rokiškio kraštotyros muziejaus ikitarybinio laikotarpio s
   santrauka: 'Stasys Juodelis buvo Rokiškio kraštotyros muziejaus ikitarybinio laikotarpio skyriaus vedėjas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 627 (PDF 628)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 627 (PDF 628)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

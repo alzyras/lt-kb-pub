@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Minint Šv. Onos bažnyčios 500 metų jubiliejų, kunigo iniciatyva pagamintas medalis-suvenyras.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 485 (PDF 486)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 485 (PDF 486)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

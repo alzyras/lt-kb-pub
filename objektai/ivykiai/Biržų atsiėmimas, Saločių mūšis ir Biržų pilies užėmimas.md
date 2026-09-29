@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: '1703 m. Oginskis atsiėmė Biržus, tačiau netrukus švedai prie Saločių sumušė Višnioveckio dalinius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 162 (PDF 163)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 162 (PDF 163)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ K. Čerbulėnas tyrinėjo Palėvenėlės bažnyčią ir varpinę.
   santrauka: 'K. Čerbulėnas tyrinėjo Palėvenėlės bažnyčią ir varpinę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 326 (PDF 327)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 326 (PDF 327)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

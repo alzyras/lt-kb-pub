@@ -42,6 +42,7 @@ Jonas Šiupinis-Bermonas gimė 1922 m. Daupelių kaime, Pandėlio valsčiuje, ir
   santrauka: 'Jonas Šiupinis-Bermonas gimė 1922 m. Daupelių kaime, Pandėlio valsčiuje, ir iš Petro Vaidakavičiaus junginio partizanų suorganizavo apie 20 kovotojų būrį, veikusį Skapiškio, Pandėlio ir Panemunėlio valsčiuose.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 211"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 211."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

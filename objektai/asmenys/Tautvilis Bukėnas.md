@@ -46,6 +46,7 @@ Tautvilis Bukėnas buvo Juozo Baltušio herojaus Juzos sūnėnas.
   santrauka: 'Tautvilis Bukėnas buvo Juozo Baltušio herojaus Juzos sūnėnas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1125-1126 (PDF 1126-1127)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1125-1126 (PDF 1126-1127)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

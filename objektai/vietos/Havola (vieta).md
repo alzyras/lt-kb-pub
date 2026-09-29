@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fa40773d302abcf28769468f
-canonical_name: Havola (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Havola
-  - Havola (vieta)
+entity_id: "ent-fa40773d302abcf28769468f"
+canonical_name: "Havola (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Havola","Havola (vieta)"]
 sameAs: []
-canonical_biography: Herulai pirmiausia apsistojo prie Hebolos arba Havolos upės.
+canonical_biography: "Herulai pirmiausia apsistojo prie Hebolos arba Havolos upės."
+place_authority: true
+historical_names: []
 ---
 # Havola (vieta)
 

@@ -64,6 +64,24 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   pagrindžia:
     - c-59228
 
+<a id="claim-t-220536"></a>
+- t-220536
+  teiginys: "1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Mevė: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mevė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Teutonų ordino broliai įkūrė Mevės pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Teutonai pastatė Mevė (0.89)"
+  temporaliniai_duomenys: "įkūrimo data: 1283 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai nurodo Mevės pilies įkūrimą, datą ir vietą."
+
 ## Citatos
 
 - id: c-59228

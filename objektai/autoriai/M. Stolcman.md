@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ce352e6080c8cac618410841
-canonical_name: M. Stolcman
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - M. Stolcman
+entity_id: "ent-ce352e6080c8cac618410841"
+canonical_name: "M. Stolcman"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Stolcman"]
 sameAs: []
-canonical_biography: 'M. Stolcman teigė, kad A. Marcinovskis nukrypo nuo XIX amžiuje dominavusio profesionalaus leidėjo tipo.'
+canonical_biography: "M. Stolcman teigė, kad A. Marcinovskis nukrypo nuo XIX amžiuje dominavusio profesionalaus leidėjo tipo."
 ---
 # M. Stolcman
 

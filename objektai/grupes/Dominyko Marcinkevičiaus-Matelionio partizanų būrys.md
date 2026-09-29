@@ -30,6 +30,7 @@ Dominyko Marcinkevičiaus-Matelionio būrį sudarė 12–17 partizanų; Adolfo B
   santrauka: 'Dominyko Marcinkevičiaus-Matelionio būrį sudarė 12–17 partizanų; Adolfo Bagdono-Beržo kuopai priklausęs būrys veikė Bajoriškių ir Liudvinavos apylinkėse, Subačiaus valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 43-44"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 43-44."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

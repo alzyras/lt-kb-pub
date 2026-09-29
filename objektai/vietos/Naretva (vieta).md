@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7a03a5b40e4b9bc900b7b66c
-canonical_name: Naretva (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Naretva
-  - Naretva (vieta)
+entity_id: "ent-7a03a5b40e4b9bc900b7b66c"
+canonical_name: "Naretva (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naretva","Naretva (vieta)"]
 sameAs: []
-canonical_biography: Mažoji ir Didžioji Naretvos susiliejusios sudaro Dalmatijos upę Narentą arba Naroną.
+canonical_biography: "Mažoji ir Didžioji Naretvos susiliejusios sudaro Dalmatijos upę Narentą arba Naroną."
+place_authority: true
+historical_names: []
 ---
 # Naretva (vieta)
 

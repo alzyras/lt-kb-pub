@@ -42,6 +42,7 @@ Ona Dapšytė-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–19
   santrauka: 'Ona Dapšytė-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ aprašyta 1952 m. spalio 4 d. čekistų operacija Žaliojoje girioje prie Tiltagalių ir Velniakių kaimų, ieškant Eimučio (Tautvilio Vaitiekūno) būrio partizanų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 429"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 429."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-89a1b7d3e6103e0ecc70b32e
-canonical_name: Vindliandija (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Vindliandija
-  - Vindliandija (vieta)
+entity_id: "ent-89a1b7d3e6103e0ecc70b32e"
+canonical_name: "Vindliandija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vindliandija","Vindliandija (vieta)"]
 sameAs: []
-canonical_biography: Vindliandija buvo tapatinama su buvusia prūsų provincija Vitliandija prie Priegliaus žiočių.
+canonical_biography: "Vindliandija buvo tapatinama su buvusia prūsų provincija Vitliandija prie Priegliaus žiočių."
+place_authority: true
+historical_names: []
 ---
 # Vindliandija (vieta)
 

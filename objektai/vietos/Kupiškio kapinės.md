@@ -66,6 +66,7 @@ Kupiškio kapinės įsteigtos 1818 m.; ankstyviausias lietas kryžius pažymėta
   santrauka: 'Kupiškio kapinės įsteigtos 1818 m.; ankstyviausias lietas kryžius pažymėtas 1857 m. palaidojimo data.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 966 (PDF 967)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 966 (PDF 967)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,6 +80,7 @@ Kupiškio kapinės įsteigtos 1818 m.; ankstyviausias lietas kryžius pažymėta
   santrauka: 'Kupiškio kapinėse XX a. II pusėje–XXI a. pradžioje pastatyta nedaug medinių paminklų; aptariami ir senesnių paminklų pavyzdžiai iš Kupiškio apylinkių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 993 (PDF 994)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 993 (PDF 994)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,4 +99,3 @@ Kupiškio kapinės įsteigtos 1818 m.; ankstyviausias lietas kryžius pažymėta
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

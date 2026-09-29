@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1944 m. rudenį susibūręs Vytauto Sabulio-Vilko būrys bazavosi Vabalninko valsčiuje ir šiaurinėje Kupiškio bei Šimonių valsčių dalyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 608 (PDF 609)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 608 (PDF 609)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

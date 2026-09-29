@@ -76,6 +76,15 @@ Nenurodyta
   pagrindžia:
     - c-177731
 
+<a id="claim-t-195333"></a>
+- t-195333
+  teiginys: "Varinė taurelė minima prie bažnyčios vaišių ir kaip atlygio gėrimo indas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177729
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Mūsų tautosaka, t.4 (1931)
@@ -125,6 +134,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195333
 
 - id: c-177730
   autorius: "M. Katkus"

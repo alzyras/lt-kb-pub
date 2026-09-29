@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-66a65f3a343869dfaa8eacbd
-canonical_name: A. Baranovas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Baranovas
+entity_id: "ent-66a65f3a343869dfaa8eacbd"
+canonical_name: "A. Baranovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Baranovas"]
 sameAs: []
-canonical_biography: Vilniaus generalgubernatoriaus A. Baranovo įsakymu buvo pradėta byla prieš vysk. M. Valančių.
+canonical_biography: "Vilniaus generalgubernatoriaus A. Baranovo įsakymu buvo pradėta byla prieš vysk. M. Valančių."
 ---
 # A. Baranovas
 

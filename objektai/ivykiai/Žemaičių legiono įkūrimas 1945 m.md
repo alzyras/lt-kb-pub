@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1945 m. pavasarį Adolfas Kubilius ir Adolfas Eidimtas įkūrė Žemaičių legioną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 496 (PDF 497)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 496 (PDF 497)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

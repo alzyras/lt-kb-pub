@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Caro valdžia apkaltino vienuolius, esą jie globojo sukilėlius ir liepdavo žmonėms melstis už „Lenkijos atgaivinimą“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 230 (PDF 231)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 230 (PDF 231)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

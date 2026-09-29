@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1997 m. steigiant Šiaulių vyskupiją jai priskirta 10 Panevėžio vyskupijos parapijų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 422 (PDF 423)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 422 (PDF 423)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

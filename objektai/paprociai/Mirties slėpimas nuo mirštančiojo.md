@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'XX–XXI a. sandūroje susiformavo siekis, kad žmogus mirtų nesuvokdamas savo mirties artėjimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 896 (PDF 897)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 896 (PDF 897)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

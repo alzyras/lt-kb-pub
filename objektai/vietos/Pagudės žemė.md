@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e5863be571a83486a15e6040
-canonical_name: Pagudės žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pagudės žemė
+entity_id: "ent-e5863be571a83486a15e6040"
+canonical_name: "Pagudės žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagudės žemė"]
 sameAs: []
-canonical_biography: Konrado iš Tirbergo vadovaujama kariuomenė įsiveržė į Pagudės žemę ir ją nusiaubė. Tų pačių metų rudenį Pagudės žemė vėl buvo nusiaubta ir pavirto dykromis.
+canonical_biography: "Konrado iš Tirbergo vadovaujama kariuomenė įsiveržė į Pagudės žemę ir ją nusiaubė. Tų pačių metų rudenį Pagudės žemė vėl buvo nusiaubta ir pavirto dykromis."
+place_authority: true
+historical_names: []
 ---
 # Pagudės žemė
 

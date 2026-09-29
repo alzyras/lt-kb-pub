@@ -23,16 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8ec7fca9fbdc97f54fe339d0
-canonical_name: Mikalojus iš Jerošino
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Mikalojus iš Jerošino
+entity_id: "ent-8ec7fca9fbdc97f54fe339d0"
+canonical_name: "Mikalojus iš Jerošino"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mikalojus iš Jerošino"]
 sameAs: []
-canonical_biography: XIV a. IV-ajame dešimtmetyje Mikalojus iš Jerošino Dusburgiečio kroniką išvertė eilėmis į vokiečių kalbą.
+canonical_biography: "XIV a. IV-ajame dešimtmetyje Mikalojus iš Jerošino Dusburgiečio kroniką išvertė eilėmis į vokiečių kalbą."
 ---
 # Mikalojus iš Jerošino
 

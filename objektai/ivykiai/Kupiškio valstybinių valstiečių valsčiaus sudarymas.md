@@ -55,6 +55,7 @@ Nenurodyta
   santrauka: 'Valsčiaus būstinė liko Pajuodupėje ir užėmė tris dvaro pastatus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 184 (PDF 185)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 184 (PDF 185)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,4 +80,3 @@ Kupiškio valstybinio dvaro bendruomenės pagrindu buvo sudarytas Kupiškio vals
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

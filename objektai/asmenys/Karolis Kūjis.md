@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b47cf64d2c0d769d65d17409
-canonical_name: Karolis Kūjis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Karolis Kūjis
+entity_id: "ent-b47cf64d2c0d769d65d17409"
+canonical_name: "Karolis Kūjis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis Kūjis"]
 sameAs: []
-canonical_biography: Po Andriaus mirties ir ilgų ginčų Vengrijos sostą gavo Karolis Kūjis.
+canonical_biography: "Po Andriaus mirties ir ilgų ginčų Vengrijos sostą gavo Karolis Kūjis."
 ---
 # Karolis Kūjis
 

@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-bb98bd55659d7bebc7dbf2f5
-canonical_name: Živinbudas II
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Živinbudas II
+entity_id: "ent-bb98bd55659d7bebc7dbf2f5"
+canonical_name: "Živinbudas II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Živinbudas II"]
 sameAs: []
-canonical_biography: 'Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa laidotas kalne netoli Deltuvos.'
+canonical_biography: "Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa laidotas kalne netoli Deltuvos."
 ---
 # Živinbudas II
 

@@ -49,3 +49,19 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-220162"></a>
+- t-001
+  teiginys: "M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszawska“ 1858 m. trečiame tome, p. 192-195."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinė nuotrupa perrašyta į pilną sakinį apie patį tekstą. Nepridėta jokio turinio vertinimo ar santraukos, nes citata pateikia tik publikacijos duomenis."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

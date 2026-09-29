@@ -152,7 +152,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184872
@@ -168,7 +168,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-198927
@@ -198,6 +198,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-201232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -225,7 +226,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-202828
@@ -243,7 +244,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-206375
@@ -263,6 +264,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-206376
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -284,6 +286,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-206377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -301,6 +304,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-206378
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -320,6 +324,7 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-206379
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -337,3 +342,4 @@ Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

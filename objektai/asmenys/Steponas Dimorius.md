@@ -41,6 +41,7 @@ Vaitas Steponas Dimorius gyveno Terpeikių kaimo užusienyje, vadintame Gabrišk
   santrauka: 'Steponas Dimorius, vadintas vaitu, gyveno Terpeikių kaimo užusienyje, vadintame Gabriškiu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 150 (PDF 151)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 150 (PDF 151)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

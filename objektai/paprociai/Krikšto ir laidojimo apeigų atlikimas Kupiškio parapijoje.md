@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Aldona Vasiliauskienė daro išvadą, kad 1790–1791 m. Kupiškyje vikaravęs kunigas Antanas Strazdelis ne tik krikštijo vaikus, bet ir laidojo mirusiuosius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 372 (PDF 373)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 372 (PDF 373)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

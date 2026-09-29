@@ -68,6 +68,7 @@ Nenurodyta
   santrauka: 'Redakcijos kolektyvas turėjo tradiciją minėti reikšmingesnes laikraščio leidybos sukaktis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 838 (PDF 839)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 838 (PDF 839)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -93,4 +94,3 @@ Laikraščio „Kupiškėnų mintys“ redakcijos kolektyvas minėjo reikšminge
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

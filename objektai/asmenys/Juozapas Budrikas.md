@@ -51,6 +51,7 @@ Silpstant parapijos klebono sveikatai, vikaras Juozapas Budrikas tęsė Panemun�
   santrauka: 'Juozapas Budrikas tęsė Panemunėlio bažnyčios statybos darbus klebono sveikatai silpstant ir, mirus kunigui J. Katelei, tapo Panemunėlio parapijos klebonu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 469 (PDF 470)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 469 (PDF 470)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

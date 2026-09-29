@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Kunigas Matas Kirlys paskirtas pirmuoju Kupiškio dekanu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 383 (PDF 384)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 383 (PDF 384)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

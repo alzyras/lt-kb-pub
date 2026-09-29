@@ -50,6 +50,7 @@ Pulkininkas A. Novikas, SSRS MGB 2-osios vyriausiosios valdybos viršininko pava
   santrauka: 'Už 1952 m. trėmimus buvo atsakingas ir SSRS MGB 2-osios vyriausiosios valdybos viršininko pavaduotojas, pulkininkas A. Novikas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 595 (PDF 596)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 595 (PDF 596)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

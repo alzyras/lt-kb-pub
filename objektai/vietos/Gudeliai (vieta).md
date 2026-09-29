@@ -48,6 +48,7 @@ Gudelių (Alytaus r.) bažnyčios suolų-klauptų dekoras, kaip nurodoma straips
   santrauka: 'Gudelių (Alytaus r.) bažnyčioje yra meistrams Adomui Karaliui ir Jonui Račiukaičiui priskiriamų neogotikinių suolų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 346 (PDF 347)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 346 (PDF 347)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

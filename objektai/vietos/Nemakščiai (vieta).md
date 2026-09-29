@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d56abb8deec90b670a091c28
-canonical_name: Nemakščiai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Nemakščiai
-  - Nemakščiai (vieta)
+entity_id: "ent-d56abb8deec90b670a091c28"
+canonical_name: "Nemakščiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemakščiai","Nemakščiai (vieta)"]
 sameAs: []
-canonical_biography: 'Valančius tais metais ap lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če kiškę 6 7.'
+canonical_biography: "Valančius tais metais ap lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če kiškę 6 7."
 place_authority: true
 historical_names: []
 ---

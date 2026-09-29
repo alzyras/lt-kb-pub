@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: '1949 m. sausio 30–31 d. naktį Ožkinių kaime operatyvinė grupė aptiko bunkerį po Prano Rudžio grindimis; kautynėse žuvo partizanas Albinas Tindžiulis-Dėdė, o partizanų ryšininkas ir rėmėjas Pranas Rudys buvo suimtas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 353"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 353."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

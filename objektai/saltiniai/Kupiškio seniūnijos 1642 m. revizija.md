@@ -41,6 +41,7 @@ media_all_json: |-
   santrauka: '1642 m. Kupiškio seniūnijos reviziją atliko Gadeonas Rajeckis ir Romanas Sumoroka.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 154 (PDF 155)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 154 (PDF 155)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ Kunigas Romualdas Šiliūnas Kupiškyje kelis mėnesius globojo kongregaciją, o
   santrauka: 'Kunigas Romualdas Šiliūnas Kupiškyje kelis mėnesius globojo kongregaciją, o vėliau buvo perkeltas į kitą parapiją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 409 (PDF 410)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 409 (PDF 410)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

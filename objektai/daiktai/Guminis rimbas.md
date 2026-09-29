@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Varomi iš kamerų suimtieji buvo mušami guminiais rimbais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 586 (PDF 587)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 586 (PDF 587)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

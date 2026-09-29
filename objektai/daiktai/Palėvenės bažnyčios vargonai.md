@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Palėvenės bažnyčioje vargonų pastatymo metai nurodomi skirtingai – 1903 ir 1913.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 314 (PDF 315)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 314 (PDF 315)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

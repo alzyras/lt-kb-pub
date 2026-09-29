@@ -50,6 +50,7 @@ Studentas Stasys Gabaliauskas aplankė Kupiškio ateitininkų kuopą.
   santrauka: 'Studentas Stasys Gabaliauskas aplankė Kupiškio ateitininkų kuopą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 411 (PDF 412)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 411 (PDF 412)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

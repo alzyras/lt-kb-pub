@@ -56,3 +56,16 @@ T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-215913"></a>
+- t-001
+  teiginys: "T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip Maljasz arba Matas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+

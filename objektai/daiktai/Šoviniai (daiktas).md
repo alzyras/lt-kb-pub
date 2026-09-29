@@ -64,6 +64,7 @@ Nenurodyta
   santrauka: '1945 m. gruodžio 26 d. Inkliūzų kaime stribai sulaikė Antano Starkaus būrio partizaną Augustą Puzelį, iš kurio paėmė 110 šovinių, kaip nurodo Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 98"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 98."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -73,6 +74,7 @@ Nenurodyta
   santrauka: 'Tarp aptiktų daiktų buvo du šautuvai, rašomoji mašinėlė ir šoviniai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 274"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 274."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,4 +93,3 @@ Nenurodyta
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

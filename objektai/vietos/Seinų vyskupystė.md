@@ -20,15 +20,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-c67396e92c7bb125575289fe
-canonical_name: Seinų vyskupystė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Seinų vyskupystė
+entity_id: "ent-c67396e92c7bb125575289fe"
+canonical_name: "Seinų vyskupystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seinų vyskupystė"]
 sameAs: []
-canonical_biography: P. Sakalauskis grįždamas iš Druskininkų keliavo per Seinų vyskupystę.
+canonical_biography: "P. Sakalauskis grįždamas iš Druskininkų keliavo per Seinų vyskupystę."
 place_authority: true
 historical_names: []
 ---

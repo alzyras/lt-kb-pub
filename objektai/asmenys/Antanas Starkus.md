@@ -129,6 +129,7 @@ NKVD 1945 m. rugpjūčio–rugsėjo mėn. ataskaitoje Antanas Starkus nurodytas 
   santrauka: 'NKVD 1945 m. rugpjūčio–rugsėjo mėn. ataskaitoje Antanas Starkus nurodytas būrio, kuriam anksčiau vadovavo Alfonsas Paškevičius, vadu; kitose bylose rašyta, kad Starkus vadu tapo po Paškevičiaus žūties 1946 m. kovo 10 d.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 96"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 96."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -138,6 +139,7 @@ NKVD 1945 m. rugpjūčio–rugsėjo mėn. ataskaitoje Antanas Starkus nurodytas 
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad po Alfonso Paškevičiaus žūties 1946 m. kovo 10 d. Antanas Starkus-Blinda perėmė būrio vadovavimą ir tais pačiais metais paskirtas Algirdo kuopos vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 167"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 167."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -147,6 +149,7 @@ NKVD 1945 m. rugpjūčio–rugsėjo mėn. ataskaitoje Antanas Starkus nurodytas 
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad per pasitarimą Antanas Starkus buvo paskirtas kuopos vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 167"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 167."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -156,6 +159,7 @@ NKVD 1945 m. rugpjūčio–rugsėjo mėn. ataskaitoje Antanas Starkus nurodytas 
   santrauka: 'Kronikoje cituojamoje byloje Antanas Starkus-Blinda nurodytas Štabo apsaugos būrio (byloje vadinto Blindos partizanų grupe) vadu, Šarūno rinktinės vado pavaduotoju ir kuopos vado pareigas einančiu asmeniu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 287"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 287."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -165,6 +169,7 @@ NKVD 1945 m. rugpjūčio–rugsėjo mėn. ataskaitoje Antanas Starkus nurodytas 
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Antaną Starkų-Montę įvardija Šarūno rinktinės vadu per 1948 m. balandžio 16 d. kautynes Butėnų kaime.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 310"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 310."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -174,6 +179,7 @@ NKVD 1945 m. rugpjūčio–rugsėjo mėn. ataskaitoje Antanas Starkus nurodytas 
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikia Rūgštymo versiją, kad Izabelė Vilimaitė-Stirna neva prisipažino Antanui Starkui-Montei, jog sulaikyta buvo davusi išsamius parodymus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 344"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 344."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -264,4 +270,3 @@ NKVD 1945 m. rugpjūčio–rugsėjo mėn. ataskaitoje Antanas Starkus nurodytas 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-007
-

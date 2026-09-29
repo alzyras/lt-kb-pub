@@ -34,6 +34,7 @@ Fuskuminės durpės yra ryškiai vyraujanti aukštapelkinė durpių rūšis; rud
   santrauka: 'Fuskumininės durpės apibūdinamos kaip ryškiai vyraujanti aukštapelkinė durpių rūšis, sudaryta daugiausia iš rudųjų kiminų; jos slūgso storais klodais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 109 (PDF 110)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 109 (PDF 110)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

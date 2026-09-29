@@ -54,6 +54,7 @@ Lurdo Dievo Motinos siužetą Ieva Bobinaitė įvardijo kaip populiarų; iš ket
   santrauka: 'Lurdo Dievo Motinos siužetą Ieva Bobinaitė įvardijo kaip populiarų; iš keturių aptartų paveikslų trys sutapo su 1939 m. „Rašto“ spaustuvėje išleistais paveikslais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 675 (PDF 676)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 675 (PDF 676)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

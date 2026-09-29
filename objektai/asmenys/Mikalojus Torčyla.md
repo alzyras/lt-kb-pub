@@ -49,6 +49,7 @@ Mikalojus Torčyla buvo Pamarnakių ir Paviešinčių dvarų savininkas.
   santrauka: 'Mikalojus Torčyla buvo Pamarnakių ir Paviešinčių dvarų savininkas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 153 (PDF 154)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 153 (PDF 154)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

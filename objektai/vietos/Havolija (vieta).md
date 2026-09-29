@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e51854e4ff26161ba20a0aac
-canonical_name: Havolija (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Havolija
-  - Havolija (vieta)
+entity_id: "ent-e51854e4ff26161ba20a0aac"
+canonical_name: "Havolija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Havolija","Havolija (vieta)"]
 sameAs: []
-canonical_biography: 'Havolija plytėjo prie Havolos, Sprė ir dalies Elbės.'
+canonical_biography: "Havolija plytėjo prie Havolos, Sprė ir dalies Elbės."
+place_authority: true
+historical_names: []
 ---
 # Havolija (vieta)
 

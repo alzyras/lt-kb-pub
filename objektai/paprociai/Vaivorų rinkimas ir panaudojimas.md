@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Sakoma, kad iš vaivorų pagamintas vynas būdavo gražios spalvos ir gero skonio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 105-106 (PDF 106-107)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 105-106 (PDF 106-107)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

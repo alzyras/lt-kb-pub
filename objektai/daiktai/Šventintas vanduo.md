@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Šventintu vandeniu kaimo gyventojai šlakstydavo laukus ir vandens telkinius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 945 (PDF 946)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 945 (PDF 946)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5886f8303efa058ea061a593
-canonical_name: Auktalito pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Auktalito pilis
+entity_id: "ent-5886f8303efa058ea061a593"
+canonical_name: "Auktalito pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Auktalito pilis"]
 sameAs: []
-canonical_biography: '1256 m. Karaliaučiaus komtūras apsupo ir užėmė Auktalito pilį, o vėliau ją sudegino iki pamatų.'
+canonical_biography: "1256 m. Karaliaučiaus komtūras apsupo ir užėmė Auktalito pilį, o vėliau ją sudegino iki pamatų."
+place_authority: true
+historical_names: []
 ---
 # Auktalito pilis
 

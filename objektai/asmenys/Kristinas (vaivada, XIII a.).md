@@ -28,16 +28,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-84b4a71c41703a4e27fb939b
-canonical_name: 'Kristinas (vaivada, XIII a.)'
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Kristinas
-  - 'Kristinas (vaivada, XIII a.)'
+entity_id: "ent-84b4a71c41703a4e27fb939b"
+canonical_name: "Kristinas (vaivada, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristinas","Kristinas (vaivada, XIII a.)"]
 sameAs: []
-canonical_biography: Kristinas buvo Mazovijos vaivada ir 1216 arba 1217 m. pradžioje pateko į prūsų nelaisvę.
+canonical_biography: "Kristinas buvo Mazovijos vaivada ir 1216 arba 1217 m. pradžioje pateko į prūsų nelaisvę."
 ---
 # Kristinas (vaivada, XIII a.)
 

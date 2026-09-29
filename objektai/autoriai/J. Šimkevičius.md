@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8f5b9c22c9cd26c14afff564
-canonical_name: J. Šimkevičius
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. Šimkevičius
+entity_id: "ent-8f5b9c22c9cd26c14afff564"
+canonical_name: "J. Šimkevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Šimkevičius"]
 sameAs: []
-canonical_biography: 'Šimkevičius šį Ernesto Augusto ediktą įdėjo savo knygon, matyt, neatsitiktinai. J. Šimkevičius knygoje siūlė vietoj degtinės tobulinti alaus gaminimą. J. Šimkevičius XIX a. antrajame dešimtmetyje rašė apie kunigo Legovičiaus apšviestus ir išblaivintus parapijiečius.'
+canonical_biography: "Šimkevičius šį Ernesto Augusto ediktą įdėjo savo knygon, matyt, neatsitiktinai. J. Šimkevičius knygoje siūlė vietoj degtinės tobulinti alaus gaminimą. J. Šimkevičius XIX a. antrajame dešimtmetyje rašė apie kunigo Legovičiaus apšviestus ir išblaivintus parapijiečius."
 ---
 # J. Šimkevičius
 

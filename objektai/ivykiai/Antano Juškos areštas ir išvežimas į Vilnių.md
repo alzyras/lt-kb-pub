@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Iš Uliūnų bažnyčios išėjusį laukti mašinos į Ramygalą kunigą Antaną Jušką sustabdė kariškis ir pranešė apie areštą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 466 (PDF 467)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 466 (PDF 467)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

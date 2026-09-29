@@ -50,6 +50,25 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
   pagrindžia:
     - c-194032
 
+<a id="claim-t-216959"></a>
+- t-216959
+  teiginys: "Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Volkovysko apskritis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Volkovysko apskritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sieja budinus su apsigyvenimu dabartinėje Volkovysko apskrityje."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Gelonai gyveno Volkovysko apskritis (0.90); Budinai gyveno Volkovysko apskritis (0.90); Gelonai gyveno Donas (0.88)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-171970

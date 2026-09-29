@@ -39,6 +39,7 @@ Jaujos, kaip manoma, yra labai senos ir išsivystė iš duobos – krosnimis ši
   santrauka: 'Jauja galėjo išsivystyti iš duobos – krosnimi šildomos žeminės tipo patalpos javams džiovinti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 724 (PDF 725)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 724 (PDF 725)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

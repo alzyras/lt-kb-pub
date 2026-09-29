@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '2015 m. birželio 11 d. Lionginas Virbalas paskirtas Kauno arkivyskupu metropolitu ir ėjo Panevėžio vyskupijos apaštalinio administratoriaus pareigas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 425 (PDF 426)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 425 (PDF 426)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

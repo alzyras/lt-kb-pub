@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Kazys ir Petras Babickai susirašinėjo, vienas kitą rėmė, o Kazys padėjo leisti ir platinti Petro knygas bei rinkdavo tam aukas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1116-1117 (PDF 1117-1118)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1116-1117 (PDF 1117-1118)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

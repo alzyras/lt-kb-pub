@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f688e96983a87b70d75aafda
-canonical_name: Gėlavandenės marios
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Gėlavandenės marios
+entity_id: "ent-f688e96983a87b70d75aafda"
+canonical_name: "Gėlavandenės marios"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gėlavandenės marios"]
 sameAs: []
-canonical_biography: Gėlavandenių marių pakrantėje stovėjo pilis beveik prieš Brandenburgo pilį.
+canonical_biography: "Gėlavandenių marių pakrantėje stovėjo pilis beveik prieš Brandenburgo pilį."
+place_authority: true
+historical_names: []
 ---
 # Gėlavandenės marios
 

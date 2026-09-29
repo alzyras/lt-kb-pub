@@ -72,4 +72,3 @@ Genovaitė Mikulėnienė-Kaupienė 1964–1991 m. dirbo bibliotekininke Tviruose
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

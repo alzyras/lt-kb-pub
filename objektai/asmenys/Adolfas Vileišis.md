@@ -66,4 +66,3 @@ Adolfas Vileišis, Mato sūnus, gimė 1920 m. ir gyveno Nausėdžių kaime.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

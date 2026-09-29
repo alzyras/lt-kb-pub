@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Džezkazgano lagerio aprašyme lietuviai kaliniai vaizduojami kaip vieningi ir draugiški, o vienu metu ten kalėjo 12 lietuvių kunigų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 541 (PDF 542)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 541 (PDF 542)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

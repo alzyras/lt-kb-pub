@@ -29,17 +29,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b0790221fff4a482ebcf0200
-canonical_name: Vakarų Europa
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Vakarų Europa
-sameAs: []
-canonical_biography: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus. Vakarų Europos situaciją XVI a. Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Vakarų Europa","url":"https://lt.wikipedia.org/wiki/Vakar%C5%B3_Europa","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vakarų Europa","url":"https://www.vle.lt/straipsnis/vakaru-europa/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:20:33+00:00","source_checked_at":"2026-09-19T23:20:33+00:00","counts":{"relations":3,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Vakarų Europa − vienas iš kelių geografinių ir politinių Europos regionų. Regiono ribos priklauso nuo konteksto. Sąvoka „Vakarai“ Europoje atsirado priešpastatant ją „Rytams“ ir iš pradžių buvo taikoma senovės Viduržemio jūros pasaulio Vakarų pusei, Romos imperijos Lotynų Vakarams ir „Vakarų Krikščionybei“. Šviečiamajame amžiuje ir pramonės revoliucijos laikais sąvokos „Rytų Europa“ ir „Vakarų Europa“ buvo vartojamos dažniau. Vakarų Europos išskirtinumas labiausiai pasireiškė Šaltojo karo metu, kuomet Europa 40 metų buvo padalinta geležine uždanga į Vakarų bloką ir Rytų bloką, kuriuos apibūdino skirtingos politinės ir ekonominės sistemos.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"29033","revision_id":"7619250","status":"published","translation_status":"native","source":{"title":"Vakarų Europa","url":"https://lt.wikipedia.org/wiki/Vakar%C5%B3_Europa","publisher":"Vikipedija","language":"lt","article_id":"29033","revision_id":"7619250","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7619250","history_url":"https://lt.wikipedia.org/w/index.php?title=Vakar%C5%B3_Europa&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:22:42.089782+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"606350cf65441302b149c25a2abef9ffe00b0cb21aa4552832f72b87460ffafc","version_pk":"792f559a815acdc38c538e361243ba2b"}},"source_buttons":[{"label":"Vikipedija","title":"Vakarų Europa","url":"https://lt.wikipedia.org/wiki/Vakar%C5%B3_Europa","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vakarų Europa","url":"https://www.vle.lt/straipsnis/vakaru-europa/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vakar%C5%B3_Europa","https://www.vle.lt/straipsnis/vakaru-europa/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kimbrai","claim_id":"t-213832","confidence":0.94},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Anglija","claim_id":"t-68837","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Olandija","claim_id":"t-68837","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":7,"sources":4}}'
 object_page_finisher: 'true'
@@ -53,6 +42,15 @@ object_page_seo_description: 'Vakarų Europa: Lietuva yra kryžkelėje tarp Vaka
 object_page_seo_input_hash: 65bed7181a136d3929caaff287bcbb5d2512541f2ffebf2fed06bb4490d5072a
 object_page_seo_generated_at: '2026-09-19T23:20:33+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-b0790221fff4a482ebcf0200"
+canonical_name: "Vakarų Europa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vakarų Europa"]
+sameAs: ["https://www.wikidata.org/entity/Q27496"]
+canonical_biography: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus. Vakarų Europos situaciją XVI a. Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst."
+place_authority: true
+historical_names: []
 ---
 # Vakarų Europa
 

@@ -49,6 +49,7 @@ Iš Palėvenės apylinkių kilęs studentas Jurgis Elisonas, klebonaujant Jonui 
   santrauka: 'Iš Palėvenės apylinkių kilęs studentas Jurgis Elisonas, klebonaujant Jonui Šileikai nuo 1906 m., surinko bibliotekoje likusias vertingesnes knygas ir perdavė jas Vilniuje veikusiai Lietuvių mokslo draugijai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 785 (PDF 786)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 785 (PDF 786)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

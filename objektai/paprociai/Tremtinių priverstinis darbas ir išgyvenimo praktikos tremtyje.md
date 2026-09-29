@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Tremtiniai ištisomis šeimomis buvo įdarbinami miško kirtimo įmonėse ir kolūkių fermose, turėjo plukdyti sielius bei žvejoti, už tai gaudami menką duonos davinį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 593 (PDF 594)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 593 (PDF 594)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

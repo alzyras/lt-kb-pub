@@ -59,6 +59,7 @@ Nenurodyta
   santrauka: 'XIX–XX a. kaimams skirstantis į vienkiemius, klėtys pradėtos statyti ir kiemo šone, statmenai gyvenamajam namui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 714 (PDF 715)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 714 (PDF 715)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Sodybose klėtys visuomet stovėjo priešais gyvenamąjį namą, o gerasis, arba
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

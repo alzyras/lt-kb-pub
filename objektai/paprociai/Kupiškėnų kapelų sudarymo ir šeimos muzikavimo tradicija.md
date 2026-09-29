@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Po Antrojo pasaulinio karo, maždaug nuo 1946 m., kupiškėnų kapelas paprastai sudarė armonikos arba akordeonai, o klarnetas prisidėdavo tik retkarčiais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1076 (PDF 1077)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1076 (PDF 1077)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -64,6 +65,7 @@ Nenurodyta
   santrauka: 'XX a. septintajame dešimtmetyje kupiškėnų vestuvių vaidinime dar buvo išlaikyta smuiko, klarneto ir armonikos kapela.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1076 (PDF 1077)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1076 (PDF 1077)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-64215910c29b2159a1923842
-canonical_name: Dominykas Meilus
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Dominykas Meilus
+entity_id: "ent-64215910c29b2159a1923842"
+canonical_name: "Dominykas Meilus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dominykas Meilus"]
 sameAs: []
-canonical_biography: 'Du broliukai Dominy kas Meilus ir Juozapas Valentas laikinai, kol pasitai sys, buvo iš brolijos pašalinti.'
+canonical_biography: "Du broliukai Dominy kas Meilus ir Juozapas Valentas laikinai, kol pasitai sys, buvo iš brolijos pašalinti."
 ---
 # Dominykas Meilus
 

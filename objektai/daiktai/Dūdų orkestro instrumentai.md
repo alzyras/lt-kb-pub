@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1938 m. Kupiškio savanorių ugniagesių draugija įsigijo dūdų orkestro instrumentus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 682 (PDF 683)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 682 (PDF 683)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

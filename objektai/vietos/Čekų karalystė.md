@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4d3ee72e6fc0a7246215bc43
-canonical_name: Čekų karalystė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Čekų karalystė
+entity_id: "ent-4d3ee72e6fc0a7246215bc43"
+canonical_name: "Čekų karalystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čekų karalystė"]
 sameAs: []
-canonical_biography: Taip pat ir Čekų karalystė didžią garbę teikė šlovingajam valdovui.
+canonical_biography: "Taip pat ir Čekų karalystė didžią garbę teikė šlovingajam valdovui."
+place_authority: true
+historical_names: []
 ---
 # Čekų karalystė
 

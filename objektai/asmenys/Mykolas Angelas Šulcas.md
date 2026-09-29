@@ -24,15 +24,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-c72ef134c30d46a584dee228
-canonical_name: Mykolas Angelas Šulcas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Mykolas Angelas Šulcas
+entity_id: "ent-c72ef134c30d46a584dee228"
+canonical_name: "Mykolas Angelas Šulcas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Angelas Šulcas"]
 sameAs: []
-canonical_biography: 'Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėjus Golianskis (1753— 1824), Simonas Malevskis (1759—1832) ir Mykolas Angelas Šul cas (1769—1812) buvo istorikai ir Vilniaus universiteto profesoriai.'
+canonical_biography: "Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėjus Golianskis (1753— 1824), Simonas Malevskis (1759—1832) ir Mykolas Angelas Šul cas (1769—1812) buvo istorikai ir Vilniaus universiteto profesoriai."
 ---
 # Mykolas Angelas Šulcas
 

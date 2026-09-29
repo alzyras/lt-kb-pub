@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6ed15874999b2be42b163ed6
-canonical_name: K. Baracevičius
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - K. Baracevičius
+entity_id: "ent-6ed15874999b2be42b163ed6"
+canonical_name: "K. Baracevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Baracevičius"]
 sameAs: []
-canonical_biography: K. Baracevičius pasižadėjo savo parapijoje paskelbti blaivybę.
+canonical_biography: "K. Baracevičius pasižadėjo savo parapijoje paskelbti blaivybę."
 ---
 # K. Baracevičius
 

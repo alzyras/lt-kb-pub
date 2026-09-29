@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Rūdininkai","Rūdininkai (vieta)"]
 sameAs: []
 canonical_biography: "Žygimantas Senasis 1556 m. Rūdininkuose paskelbė „Karo tarnybos nuostatus“."
+place_authority: true
+historical_names: []
 ---
 # Rūdininkai (vieta)
 

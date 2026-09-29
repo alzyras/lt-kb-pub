@@ -49,6 +49,7 @@ Puponių kaime gyvenęs Povilas Petrulis 1941 m. rugpjūčio 15 d. buvo suimtas 
   santrauka: 'Puponių kaime gyvenęs Povilas Petrulis 1941 m. rugpjūčio 15 d. buvo suimtas ir uždarytas Kupiškio daboklėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 586 (PDF 587)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 586 (PDF 587)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,4 +84,3 @@ Puponių kaime gyvenęs Povilas Petrulis 1941 m. rugpjūčio 15 d. buvo suimtas 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

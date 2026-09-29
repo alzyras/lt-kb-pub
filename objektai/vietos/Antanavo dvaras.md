@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ef7c8031bc8f4d010f632271
-canonical_name: Antanavo dvaras
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Antanavo dvaras
+entity_id: "ent-ef7c8031bc8f4d010f632271"
+canonical_name: "Antanavo dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Antanavo dvaras"]
 sameAs: []
-canonical_biography: Nuo Antanavo dvaro iki Liudvinavo pašešupiuose buvo labai mažai išlikusių sveikų ūkių.
+canonical_biography: "Nuo Antanavo dvaro iki Liudvinavo pašešupiuose buvo labai mažai išlikusių sveikų ūkių."
+place_authority: true
+historical_names: []
 ---
 # Antanavo dvaras
 

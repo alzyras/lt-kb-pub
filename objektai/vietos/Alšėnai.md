@@ -100,6 +100,25 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   pagrindžia:
     - c-194187
 
+<a id="claim-t-212001"></a>
+- t-212001
+  teiginys: "Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Alšėnai: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Goštautas (vyskupas, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Alšėnai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Jonas Goštautas išskubėjo į Alšėnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Goštautas (vyskupas, XV a.) keliavo į Alšėnai (0.91)"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
 ## Citatos
 
 - id: c-82037

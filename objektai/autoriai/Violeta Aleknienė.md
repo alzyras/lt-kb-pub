@@ -51,6 +51,7 @@ Violeta Aleknienė parašė straipsnį „Palėvenė 1940–2014 metais“.
   santrauka: 'Violeta Aleknienė parašė straipsnį „Palėvenė 1940–2014 metais“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235 (PDF 236)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235 (PDF 236)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

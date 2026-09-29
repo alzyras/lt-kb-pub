@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-70119429142f591c56fa6fc2
-canonical_name: Svyrlaukis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Svyrlaukis
-  - Svyrlaukis (vieta)
+entity_id: "ent-70119429142f591c56fa6fc2"
+canonical_name: "Svyrlaukis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svyrlaukis","Svyrlaukis (vieta)"]
 sameAs: []
-canonical_biography: Svyrlaukyje vienu metu gyveno S. Daukantas ir M. Akelaitis.
+canonical_biography: "Svyrlaukyje vienu metu gyveno S. Daukantas ir M. Akelaitis."
 place_authority: true
 historical_names: []
 ---

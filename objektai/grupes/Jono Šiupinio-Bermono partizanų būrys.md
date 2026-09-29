@@ -30,6 +30,7 @@ Iš likusių Petro Vaidakavičiaus junginio partizanų Jonas Šiupinis-Bermonas 
   santrauka: 'Iš likusių Petro Vaidakavičiaus junginio partizanų Jonas Šiupinis-Bermonas suorganizavo apie 20 partizanų būrį, veikusį Skapiškio, Pandėlio ir Panemunėlio valsčiuose bei turėjusį bunkerį Notigalos pelkėse.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 105"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 105."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

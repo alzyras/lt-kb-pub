@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7c4be29c96e8b187c221a816
-canonical_name: Bysleidos pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Bysleidos pilis
+entity_id: "ent-7c4be29c96e8b187c221a816"
+canonical_name: "Bysleidos pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bysleidos pilis"]
 sameAs: []
-canonical_biography: 'Sūduviai, nadruviai ir skalviai apsiautė Bysleidos pilį netoli Bartenšteino, Kartenės miške.'
+canonical_biography: "Sūduviai, nadruviai ir skalviai apsiautė Bysleidos pilį netoli Bartenšteino, Kartenės miške."
+place_authority: true
+historical_names: []
 ---
 # Bysleidos pilis
 

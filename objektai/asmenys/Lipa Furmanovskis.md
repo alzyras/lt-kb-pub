@@ -41,6 +41,7 @@ Lipa Furmanovskis buvo žydų banko direktorius.
   santrauka: 'Lipa Furmanovskis buvo žydų banko direktorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 574 (PDF 575)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 574 (PDF 575)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

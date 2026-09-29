@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-288447d1375ed963ef1f5d36
-canonical_name: Ditrichas iš Elnerio
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Ditrichas iš Elnerio
+entity_id: "ent-288447d1375ed963ef1f5d36"
+canonical_name: "Ditrichas iš Elnerio"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas iš Elnerio"]
 sameAs: []
-canonical_biography: 'Jaunesnysis ir vyresnysis Ditrichai iš Elnerio buvo Reino kilmingieji, atvykę į Prūsiją.'
+canonical_biography: "Jaunesnysis ir vyresnysis Ditrichai iš Elnerio buvo Reino kilmingieji, atvykę į Prūsiją."
 ---
 # Ditrichas iš Elnerio
 

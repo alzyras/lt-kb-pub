@@ -63,4 +63,3 @@ Vėžionių kaime trys dūmai buvo siejami su Andriejumi Žydeliu, Indrulienės 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

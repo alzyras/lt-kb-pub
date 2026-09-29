@@ -59,3 +59,16 @@ Dusburgietis teigia, kad mannhardt M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-224612"></a>
+- t-001
+  teiginys: "M. Mannhardtas parašė darbą „Letto-Preussische Götterlehre“, 1936 m. išleistą Rygoje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autoriaus darbą, pavadinimą, vietą ir metus."
+

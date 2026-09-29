@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1948 m. lapkričio 12 d. Likas pranešė MGB, kad jo namuose Jagaudžių kaime yra partizanų grupė.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 318"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 318."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

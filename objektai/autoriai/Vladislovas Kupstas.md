@@ -50,6 +50,7 @@ Kunigas Vladislovas Kupstas rašė apie Kupiškio bažnyčią ir parapiją. Kupi
   santrauka: 'Vladislovas Kupstas rašė apie Kupiškio bažnyčią ir parapiją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 362 (PDF 363)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 362 (PDF 363)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ Kunigas Vladislovas Kupstas rašė apie Kupiškio bažnyčią ir parapiją. Kupi
   santrauka: 'Vladislovas Kupstas buvo Kupiškio klebonas ir dekanas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 426 (PDF 427)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 426 (PDF 427)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

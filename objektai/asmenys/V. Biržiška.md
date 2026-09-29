@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ba8c71177248363d2f39279d
-canonical_name: V. Biržiška
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - V. Biržiška
+entity_id: "ent-ba8c71177248363d2f39279d"
+canonical_name: "V. Biržiška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Biržiška"]
 sameAs: []
-canonical_biography: Biržiška rašė apie vysk.
+canonical_biography: "Biržiška rašė apie vysk."
 ---
 # V. Biržiška
 

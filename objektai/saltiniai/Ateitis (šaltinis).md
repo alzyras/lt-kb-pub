@@ -45,6 +45,7 @@ media_all_json: |-
   santrauka: '„Ateities“ žurnale paskelbta, kad Kupiškis leidžia laikraštėlį „Švyturėlis“ ir pageidauja kuo daugiau viešnių bei svečių iš centro.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 411 (PDF 412)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 411 (PDF 412)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

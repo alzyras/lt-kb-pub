@@ -52,6 +52,18 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
   pagrindžia:
     - c-87571
 
+<a id="claim-t-221056"></a>
+- t-221056
+  teiginys: "Dusburgietis teigia, kad kamiński A nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais stojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia nė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis, smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko pasprukti."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203192
+
 ## Citatos
 
 - id: c-87571
@@ -123,6 +135,8 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221056
 
 - id: c-203296
   autorius: "Petras Dusburgietis"

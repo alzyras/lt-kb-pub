@@ -46,6 +46,7 @@ canonical_biography: "1636 m. Vilhelmas Tyzenhauzas perėmė Kupiškio seniūnij
   santrauka: '1636 m. rugpjūčio 3 d. A. Korvinas-Gosievskis perdavė Kupiškio seniūniją Vilhelmui Tyzenhauzui, o 1639 m. karalius patvirtino perdavimą ir paskyrė Vilhelmą Tyzenhauzą seniūnu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 154 (PDF 155)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 154 (PDF 155)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

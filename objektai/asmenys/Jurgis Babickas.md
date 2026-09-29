@@ -41,6 +41,7 @@ Jurgis Babickas Laukminiškiuose vedė Agotą Graičiūnaitę.
   santrauka: 'Jurgis Babickas Laukminiškiuose vedė Agotą Graičiūnaitę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1105 (PDF 1106)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1105 (PDF 1106)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,6 +34,7 @@ Autorė frazę „Valiusei reikia Alekso“ apibūdina kaip kone bendriniu posak
   santrauka: 'Autorė nurodo, kad „Valiusei reikia Alekso“ yra kone bendriniu posakiu virtusi frazė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1141 (PDF 1142)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1141 (PDF 1142)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

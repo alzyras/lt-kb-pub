@@ -77,6 +77,7 @@ Kupiškio savanorių gaisrininkų draugija įsteigta 1913 m. vasario 23 d. Vytau
   santrauka: 'Draugijos steigėjai buvo G. Hofmanas, B. Kotleris, Š. Kaplanas, Š. Muzikontas ir J. Trapidas; pirmuoju pirmininku tapo gydytojas Jakovas Gurvičius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 680 (PDF 681)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 680 (PDF 681)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -107,4 +108,3 @@ Kupiškio savanorių gaisrininkų draugija įsteigta 1913 m. vasario 23 d. Vytau
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
-

@@ -80,4 +80,20 @@ Alojzy Sajkowskis tyrė Bobruisko seniūno J. Bojanovskio ryšius su Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207991"></a>
+- t-001
+  teiginys: "Alojzy Sajkowskis tyrė Bobruisko seniūno J. Bojanovskio ryšius su Vilniaus vaivada Kristupu Radvila Perkūnu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190493
 

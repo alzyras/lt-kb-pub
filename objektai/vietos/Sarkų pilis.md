@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-06e59bf6d10e7c42abbd029c
-canonical_name: Sarkų pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Sarkų pilis
+entity_id: "ent-06e59bf6d10e7c42abbd029c"
+canonical_name: "Sarkų pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sarkų pilis"]
 sameAs: []
-canonical_biography: Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio.
+canonical_biography: "Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio."
+place_authority: true
+historical_names: []
 ---
 # Sarkų pilis
 

@@ -48,6 +48,7 @@ Kalnagaliuose sekmadieniais vykdavo vakariniai šokiai, o jų dalyviai miestelio
   santrauka: 'Kalnagaliuose sekmadieniais vykdavo vakariniai šokiai, o jų dalyviai miestelio viduryje šokdavo pritariant armonikai ir balalaikai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 924 (PDF 925)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 924 (PDF 925)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

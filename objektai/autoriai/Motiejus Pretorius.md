@@ -24,16 +24,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-83a52fc75104c9988da83aa4
-canonical_name: Motiejus Pretorius
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Motiejus Pretorius
+entity_id: "ent-83a52fc75104c9988da83aa4"
+canonical_name: "Motiejus Pretorius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Motiejus Pretorius"]
 sameAs: []
-canonical_biography: Motiejus Pretorius (1635–1707) parašė veikalą „Orbis Gothicus“ (1688).
+canonical_biography: "Motiejus Pretorius (1635–1707) parašė veikalą „Orbis Gothicus“ (1688)."
 ---
 # Motiejus Pretorius
 

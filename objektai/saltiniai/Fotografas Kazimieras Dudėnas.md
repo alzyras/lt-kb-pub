@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: 'Albume „Fotografas Kazimieras Dudėnas“ publikuojami prieškarinio Kauno vaizdai ir fotografijos, kuriose įamžinti Palėvenės gyventojai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 257 (PDF 258)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 257 (PDF 258)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

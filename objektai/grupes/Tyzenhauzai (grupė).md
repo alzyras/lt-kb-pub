@@ -47,6 +47,7 @@ Tyzenhauzų giminės Kupiškio seniūnijos valdymas prasidėjo Vilhelmui Tyzenha
   santrauka: 'Tyzenhauzų giminės Kupiškio seniūnijos valdymas prasidėjo Vilhelmui Tyzenhauzui ją perėmus 1636 m. ir tęsėsi iki 1760 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 154 (PDF 155)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 154 (PDF 155)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

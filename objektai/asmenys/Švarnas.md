@@ -20,6 +20,12 @@ media_direct_json: '[{"mediaId":"m-c1b2c0f553d142fe4e755949","title":"Švarnas. 
 media_total_count: 1
 media_primary_width: 477
 media_primary_height: 800
+entity_id: "ent-c91eb145370b0755b827fb2c"
+canonical_name: "Švarnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Švarnas","[\"Švarnas\", \"Švarnas\"]"]
+sameAs: []
 ---
 
 # Švarnas

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Iki XIX a. pabaigos tarp Salamiesčio ir Alizavos augusiuose lapuočių miškuose prie labiau pravažinėtų kryžkelių stovėjo paprasti kryžiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 963 (PDF 964)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 963 (PDF 964)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

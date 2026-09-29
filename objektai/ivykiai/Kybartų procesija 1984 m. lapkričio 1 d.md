@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1984 m. lapkričio 1-osios proga Kybartuose surengta procesija iš Eucharistinio Išganytojo bažnyčios į miestelio kapines.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 474 (PDF 475)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 474 (PDF 475)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

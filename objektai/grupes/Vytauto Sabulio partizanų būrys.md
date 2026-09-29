@@ -30,6 +30,7 @@ Vytauto Sabulio-Vilko būrio dydį Ona Dapšytė-Kriukelienė kronikoje „Kupi�
   santrauka: 'Vytauto Sabulio-Vilko būrio dydį Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo kaip 13 partizanų, o buvęs būrio partizanas Petras Puzinas – kaip 10–12 narių.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 117-118"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 117-118."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

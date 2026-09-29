@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1965 m. V. Lititauskui persikėlus dirbti radijo žurnalistu į Jonavą, Kupiškio radijo laidas ėmė rengti laikraščio redakcijos darbuotojas Bronius Jonuška.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 842 (PDF 843)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 842 (PDF 843)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

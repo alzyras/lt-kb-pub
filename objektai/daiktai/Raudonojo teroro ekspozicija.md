@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1941 m. Kaune, Vytauto Didžiojo karo muziejuje įkurta Raudonojo teroro ekspozicija NKVD veiksmus pirmosios okupacijos metais vaizdavo kaip piktadarybes ir pasakojo apie iš Lietuvos bėgusios sovietų armijos nusikaltimus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1123 (PDF 1124)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1123 (PDF 1124)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: '1947 m. balandžio 18 d. Daukučių kaime, Kupiškio valsčiuje, po agento „Leono“ pranešimo aptiktame trijų partizanų bunkeryje per kautynes žuvo Uršulė Vidžiūnienė ir Stasys Blėka, o Jonas Vidžiūnas pabėgo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 264"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 264."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

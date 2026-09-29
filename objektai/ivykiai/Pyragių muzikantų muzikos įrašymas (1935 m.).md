@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1935 m. buvo įrašyta Pyragių muzikantų lumzdeliu (vamzdeliu) atliekama muzika.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1072 (PDF 1073)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1072 (PDF 1073)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

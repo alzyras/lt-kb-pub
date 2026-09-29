@@ -41,6 +41,7 @@ Leidinys „Kupiškio rajono istorijos puslapiai: 1918–1972 metai“ išleista
   santrauka: 'Leidinys „Kupiškio rajono istorijos puslapiai: 1918–1972 metai“ išleistas Kupiškyje 1972 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 781 (PDF 782)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 781 (PDF 782)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -69,4 +69,3 @@ Dainos užraše Jurgis Bukėnas nurodytas kaip 83 metų žmogus iš Bukinių kai
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

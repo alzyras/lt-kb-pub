@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'J. Lašukas pagamino porą suolų-klauptų, juos presbiterijoje įkomponavo prie sienų, tvarkė medines bažnyčios konstrukcijas ir perdangas bei pagamino naujas didžiąsias šventovės duris.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 348 (PDF 349)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 348 (PDF 349)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

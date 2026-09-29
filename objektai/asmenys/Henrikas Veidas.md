@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f956e3dd10415bf63933dfa0
-canonical_name: Henrikas Veidas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Henrikas Veidas
+entity_id: "ent-f956e3dd10415bf63933dfa0"
+canonical_name: "Henrikas Veidas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Veidas"]
 sameAs: []
-canonical_biography: 1249 m. prūsų magistras Henrikas Veidas sudarė su Sventopelku sutartį dėl Aistmarių pasidalijimo žūklei.
+canonical_biography: "1249 m. prūsų magistras Henrikas Veidas sudarė su Sventopelku sutartį dėl Aistmarių pasidalijimo žūklei."
 ---
 # Henrikas Veidas
 

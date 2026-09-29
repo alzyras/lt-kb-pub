@@ -50,6 +50,7 @@ Stasys Lūšys, centro valdybos pirmininkas, aplankė Panevėžio, Kupiškio, Sk
   santrauka: 'Stasys Lūšys buvo Ateitininkų centro valdybos pirmininkas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 411 (PDF 412)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 411 (PDF 412)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

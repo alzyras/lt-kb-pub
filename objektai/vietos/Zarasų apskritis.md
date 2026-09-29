@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-995ca4e8994bcbd1be224d9f
-canonical_name: Zarasų apskritis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Zarasų apskritis
+entity_id: "ent-995ca4e8994bcbd1be224d9f"
+canonical_name: "Zarasų apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zarasų apskritis"]
 sameAs: []
-canonical_biography: '23 Infliantų, Zarasų ir Dysnos apskričių karo viršininkui - 100 egz.'
+canonical_biography: "23 Infliantų, Zarasų ir Dysnos apskričių karo viršininkui - 100 egz."
 place_authority: true
 historical_names: []
 ---

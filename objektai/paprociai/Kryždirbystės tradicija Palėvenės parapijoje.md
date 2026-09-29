@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Palėvenės parapija seniai garsėjo kryždirbystės tradicijomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 253 (PDF 254)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 253 (PDF 254)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Karo pabėgėliams šelpti draugijos Kupiškio skyrius išdavė tik vieną pabėgėlio statusą liudijantį pažymėjimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 568 (PDF 569)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 568 (PDF 569)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

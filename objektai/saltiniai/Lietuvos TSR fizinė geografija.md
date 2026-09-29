@@ -40,6 +40,7 @@ A. Basalyko leidinio „Lietuvos TSR fizinė geografija“ II tomas išleistas V
   santrauka: 'A. Basalyko leidinio „Lietuvos TSR fizinė geografija“ II tomas išleistas Vilniuje 1965 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 13 (PDF 14)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 13 (PDF 14)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

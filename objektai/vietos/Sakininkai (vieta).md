@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d9432098b4f238ffdc3c381f
-canonical_name: Sakininkai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Sakininkai
-  - Sakininkai (vieta)
+entity_id: "ent-d9432098b4f238ffdc3c381f"
+canonical_name: "Sakininkai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sakininkai","Sakininkai (vieta)"]
 sameAs: []
-canonical_biography: 'Nemuno žemupyje, netoli Rus nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab meldžių papratimu slapčia ateidavo prie jos.'
+canonical_biography: "Nemuno žemupyje, netoli Rus nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab meldžių papratimu slapčia ateidavo prie jos."
+place_authority: true
+historical_names: []
 ---
 # Sakininkai (vieta)
 

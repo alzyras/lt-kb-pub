@@ -40,6 +40,7 @@ Bent nuo XVII a. antrosios pusės medinis Mirabelio dvaras (ar palivarkas) prikl
   santrauka: 'Bent nuo XVII a. antrosios pusės medinis Mirabelio dvaras (ar palivarkas) priklausė Kosakovskiams, o vėliau – Šuazeliams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 134 (PDF 135)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 134 (PDF 135)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

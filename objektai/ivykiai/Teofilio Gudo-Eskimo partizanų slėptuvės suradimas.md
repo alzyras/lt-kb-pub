@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1951 m. lapkričio 27 d. pagal V. Kavoliūno duomenis Šimonių girioje surasta Teofilio Gudo-Eskimo partizanų slėptuvė.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 406-407"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 406-407."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Pastato viduje buvo pastatyti tik gultai, o kėdžių ir kitokių baldų nebuvo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 601 (PDF 602)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 601 (PDF 602)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,4 +90,3 @@ Pastato viduje buvo pastatyti tik gultai, o kėdžių ir kitokių baldų nebuvo.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

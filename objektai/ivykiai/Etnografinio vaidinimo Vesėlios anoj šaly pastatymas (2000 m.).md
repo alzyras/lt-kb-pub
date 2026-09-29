@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '2000 m. Kupkėmis pastatė etnografinį vaidinimą Vesėlios anoj šaly.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1082 (PDF 1083)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1082 (PDF 1083)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

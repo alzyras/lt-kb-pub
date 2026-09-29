@@ -51,6 +51,7 @@ Nuo 1941 m. birželio 9 d. Zenonas Kariačka dirbo Palėvenės Šv. Dominyko ba�
   santrauka: 'Nuo 1941 m. birželio 9 d. Zenonas Kariačka dirbo Palėvenės Šv. Dominyko bažnyčios klebonu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235-236 (PDF 236-237)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235-236 (PDF 236-237)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

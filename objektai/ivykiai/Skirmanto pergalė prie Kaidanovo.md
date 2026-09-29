@@ -111,6 +111,22 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
 
+<a id="claim-t-210948"></a>
+- t-210948
+  teiginys: "Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "dalyvavo_musyje -> Skirmanto pergalė prie Kaidanovo: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Skirmanto pergalė prie Kaidanovo: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Teiginys aprašo Skirmanto pergalę mūšyje prie Kaidanovo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Skirmantas dalyvavo mūšyje Skirmanto pergalė prie Kaidanovo (0.82)"
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

@@ -41,6 +41,7 @@ Kotryna ir Vytautas Babickai augino šešis vaikus.
   santrauka: 'Kotryna ir Vytautas Babickai augino šešis vaikus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1114 (PDF 1115)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1114 (PDF 1115)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

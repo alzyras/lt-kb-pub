@@ -67,6 +67,7 @@ Nenurodyta
   santrauka: 'Kupiškio bažnyčios chore stovėjo paprastas penkių balsų pozityvas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 263 (PDF 264)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 263 (PDF 264)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,4 +92,3 @@ Kupiškio bažnyčios chore stovėjo paprastas penkių balsų pozityvas. Kupišk
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

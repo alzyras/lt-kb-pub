@@ -37,6 +37,7 @@ Genė Mažilytė kronikoje įvardyta agente „Žibute“, o kronika jos 1949 m.
   santrauka: 'Genė Mažilytė kronikoje įvardyta agente „Žibute“, o kronika jos 1949 m. liepos 21 d. pranešimą sieja su brolių Jono ir Juozo Černių žūtimi prie Papilių kaimo liepos 23 d.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 338"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 338."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

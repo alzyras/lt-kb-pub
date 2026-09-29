@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9f8de0345c0cc354c7cfc453
-canonical_name: Laurynas Barkauskas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Laurynas Barkauskas
+entity_id: "ent-9f8de0345c0cc354c7cfc453"
+canonical_name: "Laurynas Barkauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Barkauskas"]
 sameAs: []
-canonical_biography: '7 Sedos klebonas Laurynas Barkaus kas Valančiui pranešė, kad po Sedos, Tirkšlių, Kalvaįijos paiapijas vaikščioja meškininkai ir apgaudinė dami valstiečius varo piktąsias dvasias iš namų.'
+canonical_biography: "7 Sedos klebonas Laurynas Barkaus kas Valančiui pranešė, kad po Sedos, Tirkšlių, Kalvaįijos paiapijas vaikščioja meškininkai ir apgaudinė dami valstiečius varo piktąsias dvasias iš namų."
 ---
 # Laurynas Barkauskas
 

@@ -22,16 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-74a4c6c9e1e233a156f92f43
-canonical_name: V. Nazimovas
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - V. Nazimovas
+entity_id: "ent-74a4c6c9e1e233a156f92f43"
+canonical_name: "V. Nazimovas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Nazimovas"]
 sameAs: []
-canonical_biography: 'V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu. V. Nazimovas 1859 m. memoriale finansų ministrui rašė, kad dabartinės atpirkimo sistemos liaudis apskritai neapkenčia ir kad joje tarnaujantys asmenys piktnaudžiauja.'
+canonical_biography: "V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu. V. Nazimovas 1859 m. memoriale finansų ministrui rašė, kad dabartinės atpirkimo sistemos liaudis apskritai neapkenčia ir kad joje tarnaujantys asmenys piktnaudžiauja."
 ---
 # V. Nazimovas
 

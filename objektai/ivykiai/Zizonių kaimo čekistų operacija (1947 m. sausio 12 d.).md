@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Per 1947 m. sausio 12 d. MVD vidaus kariuomenės 353-iojo šaulių pulko operaciją Zizonių kaime žuvo ryšininkė rėmėja Elzė Balčiūnienė ir du partizanai, jos duktė Genė Balčiūnaitė buvo sužeista, o kita duktė Lena Balčiūnaitė sulaikyta.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 257"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 257."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Juozą Indriūną 1972 m. balandžio 16 d. kunigu įšventino vyskupas Juozapas Labukas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 553 (PDF 554)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 553 (PDF 554)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

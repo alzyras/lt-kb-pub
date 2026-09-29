@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0ff5006ef574a787727a42a6
-canonical_name: Motiejus Valanczauskis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Motiejus Valanczauskis
+entity_id: "ent-0ff5006ef574a787727a42a6"
+canonical_name: "Motiejus Valanczauskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Motiejus Valanczauskis"]
 sameAs: []
-canonical_biography: Motiejus Valanczauskis isz Diewo ir apasztaliszko sos to mylistos Žemaiczių Vyskupas.
+canonical_biography: "Motiejus Valanczauskis isz Diewo ir apasztaliszko sos to mylistos Žemaiczių Vyskupas."
 ---
 # Motiejus Valanczauskis
 

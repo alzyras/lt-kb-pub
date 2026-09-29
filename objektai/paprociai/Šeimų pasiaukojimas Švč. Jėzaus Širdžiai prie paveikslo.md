@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Po viešo Lietuvos pasiaukojimo Švč. Jėzaus Širdžiai 1934 m. vis daugiau šeimų pasiaukodavo prie Švč. Jėzaus Širdies paveikslo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 673 (PDF 674)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 673 (PDF 674)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

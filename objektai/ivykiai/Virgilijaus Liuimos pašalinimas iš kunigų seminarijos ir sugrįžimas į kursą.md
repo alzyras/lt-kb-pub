@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Po pirmojo kurso klierikas Virgilijus Liuima buvo pašalintas iš kunigų seminarijos už antitarybinės literatūros platinimą ir jam grasinta septynerių metų įkalinimu, tačiau po poros savaičių sugrįžo į savo kursą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 554 (PDF 555)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 554 (PDF 555)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

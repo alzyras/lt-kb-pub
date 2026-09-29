@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Livonijos vaivadija"]
 sameAs: []
 canonical_biography: "Daugiausiai objektų, tarp jų ir ryš kiausių, turinčių didelę meninę vertę, telkiasi Abiejų Tautų Respublikos Šiaurės Ry tuose ir Rytuose, konkrečiai Livonijos, Polocko, Vitebsko ir Mstislavlio vaivadijose."
+place_authority: true
+historical_names: []
 ---
 # Livonijos vaivadija
 

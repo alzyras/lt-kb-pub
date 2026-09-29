@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1933 m. sausio 15 d. P. Babickas su kolegomis įkūrė Lietuvos fotomėgėjų sąjungą ir organizavo bendras fotografijos parodas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1121 (PDF 1122)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1121 (PDF 1122)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

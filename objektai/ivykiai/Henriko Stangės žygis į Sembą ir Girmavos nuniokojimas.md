@@ -86,6 +86,23 @@ Nenurodyta
   pagrindžia:
     - c-66767
 
+<a id="claim-t-221356"></a>
+- t-221356
+  teiginys: "Sembos puolimas datuojamas arba 1252–1253 m. žiema, arba 1253–1254 m. žiema, tiksliau 1254 m. pradžia."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Semba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1252-1253; įvykio data: 1253 m.; įvykio data: 1253-1254; įvykio data: 1254 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau perteikti abi nurodytas datavimo alternatyvas."
+
 ## Citatos
 
 - id: c-66767

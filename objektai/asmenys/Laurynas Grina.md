@@ -49,6 +49,7 @@ Laurynas Grina 1843 m. vedė Marijoną Pavilonytę iš Migonių.
   santrauka: 'Laurynas Grina 1843 m. vedė Marijoną Pavilonytę iš Migonių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 194 (PDF 195)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 194 (PDF 195)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

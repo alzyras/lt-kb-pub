@@ -27,15 +27,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-cced6a5cc54a37141844a3e5
-canonical_name: Dionizas Poška
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Dionizas Poška
-sameAs: []
-canonical_biography: 'Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poezijos žemaitiškai arba lietuviškai rašymo pradžia. 1829 m. „Dziennik Warszawski“ paskelbtas jo straipsnis apie Lietuvos ir Žemaičių istorijos rašymą laikomas reikšmingu literatūriniu palikimu. Poškai buvo žinomi Simono Daukanto „Darbai senųjų lietuvių ir žemaičių“, nors straipsnyje Daukanto jis neminėjo.'
 external_sources_json: '[{"title":"Dionizas Poška","url":"https://lt.wikipedia.org/wiki/Dionizas_Po%C5%A1ka","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Dionizas Poška","url":"https://www.vle.lt/straipsnis/dionizas-poska/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:40:19+00:00","source_checked_at":"2026-09-19T19:40:19+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Dionizas Poška (1764 m. Lėlaičiuose (Telšių apylinkėse) – 1830 m.) – XIX a. lietuvių rašytojas, vienas žymiausių kultūros veikėjų. Žymiausias D. Poškos kūrinys – „Mužikas Žemaičių ir Lietuvos“.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"20337","revision_id":"7720507","status":"published","translation_status":"native","source":{"title":"Dionizas Poška","url":"https://lt.wikipedia.org/wiki/Dionizas_Po%C5%A1ka","publisher":"Vikipedija","language":"lt","article_id":"20337","revision_id":"7720507","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7720507","history_url":"https://lt.wikipedia.org/w/index.php?title=Dionizas_Po%C5%A1ka&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:06:14.550523+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"MediaWiki rendered HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"04d8a2ef7e049120cde101dcf6cb407dfc89ca3769cd55c63d28d0ccc915ff09","version_pk":"cd868c6ba86c3cc53fb328168ff1d5bc"}},"source_buttons":[{"label":"Vikipedija","title":"Dionizas Poška","url":"https://lt.wikipedia.org/wiki/Dionizas_Po%C5%A1ka","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Dionizas Poška","url":"https://www.vle.lt/straipsnis/dionizas-poska/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Dionizas_Po%C5%A1ka","https://www.vle.lt/straipsnis/dionizas-poska/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
 object_page_finisher: 'true'
@@ -49,6 +40,13 @@ object_page_seo_description: 'Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs 
 object_page_seo_input_hash: da7e1e8f418ac8f21063a7470ac1ecfee65d6ef29cc28eba5ae134053eff05be
 object_page_seo_generated_at: '2026-09-19T19:40:19+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-cced6a5cc54a37141844a3e5"
+canonical_name: "Dionizas Poška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dionizas Poška"]
+sameAs: ["https://www.wikidata.org/entity/Q4375656"]
+canonical_biography: "Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poezijos žemaitiškai arba lietuviškai rašymo pradžia. 1829 m. „Dziennik Warszawski“ paskelbtas jo straipsnis apie Lietuvos ir Žemaičių istorijos rašymą laikomas reikšmingu literatūriniu palikimu. Poškai buvo žinomi Simono Daukanto „Darbai senųjų lietuvių ir žemaičių“, nors straipsnyje Daukanto jis neminėjo."
 ---
 # Dionizas Poška
 

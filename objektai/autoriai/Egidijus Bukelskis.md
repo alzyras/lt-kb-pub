@@ -63,4 +63,3 @@ Egidijus Bukelskis yra skyriaus „Kupiškio marių ichtiologiniai tyrimai“ au
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

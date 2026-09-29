@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9f5f104012509e6294d5b905
-canonical_name: E. Remeris
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - E. Remeris
+entity_id: "ent-9f5f104012509e6294d5b905"
+canonical_name: "E. Remeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["E. Remeris"]
 sameAs: []
-canonical_biography: E. Remerio archyve išliko vienas A. Piotucho laiškų.
+canonical_biography: "E. Remerio archyve išliko vienas A. Piotucho laiškų."
 ---
 # E. Remeris
 

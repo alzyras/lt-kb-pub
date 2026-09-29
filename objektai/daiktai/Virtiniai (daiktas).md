@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Kupiškėnai piemenų šventei gamindavo virtinius, verdamus ant šiaudų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 943 (PDF 944)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 943 (PDF 944)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ Nenurodyta
   santrauka: 'Pasak Buračo, kiekvienas piemuo pirmiausia gaudavo po septynis virtinius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 943 (PDF 944)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 943 (PDF 944)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

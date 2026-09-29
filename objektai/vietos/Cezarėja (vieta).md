@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6fb86721ba0f26eac0279b13
-canonical_name: Cezarėja (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Cezarėja
-  - Cezarėja (vieta)
+entity_id: "ent-6fb86721ba0f26eac0279b13"
+canonical_name: "Cezarėja (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cezarėja","Cezarėja (vieta)"]
 sameAs: []
-canonical_biography: 'Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai.'
+canonical_biography: "Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai."
+place_authority: true
+historical_names: []
 ---
 # Cezarėja (vieta)
 

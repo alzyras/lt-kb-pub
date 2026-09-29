@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ab9fa8ea52ae858205652b44
-canonical_name: Pitėjas Masilietis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Pitėjas Masilietis
+entity_id: "ent-ab9fa8ea52ae858205652b44"
+canonical_name: "Pitėjas Masilietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pitėjas Masilietis"]
 sameAs: []
-canonical_biography: 'Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy mus Masilijos astronomas ir jūrų keliautojas Pitėjas.'
+canonical_biography: "Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy mus Masilijos astronomas ir jūrų keliautojas Pitėjas."
 ---
 # Pitėjas Masilietis
 

@@ -36,16 +36,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4465c55c7f3424fd67103646
-canonical_name: Žemaičių vyskupija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Žemaičių vyskupija
-sameAs:
-  - 'https://www.wikidata.org/entity/Q9207351'
-canonical_biography: 'Iš Žemaičių vyskupiją valdžiusių ketu riasdešimties vyskupų Motiejus Valančius minimas greta Motiejaus I, Martyno III, Merkelio Giedraičio, Jurgio ir Antano Tiškevičių, Juozapo Arnulfo Giedraičio bei kitų ir yra vienas labiausiai pasižymėjusių ir išgarsėjusių. Žemaičių vyskupija nurodoma kaip Rusijos imperijai ir Kauno gubernijai priklausiusi teritorija. Žemaičių vyskupijoje valdant M. Valančiui tikinčiųjų dvasiniai reikalai pastebimai pagerėjo.'
+entity_id: "ent-4465c55c7f3424fd67103646"
+canonical_name: "Žemaičių vyskupija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemaičių vyskupija"]
+sameAs: ["https://www.wikidata.org/entity/Q9207351"]
+canonical_biography: "Iš Žemaičių vyskupiją valdžiusių ketu riasdešimties vyskupų Motiejus Valančius minimas greta Motiejaus I, Martyno III, Merkelio Giedraičio, Jurgio ir Antano Tiškevičių, Juozapo Arnulfo Giedraičio bei kitų ir yra vienas labiausiai pasižymėjusių ir išgarsėjusių. Žemaičių vyskupija nurodoma kaip Rusijos imperijai ir Kauno gubernijai priklausiusi teritorija. Žemaičių vyskupijoje valdant M. Valančiui tikinčiųjų dvasiniai reikalai pastebimai pagerėjo."
 place_authority: true
 historical_names: []
 ---

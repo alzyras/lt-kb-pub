@@ -50,6 +50,7 @@ Kupiškėnų tautodailininkas ir medžio drožėjas Jonas Šmigelskas parengė b
   santrauka: 'Kupiškėnų tautodailininkas ir medžio drožėjas Jonas Šmigelskas parengė brėžinius, pagal kuriuos apie 2000 m. vietos medienos įmonė „Slavita“ pagamino papildomus suolus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 348 (PDF 349)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 348 (PDF 349)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

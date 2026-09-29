@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Apie 1944 m. gruodžio vidurį Juozas Rimkus, kitas Rimkus ir Aleksis Matelis Šimonių valsčiuje talkino vietos partizanams, kurie šešiose vietose krėtė milicininkų ir kitų veikėjų namus, ieškodami ginklų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 67-68"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 67-68."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

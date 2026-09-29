@@ -40,6 +40,7 @@ Aptariami duomenys paimti iš 1966 m. išleisto Lietuvos durpynų kadastro.
   santrauka: '1966 m. išleistas Lietuvos durpynų kadastras nurodytas kaip aptariamų duomenų šaltinis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 109 (PDF 110)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 109 (PDF 110)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

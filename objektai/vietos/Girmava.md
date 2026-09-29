@@ -70,6 +70,22 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   pagrindžia:
     - c-86288
 
+<a id="claim-t-225827"></a>
+- t-225827
+  teiginys: "Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Sembai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Girmava: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Girmava apibūdinta kaip sembų valsčiaus centras, todėl siejama su sembais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Girmava priklausė Sembai (0.78)"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+
 ## Citatos
 
 - id: c-86288

@@ -42,6 +42,17 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
   pagrindžia:
     - c-172445
 
+<a id="claim-t-218149"></a>
+- t-218149
+  teiginys: "Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstiečių dar mokėtą liudijimą apie Pilvytės mito žinomumą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstiečių dar mokėtą liudijimą apie Pilvytės mito žinomumą.'

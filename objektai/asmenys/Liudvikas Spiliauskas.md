@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e3ebe8a0e1ea9fd3347f587c
-canonical_name: Liudvikas Spiliauskas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Liudvikas Spiliauskas
+entity_id: "ent-e3ebe8a0e1ea9fd3347f587c"
+canonical_name: "Liudvikas Spiliauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas Spiliauskas"]
 sameAs: []
-canonical_biography: Spiliauskas vaikystėje ėjo išpažinties pas Valančių ir gavo iš jo naują balakaną.
+canonical_biography: "Spiliauskas vaikystėje ėjo išpažinties pas Valančių ir gavo iš jo naują balakaną."
 ---
 # Liudvikas Spiliauskas
 

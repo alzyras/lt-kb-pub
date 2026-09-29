@@ -50,6 +50,7 @@ canonical_biography: "1942–1944 m. Jonas Ragauskas buvo Panevėžio berniukų 
   santrauka: '1942–1944 m. Jonas Ragauskas buvo Panevėžio berniukų gimnazijos kapelionas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 417-418 (PDF 418-419)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 417-418 (PDF 418-419)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

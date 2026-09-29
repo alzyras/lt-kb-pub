@@ -40,6 +40,7 @@ Sesuo Julija, tapusi kotryniete Krista, 1944 m. buvo atleista iš Kretingos žem
   santrauka: 'Sesuo Julija, tapusi Šv. Kotrynos seserų kongregacijos vienuole Krista, 1944 m. buvo atleista iš Kretingos žemesniosios žemės ūkio mokyklos vedėjos pareigų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 495 (PDF 496)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 495 (PDF 496)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9e160d7d664ebd4e8bec2be4
-canonical_name: Mikalojus IV
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Mikalojus IV
+entity_id: "ent-9e160d7d664ebd4e8bec2be4"
+canonical_name: "Mikalojus IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus IV"]
 sameAs: []
-canonical_biography: Mikalojus IV 1288 metais buvo popiežius ir priklausė mažesniųjų brolių ordinui.
+canonical_biography: "Mikalojus IV 1288 metais buvo popiežius ir priklausė mažesniųjų brolių ordinui."
 ---
 # Mikalojus IV
 

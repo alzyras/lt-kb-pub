@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1951 m. spalio 12 d. Vladislovo Senvaičio žmona ir abu sūnūs buvo ištremti į Tomsko srities Aukštutinės Ketės rajoną, o į Lietuvą jiems leista grįžti 1958 m. vasarą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 206 (PDF 207)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 206 (PDF 207)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

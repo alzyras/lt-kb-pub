@@ -43,6 +43,7 @@ media_all_json: |-
   santrauka: '1941 m. žurnale „Gimtasai kraštas“ J. Petrulis, rašydamas Rudikų kaimo istoriją, išskyrė vietos tapytoją Kazimierą Adomavičių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 951 (PDF 952)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 951 (PDF 952)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

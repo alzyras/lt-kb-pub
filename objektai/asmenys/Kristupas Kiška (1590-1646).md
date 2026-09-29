@@ -33,16 +33,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-a21ea331433f5ac1da859231
-canonical_name: Kristupas Kiška (1590-1646)
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Kristupas Kiška
-  - Kristupas Kiška (1590-1646)
+entity_id: "ent-noble-a21ea331433f5ac1da859231"
+canonical_name: "Kristupas Kiška (1590-1646)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Kiška","Kristupas Kiška (1590-1646)"]
 sameAs: []
-canonical_biography: Kristupas Kiška (1590-1646) - Kiškos giminės atstovas.
+canonical_biography: "Kristupas Kiška (1590-1646) - Kiškos giminės atstovas."
 ---
 # Kristupas Kiška (1590-1646)
 

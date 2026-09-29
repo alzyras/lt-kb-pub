@@ -63,6 +63,26 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
     - c-168725
     - c-168726
 
+<a id="claim-t-185364"></a>
+- t-185364
+  teiginys: "Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Minskas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Maskvėnų pulkai kartu su Glinskiu tiesiogiai įvardyti kaip puolę Minską."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  pagrindžia:
+    - c-168725
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.'
@@ -125,6 +145,7 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-185364
     - t-185365
 
 - id: c-168726

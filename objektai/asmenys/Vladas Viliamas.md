@@ -50,6 +50,7 @@ Vladas Viliamas 1927 m. buvo Centro valdybos pirmininkas ir aplankė Kupiškio k
   santrauka: 'Vladas Viliamas 1927 m. buvo Centro valdybos pirmininkas ir aplankė Kupiškio kuopą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 411 (PDF 412)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 411 (PDF 412)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: '1935 m. Zenonas Slaviūnas Lietuvių tautosakos archyve Kaune į fonografo plokšteles įrašė Pyragių muzikantų atliekamą muziką, iš kurios išliko penkiolika kūrinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1056 (PDF 1057)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1056 (PDF 1057)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

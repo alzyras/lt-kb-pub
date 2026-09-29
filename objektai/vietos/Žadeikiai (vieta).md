@@ -55,6 +55,7 @@ Romo Petronio būrys daugiausia veikė Alizavos, Žadeikių, Kupreliškio ir Bak
   santrauka: 'Romo Petronio būrys daugiausia veikė Alizavos, Žadeikių, Kupreliškio ir Bakšėnų kaimų apylinkėse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -116,4 +117,3 @@ Romo Petronio būrys daugiausia veikė Alizavos, Žadeikių, Kupreliškio ir Bak
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

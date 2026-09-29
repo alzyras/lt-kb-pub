@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: 'Konferencija „Meno ir dvasinės maldos galybė“ vyko 2014 m. spalio 2 d. Kupiškio parapijos namuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 453 (PDF 454)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 453 (PDF 454)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-39927f39c2a2142c9eab569d
-canonical_name: Bobras (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Bobras
-  - Bobras (vieta)
+entity_id: "ent-39927f39c2a2142c9eab569d"
+canonical_name: "Bobras (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bobras","Bobras (vieta)"]
 sameAs: []
-canonical_biography: 'Bobras buvo Berezinos (Dniepro) kairysis intakas, tekėjęs apie 40 km į rytus nuo Borisovo.'
+canonical_biography: "Bobras buvo Berezinos (Dniepro) kairysis intakas, tekėjęs apie 40 km į rytus nuo Borisovo."
+place_authority: true
+historical_names: []
 ---
 # Bobras (vieta)
 

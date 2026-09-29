@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-bbdb5bea035eb35015fb7081
-canonical_name: Kazimieras Skrodzkis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Kazimieras Skrodzkis
+entity_id: "ent-bbdb5bea035eb35015fb7081"
+canonical_name: "Kazimieras Skrodzkis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Skrodzkis"]
 sameAs: []
-canonical_biography: 'Antai Kulių parapijos vikarą kun. Kazimierą Skrodzkį, pasižymėjusį švietimo darbe, pasky rė Kulių parapijos klebonu, o netrukus jam patikėjo ir Rietavo dekanato dekano pareigas 3.'
+canonical_biography: "Antai Kulių parapijos vikarą kun. Kazimierą Skrodzkį, pasižymėjusį švietimo darbe, pasky rė Kulių parapijos klebonu, o netrukus jam patikėjo ir Rietavo dekanato dekano pareigas 3."
 ---
 # Kazimieras Skrodzkis
 

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-cf6740cbdffa5094b2c2365a
-canonical_name: Romučių kaimas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Romučių kaimas
+entity_id: "ent-cf6740cbdffa5094b2c2365a"
+canonical_name: "Romučių kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romučių kaimas"]
 sameAs: []
-canonical_biography: 'Jis turėjo būti prie Tenenio upės, rodos, toje vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že maitijoje, tik už sienos - Romuniškiai (Romuniszki).'
+canonical_biography: "Jis turėjo būti prie Tenenio upės, rodos, toje vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že maitijoje, tik už sienos - Romuniškiai (Romuniszki)."
+place_authority: true
+historical_names: []
 ---
 # Romučių kaimas
 

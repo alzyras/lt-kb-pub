@@ -42,6 +42,7 @@ Ramanavos kaime gyvenęs partizanų būrio vadas Juozas Masilionis-Sidabras žuv
   santrauka: 'Ramanavos kaime gyvenęs partizanų būrio vadas Juozas Masilionis-Sidabras žuvo ir priklausė Adolfo Bagdono-Beržo kuopai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 208"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 208."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

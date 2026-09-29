@@ -34,6 +34,7 @@ Sąjūdžio agrarinės programos projektą konferencijos dalyviai aktyviai svars
   santrauka: 'Sąjūdžio agrarinės programos projektą konferencijos dalyviai aktyviai svarstė ir teikė pasiūlymų, kuriais siekta užtikrinti visišką žemdirbių, ypač individualių ūkininkų, savarankiškumą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 855 (PDF 856)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 855 (PDF 856)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

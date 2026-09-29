@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Senieji Šepetos pelkės gyventojai pasakojo, kad uogautojos galėdavo nuo ryto iki vakaro pririnkti daug spanguolių, o pavargusias su ryšuliais namiškiai parsigabendavo arkliais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 105 (PDF 106)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 105 (PDF 106)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

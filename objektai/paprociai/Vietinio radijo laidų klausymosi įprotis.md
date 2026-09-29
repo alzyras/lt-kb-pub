@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Vietinio radijo pokalbių laidų klausytis per „gavarilkas“ antradienių ir penktadienių rytais, po respublikinio radijo žinių, žmonėms tapo įprasta.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 842 (PDF 843)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 842 (PDF 843)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,6 +64,7 @@ Nenurodyta
   santrauka: 'Vietinio radijo laidų per metus parengdavo apie šimtą, o jų transliacijų trukmė viršydavo 30 valandų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 842 (PDF 843)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 842 (PDF 843)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

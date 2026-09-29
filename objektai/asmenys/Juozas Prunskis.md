@@ -68,6 +68,7 @@ canonical_biography: "Prunskio iniciatyva atkuriamas Katalikų spaudos biuras. P
   santrauka: '1942 m. rugsėjo 19 d. kunigo Juozo Prunskio iniciatyva Katalikų federacijos žinyboje buvo atkurtas Katalikų spaudos biuras.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 527 (PDF 528)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 527 (PDF 528)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,6 +80,7 @@ canonical_biography: "Prunskio iniciatyva atkuriamas Katalikų spaudos biuras. P
   santrauka: 'Juozas Prunskis mirė 2003 m. balandžio 26 d. ir buvo palaidotas Čikagos Šv. Kazimiero kapinėse šalia giminaičių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 527 (PDF 528)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 527 (PDF 528)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -99,4 +101,3 @@ canonical_biography: "Prunskio iniciatyva atkuriamas Katalikų spaudos biuras. P
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

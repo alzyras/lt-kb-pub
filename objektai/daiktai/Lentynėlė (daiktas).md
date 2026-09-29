@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Žmonės po kurio laiko virš gultų prisitaisydavo lentynėles, kuriose laikydavo maldaknyges, turimas knygas, atsiminimų albumus, šaukštus ir puodelius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 601 (PDF 602)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 601 (PDF 602)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

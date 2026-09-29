@@ -45,6 +45,7 @@ Panemunėlio administratorius Juozas Matulionis 1944 m. parapijos istorijoje ra�
   santrauka: '1944 m. Panemunėlio administratorius kunigas Juozas Matulionis nurodė, kad vikarų Mykolo Grigaliūno, vėliau Juozo Garškos ir Antano Simonaičio dėka atgijo pavasarininkai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 529 (PDF 530)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 529 (PDF 530)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

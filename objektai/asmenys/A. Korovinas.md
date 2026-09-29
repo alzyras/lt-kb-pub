@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-1ce0fce37dc4d95bbfd0f008
-canonical_name: A. Korovinas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Korovinas
+entity_id: "ent-1ce0fce37dc4d95bbfd0f008"
+canonical_name: "A. Korovinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Korovinas"]
 sameAs: []
-canonical_biography: 'Korovino duomenimis, 1897 m. jų buvo apie 20012.'
+canonical_biography: "Korovino duomenimis, 1897 m. jų buvo apie 20012."
 ---
 # A. Korovinas
 

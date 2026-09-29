@@ -43,6 +43,7 @@ Algimantas Jasaitis buvo pateikėjas, kilęs iš Būtkių kaimo Radviliškio raj
   santrauka: 'Algimantas Jasaitis buvo pateikėjas, kilęs iš Būtkių kaimo Radviliškio rajone.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 919 (PDF 920)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 919 (PDF 920)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

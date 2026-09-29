@@ -49,6 +49,7 @@ Leonas Jurevičius gimė 1903 m. Miliūnų kaime, Pandėlio apylinkėje, Rokišk
   santrauka: 'Leonas Jurevičius gimė 1903 m. Miliūnų kaime, Pandėlio apylinkėje, Rokiškio rajone.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1071 (PDF 1072)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1071 (PDF 1072)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

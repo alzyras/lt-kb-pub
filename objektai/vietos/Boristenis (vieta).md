@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d66d7e002fd9b8aaee65125a
-canonical_name: Boristenis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Boristenis
-  - Boristenis (vieta)
+entity_id: "ent-d66d7e002fd9b8aaee65125a"
+canonical_name: "Boristenis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Boristenis","Boristenis (vieta)"]
 sameAs: []
-canonical_biography: 'Jiems priklausiusi skitų gentis, vadinama borestenitais, neabejotinai buvo ta, ku ri davė pradžią karališkiesiems skitams, turėjusiems se novės kimbrų miestą Boristenį.'
+canonical_biography: "Jiems priklausiusi skitų gentis, vadinama borestenitais, neabejotinai buvo ta, ku ri davė pradžią karališkiesiems skitams, turėjusiems se novės kimbrų miestą Boristenį."
+place_authority: true
+historical_names: []
 ---
 # Boristenis (vieta)
 

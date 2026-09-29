@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ca82b5ec0faf1453e11f0d16
-canonical_name: Dimitrijus Nariškinas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Dimitrijus Nariškinas
+entity_id: "ent-ca82b5ec0faf1453e11f0d16"
+canonical_name: "Dimitrijus Nariškinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dimitrijus Nariškinas"]
 sameAs: []
-canonical_biography: Dimitrijus Nariškinas padovanojo žemės Meškuičių bažnyčiai.
+canonical_biography: "Dimitrijus Nariškinas padovanojo žemės Meškuičių bažnyčiai."
 ---
 # Dimitrijus Nariškinas
 

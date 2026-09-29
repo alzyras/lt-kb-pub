@@ -49,6 +49,7 @@ Rasa Matulytė su kitais ateitininkais 1990 m. gruodžio 28 d. dalyvavo Taizé b
   santrauka: 'Rasa Matulytė su kitais ateitininkais 1990 m. gruodžio 28 d. dalyvavo Taizé bendruomenės ekumeniniame susirinkime Prahoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 445 (PDF 446)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 445 (PDF 446)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1984 m. patvenkus Lėvens upę 110 km nuo šios upės žiočių, Lėvens slėnyje 1986 m. susiformavo didelis tvenkinys, vietos gyventojų neretai vadinamas Kupiškio mariomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 25 (PDF 26)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 25 (PDF 26)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

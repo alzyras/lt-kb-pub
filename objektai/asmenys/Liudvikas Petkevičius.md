@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a9846119e390b72aa81aeecf
-canonical_name: Liudvikas Petkevičius
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Liudvikas Petkevičius
+entity_id: "ent-a9846119e390b72aa81aeecf"
+canonical_name: "Liudvikas Petkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas Petkevičius"]
 sameAs: []
-canonical_biography: 'Obelių dvarininkas Liudvikas Petkevičius pažadėjo Obeliuose pastatyti naują bažnyčią, jei laimės bylą dėl dvaro.'
+canonical_biography: "Obelių dvarininkas Liudvikas Petkevičius pažadėjo Obeliuose pastatyti naują bažnyčią, jei laimės bylą dėl dvaro."
 ---
 # Liudvikas Petkevičius
 

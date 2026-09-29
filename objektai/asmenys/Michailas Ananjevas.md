@@ -37,6 +37,7 @@ Michailas Ananjevas, MGB BB Kupiškio apskrities skyriaus viršininko pavaduotoj
   santrauka: 'Michailas Ananjevas, MGB BB Kupiškio apskrities skyriaus viršininko pavaduotojas ir gvardijos majoras, suderinęs planą su Fedotu Potockiu, pateikė A. Starkaus partizanų junginio sunaikinimo planą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 172"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 172."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

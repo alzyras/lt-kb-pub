@@ -64,6 +64,7 @@ Nenurodyta
   santrauka: 'Pasak pateikto pasakojimo, sovietmečiu didžiausios nelaimės ar karo atveju liepta skambinti didžiuoju varpu Jonu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1006 (PDF 1007)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1006 (PDF 1007)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,4 +89,3 @@ Palėvenės bažnyčioje šiuo metu skambinama dviem varpais, vadinamais Jonu ir
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

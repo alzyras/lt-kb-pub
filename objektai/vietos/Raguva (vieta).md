@@ -53,6 +53,7 @@ Kunigas į Raguvos klebono pareigas paskirtas 1993 m. rugsėjo 22 d.
   santrauka: 'Asmuo buvo paskirtas Raguvos klebonu 1993 m. rugsėjo 22 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 428 (PDF 429)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 428 (PDF 429)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

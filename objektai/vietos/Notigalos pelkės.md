@@ -37,6 +37,7 @@ Jonas Šiupinys-Bermonas iš Petro Vaidakavičiaus junginio likusių partizanų 
   santrauka: 'Jonas Šiupinys-Bermonas iš Petro Vaidakavičiaus junginio likusių partizanų suorganizavo apie 20 partizanų turėjusį būrį, kuris veikė Skapiškio, Pandėlio ir Panemunėlio valsčiuose bei turėjo bunkerį Notigalos pelkėse.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 104-105"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 104-105."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ Jonas Šiupinys-Bermonas iš Petro Vaidakavičiaus junginio likusių partizanų 
   santrauka: 'Onos Dapšytės-Kriukelienės kronika 1946 m. gruodžio 12 d. Notigaloje vykusią operaciją apibūdina kaip karinę čekistų operaciją, per kurią žuvo Jonas Šiupinys ir buvo nukauta 12 partizanų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 105"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 105."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

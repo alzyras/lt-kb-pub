@@ -34,6 +34,7 @@ Jėzaus krikšto skulptūrine grupe puošti koplytstulpiai tyrimo aprašyme vadi
   santrauka: 'Koplytstulpiai su Jėzaus krikšto skulptūrine grupe buvo vadinami „Šv. Jonais“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 964 (PDF 965)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 964 (PDF 965)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

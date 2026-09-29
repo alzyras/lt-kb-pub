@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1982 m. birželio 6 d. Raimundas Saprigonas buvo įšventintas kunigu ir paskirtas vikaru Kupiškyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 554 (PDF 555)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 554 (PDF 555)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

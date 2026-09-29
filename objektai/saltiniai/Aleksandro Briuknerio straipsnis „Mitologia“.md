@@ -49,4 +49,20 @@ media_all_json: '[]'
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-219624"></a>
+- t-001
+  teiginys: "1910 m. lenkų enciklopedijoje paskelbtame Aleksandro Briuknerio straipsnyje T. Narbutas pavadintas įžymiuoju falsifikatoriumi."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198879
 

@@ -51,6 +51,7 @@ Aldona Vasiliauskienė, rengdama straipsnį „Kristaus Žengimo į dangų bažn
   santrauka: 'Aldona Vasiliauskienė, rengdama straipsnį „Kristaus Žengimo į dangų bažnyčios ir parapijos istorija“, naudojosi Viktoro Petkaus tyrinėjimais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 362-363 (PDF 363-364)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 362-363 (PDF 363-364)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

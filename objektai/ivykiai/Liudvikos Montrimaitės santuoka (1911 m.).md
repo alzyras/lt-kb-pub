@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1911 m. spalio 23 d. Liudvika ištekėjo už Pranciškaus Vaidilos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 199 (PDF 200)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 199 (PDF 200)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

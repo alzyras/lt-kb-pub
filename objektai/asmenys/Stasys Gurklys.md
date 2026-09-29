@@ -51,6 +51,7 @@ Stasys Gurklys priklausė Povilo Laužiko skyriui, vėliau įstojo į Žaliosios
   santrauka: 'Stasys Gurklys priklausė Povilo Laužiko skyriui, vėliau įstojo į Žaliosios rinktinės Eimučio būrį ir buvo partizanų skyriaus vadas, o Eimučio būriui vadovavo Tautvilis Vaitiekūnas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 290"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 290."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Stasys Gurklys priklausė Povilo Laužiko skyriui, vėliau įstojo į Žaliosios
   santrauka: 'Stasys Gurklys 1953 m. kovo 29 d. buvo nušautas per karinę čekistų operaciją Siaurų kaime, pas gyventoją Bronių Zuozą rastame požeminiame bunkeryje; Petras Vanagas ir Bronius Navarskas suimti.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 290"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 290."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,6 +71,7 @@ Stasys Gurklys priklausė Povilo Laužiko skyriui, vėliau įstojo į Žaliosios
   santrauka: 'Agentui „Angliui“ buvo pavesta nustatyti Vabalninko teritorijoje veikusių buvusių Povilo Laužiko skyriaus partizanų Stasio Gurklio ir Tautvilio Vaitiekūno slapstymosi vietas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 304"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 304."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -87,4 +90,3 @@ Stasys Gurklys priklausė Povilo Laužiko skyriui, vėliau įstojo į Žaliosios
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

@@ -72,6 +72,18 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   pagrindžia:
     - c-178652
 
+<a id="claim-t-185345"></a>
+- t-185345
+  teiginys: "Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168706
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų.'
@@ -144,6 +156,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185345
 
 - id: c-168707
   autorius: "Albertas Vijūkas-Kojelavičius"

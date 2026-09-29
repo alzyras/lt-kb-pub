@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Po Stalino mirties speciali komisija peržiūrėjo kunigo Antano Juškos bylą ir sumažino jam skirtą bausmę nuo 25 iki 8 metų; 1956 m. rugsėjį Antanas Juška išėjo į laisvę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 467 (PDF 468)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 467 (PDF 468)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

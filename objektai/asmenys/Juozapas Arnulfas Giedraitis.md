@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e2cb4ee595ca83a9bc4ea2a7
-canonical_name: Juozapas Arnulfas Giedraitis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Juozapas Arnulfas Giedraitis
+entity_id: "ent-e2cb4ee595ca83a9bc4ea2a7"
+canonical_name: "Juozapas Arnulfas Giedraitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Arnulfas Giedraitis"]
 sameAs: []
-canonical_biography: 1819 m. Juozapas Arnulfas Giedraitis vizitavo Kalnalio filijos bažnyčią.
+canonical_biography: "1819 m. Juozapas Arnulfas Giedraitis vizitavo Kalnalio filijos bažnyčią."
 ---
 # Juozapas Arnulfas Giedraitis
 

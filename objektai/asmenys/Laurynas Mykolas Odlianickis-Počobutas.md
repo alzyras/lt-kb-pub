@@ -50,6 +50,7 @@ canonical_biography: "1671 m. Laurynas Mykolas Odlianickis-Počobutas, būdamas 
   santrauka: '1671 m. Laurynas Mykolas Odlianickis-Počobutas, būdamas Ukmergės žemės teismo teisėjas, įsigijo Palėvenės dvarą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 312 (PDF 313)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 312 (PDF 313)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Liongino Virbalo vyskupo šventimų iškilmėms išleista 40 puslapių knygelė, kurią gavo į šventę atvykę žmonės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 424 (PDF 425)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 424 (PDF 425)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,6 +37,7 @@ Pranas Šidlauskas gyveno Patrakės kaime ir buvo partizanų būrio vado Jono be
   santrauka: 'Pranas Šidlauskas gyveno Patrakės kaime ir buvo partizanų būrio vado Jono bei Albino Šidlauskų brolis.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 135"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 135."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

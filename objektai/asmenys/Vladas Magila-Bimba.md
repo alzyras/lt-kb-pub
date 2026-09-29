@@ -49,6 +49,7 @@ Vladas Magila-Bimba buvo vienas iš penkių Šarūno rinktinės Algirdo kuopos H
   santrauka: 'Vladas Magila-Bimba buvo vienas iš penkių partizanų, nukautų sausio 21 d. Vidugirio miške.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

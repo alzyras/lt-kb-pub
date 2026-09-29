@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-40de1c3ca9ffabd41d2c0009
-canonical_name: Brėslauja (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Brėslauja
-  - Brėslauja (vieta)
+entity_id: "ent-40de1c3ca9ffabd41d2c0009"
+canonical_name: "Brėslauja (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brėslauja","Brėslauja (vieta)"]
 sameAs: []
-canonical_biography: Brėslaujoje Livonijos magistras dar kartą atvyko Švitrigailai į pagalbą.
+canonical_biography: "Brėslaujoje Livonijos magistras dar kartą atvyko Švitrigailai į pagalbą."
+place_authority: true
+historical_names: []
 ---
 # Brėslauja (vieta)
 
@@ -57,4 +56,20 @@ Brėslaujoje Livonijos magistras dar kartą atvyko Švitrigailai į pagalbą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-210525"></a>
+- t-001
+  teiginys: "Brėslaujoje Livonijos magistras dar kartą atvyko Švitrigailai į pagalbą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193236
 

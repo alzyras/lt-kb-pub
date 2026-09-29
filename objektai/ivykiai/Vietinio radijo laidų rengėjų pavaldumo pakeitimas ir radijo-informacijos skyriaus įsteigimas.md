@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1987 m. vietinio radijo laidų rengėjai perėjo rajonų laikraščių redakcijų žinion, o Kupiškyje radijo informacijos skyriaus vedėju tapo ilgametis žurnalistas Algirdas Petrulis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 842 (PDF 843)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 842 (PDF 843)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

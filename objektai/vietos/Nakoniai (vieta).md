@@ -48,6 +48,7 @@ Nakonių koplytstulpis apibūdinamas kaip puošnus dėl vingrių ornamentų kopl
   santrauka: 'Nakonių koplytstulpis apibūdinamas kaip puošnus dėl vingrių ornamentų koplytėlės viduje ir išorėje, o jo pastatymo laikas apytikriai siejamas su XX a. pirmąja puse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 992 (PDF 993)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 992 (PDF 993)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

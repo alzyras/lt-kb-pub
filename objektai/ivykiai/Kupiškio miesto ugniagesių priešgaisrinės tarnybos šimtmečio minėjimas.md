@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '2013 m. Kupiškio miesto ugniagesiai šventė 100 metų nuo priešgaisrinės tarnybos mieste įkūrimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 680 (PDF 681)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 680 (PDF 681)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

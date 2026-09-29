@@ -47,6 +47,7 @@ Dienraštis „Draugas“ 1951 m. pradėjo leisti mėnesinį priedą „Architek
   santrauka: 'Dienraštis „Draugas“ 1951 m. pradėjo leisti mėnesinį priedą „Architektūra, technika ir ūkis“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 527 (PDF 528)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 527 (PDF 528)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -36,6 +36,8 @@ entity_view_role: "place"
 entity_aliases: ["Sitna","Sitna (vieta)"]
 sameAs: []
 canonical_biography: "Sitna minimas kaip gynybinė pilis prie ežero ir Polotės upės, paimta 1579 m."
+place_authority: true
+historical_names: []
 ---
 # Sitna (vieta)
 

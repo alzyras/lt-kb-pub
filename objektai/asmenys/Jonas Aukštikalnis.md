@@ -66,4 +66,3 @@ Jonas Aukštikalnis gimė 1921 m. ir gyveno Vabalninko miestelyje.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

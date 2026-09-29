@@ -48,6 +48,7 @@ Svalios upelio vagos pertvarkymas leido nusausinti ir sukultūrinti 850 ha.
   santrauka: 'Svalios upelio vagos pertvarkymas leido nusausinti ir sukultūrinti 850 ha.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 695 (PDF 696)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 695 (PDF 696)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

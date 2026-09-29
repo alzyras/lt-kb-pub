@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e4238256c8fa80ecd5d4c3b0
-canonical_name: Aisė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Aisė
-  - Aisė (vieta)
+entity_id: "ent-e4238256c8fa80ecd5d4c3b0"
+canonical_name: "Aisė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aisė","Aisė (vieta)"]
 sameAs: []
-canonical_biography: 'Rusioje yra dvi upės, primenančios minėtą pavadinimą; viena jų vadinasi Aisė ir prasideda Raseinių apskrityje, kerta Prū sijos sieną, plaukia pro Poješėtų, Dvylių, Aspurvos, t.'
+canonical_biography: "Rusioje yra dvi upės, primenančios minėtą pavadinimą; viena jų vadinasi Aisė ir prasideda Raseinių apskrityje, kerta Prū sijos sieną, plaukia pro Poješėtų, Dvylių, Aspurvos, t."
+place_authority: true
+historical_names: []
 ---
 # Aisė (vieta)
 

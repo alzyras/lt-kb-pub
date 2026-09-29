@@ -52,3 +52,12 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-224395"></a>
+- t-001
+  teiginys: "S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

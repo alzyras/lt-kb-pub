@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b83927c798722de3871c20b3
-canonical_name: Lenkų karalystė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Lenkų karalystė
+entity_id: "ent-b83927c798722de3871c20b3"
+canonical_name: "Lenkų karalystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lenkų karalystė"]
 sameAs: []
-canonical_biography: Caro valdžia neleido kurti Blaivybės brolijų Lenkų Karalystėje.
+canonical_biography: "Caro valdžia neleido kurti Blaivybės brolijų Lenkų Karalystėje."
 place_authority: true
 historical_names: []
 ---

@@ -48,6 +48,7 @@ Manoma, kad glaciokarstinių dubų grandinė driekiasi šiaurės vakarų–pietr
   santrauka: 'Manoma, kad glaciokarstinių dubų grandinė driekiasi šiaurės vakarų–pietryčių kryptimi tarp Laičių ir Gyvakarų kaimų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 13 (PDF 14)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 13 (PDF 14)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

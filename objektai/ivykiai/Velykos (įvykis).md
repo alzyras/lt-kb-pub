@@ -74,6 +74,7 @@ Nenurodyta
   santrauka: 'Paprastai kiaušiniauti vaikai eidavo antrą Velykų dieną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 940 (PDF 941)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 940 (PDF 941)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -110,4 +111,3 @@ Per Velykas vaikams margintus kiaušinius į apavą palikdavo tariamai naktį na
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
-

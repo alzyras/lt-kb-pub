@@ -30,6 +30,7 @@ Antanas Šilas-Kovas 1944 m. pabaigoje pateko į Klenuvkos dvaro žvalgybos moky
   santrauka: 'Antanas Šilas-Kovas 1944 m. pabaigoje pateko į Klenuvkos dvaro žvalgybos mokyklą ir vadovavo desantininkų būriui, kurį Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ vadina Karklo būriu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 35"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 35."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -39,6 +40,7 @@ Antanas Šilas-Kovas 1944 m. pabaigoje pateko į Klenuvkos dvaro žvalgybos moky
   santrauka: 'Antano Šilo-Kovo grupės apsupimą Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ aprašo taip: NKVD perėmė Prano Aleknos radijo ryšį, apsupo grupę, žuvo Antanas Šilas-Kovas ir daug desantininkų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 36"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 36."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

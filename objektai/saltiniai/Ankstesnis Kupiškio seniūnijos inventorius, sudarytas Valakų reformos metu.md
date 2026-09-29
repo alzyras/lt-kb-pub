@@ -42,6 +42,7 @@ Alvydo Totorio vertinimu, 1603 m. Kupiškio seniūnijos inventoriui sudaryti gre
   santrauka: 'Alvydo Totorio vertinimu, 1603 m. Kupiškio seniūnijos inventoriui sudaryti greičiausiai naudotas ankstesnis seniūnijos, galbūt valsčiaus, inventorius, parengtas per Valakų reformą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 144 (PDF 145)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 144 (PDF 145)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

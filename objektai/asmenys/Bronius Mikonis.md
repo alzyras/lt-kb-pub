@@ -51,6 +51,7 @@ Bronius Mikonis iš Buožių kaimo, Vabalninko valsčiaus, priklausė Albino Tin
   santrauka: 'Bronius Mikonis iš Buožių kaimo, Vabalninko valsčiaus, priklausė Albino Tindžiulio partizanų junginiui ir tik palaikė ryšius su Šidlausko būriu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 134"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 134."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Bronius Mikonis iš Buožių kaimo, Vabalninko valsčiaus, priklausė Albino Tin
   santrauka: 'Bronius Mikonis, Povilo sūnus, buvo eilinis Romo Petronio partizanų grupės narys.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 403"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 403."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,4 +80,3 @@ Bronius Mikonis iš Buožių kaimo, Vabalninko valsčiaus, priklausė Albino Tin
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

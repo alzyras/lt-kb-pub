@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1725 m., vienuolynui vadovaujant priorui Juozui Skavronskiui, baigtas statyti virš Palėvenės bažnyčios pagrindinio fasado iškilęs bokštas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 214 (PDF 215)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 214 (PDF 215)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Jokūbas Lavinskis XVI a. aprašė sambarinio alaus gėrimą Sekminių dieną, n
   santrauka: 'Jokūbas Lavinskis XVI a. aprašė sambarinio alaus gėrimą Sekminių dieną, nors Kupiškio krašte tokių apeigų nežinota.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 942 (PDF 943)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 942 (PDF 943)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

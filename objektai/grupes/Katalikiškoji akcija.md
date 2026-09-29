@@ -40,6 +40,7 @@ Kunigas Juozas Matulionis, 1944 m. aprašydamas Panemunėlio parapijos istoriją
   santrauka: 'Panemunėlyje kunigų, tarp jų Juozo Garškos, dėka pagyvėjo Katalikiškosios akcijos veikla.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 529 (PDF 530)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 529 (PDF 530)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ O. Raugevičienė turėjo siuvinėjimo dirbtuvę, kuri veiklą pradėjo XX a. pr
   santrauka: 'O. Raugevičienė turėjo siuvinėjimo dirbtuvę, kuri veiklą pradėjo XX a. pradžioje ir paveiksluose siuvinėjo lietuviškus užrašus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 671 (PDF 672)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 671 (PDF 672)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

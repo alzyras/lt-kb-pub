@@ -56,6 +56,7 @@ media_all_json: |-
   santrauka: 'Komunizmo keliu buvo Kupiškio rajono laikraštis, ėjęs tokiu pavadinimu iki 1989 m. vasario 16 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 847 (PDF 848)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 847 (PDF 848)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,4 +77,3 @@ media_all_json: |-
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

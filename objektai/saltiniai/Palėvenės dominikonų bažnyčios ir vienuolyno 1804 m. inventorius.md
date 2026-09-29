@@ -42,6 +42,7 @@ media_all_json: |-
   santrauka: '1804 m. inventoriuje nurodyta, kad prioro celė buvo patogiau įrengta, tačiau joje buvo mažiau ir kitokių tapybos darbų nei 1751 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 217 (PDF 218)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 217 (PDF 218)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

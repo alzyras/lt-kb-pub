@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4526a1ef4ba8dff19892b8bc
-canonical_name: Griunvaldo miškas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Griunvaldo miškas
+entity_id: "ent-4526a1ef4ba8dff19892b8bc"
+canonical_name: "Griunvaldo miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Griunvaldo miškas"]
 sameAs: []
-canonical_biography: 'Žalgirio mūšis įvyko dviem parom vėliau, bet ne ties pačia Dubrovna — Gtlgenburgu, o už 7 km | šiaurės rytus nuo Dubrov nos, prie Griunvaldo miško, tarp Liudvigsdorto ir Tanenbergo kaimų.'
+canonical_biography: "Žalgirio mūšis įvyko dviem parom vėliau, bet ne ties pačia Dubrovna — Gtlgenburgu, o už 7 km | šiaurės rytus nuo Dubrov nos, prie Griunvaldo miško, tarp Liudvigsdorto ir Tanenbergo kaimų."
+place_authority: true
+historical_names: []
 ---
 # Griunvaldo miškas
 

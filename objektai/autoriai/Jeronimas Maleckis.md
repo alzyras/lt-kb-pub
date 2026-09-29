@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fdda64683775f7506946639f
-canonical_name: Jeronimas Maleckis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Jeronimas Maleckis
+entity_id: "ent-fdda64683775f7506946639f"
+canonical_name: "Jeronimas Maleckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jeronimas Maleckis"]
 sameAs: []
-canonical_biography: Jeronimas Maleckis dievą Ukapirmą apibūdino kaip dangaus ir žemės dievą.
+canonical_biography: "Jeronimas Maleckis dievą Ukapirmą apibūdino kaip dangaus ir žemės dievą."
 ---
 # Jeronimas Maleckis
 

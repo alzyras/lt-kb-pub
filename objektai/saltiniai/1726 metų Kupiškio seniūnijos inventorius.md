@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1726 m. Kupiškio seniūnijos inventorius sudarytas perduodant seniūniją valdyti naujam seniūnui Benediktui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 164 (PDF 165)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 164 (PDF 165)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

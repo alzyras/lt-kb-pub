@@ -49,6 +49,7 @@ Jonas Dapšys-Viršaitis žuvo 1949 m. kovo 30 d. Virbališkių kaime.
   santrauka: 'Jonas Dapšys-Viršaitis žuvo 1949 m. kovo 30 d. Virbališkių kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 616 (PDF 617)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 616 (PDF 617)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

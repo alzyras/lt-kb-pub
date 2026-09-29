@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Pyragių muzikantai buvo pakviesti į Kaune vykusią dainų šventę ir kelis kartus nufilmuoti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1056 (PDF 1057)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1056 (PDF 1057)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

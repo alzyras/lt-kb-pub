@@ -40,6 +40,7 @@ Palėvenės konvento kronikoje užsimenama, kad 1757 m. buvo pastatytas naujas d
   santrauka: 'Konvento kronikoje nurodyta, kad naujas didysis altorius pastatytas 1757 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 220 (PDF 221)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 220 (PDF 221)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

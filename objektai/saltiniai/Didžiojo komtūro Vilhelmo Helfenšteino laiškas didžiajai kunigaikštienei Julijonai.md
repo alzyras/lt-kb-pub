@@ -49,6 +49,19 @@ Vilhelmo Helfenšteino laiškas didžiajai kunigaikštienei Julijonai parašytas
   pagrindžia:
     - c-189665
 
+<a id="claim-t-207051"></a>
+- t-207051
+  teiginys: "Teodoras Narbutas neabejodamas nurodė, kad laišką didžiajai kunigaikštienei Julijonai parašė didysis komtūras Vilhelmas Helfenšteinas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189666
+
 ## Citatos
 
 - id: c-189665
@@ -81,4 +94,6 @@ Vilhelmo Helfenšteino laiškas didžiajai kunigaikštienei Julijonai parašytas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207051
 

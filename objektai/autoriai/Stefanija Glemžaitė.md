@@ -41,6 +41,7 @@ Pokariu medikė Stefanija Glemžaitė su talkininkais sudarė nužudytų Kupišk
   santrauka: 'Pokario metais medikė Stefanija Glemžaitė, padedama talkininkų, sudarė nužudytų Kupiškio žydų pavardžių sąrašą, kuriame įrašytos 813 kupiškėnų žydų pavardės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

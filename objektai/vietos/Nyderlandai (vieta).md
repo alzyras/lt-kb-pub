@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Nyderlandai","Nyderlandai (vieta)"]
 sameAs: []
 canonical_biography: "Studijų kelias nusitiesė į Nyderlandus."
+place_authority: true
+historical_names: []
 ---
 # Nyderlandai (vieta)
 

@@ -49,6 +49,7 @@ Adomo Varno fotorinkinyje buvo Kupiškio bažnyčios šventoriuje stovėjusio kr
   santrauka: 'Adomo Varno fotorinkinyje buvo Kupiškio bažnyčios šventoriuje stovėjusio kryžiaus nuotrauka.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 954 (PDF 955)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 954 (PDF 955)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

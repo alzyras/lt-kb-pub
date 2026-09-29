@@ -43,6 +43,7 @@ Už Palėvenės šventoriaus, tarp jo tvoros ir Vienuolyno gatvės, pastatytas s
   santrauka: 'Už Palėvenės šventoriaus, tarp tvoros ir Vienuolyno gatvės, pastatytas miesteliui skirtas stogastulpis su nišoje patalpinta reljefine figūra.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 317 (PDF 318)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 317 (PDF 318)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

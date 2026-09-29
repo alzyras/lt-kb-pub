@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6494e49a9ce7332226cafcef
-canonical_name: Henrikas Saksas iš Plockės
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Henrikas Saksas iš Plockės
+entity_id: "ent-6494e49a9ce7332226cafcef"
+canonical_name: "Henrikas Saksas iš Plockės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Saksas iš Plockės"]
 sameAs: []
-canonical_biography: Henrikas Saksas iš Plockės buvo septynioliktas Prūsijos magistras.
+canonical_biography: "Henrikas Saksas iš Plockės buvo septynioliktas Prūsijos magistras."
 ---
 # Henrikas Saksas iš Plockės
 

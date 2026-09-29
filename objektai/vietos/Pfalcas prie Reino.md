@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d826186edfbe169f1974c199
-canonical_name: Pfalcas prie Reino
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pfalcas prie Reino
+entity_id: "ent-d826186edfbe169f1974c199"
+canonical_name: "Pfalcas prie Reino"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pfalcas prie Reino"]
 sameAs: []
-canonical_biography: 'Henrikas, [Pfalco prie] Reino pfalcgrafas.'
+canonical_biography: "Henrikas, [Pfalco prie] Reino pfalcgrafas."
+place_authority: true
+historical_names: []
 ---
 # Pfalcas prie Reino
 

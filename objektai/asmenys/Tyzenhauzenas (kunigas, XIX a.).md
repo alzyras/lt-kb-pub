@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8d971bd735f14b9d96f30722
-canonical_name: 'Tyzenhauzenas (kunigas, XIX a.)'
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Tyzenhauzenas
-  - 'Tyzenhauzenas (kunigas, XIX a.)'
+entity_id: "ent-8d971bd735f14b9d96f30722"
+canonical_name: "Tyzenhauzenas (kunigas, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tyzenhauzenas","Tyzenhauzenas (kunigas, XIX a.)"]
 sameAs: []
-canonical_biography: 'Va lančius reikalavo, kad grafas Tyzenhauzenas labiau glo botų Aknystos bažnyčios kunigą, ir net grasė uždaryti bažnyčią, jeigu grafas nepaklausysiąs.'
+canonical_biography: "Va lančius reikalavo, kad grafas Tyzenhauzenas labiau glo botų Aknystos bažnyčios kunigą, ir net grasė uždaryti bažnyčią, jeigu grafas nepaklausysiąs."
 ---
 # Tyzenhauzenas (kunigas, XIX a.)
 

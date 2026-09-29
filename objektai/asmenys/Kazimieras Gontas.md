@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fa84242489f4085174d4fd66
-canonical_name: Kazimieras Gontas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Kazimieras Gontas
+entity_id: "ent-fa84242489f4085174d4fd66"
+canonical_name: "Kazimieras Gontas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Gontas"]
 sameAs: []
-canonical_biography: 'Kartenos parapijietis Kazimieras Gontą, atradęs savo daržinėje pasikorusį žmogų, palaidojo jį pelkėje, nukir tęs lavonui galvą ir surišęs kojas, kad nesivaidentų.'
+canonical_biography: "Kartenos parapijietis Kazimieras Gontą, atradęs savo daržinėje pasikorusį žmogų, palaidojo jį pelkėje, nukir tęs lavonui galvą ir surišęs kojas, kad nesivaidentų."
 ---
 # Kazimieras Gontas
 

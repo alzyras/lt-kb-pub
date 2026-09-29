@@ -65,6 +65,28 @@ canonical_biography: "1583 metais jėzuitai kunigą Jokūbą Lencicijų ir du jo
   pagrindžia:
     - c-172986
 
+<a id="claim-t-212527"></a>
+- t-212527
+  teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Livonija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jokūbas Lencicijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pasiuntimas į Livoniją tiesiogiai nurodo kelionės ar misijos kryptį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jokūbas Lencicijus keliavo į Livonija (0.88)"
+  temporaliniai_duomenys: "kelionės data: 1583 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jokūbas Lencicijus keliavo į Livonija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jokūbo Lencicijaus pasiuntimą į Žemaičius ir Livoniją. Neperimtas Narbuto religinis vertinimas apie pagonybės likučių išnaikinimą."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-172986

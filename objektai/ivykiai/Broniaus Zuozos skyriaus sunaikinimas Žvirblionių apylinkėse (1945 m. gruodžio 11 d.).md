@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: '1945 m. gruodžio 11 d. prie Žvirblionių NKVD 25-asis šaulių pulkas ir Subačiaus stribai aptiko bei padegė Broniaus Zuozos skyriaus bunkerį; vienas iš dviejų išėjusių partizanų žuvo, kitas pabėgo, o iš bunkerio ištraukti keturių žuvusiųjų palaikai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 65"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 65."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

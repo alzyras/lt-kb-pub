@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kiekvieną Didįjį Penktadienį Švč. Jėzaus Veido drobulė būdavo rodoma viešam pagarbinimui vienoje bazilikos koplyčių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 674 (PDF 675)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 674 (PDF 675)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

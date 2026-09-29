@@ -41,6 +41,7 @@ Regina Urbonienė buvo Subačiaus gimnazijos mokytoja ir kūrė kupiškėniškus
   santrauka: 'Regina Urbonienė buvo Subačiaus gimnazijos mokytoja ir kūrė kupiškėniškus gyvenimiškus vaizdelius rubrikai „Pasikalbosykim“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 840 (PDF 841)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 840 (PDF 841)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

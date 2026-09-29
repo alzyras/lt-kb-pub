@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-686f22c7944a360502c9c2ae
-canonical_name: Karkinito įlanka
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Karkinito įlanka
+entity_id: "ent-686f22c7944a360502c9c2ae"
+canonical_name: "Karkinito įlanka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karkinito įlanka"]
 sameAs: []
-canonical_biography: 'Gero upė, susijungusi su Hipakyrio upe, įtekėjo į Karkinito įlanką.'
+canonical_biography: "Gero upė, susijungusi su Hipakyrio upe, įtekėjo į Karkinito įlanką."
+place_authority: true
+historical_names: []
 ---
 # Karkinito įlanka
 

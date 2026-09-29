@@ -106,6 +106,19 @@ Nenurodyta
   pagrindžia:
     - c-179091
 
+<a id="claim-t-219770"></a>
+- t-219770
+  teiginys: "Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio ir prašo visų dievų, kiekvieno atskirai, kuriuos pirmiau išvar dijau, idant maloningai teiktųsi priimti tos šventės apeigą li auką."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198645
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio ir prašo visų dievų, kiekvieno atskirai, kuriuos pirmiau išvar dijau, idant maloningai teiktųsi priimti tos šventės apeigą li auką.'
@@ -220,6 +233,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219770
 
 - id: c-199421
   autorius: "Teodoras Narbutas"

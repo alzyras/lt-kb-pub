@@ -61,6 +61,18 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
   pagrindžia:
     - c-61581
 
+<a id="claim-t-223211"></a>
+- t-223211
+  teiginys: "A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1912 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
+  pagrindžia:
+    - c-205080
+
 ## Citatos
 
 - id: c-61580
@@ -111,6 +123,8 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223211
 
 - id: c-205664
   autorius: "Petras Dusburgietis"

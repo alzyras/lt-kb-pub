@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: '1640 m. Jonas Kazimieras Pacas ir Jonas Gloviševskis surašė Kupiškio dvaro gyventojų prievoles bažnyčiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 366 (PDF 367)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 366 (PDF 367)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -23,15 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-de00acc87b2318249336ac4d
-canonical_name: Mikalojus Mikalojaitis Radvila Jaunasis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Mikalojus Mikalojaitis Radvila Jaunasis
+entity_id: "ent-de00acc87b2318249336ac4d"
+canonical_name: "Mikalojus Mikalojaitis Radvila Jaunasis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Mikalojaitis Radvila Jaunasis"]
 sameAs: []
-canonical_biography: 'Mikalojus Mikalojaitis Radvila Jaunasis buvo Mikalojus Radvilos Senojo sūnus. Vėliau, 1505.1, Mikalojus Radvila Jaunasis buvo paskirtas Trakų vaivada, o 1510.'
+canonical_biography: "Mikalojus Mikalojaitis Radvila Jaunasis buvo Mikalojus Radvilos Senojo sūnus. Vėliau, 1505.1, Mikalojus Radvila Jaunasis buvo paskirtas Trakų vaivada, o 1510."
 ---
 # Mikalojus Mikalojaitis Radvila Jaunasis
 

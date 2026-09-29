@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f4622638ef696745e69e4d80
-canonical_name: Žiemgalių dekanatai
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Žiemgalių dekanatai
+entity_id: "ent-f4622638ef696745e69e4d80"
+canonical_name: "Žiemgalių dekanatai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žiemgalių dekanatai"]
 sameAs: []
-canonical_biography: 'Valančiaus laikais Žemaičių vyskupijos te ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė Kuršo gubernijai).'
+canonical_biography: "Valančiaus laikais Žemaičių vyskupijos te ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė Kuršo gubernijai)."
 place_authority: true
 historical_names: []
 ---

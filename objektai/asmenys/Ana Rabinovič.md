@@ -64,6 +64,7 @@ Aną Rabinovič Kupiškio spauda vadino „Kupiškio enciklopedija“. Ana Rabin
   santrauka: 'Ana Rabinovič nemažai prisidėjo prie interneto svetainės apie Kupiškio žydų bendruomenės istoriją kūrimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 577-578 (PDF 578-579)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 577-578 (PDF 578-579)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,4 +83,3 @@ Aną Rabinovič Kupiškio spauda vadino „Kupiškio enciklopedija“. Ana Rabin
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

@@ -41,6 +41,7 @@ Unė padovanojo rusų poetui Konstantinui Balmontui savo brolio Petro eilėraš�
   santrauka: 'Konstantinas Balmontas į rusų kalbą išvertė keletą Petro eilių, kurias Unė padovanojo Konstantinui Balmontui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1109 (PDF 1110)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1109 (PDF 1110)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

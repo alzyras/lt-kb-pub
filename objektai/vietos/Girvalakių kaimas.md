@@ -52,4 +52,3 @@ Aleksas Balaišis gyveno Girvalakių kaime, Skapiškio valsčiuje. Petras Montri
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-09-28 17:44"
-

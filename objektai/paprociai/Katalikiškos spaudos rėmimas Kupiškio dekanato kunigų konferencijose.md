@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: '1927 m. rugpjūčio 16 d. Vabalninke vykusioje Kupiškio dekanato kunigų konferencijoje svarstytas katalikiškos spaudos palaikymas ir platinimas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 405 (PDF 406)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 405 (PDF 406)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

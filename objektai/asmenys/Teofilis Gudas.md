@@ -51,6 +51,7 @@ canonical_biography: "1947 m. MGB priemonių plane numatyta skleisti paskalas, k
   santrauka: '1947 m. MGB Kupiškio apskrities skyriaus priemonių plane numatyta kompromituoti Teofilį Gudą, gyventojams skleidžiant gandus apie tariamus jo ryšius su MVD organais.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 255"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 255."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ canonical_biography: "1947 m. MGB priemonių plane numatyta skleisti paskalas, k
   santrauka: 'Po Aniceto Laužiko-Švitrigailos žūties 1948 m. sausio 3 d. būriui vadovavo Teofilis Gudas-Eskimas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 288"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 288."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,6 +71,7 @@ canonical_biography: "1947 m. MGB priemonių plane numatyta skleisti paskalas, k
   santrauka: 'Teofilis Gudas-Eskimas vadovavo Gintaro tėvūnijai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 400"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 400."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +81,7 @@ canonical_biography: "1947 m. MGB priemonių plane numatyta skleisti paskalas, k
   santrauka: 'Teofiliui Gudui-Eskimui suteiktas jaunesniojo leitenanto laipsnis.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 417"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 417."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,4 +100,3 @@ canonical_biography: "1947 m. MGB priemonių plane numatyta skleisti paskalas, k
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

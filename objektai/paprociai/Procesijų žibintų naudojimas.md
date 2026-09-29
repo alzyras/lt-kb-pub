@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Kupiškio bažnyčioje procesijų metu vis dar naudojami keturi žalvariniai dirbtuvių darbo žibintai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 356 (PDF 357)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 356 (PDF 357)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

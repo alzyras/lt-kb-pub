@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4d865904712901d5721d2403
-canonical_name: Ignacas Krasickis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Ignacas Krasickis
+entity_id: "ent-4d865904712901d5721d2403"
+canonical_name: "Ignacas Krasickis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ignacas Krasickis"]
 sameAs: []
-canonical_biography: Tai ištrauka iš Ignaco Krasickio „Osiano giesmių“.
+canonical_biography: "Tai ištrauka iš Ignaco Krasickio „Osiano giesmių“."
 ---
 # Ignacas Krasickis
 

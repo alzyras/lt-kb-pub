@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4f43a694419a2a3fb2ada26b
-canonical_name: Baltijos pajūris
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Baltijos pajūris
+entity_id: "ent-4f43a694419a2a3fb2ada26b"
+canonical_name: "Baltijos pajūris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baltijos pajūris"]
 sameAs: []
-canonical_biography: Baltijos pajūrio gyventojai Dzivsvits laikė jūreivių globėju ir jūrų dievu.
+canonical_biography: "Baltijos pajūrio gyventojai Dzivsvits laikė jūreivių globėju ir jūrų dievu."
+place_authority: true
+historical_names: []
 ---
 # Baltijos pajūris
 

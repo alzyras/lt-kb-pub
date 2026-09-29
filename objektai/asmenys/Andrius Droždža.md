@@ -23,15 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-43381f8e302c00193f34945c
-canonical_name: Andrius Droždža
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Andrius Droždža
+entity_id: "ent-43381f8e302c00193f34945c"
+canonical_name: "Andrius Droždža"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Droždža"]
 sameAs: []
-canonical_biography: Andrius Droždža buvo Mykolo Glinskio giminaitis.
+canonical_biography: "Andrius Droždža buvo Mykolo Glinskio giminaitis."
 ---
 # Andrius Droždža
 

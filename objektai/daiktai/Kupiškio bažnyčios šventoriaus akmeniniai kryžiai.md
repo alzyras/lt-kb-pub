@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: '1849 m. Jono Jusevičiaus surašytoje Kupiškio bažnyčios kronikoje minimi du šventoriaus akmeniniai kryžiai: vienas ant ponios Puzirevskos, kitas ant klebono Gasparo Dulskio kapo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 375 (PDF 376)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 375 (PDF 376)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1816 m. kunigas Mykolas Dirvonskis Salamiesčio koplyčioje pakrikštijo 19 vaikų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 372 (PDF 373)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 372 (PDF 373)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

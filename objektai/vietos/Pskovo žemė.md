@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b5118e67070526c43e45b44f
-canonical_name: Pskovo žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pskovo žemė
+entity_id: "ent-b5118e67070526c43e45b44f"
+canonical_name: "Pskovo žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pskovo žemė"]
 sameAs: []
-canonical_biography: Jurijus (Jurgis) Vytautaitis apie 1342 metus valdė Pskovo žemę.
+canonical_biography: "Jurijus (Jurgis) Vytautaitis apie 1342 metus valdė Pskovo žemę."
+place_authority: true
+historical_names: []
 ---
 # Pskovo žemė
 

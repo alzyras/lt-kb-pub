@@ -49,6 +49,7 @@ historical_names: []
   santrauka: '1951 m. Kupiškio dekano rašte nurodyta, kad Vabalninko rajone visi kunigai buvo verčiami pasirašyti didžiules paskolas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 426 (PDF 427)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 426 (PDF 427)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -85,4 +86,3 @@ historical_names: []
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-09-28 18:24"
-

@@ -41,6 +41,7 @@ Suolų-klauptų dekoras, tyrimo vertinimu, primena Adomui Karaliui ir Jonui Rač
   santrauka: 'Miroslavo ir Gudelių bažnyčių suolų-klauptų dekoras tyrime lyginamas su neogotikiniais suolais, priskiriamais Adomui Karaliui ir Jonui Račiukaičiui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 346 (PDF 347)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 346 (PDF 347)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

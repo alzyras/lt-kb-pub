@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5523bfd054df2fff524b1a75
-canonical_name: Stagiai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Stagiai
-  - Stagiai (vieta)
+entity_id: "ent-5523bfd054df2fff524b1a75"
+canonical_name: "Stagiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stagiai","Stagiai (vieta)"]
 sameAs: []
-canonical_biography: 'Stagių piliakalnio legendą au torius panaudoja pailiustruoti minčiai, jog už neteisingu mą ir šventvagystę Dievas baudžia šiame gyvenime.'
+canonical_biography: "Stagių piliakalnio legendą au torius panaudoja pailiustruoti minčiai, jog už neteisingu mą ir šventvagystę Dievas baudžia šiame gyvenime."
 place_authority: true
 historical_names: []
 ---

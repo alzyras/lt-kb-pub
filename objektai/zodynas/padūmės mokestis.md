@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1667 m. Kupiškio seniūnas Vilhelmas Tyzenhauzas mokėjo padūmės mokestį iš valstiečių, miestelio žydų ir jam priklausančių palivarkų nuo 568 dūmų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 158 (PDF 159)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 158 (PDF 159)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

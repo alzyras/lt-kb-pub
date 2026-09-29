@@ -37,6 +37,7 @@ Algimantas Šalčius, anksčiau gyvenęs Sodų gatvėje Vilniuje ir buvęs Vilni
   santrauka: 'Algimantas Šalčius, anksčiau gyvenęs Sodų gatvėje Vilniuje ir buvęs Vilniaus universiteto studentas, 1944 m. tapo Skapiškio valsčiuje veikusio maždaug 60 partizanų junginio vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 110"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 110."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

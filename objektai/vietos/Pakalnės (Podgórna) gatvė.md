@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Pakalnės (Podgórna) gatvė"]
 sameAs: []
 canonical_biography: "V. I. Marevičius įsigijo namelį ir žemės prie Lukiškių, Pakalnės (Podgórna) gatvėje."
+place_authority: true
+historical_names: []
 ---
 # Pakalnės (Podgórna) gatvė
 

@@ -22,16 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-28ab06e73d0f1b87c076dfa1
-canonical_name: N. Praniauskis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - N. Praniauskis
+entity_id: "ent-28ab06e73d0f1b87c076dfa1"
+canonical_name: "N. Praniauskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["N. Praniauskis"]
 sameAs: []
-canonical_biography: N. Praniauskis 1859 m. vasario 14 d. išsiuntė vyskupui laišką dėl laikraščio idėjos įgyvendinimo.
+canonical_biography: "N. Praniauskis 1859 m. vasario 14 d. išsiuntė vyskupui laišką dėl laikraščio idėjos įgyvendinimo."
 ---
 # N. Praniauskis
 

@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: '1945 m. gegužės 2 d. LLA Panevėžio apskrities štabo viršininkas Gegužis (Steponas Girdžiūnas) junginio vadu paskyrė Adolfą Bagdoną-Beržą, kuris junginį išskirstė į 12 būrių; Antanas Šulskis-Šulas tapo Bagdono-Beržo pavaduotoju ir būrio vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 34-35"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 34-35."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

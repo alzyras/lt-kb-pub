@@ -37,6 +37,7 @@ canonical_biography: "Balys Palskys-Gintas, gimęs 1920 m. ir gyvenęs Tadauskų
   santrauka: '1947 m. spalio 28 d. MGB Kamajų valsčiaus operatyvinė grupė Tadauskų kaime, Svėdasų valsčiuje, nušovė du partizanus, tarp jų 1920 m. gimusį ir Tadauskų kaime gyvenusį Balį Palskį-Gintą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 271"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 271."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

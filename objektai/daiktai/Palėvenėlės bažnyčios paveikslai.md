@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Palėvenėlės bažnyčios Švč. Mergelės Marijos Nekaltojo Prasidėjimo ir stacijų paveikslai, sušaudyti karo metu, buvo atnaujinti ir pataisyti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 525 (PDF 526)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 525 (PDF 526)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

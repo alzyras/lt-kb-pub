@@ -41,6 +41,7 @@ A. Daukša laikinai ėjo Sąjūdžio rajono seimelio pirmininko pareigas ir kart
   santrauka: 'A. Daukša laikinai ėjo Sąjūdžio rajono seimelio pirmininko pareigas ir su E. Čiurliu surengė penktąją konferenciją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 869 (PDF 870)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 869 (PDF 870)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

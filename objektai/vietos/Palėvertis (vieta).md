@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a909468a436c29c6d120f86a
-canonical_name: Palėvertis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Palėvertis
-  - Palėvertis (vieta)
+entity_id: "ent-a909468a436c29c6d120f86a"
+canonical_name: "Palėvertis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Palėvertis","Palėvertis (vieta)"]
 sameAs: []
-canonical_biography: Palėvertio parapijos valstiečiai buvo raginami imtis blaivybės.
+canonical_biography: "Palėvertio parapijos valstiečiai buvo raginami imtis blaivybės."
 place_authority: true
 historical_names: []
 ---

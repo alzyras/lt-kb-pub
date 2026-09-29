@@ -50,6 +50,7 @@ Antanas Valantinas 1940 m. liepos–1941 m. rugpjūčio mėnesiais dirbo vikaru 
   santrauka: 'Antanas Valantinas 1940 m. liepos–1941 m. rugpjūčio mėnesiais dirbo vikaru Palėvenėje; ši parapija jam buvo pirmoji.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235 (PDF 236)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235 (PDF 236)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
