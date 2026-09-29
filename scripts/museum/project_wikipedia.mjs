@@ -10,7 +10,7 @@ const hash=s=>crypto.createHash('sha256').update(s).digest('hex')
 let updated=0
 for(const {notePath,wiki} of report.objects){
   if(!notePath.startsWith('objektai/') || notePath.includes('..') || !manifest.files[notePath]) throw new Error(`Not a projected object: ${notePath}`)
-  if(wiki.extraction_version!=='wikipedia-rendered-v2' || !wiki.intro || !wiki.source.revision_id) throw new Error(`Incomplete Wikipedia snapshot: ${notePath}`)
+  if(!['wikipedia-rendered-v2','wikipedia-rendered-v3'].includes(wiki.extraction_version) || !wiki.intro || !wiki.source.revision_id) throw new Error(`Incomplete Wikipedia snapshot: ${notePath}`)
   const current=matter(fs.readFileSync(notePath,'utf8'))
   const view=typeof current.data.object_page_view_json==='string'?JSON.parse(current.data.object_page_view_json):current.data.object_page_view_json||{}
   view.wiki=wiki
