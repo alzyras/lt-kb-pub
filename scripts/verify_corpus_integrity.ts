@@ -4,7 +4,7 @@ import {
   collectCorpusEvidenceIntegrityIssues,
   collectDuplicateCitationIdentityIssues,
 } from "../quartz/util/evidenceIntegrity"
-import { parseEvidenceSections } from "../quartz/util/citationFilter"
+import { collectCorpusCitationIdIssues } from "./site/corpusCitationIntegrity"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
 
@@ -23,27 +23,10 @@ const documents = listMarkdownFiles(objectRoot).map((file) => ({
 const issues = [
   ...collectCorpusEvidenceIntegrityIssues(documents),
   ...collectDuplicateCitationIdentityIssues(documents),
+  ...collectCorpusCitationIdIssues(documents).filter(
+    (issue) => issue.code === "non_global_citation_id",
+  ),
 ]
-
-for (const { filePath, markdown } of documents) {
-  const sections = parseEvidenceSections(markdown)
-  const citations = [...sections.entries()]
-    .filter(([title]) => title === "Citatos")
-    .flatMap(([, entries]) => entries)
-    .filter((entry) => entry.id.startsWith("c-"))
-  for (const citation of citations) {
-    if (!/^c-\d{5,}$/.test(citation.id)) {
-      issues.push({
-        code: "non_global_citation_id",
-        severity: "error",
-        entryId: citation.id,
-        filePath,
-        message: `Citation ${citation.id} is not a global citation code`,
-      })
-      continue
-    }
-  }
-}
 
 const counts = Object.fromEntries(
   [...new Set(issues.map((issue) => issue.code))].map((code) => [

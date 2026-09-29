@@ -1,4 +1,6 @@
 import { createHash } from "node:crypto"
+import { readFile } from "node:fs/promises"
+import path from "node:path"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
 import BodyConstructor from "../../components/Body"
@@ -125,9 +127,48 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
       // listening when Quartz navigates to a generated gallery page.
       return [Head, Body, pageBody, Footer]
     },
+    async *incrementalEmit(ctx, content, resources, changeEvents) {
+      const allFiles = content.map((c) => c[1].data)
+      const nextCatalog = JSON.stringify(buildMediaCatalog(allFiles).map(lightEntry))
+      let previousCatalog: string
+      try {
+        previousCatalog = await readFile(
+          path.join(ctx.argv.output, "static", "mediaCatalog.json"),
+          "utf8",
+        )
+      } catch {
+        // A missing catalog can leave every gallery or media route stale.
+        const emitted = await this.emit(ctx, content, resources)
+        yield* emitted
+        return
+      }
+
+      if (previousCatalog !== nextCatalog) {
+        const emitted = await this.emit(ctx, content, resources)
+        yield* emitted
+        return
+      }
+
+      // Claim-only and metadata-only edits do not change the catalog. Refresh
+      // only the affected object galleries, leaving the global gallery and
+      // media-detail routes untouched.
+      ctx.incrementalGalleryObjectSlugs = new Set(
+        changeEvents.flatMap((event) =>
+          event.file?.data.slug ? [String(event.file.data.slug)] : [],
+        ),
+      )
+      try {
+        const emitted = await this.emit(ctx, content, resources)
+        yield* emitted
+      } finally {
+        ctx.incrementalGalleryObjectSlugs = undefined
+      }
+    },
     async *emit(ctx, content, resources) {
       const cfg = ctx.cfg.configuration
       const allFiles = content.map((c) => c[1].data)
+      const selectedObjectSlugs = ctx.incrementalGalleryObjectSlugs
+      const selectedObjectPagesOnly = selectedObjectSlugs !== undefined
       const catalog = buildMediaCatalog(allFiles)
       const exhibitionReturns = new Map(
         loadExhibitions()
@@ -152,26 +193,28 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
       const lightCatalog = catalog.map(lightEntry)
       const catalogContent = JSON.stringify(lightCatalog)
       const catalogVersion = createHash("sha256").update(catalogContent).digest("hex").slice(0, 12)
-      yield write({
-        ctx,
-        content: catalogContent,
-        slug: joinSegments("static", "mediaCatalog") as FullSlug,
-        ext: ".json",
-      })
-      yield write({
-        ctx,
-        content: JSON.stringify(objectMediaIndexSnapshot(objectIndex)),
-        slug: joinSegments("static", "objectMediaIndex") as FullSlug,
-        ext: ".json",
-      })
-      for (const entry of catalog) {
-        if (!entry.mediaId) continue
+      if (!selectedObjectPagesOnly) {
         yield write({
           ctx,
-          content: JSON.stringify(lightEntry(entry)),
-          slug: joinSegments("static", "media", entry.mediaId) as FullSlug,
+          content: catalogContent,
+          slug: joinSegments("static", "mediaCatalog") as FullSlug,
           ext: ".json",
         })
+        yield write({
+          ctx,
+          content: JSON.stringify(objectMediaIndexSnapshot(objectIndex)),
+          slug: joinSegments("static", "objectMediaIndex") as FullSlug,
+          ext: ".json",
+        })
+        for (const entry of catalog) {
+          if (!entry.mediaId) continue
+          yield write({
+            ctx,
+            content: JSON.stringify(lightEntry(entry)),
+            slug: joinSegments("static", "media", entry.mediaId) as FullSlug,
+            ext: ".json",
+          })
+        }
       }
 
       const emitPage = async function* (
@@ -224,18 +267,21 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         })
       }
 
-      yield* emitPage(
-        "galerija" as FullSlug,
-        "Lietuvos istorijos vaizdų galerija",
-        "Patikrinti Lietuvos istorijos vaizdai iš atvirų kultūros paveldo rinkinių.",
-        lightCatalog,
-        {},
-      )
+      if (!selectedObjectPagesOnly) {
+        yield* emitPage(
+          "galerija" as FullSlug,
+          "Lietuvos istorijos vaizdų galerija",
+          "Patikrinti Lietuvos istorijos vaizdai iš atvirų kultūros paveldo rinkinių.",
+          lightCatalog,
+          {},
+        )
+      }
 
       for (const [_tree, file] of content) {
         const rawObjectSlug = file.data.slug
         if (!rawObjectSlug || !isObjectPage(rawObjectSlug) || rawObjectSlug.endsWith("/galerija"))
           continue
+        if (selectedObjectSlugs && !selectedObjectSlugs.has(String(rawObjectSlug))) continue
         const objectSlug = rawObjectSlug as FullSlug
         const notePath = `${objectSlug}.md`
         const objectMedia = applyObjectPagePrimary(
@@ -270,47 +316,48 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         )
       }
 
-      for (const entry of catalog) {
-        if (!entry.mediaId) continue
-        const slug = mediaDetailSlug(entry)
-        const title = displayCaption(entry)
-        const description = mediaDescription(entry)
-        const pageUrl = absolutePageUrl(cfg.baseUrl, slug)
-        const [tree, vfile] = defaultProcessedContent({
-          slug,
-          text: title,
-          description,
-          frontmatter: {
-            title,
+      if (!selectedObjectPagesOnly)
+        for (const entry of catalog) {
+          if (!entry.mediaId) continue
+          const slug = mediaDetailSlug(entry)
+          const title = displayCaption(entry)
+          const description = mediaDescription(entry)
+          const pageUrl = absolutePageUrl(cfg.baseUrl, slug)
+          const [tree, vfile] = defaultProcessedContent({
+            slug,
+            text: title,
             description,
-            media_detail_page: true,
-            media_detail_json: JSON.stringify(entry),
-            media_primary_thumb_url: mediaThumbnailUrl(entry),
-            media_exhibition_return: exhibitionReturns.get(entry.mediaId),
-            media_primary_width: entry.width,
-            media_primary_height: entry.height,
-            media_social_alt: title,
-            media_schema_image_id: `${pageUrl}#image`,
-            structured_data_json: mediaStructuredData(entry, pageUrl, description),
-          },
-        })
-        const externalResources = pageResources(pathToRoot(slug), resources)
-        const componentData: QuartzComponentProps = {
-          ctx,
-          fileData: vfile.data,
-          externalResources,
-          cfg,
-          children: [],
-          tree,
-          allFiles,
+            frontmatter: {
+              title,
+              description,
+              media_detail_page: true,
+              media_detail_json: JSON.stringify(entry),
+              media_primary_thumb_url: mediaThumbnailUrl(entry),
+              media_exhibition_return: exhibitionReturns.get(entry.mediaId),
+              media_primary_width: entry.width,
+              media_primary_height: entry.height,
+              media_social_alt: title,
+              media_schema_image_id: `${pageUrl}#image`,
+              structured_data_json: mediaStructuredData(entry, pageUrl, description),
+            },
+          })
+          const externalResources = pageResources(pathToRoot(slug), resources)
+          const componentData: QuartzComponentProps = {
+            ctx,
+            fileData: vfile.data,
+            externalResources,
+            cfg,
+            children: [],
+            tree,
+            allFiles,
+          }
+          yield write({
+            ctx,
+            content: renderPage(cfg, slug, componentData, opts, externalResources),
+            slug,
+            ext: ".html",
+          })
         }
-        yield write({
-          ctx,
-          content: renderPage(cfg, slug, componentData, opts, externalResources),
-          slug,
-          ext: ".html",
-        })
-      }
     },
     async *partialEmit() {},
   }

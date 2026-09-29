@@ -1,4 +1,5 @@
 import path from "path"
+import { randomUUID } from "node:crypto"
 import fs from "fs"
 import { BuildCtx } from "../../util/ctx"
 import { FilePath, FullSlug, joinSegments } from "../../util/path"
@@ -45,7 +46,14 @@ export const write = async ({ ctx, slug, ext, content }: WriteOptions): Promise<
       ? offsetRelativeAssetPathsForPrettyIndex(content.toString())
       : content
   await fs.promises.mkdir(dir, { recursive: true })
-  await fs.promises.writeFile(pathToPage, outputContent)
+  const temporaryPath = `${pathToPage}.${randomUUID()}.tmp`
+  try {
+    await fs.promises.writeFile(temporaryPath, outputContent)
+    await fs.promises.rename(temporaryPath, pathToPage)
+    ctx.emittedFiles?.add(pathToPage)
+  } finally {
+    await fs.promises.rm(temporaryPath, { force: true })
+  }
 
   return pathToPage
 }

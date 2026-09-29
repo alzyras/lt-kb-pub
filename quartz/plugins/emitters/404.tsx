@@ -24,6 +24,7 @@ export const NotFoundPage: QuartzEmitterPlugin = () => {
 
   return {
     name: "404Page",
+    incrementalPolicy: "static",
     getQuartzComponents() {
       return [Head, Body, pageBody, Footer]
     },

@@ -30,6 +30,7 @@ const copyFile = async (argv: Argv, fp: FilePath) => {
 export const Assets: QuartzEmitterPlugin = () => {
   return {
     name: "Assets",
+    incrementalPolicy: "static",
     async *emit({ argv, cfg }) {
       const fps = await filesToCopy(argv, cfg)
       for (const fp of fps) {

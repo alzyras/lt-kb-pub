@@ -1,15 +1,54 @@
 import fs from "node:fs"
 import path from "node:path"
-import {
-  CITATION_SECTION_TITLES,
-  parseEvidenceSections,
-} from "../quartz/util/citationFilter"
+import { CITATION_SECTION_TITLES, parseEvidenceSections } from "../quartz/util/citationFilter"
 import { evidenceSupportsClaim, evidenceTextOverlapScore } from "../quartz/util/evidenceIntegrity"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
 const sourceIdArg = process.argv.indexOf("--source-id")
 const sourceId = sourceIdArg >= 0 ? process.argv[sourceIdArg + 1]?.trim() : undefined
 const failOnIssues = process.argv.includes("--fail")
+
+function auditFiles(): string[] {
+  const serializedFiles = process.env.EVIDENCE_AUDIT_FILES
+  if (serializedFiles === undefined) return listMarkdownFiles(objectRoot)
+
+  let requestedFiles: unknown
+  try {
+    requestedFiles = JSON.parse(serializedFiles)
+  } catch {
+    throw new Error("EVIDENCE_AUDIT_FILES must be a JSON array of Markdown paths.")
+  }
+  if (!Array.isArray(requestedFiles) || requestedFiles.some((file) => typeof file !== "string")) {
+    throw new Error("EVIDENCE_AUDIT_FILES must be a JSON array of Markdown paths.")
+  }
+
+  const objectRootReal = fs.realpathSync(objectRoot)
+  const uniqueFiles = new Set<string>()
+  for (const file of requestedFiles) {
+    const absolutePath = path.resolve(file)
+    const relativePath = path.relative(objectRoot, absolutePath)
+    if (
+      !relativePath ||
+      relativePath.startsWith(`..${path.sep}`) ||
+      path.isAbsolute(relativePath) ||
+      !relativePath.toLowerCase().endsWith(".md")
+    ) {
+      throw new Error(`Evidence audit path is outside the object Markdown root: ${file}`)
+    }
+    const realPath = fs.realpathSync(absolutePath)
+    const realRelativePath = path.relative(objectRootReal, realPath)
+    if (
+      !realRelativePath ||
+      realRelativePath.startsWith(`..${path.sep}`) ||
+      path.isAbsolute(realRelativePath) ||
+      !fs.statSync(realPath).isFile()
+    ) {
+      throw new Error(`Evidence audit path is outside the object Markdown root: ${file}`)
+    }
+    uniqueFiles.add(absolutePath)
+  }
+  return [...uniqueFiles].sort()
+}
 
 function listMarkdownFiles(dir: string): string[] {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
@@ -40,8 +79,9 @@ let textMismatchReferences = 0
 let aiSupportedContextReferences = 0
 const examples: Array<Record<string, string | number | undefined>> = []
 let references = 0
+const markdownFiles = auditFiles()
 
-for (const file of listMarkdownFiles(objectRoot)) {
+for (const file of markdownFiles) {
   const markdown = fs.readFileSync(file, "utf8")
   const sections = parseEvidenceSections(markdown)
   const claims = (sections.get("Teiginiai") ?? []).filter((entry) => entry.id.startsWith("t-"))
@@ -103,7 +143,7 @@ for (const file of listMarkdownFiles(objectRoot)) {
 console.log(
   JSON.stringify(
     {
-      files: listMarkdownFiles(objectRoot).length,
+      files: markdownFiles.length,
       sourceScope: sourceId ?? "all",
       references,
       unsupportedReferences,
@@ -118,6 +158,6 @@ console.log(
   ),
 )
 
-if (failOnIssues && (unsupportedReferences > 0 || textMismatchReferences > 0)) {
+if ((!sourceId || failOnIssues) && (unsupportedReferences > 0 || textMismatchReferences > 0)) {
   process.exitCode = 1
 }

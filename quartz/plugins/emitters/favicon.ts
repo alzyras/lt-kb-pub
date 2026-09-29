@@ -6,6 +6,7 @@ import { BuildCtx } from "../../util/ctx"
 
 export const Favicon: QuartzEmitterPlugin = () => ({
   name: "Favicon",
+  incrementalPolicy: "static",
   async *emit({ argv }) {
     const iconPath = joinSegments(QUARTZ, "static", "icon.png")
 

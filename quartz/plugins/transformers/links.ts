@@ -15,6 +15,7 @@ import { visit } from "unist-util-visit"
 import isAbsoluteUrl from "is-absolute-url"
 import { Root } from "hast"
 import { loadExhibitionSlugs } from "../../util/exhibitions"
+import { RelationTargetMap, relationTargetSlug } from "../../util/relations"
 
 interface Options {
   /** How to resolve Markdown paths */
@@ -43,6 +44,22 @@ export function isGeneratedObjectEvidenceLink(dest: string, allSlugs: readonly s
   if (!match) return false
   const parent = decodeURIComponent(match[1])
   return allSlugs.includes(parent) || allSlugs.includes(parent + "/index")
+}
+
+export function resolveMissingObjectRelationAlias(
+  destination: string,
+  allSlugs: readonly FullSlug[],
+  relationTargetMap: RelationTargetMap,
+): { href: RelativeURL; slug: FullSlug } | undefined {
+  const url = new URL(destination, "https://base.com/")
+  const slug = relationTargetSlug(url.pathname, relationTargetMap)
+  if (!slug || !allSlugs.some((candidate) => simplifySlug(candidate) === simplifySlug(slug))) {
+    return undefined
+  }
+  return {
+    href: `/${simplifySlug(slug)}${url.search}${url.hash}` as RelativeURL,
+    slug,
+  }
 }
 
 export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
@@ -119,10 +136,10 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 const isInternal = !(
                   isAbsoluteUrl(dest, { httpOnly: false }) || dest.startsWith("#")
                 )
-                const isGeneratedMediaDetail = isInternal && (
-                  isGeneratedMediaDetailLink(dest) ||
-                  isGeneratedObjectEvidenceLink(dest, ctx.allSlugs)
-                )
+                const isGeneratedMediaDetail =
+                  isInternal &&
+                  (isGeneratedMediaDetailLink(dest) ||
+                    isGeneratedObjectEvidenceLink(dest, ctx.allSlugs))
                 if (isGeneratedMediaDetail) {
                   // Media and evidence detail pages are emitted after Markdown has been transformed,
                   // so they are intentionally absent from ctx.allSlugs here. Preserve
@@ -165,10 +182,21 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                     exhibitionSlugs.has(stripSlashes(simple))
                   const isAttachmentLike = getFileExtension(full) !== undefined
                   if (!targetExists && !isAttachmentLike) {
-                    classes.push("broken-internal")
-                    node.properties.className = classes
-                    node.properties["data-missing-slug"] = full
-                    delete node.properties.href
+                    const aliasTarget = resolveMissingObjectRelationAlias(
+                      dest,
+                      ctx.allSlugs,
+                      ctx.relationTargetMap ?? {},
+                    )
+                    if (aliasTarget) {
+                      dest = node.properties.href = aliasTarget.href
+                      node.properties["data-slug"] = aliasTarget.slug
+                      outgoing.add(simplifySlug(aliasTarget.slug))
+                    } else {
+                      classes.push("broken-internal")
+                      node.properties.className = classes
+                      node.properties["data-missing-slug"] = full
+                      delete node.properties.href
+                    }
                   } else {
                     outgoing.add(simple)
                   }
