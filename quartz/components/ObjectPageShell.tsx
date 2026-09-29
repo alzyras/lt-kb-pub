@@ -1,14 +1,11 @@
+import path from "node:path"
 import type { ComponentChildren } from "preact"
 import type { QuartzComponentProps } from "./types"
 import { ObjectPageTabs, type ObjectPageTab } from "./ObjectPageTabs"
 import { objectDetailEvidenceFromFile } from "../util/objectDetail"
 import { objectPageViewModel } from "../util/objectPageView"
 import { objectBibliography } from "../util/objectBibliography"
-import {
-  cleanText,
-  displayCaption,
-  objectMediaSet,
-} from "../util/objectMedia"
+import { cleanText, displayCaption, objectMediaSet } from "../util/objectMedia"
 import { graphSlugForPageData } from "../util/graphIdentity"
 import { FullSlug, simplifySlug, slugifyFilePath } from "../util/path"
 import { objectRelationInputs } from "../util/objectRelations"
@@ -63,7 +60,11 @@ export function ObjectPageShell({
   const view = objectPageViewModel(fm, evidence, { gallery: media.all.length })
   view.counts.sources = objectBibliography(props.allFiles, evidence).length
   const graphSlug = graphSlugForPageData(file as any, slug)
-  const relations = objectRelationInputs(fm, evidence)
+  const relations = objectRelationInputs(
+    fm,
+    evidence,
+    path.resolve(props.ctx.argv.directory, "objektai"),
+  )
   const mapIndex: Record<string, any> = {
     [graphSlug]: { slug: graphSlug, title, type: cleanText(fm.tipas), links: [] },
   }
@@ -97,7 +98,6 @@ export function ObjectPageShell({
     })
   }
   view.counts.relations = mapIndex[graphSlug].links.length
-
 
   mapIndex[graphSlug].totalRelationCount = view.counts.relations
 
@@ -144,7 +144,6 @@ export function ObjectPageShell({
             </p>
           </div>
         </div>
-
       </header>
       <ObjectPageTabs objectSlug={slug} counts={view.counts} active={active} />
       {children}

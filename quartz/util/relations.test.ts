@@ -39,6 +39,21 @@ test("resolves typed exact labels and aliases before transliterated fallbacks", 
   assert.equal(relationTargetSlug("Mazovijos Plockas: place", map), "objektai/vietos/Plockas")
 })
 
+test("resolves canonical authority aliases in legacy object paths", () => {
+  const map = buildRelationTargetMap([
+    document(
+      "objektai/asmenys/Jonas Karolis Chodkevičius.md",
+      "objektai/asmenys/Jonas-Karolis-Chodkevičius",
+      "tipas: asmuo\npavadinimas: Jonas Karolis Chodkevičius\nentity_aliases: [Jonas Karolis Chodkevičius, Jonas Karolis Katkevičius]",
+    ),
+  ])
+
+  assert.equal(
+    relationTargetSlug("/objektai/asmenys/Jonas Karolis Katkevičius", map),
+    "objektai/asmenys/Jonas-Karolis-Chodkevičius",
+  )
+})
+
 test("returns null for an actually duplicated canonical label", () => {
   const map = buildRelationTargetMap([
     document(

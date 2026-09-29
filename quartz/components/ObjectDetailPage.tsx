@@ -1,3 +1,4 @@
+import path from "node:path"
 // @ts-ignore bundled as a browser script
 import snowflakeScript from "./scripts/object-snowflake.inline"
 import { ObjectSnowflake } from "./ObjectSnowflake"
@@ -208,7 +209,9 @@ function WikipediaIntro({
       ? (module.source as ObjectPageModule)
       : {}
   const intro = cleanText(module.intro)
-  const infobox = moduleRows(module.infobox).filter((row) => cleanText(row.value) || moduleRows(row.cells).some(cell => cleanText(cell.text)))
+  const infobox = moduleRows(module.infobox).filter(
+    (row) => cleanText(row.value) || moduleRows(row.cells).some((cell) => cleanText(cell.text)),
+  )
   const wikiUrl = safeExternalUrl(source.url)
   if (!intro && infobox.length === 0 && !wikiUrl && !summary) return null
   const languageLabel = wikiSourceLabel(source)
@@ -235,7 +238,15 @@ function WikipediaIntro({
       {languageLabel}
       {" · Vikipedijos bendradarbiai"}
       {cleanText(source.license) && ` · ${cleanText(source.license)}`}
-      {safeExternalUrl(source.revision_url) && <> · <a href={safeExternalUrl(source.revision_url)} target="_blank" rel="noreferrer noopener">Naudota straipsnio versija</a></>}
+      {safeExternalUrl(source.revision_url) && (
+        <>
+          {" "}
+          ·{" "}
+          <a href={safeExternalUrl(source.revision_url)} target="_blank" rel="noreferrer noopener">
+            Naudota straipsnio versija
+          </a>
+        </>
+      )}
       {safeExternalUrl(source.history_url) && (
         <>
           {" · "}
@@ -279,40 +290,59 @@ function WikipediaIntro({
             </p>
           </div>
         )}
-          {portraitUrl && galleryHref && (
-            <a class="object-detail-wiki-portrait" href={galleryHref}>
-              <img
-                src={portraitUrl}
-                alt={displayCaption(portrait!)}
-                width={portrait?.width || 800}
-                height={portrait?.height || 1000}
-                style={`object-position:${mediaPosition(portrait!)};aspect-ratio:${portrait?.width || 800}/${portrait?.height || 1000}`}
-                decoding="async"
-              />
-              <span>{portrait?.dateDisplay ? `${portrait.dateDisplay} · ` : ""}Žiūrėti galerijoje</span>
-            </a>
-          )}
+        {portraitUrl && galleryHref && (
+          <a class="object-detail-wiki-portrait" href={galleryHref}>
+            <img
+              src={portraitUrl}
+              alt={displayCaption(portrait!)}
+              width={portrait?.width || 800}
+              height={portrait?.height || 1000}
+              style={`object-position:${mediaPosition(portrait!)};aspect-ratio:${portrait?.width || 800}/${portrait?.height || 1000}`}
+              decoding="async"
+            />
+            <span>
+              {portrait?.dateDisplay ? `${portrait.dateDisplay} · ` : ""}Žiūrėti galerijoje
+            </span>
+          </a>
+        )}
       </div>
       {hasAside && (
         <aside class="object-detail-wiki-aside" aria-label="Vikipedijos duomenys ir portretas">
           {infobox.length > 0 && (
             <div class="object-detail-wiki-infobox">
-              <p class="object-detail-wiki-infobox-label">
-                Pagrindinė lentelė · {languageLabel}
-              </p>
+              <p class="object-detail-wiki-infobox-label">Pagrindinė lentelė · {languageLabel}</p>
               <div class="object-detail-wiki-table-wrap">
                 <table class="object-detail-wiki-table">
                   <tbody>
                     {infobox.map((row) => (
                       <tr>
-                        {moduleRows(row.cells).length ? moduleRows(row.cells).map((cell) => {
-                          const Tag = cell.header ? "th" : "td"
-                          const span = (value: unknown) => Math.max(1, Math.min(100, Number(value) || 1))
-                          return <Tag colSpan={span(cell.colspan)} rowSpan={span(cell.rowspan)}
-                            scope={cell.header ? (span(cell.colspan) > 1 ? "colgroup" : "row") : undefined}>
-                            {String(cell.text || "")}
-                          </Tag>
-                        }) : <><th scope="row">{cleanText(row.label)}</th><td>{cleanText(row.value)}</td></>}
+                        {moduleRows(row.cells).length ? (
+                          moduleRows(row.cells).map((cell) => {
+                            const Tag = cell.header ? "th" : "td"
+                            const span = (value: unknown) =>
+                              Math.max(1, Math.min(100, Number(value) || 1))
+                            return (
+                              <Tag
+                                colSpan={span(cell.colspan)}
+                                rowSpan={span(cell.rowspan)}
+                                scope={
+                                  cell.header
+                                    ? span(cell.colspan) > 1
+                                      ? "colgroup"
+                                      : "row"
+                                    : undefined
+                                }
+                              >
+                                {String(cell.text || "")}
+                              </Tag>
+                            )
+                          })
+                        ) : (
+                          <>
+                            <th scope="row">{cleanText(row.label)}</th>
+                            <td>{cleanText(row.value)}</td>
+                          </>
+                        )}
                       </tr>
                     ))}
                   </tbody>
@@ -660,7 +690,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
   }
   const bibliography = objectBibliography(allFiles, evidence)
   const relations = objectRelationGroups(
-    objectRelationInputs(frontmatter, evidence),
+    objectRelationInputs(frontmatter, evidence, path.resolve(props.ctx.argv.directory, "objektai")),
     index.bySlug,
     {
       dedupe: false,
@@ -678,7 +708,11 @@ const ObjectDetailPage: QuartzComponent = (props) => {
       ? (pageModules.internal_summary as ObjectPageModule)
       : undefined
   const rawSummary = cleanText(internalSummaryModule?.text) || evidence.summary
-  const summary = frontmatter.museum_external_only || normalized(rawSummary) === normalized(cleanText(wikiModule?.intro)) ? "" : rawSummary
+  const summary =
+    frontmatter.museum_external_only ||
+    normalized(rawSummary) === normalized(cleanText(wikiModule?.intro))
+      ? ""
+      : rawSummary
   const supportedClaims = evidence.claims.filter((claim) => claim.citations.length > 0)
   const evidenceContext = cleanText(
     frontmatter.pavadinimas || frontmatter.canonical_name || frontmatter.title,

@@ -3,6 +3,14 @@ import { Root as MdRoot } from "mdast"
 import { Data, VFile } from "vfile"
 
 export type QuartzPluginData = Data
+
+declare module "vfile" {
+  interface DataMap {
+    /** Effective advanced-evidence resolver results used to transform this file. */
+    relationResolutionDependencies?: Record<string, string>
+  }
+}
+
 export type MarkdownContent = [MdRoot, VFile]
 export type ProcessedContent = [HtmlRoot, VFile]
 

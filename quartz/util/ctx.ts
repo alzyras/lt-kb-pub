@@ -30,6 +30,18 @@ export interface BuildCtx {
   allFiles: FilePath[]
   slugMap: Record<string, FullSlug>
   relationTargetMap?: RelationTargetMap
+  /** Relation-index lookups made while transforming the current Markdown file. */
+  parseCacheDependencies?: Map<string, string>
+  /** Output paths written through Quartz helpers during a one-shot build. */
+  emittedFiles?: Set<FilePath>
+  /** Slugs selected by a one-shot emitter that still needs the full content index. */
+  incrementalSelectedSlugs?: Set<string>
+  /** Object routes selected for a media-catalog-stable incremental gallery refresh. */
+  incrementalGalleryObjectSlugs?: Set<string>
+  /** Pages whose rendered HTML depends on a changed page's backlinks/transclusion. */
+  incrementalPageEvents?: import("../plugins/types").ChangeEvent[]
+  /** Output paths removed while replacing a changed page's generated assets. */
+  deletedFiles?: Set<FilePath>
   trie?: FileTrieNode<BuildTimeTrieData>
   incremental: boolean
 }

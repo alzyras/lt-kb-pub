@@ -3,7 +3,7 @@ import { QuartzComponentProps } from "../../components/types"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
-import { FullSlug, joinSegments, pathToRoot } from "../../util/path"
+import { FilePath, FullSlug, joinSegments, pathToRoot } from "../../util/path"
 import { Footer, ObjectRelationsPage, RelationGroupCard } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
@@ -44,6 +44,9 @@ export const ObjectRelationsPages: QuartzEmitterPlugin = () => {
         const objectSlug = file.data.slug
         if (!objectSlug || !objectSlug.startsWith("objektai/")) continue
         if (objectSlug.split("/").length !== 3) continue
+        if (ctx.incrementalSelectedSlugs && !ctx.incrementalSelectedSlugs.has(String(objectSlug))) {
+          continue
+        }
         const sourcePath = String(file.data.filePath ?? "")
         const frontmatter = (file.data.frontmatter ?? {}) as Record<string, unknown>
         const evidence = objectDetailEvidenceFromFile(sourcePath)
@@ -110,6 +113,9 @@ export const ObjectRelationsPages: QuartzEmitterPlugin = () => {
           })
         }
       }
+    },
+    async *incrementalEmit(ctx, content, resources, _changeEvents) {
+      yield* this.emit(ctx, content, resources) as AsyncGenerator<FilePath>
     },
   }
 }

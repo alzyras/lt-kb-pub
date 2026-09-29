@@ -2,7 +2,7 @@ import fs from "node:fs"
 import path from "node:path"
 import sharp from "sharp"
 
-const publicRoot = path.resolve("public")
+const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
 const imageExtensions = new Set([".avif", ".gif", ".jpeg", ".jpg", ".png", ".svg", ".webp"])
 const minimumGalleryImages = Number(process.env.MIN_REQUIRED_GALLERY_IMAGES ?? "1000")
 
@@ -55,7 +55,7 @@ function validImageUrl(value: unknown): boolean {
 }
 
 if (!fs.existsSync(publicRoot)) {
-  throw new Error("public/ does not exist; run npm run build first")
+  throw new Error(`${publicRoot} does not exist; run npm run build first`)
 }
 
 const failures: string[] = []

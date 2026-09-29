@@ -1,6 +1,11 @@
 import assert from "node:assert/strict"
 import test from "node:test"
-import { isGeneratedMediaDetailLink, isGeneratedObjectEvidenceLink } from "./links"
+import { FullSlug } from "../../util/path"
+import {
+  isGeneratedMediaDetailLink,
+  isGeneratedObjectEvidenceLink,
+  resolveMissingObjectRelationAlias,
+} from "./links"
 
 test("preserves generated evidence routes only for existing source objects", () => {
   const slugs = ["objektai/asmenys/Motiejus-Valancius"]
@@ -36,5 +41,24 @@ test("does not bypass validation for ordinary or malformed gallery links", () =>
       "https://example.com/galerija/puota--m-article-ebd39ff36cb3f3fe70bb2be3",
     ),
     false,
+  )
+})
+
+test("rewrites a missing object alias to its unique active relation target", () => {
+  const activeSlug = "objektai/asmenys/Jonas-Karolis-Chodkevičius" as FullSlug
+  const targetMap = {
+    "exact|jonas karolis katkevičius": activeSlug,
+  }
+
+  assert.deepEqual(
+    resolveMissingObjectRelationAlias(
+      "/objektai/asmenys/Jonas%20Karolis%20Katkevi%C4%8Dius#claim-t-123",
+      [activeSlug],
+      targetMap,
+    ),
+    {
+      href: "/objektai/asmenys/Jonas-Karolis-Chodkevičius#claim-t-123",
+      slug: activeSlug,
+    },
   )
 })

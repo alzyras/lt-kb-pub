@@ -115,7 +115,11 @@ export function buildRelationTargetMap(documents: RelationDocument[]): RelationT
     addLabel(index, parsed.pavadinimas as string, slug, "", 3)
     addLabel(index, parsed.title as string, slug, type, 3)
     addLabel(index, parsed.title as string, slug, "", 3)
-    for (const alias of [...asStrings(parsed.aliases), ...asStrings(parsed.alias)]) {
+    for (const alias of [
+      ...asStrings(parsed.aliases),
+      ...asStrings(parsed.alias),
+      ...asStrings(parsed.entity_aliases),
+    ]) {
       addAlias(index, alias, slug, type)
       addAlias(index, alias, slug)
     }
@@ -187,12 +191,17 @@ export function relationTargetExactKey(label: string, type = ""): string {
 export function relationTargetLookupKeys(value: string): string[] {
   const label = relationTargetFromValue(value)
   const type = relationTargetKindFromValue(value)
-  return [
-    relationTargetExactKey(label, type),
-    relationTargetExactKey(label),
-    relationTargetKey(label, type),
-    relationTargetKey(label),
-  ].filter((key, index, keys) => Boolean(key) && keys.indexOf(key) === index)
+  const labels = label.startsWith("objektai/")
+    ? [label, label.split("/").filter(Boolean).at(-1) ?? label]
+    : [label]
+  return labels
+    .flatMap((candidate) => [
+      relationTargetExactKey(candidate, type),
+      relationTargetExactKey(candidate),
+      relationTargetKey(candidate, type),
+      relationTargetKey(candidate),
+    ])
+    .filter((key, index, keys) => Boolean(key) && keys.indexOf(key) === index)
 }
 
 export function relationTargetSlug(

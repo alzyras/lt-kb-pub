@@ -1,18 +1,27 @@
+import { readFile, rm } from "node:fs/promises"
+import path from "node:path"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
-import { FullSlug, pathToRoot } from "../../util/path"
+import { FilePath, FullSlug, pathToRoot } from "../../util/path"
 import { sharedPageComponents } from "../../../quartz.layout"
 import { GraphExplorer } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
 import { buildGraphSlugMap, withPublicObjectNodes } from "../../util/graphIdentity"
-import { buildAssetVersion } from "../../util/buildVersion"
+import { buildDataVersion } from "../../util/buildVersion"
 import { loadObjectTopology } from "../../util/objectGraph"
+import { changedObjectGraphShardSlugs } from "../../util/graphShardChanges"
+import { BuildCtx } from "../../util/ctx"
+import { ProcessedContent } from "../vfile"
+import { StaticResources } from "../../util/resources"
 
-function objectGraphShards(topology: any): Array<{ slug: string; payload: unknown }> {
+function objectGraphShards(
+  topology: any,
+  selectedSlugs?: ReadonlySet<string>,
+): Array<{ slug: string; payload: unknown }> {
   const nodes = Array.isArray(topology?.nodes) ? topology.nodes : []
   const nodeBySlug = new Map<string, any>(
     nodes.map((node: any) => [String(node.slug ?? ""), node] as [string, any]),
@@ -47,7 +56,11 @@ function objectGraphShards(topology: any): Array<{ slug: string; payload: unknow
   }
 
   return nodes
-    .filter((node: any) => String(node.slug ?? "").startsWith("objektai/"))
+    .filter(
+      (node: any) =>
+        String(node.slug ?? "").startsWith("objektai/") &&
+        (!selectedSlugs || selectedSlugs.has(String(node.slug))),
+    )
     .map((node: any) => {
       const slug = String(node.slug)
       const byTarget = new Map<string, any>()
@@ -93,6 +106,102 @@ function objectShardFile(slug: string): string {
   return (hash >>> 0).toString(16).padStart(8, "0")
 }
 
+async function* emitGraphExplorer(
+  ctx: BuildCtx,
+  content: ProcessedContent[],
+  resources: StaticResources,
+  opts: FullPageLayout,
+  incremental: boolean,
+) {
+  const cfg = ctx.cfg.configuration
+  const slug = "zemelapis/index" as FullSlug
+  const title = "Žemėlapis"
+  const topology = loadObjectTopology(path.resolve(ctx.argv.directory, "objektai"))
+  const slugMap = buildGraphSlugMap(
+    content,
+    buildDataVersion,
+    (topology.nodes ?? [])
+      .map((node: { slug?: string }) => String(node.slug ?? ""))
+      .filter(Boolean),
+  )
+  const completeTopology = withPublicObjectNodes(topology, Object.keys(slugMap.graphToPublic))
+  let selectedSlugs: Set<string> | undefined
+  let previousTopology: any
+  if (incremental) {
+    try {
+      previousTopology = JSON.parse(
+        await readFile(path.join(ctx.argv.output, "static/graph-data/topology.json"), "utf8"),
+      )
+      selectedSlugs = changedObjectGraphShardSlugs(previousTopology, completeTopology)
+    } catch {
+      // Without a valid old graph, regenerating every shard is the safe path.
+    }
+  }
+
+  yield write({
+    ctx,
+    content: JSON.stringify(completeTopology),
+    slug: "static/graph-data/topology" as FullSlug,
+    ext: ".json",
+  })
+  for (const shard of objectGraphShards(completeTopology, selectedSlugs)) {
+    yield write({
+      ctx,
+      content: JSON.stringify(shard.payload),
+      slug: `static/graph-data/objects/${objectShardFile(shard.slug)}` as FullSlug,
+      ext: ".json",
+    })
+  }
+
+  if (selectedSlugs && previousTopology) {
+    const currentSlugs = new Set(
+      (completeTopology.nodes ?? [])
+        .map((node: { slug?: string }) => String(node.slug ?? ""))
+        .filter((nodeSlug: string) => nodeSlug.startsWith("objektai/")),
+    )
+    for (const previousNode of previousTopology.nodes ?? []) {
+      const previousSlug = String(previousNode.slug ?? "")
+      if (!previousSlug.startsWith("objektai/") || currentSlugs.has(previousSlug)) continue
+      const removedPath = path.join(
+        ctx.argv.output,
+        "static/graph-data/objects",
+        `${objectShardFile(previousSlug)}.json`,
+      )
+      await rm(removedPath, { force: true })
+      ctx.deletedFiles?.add(removedPath as FilePath)
+    }
+  }
+
+  yield write({
+    ctx,
+    content: JSON.stringify(slugMap),
+    slug: "static/graphSlugMap" as FullSlug,
+    ext: ".json",
+  })
+  const [tree, vfile] = defaultProcessedContent({
+    slug,
+    text: title,
+    description: "Viso ekrano Lietuvos istorijos objektų ryšių žemėlapis.",
+    frontmatter: { title, tags: ["zemelapis"] },
+  })
+  const externalResources = pageResources(pathToRoot(slug), resources)
+  const componentData: QuartzComponentProps = {
+    ctx,
+    fileData: vfile.data,
+    externalResources,
+    cfg,
+    children: [],
+    tree,
+    allFiles: [],
+  }
+  yield write({
+    ctx,
+    content: renderPage(cfg, slug, componentData, opts, externalResources),
+    slug,
+    ext: ".html",
+  })
+}
+
 export const GraphExplorerPage: QuartzEmitterPlugin = () => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
@@ -113,65 +222,10 @@ export const GraphExplorerPage: QuartzEmitterPlugin = () => {
       return [Head, Body, pageBody, Footer]
     },
     async *emit(ctx, content, resources) {
-      const cfg = ctx.cfg.configuration
-      const slug = "zemelapis/index" as FullSlug
-      const title = "Žemėlapis"
-      const topology = loadObjectTopology()
-      const mergedTopology = topology
-      const slugMap = buildGraphSlugMap(
-        content,
-        buildAssetVersion,
-        (mergedTopology.nodes ?? [])
-          .map((node: { slug?: string }) => String(node.slug ?? ""))
-          .filter(Boolean),
-      )
-      const completeTopology = withPublicObjectNodes(
-        mergedTopology,
-        Object.keys(slugMap.graphToPublic),
-      )
-      yield write({
-        ctx,
-        content: JSON.stringify(completeTopology),
-        slug: "static/graph-data/topology" as FullSlug,
-        ext: ".json",
-      })
-      for (const shard of objectGraphShards(completeTopology)) {
-        yield write({
-          ctx,
-          content: JSON.stringify(shard.payload),
-          slug: `static/graph-data/objects/${objectShardFile(shard.slug)}` as FullSlug,
-          ext: ".json",
-        })
-      }
-      yield write({
-        ctx,
-        content: JSON.stringify(slugMap),
-        slug: "static/graphSlugMap" as FullSlug,
-        ext: ".json",
-      })
-      const [tree, vfile] = defaultProcessedContent({
-        slug,
-        text: title,
-        description: "Viso ekrano Lietuvos istorijos objektų ryšių žemėlapis.",
-        frontmatter: { title, tags: ["zemelapis"] },
-      })
-      const externalResources = pageResources(pathToRoot(slug), resources)
-      const componentData: QuartzComponentProps = {
-        ctx,
-        fileData: vfile.data,
-        externalResources,
-        cfg,
-        children: [],
-        tree,
-        allFiles: [],
-      }
-
-      yield write({
-        ctx,
-        content: renderPage(cfg, slug, componentData, opts, externalResources),
-        slug,
-        ext: ".html",
-      })
+      yield* emitGraphExplorer(ctx, content, resources, opts, false)
+    },
+    async *incrementalEmit(ctx, content, resources) {
+      yield* emitGraphExplorer(ctx, content, resources, opts, true)
     },
     async *partialEmit() {},
   }

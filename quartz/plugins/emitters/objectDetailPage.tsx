@@ -4,7 +4,7 @@ import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
-import { pathToRoot } from "../../util/path"
+import { FilePath, pathToRoot } from "../../util/path"
 import { sharedPageComponents } from "../../../quartz.layout"
 import { Explorer, Footer, ObjectDetailPage, PageTitle } from "../../components"
 import { write } from "./helpers"
@@ -97,6 +97,9 @@ export const ObjectDetailPages: QuartzEmitterPlugin = () => {
         if (!changed.has(file.data.slug!) || !isObjectDetailSlug(file.data.slug)) continue
         yield await processObjectDetail(ctx, tree, file.data, allFiles, opts, resources)
       }
+    },
+    async *incrementalEmit(ctx, content, resources, changeEvents) {
+      yield* this.partialEmit!(ctx, content, resources, changeEvents) as AsyncGenerator<FilePath>
     },
   }
 }

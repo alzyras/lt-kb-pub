@@ -16,6 +16,14 @@ import { BuildCtx, WorkerSerializableBuildCtx } from "../util/ctx"
 import { styleText } from "util"
 import { isObjectPage } from "../util/citationFilter"
 import { collectEvidenceIntegrityIssues } from "../util/evidenceIntegrity"
+import { ProcessedContentCache } from "../util/parseCache"
+import { currentRelationResolutionDependencies } from "../plugins/transformers/advancedEvidence"
+import { FullSlug, getFileExtension, simplifySlug, stripSlashes } from "../util/path"
+import { loadExhibitionSlugs } from "../util/exhibitions"
+import {
+  isGeneratedMediaDetailLink,
+  isGeneratedObjectEvidenceLink,
+} from "../plugins/transformers/links"
 
 export type QuartzMdProcessor = Processor<MDRoot, MDRoot, MDRoot>
 export type QuartzHtmlProcessor = Processor<undefined, MDRoot, HTMLRoot>
@@ -50,6 +58,16 @@ function* chunks<T>(arr: T[], size: number) {
   for (let index = 0; index < arr.length; index += size) {
     yield arr.slice(index, index + size)
   }
+}
+
+function processedFilePath(file: ProcessedContent[1]): string | undefined {
+  const filePath = file.path ?? file.data.filePath
+  return typeof filePath === "string" ? filePath : undefined
+}
+
+export function resolveProcessedFilePath(file: ProcessedContent[1]): string | undefined {
+  const filePath = processedFilePath(file)
+  return filePath ? path.resolve(filePath) : undefined
 }
 
 async function transpileWorkerScript() {
@@ -112,9 +130,12 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         }
 
         // Text -> Text transforms
+        ctx.parseCacheDependencies = new Map()
         for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
           file.value = plugin.textTransform!(ctx, file.value.toString())
         }
+        file.data.relationResolutionDependencies = Object.fromEntries(ctx.parseCacheDependencies)
+        ctx.parseCacheDependencies = undefined
 
         // base data properties that plugins may use
         file.data.filePath = file.path as FilePath
@@ -163,7 +184,7 @@ export function createMarkdownParser(ctx: BuildCtx, mdContent: MarkdownContent[]
 const clamp = (num: number, min: number, max: number) =>
   Math.min(Math.max(Math.round(num), min), max)
 
-export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<ProcessedContent[]> {
+async function parseMarkdownUncached(ctx: BuildCtx, fps: FilePath[]): Promise<ProcessedContent[]> {
   const { argv } = ctx
   const perf = new PerfTimer()
   const log = new QuartzLogger(argv.verbose)
@@ -245,4 +266,148 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
 
   log.end(`Parsed ${res.length} Markdown files in ${perf.timeSince()}`)
   return res
+}
+
+export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<ProcessedContent[]> {
+  const cache = await ProcessedContentCache.create(ctx)
+  if (!cache || fps.length === 0) return parseMarkdownUncached(ctx, fps)
+
+  const hits = new Map<string, ProcessedContent>()
+  const keys = new Map<string, string>()
+  const missing: FilePath[] = []
+  for (const batch of chunks(fps, 16)) {
+    const entries = await Promise.all(
+      batch.map(async (filePath) => ({ filePath, entry: await cache.get(filePath) })),
+    )
+    for (const { filePath, entry } of entries) {
+      const key = path.resolve(filePath)
+      if (entry.content) {
+        hits.set(key, entry.content)
+        if (entry.key) keys.set(key, entry.key)
+      } else {
+        missing.push(filePath)
+        if (entry.key) keys.set(key, entry.key)
+      }
+    }
+  }
+
+  // Cached frontmatter aliases participate in route resolution just like the
+  // canonical Markdown slugs. Add them before parsing any cache misses so new
+  // and cached notes see the same route set during this build.
+  for (const [, file] of hits.values()) {
+    for (const alias of file.data.aliases ?? []) {
+      if (!ctx.allSlugs.includes(alias)) ctx.allSlugs.push(alias)
+    }
+  }
+
+  let parsed = await parseMarkdownUncached(ctx, missing)
+  for (const [, file] of parsed) {
+    for (const alias of file.data.aliases ?? []) {
+      if (!ctx.allSlugs.includes(alias)) ctx.allSlugs.push(alias)
+    }
+  }
+
+  const routeSlugs = new Set(ctx.allSlugs.map((slug) => String(slug)))
+  const exhibitions = loadExhibitionSlugs()
+  const hasRoute = (rawSlug: string): boolean => {
+    const slug = stripSlashes(rawSlug, true)
+    const simple = simplifySlug(slug as FullSlug)
+    return (
+      routeSlugs.has(slug) ||
+      routeSlugs.has(simple) ||
+      routeSlugs.has(stripSlashes(simple)) ||
+      exhibitions.has(stripSlashes(simple))
+    )
+  }
+  const routeContextChanged = (root: unknown): boolean => {
+    const stack: unknown[] = [root]
+    while (stack.length > 0) {
+      const node = stack.pop()
+      if (!node || typeof node !== "object") continue
+      const value = node as { properties?: Record<string, unknown>; children?: unknown[] }
+      const properties = value.properties ?? {}
+      const missingSlug = properties["data-missing-slug"]
+      if (typeof missingSlug === "string" && hasRoute(missingSlug)) return true
+
+      const resolvedSlug = properties["data-slug"]
+      if (typeof resolvedSlug === "string") {
+        const normalized = stripSlashes(resolvedSlug, true)
+        const generated =
+          isGeneratedMediaDetailLink(`/${normalized}`) ||
+          isGeneratedObjectEvidenceLink(`/${normalized}`, ctx.allSlugs)
+        if (!generated && !getFileExtension(normalized) && !hasRoute(normalized)) {
+          return true
+        }
+      }
+      if (Array.isArray(value.children)) stack.push(...value.children)
+    }
+    return false
+  }
+
+  const stale: string[] = []
+  for (const [absolutePath, content] of hits) {
+    const dependencies = content[1].data.relationResolutionDependencies
+    if (!dependencies) {
+      stale.push(absolutePath)
+      continue
+    }
+    const current = currentRelationResolutionDependencies(ctx, Object.keys(dependencies))
+    const relationsChanged = Object.entries(dependencies).some(
+      ([key, value]) => current[key] !== value,
+    )
+    if (relationsChanged || routeContextChanged(content[0])) {
+      stale.push(absolutePath)
+      hits.delete(absolutePath)
+    }
+  }
+  for (const absolutePath of stale) {
+    const filePath = fps.find((candidate) => path.resolve(candidate) === absolutePath)
+    if (filePath && !missing.includes(filePath)) missing.push(filePath)
+  }
+
+  const parsedPaths = new Set(
+    parsed.flatMap((item) => {
+      const filePath = resolveProcessedFilePath(item[1])
+      return filePath ? [filePath] : []
+    }),
+  )
+  parsed = [
+    ...parsed,
+    ...(await parseMarkdownUncached(
+      ctx,
+      missing.filter((fp) => !parsedPaths.has(path.resolve(fp))),
+    )),
+  ].sort(
+    (left, right) =>
+      fps.indexOf(processedFilePath(left[1]) as FilePath) -
+      fps.indexOf(processedFilePath(right[1]) as FilePath),
+  )
+  const parsedByPath = new Map(
+    parsed.flatMap((content) => {
+      const filePath = resolveProcessedFilePath(content[1])
+      return filePath ? [[filePath, content] as const] : []
+    }),
+  )
+  let cachedWrites = 0
+  for (const batch of chunks(parsed, 8)) {
+    const results = await Promise.all(
+      batch.map(async (content) => {
+        const filePath = resolveProcessedFilePath(content[1])
+        const key = filePath ? keys.get(filePath) : undefined
+        if (!key) return false
+        return cache.put(key, content)
+      }),
+    )
+    cachedWrites += results.filter(Boolean).length
+  }
+
+  const result: ProcessedContent[] = []
+  for (const filePath of fps) {
+    const content = hits.get(path.resolve(filePath)) ?? parsedByPath.get(path.resolve(filePath))
+    if (content) result.push(content)
+  }
+  console.log(
+    `[parse-cache] reused ${hits.size}/${fps.length} processed files; parsed ${missing.length}; cached ${cachedWrites}`,
+  )
+  return result
 }
