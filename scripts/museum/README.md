@@ -60,7 +60,8 @@ Ryšių snaigė rodo visus unikalius tikrus kaimynus, stabiliai sugrupuotus paga
 tipą ir bendro registro spalvas. Judesys valdomas vienu animation frame ir
 išjungiamas telefone bei su `prefers-reduced-motion`. Fokusas išryškina žemėlapį.
 
-Prieš integravimą: `npm run prebuild`, `npm run build` (su postbuild auditais),
-backend objektų / Vikipedijos / parodų testai ir naršyklės peržiūra.
+Prieš integravimą: `npm test`, `npx tsc --noEmit`, `npm run verify:relations`,
+`npm run build` (pilnas Quartz build su public output patikromis), backend
+objektų / Vikipedijos / parodų testai ir naršyklės peržiūra.
 Atkuriami ankstesnių kopijų taškai: `checkpoint/museum-*` Git refs ir
 gretimas `lt-kb-checkpoints/museum-20260920` aplankas.

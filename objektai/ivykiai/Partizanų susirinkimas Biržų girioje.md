@@ -1,0 +1,55 @@
+---
+tipas: ivykis
+pavadinimas: 'Partizanų susirinkimas Biržų girioje'
+saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
+datos:
+  - '1951 m.'
+date_start: '1951'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Partizanų susirinkimas Biržų girioje
+
+## Santrauka
+
+Pasak B. Mikonio, 1951 m. liepą arba rugpjūtį Biržų girioje vykusiame partizanų formuotės susirinkime dalyvavo 30–35 partizanai.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Pasak B. Mikonio, 1951 m. liepą arba rugpjūtį Biržų girioje vykusiame partizanų formuotės susirinkime dalyvavo 30–35 partizanai.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 402"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

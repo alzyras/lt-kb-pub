@@ -521,6 +521,7 @@ body[data-slug^="objektai/"] .object-section-nav {
   width: 100%;
   max-height: 27rem;
   object-fit: cover;
+  object-position: center top;
 }
 
 .object-primary-media-copy {
@@ -1238,6 +1239,7 @@ body[data-slug="404"] footer {
   height: auto;
   aspect-ratio: 960 / 595;
   object-fit: cover;
+  object-position: center top;
   filter: saturate(0.96) contrast(1.03) brightness(0.92);
 }
 
@@ -2480,12 +2482,13 @@ html.hide-person-parentheticals .person-title-parenthetical {
   border: 1px solid var(--ui-border);
   border-radius: 0;
   object-fit: cover;
+  object-position: center top;
   box-shadow: var(--ui-shadow);
 }
 
 .puota-feature .puota-hero img {
   aspect-ratio: 16 / 9;
-  object-position: center 45%;
+  object-position: center top;
 }
 
 .puota-feature figcaption {
@@ -2642,7 +2645,7 @@ body[data-slug="straipsniai"] .articles-index {
   border: 1px solid var(--ui-border);
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.18)),
-    url("/static/articles/viena-diena-xviii-a-vilniuje/radvilu-puota-orlovskis.jpg") center 45% /
+    url("/static/articles/viena-diena-xviii-a-vilniuje/radvilu-puota-orlovskis.jpg") center top /
       cover;
   color: #fff;
   text-decoration: none;
@@ -2653,18 +2656,18 @@ body[data-slug="straipsniai"] .articles-index {
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.66), rgba(0, 0, 0, 0.16)),
     url("/static/articles/viena-diena-xviii-a-vilniuje/vilniaus-piliu-panorama-1785-1786.jpg")
-      center 44% / cover;
+      center top / cover;
 }
 
 .articles-index .article-card--valancius-imperija {
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.38)),
-    url("/static/media/valancius/motiejus-valancius-noel-portretas-1854.jpg") center 30% / cover;
+    url("/static/media/valancius/motiejus-valancius-noel-portretas-1854.jpg") center top / cover;
 }
 .articles-index .article-card--valancius-kasdienybe {
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.38)),
-    url("/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg") center 25% / cover;
+    url("/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg") center top / cover;
 }
 
 .articles-index .article-card strong {
@@ -2876,6 +2879,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
   max-height: 42rem;
   border-radius: 2px;
   object-fit: cover;
+  object-position: center top;
 }
 
 .history-article-figure figcaption {
@@ -2910,7 +2914,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
 .history-article-figure--hero img {
   max-height: none;
   aspect-ratio: 16 / 9;
-  object-position: center 44%;
+  object-position: center top;
 }
 
 .history-article-figure--map {
@@ -2922,6 +2926,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
 .history-article-figure--map img {
   max-height: 39rem;
   object-fit: contain;
+  object-position: center;
 }
 
 .history-article-figure--portrait,
@@ -2933,12 +2938,14 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
 .history-article-figure--portrait img {
   max-height: 42rem;
   object-fit: contain;
+  object-position: center;
   background: var(--history-paper);
 }
 
 .history-article-figure--object img {
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  object-position: center top;
 }
 
 .history-article-pullquote {

@@ -664,14 +664,13 @@ export function mediaObjectPosition(card: MediaObjectCard): string {
   const description =
     `${displayCaption(card.image)} ${cleanText(card.image.title)}`.toLocaleLowerCase("lt-LT")
 
-  // Keep seals, maps and other non-portrait evidence centred. Person and
-  // author cards use a shared upper focal line so faces sit at the same
-  // visual height even when source crops have different proportions.
+  // Keep seals, maps and other non-portrait evidence centred. Align person
+  // and author images to the top edge so the crop preserves headroom.
   if (/antspaudas|seal|monet|coin|žemėlap|zemelap|map|herb|antkap|kapo|reljef/u.test(description)) {
     return "50% 50%"
   }
   if (/asmuo|autorius/u.test(type) || /portret|portrait|atvaizd|veidas|face/u.test(description)) {
-    return "50% 22%"
+    return "center top"
   }
   return "50% 50%"
 }

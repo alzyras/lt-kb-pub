@@ -1,0 +1,56 @@
+---
+tipas: asmuo
+pavadinimas: 'Kostas Šakalys'
+saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
+datos:
+  - '1945 m.'
+date_start: '1945'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-9f9ca66d86c9b0e9b8f1cb53"
+canonical_name: "Kostas Šakalys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kostas Šakalys"]
+sameAs: []
+canonical_biography: "Kostas Šakalys gyveno Daupelių kaime, Pandėlio valsčiuje, ir žuvo kaip partizanas 1945 m."
+---
+# Kostas Šakalys
+
+## Santrauka
+
+Kostas Šakalys gyveno Daupelių kaime, Pandėlio valsčiuje, ir žuvo kaip partizanas 1945 m.
+
+## Santrauka
+
+Kostas Šakalys gyveno Daupelių kaime, Pandėlio valsčiuje, ir žuvo kaip partizanas 1945 m.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kostas Šakalys gyveno Daupelių kaime, Pandėlio valsčiuje, ir žuvo kaip partizanas 1945 m.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 103"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

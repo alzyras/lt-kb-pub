@@ -1081,6 +1081,86 @@ media_primary_height: 1200
   pagrindžia:
     - c-189063
 
+<a id="claim-t-184900"></a>
+- t-184900
+  teiginys: "Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu."
+  atnaujinta: "2026-09-19 02:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168261
+
+<a id="claim-t-207466"></a>
+- t-207466
+  teiginys: "Bumblauskas Švitrigailą apibūdina kaip savitą Vytauto antipodą, nes, Bumblausko vertinimu, Švitrigaila pralaimėdavo ten, kur Vytautas laimėdavo."
+  atnaujinta: "2026-09-19 02:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190108
+
+<a id="claim-t-210537"></a>
+- t-210537
+  teiginys: "Kunigaikštis Švitrigaila suėmė karalių Jogailą ir pastatė sargybą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194202
+
+<a id="claim-t-211630"></a>
+- t-211630
+  teiginys: "Švitrigaila konfliktavo su Lenkija dėl Podolės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194249
+
+<a id="claim-t-211889"></a>
+- t-211889
+  teiginys: "Švitrigailos kariuome nė apgulė Trakus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193362
+
+<a id="claim-t-215454"></a>
+- t-215454
+  teiginys: "Švitrigailos privilegija, datuota Lucke 1451 metų vasario 18 dieną, pakartojo 1439 metų Vytauto privilegiją ir atnaujino Algirdo privilegiją."
+  atnaujinta: "2026-09-19 02:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197235
+
 ## Reikšmingi paminėjimai
 - c-040
   santrauka: 'Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.'
@@ -1174,7 +1254,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-16101
@@ -1194,7 +1274,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-30378
@@ -1214,7 +1294,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-163353
@@ -1254,7 +1334,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
     - t-040
 
@@ -1275,7 +1355,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-163355
@@ -1299,7 +1379,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-015
 
@@ -1327,7 +1407,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-029
 
@@ -1349,7 +1429,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-163359
@@ -1372,7 +1452,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-163360
@@ -1392,7 +1472,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-163361
@@ -1420,7 +1500,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-163362
@@ -1443,7 +1523,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-163363
@@ -1480,7 +1560,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-163364
@@ -1504,7 +1584,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-163365
@@ -1529,7 +1609,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-022
 
@@ -1564,7 +1644,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-163369
@@ -1586,7 +1666,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-163371
@@ -1647,7 +1727,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-163373
@@ -1672,7 +1752,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-163374
@@ -1699,7 +1779,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-163375
@@ -1723,7 +1803,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-163376
@@ -1746,7 +1826,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-163377
@@ -1773,7 +1853,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-163379
@@ -1796,7 +1876,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-163380
@@ -1822,7 +1902,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-163381
@@ -1844,7 +1924,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-163382
@@ -1877,7 +1957,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-163383
@@ -1899,7 +1979,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-163384
@@ -1924,7 +2004,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-163385
@@ -1957,7 +2037,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-163386
@@ -1982,7 +2062,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
     - t-035
 
@@ -2003,7 +2083,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-163388
@@ -2041,7 +2121,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
     - t-032
 
@@ -2070,7 +2150,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-163391
@@ -2090,7 +2170,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-163394
@@ -2114,7 +2194,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-006
 
@@ -2138,7 +2218,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-168257
@@ -2164,7 +2244,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
     - t-044
 
@@ -2206,7 +2286,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-049
 
 - id: c-168259
@@ -2233,7 +2313,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-168260
@@ -2266,7 +2346,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
     - t-050
 
@@ -2296,8 +2376,9 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
+    - t-184900
 
 - id: c-173888
   autorius: "Teodoras Narbutas"
@@ -2320,7 +2401,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
 
 - id: c-178824
@@ -2344,7 +2425,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
 
 - id: c-178825
@@ -2376,7 +2457,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-178826
@@ -2407,7 +2488,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-052
 
 - id: c-184911
@@ -2427,7 +2508,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-186727
@@ -2451,7 +2532,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-186956
@@ -2477,7 +2558,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
 
 - id: c-186957
@@ -2505,7 +2586,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
 
 - id: c-189059
@@ -2522,7 +2603,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
 
 - id: c-189060
@@ -2550,7 +2631,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
 
 - id: c-189061
@@ -2569,7 +2650,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-060
 
 - id: c-189062
@@ -2590,7 +2671,7 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-061
 
 - id: c-189063
@@ -2607,8 +2688,120 @@ media_primary_height: 1200
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
+
+- id: c-190101
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 54"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 54."
+  citata_originali: |
+    Prieš atsakant į šį klausimą, Edvardas Gudavičius
+    siūlo atidžiau pažvelgti į vieną žmogų, labai susijusį su Vytautu. Tai Švitrigaila (valdęs
+    po Vytauto, 1430–1432 m.). Labai prieštaringa ši sąsaja: visą gyvenimą Švitrigaila siekė
+    atimti sostą iš Vytauto, o tapęs jo įpėdiniu, kartu tapo ir jo siekimų paveldėtoju bei tęsėju.
+  citata_rodoma: "Tai Švitrigaila (valdęs \npo Vytauto, 1430–1432 m.). Labai prieštaringa ši sąsaja: visą gyvenimą Švitrigaila siekė \natimti sostą iš Vytauto, o tapęs jo įpėdiniu, kartu tapo ir jo siekimų paveldėtoju bei tęsėju."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-190108
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 54"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 54."
+  citata_originali: |
+    Labai prieštaringa ši sąsaja: visą gyvenimą Švitrigaila siekė
+    atimti sostą iš Vytauto, o tapęs jo įpėdiniu, kartu tapo ir jo siekimų paveldėtoju bei tęsėju.
+    Kaip žinome, jis beviltiškai viską sužlugdė. Švitrigaila – savitas Vytauto antipodas, ypač
+    todėl, kad jis visur pralaimėjo ten, kur Vytautas laimėdavo.
+  citata_rodoma: "Švitrigaila – savitas Vytauto antipodas, ypač \ntodėl, kad jis visur pralaimėjo ten, kur Vytautas laimėdavo."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207466
+
+- id: c-193362
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 270."
+  citata_originali: |
+    Švitrigailos kariuome­
+    nė apgulė Trakus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211889
+
+- id: c-194202
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 113."
+  citata_originali: |
+    Kunigaikštis Švitrigaila suėmė karalių Jogailą ir
+    pastatė sargybą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210537
+
+- id: c-194249
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 265."
+  citata_originali: |
+    Šie Švitrigailos žodžiai atspindi aštrų konfliktą tarp LDK ir
+    Lenkijos dėl Podolės vakarinės dalies
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211630
+
+- id: c-197235
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  citata_originali: |
+    Neseckiui šis herbas, pavadintas Kru-
+    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215454
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Livonijos ordinas]]

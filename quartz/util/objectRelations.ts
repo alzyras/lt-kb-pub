@@ -48,9 +48,10 @@ export function relationDirectionLabel(label: string, direction = ""): string {
 export function objectRelationInputs(
   frontmatter: Record<string, unknown>,
   evidence: ObjectDetailEvidence,
+  objectRoot?: string,
 ): ObjectRelationInput[] {
   const view = objectPageViewModel(frontmatter, evidence)
-  const graph = objectGraphRelations(evidence.objectSlug)
+  const graph = objectGraphRelations(evidence.objectSlug, objectRoot)
   if (graph.length) return graph
   const authored = [
     ...view.relationRows.map((row: ObjectRelationRow) => ({

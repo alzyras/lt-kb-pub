@@ -2,7 +2,7 @@ import fs from "node:fs"
 import path from "node:path"
 import sharp from "sharp"
 
-const publicRoot = path.resolve("public")
+const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
 const imageExtensions = new Set([".avif", ".gif", ".jpeg", ".jpg", ".png", ".svg", ".webp"])
 const minimumGalleryImages = Number(process.env.MIN_REQUIRED_GALLERY_IMAGES ?? "1000")
 
@@ -20,9 +20,7 @@ function listHtmlFiles(dir: string): string[] {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
     const filePath = path.join(dir, entry.name)
     if (entry.isDirectory()) return listHtmlFiles(filePath)
-    return entry.isFile() && path.extname(entry.name).toLowerCase() === ".html"
-      ? [filePath]
-      : []
+    return entry.isFile() && path.extname(entry.name).toLowerCase() === ".html" ? [filePath] : []
   })
 }
 
@@ -55,7 +53,7 @@ function validImageUrl(value: unknown): boolean {
 }
 
 if (!fs.existsSync(publicRoot)) {
-  throw new Error("public/ does not exist; run npm run build first")
+  throw new Error(`${publicRoot} does not exist; run npm run build first`)
 }
 
 const failures: string[] = []
@@ -90,7 +88,9 @@ for (const htmlPath of htmlFiles) {
       try {
         const url = new URL(source)
         if (url.protocol !== "http:" && url.protocol !== "https:") {
-          failures.push(`${path.relative(process.cwd(), htmlPath)}: unsupported image URL ${source}`)
+          failures.push(
+            `${path.relative(process.cwd(), htmlPath)}: unsupported image URL ${source}`,
+          )
         }
       } catch {
         failures.push(`${path.relative(process.cwd(), htmlPath)}: invalid image URL ${source}`)
@@ -116,10 +116,13 @@ if (!Array.isArray(catalog)) {
   catalog.forEach((entry, index) => {
     const mediaId = String(entry.mediaId ?? "").trim()
     if (!mediaId) failures.push(`static/mediaCatalog.json[${index}]: missing mediaId`)
-    else if (mediaIds.has(mediaId)) failures.push(`static/mediaCatalog.json[${index}]: duplicate mediaId ${mediaId}`)
+    else if (mediaIds.has(mediaId))
+      failures.push(`static/mediaCatalog.json[${index}]: duplicate mediaId ${mediaId}`)
     else mediaIds.add(mediaId)
     if (!validImageUrl(entry.thumbUrl) && !validImageUrl(entry.sourceUrl)) {
-      failures.push(`static/mediaCatalog.json[${index}]: missing valid image URL for ${mediaId || "entry"}`)
+      failures.push(
+        `static/mediaCatalog.json[${index}]: missing valid image URL for ${mediaId || "entry"}`,
+      )
     }
   })
 

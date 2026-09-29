@@ -1,0 +1,44 @@
+---
+tipas: asmuo
+pavadinimas: 'Danys Vaidinauskas'
+saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-ed97b095b2dd1ef87802c664"
+canonical_name: "Danys Vaidinauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Danys Vaidinauskas"]
+sameAs: []
+canonical_biography: "Danys Vaidinauskas buvo legalizavęsis partizanas, apklaustas liudytoju Petro Kiškio baudžiamojoje byloje."
+---
+# Danys Vaidinauskas
+
+## Santrauka
+
+Legalizavęsis partizanas Danys Vaidinauskas, apklaustas liudytoju Petro Kiškio baudžiamojoje byloje, teigė, kad Jono Šidlausko būrį sudarė maždaug 20 partizanų.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Legalizavęsis partizanas Danys Vaidinauskas, apklaustas liudytoju Petro Kiškio baudžiamojoje byloje, teigė, kad Jono Šidlausko būrį sudarė maždaug 20 partizanų.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 135"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

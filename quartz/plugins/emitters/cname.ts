@@ -10,6 +10,7 @@ export function extractDomainFromBaseUrl(baseUrl: string) {
 
 export const CNAME: QuartzEmitterPlugin = () => ({
   name: "CNAME",
+  incrementalPolicy: "static",
   async emit(ctx) {
     if (!ctx.cfg.configuration.baseUrl) {
       console.warn(

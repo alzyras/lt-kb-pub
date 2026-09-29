@@ -3,7 +3,7 @@ import { QuartzComponentProps } from "../../components/types"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
-import { FullSlug, joinSegments, pathToRoot } from "../../util/path"
+import { FilePath, FullSlug, joinSegments, pathToRoot } from "../../util/path"
 import { Footer, ObjectEvidencePage } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
@@ -46,6 +46,9 @@ export const ObjectEvidencePages: QuartzEmitterPlugin = () => {
       for (const [_tree, file] of content) {
         const objectSlug = file.data.slug
         if (!isObjectDetailSlug(objectSlug)) continue
+        if (ctx.incrementalSelectedSlugs && !ctx.incrementalSelectedSlugs.has(String(objectSlug))) {
+          continue
+        }
         const sourcePath = String(file.data.filePath ?? "")
         const evidence = objectDetailEvidenceFromFile(sourcePath)
         const items = objectEvidenceClaimItems(evidence)
@@ -146,6 +149,9 @@ export const ObjectEvidencePages: QuartzEmitterPlugin = () => {
           })
         }
       }
+    },
+    async *incrementalEmit(ctx, content, resources, _changeEvents) {
+      yield* this.emit(ctx, content, resources) as AsyncGenerator<FilePath>
     },
   }
 }

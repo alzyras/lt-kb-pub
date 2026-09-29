@@ -1,0 +1,59 @@
+---
+tipas: ivykis
+pavadinimas: 'Mykolo Kairio žūtis Kupiškyje (1947 m. lapkričio 13 d.)'
+variantai:
+  - 'Mykolo Kairio žūtis Kupiškyje'
+aliases:
+  - 'Mykolo Kairio žūtis Kupiškyje'
+saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
+datos:
+  - '1947 m.'
+date_start: '1947'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Mykolo Kairio žūtis Kupiškyje (1947 m. lapkričio 13 d.)
+
+## Santrauka
+
+1947 m. lapkričio 13 d. Kupiškio miestelyje žuvo Mykolas Kairys-Naujakurys, Algimanto apygardos Šarūno rinktinės 2-osios Algirdo kuopos Herkaus būrio partizanas.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: '1947 m. lapkričio 13 d. Kupiškio miestelyje žuvo Mykolas Kairys-Naujakurys, Algimanto apygardos Šarūno rinktinės 2-osios Algirdo kuopos Herkaus būrio partizanas.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 272"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

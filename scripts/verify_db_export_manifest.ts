@@ -1,6 +1,7 @@
 import crypto from "node:crypto"
 import fs from "node:fs"
 import path from "node:path"
+import { indexNormalizedPaths } from "./site/manifestPaths"
 
 type ManifestEntry = {
   content_hash: string
@@ -16,7 +17,14 @@ type ProjectionManifest = {
 
 const root = path.resolve(process.cwd())
 const manifestPath = path.join(root, "public-projection-manifest.json")
-const canonicalRoots = ["objektai", "tyrimai", "paveikslėliai", "paveiksleliai", "temos", "laikotarpiai"]
+const canonicalRoots = [
+  "objektai",
+  "tyrimai",
+  "paveikslėliai",
+  "paveiksleliai",
+  "temos",
+  "laikotarpiai",
+]
 const canonicalSingleFiles = ["index.md"]
 
 function sha256(value: Buffer): string {
@@ -46,7 +54,12 @@ function readManifest(): ProjectionManifest {
     throw new Error("Missing public-projection-manifest.json. Run the DB projection export first.")
   }
   const parsed = JSON.parse(fs.readFileSync(manifestPath, "utf8")) as Partial<ProjectionManifest>
-  if (parsed.version !== 1 || parsed.source !== "workflow.sqlite3" || !parsed.files || !parsed.contract) {
+  if (
+    parsed.version !== 1 ||
+    parsed.source !== "workflow.sqlite3" ||
+    !parsed.files ||
+    !parsed.contract
+  ) {
     throw new Error("Invalid DB projection manifest schema")
   }
   return parsed as ProjectionManifest
@@ -61,30 +74,45 @@ try {
   manifest = { version: 0, source: "", contract: {}, files: {} }
 }
 
-const expectedPaths = new Set(Object.keys(manifest.files))
-const actualPaths = new Set([
+const expectedPaths = Object.keys(manifest.files)
+const actualPaths = [
   ...canonicalRoots.flatMap(listMarkdownFiles),
   ...canonicalSingleFiles.filter((file) => fs.existsSync(path.join(root, file))),
-])
+]
+const expectedIndex = indexNormalizedPaths(expectedPaths)
+const actualIndex = indexNormalizedPaths(actualPaths)
+for (const collision of expectedIndex.collisions) {
+  failures.push(`Unicode-normalized manifest path collision: ${collision.paths.join(" <> ")}`)
+}
+for (const collision of actualIndex.collisions) {
+  failures.push(`Unicode-normalized public path collision: ${collision.paths.join(" <> ")}`)
+}
 
-for (const relativePath of [...actualPaths].sort()) {
-  const entry = manifest.files[relativePath]
+for (const [normalizedPath, actualRelativePath] of [...actualIndex.paths].sort(([left], [right]) =>
+  left.localeCompare(right),
+)) {
+  const manifestRelativePath = expectedIndex.paths.get(normalizedPath)
+  const entry = manifestRelativePath ? manifest.files[manifestRelativePath] : undefined
   if (!entry) {
-    failures.push(`unmanifested DB export file: ${relativePath}`)
+    failures.push(`unmanifested DB export file: ${actualRelativePath}`)
     continue
   }
   if (!/^[a-f0-9]{64}$/i.test(entry.rendered_hash)) {
-    failures.push(`invalid rendered hash: ${relativePath}`)
+    failures.push(`invalid rendered hash: ${manifestRelativePath}`)
     continue
   }
-  const actualHash = sha256(fs.readFileSync(path.join(root, relativePath)))
+  const actualHash = sha256(fs.readFileSync(path.join(root, actualRelativePath)))
   if (actualHash !== entry.rendered_hash) {
-    failures.push(`DB export drift: ${relativePath}`)
+    failures.push(`DB export drift: ${manifestRelativePath}`)
   }
 }
 
-for (const relativePath of [...expectedPaths].sort()) {
-  if (!actualPaths.has(relativePath)) failures.push(`missing DB export file: ${relativePath}`)
+for (const [normalizedPath, manifestRelativePath] of [...expectedIndex.paths].sort(
+  ([left], [right]) => left.localeCompare(right),
+)) {
+  if (!actualIndex.paths.has(normalizedPath)) {
+    failures.push(`missing DB export file: ${manifestRelativePath}`)
+  }
 }
 
 for (const [key, value] of Object.entries(manifest.contract)) {
@@ -97,8 +125,8 @@ console.log(
   JSON.stringify(
     {
       manifest: path.relative(root, manifestPath),
-      exportedFiles: expectedPaths.size,
-      actualFiles: actualPaths.size,
+      exportedFiles: expectedPaths.length,
+      actualFiles: actualPaths.length,
       failures,
     },
     null,

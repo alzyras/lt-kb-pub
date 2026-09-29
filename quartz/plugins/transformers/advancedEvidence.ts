@@ -299,6 +299,7 @@ type CachedSlugResolveIndex = {
 }
 
 const slugResolveIndexCache = new WeakMap<BuildCtx, CachedSlugResolveIndex>()
+const slugResolveIndexOwners = new WeakMap<SlugResolveIndex, BuildCtx>()
 
 function addSlugToResolveIndex(index: SlugResolveIndex, rawSlug: FullSlug) {
   const add = (key: string, slug: FullSlug | null) => {
@@ -319,7 +320,7 @@ function addSlugToResolveIndex(index: SlugResolveIndex, rawSlug: FullSlug) {
   add(normalizeLabelKey(simplifySlug(rawSlug)), rawSlug)
 }
 
-function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
+export function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
   const allSlugs = (ctx.allSlugs ?? []) as FullSlug[]
   const cached = slugResolveIndexCache.get(ctx)
   if (cached && cached.buildId === ctx.buildId && cached.indexedSlugCount <= allSlugs.length) {
@@ -327,6 +328,7 @@ function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
       addSlugToResolveIndex(cached.index, rawSlug)
     }
     cached.indexedSlugCount = allSlugs.length
+    slugResolveIndexOwners.set(cached.index, ctx)
     return cached.index
   }
 
@@ -348,16 +350,31 @@ function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
     index,
     indexedSlugCount: allSlugs.length,
   })
+  slugResolveIndexOwners.set(index, ctx)
   return index
 }
 
 function resolveCanonicalSlug(label: string, resolveIndex: SlugResolveIndex): FullSlug | null {
   const keys = [...relationTargetLookupKeys(label), normalizeLabelKey(label)]
+  const ctx = slugResolveIndexOwners.get(resolveIndex)
   for (const key of [...new Set(keys)]) {
     if (!key || ADVANCED_RESOLVE_STOPWORDS.has(key)) continue
+    const value = resolveIndex.has(key) ? (resolveIndex.get(key) ?? "@ambiguous") : "@missing"
+    ctx?.parseCacheDependencies?.set(key, value)
     if (resolveIndex.has(key)) return resolveIndex.get(key) ?? null
   }
   return null
+}
+
+/** Return the resolver values relevant to a cached file under the current build context. */
+export function currentRelationResolutionDependencies(
+  ctx: BuildCtx,
+  keys: Iterable<string>,
+): Record<string, string> {
+  const index = buildSlugResolveIndex(ctx)
+  return Object.fromEntries(
+    [...keys].map((key) => [key, index.has(key) ? (index.get(key) ?? "@ambiguous") : "@missing"]),
+  )
 }
 
 function internalLinkHtml(href: string, label: string): string {

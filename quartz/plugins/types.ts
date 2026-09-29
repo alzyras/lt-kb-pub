@@ -55,6 +55,15 @@ export type QuartzEmitterPluginInstance = {
     resources: StaticResources,
     changeEvents: ChangeEvent[],
   ) => Promise<FilePath[]> | AsyncGenerator<FilePath> | null
+  /** Content-aware one-shot emission. Watcher partialEmit semantics are separate. */
+  incrementalEmit?: (
+    ctx: BuildCtx,
+    content: ProcessedContent[],
+    resources: StaticResources,
+    changeEvents: ChangeEvent[],
+  ) => Promise<FilePath[]> | AsyncGenerator<FilePath> | null
+  /** Whether an emitter can be omitted for Markdown-only incremental builds. */
+  incrementalPolicy?: "full" | "static"
   /**
    * Returns the components (if any) that are used in rendering the page.
    * This helps Quartz optimize the page by only including necessary resources

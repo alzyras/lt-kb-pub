@@ -35,7 +35,7 @@ export function pageResources(
 ): StaticResources {
   const assetVersion = buildAssetVersion
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
-  const staticJsonPath = (path: string) => versionedAsset(joinSegments("/", "static", path))
+  const staticJsonPath = (path: string) => joinSegments("/", "static", path)
   const contentMetaPath = staticJsonPath("contentMeta.json")
   const searchIndexPath = staticJsonPath("searchIndex.json")
   const graphIndexPath = staticJsonPath("graphIndex.json")
@@ -51,7 +51,10 @@ globalThis.__ltkbGraphVisualRegistry = ${JSON.stringify(graphVisualRegistry)}
 globalThis.loadStaticJson ??= (path) => {
   const cache = globalThis.__ltkbStaticJsonCache
   if (!cache.has(path)) {
-    const request = fetch(path, { cache: "force-cache" })
+    // These JSON files change with the corpus while their paths stay stable.
+    // Revalidate them with the host so reused HTML never needs a mass rewrite
+    // just to bump a query string after an incremental content update.
+    const request = fetch(path, { cache: "no-cache" })
       .then((data) => {
         if (!data.ok) throw new Error("Failed to fetch " + path + ": " + data.status)
         return data.json()

@@ -1,13 +1,16 @@
 import { readFileSync, statSync, readdirSync, existsSync } from "node:fs"
 import { resolve } from "node:path"
+import matter from "gray-matter"
 import { relationsFromMarkdown } from "./objectDetail"
 import { collectClaimCount } from "./citationFilter"
 
-let completeTopology: any
+const completeTopologies = new Map<string, any>()
 
 /** Shared build input for the explorer, cards and full relationship lists. */
-export function loadObjectTopology(): any {
-  if (completeTopology) return completeTopology
+export function loadObjectTopology(objectRoot = resolve("objektai")): any {
+  const root = resolve(objectRoot)
+  const cached = completeTopologies.get(root)
+  if (cached) return cached
   const topology = JSON.parse(
     readFileSync(resolve("quartz/static/graph-data/topology.json"), "utf8"),
   )
@@ -24,7 +27,6 @@ export function loadObjectTopology(): any {
     seen.add(key(edge.from, edge.to, kind?.label || edge.kind))
     seen.add(key(edge.to, edge.from, kind?.inverseLabel || edge.kind))
   }
-  const root = resolve("objektai")
   if (existsSync(root))
     for (const folder of readdirSync(root, { withFileTypes: true })) {
       if (!folder.isDirectory()) continue
@@ -32,13 +34,32 @@ export function loadObjectTopology(): any {
         if (!name.endsWith(".md")) continue
         const source = `objektai/${folder.name}/${name.slice(0, -3)}`
         const markdown = readFileSync(resolve(root, folder.name, name), "utf8")
-        const node = nodes.get(source)
-        if (node) {
-          node.claimCount = collectClaimCount(markdown)
-          node.quoteCount = new Set(
-            [...markdown.matchAll(/^\s*-\s+(c-\d+)\s*$/gmu)].map((match) => match[1]),
-          ).size
+        const frontmatter = matter(markdown).data as Record<string, unknown>
+        let node = nodes.get(source)
+        if (!node) {
+          node = {
+            slug: source,
+            title: String(
+              frontmatter.canonical_name ||
+                frontmatter.pavadinimas ||
+                frontmatter.title ||
+                name.slice(0, -3),
+            ),
+            type: String(frontmatter.tipas || ""),
+            claimCount: 0,
+            quoteCount: 0,
+            sourceIds: [],
+            sourceTitles: [],
+            relationCounts: {},
+            degree: 0,
+          }
+          nodes.set(source, node)
+          topology.nodes.push(node)
         }
+        node.claimCount = collectClaimCount(markdown)
+        node.quoteCount = new Set(
+          [...markdown.matchAll(/^\s*-\s+(c-\d+)\s*$/gmu)].map((match) => match[1]),
+        ).size
         for (const row of relationsFromMarkdown(markdown)) {
           const target = row.target.replace(/\.md$/u, "")
           if (source === target || !target.startsWith("objektai/")) continue
@@ -124,7 +145,7 @@ export function loadObjectTopology(): any {
       node.relationCounts[edge.kind][direction]++
     }
   }
-  completeTopology = topology
+  completeTopologies.set(root, topology)
   return topology
 }
 
@@ -137,16 +158,24 @@ export type ObjectGraphRelation = {
   direction: "inbound" | "outbound"
 }
 
-let cache: { stamp: string; rows: Map<string, ObjectGraphRelation[]> } | undefined
+const relationCaches = new Map<
+  string,
+  { stamp: string; rows: Map<string, ObjectGraphRelation[]> }
+>()
 
 /** One uncapped public neighbourhood, shared by object tabs and their canvas. */
-export function objectGraphRelations(slug = ""): ObjectGraphRelation[] {
+export function objectGraphRelations(
+  slug = "",
+  objectRoot = resolve("objektai"),
+): ObjectGraphRelation[] {
   const path = resolve("quartz/static/graph-data/topology.json")
   try {
     const stat = statSync(path)
-    const stamp = `${stat.mtimeMs}:${stat.size}`
+    const root = resolve(objectRoot)
+    const stamp = `${root}:${stat.mtimeMs}:${stat.size}`
+    let cache = relationCaches.get(root)
     if (cache?.stamp !== stamp) {
-      const topology = loadObjectTopology()
+      const topology = loadObjectTopology(root)
       const rows = new Map<string, ObjectGraphRelation[]>()
       const titles = new Map<string, string>(
         (topology.nodes ?? []).map((node: any) => [node.slug, node.title]),
@@ -183,6 +212,7 @@ export function objectGraphRelations(slug = ""): ObjectGraphRelation[] {
         }
       }
       cache = { stamp, rows }
+      relationCaches.set(root, cache)
     }
     return cache.rows.get(slug.replace(/\.md$|\/index$/u, "")) ?? []
   } catch {

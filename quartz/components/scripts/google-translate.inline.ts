@@ -12,7 +12,7 @@ const LANGUAGE_NAMES: Record<SiteLanguage, string> = {
   pl: "lenkų",
   lv: "latvių",
   et: "estų",
-  be: "baltarusių",
+  by: "baltarusių",
   ru: "rusų",
   uk: "ukrainiečių",
   de: "vokiečių",
@@ -33,6 +33,7 @@ function translateRoot() {
 }
 
 function widgetLanguage(language: SiteLanguage): string {
+  if (language === "by") return "be"
   return language === "he" ? "iw" : language
 }
 
@@ -111,7 +112,7 @@ function applyLanguage(language: SiteLanguage, attempt = 0, request = activeAppl
   if (request !== activeApplyRequest) return
 
   updateControls(language)
-  document.documentElement.lang = language
+  document.documentElement.lang = language === "by" ? "be" : language
   setTranslationCookie(language)
   syncLanguageUrl(language)
 
@@ -239,6 +240,7 @@ function setupGoogleTranslate() {
   const control = root.querySelector<HTMLSelectElement>("[data-translate-language]")
   control?.addEventListener("focus", activate, { once: true })
   control?.addEventListener("pointerdown", activate, { once: true })
+  if (preferredLanguage().fromUrl) activate()
 }
 
 export function initClient() {

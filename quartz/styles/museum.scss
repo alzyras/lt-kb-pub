@@ -43,9 +43,9 @@
   .collection-home .collection-image-grid { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 1rem; }
   .collection-home .collection-image-link { overflow: hidden; min-height: 190px; aspect-ratio: 1 / 1; }
   .collection-home .collection-image-link-title strong { font-size: 1.35rem; }
-  .collection-home .collection-image-link-media img { object-position: 50% 25%; }
+  .collection-home .collection-image-link-media img { object-position: center top; }
   .collection-home .collection-image-link { overflow: hidden; }
-  .collection-home .collection-image-link img { transition: transform 240ms ease; }
+  .collection-home .collection-image-link img { transform-origin: center top; transition: transform 240ms ease; }
   .collection-home .collection-image-link:hover img { transform: scale(1.025); }
   .object-detail-page { max-width: var(--museum-max); padding-inline: clamp(1.25rem, 4vw, 3rem); }
   .object-detail-page .object-detail-intro { display: block; min-height: 0; padding-block: 2rem 2.5rem; }
@@ -103,21 +103,21 @@
   .ruler-track { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(172px, 20%); gap: 1.5rem; overflow-x: auto; scroll-snap-type: x proximity; padding-bottom: 1.5rem; scrollbar-width: thin; scrollbar-color: var(--museum-rule) transparent; }
   .ruler-card { color: var(--ui-text); text-decoration: none; scroll-snap-align: start; }
   .ruler-image { aspect-ratio: 3 / 4; overflow: hidden; background: var(--ui-page); margin-bottom: 1.1rem; }
-  .ruler-image img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: var(--portrait-position, 50% 25%); transition: transform 240ms ease; }
+  .ruler-image img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: var(--portrait-position, center top); transform-origin: center top; transition: transform 240ms ease; }
   .ruler-card:hover img { transform: scale(1.025); }
   .ruler-card strong { display: block; font: 400 1.3rem/1.2 var(--museum-serif); margin: .5rem 0; }
   .ruler-card small { display: block; font-size: .7rem; color: var(--museum-muted); line-height: 1.5; }
   .ruler-card .ruler-years { font-size: .78rem; letter-spacing: .04em; color: var(--museum-accent); padding-top: .9rem; border-top: 1px solid var(--museum-rule); }
   .museum-places { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 2.5rem 1.5rem; }
   .museum-place { color: inherit; text-decoration: none; }
-  .museum-place img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; margin-bottom: 1rem; }
+  .museum-place img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; object-position: center top; display: block; margin-bottom: 1rem; }
   .museum-place h3 { font: 400 1.5rem var(--museum-serif); margin: 0 0 .5rem; }
   .museum-place p { font-size: .85rem; color: var(--museum-muted); line-height: 1.65; }
   .museum-reading-grid { display: grid; grid-template-columns: 1.35fr 1fr 1fr; gap: 2rem; }
   .museum-reading-grid a { color: inherit; text-decoration: none; padding: 1.5rem 0; border-top: 1px solid var(--museum-rule); }
   .museum-reading-grid h3 { font: 400 1.7rem/1.2 var(--museum-serif); }
   .museum-reading-grid p { color: var(--museum-muted); font-size: .9rem; line-height: 1.7; }
-  .museum-reading-grid img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+  .museum-reading-grid img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; object-position: center top; }
   body:has(.rulers-exhibition) .page-header { padding-bottom: 0; }
   body:has(.rulers-exhibition) .page-header > .popover-hint { display: none; }
   .rulers-exhibition { color: var(--ui-text); width: 100%; }
