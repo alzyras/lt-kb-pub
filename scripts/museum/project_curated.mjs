@@ -17,7 +17,7 @@ for (const obj of report.objects) {
   const current = matter(exists ? fs.readFileSync(obj.notePath,'utf8') : obj.canonical_text)
   const view = parse(current.data.object_page_view_json)
   const media = {...obj.media, ...canonicalMedia.get(obj.media.mediaId), displayUrl: obj.media.displayUrl, focalPoint: obj.media.focalPoint, width: obj.media.width, height: obj.media.height}
-  if (obj.wiki.extraction_version !== "wikipedia-rendered-v2") throw new Error(`Complete Wikipedia snapshot required: ${obj.notePath}`)
+  if (!["wikipedia-rendered-v2", "wikipedia-rendered-v3"].includes(obj.wiki.extraction_version)) throw new Error(`Complete Wikipedia snapshot required: ${obj.notePath}`)
   view.wiki = obj.wiki
   view.portrait = {media_id:media.mediaId}
   view.version = 3
