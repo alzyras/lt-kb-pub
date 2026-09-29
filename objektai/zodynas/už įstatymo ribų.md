@@ -79,5 +79,6 @@ Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

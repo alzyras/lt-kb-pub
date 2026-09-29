@@ -43,41 +43,103 @@ Vytautas Kujelavičius gimė Padrujų kaime, Troškūnų valsčiuje. 1946 m. bir
 
 Vytautas Kujelavičius gimė Padrujų kaime, Troškūnų valsčiuje. 1946 m. birželio 7 d. MVD kareiviai partizanus pastebėjo Troškūnų ir Raguvos valsčių sandūroje. Parabelio partizanų būrys veikė Troškūnų valsčiuje.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Vytautas Kujelavičius gimė Padrujų kaime, Troškūnų valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-230725"></a>
+- t-001
+  teiginys: "Vytautas Kujelavičius gimė Padrujų kaime, Troškūnų valsčiuje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211363
+
+<a id="claim-t-230726"></a>
+- t-002
+  teiginys: "1946 m. birželio 7 d. MVD kareiviai partizanus pastebėjo Troškūnų ir Raguvos valsčių sandūroje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211364
+
+<a id="claim-t-230727"></a>
+- t-003
+  teiginys: "Parabelio partizanų būrys veikė Troškūnų valsčiuje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211365
+
+<a id="claim-t-230728"></a>
+- t-004
+  teiginys: "Gražinos kuopa veikė Troškūnų valsčiuje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211366
+
+## Citatos
+
+- id: c-211363
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 168"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 168."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: '1946 m. birželio 7 d. MVD kareiviai partizanus pastebėjo Troškūnų ir Raguvos valsčių sandūroje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211364
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 205"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 205."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Parabelio partizanų būrys veikė Troškūnų valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+
+- id: c-211365
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 289"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 289."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-004
-  santrauka: 'Gražinos kuopa veikė Troškūnų valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-003
+
+- id: c-211366
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 325"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 325."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-004
+

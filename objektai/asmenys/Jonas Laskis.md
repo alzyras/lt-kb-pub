@@ -77,7 +77,7 @@ Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą palieg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

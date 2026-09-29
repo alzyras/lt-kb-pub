@@ -36,21 +36,6 @@ historical_names: []
 
 Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku rias dėdavo sudegintų žmonių pelenus.
 
-## Teiginiai
-
-<a id="claim-t-194774"></a>
-- t-001
-  teiginys: "Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku rias dėdavo sudegintų žmonių pelenus."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177170
-
 ## Citatos
 
 - id: c-177170
@@ -72,5 +57,4 @@ Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

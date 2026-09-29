@@ -79,5 +79,6 @@ Padavimas skelbia, jog kažkada čia gyve no Nadruvą valdęs kunigaikštis Kami
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

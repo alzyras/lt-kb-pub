@@ -48,16 +48,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 
 ## Teiginiai
 
-<a id="claim-t-68384"></a>
-- t-001
-  teiginys: "Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-67974
-
 <a id="claim-t-201078"></a>
 - t-002
   teiginys: "Įbimgę tėvūnai šalaujų susirinko į sueimą tei rautis, kaip apmaudą nugiežti ant kryžėjų už tiek 1276 nelaimų, sau pridarytų; sutarė valodoj genaus ka riauti nekaip vergauti; to dėjęsi, tuojau išsiuntė keletą šimtų rinktinės joties pilį kryžėjų Labguvą užimti."
@@ -99,8 +89,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-184428
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -125,7 +113,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

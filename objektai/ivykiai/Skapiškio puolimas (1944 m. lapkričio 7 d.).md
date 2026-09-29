@@ -41,13 +41,15 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: '1944 m. lapkričio 7 d. kronika V. Kiaulėno partizanų būriui priskiria apie dvi valandas trukusį MVD pastatų ir stribų bendrabučio apšaudymą Skapiškyje, vykdomojo komiteto pastatų suniokojimą ir visų dokumentų bei rašomųjų mašinėlių išnešimą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-214415
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 108"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 108."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:43"

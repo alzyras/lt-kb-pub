@@ -88,11 +88,12 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     tenę, ir Saremos (Eželio) vyskupystę.
   citata_rodoma: "Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

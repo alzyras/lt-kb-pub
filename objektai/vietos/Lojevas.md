@@ -126,7 +126,7 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-43599
@@ -148,7 +148,7 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-45192
@@ -171,7 +171,7 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167179
@@ -194,7 +194,7 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai

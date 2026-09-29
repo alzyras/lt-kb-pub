@@ -41,13 +41,15 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: '1953 m. liepos 12 d. partizanai S. Giedrikas ir B. Meškinis, nesulaukę Piršlio, paliko raštelį su nauja susitikimo vieta ir išėjo.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-214326
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 437"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 437."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:42"

@@ -85,7 +85,7 @@ canonical_biography: "1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

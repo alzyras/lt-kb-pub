@@ -2,7 +2,6 @@
 tipas: ivykis
 pavadinimas: 'Povilo Laužiko-Liudo žūtis Varaniškių kaime'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1951 m.'
@@ -29,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1951 m. vasario 24 d. Varaniškių k. Povilo Stuko sodyboje įrengtame bunkeryje žuvo Povilas Laužikas-Liudas. 1951 m. vasario 24 d. Varaniškiuose žuvo Povilas Laužikas-Liudas; „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ autorė Ona Dapšytė-Kriukelienė jo žūtį sieja su karine čekistų operacija pagal pranešėjos „Onos“ agentūrinius duomenis.
+1951 m. vasario 24 d. Varaniškių k. Povilo Stuko sodyboje įrengtame bunkeryje žuvo Povilas Laužikas-Liudas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -56,12 +55,18 @@ Nenurodyta
   statusas: verified
 - t-002
 
-- c-002
-  santrauka: '1951 m. vasario 24 d. Varaniškiuose žuvo Povilas Laužikas-Liudas; „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ autorė Ona Dapšytė-Kriukelienė jo žūtį sieja su karine čekistų operacija pagal pranešėjos „Onos“ agentūrinius duomenis.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Santrauka
+
+1951 m. vasario 24 d. Varaniškių k. Povilo Stuko sodyboje įrengtame bunkeryje žuvo Povilas Laužikas-Liudas.
+
+## Citatos
+
+- id: c-214386
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 289"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 289."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 18:24"
+

@@ -29,14 +29,13 @@ media_all_json: |-
 
 Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikia sovietų pareigūnų teiginį, kad Vytautas Aukštikalnis platino spausdintus „Įpareigojimus“ rinkti ir siųsti tremtiniams siuntinius.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikia sovietų pareigūnų teiginį, kad Vytautas Aukštikalnis platino spausdintus „Įpareigojimus“ rinkti ir siųsti tremtiniams siuntinius.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214546
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 353"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 353."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

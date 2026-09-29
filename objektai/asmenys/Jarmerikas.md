@@ -78,6 +78,30 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   pagrindžia:
     - c-174067
 
+<a id="claim-t-213334"></a>
+- t-213334
+  teiginys: "Tačiau Jarmeriko įniršiui to nepakako."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196920
+
+<a id="claim-t-215614"></a>
+- t-215614
+  teiginys: "Jarmerikas nugalėjo švedų karalių Otarą arba Gotarą ir paėmė jo sostą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194669
+
 ## Citatos
 
 - id: c-174066
@@ -98,7 +122,7 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174067
@@ -120,8 +144,72 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194669
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244-245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244-245."
+  citata_originali: |
+    Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
+    Olandijos karaliaus Jarmeriko žygius. Jis jau seniau, dar
+    jo tėvui karaliui Sivarui gyvenant, kai kariavo Pamaryje
+    1 Wizin, Vizinas lietuvių kalba, Lydos apskrityje vartojamu dia­
+    lektu, reiškia šliužą, bjaurų, šliaužiojantį padarą.
+    2 Tadas
+    Cackis
+    (Martyno Galo ir Vincento
+    Kadlubeko
+    lenkų
+    istorijos nagrinėjimuose. Prierašas Nr. 21); Lindė (Historisch-kritisch.
+    Beitrag zur Slaw. Literat. S. 359) daro pastabą, kad lietuviai irgi
+    turėjo padavimų apie tą patį riterio nugalėtą slibiną. Sis autorius
+    turėjo dvi paprastų gyventojų dainas, vieną lietuvių, kitą žemaičių
+    dialektu, atrastas Neliubovičiaus; iš jų jis įsitikino, jog lietuvių pa­
+    davimai
+    susiję
+    su
+    skandinaviškais.
+    3 Sax. Gramm, I. s. c. Man pačiam pasisekė aptikti lietuvių pa­
+    sakojimą apie vieną žmogžudį ir burtininką Antavilio vardu; jį nu­
+    kovė kažkoks didvyris įvyniota į burę ietimi.
+    4 Ibidem.
+    234
+
+    su slavais, buvo paimtas nelaisvėn, iš kur pabėgęs užpuo­
+    lė švedų karalių Otarą ar Gotarą, kurį nugalėjo ir paėmė
+    jo sostą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215614
+
+- id: c-196920
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  citata_originali: |
+    Jis įsiveržė
+    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
+    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
+    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
+    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
+    ką baisiai mirčiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213334
 
 ## Ryšiai
 - Jarmerikas puolė [[objektai/vietos/Semba]], [[objektai/grupes/Slavai]]

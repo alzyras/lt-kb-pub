@@ -91,5 +91,6 @@ Kryžiuočiai teigė, kad Jogaila ir Skirgaila sužlugdė anksčiau sutartą suv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

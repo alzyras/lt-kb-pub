@@ -1,9 +1,10 @@
 # Svetainės build runneris
 
-`npm run build` yra patikrintas pilnas build iš jau eksportuotų public failų.
-`npm run regenerate -- --output PATH` naudoja auto režimą ir tą patį runnerį,
-bet neprijungia privačios SQLite duomenų bazės. End-to-end projekciją iš DB
-pradėkite komanda iš `lt-kb` repo:
+`npm run build` yra standartinis public build kelias: pagal nutylėjimą jis
+naudoja `auto`, o priverstinį pilną build atlieka `npm run build -- --full`.
+Šis public repo runneris naudoja jau eksportuotus failus ir neprijungia
+privačios SQLite duomenų bazės. End-to-end projekciją iš DB pradėkite viena
+komanda iš `lt-kb` repo:
 
 ```sh
 uv run lt-kb site regenerate
@@ -50,7 +51,7 @@ typed reikšmės, datos ir sugadintų įrašų miss kelias tikrinami testais; ca
 talpa pagal nutylėjimą ribojama iki 768 MiB. `SITE_PARSE_CACHE_MAX_BYTES` gali
 ją pakeisti. Nepalaikomas VFile duomuo priverčia tą puslapį išparsinti.
 
-Pilnas `npm run build` / `uv run lt-kb site regenerate --full` visada
+`npm run build -- --full` / `uv run lt-kb site regenerate --full` visada
 pergeneruoja svetainę ir patikras be ankstesnės Quartz output išvesties
 naudojimo. `auto` dalinio build'o metu staging užpildomas ankstesnio patikrinto
 output kietosiomis nuorodomis, o pakeisti failai įrašomi atominiu pervadinimu;

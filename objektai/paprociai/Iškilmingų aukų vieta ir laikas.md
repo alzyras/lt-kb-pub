@@ -42,21 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194817"></a>
-- t-001
-  teiginys: "Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro nikininkai specialistai to neaprašo, tik priduria, kad senais lai kais, kai svarbiausioji šventykla - prūsų Romovė - dar nebuvo galutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177213
-
 ## Citatos
 
 - id: c-177213
@@ -79,5 +64,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

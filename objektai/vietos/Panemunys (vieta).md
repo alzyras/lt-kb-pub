@@ -42,23 +42,57 @@ canonical_biography: "1944 m. gruodžio 12 d. partizanai užpuolė Panemunio mie
 
 Pasak Onos Dapšytės-Kriukelienės kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“, 1944 m. gruodžio 12 d. Kazys Kalpokas su partizanais užpuolė Panemunį ir užėmė sovietines įstaigas, sužinojęs apie rengiamą lietuvių tremtį į Sibirą. Prie Panemunio geležinkelio stoties sudeginta daržinė, skirta šieno prievolei sudėti.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Pasak Onos Dapšytės-Kriukelienės kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“, 1944 m. gruodžio 12 d. Kazys Kalpokas su partizanais užpuolė Panemunį ir užėmė sovietines įstaigas, sužinojęs apie rengiamą lietuvių tremtį į Sibirą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-230837"></a>
+- t-001
+  teiginys: "Pasak Onos Dapšytės-Kriukelienės kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“, 1944 m. gruodžio 12 d. Kazys Kalpokas su partizanais užpuolė Panemunį ir užėmė sovietines įstaigas, sužinojęs apie rengiamą lietuvių tremtį į Sibirą."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:18Z"
+  pagrindžia:
+    - c-211475
+
+<a id="claim-t-230838"></a>
+- t-002
+  teiginys: "Prie Panemunio geležinkelio stoties sudeginta daržinė, skirta šieno prievolei sudėti."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:18Z"
+  pagrindžia:
+    - c-211476
+
+## Citatos
+
+- id: c-211475
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 148"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 148."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Prie Panemunio geležinkelio stoties sudeginta daržinė, skirta šieno prievolei sudėti.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211476
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 149"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 149."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

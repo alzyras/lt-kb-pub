@@ -65,6 +65,19 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
   pagrindžia:
     - c-166458
 
+<a id="claim-t-229978"></a>
+- t-229978
+  teiginys: "Kupiškio sionistinės organizacijos tikėjosi, kad jų ugdomi dori ir išsilavinę piliečiai emigruos į Palestiną ir ten kurs žydų valstybę."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  vertinimo_atnaujinta: "2026-09-24T13:47:31Z"
+  pagrindžia:
+    - c-210561
+
 ## Citatos
 
 - id: c-166458
@@ -87,8 +100,20 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-210561
+  autorius: "Simonas Jurkštaitis"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio žydų bendruomenės istorija iki Antrojo pasaulinio karo"
+  puslapiai: "p. 566 (PDF 567)"
+  indeksas: "Simonas Jurkštaitis, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio žydų bendruomenės istorija iki Antrojo pasaulinio karo, p. 566 (PDF 567)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-229978
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/grupes/Totoriai]]

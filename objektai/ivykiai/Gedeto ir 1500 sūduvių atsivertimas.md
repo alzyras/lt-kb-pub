@@ -75,5 +75,6 @@ Gedetas, Kimenavos sūduvių vadas, su šeima ir 1500 vyrų bei moterų pasitrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

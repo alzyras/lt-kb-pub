@@ -31,14 +31,13 @@ canonical_biography: "Atpažintas Kazys Katelė, Igno, gyvenęs Suvaidiškių ka
 
 Kazys Katelė, Igno sūnus, buvo atpažintas ir gyveno Suvaidiškių kaime, Pandėlio valsčiuje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Kazys Katelė, Igno sūnus, buvo atpažintas ir gyveno Suvaidiškių kaime, Pandėlio valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213196
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 307"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 307."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

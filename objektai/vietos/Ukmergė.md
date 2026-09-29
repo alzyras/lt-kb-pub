@@ -524,6 +524,55 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - c-188441
 
+<a id="claim-t-208247"></a>
+- t-208247
+  teiginys: "P. K. Bohušas klebonavo Ukmergės parapijoje."
+  atnaujinta: "2026-09-19 04:21"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190916
+
+<a id="claim-t-208607"></a>
+- t-208607
+  teiginys: "Iš Ukmergės dekanato knygas užsisakė 17 kunigų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191227
+
+<a id="claim-t-209353"></a>
+- t-209353
+  teiginys: "J. Simkevičius paskutinius gyvenimo mėnesius praleido savo dvare netoli Ukmergės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191901
+
+<a id="claim-t-217760"></a>
+- t-217760
+  teiginys: "Viena Obelija buvo šeši varstai nuo Ukmergės ir septyni varstai nuo Deltuvos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200219
+
 ## Reikšmingi paminėjimai
 - c-018
   santrauka: 'Narbutas Ukmergės apskritį priskyrė „Tikrajai Lietuvai“, kurioje nuo seniausių laikų buvusios vietos sudegintų žmonių pelenams laikyti.'
@@ -568,7 +617,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-43935
@@ -594,7 +643,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-164295
@@ -618,7 +667,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-164296
@@ -646,7 +695,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-009
 
@@ -670,7 +719,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-164298
@@ -690,7 +739,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-018
 
@@ -742,7 +791,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-164301
@@ -765,7 +814,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-022
 
@@ -787,7 +836,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-164305
@@ -813,7 +862,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-164307
@@ -834,7 +883,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-017
 
@@ -863,7 +912,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-015
 
@@ -887,7 +936,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
     - t-023
 
@@ -911,7 +960,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
     - t-020
 
@@ -936,7 +985,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-164314
@@ -958,7 +1007,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-164316
@@ -982,7 +1031,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171733
@@ -1004,7 +1053,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-185013
@@ -1025,7 +1074,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-185014
@@ -1041,7 +1090,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-188441
@@ -1064,8 +1113,90 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
+
+- id: c-190916
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 128"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 128."
+  citata_originali: |
+    Eksjėzuitu tapęs P. K . Bohušas
+    pedagoginį darbų dirbo fragmentiškai (istoriografijoje funkcionuoja teiginys jį
+    buvus Pranciškaus Sapiegos vaikų auklėtoju).
+    P. K. Bohušo, kaip diecezinio kunigo, tarnystė reiškėsi klebonavimu Jiezno
+    ir Ukmergės parapijose.
+  citata_rodoma: "P. K. Bohušo, kaip diecezinio kunigo, tarnystė reiškėsi klebonavimu Jiezno \nir Ukmergės parapijose."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208247
+
+- id: c-191227
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 71"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 71."
+  citata_originali: |
+    Dauguma
+    kunigų pakluso jo raginimui. Pavyzdžiui, Krasinskio „Pra-
+    wo kanoniczne" kurijoje užsisakė 17 kunigų iš Ukmergės
+    dekanato, 10 — iš Telšių, 33 — iš Joniškio, 19 — iš Ve­
+    liuonos, 12 — iš Krakių ir t. t .3 Knygų platinimas tarp
+    kunigų suaktyvėjo.
+  citata_rodoma: "Pavyzdžiui, Krasinskio „Pra- \nwo kanoniczne\" kurijoje užsisakė 17 kunigų iš Ukmergės \ndekanato, 10 — iš Telšių, 33 — iš Joniškio, 19 — iš Ve­\nliuonos, 12 — iš Krakių ir t. t .3"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208607
+
+- id: c-191901
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 18"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 18."
+  citata_originali: |
+    girtavimą" autoriaus gimtinė buvusi kažkur Raseinių paviete2. Tačiau,
+    antra vertus, paskutinius gyvenimo mėnesius, jau sunkiai sirgdamas, J.
+    Simkevičius praleido savo dvare netoli Ukmergės. Tai, žinoma, ne
+    įrodymas jo kilmės vietai išaiškinti, tačiau vertas dėmesio faktas.
+  citata_rodoma: "Tačiau, \nantra vertus, paskutinius gyvenimo mėnesius, jau sunkiai sirgdamas, J. \nSimkevičius praleido savo dvare netoli Ukmergės."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209353
+
+- id: c-200219
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 375-376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375-376."
+  citata_originali: |
+    Dvi tokios vietos man yra žinomos:
+    viena prie Kabelio ežero Gardino apskrityje, kita - šeši varstai
+    nuo Ukmergės ir 7 varstai nuo Deltuvos, kur taip pat yra Obelių,
+    376
+
+    tai yra Obelijos, ežeras
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217760
 
 ## Ryšiai
 - Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

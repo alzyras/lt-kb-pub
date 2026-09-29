@@ -24,21 +24,26 @@ media_all_json: |-
 
 1945 m. Kazio Morkūno vadovaujamą partizanų būrį sudarė trys dalyvių grupės. Kazio Morkūno partizanų būriui priklausė daugiau kaip 80 partizanų, gimusių ar gyvenusių Vabalninko rajone. Ona Dapšytė-Kriukelienė savo kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Kazio Morkūno būrį 1945–1950 m. apibūdina kaip visiškai sunaikintą: 39 partizanai buvo nušauti, 41 suimti gyvi, o kiti legalizavosi.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-231033"></a>
+- t-001
+  teiginys: "Kazio Morkūno partizanų būriui priklausė daugiau kaip 80 partizanų, gimusių ar gyvenusių Vabalninko rajone."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:08Z"
+  pagrindžia:
+    - c-211671
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1945 m. Kazio Morkūno vadovaujamą partizanų būrį sudarė trys dalyvių grupės.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 130"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Kazio Morkūno partizanų būriui priklausė daugiau kaip 80 partizanų, gimusių ar gyvenusių Vabalninko rajone.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 383"
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -53,3 +58,17 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-211671
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 383"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 383."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

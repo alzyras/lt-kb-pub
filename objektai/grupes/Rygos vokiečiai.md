@@ -67,7 +67,7 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

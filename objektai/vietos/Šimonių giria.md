@@ -108,6 +108,45 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   pagrindžia:
     - c-167204
 
+<a id="claim-t-230681"></a>
+- t-230681
+  teiginys: "1948 m. rugpjūčio 4 d. Šimonių girioje per operaciją buvo nušauta nuo 1947 m. partizanavusi Danutė (Danė) Dovydėnaitė-Vosylienė, priklausiusi Parabelio būriui."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:19Z"
+  pagrindžia:
+    - c-211319
+
+<a id="claim-t-230683"></a>
+- t-230683
+  teiginys: "1949 m. balandžio 27 d. Šimonių girioje prie Žliobiškių kaimo, gavus agento „Boroda“ pranešimą apie partizanus, buvo surengta karinė operacija."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:19Z"
+  pagrindžia:
+    - c-211321
+
+<a id="claim-t-230684"></a>
+- t-230684
+  teiginys: "1951 m. lapkričio 27 d. Šimonių girioje aptikta Teofilio Gudo-Eskimo partizanų slėptuvė; iš jos paimti keturi šautuvų vamzdžiai, maisto atsargos ir vertingi dokumentai."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:19Z"
+  pagrindžia:
+    - c-211322
+
 ## Citatos
 
 - id: c-44090
@@ -195,4 +234,40 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+- id: c-211319
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 314"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 314."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230681
+
+- id: c-211321
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 358"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 358."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230683
+
+- id: c-211322
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 406-407"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 406-407."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230684
 

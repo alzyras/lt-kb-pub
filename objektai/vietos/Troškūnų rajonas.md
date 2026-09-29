@@ -7,10 +7,10 @@ datos:
   - '1952 m.'
 date_start: '1952'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Troškūnų rajonas"]
 sameAs: []
 canonical_biography: "1952 m. birželio 25 d. Sedeikių mokyklos pastate, Troškūnų rajone, buvo rasti du partizanai."
+place_authority: true
+historical_names: []
 ---
 # Troškūnų rajonas
 
@@ -41,14 +43,13 @@ canonical_biography: "1952 m. birželio 25 d. Sedeikių mokyklos pastate, Trošk
 
 1952 m. birželio 25 d. Sedeikių mokyklos pastate, Troškūnų rajone, buvo rasti du partizanai.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1952 m. birželio 25 d. Sedeikių mokyklos pastate, Troškūnų rajone, buvo rasti du partizanai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-215011
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 428"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 428."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

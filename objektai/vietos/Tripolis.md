@@ -47,22 +47,6 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
 
 ## Teiginiai
 
-<a id="claim-t-58740"></a>
-- t-001
-  teiginys: "Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o miesto krikščionys paimti į nelaisvę arba nužudyti."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tripolis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tripolis\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59372
-
 <a id="claim-t-202522"></a>
 - t-002
   teiginys: "1500 m. Kijevo bajorui Danieliui Dadikovičiui, gavusiam Tripolio kaimą, nustatytas metinis mokestis – penki vežimai šieno ir dvi lapenos."
@@ -119,8 +103,6 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-185881
   autorius: "Marija Matušakaitė"
@@ -129,6 +111,8 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

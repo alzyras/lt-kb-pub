@@ -583,6 +583,84 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindžia:
     - c-184101
 
+<a id="claim-t-208210"></a>
+- t-208210
+  teiginys: "Bohušo karjeros pradžia siejosi su Jėzuitų ordino noviciatu ir pedagoginiu darbu Jėzuitų kolegijoje Gardine."
+  atnaujinta: "2026-09-24 21:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-191019
+
+<a id="claim-t-208302"></a>
+- t-208302
+  teiginys: "1773 m. popiežiaus Klemenso XIV bulė panaikino Jėzuitų ordiną."
+  atnaujinta: "2026-09-24 21:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-190815
+
+<a id="claim-t-213655"></a>
+- t-213655
+  teiginys: "1583 metais jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-195543
+
+<a id="claim-t-213950"></a>
+- t-213950
+  teiginys: "1618 metais Kražiuose įsitvirtinę Jėzuitų ordino vienuoliai savo misijoje rado apie šešis tūkstančius neapkrikštytų valstiečių, tarp jų nemažai šimtamečių senolių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194422
+
+<a id="claim-t-216122"></a>
+- t-216122
+  teiginys: "Ta Bažnyčios istorija visa rašyta šitokia lotynų kalba ir ne visuomet nusisekusiu stiliumi, tačiau joje daugiausia yra iš traukų iš svetimų veikalų; iš to darytina išvada, kad tai turėjo būti medžiaga, surinkta kažkokio Jėzuitų ordino nario, bet vė liau."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200009
+
+<a id="claim-t-219460"></a>
+- t-219460
+  teiginys: "Po ketverto metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin kai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200343
+
 ## Reikšmingi paminėjimai
 - c-022
   santrauka: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus į dieceziją, kurioje stigo krikščioniško mokymo.'
@@ -687,7 +765,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-156532
@@ -706,7 +784,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-156535
@@ -726,7 +804,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-156536
@@ -750,7 +828,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-156537
@@ -774,7 +852,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-156539
@@ -796,7 +874,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-014
 
@@ -819,7 +897,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-156542
@@ -844,7 +922,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-156543
@@ -870,7 +948,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-156544
@@ -901,7 +979,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-156545
@@ -924,7 +1002,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-156546
@@ -949,7 +1027,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-156548
@@ -971,7 +1049,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-156549
@@ -997,7 +1075,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-156550
@@ -1026,7 +1104,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-156551
@@ -1047,7 +1125,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-156552
@@ -1073,7 +1151,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-156553
@@ -1092,7 +1170,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-015
 
@@ -1115,7 +1193,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-171092
@@ -1136,7 +1214,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-171093
@@ -1157,7 +1235,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-171094
@@ -1179,7 +1257,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-171095
@@ -1200,7 +1278,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-171096
@@ -1225,7 +1303,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-171097
@@ -1245,7 +1323,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-175858
@@ -1265,7 +1343,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-176042
@@ -1289,7 +1367,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-176967
@@ -1320,7 +1398,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-184101
@@ -1340,12 +1418,220 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     pradėjo šventąjį karą prieš protestantų ereziją ir atstatė katalikų tikėjimo
     galybę.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
+
+- id: c-190815
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 117"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 117."
+  citata_originali: |
+    Tačiau vienareikšmiško atsakymo, kur tas žinias įgijo, nėra.
+    A r P. K . Bohušo pedagoginė veikla būtų turėjusi tąsą, jei ne popiežiaus
+    Klemenso X IV bulė, kuria 1773 m. panaikintas Jėzuitų ordinas, klausimas lieka
+    atviras.
+  citata_rodoma: "A r P. K . Bohušo pedagoginė veikla būtų turėjusi tąsą, jei ne popiežiaus \nKlemenso X IV bulė, kuria 1773 m. panaikintas Jėzuitų ordinas, klausimas lieka \natviras."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208302
+
+- id: c-191019
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 128"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 128."
+  citata_originali: |
+    Apibendrinimas
+    P. K . Bohušo bažnytinės karjeros raidoje išskirtini trys sulygintai etapai: Jėzuitų
+    ordino periodas, diecezinio kunigo tarnystės metai, Vilniaus katedros kapitulos
+    laikotarpis. P. K. Bohušo bažnytinės karjeros kreivę, prasidėjusių Jėzuitų ordino
+    noviciatu ir pedagoginiu darbu Jėzuitų kolegijoje Gardine, pakoregavo popiežiaus
+    1773 m. bulė, kuria panaikintas Jėzuitų ordinas.
+  citata_rodoma: "P. K. Bohušo bažnytinės karjeros kreivę, prasidėjusių Jėzuitų ordino \nnoviciatu ir pedagoginiu darbu Jėzuitų kolegijoje Gardine, pakoregavo popiežiaus \n1773 m. bulė, kuria panaikintas Jėzuitų ordinas"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208210
+
+- id: c-194422
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 503"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 503."
+  citata_originali: |
+    Todėl 1618
+    metais Jėzuitų ordino vienuoliai, gana skaitlingi Kražiuose, kai
+    tik įsitvirtino, tais pačiais metais savo misijoje ėmė žvalgytis ir
+    rado apie šešis tūkstančius neapkrikštytų valstiečių, tarp kurių
+    buvo ir nemažai šimtamečių senolių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213950
+
+- id: c-195543
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 502."
+  citata_originali: |
+    1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­
+    sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213655
+
+- id: c-197952
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 426"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 426."
+  citata_originali: |
+    Tai pačiai deivei, arba Laimai, priklausė ir Laumės (Lau-
+    ma) vardas, nors kai kurie jį skiria ir laiko visiškai priešingu,
+    arba piktosios dievybės vadu, tuo tarpu Laima turėjusi pri­
+    klausyti prie gerųjų; tačiau iš mūsų tyrimų įvairiose lietuvių
+    žemės vietose matyti, kad tie vardai ir ypatumų įvaizdžiai yra
+    primityvūs, atsiradę jau iš smunkančios mitologijos.
+    IV priedas
+    Apie aukštųjų žynių ženklus
+    Vieno piliečio dvarininko, kurio pavardės nurodyti netu­
+    riu leidimo, privačioje bibliotekoje yra rankraštinė Bažnyčios
+    istorija, sukompiliuota kažkokio jėzuito susidedanti iš daugy­
+    bės išrašų iš kronikų ir įvairiausių raštų, susijusių su minėtuo­
+    ju dalyku, o ypač Lenkijos, Lietuvos, Prūsijos, Kuršo, Livoni­
+    jos ir Estijos bažnyčiomis; apima 38 lankus, prirašytus smul­
+    kiu raštu; pradžioje pagal sunumeravimą trūksta 20 puslapių.
+    Pereito amžiaus pirmosios pusės rašysena, ketvirčio lapo for­
+    mato.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198257
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
+  citata_originali: |
+    Visa tai turėjo tik aukotojai. Minėtose
+    vietovėse jėzuitai išdraskė net šešis altorius, taip pat iškirto ąžuo­
+    lus (jiems aukas atnašaudavo vyrai) ir liepas (joms atnašauda­
+    vo moterys). Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
+    rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­
+    mąją gėrimo taurę23.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199632
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  citata_originali: |
+    1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
+    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
+    lius. Ten jie rado pagonybės likučių ir juos skrupulingai išnaiki­
+    no. Tai buvo senųjų dievų simboliai: nežinomos rūšies gyvūnų
+    kaulai, įvairūs amuletai, sukabinti ant namų sienų ir dvivėrių
+    durų. Tuos likučius misionieriai trypė kojomis, mėtė į ugnį. Šven­
+    tuosius medžius įsakė nukirsdinti, žalčius išžudyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200009
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
+  citata_originali: |
+    Ta Bažnyčios istorija visa rašyta šitokia lotynų kalba ir ne
+    visuomet nusisekusiu stiliumi, tačiau joje daugiausia yra iš­
+    traukų iš svetimų veikalų; iš to darytina išvada, kad tai turėjo
+    būti medžiaga, surinkta kažkokio Jėzuitų ordino nario, bet vė­
+    liau nebaigta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216122
+
+- id: c-200343
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
+  citata_originali: |
+    Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo
+    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
+    lų ir šventųjų girių iškirtimui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219460
+
+- id: c-200607
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
+  citata_originali: |
+    Anot jėzuitų istoriko pasakojimo, velniui padedant tuoj pat kilo
+    audra su tokiu baisiu griausmu, jog net namai drebėjo. Aplink
+    buvo girdimas įvairių žvėrių riaumojimas. Tačiau jėzuitai neišsi­
+    gando, elgėsi drąsiai ir nebaudžiami naikino senojo tikėjimo lie­
+    kanas ir vaizdinius. O šių reiškinių pasireiškimus aiškino kaip
+    krikščioniško Dievo įrodymą ir piktosios dvasios, įsikūnijusios į
+    stabus, menkumo demonstravimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Jėzuitų ordinas keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

@@ -7,12 +7,12 @@ datos:
   - '1946 m.'
 date_start: '1946'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,14 +43,13 @@ Algirdas Stašys (byloje – Stasys) gyveno Medinos kaime, Vabalninko valsčiuje
 
 Algirdas Stašys (byloje – Stasys) gyveno Medinos kaime, Vabalninko valsčiuje, priklausė Albino Tindžiulio partizanų junginiui ir žuvo 1946 m. spalio 10 d.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Algirdas Stašys (byloje – Stasys) gyveno Medinos kaime, Vabalninko valsčiuje, priklausė Albino Tindžiulio partizanų junginiui ir žuvo 1946 m. spalio 10 d.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-212921
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 209"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 209."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

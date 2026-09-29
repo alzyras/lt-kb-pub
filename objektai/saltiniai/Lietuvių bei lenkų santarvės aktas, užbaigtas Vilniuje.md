@@ -124,5 +124,6 @@ Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir le
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

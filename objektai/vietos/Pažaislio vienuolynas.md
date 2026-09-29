@@ -74,5 +74,6 @@ Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

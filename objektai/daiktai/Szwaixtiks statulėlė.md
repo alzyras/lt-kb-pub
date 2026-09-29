@@ -74,5 +74,6 @@ Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno (Wogen) info
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

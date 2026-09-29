@@ -54,5 +54,6 @@ Niekas nieko neduos lietuviams, jeigu jie patys ko-nors nuo jų nesitikės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -77,5 +77,6 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

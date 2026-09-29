@@ -1024,25 +1024,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180328
 
-<a id="claim-t-176672"></a>
-- t-050
-  teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas buvo Kęstučio sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.97)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180350
-    - c-180344
-
 <a id="claim-t-176673"></a>
 - t-051
   teiginys: "Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto."
@@ -2136,19 +2117,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180367
 
-<a id="claim-t-176758"></a>
-- t-109
-  teiginys: "Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180324
-    - c-180215
-    - c-180333
-    - c-180355
-
 <a id="claim-t-176759"></a>
 - t-110
   teiginys: "Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė."
@@ -2611,19 +2579,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180373
 
-<a id="claim-t-191000"></a>
-- t-137
-  teiginys: "Narbutas Lietuvos didžiausios galybės laikotarpį sieja ypač su Vytauto valdymu po Skirgailos."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180374
-
 <a id="claim-t-193406"></a>
 - t-138
   teiginys: "Vytautas įsakė visų Lietuvos žemių karo jėgoms susirinkti į Smolenską."
@@ -2663,19 +2618,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180307
 
-<a id="claim-t-194007"></a>
-- t-141
-  teiginys: "Lietuvos metraštis Vytautą nurodo kaip pirmąjį Kęstučio sūnų ir sieja jį su Jurgio bei Aleksandro krikšto vardais."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-180308
-
 <a id="claim-t-194008"></a>
 - t-142
   teiginys: "1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su kariuomene ir Smolensko pajėgomis."
@@ -2688,32 +2630,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-180309
-
-<a id="claim-t-194009"></a>
-- t-143
-  teiginys: "Lietuvos metraštis pasakoja, kad Vytautas su Jogaila rudenį atvyko į Smolenską, išvijo Jurijų Svetoslavovičių ir Olegą ir atgavo miestą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180310
-
-<a id="claim-t-194010"></a>
-- t-144
-  teiginys: "Lietuvos metraštis 1412 m. datuoja Jogailos ir Vytauto karo su Prūsijos vokiečiais pradžią."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180311
 
 <a id="claim-t-194011"></a>
 - t-145
@@ -2753,19 +2669,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-180314
-
-<a id="claim-t-194014"></a>
-- t-148
-  teiginys: "Vytauto skundas prieš Jogailą ir Skirgailą datuojamas 1390 m. pradžia ir siejamas su antrąja Vytauto emigracija pas kryžiuočius."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180315
 
 <a id="claim-t-194245"></a>
 - t-149
@@ -2980,20 +2883,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180318
-
-<a id="claim-t-196882"></a>
-- t-165
-  teiginys: "Vytautui mirštant, lenkų kilmės Podolės bajorai suėmė Kameneco seniūną Daugirdą ir užėmė Kamenecą bei kitas Podolės pilis."
-  atnaujinta: "2026-07-29 21:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180319
-    - c-186005
 
 <a id="claim-t-197458"></a>
 - t-166
@@ -3413,18 +3302,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-185926
 
-<a id="claim-t-202718"></a>
-- t-193
-  teiginys: "1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-21380
-    - c-180377
-
 <a id="claim-t-202720"></a>
 - t-194
   teiginys: "Vytautas įkūnijo tautinį ir politinį idealą, siejamą su Lietuvos vadavimu iš priklausomybės nuo lenkų."
@@ -3445,34 +3322,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180288
     - c-186202
-
-<a id="claim-t-202734"></a>
-- t-195
-  teiginys: "Popiežiaus paskirtą suvažiavimą Vytautas sušaukė 1429 m. sausio 6 d. Lucke."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-185926
-    - c-185931
-
-<a id="claim-t-202735"></a>
-- t-196
-  teiginys: "Šaltinyje Vytauto žemėvaldos politika rusėniškose žemėse apibūdinama kaip reforma, išplėtusi jo nuosavų žemių plotą."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-21382
-    - c-185930
 
 <a id="claim-t-202737"></a>
 - t-197
@@ -3531,28 +3380,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-36593
     - c-186204
-
-<a id="claim-t-202775"></a>
-- t-202
-  teiginys: "Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei vykdydami jų įsakymus."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-180381
-    - c-186205
-
-<a id="claim-t-202776"></a>
-- t-203
-  teiginys: "Nuo jaunystės Vytautas mėgo karo dalykus ir sekė Vakarų Europos naujoves."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-21382
-    - c-180378
 
 <a id="claim-t-202789"></a>
 - t-204
@@ -3650,17 +3477,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180375
 
-<a id="claim-t-202912"></a>
-- t-212
-  teiginys: "1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-180376
-    - c-186210
-
 <a id="claim-t-202928"></a>
 - t-213
   teiginys: "Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas."
@@ -3671,20 +3487,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-36592
-
-<a id="claim-t-202934"></a>
-- t-214
-  teiginys: "Vytauto laikais Lietuvoje buvo kalami čekų grašiai, o šalia jų kursavo lietuviški denarai."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-21380
-    - c-185927
 
 <a id="claim-t-202949"></a>
 - t-215
@@ -3864,32 +3666,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180069
 
-<a id="claim-t-203176"></a>
-- t-231
-  teiginys: "Lietuvos metraštyje Jogailos ir Vytauto karo su Prūsijos vokiečiais pradžia datuojama 1412 m."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintas antraštės ir OCR triukšmas, suformuotas sakinys apie Vytautą ir karo datavimą. Datavimas paliktas su šaltinio atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-180311
-
-<a id="claim-t-203177"></a>
-- t-232
-  teiginys: "Lietuvos metraštyje teigiama, kad 1412 m. prasidėjo Jogailos ir Vytauto karas su Prūsijos vokiečiais."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintas antraštės ir OCR triukšmas, suformuotas sakinys apie Vytautą ir karo datavimą. Datavimas paliktas su šaltinio atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-180311
-
 <a id="claim-t-203178"></a>
 - t-233
   teiginys: "Knygoje „Lietuvos istorija“ teigiama, kad Vytauto valdymo pabaigoje LDK buvo itin galinga, o jo galią jautė visas regionas."
@@ -3956,19 +3732,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-180085
-
-<a id="claim-t-203203"></a>
-- t-239
-  teiginys: "Lietuvos metraštyje nurodoma, kad 1412 m. prasidėjo Jogailos ir Vytauto karas su Prūsijos vokiečiais."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintas antraštės ir OCR triukšmas, suformuotas sakinys apie Vytautą ir karo datavimą. Datavimas paliktas su šaltinio atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-180311
 
 <a id="claim-t-203211"></a>
 - t-240
@@ -4659,48 +4422,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180085
 
-<a id="claim-t-203432"></a>
-- t-301
-  teiginys: "Kaip teigia Albertas Vijūkas-Kojelavičius, garbės troškimas taip aptemdė Vytauto protą, kad jis neįžvelgė, jog Zigmanto siūlymais siekta sugriauti lietuvių ir lenkų sandraugą."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Tai autoriaus interpretacija, todėl reikalinga šaltinio atribucija."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] buvo sąjungininkas su [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-180260
-
-<a id="claim-t-203433"></a>
-- t-302
-  teiginys: "Albertas Vijūkas-Kojelavičius „Lietuvos istorijoje“ teigia, kad garbės troškimas sutrukdė Vytautui įžvelgti, jog Zigmanto siūlymais siekta sugriauti lietuvių ir lenkų sandraugą."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Tai autoriaus interpretacija, todėl reikalinga šaltinio atribucija."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-180260
-
-<a id="claim-t-203434"></a>
-- t-303
-  teiginys: "Pasak Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“, garbės troškimas aptemdė Vytauto protą, todėl jis neįžvelgė, kad Zigmanto siūlymais siekta sugriauti lietuvių ir lenkų sandraugą."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Tai autoriaus interpretacija, todėl reikalinga šaltinio atribucija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-180260
-
 <a id="claim-t-203446"></a>
 - t-304
   teiginys: "Leidinio „Žymiausi Lietuvos mūšiai ir karinės operacijos“ teigimu, 1399 m. Vytauto pralaimėjimas totoriams prie Vorsklos sulėtino Lietuvos plėtrą rytuose."
@@ -4979,19 +4700,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180333
 
-<a id="claim-t-203547"></a>
-- t-328
-  teiginys: "Leidinyje „Lietuvos metraštis, Bychovco kronika“ Vytauto skundas prieš Jogailą ir Skirgailą datuojamas 1390 m. pradžia, kai Vytautas antrą kartą emigravo pas kryžiuočius."
-  atnaujinta: "2026-07-29 13:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Antraštės triukšmas pašalintas, paliktas aiškus faktas apie Vytauto skundo datavimą ir kontekstą. Neperkelti vertinimai apie istoriografijos užuomazgą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-180315
-
 <a id="claim-t-203565"></a>
 - t-329
   teiginys: "Pasak veikalo „Lietuvos istorija“, atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu."
@@ -5210,32 +4918,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
   pagrindžia:
     - c-186621
-
-<a id="claim-t-204401"></a>
-- t-347
-  teiginys: "Vytauto laikais įsteigta institucinė valdovo dvaro taryba, o ankstyvieji kilmingųjų suvažiavimai tapo svarbiais politiniais rėmais, nelaikomais pirminio parlamentarizmo pakopa."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-187005
-
-<a id="claim-t-204402"></a>
-- t-348
-  teiginys: "Vytautas mėgino sustiprinti savo dvaro įtaką valstybės vidaus gyvenime ir, įvesdamas nuolatinių tarėjų institutą, apibrėžė siaurosios valdovo tarybos sudėtį."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-187006
 
 <a id="claim-t-205077"></a>
 - t-349
@@ -5598,6 +5280,263 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
   pagrindžia:
     - c-189057
+
+<a id="claim-t-193632"></a>
+- t-193632
+  teiginys: "Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje išteklius."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-180286
+    - c-180303
+
+<a id="claim-t-202645"></a>
+- t-202645
+  teiginys: "Pasak 1930 m. biografijos, kitas Lietuvos bažnyčias po Jogailos pirmųjų iniciatyvų statė Vytautas ir Lietuvos didikai."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-185926
+    - c-185931
+
+<a id="claim-t-202648"></a>
+- t-202648
+  teiginys: "1377 m. Vytautas surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-180375
+
+<a id="claim-t-202689"></a>
+- t-202689
+  teiginys: "Vytautas pats vedė savo kariuomenę, o Lenkijos kariuomenė iš pradžių neturėjo vadų."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-180393
+    - c-185925
+
+<a id="claim-t-202740"></a>
+- t-202740
+  teiginys: "Vytautas dėl teisingo elgesio pelnė didelę pagarbą tarp savųjų ir svetimųjų."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pirminiame teiginyje yra nenorminė forma ir galima suformuluoti sklandžiau."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-36591
+
+<a id="claim-t-202807"></a>
+- t-202807
+  teiginys: "1930 m. biografijos autorius Vytauto žygius prieš Aukso Ordos stepių gyventojus vertino kaip itin stiprius smūgius."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-185925
+
+<a id="claim-t-202906"></a>
+- t-202906
+  teiginys: "Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-36591
+
+<a id="claim-t-207432"></a>
+- t-207432
+  teiginys: "Vytautas šaltinyje vaizduojamas kaip savo politinę mokyklą išugdęs valdovas, kurio politinis pragmatizmas įgijo tęstinumą."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190029
+
+<a id="claim-t-207443"></a>
+- t-207443
+  teiginys: "Vytauto laikais 1422 m. Melno taikos sutartis su Vokiečių ordinu ir 1426 m. sutartis su Livonijos ordinu buvo skirtos sienų delimitacijai, po jų buvo kasami kapčiai ir grioviai bei medžiuose kalami Vytauto ir kitokie ženklai."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "sutarties data: 1422 m.; sutarties data: 1426 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai nusako Vytauto laikų sutartis bei po jų vykdytus sienų ženklinimo darbus."
+  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
+  pagrindžia:
+    - c-190102
+
+<a id="claim-t-207469"></a>
+- t-207469
+  teiginys: "Vytauto valdymas (1392–1430) šaltinyje įvardijamas kaip ryški permaina LDK istorijoje."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190112
+
+<a id="claim-t-210846"></a>
+- t-210846
+  teiginys: "Ir didysis kunigaikštis Vytautas, jo prašomas, atvy ko prie Ugros upės, pasiėmęs su savimi vieną didiką, vardu Andrių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193260
+
+<a id="claim-t-211681"></a>
+- t-211681
+  teiginys: "VYTAUTO SKUNDAS PRIEŠ JOGAILĄ IR SKIRGAILĄ."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193356
+
+<a id="claim-t-211701"></a>
+- t-211701
+  teiginys: "Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir Lietuvos, Rusų bei daugelio kitų šalių valdovu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
+<a id="claim-t-211748"></a>
+- t-211748
+  teiginys: "Vytautas mirė Trakuose 1430 m. spalio 27 d."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193497
+
+<a id="claim-t-212362"></a>
+- t-212362
+  teiginys: "Narbutas pateikia 1420 m. Vytauto laiško imperatoriui Zigmantui ištrauką apie Aukštaitijos pavadinimą ir Lietuvos geografinį padalijimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194600
+
+<a id="claim-t-213964"></a>
+- t-213964
+  teiginys: "Vytauto privilegija, datuota 1439 metų kovo 3 dieną, buvo pakartota Švitrigailos privilegijoje."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195340
+
+<a id="claim-t-216043"></a>
+- t-216043
+  teiginys: "Au kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu sę, turėjo palikti jai tas apeigas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201143
+
+<a id="claim-t-216590"></a>
+- t-216590
+  teiginys: "Žuvus vyrui ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais užbaigė gyvenimą."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
+<a id="claim-t-216867"></a>
+- t-216867
+  teiginys: "1414 metais kunigaikštis Vytautas gyveno Veliuonos pilyje ir administravo kraštą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199001
+
+<a id="claim-t-218019"></a>
+- t-218019
+  teiginys: "Tame krašte buvo daug vienodai garbinamų giraičių; kai tik Jeroni mas susiruošdavo jas kirsti, nesuskaičiuojamos verkiančių ir aimanuojančių moterų minios atbėgdavo skųstis Vytautui, kad kertami šventi miškai ir iš dievų atimamas prieglobstis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198490
+
+<a id="claim-t-224178"></a>
+- t-224178
+  teiginys: "1413 m. Vytautas pareiškė, kad prūsų žemės iki Osos yra jo tėvų palikimas."
+  atnaujinta: "2026-09-18 19:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203150
 
 ## Reikšmingi paminėjimai
 - c-057
@@ -6050,7 +5989,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-00172
@@ -6069,7 +6008,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-04402
@@ -6089,11 +6028,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     puotą Vytautą paskelbė Lietuvos karaliumi.
   citata_rodoma: "Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas\nsutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­\nnimą už Vytauto sunaikintąsias ordino pilis prie Nemuno per 1392\nm. atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,\nkai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių\nir nelaisvu valstiečių. Į iškilmingą ir visą savaitę trukusį Salyno\nsuvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių\njo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą\npuotą Vytautą paskelbė Lietuvos karaliumi."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-011
     - t-096
@@ -6119,7 +6059,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-063
 
@@ -6143,7 +6083,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-082
     - t-296
@@ -6164,7 +6104,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-11545
@@ -6183,7 +6123,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-016
     - t-264
@@ -6208,7 +6148,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-167
 
 - id: c-21374
@@ -6229,7 +6169,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-209
 
 - id: c-21380
@@ -6250,10 +6190,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193
+  pagrindžia:
     - t-205
-    - t-214
 
 - id: c-21382
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -6271,10 +6209,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-189
-    - t-196
-    - t-203
 
 - id: c-21390
   autorius: "Zenonas Ivinskis"
@@ -6294,6 +6230,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-21393
   autorius: "Zenonas Ivinskis"
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -6308,11 +6245,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     trui^62.
   citata_rodoma: "Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­\nplauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­\nkydamas, jog jis jau _tris_ kartus esąs išdavęs ordiną; o ketvirtą\nkartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių\nvaldovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­\ntrui^62."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-052
     - t-315
     - t-316
@@ -6333,7 +6271,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
     - t-200
 
@@ -6352,11 +6290,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     pastovesnius santykius. Vytauto «arklių girdymas» Juodojoje
     jūroje ilgai pasiliko žmonių atminime.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-255
@@ -6382,7 +6321,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-294
     - t-297
@@ -6404,7 +6343,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-200
     - t-295
@@ -6427,7 +6366,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-34199
@@ -6448,11 +6387,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Dniepro žemupį, kuris tada buvo tuščias^13.
   citata_rodoma: "(^262) ii skyrius: valstybės iškilimas\nDimitrui, o Naugardą-Sieverską kitam sūnui Kaributui-Dimitrui,\nkai Černigovo kunigaikštijoje buvo paliktas vietinis kunigaikštis.\nAlgirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­\npių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė\nVytautas.\nSumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų\nVandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo\nne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį\nDniepro žemupį, kuris tada buvo tuščias^13."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-34200
@@ -6475,7 +6415,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-078
 
@@ -6495,7 +6435,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-078
     - t-200
 
@@ -6518,7 +6458,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-009
     - t-010
@@ -6540,7 +6480,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-088
 
 - id: c-34204
@@ -6560,7 +6500,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
     - t-025
@@ -6584,7 +6524,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-078
     - t-246
@@ -6610,7 +6550,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -6626,11 +6566,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     charakteringas didelis švaistymasis materialinėmis gėrybėmis, ypač
     kai reikėdavo pasirodyti užsieniečiams.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-243
     - t-245
@@ -6658,7 +6599,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-103
     - t-244
 
@@ -6678,11 +6619,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     laiką, jei jo kiek atlikdavo, praleisdavo medžioklėje arba eida­
     mas šachmatais. Bet visur kur matėsi saikas.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:40"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-202740
+    - t-202906
+
 - id: c-36592
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -6701,7 +6647,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-213
 
 - id: c-36593
@@ -6723,7 +6669,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-201
 
 - id: c-160659
@@ -6743,7 +6689,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
     - t-168
 
@@ -6763,7 +6709,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-095
 
 - id: c-160690
@@ -6782,7 +6728,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-107
 
 - id: c-160692
@@ -6800,7 +6746,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-160704
@@ -6822,6 +6768,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-160729
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6846,7 +6793,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
 
 - id: c-160732
@@ -6869,7 +6816,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-100
     - t-338
     - t-339
@@ -6892,7 +6839,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-084
     - t-230
     - t-272
@@ -6924,7 +6871,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
     - t-033
     - t-060
@@ -6956,7 +6903,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
     - t-110
 
@@ -6983,7 +6930,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
     - t-038
     - t-065
@@ -7016,11 +6963,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tėvynei nelaimę atneš.
   citata_rodoma: "Len­\nkų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­\nti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, \no karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­\nkijos senato valią galima būtų didžiajam kunigaikščiui už­\ndėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­\ndžiamiems. Vytautas, vėl su įkarščiu išsakęs savo didelį norą \nstojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­\ndavimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­\ndų: palenkti dovanomis ir pažadais Krokuvos vyskupą \nOlesnickį, kuris kartu su Krokuvos vaivada Janu iš Tarno­\nvo turėjo lemiamą balsą karaliaus taryboje. Bet šis vyras, \ntiesus ir nepalaužiamas, davė jam tokį įsidėmėtiną atsaky­\nmą: „Nors Vytautas ir vertas yra karūnos, tačiau, jeigu \ntrokšta jos nepaisydamas šventos priesaikos, kokią pats da­\nvė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p \ntėvynei nelaimę atneš."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
     - t-080
     - t-238
@@ -7060,7 +7008,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-073
     - t-091
     - t-227
@@ -7087,7 +7035,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
     - t-110
 
@@ -7110,7 +7058,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-174
 
 - id: c-180149
@@ -7134,7 +7082,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-081
     - t-099
     - t-334
@@ -7166,7 +7114,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
     - t-072
     - t-090
@@ -7191,7 +7139,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
     - t-060
 
@@ -7216,7 +7164,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-068
 
 - id: c-180168
@@ -7244,7 +7192,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
     - t-079
 
@@ -7264,6 +7212,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7286,9 +7235,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
-    - t-109
     - t-247
     - t-251
     - t-252
@@ -7314,7 +7262,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-188
     - t-220
 
@@ -7337,7 +7285,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-083
     - t-100
 
@@ -7359,7 +7307,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-180244
@@ -7388,7 +7336,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-118
 
 - id: c-180245
@@ -7421,7 +7369,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-119
 
 - id: c-180246
@@ -7447,11 +7395,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     jau atvyko į Krėvą.
   citata_rodoma: "Lais­\nvai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­\nva valia nutarusi dalytis su vyru likimo užkrautais var­\ngais, čia jį ir palydėjo su dviem mergaitėmis. Ši \naplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­\nvę: dažnai juk likimą lemia menkų menkiausios prie­\nžastys. Vienas sargybinis kar­\ntą įspėjo Oną, jog Vytautui \ngresianti mirtis, pridurdamas, \nkad Jogailos siųsti budeliai \njau atvyko į Krėvą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-120
     - t-150
 
@@ -7492,7 +7441,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-121
     - t-151
 
@@ -7522,7 +7471,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-122
     - t-152
 
@@ -7551,7 +7500,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-123
     - t-153
     - t-171
@@ -7573,7 +7522,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-124
 
 - id: c-180251
@@ -7602,7 +7551,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-126
     - t-154
     - t-187
@@ -7621,11 +7570,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     na išgabeno į Vilnių.
   citata_rodoma: "Kadangi Vytautas jiems paro­\ndė palankumą, apsuptieji visiškai pasidavė jo malonei.\nPerdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,\npilyse bei miestuose paliko lietuvių karių įgulas ir lietu­\nvių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­\nna išgabeno į Vilnių."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-125
     - t-152
 
@@ -7662,7 +7612,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-171
 
 - id: c-180254
@@ -7688,7 +7638,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-126
 
 - id: c-180255
@@ -7714,7 +7664,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-127
 
 - id: c-180256
@@ -7739,11 +7689,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-128
 
 - id: c-180257
@@ -7774,7 +7725,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-129
     - t-157
     - t-287
@@ -7797,7 +7748,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-130
     - t-159
 
@@ -7822,7 +7773,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-129
     - t-131
 
@@ -7853,11 +7804,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-132
-    - t-301
-    - t-302
-    - t-303
 
 - id: c-180261
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -7881,7 +7829,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-133
 
 - id: c-180262
@@ -7906,7 +7854,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-134
 
 - id: c-180263
@@ -7926,11 +7874,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     dytas valdovas, bet ir todėl, kad krito galybė paprastų
     atsitiko.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-135
     - t-261
     - t-262
@@ -7957,7 +7906,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-138
 
 - id: c-180267
@@ -7980,7 +7929,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-155
     - t-187
 
@@ -8007,7 +7956,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-156
 
 - id: c-180269
@@ -8035,7 +7984,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-133
     - t-158
 
@@ -8057,7 +8006,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-159
 
 - id: c-180271
@@ -8085,7 +8034,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-160
 
 - id: c-180272
@@ -8109,7 +8058,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-129
     - t-133
     - t-161
@@ -8131,7 +8080,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
     - t-228
     - t-229
@@ -8160,7 +8109,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-097
 
 - id: c-180275
@@ -8184,7 +8133,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
     - t-056
     - t-070
@@ -8207,7 +8156,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-101
     - t-169
 
@@ -8231,7 +8180,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-066
     - t-111
 
@@ -8254,7 +8203,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-098
     - t-101
     - t-269
@@ -8279,7 +8228,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-077
     - t-093
     - t-095
@@ -8305,10 +8254,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
     - t-066
     - t-070
+    - t-193632
     - t-222
     - t-249
     - t-250
@@ -8332,7 +8282,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
     - t-322
     - t-323
@@ -8360,7 +8310,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
     - t-065
     - t-083
@@ -8385,11 +8335,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
   citata_rodoma: "Vytauto tolerancija patiko tautinėms mažumoms – \njuk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-\nkias Europoje jie gavo gerokai vėliau. Be to, Vytautas įkūnijo kiekvienam \nlietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-\nsomybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties \n500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo \nmuziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-\nveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-\nvos miestuose ir miesteliuose, jam pastatyti paminklai."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
     - t-254
 
@@ -8409,7 +8360,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
     - t-038
 
@@ -8435,7 +8386,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-087
     - t-092
 
@@ -8459,7 +8410,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
     - t-032
 
@@ -8488,7 +8439,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
     - t-056
     - t-233
@@ -8512,7 +8463,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-089
     - t-169
     - t-329
@@ -8531,11 +8482,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Žalgirio (Griunvaldo) mūšis.
   citata_rodoma: "1387\t\nLietuvos krikštas.\n1392–1430\t\nžymiausio Lietuvos valdovo Vytauto valdymo metai.\n1410 \t\nŽalgirio (Griunvaldo) mūšis."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-180300
@@ -8557,7 +8509,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-101
     - t-270
     - t-271
@@ -8579,7 +8531,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-139
     - t-330
     - t-331
@@ -8607,7 +8559,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-193632
     - t-289
     - t-290
     - t-291
@@ -8627,7 +8580,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-170
 
 - id: c-180305
@@ -8655,7 +8608,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
     - t-041
     - t-288
@@ -8685,7 +8638,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
     - t-054
 
@@ -8707,7 +8660,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-140
 
 - id: c-180308
@@ -8730,8 +8683,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-141
 
 - id: c-180309
   autorius: "Anoniminis metraštininkas"
@@ -8762,7 +8713,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-142
 
 - id: c-180310
@@ -8790,8 +8741,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-143
 
 - id: c-180311
   autorius: "Anoniminis metraštininkas"
@@ -8821,11 +8770,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-144
-    - t-231
-    - t-232
-    - t-239
 
 - id: c-180312
   autorius: "Anoniminis metraštininkas"
@@ -8851,7 +8795,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-145
 
 - id: c-180313
@@ -8871,7 +8815,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-146
 
 - id: c-180314
@@ -8893,7 +8837,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-147
 
 - id: c-180315
@@ -8917,9 +8861,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-148
-    - t-328
 
 - id: c-180316
   autorius: "Anoniminis metraštininkas"
@@ -8950,7 +8891,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-162
 
 - id: c-180317
@@ -8971,7 +8912,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-163
 
 - id: c-180318
@@ -8992,7 +8933,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-164
 
 - id: c-180319
@@ -9017,8 +8958,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-165
+  pagrindžia:
     - t-292
     - t-293
 
@@ -9050,7 +8990,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-112
     - t-113
 
@@ -9077,7 +9017,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-085
 
 - id: c-180322
@@ -9114,7 +9054,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-069
 
 - id: c-180323
@@ -9142,7 +9082,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-116
 
 - id: c-180324
@@ -9163,13 +9103,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     karūna pas Vytautą.
   citata_rodoma: "Neva krikščioniškųjų valstybių sąjungos prieš tur­\nkus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas \natmintinas daugelio monarchų ir kunigaikščių suvažiavimas \nbūtų sušauktas Lucke. Tačiau kai ten išaiškėjo, kad, užuot \naptarus turkų klausimą, imperatoriaus imamasi gudrių už­\nmačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat \npasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė- \njo. Zigmantas, vis dėlto pasėjęs nesantaikos sėklą tarp bro­\nlių ir dviejų tautų, pargrįžęs tuoj pat išleido pasiuntinius su \nkarūna pas Vytautą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-105
-    - t-109
     - t-310
     - t-311
     - t-312
@@ -9192,7 +9132,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
 
 - id: c-180326
@@ -9218,7 +9158,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
     - t-279
 
@@ -9244,7 +9184,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-091
 
 - id: c-180328
@@ -9270,7 +9210,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
     - t-048
     - t-049
@@ -9298,7 +9238,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-068
     - t-106
 
@@ -9334,7 +9274,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-076
     - t-319
     - t-320
@@ -9380,7 +9320,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
     - t-057
 
@@ -9421,10 +9361,9 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-071
     - t-094
-    - t-109
     - t-280
     - t-281
     - t-282
@@ -9459,7 +9398,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
     - t-048
     - t-079
@@ -9496,7 +9435,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-090
 
 - id: c-180339
@@ -9521,7 +9460,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-180340
@@ -9551,7 +9490,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
     - t-059
     - t-099
@@ -9581,7 +9520,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
 
 - id: c-180343
@@ -9616,7 +9555,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
     - t-081
 
@@ -9650,9 +9589,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
-    - t-050
     - t-079
     - t-102
 
@@ -9684,7 +9622,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-110
     - t-115
 
@@ -9711,7 +9649,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-075
 
 - id: c-180348
@@ -9734,7 +9672,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
     - t-224
     - t-237
@@ -9772,8 +9710,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-050
 
 - id: c-180353
   autorius: "Michał Baliński"
@@ -9798,7 +9734,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-067
 
 - id: c-180354
@@ -9824,7 +9760,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-074
     - t-104
 
@@ -9853,9 +9789,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
-    - t-109
     - t-317
 
 - id: c-180356
@@ -9886,7 +9821,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-072
 
 - id: c-180357
@@ -9915,7 +9850,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-180358
@@ -9946,7 +9881,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-061
 
 - id: c-180359
@@ -9968,7 +9903,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
     - t-099
 
@@ -9990,11 +9925,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     kad nebus pasikėsinta į jo gyvybę18.
   citata_rodoma: "Ta liūdna Vilniaus \npadėtis dar pablogėjo įsiliepsnojus Vytauto karui su Skir­\ngaila. Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas \nduotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­\ntuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­\nsančio, negrąžino. Karaliui išvykus į Lenkiją, Vytauto padė­\ntis tapo dargi nesaugi: mat akylai stebimas kiekviename \nžingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­\nmų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras, \nkad nebus pasikėsinta į jo gyvybę18."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
     - t-064
     - t-072
@@ -10030,11 +9966,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     sančio, negrąžino.
   citata_rodoma: "Reikia pripažinti, jog ta didelė reforma, kurios ėmėsi Vla­\ndislovas Jogaila, iš pradžių Lietuvai ir jos sostinei daug kai­\nnavo, tačiau tai buvo būtinas barbariško būvio, ligi tol tvy­\nrojusio tame krašte, pergalėjimas, kam iš visų jėgų priešinosi \nKryžiuočių ordinas, aiškiai numatydamas savo nuopuolį, \njei Lietuva ir Lenkija ateityje sustiprėtų. Ta liūdna Vilniaus \npadėtis dar pablogėjo įsiliepsnojus Vytauto karui su Skir­\ngaila. Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas \nduotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­\ntuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­\nsančio, negrąžino."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-117
     - t-223
     - t-225
@@ -10071,7 +10008,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-180363
@@ -10106,7 +10043,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-180364
@@ -10152,7 +10089,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
     - t-149
 
@@ -10175,7 +10112,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-104
 
 - id: c-180366
@@ -10194,7 +10131,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-180367
@@ -10211,7 +10148,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-108
 
 - id: c-180368
@@ -10235,7 +10172,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-172
 
 - id: c-180369
@@ -10256,7 +10193,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-173
 
 - id: c-180372
@@ -10279,7 +10216,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-166
 
 - id: c-180373
@@ -10303,7 +10240,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-136
 
 - id: c-180374
@@ -10322,8 +10259,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-137
 
 - id: c-180375
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -10342,7 +10277,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-202648
     - t-211
 
 - id: c-180376
@@ -10366,9 +10302,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-191
-    - t-212
 
 - id: c-180377
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -10390,8 +10325,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193
 
 - id: c-180378
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -10410,8 +10343,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-203
 
 - id: c-180379
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -10434,6 +10365,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180380
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10454,7 +10386,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-221
 
 - id: c-180381
@@ -10480,8 +10412,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-202
 
 - id: c-180383
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -10504,7 +10434,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-198
     - t-215
 
@@ -10528,7 +10458,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-197
 
 - id: c-180385
@@ -10555,7 +10485,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-218
 
 - id: c-180386
@@ -10582,7 +10512,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-186
 
 - id: c-180387
@@ -10602,11 +10532,12 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     savo pavaldiniais.
   citata_rodoma: "Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias\nšios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,\nišaugęs kitų miško medžių tarpe. Jo tėvas Kęstutis, nuolatinis\nŽemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo\nŽemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,\nbuvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­\ngiems valdovams buvę nepatogu susirišti giminystės ryšiais su\nsavo pavaldiniais."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:40"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-184
 
 - id: c-180388
@@ -10632,7 +10563,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-198
 
 - id: c-180389
@@ -10650,7 +10581,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-183
 
 - id: c-180390
@@ -10676,7 +10607,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-208
 
 - id: c-180391
@@ -10700,7 +10631,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-219
 
 - id: c-180392
@@ -10727,7 +10658,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-190
 
 - id: c-180393
@@ -10748,7 +10679,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-202689
     - t-216
 
 - id: c-180394
@@ -10772,7 +10704,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-210
 
 - id: c-180395
@@ -10795,7 +10727,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-217
 
 - id: c-180396
@@ -10820,7 +10752,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-182
 
 - id: c-180397
@@ -10844,7 +10776,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-199
 
 - id: c-180398
@@ -10865,7 +10797,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-185
 
 - id: c-180401
@@ -10885,7 +10817,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-084
 
 - id: c-184054
@@ -10895,8 +10827,9 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:40"
-  pagrindzia:
+  pagrindžia:
     - t-175
 
 - id: c-184900
@@ -10913,7 +10846,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-176
 
 - id: c-184901
@@ -10929,7 +10862,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-177
     - t-305
 
@@ -10946,7 +10879,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-178
 
 - id: c-184903
@@ -10962,7 +10895,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-179
 
 - id: c-184904
@@ -10981,7 +10914,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-180
 
 - id: c-184905
@@ -10999,7 +10932,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-181
 
 - id: c-185925
@@ -11020,11 +10953,16 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     gailą padėti besiginantiems vengrams, tai abiem valdovam pa­
     rašius grasinantį sultonui laišką, turkai iš Bosnijos pasitraukė.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:40"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-202689
+    - t-202807
+
 - id: c-185926
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -11038,13 +10976,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     Į šį nepaprastą Vytauto kviečiamą susirinkimą gausiai su­
     plaukė svečių tiek iš Vakarų, tiek ir iš Rytų Europos.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-192
-    - t-195
+    - t-202645
 
 - id: c-185927
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -11065,9 +11004,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-204
-    - t-214
 
 - id: c-185928
   autorius: "Mikalojus Vorobjovas"
@@ -11087,7 +11025,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-207
 
 - id: c-185929
@@ -11109,7 +11047,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
     - t-091
 
@@ -11132,8 +11070,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-196
+  pagrindžia:
     - t-206
 
 - id: c-185931
@@ -11152,12 +11089,13 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
     su savo dideliu valdovu.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195
+  pagrindžia:
+    - t-202645
     - t-204
 
 - id: c-185932
@@ -11176,7 +11114,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-206
 
 - id: c-186004
@@ -11195,7 +11133,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186005
@@ -11217,8 +11155,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-165
 
 - id: c-186006
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -11239,7 +11175,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-134
 
 - id: c-186007
@@ -11270,7 +11206,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-133
 
 - id: c-186008
@@ -11294,7 +11230,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-123
 
 - id: c-186009
@@ -11320,7 +11256,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-129
 
 - id: c-186010
@@ -11340,7 +11276,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-100
 
 - id: c-186011
@@ -11357,7 +11293,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-186012
@@ -11391,7 +11327,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-120
 
 - id: c-186013
@@ -11425,7 +11361,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-127
 
 - id: c-186014
@@ -11456,7 +11392,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-121
 
 - id: c-186015
@@ -11487,7 +11423,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-115
 
 - id: c-186016
@@ -11523,7 +11459,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-122
     - t-152
 
@@ -11546,7 +11482,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-186018
@@ -11574,7 +11510,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-118
 
 - id: c-186019
@@ -11599,7 +11535,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-072
 
 - id: c-186020
@@ -11621,7 +11557,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-163
 
 - id: c-186195
@@ -11643,7 +11579,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-182
 
 - id: c-186196
@@ -11674,7 +11610,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-151
 
 - id: c-186197
@@ -11701,7 +11637,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-187
 
 - id: c-186198
@@ -11720,7 +11656,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-186199
@@ -11746,7 +11682,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-186200
@@ -11768,7 +11704,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-191
 
 - id: c-186201
@@ -11797,7 +11733,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-173
 
 - id: c-186202
@@ -11816,7 +11752,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-194
 
 - id: c-186203
@@ -11837,7 +11773,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-199
 
 - id: c-186204
@@ -11857,7 +11793,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-201
 
 - id: c-186205
@@ -11878,8 +11814,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-202
 
 - id: c-186206
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -11898,7 +11832,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-186207
@@ -11925,7 +11859,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-186208
@@ -11946,7 +11880,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-186209
@@ -11981,7 +11915,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-149
 
 - id: c-186210
@@ -12002,8 +11936,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-212
 
 - id: c-186211
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -12030,7 +11962,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-218
 
 - id: c-186215
@@ -12051,7 +11983,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-340
 
 - id: c-186216
@@ -12071,7 +12003,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-341
 
 - id: c-186617
@@ -12088,7 +12020,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-342
 
 - id: c-186618
@@ -12105,7 +12037,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-343
 
 - id: c-186619
@@ -12131,7 +12063,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-344
 
 - id: c-186620
@@ -12153,7 +12085,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-345
 
 - id: c-186621
@@ -12173,7 +12105,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-346
 
 - id: c-187005
@@ -12194,8 +12126,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-347
 
 - id: c-187006
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -12215,8 +12145,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-348
 
 - id: c-187666
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -12236,7 +12164,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-349
 
 - id: c-189031
@@ -12253,7 +12181,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-350
 
 - id: c-189032
@@ -12274,7 +12202,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-351
 
 - id: c-189033
@@ -12292,7 +12220,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-352
 
 - id: c-189034
@@ -12312,7 +12240,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-353
 
 - id: c-189035
@@ -12336,7 +12264,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-354
 
 - id: c-189036
@@ -12360,7 +12288,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-355
 
 - id: c-189037
@@ -12376,7 +12304,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-356
 
 - id: c-189038
@@ -12412,7 +12340,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-357
 
 - id: c-189039
@@ -12429,7 +12357,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-358
 
 - id: c-189040
@@ -12447,7 +12375,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-359
 
 - id: c-189041
@@ -12468,7 +12396,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-360
 
 - id: c-189042
@@ -12486,7 +12414,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-361
 
 - id: c-189043
@@ -12507,7 +12435,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-362
 
 - id: c-189044
@@ -12523,7 +12451,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-363
 
 - id: c-189045
@@ -12542,7 +12470,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-364
 
 - id: c-189046
@@ -12560,7 +12488,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-365
 
 - id: c-189047
@@ -12579,7 +12507,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-366
 
 - id: c-189048
@@ -12601,7 +12529,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-367
 
 - id: c-189049
@@ -12620,7 +12548,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-368
 
 - id: c-189050
@@ -12643,7 +12571,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-369
 
 - id: c-189051
@@ -12673,7 +12601,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-370
 
 - id: c-189052
@@ -12700,7 +12628,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-371
 
 - id: c-189053
@@ -12720,7 +12648,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-372
 
 - id: c-189054
@@ -12739,7 +12667,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-373
 
 - id: c-189055
@@ -12759,7 +12687,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-374
 
 - id: c-189056
@@ -12777,7 +12705,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-375
 
 - id: c-189057
@@ -12803,8 +12731,473 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-376
+
+- id: c-180382
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  puslapiai: "PDF 259"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 259."
+  citata_originali: |
+    , 425, 389 nr.
+
+
+    ```
+    238
+    ```
+    lius ir kaip tas ūkis buvo Lietuvoj platus, aišku jau iš to, kad
+    keliaujant jam 1427 m. po Rusiją, dar nepasiekus Smolensko, pa­
+    kelyje jis gavo dovanų 2007 arklius; toliau jo brolis Zigmantas
+    dovanojo 210 arklių, kaž koks pasienio vaivada 200, kiti po ma­
+    žiau^1 ).
+  statusas: verified
+  atnaujinta: "2026-07-28 14:17"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-190029
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 56"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 56."
+  citata_originali: |
+    Tai buvo Vytauto išauginti pareigūnai. Taigi Vytautas išaugino savo mokyklą. Jo politinis
+    pragmatizmas įgijo tęstinumą. O tai buvo labai svarbu ginant Lietuvos valstybingumą.
+    Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kurią galėtume pavadinti
+    imperija.
+  citata_rodoma: "buvo Vytauto išauginti pareigūnai. Taigi Vytautas išaugino savo mokyklą. Jo politinis \npragmatizmas įgijo tęstinumą. O tai buvo labai svarbu ginant Lietuvos valstybingumą.\nVy"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207432
+
+- id: c-190102
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 30"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 30."
+  citata_originali: |
+    Sienos nu-
+    statomos gamtinėmis ribomis – miškais, pelkėmis ir upėmis (Bebru, Suprasliu). Naujas
+    tarpsnis sienų istorijoje yra Vytauto laikai. Tiek Melno taikos sutartis su Vokiečių ordinu
+    1422 m., tiek su Livonijos ordinu 1426 m. buvo skirtos sienų su ordinu delimitacajai, o po
+    šių sutarčių vyko sudėtingi ženklinimo darbai – kasami kapčiai ir grioviai, ant medžių
+    iškalami Vytauto ir kitokie ženklai.
+  citata_rodoma: "Naujas \ntarpsnis sienų istorijoje yra Vytauto laikai. Tiek Melno taikos sutartis su Vokiečių ordinu \n1422 m., tiek su Livonijos ordinu 1426 m. buvo skirtos sienų su ordinu delimitacajai, o po \nšių sutarčių vyko sudėtingi ženklinimo darbai – kasami kapčiai ir grioviai, ant medžių \niškalami Vytauto ir kitokie ženklai."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207443
+
+- id: c-190112
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 124"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 124."
+  citata_originali: |
+    O juk ir Lietuvos krikšto metu Jogaila suteikė privilegijas
+    ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų nuosavybę, bei Vilniaus mies-
+    tiečiams, suteikdamas jiems savivaldą. Lietuvos krikštas davė pradžią luominei visuomenei.
+    Vytauto laikų permainos
+    Ryškia permaina LDK istorijoje tapo Vytauto valdymas (1392–1430).
+  citata_rodoma: "Ryškia permaina LDK istorijoje tapo Vytauto valdymas (1392–1430)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207469
+
+- id: c-192999
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  puslapiai: "PDF 180"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 180."
+  citata_originali: |
+    O mes grįžkime prie ankstesnio pasakojimo.
+    Šiam chanui Devlet-Berdi nedaug laiko pavaldžius
+    ir šalin pasitraukus, tie Ordos vyresnieji išgirdo, kad
+    šlovingasis valdovas yra netoli, aukščiau minėtoje Ki­
+    jevo pilyje. Ir jie patys atvyko ir nusilenkė jam, šlo­
+    vingajam valdovui, didžiajam kunigaikščiui Vytautui, ir
+    atnešė brangių dovanų, ir prašo iš jo chano.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193229
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
+  citata_originali: |
+    Bychovco kronikos rankraštį prieš 1830 m. Alek­
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
+    niaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl
+    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už­
+    sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
+    kronikos fragmentą — pasakojimą apie Vytauto brolio
+    Žygimanto Kęstutaičio nužudymą 1440 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193260
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 101."
+  citata_originali: |
+    Ir didysis kunigaikštis Vytautas, jo prašomas, atvy­
+    ko prie Ugros upės, pasiėmęs su savimi vieną didiką,
+    vardu Andrių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210846
+
+- id: c-193356
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+  citata_originali: |
+    I. VYTAUTO SKUNDAS PRIEŠ JOGAILĄ IR SKIRGAILĄ
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211681
+
+- id: c-193476
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  puslapiai: "PDF 179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
+  citata_originali: |
+    Ir šis didysis kunigaikštis Aleksandras,
+    vadinamas Vytautu, valdė didžiai gerbiamas ir šlovi­
+    namas.
+    Būnant jam vienoje iš savo pilių, didžiajame Kije­
+    ve, atsiuntė pas jį pasiuntinius didieji Ordos kuni­
+    gaikščiai, siūlydamiesi jam tarnauti ir prašydami jį
+    skirti jiems chaną, kad juos valdytų. Mat, daug buvo
+    Ordos didžiųjų chanų, tarnaujančių jo rūmuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193497
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 264."
+  citata_originali: |
+    Vytautas mirė Trakuose
+    1430 m. spalio 27 d.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211748
+
+- id: c-194079
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
+  citata_originali: |
+    Ir kai šlovingasis val­
+    dovas Vytautas užpykdavo ant kurios nors šalies ir pa­
+    norėdavo kurią nors šalį nubausti, karalius Vladislovas
+    visuomet suteikdavo jam pagalbą, Įo kai kada pats
+    vykdavo jam į pagalbą).
+    Tarnavo jam ir kiti Rytų valdovai. Taip pat ir Mask­
+    vos didysis kunigaikštis gyveno su juo didelėje meilėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194143
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  puslapiai: "PDF 265"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 265."
+  citata_originali: |
+    Vytautui
+    mirštant, lenkų kilmės Podolės bajorai, vadovaujami Podolės Ka-
+    meneco vyskupo Povilo ir Hrickos Klrdejevičiaus, Lenkijos Tary­
+    bos nurodymu, suėmė Podolės sostinės Kameneco seniūną Daugir­
+    dą ir užėmė Kamenecą bei kitas LDK priklausančias Podolės pilis
+    (Cervonogradą, Skalą. Smotričių) Ir prijungė prie Lenkijos.
+    LDK metraščių TS ir PS nuorašuose yra atskiras pasako|imas
+    apie Podolės patekimą Lenkijos valdžion, Vytautui mirus, bet BK
+    autorius jo j savo tekstą nebojtrauke, jo vieton
+    patelkdamas savo
+    originalią literatūrine konflikto dėl Podolės versiją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194279
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  puslapiai: "PDF 102-103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102-103."
+  citata_originali: |
+    Sekančiais metais didysis kunigaikštis Vytautas išsi­
+    rengė prieš Pskovo miestą5 ir paėmė Pskovo miestus
+    Veližą6 ir Krasnyj Gorod7. Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+    (07
+
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8, o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194377
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
+  citata_originali: |
+    Ir Danijos
+    karalius didžiai šlovino ir daugeliu dovanų apdovanojo
+    šlovingąjį valdovą, didį kunigaikštį Vytautą.
+    Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
+    vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
+    gyveno su juo didelėje meilėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194600
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 283-284"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 283-284."
+  citata_originali: |
+    Tas pats auto­
+    rius pateikia didžiojo kunigaikščio Vytauto imperatoriui
+    1
+    Voigt. Gesch. Preuss. B. V. S. 62; Griinzbuch. Lit. B, P. 124.
+    Taip
+    pat:
+    Formularbucb.
+    S.
+    62.
+    273
+
+    Zigmantui rašyto 1420 metais laiško ištrauką, kur jis
+    aiškina Aukštaitijos pavadinimo arba geografinio Lietu­
+    vos padalijimo, apie kurį rašėme, reikšmę1
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212362
+
+- id: c-195340
+  autorius: "Teodoras Narbutas"
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  citata_originali: |
+    Neseckiui šis herbas, pavadintas Kru-
+    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213964
+
+- id: c-198490
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
+  citata_originali: |
+    Tame
+    krašte buvo daug vienodai garbinamų giraičių; kai tik Jeroni­
+    mas susiruošdavo jas kirsti, nesuskaičiuojamos verkiančių ir
+    aimanuojančių moterų minios atbėgdavo skųstis Vytautui, kad
+    kertami šventi miškai ir iš dievų atimamas prieglobstis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218019
+
+- id: c-199001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  citata_originali: |
+    1414 metais
+    kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
+    ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
+    užrašė bažnyčiai daugiau pajamų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216867
+
+- id: c-199369
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    Si epocha baigėsi 1386 metais, tai yra visiškai
+    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
+    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
+    daryti visą tautą.
+    IV 1386-1447 metai, tai yra iki to laikotarpio, kai Lietuva
+    nustojo turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pa­
+    siekė didžiausios savo galybės laikotarpį, ypač valdant Vytautui,
+    kuris sostą paveldėjo iš Skirgailos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201143
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  citata_originali: |
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216043
+
+- id: c-201245
+  autorius: "Teodoras Narbutas"
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  citata_originali: |
+    Šioje tautoje prietarai, susiję su kal­
+    bamuoju dievaičiu, gyvuoja iki šiol. Pastebėję po nakties avį
+    nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
+    arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja
+    žmonių arba gyvulių marą; dėl šios priežasties dažnai visame
+    kaime kyla didelis verksmas ir susijaudinimas; išplisdamas ap­
+    linkui, jis tampa didelio nerimo priežastimi. Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203150
+  autorius: "Petras Dusburgietis"
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  citata_originali: |
+    1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog
+    „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
+    prūsų žemių iki Vyslos su Pamede imtinai — R. B.), nes jie yra mano tėvų palikimas“41.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224178
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]

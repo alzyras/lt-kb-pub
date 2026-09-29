@@ -300,7 +300,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-56172
@@ -319,7 +319,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -341,7 +341,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-56174
@@ -362,7 +362,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-011
 
@@ -384,7 +384,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-85951
@@ -407,7 +407,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-85952
@@ -426,7 +426,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-85953
@@ -447,7 +447,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-85955
@@ -477,6 +477,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-167747
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -492,7 +493,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-188348
@@ -525,8 +526,130 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
+
+- id: c-201656
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
+  citata_originali: |
+    Vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis atgauti
+    kryžiuočių užgrobtą Pomeraniją. 1320 m. balandžio—1321 m. vasario mėn. Inovroclave
+    šiuo reikalu vyko teismas, kuriame dalyvavo popiežiaus skirti teisėjai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203575
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 223."
+  citata_originali: |
+    361 (354). Apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­
+    vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių
+    1326 viešpaties metais Lokietka, Lenkijos karalius, paprašė Gediminą, lietuvių
+    karalių, kurio dukterį neseniai buvo paėmęs į žmonas jo sūnus592, atsiųsti jam iš savo
+    krašto karių. Patenkindamas jo prašymą, šis davė jam 1200 raitelių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203863
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
+    Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
+    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
+    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
+    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
+    prieš Ordiną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204024
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
+    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
+    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
+    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
+    prieš Ordiną. Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
+    pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
+    66  PD, II, 6; PKD, s.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204627
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 254."
+  citata_originali: |
+    Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
+    padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį
+    buvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai
+    įsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.
+    Šit kokia stulbinanti ir siaubinga piktadarybė! Sis karalius neseniai buvo kunigaikštis,
+    visai neseniai apaštališkasis sostas jį pakėlė į karalius, vildamasis, kad dėl to jis uoliau,
+    ištikimiau ir ryžtingiau kovosiąs už šventąją bažnyčią, tikėjimą ir tikinčiuosius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206065
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 256-257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256-257."
+  citata_originali: |
+    Apie Kulmo žemės nusiaubimą 1330 metais
+
+      Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo
+      604 D. nutyli, kad Ordino valdų puolimas buvo numatytas bendromis Lokietkos ir
+    Gedimino jėgomis susitinkant Ordino teritorijoje rugsėjo 8 d. Lietuvos kariuomenė
+    rugsėjo pradžioje pasirodė prie Bartenšteino  ir kovodama žygiavo tolyn pro Lubavą,
+    palei Drevantą, pasiekė Straisbergo apylinkes, kur kryžiuočiai sutelkė jėgas, siekdami
+    atremti lietuvius. Iš čia Gediminas patraukė į pietus ir atvyko prie Dobrynės pilies, kurią
+    nesėkmingai šturmavo Lokietkos pajėgos. Čia įvyko derybos tarp Gedimino ir Lokietkos.
+
+    karalystės raiteliais, su daugybe samdininkų ir 8 tūkstančiais karių, kuriuos jam iš savo
+    žemės atsiuntė į pagalbą Vengrijos karalius, ir apgulė Šenenzės miestą bei pilį, o paskui
+    patraukė prie Lypos pilies, tačiau nė vienos jų nepaėmė, tik 10 dienų užgulė šią žemę,
+    viską grobdamas bei degindamas. Galop, pritrūkęs maisto ir sudaręs kurias ne kurias
+    sutartis, jis pasitraukė.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -74,5 +74,6 @@ Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir prad�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -71,5 +71,6 @@ Kronikoje teigiama, kad karmelitai šiurkščius marškinius pakeitė baltais ab
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

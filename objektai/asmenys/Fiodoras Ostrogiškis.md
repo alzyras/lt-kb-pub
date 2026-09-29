@@ -111,6 +111,7 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-169399
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -131,7 +132,7 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

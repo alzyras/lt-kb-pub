@@ -43,14 +43,32 @@ canonical_biography: "Albertas Nakutis žuvo Drobčiūnų kaime 1949 m. lapkrič
 
 Partizanas ir būrio vadas Albertas Nakutis-Viesulas, vėliau vadovavęs Tumo Vaižganto kuopai, žuvo Drobčiūnų kaime 1949 m. lapkričio 2 d.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Partizanas ir būrio vadas Albertas Nakutis-Viesulas, vėliau vadovavęs Tumo Vaižganto kuopai, žuvo Drobčiūnų kaime 1949 m. lapkričio 2 d.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-230804"></a>
+- t-001
+  teiginys: "Partizanas ir būrio vadas Albertas Nakutis-Viesulas, vėliau vadovavęs Tumo Vaižganto kuopai, žuvo Drobčiūnų kaime 1949 m. lapkričio 2 d."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211442
+
+## Citatos
+
+- id: c-211442
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 77"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 77."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

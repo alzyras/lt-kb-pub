@@ -69,5 +69,6 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

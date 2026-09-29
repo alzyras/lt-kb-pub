@@ -312,6 +312,112 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   pagrindžia:
     - c-175168
 
+<a id="claim-t-212376"></a>
+- t-212376
+  teiginys: "Dievus garbino senovės Indijos bu dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su siformavusiai budinu genčiai, kuri įsikūrė prie Dono."
+  atnaujinta: "2026-09-19 08:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194428
+
+<a id="claim-t-212879"></a>
+- t-212879
+  teiginys: "Pasak to paties istoriko, budinu giminei bū dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai žmonės, turi šviesiai mėlynas akis“1."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197311
+
+<a id="claim-t-213167"></a>
+- t-213167
+  teiginys: "Trečios knygos penktame skyriuje jau iškėlėme į istorijos areną dviejų — budinu ir gelonų — tautų tarpusavio ryšius, pa rodėme jų kilmės ištakas, ankstesniame šios knygos sky riuje kalbėjome apie lietuvių kilmę iš pelazgų, kurių pa likuonimis pavadinome."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196410
+
+<a id="claim-t-213670"></a>
+- t-213670
+  teiginys: "Budinai, spaudžiami sarmatų, persikėlė į Dono ir Doneco tarpupį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197345
+
+<a id="claim-t-213797"></a>
+- t-213797
+  teiginys: "Iš Herodoto žinome, kad budinai savo žemėje turėjo pastatę medines tvirtoves."
+  atnaujinta: "2026-09-19 08:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-214715"></a>
+- t-214715
+  teiginys: "Tad ir tas skitiškas lietuvių tautos pavadinimas galėjęs būti kildinamas iš to, kad ji buvo dviejų tautų, gelonų ir budinu, junginys, atsiradęs dar Slkitijos klestė jimo laikais, o pavadinimas galbūt atsineštas iš Rytų ir romėnams žinomas iš alanų bei."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196069
+
+<a id="claim-t-215146"></a>
+- t-215146
+  teiginys: "Herodoto budinai buvo venedų tauta, ir mums didelė pa guoda, jog jau tokiais ankstyvais amžiais toks patikimas rašytojas duoda mums akivaizdų atminimą senovinės tautos, kurią, protingai apsvarsčius visas galimybes, kiek vienas protaujantis slavas drąsiai, be."
+  atnaujinta: "2026-09-19 08:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194736
+
+<a id="claim-t-216642"></a>
+- t-216642
+  teiginys: "Narbutas teigia, kad budinų susiliejimas su europiečių tauta, graikų tikėjimo ir daugybės svetimų dievų priėmimas bei vietinės sąlygos užtemdė budizmą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200925
+
+<a id="claim-t-216905"></a>
+- t-216905
+  teiginys: "Narbutas teigia, kad Lemtis budinus nuo Ross arba Oskolo upės atvedė prie Nemuno vidurupio."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198868
+
 ## Reikšmingi paminėjimai
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -400,7 +506,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-009
 
@@ -421,7 +527,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175154
@@ -445,7 +551,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175155
@@ -464,7 +570,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175156
@@ -490,7 +596,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175163
@@ -515,7 +621,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-175164
@@ -539,7 +645,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-175165
@@ -567,7 +673,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-175166
@@ -595,7 +701,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-175167
@@ -621,7 +727,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-013
 
@@ -646,9 +752,299 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-014
+
+- id: c-194428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  citata_originali: |
+    Jame sakoma, kad
+    kolchai giminiavosi su indais, arba kitados iš Indostano
+    kilusiomis gentimis. Dievus garbino senovės Indijos bu­
+    dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­
+    siformavusiai budinu genčiai, kuri įsikūrė prie Dono.
+    Kadangi tie kolchai turėjo santykių su egiptiečiais ar
+    priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar
+    tvirtovės būta šiaurinėje Azovo jūros pakrantėje, tai da­
+    1
+    Ritter Carl.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212376
+
+- id: c-194667
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
+  citata_originali: |
+    Naujausių ir tiksliau­
+    sių šios graikų istoriko geografijos paaiškinimų pateikė
+    generolas Baturlinas, aprašydamas Darijaus žygį prieš
+    Skitiją2. Pasak jo, gelonų gyventa dabartinėje Staro-
+    belsko apskrityje, o budinai gyveno visai greta, rytų link
+    buvo užėmę šiandienių Voluikos ir Bogončavo miestų
+    apylinkes, vadinasi, šių abiejų genčių gyvenamas kraš­
+    tas plytėjo Dono ir Doneco tarpupyje, jo plotas iš pietų
+    į šiaurę galėjo būti nuo 48 iki 51 laipsnio platumos, o
+    tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
+    nės, Tambovo ir Penzos gubernijose. Šios gentys buvo
+    laikomos getų karta, kuri anksčiau turėjusi gyventi prie
+    Tisos, arba Tibiskos, upės, įtekančios į Dunojų ir dėl to
+    taip vadinamos3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194736
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
+  citata_originali: |
+    Štai kaip P. J. Safar­
+    žykas apibūdino T. Narbuto pamėgtuosius budinus: ,,<...>
+    Herodoto budinai buvo venedų tauta, ir mums didelė pa­
+    guoda, jog jau tokiais ankstyvais amžiais toks patikimas
+    rašytojas duoda mums akivaizdų atminimą senovinės
+    tautos, kurią, protingai apsvarsčius visas galimybes, kiek­
+    vienas protaujantis slavas drąsiai, be jokios apgaulės
+    gali laikyti savo padermės šaka“3. O antrame „Slavų se­
+    nienų“ tome konstatavo: „Budininai, budinai — pati se­
+    niausia Herodoto minima slavų šaka, kažkur Voluinėje
+    ir Baltarusijoje“4.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215146
+
+- id: c-194755
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  citata_originali: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195247
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  citata_originali: |
+    Hugas Grocijus, tyręs budinu ko­
+    lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
+    tyrimai paaiškina istorinę tiesą; tas autorius buvo Gero-
+    pijus Bekanas3. Sambijoje buvo gynybinių miestų, puikių
+    dievams garbinti skirtų šventųjų vietų, pastatytų turtin­
+    gų dvarų ir dėl nepaliaujamų susidūrimų su pakrančių
+    plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje
+    besivaidijančių gyventojų. Rytuose ši provincija ribojosi
+    su Nadruva, pietuose — su Natangija, vakaruose ir šiau­
+    rėje jos žemes skalavo Baltijos jūra.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196069
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 257."
+  citata_originali: |
+    Tad ir tas skitiškas lietuvių tautos pavadinimas
+    galėjęs būti kildinamas iš to, kad ji buvo dviejų tautų,
+    gelonų ir budinu, junginys, atsiradęs dar Slkitijos klestė­
+    jimo laikais, o pavadinimas galbūt atsineštas iš Rytų ir
+    romėnams žinomas iš alanų bei masagetų pasakojimų;
+    jie šią lygą žinojo dar rytuose
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214715
+
+- id: c-196410
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 201"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 201."
+  citata_originali: |
+    Trečios
+    knygos penktame skyriuje jau iškėlėme į istorijos areną
+    dviejų — budinu ir gelonų — tautų tarpusavio ryšius, pa­
+    rodėme jų kilmės ištakas, ankstesniame šios knygos sky­
+    riuje kalbėjome apie lietuvių kilmę iš pelazgų, kurių pa­
+    likuonimis pavadinome gelonus, susigiminiavusius ir su­
+    sijungusius į vieną tautą su budinais
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213167
+
+- id: c-197305
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 192"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 192."
+  citata_originali: |
+    Nors gal nėra Europoje nė
+    vienos tautos, kuri; nebūtų 'dviejų arba trijų skirtingų tau­
+    tų lydinys5 , Toks susiliejimas niekada nebuvo trumpo lai­
+    ko ar politinės santvarkos vaisius, bet istorinis faktas,
+    kurį nulemdavo atsitiktinumas ir netikėtos aplinkybės, su­
+    formavusios naujas tautas ir skatinusios žmonių plitimą
+    tuo metu, kai pirmykštės žmonių giminės dar buvo ne­
+    gausios, išskaidytos po tolimas vietoves ir kolonijas, kur
+    jas nubloškė apvaizda.
+    196
+    Būtent šitaip ir su panašiomis aplinkybėmis susijusi,
+    atrodo, lietuvių tautos, kaip lydinio dviejų senovės tautų,
+    gelonų ir budinu, pradžia. Pirmieji buvo pelazgų-helenų,
+    antrieji — indų-skitų kiimės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197311
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 75."
+  citata_originali: |
+    Pasak to paties istoriko, budinu giminei bū­
+    dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai
+    žmonės, turi šviesiai mėlynas akis“1. Būtent šie bruožai
+    yra skitiški, aprašyti to paties autoriaus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212879
+
+- id: c-197345
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
+  citata_originali: |
+    Maždaug įpusėjus VI amžiui prieš
+    Kristaus gimimą, kai sarmatai pradėjo keliauti per Kau­
+    kazą ir priartėjo prie Volgos žiočių, o skitų nomadai, jau
+    seniai įsikūrę abiejose Dnepro upės pakrantėse, tų pačių
+    genčių Pavolgio gyventojai, buvo priversti palikti savo
+    gyvenamąsias vietas dėl neabejotinai nemielos sarmatų
+    kaimynystės, tuomet budinams teko persikelti į kairiąją
+    Dono pusę ir įsikurti Dono bei Doneco tarpupyje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213670
+
+- id: c-198868
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  citata_originali: |
+    tre­
+    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
+    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
+    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
+    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
+    kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216905
+
+- id: c-200925
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 279-280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279-280."
+  citata_originali: |
+    Be­
+    je, budinu susiliejimas su europiečių tauta ir vėliau graikų ti­
+    3 Šio pavadinimo rašyba nesutampa: vieni rašoKriwe, kiti —Kre-
+    we. Mes laikomės pastarosios, kadangi Lietuvos istorijos paminkluose
+    turime Krewo, Krewiczy — pavadinimus, kilusius iš vieno šaltinio, iki
+    šiol girdimus iš žmonių lūpų ir randamus seniausiuose raštuose. Tie­
+    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
+    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
+    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
+    4 Dusburg. - Pars III. - Cap. 5.
+    5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją
+    (Zbior rozpraw. - T. I. - Cz. I. - Warszawa, 1827)*.
+    280
+
+    kėjimo bei daugybės svetimų dievų priėmimas, o dar vietinės
+    sąlygos ir nepaprastai didelis atitolimas nuo Azijos - visa tai
+    smulkiuose religijos dalykuose užtemdė budizmą, tad iki mūsų
+    laikų išliko tiktai kai kurie svarbiausi principai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216642
 
 ## Ryšiai
 - Budinai gyveno [[objektai/vietos/Bogončavas]], [[objektai/vietos/Volgos žemupys]], [[objektai/vietos/Volkovysko apskritis]], [[objektai/vietos/Voluika]]

@@ -162,6 +162,54 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   pagrindžia:
     - c-188901
 
+<a id="claim-t-214621"></a>
+- t-214621
+  teiginys: "Ignas Onacevičius buvo Teodoro Narbuto bičiulis ir mokytojas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195530
+
+<a id="claim-t-215713"></a>
+- t-215713
+  teiginys: "Narbutas laiške Ignui Onacevičiui rašė: „Antrą to mą paskyriau lietuvių tautos versmėms tyrinėti“1."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195870
+
+<a id="claim-t-218327"></a>
+- t-218327
+  teiginys: "Ignotas Onacevičius dėstė Vilniaus universitete."
+  atnaujinta: "2026-09-19 20:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201599
+
+<a id="claim-t-219781"></a>
+- t-219781
+  teiginys: "Ignotas Onacevičius Lietuvos istoriją suskirstė į penkias epochas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200735
+
 ## Citatos
 
 - id: c-83493
@@ -187,7 +235,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83494
@@ -209,7 +257,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171425
@@ -232,7 +280,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171426
@@ -250,7 +298,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188900
@@ -267,7 +315,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188901
@@ -285,8 +333,103 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-195530
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 439"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
+  citata_originali: |
+    Sumanymas. „Aš nerašau lietuvių tautos istorijos
+    < ...> “ — tokia iš pirmo žvilgsnio šokiruojančia dekla­
+    racija T. Narbutas pradėjo laišką bičiuliui ir mokytojui
+    Ignui Onacevičiui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214621
+
+- id: c-195870
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
+  citata_originali: |
+    T. Narbutas laiške Ignui Onacevičiui rašė: „Antrą to­
+    mą paskyriau lietuvių tautos versmėms tyrinėti“1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215713
+
+- id: c-200735
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    Ignotas Onacevičius Lietuvos istoriją suskirstė į tokias epo­
+    chas:
+    I. Legendinė istorija (1009-1183 metai).
+    II. Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie­
+    tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų,
+    tai yra Mindaugo valdymo.
+    III. Aiškesnė istorija - nuo Mindaugo (1240 metų) iki 1386
+    metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
+    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
+    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
+    prastai išaugo. Si epocha baigėsi 1386 metais, tai yra visiškai
+    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
+    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
+    daryti visą tautą.
+    IV 1386-1447 metai, tai yra iki to laikotarpio, kai Lietuva
+    nustojo turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pa­
+    siekė didžiausios savo galybės laikotarpį, ypač valdant Vytautui,
+    kuris sostą paveldėjo iš Skirgailos.
+    V. 1447-1569 metai, tai yra iki Liublino seimo, iki galutinio
+    Lietuvos susijungimo su Lenkija. Čia baigiasi savarankiška Lie­
+    tuvos istorija; ji įsilieja į Lenkijos istoriją**.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219781
+
+- id: c-201599
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  citata_originali: |
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218327
 
 ## Ryšiai
 - Ignas Onacevičius keliavo į [[objektai/vietos/Karaliaučius]]

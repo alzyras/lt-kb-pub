@@ -84,5 +84,6 @@ canonical_biography: "Čekai, nenustoję vilties, vėl išsiuntė savo pasiuntin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

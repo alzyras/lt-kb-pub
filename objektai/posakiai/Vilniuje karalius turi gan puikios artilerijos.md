@@ -78,5 +78,6 @@ grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios art
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

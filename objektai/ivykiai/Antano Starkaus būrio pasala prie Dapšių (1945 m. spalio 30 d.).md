@@ -41,13 +41,15 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: '1945 m. spalio 30 d. ties Dapšių kaimu Antano Starkaus būrio pasaloje, kaip nurodoma Onos Dapšytės-Kriukelienės kronikoje, stribai Vladas Doronda ir Antanas Remeikis buvo mirtinai sužeisti ir mirė pakeliui į Kupiškį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-214195
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 97"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 97."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:41"

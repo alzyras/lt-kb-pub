@@ -42,28 +42,6 @@ canonical_biography: "Dusburgietis teigia, kad 1324 viešpaties metais į Prūsi
 
 Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.
 
-## Teiginiai
-
-<a id="claim-t-60408"></a>
-- t-001
-  teiginys: "1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras iš Rozenbergo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Petras iš Rozenbergo atvyko į Prūsiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Petras iš Rozenbergo keliavo į Prūsija (0.94)"
-  temporaliniai_duomenys: "kelionės data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė per daug išplėsta."
-  pagrindžia:
-    - c-61040
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.'
@@ -106,8 +84,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Petras iš Rozenbergo keliavo į [[objektai/vietos/Prūsija]]

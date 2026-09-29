@@ -73,5 +73,6 @@ Mengli-Girėjus pasiuntė Achmat-Girėjų su didelėmis totorių pajėgomis į V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

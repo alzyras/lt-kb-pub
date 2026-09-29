@@ -90,5 +90,6 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

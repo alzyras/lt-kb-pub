@@ -89,6 +89,18 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   pagrindžia:
     - c-179316
 
+<a id="claim-t-213020"></a>
+- t-213020
+  teiginys: "Gotbrodo įpėdinis Goteris žu vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės Rindos vyru."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196784
+
 ## Citatos
 
 - id: c-174156
@@ -110,7 +122,7 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174157
@@ -135,7 +147,7 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179316
@@ -156,8 +168,50 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-196189
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  citata_originali: |
+    Vienas suomių burtininkas išpranašavo šį
+    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
+    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
+    laidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­
+    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
+    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
+    traukė baigiantis II krikščioniškosios eros amžiui4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196784
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  citata_originali: |
+    Maždaug to
+    paties amžiaus pabaigoje švedų karalius Got'brodas irgi
+    sėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­
+    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
+    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
+    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
+    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
+    laidojo jį itin pagarbiai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213020
 
 ## Ryšiai
 - Goteris kariavo prieš [[objektai/asmenys/Bojas]]

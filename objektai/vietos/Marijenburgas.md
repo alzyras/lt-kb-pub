@@ -112,11 +112,12 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
     atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
     Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-47097
@@ -137,11 +138,12 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
     rijenburgas.
   citata_rodoma: "Tuo būdu ordino centras pasidarė Ma-\nrijenburgas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175956
@@ -162,7 +164,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai

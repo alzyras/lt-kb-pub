@@ -41,13 +41,15 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: '1948 m. spalio 13 d. Skaistbalos kaime surengtoje pasaloje žuvo partizanas Antanas Morkūnas; šautuvas ir 60 šovinių taip pat buvo paimti.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-214411
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 317"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 317."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:43"

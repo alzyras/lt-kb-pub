@@ -7,10 +7,10 @@ datos:
   - '1946 m.'
 date_start: '1946'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,13 +43,15 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: '1946 m. gruodžio 12 d. Notigaloje per MVD Rokiškio ir Kupiškio skyrių organizuotą operaciją žuvo 12 partizanų, tarp jų Jonas Šiupinis.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-214284
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 105"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 105."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:42"

@@ -78,5 +78,6 @@ Jie grodavo vamz džiais, ir Kernius savo italų kalba vadino krantą, ku riame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

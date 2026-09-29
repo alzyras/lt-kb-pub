@@ -40,16 +40,19 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: 'Partizanai platino atsišaukimus, kuriuose gyventojams aiškino, kaip elgtis rinkimų metu.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 12"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Santrauka
 
 Partizanai platino atsišaukimus, kuriuose gyventojams aiškino, kaip elgtis rinkimų metu.
+
+## Citatos
+
+- id: c-214474
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 12"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 12."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:43"

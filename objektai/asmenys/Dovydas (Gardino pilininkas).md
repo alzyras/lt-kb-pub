@@ -486,7 +486,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-41892
@@ -509,7 +509,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
     - t-007
@@ -536,7 +536,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-009
     - t-018
@@ -558,7 +558,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-56072
@@ -585,7 +585,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -616,7 +616,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-011
 
@@ -642,7 +642,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-013
 
@@ -665,7 +665,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-167443
@@ -696,10 +696,40 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-016
     - t-017
+
+- id: c-201858
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
+  citata_originali: |
+    Apie Mazovijos žemės nusiaubimą 134 metais
+    Kai sutarė taiką, kai Livonijos ir Prūsijos žemių bei kitų kaimyninių kraštų broliai ir visi
+    kiti krikščionys tvirtai patikėjo, kad daugiau nebereikėsią kariauti, kai jau ketino kalavijus
+    perkalti į noragus, o ietis — į pjautuvus, tas pats nedorasis [karalius], tikėjimo bei tikinčiųjų
+    priešas, užsikimšo nelyginant kurčioji angis ausis, nenorėdamas girdėti išganingų jo
+    šventenybės popiežiaus perspėjimų, kuriuos minėtieji legatai kuo tiksliausiai jam buvo
+    perdavę; užuot pagalvojęs apie savo bei saviškių išganymą, būtent apie tai, kaip jam
+    priimti su tinkamomis iškilmėmis ir su derama pagarba krikšto sakramentą, jis, eidamas
+    savo pirmtakų pėdomis, vėl suskato iš paskutiniųjų naikinti tikėjimą ir tikinčiuosius.
+    Jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene
+    lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko
+    vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės
+    kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių
+    bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų. Jis nerodė pagarbos
+    nei bažnyčios sakramentams, nei šventiesiems rūbams bei indams, o dvasininkų, tiek
+    vienuolių, tiek pasauliečių, bei kitų abiejų lyčių žmonių sunaikino per 4 tūkstančius,
+    vienus nužudydamas, kitus išsivarydamas į amžiną vergovę583.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Dovydas (Gardino pilininkas) puolė [[objektai/vietos/Mozūrija]], [[objektai/vietos/Revelis]]

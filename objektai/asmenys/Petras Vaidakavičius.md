@@ -31,44 +31,61 @@ canonical_biography: "Kronikos duomenimis, Petras Vaidakavičius, Kosto sūnus, 
 
 Petras Vaidakavičius, Kosto sūnus, gimė 1905 m. Trakinių kaime, Ukmergės valsčiuje, mokėsi Ukmergės mokytojų seminarijoje, baigė Kauno pėstininkų mokyklą ir gavo leitenanto laipsnį. 1944 m. gruodį Skapagirio miške partizanais išrinktas junginio vadu Petras Vaidakavičius sutiko vadovauti ir pakeitė šautuvą į automatą. Petras Vaidakavičius vadovavo junginiui iki 1945 m. sausio 12 d.; 1952 m. jį suėmė, o liepos 30 d. karo tribunolas nuteisė 25 metams lagerio.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Petras Vaidakavičius, Kosto sūnus, gimė 1905 m. Trakinių kaime, Ukmergės valsčiuje, mokėsi Ukmergės mokytojų seminarijoje, baigė Kauno pėstininkų mokyklą ir gavo leitenanto laipsnį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 102"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1944 m. gruodį Skapagirio miške partizanais išrinktas junginio vadu Petras Vaidakavičius sutiko vadovauti ir pakeitė šautuvą į automatą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 102"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: 'Petras Vaidakavičius vadovavo junginiui iki 1945 m. sausio 12 d.; 1952 m. jį suėmė, o liepos 30 d. karo tribunolas nuteisė 25 metams lagerio.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 102-103"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-004
-  santrauka: 'Operatyvinėje pažymoje Petro Vaidakavičiaus partizanų junginys apibūdinamas kaip 1944–1945 m. veikęs Pandėlio, Panemunėlio ir Skapiškio valsčiuose bei sudarytas iš Kazio Krisiūno ir Alfonso Augulio būrių.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 104"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-231766"></a>
+- t-001
+  teiginys: "Petras Vaidakavičius, Kosto sūnus, gimė 1905 m. Trakinių kaime, Ukmergės valsčiuje, mokėsi Ukmergės mokytojų seminarijoje, baigė Kauno pėstininkų mokyklą ir gavo leitenanto laipsnį."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:01Z"
+  pagrindžia:
+    - c-212404
+
+<a id="claim-t-231767"></a>
+- t-002
+  teiginys: "1944 m. gruodį Skapagirio miške partizanais išrinktas junginio vadu Petras Vaidakavičius sutiko vadovauti ir pakeitė šautuvą į automatą."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:01Z"
+  pagrindžia:
+    - c-212405
+
+<a id="claim-t-231768"></a>
+- t-003
+  teiginys: "Petras Vaidakavičius vadovavo junginiui iki 1945 m. sausio 12 d.; 1952 m. jį suėmė, o liepos 30 d. karo tribunolas nuteisė 25 metams lagerio."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:01Z"
+  pagrindžia:
+    - c-212406
+
+<a id="claim-t-231769"></a>
+- t-004
+  teiginys: "Operatyvinėje pažymoje Petro Vaidakavičiaus partizanų junginys apibūdinamas kaip 1944–1945 m. veikęs Pandėlio, Panemunėlio ir Skapiškio valsčiuose bei sudarytas iš Kazio Krisiūno ir Alfonso Augulio būrių."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:01Z"
+  pagrindžia:
+    - c-212407
+
+## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1945 m. sausio operacijos metu Alfonsas Augulis ir Petras Vaidakavičius įsakė partizanams „atremti priešą“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
@@ -78,3 +95,53 @@ Petras Vaidakavičius, Kosto sūnus, gimė 1905 m. Trakinių kaime, Ukmergės va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-212404
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 102"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 102."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-212405
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 102"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 102."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+
+- id: c-212406
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 102-103"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 102-103."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-003
+
+- id: c-212407
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 104"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 104."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-004
+

@@ -62,5 +62,6 @@ Lenkams Lenkijoje buvo pavelyta turėti Macierz Polska ir universitetą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

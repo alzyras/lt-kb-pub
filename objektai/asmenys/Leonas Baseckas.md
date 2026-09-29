@@ -31,14 +31,13 @@ canonical_biography: "Basecką, Petro, gyvenantį Butėnų kaime."
 
 1947 m. kovo 18 d. Leonas Baseckas perdavė A. Starkaus laišką ir pasakojo, kad pas jį buvo užėję du asmenys: vieną jų Baseckas įvardijo kaip Starkų, o kito nepažino.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1947 m. kovo 18 d. Leonas Baseckas perdavė A. Starkaus laišką ir pasakojo, kad pas jį buvo užėję du asmenys: vieną jų Baseckas įvardijo kaip Starkų, o kito nepažino.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213223
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 184"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 184."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

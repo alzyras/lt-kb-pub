@@ -61,16 +61,6 @@ object_page_seo_policy_version: object-page-policy/v7
 
 ## Teiginiai
 
-<a id="claim-t-181427"></a>
-- t-001
-  teiginys: "Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-164981
-    - c-164983
-
 <a id="claim-t-181429"></a>
 - t-002
   teiginys: "SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti."
@@ -159,6 +149,37 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-177131
 
+<a id="claim-t-181431"></a>
+- t-181431
+  teiginys: "ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio."
+  atnaujinta: "2026-09-19 23:11"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Daugpilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latvija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Daugpilis: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latvija\" parinktas kaip owner_note_path. Targetas \"Daugpilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-164981
+
+<a id="claim-t-210538"></a>
+- t-210538
+  teiginys: "Latvija buvo trečioji, labiausiai į šiaurę nutolusi lietuvių genties sritis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-196175
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Istorijos, kurias turime, yra jau tokios vėlyvos, kad visko atminti negali; Latvija, politinei nepriklausomybei staigiai žlungant, virto vokiečių kolonija; pa čios tikrosios Lietuvos kunigaikštystės buvo nelaimingų vidaus sąmyšių ir išorės priešų užpuolimų.'
@@ -208,7 +229,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-164981
@@ -234,8 +255,8 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-181431
 
 - id: c-164982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -259,6 +280,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-164983
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -278,8 +300,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002
 
 - id: c-171620
@@ -299,7 +320,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171621
@@ -321,7 +342,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177130
@@ -344,7 +365,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-177131
@@ -363,8 +384,85 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-196175
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 284"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 284."
+  citata_originali: |
+    Trečia lietuvių genties sritis, labiausiai nuto­
+    lusi į šiaurę, vadinasi Latvija, o joje gyvenantys žmo­
+    nės — latviai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210538
+
+- id: c-197752
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 183."
+  citata_originali: |
+    Juodas (Johds)
+    Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­
+    šis. Daugiskaita Juodi (,Johdi) reiškia oro dvasias, mirusiųjų
+    vėles. Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę
+    šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197802
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  citata_originali: |
+    Iš Marienburgo, Karaliaučiaus, Revelio senienų
+    aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
+    duotas žirgas arba gaidys. Revelyje, šv. Olafo bažnyčioje, pats
+    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
+    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
+    laikų vėliava, paimta Latvijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198031
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
+  citata_originali: |
+    Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Užėmė Latviją: [[objektai/grupes/Sovietų Sąjunga]]

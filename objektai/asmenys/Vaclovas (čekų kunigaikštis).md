@@ -77,5 +77,6 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

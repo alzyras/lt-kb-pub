@@ -91,5 +91,6 @@ Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

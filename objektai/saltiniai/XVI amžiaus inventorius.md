@@ -75,5 +75,6 @@ Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

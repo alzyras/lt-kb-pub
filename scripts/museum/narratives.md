@@ -40,7 +40,7 @@ Traidenio vardas siejamas su Kernave, tačiau jo rezidavimo vietų nereikėtų s
 ## daumantas
 Lietuvos valdovas Daumantas žinomas iš labai negausių žinių. Įprastinėje chronologijoje jo valdymas dedamas tarp Traidenio ir Butigeidžio, maždaug 1282–1285 metais. Tiksli atėjimo į valdžią data, kilmė ir giminystės ryšiai nėra patikimai nustatyti. Šios spragos neleidžia parašyti tokios išsamios biografijos kaip apie vėlesnius valdovus.
 
-Svarbiausias jo vardo paminėjimas siejamas su 1285 metų Lietuvos kariuomenės žygiu į Tverės žemes ir valdovo žūtimi. Iš trumpo metraštinio liudijimo sunku nustatyti visą valdymo geografiją ar vidaus politiką. Todėl parodoje nepapildome šios istorijos tariamais asmeniniais bruožais ar nepaliudytomis reformomis.
+Svarbiausias jo vardo paminėjimas siejamas su 1285 metų Lietuvos kariuomenės žygiu į Tverės žemes ir valdovo žūtimi. Iš trumpo metraštinio liudijimo sunku nustatyti visą valdymo geografiją ar vidaus politiką.
 
 Ypač svarbu jo automatiškai netapatinti su geriau žinomu Pskovo kunigaikščiu Daumantu. Vienodas vardas ir vėlesni atvaizdai gali klaidinti tiek kataloguose, tiek internetinėse kolekcijose. Rodoma vėlesnė istorinė interpretacija, kurios reikšmė yra atminties istorija, o ne patvirtinta XIII amžiaus valdovo išvaizda.
 
@@ -49,14 +49,14 @@ Butigeidis priklauso ankstyvajai valdovų kartai, siejamai su Gediminaičių din
 
 Butigeidžio ir jo brolio Butvydo veikla minima santykių su Voluine kontekste. Šis laikotarpis taip pat sutampa su didėjančiu Vokiečių ordino spaudimu Lietuvos pasienyje. Valstybės išlikimą lėmė ne vien atskiri mūšiai, bet ir pilių gynyba, susitarimai bei valdžios perdavimo tęstinumas.
 
-Butigeidžio biografijoje dar daug nežinomybės. Jo vieta parodoje leidžia matyti, kad Gedimino laikų valstybė neatsirado tuščioje vietoje: ją rengė mažiau žinomų pirmtakų darbai. Vėliau sukurtas valdovo atvaizdas padeda atpažinti šį chronologijos tarpsnį, tačiau negali būti laikomas autentišku jo veido liudijimu.
+Butigeidžio gyvenimas paliudytas fragmentiškai. Parodoje rodomas daug vėliau sukurtas įsivaizduojamas portretas, todėl iš jo negalima spręsti apie valdovo išvaizdą.
 
 ## butvydas
 Butvydas, šaltiniuose siejamas ir su Pukuvero vardu, Lietuvos valdovu laikomas maždaug 1291–1295 metais. Jis siejamas su Butigeidžiu ir laikomas Vytenio tėvu. Platesnė ankstyvųjų Gediminaičių genealogija tebėra tyrimų sritis, todėl ne visus vėliau sudarytų giminės medžių ryšius galima pateikti kaip vienodai patikimus.
 
 Apie jo savarankišką valdymą išliko nedaug žinių. Šaltiniuose matoma jo sūnaus Vytenio karinė veikla Lenkijos žemėse, rodanti, kad dinastijos įtaka ir kariniai pajėgumai stiprėjo dar prieš Vyteniui užimant sostą. Lietuvos politika tuo metu buvo susijusi ir su Ordino ekspansija, ir su santykiais pietvakariuose.
 
-Butvydo reikšmė atsiskleidžia valdžios tęstinumo perspektyvoje. Jo valdymas jungia fragmentiškai paliudytą XIII amžiaus pabaigą su geriau pažįstama Vytenio ir Gedimino epocha. Parodoje jo portretas yra vėlesnė interpretacija. Vardo variantai ir vaizdų atribucijos tikrinami atskirai, kad Butvydas nebūtų supainiotas su Butigeidžiu.
+Tikslesnė Butvydo biografija ir kai kurie genealoginiai ryšiai lieka neaiškūs. Jo atvaizdas sukurtas po kelių šimtmečių ir yra įsivaizduojamas portretas.
 
 ## vytenis
 Vytenis Lietuvos valdovu tapo XIII amžiaus pabaigoje. Dar prieš tai šaltiniuose pasižymėjo karo žygiais. Jo valdymą lydėjo nuolatinis Vokiečių ir Livonijos ordinų spaudimas, tačiau Lietuva nebuvo vien besiginanti valstybė. Vytenis ieškojo partnerių, veikė Lenkijos žemėse ir stiprino politinius ryšius šiaurėje bei rytuose.
@@ -65,7 +65,7 @@ Ypač svarbus buvo bendradarbiavimas su Ryga. Miesto ir arkivyskupo konfliktas s
 
 1298 m. Lietuvos kariuomenė, veikdama sąjungoje su rygiečiais, laimėjo mūšį prie Turaidos. Ši sąjunga turėjo ir praktinę gynybinę pusę: Rygoje buvo įkurdinti Lietuvos kariai. Ryšys su miestu suteikė galimybę dalyvauti Dauguvos prekybos erdvėje ir ieškoti paramos prieš Livonijos ordiną. Karinis bendradarbiavimas su krikščionišku miestu rodė, kad politinius pasirinkimus galėjo lemti bendras priešininkas, o ne tik valdovo tikėjimas.
 
-Vytenio laikotarpis siejamas ir su Lietuvos pozicijų stiprėjimu Polocke. Vakarų pasienyje tuo pat metu reikėjo gintis nuo nuolatinių Ordino žygių, todėl valdovo veikla buvo paskirstyta tarp kelių politinių erdvių. Valdymo pabaiga datuojama 1315 arba 1316 metais. Jį pakeitęs Gediminas paveldėjo ne tik karus, bet ir jau sukurtą diplomatinių galimybių tinklą. Vėlesnis Vytenio portretas parodoje pristato valdovą, kurio darbai sudarė svarbią prielaidą XIV amžiaus Lietuvos iškilimui.
+Vytenio laikotarpis siejamas ir su Lietuvos pozicijų stiprėjimu Polocke. Vakarų pasienyje tuo pat metu reikėjo gintis nuo nuolatinių Ordino žygių, todėl valdovo veikla buvo paskirstyta tarp kelių politinių erdvių. Valdymo pabaiga datuojama 1315 arba 1316 metais. Jį pakeitęs Gediminas paveldėjo ne tik karus, bet ir jau sukurtą diplomatinių galimybių tinklą.
 
 ## gediminas
 Gedimino valdymo laikais Lietuva tapo plačiai atpažįstama Europos politinio pasaulio dalimi. Nuo 1316 metų valdęs kunigaikštis valstybę stiprino karine jėga, diplomatiniais susitarimais ir giminės santuokomis. Jo vardas davė pavadinimą dinastijai, kurios palikuonys valdė Lietuvoje, Lenkijoje ir kitose Vidurio bei Rytų Europos valstybėse.
@@ -76,14 +76,14 @@ Dinastinės santuokos siejo Gedimino šeimą ir su Lenkija, ir su rusėnų kunig
 
 Santykiai su krikščioniškuoju pasauliu nebuvo vienodi. Gediminas derėjosi dėl krikšto ir taikos, bet pats liko pagonis. Jo valdose gyveno skirtingų tikybų bendruomenės, o plėtra rusėnų žemėse reikalavo lankstaus santykio su jų politinėmis bei religinėmis tradicijomis. Vakaruose nesiliovė kovos su Ordinu, todėl diplomatija nepakeitė būtinybės gintis.
 
-Gedimino mirtis 1341 metais atvėrė klausimą, kaip padalyti ir išlaikyti didelę dinastinę valstybę. Jo palikimas — ne vien legendinis sostinės įkūrimas, bet ir valdžios, miestų bei tarptautinių ryšių stiprinimas. Parodoje portretas atskiriamas nuo legendos: vėlesni kūriniai rodo, kaip Gediminą prisiminė kitos kartos.
+Gediminas mirė 1341 m. Vilnių paveldėjo jo sūnus Jaunutis, kiti dinastijos nariai valdė skirtingas valstybės žemes. Vėlesni Gedimino portretai liudija jo atminimą, bet ne patikimai nustatytą išvaizdą.
 
 ## jaunutis
 Po Gedimino mirties 1341 metais valdžią Vilniuje paveldėjo Jaunutis. Šis pasirinkimas rodo, kad valdovo vieta nebuvo automatiškai perduodama vyriausiam ar karo žygiais labiausiai pasižymėjusiam sūnui. Gedimino giminės nariai valdė skirtingas žemes, todėl jų santykiai buvo svarbi visos valstybės politinės pusiausvyros dalis.
 
 Jaunučio valdymas truko neilgai. 1345 metais broliai Algirdas ir Kęstutis jį nuvertė. Po perversmo Jaunutis ieškojo paramos Maskvoje, kur priėmė stačiatikišką krikštą ir Ivano vardą. Vėliau susitaikė su broliais ir gavo valdyti Zaslavlį. Jo gyvenimas nesibaigė praradus Vilnių, nors didžiojo kunigaikščio vaidmens jis nebeatgavo.
 
-Jaunučio istorija parodo dinastinės valdžios ir teritorinio valdymo skirtumą. Pašalintas iš centrinės valdžios, kunigaikštis galėjo išlikti politiniame tinkle kaip atskiros žemės valdovas. Apie jo asmenybę ir valdymo sprendimus žinoma nedaug, todėl vėlesni vertinimai neturėtų užgožti šaltinių ribotumo. Jo vieta chronologijoje svarbi kaip perėjimas nuo Gedimino palikimo prie ilgos Algirdo ir Kęstučio bendradarbiavimo epochos.
+Pašalintas iš Vilniaus, Jaunutis liko atskiros žemės kunigaikščiu. Apie jo asmenybę ir savarankiškus valdymo sprendimus žinoma nedaug.
 
 ## algirdas
 Algirdas Lietuvos didžiuoju kunigaikščiu tapo 1345 metais, kartu su Kęstučiu pašalinęs Jaunutį. Brolių bendradarbiavimas tapo viena svarbiausių XIV amžiaus Lietuvos politinių atramų. Algirdas daug dėmesio skyrė rytinėms ir pietinėms žemėms, o Kęstutis — vakarų gynybai, nors jų veiklos sritys nebuvo visiškai atskirtos.
@@ -94,7 +94,7 @@ Valdovo šeimą ir dvarą supo skirtingos religinės tradicijos. Rusėnų žemė
 
 Santykiuose su Maskva Algirdas siekė išlaikyti Lietuvos įtaką Rytų Europoje. Žygiai į Maskvą parodė valstybės karinį pajėgumą, bet nesukūrė ilgalaikės Lietuvos viršenybės šiame centre. Tuo pat metu vakaruose vyko karai su Ordinu, reikalavę didelių išteklių. Skirtingos karo kryptys vertė nuolat derinti dinastijos ir pavaldžių žemių interesus.
 
-Algirdui mirus 1377 metais, valdžią paveldėjo Jogaila. Gausi valdovo šeima ir skirtingų sūnų atramos taškai turėjo ilgalaikių politinių pasekmių. Algirdo palikimas — didelė, daugiakonfesė valstybė, kurios mastas suteikė galimybių, bet kartu kėlė sudėtingus paveldėjimo, gynybos ir vienybės uždavinius.
+Algirdui mirus 1377 m., valdžią paveldėjo Jogaila. Kęstutis tebevaldė Trakus, o kiti Algirdo sūnūs turėjo savo valdas ir politinius ryšius. Netrukus dinastijoje prasidėjo kova dėl valdžios.
 
 ## jogaila
 Jogaila Lietuvos valdovu tapo 1377 m., paveldėjęs tėvo Algirdo politinę padėtį. Tačiau dinastijos valdžia nebuvo nedaloma: Trakuose įsitvirtinęs Kęstutis turėjo savo atramą ir ilgametę bendravaldystės patirtį. Slapti Jogailos susitarimai su Vokiečių ordinu pagilino jų konfliktą. Kęstutis trumpam perėmė Vilnių, o Jogailos sugrįžimą į valdžią 1382 m. lydėjo dėdės įkalinimas ir mirtis Krėvoje. Ši krizė pradėjo ilgą Jogailos ir Kęstučio sūnaus Vytauto kovą.
@@ -103,7 +103,7 @@ Jogaila Lietuvos valdovu tapo 1377 m., paveldėjęs tėvo Algirdo politinę pad�
 
 Lietuvos ir Lenkijos ryšys iš pradžių buvo grindžiamas dinastiniu susitarimu, o jo turinys ilgai derintas. 1392 m. Astravos susitarimu Lietuvą valdyti perėmė Vytautas. Jogaila išlaikė aukščiausiojo kunigaikščio padėtį, todėl jo valdžios Lietuvoje pabaiga skirtinguose sąrašuose žymima nevienodai. Šioje chronologijoje 1392 m. žymi tiesioginio valdymo perdavimą, o ne visų jo teisių išnykimą.
 
-Abiejų valdovų bendradarbiavimas tapo lemiamas 1410 m. Žalgirio mūšyje. Jogaila vadovavo sąjungininkų žygiui ir Lenkijos kariuomenei, Vytautas — Lietuvos pajėgoms. Pergalė nesunaikino Ordino, bet iš esmės pakeitė jėgų pusiausvyrą. Jogaila mirė 1434 m., palikdamas Jogailaičių dinastiją ir ilgalaikį dviejų valstybių ryšį. Jo istorinė reikšmė apima ne vien karo laimėjimus: krikštas, privilegijos ir dinastinė politika suformavo naują Lietuvos politinės raidos kryptį.
+Abiejų valdovų bendradarbiavimas tapo lemiamas 1410 m. Žalgirio mūšyje. Jogaila vadovavo sąjungininkų žygiui ir Lenkijos kariuomenei, Vytautas — Lietuvos pajėgoms. Pergalė nesunaikino Ordino, bet iš esmės pakeitė jėgų pusiausvyrą. Jogaila mirė 1434 m., palikdamas Jogailaičių dinastiją ir ilgalaikį dviejų valstybių ryšį.
 
 ## kestutis
 Kęstučio, Gedimino sūnaus, vieta Lietuvos istorijoje gerokai platesnė už trumpą jo buvimą didžiuoju kunigaikščiu. 1345 m. padėjęs Algirdui nušalinti Jaunutį, jis tapo svarbiausiu brolio partneriu. Kęstučio valdų centras buvo Trakai, o jo politinėje veikloje ypač svarbi buvo vakarinės valstybės dalies gynyba. Algirdo ir Kęstučio bendradarbiavimas leido valstybei tuo pačiu metu veikti rusėniškose žemėse ir atremti Vokiečių ordino puolimus.
@@ -175,7 +175,7 @@ Vilniaus dvaras jo laikais tapo svarbiu Renesanso kultūros centru. Valdovas kau
 
 1566 m. Antrasis Lietuvos Statutas ir administracinės reformos išplėtė bajorų dalyvavimą teismuose bei politiniame gyvenime. Livonijos karas, Maskvos spaudimas ir gynybos poreikiai skatino ieškoti glaudesnės sąjungos su Lenkija. 1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką. Derybas lydėjo aštrūs nesutarimai, o dalis Lietuvos valdytų žemių buvo prijungta prie Lenkijos. Bendra valstybė turėjo renkamą valdovą ir Seimą, bet Lietuva išlaikė atskirą teisę, pareigybes, iždą ir kariuomenę.
 
-Žygimantas Augustas mirė 1572 m., nepalikęs teisėto įpėdinio. Jo mirtis atvėrė tarpuvaldį ir laisvų valdovo rinkimų epochą. Šioje parodoje jis jungia abu skyrius: buvo Lietuvos didysis kunigaikštis iki unijos ir pirmasis naujos Respublikos valdovas po jos. Jo palikimas apima kultūros mecenatystę, reikšmingas vidaus reformas ir politinę sąjungą, kurios veikimas vėliau priklausė jau nuo kitų dinastijų bei bajorų politinės bendruomenės.
+Žygimantas Augustas mirė 1572 m., nepalikęs palikuonių. Baigėsi Jogailaičių dinastijos valdymas ir prasidėjo tarpuvaldis. Toliau bendrą Lietuvos ir Lenkijos valdovą rinko abiejų valstybių bajorai.
 
 ## henrikas-valua
 Henrikas Valua tapo pirmuoju Abiejų Tautų Respublikos valdovu, išrinktu po Jogailaičių dinastijos pabaigos. Prancūzijos karaliaus brolio kandidatūrą rėmė diplomatinė kampanija, žadėjusi valstybei tarptautinių sąjungų ir finansinės naudos. 1573 m. rinkimai parodė naują politinį principą: sostas nebebuvo savaime paveldimas vienos giminės nuosavybė. Valdovas turėjo gauti bajorų politinės bendruomenės pritarimą ir patvirtinti jos keliamas sąlygas.
@@ -191,9 +191,9 @@ Ona Jogailaitė buvo Žygimanto Senojo ir Bonos Sforcos duktė, Žygimanto Augus
 
 1575 m. dalis rinkėjų iškėlė Oną valdove, numatydami jos santuoką su Transilvanijos kunigaikščiu Steponu Batoru. Kitais metais abu buvo karūnuoti. Šis sprendimas sujungė Jogailaičių dinastijos autoritetą ir Batoro politines bei karines galimybes. Lietuvos politinė bendruomenė dėl rinkimų ir savo teisių kėlė atskirus reikalavimus, todėl bendro valdovo pripažinimas buvo susitarimų procesas, o ne vien karūnavimo ceremonija.
 
-Kasdienį valstybės valdymą ir karo politiką daugiausia vykdė Batoras. Onos įtaka buvo kitokio pobūdžio: ji veikė per dvarą, dinastinius ryšius, fundacijas ir asmeninį autoritetą. Santuoka nesusilaukė vaikų ir nesukūrė naujos paveldimos dinastijos. Vis dėlto Onos vieta rinkimuose skiria ją nuo valdovių, kurios titulą įgijo vien kaip valdovo sutuoktinės. Dėl šios priežasties parodoje jai skirta savarankiška sekcija su paaiškinta bendravaldystės padėtimi.
+Kasdienį valstybės valdymą ir karo politiką daugiausia vykdė Batoras. Onos įtaka buvo kitokio pobūdžio: ji veikė per dvarą, dinastinius ryšius, fundacijas ir asmeninį autoritetą. Sutuoktiniai nesusilaukė vaikų. Vis dėlto Onos vieta rinkimuose skiria ją nuo valdovių, kurios titulą įgijo vien kaip valdovo sutuoktinės. Dėl šios priežasties parodoje jai skirta savarankiška sekcija su paaiškinta bendravaldystės padėtimi.
 
-Po Batoro mirties 1586 m. Ona rėmė sesers Kotrynos sūnų Zigmantą Vazą. Jo išrinkimas susiejo naująją dinastiją su Jogailaičių palikimu. Ona išlaikė karalienės titulą iki mirties 1596 m., tačiau šioje chronologijoje bendras valdymo laikotarpis baigiamas Batoro mirtimi. Jos palikimas matomas ir meno užsakymuose, sakralinėse fundacijose bei dinastijos atminimo puoselėjime. Tai primena, kad valdžios istorija apima daugiau negu kariuomenės vadovavimą ar formalius įsakymus.
+Po Batoro mirties 1586 m. Ona rėmė sesers Kotrynos sūnų Zigmantą Vazą. Jo išrinkimas susiejo naująją dinastiją su Jogailaičių palikimu. Ona išlaikė karalienės titulą iki mirties 1596 m., tačiau šioje chronologijoje bendras valdymo laikotarpis baigiamas Batoro mirtimi. Jos palikimas matomas ir meno užsakymuose, sakralinėse fundacijose bei dinastijos atminimo puoselėjime.
 
 ## steponas-batoras
 Steponas Batoras į Respublikos sostą atėjo iš Transilvanijos. Po Henriko Valua pasitraukimo vykę rinkimai buvo susiskaldę: skirtingos grupės rėmė skirtingus kandidatus. Batoro santuoka su Ona Jogailaite suteikė jam ryšį su ankstesne dinastija. 1576 m. karūnuotas valdovas turėjo susitarti su Lietuvos politine bendruomene ir įtvirtinti savo padėtį visoje Respublikoje. Jo valdžia rėmėsi tiek kariniu autoritetu, tiek gebėjimu veikti bajoriškos santvarkos sąlygomis.
@@ -202,7 +202,7 @@ Didžiausiu iššūkiu tapo Livonijos karas ir Maskvos užimtos žemės. Batoras
 
 Valdovo vardas glaudžiai susijęs su Vilniaus universitetu. 1579 m. jo privilegija jėzuitų kolegijai suteikė akademijos ir universiteto teises, vėliau patvirtintas popiežiaus. Aukštoji mokykla tapo ilgalaikiu regiono mokslo ir kultūros centru. 1581 m. įsteigtas Lietuvos Vyriausiasis Tribunolas suteikė bajorams aukščiausią apeliacinę teismo instituciją ir pakeitė teismų santykį su valdovu.
 
-Batoras mirė Gardine 1586 m., nepalikęs įpėdinio. Jo reputaciją stiprino sėkmingas karas, tačiau trumpas valdymas nepašalino visų valstybės finansinių ir politinių sunkumų. Jis turėjo nuolat derėtis dėl mokesčių, kariuomenės ir bajorų pritarimo. Batoro palikimas Lietuvoje ypač ryškus ten, kur karo istorija susitinka su institucijomis: Polocko atgavimas, universitetas ir Tribunolas įtvirtino skirtingas valstybės galios bei savarankiškumo formas.
+Batoras mirė Gardine 1586 m., nepalikęs palikuonių. Po jo mirties prasidėjo nauji valdovo rinkimai.
 
 ## zigmantas-vaza
 Zigmantas Vaza buvo Švedijos karaliaus Jono III ir Kotrynos Jogailaitės sūnus. Jo motinos kilmė siejo kandidatą su Jogailaičių dinastija, o Onos Jogailaitės parama padėjo 1587 m. rinkimuose. Lietuva Zigmantą pripažino 1588 m., suderinus jos politinius reikalavimus. Tais metais patvirtintas Trečiasis Lietuvos Statutas tapo itin svarbiu Lietuvos teisinio savitumo pagrindu ir galiojo gerokai ilgiau negu pati Respublika.
@@ -281,6 +281,6 @@ Stanislovas Augustas Poniatovskis išrinktas 1764 m., remiant Čartoriskių poli
 
 1768 m. prasidėjusi Baro konfederacija ir vėlesni konfliktai gilino krizę. 1772 m. Rusija, Prūsija ir Austrija įvykdė pirmąjį Respublikos padalijimą. Valstybė neteko didelių teritorijų, bet reformų darbas nenutrūko. 1773 m. įkurta Edukacinė komisija pertvarkė švietimą, o valdovas rėmė meną, mokslą, spaudą ir istorijos tyrimus. Apšvietos kultūra tapo svarbia pastangų keisti visuomenę dalimi.
 
-Ketverių metų seimas mėgino sustiprinti valstybės institucijas ir kariuomenę. 1791 m. Gegužės 3-iosios konstitucija pertvarkė santvarką, ribojo liberum veto veikimą ir numatė paveldimą monarchiją. Tų pačių metų Abiejų Tautų tarpusavio įžadas patikslino Lietuvos ir Lenkijos santykį bendrose institucijose. Reformos susidūrė su Targovicos konfederacija ir Rusijos karine intervencija. Valdovo prisijungimas prie konfederacijos buvo bandymas išsaugoti dalį politinių galimybių, bet kartu tapo vienu labiausiai kritikuojamų jo sprendimų.
+Ketverių metų seimas mėgino sustiprinti valstybės institucijas ir kariuomenę. 1791 m. Gegužės 3-iosios konstitucija pertvarkė santvarką, panaikino liberum veto teisę ir numatė paveldimą monarchiją. Tų pačių metų Abiejų Tautų tarpusavio įžadas patikslino Lietuvos ir Lenkijos santykį bendrose institucijose. Reformos susidūrė su Targovicos konfederacija ir Rusijos karine intervencija. Valdovo prisijungimas prie konfederacijos buvo bandymas išsaugoti dalį politinių galimybių, bet kartu tapo vienu labiausiai kritikuojamų jo sprendimų.
 
-1793 m. įvyko antrasis padalijimas, o 1794 m. sukilimas valstybės nebeišgelbėjo. Po trečiojo padalijimo 1795 m. Stanislovas Augustas atsisakė sosto. Jis mirė Sankt Peterburge 1798 m. Paskutinio valdovo palikimas išlieka prieštaringas: kultūros mecenatas ir reformų dalyvis kartu buvo politiškai priklausomas monarchas, kuriam valdant valstybė išnyko iš Europos žemėlapio. Jo biografija užbaigia parodą, bet ne Lietuvos visuomenės, politinės minties ir valstybingumo atminties istoriją.
+1793 m. įvyko antrasis padalijimas, 1794 m. – Tado Kosciuškos sukilimas. Po trečiojo padalijimo 1795 m. Stanislovas Augustas atsisakė sosto. Jis mirė Sankt Peterburge 1798 m.

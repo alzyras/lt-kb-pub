@@ -7,10 +7,10 @@ datos:
   - '1947 m.'
 date_start: '1947'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,13 +46,15 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: 'Nuo 1947 m. vasario J. Šeinauskas palaikė ryšius su Aniceto Laužiko vadovaujamo Vytenio būrio partizanais, priimdavo juos namuose, aprūpindavo maistu ir teikdavo žvalgybinio pobūdžio žinių.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-214478
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 278"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 278."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:43"

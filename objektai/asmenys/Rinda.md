@@ -56,6 +56,18 @@ Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, 
   pagrindžia:
     - c-174341
 
+<a id="claim-t-210403"></a>
+- t-210403
+  teiginys: "Gotbrodo įpėdinis Goteris žu vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės Rindos vyru."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197321
+
 ## Citatos
 
 - id: c-174341
@@ -77,8 +89,30 @@ Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197321
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  citata_originali: |
+    Maždaug to
+    paties amžiaus pabaigoje švedų karalius Got'brodas irgi
+    sėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­
+    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
+    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
+    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
+    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
+    laidojo jį itin pagarbiai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210403
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Bojas]]

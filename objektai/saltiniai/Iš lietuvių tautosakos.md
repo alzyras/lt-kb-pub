@@ -62,9 +62,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Kalevalos dr-jos metr. 8.
   citata_rodoma: "1928 L. Iš lietuvių tautosakos. \nKalevalos dr-jos metr. 8."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

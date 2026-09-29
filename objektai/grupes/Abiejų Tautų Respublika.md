@@ -366,6 +366,109 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindžia:
     - c-185894
 
+<a id="claim-t-207498"></a>
+- t-207498
+  teiginys: "Nuo 1569 m. LDK ir Lenkijos sąjunga įvardijama kaip Lenkijos ir Lietuvos valstybė, arba Abiejų Tautų Respublika."
+  atnaujinta: "2026-09-19 06:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: po 1569 m.; įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas, turi aiškų subjektą ir tarinį bei apibūdina 1569 m. LDK ir Lenkijos sąjungos įvardijimą. Citata tiesiogiai jį pagrindžia."
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-190115
+
+<a id="claim-t-207499"></a>
+- t-207499
+  teiginys: "Lietuva išlaikė suverenumą Abiejų Tautų Respublikoje."
+  atnaujinta: "2026-09-19 06:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190116
+
+<a id="claim-t-207500"></a>
+- t-207500
+  teiginys: "Timothyʼo Snyderio manymu, ankstyvaisiais naujaisiais amžiais Abiejų Tautų Respublikoje susiformavo ikimoderni tauta, jo vadinama lenkų tauta."
+  atnaujinta: "2026-09-19 06:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190117
+
+<a id="claim-t-208025"></a>
+- t-208025
+  teiginys: "Abiejų Tautų Respublika minima kaip viena iš Vidurio Rytų Europos palivarko ūkio lyginamosios analizės erdvių."
+  atnaujinta: "2026-09-19 06:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190658
+
+<a id="claim-t-208205"></a>
+- t-208205
+  teiginys: "Abiejų Tautų Respublika tekste minima kaip valstybė, kurios trečiasis ir paskutinis padalijimai paliko didelį įspūdį Lietuvos pranciškonams."
+  atnaujinta: "2026-09-19 06:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190947
+
+<a id="claim-t-208226"></a>
+- t-208226
+  teiginys: "Abiejų Tautų Respublika 1790 m. kovo 19 d. sudarė sąjungos sutartį su Prūsijos Karalyste."
+  atnaujinta: "2026-09-19 06:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1790 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190900
+
+<a id="claim-t-208230"></a>
+- t-208230
+  teiginys: "Abiejų Tautų Respublikos Seimas Hagos pasiuntinybei kėlė politinius ir ekonominius tikslus."
+  atnaujinta: "2026-09-19 06:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190940
+
+<a id="claim-t-218500"></a>
+- t-218500
+  teiginys: "Po 1795 m. trečiojo padalijimo Lenkijos ir Lietuvos valstybė neteko nepriklausomybės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200743
+
 ## Citatos
 
 - id: c-26821
@@ -390,6 +493,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-26822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -410,7 +514,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-26823
@@ -444,7 +548,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-013
 
@@ -467,7 +571,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-010
 
@@ -490,7 +594,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-26826
@@ -514,7 +618,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-012
 
@@ -540,7 +644,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-26828
@@ -562,7 +666,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-42627
@@ -585,7 +689,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-77418
@@ -608,7 +712,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-77420
@@ -638,7 +742,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-77421
@@ -662,7 +766,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-176784
@@ -690,7 +794,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-185894
@@ -700,9 +804,183 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindzia:
+  pagrindžia:
     - t-016
+
+- id: c-190115
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 16"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 16."
+  citata_originali: |
+    Lietuvos Didžioji Kunigaikštija: tarsi gyvos valstybės
+    faktai
+    Valstybės chronologija: nuo XIII a. vidurio iki 1795 m.
+    Valstybinės sąjungos: nuo 1385 m. personalinė arba dinastinė unija su Lenkija, nuo
+    1569 m. federacija su Lenkija – Lenkijos ir Lietuvos valstybė, arba Abiejų Tautų Respu-
+    blika, kuri 1592–1599 m. susijusi personaline unija su Švedija, 1697–1763 m. – personaline
+    unija su Saksonija.
+    Valstybės vadovas: didysis kunigaikštis (1253–1263 m. karalius), nuo 1569 m. kartu
+    ir Lenkijos karalius.
+  citata_rodoma: "Valstybinės sąjungos: nuo 1385 m. personalinė arba dinastinė unija su Lenkija, nuo \n1569 m. federacija su Lenkija – Lenkijos ir Lietuvos valstybė, arba Abiejų Tautų Respu-\nblika, kuri 1592–1599 m. susijusi personaline unija su Švedija, 1697–1763 m. – personaline \nunija su Saksonija."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207498
+
+- id: c-190116
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 268"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 268."
+  citata_originali: |
+    Šiandien tai vertinama kaip viena iš didžiausių politinių klaidų, esmingai prisidėjusių prie
+    valstybės likimo. Ši klaida privedė prie kazokų desperacijos, nulėmusios, kad Kijevas tapo
+    Rusijos pasienio miestu. Tiesa, Lietuva išlaikė suverenumą Abiejų Tautų Respublikoje ir
+    netgi įtvirtino valstybės dualizmą Gegužės 3-iosios konstitucijos 1791 m. spalio 20 d. pa-
+    taisoje, tačiau ir jai iškilo Lenkijos kultūros ir kalbos dominavimo problema.
+  citata_rodoma: "tuva išlaikė suverenumą Abiejų Tautų Respublikoje ir \nnetgi įtvirtino valstybės dualizmą Gegužės 3-iosios konstitucijos 1791 m. spalio 20 d. pa-\ntaisoje, tačiau i"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207499
+
+- id: c-190117
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 320"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 320."
+  citata_originali: |
+    Киïв, 2008.
+    Kaip žinoma, būtent amerikiečių istoriko Timothyʼo Snyderio manymu, ankstyvai-
+    siais naujaisiais amžiais Abiejų Tautų Respublikoje susiformavo ikimoderni tauta (isto-
+    rikas ją vadina lenkų tauta), kurios negalima tiesmukiškai įvesti į atskirų tautų istorijas.
+    • T. Snyder.
+  citata_rodoma: "a, būtent amerikiečių istoriko Timothyʼo Snyderio manymu, ankstyvai-\nsiais naujaisiais amžiais Abiejų Tautų Respublikoje susiformavo ikimoderni tauta (isto-\nrikas ją vadina lenkų tauta), kurios negalima tiesmukiškai įvesti į atskirų tautų istorijas. \n• T. Snyd"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207500
+
+- id: c-190658
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 347"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 347."
+  citata_originali: |
+    Diachroninė
+    lyginamoji XI-XV a. Vakarų Europos manoro ir XVI-XVIII a. Vidurio Rytų
+    Europos (ypač Abiejų Tautų Respublikos) palivarko ūkio struktūrų ir raidos
+    tendencijų analizė neleidžia XVI-XVIII a. Lenkijos ir Lietuvos palivarko ūkių,
+    paveiktų Vakarų Europos besiplėtojančių kapitalistinių santykių, kvalifikuoti kaip
+    tipiškų feodalinių ūkių (kuriais laikytini Viduramžių Vakarų Europos manoro
+    ūkiai)".
+  citata_rodoma: "Diachroninė \nlyginamoji XI-XV a. Vakarų Europos manoro ir XVI-XVIII a. Vidurio Rytų \nEuropos (ypač Abiejų Tautų Respublikos) palivarko ūkio struktūrų ir raidos \ntendencijų analizė neleidžia XVI-XVIII a. Lenkijos ir Lietuvos palivarko ūkių, \npaveiktų Vakarų Europos besiplėtojančių kapitalistinių santykių, kvalifikuoti kaip \ntipiškų feodalinių ūkių (kuriais laikytini Viduramžių Vakarų Europos manoro \nūkiai"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208025
+
+- id: c-190900
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 268"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 268."
+  citata_originali: |
+    Brabanto revoliucijos metu susikūrusios Jungtinės Belgijos Valstijos,
+    visokeriopai palaikomos revoliucinės Prancūzijos, paskelbė nepriklausomybę nuo
+    Austrijos Habsburgu. Prasidėjusios varžybos dėl įtakos regione tarp Prūsijos it
+    Didžiosios Britanijos į Europos politinių intrigų centrą iškėlė Nyderlandus, kurie
+    nuo 1788 m. buvo susieti trišale sąjungos sutartimi ir su Prūsija, ir su Didžiąja
+    Britanija43.
+    Abiejų Tautų Respublika, 1790 m. kovo 19 d. sudariusi sąjungos sutartį su
+    Prūsijos Karalyste, apie šią sąjungą skubėjo informuoti Nyderlandus.
+  citata_rodoma: "Abiejų Tautų Respublika, 1790 m. kovo 19 d. sudariusi sąjungos sutartį su \nPrūsijos Karalyste, apie šią sąjungą skubėjo informuoti Nyderlandus."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208226
+
+- id: c-190940
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 269"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 269."
+  citata_originali: |
+    Ekonominiai interesai buvo glaudžiai susiję su politiniais, todėl pasiuntinybei
+    Hagoje Abiejų Tautų Respublikos Seimas kėlė tiek politinius, tiek ir ekonominius
+    tikslus: stiprinti draugystės ryšius su Nyderlandų Respublika; užsitikrinti sąjungoje
+    su Prūsija buvusių Nyderlandų politinę paramą; gauti finansinę paskolą Respu­
+    blikai ir karaliui bei siekti „krašto prekybos plėtros, reikalingos tiek bendrajam
+    gėriui, tiek naudingos kiekvienam piliečiui“45.
+    Pasiuntiniu ypatingiesiems pavedimams ir įgaliotuoju ministru Hagoje buvo
+    paskirtas didysis Lietuvos kardininkas M . K .
+  citata_rodoma: "pasiuntinybei \nHagoje Abiejų Tautų Respublikos Seimas kėlė tiek politinius, tiek ir ekonominius \ntikslus: stiprinti draugystės ryšius su Nyderlandų Respublika; užsitikrinti sąjungoje \nsu Prūsija buvusių Nyderlandų politinę paramą; gauti finansinę paskolą Respu­\nblikai ir karaliui bei siekti „krašto prekybos plėtros, reikalingos tiek bendrajam \ngėriui, tiek naudingos kiekvienam piliečiui“45."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208230
+
+- id: c-190947
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 238"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 238."
+  citata_originali: |
+    XVIII amžiaus studijos 6
+    24 6
+    Didžiosios Kunigaikštystės pranciškonų savimonei turėjo 1710 m., kai dėl maro
+    epidemijos išmirė didelė pranciškonų dalis (vien tik Vilniuje ne mažiau kaip 22).
+    Kalbant apie X V III a. antrosios pusės ir X IX a. pirmosios pusės įvykius,
+    galima teigti, kad Lietuvos pranciškonams didžiausią įspūdį paliko pirmasis
+    Lenkijos ir Lietuvos valstybės padalijimas 1772 m., trečiasis ir paskutinis Abiejų
+    Tautų Respublikos padalijimai 1795 m., 1812 m. Napoleono invazija ir 1832 m-
+    įvykdytos Rusijos carinės valdžios represijos jų vienuolijos atžvilgiu.
+  citata_rodoma: "Kalbant apie X V III a. antrosios pusės ir X IX a. pirmosios pusės įvykius, \ngalima teigti, kad Lietuvos pranciškonams didžiausią įspūdį paliko pirmasis \nLenkijos ir Lietuvos valstybės padalijimas 1772 m., trečiasis ir paskutinis Abiejų \nTautų Respublikos padalijimai 1795 m., 1812 m. Napoleono invazija ir 1832 m- \nįvykdytos Rusijos carinės valdžios represijos jų vienuolijos atžvilgiu."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208205
+
+- id: c-200743
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
+  citata_originali: |
+    Šie Europoje vykstantys audringi socialinio, politinio ir kul­
+    tūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­
+    tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
+    neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
+    rijos imperijoms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218500
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Zigmantas III]]

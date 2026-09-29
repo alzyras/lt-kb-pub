@@ -138,6 +138,38 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   pagrindžia:
     - c-188301
 
+<a id="claim-t-18955"></a>
+- t-18955
+  teiginys: "Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius."
+  atnaujinta: "2026-09-20 01:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Kijevo Rusia: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jaroslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevo Rusia: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Jaroslavą Kijevo Rusios valdovu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Jaroslavas buvo valdovas Kijevo Rusia (0.94); Jaroslavas surengė žygį į Lietuva (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų įvardį, todėl paliktas tik citatos remiamas faktas."
+  pagrindžia:
+    - c-21716
+
+<a id="claim-t-210364"></a>
+- t-210364
+  teiginys: "1038 metais didysis kunigaikštis Jaroslavas surengė žygį prieš jotvingius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195580
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.'
@@ -202,6 +234,9 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-18955
+
 - id: c-173765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -221,7 +256,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173766
@@ -245,7 +280,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179326
@@ -270,7 +305,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184348
@@ -299,7 +334,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188301
@@ -317,8 +352,74 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-194660
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
+  citata_originali: |
+    Tačiau jis negalėjo įkurti jokių kolonijų
+    krašte, esančiame prie Rosės, nes ten gyveno pečenegai
+    su orda, vadinama Charoboe. Tas pats Jaroslavas 1041
+    metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
+    lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur
+    negalima matyti ukrainiečių tautybės žmonių susimai­
+    šymo su lietuviais. Smukus pečenegams dešiniojoje Dnep-
+    ro pakrantėje, nutautėję hiriai su tomis gentimis persi­
+    kėlė į kairiąją šios upės pakrantę; jie įsiterpė tarp polo-
+    viečių ir kartu su jais buvo išstumti kitapus Dono, kur
+    davė pradžią Belgorodo totoriams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195580
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 120."
+  citata_originali: |
+    Tuo tarpu didysis
+    kunigaikštis Jaroslavas 1038 metais surengė prieš juos
+    žygi, gabendamas su savimi didžiules maisto atsargas,
+    kolonistus ir tvirtovių statytojus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210364
+
+- id: c-197275
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 171."
+  citata_originali: |
+    Ten juos
+    pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­
+    raliukas ar viršininkas, vadinamas Masosu, kuriam jie mo­
+    kėjo duoklę vaikais. Jaroslavas ir Kristijonas gyveno tais
+    laikais, kai naujųjų amžių atradimai tautų, gyvenusių to­
+    kiame kaip ulmigerai civilizacijos lygyje, dar nebuvo ži­
+    nomi, vadinasi, jei jie būtų ketinę aprašyti išgalvotus da­
+    lykus, jie nebūtų turėję pavyzdžio ir nebūtų galėję nupiešti
+    tokio tikroviško gamtos vaikų vaizdo. Iš to išplaukia, kad
+    jie rėmėsi tikrove, kuri visur ir visada yra vienoda.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]

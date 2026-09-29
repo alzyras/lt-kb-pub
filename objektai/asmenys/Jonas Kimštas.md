@@ -39,23 +39,56 @@ canonical_biography: "Agento „Miko“ pateiktais duomenimis, Jonas Kimštas-Ž
 
 Agento „Miko“ pateiktais duomenimis, Jonas Kimštas-Žilvinas buvo Rytų Lietuvos (Karaliaus Mindaugo) srities vadas. Pasak Viktoro Sabaliausko, Rytų Lietuvos (Karaliaus Mindaugo) srities vadas Jonas Kimštas-Žygūnas vadovavo 1952 m. rugpjūčio 15 d. pasitarimui Šimonių girioje ir paskelbė įsaką dėl naujų pareigų.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Agento „Miko“ pateiktais duomenimis, Jonas Kimštas-Žilvinas buvo Rytų Lietuvos (Karaliaus Mindaugo) srities vadas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231764"></a>
+- t-001
+  teiginys: "Agento „Miko“ pateiktais duomenimis, Jonas Kimštas-Žilvinas buvo Rytų Lietuvos (Karaliaus Mindaugo) srities vadas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-212402
+
+<a id="claim-t-231765"></a>
+- t-002
+  teiginys: "Pasak Viktoro Sabaliausko, Rytų Lietuvos (Karaliaus Mindaugo) srities vadas Jonas Kimštas-Žygūnas vadovavo 1952 m. rugpjūčio 15 d. pasitarimui Šimonių girioje ir paskelbė įsaką dėl naujų pareigų."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
+  pagrindžia:
+    - c-212403
+
+## Citatos
+
+- id: c-212402
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 343"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 343."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Pasak Viktoro Sabaliausko, Rytų Lietuvos (Karaliaus Mindaugo) srities vadas Jonas Kimštas-Žygūnas vadovavo 1952 m. rugpjūčio 15 d. pasitarimui Šimonių girioje ir paskelbė įsaką dėl naujų pareigų.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-212403
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 417"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 417."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

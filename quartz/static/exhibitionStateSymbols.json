@@ -5,9 +5,9 @@
       "slug": "parodos/lietuvos-valstybes-zenklai",
       "title": "Lietuvos valstybės ženklai",
       "subtitle": "Vytis, Gediminaičių stulpai ir valdžios atmintis",
-      "description": "Nuo vaško antspaudo iki atkurtos Respublikos ši paroda seka ne vien ženklų formas, bet ir jų veikimą. Raitelis, Gediminaičių stulpai, dvigubas kryžius ir Lietuvos antspaudai tvirtino dokumentus, žymėjo pinigus, lydėjo valstybę bendroje Respublikoje ir XX amžiuje sugrįžo į viešą Lietuvos gyvenimą.",
+      "description": "Lietuvos heraldikos ženklai antspauduose, monetose, vėliavose ir kituose daiktuose. Paroda pristato raitelio, Gediminaičių stulpų ir dvigubo kryžiaus vartojimą nuo viduramžių iki atkurtos Lietuvos Respublikos.",
       "heroMediaId": "m-cb2c026a1126375f7b710cb2",
-      "updatedAt": "2026-07-26",
+      "updatedAt": "2026-09-27",
       "theme": "symbols",
       "relatedObject": {
         "href": "/objektai/daiktai/Vytis",
@@ -34,9 +34,9 @@
             {
               "exhibitionItemId": "zen-antspaudas-01",
               "mediaId": "m-08162f9e2359c5fbbf998617",
-              "titleLt": "Kęstučio antspaudas: valdovas soste",
-              "descriptionLt": "XIV a. Kęstučio antspaude valdžia rodoma sėdinčio valdovo figūra. Tai dar ne vėliau nusistovėjęs Vytis: pirmiausia matome asmeninį valdovo atvaizdą, kuriuo buvo patvirtinamas jo vardu leidžiamas raštas.",
-              "catalogDescriptionLt": "Kataloge objektas įvardytas kaip autentiško XIV a. Kęstučio antspaudo atvaizdas. Sėdinčio valdovo kompozicija parodo vieną iš ankstyvųjų valdžios reprezentavimo būdų.",
+              "titleLt": "Kęstučio antspaudas: stovintis karys",
+              "descriptionLt": "Kęstučio antspaudo piešinyje valdovas pavaizduotas stovintis, su kalaviju ir skydu. Šis pėsčio kario atvaizdas skiriasi nuo raitelio, matomo Jogailos antspaude. Abu ženklai buvo siejami su konkrečiais valdovais ir jų tvirtinamais raštais.",
+              "catalogDescriptionLt": "XIV a. Kęstučio antspaudo reprodukcija. Centre – stovintis karys su kalaviju ir skydu; sostas nepavaizduotas.",
               "creatorDisplay": "Nežinomas XIV a. meistras",
               "dateDisplay": "XIV a.",
               "evidenceNoteLt": "Žodis „autentiškas“ perimamas iš vaizdo katalogo įrašo; paroda papildomai netvirtina konkretaus dokumento proveniencijos.",
@@ -47,6 +47,12 @@
                   "citationId": "c-22307",
                   "label": "Valstybės antspaudų saugojimas LDK kanceliarijoje",
                   "role": "contextual"
+                }
+              ],
+              "externalSources": [
+                {
+                  "title": "Loreta Skurvydaitė: Lietuvos valdovų insignijos antspauduose (2004)",
+                  "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001:J.04~2004~1367154603222/J.04~2004~1367154603222.pdf"
                 }
               ]
             },
@@ -91,9 +97,9 @@
             {
               "exhibitionItemId": "zen-antspaudas-04",
               "mediaId": "m-ccc36bef5121bfa7666e0abc",
-              "titleLt": "Sostas ir raitelis viename antspaude",
-              "descriptionLt": "Kitame Jogailos antspaude susitinka du valdžios vaizdai: soste sėdintis valdovas ir mažesnis raitelis skyde. Ši kompozicija padeda pamatyti perėjimą nuo asmens atvaizdo prie ženklo, galinčio atstovauti ne tik valdovui, bet ir jo valdomai politinei erdvei.",
-              "catalogDescriptionLt": "Jogailos antspaudas datuojamas jo valdymo Lietuvoje laikotarpiu iki 1386 m. Jame valdovo figūra soste derinama su raitelio ženklu.",
+              "titleLt": "Jogailos antspaudas su raiteliu",
+              "descriptionLt": "Jogailos antspaudo atvaizde matomas raitas karys, o aplink jį – valdovo titulą nurodantis įrašas. Žirgas, ginklas ir skydas sudaro raitelio kompoziciją, vėliau įsitvirtinusią Lietuvos heraldikoje.",
+              "catalogDescriptionLt": "Jogailos antspaudo reprodukcija su raitelio figūra. Sostas šiame atvaizde nepavaizduotas.",
               "creatorDisplay": "Nežinomas XIV a. meistras",
               "dateDisplay": "iki 1386 m.",
               "evidenceNoteLt": "Katalogo data plati; paroda nesusiaurina jos iki vienų metų.",
@@ -453,8 +459,8 @@
               "exhibitionItemId": "zen-daiktai-01",
               "mediaId": "m-961c86f36578bad86759cd1c",
               "titleLt": "1585 metų Lietuvos šešiagrašis",
-              "descriptionLt": "Stepono Batoro laikų šešiagrašyje valdovo portretas, Vytis, Erelis ir giminės ženklas sutelpa į mažą metalo lauką. Moneta rodo, kaip politinė sandara buvo verčiama kasdien atpažįstama vaizdų sistema.",
-              "catalogDescriptionLt": "1585 m. Lietuvos šešiagrašis su Stepono Batoro portretu, Lenkijos Ereliu, Lietuvos Vyčiu ir Batorų giminės ženklu.",
+              "descriptionLt": "Stepono Batoro laikų šešiagrašyje matomi valdovo portretas, Vytis, Lenkijos Erelis ir Batorų giminės ženklas. Monetoje derinami valstybės ir dinastijos simboliai.",
+              "catalogDescriptionLt": "Stepono Batoro laikų šešiagrašyje matomi valdovo portretas, Vytis, Lenkijos Erelis ir Batorų giminės ženklas. Monetoje derinami valstybės ir dinastijos simboliai.",
               "creatorDisplay": "Lietuvos Didžiosios Kunigaikštystės kalykla",
               "dateDisplay": "1585 m.",
               "evidenceNoteLt": "Ženklai įvardijami pagal numizmatikos katalogą; paroda nespėja konkrečios monetos apyvartos istorijos.",
@@ -491,8 +497,8 @@
               "exhibitionItemId": "zen-daiktai-03",
               "mediaId": "m-834173dd10f125f0a2f8481c",
               "titleLt": "Tobijo Kramerio herbinė žvakidė",
-              "descriptionLt": "Apie 1615 m. sukurta aukšta žvakidė valdovo ženklus paverčia skulptūrine metalo puošyba. Heraldika čia nepatvirtina įstatymo ir nežymi monetos vertės – ji kuria reprezentacinio daikto iškilmingumą.",
-              "catalogDescriptionLt": "Tobijo Kramerio apie 1615 m. sukurta žvakidė su Zigmanto III Vazos herbais.",
+              "descriptionLt": "Apie 1615 m. sukurta žvakidė papuošta valdovo heraldiniais ženklais. Šiuo atveju jie yra reprezentacinio daikto puošybos dalis.",
+              "catalogDescriptionLt": "Apie 1615 m. sukurta žvakidė papuošta valdovo heraldiniais ženklais. Šiuo atveju jie yra reprezentacinio daikto puošybos dalis.",
               "creatorDisplay": "Tobijas Krameris",
               "dateDisplay": "apie 1615 m.",
               "evidenceNoteLt": "Katalogo metaduomenys patvirtina meistrą, datą ir heraldinę puošybą; daikto naudojimo vieta šiame apraše nespėjama.",
@@ -643,7 +649,7 @@
               "exhibitionItemId": "zen-sugrizimas-04",
               "mediaId": "m-152f7897cbf36b257998de31",
               "titleLt": "Atkurtos Lietuvos proginė moneta",
-              "descriptionLt": "1996 m. penkiasdešimties litų monetos averse valstybės ženklas vėl tampa oficialaus pinigo dalimi. Parodos pabaigoje moneta sugrąžina pasakojimą prie mažo kasdienio objekto: kaip ir prieš kelis šimtmečius, valstybė tampa matoma metale.",
+              "descriptionLt": "1996 m. išleistos 50 litų proginės monetos, skirtos Gediminui, averse matomas Vytis. Valstybės herbas čia derinamas su konkrečiam valdovui skirtu atminimo leidiniu.",
               "catalogDescriptionLt": "1996 m. Lietuvos 50 litų proginės monetos, skirtos Gediminui, aversas.",
               "creatorDisplay": "Lietuvos monetų kalykla",
               "dateDisplay": "1996 m.",

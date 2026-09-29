@@ -76,6 +76,18 @@ Nenurodyta
   pagrindžia:
     - c-174752
 
+<a id="claim-t-214836"></a>
+- t-214836
+  teiginys: "Italijoje, netoli Veronos, slėnyje tarp Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa garsėjo pergale prieš konsulą Scipioną 169 metais prieš Kristaus gimimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194602
+
 ## Citatos
 
 - id: c-174752
@@ -104,9 +116,57 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-194602
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
+  citata_originali: |
+    Italijoje, netoli Veronos, slėnyje tarp
+    Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių
+    senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa­
+    garsėjo pergale prieš konsulą Scipioną 169 metais prieš
+    Kristaus gimimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214836
+
+- id: c-197595
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
+  citata_originali: |
+    Lietuvių kalba pasakojamuose apsaky­
+    muose, kurių nemažai surinkau, pasakojama apie kažko­
+    kius žmones, vadinamus Kimbarej, vienaskaita — Kimba-
+    ras, buvusius klajoklius ir vogusius arklius. Iškart pri­
+    skyriau tuos žmones prie čigonų, bet, kai vėliau teko la­
+    biau patyrinėti svetimą mūsų žemei tautą2, įsitikinau,
+    kad pasakojimuose kalbama apie visai kitką. Lietuvoje
+    taip pat esama garbingų bajorų šeimų, turinčių Kimbarų
+    pavardes. Visa tai rodo pėdsakus, kad tie Prūsijos gy­
+    ventojai sembai-kimbrai
+    paliko
+    lietuvių
+    žemėje savo
+    kartų ainių, išlikusių net iki mūsų laikų.
+    1 Origines Gauloises par La Tour d’Auvergne Corret.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kimbrai]]

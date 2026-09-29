@@ -35,20 +35,36 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Laurynas Gucevičius"]
 sameAs: []
-canonical_biography: "Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Laurynas Gucevičius (1753–1798) 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją. Gucevičius, T."
+canonical_biography: "Laurynas Gucevičius (1753–1798) – architektas, projektavęs Vilniaus katedros ir rotušės rekonstrukcijas. Teodoro Narbuto pasakojimas apie jo popieriuose rastą Mildos šventyklos aprašymą čia pateikiamas kaip XIX a. istoriografijos liudijimas, o ne šventyklos egzistavimo įrodymas."
 ---
 # Laurynas Gucevičius
 
 ## Santrauka
 
-Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Laurynas Gucevičius (1753–1798) 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją. Gucevičius, T.
+Laurynas Gucevičius (1753–1798) – architektas, projektavęs Vilniaus katedros ir rotušės rekonstrukcijas. Teodoro Narbuto pasakojimas apie jo popieriuose rastą Mildos šventyklos aprašymą čia pateikiamas kaip XIX a. istoriografijos liudijimas, o ne šventyklos egzistavimo įrodymas.
 
 ## Teiginiai
 
-<a id="claim-t-19103"></a>
+<a id="claim-t-19102"></a>
 - t-001
+  teiginys: "Laurynas Gucevičius laikomas vienu ryškiausių Lietuvos menininkų, susiejusių savo likimą su krašto likimu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laurynas Gucevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laurynas Gucevičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-21852
+
+<a id="claim-t-19103"></a>
+- t-002
   teiginys: "Laurynas Gucevičius buvo žymiausias Lietuvos klasicizmo kūrėjas ir 1782 m. pradėjo Vilniaus katedros, o 1786 m. Vilniaus rotušės rekonstrukciją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,19 +80,27 @@ canonical_biography: "Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Lauryna
   pagrindžia:
     - c-21851
 
-<a id="claim-t-197422"></a>
-- t-002
-  teiginys: "Laurynas Gucevičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171466
-
 ## Citatos
+
+- id: c-00153
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
+    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
+    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
+    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
+    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
+    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
+    kimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­
+  citata_rodoma: "Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­\nteto architektūros profesorius ponas Šulcas tarp mirusio ar­\nchitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­\ntinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­\nkimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­"
+  statusas: verified
+  atnaujinta: "2026-09-27 13:25"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 - id: c-21851
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -96,8 +120,8 @@ canonical_biography: "Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Lauryna
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-002
 
 - id: c-21852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -114,11 +138,13 @@ canonical_biography: "Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Lauryna
   citata_rodoma: "Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- id: c-171466
+  pagrindžia:
+    - t-001
+
+- id: c-198960
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 135"
@@ -132,9 +158,9 @@ canonical_biography: "Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Lauryna
     dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
     nepaprasto grožio vienatinę dukterį.
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:45"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+

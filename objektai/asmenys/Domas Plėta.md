@@ -2,7 +2,6 @@
 tipas: asmuo
 pavadinimas: 'Domas Plėta'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1947 m.'
@@ -38,7 +37,11 @@ canonical_biography: "Domas Plėta žuvo 1947 m. sausio 20 d. Rudilių kaime."
 
 ## Santrauka
 
-Domas Plėta žuvo 1947 m. sausio 20 d. Rudilių kaime. Domas Plėta gyveno Žvirblionių kaime, Subačiaus valsčiuje, ir tarnavo Vietinėje rinktinėje. Kronikos sąraše Domas Plėta siejamas su septyniais Subačiaus valsčiaus partizanais.
+Domas Plėta žuvo 1947 m. sausio 20 d. Rudilių kaime.
+
+## Santrauka
+
+Domas Plėta žuvo 1947 m. sausio 20 d. Rudilių kaime.
 
 ## Reikšmingi paminėjimai
 
@@ -53,21 +56,32 @@ Domas Plėta žuvo 1947 m. sausio 20 d. Rudilių kaime. Domas Plėta gyveno Žvi
   statusas: verified
 - t-002
 
-- c-002
-  santrauka: 'Domas Plėta gyveno Žvirblionių kaime, Subačiaus valsčiuje, ir tarnavo Vietinėje rinktinėje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Teiginiai
+
+<a id="claim-t-230595"></a>
+- t-001
+  teiginys: "Domas Plėta gyveno Žvirblionių kaime, Subačiaus valsčiuje, ir tarnavo Vietinėje rinktinėje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
+  pagrindžia:
+    - c-211233
+
+## Citatos
+
+- id: c-211233
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 32"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 32."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Kronikos sąraše Domas Plėta siejamas su septyniais Subačiaus valsčiaus partizanais.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 167"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

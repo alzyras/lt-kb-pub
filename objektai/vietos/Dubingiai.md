@@ -164,7 +164,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -189,7 +189,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-43417
@@ -214,7 +214,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175924
@@ -233,7 +233,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 ## Ryšiai

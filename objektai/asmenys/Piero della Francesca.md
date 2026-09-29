@@ -70,9 +70,11 @@ Mikalojus Vorobjovas Piero della Francescą mini tarp italų tapytojų, sprendus
     susiformavo jau tokių meistrų, kaip Tintoretto ir Greco, Rubensas ir Rem-
     brandtas, Claude Lorrainas, spalvų ir šviesų magijos poveikyje.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

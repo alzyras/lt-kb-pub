@@ -119,7 +119,7 @@ Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 

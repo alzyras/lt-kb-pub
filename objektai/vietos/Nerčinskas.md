@@ -37,21 +37,6 @@ historical_names: []
 
 Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką: lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko miestas.
 
-## Teiginiai
-
-<a id="claim-t-194767"></a>
-- t-001
-  teiginys: "Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką: lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko miestas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177163
-
 ## Citatos
 
 - id: c-177163
@@ -75,5 +60,4 @@ Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia prid�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

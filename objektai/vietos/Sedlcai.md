@@ -39,23 +39,6 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
 
 ## Teiginiai
 
-<a id="claim-t-58722"></a>
-- t-001
-  teiginys: "Sedlcų kaimas buvo į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sedlcai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Sedlcai kaip palikimas atiteko kryžiuočiams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sedlcai priklausė Kryžiuočių ordinas (0.78)"
-  pagrindžia:
-    - c-59354
-
 <a id="claim-t-58723"></a>
 - t-002
   teiginys: "Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais."
@@ -91,8 +74,6 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-59355
   autorius: "Petras Dusburgietis"
@@ -112,7 +93,7 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

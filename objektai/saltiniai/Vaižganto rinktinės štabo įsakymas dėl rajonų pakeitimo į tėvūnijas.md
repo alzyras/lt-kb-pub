@@ -30,23 +30,56 @@ media_all_json: |-
 
 Įsakymas nurodė nuo 1951 m. birželio 1 d. rinktinėje sudaryti Vilties, Gintaro ir Aušros tėvūnijas. Vaižganto rinktinės įsakyme nurodyta, kad Vyturys, Aušros tėvūnijos Dariaus ir Girėno kuopos Ąžuolo būrio partizanas, už aktyvumą organizacinėje veikloje pakeltas į partizano grandinio laipsnį.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Įsakymas nurodė nuo 1951 m. birželio 1 d. rinktinėje sudaryti Vilties, Gintaro ir Aušros tėvūnijas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-232164"></a>
+- t-001
+  teiginys: "Įsakymas nurodė nuo 1951 m. birželio 1 d. rinktinėje sudaryti Vilties, Gintaro ir Aušros tėvūnijas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-212802
+
+<a id="claim-t-232165"></a>
+- t-002
+  teiginys: "Vaižganto rinktinės įsakyme nurodyta, kad Vyturys, Aušros tėvūnijos Dariaus ir Girėno kuopos Ąžuolo būrio partizanas, už aktyvumą organizacinėje veikloje pakeltas į partizano grandinio laipsnį."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:15Z"
+  pagrindžia:
+    - c-212803
+
+## Citatos
+
+- id: c-212802
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 394"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 394."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Vaižganto rinktinės įsakyme nurodyta, kad Vyturys, Aušros tėvūnijos Dariaus ir Girėno kuopos Ąžuolo būrio partizanas, už aktyvumą organizacinėje veikloje pakeltas į partizano grandinio laipsnį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-212803
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 397"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 397."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

@@ -39,14 +39,32 @@ canonical_biography: "Petras Černius, gyvenęs Kinderių kaime, žuvo 1947 m. g
 
 Petras Černius, gyvenęs Kinderių kaime, 1947 m. gegužės 17 d. Žalgirio miške buvo vienas iš dviejų per susišaudymą nušautų partizanų.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Petras Černius, gyvenęs Kinderių kaime, 1947 m. gegužės 17 d. Žalgirio miške buvo vienas iš dviejų per susišaudymą nušautų partizanų.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231870"></a>
+- t-001
+  teiginys: "Petras Černius, gyvenęs Kinderių kaime, 1947 m. gegužės 17 d. Žalgirio miške buvo vienas iš dviejų per susišaudymą nušautų partizanų."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:01Z"
+  pagrindžia:
+    - c-212508
+
+## Citatos
+
+- id: c-212508
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 266"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 266."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

@@ -57,5 +57,6 @@ Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi nosi Liber filio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

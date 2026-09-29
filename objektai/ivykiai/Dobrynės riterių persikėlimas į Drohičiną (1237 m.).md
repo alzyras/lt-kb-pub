@@ -87,5 +87,6 @@ Pasak Narbuto, po 1225 m. pralaimėjimo Dobrynės riteriai vėliau išsišakojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

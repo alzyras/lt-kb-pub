@@ -201,6 +201,18 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   pagrindžia:
     - c-188357
 
+<a id="claim-t-216558"></a>
+- t-216558
+  teiginys: "Narbutas teigia, kad miškas su šventykla ir visa vieta buvo pavadinti kunigaikščio Šventaragio vardu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201078
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų.'
@@ -255,7 +267,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171542
@@ -285,7 +297,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171543
@@ -310,7 +322,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176645
@@ -335,7 +347,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-178823
@@ -359,7 +371,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184401
@@ -382,7 +394,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184402
@@ -404,7 +416,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188356
@@ -423,7 +435,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-188357
@@ -442,8 +454,91 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-199274
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
+  citata_originali: |
+    Tas rūmas turėjo apvalų bokš­
+    tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
+    mą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­
+    nesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto
+    sienoje metų pradžioje, rodydavo metus. Senas pasakojimas,
+    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
+    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
+    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
+    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
+    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
+    eitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
+    pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas
+    su orakulo nurodytais ženklais - hieroglifais; iš jų turėjo būti
+    išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
+    dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
+    gaikščiui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200786
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
+  citata_originali: |
+    Bet mažų
+    mažiausiai nelaikysime šito keistu dalyku, jeigu apmąstysime
+    tai, ką išdėstėme dėl stabmeldiškų kryžių straipsnyje „Kapai“;
+    net nesikreipsime dėl herbynų j kryžiuočius, nes jų tikrai dar
+    nerastume Prūsijoje tuo metu, kai giminė, kuri naudojosi Prūso
+    herbu, persikėlė į Lenkiją, tai yra pačioje XII amžiaus pra­
+    džioje. Jeigu net Prūso herbo nelaikytume mitologiniu žen­
+    klu, tai jį randame raitelio skyde lietuvių Vyčio herbe, kurį
+    kunigaikštis Šventaragis 1282 metais priėmė kaip valstybinį
+    herbą1'. Tad nėra abejonės, kad lietuviai pažinojo ženklus, pa­
+    našius į kryžius1 12.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201078
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 271-272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271-272."
+  citata_originali: |
+    Miškas su šventykla, kaip ir visa vieta, apjuosta abiejų pi- 13 14 15
+    13 Šiame leidinyje datos ištaisytos, kadangi ankstesniame perra­
+    šinėtojas buvo suklydęs.
+    14 Tai buvo senovės prūsų didikų herbas arba atspaudas, panašus
+    į herbą, mūsų heraldikų pramintas Prūsų (Pruss). Vertėjo (t. y. T. Nar­
+    buto - ii. /.) prierašas. Skaityk toliau apie lietuvių herbus.
+    15 Esama padavimo, jog tame bokšte, dabartinių mažų langelių
+    aukštyje, buvo sakykla, iš kurios žyniai kalbėdavo į žmones.
+    272
+
+    lių, buvo pavadinta kunigaikščio Šventaragio vardu, bet pats
+    miestas savo pavadinimą gavo nuo upių, kurias vadina Vylius
+    (\Yilius); tai reiškia Dolus (lot. klasta. - R. /.), arba išdavikiš­
+    kas, pilnas slenksčių upes. Versta iš Rotundo Lietuvos kroni­
+    kos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216558
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Gerimantas]], [[objektai/asmenys/Germantas]]

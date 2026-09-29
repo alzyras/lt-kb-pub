@@ -24,14 +24,13 @@ media_all_json: |-
 
 Po A. Šilo-Kovo žūties Antanas Birbilas-Baltušis perėmė Panevėžio ir Subačiaus valsčiuose veikusio būrio vadovavimą, o pavaduotoju tapo Albinas Sabaliauskas-Markuška.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Po A. Šilo-Kovo žūties Antanas Birbilas-Baltušis perėmė Panevėžio ir Subačiaus valsčiuose veikusio būrio vadovavimą, o pavaduotoju tapo Albinas Sabaliauskas-Markuška.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213680
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 36"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 36."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:39"

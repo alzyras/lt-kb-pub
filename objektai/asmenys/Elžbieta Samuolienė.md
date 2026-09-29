@@ -31,14 +31,13 @@ canonical_biography: "Elžbieta Samuolienė suimta kaip ryšininkė ir aktyvi pa
 
 Ona Dapšytė-Kriukelienės kronika „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Elžbietą Samuolienę įvardija ryšininke ir aktyvia partizanų rėmėja bei nurodo, kad ji suimta Jono Samuolio sodyboje aptikus bunkerį.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Ona Dapšytė-Kriukelienės kronika „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Elžbietą Samuolienę įvardija ryšininke ir aktyvia partizanų rėmėja bei nurodo, kad ji suimta Jono Samuolio sodyboje aptikus bunkerį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213029
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 254"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 254."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

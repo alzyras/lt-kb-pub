@@ -73,5 +73,6 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

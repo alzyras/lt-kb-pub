@@ -58,7 +58,8 @@ def collect(seed):
  try: eng=page('en',en) if 'missing' in lt else {}
  except Exception: eng={}
  if 'missing' in lt:lt={}
- row={'id':key,'name':name,'notePath':f'objektai/asmenys/{note}.md','years':years,'reigns':[{'start':a,'end':b} for a,b in reigns],'eras':['ldk','atr'] if name=='Žygimantas Augustas' else ['ldk' if reigns[0][0]<1569 else 'atr'],'notice':notice,'lt':lt,'en':eng}
+ object_note='Daumantas (Lietuvos valdovas)' if name=='Daumantas' else note
+ row={'id':key,'name':name,'notePath':f'objektai/asmenys/{object_note}.md','years':years,'reigns':[{'start':a,'end':b} for a,b in reigns],'eras':['ldk','atr'] if name=='Žygimantas Augustas' else ['ldk' if reigns[0][0]<1569 else 'atr'],'notice':notice,'lt':lt,'en':eng}
  dest.write_text(json.dumps(row,ensure_ascii=False,indent=2));return row
 with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
  rows=list(pool.map(collect,SEEDS))

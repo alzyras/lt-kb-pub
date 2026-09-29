@@ -59,5 +59,6 @@ Len kijos ponai vaizduojami kaip dideli Lietuvos lygiatei siškumo priešai: jie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

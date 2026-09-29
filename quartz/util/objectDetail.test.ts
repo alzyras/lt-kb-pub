@@ -38,6 +38,22 @@ test("keeps every claim and identifies whether it has linked public evidence", (
   assert.equal(evidence.claims[1].citations.length, 0)
 })
 
+test("omits blank claim placeholders from the public evidence projection", () => {
+  const evidence = objectDetailEvidence(`## Teiginiai
+- t-001
+  teiginys: ""
+  pagrindžia:
+    - c-001
+
+## Citatos
+- c-001
+  šaltinis: Patikimas šaltinis
+  citata_rodoma: Citata, susieta tik su tuščiu teiginio įrašu.
+`)
+
+  assert.deepEqual(evidence.claims, [])
+})
+
 test("exposes canonical, standalone, and significant-mention citation records", () => {
   const evidence = objectDetailEvidence(`${supported}
 ## Reikšmingi paminėjimai
@@ -81,16 +97,28 @@ test("classifies each object completeness tier deterministically", () => {
   )
 })
 
+test("sourced biographies are discoverable without manufacturing quotation records", () => {
+  const prose = "Tai biografijos pastraipa su patikrintomis gyvenimo datomis ir veiklos aprašymu."
+  const withSource = objectDetailEvidence(
+    `## Santrauka\n${prose}\n\n## Šaltiniai\n- [Enciklopedija](https://www.vle.lt/straipsnis/sapiegos/)`,
+  )
+  assert.equal(objectDetailTier(withSource), "t1")
+  assert.equal(objectPageIndexable(withSource), true)
+  assert.equal(withSource.claims.length, 0)
+  assert.equal(objectPageIndexable(objectDetailEvidence(`## Santrauka\n${prose}`)), false)
+})
+
 test("keeps every Vytautas claim, canonical citation, and significant mention reachable", () => {
   const source = path.join(process.cwd(), "objektai/asmenys/Vytautas.md")
   if (!fs.existsSync(source)) return
   const evidence = objectDetailEvidence(fs.readFileSync(source, "utf8"))
-  // Reviewed published corpus integrated from 30daf19f27; withdrawn legacy
-  // quote blocks are not restored merely to match the previous snapshot.
-  assert.equal(evidence.claims.length, 376)
-  assert.equal(evidence.citations.size, 290)
+  // Counts match the current DB-projected public snapshot. Quarantined,
+  // superseded, or removed legacy records are not restored to match an older
+  // page snapshot.
+  assert.equal(evidence.claims.length, 373)
+  assert.equal(evidence.citations.size, 312)
   assert.equal(evidence.citationRecords.filter((record) => record.significantMention).length, 30)
-  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 23)
+  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 45)
 })
 
 test("collapses duplicate quote displays but preserves distinct sources, pages and records", () => {
@@ -139,7 +167,30 @@ test("authored relation links retain bracketed historical names and parenthesize
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - Dalyvavo: [Strėvos mūšis](/objektai/ivykiai/Strevos-musis-(1348-m.))
 `)
-  assert.deepEqual(result.relations.map(row => row.target), [
-    "objektai/grupes/Lietuviai", "objektai/asmenys/Zygfridas iš Da[he]nfeldo", "objektai/ivykiai/Strevos-musis-(1348-m.)",
+  assert.deepEqual(
+    result.relations.map((row) => row.target),
+    [
+      "objektai/grupes/Lietuviai",
+      "objektai/asmenys/Zygfridas iš Da[he]nfeldo",
+      "objektai/ivykiai/Strevos-musis-(1348-m.)",
+    ],
+  )
+})
+
+test("authored biographies retain external provenance and family links without inventing claims", () => {
+  const result = objectDetailEvidence(`## Santrauka
+Sūnus.
+## Šaltiniai
+- [Muziejaus katalogas](https://example.org/biografija)
+- [Nesaugi nuoroda](javascript:alert(1))
+## Šeima
+- [[objektai/asmenys/Tėvas|Tėvas]]
+`)
+  assert.deepEqual(result.authoredSources, [
+    { title: "Muziejaus katalogas", url: "https://example.org/biografija" },
   ])
+  assert.equal(result.familyLinks?.[0].target, "objektai/asmenys/Tėvas")
+  assert.equal(result.claims.length, 0)
+  assert.equal(result.citationRecords.length, 0)
+  assert.deepEqual(objectDetailEvidence("## Šeima\n- [[objektai/asmenys/Tėvas]]").familyLinks, [])
 })

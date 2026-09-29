@@ -73,5 +73,6 @@ Leonas Borovskis anksčiau buvo Vilniaus universiteto, o tuo metu – Dvasinės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -63,5 +63,6 @@ Klebonas, tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

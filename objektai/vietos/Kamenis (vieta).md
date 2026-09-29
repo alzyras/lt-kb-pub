@@ -72,5 +72,6 @@ Teodoras Narbutas abejojo, ar Kamenio upeliūkščio vardas išliko, tačiau tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

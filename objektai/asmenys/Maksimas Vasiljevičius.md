@@ -75,5 +75,6 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

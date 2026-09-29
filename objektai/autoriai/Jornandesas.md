@@ -34,25 +34,6 @@ canonical_biography: "Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie
 
 Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vidivarii [vidivarijai], duotas Jornandeso (De geticae gentis origine ac rebus ges­ tis Cap. 5 [apie gotų genties kilmę ir karo žygius]); yra ne kokios nors vie­ nos tautos nomen gentile.
 
-## Teiginiai
-
-<a id="claim-t-88069"></a>
-- t-001
-  teiginys: "Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vysla: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vidivarii: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad vidivarii buvo įsikūrę prie Vyslos žiočių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vidivarii gyveno Vysla (0.90)"
-  pagrindžia:
-    - c-84048
-
 ## Citatos
 
 - id: c-84048
@@ -91,5 +72,4 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

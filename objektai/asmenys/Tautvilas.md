@@ -202,6 +202,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176616
+    - c-180027
 
 <a id="claim-t-198228"></a>
 - t-010
@@ -257,6 +258,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-111042
+    - c-180031
 
 <a id="claim-t-198237"></a>
 - t-013
@@ -277,6 +279,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-111042
+    - c-180031
 
 <a id="claim-t-201036"></a>
 - t-014
@@ -329,6 +332,46 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
   pagrindžia:
     - c-188331
+
+<a id="claim-t-196598"></a>
+- t-196598
+  teiginys: "Iš prigimties neramų garbė trošką Tautvilą stipriai kurstė rusai."
+  atnaujinta: "2026-09-19 06:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168201
+
+<a id="claim-t-207475"></a>
+- t-207475
+  teiginys: "Opoziciją pirmiausiai sudarė brolvaikiai – Tautvilas ir Gedvydas."
+  atnaujinta: "2026-09-19 06:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1248 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas laikas, asmenų giminystės ryšys ir opozicijos santykis su Mindaugo valdžia. Neutraliai sukonkretinta citatos formuluotė, nepridedant joje nesančių faktų."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190064
+
+<a id="claim-t-211022"></a>
+- t-211022
+  teiginys: "Tai, ką mano broliui kunigaikščiui Tautvilai13 buvo davęs, vėl visa iš jo atėmė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193387
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -388,7 +431,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -408,7 +451,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-111042
@@ -460,7 +503,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-013
 
@@ -482,7 +525,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -512,9 +555,10 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-015
+    - t-196598
 
 - id: c-176613
   autorius: "Anoniminis metraštininkas"
@@ -533,7 +577,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-176616
@@ -556,7 +600,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-178788
@@ -587,7 +631,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-010
 
@@ -610,7 +654,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-008
 
@@ -642,6 +686,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180026
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -661,7 +706,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-008
 
@@ -686,6 +731,9 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-009
+
 - id: c-180028
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -703,7 +751,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-180029
@@ -723,7 +771,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-180030
@@ -742,7 +790,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-180031
@@ -795,6 +843,10 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-012
+    - t-013
+
 - id: c-180032
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -814,6 +866,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184386
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   puslapiai: "PDF 569"
@@ -841,7 +894,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-188330
@@ -863,7 +916,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-188331
@@ -882,8 +935,87 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
+
+- id: c-190064
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 82"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 82."
+  citata_originali: |
+    Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam tapo labai grės-
+    minga. Opoziciją pirmiausiai sudarė brolvaikiai – Tautvilas ir Gedvydas, pagalbon pasi-
+    telkę ne tik žemaičių kunigaikštį Vykintą bei sąjungoje su šiuo buvusį Šiaulių kunigaikštį
+    Vismantą, bet ir svetimuosius – Livonijos ordiną ir Voluinę (jos kunigaikščio Danieliaus
+    žmona buvo Tautvilo ir Gedvydo sesuo).
+  citata_rodoma: "Opoziciją pirmiausiai sudarė brolvaikiai – Tautvilas ir Gedvydas"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207475
+
+- id: c-193326
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
+  citata_originali: |
+    Ir savo dievams tarnavo, ir degino
+    mirusiųjų kūnus, ir savo pagonybę viešai išpažino.
+    Tautvilos išpažinties klausė Rygos vyskupas22 ir
+    [katedros] klebonas; gailėjosi jo, žinodami, kad jeigu
+    Tautvilą nebūtų išvarytas iš Lietuvos žemės, jis būtų
+    jų rankose, ir [lietuviai), nors ir nenorėdami, būtų
+    krikštą priėmę.
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193387
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 176"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 176."
+  citata_originali: |
+    Ir kiek dar vis mano draugų buvo li­
+    kę, iš tų visų kunigaikštis Jogaila atėmė jų tėviškes.
+    Tai, ką mano broliui kunigaikščiui Tautvilai13 buvo
+    davęs, vėl visa iš jo atėmė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211022
+
+- id: c-193531
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
+  citata_originali: |
+    Danielius iš­
+    siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
+    čius, ir jie ilgai kariavo vieni su kitais.
+    Iš ten Tautvilą su Danieliui skirtais belaisviais nu­
+    vyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme,
+    ir jis buvo pakrikštytas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

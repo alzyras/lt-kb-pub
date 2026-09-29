@@ -70,5 +70,6 @@ Urbonas IV bulėje Krokuvos vyskupui Prandotai nurodė padėti atversti pagonis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

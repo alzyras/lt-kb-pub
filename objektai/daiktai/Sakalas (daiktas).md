@@ -79,5 +79,6 @@ Ir pagal savo tėvo įsakymą toje vietoje, Vilnios žiotyse, kur ji įteka į N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

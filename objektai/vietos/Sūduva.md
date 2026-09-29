@@ -304,6 +304,64 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   pagrindžia:
     - c-188436
 
+<a id="claim-t-213155"></a>
+- t-213155
+  teiginys: "Sūduvą sudarė žemės prie Olecko, Lykos, Bialos, Ario, Reino ir Lėceno."
+  atnaujinta: "2026-09-19 09:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-215774"></a>
+- t-215774
+  teiginys: "Kai kurie iš jų įsikūrė tarp prūsų Sūduvos pro vincijoje, kur jų dar rado kryžiuočiai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197424
+
+<a id="claim-t-221711"></a>
+- t-221711
+  teiginys: "Devinta — Sūduva199, kurioje [gyveno] sūduviai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203978
+
+<a id="claim-t-222431"></a>
+- t-222431
+  teiginys: "Dusburgietis nurodo, kad broliai daug kartų ir ilgai kariavo su sūduviais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205185
+
+<a id="claim-t-224408"></a>
+- t-224408
+  teiginys: "Sūduviai, subūrę dar didesnę kariuomenę, atžygiavo prie Vartenbergo pilies."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203614
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos.'
@@ -341,7 +399,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-159549
@@ -363,7 +421,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-007
 
@@ -380,7 +438,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-159553
@@ -403,7 +461,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-159555
@@ -425,7 +483,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-159557
@@ -445,7 +503,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-175532
@@ -469,7 +527,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-011
 
@@ -498,7 +556,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-175534
@@ -524,7 +582,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-179406
@@ -554,7 +612,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-179407
@@ -575,7 +633,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-188435
@@ -592,7 +650,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-188436
@@ -619,8 +677,163 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
+
+- id: c-194844
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
+  citata_originali: |
+    Gyventojai aistringai gynė savo lais­
+    vę, dažnai maištavo; kryžiuočiai iškapojo beveik visus, o
+    likusius, sugautus giriose, perkėlė į Sambiją. Taip pat
+    daug sudinų persikėlė ir į Lietuvą. Sūduva turėjo gana
+    daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
+    giausia buvusių savarankiškų valdovų. Kryžiuočiams val­
+    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
+    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
+    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
+    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195194
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 364."
+  citata_originali: |
+    Taip pat čia buvo
+    nemažai turtingų didelių žemės valdų savininkų; vien Me-
+    rūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.
+    192). Pietinėje Sūduvos dalyje buvo daug ežerų ir pelkių,
+    o šiaurinėje — neišbrendamų miškų; gausūs gyventojai
+    čia rasdavo viską, ko reikėjo pragyvenimui, be medžiok­
+    lės ir žūklės, jie vertėsi žemdirbyste ir gyvulininkyste.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196734
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  citata_originali: |
+    Kruvina šio Ordino
+    politika numatė padaryti Sūduvą visiškai negyvenamą,
+    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
+    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
+    tikti su mokslininku Heningu, kuris daro prielaidą, kad
+    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
+    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
+    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197424
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 120."
+  citata_originali: |
+    Kai kurie iš jų įsikūrė tarp prūsų Sūduvos pro­
+    vincijoje, kur jų dar rado kryžiuočiai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215774
+
+- id: c-202775
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 61"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
+  citata_originali: |
+    145). Dab. Suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių)
+    teritorijos plačiąja prasme dalis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203614
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
+  citata_originali: |
+    Sūduviai, subūrę dar
+    didesnę kariuomenę, atžygiavo prie Vartenbergo pilies
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224408
+
+- id: c-203978
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 61"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
+  citata_originali: |
+    Devinta — Sūduva199, kurioje [gyveno] sūduviai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221711
+
+- id: c-205185
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 26"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
+  citata_originali: |
+    Daug kartų ir be galo ilgai
+    broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“
+    (III, 219
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222431
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]

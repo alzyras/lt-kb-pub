@@ -1,10 +1,10 @@
-import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/objectDirectory.scss"
 
 type DirectoryCategory = {
   type: string
+  route: string
   label: string
   description: string
   image: string
@@ -14,6 +14,7 @@ type DirectoryCategory = {
 const categories: DirectoryCategory[] = [
   {
     type: "asmuo",
+    route: "asmenys",
     label: "Asmenys",
     description: "Valdovai, autoriai, veikėjai ir liudininkai.",
     image: "category-asmenys-960.webp",
@@ -21,6 +22,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "autorius",
+    route: "autoriai",
     label: "Autoriai",
     description: "Istorikai, metraštininkai ir tyrimo balsai.",
     image: "category-autoriai-960.webp",
@@ -28,6 +30,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "ivykis",
+    route: "ivykiai",
     label: "Įvykiai",
     description: "Mūšiai, sutartys, sukilimai ir lūžiai.",
     image: "category-ivykiai-960.webp",
@@ -35,6 +38,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "vieta",
+    route: "vietos",
     label: "Vietos",
     description: "Pilys, miestai, žemės, upės ir erdvės.",
     image: "category-vietos-960.webp",
@@ -42,6 +46,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "grupe",
+    route: "grupes",
     label: "Grupės",
     description: "Giminės, luomai, kariuomenės ir bendruomenės.",
     image: "category-grupes-960.webp",
@@ -49,6 +54,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "daiktas",
+    route: "daiktai",
     label: "Daiktai",
     description: "Dokumentai, ženklai, ginklai ir artefaktai.",
     image: "category-daiktai-960.webp",
@@ -56,6 +62,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "paprotys",
+    route: "paprociai",
     label: "Papročiai",
     description: "Apeigos, praktikos, normos ir tradicijos.",
     image: "category-paprociai-960.webp",
@@ -63,6 +70,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "posakis",
+    route: "posakiai",
     label: "Posakiai",
     description: "Citatos, formulės ir įsimintini pasakymai.",
     image: "category-posakiai-960.webp",
@@ -70,6 +78,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "zodyno_irasas",
+    route: "zodynas",
     label: "Žodynas",
     description: "Sąvokos, terminai ir istorinė leksika.",
     image: "category-zodynas-960.webp",
@@ -77,6 +86,7 @@ const categories: DirectoryCategory[] = [
   },
   {
     type: "saltinis",
+    route: "saltiniai",
     label: "Šaltiniai",
     description: "Knygos, kronikos ir tekstai, iš kurių mokomės.",
     image: "category-saltiniai-960.webp",
@@ -98,7 +108,7 @@ function objectPages(allFiles: QuartzPluginData[]): QuartzPluginData[] {
   })
 }
 
-const ObjectDirectory: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
+const ObjectDirectory: QuartzComponent = ({ allFiles }: QuartzComponentProps) => {
   const pages = objectPages(allFiles)
   const counts = new Map<string, number>()
   for (const page of pages) {
@@ -106,7 +116,6 @@ const ObjectDirectory: QuartzComponent = ({ fileData, allFiles }: QuartzComponen
     counts.set(type, (counts.get(type) ?? 0) + 1)
   }
 
-  const currentSlug = (fileData.slug ?? "objektai/index") as FullSlug
   const total = pages.length
 
   return (
@@ -120,16 +129,10 @@ const ObjectDirectory: QuartzComponent = ({ fileData, allFiles }: QuartzComponen
             tinklą.
           </p>
           <div class="object-directory-actions">
-            <a
-              class="object-directory-primary"
-              href={resolveRelative(currentSlug, "index" as FullSlug)}
-            >
+            <a class="object-directory-primary" href="/">
               Ieškoti kolekcijoje <span aria-hidden="true">→</span>
             </a>
-            <a
-              class="object-directory-secondary"
-              href={resolveRelative(currentSlug, "zemelapis" as FullSlug)}
-            >
+            <a class="object-directory-secondary" href="/zemelapis">
               Atverti žemėlapį <span aria-hidden="true">↗</span>
             </a>
           </div>
@@ -160,29 +163,14 @@ const ObjectDirectory: QuartzComponent = ({ fileData, allFiles }: QuartzComponen
         <div class="object-directory-grid">
           {categories.map((category, index) => {
             const count = counts.get(category.type) ?? 0
-            const folderSlug = [
-              "asmuo",
-              "autorius",
-              "ivykis",
-              "vieta",
-              "grupe",
-              "daiktas",
-              "paprotys",
-              "posakis",
-              "zodyno_irasas",
-              "saltinis",
-            ][index]
             return (
               <a
                 class={`object-directory-card object-directory-card-${(index % 4) + 1}`}
-                href={resolveRelative(currentSlug, `objektai/${folderSlug}` as FullSlug)}
+                href={`/objektai/${category.route}`}
               >
                 <span class="object-directory-card-image">
                   <img
-                    src={resolveRelative(
-                      currentSlug,
-                      `static/collection-images/${category.image}` as FullSlug,
-                    )}
+                    src={`/static/collection-images/${category.image}`}
                     alt={category.imageAlt}
                     loading="lazy"
                   />
@@ -212,7 +200,7 @@ const ObjectDirectory: QuartzComponent = ({ fileData, allFiles }: QuartzComponen
         <p>
           Naudok paiešką, jei nori rasti objektą pagal vardą, laikotarpį, šaltinį ar teiginio temą.
         </p>
-        <a href={resolveRelative(currentSlug, "index" as FullSlug)}>
+        <a href="/">
           Atverti paiešką <span aria-hidden="true">→</span>
         </a>
       </section>

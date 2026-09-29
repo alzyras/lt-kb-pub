@@ -224,7 +224,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166946
@@ -246,7 +246,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168116
@@ -274,11 +274,12 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     pradžių Minske, o po to Bo­
     risove.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168118
@@ -305,7 +306,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-168119
@@ -334,6 +335,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-168120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -356,7 +358,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-176120
@@ -383,7 +385,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-187828
@@ -401,7 +403,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 ## Ryšiai

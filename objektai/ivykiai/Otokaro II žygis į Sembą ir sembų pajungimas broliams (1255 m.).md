@@ -72,22 +72,6 @@ Nenurodyta
   pagrindžia:
     - c-66936
 
-<a id="claim-t-66806"></a>
-- t-002
-  teiginys: "Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-66937
-
 <a id="claim-t-66807"></a>
 - t-003
   teiginys: "Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė."
@@ -119,22 +103,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-66932
-
-<a id="claim-t-66809"></a>
-- t-005
-  teiginys: "Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Semba: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-66933
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -177,7 +145,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-66933
@@ -202,8 +170,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-66935
   autorius: "Petras Dusburgietis"
@@ -250,7 +216,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-66936
@@ -270,7 +236,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-66937
@@ -295,8 +261,92 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-201830
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
+  citata_originali: |
+    Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai. Sitai
+    užbaigęs ir įvykdęs maldininko įžadus, sugrįžo karalius į savo karalystę, žygyje praradęs
+    nedaug savo žmonių.
+    72 (71).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202579
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 105-106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105-106."
+  citata_originali: |
+    Tada karalius įsibrovė  į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
+    Medenava,  ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs  į
+    nelaisvę ir išžudęs, ten pat ir pernakvojo. Kitą dieną patraukė  į Rudavos valsčių ir ten
+    pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
+
+      321 D.— Medenow, Jer. — Medenouwe; Medenava (vėliau — Medenau, dab. Logvinovas),
+    to pat vardo valsčiaus centras pietvakarių Semboje. I tūkstantmečio pabaigos — XIII a.
+    sembų pilis buvo kiek toliau į šiaurės rytus nuo dabartinės gyvenvietės, kranto kyšulyje
+    įrengtame piliakalnyje, įtvirtintame dviem galingais pylimais; vėliau, atrodo, čia buvusi
+    vyskupo  pilis. Ankstesnio laikotarpio (I tūkstantmečio 1-os pusės) piliakalnis yra  į
+    pietryčius nuo gyvenvietės (CF, p. 13—16, Nr. 4, 5; Гуревич Ф. Д. Из истории..., с.
+    340—341, 369, 436—443).
+      322 D.— Super [...] habitaciones suas (III, 108, 204, 209, 228, 332), Jer — hŭs, hûf,
+    gebûve; kituose šaltiniuose — curia, kartais pabrėžiant, kad pulchram et bene munitam
+    (MPH, 4, p. 430). Tai didelės, turtingos, daugiau ar mažiau įtvirtintos sodybos (kartais
+    — labai gerai), bet ne pilys, nes Dusburgietis jas skiria nuo pilies  ir kitų gynybinės
+    paskirties įtvirtinimų (habitaciones, et alia, que extra castra et municiones sita — III,
+    204), kilmingųjų, žymiųjų prūsų (potentis Prutheni), jotvingių (дом Стекинтове —
+    ПСРЛ, 2, стб. 828) ir lietuvių, kiemai (Łowmiański H., Studja..., 1, p. 293—295; Pašuta
+    V., Lietuvos..., p. 155, 329; Jurginis J., Baudžiavos..., p. 93, 101).
+      323 D.— ad territorium Rudowie, Jer.— zu Rudowe; Rudava, valsčius Semboje. Jo
+    centras — Rudavos pilis buvo per 18 km į šiaurę nuo dab. Kaliningrado, į vakarus nuo
+    dab. automobilių kelio Kaliningradas—Zelionogradskas, kalvoje, greta kurios vėliau buvo
+    pastatyta Ordino pilis (Boetticher A., Die Bau..., 1, p. 118; CF, p. 52, schema 23a).
+    Rudava — dab. Melnikovas.
+      Kai kas mano, jog Dusburgiečio minima Rudavos valsčiaus pilis, kur išžudyta daug
+    sembų, buvo kiek  į pietus nuo Rudavos, piliakalnyje prie Ekričių (dab. Vetrovas)  ir
+    Maldaičių, jog tai Nogimptės (Nogympten) pilis (CF, p. 52—54; GAO, p. 108; plg. Ewald
+    A. L., Die Eroberung..., 3, p. 17).
+
+    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
+    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202727
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  citata_originali: |
+    XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
+    Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,
+    dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą,
+    konstatuoja, kad už Prūsijos  į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad
+    aquilonem — Colker M. L. America..., p. 721; Samalavičius S., Abramauskas S. Naujas...,
+    p. 63).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Otokaras II]]

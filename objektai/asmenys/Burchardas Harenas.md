@@ -92,6 +92,7 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+

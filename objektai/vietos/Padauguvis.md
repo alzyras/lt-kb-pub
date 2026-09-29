@@ -178,7 +178,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-46659
@@ -201,7 +201,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184443
@@ -222,7 +222,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184444
@@ -244,7 +244,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184445
@@ -266,7 +266,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184446
@@ -293,7 +293,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 ## Ryšiai

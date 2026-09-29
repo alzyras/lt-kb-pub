@@ -79,5 +79,6 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

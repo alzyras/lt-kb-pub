@@ -43,17 +43,6 @@ canonical_biography: "Dusburgietis teigia, kad vaičiulaitis A."
 
 Dusburgietis teigia, kad vaičiulaitis A.
 
-## Teiginiai
-
-<a id="claim-t-60807"></a>
-- t-001
-  teiginys: "A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61439
-
 ## Citatos
 
 - id: c-61439
@@ -70,5 +59,4 @@ Dusburgietis teigia, kad vaičiulaitis A.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

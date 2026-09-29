@@ -90,11 +90,12 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     vizitas į Lietuvą.
   citata_rodoma: "Planinės\nekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus\nį savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius\nPirmasis Prancūzijos prezidento Fransua Miterano\nvizitas į Lietuvą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176290
@@ -115,7 +116,7 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

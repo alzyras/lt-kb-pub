@@ -75,5 +75,6 @@ Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

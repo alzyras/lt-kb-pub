@@ -103,9 +103,11 @@ Nenurodyta
     accederet.
   citata_rodoma: "## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS \nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI \n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio \nkodekso buv. Vilniaus universiteto bibliotekoje )\nQuum Jure Nostro postposito difficultatibusque futuris \nfomitem subducehtes petenti Capitulo Ecclesiae Varmiensis \nconcessimus ut electio quam nobis non salutatis fecerunt de \nR-ndo in X-to Patre D-no Fabiano moderno Varmiensi Epis­\ncopo valida baberetur, nonnullos articulos conferimus quibus \ncautum est, quomodo in futurum vacante Sede Episcopus \neligi sine Nostra nostrorumque successorum adversus Capi­\ntulum controversia deberet, ne indė postea tale aliquid excita­\nri possit, quod statum ejus Ecclesiae cujus nos patronus su­\nmus offenderet, volentesque ut ejusmodi compositio in \narticulos redacta de Sacrosanctae Sedis Apostolicae assensu \nrata atque firma fieret, fecimus impetrare a S-smo D-no Nost­\nro confirmationem."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

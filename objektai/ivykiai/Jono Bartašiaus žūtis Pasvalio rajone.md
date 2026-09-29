@@ -43,14 +43,32 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1950 m. gruodžio 25 d. per karinę čekistų operaciją Pasvalio rajone buvo nušautas 1917 m. gimęs Jonas Bartašius, gyvenęs Šilų kaime, Vabalninko valsčiuje, ir priklausęs Kosto Kregždės partizanų skyriui.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231489"></a>
+- t-001
+  teiginys: "1950 m. gruodžio 25 d. per karinę čekistų operaciją Pasvalio rajone buvo nušautas 1917 m. gimęs Jonas Bartašius, gyvenęs Šilų kaime, Vabalninko valsčiuje, ir priklausęs Kosto Kregždės partizanų skyriui."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:12Z"
+  pagrindžia:
+    - c-212127
+
+## Citatos
+
+- id: c-212127
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 392"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 392."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

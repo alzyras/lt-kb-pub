@@ -24,14 +24,13 @@ media_all_json: |-
 
 Antanas Starkus 1946 m. gruodžio 16 d. laiške Jaroslavui Zdanauskui pasiūlė gruodžio 18 d. susitikti Obonių kaime pas Aiduką (byloje – Abanių).
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Antanas Starkus 1946 m. gruodžio 16 d. laiške Jaroslavui Zdanauskui pasiūlė gruodžio 18 d. susitikti Obonių kaime pas Aiduką (byloje – Abanių).'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214509
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 182"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 182."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:43"

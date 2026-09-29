@@ -757,6 +757,64 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - c-189180
 
+<a id="claim-t-210781"></a>
+- t-210781
+  teiginys: "Ragainė buvo svarbiausia kryžiuočių tvirtovė Nemuno žemupyje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193517
+
+<a id="claim-t-221800"></a>
+- t-221800
+  teiginys: "Tuo metu Ragainės pilyje gyveno vienas lankininkas, kilęs iš Bavarijos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203050
+
+<a id="claim-t-223296"></a>
+- t-223296
+  teiginys: "1289 m. buvo pastatyta Ragainės pilis."
+  atnaujinta: "2026-09-19 03:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-223374"></a>
+- t-223374
+  teiginys: "Ragainės piliai ginti buvo paliktas komtūras Bertoldas Briuhavenas su 40 brolių ir 100 ginklanešių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205717
+
+<a id="claim-t-224122"></a>
+- t-224122
+  teiginys: "Dusburgiečio pasakojimu, kryžiuočių karys iš Žemaitijos pėsčiomis grįžo į Ragainę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201627
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: '1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.'
@@ -896,7 +954,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-153886
@@ -915,7 +973,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-153887
@@ -939,7 +997,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-153888
@@ -961,7 +1019,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-153889
@@ -986,7 +1044,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-153890
@@ -1006,7 +1064,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-153892
@@ -1027,7 +1085,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-153893
@@ -1051,7 +1109,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-153894
@@ -1087,7 +1145,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-007
 
@@ -1108,7 +1166,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-010
 
@@ -1137,7 +1195,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-153897
@@ -1158,7 +1216,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-153898
@@ -1180,7 +1238,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-017
 
@@ -1201,7 +1259,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
     - t-022
     - t-027
@@ -1223,7 +1281,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-153901
@@ -1246,7 +1304,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-153904
@@ -1266,7 +1324,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-153905
@@ -1286,7 +1344,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-168479
@@ -1317,7 +1375,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-168481
@@ -1353,7 +1411,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
     - t-028
 
@@ -1374,7 +1432,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
     - t-030
 
@@ -1394,7 +1452,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-178878
@@ -1418,7 +1476,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-186562
@@ -1435,7 +1493,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-188429
@@ -1450,7 +1508,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-189171
@@ -1467,7 +1525,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-189172
@@ -1483,7 +1541,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-189173
@@ -1500,7 +1558,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-189174
@@ -1517,7 +1575,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-189175
@@ -1534,7 +1592,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-189176
@@ -1551,7 +1609,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-189177
@@ -1566,7 +1624,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-189178
@@ -1581,7 +1639,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-189179
@@ -1596,7 +1654,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-189180
@@ -1611,8 +1669,196 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
+
+- id: c-193517
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 211"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 211."
+  citata_originali: |
+    Ragainė, svarbiausia kryžiuočių tvir­
+    tovė Nemuno žemupyje, buvo lietuvių puolama taip pat 1289, 1290,
+    1338, 1347, 1402 ir 1411 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210781
+
+- id: c-195495
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  citata_originali: |
+    Ragainė Hartknocho išleistame Dus-
+    burgo veikale klaidingai pavadinta Ramige (p. III. C.
+    178). Ponas Foigtas rado Berlyno rankraštyje vietovardį
+    Raganita, ir tai žinomas pats tikriausias pavadinimas, nes
+    jis kilęs iš mitinio vardo Ragana.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195545
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  citata_originali: |
+    Ten ji šiau­
+    rėje ir rytuose ribojosi su Žemaitija ir iš dalies su Lie­
+    tuva. Šioje provincijoje šen bei ten aptikta gynybinių
+    įtvirtinimų vietų. Tokia tvirtovė buvusi ant kalvos netoli
+    Ragainės, kur buvo pastatyta šitaip vadinama kryžiuo­
+    čių pilis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201627
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224122
+
+- id: c-202981
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  citata_originali: |
+    Apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį
+
+       Skalviai prie Ragainės ant kalno turėjo pilį465, kurią siautė didelė rutėnų kariuomenė466,
+      465 D. — Raganita, Jer. — Ragnîtin, Rangnîte, Ragnîte, Ragnît (SRP, 1, p. 488, 489,
+    519, 523, 535); vėliau — Ragnit, lie. Ragainė (dab. Nemanas).
+      Ordino pilis iš pradžių vadinosi Landishute (1291 m.— PUB, 1, 2, Nr. 576, p. 363),
+    Landeshute (D. III, 235), vėliau įsigali baltiškasis vardas: lotyniškuose dokumentuose —
+    Raganitie (1300 m — PUB, 1, 2, Nr. 745, p. 463), o vokiškuose — Raug-[nit], Rangnith,
+    Rangnithe (1302 m. ir vėliau — ten pat, Nr. /77, 778 791 879). Vokiškuose Pelplino
+    analuose (XIV a. pradžia) — Ragenitien (SRP, 1, p. 271). Kiek vėlesnėje už Dusburgietį
+    lotyniškoje Sembos kanauninko kronikoje Rangnîthen, Ragnithen (SRP, 1, p. 280, 283).
+    Vokiškoje Prūsijos trumpojoje eiliuotoje kronikoje — Rangniten (SRP, 2, p. 8). Lotyniškoje
+    Vartbergės Livonijos kronikoje (iki 1378 m.) — Ragnithen, Ragniten (SRP, 2, p. 85, 95
+    ir kt.), Vygando Marburglškio Prūsijos kronikoje (iki 1394 m.) — Ragneta, Ragnite,
+    Ragnita (SRP, 2, p. 509, 514, 522, 541 ir kt.). Vokiškuose kryžiuočių kelių aprašymuose
+    — Rangith (Weg. 6), Rangnit (Weg. 7, 8, 15, 18 22, 43), Rangnith (Weg. 8, 90), Rangit
+    (Weg. 8), Ragnit (Weg. 12, 18, 22, 43). XV a. vokiškame rankraštyje — Ragnith (SRP,
+    2, p. 709). XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu
+    parašytos Posilgės kronikos vokiškame vertime — Rangnith (SRP, 3, p. 131).
+      M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
+    Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
+    Ambraziejaus”).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203050
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 207"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
+  citata_originali: |
+    Tuo metu Ragainės pilyje gyveno vienas lankininkas, kilęs iš
+    Bavarijos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221800
+
+- id: c-203799
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  citata_originali: |
+    Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
+    sudeginimą
+    Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
+    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
+    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
+    262 (255).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204861
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  citata_originali: |
+    Skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius
+    nuo dab. miestelio, taip pat nuo XIV—XV a. pradžioje statytos Ordino pilies griuvėsių.
+    Pilis buvusi pastatyta aukštame Nemuno krante (žr. D. III, 182). 1289 m. toje vietoje
+    Ordinas pastatė pirmąją Ragainės pilį (žr. D. III, 235; HE, p. 126; С V, t. 34, p. 106—
+    107; Boetticher A., Die Bau.., 5, p. 109). Dusburgiečio aprašyta Skalvių pilis netoli
+    Ragainės (su žuvų tvenkiniu) buvusi žemiau Ragainės, ties Paskalviais, Nemuno lankų
+    pakraštyje — Skalvkalnyje (žr. D. III, 235). Čia, pasak vietos žmonių, buvę du žuvingi
+    ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183). Žinomi pasakojimai apie piliakalnį
+    į pietryčius nuo Ragainės (ten pat, p. 178—181).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205717
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
+  citata_originali: |
+    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223374
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Draika]]

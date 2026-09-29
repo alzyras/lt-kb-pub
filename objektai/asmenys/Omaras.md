@@ -77,5 +77,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

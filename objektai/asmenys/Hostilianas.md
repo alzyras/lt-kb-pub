@@ -123,5 +123,6 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

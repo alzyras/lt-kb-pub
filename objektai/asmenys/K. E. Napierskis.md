@@ -74,5 +74,6 @@ Napierskiu, bet tik 1842 metais rankraštis buvo galutinai sutvarkytas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

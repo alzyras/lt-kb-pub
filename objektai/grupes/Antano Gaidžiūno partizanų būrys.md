@@ -7,10 +7,10 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +30,13 @@ media_all_json: |-
 
 Tardomas suimtas partizanas Antanas Mažeika teigė, kad 1945 m. birželį įstojo į Antano Gaidžiūno vadovaujamą partizanų būrį; Gaidžiūnui tų pačių metų rugpjūtį legalizavusis, Mažeika tapo būrio vadu.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Tardomas suimtas partizanas Antanas Mažeika teigė, kad 1945 m. birželį įstojo į Antano Gaidžiūno vadovaujamą partizanų būrį; Gaidžiūnui tų pačių metų rugpjūtį legalizavusis, Mažeika tapo būrio vadu.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213682
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 138"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 138."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:39"

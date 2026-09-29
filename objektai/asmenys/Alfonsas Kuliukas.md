@@ -8,12 +8,12 @@ datos:
   - '1946 m.'
 date_start: '1926'
 date_end: '1946'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,14 +44,13 @@ Alfonsas Kuliukas, Juozo sūnus, gimė 1926 m. Griauželių kaime, Pandėlio val
 
 Alfonsas Kuliukas, Juozo sūnus, gimė 1926 m. Griauželių kaime, Pandėlio valsčiuje; priklausė Romo Petronio partizanų būriui ir buvo nušautas 1946 m. liepos 3 d.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Alfonsas Kuliukas, Juozo sūnus, gimė 1926 m. Griauželių kaime, Pandėlio valsčiuje; priklausė Romo Petronio partizanų būriui ir buvo nušautas 1946 m. liepos 3 d.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-212909
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 205"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 205."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

@@ -76,5 +76,6 @@ Pasirinkau mažiausiai pramintą ke lią, kuriuo stengiuosi eiti, kad išsiaišk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

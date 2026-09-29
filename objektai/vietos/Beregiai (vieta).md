@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Beregiai","Beregiai (vieta)"]
 sameAs: []
 canonical_biography: "Mykolas Namejūnas gyveno Beregių kaime, Šimonių valsčiuje."
+place_authority: true
+historical_names: []
 ---
 # Beregiai (vieta)
 
@@ -36,14 +38,13 @@ canonical_biography: "Mykolas Namejūnas gyveno Beregių kaime, Šimonių valsč
 
 Beregių kaime, Šimonių valsčiuje, gyvenęs partizanas Mykolas Namejūnas pabėgo.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Beregių kaime, Šimonių valsčiuje, gyvenęs partizanas Mykolas Namejūnas pabėgo.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214586
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 427"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 427."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

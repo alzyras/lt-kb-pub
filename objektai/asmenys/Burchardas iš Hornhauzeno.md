@@ -45,26 +45,6 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 
 ## Teiginiai
 
-<a id="claim-t-60094"></a>
-- t-001
-  teiginys: "Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Durbė: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Burchardas iš Hornhauzeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Durbė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Burchardas žuvo kautynėse lauke prie Durbės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Burchardas iš Hornhauzeno mirė Durbė (0.92); Burchardas iš Hornhauzeno mirė Kuršas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1219 m.; įvykio data: 1238 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citatos informacija apie žūtį."
-  pagrindžia:
-    - c-60726
-
 <a id="claim-t-60095"></a>
 - t-002
   teiginys: "Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno."
@@ -96,6 +76,18 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60727
+
+<a id="claim-t-222081"></a>
+- t-222081
+  teiginys: "Burchardas iš Hornhauzeno buvo Livonijos žemės magistras."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205669
 
 ## Citatos
 
@@ -134,8 +126,6 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-60727
   autorius: "Petras Dusburgietis"
@@ -157,9 +147,69 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-202492
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 112-113"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112-113."
+  citata_originali: |
+    Ilgą laiką sėkmei
+    nekrypstant nei  į vieną, nei  į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo,
+    nes visa jų kariuomenės galia palūžo, kai pasileido bėgti prastuomenė; šiose kautynėse,
+    įvykusiose palaimintos Margaritos dieną (liepos 13 d.) Kuršo žemėje, lauke prie Durbės
+
+
+
+
+
+      345 D.— nobilis diclus Matto, Jer.— Matte (ТАР, p. 56).
+      346  T. y. Henriko Botelio.
+      347 1219 m. Danijos kariuomenė užėmė estiškosios Riavalos žemės centrą Lindanisę.
+    Nuo tada (neskaitant 1227—1238 m, kai jį buvo užėmęs Ordinas) Revelis (dab. Talinas)
+    buvo Danijos valdžioje (История Эстонской ССР, 1, с. 161, 174, 178, 218).
+      348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos
+    požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais
+    pasekę ir estai (LRCh, eil. 5601—5643; LIS, 1, p. 49). Šiaip ar taip, kuršių veiksmai
+    vertinami kaip jų pagalba lietuviams (Ivinskis Z., Durbės.., p. 70—71; Lietuvių karas..,
+    p. 153).
+      349  Žr. D. III, 101.
+
+    upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos
+    maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų
+    skaičiaus.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205669
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
+  citata_originali: |
+    Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
+    Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas
+    ten Livonijos broliams iš Prūsijos žemės kaip magistras. Turėdamas kuo tiksliausių žinių
+    apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus,
+    jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą,
+    Karšuvos žemėje343, ant švento Jurgio kalno344, 1259 viešpaties metais būtų pastatyta
+    pilis, kuri tada buvo itin reikalinga krikščionių tikėjimui plėsti. Pastačius šią pilį, jai
+    saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
+    vyrų, tinkamai parinktų ir įgudusių kovoti.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222081
 
 ## Ryšiai
 - Burchardas iš Hornhauzeno mirė [[objektai/vietos/Durbė]], [[objektai/vietos/Kuršas]]

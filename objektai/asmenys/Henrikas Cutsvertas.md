@@ -182,18 +182,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   pagrindžia:
     - c-178711
 
-<a id="claim-t-197092"></a>
-- t-009
-  teiginys: "Henrikas Cutsvertas buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų meistras."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60547
-
 <a id="claim-t-197093"></a>
 - t-010
   teiginys: "Brolis Henrikas visa tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus, kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė."
@@ -363,8 +351,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
 
 - id: c-60548
   autorius: "Petras Dusburgietis"
@@ -382,7 +368,7 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-010
 
@@ -406,7 +392,7 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -426,7 +412,7 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -447,7 +433,7 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-168073
@@ -485,7 +471,7 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-178710
@@ -515,7 +501,7 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-178711
@@ -550,7 +536,7 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-179025
@@ -571,8 +557,48 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-201654
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
+  citata_originali: |
+    Minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su
+    tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
+    stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link
+    Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
+    pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
+    245 (238). Apie vieną nuostabų atsivertimą
+    Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
+    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
+    garsėjęs kaip labai gabus račius ir didelis karo pabūklų meistras.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206286
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
+  citata_originali: |
+    Šitai išgirdę, broliai ir kiti,
+    labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?“ Jiems
+    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku
+    atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti
+    dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
+    bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
+    apgins.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Jazbutas]]

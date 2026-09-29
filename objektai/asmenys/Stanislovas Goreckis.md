@@ -89,5 +89,6 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

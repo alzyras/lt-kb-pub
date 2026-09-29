@@ -158,6 +158,42 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   pagrindžia:
     - c-187689
 
+<a id="claim-t-214697"></a>
+- t-214697
+  teiginys: "Viena jų dalis nuo Neries pasislinko į rytus ir susiliejo su slavų gentimis, galbūt net sudarydama krivičių gentį, tu rinčią labai daug panašumų į lietuvius, ypač panašią re ligiją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195783
+
+<a id="claim-t-217523"></a>
+- t-217523
+  teiginys: "Rusinus, kaimynus nuo Polocko, arba baltarusius latviai vadi no krieviais (Kreews), nes jie yra žinomų iš istorijos krivičių ainiai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200308
+
+<a id="claim-t-219679"></a>
+- t-219679
+  teiginys: "Narbutas teigia, kad slavų krivičių tauta buvo pavaldi vyriausiajam žyniui, kurio valdžia apėmė lietuvių gyvenamas žemes."
+  atnaujinta: "2026-09-19 18:59"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200832
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.'
@@ -256,7 +292,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171101
@@ -280,7 +316,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175206
@@ -307,7 +343,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175207
@@ -344,7 +380,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -368,7 +404,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-187729
@@ -386,8 +422,72 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-195783
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 252."
+  citata_originali: |
+    Viena jų dalis nuo Neries pasislinko į rytus ir susiliejo su
+    slavų gentimis, galbūt net sudarydama krivičių gentį, tu­
+    rinčią labai daug panašumų į lietuvius, ypač panašią re­
+    ligiją*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214697
+
+- id: c-200308
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 419"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 419."
+  citata_originali: |
+    Rusinus, kaimynus nuo Polocko, arba baltarusius latviai vadi­
+    no krieviais (Kreews), nes jie yra žinomų iš istorijos krivičių ainiai.
+    Senosios Lietuvos pasienyje, už Ašmenos, yra Krėva (Krewo), kadai­
+    se pilis tų krivičių, kurie, vadinasi, ir lietuviams tuo pačiu vardu buvo
+    žinomi. Latvijoje esama krievinių (Kreewini), tam tikros latvių krivi­
+    čių tautelės, kuri gyvena Bauskės apylinkėse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217523
+
+- id: c-200832
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
+  citata_originali: |
+    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219679
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]

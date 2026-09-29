@@ -177,19 +177,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   pagrindžia:
     - c-78715
 
-<a id="claim-t-193894"></a>
-- t-007
-  teiginys: "Iki 1377 m. imtinai Polocką valdė Algirdo sūnus Andrius, kuris po tėvo mirties 1378 m. persikėlė į Pskovą, Didįjį Naugardą ir Maskvą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176519
-
 ## Citatos
 
 - id: c-55314
@@ -208,11 +195,12 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
     driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
     tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55316
@@ -243,7 +231,7 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-78714
@@ -287,7 +275,7 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -318,7 +306,7 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
 
@@ -337,8 +325,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

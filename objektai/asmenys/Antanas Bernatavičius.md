@@ -40,14 +40,32 @@ canonical_biography: "Antanas Bernatavičius, gimęs 1910 m. Laukagalėlių kaim
 
 1910 m. Laukagalėlių kaime, Troškūnų valsčiuje, gimęs Antanas Bernatavičius iš Vytauto Kujelavičiaus-Nemunėlio būrio buvo nušautas 1947 m. gegužės 17 d. Jovarų kaime.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1910 m. Laukagalėlių kaime, Troškūnų valsčiuje, gimęs Antanas Bernatavičius iš Vytauto Kujelavičiaus-Nemunėlio būrio buvo nušautas 1947 m. gegužės 17 d. Jovarų kaime.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231890"></a>
+- t-001
+  teiginys: "1910 m. Laukagalėlių kaime, Troškūnų valsčiuje, gimęs Antanas Bernatavičius iš Vytauto Kujelavičiaus-Nemunėlio būrio buvo nušautas 1947 m. gegužės 17 d. Jovarų kaime."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:50:58Z"
+  pagrindžia:
+    - c-212528
+
+## Citatos
+
+- id: c-212528
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 266"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 266."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

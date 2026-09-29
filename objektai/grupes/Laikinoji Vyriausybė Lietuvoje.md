@@ -81,5 +81,6 @@ Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

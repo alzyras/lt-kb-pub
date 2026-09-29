@@ -72,5 +72,6 @@ Kunigaikščio M. Glinskio šalininkas, Nikolskio vietininkas Čečerske Kurbaka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

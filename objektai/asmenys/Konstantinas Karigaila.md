@@ -90,6 +90,7 @@ Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+

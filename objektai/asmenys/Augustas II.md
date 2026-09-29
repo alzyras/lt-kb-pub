@@ -194,6 +194,18 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   pagrindžia:
     - c-184863
 
+<a id="claim-t-208214"></a>
+- t-208214
+  teiginys: "Augustas II buvo Lenkijos ir Lietuvos valdovas, kurio sąjungininkais buvo rusų kariai."
+  atnaujinta: "2026-09-19 20:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190861
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Augustas II buvo Lenkijos ir Lietuvos valdovas, kurio sąjungininkais buvo rusų kariai.'
@@ -234,7 +246,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-41855
@@ -260,7 +272,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-76043
@@ -282,7 +294,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-76044
@@ -308,7 +320,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76045
@@ -331,7 +343,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-76047
@@ -351,7 +363,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76049
@@ -372,7 +384,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-184863
@@ -388,8 +400,30 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-190861
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 229"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 229."
+  citata_originali: |
+    Mikalojaus bažnyčios, bet dėl švedų keliamo pavojaus
+    jis galiausiai persikėlė į pranciškonų vienuolyną, kur ir pasimirė 170z m. liepos 7 d.,
+    švedams iš Vilniaus jau išžygiavus gilyn į Abiejų Tautų Respublikos žemes35. Bendrą
+    to meto nesaugumo atmosferą tirštino tai, kad, be švedų ir tarpusavyje kovojusių Lie­
+    tuvos Didžiosios Kunigaikštystės didikų bei bajorų grupuočių, Lietuvos Didžiojoje
+    Kunigaikštystėje veikė ir Rusijos kariuomenė. Nors ir būdami Lenkijos ir Lietuvos
+    valdovo Augusto II sąjungininkai, rusų kariai, kaip ir Rusijos caras Petras I, nebuvo
+    jautrūs vietiniams gyventojams.
+  citata_rodoma: "Nors ir būdami Lenkijos ir Lietuvos \nvaldovo Augusto II sąjungininkai, rusų kariai, kaip ir Rusijos caras Petras I, nebuvo \njautrūs vietiniams gyventojams."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208214
 
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Petras I Didysis]]

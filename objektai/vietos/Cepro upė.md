@@ -36,29 +36,6 @@ historical_names: []
 
 Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros.
 
-## Teiginiai
-
-<a id="claim-t-187699"></a>
-- t-001
-  teiginys: "Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lietuvos kariuomenė tiesiogiai siejama su veiksmais prieš totorius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Totoriai (0.90); Mykolas Glinskis kariavo prieš Totoriai (0.88)"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170638
-
 ## Citatos
 
 - id: c-170638
@@ -82,5 +59,4 @@ Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius apli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

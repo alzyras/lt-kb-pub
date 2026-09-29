@@ -96,7 +96,7 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44361
@@ -119,7 +119,7 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

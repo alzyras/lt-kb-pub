@@ -7,12 +7,12 @@ datos:
   - '1947 m.'
 date_start: '1947'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,14 +39,13 @@ canonical_biography: "Pranas Morozas buvo MVD Skapiškio valsčiaus milicijos ja
 
 1947 m. spalio 7 d. Antano Starkaus būrio partizanai Naivių kaime nušovė MVD Skapiškio valsčiaus milicijos jaunesnįjį leitenantą Praną Morozą.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1947 m. spalio 7 d. Antano Starkaus būrio partizanai Naivių kaime nušovė MVD Skapiškio valsčiaus milicijos jaunesnįjį leitenantą Praną Morozą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213331
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 271"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 271."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

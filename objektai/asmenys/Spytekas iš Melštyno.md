@@ -92,7 +92,7 @@ canonical_biography: "Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 40
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189002
@@ -110,7 +110,7 @@ canonical_biography: "Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 40
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

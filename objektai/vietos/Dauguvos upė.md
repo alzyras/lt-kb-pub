@@ -68,5 +68,6 @@ Kryžiuočiai nei iš už Nemuno, nei iš už Dauguvos nesibrovė su gink lu ran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

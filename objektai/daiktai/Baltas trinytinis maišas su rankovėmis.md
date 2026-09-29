@@ -47,18 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-08283"></a>
-- t-001
-  teiginys: "Kariai ant savo apdaro kartais užsimesdavo baltą trinytinį maišą su rankovėmis."
-  atnaujinta: "2026-05-30 12:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10240
-
 ## Citatos
 
 - id: c-10240
@@ -74,5 +62,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

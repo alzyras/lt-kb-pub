@@ -7,10 +7,10 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Jodinių miškas"]
 sameAs: []
 canonical_biography: "1945 m. liepos 18 d. operacijos metu Jodinių miško balose prie Vainiūniškio ežero rasta apie 30 partizanų; šaltinyje nurodoma, kad per kautynes žuvo 30 partizanų."
+place_authority: true
+historical_names: []
 ---
 # Jodinių miškas
 
@@ -37,14 +39,13 @@ canonical_biography: "1945 m. liepos 18 d. operacijos metu Jodinių miško balos
 
 1945 m. liepos 18 d. operacijos metu Jodinių miško balose prie Vainiūniškio ežero rasta apie 30 partizanų; bylos duomenimis, kautynėse žuvo 30 partizanų, du buvo sužeisti ir suimti, o aštuoni nuskendo ežere.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1945 m. liepos 18 d. operacijos metu Jodinių miško balose prie Vainiūniškio ežero rasta apie 30 partizanų; bylos duomenimis, kautynėse žuvo 30 partizanų, du buvo sužeisti ir suimti, o aštuoni nuskendo ežere.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214675
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 153"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 153."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

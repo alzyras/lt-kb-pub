@@ -142,6 +142,29 @@ Nenurodyta
   pagrindžia:
     - c-173889
 
+<a id="claim-t-213172"></a>
+- t-213172
+  teiginys: "Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu."
+  atnaujinta: "2026-09-20 10:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
+<a id="claim-t-215693"></a>
+- t-215693
+  teiginys: "Skitai savo ruožtu sudarė išmintingą gynybos pla ną: jie pirmiausia kreipėsi į savo kaimynus ir sąjunginin kus, kviesdami kovoti su bendru priešu, o patys, nusiau bę Padnestrės apylinkes, paliko šias vietas puolantiems persams ir taip darė be paliovos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194836
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu.'
@@ -194,7 +217,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173890
@@ -218,7 +241,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173892
@@ -243,7 +266,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -279,8 +302,114 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194836
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Skitai savo ruožtu sudarė išmintingą gynybos pla­
+    ną: jie pirmiausia kreipėsi į savo kaimynus ir sąjunginin­
+    kus, kviesdami kovoti su bendru priešu, o patys, nusiau­
+    bę Padnestrės apylinkes, paliko šias vietas puolantiems
+    persams ir taip darė be paliovos traukdamiesi nuo jų
+    kariuomenės. Jie padalijo savo jėgas į dvi dalis, kurioms
+    vadovavo du vadai, turėję veikti pagal išankstinį susita­
+    rimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215693
+
+- id: c-196409
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
+  citata_originali: |
+    Ko
+    gero, remdami Skitijos kolonistus graikus, persai palaikė
+    jų siekimą sunaikinti seną krašto tvarką ir suteikė progą
+    svetimoms gentims imtis veiksmų šiam tikslui įgyven­
+    dinti.
+    1
+    Ponas Eichvaldas, buvusio Vilniaus universiteto, o vėliau —
+    Vilniaus
+    medicinos-chirurgijos
+    akademijos
+    profesorius, „Dorpater
+    Jahrbuch“ paskelbė savo straipsnį apie Darijaus žygį prieš skitus
+    pavadinimu „Darijus, Histapo sūnus, Pinsko apylinkėse“, Jis, remda­
+    masis Herodoto ir Ktesijaus, o ypač pirmojo, kuris paliko budinu ša­
+    lies aprašymą, duomenimis, daro išvadą, jog lai turėjusi būti dabar­
+    tinė Polesė. Tą išvadą jis grindžia šiandienine topografine šios že­
+    mės padėtimi, Herodoto minimais upių pavadinimais bei kitomis
+    smulkmenomis, leidžiančiomis taip manyti
+    ir
+    įžvelgti
+    panašumą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196510
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
+    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
+    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
+    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
+    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197505
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
+    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
+    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
+    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
+    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Darijus]]

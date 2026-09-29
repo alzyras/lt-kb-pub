@@ -7,10 +7,10 @@ datos:
   - '1949 m.'
 date_start: '1949'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,7 +29,9 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Kupiškio miestas"]
 sameAs: []
-canonical_biography: "LSSR MVD Kupiškio apskrities skyriaus įgaliotiniui drg. Kupiškio mieste – 1 karinė grupė, 36 kareiviai. 1949 m. gegužės 30 d. agentas „Mikas“ ir MGB pareigūnas buvo išsiųsti į Kupiškį pas ministro pavaduotoją Leonovą."
+canonical_biography: "LSSR MVD Kupiškio apskrities skyriaus įgaliotiniui drg. 1949 m. gegužės 30 d. agentas „Mikas“ ir MGB pareigūnas buvo išsiųsti į Kupiškį pas ministro pavaduotoją Leonovą."
+place_authority: true
+historical_names: []
 ---
 # Kupiškio miestas
 
@@ -37,14 +39,23 @@ canonical_biography: "LSSR MVD Kupiškio apskrities skyriaus įgaliotiniui drg. 
 
 Kupiškio mieste buvo viena karinė grupė, kurią sudarė 36 kareiviai. 1949 m. gegužės 30 d. agentas „Mikas“ ir MGB Kauno miesto 2-N valdybos skyriaus operatyvinis įgaliotinis, jaunesnysis leitenantas Manovas, buvo išsiųsti į Kupiškį pas ministro pavaduotoją Leonovą.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-002
-  santrauka: '1949 m. gegužės 30 d. agentas „Mikas“ ir MGB Kauno miesto 2-N valdybos skyriaus operatyvinis įgaliotinis, jaunesnysis leitenantas Manovas, buvo išsiųsti į Kupiškį pas ministro pavaduotoją Leonovą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214719
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 339"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 339."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"
+
+- id: c-214720
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 344"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 344."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:44"
+

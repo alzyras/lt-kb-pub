@@ -55,5 +55,6 @@ Pava dinimas Plika Barte lietuvių kalba reiškia laukų Bartą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

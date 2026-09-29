@@ -22,25 +22,16 @@ media_all_json: |-
 
 ## Santrauka
 
-Instrukciją pasirašė „Žalgirio partizanai“. Antruoju numeriu įvardytas būrys vadinosi „Žalgirio partizanai“ ir laikėsi Šetekšnos dvare, Vaduvų ir Salagirio miškuose; byloje jis priskiriamas Alberto Nakučio vadovaujamai kuopai.
+ Antruoju numeriu įvardytas būrys vadinosi „Žalgirio partizanai“ ir laikėsi Šetekšnos dvare, Vaduvų ir Salagirio miškuose; byloje jis priskiriamas Alberto Nakučio vadovaujamai kuopai.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Instrukciją pasirašė „Žalgirio partizanai“.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214061
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 74"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 74."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Antruoju numeriu įvardytas būrys vadinosi „Žalgirio partizanai“ ir laikėsi Šetekšnos dvare, Vaduvų ir Salagirio miškuose; byloje jis priskiriamas Alberto Nakučio vadovaujamai kuopai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 75"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+  atnaujinta: "2026-09-28 17:40"
+

@@ -202,6 +202,30 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   pagrindžia:
     - c-188340
 
+<a id="claim-t-211294"></a>
+- t-211294
+  teiginys: "Ir savo įpėdiniu Lietuvos ir Že maičių kunigaikštystėje paliko savo sūnų Utenį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193925
+
+<a id="claim-t-211950"></a>
+- t-211950
+  teiginys: "Utenis buvo Lietuvos ir Žemaičių didysis kunigaikštis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193145
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą.'
@@ -284,7 +308,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173875
@@ -307,7 +331,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176624
@@ -332,7 +356,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177120
@@ -358,7 +382,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-178796
@@ -393,7 +417,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184391
@@ -412,7 +436,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-187721
@@ -431,7 +455,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-187958
@@ -460,7 +484,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188339
@@ -483,7 +507,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-188340
@@ -501,8 +525,64 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-193145
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 55."
+  citata_originali: |
+    Šventaragiui neilgai pabuvus Naugarduko bei Rusų
+    miestų kunigaikščiu, pasimirė jo tėvas Utenis2, Lietu­
+    vos ir Žemaičių didysis kunigaikštis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211950
+
+- id: c-193925
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
+  citata_originali: |
+    Ir savo įpėdiniu Lietuvos ir Že­
+    maičių kunigaikštystėje paliko savo sūnų Utenį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211294
+
+- id: c-199633
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
+  citata_originali: |
+    Be
+    to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
+    naują šio užrašo aiškinimą, padarytą pono Tado Volianskio, bus
+    kalbama šio veikalo trečiame tome). Tinkamai perskaičius, pa­
+    aiškėja, kad tai buvo Lietuvos kunigaikščio Utenio, kuris padėjo
+    prūsams kovoti su kryžiuočiais ir kuris buvo pramintas Zupanit,
+    vėliava. Čia gi pateikėme iliustraciją, padarytą pagal piešinį, gautą
+    iš Zaluskių bibliotekos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Utenis rėmė [[objektai/grupes/Prūsai]]

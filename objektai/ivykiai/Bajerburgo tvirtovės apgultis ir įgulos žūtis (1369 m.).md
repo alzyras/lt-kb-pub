@@ -79,5 +79,6 @@ Pasak Teodoro Narbuto, grįždamas maršalka apsupo lietuvių atstatytą Bajerbu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

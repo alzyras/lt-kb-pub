@@ -235,6 +235,20 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   pagrindžia:
     - c-179363
 
+<a id="claim-t-208030"></a>
+- t-208030
+  teiginys: "Baltarusija įvardyta tarp dabartinių valstybių, kurių atstovai dalyvavo 1791 m. konstitucijos priėmimo procese."
+  atnaujinta: "2026-09-19 15:37"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190747
+
 ## Citatos
 
 - id: c-24058
@@ -258,7 +272,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-24060
@@ -282,7 +296,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-24061
@@ -301,7 +315,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-73805
@@ -325,7 +339,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-006
 
@@ -351,7 +365,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168287
@@ -375,7 +389,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-175381
@@ -406,7 +420,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-177319
@@ -427,7 +441,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-179363
@@ -454,8 +468,76 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-190747
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 90"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 90."
+  citata_originali: |
+    Išvad os
+    1791 m. Gegužės 3-iosios konstitucijos ir spalio io-osios Abiejų Tautų tarpusavio
+    įžado priėmimo procese dalyvavo net keleto dabartinių valstybių - Lenkijos, Lie­
+    tuvos, Baltarusijos ir Ukrainos - atstovai, tačiau jų įamžinimo šių šalių atminties
+    kultūrose skirtumai išlieka akivaizdūs. Daugiausiai šioje srityje yra nuveikusi Len­
+    kija, kurioje šio įvykio vertinimuose nebūta ryškesnio specialistų ir visuomenės
+    nuomonių išsiskyrimo.
+  citata_rodoma: "1791 m. Gegužės 3-iosios konstitucijos ir spalio io-osios Abiejų Tautų tarpusavio \nįžado priėmimo procese dalyvavo net keleto dabartinių valstybių - Lenkijos, Lie­\ntuvos, Baltarusijos ir Ukrainos - atstovai, tačiau jų įamžinimo šių šalių atminties \nkultūrose skirtumai išlieka akivaizdūs"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208030
+
+- id: c-194850
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
+  citata_originali: |
+    Tokių kalvų kartais randama išsibarsčiusių laukuose,
+    netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
+    bai daug netvarkingai išmėtytų įvairiomis kryptimis ir
+    įvairaus dydžio: daugiausia vidutinių, mažiau mažų, o
+    didelių nedaug, daugiausia stūkso atskirai, nuošaliau nuo
+    kitų ar poromis. Paprastai jos būva netoli gyvenviečių
+    arba joms tinkamose vietose.
+    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
+    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
+    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
+    palei senas Rusijos sienas su Lietuvos valstybe, de­
+    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
+    Lietuvos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197567
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 382"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 382."
+  citata_originali: |
+    Iš to žinoma, kad pilkapius pildavo tiesiog ant
+    žemės paviršiaus, nekasdami po jais jokių duobių.
+    3. Pilkapiams nenaudojo jokios kitos medžiagos, iš­
+    skyrus netoliese iškastą žemę, nes niekur Baltarusijoje
+    esančiuose
+    pilkapiuose nerasta medžių, akmenų, plytų
+    ar panašių daiktų pėdsakų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Heneris]]

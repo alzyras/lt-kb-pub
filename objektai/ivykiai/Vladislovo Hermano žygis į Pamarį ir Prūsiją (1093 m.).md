@@ -88,5 +88,6 @@ Galop 1093 metų pradžioje Vladislovas Hermanas, surinkęs gau sias karines paj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

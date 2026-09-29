@@ -72,5 +72,6 @@ Jie stato namus, gyvena kolonijomis, užsiima žemdirbyste, prekyba, pernicitate
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

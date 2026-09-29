@@ -75,5 +75,6 @@ Po Vorsklos mūšio, kaip pasakoja Narbutas, totoriai apsupo Kijevą ir paėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

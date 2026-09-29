@@ -15,6 +15,7 @@ export type SeoInput = {
   author?: unknown
   datePublished?: unknown
   dateModified?: unknown
+  keywords?: unknown
   collectionPage?: boolean
   objectContentState?: unknown
   claimCount?: unknown
@@ -232,11 +233,22 @@ export function pageStructuredData(
             headline: title,
             author: {
               "@type": "Organization",
+              "@id": `https://${input.baseUrl}/#organization`,
               name: seoText(input.author) || "Lietuvos istorijos žinių lobynas",
+              url: `https://${input.baseUrl}/`,
+            },
+            publisher: {
+              "@type": "Organization",
+              "@id": `https://${input.baseUrl}/#organization`,
+              name: seoText(input.author) || "Lietuvos istorijos žinių lobynas",
+              url: `https://${input.baseUrl}/`,
             },
             datePublished: input.datePublished || undefined,
             dateModified: input.dateModified || input.datePublished || undefined,
             image: mediaUrl,
+            ...(Array.isArray(input.keywords)
+              ? { keywords: input.keywords.map(seoText).filter(Boolean) }
+              : {}),
             inLanguage: "lt-LT",
           }
         : {}),

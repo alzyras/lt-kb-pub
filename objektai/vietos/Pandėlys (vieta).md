@@ -12,10 +12,10 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Pandėlys","Pandėlys (vieta)"]
 sameAs: []
 canonical_biography: "Romo Petronio būrys veikė Niclozos miške Pandėlio valsčiuje. Sapiegų kaime, Pandėlio valsčiuje. Gudelių kaime, Pandėlio valsčiuje."
+place_authority: true
+historical_names: []
 ---
 # Pandėlys (vieta)
 
@@ -42,14 +44,13 @@ canonical_biography: "Romo Petronio būrys veikė Niclozos miške Pandėlio vals
 
 Romo Petronio būrys veikė Niclozos miške Pandėlio valsčiuje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Romo Petronio būrys veikė Niclozos miške Pandėlio valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214873
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 141"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 141."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

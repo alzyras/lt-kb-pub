@@ -73,5 +73,6 @@ Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

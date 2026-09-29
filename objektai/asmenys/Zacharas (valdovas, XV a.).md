@@ -78,5 +78,6 @@ canonical_biography: "1480-1484 m. Kazimieras Jogailaitis ne kartą rašė Danci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

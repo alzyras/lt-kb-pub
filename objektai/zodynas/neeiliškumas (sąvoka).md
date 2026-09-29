@@ -59,9 +59,11 @@ Dvaro kasdienybės tikslą Lituanistika-3-Kazimiero-Jogailaicio-dvaras aiškina 
     šioje plotmėje atkreipti dėmesį į tokį įvykį, kuris kartu buvo ir nekasdieniškas, ir
     suplanuotas, ir eilinis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

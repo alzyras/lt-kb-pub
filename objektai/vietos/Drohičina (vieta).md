@@ -71,5 +71,6 @@ Ir, tai taręs, didysis kunigaikštis Vytautas išvyko į Gardiną ir į Drohič
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

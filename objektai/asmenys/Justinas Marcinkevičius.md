@@ -36,17 +36,17 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 
 ## Teiginiai
 
-<a id="claim-t-193697"></a>
-- t-001
-  teiginys: "Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia apie LPS iniciatyvinę grupę žaibiškai pasklido po."
-  atnaujinta: "2026-07-06 12:55"
+<a id="claim-t-230606"></a>
+- t-230606
+  teiginys: "Juozas Marcinkevičius-Siaubas, Jono, partizanas."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
   pagrindžia:
-    - c-176366
+    - c-211244
 
 ## Citatos
 
@@ -70,6 +70,38 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-211244
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 344"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 344."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
   pagrindžia:
-    - t-001
+    - t-230606
+
+- id: c-213184
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Steigiant LPS apdairiai sutarta ne-
+    rinkti iniciatyvinės grupės vadovo –
+    posėdžiams pirmininkavo kiekvienas
+    narys iš eilės. Kadangi iniciatyvinę
+    grupę sudarė visoje šalyje žinomi in-
+    teligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių
+    visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia
+    apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą. Birželio 10
+    dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.
+  citata_rodoma: "Steigiant LPS apdairiai sutarta ne-\nrinkti iniciatyvinės grupės vadovo – \nposėdžiams pirmininkavo kiekvienas \nnarys iš eilės. Kadangi iniciatyvinę \ngrupę sudarė visoje šalyje žinomi in-\nteligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių \nvisuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia \napie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą. Birželio 10 \ndieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje."
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 

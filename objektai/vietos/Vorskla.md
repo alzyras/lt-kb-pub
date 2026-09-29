@@ -198,6 +198,22 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     - c-37853
     - c-167696
 
+<a id="claim-t-207628"></a>
+- t-207628
+  teiginys: "1399 m. Vytautas pralaimėjo Vorskloje."
+  atnaujinta: "2026-09-19 17:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1399 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai nurodo Vytauto pralaimėjimą Vorkslos mūšyje 1399 m."
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-190245
+
 ## Citatos
 
 - id: c-37851
@@ -216,7 +232,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-37853
@@ -236,7 +252,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-44046
@@ -273,7 +289,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -295,7 +311,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-162443
@@ -324,7 +340,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-162445
@@ -346,7 +362,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-162446
@@ -371,7 +387,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-167696
@@ -392,8 +408,26 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-190245
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 128"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 128."
+  citata_originali: |
+    O kol kas Vytau-
+    tui dar reikia nugalėti Žalgiryje, todėl grįžkime prie konkrečių istorinių realijų. 1399 m.
+    pralaimėjęs Vorskloje, Vytautas, atrodo, tikėjo buvęs išgelbėtas Švč. Mergelės Marijos.
+  citata_rodoma: "1399 m. \npralaimėjęs Vorskloje, Vytautas, atrodo, tikėjo buvęs išgelbėtas Švč. Mergelės Marijos."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207628
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -339,18 +339,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindžia:
     - c-56080
 
-<a id="claim-t-197099"></a>
-- t-018
-  teiginys: "Herkus Mantas tarė: „Grįždami pasakykite man, kas ten bus nutikę“."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-179027
-
 <a id="claim-t-197100"></a>
 - t-019
   teiginys: "Herkus Mantas deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių ir gausybės karių, gelbėti šios žemės ir tramdyti prūsų sukilimo: 1265 viešpaties metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos karalius398."
@@ -362,6 +350,56 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159343
+
+<a id="claim-t-221226"></a>
+- t-221226
+  teiginys: "Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo."
+  atnaujinta: "2026-09-19 09:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205854
+
+<a id="claim-t-222291"></a>
+- t-222291
+  teiginys: "Herkus Mantas pasitraukė su bendrais į dykras."
+  atnaujinta: "2026-09-19 09:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-222873"></a>
+- t-222873
+  teiginys: "Herkus Mantas su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204431
+
+<a id="claim-t-225129"></a>
+- t-225129
+  teiginys: "Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą."
+  atnaujinta: "2026-09-19 09:30"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hirtshalsas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Herkus Mantas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Hirtshalsas: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herkus Mantas\" parinktas kaip owner_note_path. Targetas \"Hirtshalsas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203773
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -467,7 +505,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
     - t-014
@@ -499,7 +537,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-56079
@@ -519,7 +557,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-56080
@@ -542,7 +580,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-008
     - t-017
@@ -566,7 +604,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-159340
@@ -590,7 +628,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-159342
@@ -613,7 +651,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-159343
@@ -636,7 +674,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-019
 
@@ -660,7 +698,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-159345
@@ -685,7 +723,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-159346
@@ -707,7 +745,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-013
 
@@ -729,7 +767,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-012
 
@@ -752,8 +790,128 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
+
+- id: c-201624
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    Kai šitai dėjosi, broliai, su kita kariuomenės dalimi artėdami prie kovos
+    lauko, išvydo pakrikusią krikščionių kariuomenę, kurios dėl priešo gausumo neturėjo
+    nė menkiausios vilties išgelbėti, ir kitu keliu sugrįžo pas saviškius365. Po šių skerdynių
+    notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
+    akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
+    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė Herkų Mantą
+    prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
+    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201805
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
+    burtai jam krito, pats atsižadėjo noro išsigelbėti ir iš pagarbos tikėjimui laisva valia
+    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367. Gerai įsidėmėk, kad ir
+    tas pats Herkus, ir daugybė kitų vėliau, priesaika patvirtindami savo žodžius, tikino, jog
+    tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam
+    iš burnos išskrendant baltų balčiausią balandį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203773
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 117"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
+  citata_originali: |
+    Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
+    Viename Vokietijos krašte gyveno viena dievui pasišventusi moteris atsiskyrėlė.
+    Išgirdusi velnių kaimenę su dideliu triukšmu ir bildesiu dundant pro savo celę, pasakė
+    deramus užkeikimo žodžius ir juos paklausė, kur taip skubą. Šie atsakė: Prūsiją, rytoj
+    ten bus smarki kova“. Ji tarė: „Grįždami pasakykite man, kas ten bus nutikę“. Jie sugrįžę
+    pasakė, kad krikščionys pralaimėjo ir kad visos sielos, kurių kūnai ten krito, esančios
+    išganytos, išskyrus tris, kurios patraukė į šį karą ne iš pamaldumo, bet todėl, kad ieškojo
+    progų karinėms pratyboms.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225129
+
+- id: c-204431
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
+  citata_originali: |
+    Tuos, kurie, patikėję šiais žodžiais,
+    išeidavo, jis su saviškiais užpuldavo ir paimdavo į nelaisvę arba nužudydavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222873
+
+- id: c-205854
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    Po šių skerdynių
+    notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
+    akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
+    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė Herkų Mantą
+    prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
+    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
+    burtai jam krito, pats atsižadėjo noro išsigelbėti ir iš pagarbos tikėjimui laisva valia
+    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221226
+
+- id: c-206266
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
+  citata_originali: |
+    Apie Karaliaučiaus pilies užpuolimą
+    Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę ir
+    atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį. Susidūrę su juo, broliai su savo
+    ginklanešiais narsiai pasipriešino. Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
+    Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat
+    pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
+    vėliau ir užgijo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Paskyrė Herkus Mantą: [[objektai/grupes/Notangai]]

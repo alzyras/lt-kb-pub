@@ -107,7 +107,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59201
@@ -130,8 +130,34 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203991
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 150."
+  citata_originali: |
+    461 D.— Catthow, Jer.— Kattouwin. Valsčiaus vardas lyginamas su Katinava (Kalwaitis
+    W., Łietuwiszkų., p. 38) resp. Katniava (buv. Kattenau, dab. Zavety), į šiaurės vakarus
+    nuo buv. Stalupėnų (dab. Nesterovas), kur išliko pilies kalnas (Sch-K; VBK; Теорреn M.,
+    HCGP; Boetticher A., Die Bau-.., 5, p. 67—68; Łowmiański Я, Studja.., 2, p. 22; HE, p.
+    65; СV, t. 33, p. 270—271).
+       Abejotini bandymai siedinti D. Catthow su Norkyčiais (dab. Meždurečjė), į vakarus nuo
+    Įsruties (Mortensen H, Mortensen G., Die Besiedlung.., 2, p. 80). Norkyčiai minimi 1376—
+    1384 m. šaltiniuose: Nervekethe, Nerwykiten, Nerbekiten, Merwekitin, Nerwekitten
+    (SRP, 2, p. 110, 577, 580, 709; ten pat, 1, p. 188) ir pan. (GAO, p. 107). 1384 m.
+    kelio iš Įsruties  į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten,
+    o toliau minimas kelias czu Kattow (SRP, 2, p. 683). Pastarasis vietovardis atitiktų
+    vėlesnę Katinavą bei D. Catthow. Kronikininko minimas Katavos valsčius lokalizuojamas
+    Katinavos apylinkėse (HGAPW).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Katavos valsčius priklausė [[objektai/vietos/Nadruva]]

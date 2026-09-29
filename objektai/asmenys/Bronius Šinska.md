@@ -31,14 +31,13 @@ canonical_biography: "Šinska buvo sužeistas, įsigijo dokumentus ir apsigyveno
 
 Kronikos duomenimis, Bronius Šinska buvo sužeistas, įsigijo dokumentus ir apsigyveno Kaune.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Kronikos duomenimis, Bronius Šinska buvo sužeistas, įsigijo dokumentus ir apsigyveno Kaune.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213017
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 363"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 363."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

@@ -59,6 +59,18 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
   pagrindžia:
     - c-174344
 
+<a id="claim-t-215065"></a>
+- t-215065
+  teiginys: "Italijoje, netoli Veronos, slėnyje tarp Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa garsėjo pergale prieš konsulą Scipioną 169 metais prieš Kristaus gimimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195078
+
 ## Citatos
 
 - id: c-174344
@@ -83,8 +95,33 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195078
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
+  citata_originali: |
+    Mes turime neabejotiną tos
+    genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­
+    tys nebuvo ir nėra vien pasaka, nepaisant jų karų su ro­
+    mėnais, kurių aprašinėtojams galėjo būti priekaištauja­
+    ma, kad šį pavadinimą suteikė laukinių germanų iš Pa­
+    baltijo ordoms. Italijoje, netoli Veronos, slėnyje tarp
+    Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių
+    senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa­
+    garsėjo pergale prieš konsulą Scipioną 169 metais prieš
+    Kristaus gimimą. Švedų autorius Biorntelis (Bornthel)
+    mano dabar esant iki 60 000 jų gyventojų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215065
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kimbrai]]

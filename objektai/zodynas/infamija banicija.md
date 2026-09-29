@@ -70,5 +70,6 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

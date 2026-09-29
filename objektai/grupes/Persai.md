@@ -206,6 +206,18 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   pagrindžia:
     - c-175234
 
+<a id="claim-t-214264"></a>
+- t-214264
+  teiginys: "Persų būriai įžengė į Europą ir, graikų sąjun gininkų remiami, brovėsi Dunojaus link."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196619
+
 ## Citatos
 
 - id: c-172312
@@ -228,7 +240,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172313
@@ -247,7 +259,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172314
@@ -266,7 +278,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-172315
@@ -288,7 +300,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-172316
@@ -313,7 +325,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175232
@@ -339,7 +351,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-175233
@@ -361,7 +373,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-175234
@@ -384,8 +396,94 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-196619
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Šis, priplaukęs su 30 galerų, labai juos sumušė,
+    paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
+    liaus brolis.
+    39
+    Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
+    skitai nė neketino žemintis, pats Darijus patraukė prieš
+    Indatirą. Persų būriai įžengė į Europą ir, graikų sąjun­
+    gininkų remiami, brovėsi Dunojaus link.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214264
+
+- id: c-199562
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
+  citata_originali: |
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
+    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
+    kalnai.
+    Antikos žmonių šventyklos susidėdavo iš dviejų dalių: Na-
+    os, kurioje stovėdavo indas su šventuoju vandeniu ir rinkdavosi
+    žmonės bei dalyvaudavo apeigose; antroji dalis -Adytum, ku­
+    rioje stovėdavo stabai; ten teisę būti turėjo tik pašvęstieji asme­
+    nys, žyniai, vadai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200185
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Šiuos prietarus žinojo ir Lietuvos rusinai.
+    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
+    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
+    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
+    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201158
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
+  citata_originali: |
+    Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
+    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
+    dingos mūsų tėvynės istorijai.
+    Šventoji ugnis
+    Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip
+    dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
+    ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
+    bet nemoka tos esybės pavadinti vardu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Rėmė Persai: [[objektai/grupes/Graikai]]

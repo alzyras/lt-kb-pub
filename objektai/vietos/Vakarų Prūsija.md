@@ -107,7 +107,7 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

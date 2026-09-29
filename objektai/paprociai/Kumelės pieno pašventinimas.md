@@ -88,5 +88,6 @@ Nepalyginti ilgiau išsilaikė jų ka daise vartotas gėrimas iš kumelės ¡pie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

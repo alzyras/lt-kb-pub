@@ -105,7 +105,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168444
@@ -130,7 +130,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

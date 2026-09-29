@@ -7,10 +7,10 @@ datos:
   - '1946 m.'
 date_start: '1946'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Ratelių kaimas"]
 sameAs: []
 canonical_biography: "Antanas Mažeika 1946 m. kovo 3 d. buvo suimtas Ratelių kaime pas Juozą Lazdyną, bunkeryje, įrengtame šiauduose."
+place_authority: true
+historical_names: []
 ---
 # Ratelių kaimas
 
@@ -37,14 +39,13 @@ canonical_biography: "Antanas Mažeika 1946 m. kovo 3 d. buvo suimtas Ratelių k
 
 Agento „Diviziono“ agentūriniais duomenimis, 1946 m. kovo 3 d. Ratelių kaime pas Juozą Lazdyną buvo suimtas asmuo.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Agento „Diviziono“ agentūriniais duomenimis, 1946 m. kovo 3 d. Ratelių kaime pas Juozą Lazdyną buvo suimtas asmuo.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214909
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 138"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 138."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

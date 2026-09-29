@@ -7,10 +7,10 @@ datos:
   - '1950 m.'
 date_start: '1950'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,16 +43,19 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: 'Vaižganto rinktinės įsakyme nurodoma, kad 1950 m. rugsėjo 23 d. žuvo Aušros tėvūnijos Dariaus ir Girėno kuopos Ąžuolo būrio partizanas grandinis Ešerys.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 396"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Santrauka
 
 Vaižganto rinktinės įsakyme nurodoma, kad 1950 m. rugsėjo 23 d. žuvo Aušros tėvūnijos Dariaus ir Girėno kuopos Ąžuolo būrio partizanas grandinis Ešerys.
+
+## Citatos
+
+- id: c-214232
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 396"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 396."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:41"

@@ -227,6 +227,37 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   pagrindžia:
     - c-184269
 
+<a id="claim-t-212314"></a>
+- t-212314
+  teiginys: "Lietuvių padermės tautos: senovės prū sai, galindai, sūduviai, kuršiai ir šiandieniai lietuviai, taip pat ir latviai, dėl dviejų priežasčių nusipelnė ypatin go slavų istoriko ir kalbos tyrinėtojo dėmesio."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195365
+
+<a id="claim-t-216624"></a>
+- t-216624
+  teiginys: "Narbutas Galindams priskyrė Rosės vardu vadintas šventas upes ir siejo jas su lietuvių genčių papročiu šventinti upes."
+  atnaujinta: "2026-09-19 16:53"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Galinda: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Galindai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Galinda: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galindai\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198749
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.'
@@ -292,7 +323,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
     - t-008
@@ -315,7 +346,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171078
@@ -340,6 +371,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -358,7 +390,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171080
@@ -380,7 +412,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175176
@@ -409,7 +441,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-175177
@@ -433,7 +465,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-009
 
@@ -455,7 +487,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-184269
@@ -476,8 +508,137 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-194589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 363."
+  citata_originali: |
+    Apie kitus valdovus
+    nežinome nieko aiškaus, bet jų buvimas nekelia abejo­
+    nių. Būtina atsižvelgti į tai, jog galindai prūsų karuose
+    su kryžiuočiais iš pradžių nedalyvavo. Tik žlugus vidi­
+    nėms provincijoms, kai bejėgiai politikai Mazovijos ku­
+    nigaikščiai ketino užvaldyti Galindą, o jos gyventojai
+    buvo linkę jiems pasiduoti, kryžiuočiai puolė galindus ir,
+    atvedę žiaurių savo karių, sukurstė juos iškapoti beveik
+    jau visiškai nesipriešinančius žmones. Taip Galindos pa­
+    minklai buvo palaidoti šios nelaimingos genties kapuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195365
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 15"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 15."
+  citata_originali: |
+    Lietuvių padermės tautos: senovės prū­
+    sai, galindai, sūduviai, kuršiai ir šiandieniai lietuviai,
+    taip pat ir latviai, dėl dviejų priežasčių nusipelnė ypatin­
+    go slavų istoriko ir kalbos tyrinėtojo dėmesio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212314
+
+- id: c-198415
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 304"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
+  citata_originali: |
+    Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
+    gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
+    nai nutarė, kad moteriškos lyties kūdikiai kurį laiką privalą
+    būti žudomi paliekant vien berniukus karo reikalui. Tačiau mo­
+    tinų meilė dažnai sugebėdavo nuslėpti ką tik gimusias dukte­
+    ris, ir jos su moterišku išradingumu rasdavo būdų, kaip jas
+    išsaugoti gyvas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198749
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  citata_originali: |
+    Lietu­
+    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
+    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
+    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
+    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
+    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
+    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
+    pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
+    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
+    likti tokį garbinimą (Hiegels.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216624
+
+- id: c-203567
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  citata_originali: |
+    Apie Galindos žemės nuniokojimą
+
+      Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai
+    sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,
+    kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,
+    nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės
+    būtų nužudomos, o berniukai paliekami karui. Susivokę šia nutartimi vargu ką laimėsią,
+    nes motinos, išvydusios gimusių mergaičių grožį, slapčiomis jas augino, vieningai
+    nutarė nupjaustyti visoms savo žmonoms krūtis, kad neturėtų kuo maitinti kūdikių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204128
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 61-62"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61-62."
+  citata_originali: |
+    200 D.— Galindia, in qua Galindite, Jer.— Galindin. T.,   ja  į pietus nuo Bartos, nuo
+    Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
+    ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo
+    būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab. Biskupeco,
+    pietuose žemė siekė dab. Omulevo, Rozogos ir kt. Narevo intakų aukštiupius; praeityje
+
+    [gyveno] galindai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Puolė Galindai: [[objektai/grupes/Krikščionys]], [[objektai/grupes/Kryžiuočių ordinas]]

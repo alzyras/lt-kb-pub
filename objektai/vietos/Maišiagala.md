@@ -71,6 +71,22 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   pagrindžia:
     - c-188407
 
+<a id="claim-t-207594"></a>
+- t-207594
+  teiginys: "Alfredas Bumblauskas Algirdo žūtį sieja su 1377 m. Kukuveičio mišku šalia Maišiagalos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtraukta autoriaus atribucija ir išlaikytas šaltinio atsargus žūties vietos siejimas, neperžengiant pateiktos ištraukos."
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190211
+
 ## Citatos
 
 - id: c-167246
@@ -98,7 +114,7 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188407
@@ -120,8 +136,30 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190211
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 116"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 116."
+  citata_originali: |
+    Kęstutis po
+    žūties Krėvos pilyje – 1382 m. Vilniuje, o Algirdas – šiek tiek anksčiau, 1377 m. Kukuvei-
+    čio miške šalia Maišiagalos.
+    2002 m. archeologas Vykintas Vaitkevičius, žinomas pagoniškų šventviečių ieškoto-
+    jas ir tyrėjas, lokalizavo Kukaveičio lauką (tokį žino XVIII a. dokumentai) ir suformulavo
+    hipotezę, kad būtent čia reikia ieškoti Algirdo sudeginimo vietos.
+  citata_rodoma: "is po \nžūties Krėvos pilyje – 1382 m. Vilniuje, o Algirdas – šiek tiek anksčiau, 1377 m. Kukuvei-\nčio miške šalia Maišiagalos.\n2002"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207594
 
 ## Ryšiai
 - Užėmė Maišiagalą: [[objektai/asmenys/Engelhardas Rabė]], [[objektai/grupes/Kryžiuočių ordinas]]

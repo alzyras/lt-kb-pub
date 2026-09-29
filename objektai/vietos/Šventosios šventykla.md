@@ -65,5 +65,6 @@ Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -8,11 +8,7 @@ import {
   RelationDocument,
 } from "./relations"
 
-function document(
-  filePath: string,
-  slug: string,
-  frontmatter: string,
-): RelationDocument {
+function document(filePath: string, slug: string, frontmatter: string): RelationDocument {
   return {
     filePath: filePath as RelationDocument["filePath"],
     slug: slug as RelationDocument["slug"],
@@ -37,6 +33,21 @@ test("resolves typed exact labels and aliases before transliterated fallbacks", 
   assert.equal(relationTargetSlug("Plockas: place", map), "objektai/vietos/Plockas")
   assert.equal(relationTargetSlug("Płockas: place", map), "objektai/vietos/Plockas-duplicate")
   assert.equal(relationTargetSlug("Mazovijos Plockas: place", map), "objektai/vietos/Plockas")
+})
+
+test("resolves canonical authority aliases in legacy object paths", () => {
+  const map = buildRelationTargetMap([
+    document(
+      "objektai/asmenys/Jonas Karolis Chodkevičius.md",
+      "objektai/asmenys/Jonas-Karolis-Chodkevičius",
+      "tipas: asmuo\npavadinimas: Jonas Karolis Chodkevičius\nentity_aliases: [Jonas Karolis Chodkevičius, Jonas Karolis Katkevičius]",
+    ),
+  ])
+
+  assert.equal(
+    relationTargetSlug("/objektai/asmenys/Jonas Karolis Katkevičius", map),
+    "objektai/asmenys/Jonas-Karolis-Chodkevičius",
+  )
 })
 
 test("returns null for an actually duplicated canonical label", () => {

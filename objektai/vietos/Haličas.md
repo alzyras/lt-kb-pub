@@ -151,6 +151,30 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   pagrindžia:
     - c-175434
 
+<a id="claim-t-210754"></a>
+- t-210754
+  teiginys: "Haličas buvo UTSR Stanislavo srities rajoninis miestas apie 90 km į pietus nuo Lvovo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192992
+
+<a id="claim-t-211582"></a>
+- t-211582
+  teiginys: "Vaišvilkas iškeliavo į Haličą pas Danielių ir Vasilką."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194037
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Po pergalės prie Drohičino kunigaikštis Vasilka daug belaisvių jotvingių pasiuntė į Haličą savo broliui.'
@@ -193,7 +217,7 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-105412
@@ -228,7 +252,7 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166985
@@ -249,7 +273,7 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-170525
@@ -268,7 +292,7 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175434
@@ -290,8 +314,48 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-192992
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 202."
+  citata_originali: |
+    Haličas — UTSR Stanislavo sr. rajoninis miestas (apie 90 km
+    | pietus nuo Lvovo), XI—XII a. svarbiausias miestas Haličo kuni­
+    gaikštystės, kurią 1245 m. Danielius Romanovlčlus sujungė su Vo­
+    lynės kunigaikštyste j vieną valstybę ir sostinę iš Haličo perkėlė
+    j Cholmą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210754
+
+- id: c-194037
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
+  citata_originali: |
+    Pasikrikštijo
+    Naugarduke ir tapo krikščionimi.
+    Paskui Vaišvilkas iškeliavo į Haličąs pas Danielių,
+    pas kunigaikštį Vasilką, ketindamas tapti vienuoliu.
+    Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211582
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vasilka]]

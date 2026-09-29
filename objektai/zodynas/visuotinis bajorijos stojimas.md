@@ -62,5 +62,6 @@ Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -134,6 +134,42 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-177135
 
+<a id="claim-t-217903"></a>
+- t-217903
+  teiginys: "Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkaimis;."
+  atnaujinta: "2026-09-20 05:26"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201195
+
+<a id="claim-t-218541"></a>
+- t-218541
+  teiginys: "Lydos apskrityje buvo surinkta etnografinė medžiaga, panaudota aptariant pavasario sutikimą, Sekmines, Jonines, rugiapjūtę ir vestuves."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200851
+
+<a id="claim-t-219136"></a>
+- t-219136
+  teiginys: "1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal čios upės pakrantės skardyje, kaimietis rado senų sidabrinių pinigų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199440
+
 ## Citatos
 
 - id: c-171789
@@ -153,7 +189,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171790
@@ -174,7 +210,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171791
@@ -196,7 +232,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177135
@@ -217,8 +253,68 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-199440
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 249."
+  citata_originali: |
+    1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­
+    čios upės pakrantės skardyje, kaimietis rado senų sidabrinių
+    pinigų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219136
+
+- id: c-200851
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 32."
+  citata_originali: |
+    Daug
+    vertingos savo meto etnografinės medžiagos, surinktos Lydos
+    apskrityje, panaudota aptariant pavasario sutikimą, Sekmines,
+    Jonines, rugiapjūtės pradžios ir pabaigos iškilmes, vestuves
+    (mergvakarį); savo ir kitų sukaupta archeologinė medžiaga pa­
+    naudota aptariant kapines, senąją lietuvių laidoseną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218541
+
+- id: c-201195
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
+  citata_originali: |
+    Ragelienė (Ragutienie)
+    Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
+    nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy­
+    me. Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ra-
+    gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
+    nurodytu moterų žynių pavadinimu. Negalima rasti ryškesnio
+    prieštaravimo, kaip tarp anų ir šių žynių.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217903
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Ragutėniškiai]]

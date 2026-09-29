@@ -76,5 +76,6 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

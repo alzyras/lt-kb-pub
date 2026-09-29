@@ -100,7 +100,7 @@ canonical_biography: "„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

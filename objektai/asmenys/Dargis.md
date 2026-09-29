@@ -52,6 +52,18 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   pagrindžia:
     - c-60893
 
+<a id="claim-t-222733"></a>
+- t-222733
+  teiginys: "Dusburgietis pasakoja, kad Sembos žemėje, Žiokos valsčiuje, gyveno prūsas vardu Dargis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205378
+
 ## Citatos
 
 - id: c-60893
@@ -77,8 +89,34 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205378
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 71"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
+  citata_originali: |
+    Apie vieną stebuklą
+
+      Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris
+    nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo
+    prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo
+    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris
+    kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties. Ketvirtą
+    kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs,
+    iki tą prūsą atpratinsiąs nuo prietarų. Kadangi ketvirtojo arklio velnias nepasmaugė kaip
+    pirmųjų, Dargis įtikėjo, nuolankiai išpažino savo klaidą ir pasidarė uolus tikėjimo bei
+    tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
+    klystančiųjų naujakrikščių širdis.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222733
 
 ## Ryšiai
 - Dargis gyveno [[objektai/vietos/Semba]]

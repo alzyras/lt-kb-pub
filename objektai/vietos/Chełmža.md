@@ -89,26 +89,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   pagrindžia:
     - c-59045
 
-<a id="claim-t-58413"></a>
-- t-003
-  teiginys: "Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_palaidotas -> Chełmža: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Liudvikas iš Šipeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Chełmža: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Liudviko iš Šipeno palaidojimo vietą Chełmžoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Liudvikas iš Šipeno buvo palaidotas Chełmža (0.95)"
-  temporaliniai_duomenys: "mirties data: 1299 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie palaidojimą Kulmenzės katedroje, pradinėje versijoje yra antraštės triukšmo."
-  pagrindžia:
-    - c-59046
-
 <a id="claim-t-58414"></a>
 - t-004
   teiginys: "Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų."
@@ -124,23 +104,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59047
-
-<a id="claim-t-58415"></a>
-- t-005
-  teiginys: "Skomantui priartėjus prie Chełmžos, lenkų karys Ninerikas įsigavo į miestą ir pažadėjo jį išduoti Skomantui."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Chełmža: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ninerikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Chełmža: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ninerikas įsigavo į miestą Skomantui priartėjus prie Chełmžos, todėl fiksuojamas jo patekimas į šią vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Ninerikas keliavo į Chełmža (0.82)"
-  pagrindžia:
-    - c-59043
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -213,8 +176,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-59044
   autorius: "Petras Dusburgietis"
@@ -233,7 +194,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59045
@@ -256,7 +217,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59046
@@ -280,8 +241,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-59047
   autorius: "Petras Dusburgietis"
@@ -302,7 +261,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

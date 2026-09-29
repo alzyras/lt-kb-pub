@@ -256,6 +256,7 @@ describe("AdvancedEvidence transformer", () => {
 - id: c-001
   autorius: Tyrimo autorius
   šaltinis: Tyrimo straipsnis (2016 m.)
+  citata_originali: TIKSLI SLAPTINA CITATA
   puslapiai: p. 42 (PDF 58)
   indeksas: Tyrimo autorius, Tyrimo straipsnis (2016 m.), p. 42 (PDF 58).
   citatos_rezimas: indeksas
@@ -267,6 +268,7 @@ describe("AdvancedEvidence transformer", () => {
 
     assert.match(transformed, /Bibliografinis indeksas/)
     assert.match(transformed, /Tyrimo autorius, Tyrimo straipsnis/)
+    assert.doesNotMatch(transformed, /TIKSLI SLAPTINA CITATA/)
     assert.doesNotMatch(transformed, /Citata nerasta\./)
     assert.doesNotMatch(transformed, /claim-citation-quote/)
   })

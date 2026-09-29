@@ -66,5 +66,6 @@ Jie turėjo paprotį išsidažyti kūną2; apie tai pasa koja Sidonijus Apolinar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

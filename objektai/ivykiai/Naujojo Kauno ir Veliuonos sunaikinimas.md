@@ -76,5 +76,6 @@ Teodoras Narbutas Veliuoną aprašo kaip gausiai apgyvendintą tvirtovę su pla�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

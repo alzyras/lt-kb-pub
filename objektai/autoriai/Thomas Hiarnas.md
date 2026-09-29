@@ -66,5 +66,6 @@ Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, paraš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

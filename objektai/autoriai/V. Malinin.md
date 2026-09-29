@@ -80,5 +80,6 @@ Malinin: Starec Eleazarova monastyrja Filofej, Kiev 1901, Priloženija 45p.).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

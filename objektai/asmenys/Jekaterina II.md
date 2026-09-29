@@ -150,6 +150,18 @@ Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkl
   pagrindžia:
     - c-154732
 
+<a id="claim-t-207421"></a>
+- t-207421
+  teiginys: "Jekaterina II LDK prijungimo prie Rusijos kontekste pareiškė, kad ji nepasiėmė nieko svetimo ir jai nepriklausančio."
+  atnaujinta: "2026-09-20 06:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190076
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Jekaterina II LDK prijungimo prie Rusijos kontekste pareiškė, kad ji nepasiėmė nieko svetimo ir jai nepriklausančio.'
@@ -187,7 +199,7 @@ Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-41980
@@ -213,7 +225,7 @@ Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-154732
@@ -237,7 +249,7 @@ Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -261,8 +273,29 @@ Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190076
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 18"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 18."
+  citata_originali: |
+    Czesławas Miłoszas, pateikęs minėtą egzotišką faktą apie Thomo Jeffersono geografi-
+    nes žinias, yra ne kartą išsitaręs, kad Lietuvos Didžioji Kunigaikštija – viena iš keisčiausių
+    valstybių Europoje, nes ji – kalbų, tautų ir religijų mozaika. Tačiau iš istorijos dingus šiai
+    valstybei, šis jos pobūdžio mozaikiškumas lėmė, kad prisimenantys apie ją prisimindavo
+    ne visumą, o tik vieną ar kitą mozaikos akmenėlį. Jau prijungiant LDK prie Rusijos jos val-
+    dovė Jekaterina II buvo pareiškusi, kad ji nepasiėmė nieko svetimo ir jai nepriklausančio.
+  citata_rodoma: "Jau prijungiant LDK prie Rusijos jos val-\ndovė Jekaterina II buvo pareiškusi, kad ji nepasiėmė nieko svetimo ir jai nepriklausančio."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207421
 
 ## Ryšiai
 - Jekaterina II rėmė [[objektai/grupes/Čartoriskiai]]

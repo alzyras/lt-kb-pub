@@ -42,14 +42,32 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1953 m. kovo 29 d. Siaurių kaime pas Bronių Zuozą rastame požeminiame bunkeryje per ginkluotą pasipriešinimą žuvo Stasys Gurklys-Barsukas, o Petras Vanagas ir Bronius Navarskas buvo suimti.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231601"></a>
+- t-001
+  teiginys: "1953 m. kovo 29 d. Siaurių kaime pas Bronių Zuozą rastame požeminiame bunkeryje per ginkluotą pasipriešinimą žuvo Stasys Gurklys-Barsukas, o Petras Vanagas ir Bronius Navarskas buvo suimti."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:14Z"
+  pagrindžia:
+    - c-212239
+
+## Citatos
+
+- id: c-212239
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 290"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 290."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

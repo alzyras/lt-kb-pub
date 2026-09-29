@@ -13,7 +13,7 @@ import {
 } from "../quartz/util/evidenceIntegrity"
 import { INTENTIONAL_IGNORED_OBJECT_PAGES } from "../quartz/util/contentPaths"
 import { createUniqueSlugMap, FilePath } from "../quartz/util/path"
-import { uniqueCitations } from "../quartz/util/objectDetail"
+import { isMeaningfulObjectText, uniqueCitations } from "../quartz/util/objectDetail"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
 const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
@@ -56,9 +56,7 @@ function renderedLocalClaimKey(localId: string, index: number, usedKeys: Set<str
 function claimAssetHtml(pageHtml: string, domKey: string): string | null {
   const escapedKey = domKey.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
   const match = pageHtml.match(
-    new RegExp(
-      `data-claim-detail="${escapedKey}"[\\s\\S]*?data-claim-detail-url="([^"]+)"`,
-    ),
+    new RegExp(`data-claim-detail="${escapedKey}"[\\s\\S]*?data-claim-detail-url="([^"]+)"`),
   )
   if (!match) return null
   const assetPath = path.join(publicRoot, decodeURIComponent(match[1].replace(/^\//, "")))
@@ -88,7 +86,8 @@ function objectEvidenceHtml(slug: string): string {
   ]
   if (fs.existsSync(base)) {
     for (const entry of fs.readdirSync(base, { withFileTypes: true })) {
-      if (entry.isFile() && entry.name.endsWith(".html")) candidates.push(path.join(base, entry.name))
+      if (entry.isFile() && entry.name.endsWith(".html"))
+        candidates.push(path.join(base, entry.name))
       if (entry.isDirectory()) {
         const index = path.join(base, entry.name, "index.html")
         if (fs.existsSync(index)) candidates.push(index)
@@ -109,15 +108,24 @@ function verifyObjectEvidence(
   relativePath: string,
   issues: Array<{ file: string; claim: string; citation?: string; reason: string }>,
 ): void {
-  const renderedClaims = [...evidenceHtml.matchAll(/<article\b[^>]*data-evidence-kind=["']claim["'][^>]*>/giu)]
+  const renderedClaims = [
+    ...evidenceHtml.matchAll(/<article\b[^>]*data-evidence-kind=["']claim["'][^>]*>/giu),
+  ]
   const renderedClaimStarts = renderedClaims.map((match) => match.index ?? 0)
   claims.forEach((claim) => {
     const escapedClaim = claim.id.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
     const claimMatch = evidenceHtml.match(
-      new RegExp(`<article\\b[^>]*data-evidence-kind=["']claim["'][^>]*id=["']claim-${escapedClaim}["'][^>]*>`, "iu"),
+      new RegExp(
+        `<article\\b[^>]*data-evidence-kind=["']claim["'][^>]*id=["']claim-${escapedClaim}["'][^>]*>`,
+        "iu",
+      ),
     )
     if (!claimMatch?.index && claimMatch?.index !== 0) {
-      issues.push({ file: relativePath, claim: claim.id, reason: `Missing rendered object evidence claim ${claim.id}` })
+      issues.push({
+        file: relativePath,
+        claim: claim.id,
+        reason: `Missing rendered object evidence claim ${claim.id}`,
+      })
       return
     }
     const claimStart = claimMatch.index
@@ -132,10 +140,18 @@ function verifyObjectEvidence(
     for (const citation of uniqueCitations(referencedCitations)) {
       const citationId = citation.id
       const citationMatch = claimHtml.match(
-        new RegExp(`data-citation-id=["']${citationId.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}['"]`, "iu"),
+        new RegExp(
+          `data-citation-id=["']${citationId.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}['"]`,
+          "iu",
+        ),
       )
       if (!citationMatch) {
-        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Missing rendered object citation" })
+        issues.push({
+          file: relativePath,
+          claim: claim.id,
+          citation: citationId,
+          reason: "Missing rendered object citation",
+        })
         continue
       }
       if (
@@ -157,10 +173,20 @@ function verifyObjectEvidence(
       )
       const hasQuote = /<blockquote\b/iu.test(citationHtml)
       if (shouldRenderQuote && !hasQuote) {
-        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Supported object citation quote is not rendered" })
+        issues.push({
+          file: relativePath,
+          claim: claim.id,
+          citation: citationId,
+          reason: "Supported object citation quote is not rendered",
+        })
       }
       if (!shouldRenderQuote && hasQuote) {
-        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Unsupported object citation quote is rendered" })
+        issues.push({
+          file: relativePath,
+          claim: claim.id,
+          citation: citationId,
+          reason: "Unsupported object citation quote is rendered",
+        })
       }
     }
   })
@@ -205,8 +231,7 @@ function renderedClaimHtml(pageHtmls: string[], domKey: string, globalId?: strin
   if (globalId && globalId.toLowerCase() !== domKey) keys.push(globalId.toLowerCase())
   for (const pageHtml of pageHtmls) {
     for (const key of keys) {
-      const rendered =
-        claimAssetHtml(pageHtml, key) ?? renderedClaimCardHtml(pageHtml, key)
+      const rendered = claimAssetHtml(pageHtml, key) ?? renderedClaimCardHtml(pageHtml, key)
       if (rendered) return rendered
     }
   }
@@ -249,7 +274,9 @@ for (const file of sourceFiles) {
   if (ignoredSourcePaths.has(relativePath)) continue
   const markdown = fs.readFileSync(file, "utf8")
   const sections = parseEvidenceSections(markdown)
-  const claims = (sections.get("Teiginiai") ?? []).filter((entry) => entry.id.startsWith("t-"))
+  const claims = (sections.get("Teiginiai") ?? []).filter(
+    (entry) => entry.id.startsWith("t-") && isMeaningfulObjectText(entry.fields.get("teiginys")),
+  )
   if (claims.length === 0) continue
 
   const citations = [...sections.entries()]
@@ -275,7 +302,20 @@ for (const file of sourceFiles) {
   const context = evidenceDocumentContext(markdown)
   const renderedObjectEvidence = objectEvidenceHtml(slug)
   if (renderedObjectEvidence.includes('data-object-evidence-page="true"')) {
-    verifyObjectEvidence(renderedObjectEvidence, claims, citationById, context, relativePath, issues)
+    // The public evidence renderer deliberately omits blank/placeholder claim
+    // records. Keep this audit aligned with that public projection instead of
+    // reporting those records as missing rendered cards.
+    const renderedSourceClaims = claims.filter((claim) =>
+      isMeaningfulObjectText(claim.fields.get("teiginys")),
+    )
+    verifyObjectEvidence(
+      renderedObjectEvidence,
+      renderedSourceClaims,
+      citationById,
+      context,
+      relativePath,
+      issues,
+    )
     continue
   }
   const renderedKeys = new Set<string>()
@@ -286,7 +326,11 @@ for (const file of sourceFiles) {
     const globalId = claim.fields.get("global_id")?.trim() || hiddenGlobals[index]
     const globalKey = (globalId || `${claim.id}-${index + 1}`).toLowerCase()
     if (renderedKeys.has(globalKey)) {
-      issues.push({ file: relativePath, claim: claim.id, reason: `Duplicate rendered claim key ${globalKey}` })
+      issues.push({
+        file: relativePath,
+        claim: claim.id,
+        reason: `Duplicate rendered claim key ${globalKey}`,
+      })
     }
     renderedKeys.add(globalKey)
     const refs = claim.lists.get("pagrindžia") ?? claim.lists.get("pagrindzia") ?? []
@@ -318,7 +362,12 @@ for (const file of sourceFiles) {
       const citationId = citation.id
       const card = citationCard(assetHtml, citationId)
       if (!card) {
-        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Missing rendered citation card" })
+        issues.push({
+          file: relativePath,
+          claim: claim.id,
+          citation: citationId,
+          reason: "Missing rendered citation card",
+        })
         continue
       }
       // The current object evidence page renders citation details directly in
@@ -340,10 +389,20 @@ for (const file of sourceFiles) {
       const isUnsupported = card.includes("claim-citation-card-unverified")
       const hasQuote = card.includes("claim-citation-quote")
       if (shouldRenderQuote && (isUnsupported || !hasQuote)) {
-        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Supported citation quote is not rendered" })
+        issues.push({
+          file: relativePath,
+          claim: claim.id,
+          citation: citationId,
+          reason: "Supported citation quote is not rendered",
+        })
       }
       if (!shouldRenderQuote && (!isUnsupported || hasQuote)) {
-        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Unsupported citation quote is rendered" })
+        issues.push({
+          file: relativePath,
+          claim: claim.id,
+          citation: citationId,
+          reason: "Unsupported citation quote is rendered",
+        })
       }
     }
   })

@@ -360,6 +360,114 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   pagrindžia:
     - c-185011
 
+<a id="claim-t-220922"></a>
+- t-220922
+  teiginys: "Pipinas buvo nuvilktas iki Torunės ir ten pakartas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205959
+
+<a id="claim-t-221073"></a>
+- t-221073
+  teiginys: "Torunėje pradėta statyti pilis, iš pradžių iš rąstų, žemių ir akmenų, vėliau mūrinė."
+  atnaujinta: "2026-09-19 07:12"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202508
+
+<a id="claim-t-223509"></a>
+- t-223509
+  teiginys: "Ragava buvo aukščiau Torunės prie Vyslos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204277
+
+<a id="claim-t-223634"></a>
+- t-223634
+  teiginys: "Torunės ligoninės koplyčia buvo už miesto sienų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205587
+
+<a id="claim-t-223786"></a>
+- t-223786
+  teiginys: "Ordino pilių statyba Prūsijoje analuose pradedama Torune 1231 m."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205205
+
+<a id="claim-t-224268"></a>
+- t-224268
+  teiginys: "Po aprašytos pergalės broliai Torunėje įsteigė ir apdovanojo moterų vienuolyną."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202101
+
+<a id="claim-t-224988"></a>
+- t-224988
+  teiginys: "Torunės broliai atvyko į mūšio vietą su dviem šimtais vyrų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202102
+
+<a id="claim-t-225493"></a>
+- t-225493
+  teiginys: "Torunės nuorašas apėmė pagrindinį Dusburgiečio tekstą iki 1326 m. ir papildymus iki 1330 m."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203491
+
+<a id="claim-t-225763"></a>
+- t-225763
+  teiginys: "Skomanto kariuomenės dalis patraukė prieš Torunę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204778
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje.'
@@ -456,7 +564,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-007
 
@@ -477,7 +585,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-159560
@@ -495,7 +603,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-159561
@@ -514,7 +622,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-159562
@@ -531,7 +639,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-159565
@@ -549,7 +657,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-159567
@@ -571,7 +679,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-159568
@@ -603,7 +711,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-013
 
@@ -622,7 +730,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-159570
@@ -640,7 +748,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-159571
@@ -663,7 +771,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-159574
@@ -694,7 +802,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-159575
@@ -714,7 +822,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-159577
@@ -737,7 +845,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-184458
@@ -771,7 +879,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-185011
@@ -790,8 +898,196 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
+
+- id: c-201990
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  citata_originali: |
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos
+    etapas truko iki 1300 m. XIV a. statybos darbai buvo tęsiami. Pilis sugriauta 1454 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202101
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 205"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 205."
+  citata_originali: |
+    Šios šlovingos pergalės atminimui ir
+    Jėzaus Kristaus garbei bei šlovei broliai įsteigė Torunės mieste moterų vienuolyną, kurį
+    dosniai apdovanojo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224268
+
+- id: c-202102
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  citata_originali: |
+    Galop atskubėjo Torunės broliai su dviem šimtais vyrų į
+    maršalo skirtą vietą, jie atvyko tą valandą, kurią buvo numatęs maršalas, tačiau pabėgo,
+    pamatę išžudytus brolius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224988
+
+- id: c-202508
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  citata_originali: |
+    1236 m. Torunės miestas perkeltas į dab. Torunės vietą (SRP, 3, p. 58). Čia pradėta
+    statyti ir nauja pilis, iš pradžių — iš rąstų, žemių ir akmenų, о XIII a. 6—7 dešimtmečiais
+    — mūrinė. Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221073
+
+- id: c-203491
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  citata_originali: |
+    Torunės nuoraše randame ne tik
+    pagrindinį Dusburgiečio tekstą (iki 1326 m.), bet ir papildymus (iki 1330 m. lapkričio
+    mėn.)
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225493
+
+- id: c-204277
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 71"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
+  citata_originali: |
+    prūsai turėję Vyslos
+    pakrantėje, aukščiau Torunės, pilį, vardu Ragava218
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223509
+
+- id: c-204778
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 144-145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144-145."
+  citata_originali: |
+    Po to Skomantas442, įsibrovęs su sūduviais į Kulmo žemę, padalijo savo kariuomenę
+    439  Sūduviai puolė tarp 1263 m. balandžio pradžios ir 1264 m. sausio mėn, D.
+    III, 161 aprašomas prūsų antpuolis įvyko 1263 m. balandžio—birželio mėn. Aprašomi
+    įvykiai, galimas daiktas, rodo sūduvių ir prūsų karinį bendradarbiavimą (Powierski J.,
+    Dobra.., p. 77—78).
+    440  Dab. Liubava (Lóbau, Lubawa), gyvenvietė į rytus nuo Drevantos aukštupio.
+    441  D.— Straisbergk; vėliau — Strasburg, dab. Brodnica prie Drevantos (SZCh, p.
+    12).
+    442 D.— Scumandus, Jer.— Skomant; jotvingių Skomant(a)s arba Skomand(a)
+    s. Asmenvardis giminingas vietovardžiams Skomantai, Klaipėdos rj. (Gerullis G., Zur
+    Sprache.., p. 48; Būga К., 2, p. 100—101; 3, p. 140—141), Skuomantai (kaimas prie
+    Rokiškio, su tarminiu senesnio o virtimu uo).
+
+    į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,
+    imdamos į nelaisvę ir degindamos visa, ką sutikdavo pakelėje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225763
+
+- id: c-205205
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  citata_originali: |
+    Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama
+    apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,
+    pradedant Torune (1231 m
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223786
+
+- id: c-205587
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
+  citata_originali: |
+    Kai brolis Heidenreichas, Kulmo vyskupas, šventino Torunės ligoninės koplyčią,
+    buvusią už sienų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223634
+
+- id: c-205959
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
+  citata_originali: |
+    Pipino mirtį, jis tepažymi,
+    jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
+    medžiu pakartas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220922
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Pipinas]]

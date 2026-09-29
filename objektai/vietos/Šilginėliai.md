@@ -92,5 +92,6 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

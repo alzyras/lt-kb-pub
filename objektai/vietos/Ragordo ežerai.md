@@ -81,5 +81,6 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

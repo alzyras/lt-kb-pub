@@ -70,5 +70,6 @@ Ilža yra Lenkijos Kielcų vaivadijos miestas prie Ilžankos upės, apie 123 km 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

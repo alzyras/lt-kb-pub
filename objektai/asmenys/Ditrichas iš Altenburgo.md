@@ -46,23 +46,6 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 
 ## Teiginiai
 
-<a id="claim-t-59949"></a>
-- t-001
-  teiginys: "Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Lunenburgas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Altenburgo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lunenburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ditrichas pastatė Lunenburgo pilį; kandidatas yra Lunenburgas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.88)"
-  pagrindžia:
-    - c-60583
-
 <a id="claim-t-59950"></a>
 - t-002
   teiginys: "1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies."
@@ -121,6 +104,16 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, datuotas ir paremtas citatos duomenimis."
   pagrindžia:
     - c-60582
+
+<a id="claim-t-225599"></a>
+- t-225599
+  teiginys: "Dusburgietis teigia, kad ditrichas iš Altenburgo mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -195,7 +188,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-60582
@@ -217,7 +210,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-60583
@@ -240,8 +233,6 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-60584
   autorius: "Petras Dusburgietis"
@@ -261,7 +252,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

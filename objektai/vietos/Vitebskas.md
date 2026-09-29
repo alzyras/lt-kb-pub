@@ -228,6 +228,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164703
+    - c-183605
 
 <a id="claim-t-181125"></a>
 - t-009
@@ -377,6 +378,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-164690
+    - c-183595
 
 <a id="claim-t-181139"></a>
 - t-017
@@ -522,6 +524,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-164710
+    - c-183600
     - c-164716
 
 <a id="claim-t-181150"></a>
@@ -594,6 +597,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindžia:
     - c-164697
     - c-164713
+    - c-183619
 
 <a id="claim-t-184324"></a>
 - t-029
@@ -856,19 +860,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindžia:
     - c-183602
 
-<a id="claim-t-200367"></a>
-- t-044
-  teiginys: "Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Vitebskas; llm_object: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-183610
-
 <a id="claim-t-201680"></a>
 - t-045
   teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
@@ -911,6 +902,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   susije_objektai: "mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Polockas"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
+    - c-164690
     - c-183595
 
 <a id="claim-t-203278"></a>
@@ -1055,6 +1047,123 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindžia:
     - c-189218
 
+<a id="claim-t-181132"></a>
+- t-181132
+  teiginys: "Panaikinus Vitebsko kunigaikštiją, jos dvarai ir pajamos pateko į tiesioginę Vytauto valdžią."
+  atnaujinta: "2026-09-19 00:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164692
+    - c-164703
+    - c-183605
+    - c-183589
+
+<a id="claim-t-200353"></a>
+- t-200353
+  teiginys: "Po perversmo Jogailai buvo paliktos jo tėvo žemės: Vitebskas ir Krėvos kunigaikštystė."
+  atnaujinta: "2026-09-19 00:59"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Vitebską ir paremtas citata."
+  susije_objektai: "mentioned_place: Krėva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Švitrigaila: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Bendra pajėgų antraštė rodo Švitrigailos ir Ordino sąjungą šiame kariniame kontekste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-183587
+    - c-183618
+
+<a id="claim-t-207627"></a>
+- t-207627
+  teiginys: "Vitebske 1562 m. vyko „karo lauko“ seimas."
+  atnaujinta: "2026-09-19 00:59"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1562 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai nurodo Vitebske 1562 m. vykusį seimą."
+  pagrindžia:
+    - c-190244
+
+<a id="claim-t-207811"></a>
+- t-207811
+  teiginys: "Prie Vitebsko buvo 1562 m. Lietuvos Didžiosios Kunigaikštystės karo lauko stovykla."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1562 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190428
+
+<a id="claim-t-208192"></a>
+- t-208192
+  teiginys: "Vitebske J. Fontana pasirašė sutartį statyti bernardinams Šv. Antano bažnyčią."
+  atnaujinta: "2026-09-19 00:59"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190727
+
+<a id="claim-t-210406"></a>
+- t-210406
+  teiginys: "Prie kronikos rankraščio buvo pridėta trumpa Vitebsko kunigaikščių genealogija."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193456
+
+<a id="claim-t-211104"></a>
+- t-211104
+  teiginys: "Išsiuntė jį į Vitebską ir ten liepė jį Dauguvoje, prie Vitebsko, nu skandinti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193959
+
+<a id="claim-t-211139"></a>
+- t-211139
+  teiginys: "Švitrigaila Vitebske sudegino metropolitą Gerasimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193993
+
 ## Reikšmingi paminėjimai
 - c-028
   santrauka: 'Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską.'
@@ -1167,7 +1276,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-32547
@@ -1185,7 +1294,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-32548
@@ -1205,7 +1314,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-44028
@@ -1234,7 +1343,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-164682
@@ -1260,7 +1369,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -1284,7 +1393,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-023
 
@@ -1309,7 +1418,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-017
 
@@ -1334,7 +1443,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-164686
@@ -1358,7 +1467,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-027
 
@@ -1380,7 +1489,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-164690
@@ -1401,9 +1510,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-016
+    - t-048
 
 - id: c-164691
   autorius: "Michał Baliński"
@@ -1431,7 +1541,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-022
 
@@ -1457,6 +1567,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-181132
+
 - id: c-164695
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1477,7 +1590,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-014
 
@@ -1498,7 +1611,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-164697
@@ -1529,7 +1642,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-164703
@@ -1554,8 +1667,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+    - t-181132
 
 - id: c-164705
   autorius: "Michał Baliński"
@@ -1574,7 +1688,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-164706
@@ -1600,6 +1714,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-164709
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1625,7 +1740,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-164710
@@ -1661,7 +1776,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-164712
@@ -1686,7 +1801,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-164713
@@ -1710,7 +1825,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
     - t-028
 
@@ -1739,7 +1854,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-024
 
@@ -1758,7 +1873,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-167695
@@ -1779,7 +1894,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-168562
@@ -1812,7 +1927,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
     - t-052
 
@@ -1839,11 +1954,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     nosi iš paskutiniųjų.
   citata_rodoma: "Taip pat ir Jurijus Svia-\ntoslavovičius, Smolensko valdovas, nors ir elgėsi kaip\nneabejotinas priešas, kol Vytautas dar nebuvo atvykęs,\ntačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­\ndraugiškus jausmus ir prijungė, puoselėdamas tam tik­\nrus sumanymus, savo karines jėgas prie Vytauto. Smo-\nlenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė\nbuvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,\ntačiau ne dėl to, kad nebuvo\nA p su p a  V ite b s k ą\ndaroma, kas tokiais atvejais\nreikalinga, o todėl, kad gynė­\njai, ypač Livonijos kariai, klausydami ne tiek Švitri­\ngailos skatinimų, kiek įsakymų bei grasinimų, prieši­\nnosi iš paskutiniųjų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-170626
@@ -1874,7 +1990,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-175548
@@ -1897,7 +2013,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-175983
@@ -1920,7 +2036,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-175984
@@ -1938,7 +2054,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-183582
@@ -1956,7 +2072,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-183583
@@ -1985,6 +2101,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183584
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2005,7 +2122,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-047
     - t-049
@@ -2032,6 +2149,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183586
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2058,7 +2176,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-183587
@@ -2079,6 +2197,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-200353
+
 - id: c-183588
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2100,7 +2221,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-183589
@@ -2125,6 +2246,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-181132
+
 - id: c-183590
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2142,7 +2266,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-183592
@@ -2163,7 +2287,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-183593
@@ -2186,7 +2310,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-183594
@@ -2209,7 +2333,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-023
 
@@ -2231,8 +2355,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+    - t-016
     - t-048
 
 - id: c-183596
@@ -2260,7 +2385,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-183597
@@ -2285,7 +2410,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-183598
@@ -2308,7 +2433,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-183599
@@ -2343,6 +2468,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183600
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2377,6 +2503,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-024
+
 - id: c-183601
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2400,7 +2529,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -2422,7 +2551,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
     - t-043
 
@@ -2455,6 +2584,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183605
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2478,6 +2608,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-008
+    - t-181132
+
 - id: c-183606
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2501,6 +2635,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183607
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2518,7 +2653,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-183608
@@ -2536,7 +2671,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-183609
@@ -2557,7 +2692,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-183610
@@ -2582,8 +2717,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-044
 
 - id: c-183611
   autorius: "Zenonas Ivinskis"
@@ -2600,7 +2733,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-183613
@@ -2620,6 +2753,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183614
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2649,6 +2783,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183615
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2670,7 +2805,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-046
 
@@ -2700,7 +2835,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-050
     - t-051
 
@@ -2722,6 +2857,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183618
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2740,6 +2876,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-200353
+
 - id: c-183619
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2761,8 +2900,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
+    - t-028
 
 - id: c-183620
   autorius: "Anoniminis metraštininkas"
@@ -2781,7 +2921,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-185027
@@ -2797,7 +2937,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-186190
@@ -2825,7 +2965,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-186191
@@ -2871,7 +3011,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-186569
@@ -2888,7 +3028,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-186694
@@ -2908,7 +3048,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-186914
@@ -2934,7 +3074,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
 
 - id: c-189216
@@ -2953,7 +3093,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
 
 - id: c-189217
@@ -2980,7 +3120,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
 
 - id: c-189218
@@ -2999,8 +3139,196 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
+
+- id: c-190244
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 158"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 158."
+  citata_originali: |
+    Šiandien yra aišku, kad Lietuvos Didžiajai Kunigaikštijai sunkiai sekėsi atlaikyti
+    rytų frontą Livonijos kare. Tai parodė ir 1562 m. Vitebsko „karo lauko“ seimas, siuntęs tą
+    patį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos.
+  citata_rodoma: "Tai parodė ir 1562 m. Vitebsko „karo lauko“ seimas, siuntęs tą \npatį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207627
+
+- id: c-190428
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 96"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 96."
+  citata_originali: |
+    Vitebsko peticija
+    Istorinėje literatūroje daug metų iš studijos į studiją per-
+    rašomas teiginys, esą XVI a. viduryje gausi Lietuvos Didžiosios
+    Kunigaikštystės vidutinioji ir smulkioji bajorija norėjusi, kad unija
+    su Lenkija būtų sudaryta kuo greičiau. Eilinius bajorus vilioju-
+    sios Lenkijos bajorų gerokai anksčiau išsikovotos didelės teisės ir
+    privilegijos, o unijai priešinosi tik Radvilų giminės vadovaujami
+    didikai, bijoję prarasti turėtą valdžią ir didžiulius turtus.
+    Taip jau susiklostė, kad ši tezė istoriografijoje buvo priimta be diskusijų; neieškota
+    ir daug argumentų jai paremti, pasitenkinta žinomais 1562 m. įvykių Lietuvos Didžio-
+    sios Kunigaikštystės karo lauko stovykloje prie Vitebsko aprašymais.
+  citata_rodoma: "Taip jau susiklostė, kad ši tezė istoriografijoje buvo priimta be diskusijų; neieškota\nir daug argumentų jai paremti, pasitenkinta žinomais 1562 m. įvykių Lietuvos Didžio-\nsios Kunigaikštystės karo lauko stovykloje prie Vitebsko aprašymais."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207811
+
+- id: c-190727
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 252"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 252."
+  citata_originali: |
+    1742, m. vasario mėn.
+    Vilniuje J. Fontana pasirašė sutartį su Vitebsko vaivadiene Tekle Oginskiene
+    Vitebske pastatyti bernardinams Šv. Antano bažnyčią''.
+  citata_rodoma: "1742, m. vasario mėn. \nVilniuje J. Fontana pasirašė sutartį su Vitebsko vaivadiene Tekle Oginskiene \nVitebske pastatyti bernardinams Šv. Antano bažnyčią"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208192
+
+- id: c-193456
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 10"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 10."
+  citata_originali: |
+    Po Bychovco kronikos tekstu, pačia­
+    me gale, kita ranka buvo prirašyta trumpa Vitebsko
+    kunigaikščių genealogija, pavadinta „A se jest ro-
+    doslowie kniazey VVytebskich".
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210406
+
+- id: c-193959
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116."
+  citata_originali: |
+    Išsiuntė jį į
+    Vitebską ir ten liepė jį Dauguvoje, prie Vitebsko, nu­
+    skandinti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211104
+
+- id: c-193993
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 117"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 117."
+  citata_originali: |
+    O trečią vasa­
+    rą37 kunigaikštis Švitrigaila Vitebske sudegino metro­
+    politą Gerasimą 33
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211139
+
+- id: c-194103
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
+  citata_originali: |
+    Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
+    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
+    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
+    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
+    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
+    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
+    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
+    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
+    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
+    Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
+    nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
+    žygyje.
+  statusas: verified
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194338
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 94"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 94."
+  citata_originali: |
+    Didysis kunigaikštis Vytautas pasiėmė su sa­
+    vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
+    nę, ir išžygiavo į Vitebsko miestą prieš kunigaikštį
+    Švitrigailą'. Pirmiausia atvyko prie Drucko pilies.
+    Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
+    Iš ten nužygiavo į Oršą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195715
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  citata_originali: |
+    Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
+    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
+    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
+    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
+    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
+    meta sarmatų genčių sūkuryje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Švitrigaila]]

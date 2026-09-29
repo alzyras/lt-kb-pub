@@ -70,5 +70,6 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

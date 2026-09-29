@@ -70,6 +70,26 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   pagrindžia:
     - c-169521
 
+<a id="claim-t-186160"></a>
+- t-186160
+  teiginys: "Romuntas buvo Giliginio sūnus ir sosto įpėdinis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sunus -> Giliginas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Romuntas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Giliginas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Romuntas buvo Giliginio sūnus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Romuntas buvo sūnus Giliginas (0.95)"
+  pagrindžia:
+    - c-169521
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Romuntas buvo Giliginio sūnus ir sosto įpėdinis.'
@@ -123,8 +143,9 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-186160
 
 - id: c-173848
   autorius: "Teodoras Narbutas"
@@ -147,8 +168,31 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197615
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  citata_originali: |
+    Juo tapo
+    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
+    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
+    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
+    reiga. Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
+    vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
+    rijoje Romuntą. Be to, jis nuolat rengė plėšikiškus žygius
+    į Lenkiją, Rusią ir Mazoviją, buvo griežtas ir žiaurus val­
+    dovas, tironiškai elgėsi su valdiniais ir užkariautais žmo­
+    nėmis1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Giliginas]]

@@ -2,7 +2,6 @@
 tipas: asmuo
 pavadinimas: 'Teofilis Gudas-Eskimas'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
@@ -30,7 +29,11 @@ canonical_biography: "Po Aniceto Laužiko žūties Teofilis Gudas-Eskimas pradė
 
 ## Santrauka
 
-Po Vytenio būrio vado žūties Teofilis Gudas-Eskimas pradėjo vadovauti Vytenio būriui. Teofilio Gudo-Eskimo vadovaujamame būryje buvo penki partizanai. Po Aniceto Laužiko-Švitrigailos žūties per 1948 m. sausio 3 d. karinę čekistų operaciją būrio vadu tapo Teofilis Gudas-Eskimas.
+Po Vytenio būrio vado žūties Teofilis Gudas-Eskimas pradėjo vadovauti Vytenio būriui. Teofilio Gudo-Eskimo vadovaujamame būryje buvo penki partizanai.
+
+## Santrauka
+
+Po Vytenio būrio vado žūties Teofilis Gudas-Eskimas pradėjo vadovauti Vytenio būriui. Teofilio Gudo-Eskimo vadovaujamame būryje buvo penki partizanai.
 
 ## Teiginiai
 
@@ -59,15 +62,6 @@ Po Vytenio būrio vado žūties Teofilis Gudas-Eskimas pradėjo vadovauti Vyteni
   statusas: verified
 - t-003
 
-- c-003
-  santrauka: 'Po Aniceto Laužiko-Švitrigailos žūties per 1948 m. sausio 3 d. karinę čekistų operaciją būrio vadu tapo Teofilis Gudas-Eskimas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 225"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-208364
@@ -79,5 +73,6 @@ Po Vytenio būrio vado žūties Teofilis Gudas-Eskimas pradėjo vadovauti Vyteni
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

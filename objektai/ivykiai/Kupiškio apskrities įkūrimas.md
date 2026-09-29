@@ -7,10 +7,10 @@ datos:
   - '1946 m.'
 date_start: '1946'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,16 +43,19 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: 'Kupiškio apskritis įkurta 1946 m. balandžio 24 d.; jai priskirti Kupiškio, Subačiaus, Šimonių, Viešintų, Skapiškio ir Svėdasų valsčiai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 15"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Santrauka
 
 Kupiškio apskritis įkurta 1946 m. balandžio 24 d.; jai priskirti Kupiškio, Subačiaus, Šimonių, Viešintų, Skapiškio ir Svėdasų valsčiai.
+
+## Citatos
+
+- id: c-214301
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 15"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 15."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:42"

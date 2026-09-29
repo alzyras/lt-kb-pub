@@ -1,4 +1,4 @@
-import { readFile, rm } from "node:fs/promises"
+import { readFile, readdir, rm } from "node:fs/promises"
 import path from "node:path"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
@@ -17,12 +17,24 @@ import { changedObjectGraphShardSlugs } from "../../util/graphShardChanges"
 import { BuildCtx } from "../../util/ctx"
 import { ProcessedContent } from "../vfile"
 import { StaticResources } from "../../util/resources"
+import { ChangeEvent } from "../types"
+import {
+  explorerData,
+  objectPreview,
+  objectShardFile,
+  type ObjectPreview,
+} from "../../util/graphExplorerData"
+import { objectDetailEvidenceFromFile } from "../../util/objectDetail"
 
 function objectGraphShards(
   topology: any,
+  previews: Map<string, ObjectPreview>,
+  publishedSlugs: Set<string>,
   selectedSlugs?: ReadonlySet<string>,
 ): Array<{ slug: string; payload: unknown }> {
-  const nodes = Array.isArray(topology?.nodes) ? topology.nodes : []
+  const nodes = Array.isArray(topology?.nodes)
+    ? topology.nodes.filter((node: any) => publishedSlugs.has(String(node.slug ?? "")))
+    : []
   const nodeBySlug = new Map<string, any>(
     nodes.map((node: any) => [String(node.slug ?? ""), node] as [string, any]),
   )
@@ -82,6 +94,7 @@ function objectGraphShards(
       return {
         slug,
         payload: {
+          ...(previews.has(slug) ? { preview: previews.get(slug) } : {}),
           focus: {
             slug,
             title: String(node.title ?? slug),
@@ -97,21 +110,13 @@ function objectGraphShards(
     })
 }
 
-function objectShardFile(slug: string): string {
-  let hash = 2166136261
-  for (const byte of new TextEncoder().encode(`shard:${slug}`)) {
-    hash ^= byte
-    hash = Math.imul(hash, 16777619)
-  }
-  return (hash >>> 0).toString(16).padStart(8, "0")
-}
-
 async function* emitGraphExplorer(
   ctx: BuildCtx,
   content: ProcessedContent[],
   resources: StaticResources,
   opts: FullPageLayout,
   incremental: boolean,
+  changeEvents: ChangeEvent[] = [],
 ) {
   const cfg = ctx.cfg.configuration
   const slug = "zemelapis/index" as FullSlug
@@ -125,6 +130,7 @@ async function* emitGraphExplorer(
       .filter(Boolean),
   )
   const completeTopology = withPublicObjectNodes(topology, Object.keys(slugMap.graphToPublic))
+  const publishedSlugs = new Set(Object.keys(slugMap.graphToPublic))
   let selectedSlugs: Set<string> | undefined
   let previousTopology: any
   if (incremental) {
@@ -137,6 +143,42 @@ async function* emitGraphExplorer(
       // Without a valid old graph, regenerating every shard is the safe path.
     }
   }
+  if (incremental && !previousTopology) {
+    const shardDirectory = path.join(ctx.argv.output, "static/graph-data/objects")
+    try {
+      for (const entry of await readdir(shardDirectory, { withFileTypes: true })) {
+        if (!entry.isFile() || !/^[\da-f]{8}\.json$/i.test(entry.name)) continue
+        const stalePath = path.join(shardDirectory, entry.name)
+        await rm(stalePath, { force: true })
+        ctx.deletedFiles?.add(stalePath as FilePath)
+      }
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error
+    }
+  }
+  if (incremental && selectedSlugs) {
+    for (const event of changeEvents) {
+      const changedSlug = String(event.file?.data.slug ?? "")
+      if (changedSlug.startsWith("objektai/")) selectedSlugs.add(changedSlug)
+    }
+  }
+
+  const previews = new Map<string, ObjectPreview>()
+  for (const [, file] of content) {
+    const publicSlug = String(file.data.slug ?? "")
+    const graphSlug = slugMap.publicToGraph[publicSlug]
+    if (
+      !graphSlug ||
+      !publicSlug.startsWith("objektai/") ||
+      (selectedSlugs && !selectedSlugs.has(graphSlug))
+    )
+      continue
+    const frontmatter = file.data.frontmatter ?? {}
+    previews.set(
+      graphSlug,
+      objectPreview(frontmatter, objectDetailEvidenceFromFile(file.data.filePath).summary),
+    )
+  }
 
   yield write({
     ctx,
@@ -144,7 +186,12 @@ async function* emitGraphExplorer(
     slug: "static/graph-data/topology" as FullSlug,
     ext: ".json",
   })
-  for (const shard of objectGraphShards(completeTopology, selectedSlugs)) {
+  for (const shard of objectGraphShards(
+    completeTopology,
+    previews,
+    publishedSlugs,
+    selectedSlugs,
+  )) {
     yield write({
       ctx,
       content: JSON.stringify(shard.payload),
@@ -154,11 +201,7 @@ async function* emitGraphExplorer(
   }
 
   if (selectedSlugs && previousTopology) {
-    const currentSlugs = new Set(
-      (completeTopology.nodes ?? [])
-        .map((node: { slug?: string }) => String(node.slug ?? ""))
-        .filter((nodeSlug: string) => nodeSlug.startsWith("objektai/")),
-    )
+    const currentSlugs = publishedSlugs
     for (const previousNode of previousTopology.nodes ?? []) {
       const previousSlug = String(previousNode.slug ?? "")
       if (!previousSlug.startsWith("objektai/") || currentSlugs.has(previousSlug)) continue
@@ -172,6 +215,20 @@ async function* emitGraphExplorer(
     }
   }
 
+  const explorer = explorerData(completeTopology, buildDataVersion, publishedSlugs)
+  for (const [name, payload] of [
+    ["core", explorer.core],
+    ["index", explorer.index],
+    ["search", explorer.search],
+    ...[...explorer.tiles].map(([key, nodes]) => [`outer/${key}`, nodes]),
+  ] as Array<[string, unknown]>) {
+    yield write({
+      ctx,
+      content: JSON.stringify(payload),
+      slug: `static/graph-data/explorer/${name}` as FullSlug,
+      ext: ".json",
+    })
+  }
   yield write({
     ctx,
     content: JSON.stringify(slugMap),
@@ -224,8 +281,8 @@ export const GraphExplorerPage: QuartzEmitterPlugin = () => {
     async *emit(ctx, content, resources) {
       yield* emitGraphExplorer(ctx, content, resources, opts, false)
     },
-    async *incrementalEmit(ctx, content, resources) {
-      yield* emitGraphExplorer(ctx, content, resources, opts, true)
+    async *incrementalEmit(ctx, content, resources, changeEvents) {
+      yield* emitGraphExplorer(ctx, content, resources, opts, true, changeEvents)
     },
     async *partialEmit() {},
   }

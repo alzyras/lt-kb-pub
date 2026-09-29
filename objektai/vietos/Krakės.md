@@ -79,5 +79,6 @@ Krakės šiame šaltinyje yra miestelis ar gyvenvietė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

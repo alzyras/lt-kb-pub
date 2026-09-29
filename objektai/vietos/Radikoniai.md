@@ -79,5 +79,6 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

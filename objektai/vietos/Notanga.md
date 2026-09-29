@@ -132,6 +132,34 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   pagrindžia:
     - c-86940
 
+<a id="claim-t-220409"></a>
+- t-220409
+  teiginys: "Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių."
+  atnaujinta: "2026-09-20 21:48"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Notanga: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Notanga išvardijama kaip viena iš Prūsijos žemės dalių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Notanga priklausė Prūsija (0.90)"
+
+<a id="claim-t-220826"></a>
+- t-220826
+  teiginys: "1311 metais Vytenis su Lietuvos kariuomene nusiaubė Notangą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-203287
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.'
@@ -194,7 +222,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-86941
@@ -216,7 +244,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-86942
@@ -240,7 +268,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-86943
@@ -261,7 +289,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-86944
@@ -286,6 +314,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-86945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -302,8 +331,44 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-203287
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 204"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 204."
+  citata_originali: |
+    1311 viešpaties metais, per užgavėnes (vasario 22), Vytenis, Lietuvos karalius, su
+    didele kariuomene, degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug
+    žmonių, o beveik penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu, tiesa, ir pats
+    patyrė nuostolių, nes žuvo nemaža jo žmonių, nutolusių nuo savo kariuomenės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220826
+
+- id: c-204756
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
+  citata_originali: |
+    Teritorija į rytus nuo Varmės, šiaurėje siekė
+    Priegliaus pakrantes, o rytuose — Alnos upę (į pietryčius nuo dab. Kaliningrado —
+    imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
+    Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
+    priskiriama Notangai).
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Puolė Notangą: [[objektai/grupes/Sūduviai]]

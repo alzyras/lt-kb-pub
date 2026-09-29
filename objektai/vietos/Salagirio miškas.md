@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Salagirio miškas"]
 sameAs: []
 canonical_biography: "1946 m. liepos mėn. partizanų būrys ketino iš Bagdonavos miško pereiti į Salagirio mišką Kamajų valsčiuje."
+place_authority: true
+historical_names: []
 ---
 # Salagirio miškas
 
@@ -31,14 +33,13 @@ canonical_biography: "1946 m. liepos mėn. partizanų būrys ketino iš Bagdonav
 
 Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ 1946 m. liepos 13 d. Mieliūnų kaime aprašo karinę čekistų operaciją, per kurią sužeistas partizanas, įsėdęs į vežimą, nuvažiavo Salagirio miško link.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ 1946 m. liepos 13 d. Mieliūnų kaime aprašo karinę čekistų operaciją, per kurią sužeistas partizanas, įsėdęs į vežimą, nuvažiavo Salagirio miško link.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214918
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 206"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 206."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

@@ -113,7 +113,7 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175531
@@ -135,7 +135,7 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179405
@@ -163,8 +163,56 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-197375
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
+  citata_originali: |
+    Priartinus mūsų tyrimus prie
+    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
+    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197433
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
+    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
+    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
+    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
+    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Herodotas]], [[objektai/asmenys/Jerim Berdis]]

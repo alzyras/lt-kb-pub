@@ -85,5 +85,6 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -48,26 +48,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-186865"></a>
-- t-001
-  teiginys: "Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Habdankas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dubnia herbas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Habdankas: mention_match, thing, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubnia herbas\" parinktas kaip owner_note_path. Targetas \"Habdankas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170048
-
 ## Citatos
 
 - id: c-170048
@@ -85,5 +65,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

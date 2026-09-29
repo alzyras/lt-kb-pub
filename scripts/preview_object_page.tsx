@@ -3,6 +3,10 @@ import fs from "node:fs"
 import path from "node:path"
 import http from "node:http"
 import matter from "gray-matter"
+import { unified } from "unified"
+import remarkParse from "remark-parse"
+import remarkGfm from "remark-gfm"
+import remarkRehype from "remark-rehype"
 // @ts-expect-error serve-handler does not publish TypeScript declarations.
 import handler from "serve-handler"
 import { renderToString } from "preact-render-to-string"
@@ -33,7 +37,7 @@ import { objectBibliography } from "../quartz/util/objectBibliography"
 import { objectMediaSet } from "../quartz/util/objectMedia"
 import { objectPageViewModel } from "../quartz/util/objectPageView"
 import { computeFacetSummary } from "../quartz/util/mediaGallery"
-import { slugifyFilePath } from "../quartz/util/path"
+import { createUniqueSlugMap, slugifyFilePath } from "../quartz/util/path"
 import { joinStyles } from "../quartz/util/theme"
 // @ts-ignore The preview bundler compiles the Sass entrypoint to CSS text.
 import globalStyle from "../quartz/styles/custom.scss"
@@ -79,6 +83,10 @@ const slug = slugifyFilePath(note as any)
 const file = { slug, frontmatter: fm, filePath }
 const evidence = objectDetailEvidenceFromFile(filePath)
 const files: any[] = [file]
+// Include DB-exported biographies even before the graph snapshot is rebuilt.
+const objectNotes = fs.readdirSync(path.join(root, "objektai"), { recursive: true })
+  .map(String).filter(name => name.endsWith(".md")).map(name => `objektai/${name}`)
+const objectSlugs = createUniqueSlugMap(objectNotes as any)
 const topology = loadObjectTopology()
 for (const node of topology.nodes) {
   if (node.slug === evidence.objectSlug) continue
@@ -90,6 +98,14 @@ for (const node of topology.nodes) {
       ? { ...matter(fs.readFileSync(notePath, "utf8")).data, title: node.title, tipas: node.type }
       : { title: node.title, tipas: node.type },
   })
+}
+const fileByPath = new Map(files.map(entry => [entry.filePath, entry]))
+for (const notePath of objectNotes) {
+  const absolutePath = path.join(root, notePath)
+  const existing = fileByPath.get(absolutePath)
+  if (existing) existing.slug = objectSlugs.get(notePath as any)
+  else files.push({ slug: objectSlugs.get(notePath as any), filePath: absolutePath,
+    frontmatter: matter(fs.readFileSync(absolutePath, "utf8")).data })
 }
 for (const name of fs.readdirSync(path.join(root, "straipsniai"))) {
   if (!name.endsWith(".md")) continue
@@ -200,6 +216,12 @@ function previewBody(props: any, body: any) {
     </div>,
   )
 }
+// Building the claim registry reads the full corpus. Reuse it for this preview
+// process, just as a static build reuses its rendered exhibition pages.
+let previewExhibitions: ReturnType<typeof loadExhibitions> | undefined
+function exhibitionsForPreview() {
+  return (previewExhibitions ??= loadExhibitions())
+}
 const server = http.createServer(async (req, res) => {
   const url = new URL(req.url || "/", "http://localhost")
   if (url.pathname === "/static/graph-data/topology.json") {
@@ -228,8 +250,24 @@ const server = http.createServer(async (req, res) => {
     return res.end(JSON.stringify(relationIndex))
   }
   const route = decodeURIComponent(url.pathname).replace(/^\/|\/$/g, "")
+  const article = files.find(entry => entry.slug === route && route.startsWith("straipsniai/"))
+  if (article) {
+    const parsed = matter(fs.readFileSync(article.filePath, "utf8"))
+    const markdown = parsed.content.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/gu, (_, target, label) => {
+      const [noteTarget, anchor] = target.replace(/\.md(?=#|$)/u, "").split("#")
+      const linked = files.find(entry => entry.filePath === path.join(root, `${noteTarget}.md`))
+      return `[${label || noteTarget.split("/").at(-1)}](/${linked?.slug || slugifyFilePath(`${noteTarget}.md` as any)}${anchor ? `#${anchor}` : ""})`
+    })
+    const processor = unified().use(remarkParse).use(remarkGfm).use(remarkRehype)
+    const tree = await processor.run(processor.parse(markdown))
+    const props: any = { fileData: {...article, frontmatter: parsed.data}, allFiles: files,
+      cfg: config.configuration, ctx: {cfg:config}, tree, children: [], externalResources: {css:[],js:[]} }
+    res.setHeader("Content-Type", "text/html; charset=utf-8")
+    res.setHeader("Cache-Control", "no-store")
+    return res.end(`<!doctype html><html lang="lt" saved-theme="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>${css}</style></head><body data-slug="${route}">${previewBody(props,<><h1>{parsed.data.title}</h1>{components[7](props)}</>)}<script type="module">window.addCleanup=()=>{};${scripts}\n${spa}</script></body></html>`)
+  }
   if (route === "" || route.startsWith("parodos/")) {
-    const exhibition = route ? loadExhibitions().find(e => e.slug === route) : undefined
+    const exhibition = route ? exhibitionsForPreview().find(e => e.slug === route) : undefined
     const props: any = {fileData: {slug: route || "index", frontmatter: {title: exhibition?.title || "Lietuvos istorija", exhibition_manifest_json: exhibition}}, allFiles: files, cfg:config.configuration, ctx:{cfg:config}, tree:{type:"root",children:[]},children:[],externalResources:{css:[],js:[]}}
     res.setHeader("Content-Type", "text/html; charset=utf-8")
     res.setHeader("Cache-Control", "no-store")
@@ -255,7 +293,7 @@ const server = http.createServer(async (req, res) => {
         <EditorialCatalog
           title="Parodos"
           lead="Susitikimai su praeitimi. Atrasti eksponatai, jų istorijos ir skirtingi žvilgsniai į Lietuvos atmintį."
-          entries={loadExhibitions().map((entry) => ({
+          entries={exhibitionsForPreview().map((entry) => ({
             ...entry,
             image: entry.hero ? mediaImageUrl(entry.hero) : "",
             kicker: entry.subtitle,

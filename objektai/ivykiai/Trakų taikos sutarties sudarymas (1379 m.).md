@@ -81,5 +81,6 @@ Trakų taikos sutartyje, sudarytoje 1379 m. per šv. Mykolo dieną, nustatyta, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

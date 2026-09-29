@@ -370,6 +370,30 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   pagrindžia:
     - c-189069
 
+<a id="claim-t-211499"></a>
+- t-211499
+  teiginys: "Ariogaloje buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194325
+
+<a id="claim-t-220571"></a>
+- t-220571
+  teiginys: "1294 m. magistras ketino įsiveržti į Ariogalos valsčių, tačiau nuo šio sumanymo buvo atkalbėtas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204177
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.'
@@ -445,7 +469,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-05711
@@ -464,7 +488,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
     - t-013
@@ -487,7 +511,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-163409
@@ -509,7 +533,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-163410
@@ -531,7 +555,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-163414
@@ -552,7 +576,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-168282
@@ -581,7 +605,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-168283
@@ -620,7 +644,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-171554
@@ -639,7 +663,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-171555
@@ -662,7 +686,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171556
@@ -686,7 +710,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-188360
@@ -709,7 +733,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-188361
@@ -734,7 +758,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-189068
@@ -749,7 +773,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-189069
@@ -761,12 +785,93 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     duklė, Raseiniai arba Ariogala, ruošti ekspediciją, tada terašo
     Brandenburgo markgrafui, kad nori paviešėti.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
+
+- id: c-194325
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    Pirmo­
+    sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos
+    dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211499
+
+- id: c-200058
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
+  citata_originali: |
+    Taip atsirado Čekiškės (Czekiszki) pa­
+    vadinimas; dabar taip vadinamas miestelis. Plaukdami tolyn,
+    jie pateko į neaprėpiamus miškus ir, susidūrę su daugybe kliū­
+    čių, trukdančių toliau keliauti, kalbėjo: E-ira galas, nėra ga­
+    lo; toji vieta buvo praminta Eiriogala (Ariogala), o miestelis
+    iki šiol tebesivadina tokiu vardu. Siek tiek pasistūmėję upe
+    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
+    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
+    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
+    (Betygola) pavadinimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201189
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
+    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
+    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
+    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
+    gaikštystę kartu su savo tėvu. Tebesitęsiančios tarpusavio ko­
+    vos Lietuvoje buvo daugelio valstybės permainų priežastis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204177
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  citata_originali: |
+    1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
+    savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220571
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

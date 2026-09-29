@@ -92,6 +92,18 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   pagrindžia:
     - c-175619
 
+<a id="claim-t-213754"></a>
+- t-213754
+  teiginys: "Orestas užsidarė Pavijoje, kuri tuomet buvo laikoma Italijos sostine."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196223
+
 ## Citatos
 
 - id: c-175619
@@ -113,7 +125,7 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -134,8 +146,49 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196223
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
+  citata_originali: |
+    Orestas, nedrįsęs atvirai pasiprie­
+    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
+    laikoma Italijos sostine. Odoakro kariuomenės apgultas
+    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
+    tas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,
+    imperatorius Augustulas pateko nelaisvėn ir liko gyvas
+    tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
+    ratoriaus ženklus ir purpurus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213754
+
+- id: c-197036
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
+  citata_originali: |
+    Taip pat ir rugių vadas Frederikas
+    paliko gotus ir su saviškiais pasitraukė pas herulus. Teo­
+    dorikas buvo apsuptas Pavijoje, Odoakrui nepalankiame
+    mieste nuo tų laikų, kai ten buvo nugalėtas Orestas; po
+    šio pralaimėjimo miestas sustiprėjo ir buvo atstatytas.
+    1 Jomandes, Lib.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Apgulė Paviją: [[objektai/asmenys/Odoakras]]

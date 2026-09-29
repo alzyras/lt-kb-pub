@@ -73,5 +73,6 @@ canonical_biography: '1411 m., Lietuvos valstybės remiamas, Dželal-ad-dinas nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -78,5 +78,6 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

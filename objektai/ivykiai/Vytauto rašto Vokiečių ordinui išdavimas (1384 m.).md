@@ -76,5 +76,6 @@ Vytauto 1384 m. rašte teigiama, kad visa Žemaitija turi priklausyti Vokiečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

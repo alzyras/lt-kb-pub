@@ -16,19 +16,18 @@ tags:
   - saltinis
 amziai:
   - 'XVI'
-media_total_count: '1'
-media_primary_thumb_url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg/1920px-Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ABrest_Bible_-_title_page_%2867678265%29.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'edition_image_of'
-media_primary_json: |-
-  {"mediaId":"m-b3fcad2a216f2deeef5f83d7","title":"Brest Bible - title page (67678265).jpg","caption":"1563 m. Brastoje išleistos Brastos Biblijos antraštinis lapas.","originalTitle":"Brest Bible - title page (67678265).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/bjblia-swieta-tho-iest-ksiegi-starego-y-nowego-zakonu-wlasnie-z-zydowskiego,NjczNDYwNjc/4/","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/bjblia-swieta-tho-iest-ksiegi-starego-y-nowego-zakonu-wlasnie-z-zydowskiego,NjczNDYwNjc/4/","dateDisplay":"2025-06-13 12:09:59","dateStart":null,"dateEnd":null,"width":4400,"height":6710,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABrest_Bible_-_title_page_%2867678265%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg/1920px-Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"religinis-įvykis","label":"religinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95},{"code":"švietimas","label":"švietimas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"BJblia swięta, Tho iest, Księgi Starego y Nowego Zakonu (1563)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-anon-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Title pages from Poland","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/Brastos Biblija.md","title":"Brastos Biblija","itemType":"saltinis","relationType":"edition_image_of","directness":"direct"}],"firstDiscoveredAt":"2026-09-21T22:38:35.238776+03:00","reviewedAt":"2026-09-21T22:38:35.238776+03:00","visualReviewVersion":"media-import-visual-v1","visualEvidence":"Titulinis puslapis rodo Biblijos leidinio pavadinimą ir puošnų spausdintą knygos apipavidalinimą.","metadataEvidence":"Pavadinimas, aprašas ir konteksto užuomina tiesiogiai nurodo Brastos Bibliją, išleistą 1563 m. Brastoje Mikalojaus Radvilos Juodojo lėšomis.","confidenceLevel":"high","relationType":"edition_image_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"provider_url_import_v1","judgeModel":"gpt-5.5","judgeReason":"Ryšys tiesioginis: tai konkretaus Brastos Biblijos leidimo antraštinio lapo atvaizdas.","isPrimary":1,"identityVerified":false}
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
 media_direct_json: |-
-  [{"mediaId":"m-b3fcad2a216f2deeef5f83d7","title":"Brest Bible - title page (67678265).jpg","caption":"1563 m. Brastoje išleistos Brastos Biblijos antraštinis lapas.","originalTitle":"Brest Bible - title page (67678265).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/bjblia-swieta-tho-iest-ksiegi-starego-y-nowego-zakonu-wlasnie-z-zydowskiego,NjczNDYwNjc/4/","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/bjblia-swieta-tho-iest-ksiegi-starego-y-nowego-zakonu-wlasnie-z-zydowskiego,NjczNDYwNjc/4/","dateDisplay":"2025-06-13 12:09:59","dateStart":null,"dateEnd":null,"width":4400,"height":6710,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABrest_Bible_-_title_page_%2867678265%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg/1920px-Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"religinis-įvykis","label":"religinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95},{"code":"švietimas","label":"švietimas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"BJblia swięta, Tho iest, Księgi Starego y Nowego Zakonu (1563)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-anon-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Title pages from Poland","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/Brastos Biblija.md","title":"Brastos Biblija","itemType":"saltinis","relationType":"edition_image_of","directness":"direct"}],"firstDiscoveredAt":"2026-09-21T22:38:35.238776+03:00","reviewedAt":"2026-09-21T22:38:35.238776+03:00","visualReviewVersion":"media-import-visual-v1","visualEvidence":"Titulinis puslapis rodo Biblijos leidinio pavadinimą ir puošnų spausdintą knygos apipavidalinimą.","metadataEvidence":"Pavadinimas, aprašas ir konteksto užuomina tiesiogiai nurodo Brastos Bibliją, išleistą 1563 m. Brastoje Mikalojaus Radvilos Juodojo lėšomis.","confidenceLevel":"high","relationType":"edition_image_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"provider_url_import_v1","judgeModel":"gpt-5.5","judgeReason":"Ryšys tiesioginis: tai konkretaus Brastos Biblijos leidimo antraštinio lapo atvaizdas.","isPrimary":1,"identityVerified":false}]
+  []
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-b3fcad2a216f2deeef5f83d7","title":"Brest Bible - title page (67678265).jpg","caption":"1563 m. Brastoje išleistos Brastos Biblijos antraštinis lapas.","originalTitle":"Brest Bible - title page (67678265).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/bjblia-swieta-tho-iest-ksiegi-starego-y-nowego-zakonu-wlasnie-z-zydowskiego,NjczNDYwNjc/4/","licenseUrl":"","attribution":"This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/bjblia-swieta-tho-iest-ksiegi-starego-y-nowego-zakonu-wlasnie-z-zydowskiego,NjczNDYwNjc/4/","dateDisplay":"2025-06-13 12:09:59","dateStart":null,"dateEnd":null,"width":4400,"height":6710,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABrest_Bible_-_title_page_%2867678265%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg/1920px-Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"religinis-įvykis","label":"religinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95},{"code":"švietimas","label":"švietimas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"BJblia swięta, Tho iest, Księgi Starego y Nowego Zakonu (1563)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-anon-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Title pages from Poland","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/Brastos Biblija.md","title":"Brastos Biblija","itemType":"saltinis","relationType":"edition_image_of","directness":"direct"}],"firstDiscoveredAt":"2026-09-21T22:38:35.238776+03:00","reviewedAt":"2026-09-21T22:38:35.238776+03:00","visualReviewVersion":"media-import-visual-v1","visualEvidence":"Titulinis puslapis rodo Biblijos leidinio pavadinimą ir puošnų spausdintą knygos apipavidalinimą.","metadataEvidence":"Pavadinimas, aprašas ir konteksto užuomina tiesiogiai nurodo Brastos Bibliją, išleistą 1563 m. Brastoje Mikalojaus Radvilos Juodojo lėšomis.","confidenceLevel":"high","relationType":"edition_image_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"provider_url_import_v1","judgeModel":"gpt-5.5","judgeReason":"Ryšys tiesioginis: tai konkretaus Brastos Biblijos leidimo antraštinio lapo atvaizdas.","isPrimary":1,"identityVerified":false}]
+  []
 ---
 # Brastos Biblija
 
@@ -41,7 +40,7 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
 <a id="claim-t-23389"></a>
 - t-001
   teiginys: "Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“."
-  atnaujinta: "2026-09-21 22:38"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -60,7 +59,7 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
 <a id="claim-t-23390"></a>
 - t-002
   teiginys: "Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai."
-  atnaujinta: "2026-09-21 22:38"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,7 +76,7 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
     - c-75422
 
 <a id="claim-t-207554"></a>
-- t-003
+- t-207554
   teiginys: "Mikalojus Radvila Juodasis 1563 m. išleido „Brastos Bibliją“ lenkų kalba."
   atnaujinta: "2026-09-21 22:38"
   sprendimo_priezastis: "auto"
@@ -92,7 +91,7 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
     - c-190171
 
 <a id="claim-t-207555"></a>
-- t-004
+- t-207555
   teiginys: "Brastos Bibliją Alfredas Bumblauskas apibūdina kaip įspūdingą leidybos kūrinį, pasirodžiusį po dešimtmečio."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -128,7 +127,7 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75422
@@ -157,7 +156,7 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-190171
@@ -177,8 +176,8 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-207554
 
 - id: c-190172
   autorius: "Alfredas Bumblauskas"
@@ -196,5 +195,6 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-207555
+

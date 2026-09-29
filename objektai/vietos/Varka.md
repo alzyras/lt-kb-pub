@@ -78,5 +78,6 @@ Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

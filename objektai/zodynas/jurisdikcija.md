@@ -137,7 +137,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175045
@@ -178,7 +178,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175046
@@ -210,7 +210,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175047
@@ -235,7 +235,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175048
@@ -268,5 +268,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

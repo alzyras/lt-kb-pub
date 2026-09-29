@@ -97,5 +97,6 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

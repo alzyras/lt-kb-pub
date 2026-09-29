@@ -40,14 +40,32 @@ canonical_biography: "Nuo 1944 m. Zulonas vadovavo 12 partizanų būriui, veikus
 
 Nuo 1944 m. Antanas Zulonas vadovavo 12 partizanų būriui, veikusiam Skapiškio ir Pandėlio valsčiuose bei Notigalos miške.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Nuo 1944 m. Antanas Zulonas vadovavo 12 partizanų būriui, veikusiam Skapiškio ir Pandėlio valsčiuose bei Notigalos miške.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-232015"></a>
+- t-001
+  teiginys: "Nuo 1944 m. Antanas Zulonas vadovavo 12 partizanų būriui, veikusiam Skapiškio ir Pandėlio valsčiuose bei Notigalos miške."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:50:59Z"
+  pagrindžia:
+    - c-212653
+
+## Citatos
+
+- id: c-212653
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 110"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 110."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

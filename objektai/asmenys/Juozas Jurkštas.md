@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Juozas Jurkštas"]
 sameAs: []
-canonical_biography: "Apie savo spėliojimus tada pasakiau liaudies gynėjui Juozui Jurkštui. J. Jurkštas Ypatingojo pasitarimo 1949 m. rugsėjo 14 d. nuteistas 25 metams lagerio."
+canonical_biography: " J. Jurkštas Ypatingojo pasitarimo 1949 m. rugsėjo 14 d. nuteistas 25 metams lagerio."
 ---
 # Juozas Jurkštas
 

@@ -39,14 +39,32 @@ canonical_biography: "Pranešime teigiama, kad Jonas Kazlauskas ir Kuliukas iš 
 
 Pasak agento „Paukštelio“ 1946 m. gruodžio 31 d. pranešimo, Povilo Gaigalo brolis teigė, kad Romo Petronio būrio partizanai Jonas Kazlauskas ir Kuliukas įstojo į Povilo Gaigalo būrį.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Pasak agento „Paukštelio“ 1946 m. gruodžio 31 d. pranešimo, Povilo Gaigalo brolis teigė, kad Romo Petronio būrio partizanai Jonas Kazlauskas ir Kuliukas įstojo į Povilo Gaigalo būrį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-232119"></a>
+- t-001
+  teiginys: "Pasak agento „Paukštelio“ 1946 m. gruodžio 31 d. pranešimo, Povilo Gaigalo brolis teigė, kad Romo Petronio būrio partizanai Jonas Kazlauskas ir Kuliukas įstojo į Povilo Gaigalo būrį."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:02Z"
+  pagrindžia:
+    - c-212757
+
+## Citatos
+
+- id: c-212757
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 169"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 169."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

@@ -79,5 +79,6 @@ Senųjų prūsų vėliavoje, kaip ją aprašo Teodoras Narbutas, pavaizduoti try
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -353,17 +353,17 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   pagrindžia:
     - c-64824
 
-<a id="claim-t-197128"></a>
-- t-020
-  teiginys: "Martynas iš Golino šiek tiek nuo kitų ir, susijaudinęs bei ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau, sukalbėjęs daug maldų, tavo kūną“."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-225393"></a>
+- t-225393
+  teiginys: "Rudino brolių įsakytas, Martynas iš Golino leidosi pavymui su 17 kovos draugų."
+  atnaujinta: "2026-09-19 09:36"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-179035
+    - c-205064
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -452,7 +452,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-011
 
@@ -472,7 +472,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-56152
@@ -494,7 +494,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-015
 
@@ -516,7 +516,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-010
 
@@ -540,7 +540,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-013
     - t-014
@@ -565,7 +565,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-64824
@@ -585,7 +585,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-017
     - t-018
@@ -614,7 +614,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-009
 
@@ -634,7 +634,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-64828
@@ -656,7 +656,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-179035
@@ -680,8 +680,126 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
+
+- id: c-202868
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
+  citata_originali: |
+    Dar apie tą patį
+    Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo
+    priešus, tą dieną, kai broliai bei kiti vienuoliai paprastai ima šventąją komuniją —
+    mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo kitų ir, susijaudinęs bei
+    ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau,
+    sukalbėjęs daug maldų, tavo kūną“. Vos šitaip tarė, staiga pasirodė viešpaties kūnas
+    pavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos.
+    Sitai išvydęs, jis išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo
+    tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė,
+    neapsakomai džiaugdamasis.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203029
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  citata_originali: |
+    Prūsai besivydami daugybę išžudė, o kiti pabėgo280. Taigi
+    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų į nelaisvę.
+    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
+    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
+    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204451
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
+  citata_originali: |
+    Apie tą patį
+    Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
+    ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
+    tarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė
+    arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.
+    200 (195).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205064
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
+  citata_originali: |
+    Dar apie Martyną iš Golino ir jo nuostabią kovą
+    Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
+    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
+    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
+    kiek čia jo bendrų ir kur jie.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225393
+
+- id: c-205763
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  citata_originali: |
+    Taigi
+    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų į nelaisvę.
+    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
+    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
+    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
+    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
+    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
+    bus papasakota vėliau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205975
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  citata_originali: |
+    Nemaža žinių galėjo pateikti ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
+    Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
+    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
+    Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
+    pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose   kovose prieš Ordiną
+    žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
+    XIV a. viduryje134.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Martynas iš Golino keliavo į [[objektai/vietos/Rudinas]]

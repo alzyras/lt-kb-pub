@@ -79,5 +79,6 @@ Prie Lietuvos ir Mazovijos sutarties prisidėjo ir kiti Mazovijos kunigaikščia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

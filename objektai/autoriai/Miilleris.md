@@ -81,5 +81,6 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

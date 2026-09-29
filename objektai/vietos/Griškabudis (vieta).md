@@ -70,5 +70,6 @@ Vogintas tapo praša lintas už pasipriešinimą iš Marijampolės ir per keltas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

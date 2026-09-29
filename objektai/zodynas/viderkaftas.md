@@ -76,5 +76,6 @@ O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamald
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

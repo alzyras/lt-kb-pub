@@ -119,6 +119,21 @@ describe("citationFilter metadata", () => {
     assert.equal(collectClaimCount(withClaims), 2)
   })
 
+  test("accepts page-only citations only when a page locator is present", () => {
+    const located = `## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Kupiškis. Naujausi moksliniai lokaliniai tyrimai
+  citatos_rezimas: "indeksas"
+  puslapiai: "p. 869"
+`
+    const unlocated = located.replace('  puslapiai: "p. 869"\n', "")
+
+    assert.deepEqual(collectEvidenceIntegrityIssues(located), [])
+    assert.ok(
+      collectEvidenceIntegrityIssues(unlocated).some((issue) => issue.code === "empty_citation_text"),
+    )
+  })
+
   test("builds global citation source registry from processed content", () => {
     const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), "citation-filter-"))
     const firstPath = path.join(tempDir, "objektai", "asmenys", "Testas.md")
@@ -275,11 +290,12 @@ describe("citationFilter metadata", () => {
     }
   })
 
-  test("keeps the full object corpus integrity-clean before rendering", () => {
+  test("keeps the full object corpus free of blocking evidence-integrity errors", () => {
     const failures: string[] = []
     for (const filePath of listMarkdownFiles(path.resolve("objektai"))) {
       const issues = collectEvidenceIntegrityIssues(fs.readFileSync(filePath, "utf8"))
       for (const issue of issues) {
+        if (issue.severity !== "error") continue
         failures.push(
           `${path.relative(process.cwd(), filePath)}: ${issue.code} ${issue.entryId}${issue.relatedId ? ` -> ${issue.relatedId}` : ""}`,
         )

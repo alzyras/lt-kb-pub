@@ -31,14 +31,13 @@ canonical_biography: "Pranas Tučius, Antano sūnus, gimė 1901 m., gyveno Mieli
 
 1946 m. liepos 13 d. Mieliūnų kaime per čekistų operaciją žuvo partizanų ryšininkas ir rėmėjas Pranas Tučius, Antano sūnus, gimęs 1901 m. ir gyvenęs Šimonių valsčiuje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1946 m. liepos 13 d. Mieliūnų kaime per čekistų operaciją žuvo partizanų ryšininkas ir rėmėjas Pranas Tučius, Antano sūnus, gimęs 1901 m. ir gyvenęs Šimonių valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213334
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 206"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 206."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

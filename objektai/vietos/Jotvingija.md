@@ -82,6 +82,18 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
   pagrindžia:
     - c-67714
 
+<a id="claim-t-213263"></a>
+- t-213263
+  teiginys: "XIII amžiaus pradžioje Mazovijos kunigaikščiui Konradui priklausė dalis Jotvingijos, įskaitant Drohičiną."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196044
+
 ## Citatos
 
 - id: c-37401
@@ -109,7 +121,7 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67714
@@ -132,8 +144,29 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196044
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  citata_originali: |
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213263
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

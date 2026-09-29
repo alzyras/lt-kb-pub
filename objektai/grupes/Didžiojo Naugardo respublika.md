@@ -83,29 +83,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   pagrindžia:
     - c-180574
 
-<a id="claim-t-198534"></a>
-- t-004
-  teiginys: "Didžiojo Naugardo gyventojai kasmet mokėjo Vytautui 10 000 auksinų, 40 sunkiųjų žirgų ir kailių duoklę."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Iš sąrašo suformuotas glaustas enciklopedinis sakinys."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva"
-  semantiniai_rysiai: "[[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Didžiojo Naugardo respublika: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Naugardiečiai kasmet davė Vytautui duoklę, todėl tai palaikymo ar duoklinio rėmimo santykis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180569
-
 <a id="claim-t-198535"></a>
 - t-005
   teiginys: "Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus."
@@ -157,6 +134,39 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   pagrindžia:
     - c-188811
 
+<a id="claim-t-211023"></a>
+- t-211023
+  teiginys: "Naugardiečiai pasižadėjo tarnauti Vytautui, laikyti jį valdovu ir mokėti duoklę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193103
+
+<a id="claim-t-211912"></a>
+- t-211912
+  teiginys: "Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu."
+  atnaujinta: "2026-09-19 15:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pašalintas fragmentiškumas ir palikta aiški faktinė mintis apie Naugardą."
+  susije_objektai: "llm_object: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Pinskas"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]"
+  ryšio_patikimumas: "buvo_valdovas -> Didžiojo Naugardo respublika: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Naugardiečiai pasižadėjo Vytautą laikyti savo valdovu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
 ## Citatos
 
 - id: c-14963
@@ -183,6 +193,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-14964
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -204,6 +215,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-170671
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -237,6 +249,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180567
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -261,6 +274,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180568
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -294,6 +308,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180569
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -317,8 +332,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-180570
   autorius: "Zenonas Ivinskis"
@@ -338,7 +351,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-007
 
@@ -366,6 +379,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180572
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -385,7 +399,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -406,6 +420,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180574
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -426,7 +441,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -445,8 +460,29 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-193103
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 103."
+  citata_originali: |
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211023
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Didžiojo Naugardo bojarinai]]

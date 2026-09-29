@@ -39,44 +39,6 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
 
 ## Teiginiai
 
-<a id="claim-t-78376"></a>
-- t-001
-  teiginys: "Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veverskio iniciatyva 1941 m. Vilniuje."
-  atnaujinta: "2026-05-31 11:59"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos laisvės armija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos laisvės armija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-22620
-
-<a id="claim-t-78377"></a>
-- t-002
-  teiginys: "Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos laisvės armija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos laisvės armija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1943 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys daugiausia apie asmens biografiją, todėl paryškintas faktas apie Lietuvos laisvės armiją."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-75661
-
 <a id="claim-t-78378"></a>
 - t-003
   teiginys: "1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes."
@@ -94,6 +56,19 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22621
+
+<a id="claim-t-230508"></a>
+- t-230508
+  teiginys: "„Lietuvos partizanai“ leido antisovietinius lapelius Lietuvos laisvės armijos vardu."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:08Z"
+  pagrindžia:
+    - c-211147
 
 ## Citatos
 
@@ -113,8 +88,6 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-22621
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -160,6 +133,16 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-211147
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 41"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 41."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
   pagrindžia:
-    - t-002
+    - t-230508
 

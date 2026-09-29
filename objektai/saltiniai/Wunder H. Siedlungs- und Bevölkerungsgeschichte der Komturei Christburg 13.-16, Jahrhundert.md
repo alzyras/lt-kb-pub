@@ -49,3 +49,16 @@ Dusburgietis teigia, kad wunder H.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Teiginiai
+
+<a id="claim-t-225404"></a>
+- t-001
+  teiginys: "H. Wunder knyga apie Christburgo komtūrijos gyvenviečių ir gyventojų istoriją XIII-XVI a. išleista Vysbadene 1968 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1968 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, laikotarpį, vietą ir metus."
+

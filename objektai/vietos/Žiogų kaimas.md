@@ -30,7 +30,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Žiogų kaimas"]
 sameAs: []
-canonical_biography: "Vincas Kiaulėnas gimė Žiogų kaime. Kazys Kiaulėnas [Meška], Petro, gyvenęs Žiogų kaime, eilinis."
+canonical_biography: "Vincas Kiaulėnas gimė Žiogų kaime. "
 ---
 # Žiogų kaimas
 
@@ -38,23 +38,57 @@ canonical_biography: "Vincas Kiaulėnas gimė Žiogų kaime. Kazys Kiaulėnas [M
 
 Vincas Kiaulėnas-Vilkas gimė 1912 m. Žiogų kaime, Skapiškio valsčiuje, o vokiečiams pasitraukus suorganizavo apie 30 partizanų būrį ir jam vadovavo iki 1945 m. Kazys Kiaulėnas [Meška], Petro sūnus, gyveno Žiogų kaime.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Vincas Kiaulėnas-Vilkas gimė 1912 m. Žiogų kaime, Skapiškio valsčiuje, o vokiečiams pasitraukus suorganizavo apie 30 partizanų būrį ir jam vadovavo iki 1945 m.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-230879"></a>
+- t-001
+  teiginys: "Vincas Kiaulėnas-Vilkas gimė 1912 m. Žiogų kaime, Skapiškio valsčiuje, o vokiečiams pasitraukus suorganizavo apie 30 partizanų būrį ir jam vadovavo iki 1945 m."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:19Z"
+  pagrindžia:
+    - c-211517
+
+<a id="claim-t-230880"></a>
+- t-002
+  teiginys: "Kazys Kiaulėnas [Meška], Petro sūnus, gyveno Žiogų kaime."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:19Z"
+  pagrindžia:
+    - c-211518
+
+## Citatos
+
+- id: c-211517
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 108"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 108."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Kazys Kiaulėnas [Meška], Petro sūnus, gyveno Žiogų kaime.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211518
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 109"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 109."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

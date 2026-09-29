@@ -31,14 +31,13 @@ canonical_biography: "Agentas „Antanas“ teigė miške susitikdavęs su Vytau
 
 Verbuojamas agentas „Antanas“ teigė miške, eidamas Žaliosios draustinio inspektoriaus ir medžiotojo pareigas, susitikdavęs su Vytautu Pakaušiu, P. Žilio-Klevo būrio partizanu.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Verbuojamas agentas „Antanas“ teigė miške, eidamas Žaliosios draustinio inspektoriaus ir medžiotojo pareigas, susitikdavęs su Vytautu Pakaušiu, P. Žilio-Klevo būrio partizanu.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213451
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 303"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 303."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

@@ -94,7 +94,7 @@ canonical_biography: "374 ## Puslapis 391 IV KNYGA I \\ Po to, kai, neprisilaiky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

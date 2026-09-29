@@ -146,6 +146,32 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   pagrindžia:
     - c-171696
 
+<a id="claim-t-208179"></a>
+- t-208179
+  teiginys: "Prienų rotušėms statytojai skyrė ypatingo dėmesio."
+  atnaujinta: "2026-09-19 21:26"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-190671
+
+<a id="claim-t-216155"></a>
+- t-216155
+  teiginys: "Kelias iš Kauno į Prienus ėjo per Išlaužą."
+  atnaujinta: "2026-09-19 21:26"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-200547
+
 ## Citatos
 
 - id: c-43760
@@ -169,7 +195,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-43761
@@ -229,7 +255,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-43763
@@ -245,7 +271,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167187
@@ -302,7 +328,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167188
@@ -320,7 +346,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171695
@@ -343,7 +369,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171696
@@ -366,8 +392,79 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-190671
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 275"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 275."
+  citata_originali: |
+    Statybų vajus buvo susijęs su tuo metu rengiamais miestų
+    „reguliavimo planais", t. y. gatvių ir pastatų dnklas organizuotas į taisyklingus
+    kvartalus, kuriuos stengtasi telkti pagal funkcijas ir komponuoti pasitelkiant
+    architektūrinius urbanistinės erdvės akcentus. Įvairios paskirties aikščių sistemoje
+    viena buvo skiriama turgui su rotuše ir krautuvėmis, tarp tokios aikštės pastatų
+    vyravo komercinės paskirties stanniai. Dambės, Klodavos, Kolo, Konino, Pšede-
+    čo, Lovičiaus, Prienų, Marijampolės, Kalvarijos rotušėms statytojai vis dar skyrė
+    ypatingą dėmesį, tačiau laikytasi funkcionalumo programos - ekonomiškumo ir
+    atitikties paskirčiai: statytos standartinio pobūdžio rotušės - nesudėtingas tūris,
+    į kurį integruotos krautuvės, taupus lakoniškas dekoras, pagrindiniame fasade -
+    kolonų portikas ir bokštas su apžvalgos aikštele ašyje.
+  citata_rodoma: "Dambės, Klodavos, Kolo, Konino, Pšede-\nčo, Lovičiaus, Prienų, Marijampolės, Kalvarijos rotušėms statytojai vis dar skyrė \nypatingą dėmesį, tačiau laikytasi funkcionalumo programos - ekonomiškumo ir \natitikties paskirčiai: statytos standartinio pobūdžio rotušės - nesudėtingas tūris, \nį kurį integruotos krautuvės, taupus lakoniškas dekoras, pagrindiniame fasade -\nkolonų portikas ir bokštas su apžvalgos aikštele ašyje."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208179
+
+- id: c-199820
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
+  citata_originali: |
+    Už Tilžės, žemiau Vingio (Winge) dvaro, prie
+    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
+    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
+    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
+    (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
+    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
+    Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­
+    rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
+    17 Stender.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200547
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
+  citata_originali: |
+    Šiuo atveju, kadangi tokių atsitikimų dažniausiai
+    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
+    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
+    sako, kad tai būdavo daroma niekam nematant. Vieną tokį
+    laužą pats mačiau kairiajame Nemuno krante, prie kelio iš
+    Kauno į Prienus, važiuodamas per Išlaužą. Jis yra kairiojoje
+    kelio pusėje, pamiškėje, prie pat vieškelio; kiekvienas žmo­
+    gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
+    turi rūpestingai užmesti ant jo kokią nors šakelę.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216155
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/P. Liatukas]]

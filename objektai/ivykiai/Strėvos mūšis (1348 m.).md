@@ -175,7 +175,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-11916
@@ -200,7 +200,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-11917
@@ -219,11 +219,12 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje.
   citata_rodoma: "1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis\nVinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur\npagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-\ntas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti\nbuvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.\nJie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.\nJ, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-11918
@@ -245,11 +246,12 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     liojo į talką Ordinui žygiuose prieš Lietuvą.
   citata_rodoma: "Taigi Strėvos mūšis, kad ir patyrus nuos-\ntolių, įnešė savo indėlį atremiant galingą\nOrdino spaudimą plataus Lietuvos gyny-\nbinio karo sąlygomis."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188825
@@ -272,7 +274,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 ## Ryšiai

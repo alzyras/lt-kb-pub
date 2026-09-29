@@ -88,7 +88,7 @@ Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

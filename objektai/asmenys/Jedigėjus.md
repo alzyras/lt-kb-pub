@@ -90,7 +90,7 @@ Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

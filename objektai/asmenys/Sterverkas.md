@@ -56,6 +56,16 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
   pagrindžia:
     - c-174864
 
+<a id="claim-t-213481"></a>
+- t-213481
+  teiginys: "Sklinda garsūs senoviniai skandinavų padavimai apie didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka ringumo žmogus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Citatos
 
 - id: c-174864
@@ -81,7 +91,7 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

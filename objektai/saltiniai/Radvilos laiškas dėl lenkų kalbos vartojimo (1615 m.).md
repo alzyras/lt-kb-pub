@@ -81,5 +81,6 @@ Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

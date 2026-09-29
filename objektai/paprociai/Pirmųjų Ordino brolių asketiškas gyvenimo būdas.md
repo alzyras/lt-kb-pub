@@ -72,5 +72,6 @@ Kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius kaip atsisak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

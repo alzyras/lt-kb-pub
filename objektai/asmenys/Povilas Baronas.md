@@ -31,14 +31,13 @@ canonical_biography: "Povilas Baronas-Briedis vadovavo Briedžio partizanų skyr
 
 Povilas Baronas-Briedis vadovavo Briedžio partizanų skyriui, kurį sudarė 7 partizanai, 2 ryšininkai ir 4 partizanų rėmėjai.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Povilas Baronas-Briedis vadovavo Briedžio partizanų skyriui, kurį sudarė 7 partizanai, 2 ryšininkai ir 4 partizanų rėmėjai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213298
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 289"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 289."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

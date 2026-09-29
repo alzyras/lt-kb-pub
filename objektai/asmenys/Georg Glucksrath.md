@@ -74,9 +74,11 @@ Georg Glucksrath buvo Karaliaučiaus senojo miesto burmistras ir 1485 m. kovo 14
     117, 173,318, 330, 521; 1465 m. miesto raštininkas, Acten, Bd. 5, Nr. 57, S. 156; 1485 03 14 dalyvavo
     kartu su Daniclu von Kunhcimu pasiuntinybėje pas Kazimierą Jogailaitį, ten pat, Nr. 130, p. 392.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

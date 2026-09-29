@@ -42,24 +42,6 @@ canonical_biography: "Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m.
 
 Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia Christiana sive de introductione religionis Christiane in Prussia“.
 
-## Teiginiai
-
-<a id="claim-t-191632"></a>
-- t-001
-  teiginys: "Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia Christiana sive de introductione religionis Christiane in Prussia“."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1738 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis sakinys apie Andriui Sotui priskiriamą veikalą. Citatoje esantis kataloginis formatas jau perrašytas į rišlų sakinį."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-174514
-
 ## Citatos
 
 - id: c-174514
@@ -82,5 +64,4 @@ Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia C
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

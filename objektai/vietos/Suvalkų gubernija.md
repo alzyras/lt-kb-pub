@@ -64,6 +64,46 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   pagrindžia:
     - c-18350
 
+<a id="claim-t-207609"></a>
+- t-207609
+  teiginys: "Suvalkų gubernija buvo suformuota 1867 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1867 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas perteklinis įvadinis žodis ir išlaikytas tiesioginis faktinis teiginys. Kitų faktų nepridėta."
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190226
+
+<a id="claim-t-209646"></a>
+- t-209646
+  teiginys: "Kauno inteligentai suprato, kad delegatai atvyko iš Amerikos, o ne iš Suvalkų gubernijos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192266
+
+<a id="claim-t-209647"></a>
+- t-209647
+  teiginys: "Smetoną Vilniaus ir Suvalkų gubernijoj, o p. Banaitį Kaimo gub."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192267
+
 ## Citatos
 
 - id: c-18350
@@ -85,8 +125,69 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190226
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 210"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 210."
+  citata_originali: |
+    Būtent šiame kontekste reikia
+    matyti ir 1863 m. Michailo Muravjovo planus iš Augustavo gubernijos išskirti lietuviakalbę
+    dalį (Suvalkiją), kuri esanti labiau „žemaitiška“ nei lenkiška, priskirti ją prie Lietuvos, o ne
+    prie Lenkijos. Kaip žinoma, Suvalkų gubernija ir buvo suformuota 1867 m., o tai užbaigė
+    reikšmingų ir kol kas lietuvių istorinėje sąmonėje per mažai sureikšmintų faktų grandinę:
+    1864 m. „depolonizacijos“ politikos Lietuvoje projektai ir „rusų pradų“ atkūrimo programa;
+    1864 m. rugsėjo 11 d. Lenkijos karalystėje (t. y. Užnemunėje) leidžiama steigti lietuviškas
+    mokyklas.
+  citata_rodoma: "Kaip žinoma, Suvalkų gubernija ir buvo suformuota 1867 m."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207609
+
+- id: c-192266
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 45"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 45."
+  citata_originali: |
+    Kitą dieną vakare atsirado Kau­
+    ne ir mano draugas.
+    Tuomet ir Kauno inteli­
+    gentai įsitikrino, kad ištikro atvažiuota delega­
+    tų iš Amerikos, bet ne iš Suvalkų gubernijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209646
+
+- id: c-192267
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 52"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 52."
+  citata_originali: |
+    In-
+    galiojome p. A. Smetoną Vilniaus ir Suvalkų
+    gubernijoj,
+    o p. Banaitį
+    Kaimo gub.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209647
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuvos Užnemunė]]

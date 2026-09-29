@@ -195,6 +195,18 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   pagrindžia:
     - c-174040
 
+<a id="claim-t-210439"></a>
+- t-210439
+  teiginys: "Narbutas teigia, kad karalius Teodorikas Didysis užkariavo Romą ir visą Italiją."
+  atnaujinta: "2026-09-20 00:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195833
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Teodoriko žygyje į Italiją dalyvavo kariai su šeimomis ir manta, taip pat įvairūs kolonistai, keliavę į Italijos kraštą.'
@@ -248,7 +260,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174035
@@ -270,7 +282,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174036
@@ -297,7 +309,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-174037
@@ -320,7 +332,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-174038
@@ -353,7 +365,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-007
 
@@ -379,9 +391,112 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-008
+
+- id: c-194942
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
+  citata_originali: |
+    Galop jis slapta susitarė su Teodo-
+    riku, pasikliaudamas pažadais, o gal vildamasis sukelti
+    barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
+    atsirastų proga pašalinti juos abu, be to, jis leido ostro-
+    gotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai
+    perprato ketinimus visuomet klastingo Zenono, kuris jau
+    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
+    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
+    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
+    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
+    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
+    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
+    klausė Mezijoje. Tariamomis žygio priežastimis tapo
+    kerštas už padarytą rugiams skriaudą ir vykdymas įsa­
+    kymų Zenono, kuris tuomet buvo laikomas imperatoriumi
+    visos Romos valstybės, buvusios iki jos pasidalijimo į
+    Rytų ir Vakarų imperijas; kartu jis turėjo teisę savo nuo­
+    žiūra skirti vietininkus Italijoje ir nušalinti jam neįtin­
+    kančius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195231
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  citata_originali: |
+    Tik žinoma tai, kad Teodorikas paža­
+    dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
+    net tam tikrą valdžios dalį Italijoje arba patikėjo jam
+    tam tikras valdas. Odoakras patikėjo gotų karaliui savo
+    sūnų Telaną. Bet jis, trokšdamas vienvaldystės ir kupi­
+    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
+    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
+    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
+    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
+    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
+    dieną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195833
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 88"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 88."
+  citata_originali: |
+    Istorijos vėl pradeda aprašinėti karines pergales
+    ostgotų, vestgotų ir jų sąjungininkų, iš dalies išlaisvintų
+    iš hunų priklausomybės, iš dalies išeinančių iš savo slėp­
+    tuvių imperijoje ir ateinančių į Pietų Europą iš gimtų
+    gyvenamųjų vietovių. Vėl suspindo gotų šlovės žvaigždė,
+    valdant karaliui Teodorikui Didžiajam, kuris užkariavo
+    Romą ir visą Italiją, sudrebino visą Vakarų Europą ir tu­
+    rėjo įtaką Siaurės Vakarų kraštams. Po šio valdovo mir­
+    ties gotų galybė ėmė smukti; įvairios smulkios jų dalys,
+    krikščionybės švelniai laiminamos, virto šių laikų Euro­
+    pos tautomis, pamažu atsikratančiomis barbariškumo.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210439
+
+- id: c-196812
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 318."
+  citata_originali: |
+    322
+    Tuo metu ostrogotus1 2 valdė Teodorikas, ne tik retų
+    bruožų, bet ir gudrus, godus, sumanus žmogus, ištroškęs
+    valdžios ir turtų. Dažnos pergalės ir kovingumas darė jį
+    to amžiaus pirmuoju riteriu. Jis, sužinojęs apie O-doak-
+    ro karo žygius ir dorybingumą, apimtas karo šlovės įkarš­
+    čio, tuometiniu riteriškumo papročiu, apdovanojęs jį šar­
+    vais ir ginklais, paskelbė riterio sūnumi, prisiimdamas
+    atitinkamų įsipareigojimų3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Teodorikas Didysis užkariavo [[objektai/vietos/Italija]]

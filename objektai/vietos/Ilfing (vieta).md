@@ -74,5 +74,6 @@ Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaič
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

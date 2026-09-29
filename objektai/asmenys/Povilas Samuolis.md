@@ -31,26 +31,35 @@ canonical_biography: "Povilas Samuolis-Šimkus, Antano, gimė 1920 m. Bagdonišk
 
 Povilas Samuolis-Šimkus, Antano sūnus, 1920 m. gimė ir gyveno Bagdoniškių kaime, Subačiaus valsčiuje, 1941 m. dalyvavo sukilime Subačiaus geležinkelio stotyje, o 1944 m. pasitraukė su vokiečiais. Povilo Samuolio-Juodo Pono partizanų grupėje Subačiaus valsčiuje buvo septyni partizanai. Povilas Samuolis, kurį kronika vadina „Juodu Ponu“, 1944 m. pasitraukė su vokiečiais, baigė diversinės žvalgybos mokyklą, su Antano Šilo-Kovo grupe parašiutu nuleistas į Geležių kaimą ir tapo partizanų būrio vadu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Povilas Samuolis-Šimkus, Antano sūnus, 1920 m. gimė ir gyveno Bagdoniškių kaime, Subačiaus valsčiuje, 1941 m. dalyvavo sukilime Subačiaus geležinkelio stotyje, o 1944 m. pasitraukė su vokiečiais.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 37"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Povilo Samuolio-Juodo Pono partizanų grupėje Subačiaus valsčiuje buvo septyni partizanai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 167"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-231788"></a>
+- t-001
+  teiginys: "Povilas Samuolis-Šimkus, Antano sūnus, 1920 m. gimė ir gyveno Bagdoniškių kaime, Subačiaus valsčiuje, 1941 m. dalyvavo sukilime Subačiaus geležinkelio stotyje, o 1944 m. pasitraukė su vokiečiais."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:02Z"
+  pagrindžia:
+    - c-212426
+
+<a id="claim-t-231789"></a>
+- t-002
+  teiginys: "Povilo Samuolio-Juodo Pono partizanų grupėje Subačiaus valsčiuje buvo septyni partizanai."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:02Z"
+  pagrindžia:
+    - c-212427
+
+## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Povilas Samuolis, kurį kronika vadina „Juodu Ponu“, 1944 m. pasitraukė su vokiečiais, baigė diversinės žvalgybos mokyklą, su Antano Šilo-Kovo grupe parašiutu nuleistas į Geležių kaimą ir tapo partizanų būrio vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
@@ -60,3 +69,29 @@ Povilas Samuolis-Šimkus, Antano sūnus, 1920 m. gimė ir gyveno Bagdoniškių k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-212426
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 37"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 37."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-212427
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 167"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 167."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

@@ -31,32 +31,22 @@ canonical_biography: "Plane nurodoma, kad Starkus paskyrė Zdanauskui rinkti ži
 
 1946 m. gruodžio 18 d. Obonių kaime Jaroslavas Zdanauskas sutiko bendradarbiauti su Starkumi LLA naudai ir gavo užduotį rinkti žinias apie numatomas karines operacijas, į Šimonių valsčių atvykstančius aukštus pareigūnus bei įgulos narių skaičių. Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ liudijimo autorius Jaroslavą Zdanauską laikė sąmoningu MGB užduoties vykdytoju; MGB poskyrio viršininkas jam liepė Starkų suimti gyvą arba nušauti. 1947 m. gegužės 15 d., nepavykus sunaikinti Antano Starkaus partizanų junginio, Jaroslavas Zdanauskas perkeltas iš MGB Šimonių valsčiaus poskyrio į MGB Lazdijų apskrities skyrių operatyvinio įgaliotinio pareigoms.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1946 m. gruodžio 18 d. Obonių kaime Jaroslavas Zdanauskas sutiko bendradarbiauti su Starkumi LLA naudai ir gavo užduotį rinkti žinias apie numatomas karines operacijas, į Šimonių valsčių atvykstančius aukštus pareigūnus bei įgulos narių skaičių.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213049
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 173"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 173."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ liudijimo autorius Jaroslavą Zdanauską laikė sąmoningu MGB užduoties vykdytoju; MGB poskyrio viršininkas jam liepė Starkų suimti gyvą arba nušauti.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 191"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: '1947 m. gegužės 15 d., nepavykus sunaikinti Antano Starkaus partizanų junginio, Jaroslavas Zdanauskas perkeltas iš MGB Šimonių valsčiaus poskyrio į MGB Lazdijų apskrities skyrių operatyvinio įgaliotinio pareigoms.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  atnaujinta: "2026-09-28 17:37"
+
+- id: c-213050
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 192"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 192."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

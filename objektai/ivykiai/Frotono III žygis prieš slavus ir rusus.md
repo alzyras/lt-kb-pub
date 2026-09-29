@@ -69,5 +69,6 @@ Frotonas III pirmiausia kariavo su slavais, kurių karvedys Strunikas buvo nukau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

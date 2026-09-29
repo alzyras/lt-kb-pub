@@ -229,6 +229,18 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   pagrindžia:
     - c-188898
 
+<a id="claim-t-210862"></a>
+- t-210862
+  teiginys: "O tas jo etmonas tai buvo Goštautas2 iš Stulpų gi minės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193526
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
@@ -298,7 +310,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -322,7 +334,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-104972
@@ -380,7 +392,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-104973
@@ -411,7 +423,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-168068
@@ -436,11 +448,12 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-168069
@@ -470,7 +483,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-168070
@@ -500,7 +513,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-188897
@@ -520,7 +533,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-188898
@@ -539,8 +552,28 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-193526
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 62"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 62."
+  citata_originali: |
+    Gediminas greitai nespėjo sušaukti savo kariuome­
+    nės, pasiuntė savo didįjį etmoną su nedideliu karių
+    būriu į Kauną, sustiprindamas jo gynimą nuo vokiečių.
+    O tas jo etmonas tai buvo Goštautas2 iš Stulpų gi­
+    minės
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210862
 
 ## Ryšiai
 - Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -7,12 +7,12 @@ datos:
   - '1947 m.'
 date_start: '1947'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,14 +43,13 @@ canonical_biography: "1947 m. gruodžio 24–25 d. operacijos metu Jono Kuliuko 
 
 1947 m. gruodžio 24–25 d. operacijos metu Jono Kuliuko namuose Mirabelio kaime nušautas partizanų grupės vadas Aleksas Daukas-Onytė.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1947 m. gruodžio 24–25 d. operacijos metu Jono Kuliuko namuose Mirabelio kaime nušautas partizanų grupės vadas Aleksas Daukas-Onytė.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-212901
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 253"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 253."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

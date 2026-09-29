@@ -38,44 +38,29 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 
 ## Teiginiai
 
-<a id="claim-t-41200"></a>
-- t-001
-  teiginys: "1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą."
-  atnaujinta: "2026-07-10 10:39"
+<a id="claim-t-230517"></a>
+- t-230517
+  teiginys: "1950 m. Vaižganto rinktinė buvo įtraukta į Vytauto apygardą."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algimanto apygarda: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto apygarda: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Algimanto apygarda: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto apygarda\" parinktas kaip owner_note_path. Targetas \"Algimanto apygarda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti datą ir palikti aiškų faktą apie Vytauto apygardą."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
   pagrindžia:
-    - c-44871
+    - c-211155
 
-<a id="claim-t-41201"></a>
-- t-002
-  teiginys: "1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių."
-  atnaujinta: "2026-07-10 10:39"
+<a id="claim-t-230520"></a>
+- t-230520
+  teiginys: "Vaižganto rinktinė priklausė Vytauto apygardai."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prisikėlimo apygarda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto apygarda: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prisikėlimo apygarda: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto apygarda\" parinktas kaip owner_note_path. Targetas \"Prisikėlimo apygarda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1951 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Vytauto apygardos štabo narių žūtį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
   pagrindžia:
-    - c-44872
+    - c-211158
 
 ## Citatos
 
@@ -98,8 +83,6 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-44872
   sudarytojas: "Karolis Zikaras"
@@ -129,6 +112,28 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-211155
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 26"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 26."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
   pagrindžia:
-    - t-002
+    - t-230517
+
+- id: c-211158
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 416"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 416."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230520
 

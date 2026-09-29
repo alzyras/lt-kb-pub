@@ -76,5 +76,6 @@ XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

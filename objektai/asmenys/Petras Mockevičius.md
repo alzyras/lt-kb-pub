@@ -7,12 +7,12 @@ datos:
   - '1948 m.'
 date_start: '1948'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,32 +43,22 @@ canonical_biography: "1948 m. sausio 3 d. per kautynes Duoniūnų kaime žuvo Pe
 
 1948 m. sausio 3 d. per kautynes Duoniūnų kaime žuvo Petras Mockevičius-Petriškevičius. Petras Mockevičius-Petriškevičius buvo Vytenio būrio vado pavaduotojas ir žuvo 1948 m. sausio 3 d. prie Duoniūnų kapinių. 1948 m. sausio 3 d. prie Duoniūnų kapinių žuvo Petras Mockevičius-Petriškevičius.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1948 m. sausio 3 d. per kautynes Duoniūnų kaime žuvo Petras Mockevičius-Petriškevičius.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 253"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Petras Mockevičius-Petriškevičius buvo Vytenio būrio vado pavaduotojas ir žuvo 1948 m. sausio 3 d. prie Duoniūnų kapinių.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213269
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 271"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 271."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: '1948 m. sausio 3 d. prie Duoniūnų kapinių žuvo Petras Mockevičius-Petriškevičius.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  atnaujinta: "2026-09-28 17:38"
+
+- id: c-213270
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 278"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 278."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

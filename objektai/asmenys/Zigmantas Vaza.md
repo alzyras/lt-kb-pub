@@ -186,6 +186,30 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   pagrindžia:
     - c-184910
 
+<a id="claim-t-82984"></a>
+- t-82984
+  teiginys: "Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m."
+  atnaujinta: "2026-09-24 22:30"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-79402
+    - c-79405
+
+<a id="claim-t-207441"></a>
+- t-207441
+  teiginys: "Savarankiškos LDK monetos, atskirai vaizduojančios Vytį, buvo kaldinamos Zigmanto Vazos ir Jono Kazimiero laikais."
+  atnaujinta: "2026-09-24 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
+  pagrindžia:
+    - c-190027
+
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Savarankiškos LDK monetos, atskirai vaizduojančios Vytį, buvo kaldinamos Zigmanto Vazos ir Jono Kazimiero laikais.'
@@ -222,7 +246,7 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-79402
@@ -242,6 +266,9 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-82984
+
 - id: c-79403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -260,7 +287,7 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-79405
@@ -278,8 +305,9 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-82984
 
 - id: c-176844
   autorius: "Michał Baliński"
@@ -302,7 +330,7 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184906
@@ -320,7 +348,7 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184907
@@ -338,7 +366,7 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184908
@@ -353,7 +381,7 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-184909
@@ -371,7 +399,7 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-184910
@@ -388,8 +416,31 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-190027
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 48"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 48."
+  citata_originali: |
+    Žygimanto Augusto kaldintos plataus
+    nominalų spektro monetos: smulkios – obolai, denarai, dvidenariai, pusgrašiai, grašiai bei
+    vidutinės – antrokai, trečiokai, ketvirtokai, šeštokai, taleriai arba auksinai.
+    Liublino unijos aktais buvo numatyta suvienodinti LDK pinigų vertę su Lenkijos, tai
+    ir padarė Steponas Batoras 1580 m. – taip buvo įvesta bendra su Lenkija pinigų sistema.
+    Ant LDK monetų atsirado LDK žemės iždinininkų herbiniai ženklai, o savarankiškos LDK
+    monetos, ant kurių dar atskirai galima išvysti Vytį, kaldintos Zigmanto Vazos ir Jono
+    Kazimiero laikais.
+  citata_rodoma: "Ant LDK monetų atsirado LDK žemės iždinininkų herbiniai ženklai, o savarankiškos LDK \nmonetos, ant kurių dar atskirai galima išvysti Vytį, kaldintos Zigmanto Vazos ir Jono \nKazimiero laikais."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207441
 
 ## Ryšiai
 - Zigmantas Vaza keliavo į [[objektai/vietos/Švedija]]

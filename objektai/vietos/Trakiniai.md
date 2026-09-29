@@ -81,7 +81,7 @@ TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

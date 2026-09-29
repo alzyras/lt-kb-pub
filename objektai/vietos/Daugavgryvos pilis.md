@@ -81,5 +81,6 @@ Kai ordinui pa­ vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

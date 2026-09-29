@@ -98,7 +98,7 @@ canonical_biography: "Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169520
@@ -119,7 +119,7 @@ canonical_biography: "Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

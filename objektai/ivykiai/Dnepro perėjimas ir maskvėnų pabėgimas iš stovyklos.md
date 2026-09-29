@@ -40,46 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-185561"></a>
-- t-001
-  teiginys: "Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168922
-
-<a id="claim-t-185563"></a>
-- t-002
-  teiginys: "Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168924
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą.'
@@ -176,8 +136,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-168924
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -204,5 +162,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+

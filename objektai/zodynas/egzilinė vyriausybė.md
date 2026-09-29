@@ -79,5 +79,6 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

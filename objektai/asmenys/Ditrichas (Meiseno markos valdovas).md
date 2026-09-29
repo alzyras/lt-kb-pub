@@ -88,7 +88,7 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

@@ -78,5 +78,6 @@ canonical_biography: "1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

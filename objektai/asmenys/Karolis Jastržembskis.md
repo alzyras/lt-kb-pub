@@ -88,5 +88,6 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

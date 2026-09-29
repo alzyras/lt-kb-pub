@@ -82,7 +82,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

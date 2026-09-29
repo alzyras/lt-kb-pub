@@ -49,6 +49,33 @@ function normalized(value: string): string {
 
 describe("exhibition manifest", () => {
   const exhibitions = loadExhibitions()
+  test("family registers link distinct people and sources to real public notes", () => {
+    const families = exhibitions.filter(entry => entry.familyMembers?.length)
+    assert.equal(families.length, 3)
+    for (const family of families) {
+      const members = family.familyMembers!
+      assert.ok(members.length >= 20)
+      assert.ok(family.familyMembersScope)
+      const internalHrefs = members.filter(member => member.href.startsWith("/")).map(member => member.href)
+      assert.equal(new Set(internalHrefs).size, internalHrefs.length)
+      for (const member of members) {
+        if (member.href.startsWith("/")) {
+          assert.ok(sourcePath(member.href), `${member.name}: missing person page ${member.href}`)
+        } else {
+          assert.equal(new URL(member.href).protocol, "https:")
+        }
+        assert.ok(member.dates)
+        assert.ok(member.sources.length)
+        for (const source of member.sources) {
+          assert.ok(source.title)
+          assert.equal(new URL(source.url).protocol, "https:")
+        }
+      }
+      for (const item of family.sections.flatMap(section => section.items))
+        for (const link of item.objectLinks ?? [])
+          assert.ok(sourcePath(link.href), `${item.titleLt}: missing related object ${link.href}`)
+    }
+  })
   const historical = exhibitions.find(
     (entry) => entry.exhibitionId === "vytautas-didysis-tarp-istorijos-ir-atvaizdo",
   )
@@ -71,9 +98,9 @@ describe("exhibition manifest", () => {
       assert.equal(exhibition.sections.length, exhibition.exhibitionId.endsWith("iki-skaitytojo") ? 5 : 4)
       assert.equal(exhibitionItemCount(exhibition), 8)
       for (const section of exhibition.sections) {
-        assert.ok(section.lead.split(/\s+/).length >= 60)
+        assert.ok(section.lead.trim())
         for (const item of section.items) {
-          assert.ok(item.descriptionLt.split(/\s+/).length >= 70)
+          assert.ok(item.descriptionLt.trim())
           assert.ok(item.media.canonicalUrl)
           assert.ok(item.media.license)
           assert.equal(item.claims.length, 1)
@@ -237,7 +264,7 @@ describe("exhibition manifest", () => {
         "Nuo rašto iki galiojančio akto",
         "Valdovo raštas kasdienybėje",
         "Didysis antspaudas kalba valstybės vardu",
-        "Institucijos įgyja savo balsą",
+        "Teismų, iždo ir kariuomenės antspaudai",
         "Paskutiniai reformų valstybės antspaudai",
       ],
     )

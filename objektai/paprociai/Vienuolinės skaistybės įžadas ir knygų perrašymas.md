@@ -73,5 +73,6 @@ Toji duktė davė įžadą, kad liksianti ligi mirties skaisti, ir tapo šventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

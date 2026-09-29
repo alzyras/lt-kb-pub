@@ -58,6 +58,18 @@ Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupi
   pagrindžia:
     - c-174261
 
+<a id="claim-t-215764"></a>
+- t-215764
+  teiginys: "Boristenė, pasak šio pasakojimo, pagimdė Targitą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196677
+
 ## Citatos
 
 - id: c-174261
@@ -83,8 +95,34 @@ Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196677
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
+  citata_originali: |
+    Si tauta buvo didelė ir galinga, ją
+    valdė karaliai, ji turėjo savo įstatymų, mūrinių pilių ir
+    įžymių karalių kapinių, kurios buvo kažkur prie Dnest­
+    ro1. Tai būtent juos turėjęs valdyti karalius Borėjas, įžy­
+    mus esančio į šiaurę nuo Graikijos krašto valdovas, kurio
+    dukra Boristenė2 pagimdė Targitą, Jupiterio sūnų, pasak
+    graikų padavimų, pirmą tikrųjų skitų karalių arba vei­
+    kiau pirmą valdovą karališkos skitų kolonijos, valdžiu­
+    sios kitas savo genčių kartas. Jiems priklausiusi skitų
+    gentis, vadinama borestenitais, neabejotinai buvo ta, ku­
+    ri davė pradžią karališkiesiems skitams, turėjusiems se­
+    novės kimbrų miestą Boristenį.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215764
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Borėjas]]

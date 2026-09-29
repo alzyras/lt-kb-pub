@@ -84,7 +84,7 @@ canonical_biography: "146 - prieraš.) pasakoja, kad 1432 metais vietininkai Joa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

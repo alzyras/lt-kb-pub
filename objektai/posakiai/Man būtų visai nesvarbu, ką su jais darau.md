@@ -27,24 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsakydavo: „Man būtų visai nesvarbu, ką su jais darau, jeigu nerūpėtų, kad būčiau jų sužeistas penkiomis žaizdomis, kaip už mane buvo sužeistas Kristus“.
 
-## Teiginiai
-
-<a id="claim-t-59126"></a>
-- t-001
-  teiginys: "Brolis Ulrichas aiškino savo įtūžį prieš sūduvius noru būti jų sužeistam penkiomis žaizdomis kaip Kristus."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sūduviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Man būtų visai nesvarbu, ką su jais darau: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Sūduviai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Man būtų visai nesvarbu, ką su jais darau\" parinktas kaip owner_note_path. Targetas \"Sūduviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59758
-
 ## Citatos
 
 - id: c-59758
@@ -69,5 +51,4 @@ Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

@@ -2,7 +2,6 @@
 tipas: vieta
 pavadinimas: 'Kupiškio valsčius'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
@@ -34,6 +33,10 @@ historical_names: []
 
 Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. Juozo Jankausko-Pilsudskio būrys veikė Skapiškio, Kupiškio ir Aukštupėnų valsčiuose, o Kupiškio valsčiuje turėjo bunkerius Mirabelio miške ir Leono Stančiko sodyboje Naiviuose. Kupiškio valsčiuje nuo seno buvo paplitę įvairūs styginiai, saviskambiai instrumentai ir membranofonai.
 
+## Santrauka
+
+Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. Juozo Jankausko-Pilsudskio būrys veikė Skapiškio, Kupiškio ir Aukštupėnų valsčiuose, o Kupiškio valsčiuje turėjo bunkerius Mirabelio miške ir Leono Stančiko sodyboje Naiviuose. Kupiškio valsčiuje nuo seno buvo paplitę įvairūs styginiai, saviskambiai instrumentai ir membranofonai.
+
 ## Teiginiai
 
 <a id="claim-t-226124"></a>
@@ -48,6 +51,58 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   vertinimo_atnaujinta: "2026-09-23T18:02:06Z"
   pagrindžia:
     - c-206640
+
+<a id="claim-t-230627"></a>
+- t-230627
+  teiginys: "1914 m. Kupiškio valsčiaus Astravų kaime gimęs Povilas Laužikas-Liudas 1944 m., pasitraukus vokiečiams, įstojo į Albino Tindžiulio-Dėdės partizanų junginį, veikusį Vabalninko ir Kupreliškio valsčiuose."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211265
+
+<a id="claim-t-230628"></a>
+- t-230628
+  teiginys: "Ginkluoto pasipriešinimo metu Bronius Navarskas, gyvenęs Siaurių kaime Kupiškio valsčiuje, buvo suimtas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211266
+
+<a id="claim-t-230629"></a>
+- t-230629
+  teiginys: "1921 m. Likalaukių kaime, Kupiškio valsčiuje, gimęs Tautvilis Vaitiekūnas-Zubrys (Vėjelis) partizanu tapo 1944 m."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211267
+
+<a id="claim-t-230631"></a>
+- t-230631
+  teiginys: "Kupiškio valsčiuje buvo viena karinė grupė, kurią sudarė 15 kareivių."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:16Z"
+  pagrindžia:
+    - c-211269
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,51 +138,6 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-005
-  santrauka: '1914 m. Kupiškio valsčiaus Astravų kaime gimęs Povilas Laužikas-Liudas 1944 m., pasitraukus vokiečiams, įstojo į Albino Tindžiulio-Dėdės partizanų junginį, veikusį Vabalninko ir Kupreliškio valsčiuose.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 289"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-006
-  santrauka: 'Ginkluoto pasipriešinimo metu Bronius Navarskas, gyvenęs Siaurių kaime Kupiškio valsčiuje, buvo suimtas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 290"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-007
-  santrauka: '1921 m. Likalaukių kaime, Kupiškio valsčiuje, gimęs Tautvilis Vaitiekūnas-Zubrys (Vėjelis) partizanu tapo 1944 m.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 290"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-008
-  santrauka: 'Ona Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ MGB Kupiškio valsčiaus poskyriui priskiriama 11 partizanų (tarp jų 2 vadų) nušovimas ir 2 partizanų, ryšininko bei 2 rėmėjų suėmimas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 339"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-009
-  santrauka: 'Kupiškio valsčiuje buvo viena karinė grupė, kurią sudarė 15 kareivių.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 339"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-206640
@@ -139,5 +149,54 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-211265
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 289"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 289."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230627
+
+- id: c-211266
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 290"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 290."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230628
+
+- id: c-211267
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 290"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 290."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230629
+
+- id: c-211269
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 339"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 339."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230631
+

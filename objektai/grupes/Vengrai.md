@@ -134,7 +134,7 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66562
@@ -163,7 +163,7 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167947
@@ -187,8 +187,36 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-206084
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
+  citata_originali: |
+    Apie dievo kerštą
+
+      Tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didžiausia kariuomene
+    patraukė prieš vieną karalių, jam pavaldų. Kai  jis brovėsi  į jo karalystę, to krašto
+    kaimiečiai su pjūklais taip papjovė medžius miškuose, kuriais turėjo vengrai grįždami
+    žygiuoti, kad vienas medis griūdamas parblokštų kitą ir taip toliau. Todėl, kai vengrai
+    grįždami įėjo  į šį mišką, mūsų jau minėti kaimiečiai pajudino medžius, o tie, griūdami
+    vienas ant kito iš vienos ir kitos pusės, nuslėgė galybę vengrų. Vis dėlto dievas, būdamas
+    ir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak
+    pranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo
+    nedraugams, ir jis rūstinasi ant savo priešų” (Nah 1, 2). Argi tad galėjo viešpats kantriai
+    ir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei
+    jo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo
+    turtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias. Kad ir kaip ten būtų buvę,
+    viešpats negalėjo nekeršyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lietuviai]]

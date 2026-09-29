@@ -46,26 +46,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 
 ## Teiginiai
 
-<a id="claim-t-60410"></a>
-- t-001
-  teiginys: "1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pilypas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Pilypas atvyko į Prūsiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pilypas keliavo į Prūsija (0.93)"
-  temporaliniai_duomenys: "kelionės data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Pilypą, bet pradinė formuluotė per ilga."
-  pagrindžia:
-    - c-61042
-
 <a id="claim-t-190949"></a>
 - t-002
   teiginys: "358 m. pr. Kr. Pilypo valdoma Makedonija, anot Narbuto, didino politinę įtaką Graikijoje, kurią pajuto su graikų kolonistais susijusios Skitijos tautos."
@@ -100,6 +80,18 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184372
+
+<a id="claim-t-213083"></a>
+- t-213083
+  teiginys: "358 m. pr. Kr. didėjo Pilypo valdomos Makedonijos politinė įtaka ir galia Graikijos atžvilgiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196898
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,8 +141,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173831
   autorius: "Teodoras Narbutas"
@@ -180,7 +170,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184372
@@ -204,8 +194,39 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-196898
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
+  citata_originali: |
+    Jiems giminin­
+    gi trakai taip pat IV amžiuje prieš Kristaus giminių
+    prasibrovė nuo Dunojaus pusės j Skitiją ir gal ilgam
+    būtų įkūrę ten savo valstybę, jei 390 metais nebūtų buvę
+    sutriuškinti galų. Vėliau, 358 metais prieš Kristaus gi­
+    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
+    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
+    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
+    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
+    įtaką. Tačiau jie pakentė tai neilgai, nes istorijoje ran­
+    dame prisiminimų apie skitų genčių susidūrimą su Pi­
+    lypo sūnumi ir įpėdiniu Aleksandru; kaunantis Sapiriono
+    vadovaujama kariuomenė prarado 30 000 karių1, bet bu­
+    vo priversta prašyti Aleksandro taikos ir santarvės, o
+    vėliau, kai pagarsėjo šaunus šio monarcho žygis į Aziją,
+    skitai taip ir liko priklausomi nuo Makedonijos galybės
+    ir buvo tolydžio puldinėjami Uždonės tautų2.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213083
 
 ## Ryšiai
 - Pilypas keliavo į [[objektai/vietos/Prūsija]]

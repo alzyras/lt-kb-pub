@@ -83,5 +83,6 @@ Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

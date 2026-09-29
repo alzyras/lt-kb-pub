@@ -37,6 +37,7 @@ export type ExhibitionItemRelation = {
 export type ExhibitionItem = {
   rulerId?: string
   objectSlug?: string
+  objectLinks?: { title: string; href: string }[]
   narrativeParagraphs?: string[]
   externalSources?: { title: string; url: string }[]
   exhibitionItemId: string
@@ -70,6 +71,9 @@ export type ExhibitionSection = {
 }
 
 export type ExhibitionManifest = {
+  editorialProfile?: string
+  familyMembersScope?: string
+  familyMembers?: { name: string; dates: string; href: string; sources: { title: string; url: string }[] }[]
   layout?: "chronological"
   noindex?: boolean
   seo_title?: string
@@ -335,6 +339,7 @@ const exhibitionSourcePaths = [
     "quartz/static/exhibitionAuthoritySeals.json",
     "quartz/static/exhibitionValancius.json",
     "quartz/static/exhibitionRulers.json",
+    "quartz/static/exhibitionNobleFamilies.json",
 ]
 
 /** Cheap route discovery for Markdown transforms, without resolving the corpus. */

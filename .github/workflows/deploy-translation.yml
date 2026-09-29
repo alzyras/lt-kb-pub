@@ -1,0 +1,81 @@
+name: Deploy translation controls from verified Pages artifact
+
+on:
+  workflow_dispatch:
+    inputs:
+      artifact_run_id:
+        description: Successful main deployment whose verified Pages artifact is reused
+        required: true
+        type: string
+
+permissions:
+  contents: read
+  actions: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-translation
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 0
+      - name: Check release scope
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARTIFACT_RUN_ID: ${{ inputs.artifact_run_id }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$GITHUB_REF" = refs/heads/main
+          gh api "repos/$GITHUB_REPOSITORY/actions/runs/$ARTIFACT_RUN_ID" > /tmp/translation-base.json
+          python3 - <<'PY'
+          import json, os, subprocess
+          run = json.load(open('/tmp/translation-base.json'))
+          assert run['conclusion'] == 'success' and run['head_branch'] == 'main'
+          assert run['path'] == '.github/workflows/deploy.yml'
+          allowed = {
+              'quartz/components/GoogleTranslate.tsx',
+              'quartz/components/scripts/google-translate-state.ts',
+              'quartz/components/scripts/google-translate.inline.ts',
+              'quartz/util/exhibitionSlideshow.ts',
+              'scripts/deploy_translation.ts',
+              '.github/workflows/deploy-translation.yml',
+          }
+          changed = set(subprocess.check_output(
+              ['git', 'diff', '--name-only', run['head_sha'], os.environ['GITHUB_SHA']], text=True
+          ).splitlines())
+          assert changed and changed <= allowed, f'Unrelated source changes: {changed - allowed}'
+          PY
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Restore verified public artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARTIFACT_RUN_ID: ${{ inputs.artifact_run_id }}
+        run: |
+          gh run download "$ARTIFACT_RUN_ID" --repo "$GITHUB_REPOSITORY" --name github-pages --dir /tmp/verified-pages
+          mkdir public
+          tar -xf /tmp/verified-pages/artifact.tar -C public
+      - name: Update translation assets and controls
+        run: npx tsx scripts/deploy_translation.ts public
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
+        with:
+          path: public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e

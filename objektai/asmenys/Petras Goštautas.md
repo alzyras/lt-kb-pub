@@ -426,6 +426,30 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   pagrindžia:
     - c-188986
 
+<a id="claim-t-210653"></a>
+- t-210653
+  teiginys: "Neilgai trukus, didysis kunigaikštis Algirdas davė Petrui Goštautui Vilnių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193254
+
+<a id="claim-t-211371"></a>
+- t-211371
+  teiginys: "Šaltinis Petrą Goštautą vaizduoja kaip Gedimino etmoną bei Podolės Kameneco ir Vilniaus vaivadą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194028
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Petras Goštautas, Surmino brolis, žuvo pergalingoje lietuvių kovoje kartu su kitais kariais.'
@@ -516,7 +540,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-011
 
@@ -550,7 +574,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-013
 
@@ -582,7 +606,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-012
 
@@ -624,7 +648,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-010
 
@@ -651,7 +675,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-009
@@ -696,7 +720,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-008
 
@@ -727,7 +751,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-168182
@@ -763,7 +787,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-168183
@@ -789,7 +813,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-168184
@@ -812,11 +836,12 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     rankų, kai šie susiginčijo dėl belaisvio.
   citata_rodoma: "Iš pradžių Ragainės komtūras išsklaidė dar­\nbininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­\ntosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė\npradėtą pilį. Po to Prūsijos magistras užėmė ir sude­\ngino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;\ntaip pat sudegino ir užkariavo Veliuoną, neseniai pa­\nkeltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­\ntas, tačiau puolėjai prie pačių sienų sukrovė krūvą\nsausų malkų ir padegė taip, kad vėjas neštų liepsną į\npilį, daug gynėjų žuvo ugnyje. Įgulos vadas Goštautas,\nnors pats pasidavęs priešams, žuvo nuo nugalėtojų\nrankų, kai šie susiginčijo dėl belaisvio."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-188985
@@ -836,7 +861,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-188986
@@ -857,8 +882,45 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
+
+- id: c-193254
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 72."
+  citata_originali: |
+    Neilgai trukus, didysis kunigaikštis Algirdas davė
+    Petrui Goštautui Vilnių. Būdamas Vilniaus vaivada \
+    didžiajam kunigaikščiui Algirdui leidus, jis pirmą kar­
+    tą parsikvietė iš Lenkijos 14 vienuolių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210653
+
+- id: c-194028
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 25"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 25."
+  citata_originali: |
+    papildy­
+    tas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­
+    no etmoną, Podolės Kameneco ir Vilniaus vaivadą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211371
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Surminas]]

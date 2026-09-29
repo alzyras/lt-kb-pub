@@ -75,5 +75,6 @@ Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patrauk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Pauriškių kaimas"]
 sameAs: []
 canonical_biography: "Laurelis gyveno Pauriškių kaime ir ne kartą perdavė žinias Stasiui Gimbučiui."
+place_authority: true
+historical_names: []
 ---
 # Pauriškių kaimas
 
@@ -31,14 +33,13 @@ canonical_biography: "Laurelis gyveno Pauriškių kaime ir ne kartą perdavė ž
 
 Pauriškių kaime gyvenęs Laurelis ne kartą perdavė žinias S. Gimbučiui.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Pauriškių kaime gyvenęs Laurelis ne kartą perdavė žinias S. Gimbučiui.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214888
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 324"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 324."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

@@ -59,5 +59,6 @@ Herodoto aprašymuose teigiama, kad Gero upė, susiliejusi su Hippakariu, įtek�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

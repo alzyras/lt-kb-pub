@@ -24,23 +24,22 @@ media_all_json: |-
 
 Kazio Kalpoko partizanų junginys veikė iki 1945 m. vasaros; vėliau dalis narių legalizavosi ar pasitraukė, o likusieji veikė savarankiškomis grupėmis; 1944–1945 m. per čekistų operacijas nušauta apie 80 junginio partizanų. Ona Dapšytė-Kriukelienė savo kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Kazio Kalpoko junginį vaizduoja kaip siekusį trukdyti sovietų valdžiai įsitvirtinti Lietuvoje ir rengusį išpuolius prieš sovietinius partinius pareigūnus.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Kazio Kalpoko partizanų junginys veikė iki 1945 m. vasaros; vėliau dalis narių legalizavosi ar pasitraukė, o likusieji veikė savarankiškomis grupėmis; 1944–1945 m. per čekistų operacijas nušauta apie 80 junginio partizanų.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213767
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 132"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 132."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Ona Dapšytė-Kriukelienė savo kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Kazio Kalpoko junginį vaizduoja kaip siekusį trukdyti sovietų valdžiai įsitvirtinti Lietuvoje ir rengusį išpuolius prieš sovietinius partinius pareigūnus.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  atnaujinta: "2026-09-28 17:39"
+
+- id: c-213768
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 132"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 132."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:39"

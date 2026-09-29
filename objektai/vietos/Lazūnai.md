@@ -75,5 +75,6 @@ Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų plote, arti Nemuno,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

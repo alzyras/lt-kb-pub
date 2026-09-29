@@ -7,10 +7,10 @@ datos:
   - '1946 m.'
 date_start: '1946'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Bagdonavos miškas"]
 sameAs: []
 canonical_biography: "1946 m. liepos mėn. Bagdonavos miške, Šimonių valsčiuje, buvo partizanų būrys; 1946 m. liepos 29 d. miške vyko čekistų operacija."
+place_authority: true
+historical_names: []
 ---
 # Bagdonavos miškas
 
@@ -37,14 +39,13 @@ canonical_biography: "1946 m. liepos mėn. Bagdonavos miške, Šimonių valsčiu
 
 Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikia 1946 m. liepos 12 d. Bronislovo Grimušos pranešimą: Antano Starkaus būrys buvo Bagdonavos miške ir rengėsi pereiti į Salagirio mišką.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikia 1946 m. liepos 12 d. Bronislovo Grimušos pranešimą: Antano Starkaus būrys buvo Bagdonavos miške ir rengėsi pereiti į Salagirio mišką.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214578
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 206"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 206."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

@@ -74,5 +74,6 @@ XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

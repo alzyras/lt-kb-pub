@@ -67,5 +67,6 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -437,25 +437,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-160315
 
-<a id="claim-t-176289"></a>
-- t-020
-  teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekstas aiškiai kalba apie Vilnių, kurio valdymas perėjo Algirdui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė miestą Vilnius (0.90)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160319
-    - c-179430
-
 <a id="claim-t-176292"></a>
 - t-021
   teiginys: "Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros."
@@ -533,25 +514,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-160301
     - c-179423
-
-<a id="claim-t-176300"></a>
-- t-025
-  teiginys: "Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Krėva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys ir citata tiesiogiai nurodo, kad Algirdas viešpatavo Krėvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė miestą Vitebskas (0.86); Algirdas (Lietuvos valdovas) valdė miestą Krėva (0.86)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160296
-    - c-179455
 
 <a id="claim-t-176301"></a>
 - t-026
@@ -890,6 +852,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176516
+    - c-179435
 
 <a id="claim-t-194221"></a>
 - t-044
@@ -1015,38 +978,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-168027
 
-<a id="claim-t-197977"></a>
-- t-053
-  teiginys: "Algirdas prieš trijų kunigaikščių vedamą kariuomenę savo pajėgas padalijo į penkias dalis ir išrikiavo jas puslankiais."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-168026
-
-<a id="claim-t-197978"></a>
-- t-054
-  teiginys: "Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata palaiko aiškų faktą apie Algirdą, bet pradinis sakinys yra kontekstinis ir triukšmingas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Lietuva; mentioned_place: Perudžija; mentioned_place: Poznanė; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-185991
-
 <a id="claim-t-197980"></a>
 - t-055
   teiginys: "Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo."
@@ -1066,28 +997,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-36244
 
-<a id="claim-t-197981"></a>
-- t-056
-  teiginys: "1440 m. privilegijoje Vilniui atnaujintos senos laisvės, suteiktos Algirdo ir jo įpėdinių."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Algirdo suteiktų laisvių atnaujinimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Algirdo suteiktų laisvių atnaujinimą."
-  ryšio_patikimumas: "valde -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad 1345–1377 m. Lietuva buvo Algirdo valdymo laikotarpiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179433
-
 <a id="claim-t-197984"></a>
 - t-057
   teiginys: "Algirdas ir Kęstutis pasidalijo Lietuvos vadovavimo darbą pusiau."
@@ -1106,27 +1015,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-185992
-
-<a id="claim-t-197989"></a>
-- t-058
-  teiginys: "Lietuvos metraštis Algirdą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis su Lietuvos pajėgomis išžygiavo į Podolę, o Teodoras Karijotaitis pabėgo pas vengrus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Titulas ir kronikinis pasakojimas palikti su atribucija. Pašalinti OCR lūžiai, o veikėjai ir veiksmai suformuluoti aiškiai."
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Algirdas ir Kęstutis sutarė dalytis valdžią, todėl jų politinė sąjunga tiesiogiai paremta tekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179464
 
 <a id="claim-t-197990"></a>
 - t-059
@@ -1158,27 +1046,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-179420
-
-<a id="claim-t-198004"></a>
-- t-061
-  teiginys: "Prieduose cituojamas pasakojimas teigia, kad senelis Algirdui skyrė valdžią Vitebske, o vėliau Algirdas su Kęstučiu susitarė užimti Vilnių ir išvyti Jaunutį."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintas puslapio ir priedo triukšmas, išskleisti Algirdo, Kęstučio ir Jaunučio veiksmai. Kadangi tai kronikinis pasakojimas apie valdžią, palikta atribucija."
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-179437
 
 <a id="claim-t-198011"></a>
 - t-062
@@ -1500,6 +1367,224 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-188876
 
+<a id="claim-t-184669"></a>
+- t-184669
+  teiginys: "Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums."
+  atnaujinta: "2026-09-18 23:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzkariavo -> Kijevas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Algirdas peržengė Kijevo kunigaikštystės sienas, sumušė svetimšalius ir išstūmė juos iš šių žemių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užkariavo Volynė (0.78)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168025
+    - c-168030
+    - c-178673
+
+<a id="claim-t-197972"></a>
+- t-197972
+  teiginys: "1440 m. privilegijoje Vilniaus miestiečių laisva prekyba be muito vadinta Algirdo ir jo įpėdinių suteiktos laisvės atnaujinimu."
+  atnaujinta: "2026-09-18 23:34"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-160291
+    - c-179433
+    - c-179445
+
+<a id="claim-t-207479"></a>
+- t-207479
+  teiginys: "1371 m. laiške Konstantinopolio patriarchui Algirdas, Alfredo Bumblausko teigimu, pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės ir kitų kunigaikščių bei prilygindamas Bizantijos imperatoriui."
+  atnaujinta: "2026-09-18 23:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1371 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Valdovo titulo vartojimas ir jo interpretacija palikti su Alfredo Bumblausko atribucija. Originalios kalbos titulai išsaugoti nepakeisti."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190098
+
+<a id="claim-t-207484"></a>
+- t-207484
+  teiginys: "XIV a. viduryje Algirdas, Alfredo Bumblausko teigimu, suformulavo imperines pretenzijas, pareikšdamas, kad „savaime visa Rusia turėtų priklausyti lietuviams“."
+  atnaujinta: "2026-09-18 23:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190094
+
+<a id="claim-t-207492"></a>
+- t-207492
+  teiginys: "Gedimino arba jo sūnaus Algirdo valdymo metu aplink Lietuvos valstybės branduolį – sostinę – buvo sukurta mūro pilių sistema, apėmusi Medininkus, Krėvą, Lydą ir Trakus."
+  atnaujinta: "2026-09-18 23:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190067
+
+<a id="claim-t-211115"></a>
+- t-211115
+  teiginys: "Tuomet didysis kunigaikštis Algirdas Podolės Ka menecą davė valdyti savo vardu Goštautui Goštautaičiui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194097
+
+<a id="claim-t-211145"></a>
+- t-211145
+  teiginys: "Paskui atvyko kunigaikštis Algirdas prie Vilniaus pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių, kadangi jis (Algirdas) buvo jo vyriausias brolis, atida vė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo jie viską pusiau."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193626
+
+<a id="claim-t-212022"></a>
+- t-212022
+  teiginys: "Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė vui kunigaikščiui Kęstučiui—Trakuose."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193152
+
+<a id="claim-t-212032"></a>
+- t-212032
+  teiginys: "Algirdas sumušė totorius prie Mėlynųjų Vandenų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193392
+
+<a id="claim-t-213039"></a>
+- t-213039
+  teiginys: "Švitrigailos privilegijoje buvo atnaujinta Algirdo privilegija."
+  atnaujinta: "2026-09-18 23:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196902
+
+<a id="claim-t-217222"></a>
+- t-217222
+  teiginys: "Išjos sūnūs: Algirdas (Olgerd, tai reiškia: Olgos meilė4 5), gimęs 1296 metais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198916
+
+<a id="claim-t-218179"></a>
+- t-218179
+  teiginys: "Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę."
+  atnaujinta: "2026-09-18 23:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys susietas su Algirdu per jo žmoną Julijoną. Religinis maldyklos ir cerkvės kontekstas paliktas su Narbuto atribucija."
+  susije_objektai: "llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Naugardukas; mentioned_place: Turovas"
+  semantiniai_rysiai: "[[objektai/asmenys/Julijona|Julijona]] buvo žmona [[objektai/asmenys/Algirdas|Algirdas]]"
+  temporaliniai_duomenys: "įkūrimo data: 1331 m.; įkūrimo data: apie 1331 m.; įkūrimo data: 1331 m.; įkūrimo data: apie 1331 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Julijona buvo žmona Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys susietas su Algirdu per jo žmoną Julijoną. Religinis maldyklos ir cerkvės kontekstas paliktas su Narbuto atribucija."
+  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Julijona: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo Julijoną kaip Algirdo žmoną."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-219151"></a>
+- t-219151
+  teiginys: "Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199492
+
+<a id="claim-t-219782"></a>
+- t-219782
+  teiginys: "Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“."
+  atnaujinta: "2026-09-18 23:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išskleistas Algirdo ryšys su motina ir gimimo data. Vardo reikšmė palikta su Narbuto atribucija, nepridedant kitų genealoginių duomenų."
+  susije_objektai: "mentioned_place: Smolenskas"
+  temporaliniai_duomenys: "įvykio data: 1296 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas Algirdo ryšys su motina ir gimimo data. Vardo reikšmė palikta su Narbuto atribucija, nepridedant kitų genealoginių duomenų."
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
 ## Reikšmingi paminėjimai
 - c-042
   santrauka: 'Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.'
@@ -1682,7 +1767,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-04145
@@ -1701,7 +1786,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-21572
@@ -1721,7 +1806,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-36243
@@ -1741,6 +1826,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-36244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1760,7 +1846,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-41820
@@ -1782,7 +1868,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-006
     - t-026
@@ -1807,7 +1893,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-160284
@@ -1830,7 +1916,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-160286
@@ -1850,7 +1936,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-160287
@@ -1870,7 +1956,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-160288
@@ -1890,7 +1976,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-160290
@@ -1915,7 +2001,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-032
 
@@ -1960,11 +2046,15 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: "26\nKazimiero IV, kai jis buvo dar Lie­\ntuvos didysis kunigaikštis, privile­\ngijoje, 1440 metais duotoje Romos\nkatalikų ir stačiatikių tikėjimo Vil­\nniaus miestiečiams, kuriems leidžia­\nma laisvai prekiauti nemokant mui­\nto mokesčio visoje Lietuvos valsty­\nbėje, pasakyta, kad tai yra senos lais­\nvės, senolio Algirdo ir jo įpėdinių\nsuteiktos Vilniui, atnaujinimas. Con­\ncedimus ac darnus hanc libertatem, quod\nper totum nostrum Magnum Ducatum\nLithuaniae et Russiae nullum thelo-\nneum a quibuscumque mercantiis darė\net solvere tenebuntur; sed juxta consu­\netudinem antiquam a Nostris Praede­\ncessoribus et signanter Serenissimis\nPrincipibus Avo videlicet Olgerdo,\nolim Magno Duce Lithuaniae et Domi­\nno Vladislao Rege Poloniae, tunc autem\n32\n\n## Puslapis 49\n\nI  KNYGA\npadaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos\nypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­\ngonims skiepyti krikščionišką graikų apeigų tikėjimą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-197972
+
 - id: c-160292
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1982,7 +2072,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-160296
@@ -2008,9 +2098,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
-    - t-025
     - t-067
 
 - id: c-160297
@@ -2033,7 +2122,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-160298
@@ -2057,7 +2146,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-074
 
@@ -2083,7 +2172,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-160300
@@ -2116,7 +2205,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-160301
@@ -2143,7 +2232,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-160302
@@ -2166,7 +2255,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-160303
@@ -2189,7 +2278,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-160306
@@ -2211,7 +2300,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
     - t-066
 
@@ -2239,7 +2328,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-160309
@@ -2280,7 +2369,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-160310
@@ -2304,7 +2393,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-160311
@@ -2325,7 +2414,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-160312
@@ -2343,7 +2432,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-160313
@@ -2365,6 +2454,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-160315
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2381,7 +2471,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-160316
@@ -2402,7 +2492,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-160319
@@ -2426,8 +2516,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
 
 - id: c-160322
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2452,7 +2540,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-160323
@@ -2472,7 +2560,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-167113
@@ -2498,7 +2586,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-167223
@@ -2525,7 +2613,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-167224
@@ -2546,7 +2634,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-168025
@@ -2573,8 +2661,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
+    - t-184669
 
 - id: c-168026
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2596,10 +2685,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
     - t-045
-    - t-053
 
 - id: c-168027
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2631,7 +2719,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
     - t-052
 
@@ -2680,7 +2768,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
     - t-047
 
@@ -2706,7 +2794,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
     - t-048
 
@@ -2735,6 +2823,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-184669
+
 - id: c-168031
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2765,7 +2856,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-171401
@@ -2788,6 +2879,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2810,6 +2902,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-173728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2831,7 +2924,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-176288
@@ -2853,7 +2946,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-176289
@@ -2871,7 +2964,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-176516
@@ -2897,7 +2990,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
     - t-050
 
@@ -2944,7 +3037,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
 
 - id: c-178673
@@ -2970,8 +3063,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
+    - t-184669
 
 - id: c-178675
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3001,7 +3095,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-049
 
 - id: c-179417
@@ -3023,6 +3117,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179418
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3039,6 +3134,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179420
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3056,7 +3152,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-060
 
 - id: c-179421
@@ -3080,6 +3176,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179423
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3104,7 +3201,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-179425
@@ -3129,7 +3226,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179426
@@ -3148,7 +3245,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-071
 
 - id: c-179427
@@ -3189,7 +3286,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-179428
@@ -3212,7 +3309,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-179429
@@ -3234,7 +3331,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-026
     - t-070
@@ -3260,8 +3357,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
 
 - id: c-179431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3281,7 +3376,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-179432
@@ -3302,6 +3397,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3347,8 +3443,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-056
+  pagrindžia:
+    - t-197972
 
 - id: c-179434
   autorius: "Michał Baliński"
@@ -3370,7 +3466,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-179435
@@ -3396,7 +3492,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-043
     - t-050
 
 - id: c-179436
@@ -3420,6 +3517,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179437
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3448,8 +3546,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-061
 
 - id: c-179438
   redaktorius: "A. Šapoka"
@@ -3467,6 +3563,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179439
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3490,7 +3587,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-179440
@@ -3515,6 +3612,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179442
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3534,7 +3632,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-179443
@@ -3580,7 +3678,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-077
 
 - id: c-179444
@@ -3601,6 +3699,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179445
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3647,6 +3746,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-197972
+
 - id: c-179446
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3667,7 +3769,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-179447
@@ -3690,7 +3792,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
 
 - id: c-179448
@@ -3710,7 +3812,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-179450
@@ -3729,7 +3831,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-075
 
 - id: c-179451
@@ -3751,7 +3853,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-076
 
 - id: c-179452
@@ -3773,7 +3875,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-179455
@@ -3799,8 +3901,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
+  pagrindžia:
     - t-069
 
 - id: c-179456
@@ -3825,6 +3926,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179457
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3847,6 +3949,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179459
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3867,6 +3970,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179460
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3889,6 +3993,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179462
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3903,11 +4008,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-073
 
 - id: c-179463
@@ -3927,7 +4033,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-068
 
 - id: c-179464
@@ -3952,8 +4058,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-058
 
 - id: c-179465
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3977,7 +4081,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-179466
@@ -4010,7 +4114,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-179467
@@ -4038,6 +4142,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4063,6 +4168,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179470
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4084,6 +4190,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -4108,6 +4215,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179474
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4126,6 +4234,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179475
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4144,7 +4253,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-072
 
 - id: c-184317
@@ -4173,7 +4282,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
 
 - id: c-184318
@@ -4192,7 +4301,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
 
 - id: c-184861
@@ -4208,7 +4317,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-065
 
 - id: c-185990
@@ -4228,7 +4337,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-185991
@@ -4250,8 +4359,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-054
 
 - id: c-185992
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -4271,7 +4378,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
 
 - id: c-185993
@@ -4292,7 +4399,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
 
 - id: c-188867
@@ -4313,7 +4420,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-078
 
 - id: c-188868
@@ -4337,7 +4444,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-079
 
 - id: c-188869
@@ -4355,7 +4462,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-080
 
 - id: c-188870
@@ -4372,7 +4479,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-081
 
 - id: c-188871
@@ -4393,7 +4500,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-082
 
 - id: c-188872
@@ -4411,7 +4518,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-083
 
 - id: c-188873
@@ -4435,7 +4542,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-084
 
 - id: c-188874
@@ -4463,7 +4570,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-085
 
 - id: c-188875
@@ -4482,7 +4589,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-086
 
 - id: c-188876
@@ -4507,8 +4614,215 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-087
+
+- id: c-190067
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 92"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 92."
+  citata_originali: |
+    Mūsų mūro civilizacijos
+    ištakos – atrodo, taip pat Gedimino laikai. Valdant Gediminui ar jo sūnui Algirdui, buvo
+    sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krė-
+    va, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva Gedimino laikais tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios
+    Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas,
+    Pskovas.
+  citata_rodoma: "t Gediminui ar jo sūnui Algirdui, buvo \nsukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krė-\nva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietu"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207492
+
+- id: c-190094
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 28"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 28."
+  citata_originali: |
+    Jų agresija ir pastūmėjo LDK plėstis į rytus. Ir nors Vokie-
+    čių ordino agresija XIV a. viduryje pasiekė aukščiausią kulminaciją, tuo metu Algirdas
+    suformulavo savo imperines pretenzijas pareikšdamas, kad „savaime visa Rusia turėtų
+    priklausyti lietuviams“. Vytautas, išplėtęs ir įtvirtinęs savo valdžią didžiulėse (įskaitant ir
+    Ukrainos stepes – apie 1 milijoną km2) Rytų Europos ervėse, vis dėlto neužmiršo, kad „ir
+    Prūsai yra mano paveldėjimas“.
+  citata_rodoma: "nors Vokie-\nčių ordino agresija XIV a. viduryje pasiekė aukščiausią kulminaciją, tuo metu Algirdas \nsuformulavo savo imperines pretenzijas pareikšdamas, kad „savaime visa Rusia turėtų \npriklausyti lietuviams“. V"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207484
+
+- id: c-190098
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 108"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 108."
+  citata_originali: |
+    Remdamas paskutinį Tverės bandymą
+    atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – su-
+    rengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos jau anks-
+    čiau Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“,
+    ir Vilnius nevirto „antruoju Kijevu“. Tačiau neatsitiktinai būtent šių žygių į Maskvą metu
+    1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietuvių imperatoriumi“
+    („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės bei kitų kunigaikščių ir pri-
+    silygindamas Bizantijos imperatoriui. Tai rodo, kad Lietuvos valdovai puikiai orientavosi
+    ne tik Vakarų, bet ir Rytų Europos politinėje sistemoje.
+  citata_rodoma: "as paskutinį Tverės bandymą \natsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – su-\nrengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos jau anks-\nčiau Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, \nir Vilnius nevirto „antruoju Kijevu“. Tačiau neatsitiktinai būtent šių žygių į Maskvą metu \n1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietuvių imperatoriumi“ \n(„vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės bei kitų kunigaikščių ir pri-\nsilygindamas Bizantijos imperatoriui. Tai"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207479
+
+- id: c-193152
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+  citata_originali: |
+    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
+    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
+    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
+    tutis, nuo jaunystės sutarė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212022
+
+- id: c-193392
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 69-70"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 69-70."
+  citata_originali: |
+    Didysis kunigaikštis Algirdas, sutelkęs
+    savo lietuvių pajėgas, išžygiavo į žygį ir ties Mėly­
+    naisiais Vandenimis sumušė totorius 1 — tris brolius:
+
+    Chadži-bėjų, Kutiubugą 2 ir Dimitrą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212032
+
+- id: c-193626
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+  citata_originali: |
+    Paskui atvyko kunigaikštis Algirdas prie Vilniaus
+    pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių,
+    kadangi jis (Algirdas) buvo jo vyriausias brolis, atida­
+    vė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo
+    jie viską pusiau
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211145
+
+- id: c-194097
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 71"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 71."
+  citata_originali: |
+    Tuomet didysis kunigaikštis Algirdas Podolės Ka­
+    menecą davė valdyti savo vardu Goštautui Goštautai-
+    čiui
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211115
+
+- id: c-196902
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  citata_originali: |
+    Neseckiui šis herbas, pavadintas Kru-
+    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213039
+
+- id: c-198916
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217222
+
+- id: c-199492
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
+  citata_originali: |
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219151
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Julijona Vitebskietė]], [[objektai/asmenys/Marija (Algirdo žmona)]]

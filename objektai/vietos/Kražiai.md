@@ -148,6 +148,70 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   pagrindžia:
     - c-175448
 
+<a id="claim-t-208555"></a>
+- t-208555
+  teiginys: "Nuo 1834 m. Motiejus Valančius buvo anuomet garsios Kražių jėzuitų gimnazijos kapelionas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: po 1834 m.; įvykio data: 1834 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Trūkstamas tarinys papildytas, o neįvardytas asmuo įvardytas Motiejumi Valančiumi. Pašalinti OCR iškraipymai."
+  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
+  pagrindžia:
+    - c-191175
+
+<a id="claim-t-211765"></a>
+- t-211765
+  teiginys: "Kražiuose buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194345
+
+<a id="claim-t-213490"></a>
+- t-213490
+  teiginys: "Netoli Kražių, Žemaitijoje, 1836 metais rasta natūralaus dydžio bronzinė Kovo statulėlė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194537
+
+<a id="claim-t-218407"></a>
+- t-218407
+  teiginys: "Narbutas teigia, kad 1836 metais netoli Kražių rasta bronzinė Karo dievo Kovo statulėlė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199020
+
+<a id="claim-t-218851"></a>
+- t-218851
+  teiginys: "1618 m. Kražiuose jėzuitai rado apie šešis tūkstančius neapkrikštytų valstiečių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200464
+
 ## Citatos
 
 - id: c-67884
@@ -174,7 +238,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171615
@@ -200,7 +264,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171617
@@ -225,7 +289,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175448
@@ -252,8 +316,128 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-191175
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 8"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 8."
+  citata_originali: |
+    A. Aleknos teigimu, M. Valančius įšventintas kunigu rug­
+    sėjo 1 d .3 Kun. M. Valančius skiriamas tikybos mokytoju
+    į Mozyriaus pavieto mokyklą Minsko gubernijoje, Vil­
+    niaus vyskupijoje4. Nuo 1834 m. jis jau anuo metu gar­
+    sios Kražių jėzuitų gimnazijos kapelionas 5.
+  citata_rodoma: "Nuo 1834 m. jis jau anuo metu gar­\nsios Kražių jėzuitų gimnazijos kapelionas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208555
+
+- id: c-194345
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    Pirmo­
+    sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos
+    dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211765
+
+- id: c-194537
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
+  citata_originali: |
+    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos žemėje
+    netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietuviai
+    turėjo stabus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213490
+
+- id: c-196302
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  citata_originali: |
+    1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
+    Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
+    aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­
+    re, priklausančiame grafienei Choueseul, tą dievuką gavau iš
+    kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas
+    kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
+    aplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame
+    J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo
+    Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
+    tą
+    figūrą.
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
+    leidimą (PEĮ.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199020
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 255"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 255."
+  citata_originali: |
+    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­
+    mėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­
+    viai turėjo stabus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218407
+
+- id: c-200464
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
+  citata_originali: |
+    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218851
 
 ## Ryšiai
 - Puolė Kražiai: [[objektai/grupes/Kazokai]]

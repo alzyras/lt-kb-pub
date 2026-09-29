@@ -24,8 +24,35 @@ media_all_json: |-
 
 Julius Burneika 1945 m. gegužę (kitur nurodoma – birželį) tapo partizanų grupės vadu; grupė veikė Viluinių ir Vaduvų kaimuose, Skapiškio valsčiuje. Juliaus Burneikos-Tardytojo partizanų grupei priklausė Julius Burneika, Bulovas, Juozas Spetyla, Jonas Vilčinskas, Juozas ir Vaclovas Jankauskai bei Antanas Zulonas. Ona Dapšytė-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Juliaus Burneikos grupė apibūdinama kaip sudaryta iš penkių partizanų, o byloje ji įvardyta kaip Juozo Burneikos grupė.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-231169"></a>
+- t-001
+  teiginys: "Juliaus Burneikos-Tardytojo partizanų grupei priklausė Julius Burneika, Bulovas, Juozas Spetyla, Jonas Vilčinskas, Juozas ir Vaclovas Jankauskai bei Antanas Zulonas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:08Z"
+  pagrindžia:
+    - c-211807
+
+<a id="claim-t-231170"></a>
+- t-002
+  teiginys: "Ona Dapšytė-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Juliaus Burneikos grupė apibūdinama kaip sudaryta iš penkių partizanų, o byloje ji įvardyta kaip Juozo Burneikos grupė."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:08Z"
+  pagrindžia:
+    - c-211808
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Julius Burneika 1945 m. gegužę (kitur nurodoma – birželį) tapo partizanų grupės vadu; grupė veikė Viluinių ir Vaduvų kaimuose, Skapiškio valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
@@ -35,21 +62,29 @@ Julius Burneika 1945 m. gegužę (kitur nurodoma – birželį) tapo partizanų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Juliaus Burneikos-Tardytojo partizanų grupei priklausė Julius Burneika, Bulovas, Juozas Spetyla, Jonas Vilčinskas, Juozas ir Vaclovas Jankauskai bei Antanas Zulonas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-211807
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 111-112"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 111-112."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Ona Dapšytė-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Juliaus Burneikos grupė apibūdinama kaip sudaryta iš penkių partizanų, o byloje ji įvardyta kaip Juozo Burneikos grupė.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211808
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 216"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 216."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

@@ -96,7 +96,7 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

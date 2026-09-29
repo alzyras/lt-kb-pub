@@ -85,5 +85,6 @@ Teodoras Narbutas nurodo, kad, regis, 1307 m. iš Gardino į Didžiąją Lenkij�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

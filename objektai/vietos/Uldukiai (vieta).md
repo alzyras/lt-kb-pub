@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Uldukiai","Uldukiai (vieta)"]
 sameAs: []
 canonical_biography: "Teofilio Gudo partizanų grupė, šaltinio teigimu, iš Uldukių kaimo dažnai ateidavo į Migonių kaimą."
+place_authority: true
+historical_names: []
 ---
 # Uldukiai (vieta)
 
@@ -36,14 +38,13 @@ canonical_biography: "Teofilio Gudo partizanų grupė, šaltinio teigimu, iš Ul
 
 Teofilio Gudo partizanų grupė dažnai iš Uldukių kaimo ateidavo į Migonių kaimą.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Teofilio Gudo partizanų grupė dažnai iš Uldukių kaimo ateidavo į Migonių kaimą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-215024
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 308"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 308."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:46"

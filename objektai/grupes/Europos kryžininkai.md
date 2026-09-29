@@ -94,7 +94,7 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

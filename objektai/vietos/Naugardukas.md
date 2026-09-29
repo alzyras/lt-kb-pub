@@ -86,8 +86,10 @@ media_primary_height: 579
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
+    - c-182438
     - c-32273
     - c-109421
+    - c-182446
 
 <a id="claim-t-119087"></a>
 - t-002
@@ -177,6 +179,7 @@ media_primary_height: 579
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-109413
+    - c-182433
 
 <a id="claim-t-119094"></a>
 - t-007
@@ -259,6 +262,7 @@ media_primary_height: 579
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-109417
+    - c-182455
 
 <a id="claim-t-119100"></a>
 - t-011
@@ -295,8 +299,10 @@ media_primary_height: 579
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
+    - c-182438
     - c-32273
     - c-109421
+    - c-182446
 
 <a id="claim-t-119104"></a>
 - t-013
@@ -767,6 +773,7 @@ media_primary_height: 579
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie įvykį Naugarduke."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
+    - c-109417
     - c-182455
 
 <a id="claim-t-205266"></a>
@@ -833,6 +840,117 @@ media_primary_height: 579
   pagrindžia:
     - c-188417
 
+<a id="claim-t-119091"></a>
+- t-119091
+  teiginys: "Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių."
+  atnaujinta: "2026-09-19 02:08"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Naugardukas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata apie Gedimino prašymą mini jau pastatytas bažnyčias Naugarduke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas pastatė Vilnius (0.84); Gediminas pastatė Naugardukas (0.84)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-109415
+    - c-182445
+
+<a id="claim-t-119098"></a>
+- t-119098
+  teiginys: "1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką."
+  atnaujinta: "2026-09-19 02:08"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Naugardukas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jaroslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo Jaroslavo Naugarduko įkūrimą; panaudotas artimiausias leidžiamas kūrimo santykis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įkūrimo data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-32272
+    - c-182438
+    - c-32273
+    - c-109421
+    - c-182446
+
+<a id="claim-t-199657"></a>
+- t-199657
+  teiginys: "Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis."
+  atnaujinta: "2026-09-19 02:08"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys buvo fragmentas, bet citata pagrindžia glaustą faktą apie Naugarduką."
+  ryšio_patikimumas: "pastate -> Naugardukas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Gedimino pastatytą pranciškonų bažnyčią Naugarduke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-182456
+
+<a id="claim-t-207599"></a>
+- t-207599
+  teiginys: "1415 m. Naugarduke buvo sušauktas LDK stačiatikių vyskupų suvažiavimas."
+  atnaujinta: "2026-09-19 02:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1415 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir tarinį bei tiksliai nusako citatoje minimą 1415 m. įvykį Naugarduke."
+  pagrindžia:
+    - c-190216
+
+<a id="claim-t-207600"></a>
+- t-207600
+  teiginys: "Naugardukas šaltinyje apibūdinamas kaip legendinė, tačiau baltarusių manymu tikra Mindaugo laikų LDK sostinė."
+  atnaujinta: "2026-09-19 02:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190217
+
+<a id="claim-t-212039"></a>
+- t-212039
+  teiginys: "Danielius ir Vasilka patraukė link Naugarduko."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193814
+
+<a id="claim-t-212549"></a>
+- t-212549
+  teiginys: "Jotvingių likučiai buvo apgyvendinti prie Lietuvos Naugarduko."
+  atnaujinta: "2026-09-19 02:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195939
+
 ## Reikšmingi paminėjimai
 - c-021
   santrauka: 'Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies.'
@@ -895,8 +1013,9 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
+    - t-119098
 
 - id: c-32273
   autorius: "Zenonas Ivinskis"
@@ -917,9 +1036,10 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-012
+    - t-119098
 
 - id: c-32274
   autorius: "Zenonas Ivinskis"
@@ -940,7 +1060,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-32275
@@ -963,7 +1083,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-43677
@@ -986,7 +1106,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-015
 
@@ -1017,7 +1137,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-109413
@@ -1045,7 +1165,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-011
 
@@ -1085,8 +1205,9 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
+    - t-119091
 
 - id: c-109416
   autorius: "Michał Baliński"
@@ -1117,7 +1238,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -1142,8 +1263,9 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+    - t-040
 
 - id: c-109418
   autorius: "Michał Baliński"
@@ -1170,6 +1292,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-109420
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1190,7 +1313,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-109421
@@ -1213,10 +1336,11 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-012
     - t-019
+    - t-119098
 
 - id: c-109425
   autorius: "Michał Baliński"
@@ -1237,6 +1361,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-109426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1256,7 +1381,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
     - t-020
 
@@ -1277,7 +1402,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-109430
@@ -1303,11 +1428,12 @@ media_primary_height: 579
     Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­
     vienas pagal savo apeigas galėtų garbinti dievą.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-109433
@@ -1330,7 +1456,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-166450
@@ -1357,7 +1483,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-168424
@@ -1403,7 +1529,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
     - t-032
 
@@ -1427,7 +1553,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-170569
@@ -1448,7 +1574,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-170570
@@ -1468,7 +1594,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-170571
@@ -1495,7 +1621,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-175961
@@ -1514,7 +1640,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-175962
@@ -1533,7 +1659,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-176318
@@ -1553,7 +1679,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-176850
@@ -1591,7 +1717,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-178866
@@ -1624,7 +1750,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-178868
@@ -1647,7 +1773,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-182428
@@ -1668,7 +1794,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-182429
@@ -1695,7 +1821,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-182431
@@ -1715,7 +1841,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-182432
@@ -1735,7 +1861,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-182433
@@ -1763,7 +1889,8 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-006
     - t-011
 
 - id: c-182434
@@ -1791,6 +1918,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182435
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1807,7 +1935,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-182436
@@ -1831,6 +1959,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182438
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1851,6 +1980,11 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+    - t-012
+    - t-119098
+
 - id: c-182439
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1880,7 +2014,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -1903,7 +2037,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-182441
@@ -1923,7 +2057,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-182444
@@ -1946,7 +2080,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-182445
@@ -1986,6 +2120,9 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-119091
+
 - id: c-182446
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2006,8 +2143,11 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-001
+    - t-012
     - t-019
+    - t-119098
 
 - id: c-182447
   autorius: "Michał Baliński"
@@ -2045,6 +2185,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182448
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2070,6 +2211,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182450
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2090,7 +2232,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-182451
@@ -2117,7 +2259,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-182453
@@ -2139,7 +2281,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-182454
@@ -2162,7 +2304,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
     - t-039
 
@@ -2187,7 +2329,8 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-010
     - t-040
 
 - id: c-182456
@@ -2206,6 +2349,9 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-199657
+
 - id: c-182457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2224,7 +2370,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-182459
@@ -2243,7 +2389,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-182460
@@ -2273,7 +2419,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186118
@@ -2293,7 +2439,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-186119
@@ -2323,7 +2469,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-186120
@@ -2344,7 +2490,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-188060
@@ -2366,7 +2512,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-188414
@@ -2386,7 +2532,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-188415
@@ -2408,7 +2554,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-188416
@@ -2427,7 +2573,7 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
 
 - id: c-188417
@@ -2444,8 +2590,126 @@ media_primary_height: 579
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
+
+- id: c-190216
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 126"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 126."
+  citata_originali: |
+    Kaip minėta, 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, įkūrė
+    LDK stačiatikių metropoliją ir į ją paskyrė vieną iš žymiausių to meto stačiatikybės teolo-
+    gų Grigalių Camblaką. Maža to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkur-
+    dintas Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ suformuota
+    metropolito jurisdikcija, išgyvavusi iki pat XVIII a. pabaigos.
+  citata_rodoma: "inėta, 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, įkūrė \nLDK stačiatikių metropoliją ir į ją paskyrė vieną iš žymiausių to meto stačiatikybės teolo-\ngų Grigalių Camblaką. Maža"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207599
+
+- id: c-190217
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 270"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 270."
+  citata_originali: |
+    Tačiau ne tai svarbiausia. Šiandien
+    Baltarusija yra paveldėjusi ne tik nemažą dalį, lietuvių manymu, lietuviškosios „Lituania
+    propria“ dalies, ne tik su Krėva, bet ir su Alšėnais, Smurgainimis ar Ašmena, bet ir „Juodą-
+    ją Rusią“ – be Gardino, dar ir Adomo Mickevičiaus gimtąjį Naugarduką – legendinę, tačiau,
+    baltarusių manymu, tikrą Mindaugo laikų LDK sostinę. O juk šiame regione – dar ir LDK
+    centrai Slanimas ir Valkaviskas, Radvilų Myras ir Nesvyžius, įspūdingi dailės ir architek-
+  citata_rodoma: "altarusija yra paveldėjusi ne tik nemažą dalį, lietuvių manymu, lietuviškosios „Lituania \npropria“ dalies, ne tik su Krėva, bet ir su Alšėnais, Smurgainimis ar Ašmena, bet ir „Juodą-\nją Rusią“ – be Gardino, dar ir Adomo Mickevičiaus gimtąjį Naugarduką – legendinę, tačiau, \nbaltarusių manymu, tikrą Mindaugo laikų LDK sostinę. O juk šia"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207600
+
+- id: c-193786
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
+  citata_originali: |
+    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
+    GALĄ
+    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
+    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
+    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
+    savo valdovo sūnų didžiai džiaugdamasi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:05"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193814
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
+  citata_originali: |
+    Danielius su Vasilka patraukė link Naugarduko,
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212039
+
+- id: c-194334
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
+  citata_originali: |
+    O Grigorijus buvo šven­
+    tasis, kokio iki jo nėra buvę ir daugiau nebebus.
+    Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
+    anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
+    keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
+    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
+    ir gyveno tenai.
+  statusas: verified
+  atnaujinta: "2026-09-12 20:05"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195939
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 118-119"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 118-119."
+  citata_originali: |
+    Strijkovskis savo amžiuje dar girdėjo apie likučius
+    išsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir
+    apgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-
+    1 Stryjkomski.
+    S. 181.
+    121
+
+    terburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­
+    tuose
+  statusas: verified
+  atnaujinta: "2026-09-13 18:01"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212549
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Skirmantas]]

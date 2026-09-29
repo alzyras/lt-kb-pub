@@ -79,5 +79,6 @@ Narbutas teigia, kad kunigaikštis Šventaragis 1282 metais priėmė Vyčio herb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

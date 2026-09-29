@@ -70,5 +70,6 @@ Pagudėnai ginkluoti užpuolė Elbingo komtūrą, Helvigą iš Goldbacho, Kristb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -79,5 +79,6 @@ Tada pirmą kartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -426,7 +426,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-31954
@@ -447,7 +447,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-010
 
@@ -471,7 +471,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-160875
@@ -496,7 +496,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-160876
@@ -527,7 +527,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-017
 
@@ -547,7 +547,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-160880
@@ -570,7 +570,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-160881
@@ -594,7 +594,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-160882
@@ -622,7 +622,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-011
 
@@ -655,7 +655,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-008
 
@@ -707,7 +707,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-160891
@@ -730,7 +730,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-160892
@@ -750,7 +750,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-168286
@@ -775,7 +775,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-175917
@@ -799,7 +799,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-188129
@@ -822,7 +822,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 ## Ryšiai

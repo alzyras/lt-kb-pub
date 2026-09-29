@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Kazys Petrulis"]
 sameAs: []
-canonical_biography: "Kazys Petrulis, gyvenęs Puponių kaime, Kupiškio valsčiuje."
 ---
 # Kazys Petrulis
 
@@ -31,14 +30,14 @@ canonical_biography: "Kazys Petrulis, gyvenęs Puponių kaime, Kupiškio valsči
 
 Kazys Petrulis gyveno Puponių kaime, Kupiškio valsčiuje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Kazys Petrulis gyveno Puponių kaime, Kupiškio valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213208
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 107"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 107."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"
+

@@ -74,5 +74,6 @@ Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos tuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

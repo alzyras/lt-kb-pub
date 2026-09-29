@@ -81,7 +81,7 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44747
@@ -102,7 +102,7 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

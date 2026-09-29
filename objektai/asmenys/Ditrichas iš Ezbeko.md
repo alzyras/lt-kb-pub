@@ -65,17 +65,21 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   pagrindžia:
     - c-60738
 
-<a id="claim-t-197067"></a>
-- t-002
-  teiginys: "Ditrichas iš Ezbeko atskleidė visas šios atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-221806"></a>
+- t-221806
+  teiginys: "Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ditrichas iš Ezbeko: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ditrichas iš Ezbeko\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60739
+    - c-202447
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,7 +119,7 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-60739
@@ -139,8 +143,30 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-202447
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
+  citata_originali: |
+    Vis dėlto, kai
+    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
+    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
+    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
+    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti. Vis dėlto
+    po 14 dienų Karaliaučiaus pilyje magistro bei brolių akivaizdoje jis atskleidė visas šios
+    atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus. Todėl magistras ir
+    kiti, turėdami omenyje, kad nebaudžiamas nusikaltimas skatina daugiau nusikalsti,
+    įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
+    nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221806
 
 ## Ryšiai
 - Ditrichas iš Ezbeko gynė [[objektai/vietos/Ragainė]]

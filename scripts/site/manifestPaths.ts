@@ -20,6 +20,9 @@ export function indexNormalizedPaths(paths: Iterable<string>): NormalizedPathInd
   }
   return {
     paths: indexed,
-    collisions: [...collisions.entries()].map(([key, pathsForKey]) => ({ key, paths: pathsForKey })),
+    collisions: [...collisions.entries()].map(([key, pathsForKey]) => ({
+      key,
+      paths: pathsForKey,
+    })),
   }
 }

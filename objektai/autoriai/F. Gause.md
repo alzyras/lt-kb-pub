@@ -75,5 +75,6 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -8,12 +8,12 @@ datos:
   - '1948 m.'
 date_start: '1947'
 date_end: '1948'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,14 +40,13 @@ canonical_biography: "Matulionytė buvo suimta 1947 m. balandžio 28 d.; 1948 m.
 
 Ypatingasis pasitarimas 1948 m. balandžio 8 d. apkaltino Bronę Matulionytę pagal RSFSR BK 17-58-1a ir 58-11 straipsnius ir skyrė jai 10 metų lagerio bausmę.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Ypatingasis pasitarimas 1948 m. balandžio 8 d. apkaltino Bronę Matulionytę pagal RSFSR BK 17-58-1a ir 58-11 straipsnius ir skyrė jai 10 metų lagerio bausmę.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213019
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 190"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 190."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

@@ -32,8 +32,22 @@ media_all_json: |-
 
 Grįžęs į tėviškę, Antanas Starkus suorganizavo iš vietinių šimoniečių partizanų būrį ir jam vadovavo. 1945 m. spalio 4 d. NKVD Šimonių valsčiaus poskyrio pažymoje Antanas Starkus įvardytas Šimonių ir Kamajų valsčiuose veikusio partizanų junginio vadu, o Alfonsas Paškevičius – jo tiesioginiu padėjėju.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-231036"></a>
+- t-001
+  teiginys: "1945 m. spalio 4 d. NKVD Šimonių valsčiaus poskyrio pažymoje Antanas Starkus įvardytas Šimonių ir Kamajų valsčiuose veikusio partizanų junginio vadu, o Alfonsas Paškevičius – jo tiesioginiu padėjėju."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:07Z"
+  pagrindžia:
+    - c-211674
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Grįžęs į tėviškę, Antanas Starkus suorganizavo iš vietinių šimoniečių partizanų būrį ir jam vadovavo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
@@ -43,12 +57,17 @@ Grįžęs į tėviškę, Antanas Starkus suorganizavo iš vietinių šimonieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: '1945 m. spalio 4 d. NKVD Šimonių valsčiaus poskyrio pažymoje Antanas Starkus įvardytas Šimonių ir Kamajų valsčiuose veikusio partizanų junginio vadu, o Alfonsas Paškevičius – jo tiesioginiu padėjėju.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-211674
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 85"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 85."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

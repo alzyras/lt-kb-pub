@@ -314,6 +314,47 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   pagrindžia:
     - c-86958
 
+<a id="claim-t-207797"></a>
+- t-207797
+  teiginys: "1573-1574 m. pasiuntinybė vyko į Paryžių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1573-1574; įvykio data: 1574 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190473
+
+<a id="claim-t-208048"></a>
+- t-208048
+  teiginys: "Th. Jeffersonas 1784-1789 m. gyveno Paryžiuje ir dirbo ambasadoriumi."
+  atnaujinta: "2026-09-24 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1784-1789; gyvenimo laikotarpis: 1789 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190666
+
+<a id="claim-t-219952"></a>
+- t-219952
+  teiginys: "Antikos muziejuje Paryžiuje buvo nemažai egiptietiškų, graikiškų ir skandinaviškų kryžių paminklų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-200034
+
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.'
@@ -357,7 +398,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-24365
@@ -386,7 +427,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-013
 
@@ -408,7 +449,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-86957
@@ -433,7 +474,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-86958
@@ -452,7 +493,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-86959
@@ -470,7 +511,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-86960
@@ -486,7 +527,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-86961
@@ -507,7 +548,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-86962
@@ -533,7 +574,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-86963
@@ -556,7 +597,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-86966
@@ -576,7 +617,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-86967
@@ -599,7 +640,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-86969
@@ -627,7 +668,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-167013
@@ -648,8 +689,162 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190473
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 220"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 220."
+  citata_originali: |
+    Po dešimties metų, 1573-1574 m., buvę Strasbūro gimnazijos mokiniai M. K. Rad-
+    vila Našlaitėlis ir A. Pronskus susitiko būdami Lietuvos Didžiosios Kunigaikštystės
+    atstovais pasiuntinybėje, kuri vyko į Paryžių parsivežti išrinkto Lenkijos-Lietuvos val-
+    dovo Henriko Valua. Tarp pasiuntinių buvo dar 3 gimnazijos Strasbūre auklėtiniai iš
+    Lenkijos — A. Konarskis, J. Zamojskis, M. Tomickis. Iš šios pasiuntinybės aprašymo
+    nesunku įsitikinti, kad studijos Europoje jiems tikrai buvo naudingos.
+  citata_rodoma: "1573-1574 m., buvę Strasbūro gimnazijos mokiniai M. K. Rad-\nvila Našlaitėlis ir A. Pronskus susitiko būdami Lietuvos Didžiosios Kunigaikštystės\natstovais pasiuntinybėje, kuri vyko į Paryžių parsivežti išrinkto Lenkijos-Lietuvos val-\ndovo Henriko Valua."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207797
+
+- id: c-190666
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 272"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 272."
+  citata_originali: |
+    T. Jcflįrsonas
+    taip pat buvo puikiai išsilavinęs, daug keliavo, 1784-1789 m. gyveno Paryžiuje
+    (dirbo ambasadoriumi), garsėjo kaip uoliai patriotiškas pilietis, buvo masonas.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208048
+
+- id: c-200034
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
+  citata_originali: |
+    Antikos muziejuje Paryžiuje yra ne­
+    maža paminklų su tokiais egiptietiškais, graikiškais, skandi­
+    naviškais kryžiais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219952
+
+- id: c-202127
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  citata_originali: |
+    97. Apie potvynį
+
+      1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią
+    nuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi
+    patyrė baisybę nuostolių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202819
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  citata_originali: |
+    26. Apie viešpaties erškėčių vainiko perkėlimą
+
+      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
+    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203111
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
+  citata_originali: |
+    Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos
+    karalystės reikalai esą betarpiškai pavaldūs apaštališkajam sostui, ir pasiuntė popiežius
+    priklausomybės reskriptą su bule Prancūzijos karaliui, tvirtindamas, jog tas, kas teigiąs
+    priešingai, esąs eretikas. Šis reskriptas buvo perskaitytas ir sudegintas Paryžiuje,
+    karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje. Karalius paskelbė
+    15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių. Vis dėlto popiežius
+    Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205447
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  citata_originali: |
+    Tamplierių
+    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
+    Paryžiuje 1314 m.69
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206264
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
+  citata_originali: |
+    Šis
+    popiežius patvirtino karmelitų ordiną, dėl kurio Liono sinodas nebuvo nieko nutaręs, o
+    karmelitai šiurkščius marškinius pakeitė baltais abitais. Tuo pat metu Paryžiuje daugiau
+    triūsė augustinų ordinas, kai jį tvarkė nauji magistrai (Ptol. 24,13; Mart. p. 432; Ptol.
+    24, H).
+
+
+
+        72. Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį
+
+      Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau
+    Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone,
+    kai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio
+    1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/A. Voldemaras]]

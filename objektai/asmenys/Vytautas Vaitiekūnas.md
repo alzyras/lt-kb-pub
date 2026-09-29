@@ -40,14 +40,32 @@ canonical_biography: "Kronikoje Vytautas Vaitiekūnas, Petro, nurodytas gyvenęs
 
 Vytautas Vaitiekūnas iš Likalaukių kaimo 1944 m. su broliu Tautviliu įstojo į partizanų būrį, tapo skyriaus vadu, veikė Vabalninko valsčiuje ir žuvo 1946 m.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Vytautas Vaitiekūnas iš Likalaukių kaimo 1944 m. su broliu Tautviliu įstojo į partizanų būrį, tapo skyriaus vadu, veikė Vabalninko valsčiuje ir žuvo 1946 m.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231978"></a>
+- t-001
+  teiginys: "Vytautas Vaitiekūnas iš Likalaukių kaimo 1944 m. su broliu Tautviliu įstojo į partizanų būrį, tapo skyriaus vadu, veikė Vabalninko valsčiuje ir žuvo 1946 m."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:03Z"
+  pagrindžia:
+    - c-212616
+
+## Citatos
+
+- id: c-212616
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 147"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 147."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

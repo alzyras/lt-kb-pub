@@ -211,6 +211,30 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   pagrindžia:
     - c-179367
 
+<a id="claim-t-212797"></a>
+- t-212797
+  teiginys: "Barta buvo dalijama į Tikrąją Bartą ir Plikąją Bartą."
+  atnaujinta: "2026-09-19 17:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196672
+
+<a id="claim-t-213846"></a>
+- t-213846
+  teiginys: "Norint užimti Sembą, kryžiuočiams reikėjo pirmiausia užimti kitą Bartos dalį."
+  atnaujinta: "2026-09-19 17:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197428
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: '1251 m. dokumente Barta minima kaip Didžioji ir Mažoji Barta, kurioje gyveno bartai arba bartėnai.'
@@ -247,7 +271,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-58970
@@ -265,7 +289,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-58971
@@ -284,7 +308,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-58972
@@ -300,7 +324,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-58973
@@ -320,7 +344,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175393
@@ -345,7 +369,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-175394
@@ -371,7 +395,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-008
 
@@ -393,8 +417,111 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-196672
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 360."
+  citata_originali: |
+    Šią vietą
+    primena Šiandien Beisleideno kaimas pakeliui iš Barten­
+    šteino į Prūsų Ylavą.
+    Barta
+    Šešta — Bartos — provincija plytėjo į pietryčius nuo
+    Natangijos, su kuria ji ribojosi Alnos upe. Į šiaurę siena
+    driekėsi net iki Priegliaus, o į rytus — gal iki Angerapės
+    ar bent iki Drengfurto apylinkių. Pietuose ji ėjo žemiau
+    Rastenburgo net iki Galindos provincijos. Savo teritorija
+    Barta buvo viena didžiausių provincijų, bet dalijosi į
+    dvi dalis: Tikrąją Bartą ir Plikąją Bartą, kurios vėliau
+    buvo suprantamos kaip Didžioji ir Mažoji Bartos.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212797
+
+- id: c-196885
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 360."
+  citata_originali: |
+    Pava­
+    dinimas Plika Barte lietuvių kalba reiškia laukų Bartą.
+    Be to, Barta dalijosi į atskiras apskritis, arba valsčius.
+    Toks visų pirma buvo Wohensdorf, Wohnsdorf, arba Vons-
+    dorfas, į pietus nuo Alenburgo, Alnos ir Ometo tarpupyje.
+    Atrodo, kad šis germanų vietovardis buvo žinomas dar
+    pagoniškais laikais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  citata_originali: |
+    123
+    Kai 1253 metų pradžioje susiklostė draugiški Pamario
+    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
+    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
+    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
+    tinga Sembos provincija, bet šie atkaklūs bandymai ją
+    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
+    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
+    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
+    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
+    nės kraštais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213846
+
+- id: c-203988
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  citata_originali: |
+    Teritorija  į šiaurę nuo Galindos, tarp Alnos (dab. Lynos)
+    vidupio vakaruose ir Mamrų ežero, Ašvenos (dab. Osvino) ežero ir upės rytuose ir šiaurės
+    rytuose (abipus dab. Lenkijos—TSRS sienos; Bartos šiaurinė dalis aprėpė Girdavų, dab.
+    Zeleznodorožno, apylinkes). Pietuose Bartos riba ėjo į pietus nuo dab. Rešelio ir Jezioranų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205088
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  citata_originali: |
+    XIII a. šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т. 2 (1908), стб.
+    813, 877) bei kt. vakarinių baltų žemės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Užėmė Bartą: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -7,7 +7,6 @@ variantai:
 aliases:
   - 'Miliūnai'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
@@ -37,7 +36,11 @@ historical_names: []
 
 ## Santrauka
 
-Vienas Kupiškio tvenkinio pusiasalis yra prie Miliūnų kaimo, už Palėvenėlės. Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ 1945 m. vasariu datuoja Miliūnų kaime, Kupiškio valsčiuje, partizanų skirtą mirties bausmę savo bendražygiui Broniui Stašiui-Cibuliui.
+Vienas Kupiškio tvenkinio pusiasalis yra prie Miliūnų kaimo, už Palėvenėlės.
+
+## Santrauka
+
+Vienas Kupiškio tvenkinio pusiasalis yra prie Miliūnų kaimo, už Palėvenėlės.
 
 ## Reikšmingi paminėjimai
 
@@ -52,12 +55,14 @@ Vienas Kupiškio tvenkinio pusiasalis yra prie Miliūnų kaimo, už Palėvenėl�
   statusas: verified
 - t-002
 
-- c-002
-  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ 1945 m. vasariu datuoja Miliūnų kaime, Kupiškio valsčiuje, partizanų skirtą mirties bausmę savo bendražygiui Broniui Stašiui-Cibuliui.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Citatos
+
+- id: c-214820
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 151"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 151."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 18:24"
+

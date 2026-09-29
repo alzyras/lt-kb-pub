@@ -7,12 +7,12 @@ datos:
   - '1946 m.'
 date_start: '1946'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,14 +39,13 @@ canonical_biography: "Petras Indriūnas-Vėbras, kilęs iš Pelyšių kaimo, 194
 
 Petras Indriūnas-Vėbras, kilęs iš Pelyšių kaimo, vadovavo Vytenio būriui iki žūties 1946 m. lapkričio 4 d.; po jo žūties vadu tapo Anicetas Laužikas-Švitrigaila.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Petras Indriūnas-Vėbras, kilęs iš Pelyšių kaimo, vadovavo Vytenio būriui iki žūties 1946 m. lapkričio 4 d.; po jo žūties vadu tapo Anicetas Laužikas-Švitrigaila.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213263
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 416"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 416."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

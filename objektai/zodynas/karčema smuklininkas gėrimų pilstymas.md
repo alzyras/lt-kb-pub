@@ -79,5 +79,6 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

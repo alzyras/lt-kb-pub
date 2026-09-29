@@ -67,5 +67,6 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

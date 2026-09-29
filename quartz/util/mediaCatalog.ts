@@ -89,6 +89,7 @@ export function loadCanonicalMediaCatalog(): MediaEntry[] {
   return mergeMediaEntries([
     ...loadMediaCatalogFile("mediaCatalogSource.json", true),
     ...loadMediaCatalogFile("articleMediaCatalog.json"),
+    ...loadMediaCatalogFile("nobleFamilyMediaCatalog.json"),
   ])
 }
 

@@ -44,23 +44,6 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 
 ## Teiginiai
 
-<a id="claim-t-58556"></a>
-- t-001
-  teiginys: "Glotava laikoma pietrytiniu Pagudės valsčiumi."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Pagudė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Glotava: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Pagudė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Glotava tiesiogiai apibūdinta kaip Pagudės valsčius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Glotava priklausė Pagudė (0.90)"
-  pagrindžia:
-    - c-59188
-
 <a id="claim-t-58557"></a>
 - t-002
   teiginys: "1300 m. rudenį 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių."
@@ -101,8 +84,6 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-59189
   autorius: "Petras Dusburgietis"
@@ -123,7 +104,7 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

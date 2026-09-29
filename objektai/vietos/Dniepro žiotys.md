@@ -101,7 +101,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67583
@@ -120,7 +120,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167754
@@ -140,7 +140,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

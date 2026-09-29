@@ -79,5 +79,6 @@ vyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba are
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

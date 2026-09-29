@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Pauriškiai","Pauriškiai (vieta)"]
 sameAs: []
 canonical_biography: "1948 m. balandžio 16 d. Pauriškių kaime, Svėdasų valsčiuje, per susišaudymą su partizanais žuvo du stribai ir vienas buvo sužeistas."
+place_authority: true
+historical_names: []
 ---
 # Pauriškiai (vieta)
 
@@ -36,14 +38,13 @@ canonical_biography: "1948 m. balandžio 16 d. Pauriškių kaime, Svėdasų vals
 
 Pasak Onos Dapšytės-Kriukelienės kronikos, 1948 m. balandžio 16 d. Pauriškių kaime per susišaudymą su partizanais buvo nušauti du stribai, o vienas sužeistas.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Pasak Onos Dapšytės-Kriukelienės kronikos, 1948 m. balandžio 16 d. Pauriškių kaime per susišaudymą su partizanais buvo nušauti du stribai, o vienas sužeistas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214886
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 311"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 311."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

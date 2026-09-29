@@ -64,5 +64,6 @@ Elbingo upė įteka į Gėlo vandens marias.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

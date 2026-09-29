@@ -608,6 +608,127 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   pagrindžia:
     - c-175267
 
+<a id="claim-t-212703"></a>
+- t-212703
+  teiginys: "Budininai, budinai — pati se niausia Herodoto minima slavų šaka, kažkur Voluinėje ir Baltarusijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194993
+
+<a id="claim-t-212746"></a>
+- t-212746
+  teiginys: "Tiesa tai, kad raštingoji Europa ėmė artimiau pažin ti lietuvių tautos gentis tik XIII a. pradžioje, bet nepa lyginti anksčiau jas puikiai žinojo kaimynai slavai, tu rėję savo kronikininkų ankstesniais amžiais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196120
+
+<a id="claim-t-214221"></a>
+- t-214221
+  teiginys: "Narbutas teigia, kad didieji kunigaikščiai herbus kartais suteikdavo slavų giminėms."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194418
+
+<a id="claim-t-217066"></a>
+- t-217066
+  teiginys: "Romėnai šią šventę vadindavo Circumpotatio (gėrimas ra tu), senovės slavai - Stypa arba Strawa."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199499
+
+<a id="claim-t-217105"></a>
+- t-217105
+  teiginys: "Narbutas teigia, kad slavai tą pačią dievybę garbino įvairiais vardais: Kolita, Dažba, Dachuba, Daszuba, Dazboh ir Dajebog."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199041
+
+<a id="claim-t-217762"></a>
+- t-217762
+  teiginys: "Slavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu rėjo rusvus, šviesiai pilkus (ruse) plaukus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198185
+
+<a id="claim-t-218379"></a>
+- t-218379
+  teiginys: "Narbutas teigia, kad senovės slavai darydavo žemas duris, kad įeinantysis arba išeinantysis nusilenktų slenksčiui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200537
+
+<a id="claim-t-218628"></a>
+- t-218628
+  teiginys: "Slavų mitologai pažymi, kad ši šventė, slavų vadinama Ku pala, siejosi su maldomis upėms ir šaltiniams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200818
+
+<a id="claim-t-219383"></a>
+- t-219383
+  teiginys: "Narbutas teigia, kad slavai uosį paskirdavo Jupiteriui, vadintam Jesse."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200004
+
+<a id="claim-t-219385"></a>
+- t-219385
+  teiginys: "Egiptiečiai turėjo savo Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką slavų Tryzną."
+  atnaujinta: "2026-09-19 03:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199024
+    - c-200415
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Narbutas rašė, kad slavai tą pačią dievybę vadino Kolita, Dažba, Dachuba, Daszuba, Dazboh ir Dajebog vardais.'
@@ -799,7 +920,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-42934
@@ -822,7 +943,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-85208
@@ -846,7 +967,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -867,7 +988,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166326
@@ -886,7 +1007,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-171236
@@ -909,7 +1030,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171237
@@ -931,7 +1052,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-171239
@@ -955,7 +1076,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-171240
@@ -977,7 +1098,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-171241
@@ -998,7 +1119,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171242
@@ -1019,7 +1140,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-171243
@@ -1039,7 +1160,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-171244
@@ -1063,7 +1184,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-171246
@@ -1090,7 +1211,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-171247
@@ -1114,7 +1235,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-173503
@@ -1136,7 +1257,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-173504
@@ -1163,7 +1284,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-173505
@@ -1189,7 +1310,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-175260
@@ -1219,7 +1340,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-175261
@@ -1246,7 +1367,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-175262
@@ -1271,7 +1392,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-175263
@@ -1295,7 +1416,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-175264
@@ -1322,7 +1443,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-175266
@@ -1351,7 +1472,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-175267
@@ -1374,7 +1495,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
     - t-032
 
@@ -1401,7 +1522,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-175269
@@ -1430,7 +1551,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-177000
@@ -1457,7 +1578,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-177001
@@ -1484,7 +1605,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-179228
@@ -1508,8 +1629,503 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
+
+- id: c-194418
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 509"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
+  citata_originali: |
+    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
+    tokį herbą 1302 metais Gediminas davė Krunevičiui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214221
+
+- id: c-194869
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
+  citata_originali: |
+    Beje, vėliau nustatyta, kad vietinės prekės
+    niekad nebuvo gabenamos šia upe aukštyn, bet tik jūros
+    link.
+    168
+    Gal senų seniausiais laikais skandinavai kitu keliu iš
+    Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o
+    iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es­
+    tijos atgabentas prekes sugebėdavo pergabenti į pietus
+    Volgos, Dono ir Dnepro upėmis. Nėra jokių prieštaravimų
+    dėl šio kelio egzistavimo, atvirkščiai, yra išlikusių jo pėd­
+    sakų2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194993
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
+  citata_originali: |
+    Budininai, budinai — pati se­
+    niausia Herodoto minima slavų šaka, kažkur Voluinėje
+    ir Baltarusijoje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212703
+
+- id: c-195010
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  citata_originali: |
+    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
+    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
+    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
+    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
+    plėsdami bei naikindami įsiveržė į pačią Daniją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196120
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 32."
+  citata_originali: |
+    Tiesa tai, kad raštingoji Europa ėmė artimiau pažin­
+    ti lietuvių tautos gentis tik XIII a. pradžioje, bet nepa­
+    lyginti anksčiau jas puikiai žinojo kaimynai slavai, tu­
+    rėję savo kronikininkų ankstesniais amžiais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212746
+
+- id: c-196555
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
+  citata_originali: |
+    Taigi
+    budinai turėtų būti protėviai dviejų tautų, kurios šian­
+    dien skiriasi ir savo kalba, ir religija, ir gyvenamąja te­
+    ritorija; šios tautos šiandien nebeturi beveik jokios gi­
+    minystės, išskyrus abiem bendrą užsiėmimą, t. y. pragy­
+    venimo šaltinį, — žemdirbystę. Galbūt todėl, kad ir bu-
+    dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
+    arba šį užsiėmimą perėmė iš gelonų, pačioje susiliejimo
+    su pastaraisiais pradžioje. Safaržykas žengė dar toliau1,
+    nes senovės lietuvius visiškai sugiminiavo su slavais,
+    šiandienius šių abiejų tautų skirtumus priskirdamas liki­
+    mui, kurio dėka jos patekdavo tai į germanų, tai į finų
+    valdžią, ir lietuvių kalba vis labiau tolo nuo slavų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196827
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 18."
+  citata_originali: |
+    Trum­
+    piau tariant, slavų, kaip ir kitų kaimyninių tautų, istorija
+    buvo reikalinga kaip fonas, kuriame dar labiau išryškėja
+    lietuvių praeitis. Slavams aprašyti istorikas pasirinko
+    abėcėlinę tvarką. Taigi trumpai buvo aprašytos šios gen­
+    tys: bolianai, brėžanai, bulgarai, bužanai, chrobatai, cir-
+    cipanai, juodrusiai, čekai, čerkesai, dalmatai, doksanai,
+    drevlianai, dregovičiai, dulebai, dytivoniai, havolėnai,
+    kašubai, kicinai, kroatai, krivičiai, kujavai, kūrimai, la­
+    žai, lenzanai, levbuzai, linai, liutičiai, luokiečiai, mozū­
+    rai, milzanai, moravai, morošanai, obodritai, palygiai,
+    pakalniečiai, polianai, palabiai, poločianai, pamarėnai,
+    psesai, radimičiai, rakuzai, ratariai, rugijai, severianai,
+    slovėnai, serbai, stodorėnai, suličiai, tivercai, ugličiai,
+    ukrai, ultinai, vagrai, vanai, vietičiai, vilinai, vlotabai,
+    voluinėnai, zaliesai, zemeltingai, zichai, juodkalniečiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197439
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 171."
+  citata_originali: |
+    Ten juos
+    pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­
+    raliukas ar viršininkas, vadinamas Masosu, kuriam jie mo­
+    kėjo duoklę vaikais. Jaroslavas ir Kristijonas gyveno tais
+    laikais, kai naujųjų amžių atradimai tautų, gyvenusių to­
+    kiame kaip ulmigerai civilizacijos lygyje, dar nebuvo ži­
+    nomi, vadinasi, jei jie būtų ketinę aprašyti išgalvotus da­
+    lykus, jie nebūtų turėję pavyzdžio ir nebūtų galėję nupiešti
+    tokio tikroviško gamtos vaikų vaizdo. Iš to išplaukia, kad
+    jie rėmėsi tikrove, kuri visur ir visada yra vienoda.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197552
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  citata_originali: |
+    Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
+    gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
+    yra nepaprastai šaltas aštuntasis ratas, — išsiuntė keliau­
+    tojus tai patikrinti. Šie perėjo plačius Tartarijos kraštus,
+    vėliau didelę slavų Roksolanijos valstybę ir per venedų
+    bei alanų žemes pateko į Livoniją. Iš to krašto, dar gana
+    toli nukeliavę vandens keliu, atsidūrė plačioje ir tuščioje
+    žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
+    vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
+    ir dar kitaip.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198185
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 152."
+  citata_originali: |
+    Slavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu­
+    rėjo rusvus, šviesiai pilkus (ruse) plaukus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217762
+
+- id: c-199003
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 354."
+  citata_originali: |
+    Iš tiesų merginos šlovė ir garsas priklauso nuo to, kaip ji
+    sugebės dailiau improvizuoti savo ikivestuvines dainas, o kitų
+    dainų mokosi ir iš anksto pratinasi dainuoti.
+    Prieš pačias jungtuves vyksta jaunosios pakirpimas,Pakirp-
+    timas. Šį paprotį, bendrą lietuviams ir slavams, mūsų rašytojai
+    dažnai mini; vis dėlto jo smulkmenų niekur nėra papasakota;
+    aprašysime, kaip tai vyksta dabar mano užkampyje; tikriausiai
+    nedaug skirsis nuo senovinio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199024
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
+  citata_originali: |
+    Nežinia, kas buvo užrašyta, bet vis dėlto vienas
+    žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
+    paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
+    tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
+    ar figūros arba trys žmogaus egzistavimo tarpsniai - gyveni­
+    mas, mirtis ir amžinybė. Apie tai dar kalbėsime aptardami lai­
+    dotuvių apeigas.
+    II
+    skyrius
+    DEIVĖS, D ew e* l
+    Praurimė (Praurime)
+    Šventosios ugnies deivė, viena seniausių senojo pasaulio
+    dievybių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219385
+
+- id: c-199041
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  citata_originali: |
+    Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
+    miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
+    Dajebog.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217105
+
+- id: c-199240
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  citata_originali: |
+    Ypač
+    jis buvo gerbtinas kaip žemdirbių dievas.
+    Bandkė savo Lenkijos istorijoje, išvardydamas slavų die­
+    vus, aiškiai sako, kad lietuvių Gurko atitinka slavų Gurovidą
+    (Gorowicl). Nežinia, dėl kurios priežasties, nes jei dėl žodžių
+    panašumo, tai jis apsiriko: lietuviai jo nevadino kitaip, kaip
+    tik Žemininku, o prūsai - Kurku, o jei iš lotynų kalbos Cur-
+    chus, tai visai ne nuo žodžio gora, nes gora yra Kalnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199284
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
+  citata_originali: |
+    Todėl seno­
+    vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
+    prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
+    kinimas.
+    Ankstesniame straipsnyje šiuo požiūriu kalbėjome apie
+    upėvardį Ross; čia dar turime pridurti kaip mokslinio tyrimo
+    pavyzdį pastebėjimą apie vardų Nar, Nėr, Nor, Nur etimologi­
+    ją; pirmykštėje lietuvių kalboje, bendroje su slavų ir daugeliu
+    kitų, jie reiškia vandenį arba vandenų telkinį, požemio van­
+    dens užlietą gelmę, vandens srovę arba tekėjimą. Iš to indų
+    šventojoje kalboje, arba sanskrite, Nara - vanduo; arabiškai
+    Nahr-upė, lietuviškai Nar senąja kalba reiškė vandens kraštą
+    (krantą).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199387
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225."
+  citata_originali: |
+    Žemaičiai
+    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
+    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
+    užgesino .
+    Kaip mano Naruševičius', slavai taip pat žinojo panašią
+    ugnį, vadintą Zwicz.
+    Šventosios upės
+    Senovės religijos pripažino šventumą kai kurių vandenų,
+    tekančių per šalis, įžymias tuo, kad jos buvo pirmoji tautos
+    protėvių tėvynė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199499
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 336."
+  citata_originali: |
+    Romėnai šią šventę vadindavo Circumpotatio (gėrimas ra­
+    tu), senovės slavai - Stypa arba Strawa.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217066
+
+- id: c-199828
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 94"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 94."
+  citata_originali: |
+    Rusios istorija liudija, kad 980 metais tą garbinimą įve­
+    dė Kijeve Vladimiras Didysis, liepęs pastatyti ant kalno to dievo
+    stabą - visiškai tokį, kokį buvo matęs variagų Lietuvoje, kitaip
+    Rusioje, arba dabartinėje Prūsijoje, kadangi tenai svečiavosi
+    pabėgęs iš Naugardo, bijodamas savo brolio Jaropolko. Vla­
+    dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul­
+    tą Didžiajame Naugarde. O tai aiškiai rodo, kad seniau slavai
+    rusinai negarbino Jupiterio su tokiomis iškilmėmis ir, aišku,
+    jis buvo garbinamas ne Perūno vardu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200004
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 241."
+  citata_originali: |
+    Slavai uosį paskirdavo Jupiteriui, vadintam Jesse. Skandi­
+    navai garbino uosį, vadinamą Igdrasilu, po kurio šakomis gy­
+    venę dievai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219383
+
+- id: c-200250
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Net Vokietijoje,
+    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
+    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200415
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
+  citata_originali: |
+    Įskaitomi už­
+    rašai rusiškomis raidėmis: Poklus, Nijota.
+    Pirmasis primena jau žinomą pragaro dievą, antrasis užra­
+    šas susideda iš dviejų žodžių: Nija reiškė slavų Cereros arba
+    lietuvių Krūminės vardą; Ola lietuviškai - katakomba, pože­
+    minis urvas16. Tai bus požeminė Cerera, arba, visiškai graikų
+    mitologijos prasme, - Prozerpina.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219385
+
+- id: c-200537
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
+  citata_originali: |
+    Senovės
+    slavai specialiai darydavo žemas duris, kad ateinantysis arba išeinanty­
+    sis nusilenktų slenksčiui
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218379
+
+- id: c-200818
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 330"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 330."
+  citata_originali: |
+    Slavų mitologai pažymi, kad ši šventė, slavų vadinama Ku­
+    pala, siejosi su maldomis upėms ir šaltiniams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218628
 
 ## Ryšiai
 - Puolė Slavai: [[objektai/asmenys/Jarmerikas]]

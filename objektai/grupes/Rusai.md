@@ -266,6 +266,18 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindžia:
     - c-178540
 
+<a id="claim-t-214695"></a>
+- t-214695
+  teiginys: "Dėl sąjungos su graikų imperatoriumi rusai pri siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip ir prūsų Perkūnas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196875
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Polocko rusai valdžią valstybėje perdavė trisdešimčiai senelių, o svarbiausius reikalus svarstė aikštės sueigose.'
@@ -341,7 +353,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-42906
@@ -366,7 +378,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-009
 
@@ -393,7 +405,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-107970
@@ -415,7 +427,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-107971
@@ -454,7 +466,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -475,7 +487,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-107975
@@ -499,7 +511,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167941
@@ -522,7 +534,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-175886
@@ -550,7 +562,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-176065
@@ -581,7 +593,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-178540
@@ -614,8 +626,26 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-196875
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  citata_originali: |
+    Dėl sąjungos su graikų imperatoriumi rusai pri­
+    siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip
+    ir prūsų Perkūnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214695
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kazokai]]

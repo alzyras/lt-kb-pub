@@ -31,14 +31,13 @@ canonical_biography: "Stasys Kripaitis, Petro, gimė 1925 m. Padvariečių kaime
 
 Kautynėse sunkiai sužeistas ir suimtas Stasys Kripaitis, Petro sūnus, gimęs 1925 m. Padvariečių kaime, atpažino žuvusius partizanus.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Kautynėse sunkiai sužeistas ir suimtas Stasys Kripaitis, Petro sūnus, gimęs 1925 m. Padvariečių kaime, atpažino žuvusius partizanus.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213360
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 156"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 156."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

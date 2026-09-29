@@ -26,31 +26,32 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Bonegartas"]
 sameAs: []
-canonical_biography: "Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobhamą kaip naudotus šaltinius. Bonegartas buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
+canonical_biography: "Teodoras Narbutas tarp naudotos literatūros mini Bonegarto vardu įvardyto žodyno straipsnius apie Jeronimą Prahiškį ir Kobhamą. Čia paliekama Narbuto leidinyje vartojama pavardės forma."
 ---
 # Bonegartas
 
 ## Santrauka
 
-Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobhamą kaip naudotus šaltinius. Bonegartas buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
-
-## Teiginiai
-
-<a id="claim-t-197279"></a>
-- t-001
-  teiginys: "Bonegartas buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-173300
+Teodoras Narbutas tarp naudotos literatūros mini Bonegarto vardu įvardyto žodyno straipsnius apie Jeronimą Prahiškį ir Kobhamą. Čia paliekama Narbuto leidinyje vartojama pavardės forma.
 
 ## Citatos
 
-- id: c-173300
+- id: c-00202
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba-
+    yle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas
+    (tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum.
+  citata_rodoma: "2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba- \nyle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas \n(tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:25"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-197743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 400"
@@ -62,9 +63,8 @@ Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobh
     torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
     ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:45"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

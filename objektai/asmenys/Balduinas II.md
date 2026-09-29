@@ -89,5 +89,6 @@ Karalius Balduinas II su įkarščiu ėmė rū pintis jų gerove: skyrė lėšas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

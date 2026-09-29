@@ -31,6 +31,56 @@ function citationEntries(sections: Map<string, EvidenceEntry[]>): EvidenceEntry[
     .filter((entry) => entry.id.startsWith("c-"))
 }
 
+function citationIdentity(entry: EvidenceEntry): string {
+  const nonIdentityFields = new Set([
+    "atnaujinta",
+    "statusas",
+    "patikimumo_lygis",
+    "patikimumo_saltinis",
+    "teiginio_tipas",
+    "pagrindimo_rezimas",
+  ])
+  const fields = [...entry.fields.entries()]
+    .filter(([key]) => !nonIdentityFields.has(key))
+    .sort(([left], [right]) => (left < right ? -1 : left > right ? 1 : 0))
+  const lists = [...entry.lists.entries()]
+    // A citation can support different claims on different object pages. Its
+    // claim backlinks are page-local; the source, locator, and citation text
+    // define the globally shared citation itself.
+    .filter(([key]) => key.normalize("NFKD").replace(/\p{Diacritic}/gu, "").toLowerCase() !== "pagrindzia")
+    .map(([key, values]) => [key, [...values]] as const)
+    .sort(([left], [right]) => (left < right ? -1 : left > right ? 1 : 0))
+  return JSON.stringify({ fields, lists })
+}
+
+export function collectDuplicateCitationIdentityIssues(
+  documents: EvidenceDocument[],
+): CorpusEvidenceIntegrityIssue[] {
+  const owners = new Map<string, { filePath: string; identity: string }>()
+  const issues: CorpusEvidenceIntegrityIssue[] = []
+
+  for (const { filePath, markdown } of documents) {
+    for (const citation of citationEntries(parseEvidenceSections(markdown))) {
+      if (!/^c-\d{5,}$/.test(citation.id)) continue
+      const identity = citationIdentity(citation)
+      const previous = owners.get(citation.id)
+      if (previous && previous.filePath !== filePath && previous.identity !== identity) {
+        issues.push({
+          code: "duplicate_global_citation_id_across_files",
+          severity: "error",
+          entryId: citation.id,
+          filePath,
+          message: `Citation global id ${citation.id} has conflicting definitions in ${previous.filePath}`,
+        })
+      } else if (!previous) {
+        owners.set(citation.id, { filePath, identity })
+      }
+    }
+  }
+
+  return issues
+}
+
 function citationText(entry: EvidenceEntry): string {
   return ["citata_originali", "citata_rodoma", "citata"]
     .map((key) => entry.fields.get(key)?.trim() ?? "")
@@ -51,9 +101,13 @@ function cleanCitationDisplayText(value: string): string {
 }
 
 function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
-  return (
-    entry.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
-    Boolean(entry.fields.get("indeksas")?.trim())
+  if (entry.fields.get("citatos_rezimas")?.trim() !== "indeksas") return false
+  // Page-only citations intentionally omit verbatim source text, but must keep
+  // a concrete locator so a reader can verify the cited passage.
+  return Boolean(
+    entry.fields.get("puslapis")?.trim() ||
+      entry.fields.get("puslapiai")?.trim() ||
+      entry.fields.get("indeksas")?.trim(),
   )
 }
 

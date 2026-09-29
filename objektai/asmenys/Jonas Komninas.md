@@ -114,7 +114,7 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174167
@@ -143,8 +143,30 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195084
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
+  citata_originali: |
+    Pasakysime tik tiek, kad pečenegus, po
+    hunų ir avarų įsikūrusius krašte, esančiame Dunojaus ir
+    Dnepro tarpupyje, 915 metais pažino pietų rusai, ir nuo
+    tada jie įvairiai figūravo jų istorijoje. 1121 metais juos
+    galutinai ir visiškai nugalėjo graikų imperatorius Jonas
+    Komninas, tad nuo šio laiko skaičiuojami pečenegų vardo
+    smukimo metai2.
+    97
+    Poloviečių pavadinimo ištakos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Jonas Komninas kariavo prieš [[objektai/grupes/Pečenegai]]

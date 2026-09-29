@@ -215,7 +215,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-67876
@@ -237,7 +237,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67877
@@ -258,7 +258,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-67878
@@ -283,7 +283,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-67879
@@ -304,7 +304,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67880
@@ -326,7 +326,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-167757
@@ -348,8 +348,56 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-202940
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  citata_originali: |
+    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
+    išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias
+    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
+    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
+    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
+    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
+    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
+    šitaip išvaduojamas iš netikėlių nelaisvės. Todėl vienas lietuvis, vardu Nodamas, prityręs
+    karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
+    šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
+    apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205013
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
+  citata_originali: |
+    Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
+      529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai
+    siejama su Kalnėnais  į vak. nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37;
+    Łowmiański H., Studja..., 2, p. 97; Lietuvių karas..., p. 190), tačiau ten, Nemuno deš.
+    krante žemiau Mituvos esančioje piliavietėje, buvo XIII a. (žr. paaiškinimus D. III, 83,
+    2) ir XIV a. (SRP, 2, p. 709) kryžiuočių pilis. Kolainių ieškota ir toliau į rytus už Bisenės
+    (SZM, p. 218—219; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 212—213 ir 1
+    žemėl.). Manytume, kad Kolainių pilis sietina su piliakalniu, esančiu Jurbarko šiauriniame
+    pakraštyje, Imsrės kair. krante, kuris vadinamas Bišpiliu, Višpiliu, Viešpiliu (dėl viešės,
+    kaip žemdirbių gyvienvietės prie pilies, žr. Jurginis J., Baudžiavos..., p. 106—116) ir
+    Didžpiliu (LAA, 2, p. 75).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Gynė Kolainių pilį (pilis): [[objektai/asmenys/Surminas]]

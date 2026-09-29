@@ -75,5 +75,6 @@ O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

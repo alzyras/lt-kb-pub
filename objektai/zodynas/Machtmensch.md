@@ -63,5 +63,6 @@ Kaip ten bebūtų, žinome viena, kad jis buvo pilna to žodžio prasme „Macht
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -47,17 +47,35 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1948 m. rugpjūčio 21 d. prie Sungailių karinės operacijos metu žuvo Kazys Morkūnas, Topilis Aukštikalnis-Užkurys ir Juozas Gasilionis.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 315"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-231513"></a>
+- t-001
+  teiginys: "1948 m. rugpjūčio 21 d. prie Sungailių karinės operacijos metu žuvo Kazys Morkūnas, Topilis Aukštikalnis-Užkurys ir Juozas Gasilionis."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-212151
+
 ## Santrauka
 
 1948 m. rugpjūčio 21 d. prie Sungailių karinės operacijos metu žuvo Kazys Morkūnas, Topilis Aukštikalnis-Užkurys ir Juozas Gasilionis.
+
+## Citatos
+
+- id: c-212151
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 315"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 315."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

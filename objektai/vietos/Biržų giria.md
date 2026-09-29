@@ -7,10 +7,10 @@ datos:
   - '1951 m.'
 date_start: '1951'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Biržų giria"]
 sameAs: []
 canonical_biography: "Šią grupę Kazys Kalpokas išsivedė į Biržų girią. 1951 m. liepą arba rugpjūtį Biržų girioje vyko partizanų formuotės susirinkimas, kuriame dalyvavo 30–35 partizanai."
+place_authority: true
+historical_names: []
 ---
 # Biržų giria
 
@@ -37,23 +39,22 @@ canonical_biography: "Šią grupę Kazys Kalpokas išsivedė į Biržų girią. 
 
 Antrąją partizanų grupę, kuriai vadovavo Romas Petronis, Kazys Kalpokas išsivedė į Biržų girią. Pasak B. Mikonio, partizanų formuotės susirinkimas Biržų girioje vyko 1951 m. liepą, nors kitur nurodomas rugpjūtis, ir jame dalyvavo 30–35 partizanai.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Antrąją partizanų grupę, kuriai vadovavo Romas Petronis, Kazys Kalpokas išsivedė į Biržų girią.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 153"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Pasak B. Mikonio, partizanų formuotės susirinkimas Biržų girioje vyko 1951 m. liepą, nors kitur nurodomas rugpjūtis, ir jame dalyvavo 30–35 partizanai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214601
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 402"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 402."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"
+
+- id: c-214602
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 153"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 153."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:44"

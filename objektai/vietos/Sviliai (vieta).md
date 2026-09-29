@@ -12,10 +12,10 @@ datos:
   - '1941 m.'
 date_start: '1941'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Sviliai","Sviliai (vieta)"]
 sameAs: []
 canonical_biography: "Mykolas Balčiūnas gyveno Svilių kaime, kur buvo partizanų grupės štabas."
+place_authority: true
+historical_names: []
 ---
 # Sviliai (vieta)
 
@@ -42,14 +44,13 @@ canonical_biography: "Mykolas Balčiūnas gyveno Svilių kaime, kur buvo partiza
 
 Mykolas Balčiūnas, 1941 m. sukilimo dalyvis ir partizanų grupės vadas, gyveno Svilių kaime, o grupės štabas buvo jo namuose.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Mykolas Balčiūnas, 1941 m. sukilimo dalyvis ir partizanų grupės vadas, gyveno Svilių kaime, o grupės štabas buvo jo namuose.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214982
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 148"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 148."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

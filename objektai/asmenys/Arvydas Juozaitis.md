@@ -85,5 +85,6 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

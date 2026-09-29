@@ -71,5 +71,6 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

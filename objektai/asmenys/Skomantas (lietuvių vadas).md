@@ -82,7 +82,7 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

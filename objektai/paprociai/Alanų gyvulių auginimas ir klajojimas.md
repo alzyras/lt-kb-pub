@@ -74,5 +74,6 @@ Teodoro Narbuto pasakojimu, alanai savo gyvenimo reikmes tenkino augindami gyvul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

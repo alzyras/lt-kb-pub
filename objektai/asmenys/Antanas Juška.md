@@ -2,7 +2,6 @@
 tipas: asmuo
 pavadinimas: 'Antanas Juška'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1929 m.'
@@ -35,6 +34,10 @@ sameAs: []
 canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Juozapo Juškos šeimoje, kurioje išgyveno jis ir brolis Povilas. 1929 m. Antaną Jušką kunigu įšventino arkivyskupas Juozapas Skvireckas. Panevėžyje Juška organizavo slapta veikusius ateitininkus, vadovavo blaivybės draugijai ir buvo pavasarininkų dvasios vadas."
 ---
 # Antanas Juška
+
+## Santrauka
+
+1929 m. gegužės 25 d. arkivyskupas Juozapas Skvireckas įšventino Antaną Jušką kunigu; Juška primicijas laikė Palėvenės Šv. Domininko bažnyčioje. Panevėžyje kunigas Antanas Juška organizavo valdžios uždraustus ateitininkus, vadovavo blaivybės draugijai ir buvo pavasarininkų dvasios vadas. Po Stalino mirties speciali komisija, iš naujo persvarsčiusi Antano Juškos bylą, sumažino jam skirtą bausmę nuo 25 iki 8 metų.
 
 ## Santrauka
 
@@ -92,15 +95,6 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-006
-  santrauka: '1912 m. gimęs ir Aščiagalių kaime gyvenęs Antanas Juška-Vilkas priklausė Adolfo Bagdono kuopai ir buvo paskirtas vadovauti 14–15 partizanų būriui, veikusiam Mieliškio kaimo apylinkėse, Subačiaus valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "p. 467 (PDF 468)"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-208311
@@ -112,5 +106,6 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

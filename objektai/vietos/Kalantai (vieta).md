@@ -72,5 +72,6 @@ Pasak Teodoro Narbuto, vokiečių būriai aštuonias dienas plėšikavo anksčia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

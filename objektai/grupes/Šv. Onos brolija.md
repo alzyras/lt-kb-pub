@@ -62,5 +62,6 @@ Onos brolijos veikla, 1617 m. pradėjo rinktis Angelo Sargo brolija, telkusi Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

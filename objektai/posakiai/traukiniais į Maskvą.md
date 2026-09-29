@@ -68,5 +68,6 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

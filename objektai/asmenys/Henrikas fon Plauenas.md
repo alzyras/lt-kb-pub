@@ -82,5 +82,6 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

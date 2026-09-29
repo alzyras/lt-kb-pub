@@ -89,7 +89,7 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

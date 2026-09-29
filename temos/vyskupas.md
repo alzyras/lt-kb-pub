@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 251
+tema_objektu_skaicius: 252
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 251.
+Objektų skaičius: 252.
 
 ## Kaip naudoti
 
@@ -113,7 +113,6 @@ Objektų skaičius: 251.
 - [Jonas iš Lietuvos kunigaikščių](../objektai/asmenys/Jonas%20i%C5%A1%20Lietuvos%20kunigaik%C5%A1%C4%8Di%C5%B3)
 - [Jonas iš Tarnovo](../objektai/asmenys/Jonas%20i%C5%A1%20Tarnovo)
 - [Jonas iš Zabrežjės](../objektai/asmenys/Jonas%20i%C5%A1%20Zabre%C5%BEj%C4%97s)
-- [Jonas Karolis Katkevičius](../objektai/asmenys/Jonas%20Karolis%20Katkevi%C4%8Dius)
 - [Jonas Kropidla](../objektai/asmenys/Jonas%20Kropidla)
 - [Jonas Kropidlas (vyskupas)](../objektai/asmenys/Jonas%20Kropidlas)
 - [Jonas Kropidła](../objektai/asmenys/Jonas%20Kropid%C5%82a)
@@ -276,8 +275,12 @@ Objektų skaičius: 251.
 - [Šventasis Steponas](../objektai/autoriai/%C5%A0ventasis%20Steponas)
 - [Гуревич Ф. Д](../objektai/autoriai/%D0%93%D1%83%D1%80%D0%B5%D0%B2%D0%B8%D1%87%20%D0%A4.%20%D0%94)
 
+### Grupės
+- [Dominikonų ordinas](../objektai/grupes/Dominikon%C5%B3%20ordinas)
+
 ### Vietos
 - [Pamedė](../objektai/vietos/Pamed%C4%97)
+- [Seinai](../objektai/vietos/Seinai)
 
 ### Įvykiai
 - [Lietuvos krikštas (1387 m.)](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas%20%281387%20m.%29)

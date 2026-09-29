@@ -62,5 +62,6 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

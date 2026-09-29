@@ -76,5 +76,6 @@ Bet iki Vy­ tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

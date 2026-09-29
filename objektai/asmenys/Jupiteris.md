@@ -76,8 +76,28 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195727
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
+  citata_originali: |
+    156
+    Iš tikrųjų graikų poetai pateikia mitinę ¡sakmę apie
+    gintarą. Anot jos, kartą saulės sūnus Fajetonas įsigeidė
+    pasivažinėti po dangų tėvo arkliais, ¡bet, nesuvaldęs dan­
+    gaus kinkinio, sutrikdė dienos žvaigždės judėjimą, tai ir
+    sukėlė žemėje ¡baisius padarinius. Jį nukovė Jupiterio strė­
+    lė; jis nukrito iš dangaus ir nuskendo Vakaruose, Eridane.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Targitas]]

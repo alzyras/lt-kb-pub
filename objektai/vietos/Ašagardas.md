@@ -36,28 +36,6 @@ historical_names: []
 
 Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo Tautų sambūriu vadintus rūmus.
 
-## Teiginiai
-
-<a id="claim-t-188979"></a>
-- t-001
-  teiginys: "Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo Tautų sambūriu vadintus rūmus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Katinai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašagardas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Katinai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašagardas\" parinktas kaip owner_note_path. Targetas \"Katinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171868
-
 ## Citatos
 
 - id: c-171868
@@ -78,5 +56,4 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

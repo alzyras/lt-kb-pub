@@ -31,14 +31,13 @@ canonical_biography: "Atpažintas žuvęs partizanas Steponas Karosas."
 
 1946 m. rugpjūčio 18 d. Sedeikių kaime per kautynes Bronės Dūdaitės namuose žuvo partizanas Steponas Karosas, kurį atpažino.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1946 m. rugpjūčio 18 d. Sedeikių kaime per kautynes Bronės Dūdaitės namuose žuvo partizanas Steponas Karosas, kurį atpažino.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213381
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 207"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 207."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

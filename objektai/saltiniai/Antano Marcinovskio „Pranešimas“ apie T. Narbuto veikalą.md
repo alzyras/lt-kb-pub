@@ -58,5 +58,6 @@ Marcinovskis LTI vadina „do vana visuomenei“ ir sako, jog pirmą kartą Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

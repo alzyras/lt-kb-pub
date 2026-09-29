@@ -31,17 +31,22 @@ canonical_biography: "Vladas Gogelis gyveno Svėdasų miestelyje. 1949 m. vasari
 
 Svėdasų miestelyje gyvenęs Vladas Gogelis pranešdavo apie sovietinius aktyvistus ir kariuomenės judėjimą bei aprūpindavo maisto produktais. 1949 m. vasario 16 d. Svėdasuose buvo nuplėšti trys lapeliai; kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ autorė Ona Dapšytė-Kriukelienė juos vadina antisovietiniais.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Svėdasų miestelyje gyvenęs Vladas Gogelis pranešdavo apie sovietinius aktyvistus ir kariuomenės judėjimą bei aprūpindavo maisto produktais.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 324"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-230789"></a>
+- t-001
+  teiginys: "Svėdasų miestelyje gyvenęs Vladas Gogelis pranešdavo apie sovietinius aktyvistus ir kariuomenės judėjimą bei aprūpindavo maisto produktais."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:18Z"
+  pagrindžia:
+    - c-211427
+
+## Reikšmingi paminėjimai
 - c-002
   santrauka: '1949 m. vasario 16 d. Svėdasuose buvo nuplėšti trys lapeliai; kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ autorė Ona Dapšytė-Kriukelienė juos vadina antisovietiniais.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
@@ -51,3 +56,17 @@ Svėdasų miestelyje gyvenęs Vladas Gogelis pranešdavo apie sovietinius aktyvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-211427
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 324"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 324."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

@@ -73,5 +73,6 @@ Po Atilos mirties Elagas, Dengizakas ir Ernakas pradėjo kovoti dėl aukščiaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

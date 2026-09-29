@@ -97,7 +97,10 @@ export function buildRelationTargetMap(documents: RelationDocument[]): RelationT
   const index = new Map<string, RelationTargetCandidate>()
 
   for (const document of documents) {
-    if (!document.filePath.startsWith("objektai/") || document.filePath.startsWith("objektai/saltiniai/")) {
+    if (
+      !document.filePath.startsWith("objektai/") ||
+      document.filePath.startsWith("objektai/saltiniai/")
+    ) {
       continue
     }
 
@@ -115,7 +118,11 @@ export function buildRelationTargetMap(documents: RelationDocument[]): RelationT
     addLabel(index, parsed.pavadinimas as string, slug, "", 3)
     addLabel(index, parsed.title as string, slug, type, 3)
     addLabel(index, parsed.title as string, slug, "", 3)
-    for (const alias of [...asStrings(parsed.aliases), ...asStrings(parsed.alias)]) {
+    for (const alias of [
+      ...asStrings(parsed.aliases),
+      ...asStrings(parsed.alias),
+      ...asStrings(parsed.entity_aliases),
+    ]) {
       addAlias(index, alias, slug, type)
       addAlias(index, alias, slug)
     }
@@ -135,7 +142,12 @@ export function readRelationDocuments(
 ): RelationDocument[] {
   return filePaths
     .filter((filePath) => filePath.endsWith(".md"))
-    .filter((filePath) => !INTENTIONAL_IGNORED_OBJECT_PAGES.includes(filePath as (typeof INTENTIONAL_IGNORED_OBJECT_PAGES)[number]))
+    .filter(
+      (filePath) =>
+        !INTENTIONAL_IGNORED_OBJECT_PAGES.includes(
+          filePath as (typeof INTENTIONAL_IGNORED_OBJECT_PAGES)[number],
+        ),
+    )
     .map((filePath) => {
       const absolutePath = path.resolve(rootDir, filePath)
       if (!fs.existsSync(absolutePath)) return null
@@ -169,9 +181,11 @@ export function relationTargetKindFromValue(value: string): string {
     .join(":")
     .split(",")
     .map((part) => cleanLabel(part).split("=", 1)[0]?.trim().toLowerCase() ?? "")
-  return parts.map((part) => TARGET_KIND_TO_TYPE[part] ?? part).find((part) =>
-    Object.values(TARGET_KIND_TO_TYPE).includes(part),
-  ) ?? ""
+  return (
+    parts
+      .map((part) => TARGET_KIND_TO_TYPE[part] ?? part)
+      .find((part) => Object.values(TARGET_KIND_TO_TYPE).includes(part)) ?? ""
+  )
 }
 
 export function relationTargetKey(label: string, type = ""): string {
@@ -181,18 +195,27 @@ export function relationTargetKey(label: string, type = ""): string {
 
 export function relationTargetExactKey(label: string, type = ""): string {
   const normalized = normalizeExactRelationLabel(label)
-  return type && normalized ? `exact|${type}|${normalized}` : normalized ? `exact|${normalized}` : ""
+  return type && normalized
+    ? `exact|${type}|${normalized}`
+    : normalized
+      ? `exact|${normalized}`
+      : ""
 }
 
 export function relationTargetLookupKeys(value: string): string[] {
   const label = relationTargetFromValue(value)
   const type = relationTargetKindFromValue(value)
-  return [
-    relationTargetExactKey(label, type),
-    relationTargetExactKey(label),
-    relationTargetKey(label, type),
-    relationTargetKey(label),
-  ].filter((key, index, keys) => Boolean(key) && keys.indexOf(key) === index)
+  const labels = label.startsWith("objektai/")
+    ? [label, label.split("/").filter(Boolean).at(-1) ?? label]
+    : [label]
+  return labels
+    .flatMap((candidate) => [
+      relationTargetExactKey(candidate, type),
+      relationTargetExactKey(candidate),
+      relationTargetKey(candidate, type),
+      relationTargetKey(candidate),
+    ])
+    .filter((key, index, keys) => Boolean(key) && keys.indexOf(key) === index)
 }
 
 export function relationTargetSlug(
@@ -218,9 +241,9 @@ export function relationTargetWikilinks(markdown: string): string[] {
   const body = markdown.slice(bodyStart)
   const nextHeading = body.search(/^##\s+/m)
   const section = nextHeading >= 0 ? body.slice(0, nextHeading) : body
-  const targets = [
-    ...section.matchAll(/\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g),
-  ].map((match) => match[1].trim())
+  const targets = [...section.matchAll(/\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g)].map(
+    (match) => match[1].trim(),
+  )
   for (const match of section.matchAll(/\]\(([^)#]+)(?:#[^)]*)?\)/g)) {
     targets.push(match[1].trim())
   }
@@ -253,7 +276,6 @@ export function buildCanonicalRelationIndex(
       const targetSlug = relationTargetSlug(rawTarget, relationTargetMap)
       if (targetSlug) add(targetSlug)
     }
-
   }
   return [...byPair.values()]
 }

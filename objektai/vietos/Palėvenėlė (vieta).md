@@ -7,7 +7,6 @@ variantai:
 aliases:
   - 'Palėvenėlė'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1892 m.'
@@ -42,6 +41,10 @@ place_authority: true
 historical_names: []
 ---
 # Palėvenėlė (vieta)
+
+## Santrauka
+
+Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasis kelio ruožas nuo Zuntės gatvės iki Palėvenėlės kaimo liko marių dugne, o vietoj jo buvo nutiestas naujas kelias. Vėžionys ribojosi su Iciūnų kaimo žemėmis, priklausiusiomis Palėvenėlės dvarui.
 
 ## Santrauka
 
@@ -124,15 +127,6 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-009
-  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad Subačiaus miestelio stribas Petras Masilionis buvo nušautas per susišaudymą netoli Palėvenėlės kaimo 1946 m. gruodį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "p. 325-326 (PDF 326-327)"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-206635
@@ -144,5 +138,6 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

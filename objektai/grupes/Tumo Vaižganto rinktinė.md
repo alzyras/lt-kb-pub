@@ -76,5 +76,6 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

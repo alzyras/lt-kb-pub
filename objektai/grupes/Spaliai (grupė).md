@@ -66,5 +66,6 @@ Siame žygyje jie ėjo per spalių kraštą, kurio gyvento jus pasiėmė kartu s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

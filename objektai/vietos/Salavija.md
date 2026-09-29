@@ -103,6 +103,28 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   pagrindžia:
     - c-179398
 
+<a id="claim-t-213135"></a>
+- t-213135
+  teiginys: "Vienuolikta Prūsijos provincija buvo Salavija, Schalaueri."
+  atnaujinta: "2026-09-20 21:53"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-215773"></a>
+- t-215773
+  teiginys: "Salavija nebuvo tikra prūsų lygos provincija, nes jai priklausė Rusia."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197138
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti.'
@@ -141,7 +163,7 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175572
@@ -165,7 +187,7 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179398
@@ -191,8 +213,72 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195242
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
+  citata_originali: |
+    Tačiau, kai joje dar prieš bendrą
+    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
+    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
+    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
+    to arba svarbesnė pilis buvo Salava, be to, manoma,
+    kad Tilžės apylinkėse. Ten, miškuose, yra akmeninių pas­
+    tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
+    šios žemės senovę. Ptolemėjas žinojo Salavijos gyvento­
+    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
+    tavimo laikais didelė dalis šios žemės II krikščioniškosios
+    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
+    kuriuo ją ir vadino svetimšaliai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196310
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
+  citata_originali: |
+    Ptolemėjas žinojo Salavijos gyvento­
+    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
+    tavimo laikais didelė dalis šios žemės II krikščioniškosios
+    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
+    kuriuo ją ir vadino svetimšaliai. Rytuose ji ribojosi su
+    Sudargija, pietuose — su Nadruva, vakaruose — su Kur­
+    šių mariomis, o šiaurėje — su Žemaitija.
+    267
+    Sudargija (Sudargia).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197138
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
+  citata_originali: |
+    Salavija nebuvo tikra prūsų lygos provincija,
+    nes jai priklausė Rusia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215773
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Rusia]]

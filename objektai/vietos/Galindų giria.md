@@ -70,5 +70,6 @@ Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

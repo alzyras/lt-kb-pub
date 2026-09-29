@@ -79,5 +79,6 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

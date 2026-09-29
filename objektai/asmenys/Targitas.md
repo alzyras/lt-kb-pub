@@ -78,6 +78,18 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
   pagrindžia:
     - c-174210
 
+<a id="claim-t-213024"></a>
+- t-213024
+  teiginys: "Šaltinis Targitą apibūdina kaip pirmą tikrųjų skitų karalių arba pirmą karališkosios skitų kolonijos valdovą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195708
+
 ## Citatos
 
 - id: c-174209
@@ -103,7 +115,7 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174210
@@ -125,8 +137,55 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195708
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
+  citata_originali: |
+    Si tauta buvo didelė ir galinga, ją
+    valdė karaliai, ji turėjo savo įstatymų, mūrinių pilių ir
+    įžymių karalių kapinių, kurios buvo kažkur prie Dnest­
+    ro1. Tai būtent juos turėjęs valdyti karalius Borėjas, įžy­
+    mus esančio į šiaurę nuo Graikijos krašto valdovas, kurio
+    dukra Boristenė2 pagimdė Targitą, Jupiterio sūnų, pasak
+    graikų padavimų, pirmą tikrųjų skitų karalių arba vei­
+    kiau pirmą valdovą karališkos skitų kolonijos, valdžiu­
+    sios kitas savo genčių kartas. Jiems priklausiusi skitų
+    gentis, vadinama borestenitais, neabejotinai buvo ta, ku­
+    ri davė pradžią karališkiesiems skitams, turėjusiems se­
+    novės kimbrų miestą Boristenį.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213024
+
+- id: c-195991
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
+  citata_originali: |
+    24
+    Kimbrai ir skitai. Visiškai galėjo būti, kad kimbrai,
+    palikę savo pietryčių kraštą gentims*, valdomoms naujų
+    karalių dinastijos, kuri atsirado iš Targito, pradėjusioms
+    garsėti neseniai atneštu iš Azijos skitų vardu, gana di­
+    deliu būriu iškeliavo į Vakarus, kur davė pradžią kel­
+    tams ir įvairiai pavadintoms gentims. Jie įsikūrė dau- 1 2
+    1 Herodot.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Jupiteris]]

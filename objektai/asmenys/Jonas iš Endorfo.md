@@ -99,7 +99,7 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188303
@@ -124,7 +124,7 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

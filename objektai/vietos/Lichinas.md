@@ -80,5 +80,6 @@ Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -24,14 +24,13 @@ media_all_json: |-
 
 Jurgio Guzo atliktų darbų registracija fiksuoja, kad spalio 15 d. pradėta tartis dėl padėties ir nuspręsta steigti partizanų būrį, 16–28 d. parengti jo veikimo įstatai bei miške įrengta štabo slėptuvė, o 29 d. įsteigtas būrio štabas.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Jurgio Guzo atliktų darbų registracija fiksuoja, kad spalio 15 d. pradėta tartis dėl padėties ir nuspręsta steigti partizanų būrį, 16–28 d. parengti jo veikimo įstatai bei miške įrengta štabo slėptuvė, o 29 d. įsteigtas būrio štabas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214515
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 69"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 69."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:43"

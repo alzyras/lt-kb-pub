@@ -77,5 +77,6 @@ Seminarijos bažnyčioje aukuro stovylos gulėjo pavirtusios ant žemės ir ant 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -23,26 +23,42 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Bonifacas Kukuška"]
 sameAs: []
-canonical_biography: "Bonifacas Kukuška-Klajūnas pabėgo."
 ---
 # Bonifacas Kukuška
 
 ## Santrauka
 
-Bonifacas Kukuška-Klajūnas pabėgo.
+
 
 ## Santrauka
 
-Bonifacas Kukuška-Klajūnas pabėgo.
 
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Bonifacas Kukuška-Klajūnas pabėgo.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Teiginiai
+
+<a id="claim-t-232021"></a>
+- t-001
+  teiginys: ""
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-212659
+
+## Citatos
+
+- id: c-212659
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 95"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 95."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

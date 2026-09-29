@@ -144,6 +144,18 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-176601
 
+<a id="claim-t-210455"></a>
+- t-210455
+  teiginys: "Vytautas paskyrė Saladiną Ordos chanu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193924
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Ir jis paskyrė jiems chaną, vardu Saladiną7 .'
@@ -180,7 +192,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-79117
@@ -215,7 +227,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -237,7 +249,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-176601
@@ -258,8 +270,30 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-193924
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
+  citata_originali: |
+    O tas chanas,
+    kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
+    skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
+    jam valdovui, paliko chanystę ir pabėgo. O pats
+    Saladinas, atvykęs į Ordą, sėdo į chanų sostą, kaip bu­
+    vo didžiojo valdovo, vadinamo Vytautu, liepta. Ir tar­
+    navo šlovingajam valdovui, persiėmęs didžia baime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210455
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]

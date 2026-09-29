@@ -95,5 +95,6 @@ Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

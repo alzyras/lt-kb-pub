@@ -38,23 +38,57 @@ canonical_biography: "Povilas Laužikas gimė Astravų kaime, Kupiškio valsčiu
 
 Povilas Laužikas-Liudas, Antano sūnus, 1914 m. gimė Astravų kaime, Kupiškio valsčiuje, o 1944 m. vokiečiams pasitraukus įstojo į Albino Tindžiulio-Dėdės partizanų junginį. 25 metų Jonas Skardžius-Rakštis gyveno Astravų kaime, Kupiškio valsčiuje, ir nuo 1944 m. buvo partizanas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Povilas Laužikas-Liudas, Antano sūnus, 1914 m. gimė Astravų kaime, Kupiškio valsčiuje, o 1944 m. vokiečiams pasitraukus įstojo į Albino Tindžiulio-Dėdės partizanų junginį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-230712"></a>
+- t-001
+  teiginys: "Povilas Laužikas-Liudas, Antano sūnus, 1914 m. gimė Astravų kaime, Kupiškio valsčiuje, o 1944 m. vokiečiams pasitraukus įstojo į Albino Tindžiulio-Dėdės partizanų junginį."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:15Z"
+  pagrindžia:
+    - c-211350
+
+<a id="claim-t-230713"></a>
+- t-002
+  teiginys: "25 metų Jonas Skardžius-Rakštis gyveno Astravų kaime, Kupiškio valsčiuje, ir nuo 1944 m. buvo partizanas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:15Z"
+  pagrindžia:
+    - c-211351
+
+## Citatos
+
+- id: c-211350
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 289"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 289."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: '25 metų Jonas Skardžius-Rakštis gyveno Astravų kaime, Kupiškio valsčiuje, ir nuo 1944 m. buvo partizanas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211351
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 290"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 290."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

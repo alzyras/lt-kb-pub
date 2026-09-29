@@ -63,3 +63,24 @@ canonical_biography: "Koniskio inicijuotas statybas Mogiliave."
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190648
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 255"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 255."
+  citata_originali: |
+    Nuo 1748 m. iki 1762 m. J. K. Glaubicas reguliariai lankėsi Strunioje ir Polocke,
+    kur statė metropolito rezidenciją ir Sv. Sofijos katedrą, nuo 1749 m. statė Zabie-
+    lų-Valyncų dominikonų bažnyčią (konsekruota 1756 m.), nuo 1756 m. iki 1763 m.
+    koordinavo arkivyskupo G. Koniskio inicijuotas statybas Mogiliave.
+  citata_rodoma: "nuo 1756 m. iki 1763 m. \nkoordinavo arkivyskupo G. Koniskio inicijuotas statybas Mogiliave."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

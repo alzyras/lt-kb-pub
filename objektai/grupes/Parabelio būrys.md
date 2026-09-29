@@ -8,10 +8,10 @@ datos:
   - '1948 m.'
 date_start: '1927'
 date_end: '1948'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,23 +31,13 @@ media_all_json: |-
 
 1948 m. sausio 22 d. agento „Kazio“ pranešime teigta, kad partizanai iš Parabelio (Kazio Jatkevičiaus) būrio nuolat lankydavosi pas Emiliją Puronienę. Partizanė Danutė Dovydėnaitė-Vosylienė priklausė Parabelio (Kazio Jatkevičiaus) būriui ir 1948 m. rugpjūčio 4 d. buvo nušauta Šimonių girioje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1948 m. sausio 22 d. agento „Kazio“ pranešime teigta, kad partizanai iš Parabelio (Kazio Jatkevičiaus) būrio nuolat lankydavosi pas Emiliją Puronienę.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213831
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 307"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 307."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Partizanė Danutė Dovydėnaitė-Vosylienė priklausė Parabelio (Kazio Jatkevičiaus) būriui ir 1948 m. rugpjūčio 4 d. buvo nušauta Šimonių girioje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 314"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+  atnaujinta: "2026-09-28 17:40"

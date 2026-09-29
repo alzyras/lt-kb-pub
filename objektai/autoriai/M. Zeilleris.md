@@ -85,5 +85,6 @@ Zeilleris 151 ; ta istorija anuomet buvo labai vertinama ir susilaukė keletos l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

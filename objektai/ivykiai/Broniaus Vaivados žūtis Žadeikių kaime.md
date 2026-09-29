@@ -2,7 +2,6 @@
 tipas: ivykis
 pavadinimas: 'Broniaus Vaivados žūtis Žadeikių kaime'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1949 m.'
@@ -30,7 +29,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Partizanas Bronius Vaivada buvo nukautas Žadeikių kaime 1951 m. sausio 31 d. Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1951 m. sausio 31 d. Žadeikiuose per susišaudymą žuvo 1927 m. gimęs Bronius Vaivada, atpažintas kaip partizanas.
+Partizanas Bronius Vaivada buvo nukautas Žadeikių kaime 1951 m. sausio 31 d.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -57,12 +56,6 @@ Nenurodyta
   statusas: verified
 - t-002
 
-- c-002
-  santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1951 m. sausio 31 d. Žadeikiuose per susišaudymą žuvo 1927 m. gimęs Bronius Vaivada, atpažintas kaip partizanas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 408"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+## Santrauka
+
+Partizanas Bronius Vaivada buvo nukautas Žadeikių kaime 1951 m. sausio 31 d.

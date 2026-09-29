@@ -37,25 +37,24 @@ canonical_biography: "Šulskis-Šulas tapo jo pavaduotoju ir būrio vadu. Antana
 
 ## Santrauka
 
-Antanas Šulskis, partizanų slapyvardžiu Šulas, tapo būrio vadu. Iki 1945 m. gegužės Antanas Šulskis priklausė Šulo būriui, o tų metų gegužę buvo paskirtas partizanų būrio vadu.
+Iki 1945 m. gegužės Antanas Šulskis priklausė Šulo būriui, o tų metų gegužę buvo paskirtas partizanų būrio vadu. Antanas Šulskis-Šulas tapo partizanų būrio vadu.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Antanas Šulskis, partizanų slapyvardžiu Šulas, tapo būrio vadu.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 38"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Iki 1945 m. gegužės Antanas Šulskis priklausė Šulo būriui, o tų metų gegužę buvo paskirtas partizanų būrio vadu.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-212990
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 41"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 41."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"
+
+- id: c-212991
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 38"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 38."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:58"

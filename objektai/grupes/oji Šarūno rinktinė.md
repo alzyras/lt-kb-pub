@@ -24,23 +24,22 @@ media_all_json: |-
 
 Viename aptiktų bunkerių buvo ginklų dirbtuvė, o kitame – sandėlis su ginklais, medikamentais ir 1-osios Šarūno rinktinės 2-osios Algirdo kuopos dokumentais. 1947 m. gegužės 1 d. 2-osios Algirdo kuopos vadas Antanas Starkus-Blinda raporte rašė 1-osios Šarūno rinktinės vadui.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Viename aptiktų bunkerių buvo ginklų dirbtuvė, o kitame – sandėlis su ginklais, medikamentais ir 1-osios Šarūno rinktinės 2-osios Algirdo kuopos dokumentais.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213997
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 188"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 188."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: '1947 m. gegužės 1 d. 2-osios Algirdo kuopos vadas Antanas Starkus-Blinda raporte rašė 1-osios Šarūno rinktinės vadui.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  atnaujinta: "2026-09-28 17:40"
+
+- id: c-213998
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 265"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 265."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:40"

@@ -91,5 +91,6 @@ Per šiuos ir panašius užka riavimus Latgala XII amžiuje buvo tapusi Rusios k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

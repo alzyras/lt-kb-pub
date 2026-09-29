@@ -98,19 +98,6 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   pagrindžia:
     - c-83576
 
-<a id="claim-t-193899"></a>
-- t-003
-  teiginys: "Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176524
-
 <a id="claim-t-193900"></a>
 - t-004
   teiginys: "Kunigaikštis Borisas, Ginvilos sūnus ir Polocko įpėdinis, prie Berezinos upės įkūrė savo vardo miestą Borisovą."
@@ -178,6 +165,16 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   pagrindžia:
     - c-188885
 
+<a id="claim-t-211397"></a>
+- t-211397
+  teiginys: "Borisas įkūrė Borisovą prie Berezinos upės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Kunigaikštis Borisas, Ginvilos sūnus ir Polocko įpėdinis, prie Berezinos upės įkūrė savo vardo miestą Borisovą.'
@@ -241,7 +238,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83576
@@ -271,7 +268,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176524
@@ -296,8 +293,6 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-176525
   autorius: "Anoniminis metraštininkas"
@@ -326,7 +321,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-186610
@@ -344,7 +339,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-187799
@@ -364,7 +359,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188884
@@ -386,7 +381,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188885
@@ -406,7 +401,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 ## Ryšiai

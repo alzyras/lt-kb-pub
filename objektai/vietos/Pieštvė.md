@@ -154,6 +154,18 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   pagrindžia:
     - c-168445
 
+<a id="claim-t-220514"></a>
+- t-220514
+  teiginys: "1294 m. prie Pieštvės pilies buvo pagrobta galvijų kaimenė ir į nelaisvę išvaryta 70 žmonių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203160
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pieštvės pilis buvo deš.'
@@ -206,7 +218,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59033
@@ -229,7 +241,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59034
@@ -256,7 +268,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168445
@@ -292,7 +304,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-006
 
@@ -321,8 +333,27 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-203160
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  citata_originali: |
+    Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas
+    iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei
+    ginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę
+    daug netikėlių, 70 žmonių išsivarė į nelaisvę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220514
 
 ## Ryšiai
 - Puolė Pieštvę: [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]

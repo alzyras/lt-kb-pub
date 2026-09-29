@@ -167,6 +167,42 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   pagrindžia:
     - c-184354
 
+<a id="claim-t-221925"></a>
+- t-221925
+  teiginys: "Konradas buvo Vokietijos kunigas, persikėlęs į Lietuvą atversti stabmeldžių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203568
+
+<a id="claim-t-223091"></a>
+- t-223091
+  teiginys: "Konradas buvo penktas Teutonų namų ordino didysis magistras ir anksčiau – Tiuringijos landgrafas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206199
+
+<a id="claim-t-224246"></a>
+- t-224246
+  teiginys: "Konradas buvo imperatoriaus Fridriko II sūnus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205758
+
 ## Citatos
 
 - id: c-42083
@@ -188,7 +224,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76178
@@ -211,7 +247,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173788
@@ -241,7 +277,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173789
@@ -269,7 +305,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184352
@@ -304,7 +340,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184353
@@ -325,7 +361,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184354
@@ -353,8 +389,117 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-194671
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  citata_originali: |
+    Tad Danielius, palikęs Neb-
+    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
+    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
+    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
+    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
+    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
+    121
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
+    žemių riba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196816
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
+  citata_originali: |
+    Ma­
+    tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
+    priklausomybės ir savarankiškai, vadovaujami savo vadų
+    arba kunigai'kštukų, įvairiais laikais ir keliais veržėsi į
+    Rusią, Lenkiją ir Mazoviją. Taip vadų rankose buvo su­
+    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
+    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
+    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
+    vienas jų išsipirko sumokėdamas septynis šimtus gryno
+    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
+    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
+    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
+    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
+    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
+    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
+    vičius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203568
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
+  citata_originali: |
+    1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė į Lietuvos kraštą
+    atversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,
+    kur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221925
+
+- id: c-205758
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
+  citata_originali: |
+    1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės
+    karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
+    kitais metais pasimirė nunuodytas (Mart. p. 404).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224246
+
+- id: c-206199
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
+  citata_originali: |
+    Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis
+    magistras, mirė liepos 24 dieną, o palaidotas Markburge.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223091
 
 ## Ryšiai
 - Konradas buvo valdovas [[objektai/vietos/Mazovija]]

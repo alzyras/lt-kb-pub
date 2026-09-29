@@ -7,10 +7,10 @@ datos:
   - '1920 m.'
 date_start: '1920'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Jurgeliškių kaimas"]
 sameAs: []
 canonical_biography: "Vladas Valikonis gimė 1920 m. Jurgeliškių kaime, Šimonių valsčiuje."
+place_authority: true
+historical_names: []
 ---
 # Jurgeliškių kaimas
 
@@ -37,14 +39,13 @@ canonical_biography: "Vladas Valikonis gimė 1920 m. Jurgeliškių kaime, Šimon
 
 Vladas Valikonis-Šernas gimė 1920 m. Jurgeliškių kaime, Šimonių valsčiuje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Vladas Valikonis-Šernas gimė 1920 m. Jurgeliškių kaime, Šimonių valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214693
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 291"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 291."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

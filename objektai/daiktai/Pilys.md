@@ -47,25 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-59675"></a>
-- t-001
-  teiginys: "Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.71"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pilys: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sako, kad pilys buvo pastatytos užkariautose Prūsijos žemėse; leistinas ryšys sieja pilis su Prūsija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pilys priklausė Prūsija (0.71); Pilys priklausė Kulmas (0.58); Pilys priklausė Lubava (0.58)"
-  pagrindžia:
-    - c-60306
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.'
@@ -105,8 +86,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

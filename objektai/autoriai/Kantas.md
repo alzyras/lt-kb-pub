@@ -83,5 +83,6 @@ canonical_biography: "1800 m., savo prakalboje Milkės žodynui, tą pareiškė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

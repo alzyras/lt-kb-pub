@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Aleksas Balaišis"]
 sameAs: []
-canonical_biography: "Aleksas Balaišis, gyvenęs Girvalakių kaime, Skapiškio valsčiuje."
 ---
 # Aleksas Balaišis
 
@@ -31,14 +30,14 @@ canonical_biography: "Aleksas Balaišis, gyvenęs Girvalakių kaime, Skapiškio 
 
 Aleksas Balaišis gyveno Girvalakių kaime, Skapiškio valsčiuje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Aleksas Balaišis gyveno Girvalakių kaime, Skapiškio valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-212898
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 107"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 107."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"
+

@@ -119,7 +119,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -141,7 +141,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-97129
@@ -162,7 +162,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175901
@@ -182,5 +182,6 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+

@@ -43,32 +43,82 @@ canonical_biography: "Antano Kaminsko būrys veikė Kupreliškio ir Papilio vals
 
 Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ pateiktoje 1950 m. vasario 2 d. operatyvinėje pažymoje nurodoma, kad Antano Kaminsko būrys veikė Kupreliškio ir Papilio valsčiuose. Petras gyveno Satkūnų kaime, Papilio valsčiuje. Pasak Onos Dapšytės-Kriukelienės kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“, 1945 m. birželį Antano Kaminsko būrio partizanai surengė pasalą Papilio valsčiaus stribams.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ pateiktoje 1950 m. vasario 2 d. operatyvinėje pažymoje nurodoma, kad Antano Kaminsko būrys veikė Kupreliškio ir Papilio valsčiuose.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-230752"></a>
+- t-001
+  teiginys: "Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ pateiktoje 1950 m. vasario 2 d. operatyvinėje pažymoje nurodoma, kad Antano Kaminsko būrys veikė Kupreliškio ir Papilio valsčiuose."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:18Z"
+  pagrindžia:
+    - c-211390
+
+<a id="claim-t-230753"></a>
+- t-002
+  teiginys: "Petras gyveno Satkūnų kaime, Papilio valsčiuje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:18Z"
+  pagrindžia:
+    - c-211391
+
+<a id="claim-t-230754"></a>
+- t-003
+  teiginys: "Pasak Onos Dapšytės-Kriukelienės kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“, 1945 m. birželį Antano Kaminsko būrio partizanai surengė pasalą Papilio valsčiaus stribams."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:18Z"
+  pagrindžia:
+    - c-211392
+
+## Citatos
+
+- id: c-211390
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 144"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 144."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Petras gyveno Satkūnų kaime, Papilio valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211391
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 148"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 148."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Pasak Onos Dapšytės-Kriukelienės kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“, 1945 m. birželį Antano Kaminsko būrio partizanai surengė pasalą Papilio valsčiaus stribams.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+
+- id: c-211392
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 152"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 152."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-003
+

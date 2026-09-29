@@ -7,12 +7,12 @@ datos:
   - '1946 m.'
 date_start: '1946'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,14 +39,13 @@ canonical_biography: "Ratelių kaime gyveno Juozas Lazdynas, kurio namuose bunke
 
 Pagal agento „Diviziono“ duomenis, 1946 m. kovo 3 d. Ratelių kaime gyventojo Juozo Lazdyno bunkeryje slapstėsi partizanai, todėl surengta karinė čekistų operacija.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Pagal agento „Diviziono“ duomenis, 1946 m. kovo 3 d. Ratelių kaime gyventojo Juozo Lazdyno bunkeryje slapstėsi partizanai, todėl surengta karinė čekistų operacija.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213156
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 203"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 203."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

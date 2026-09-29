@@ -68,9 +68,11 @@ Teodoras Narbutas nurodo, kad Jonas Mykolas Narbutas buvo Onos sutuoktinis ir Pr
     metus atvykusių į Lietuvą, palikuonė. Jos sūnus Pranciškus -
     Lydos Narbutų giminės pirmtakas.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

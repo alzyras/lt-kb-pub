@@ -31,21 +31,26 @@ canonical_biography: "1944 m. pabaigoje Kazys Kalpokas suorganizavo apie 150 par
 
 Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o tų metų spalį Girsteikių miške jam pavesta vadovauti Kupreliškio valsčiaus partizanams, kurių būrys vadintas „Kupreliškiečių“ būriu. Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1944–1945 m. karinių čekistų operacijų metu buvo nušauta apie 80 Kazio Kalpoko junginio partizanų. 1946 m. Kazys Kalpokas, įsigijęs fiktyvius Boliaus Rabašausko dokumentus, pasitraukė iš būrio ir gyveno legaliai; 1950 m. kovą Kalpokas pabėgo, kai buvo etapais vežamas į Vilnių, apsigyveno Rygoje, o 1951 m. gruodžio 7 d. vėl buvo suimtas ir nuteistas sušaudyti.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-231718"></a>
+- t-001
+  teiginys: "Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1944–1945 m. karinių čekistų operacijų metu buvo nušauta apie 80 Kazio Kalpoko junginio partizanų."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:01Z"
+  pagrindžia:
+    - c-212356
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o tų metų spalį Girsteikių miške jam pavesta vadovauti Kupreliškio valsčiaus partizanams, kurių būrys vadintas „Kupreliškiečių“ būriu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 131-132"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1944–1945 m. karinių čekistų operacijų metu buvo nušauta apie 80 Kazio Kalpoko junginio partizanų.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 132"
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,3 +83,17 @@ Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o t�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-212356
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 132"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 132."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

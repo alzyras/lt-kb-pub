@@ -24,23 +24,13 @@ media_all_json: |-
 
 Kronikos duomenimis, Antanas Gogelis 1945 m. sausio 20 d. paskirtas devynių desantininkų grupės vadu, o kitą dieną grupė parašiutu nuleista Salamiesčio apylinkėse, Vabalninko valsčiuje, diversinei veiklai. 1945 m. sausio 21 d. naktį „Smerš“ operatyvinė grupė pastebėjo vežimais važiavusius desantininkus; susišaudymo metu Antanas Gogelis buvo sunkiai sužeistas ir suimtas, o kiti grupės nariai pasitraukė miško link.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Kronikos duomenimis, Antanas Gogelis 1945 m. sausio 20 d. paskirtas devynių desantininkų grupės vadu, o kitą dieną grupė parašiutu nuleista Salamiesčio apylinkėse, Vabalninko valsčiuje, diversinei veiklai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213684
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 81"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 81."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: '1945 m. sausio 21 d. naktį „Smerš“ operatyvinė grupė pastebėjo vežimais važiavusius desantininkus; susišaudymo metu Antanas Gogelis buvo sunkiai sužeistas ir suimtas, o kiti grupės nariai pasitraukė miško link.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 81"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+  atnaujinta: "2026-09-28 17:39"

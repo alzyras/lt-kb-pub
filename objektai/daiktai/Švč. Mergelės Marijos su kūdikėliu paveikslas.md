@@ -88,5 +88,6 @@ Sūduvis iš Lenkijos išgabeno Švč. Mergelės Marijos su kūdikėliu ant rank
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

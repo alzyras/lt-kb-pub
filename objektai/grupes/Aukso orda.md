@@ -182,26 +182,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   pagrindžia:
     - c-170420
 
-<a id="claim-t-187443"></a>
-- t-008
-  teiginys: "1501 m. Aukso orda sudarė sąjungą su LDK prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukso orda: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Auksinė Orda: mention_match, group, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukso orda\" parinktas kaip owner_note_path. Targetas \"Auksinė Orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 1501 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-170421
-
 <a id="claim-t-187444"></a>
 - t-009
   teiginys: "Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda."
@@ -242,19 +222,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   pagrindžia:
     - c-42637
 
-<a id="claim-t-193830"></a>
-- t-011
-  teiginys: "Komentare Achmatas vadinamas Aukso ordos chanu, 1459–1481 m. valdžiusiu Kazimiero Jogailaičio sąjungininku ir 1480 m. žygiavusiu prie Ugros."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176474
-
 <a id="claim-t-206130"></a>
 - t-012
   teiginys: "Pasak Narbuto, Mykolas, remiamas svainio Algirdo ir siekdamas didžiojo kunigaikščio pareigų, kreipėsi į Aukso ir Pavolgio ordas valdžiusį Mamajų, kuris jam jas skyrė."
@@ -280,6 +247,30 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
   pagrindžia:
     - c-188746
+
+<a id="claim-t-207501"></a>
+- t-207501
+  teiginys: "Lucko suvažiavime dalyvavo ir Aukso ordos pasiuntiniai."
+  atnaujinta: "2026-09-19 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190118
+
+<a id="claim-t-221382"></a>
+- t-221382
+  teiginys: "1275, 1279 ir 1282 m. Aukso ordos feodalų antpuoliai trukdė baltams bendrai kovoti prieš Kryžiuočių ordiną."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202296
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -325,7 +316,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-42637
@@ -346,7 +337,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-42638
@@ -369,7 +360,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-170420
@@ -392,7 +383,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-170421
@@ -412,8 +403,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-170422
   autorius: "Zenonas Ivinskis"
@@ -433,7 +422,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -461,7 +450,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-170424
@@ -485,7 +474,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-170425
@@ -507,7 +496,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176474
@@ -529,8 +518,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
 
 - id: c-188745
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -554,7 +541,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-188746
@@ -579,8 +566,51 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-190118
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 140"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 140."
+  citata_originali: |
+    Suvažia-
+    vimą inicijavo imperatorius, todėl ir vieta, numatyta iš pradžių Trakuose, buvo perkelta
+    arčiau Vengrijos, į Lucką. Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio
+    ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kuni-
+    gaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldovos, Danijos karaliaus
+    ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavimas rodė išaugusį LDK ir Vytauto
+    vaidmenį regione, o į Lietuvos istoriją jis įėjo pirmiausiai dėl Vytauto vainikavimo plano,
+    kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
+  citata_rodoma: "avime taip pat dalyvavo Maskvos didžiojo kunigaikščio \nir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kuni-\ngaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldovos, Danijos karaliaus \nir Bizantijos imperatoriaus pasiuntiniai. Lucko"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207501
+
+- id: c-202296
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  citata_originali: |
+    Tačiau sudėtinga tarptautinė
+    padėtis, nauji Aukso ordos feodalų antpuoliai iš pietryčių (1275, 1279, 1282 m.) trukdė
+    baltams bendrai kovoti prieš Ordino, Lenkijos ir kitų katalikiškųjų Vakarų Europos šalių
+    feodalų agresiją ir leido kryžiuočiams iki 1283 m. pavergti sūduvių, prūsų žemes iki
+    Nemuno žemupio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221382
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Kijevas]]

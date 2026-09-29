@@ -88,5 +88,6 @@ Teodoro Narbuto pasakojime Kaributaitis, pasitikęs Rusios karius su duona ir dr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

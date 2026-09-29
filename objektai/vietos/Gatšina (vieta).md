@@ -70,5 +70,6 @@ Pirmutines kelias dienas rusų žydelis, kaip vėliau paaiškėjo pirklys iš Ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

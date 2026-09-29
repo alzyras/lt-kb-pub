@@ -42,27 +42,6 @@ historical_names: []
 
 Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai.
 
-## Teiginiai
-
-<a id="claim-t-58738"></a>
-- t-001
-  teiginys: "1232 m. Tolede vienas žydas surado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Adomas (auksakalys): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Toledas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Adomas (auksakalys): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Toledas\" parinktas kaip owner_note_path. Targetas \"Adomas (auksakalys)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1232 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko glaustą faktą apie Tolede rastą knygą."
-  pagrindžia:
-    - c-59370
-
 ## Citatos
 
 - id: c-59370
@@ -86,5 +65,4 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

@@ -123,6 +123,42 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   pagrindžia:
     - c-174093
 
+<a id="claim-t-213050"></a>
+- t-213050
+  teiginys: "Kariuo menė, kuriai vadovavo pats skitų karalius Indatiras, ko vojo su Darijum."
+  atnaujinta: "2026-09-20 16:59"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195825
+
+<a id="claim-t-213112"></a>
+- t-213112
+  teiginys: "Apie 520 metus prieš Kristaus gimimą skitus valdė išpuikęs, žiaurus ir nela bai išmintingas monarchas Indatiras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197673
+
+<a id="claim-t-213751"></a>
+- t-213751
+  teiginys: "Tačiau skitų galybė ir reikšmė politinėje arenoje dar buvo nemažos, nes per sų karalius Darijus siekė sąjungos su Indatiru ir norėjo vesti jo dukrą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195504
+
 ## Citatos
 
 - id: c-174091
@@ -148,7 +184,7 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174092
@@ -170,7 +206,7 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174093
@@ -191,8 +227,89 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195504
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
+  citata_originali: |
+    Jis niekino grai­
+    kus ir persus, nes jie buvo svetimi žmonės, o šie savo
+    ruožtu niekino skitus kaip barbarus. Tačiau skitų galybė
+    ir reikšmė politinėje arenoje dar buvo nemažos, nes per­
+    sų karalius Darijus siekė sąjungos su Indatiru ir norėjo
+    vesti jo dukrą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213751
+
+- id: c-195825
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 81."
+  citata_originali: |
+    Šio karo metu jie
+    buvo ištikimiausi ir uoliausi skitų sąjungininkai. Kariuo­
+    menė, kuriai vadovavo pats skitų karalius Indatiras, ko­
+    vojo su Darijum. Persams įžengus į jų žemes, nuosto­
+    liai buvo labai dideli ir apčiuopiamesni negu Skitijoje,
+    kur dirbamos žemės buvo labai mažai ir ji buvo išbarsty­
+    ta didžiuliame plote prie Dnepro.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213050
+
+- id: c-196145
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Šis, priplaukęs su 30 galerų, labai juos sumušė,
+    paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
+    liaus brolis.
+    39
+    Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
+    skitai nė neketino žemintis, pats Darijus patraukė prieš
+    Indatirą. Persų būriai įžengė į Europą ir, graikų sąjun­
+    gininkų remiami, brovėsi Dunojaus link.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197673
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
+  citata_originali: |
+    Apie 520 metus prieš
+    Kristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­
+    bai išmintingas monarchas Indatiras.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213112
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Darijus]]

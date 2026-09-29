@@ -108,31 +108,6 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   pagrindžia:
     - c-83442
 
-<a id="claim-t-194000"></a>
-- t-004
-  teiginys: "Lietuvos metraščio pasakojime Vaidila iš Algirdo tarno ir kepėjo buvo iškeltas valdyti Lydą, o Jogaila jį sutuokė su seserimi Marija."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176625
-
-<a id="claim-t-196874"></a>
-- t-005
-  teiginys: "Vaidila jau buvo iš Drohičino atvykęs į Gardiną."
-  atnaujinta: "2026-07-12 22:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-178954
-
 <a id="claim-t-204011"></a>
 - t-006
   teiginys: "Vaidila gyveno XIV a. antroje pusėje ir priskiriamas įtakingiausiems bei valdovui artimiausiems didikams, gaudavusiems reikšmingesnes beneficijas."
@@ -206,7 +181,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83442
@@ -236,7 +211,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83443
@@ -265,7 +240,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176625
@@ -294,8 +269,6 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-178954
   autorius: "Anoniminis metraštininkas"
@@ -320,8 +293,6 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-186615
   autorius: "Rimvydas Petrauskas"
@@ -362,7 +333,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-189024
@@ -385,7 +356,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-189025
@@ -406,7 +377,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-189026
@@ -430,8 +401,33 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-193351
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 78-79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
+  citata_originali: |
+    O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
+    gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
+    su broliaisM ir su motina, suranda tas sutartis, kurias
+    buvo su vokiečiais sudarę, ir pasiunčia žygūną pas sa­
+    vo sūnų, didįjį kunigaikštį Vytautą, į Drohičiną, pra­
+    nešdamas, kas įvyko. Tas žygūnas suranda didįjį ku-
+    SJ
+
+    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
+    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
+    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
+    dįjį kunigaikštį Kęstutį.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Vaidila keliavo į [[objektai/vietos/Prūsija]]

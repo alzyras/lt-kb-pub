@@ -67,9 +67,11 @@ KAr = Karo Archyvas, Vyriausiojo Kariuomenės Štabo Karo Mokslo skyriaus leidin
   citata_originali: |
     Pp. 159, „SUKILĖLIŲ PULKAI“, Karo archyvas 11, Kaunas, 1925, p. 60-61.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

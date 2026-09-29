@@ -42,21 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194807"></a>
-- t-001
-  teiginys: "Žmonėms pareikalavus, vienas iš die vų surinko visus mūsų krašto šliužus ir, sukišęs į daugybę šikšni nių maišų, įsakė žmonėms nešti juos prie jūros ir nuskandinti, bet su sąlyga, kad neatrištų maišų ir nepažiūrėtų, kas juose yra."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177203
-
 ## Citatos
 
 - id: c-177203
@@ -85,5 +70,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

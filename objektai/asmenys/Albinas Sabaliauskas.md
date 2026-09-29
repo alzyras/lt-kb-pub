@@ -35,14 +35,13 @@ Albinas Sabaliauskas-Markuška iš Gaigalių kaimo buvo Antano Birbilo partizan�
 
 Albinas Sabaliauskas-Markuška iš Gaigalių kaimo buvo Antano Birbilo partizanų būrio vado pavaduotojas.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Albinas Sabaliauskas-Markuška iš Gaigalių kaimo buvo Antano Birbilo partizanų būrio vado pavaduotojas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-212883
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 36"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 36."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

@@ -76,5 +76,6 @@ Jogai la, įėjęs į bažnyčią, ten priėmė krikštą ir Romos tikė jimą, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

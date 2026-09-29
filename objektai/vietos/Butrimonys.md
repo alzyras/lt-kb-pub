@@ -124,7 +124,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-43356
@@ -146,7 +146,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167166
@@ -167,7 +167,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

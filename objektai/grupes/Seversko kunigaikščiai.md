@@ -121,7 +121,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176067
@@ -153,7 +153,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178543
@@ -187,7 +187,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

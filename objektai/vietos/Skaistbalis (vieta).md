@@ -12,10 +12,10 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Skaistbalis","Skaistbalis (vieta)"]
 sameAs: []
 canonical_biography: "Skaistbalio kaimo apylinkėse, Vabalninko valsčiuje, 1945 m. vyko kautynės."
+place_authority: true
+historical_names: []
 ---
 # Skaistbalis (vieta)
 
@@ -42,14 +44,13 @@ canonical_biography: "Skaistbalio kaimo apylinkėse, Vabalninko valsčiuje, 1945
 
 Kupiškio krašto partizanų kronikoje nurodoma, kad persekiojant Vytauto Šato ir Juozo Aukštikalnio būrių partizanus, Skaistbalio kaimo apylinkėse, Vabalninko valsčiuje, per kautynes su stribais sunkiai sužeistas būrio vadas Juozas Aukštikalnis.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Kupiškio krašto partizanų kronikoje nurodoma, kad persekiojant Vytauto Šato ir Juozo Aukštikalnio būrių partizanus, Skaistbalio kaimo apylinkėse, Vabalninko valsčiuje, per kautynes su stribais sunkiai sužeistas būrio vadas Juozas Aukštikalnis.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214923
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 152"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 152."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

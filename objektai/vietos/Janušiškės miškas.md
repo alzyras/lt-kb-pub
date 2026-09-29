@@ -23,7 +23,8 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Janušiškės miškas"]
 sameAs: []
-canonical_biography: "Suimtas 1951 m. spalio 12 d. Janušiškės miške."
+place_authority: true
+historical_names: []
 ---
 # Janušiškės miškas
 
@@ -31,14 +32,14 @@ canonical_biography: "Suimtas 1951 m. spalio 12 d. Janušiškės miške."
 
 1951 m. spalio 12 d. Janušiškės miške buvo suimtas asmuo.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1951 m. spalio 12 d. Janušiškės miške buvo suimtas asmuo.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214671
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 141"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 141."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"
+

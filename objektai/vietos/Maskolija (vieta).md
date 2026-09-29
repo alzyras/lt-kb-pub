@@ -92,9 +92,11 @@ Pasak J. Basanavičiaus, J. Miklašis buvo sulaikytas pasienyje grįždamas į M
     smulkios intrigos nesiliovē ir jis priverstas buvo
     persikelt vidun Maskolijos.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

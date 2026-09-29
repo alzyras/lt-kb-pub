@@ -158,6 +158,30 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   pagrindžia:
     - c-170522
 
+<a id="claim-t-211195"></a>
+- t-211195
+  teiginys: "Drucko kunigaikščiai pasitiko Vytautą ir stojo jam tarnauti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193683
+
+<a id="claim-t-211507"></a>
+- t-211507
+  teiginys: "Vytautas su Jogaila vėliau pietavo pas Drucko kunigaikštį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193796
+
 ## Citatos
 
 - id: c-43408
@@ -180,7 +204,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-43409
@@ -210,7 +234,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-67601
@@ -226,11 +250,12 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     artino prie Vitebsko. Švitrigaila susilaukė pagalbos ir iš Smo­
     lensko.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168308
@@ -266,7 +291,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-170522
@@ -285,8 +310,46 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-193683
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 94"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 94."
+  citata_originali: |
+    Didysis kunigaikštis Vytautas pasiėmė su sa­
+    vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
+    nę, ir išžygiavo į Vitebsko miestą prieš kunigaikštį
+    Švitrigailą'. Pirmiausia atvyko prie Drucko pilies.
+    Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211195
+
+- id: c-193796
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 99"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 99."
+  citata_originali: |
+    Grįždami atgal ', |Vytautas su Jogailai užsuko į
+    Drucką2 ir pietavo pas Drucko kunigaikštį Semioną
+    Dimitrijevičių3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211507
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Petras Šuiskis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

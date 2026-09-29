@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Jonas Kalkis"]
 sameAs: []
-canonical_biography: "Kalkis, Juozo sūnus, gimė 1916 m. Lebeniškių kaime; vokiečių okupacijos metais dirbo raštininku Biržų saugumo įstaigoje. Jonas Kalkis, būrio vadas, antisovietinės spaudos leidėjas. Jonas Kalkis (Kalkys), gimęs 1917 m., buvo partizanų būrio vadas ir priklausė Albino Tindžiulio junginiui; 1947 m. sausio 11 d. buvo suimtas."
+canonical_biography: "Kalkis, Juozo sūnus, gimė 1916 m. Lebeniškių kaime; vokiečių okupacijos metais dirbo raštininku Biržų saugumo įstaigoje. Jonas Kalkis (Kalkys), gimęs 1917 m., buvo partizanų būrio vadas ir priklausė Albino Tindžiulio junginiui; 1947 m. sausio 11 d. buvo suimtas."
 ---
 # Jonas Kalkis
 
@@ -40,32 +40,82 @@ canonical_biography: "Kalkis, Juozo sūnus, gimė 1916 m. Lebeniškių kaime; vo
 
 Jonas Kalkis (Kalkys)-Vėtra, Juozo sūnus, gimė 1916 m. Lebeniškių kaime, dirbo raštininku Biržų saugumo įstaigoje vokiečių okupacijos metais, o vėliau tapo partizanų būrio vadu ir 1947 m. sausio 11 d. buvo suimtas. Jonas Kalkis vadovavo partizanų būriui ir leido antisovietinę spaudą. Jonas Kalkis (Kalkys), 1917 m. gimęs Lebeniškių kaime, Vabalninko valsčiuje, vokiečių okupacijos metais dirbo Biržų saugumo įstaigoje, vėliau tapo partizanų būrio vadu ir priklausė Albino Tindžiulio partizanų junginiui.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Jonas Kalkis (Kalkys)-Vėtra, Juozo sūnus, gimė 1916 m. Lebeniškių kaime, dirbo raštininku Biržų saugumo įstaigoje vokiečių okupacijos metais, o vėliau tapo partizanų būrio vadu ir 1947 m. sausio 11 d. buvo suimtas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231761"></a>
+- t-001
+  teiginys: "Jonas Kalkis (Kalkys)-Vėtra, Juozo sūnus, gimė 1916 m. Lebeniškių kaime, dirbo raštininku Biržų saugumo įstaigoje vokiečių okupacijos metais, o vėliau tapo partizanų būrio vadu ir 1947 m. sausio 11 d. buvo suimtas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
+  pagrindžia:
+    - c-212399
+
+<a id="claim-t-231762"></a>
+- t-002
+  teiginys: "Jonas Kalkis vadovavo partizanų būriui ir leido antisovietinę spaudą."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
+  pagrindžia:
+    - c-212400
+
+<a id="claim-t-231763"></a>
+- t-003
+  teiginys: "Jonas Kalkis (Kalkys), 1917 m. gimęs Lebeniškių kaime, Vabalninko valsčiuje, vokiečių okupacijos metais dirbo Biržų saugumo įstaigoje, vėliau tapo partizanų būrio vadu ir priklausė Albino Tindžiulio partizanų junginiui."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
+  pagrindžia:
+    - c-212401
+
+## Citatos
+
+- id: c-212399
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 144"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 144."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Jonas Kalkis vadovavo partizanų būriui ir leido antisovietinę spaudą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-212400
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 145"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 145."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Jonas Kalkis (Kalkys), 1917 m. gimęs Lebeniškių kaime, Vabalninko valsčiuje, vokiečių okupacijos metais dirbo Biržų saugumo įstaigoje, vėliau tapo partizanų būrio vadu ir priklausė Albino Tindžiulio partizanų junginiui.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+
+- id: c-212401
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 256"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 256."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-003
+

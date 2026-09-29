@@ -84,5 +84,6 @@ Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

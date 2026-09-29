@@ -407,18 +407,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   pagrindžia:
     - c-173752
 
-<a id="claim-t-197746"></a>
-- t-021
-  teiginys: "Herodotas nukrito iš dangaus ir nuskendo Vakaruose, Eridane."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179322
-
 <a id="claim-t-197747"></a>
 - t-022
   teiginys: "Senovės amžių neurai, anot paties Herodoto, gyveno Dnepro vidurupio kairiojoje pakrantėje, o iš ten persikėlė j dešiniąją pakrantę todėl, kad jiems pradėjo įkyrėti neapsakoma daugybė žalčių; bet niekur nesakoma, kad jie visiškai išsikėlė iš kairiosios pakran."
@@ -490,6 +478,54 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173763
+
+<a id="claim-t-210356"></a>
+- t-210356
+  teiginys: "Herodotas buvo kilęs iš Halikarnaso, dorėnų krašto."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197189
+
+<a id="claim-t-213756"></a>
+- t-213756
+  teiginys: "Toks skitų tautos bruožų vaizdas susidaro iš Herodoto, kuris pats asme niškai keliavo su ta tautai, kūrinių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195382
+
+<a id="claim-t-214924"></a>
+- t-214924
+  teiginys: "Herodoto aprašymų patikimumą T. Narbutas siejo su bendresne praeities rekonstravimo problema."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196102
+
+<a id="claim-t-215662"></a>
+- t-215662
+  teiginys: "Skitų įpročius, papročius ir religi ją iš dalies aprašė Herodotas, bet tai nelabai reikalinga mūsų dalykui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195287
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -624,7 +660,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173749
@@ -646,7 +682,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173750
@@ -670,7 +706,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173751
@@ -691,7 +727,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-019
 
@@ -715,7 +751,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-173753
@@ -738,7 +774,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173754
@@ -764,7 +800,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173756
@@ -784,7 +820,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-173757
@@ -806,7 +842,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-173758
@@ -828,7 +864,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-173759
@@ -852,7 +888,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-023
 
@@ -877,7 +913,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-024
 
@@ -902,7 +938,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-026
 
@@ -931,7 +967,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-173763
@@ -960,7 +996,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-027
 
@@ -995,7 +1031,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-016
 
@@ -1016,7 +1052,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-177103
@@ -1042,7 +1078,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-179322
@@ -1066,8 +1102,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
 
 - id: c-179323
   autorius: "Teodoras Narbutas"
@@ -1091,7 +1125,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-179324
@@ -1113,9 +1147,434 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-025
+
+- id: c-194588
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 59."
+  citata_originali: |
+    Manoma, kad šis pavadinimas atsirado ne iš
+    itin gausios tautos, turėjusios tokį vardą, tačiau istoriš­
+    kai pirmykštė jos kilmė taip ir nenustatyta. Herodotas,
+    pats tiksliausias iš senovės rašytojų, palikęs tiek daug
+    pasaulio istoriją dominančių smulkmenų, sarmatams ski­
+    ria pusiau pasakiškas ištakas, neva jie yra neteisėto guo­
+    lio vaikai, gimę iš amazonių ir skitų. Tačiau tai nepaaiš­
+    kina šios genties istorijos, o tik rodo, kad ji esanti pu­
+    siau skitų kilmės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194980
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
+  citata_originali: |
+    Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta
+    nagrinėti faktus ir girdėti įrodytas tiesas. Taip ir gelonus
+    su budinais ¡buvo teilktasi vienu plunksnos brūkštelėjimu
+    priskirti prie pasakų skyriaus, nes senovės tyrinėtojai nu­
+    stato vienu metu dvejopą jų padėtį, — tai galėjo lemti
+    net ir Herodoto geografija. Tačiau šie įrodymai negali pa­
+    teisinti mūsų tyrinėtojo nuomonės, nes jis, rašydamas ne-
+    klystančiojo stiliumi, neatsižvelgė į juos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195052
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 75."
+  citata_originali: |
+    60
+    Iš Herodoto žinome, kad budinai savo žemėje turėjo
+    pastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­
+    vienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­
+    kų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo
+    labai didingos, jose taip pat stovėdavo medinės šventyk­
+    los, kuriose buvo helenų dievai, garbinami heleniškai,
+    altoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­
+    davo minimos Dioniso (Bacho) šventės ir vykdavo bak­
+    chanalijos. Pasak to paties istoriko, budinu giminei bū­
+    dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai
+    žmonės, turi šviesiai mėlynas akis“1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195075
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
+  citata_originali: |
+    Tad šis kraštas turėtų
+    būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
+    ieškoma tokio pavadinimo upės, bet nerasta; mes ma­
+    nome, kad tai turėtų būti dabartinė Desna, o Hipakyris
+    dabar vadinamas Seimo upe. Šios upės, susiliejančios
+    netoli Dnepro žiočių, iš tikrųjų išteka iš skirtingų kraštų;
+    tai sako ir Herodotas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195287
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  citata_originali: |
+    Skitų įpročius, papročius ir religi­
+    ją iš dalies aprašė Herodotas, bet tai nelabai reikalinga
+    mūsų dalykui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215662
+
+- id: c-195382
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
+  citata_originali: |
+    Toks skitų tautos
+    bruožų vaizdas susidaro iš Herodoto, kuris pats asme­
+    niškai keliavo su ta tautai, kūrinių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213756
+
+- id: c-195657
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
+  citata_originali: |
+    Tik tenykščiai graikų boristeniečiai, prekiavę šiais
+    gaminiais, atkeliaujančiais į Karkinę per Pantikapą iš
+    Aldesko, galėjo paaiškinti jam minėtus dalykus. Jie taip
+    pat pripaistė jį įbauginusių dalykų apie Šiaurę ir atėmė
+    bet kokį norą tęsti kelionę. Jei jis būtų lankęsis tik Dnep­
+    ro žemupyje esančiose tenykštėse graikų kolonijose, ne­
+    būtų taip įtikinamai aprašęs Gerų krašto ir kitų smulk­
+    menų, susijusių su šiaurės vakarų Skitija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195958
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
+  citata_originali: |
+    Priartinus mūsų tyrimus prie
+    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
+    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196102
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 20"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 20."
+  citata_originali: |
+    Herodoto aprašymų patikimumo proble­
+    mą T. Narbutas išplėtojo iki praeities rekonstravimo prob­
+    lemos apskritai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214924
+
+- id: c-196118
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 384"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 384."
+  citata_originali: |
+    O tas, kuris buvo piktas ir
+    nusikalsdavo, negaudavo jokio pilkapio, ir jį surydavo
+    žvėrys. Tai buvo karingi medžiokliai skitai“1.
+    Herodotas rašo (IV knyga), kad prie Molocho van­
+    denų arba, kaip mano kiti, kažkur aukščiau kairiojo Dnep­
+    ro kranto matęs skitų kapų, o kiti, jo nuomone, turi būti
+    kažkur šiauriau Gerų krašte, kur taip pat teka to paties
+    pavadinimo upė; ten skitai nuo Dnepro žemupio atveža
+    laidoti savo mirusiuosius galbūt dėl to, kad šis kraštas
+    kažkada buvęs jų protėvių gyvenamoji vieta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196155
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 81."
+  citata_originali: |
+    Pats Herodotas, tą patį manydamas apie gelonus ir bu­
+    dinus, teigia, jog jie turėję tvirtoves ir tokį nekilnojamąjį
+    turtą, kurį sunaikino persų antpuolis. Šio karo metu jie
+    buvo ištikimiausi ir uoliausi skitų sąjungininkai. Kariuo­
+    menė, kuriai vadovavo pats skitų karalius Indatiras, ko­
+    vojo su Darijum.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196605
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
+  citata_originali: |
+    Štai kaip P. J. Safar­
+    žykas apibūdino T. Narbuto pamėgtuosius budinus: ,,<...>
+    Herodoto budinai buvo venedų tauta, ir mums didelė pa­
+    guoda, jog jau tokiais ankstyvais amžiais toks patikimas
+    rašytojas duoda mums akivaizdų atminimą senovinės
+    tautos, kurią, protingai apsvarsčius visas galimybes, kiek­
+    vienas protaujantis slavas drąsiai, be jokios apgaulės
+    gali laikyti savo padermės šaka“3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196748
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
+  citata_originali: |
+    Peržvelgėme visus mums žinomus išspausdintus ty­
+    rinėjimus apie Gero upę ir kraštą, be to, stebėjome patys
+    vietoje, bet negalėjome sutikti su jokia išvada. Niekas iš
+    gerai pažintų dalykų neatitinka labiau tikrovės už mūsų
+    1 Herodotas buvo kilęs iš Halikarnaso, dorėnų krašto. Jis gimė
+    apie 484 metus, mirė apie 400 metus prieš Kristaus gimimą. Begis,
+    Šamo saloje jis pirkliavo. Mokytas, protingas vyras sugebėjo smal­
+    sumą derinti su sveiku protu, aplankė dalį Azijos, Afriką, Siaurės
+    Graikiją, pabuvo vakarinėse Juodosios jūros pakrantėse, gyveno 01-
+    biįoje ir tikriausiai apkeliavo Bugo bei Dnepro pakrantes.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196913
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
+  citata_originali: |
+    Herodotas, keliaudamas po Skitiją, be abejo,
+    turėjo lankytis šioje vietoje, nes, kaip matome iš jo ap­
+    rašymų, jis bandė nustatyti kelią į šiaurę ir ketino tęsti
+    savo kelionę į tą pusę. Jam labiausiai rūpėjo gauti žinių
+    apie šiaurines jūras bei jų produktus, ypač alavą ir gin­
+    tarą. Tik tenykščiai graikų boristeniečiai, prekiavę šiais
+    gaminiais, atkeliaujančiais į Karkinę per Pantikapą iš
+    Aldesko, galėjo paaiškinti jam minėtus dalykus. Jie taip
+    pat pripaistė jį įbauginusių dalykų apie Šiaurę ir atėmė
+    bet kokį norą tęsti kelionę.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
+  citata_originali: |
+    Tuoj už Desnos prasideda pilkapių kraš­
+    tas, ir prie Rogačiovo jų yra daugiausia; jie iš dalies su­
+    kaupti viename plote, iš dalies išsklaidyti, įvairaus dy­
+    džio, todėl visas šis kraštas atrodo tarsi didelis kapiny­
+    nas. Herodotas raišo-, kaid karalių kapai* yra pas gerus,
+    kurie gyvena tolimuosiuose Geruose ir kapinėse. Vadina­
+    si, būta skitų gerų—kapakasių genties, kažkokios skitų
+    kastos, kuri gyveno šiame miškingame krašte — visos
+    genties kapinėse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197065
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
+  citata_originali: |
+    Savo ruožtu graikų boristeniečių prekybiniai santy­
+    kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno
+    Kankinėje. Herodotas, keliaudamas po Skitiją, be abejo,
+    turėjo lankytis šioje vietoje, nes, kaip matome iš jo ap­
+    rašymų, jis bandė nustatyti kelią į šiaurę ir ketino tęsti
+    savo kelionę į tą pusę. Jam labiausiai rūpėjo gauti žinių
+    apie šiaurines jūras bei jų produktus, ypač alavą ir gin­
+    tarą. Tik tenykščiai graikų boristeniečiai, prekiavę šiais
+    gaminiais, atkeliaujančiais į Karkinę per Pantikapą iš
+    Aldesko, galėjo paaiškinti jam minėtus dalykus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197189
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
+  citata_originali: |
+    Herodotas buvo kilęs iš Halikarnaso, dorėnų krašto. Jis gimė
+    apie 484 metus, mirė apie 400 metus prieš Kristaus gimimą. Begis,
+    Šamo saloje jis pirkliavo. Mokytas, protingas vyras sugebėjo smal­
+    sumą derinti su sveiku protu, aplankė dalį Azijos, Afriką, Siaurės
+    Graikiją, pabuvo vakarinėse Juodosios jūros pakrantėse, gyveno 01-
+    biįoje ir tikriausiai apkeliavo Bugo bei Dnepro pakrantes. Tai turėjo
+    būti apie 459 metus prieš Kristaus gimimą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210356
+
+- id: c-197227
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 204."
+  citata_originali: |
+    Senovės amžių neurai, anot paties
+    Herodoto, gyveno Dnepro vidurupio kairiojoje pakrantėje,
+    o iš ten persikėlė j dešiniąją pakrantę todėl, kad jiems
+    pradėjo įkyrėti neapsakoma daugybė žalčių; bet niekur
+    nesakoma, kad jie visiškai išsikėlė iš kairiosios pakran­
+    tės. Taip pat neįmanoma kaip nors pažymėti kokias nors
+    ribas neurų ¡gyvenamo krašto, kaip nežinomų dykrų, kur
+    nuklysdavo klajokliškos ir laukinės gentys. Dėl šių prie­
+    žasčių, jei blogai nubraižytame žemėlapyje bus šiek tiek
+    ištęstas į vakarus Doneco aukštupis, išeis, kad gelonų-
+    budinų gyvenamosios vietos bus tuoj aukščiau neurų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197271
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
+  citata_originali: |
+    Anot jos, kartą saulės sūnus Fajetonas įsigeidė
+    pasivažinėti po dangų tėvo arkliais, ¡bet, nesuvaldęs dan­
+    gaus kinkinio, sutrikdė dienos žvaigždės judėjimą, tai ir
+    sukėlė žemėje ¡baisius padarinius. Jį nukovė Jupiterio strė­
+    lė; jis nukrito iš dangaus ir nuskendo Vakaruose, Eridane.
+    Jo seserys Heliados taip iįgai apraudojo brolio mirtį, kad
+    1 Rusų senovės tyrinėtojai teigia, kad Aidėjaborgas susijęs su
+    senąja Ladoga, nes Riurikas gyvenęs Adėjaborge. Bet mums atrodo,
+    kad jis gyvenęs ir Nemuno žemupyje, o prie Ladogos gintaro nebu­
+    vo randama.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198886
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
+  citata_originali: |
+    Šiuo po­
+    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
+    įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
+    taip pat užmušdavo jų mylimiausius tarnus. Neturime jokio pa­
+    tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
+    bindavo karalių kūnus, parištus ant aukso grandinių .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Herodotas keliavo į [[objektai/vietos/Skitija]]

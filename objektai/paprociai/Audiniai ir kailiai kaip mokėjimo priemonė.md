@@ -94,8 +94,9 @@ Dėl didelės vertės drabužiai ir audiniai anuomet atstodavo pinigus: verpalai
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185890
@@ -105,6 +106,8 @@ Dėl didelės vertės drabužiai ir audiniai anuomet atstodavo pinigus: verpalai
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:26"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

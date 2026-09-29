@@ -35,24 +35,17 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 
 ## Teiginiai
 
-<a id="claim-t-40958"></a>
-- t-001
-  teiginys: "1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę."
-  atnaujinta: "2026-07-10 10:39"
+<a id="claim-t-230506"></a>
+- t-230506
+  teiginys: "1948 m. Algimanto apygardoje įkurta Kunigaikščio Margio rinktinė, kurios vadas buvo Juozas Kemeklis-Rokas."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaižgantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kunigaikščio Margio rinktinė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vaižgantas: mention_match, person, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kunigaikščio Margio rinktinė\" parinktas kaip owner_note_path. Targetas \"Vaižgantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
   pagrindžia:
-    - c-44771
+    - c-211145
 
 ## Citatos
 
@@ -75,6 +68,16 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-211145
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 24"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 24."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
   pagrindžia:
-    - t-001
+    - t-230506
 

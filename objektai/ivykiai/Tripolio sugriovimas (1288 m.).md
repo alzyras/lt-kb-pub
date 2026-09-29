@@ -79,5 +79,6 @@ Tripolyje gyvenę krikščionys buvo paimti į nelaisvę arba nužudyti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -267,7 +267,7 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168494
@@ -298,7 +298,7 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168495
@@ -330,7 +330,7 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
 
@@ -375,7 +375,7 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-168497
@@ -415,7 +415,7 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 ## Ryšiai

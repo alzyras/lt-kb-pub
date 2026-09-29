@@ -27,28 +27,6 @@ media_all_json: |-
 
 Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, kurį garbino Mikuckių giminė. Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.
 
-## Teiginiai
-
-<a id="claim-t-189251"></a>
-- t-001
-  teiginys: "Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, kurį garbino Mikuckių giminė."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Mikuckių giminė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Mikuckių giminė: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas\" parinktas kaip owner_note_path. Targetas \"Mikuckių giminė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172139
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.'
@@ -93,5 +71,4 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

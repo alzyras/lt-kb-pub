@@ -31,14 +31,32 @@ media_all_json: |-
 
 Petro Masilionio partizanų būrio vadu buvo Petras Masilionis, o tarp kitų nurodytų narių – Povilas Gabrėnas (byloje – Jonas), Bronius Gudas, Povilas Svirskas-Leitenantas, Julius Ožys ir Juozas Butkevičius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Petro Masilionio partizanų būrio vadu buvo Petras Masilionis, o tarp kitų nurodytų narių – Povilas Gabrėnas (byloje – Jonas), Bronius Gudas, Povilas Svirskas-Leitenantas, Julius Ožys ir Juozas Butkevičius.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231137"></a>
+- t-001
+  teiginys: "Petro Masilionio partizanų būrio vadu buvo Petras Masilionis, o tarp kitų nurodytų narių – Povilas Gabrėnas (byloje – Jonas), Bronius Gudas, Povilas Svirskas-Leitenantas, Julius Ožys ir Juozas Butkevičius."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:09Z"
+  pagrindžia:
+    - c-211775
+
+## Citatos
+
+- id: c-211775
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 49"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 49."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

@@ -49,28 +49,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-62207"></a>
-- t-001
-  teiginys: "1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenę, o po ilgų kovų sudegė abu jos papiliai."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Bisenė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bisenės papilių sudeginimas (1313 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Bisenė: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bisenės papilių sudeginimas (1313 m.)\" parinktas kaip owner_note_path. Targetas \"Bisenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1313 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai atitinka citatos turinį."
-  pagrindžia:
-    - c-62686
-
 ## Citatos
 
 - id: c-62686
@@ -95,5 +73,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

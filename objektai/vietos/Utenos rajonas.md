@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Utenos rajonas"]
 sameAs: []
 canonical_biography: "1952 m. spalio 3 d. Bėdžių miške, Utenos rajone, buvo surasti trys ginkluoti partizanai."
+place_authority: true
+historical_names: []
 ---
 # Utenos rajonas
 
@@ -31,14 +33,13 @@ canonical_biography: "1952 m. spalio 3 d. Bėdžių miške, Utenos rajone, buvo 
 
 Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ aprašo 1952 m. spalio 3 d. čekistų operaciją Bėdžių miške, Utenos rajone, kurioje per susišaudymą žuvo trys ginkluoti partizanai.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ aprašo 1952 m. spalio 3 d. čekistų operaciją Bėdžių miške, Utenos rajone, kurioje per susišaudymą žuvo trys ginkluoti partizanai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-215026
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 429"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 429."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:46"

@@ -103,7 +103,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-156074
@@ -130,7 +130,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

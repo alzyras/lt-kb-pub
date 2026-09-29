@@ -61,5 +61,6 @@ Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tole
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

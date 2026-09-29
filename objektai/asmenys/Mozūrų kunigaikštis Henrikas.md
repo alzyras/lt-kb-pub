@@ -81,7 +81,7 @@ canonical_biography: "1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

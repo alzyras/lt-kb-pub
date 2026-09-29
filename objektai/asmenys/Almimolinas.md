@@ -73,8 +73,27 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203609
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
+  citata_originali: |
+    Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
+
+       Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių
+    į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
+    užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
+    kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Almimolinas buvo valdovas [[objektai/grupes/Saracėnai]]

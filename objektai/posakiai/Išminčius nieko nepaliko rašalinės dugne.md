@@ -63,5 +63,6 @@ Samsonas teigė, kad Servantesas nieko nepaliko rašalinės dugne, nes aprašė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

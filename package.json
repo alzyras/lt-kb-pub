@@ -22,8 +22,7 @@
     "verify:relations": "npx tsx scripts/verify_relations_integrity.ts",
     "audit:media-hosts": "npx tsx scripts/audit_media_hosts.ts",
     "audit:media-ranking": "npx tsx scripts/audit_media_ranking.ts",
-    "build": "node --no-deprecation ./scripts/site/regenerate.mjs --mode full",
-    "regenerate": "node --no-deprecation ./scripts/site/regenerate.mjs --mode auto",
+    "build": "node --no-deprecation ./scripts/site/regenerate.mjs",
     "serve": "node --no-deprecation ./quartz/bootstrap-cli.mjs build --serve",
     "preview:local": "tsx scripts/verify_build_integrity.ts && node scripts/serve_local.mjs"
   },

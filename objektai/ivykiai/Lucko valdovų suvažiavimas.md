@@ -68,5 +68,6 @@ Vis dėlto aš ketinu tuo tiks lu surengti didelę šventę ir pasikviesti į Lu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -7,7 +7,6 @@ variantai:
 aliases:
   - 'Kupreliškis'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
@@ -37,7 +36,11 @@ historical_names: []
 
 ## Santrauka
 
-Romo Petronio būrys daugiausia veikė Alizavos, Žadeikių, Kupreliškio ir Bakšėnų kaimų apylinkėse. Ona Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikiama 1950 m. vasario 2 d. pažyma, kad Antano Kaminsko būrys veikė Kupreliškio ir Papilio valsčiuose. Ona Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ teigiama, kad Kazimieras Kalpokas su dviem partizanais Kupreliškyje surengė mitingą ir pasakė antisovietinę kalbą apie tarptautinę padėtį.
+Romo Petronio būrys daugiausia veikė Alizavos, Žadeikių, Kupreliškio ir Bakšėnų kaimų apylinkėse.
+
+## Santrauka
+
+Romo Petronio būrys daugiausia veikė Alizavos, Žadeikių, Kupreliškio ir Bakšėnų kaimų apylinkėse.
 
 ## Reikšmingi paminėjimai
 
@@ -51,13 +54,3 @@ Romo Petronio būrys daugiausia veikė Alizavos, Žadeikių, Kupreliškio ir Bak
   patikimumo_saltinis: ai
   statusas: verified
 - t-002
-
-- c-002
-  santrauka: 'Ona Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikiama 1950 m. vasario 2 d. pažyma, kad Antano Kaminsko būrys veikė Kupreliškio ir Papilio valsčiuose.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 144"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified

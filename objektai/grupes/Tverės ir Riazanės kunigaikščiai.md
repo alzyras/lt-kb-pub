@@ -87,7 +87,7 @@ Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

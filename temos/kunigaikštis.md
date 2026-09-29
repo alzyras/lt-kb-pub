@@ -97,7 +97,6 @@ Objektų skaičius: 608.
 - [Butautas](../objektai/asmenys/Butautas)
 - [Chadžibėjus](../objektai/asmenys/Chad%C5%BEib%C4%97jus)
 - [Chadžibėjus Girėjus](../objektai/asmenys/Chad%C5%BEib%C4%97jus%20Gir%C4%97jus)
-- [Chodkevičius](../objektai/asmenys/Chodkevi%C4%8Dius)
 - [Chudandachas](../objektai/asmenys/Chudandachas)
 - [Dangerutis](../objektai/asmenys/Dangerutis)
 - [Danielius](../objektai/asmenys/Danielius)
@@ -106,7 +105,7 @@ Objektų skaičius: 608.
 - [Danmilė](../objektai/asmenys/Danmil%C4%97)
 - [Danuta](../objektai/asmenys/Danuta)
 - [Daugirdas](../objektai/asmenys/Daugirdas)
-- [Daumantas (kunigaikštis, XV a.)](../objektai/asmenys/Daumantas)
+- [Daumantas (Nalšios ir Pskovo kunigaikštis)](../objektai/asmenys/Daumantas)
 - [Dimitras (Maskvos kunigaikštis)](../objektai/asmenys/Dimitras%20%28Maskvos%20kunigaik%C5%A1tis%29)
 - [Dimitras (Tverės kunigaikštis)](../objektai/asmenys/Dimitras%20%28Tver%C4%97s%20kunigaik%C5%A1tis%29)
 - [Dimitras Kaributas](../objektai/asmenys/Dimitras%20Kaributas)
@@ -615,6 +614,7 @@ Objektų skaičius: 608.
 ### Grupės
 - [Cistersų ordinas](../objektai/grupes/Cisters%C5%B3%20ordinas)
 - [Dobrynės broliai](../objektai/grupes/Dobryn%C4%97s%20broliai)
+- [Kunigaikščio Margio rinktinė](../objektai/grupes/Kunigaik%C5%A1%C4%8Dio%20Margio%20rinktin%C4%97)
 - [Lenkijos senatas](../objektai/grupes/Lenkijos%20senatas)
 - [Radvilų giminė](../objektai/grupes/Radvil%C5%B3%20gimin%C4%97)
 

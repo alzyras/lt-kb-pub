@@ -77,9 +77,11 @@ canonical_biography: "Raklienė Petkevičienė nepasirodė Berštų seime arba t
     5 2.
   citata_rodoma: "1496 m. LDK kanceliarijoje surašytuose dokumentuose \npažymima, kad LDK Aleksandras valdovo raštais kvietė atvykti į Seimą \nBerštuose Slucko kunigaikštį Simoną ir ponią Raklienę Petkevičienę. \nAbiem atvejais valdovas tai darė savo maršalo Alberto Kučuko prašy­\nmu, idant būtų išnagrinėtos bylos dėl valdų. Ir abiem atvejais iškviestieji \nseime/teisme nepasirodė"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -40,27 +40,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-191026"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojime Neronas 54 ar 55 m., siekdamas Romai parodyti prašmatnų reginį, pasiuntė kilmingą romėną pargabenti gintaro."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Neronas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Neronas sumanė atgabenti gintaro, o dėl to buvo išsiųstas romėnas; įvykis yra ši pasiųsto riterio kelionė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Neronas siuntė į Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro (0.86)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173908
-
 <a id="claim-t-191027"></a>
 - t-002
   teiginys: "Nerono pasiųstas kilmingas romėnas po metų grįžo į Romą, o reginio reikmenys, Narbuto pasakojimu, spindėjo pargabentu gintaru."
@@ -117,8 +96,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-003
 
 - id: c-173909
@@ -142,8 +120,31 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195430
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
+  citata_originali: |
+    Pasaulio sostinę didžiai nustebino neregėta pra­
+    banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­
+    jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio
+    metu naudoti reikmenys spindėjo gintaru. Tarp daugelio
+    retų egzempliorių matytas vienas gintaro gabalas, svėręs
+    13 romėniškų svarų, arba apie pusę dešimties mūsų sva­
+    rų2. Solinas pabrėžia šią detalę, sakydamas, kad tas gin-
+    laras buvęs tenykščio karaliaus dovanotas ir svėręs 13
+    1 Plin.
+    Lib.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Neronas]]

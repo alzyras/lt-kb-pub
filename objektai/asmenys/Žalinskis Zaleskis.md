@@ -79,5 +79,6 @@ canonical_biography: "Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

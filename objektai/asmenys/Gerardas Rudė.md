@@ -75,5 +75,6 @@ Teodoras Narbutas žemaičius apibūdina kaip „fanatikus“ ir pasakoja, kad j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

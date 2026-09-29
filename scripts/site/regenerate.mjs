@@ -23,19 +23,25 @@ const reportSchemaVersion = 1
 const execFileAsync = promisify(execFile)
 
 export function parseArguments(argv) {
-  const options = { mode: "full", output: "public", json: false, help: false, lockHeld: false }
+  const options = { mode: "auto", output: "public", json: false, help: false, lockHeld: false }
+  let modeArgument
+  let fullRequested = false
   for (let index = 0; index < argv.length; index++) {
     const argument = argv[index]
     if (argument === "--help" || argument === "-h") {
       options.help = true
     } else if (argument === "--json") {
       options.json = true
+    } else if (argument === "--full") {
+      fullRequested = true
     } else if (argument === "--lock-held") {
       options.lockHeld = true
     } else if (argument === "--mode") {
-      options.mode = argv[++index]
+      const requestedMode = argv[++index]
+      if (requestedMode === undefined) throw new Error("--mode requires auto or full")
+      modeArgument = requestedMode
     } else if (argument.startsWith("--mode=")) {
-      options.mode = argument.slice("--mode=".length)
+      modeArgument = argument.slice("--mode=".length)
     } else if (argument === "--output") {
       options.output = argv[++index]
     } else if (argument.startsWith("--output=")) {
@@ -44,6 +50,10 @@ export function parseArguments(argv) {
       throw new Error(`Unknown site build argument: ${argument}`)
     }
   }
+  if (fullRequested && modeArgument === "auto") {
+    throw new Error("Conflicting build modes: --full cannot be combined with --mode auto")
+  }
+  options.mode = fullRequested ? "full" : (modeArgument ?? "auto")
   if (!["auto", "full"].includes(options.mode)) {
     throw new Error(`Invalid --mode ${String(options.mode)}; expected auto or full`)
   }
@@ -181,26 +191,65 @@ function toolPaths(root) {
   }
 }
 
-function makeChecks(root, outputRoot, env, reportDirectory) {
+function makeChecks(root, outputRoot, env, reportDirectory, evidenceAuditScope) {
   const { tsx, tsc } = toolPaths(root)
   const scripts = (names) =>
     names.map((name) => ({ name, command: process.execPath, args: [tsx, `scripts/${name}.ts`] }))
+  const evidenceAudit = scripts(["audit_evidence_matches"])[0]
+  if (evidenceAuditScope) {
+    evidenceAudit.scope = {
+      mode:
+        evidenceAuditScope.files.length > 0 ? "changed-object-files" : "reused-previous-success",
+      fileCount: evidenceAuditScope.files.length,
+    }
+    if (evidenceAuditScope.files.length > 0) {
+      evidenceAudit.env = {
+        ...env,
+        EVIDENCE_AUDIT_FILES: JSON.stringify(evidenceAuditScope.files),
+      }
+    } else {
+      evidenceAudit.skipReason =
+        "No object Markdown source changed; the previous successful source audit remains valid."
+    }
+  }
   const prebuild = [
     ...scripts(["verify_db_export_manifest"]),
+    evidenceAudit,
     { name: "unit-tests", command: "npm", args: ["test"] },
     { name: "typescript", command: process.execPath, args: [tsc, "--noEmit"] },
     ...scripts(["verify_relations_integrity"]),
   ]
   const publicEnv = { ...env, PUBLIC_ROOT: outputRoot }
   const postbuild = scripts([
+    "verify_graph_explorer",
     "verify_rendered_relations",
     "verify_corpus_integrity",
     "verify_public_assets",
     "verify_rendered_media_seo",
+    "verify_rendered_articles_seo",
     "verify_build_integrity",
     "verify_rendered_evidence",
-    "audit_evidence_matches",
   ]).map((step) => ({ ...step, env: publicEnv }))
+  const scopedAuditEnv =
+    evidenceAuditScope?.files.length > 0
+      ? { ...env, EVIDENCE_AUDIT_FILES: JSON.stringify(evidenceAuditScope.files) }
+      : undefined
+  const sourceAudits = [
+    ["kupiskio-partizanai", "Kupiškio krašto partizanai"],
+    ["lituanistika-kupiskis", "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"],
+  ].map(([name, sourceId]) => ({
+    name: `audit_evidence_matches-${name}`,
+    command: process.execPath,
+    args: [tsx, "scripts/audit_evidence_matches.ts", "--source-id", sourceId, "--fail"],
+    ...(scopedAuditEnv ? { env: scopedAuditEnv } : {}),
+    ...(evidenceAuditScope && evidenceAuditScope.files.length === 0
+      ? {
+          skipReason:
+            "No object Markdown source changed; the previous successful source audit remains valid.",
+        }
+      : {}),
+  }))
+  postbuild.push(...sourceAudits)
   postbuild.push({
     name: "public-build-audit",
     command: env.PYTHON ?? "python3",
@@ -223,8 +272,9 @@ async function executeStage(step, { root, env, json, executor, report }) {
   const started = performance.now()
   try {
     const result = await executor(step, { root, env: step.env ?? env, json })
-    report.stages.push(result)
-    return result
+    const recordedResult = step.scope ? { ...result, scope: step.scope } : result
+    report.stages.push(recordedResult)
+    return recordedResult
   } catch (error) {
     const result = {
       name: step.name,
@@ -232,6 +282,7 @@ async function executeStage(step, { root, env, json, executor, report }) {
       durationMs: Math.round(performance.now() - started),
       error: error instanceof Error ? error.message : String(error),
       exitCode: 1,
+      ...(step.scope ? { scope: step.scope } : {}),
     }
     report.stages.push(result)
     report.status = "failed"
@@ -264,6 +315,44 @@ function changedInputPaths(previous, current) {
   if (descriptorChanged && changed.length === 0)
     changed.push("build environment, runtime, or git state")
   return changed
+}
+
+function reusableEvidenceAuditScope({
+  root,
+  env,
+  mode,
+  priorState,
+  stateValid,
+  canReuseCodeChecks,
+  changedFiles,
+}) {
+  if (
+    mode !== "auto" ||
+    !stateValid ||
+    priorState?.allChecksPassed !== true ||
+    !canReuseCodeChecks
+  ) {
+    return undefined
+  }
+
+  const objectRoot = path.resolve(env.CORPUS_ROOT ?? path.join(root, "objektai"))
+  const expectedObjectRoot = path.resolve(root, "objektai")
+  if (objectRoot !== expectedObjectRoot) return undefined
+
+  const objectPrefix = "content/objektai/"
+  const files = []
+  for (const change of changedFiles) {
+    if (change.path === "content/objektai") return undefined
+    if (!change.path.startsWith(objectPrefix)) continue
+    const relativePath = change.path.slice(objectPrefix.length)
+    if (!relativePath || (change.type !== "delete" && !/\.md$/i.test(relativePath))) {
+      return undefined
+    }
+    if (change.type !== "delete") {
+      files.push(path.resolve(objectRoot, ...relativePath.split("/")))
+    }
+  }
+  return { files: [...new Set(files)].sort() }
 }
 
 function changedInputRecords(previous, current) {
@@ -615,6 +704,15 @@ async function runBuild(
     options.mode === "auto" &&
     stateValid &&
     priorState.codeFingerprint === fingerprints.codeFingerprint
+  const evidenceAuditScope = reusableEvidenceAuditScope({
+    root,
+    env,
+    mode: options.mode,
+    priorState,
+    stateValid,
+    canReuseCodeChecks,
+    changedFiles,
+  })
   const incrementalBlocker = canReuseCodeChecks
     ? incrementalRebuildBlocker(priorState, fingerprints, changedFiles, previousOutputVerified)
     : "the build code changed since the previous successful run"
@@ -687,7 +785,7 @@ async function runBuild(
     delete quartzEnv.SITE_PARSE_CACHE_DIR
   }
   quartzEnv.NODE_OPTIONS ||= "--max-old-space-size=16384"
-  const concurrency = String(env.SITE_BUILD_CONCURRENCY ?? "1")
+  const concurrency = String(env.SITE_BUILD_CONCURRENCY ?? "4")
   if (!/^[1-9]\d*$/.test(concurrency))
     throw new Error(`Invalid SITE_BUILD_CONCURRENCY: ${concurrency}`)
   const quartz = {
@@ -703,13 +801,20 @@ async function runBuild(
     ],
     env: quartzEnv,
   }
-  const { prebuild, postbuild } = makeChecks(root, stagingRoot, env, targetCache)
+  const { prebuild, postbuild } = makeChecks(
+    root,
+    stagingRoot,
+    env,
+    targetCache,
+    evidenceAuditScope,
+  )
   const testCheckNames = new Set(["unit-tests", "typescript"])
   const stageGroups = [
     {
       name: "site-checks",
       steps: prebuild,
-      shouldSkip: (step) => canReuseCodeChecks && testCheckNames.has(step.name),
+      shouldSkip: (step) =>
+        (canReuseCodeChecks && testCheckNames.has(step.name)) || Boolean(step.skipReason),
       skipReason:
         "The test, TypeScript, config and dependency fingerprints match the last successful build.",
     },
@@ -722,7 +827,10 @@ async function runBuild(
     for (const group of stageGroups) {
       for (const step of group.steps) {
         if (group.shouldSkip?.(step)) {
-          report.stages.push(skippedStage(step.name, group.skipReason))
+          report.stages.push({
+            ...skippedStage(step.name, step.skipReason ?? group.skipReason),
+            ...(step.scope ? { scope: step.scope } : {}),
+          })
           continue
         }
         let result = await executeStage(step, { root, env, json: options.json, executor, report })
@@ -919,7 +1027,7 @@ export async function buildSite(
 }
 
 function usage() {
-  return "Usage: node scripts/site/regenerate.mjs [--mode auto|full] [--output PATH] [--json]"
+  return "Usage: node scripts/site/regenerate.mjs [--full] [--output PATH] [--json] (default: auto; --mode auto|full is also supported)"
 }
 
 async function main(argv) {

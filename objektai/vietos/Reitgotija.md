@@ -80,8 +80,29 @@ Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195699
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 326"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 326."
+  citata_originali: |
+    Tad artimiausias ir saugiausias herulų kelias vingiavo į
+    Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš
+    kur buvo visai netoli iki herulų gimtosios Jūros upės
+    krantų. Tai patvirtinančių įrodymų randame Ksavero Bo-
+    gušo veikaluose3; iš jų sužinome, jog herulų keliauta į
+    Reitgotiją. Sis pavadinimas, anot naujausių tyrimų, reiš­
+    kia lietuvių genčių gyvenamus pamario kraštus4, prie
+    kurių priklausė ir H i r i j a (§ 240).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Herulai]]

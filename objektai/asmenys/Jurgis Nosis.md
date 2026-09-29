@@ -64,5 +64,6 @@ Pinsko kunigaikštis Jurgis Nosis, kuris būtų buvęs LDK vie tininku Pskove, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

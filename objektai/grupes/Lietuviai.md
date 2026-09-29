@@ -4266,6 +4266,465 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-187681
 
+<a id="claim-t-179238"></a>
+- t-179238
+  teiginys: "Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-162917
+    - c-162927
+    - c-162959
+    - c-162981
+    - c-163044
+    - c-176229
+
+<a id="claim-t-179277"></a>
+- t-179277
+  teiginys: "Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=101"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-21416
+    - c-162944
+    - c-162996
+
+<a id="claim-t-179338"></a>
+- t-179338
+  teiginys: "Lietuviai pateikė savą projektą, pagal kurį bendras karalius turėjo būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36885
+    - c-162922
+    - c-162984
+    - c-162998
+
+<a id="claim-t-209597"></a>
+- t-209597
+  teiginys: "Kur jos nėr, kaip paveizdan pas lietuvius, ten ir visas gyveni mas išrodo palaidais barščiais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-192217
+
+<a id="claim-t-212422"></a>
+- t-212422
+  teiginys: "Ypač todėl, kad ir šį žodį „obuolys“, Abuolis, išsaugojo lietuviai savo kalboje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197270
+
+<a id="claim-t-212615"></a>
+- t-212615
+  teiginys: "Narbutas teigia, kad dešiniosios Nemuno žemupio šakos pakrantėse buvo pirmosios lietuvių tautos gyvenvietės, atsiradusios bendruomeninėje santvarkoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194635
+
+<a id="claim-t-213791"></a>
+- t-213791
+  teiginys: "Narbutas teigia, kad tautos lopšys buvo lietuvių gentyje arba kad ši gentis buvo arčiausiai jo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194902
+
+<a id="claim-t-213907"></a>
+- t-213907
+  teiginys: "Narbutas lietuvių tautos protėvių pirmąja buveine šiame krašte laiko Nemuno žemupio pakrantes."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197166
+
+<a id="claim-t-215515"></a>
+- t-215515
+  teiginys: "Visai kita (auta, pirmykštė tų kraštų gyventoja (jos buvimu neabe jojame), galėjo vartoti savo kalboje tokių pačių žodžių, o vėliau juos perduoti čia atvykusierns lietuviams, su ku riais turėjo susijungti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196173
+
+<a id="claim-t-216117"></a>
+- t-216117
+  teiginys: "Visai taip pat, kaip Laimą suprato mūsų lietuviai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199711
+
+<a id="claim-t-216151"></a>
+- t-216151
+  teiginys: "Mykolas Lietuvis pasa koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini mas išliko kaip žalčių laikymas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198969
+
+<a id="claim-t-216433"></a>
+- t-216433
+  teiginys: "Narbutas teigia, kad lietuviai savo priesaikas duodavo visai panašiai: visi saky davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali lkw u), taip pat: Kad man Periamas sumusztu; tai reiškė šaukti dievus būti liudytojais."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199608
+
+<a id="claim-t-216593"></a>
+- t-216593
+  teiginys: "Henriko Latvio kronikos prierašuose, arba pastabose, ku rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk dami tikrojo."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200792
+
+<a id="claim-t-217042"></a>
+- t-217042
+  teiginys: "Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Tikybinis sugedimas kyla iš pačių religijos sargų: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Tikybinis sugedimas kyla iš pačių religijos sargų: mention_match, thing, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Tikybinis sugedimas kyla iš pačių religijos sargų\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198155
+    - c-198780
+
+<a id="claim-t-217249"></a>
+- t-217249
+  teiginys: "Narbutas teigė, kad lietuvių mitologijoje šventi buvo miško plotai su aukurais ir šventyklomis, dažniausiai prie upių santakų."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200952
+
+<a id="claim-t-217852"></a>
+- t-217852
+  teiginys: "Narbutas teigia, kad lietuvių tauta yra tiesiogiai kilusi iš Azijos genčių, kurių pagrindinis kamienas kadaise kalbėjo sanskritu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200860
+
+<a id="claim-t-217940"></a>
+- t-217940
+  teiginys: "Si epocha baigėsi 1386 metais, tai yra visiškai įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat daryti visą tautą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199049
+
+<a id="claim-t-218053"></a>
+- t-218053
+  teiginys: "Patys lietuviai, apsupti broliškų kraštų, iki šiol iš laikė gryniausią lietuvių kalbą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200107
+
+<a id="claim-t-218157"></a>
+- t-218157
+  teiginys: "Lietuviams buvo žinomas dievinamų asmenų stabų staty mas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201202
+
+<a id="claim-t-218328"></a>
+- t-218328
+  teiginys: "Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo met prie upių, dažniausiai dviejų didesnių upių santakoje."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200952
+
+<a id="claim-t-218384"></a>
+- t-218384
+  teiginys: "Narbutas seniausiąją lietuvių religiją aiškino kaip azijinę ir indišką, dangaus kūnų bei ugnies, vandens ir žemės garbinimą."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200630
+
+<a id="claim-t-219462"></a>
+- t-219462
+  teiginys: "Visos lietuvių genties tautos turėjo savo dainius, panašius į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai nuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat Burts."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201170
+
+<a id="claim-t-219464"></a>
+- t-219464
+  teiginys: "Narbutas teigia, kad lietuvių genties tautose vieškelis buvo religiškai paaukotas svetingumui ir keliautojų saugumui."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200552
+
+<a id="claim-t-219672"></a>
+- t-219672
+  teiginys: "Erazmas Ste la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina, kad laidojimo apeigų tvarka buvo labai senas, šventas daly kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu vių genties tautos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200701
+
+<a id="claim-t-219704"></a>
+- t-219704
+  teiginys: "Lietuvių genties tautos, išpažįstančios religiją, paremtą an tikinės graikų ir romėnų religijos principais, taip pat nuo se niausių laikų turėjo savo žynius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199542
+
+<a id="claim-t-220464"></a>
+- t-220464
+  teiginys: "1313 m. lietuviai pasiuntė Surminą su šimtu laivų ir daugiau kaip šešiais šimtais vyrų sunaikinti Ordino karo laivą."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204330
+
+<a id="claim-t-221113"></a>
+- t-221113
+  teiginys: "1300 m. šeši tūkstančiai lietuvių nusiaubė Dobrynės kunigaikštystę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202449
+
+<a id="claim-t-221943"></a>
+- t-221943
+  teiginys: "1283 metų žiemą 800 raitelių iš Lietuvos per Kuršių neriją nusiaubė Abendos ir Pabečių valsčius Sembos žemėje."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206044
+
+<a id="claim-t-222649"></a>
+- t-222649
+  teiginys: "Dusburgietis pasakoja, kad kryžiuočių, žuvusių kovoje su lietuviais, sielos einančios į dangų ir pelnančios amžiną palaimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203511
+
+<a id="claim-t-223495"></a>
+- t-223495
+  teiginys: "Vis dėlto lietuviai neteko 70 prityrusių karių, žuvusių kovoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204473
+
+<a id="claim-t-223615"></a>
+- t-223615
+  teiginys: "1311 m. Vytenio vadovaujama lietuvių kariuomenė nusiaubė Sembą ir Notangą bei į nelaisvę išsivarė beveik penkis šimtus žmonių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202821
+
+<a id="claim-t-223726"></a>
+- t-223726
+  teiginys: "1280 metais lietuviai, sūduvių pasitelkti į pagalbą, smarkiai užpuolė Sembos žemę."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202826
+
+<a id="claim-t-224252"></a>
+- t-224252
+  teiginys: "Dusburgietis pasakoja, kad lietuvių karalius su aštuoniais tūkstančiais raitelių įsiveržė į Sembos žemę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201655
+
+<a id="claim-t-224831"></a>
+- t-224831
+  teiginys: "1260 m. keturi tūkstančiai lietuvių nuniokojo Kuršo žemės dalį, žudė ir grobė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201945
+
+<a id="claim-t-225113"></a>
+- t-225113
+  teiginys: "Lietuvių kariuomenė kartu su Skomanto vadovaujamais sūduviais įsiveržė į Kulmo žemę."
+  atnaujinta: "2026-09-18 21:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203409
+
 ## Reikšmingi paminėjimai
 - c-020
   santrauka: 'Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas.'
@@ -5454,11 +5913,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     tik lietuviams, bet įsigyti dvarų turį būti leidžiama tiek lenkams Lie-
     tuvoje, tiek lietuviams Lenkijoje.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-21416
@@ -5479,6 +5939,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-179277
+
 - id: c-31191
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5496,7 +5959,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-090
 
 - id: c-31192
@@ -5514,7 +5977,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-091
 
 - id: c-34225
@@ -5538,7 +6001,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
     - t-034
 
@@ -5564,7 +6027,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-34227
@@ -5586,7 +6049,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-098
     - t-101
 
@@ -5606,7 +6069,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-36883
@@ -5625,7 +6088,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-106
 
 - id: c-36885
@@ -5647,8 +6110,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-095
+    - t-179338
 
 - id: c-162912
   autorius: "Zenonas Ivinskis"
@@ -5667,7 +6131,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-162913
@@ -5684,7 +6148,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-162916
@@ -5703,7 +6167,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-066
 
 - id: c-162917
@@ -5726,9 +6190,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
     - t-100
+    - t-179238
 
 - id: c-162918
   redaktorius: "A. Šapoka"
@@ -5748,7 +6213,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-162920
@@ -5771,7 +6236,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
 
 - id: c-162922
@@ -5794,6 +6259,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-179338
+
 - id: c-162923
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5820,7 +6288,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-061
 
 - id: c-162924
@@ -5844,7 +6312,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-105
 
 - id: c-162925
@@ -5873,7 +6341,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-077
 
 - id: c-162926
@@ -5895,7 +6363,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
     - t-068
 
@@ -5917,8 +6385,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
+    - t-179238
 
 - id: c-162928
   redaktorius: "A. Šapoka"
@@ -5939,6 +6408,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-162929
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5960,7 +6430,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
 
 - id: c-162930
@@ -5983,7 +6453,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-086
 
 - id: c-162931
@@ -6005,7 +6475,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-103
 
 - id: c-162932
@@ -6025,7 +6495,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-162933
@@ -6050,7 +6520,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
     - t-078
 
@@ -6072,7 +6542,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-067
 
 - id: c-162936
@@ -6099,7 +6569,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
     - t-218
 
@@ -6122,7 +6592,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-081
 
 - id: c-162940
@@ -6158,7 +6628,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-050
 
 - id: c-162942
@@ -6178,7 +6648,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-069
 
 - id: c-162943
@@ -6200,7 +6670,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-079
 
 - id: c-162944
@@ -6225,6 +6695,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-179277
+
 - id: c-162946
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -6244,7 +6717,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
 
 - id: c-162947
@@ -6268,7 +6741,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-065
 
 - id: c-162949
@@ -6295,7 +6768,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-162950
@@ -6319,7 +6792,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-019
 
@@ -6343,7 +6816,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
     - t-201
 
@@ -6371,7 +6844,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-162956
@@ -6398,7 +6871,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-162958
@@ -6440,7 +6913,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-075
 
 - id: c-162959
@@ -6463,8 +6936,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-052
+    - t-179238
 
 - id: c-162961
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -6486,6 +6960,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-162962
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6507,7 +6982,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-162963
@@ -6530,7 +7005,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-083
 
 - id: c-162964
@@ -6559,7 +7034,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-080
 
 - id: c-162966
@@ -6620,7 +7095,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-107
 
 - id: c-162967
@@ -6643,7 +7118,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
     - t-049
 
@@ -6669,7 +7144,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
     - t-204
 
@@ -6690,7 +7165,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-162971
@@ -6715,7 +7190,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-162972
@@ -6737,7 +7212,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-162973
@@ -6761,6 +7236,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-162974
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -6780,7 +7256,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
     - t-097
 
@@ -6802,7 +7278,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
     - t-108
 
@@ -6829,7 +7305,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-099
 
 - id: c-162981
@@ -6856,8 +7332,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+    - t-179238
 
 - id: c-162982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -6878,7 +7355,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-076
 
 - id: c-162983
@@ -6899,7 +7376,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-162984
@@ -6922,6 +7399,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-179338
+
 - id: c-162986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6941,7 +7421,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-162988
@@ -6957,7 +7437,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-087
 
 - id: c-162990
@@ -6984,7 +7464,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-094
 
 - id: c-162994
@@ -7008,7 +7488,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-070
 
 - id: c-162995
@@ -7032,7 +7512,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-082
     - t-102
     - t-205
@@ -7065,9 +7545,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
     - t-092
+    - t-179277
 
 - id: c-162997
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -7088,7 +7569,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-162998
@@ -7109,9 +7590,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
     - t-062
+    - t-179338
 
 - id: c-163000
   autorius: "Petras Dusburgietis"
@@ -7130,7 +7612,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-163001
@@ -7155,7 +7637,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-219
 
 - id: c-163002
@@ -7176,7 +7658,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-060
 
 - id: c-163003
@@ -7204,7 +7686,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-203
     - t-216
 
@@ -7229,7 +7711,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-163006
@@ -7260,7 +7742,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-093
 
 - id: c-163007
@@ -7283,7 +7765,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
     - t-059
 
@@ -7312,7 +7794,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-074
 
 - id: c-163011
@@ -7334,7 +7816,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-163012
@@ -7372,7 +7854,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-163014
@@ -7396,7 +7878,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-220
 
 - id: c-163015
@@ -7415,7 +7897,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
     - t-085
 
@@ -7444,7 +7926,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-071
 
 - id: c-163019
@@ -7466,7 +7948,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
 
 - id: c-163020
@@ -7488,7 +7970,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-163022
@@ -7513,7 +7995,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-088
 
 - id: c-163023
@@ -7538,7 +8020,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-036
 
@@ -7564,7 +8046,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-163026
@@ -7607,7 +8089,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-096
 
@@ -7629,7 +8111,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-163029
@@ -7649,7 +8131,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-163030
@@ -7673,7 +8155,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
     - t-089
     - t-202
@@ -7695,7 +8177,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-163035
@@ -7716,7 +8198,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-073
 
 - id: c-163038
@@ -7748,7 +8230,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-163039
@@ -7772,7 +8254,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-104
 
 - id: c-163041
@@ -7796,6 +8278,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-163042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -7819,7 +8302,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-163044
@@ -7843,8 +8326,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-084
+    - t-179238
 
 - id: c-163045
   autorius: "Petras Dusburgietis"
@@ -7866,7 +8350,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-072
 
 - id: c-163047
@@ -7904,7 +8388,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-163048
@@ -7925,6 +8409,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-163053
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -7945,6 +8430,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-163054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -7965,7 +8451,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-167272
@@ -7987,7 +8473,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167606
@@ -8005,7 +8491,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-109
 
 - id: c-167902
@@ -8037,6 +8523,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-167903
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8067,7 +8554,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-111
 
 - id: c-167905
@@ -8088,11 +8575,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     ir žuvo.
   citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-112
     - t-208
 
@@ -8127,7 +8615,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-113
     - t-210
 
@@ -8161,7 +8649,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-114
 
 - id: c-167909
@@ -8185,7 +8673,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-115
 
 - id: c-167911
@@ -8214,7 +8702,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-116
 
 - id: c-167912
@@ -8250,7 +8738,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-117
 
 - id: c-167913
@@ -8286,7 +8774,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-118
     - t-213
 
@@ -8310,7 +8798,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-119
 
 - id: c-167915
@@ -8333,7 +8821,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-120
 
 - id: c-170655
@@ -8359,7 +8847,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-121
 
 - id: c-170656
@@ -8381,7 +8869,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-122
 
 - id: c-171146
@@ -8404,7 +8892,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-123
 
 - id: c-171147
@@ -8429,7 +8917,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-163
     - t-222
 
@@ -8453,7 +8941,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-124
 
 - id: c-171150
@@ -8475,7 +8963,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-125
 
 - id: c-171151
@@ -8496,7 +8984,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-126
 
 - id: c-171152
@@ -8521,7 +9009,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-127
     - t-161
 
@@ -8546,7 +9034,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-128
     - t-224
 
@@ -8572,7 +9060,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-129
 
 - id: c-171155
@@ -8592,7 +9080,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-130
 
 - id: c-171156
@@ -8613,7 +9101,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-131
 
 - id: c-171157
@@ -8635,7 +9123,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-132
 
 - id: c-171159
@@ -8660,7 +9148,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-133
 
 - id: c-171160
@@ -8682,7 +9170,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-134
 
 - id: c-171163
@@ -8705,7 +9193,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-135
 
 - id: c-171165
@@ -8726,7 +9214,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-136
 
 - id: c-171166
@@ -8756,7 +9244,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-137
     - t-179
     - t-228
@@ -8782,7 +9270,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-138
 
 - id: c-171168
@@ -8803,7 +9291,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-139
 
 - id: c-171169
@@ -8824,7 +9312,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-140
 
 - id: c-171170
@@ -8846,7 +9334,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-141
 
 - id: c-171171
@@ -8873,7 +9361,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-142
 
 - id: c-171172
@@ -8897,7 +9385,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-143
 
 - id: c-171173
@@ -8925,7 +9413,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-144
     - t-160
 
@@ -8947,7 +9435,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-145
 
 - id: c-173454
@@ -8974,7 +9462,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-146
     - t-160
     - t-229
@@ -8997,7 +9485,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-147
 
 - id: c-173456
@@ -9017,7 +9505,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-148
 
 - id: c-173457
@@ -9040,7 +9528,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-149
     - t-230
 
@@ -9063,7 +9551,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-150
 
 - id: c-173459
@@ -9086,7 +9574,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-151
 
 - id: c-173460
@@ -9108,7 +9596,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-152
 
 - id: c-173461
@@ -9129,7 +9617,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-153
 
 - id: c-173462
@@ -9150,7 +9638,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-169
     - t-231
 
@@ -9170,7 +9658,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-155
     - t-169
 
@@ -9192,7 +9680,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-156
 
 - id: c-173465
@@ -9219,7 +9707,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-154
     - t-157
     - t-160
@@ -9241,7 +9729,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-158
 
 - id: c-173469
@@ -9270,7 +9758,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-159
 
 - id: c-173470
@@ -9291,7 +9779,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-235
 
 - id: c-173471
@@ -9316,7 +9804,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-236
 
 - id: c-173472
@@ -9347,7 +9835,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-162
 
 - id: c-173473
@@ -9369,7 +9857,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-169
     - t-237
 
@@ -9393,7 +9881,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-164
 
 - id: c-173475
@@ -9420,7 +9908,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-165
 
 - id: c-173476
@@ -9441,7 +9929,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-166
 
 - id: c-173477
@@ -9459,7 +9947,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-167
 
 - id: c-173478
@@ -9484,7 +9972,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-168
 
 - id: c-173479
@@ -9504,7 +9992,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-240
 
 - id: c-173480
@@ -9532,7 +10020,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-170
 
 - id: c-173481
@@ -9557,7 +10045,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-171
 
 - id: c-173482
@@ -9579,7 +10067,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-172
 
 - id: c-173483
@@ -9606,7 +10094,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-173
 
 - id: c-173484
@@ -9626,7 +10114,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-174
 
 - id: c-173485
@@ -9645,7 +10133,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-175
 
 - id: c-173486
@@ -9670,7 +10158,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-160
     - t-176
 
@@ -9701,7 +10189,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-177
 
 - id: c-173488
@@ -9730,7 +10218,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-178
 
 - id: c-173489
@@ -9755,7 +10243,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-244
 
 - id: c-173490
@@ -9777,7 +10265,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-180
 
 - id: c-173491
@@ -9802,7 +10290,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-181
 
 - id: c-173492
@@ -9825,7 +10313,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-182
 
 - id: c-173493
@@ -9851,7 +10339,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-183
 
 - id: c-173494
@@ -9876,7 +10364,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-184
 
 - id: c-173495
@@ -9900,7 +10388,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-185
 
 - id: c-173496
@@ -9926,7 +10414,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-186
 
 - id: c-175216
@@ -9948,7 +10436,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-187
 
 - id: c-175218
@@ -9979,7 +10467,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-188
 
 - id: c-175219
@@ -10006,7 +10494,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-189
 
 - id: c-175220
@@ -10027,7 +10515,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-190
 
 - id: c-175221
@@ -10053,7 +10541,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-191
 
 - id: c-175222
@@ -10079,7 +10567,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-192
 
 - id: c-175223
@@ -10120,7 +10608,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-193
 
 - id: c-175224
@@ -10143,7 +10631,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-194
 
 - id: c-175225
@@ -10165,7 +10653,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-195
 
 - id: c-175226
@@ -10187,7 +10675,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-196
 
 - id: c-175867
@@ -10209,7 +10697,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-197
 
 - id: c-175868
@@ -10230,7 +10718,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-198
 
 - id: c-176044
@@ -10261,7 +10749,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-199
     - t-211
 
@@ -10283,7 +10771,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-179238
     - t-200
 
 - id: c-176972
@@ -10310,7 +10799,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-206
 
 - id: c-176973
@@ -10331,7 +10820,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-233
 
 - id: c-178530
@@ -10367,7 +10856,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-110
     - t-209
 
@@ -10396,7 +10885,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-212
 
 - id: c-178533
@@ -10428,7 +10917,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-214
 
 - id: c-178904
@@ -10456,7 +10945,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-215
 
 - id: c-178975
@@ -10487,7 +10976,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-217
 
 - id: c-179056
@@ -10516,7 +11005,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-221
 
 - id: c-179057
@@ -10544,7 +11033,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-223
 
 - id: c-179058
@@ -10565,7 +11054,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-225
 
 - id: c-179059
@@ -10589,7 +11078,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-226
 
 - id: c-179060
@@ -10614,7 +11103,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-227
 
 - id: c-179061
@@ -10636,7 +11125,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-232
 
 - id: c-179062
@@ -10658,7 +11147,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-234
 
 - id: c-179063
@@ -10684,7 +11173,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-169
     - t-238
 
@@ -10712,7 +11201,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-239
 
 - id: c-179065
@@ -10734,7 +11223,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-241
 
 - id: c-179066
@@ -10755,7 +11244,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-242
 
 - id: c-179067
@@ -10776,7 +11265,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-243
 
 - id: c-179068
@@ -10811,7 +11300,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-207
     - t-245
 
@@ -10834,11 +11323,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     Taigi architektūra savaip — valdingai, neatremiamai —formuoja tautos
     gyvenimo pavidalą.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-246
 
 - id: c-184272
@@ -10874,7 +11364,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-247
 
 - id: c-184273
@@ -10898,7 +11388,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-248
 
 - id: c-184274
@@ -10920,7 +11410,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-249
 
 - id: c-184275
@@ -10944,7 +11434,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-250
 
 - id: c-184276
@@ -10964,7 +11454,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-251
 
 - id: c-186903
@@ -10986,7 +11476,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-252
 
 - id: c-187681
@@ -11012,8 +11502,2367 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-253
+
+- id: c-192217
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 34"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 34."
+  citata_originali: |
+    Kur jos nėr,
+    kaip
+    paveizdan pas lietuvius,
+    ten ir visas gyveni­
+    mas išrodo palaidais barščiais.
+    Kiekvienas
+    pienburnis jaučiasi generolu, kiekvienas Rau-
+    las vyskupu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209597
+
+- id: c-192955
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 117"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 117."
+  citata_originali: |
+    O trečią vasa­
+    rą37 kunigaikštis Švitrigaila Vitebske sudegino metro­
+    politą Gerasimą 33
+    Susirinko Vitebske didysis kunigaikštis Švitrigaila ir
+    rusų kunigaikščiai ir su visomis rusų pajėgomis pa­
+    traukė į Brėslaują, o Brėslaujoje į pagalbą jam atvyko
+    Livonijos magistras 39 su visomis savo pajėgomis, ir žy­
+    giuoja Užnerio puse į Ukmergę.
+    Didysis kunigaikštis |2ygimantas] pats nėjo prieš
+    Švitrigailą, o sutelkęs tam laikui visas savo lietuvių
+    pajėgas40, pasiuntė su kariuomene prieš Švitrigailą sa­
+    vo sūnų, kunigaikštį Mykolą41, ir kunigaikštis Mykolas
+    atėjo su lietuviais ir lenkais 12. Ir buvo mūšis rugsėjo
+    pirmąją dieną 43, per šventą Simoną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194635
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 238."
+  citata_originali: |
+    Mūsų Rusios tyrimo išvada yra ta, kad dešiniosios
+    Nemuno žemupio šakos pakrantėse buvo pirmos lietuvių
+    tautos gyvenvietės, atsiradusios bendruomeninėje santvar­
+    koje. Gelonai-budinai, įsikūrę šiuose vaizdinguose kraš­
+    tuose, turtinguose gyvenimui reikalingų gamtos turtų, ne­
+    abejotinai labai ir greitai išplito1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212615
+
+- id: c-194902
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 32-33"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 32-33."
+  citata_originali: |
+    Mes pasisakome už pono Kepeno požiū-
+    2. T. Narbutas
+    33
+
+    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
+    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
+    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
+    tyje arba kad ši gentis buvo arčiausia prie šio
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213791
+
+- id: c-195415
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 252."
+  citata_originali: |
+    244
+    Sritys, arba pagrindinės lietuvių krašto žemės. Šią te­
+    ritoriją sudarė trys pagrindinės sritys: senovės Prūsija,
+    tikroji Lietuva ir Latvija. Kažkokių politinių įvykių suta­
+    pimas lėmė ¡pasidalijimą trijų tautos kartų, įsikūrusių to­
+    se trijose, gana tolimose srityse; jas siejo viena — tik
+    gimtoji žemė. Iš čia atsirado trys atskiri dialektai: seno­
+    vės prūsų, lietuvių ir latvių. Be kalbos panašumo, juos
+    siejo religija ir visai tautai bendra teokratinė valdžia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196173
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 178."
+  citata_originali: |
+    Visai kita
+    (auta, pirmykštė tų kraštų gyventoja (jos buvimu neabe­
+    jojame), galėjo vartoti savo kalboje tokių pačių žodžių,
+    o vėliau juos perduoti čia atvykusierns lietuviams, su ku­
+    riais turėjo susijungti*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215515
+
+- id: c-196479
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 212"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 212."
+  citata_originali: |
+    Tą patį, bet kiek aiškiau minėjo Stra-
+    bonas savo septintojoje knygoje. Taip mes taip pat nedve­
+    jodami pripažįstame tą istorinę tiesą, kad lietuvių tautos
+    protėviai gyveno prie Rosės upės, tekančios per šiandienę
+    Volkovysko apskritį. Jų gyvenviečių galėjo būti net iki
+    IV amžiaus po Kristaus gimimo ar kiek vėliau, kol iš
+    Nemuno aukštupio pusės pradėjo spausti slavų gentys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197166
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  citata_originali: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213907
+
+- id: c-197270
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 164"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 164."
+  citata_originali: |
+    Ypač todėl, kad ir šį
+    žodį „obuolys“, Abuolis, išsaugojo lietuviai savo kalboje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212422
+
+- id: c-197285
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 509"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
+  citata_originali: |
+    180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
+    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
+    tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys
+    lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, pri­
+    klausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), ga­
+    lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
+    kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
+    Lietuvoje šeimos herbai egzistavo70.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197734
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
+  citata_originali: |
+    Vyskupo Petro rankraštyje aptinkame: „jie garbi­
+    no vandenį, vadindami Atropos, kurį laikė kilniu elementu“.
+    Matyti, kad šio dievo vardas šitaip parašytas per klaidą. Že­
+    maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,
+    vardu „ Dzivsvits “:r\
+    Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota,
+    dievas ir laivininkų globėjas. Lietuviai gyveno susisiekiančia­
+    me su jūra krašte, kuriame daug visokių didelių vandenų, to­
+    dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
+    jie negalėjo apsieiti be savo Neptūno.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197945
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
+  citata_originali: |
+    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
+    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
+    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
+    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
+    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
+    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
+    nanti prabangumu tas beveik dar laukines Europos šalis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198010
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
+  citata_originali: |
+    Aukos
+    Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
+    mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano. Šiuo
+    požiūriu lietuviai niekuo nesiskyrė nuo graikų ir romėnų, ne­
+    bent tik buvo kai kurių skirtumų, kilusių dėl vietos aplinkybių
+    ir nevienodo apšvietos laipsnio,. Buvo aukų, kurias atnašau­
+    jant, moterims buvo draudžiama dalyvauti. Buvo ir tokių, kur
+    ne bet kurį vyrą įleisdavo, ir jos vykdavo slapta*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198096
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 438"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
+  citata_originali: |
+    Nepaisant viso
+    šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš­
+    ties amžių, pasilikome sau dar daug tyrimų, ketindami juos
+    išdėstyti kitame tome; tad ši tomą galima laikyti pasirengimu
+    tam, apie ką dar kalbėsime.
+    Nuodugniau lyginant gyvąsias kalbas su mirusiomis, pa­
+    stebėta, kad tarp jų yra skirtumas, tai yra atrastos tam tikros
+    pirmykštės kalbos, iš kurių viena ar kita kalba yra kilusi, ta­
+    čiau dėmesingiau įsigilinus atrodo, kad yra buvusi kalba - visų
+    kalbų motina, nes iki šiol neaptikta jokios, kurioje neatsirastų
+    žodžių, bendrų kitoms kalboms ne tik skambėjimu, bet ir reikš­
+    me. O kuo senesnes kalbas imama nagrinėti, tuo ryškesnė ma­
+    toma jų giminystė, tai yra kuo kuri tauta senesnė, tuo jos kal­
+    ba artimesnė senojo pasaulio kalboms . Si tiesa tokia akivaiz­
+    di, kad aiškiai patvirtina tai, ką žinome iš padavimų, išlikusių
+    Šventajame rašte apie žmonių giminės kilmę iš vienos pirmo­
+    sios šeimos, apie žmonių pagausėjimą pirmiausia Azijoje, pa­
+    galiau apie jų atsikraustymą iš ten į Europą. Žiloje senovėje
+    Azijoje buvo kalba, neabejotinai susiformavusi Indijoje, kuria
+    buvo kalbama, o vėliau, ištobulėjus visuomeniniam gyvenimui,
+    ir rašoma.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198136
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
+  citata_originali: |
+    30
+    30
+    Šių eilių proga negaliu neprisiminti tokio atsitikimo. Kai pir­
+    mą sykį paėmiau į rankas švento atminimo Ksavero Bogušo studiją,
+    šios eilės smarkiai patraukė mano dėmesį. Skaičiau jas savo tarnams
+    lietuviams, jie klausėsi su dideliu malonumu, sakydami, kad, jų iš­
+    manymu, harmoningas žodžių skambesys perteiktas nuostabiai. O
+    vėliau, kai išmokiau atmintinai vieną puikų balsą turinčią lietuvaitę
+    ir kai ji deklamuodavo, kaimiečiai klausydavosi susižavėję, ir atrody­
+    davo, kad jie suvokia eilučių metrų darną. Deklamuojant tas 30 eilu­
+    čių, net nemokantys kalbos žmonės jausdavo nuostabos vertą skam­
+    bumą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198155
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
+  citata_originali: |
+    Lietuvių mitologija, sukurta iš graikų,
+    nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
+    prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
+    tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
+    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
+    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
+    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
+    jimuose.
+    Seniausios žemės tautos - indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,
+    dėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir
+    dabar tebėra to paties apšvietos, politinių institucijų ir religi­
+    jos lygio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217042
+
+- id: c-198358
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 108."
+  citata_originali: |
+    Lietuviai teikė jam garbę, laikydami žalčius ir maitindami
+    juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai. Jis
+    priklausė pagrindiniams dievams ir iš jų buvo žemiausias, ka­
+    dangi valdė žemės elementą. Jo valdžioje buvo visa, kas val­
+    goma, ko reikėjo gyvoms būtybėms išsimaitinti. Todėl jam bu­
+    vo aukojami pirmieji žemės derliaus grūdai, medžių vaisiai,
+    pirmos sužvejotos žuvys ir sumedžioti žvėrys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198392
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
+  citata_originali: |
+    Lietuviai nuo seniausių amžių dalijo laiką į valandas
+    (lYahmda) , o jos skirstytos į dienos ir nakties. Buvo 12 dienos
+    ir tiek pat nakties valandų. Valandų trukmę matuodavo van­
+    dens laikrodžiais (Bodziawolas).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198405
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
+  citata_originali: |
+    Užkalbėjimai nuo gyva­
+    čių įkandimo, augalų gydomųjų savybių atradimas, žodžiu, visa
+    senovės lietuvių žynių medicina buvo globojama saulės, kurios
+    šiuo atveju buvo šaukiamasi, vadinant ją Lėliumi (Lelus)11. Vie­
+    noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­
+    lius. Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito
+    yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat
+    Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka­
+    pis. Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
+    tus. Iš lietuvių mitologijos tyrimų pastebima, kad Lėlius (Lelus)
+    ir Lėlė (Lela) - tai dvyniai: brolis ir sesuo, vyras ir žmona, kaž­
+    kokios deivės, kurios vardas pamirštas, vaikai; darau išvadą, kad
+    tai buvo Lada (Lado), atitinkanti graikų Latoną, o jos vaikai -
+    Apoloną ir Dianą, o slavų mitologijoje - Lėlių ir Polėlių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198505
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  citata_originali: |
+    Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
+    turėjo būti pramintas rusinu - miesto kolonistų, atgabentų iš
+    Lietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-
+    kusi. Dabar, įrengiant baterijas, ant jo rasti labai augalotų žmo­
+    nių kaulai. Taigi nėra pėdsakų, kad ten turėjo būti kas nors
+    susijusio su senąja lietuvių religija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198521
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  citata_originali: |
+    Buvo ir lietuvių valdo­
+    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
+    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
+    Dievo Santvara stabas rastas Prilvice su užrašu runomis
+    Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie­
+    nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
+    tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
+    mis30. Viename dokumente, rusiškai rašytame XVI amžiuje
+    Lydos apskrityje ant labai patvaraus popieriaus, pastebėjau
+    vandenženklį arba fabriko ženklą, kurio atvaizdas yra IV lente­
+    27 Išsamesnių žinių apie senovės prūsų monetas yra Lybknechto
+    (Liebknecht) veikale “De antiquis nummis aliquando effosis in Prussia
+    Regali et adjacentibus Regionibus”.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198603
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
+  citata_originali: |
+    Šiuo po­
+    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
+    įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
+    taip pat užmušdavo jų mylimiausius tarnus. Neturime jokio pa­
+    tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
+    bindavo karalių kūnus, parištus ant aukso grandinių .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198616
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 448."
+  citata_originali: |
+    Senovės lietuvių kalba iš Čemberleno; imta iš Ksavero Bo­
+    gušo (p. 109):
+    Tews mus, kas ekas Debbesin; swetislajn taws Wardas; laj
+    enak mums tawa Walstibe; taws prats lajnot ek Debbesin kne ku
+    žeme. Musa dieniszku mausu dod mums szoden, unpedod muns
+    musu paradus, ka mes pedodam musum paradukam; un ne wed
+    mus kierdi na szane, bet pestino ta launa.
+    Lietuvių kalba, vartojama Prūsijoje, Nemuno žemupyje; imta
+    iš Hartknocho (ten pat):
+    15.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198780
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
+  citata_originali: |
+    Kadangi lietuvių gentys nuolatos pa­
+    laikė artimus ryšius su gotais, tad ir iš jų perėmė daug religi­
+    nių mitų ir apeigų, kurių pėdsakai mūsų mitologijoje yra pa­
+    kankamai ryškūs - tiek, kad senesnieji istorikai visą tą mitolo­
+    giją kildina iš skandinavų. Kadangi ir šioje yra nemažai pasi­
+    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
+    šybė pasirodo esanti dar ryškesnė. Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217042
+
+- id: c-198812
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 357."
+  citata_originali: |
+    (Kai gims mergaitė, tai dalis tavo kūno,
+    Kai pagimdysi berniuką, tai jau po mergystės).
+    Mat anot senovinio papročio, lietuviai manė, kad moteris,
+    net ištekėjusi, tol nenustoja buvusi mergina, kol nebus pagim­
+    džiusi sūnaus, todėl jaunamartės tol nešiodavo nuometą, kol
+    susilaukdavo sūnaus. Tuo tarpu kepdavo ožio, buliaus arba
+    lokio pautus, kuriuos duodavo valgyti jaunavedžiams, many­
+    dami, kad šitaip smarkiai padidins vaisingumą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198872
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
+  citata_originali: |
+    Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
+    Nors pirmaujančios lietuvių giminės po Horodlės seimo
+    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
+    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
+    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
+    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
+    dalo ir seno graviravimo signečių pėdsakas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198896
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
+  citata_originali: |
+    Lietuvoje tebėra gyvas paprotys, kai prietaringi ūkininkai
+    likusius nuo Velykų pusryčio kaulus stropiai surenka ir užkasa
+    į žemę; mano kampe valstiečiai juos vadina Nijoliszkas Palaj-
+    kas (Nijolės palaikai). Tai lyg Nijolės relikvijos arba likučiai,
+    skirti Nijolei. Žemiau straipsnyje apie aukas pamatysime, kad
+    atnašautos mėsos kaulai būdavo užkasami į žemę kaip auka
+    požemio dievams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198969
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  citata_originali: |
+    Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216151
+
+- id: c-199033
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 128."
+  citata_originali: |
+    Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
+    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
+    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
+    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
+    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
+    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
+    (Lietwii) ženklas.
+    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
+    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
+    dodavo laisvės deivės simboliu. Šitoks simbolio panaudojimas
+    buvo visuotinai paplitęs Antikos tautose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199049
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    Si epocha baigėsi 1386 metais, tai yra visiškai
+    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
+    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
+    daryti visą tautą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217940
+
+- id: c-199298
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 394."
+  citata_originali: |
+    Autorius pateikia iš­
+    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
+    gyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,
+    kurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­
+    do visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­
+    tos niekad nenukryps panašiai kaip čekai, kadangi didis val­
+    dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis
+    šito laidas. Ir vėl užkliudo kryžiuočius, ir vėl daro jiems prie­
+    kaištus dėl vokiečių dvasininkų užpuldinėjimo. Toliau pereina
+    prie pakartotinio krikšto temos: De rebaptisantis hominibus
+    (Apie žmonių perkrikštijimą).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199302
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
+    kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
+    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
+    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
+    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
+    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
+    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
+    daikto pavadinimo, nes jį turėjo savo pačių kalboje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199339
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
+  citata_originali: |
+    Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
+    rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­
+    mąją gėrimo taurę23.
+    VII skyrius
+    APIE ŽMOGAUS MIRTIES
+    DALYKUS
+    Kapai
+    Kapai senovės lietuviams buvo šventas dalykas. Jokiu bū­
+    du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
+    kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
+    dorybių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199445
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
+  citata_originali: |
+    Senovės prūsų papročiu prisiekian­
+    tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
+    Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
+    valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
+    saiką labiau nei pirštų padėjimas ant Evangelijos. Tokio pat
+    I autinio papročio laikytasi ir kituose lietuvių genties tautų kraš-
+    I uose, kurie atsidūrė svetimųjų valdžioje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199511
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 234."
+  citata_originali: |
+    Anot aiškaus Strijkovskio liudijimo, tas
+    medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
+    dievaitis Pušaitis su savo barstukų kariuomene. Šitų būtybių
+    dažnai šaukiamasi maldose, ir pats medis gerbiamas dėl savo
+    įgimto veiksmingumo, glūdinčio visose jo dalyse, jo šešėliui
+    priskiriamas išganingas poveikis sveikatai; dėl šios priežasties
+    daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip die­
+    vybė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199542
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 277"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 277."
+  citata_originali: |
+    Lietuvių genties tautos, išpažįstančios religiją, paremtą an­
+    tikinės graikų ir romėnų religijos principais, taip pat nuo se­
+    niausių laikų turėjo savo žynius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219704
+
+- id: c-199608
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
+  citata_originali: |
+    Antikos žmonės duodavo dvejopas
+    priesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam
+    galingam ir kerštingam dievui: Me Hercule, MeJove, tegu Her­
+    kų lis, Jupiteris bus man maloningas; kitokią su užkeikimu,
+    kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
+    baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
+    būdavo toks pat baisus kaip ir anų.
+    Lietuviai savo priesaikas duodavo visai panašiai: visi saky­
+    davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali
+    lkw u), taip pat: Kad man Periamas sumusztu; tai reiškė šaukti
+    dievus būti liudytojais. Priesaikos su užkeikimu taip pat dar
+    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
+    (Kad až skradziuprapoltu).
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216433
+
+- id: c-199643
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
+  citata_originali: |
+    Lietuviai garbino jį tam tikru būdu: jis turėjo savo auku­
+    rus, stabus, šventyklas, žynius, vaidilutes. Plačiau apie tas smul­
+    kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo­
+    se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir
+    iškilmes, labai panašias į Romos bakchanalijas.
+    Kronikininkai skiria Ragutį nuo Bubilo, pirmąjį pripažin­
+    dami rūgšties, antrąjį - saldumynų šeimininku.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199711
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 122."
+  citata_originali: |
+    Visai taip pat, kaip Laimą suprato mūsų lietuviai. Šitaip su­
+    prantama ir vadinama, ji įėjo į Trejybę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216117
+
+- id: c-199917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  citata_originali: |
+    Vietos padavimai iki šiol mini, kad
+    tai Gedimino kapas. Man sakė, kad vieno vienuolyno biblio­
+    tekoje buvo XV amžiaus lotyniškas rankraštis - svarstymas
+    apie milžinkapius3, kuriame turėję būti padavimų apie šį ka­
+    pą. Taip pat turime pėdsaką, kad dar XVII amžiuje apie Ge­
+    dimino kapą Lietuvoje visi žinojo; apie tai 1629 metais4 mini
+    Naborovskis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199931
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
+  citata_originali: |
+    Tai
+    buvo atpildas dorovingiesiems; priešingai, nedorųjų ir nusi­
+    kaltėlių bei nepaklusnių žyniams po mirties laukė toks paža­
+    das: „Dievai atims iš jų viską, ką tik turėjo, kankins klaikiu
+    siaubu ir tokiomis kančiomis, kad jie turės kaukti ir inkšti lau­
+    žydami rankas tūkstantinėse nesibaigiančiose kančiose“ .
+    Spręsdami iš viso to, ką iki šiol pateikėme apie pomirtinį
+    gyvenimą, negalime abejoti, kad lietuviai tikėjo sielos nemir­
+    tingumu, bet šis prietarais aplipęs tikėjimas buvo priežastis
+    daugybės prietaringų nuomonių apie būsimą pomirtinę sielos
+    būklę.
+    Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė,
+    jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš
+    mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido­
+    tuvių apeigas ir per žynius ieškotų priemonių laimingam am­
+    žinajam gyvenimui pasiekti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199956
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
+  citata_originali: |
+    Todėl seno­
+    vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
+    prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
+    kinimas.
+    Ankstesniame straipsnyje šiuo požiūriu kalbėjome apie
+    upėvardį Ross; čia dar turime pridurti kaip mokslinio tyrimo
+    pavyzdį pastebėjimą apie vardų Nar, Nėr, Nor, Nur etimologi­
+    ją; pirmykštėje lietuvių kalboje, bendroje su slavų ir daugeliu
+    kitų, jie reiškia vandenį arba vandenų telkinį, požemio van­
+    dens užlietą gelmę, vandens srovę arba tekėjimą. Iš to indų
+    šventojoje kalboje, arba sanskrite, Nara - vanduo; arabiškai
+    Nahr-upė, lietuviškai Nar senąja kalba reiškė vandens kraštą
+    (krantą).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200029
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
+  citata_originali: |
+    Svarbiausia mirusių vėlių klajojimo priežastis - smurtinė
+    mirtis ir palaidojimas nesilaikant laidojimo apeigų. Romėnai
+    tą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį
+    skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,
+    kur atrado.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200107
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 444"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 444."
+  citata_originali: |
+    Patys lietuviai, apsupti broliškų kraštų, iki šiol iš­
+    laikė gryniausią lietuvių kalbą. Šios tautos, taip aistringai my­
+    linčios tai, kas sava, būdas išliko varguoliuose žemdirbiuose,
+    prisirišusiuose prie savo tėvų arimų; jie yra vienintelis buvu­
+    sios tautos didybės atminimas; šalia vietovardžių, papročių,
+    kai kurių prietarų ir tautinės kalbos, jie yra brangus tautos
+    palikimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218053
+
+- id: c-200157
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200178
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 341."
+  citata_originali: |
+    Sis bei tas išliko vien kaimo
+    žmonių papročiuose, įpročiuose, prietaruose, kerėjimuose ir
+    tautos būde, kuriam lemtis skyrė ištverti drauge su savo tauta.
+    Sprendžiant iš to, ką surinko ankstesnieji Lietuvos senovės ty­
+    rėjai ir ką dar pavyko surinkti, senovines religines apeigas rei­
+    kia įsivaizduoti buvus nepalyginti turtingesnes. Bet mes, rašy­
+    dami ne spėliojimus, o istoriją, turime pasitenkinti kritikos pa­
+    tvirtinta medžiaga, palikdami pačiam skaitytojui malonumą
+    pamąstyti apie nuostabią praeitį didelės tautos, kurios religija
+    buvo kupina aukštų polėkių, gyvos fantazijos ir turėjo nekas­
+    dieniškai iškilmingas apeigas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200218
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
+  citata_originali: |
+    Alanai, senieji kai ku­
+    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
+    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
+    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
+    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
+    mada vaipydamiesi, skaitydavo lemties knygą .
+    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
+    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
+    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
+    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
+    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
+    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
+    kaip tai pamatysime toliau. Jis išpranašaudavo privačių as­
+    menų, valdovų, kariuomenės, miestų, visos valstybės, taip pat
+    visokiausių sumanymų ir darbų tolesnę ateitį; jo pranašystės
+    buvo nutarimų politiniais, teismo^ religijos klausimais pagrin­
+    das.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200366
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
+  citata_originali: |
+    Visokios pastabos ir istorijos liudijimai teikia žinių, kad
+    lietuvių stabmeldystės klestėjimo laikais kiekvieno laipsnio žy­
+    nius tvirtindavo krivis. Šioms kilmingoms pareigoms rinkdavo
+    dorovingus žmones, jau pagyvenusius, kurie visu savo gyveni­
+    mu deramai pateisindavo nuomonę apie juos. Kiekvienas žy­
+    nys ar vaidilutė privalėjo likti viengungiai, laikytis nepriekaiš­
+    tingos skaistybės, būti nepapeikiamų papročių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200440
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 350"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 350."
+  citata_originali: |
+    Mat visa, kas galė­
+    jo prisidėti prie moters apkalbėjimo, kad ji esanti nesantūri,
+    visa tai smarkiai pažemindavo ją visuomenės akyse; tarytum
+    norėta aukščiausia moters dorybe laikyti tai, kas jai daugiau­
+    sia kainuodavo, kreipiant dėmesį ne į dalyko, bet į pasiaukoji­
+    mo didumą.
+    Jaunos netekėjusioski/mingos" lietuvaitės nešiodavosi var­
+    pelius, prikabintus virvutėmis prie juostos ir nuleistus iki ke­
+    lių, o vakare sutemus jos nedrįsdavo nė per žingsnį nutolti nuo
+    namų; net po namus turėdavo vaikščioti su ugnimi, kad tėvai
+    girdėtų ir matytų, kur jų duktė sukinėjasi8. Šitaip akylai sau­
+    gomas, jas pagrobdavo lakedemoniečių pavyzdžiu; tai padaro
+    du jaunikio giminaičiai; tada jie atsiprašo tėvų ir įteikia jiems
+    tam tikras dovanas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200458
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
+  citata_originali: |
+    Šiuo atveju to nelaimingo priešo - Vylingosios (Zdradliwa)
+    vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­
+    bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su
+    Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai­
+    vybai. Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
+    Strungas - bukas vadinami strungais, yra tikri upinių laivų gi­
+    minės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­
+    ti palyginti su jūrų laivais.
+    Čeltyčios (Czeltice)
+    Tai buvo Baltijos jūros vandenų nimfos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200552
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 164"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 164."
+  citata_originali: |
+    Visose lietuvių genties tautose vieškelis, Wiessas Kielas, bu­
+    vo religiškai paaukotas šalies svetingumui: nė vienam, keliau­
+    jančiam vieškeliu, nederėjo daryti skriaudos dėl rūstaus dievų
+    keršto; taip skelbia senovės padavimai.
+    Sis dievaitis atitinka Romos Larą (Lar vialis); Antikos žmo­
+    nių Merkurijus, Apolonas, Bakchas, Herkulis taip pat vadino­
+    si kelio dievai, Dii viales. Buvo ir keliautojų deivė Vibilia.
+    Numėjas ir Peskija (Numejas i Peskia)
+    Dievaitis ir dievaitė, jo draugė, svetingumo dievybės. Šių
+    žodžių prasmė, senosios kalbos aiškinimu5, sutampa su šių die­
+    vybių pašaukimu, žemaitiškai reiškia Swecias ir [Viešnia.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219464
+
+- id: c-200566
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 350"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 350."
+  citata_originali: |
+    Jaunos netekėjusioski/mingos" lietuvaitės nešiodavosi var­
+    pelius, prikabintus virvutėmis prie juostos ir nuleistus iki ke­
+    lių, o vakare sutemus jos nedrįsdavo nė per žingsnį nutolti nuo
+    namų; net po namus turėdavo vaikščioti su ugnimi, kad tėvai
+    girdėtų ir matytų, kur jų duktė sukinėjasi8. Šitaip akylai sau­
+    gomas, jas pagrobdavo lakedemoniečių pavyzdžiu; tai padaro
+    du jaunikio giminaičiai; tada jie atsiprašo tėvų ir įteikia jiems
+    tam tikras dovanas. Mat santūrūs papročiai neleidžia parduo­
+    8 Tauta, gyvenanti Rusijos gilumoje, žinoma dabar mordvių arba
+    mordvinų vardu, iki šiol laikosi panašaus papročio: mergaitės nešio­
+    ja įvairaus dydžio rutulinius varpelius: mažesnius prie kaklo tarp ka­
+    roliukų, didesnius per juosmenį, prisiūtus prie marškinių. Tokios mer­
+    gaitės mažiausią sujudėjimą galima išgirsti net patamsyje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200630
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
+    krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
+    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
+    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė. Mat
+    vietos padavimai įtikina, kad tą vandenį senoji religija laikė
+    šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
+    upę, kad sutrauktų prie jos krantų žmones krikštui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218384
+
+- id: c-200701
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  citata_originali: |
+    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
+    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
+    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų. O
+    vyras gedėdavo žmonos tiktai astuonias dienas. Erazmas Ste­
+    la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
+    kad laidojimo apeigų tvarka buvo labai senas, šventas daly­
+    kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­
+    vių genties tautos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219672
+
+- id: c-200725
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
+  citata_originali: |
+    Taip pat Žaslių, Zarasų ežerai ir nemaža kitų.
+    Apskritai lietuvių mitologija visus ežerus manė esant glo­
+    bojamus dievo Atrimpo, šiuo atveju vadinto Ežeriniu (Ežeri­
+    nis).
+    Šventosiose upėse ir ežeruose niekam nederėjo gaudyti žu­
+    vies, nebent per didelį badmetį, priešų apgultį arba staiga iški­
+    lus kitokiam reikalui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200758
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 197-198"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 197-198."
+  citata_originali: |
+    Aukš­
+    tesnioji valdžia į tai nesikišo: dievų žyniai neturėjo preteksto
+    skųstis; priešingai, slaptos apeigos išoriškai atrodė susiliejan­
+    čios su bendrąja religija.
+    Šiuo aspektu žvelgdami į lietuvių religiją, į gana aukštą
+    tautos senovinės civilizacijos laipsnį, tobulą mitologiją, kalbą,
+    teisę ir kitą viešąją tvarką, iš tikrųjų turime pritarti nuomonei,
+    1 Essais sur l’esprit et les moeurs de nations. - T. I. - P. 20.
+    J98
+
+    kad paslaptys nebuvo svetimos mūsų protėviams. Pagaliau jei­
+    gu kronikos ir padavimai tvirtina apie lietuvius, kad jie slepią
+    kai kurias savo apeigas , jeigu autoriai, įvairiapusiškai išma­
+    nantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af­
+    rikos Sacharos dykumos gyventojams’, tai kodėl tą turėtume
+    užginčyti lietuvių tautai?
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200761
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
+  citata_originali: |
+    Kad ir kaip ten būtų bu­
+    vę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,
+    net pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš
+    tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *.
+    Senovinėse lietuvių monetose dievai buvo vaizduojami se­
+    nu papročiu, kuris tinka ir kitoms kaimyninėms tautoms. Tu­
+    rėjau rankoje sidabrinę monetą, rastą Varėnos apylinkėse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200792
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  citata_originali: |
+    Henriko Latvio kronikos prierašuose, arba pastabose, ku­
+    rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
+    turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da­
+    lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk­
+    dami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu
+    rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“). Anot
+    autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų
+    karo dievą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216593
+
+- id: c-200843
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
+  citata_originali: |
+    Apie tai 1836 metais man rašė vienas iš
+    tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *.
+    Senovinėse lietuvių monetose dievai buvo vaizduojami se­
+    nu papročiu, kuris tinka ir kitoms kaimyninėms tautoms. Tu­
+    rėjau rankoje sidabrinę monetą, rastą Varėnos apylinkėse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200860
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 441."
+  citata_originali: |
+    Taigi, kai vien panagrinėję kalbą, pradedame įžiūrėti aiš­
+    kius bruožus to, ką pasakėme, nelieka abejonės, jog lietuvių
+    tauta yra tiesiogiai kilusi iš tų Azijos genčių, kurių pagrindinis
+    kamienas buvo žmonės, kadaise kalbėję sanskritu; iš jų taip
+    pat yra kilę pelazgai-helenai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217852
+
+- id: c-200952
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  citata_originali: |
+    Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
+    tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
+    Plikasis kalnas. Visa, ką šiuo klausimu žinome iš istorijos, ap­
+    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217249
+    - t-218328
+
+- id: c-200970
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
+  citata_originali: |
+    Ypač aš stengiausi, nieko nepraleisdamas, aprašyti visa,
+    ką paliko rašytosios istorijos, ką atskleidė senovės mokslinin­
+    kų tyrimai, ką pavyko surinkti iš žmonių padavimų bei dainų
+    ir ką išsaugojo paminklų liekanos. Tiesa, daugybė to paveiks­
+    lo detalių yra dingusių, tačiau išliko visuma, išsamesnė už vi­
+    sus šiaurės tautų mitus. Lietuvių mitologija, sukurta iš graikų,
+    nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
+    prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
+    tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
+  citata_originali: |
+    Iš padavimų apie graikų dievus žinome, kad garsus prana­
+    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
+    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
+    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
+    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
+    buvo labai senas ir visuotinai paplitęs. Lietuviai įvedė tą gar­
+    binimą savo šalyje, tačiau natūralu, kad, neturėdami vynuo­
+    gių, savo Bakchui turėjo priskirti kitas ypatybes ir atributus,
+    nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
+    ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
+    mingumo skraiste.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201012
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
+  citata_originali: |
+    Plačiau rašo apie Vilniaus įkūrimą; tie dalykai šiaip žino­
+    mi, ir tame aprašyme nieko naujo nėra; toliau tęsia pasakoji­
+    mą tokiais žodžiais: „Tas Vilnius su Trakais buvo beveik vie­
+    nas miestas. Vilniaus gyventojai turėjo namų ir giminių Tra­
+    kuose, o trakiečiai - Vilniuje, bendrai švęsdavo ir minėdavo
+    stabmeldžių šventes. O kadangi Vilnius tapo Lietuvos sostine
+    ir šiaip jo padėtis dėl prekių plukdymo upėmis yra patogesnė,
+    į jį atplūdo daugiau gyventojų nei į Trakus, tad vėlesniais lai­
+    kais, nors turėjo pilį ir kunigaikščio rūmus, tas miestas virto
+    beveik kaimu. Būtent dėl šitokios eigos Vilniuje pastatė Al-
+    tambo šventyklą; jo šventė Trakuose būdavo rugsėjo 8 dieną,
+    o Vilniuje - 15. Šiose iškilmėse vykdavo tam tikri vaidinimai,
+    kurie pritraukdavo daugybę žmonių iš Lietuvos, Žemaitijos,
+    Prūsijos, Kuršo, Livonijos ir Rusios, nes būdavo didelė įvairių
+    prekių mainų mugė ir procesija iš miesto į miestą“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201170
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 102."
+  citata_originali: |
+    Visos lietuvių genties tautos turėjo savo dainius, panašius
+    į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­
+    nuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­
+    davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat
+    Burts.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219462
+
+- id: c-201202
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
+  citata_originali: |
+    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
+    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
+    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
+    milžino išvaizdos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218157
+
+- id: c-201217
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 391."
+  citata_originali: |
+    Toliau autorius pa­
+    sakoja, kad šie Rytų bažnyčios atskalūnai, nuo seno gyvenan­
+    tys tarp stabmeldžių lietuvių, ne tik naudojasi didesne laisve
+    negu savo šalyje, bet daugelio lietuvių didikų šeimose netgi
+    turi savo tikėjimo šalininkų; per tai susidarė padėtis, kad Lie­
+    tuvoje mažai liko Rytų atskalos bažnyčių, neapkrėstų jų pa­
+    klydimais. Priešingai, lietuvių bajorai, urmu linkstantys į šią
+    krikščionybę, sukūrė tarytum naują sektą, kurią autorius va­
+    dina lietuviškuoju manicheizmu, Manicheismus Lilhuanicus.
+    Jo atsiradimą aprašo taip: „Rusinai pirmieji, kaip sako, dar XI
+    amžiaus pirmojoje pusėje, ėmė platinti krikščionybę stabmel­
+    diškoje Lietuvoje, bet vėliau šie krikščionys, patys užsikrėtę
+    manicheizmo paklydimais, labiau juos pritaikė prie stabmel­
+    dystės, tai sunku pasakyti, ar lietuvių stabmeldystė sumišo su
+    krikščionybe, ar krikščionybė susiliejo su stabmeldyste.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201233
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 350"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 350."
+  citata_originali: |
+    Tokios mer­
+    gaitės mažiausią sujudėjimą galima išgirsti net patamsyje. Ištirti mord­
+    vių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­
+    je prie Obelių ežero degintiniame kape buvo rasti varpeliai, kurie ka­
+    daise turėjo panašią paskirtį. Jų skersmuo - 2-5 coliai. Turiu savo se­
+    nienų rinkinyje**.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201283
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
+  citata_originali: |
+    Priesaikos su užkeikimu taip pat dar
+    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
+    (Kad až skradziuprapoltu). Senovės prūsų papročiu prisiekian­
+    tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
+    Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
+    valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
+    saiką labiau nei pirštų padėjimas ant Evangelijos. Tokio pat
+    I autinio papročio laikytasi ir kituose lietuvių genties tautų kraš-
+    I uose, kurie atsidūrė svetimųjų valdžioje. Arntas (Arndt) 17 pa-
+    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
+    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
+    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201348
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
+  citata_originali: |
+    Šios meilės vaisius buvo dvejetas įpėdinių.
+    Lietuvių religija medžių atžvilgiu mokė tokio pat pamal­
+    dumo: ne vieną šito pavyzdį turime kronikose, pasakojimuo­
+    se, padavimuose ir liaudies dainose. Šventųjų medžių puoši­
+    mas trofėjais, gėlių girliandomis ir degančiais žibintais buvo
+    įprastas dalykas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 247"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 247."
+  citata_originali: |
+    Gaila, kad Siuco kronikos leidėjas nepridėjo tų monetų
+    piešinių, kurių, matyt, būta rankraštyje. Vis dėlto reikėtų sutik­
+    ti, kad jos nebuvo susijusios su kuriais nors svetimais kraštais,
+    kadangi čia išvardytos smulkmenos kiekvienam numizmatui yra
+    šito įrodymas. Moterų figūros vaizduoja deives, nes lietuvių gen­
+    ties tautos savo šalyse neturėjo karalių ir karalienių tikrąja šio
+    rango prasme.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201542
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 360."
+  citata_originali: |
+    Negalime neigti, kad senovės lietuviai nesmerkė savižudy­
+    bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo
+    tos pačios nuomonės. Tai nugrimzdusios į paklydimą religijos
+    silpnoji pusė. Bet jokia tauta, apimta didžiausio religinio apa­
+    kimo, nežudydavo silpnų, nukaršusių senelių, vaikų, tarnų vien
+    tam, kad jiems savavališkai sutrumpintų gyvenimą, svetimųjų
+    nuomone, jiems nepakeliamą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201597
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
+  citata_originali: |
+    Tikėjimą šito medžio šventumu skandinavai iš dalies pe­
+    rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas
+    po ąžuolais; kaip praneša Adomas Bremenietis, to ypač laikė­
+    si švedų protėviai .
+    Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
+    les, iškeptas pelenuose arba virtas su pelenais. Gali būti, kad
+    šis vaisius nuo alkaloidinės rūgšties praranda savo aitrumą ir
+    būna visai pakenčiamas valgis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201655
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
+  citata_originali: |
+    Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į
+    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
+    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
+    į žygį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224252
+
+- id: c-201761
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  citata_originali: |
+    Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
+    (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589
+    m.), 2 (1639 m.), 6 (1722 m.), 25 (1739 m.) ir kt.).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201801
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  citata_originali: |
+    Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
+    Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
+    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
+    jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201945
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 111-112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111-112."
+  citata_originali: |
+    1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis
+    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
+    prie šios pilies, atvyko pasiuntinys, pranešdamas, kad keturi tūkstančiai lietuvių
+    342 Krašto magistras buvo nuo 1259 m. gegužės mėn. iki 1261 m. lapkričio
+    mėn.
+    343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
+    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose ribojosi su Skalva (apie
+    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros ir
+    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p. 199—
+    202).
+    344  Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta,
+    atrodo, deš. Nemuno krante apie dab. Jurbarką, žemiau Mituvos žiočių, kur yra Bišpiliukais
+    vadinama piliavietė (dvi kalvelės Kalnėnų kaimo teritorijoje) (Toeppen M., Historisch..,
+    p. 39; Zajączkowski S., Studya.., p. 35—36; SZM, p. 213—214; LAA, 2, p. 77).
+
+    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
+    o sugautas moteris bei vaikus išsivarė su savimi
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224831
+
+- id: c-202122
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 199-200"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199-200."
+  citata_originali: |
+    Dar apie tą patį
+    Kai 1306 metais ši kariuomenė sugrįžo, brolis Eberhardas, Karaliaučiaus komtūras,
+    patyręs, ką ji padarė, ir pamanęs, jog, sudeginus papilį, be vargo užkariausiąs ir pačią
+
+    pilį, patraukė su šimtu brolių ir šešiais tūkstančiais raitelių prieš Gardino pilį. Tačiau
+    Lietuvos karalius, išgirdęs, jog sunaikintas šios pilies papilys, nusiuntė pilies ginti daugybę
+    rinktinių bei įgudusių karių. Dėl to, broliams pradėjus pulti pilį, pilėnai, savo ruožtu
+    narsiai priešindamiesi, išėjo iš pilies ir pradėjo kautynes, kurios ilgokai užtruko.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202248
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
+  citata_originali: |
+    270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
+    Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
+    29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus
+    gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus
+    sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį. Ligi pat
+    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
+    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
+    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202366
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  citata_originali: |
+    286 (279). Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
+    Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
+    priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
+    ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
+    daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
+    pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
+    iš jų 50 krikščionių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202449
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
+  citata_originali: |
+    O šeši
+    tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami bei imdami į nelaisvę
+    žmones ir degindami viską, kas degė;
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221113
+
+- id: c-202455
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
+  citata_originali: |
+    Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
+    Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis
+    garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo
+    galima sakyti, kad jį mylėjo ir dievas, ir žmonės. Pailsęs nuo rūpesčių ir palaužtas negalės,
+    ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
+    pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.
+    280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
+    Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
+    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
+    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
+    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
+    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
+    rankų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202770
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
+  citata_originali: |
+    Kai paprasti žmonės išvydo,
+    jog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose
+    pasilinksminimuose, labai nusigando ir, manydami, jog jų sąmokslas esąs susektas,
+    nedrįso nieko bloga broliams daryti, ir šitaip broliai iš dievo malonės sveiki bei gyvi
+    pargrįžo namo. Štai kokios negandos iš visų pusių nuolatos grėsė broliams, tačiau dievas,
+    kuris niekad nepalieka nelaimėje tų, kurie jį tiki, mielaširdingai juos gelbėjo nuo visiško
+    išnaikinimo.
+    250 (243). Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
+    nių nužudymą bei paėmimą į nelaisvę
+    Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
+    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
+    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
+    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
+    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
+    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
+    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
+    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202821
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 204"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 204."
+  citata_originali: |
+    1311 viešpaties metais, per užgavėnes (vasario 22), Vytenis, Lietuvos karalius, su
+    didele kariuomene, degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug
+    žmonių, o beveik penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu, tiesa, ir pats
+    patyrė nuostolių, nes žuvo nemaža jo žmonių, nutolusių nuo savo kariuomenės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223615
+
+- id: c-202826
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  citata_originali: |
+    Apie Sembos žemės nusiaubimą
+    Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
+    mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu
+    įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys
+    vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497.
+    Broliai iš anksto buvo pasirengę tam antpuoliui. Dėl to šie nieko kita čia negalėjo daryti,
+    tik dešimt dienų žygiuoti nuo vienos šios žemės ribos iki kitos ir deginti sodybas bei visa
+    kita, kas buvo už pilių ir įtvirtinimų [sienų]; jie sugrįžo namo, netekę tik 5 savo karių.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223726
+
+- id: c-203275
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 181-182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181-182."
+  citata_originali: |
+    Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
+
+      Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais
+    nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,
+    viską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug
+    žmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus
+    kapo esantis Pilies (Ramybės) kalnas (atrodo, XV a. pradžioje jame buvusi atstatyta
+    Veliuonos pilis — LAA, 2, p. 179, Nr. 805). Žemutinis papilys — ovali kalvelė, išlikusi  į
+    rytus nuo Gedimino kapo, matyt, anksčiau jam priklausė didesnė papėdės teritorija.
+      534 D. — castrum Mederabam, Jer.— bure zu Mederabe; Medraba (SZM, p. 223). Iš
+    piliakalnių išsidėstymo  į vak. nuo Dubysos situacijos, pateiktos kronikoje, atrodo, kad
+    Medrabos pilis galėjusi būti Meškininkų piliakalnyje (Jurbarko rj.), esančiame  į šiaurės
+    vakarus nuo Jurbarko kair. Mituvos krante (LAA, 2, p. 107—108).
+      Neįtikimas atrodo bandymas tapatinti šią pilį su Nadrowsie, t. y. Nadrausve Vilkaviškio
+    rj. (Łowmiański H., Studia 2 p. 41).
+      535 D.— Gesovie, Jer.— Geisow, Gaižuva (SZM, p. 214, 215),  į rytus nuo Dubysos
+    žiočių,  į šiaurės vakarus nuo Vilkijos. Čia išliko Ringovės (prie Nemuno) ir Butvilonių
+    piliakalniai (LAA, 2, Nr. 635, 120).
+      536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
+    Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.
+    Valsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.
+    40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;
+    Makarevičius A., Vilkijos..., p. 62).
+
+    užpuolė. Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
+    Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
+    Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
+    kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203409
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
+  citata_originali: |
+    kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
+    kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
+    kariuomenės. Įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių,
+    patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
+    stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių
+    dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė
+    vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,
+    jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
+    netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225113
+
+- id: c-203457
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 180-181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180-181."
+  citata_originali: |
+    Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
+
+       Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje  pilį533, kurią
+
+      531  Žr. D. III, 227.
+      532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
+    paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
+    Studya..., p. 38— 39). Dusburgietis, matyt, valsčiaus vardu vadinęs ir jo centrą, t. y.
+    Veliuoną (SZM, p. 215—216, 239—241), įsikūrusį deš. Nemuno krante prie Veliuonos
+    upelio.
+      533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
+    piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du
+    papiliai — ant kalno ir slėnyje (D. III, 252). Pirmajam priklausė į vakarus nuo Gedimino
+
+    pavadino tuo pačiu vardu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203511
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
+    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
+    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222649
+
+- id: c-203735
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  citata_originali: |
+    Dėl šitų mirusiųjų nutikdavo tokių velniškų
+    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
+    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
+    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
+    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
+    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203795
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
+  citata_originali: |
+    Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
+    kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
+    Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
+    žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
+    visiems žinomi karo papročiai. Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204166
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    204  Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
+    prūsų, lietuvių ir kitų baltų religinio kulto centras.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204330
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  citata_originali: |
+    Apie šio laivo sudeginimą 1313 metais
+    Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
+    Lietuva; ilgai taręsi ir visaip svarstę, kaip jį sunaikinti, galop pasiuntė kilmingą bei
+    karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
+    raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
+    gintis. Galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį,
+    pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista,
+    o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
+    jį pavertė pelenais568.
+    319 (312).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220464
+
+- id: c-204452
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  citata_originali: |
+    Apie beveik penkių šimtų lietuvių žūtį
+    Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų
+    įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį:
+    išsivarė daug žmonių ir išsivežė galybę visokių daiktų. Nors šis Jazbutas rodėsi einąs
+    su netikėliais, tačiau slapta gerbė brolius. Jis įspėjo juos anksčiau, nei pats patraukė
+    su kariuomene į žygį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204473
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  citata_originali: |
+    Vis dėlto lietuviai neteko 70 prityrusių
+    karių, žuvusių kovoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223495
+
+- id: c-204685
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  citata_originali: |
+    321 (314). Dar apie tą patį
+    Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
+    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
+    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno ir brolio Rebodo iš
+    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
+    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
+    jas nusiaubė, degindami ir piešdami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205030
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
+  citata_originali: |
+    Kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo
+    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
+    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
+    skridę.
+    282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+    Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
+    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl
+    ir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių
+    būrį, nukovė 65 vyrus ir išvadavo 70 krikščionių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205278
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
+  citata_originali: |
+    Apie Bisenės pilies sudeginimą 1316 metais
+    Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
+    Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
+    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
+    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
+    pilis paliko apleista po šiai dienai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205358
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
+  citata_originali: |
+    XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
+    ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
+    žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
+    Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo
+    Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
+    priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
+    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55. Tuo pat metu
+    „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
+    pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
+    patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo
+    pusėje56.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205530
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  citata_originali: |
+    Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
+    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205599
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
+  citata_originali: |
+    Galop vieną dieną visi pakilo į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
+    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
+    lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė
+    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
+    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205957
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
+  citata_originali: |
+    Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
+    žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
+    visiems žinomi karo papročiai. Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus. Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
+    sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,
+    pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių, ir,
+    užuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o
+    užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
+    gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206044
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
+  citata_originali: |
+    Apie vienos Sembos dalies nusiaubimą
+    1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509
+    įsibrovė į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:
+    Abendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki
+    ir gyvi sugrįžo atgal. Neabejojama, jog šitai įvyko dėl to, kad magistras ir broliai, iš
+    anksto žinodami, jog lietuviai susirengė į žygį, kelias dienas jų laukė su kariuomene,
+    tačiau pabodus laukti, nes šie kelyje užtruko ilgiau nei paprastai, išsisklaidę sugrįžo
+    namo. Kaip tik kitą dieną lietuviai įsibrovė į Sembą ir, niekieno netrukdomi, padarė tai,
+    apie ką jau aukščiau papasakota.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221943
+
+- id: c-206109
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 68"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  citata_originali: |
+    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
+    ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,
+    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
+    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
+    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
+    senovėje, negęstančiąją ugnį.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206357
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  citata_originali: |
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lenkai]], [[objektai/grupes/Rusėnai]], [[objektai/grupes/Rygiečiai]], [[objektai/grupes/Vengrai]]

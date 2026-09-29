@@ -316,6 +316,42 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   pagrindžia:
     - c-187790
 
+<a id="claim-t-207774"></a>
+- t-207774
+  teiginys: "J. Ižykovičius tapo Drohičino mokesčių rinkėju."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190391
+
+<a id="claim-t-212462"></a>
+- t-212462
+  teiginys: "Prieš 1237 metus Konradas Drohičiną perdavė Dobrynės riteriams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196149
+
+<a id="claim-t-213638"></a>
+- t-213638
+  teiginys: "Drohičino kunigaikštukas, pasak Narbuto, siuntinėjo plėšikų gaujas į Mozūriją ir Lenkiją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195677
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.'
@@ -369,7 +405,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -394,7 +430,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-89183
@@ -422,7 +458,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-89184
@@ -450,7 +486,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -470,7 +506,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-89186
@@ -491,7 +527,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-168306
@@ -532,7 +568,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-013
 
@@ -560,7 +596,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-175420
@@ -585,7 +621,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-175923
@@ -605,7 +641,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-184940
@@ -624,7 +660,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-187790
@@ -647,8 +683,91 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
+
+- id: c-190391
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 223"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 223."
+  citata_originali: |
+    Lietuvos Didžiojoje Kunigaikštystėje darbavosi ir kitas K. Manvydo Dorohostai-
+    skio studijinės kelionės palydovas, bajoras J. Ižykovičius. Labai panaši ir jo tarnybinė
+    karjera. J. Ižykovičius tapo Drohičino ir Melniko mokesčių rinkėju, 1598 m. gavo
+    Drohičino pakamarės urėdą.
+  citata_rodoma: "J. Ižykovičius tapo Drohičino ir Melniko mokesčių rinkėju, 1598 m. gavo\nDrohičino pakamarės urėdą."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207774
+
+- id: c-195193
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  citata_originali: |
+    Ne
+    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
+    nes turime žinių apie didelį ir galingą jotvingių žygį į
+    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
+    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
+    kunigaikščiai vaidijosi tarpusavyje. 1247 metais jotvin­
+    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
+    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
+    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195677
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 120."
+  citata_originali: |
+    ypač Drohičino kunigaikštukas siunti­
+    nėjo plėšikų gaujas, kurios neva be jo žinios puldinėjo
+    Mozūriją ir Lenkiją2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213638
+
+- id: c-196149
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  citata_originali: |
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212462
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Konradas]]

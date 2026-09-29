@@ -1,7 +1,10 @@
 import fs from "node:fs"
 import path from "node:path"
-import { collectCorpusEvidenceIntegrityIssues } from "../quartz/util/evidenceIntegrity"
-import { parseEvidenceSections } from "../quartz/util/citationFilter"
+import {
+  collectCorpusEvidenceIntegrityIssues,
+  collectDuplicateCitationIdentityIssues,
+} from "../quartz/util/evidenceIntegrity"
+import { collectCorpusCitationIdIssues } from "./site/corpusCitationIntegrity"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
 
@@ -17,40 +20,13 @@ const documents = listMarkdownFiles(objectRoot).map((file) => ({
   filePath: path.relative(process.cwd(), file),
   markdown: fs.readFileSync(file, "utf8"),
 }))
-const issues = collectCorpusEvidenceIntegrityIssues(documents)
-const citationOwners = new Map<string, string>()
-
-for (const { filePath, markdown } of documents) {
-  const sections = parseEvidenceSections(markdown)
-  const citations = [...sections.entries()]
-    .filter(([title]) => title === "Citatos")
-    .flatMap(([, entries]) => entries)
-    .filter((entry) => entry.id.startsWith("c-"))
-  for (const citation of citations) {
-    if (!/^c-\d{5,}$/.test(citation.id)) {
-      issues.push({
-        code: "non_global_citation_id",
-        severity: "error",
-        entryId: citation.id,
-        filePath,
-        message: `Citation ${citation.id} is not a global citation code`,
-      })
-      continue
-    }
-    const previousFile = citationOwners.get(citation.id)
-    if (previousFile && previousFile !== filePath) {
-      issues.push({
-        code: "duplicate_global_citation_id_across_files",
-        severity: "error",
-        entryId: citation.id,
-        filePath,
-        message: `Citation global id ${citation.id} is also used in ${previousFile}`,
-      })
-    } else {
-      citationOwners.set(citation.id, filePath)
-    }
-  }
-}
+const issues = [
+  ...collectCorpusEvidenceIntegrityIssues(documents),
+  ...collectDuplicateCitationIdentityIssues(documents),
+  ...collectCorpusCitationIdIssues(documents).filter(
+    (issue) => issue.code === "non_global_citation_id",
+  ),
+]
 
 const counts = Object.fromEntries(
   [...new Set(issues.map((issue) => issue.code))].map((code) => [
@@ -64,6 +40,8 @@ console.log(
     {
       files: documents.length,
       issues: issues.length,
+      errors: issues.filter((issue) => issue.severity === "error").length,
+      warnings: issues.filter((issue) => issue.severity === "warning").length,
       counts,
       examples: issues.slice(0, 20),
     },
@@ -72,6 +50,6 @@ console.log(
   ),
 )
 
-if (issues.length > 0) {
+if (issues.some((issue) => issue.severity === "error")) {
   process.exitCode = 1
 }

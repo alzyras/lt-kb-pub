@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Jonas Viksva"]
 sameAs: []
-canonical_biography: "Jonas Viksva – Daktaras, žuvęs 1947 m. vasario mėn."
 ---
 # Jonas Viksva
 

@@ -81,5 +81,6 @@ T. Narbutas teigia, kad didieji kunigaikščiai kartais suteikdavo herbus slavų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

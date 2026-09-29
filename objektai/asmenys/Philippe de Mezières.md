@@ -71,5 +71,6 @@ canonical_biography: "Šitaip pirmą kartą buvo įvykdytas prancūzų riterio P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

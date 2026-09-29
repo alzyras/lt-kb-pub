@@ -63,6 +63,42 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
   pagrindžia:
     - c-177261
 
+<a id="claim-t-212412"></a>
+- t-212412
+  teiginys: "Neabejotina tik tai, kad, kaip jau sakėme, kažkokia iš daugelio ir dau giausia už Dono gyvenusių genčių sudaryta lyga, kuriai vadovaudami sarmatai gavo savo pavadinimą, žlungant skitams įsiliejo į Europą ir sukėlė jos tautų judėjimą."
+  atnaujinta: "2026-09-20 18:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195381
+
+<a id="claim-t-212904"></a>
+- t-212904
+  teiginys: "Jis sako, kad jie nepri klauso nei sarmatams, nei germanams, turi daug žemių, vakaruose teka Vysla; jų kaimynai — estai bei gitonai (.. 66—80), šiaurėje — finai, pietuose — peucinai, o rytuose yra nežinomos sritys."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195660
+
+<a id="claim-t-214830"></a>
+- t-214830
+  teiginys: "Maetis rytinėse pakrantėse gyvenusi Meseti, Maeii arba Mati pavadinimą turėjusi tauta priklausė sarmatų gentims."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196796
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros.'
@@ -114,9 +150,74 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195381
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 60"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 60."
+  citata_originali: |
+    Tai, kokia buvo jų val­
+    džia, kalba ir kokie papročiai, nežinoma. Gatereris1 bergž­
+    džiai stengiasi įrodinėti, kad sarmatai tik 80 metais
+    prieš Kristaus gimimą buvo galingi dešiniojo Dnepro
+    kranto gyventojai ir pastatė savo valstybę ant senovės
+    S k i t i j o s griuvėsių, nes nei iki tų metų, nei vėliau negali­
+    ma rasti sarmatų valstybės šia prasme. Neabejotina tik
+    tai, kad, kaip jau sakėme, kažkokia iš daugelio ir dau­
+    giausia už Dono gyvenusių genčių sudaryta lyga, kuriai
+    vadovaudami sarmatai gavo savo pavadinimą, žlungant
+    skitams įsiliejo į Europą ir sukėlė jos tautų judėjimą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212412
+
+- id: c-195660
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
+  citata_originali: |
+    Siek tiek labiau venedų reika­
+    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
+    klauso nei sarmatams, nei germanams, turi daug žemių,
+    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
+    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
+    rytuose yra nežinomos sritys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212904
+
+- id: c-196796
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
+  citata_originali: |
+    Jos rytinėse pakrantėse Kubanės ir
+    Dono tarpupyje nuo senovės gyveno viena tauta, turėjusi
+    Meseti, Maeii, Mati pavadinimą; ji priklausė sarmatų
+    gentims.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214830
 
 ## Ryšiai
 - Sarmatai gyveno [[objektai/vietos/Donas]]

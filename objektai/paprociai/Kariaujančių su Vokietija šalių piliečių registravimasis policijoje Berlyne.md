@@ -82,5 +82,6 @@ Kiekvienas kariaujančios su Vokietija šalies pi lietis, papuolęs kokiu nors b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

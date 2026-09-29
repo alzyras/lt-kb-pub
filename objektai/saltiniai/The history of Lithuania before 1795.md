@@ -70,5 +70,6 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

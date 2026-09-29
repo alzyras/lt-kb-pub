@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Stuburai","Stuburai (vieta)"]
 sameAs: []
 canonical_biography: "1946 m. liepos 7 d. Stuburų kaime, Vabalninko valsčiuje, stribai apsupo Antano Užubalio namus."
+place_authority: true
+historical_names: []
 ---
 # Stuburai (vieta)
 
@@ -36,14 +38,13 @@ canonical_biography: "1946 m. liepos 7 d. Stuburų kaime, Vabalninko valsčiuje,
 
 Onos Dapšytės-Kriukelienės kronikoje nurodoma, kad 1946 m. liepos 7 d. stribai pagal agentūrinius duomenis apie Antano Užubalio apsilankymus pas tėvus apsupo Antano Užubalio tėvų namus Stuburų kaime ir pro langą nušovė Antaną Užubalį.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Onos Dapšytės-Kriukelienės kronikoje nurodoma, kad 1946 m. liepos 7 d. stribai pagal agentūrinius duomenis apie Antano Užubalio apsilankymus pas tėvus apsupo Antano Užubalio tėvų namus Stuburų kaime ir pro langą nušovė Antaną Užubalį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214952
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 206"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 206."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

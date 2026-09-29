@@ -43,20 +43,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194067"></a>
-- t-001
-  teiginys: "Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176680
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka.'
@@ -99,5 +85,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

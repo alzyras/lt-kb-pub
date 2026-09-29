@@ -72,5 +72,6 @@ Ir jie patys atvyko ir nusilenkė jam, šlo vingajam valdovui, didžiajam kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

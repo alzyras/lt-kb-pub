@@ -86,7 +86,7 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-42265
@@ -103,7 +103,7 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

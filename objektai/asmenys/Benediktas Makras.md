@@ -103,7 +103,7 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-88582
@@ -125,7 +125,7 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

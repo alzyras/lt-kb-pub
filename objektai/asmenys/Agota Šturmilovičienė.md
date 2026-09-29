@@ -79,5 +79,6 @@ canonical_biography: "1741 m. Vilniaus miestietė Agota Šturmilovičienė su Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

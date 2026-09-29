@@ -67,5 +67,6 @@ Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

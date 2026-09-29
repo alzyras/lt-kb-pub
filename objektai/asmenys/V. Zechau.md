@@ -75,5 +75,6 @@ Zechau. Zechau ir lietuvių 1-ojo pėst.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

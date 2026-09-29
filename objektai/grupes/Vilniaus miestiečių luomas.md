@@ -704,7 +704,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -731,7 +731,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-55894
@@ -754,7 +754,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -779,7 +779,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-55896
@@ -808,7 +808,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-035
     - t-036
@@ -837,7 +837,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-55898
@@ -862,7 +862,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-55900
@@ -883,7 +883,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-012
 
@@ -918,7 +918,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-021
 
@@ -941,7 +941,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-157190
@@ -966,7 +966,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-157191
@@ -1004,7 +1004,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-157192
@@ -1033,7 +1033,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-157193
@@ -1062,7 +1062,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-157194
@@ -1082,7 +1082,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-157195
@@ -1108,7 +1108,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-157197
@@ -1133,7 +1133,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-157200
@@ -1167,7 +1167,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-157201
@@ -1193,7 +1193,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-157202
@@ -1222,7 +1222,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-157204
@@ -1259,7 +1259,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-020
 
@@ -1293,7 +1293,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-157207
@@ -1324,7 +1324,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-157208
@@ -1350,7 +1350,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-016
 
@@ -1374,7 +1374,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-157211
@@ -1402,7 +1402,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-157212
@@ -1432,7 +1432,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-157214
@@ -1463,7 +1463,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 ## Ryšiai

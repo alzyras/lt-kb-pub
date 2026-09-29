@@ -110,6 +110,40 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   pagrindžia:
     - c-174201
 
+<a id="claim-t-212508"></a>
+- t-212508
+  teiginys: "Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo lobius."
+  atnaujinta: "2026-09-20 09:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196351
+
+<a id="claim-t-213977"></a>
+- t-213977
+  teiginys: "Narsusis Starkateras, tai sužino jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė jį, pasitelkęs ¡gudrybę."
+  atnaujinta: "2026-09-20 09:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195277
+
+<a id="claim-t-214383"></a>
+- t-214383
+  teiginys: "Starkateras buvo auklėjamas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru."
+  atnaujinta: "2026-09-20 09:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Citatos
 
 - id: c-174199
@@ -135,7 +169,7 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174200
@@ -157,7 +191,7 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174201
@@ -180,8 +214,53 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195277
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Pirkliavę Danijoje rusai
+    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
+    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
+    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
+    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
+    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
+    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
+    atsargus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213977
+
+- id: c-196351
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Žinodamas, kad slibinas žvilgsniu
+    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
+    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
+    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
+    atsargus. Šio nenaudėlio sukaupti ant Anapilio kalno tur­
+    tai atiteko Danijos karaliui ir padėjo rengiant karo žy­
+    gius3. Tas pats Starkateras, privertęs rusnėnų karaliuką
+    Floką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­
+    mus lobius, daugybę aukso ir sidabro4.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212508
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sterverkas]]

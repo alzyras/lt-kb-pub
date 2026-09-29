@@ -94,5 +94,6 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -228,7 +228,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76766
@@ -254,7 +254,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -278,7 +278,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184434
@@ -302,7 +302,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184435
@@ -334,7 +334,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184436
@@ -359,7 +359,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-187659
@@ -382,7 +382,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-187861
@@ -408,7 +408,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-188084
@@ -429,7 +429,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 ## Ryšiai

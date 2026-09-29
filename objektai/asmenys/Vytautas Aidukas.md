@@ -8,12 +8,12 @@ datos:
   - '1947 m.'
 date_start: '1946'
 date_end: '1947'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,23 +40,13 @@ canonical_biography: "Plane nurodoma, kad 1946 m. gruodžio 18 d. pirmas Zdanaus
 
 1946 m. gruodžio 18 d. Zdanauskas pirmą kartą susitiko su Starkumi pas Vytautą Aiduką Obonių kaime. Vytautas Aidukas, aktyvus partizanų ryšininkas ir rėmėjas, gimė ir gyveno Obonių kaime, 1947 m. balandžio 28 d. buvo suimtas, o gegužės 3 d., mėgindamas pabėgti iš įkalinimo, po 2 km persekiojimo buvo nušautas.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1946 m. gruodžio 18 d. Zdanauskas pirmą kartą susitiko su Starkumi pas Vytautą Aiduką Obonių kaime.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213437
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 173"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 173."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Vytautas Aidukas, aktyvus partizanų ryšininkas ir rėmėjas, gimė ir gyveno Obonių kaime, 1947 m. balandžio 28 d. buvo suimtas, o gegužės 3 d., mėgindamas pabėgti iš įkalinimo, po 2 km persekiojimo buvo nušautas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 265"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+  atnaujinta: "2026-09-28 17:38"

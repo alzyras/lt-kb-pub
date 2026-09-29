@@ -7,10 +7,10 @@ datos:
   - '1949 m.'
 date_start: '1949'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,14 +34,13 @@ Skrupskio 1949 m. liepos 5 d. tardymo protokolo.).
 
 Skrupskio 1949 m. liepos 5 d. tardymo protokolo.).
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Skrupskio 1949 m. liepos 5 d. tardymo protokolo.).'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214537
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 192"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 192."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

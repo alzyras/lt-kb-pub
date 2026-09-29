@@ -2,7 +2,6 @@
 tipas: asmuo
 pavadinimas: 'B. Likas'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1929 m.'
@@ -38,7 +37,11 @@ canonical_biography: "B. Likas 1929 m. buvo išrinktas Kupiškio ateitininkų ku
 
 ## Santrauka
 
-B. Likas 1929 m. buvo išrinktas Kupiškio ateitininkų kuopelės knygininku. Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad 1948 m. gegužės 16 d. Ožkinių kaime čekistai nušovė Balį Liką, jam išeinant iš D. Rudžio namų.
+B. Likas 1929 m. buvo išrinktas Kupiškio ateitininkų kuopelės knygininku.
+
+## Santrauka
+
+B. Likas 1929 m. buvo išrinktas Kupiškio ateitininkų kuopelės knygininku.
 
 ## Teiginiai
 
@@ -57,16 +60,6 @@ B. Likas 1929 m. buvo išrinktas Kupiškio ateitininkų kuopelės knygininku. On
   pagrindžia:
     - c-208572
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad 1948 m. gegužės 16 d. Ožkinių kaime čekistai nušovė Balį Liką, jam išeinant iš D. Rudžio namų.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 290"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-208572
@@ -78,5 +71,6 @@ B. Likas 1929 m. buvo išrinktas Kupiškio ateitininkų kuopelės knygininku. On
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

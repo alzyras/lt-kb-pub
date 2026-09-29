@@ -58,5 +58,6 @@ S. Stanevičius T. Narbuto pasakojimą apie Vytolfą laiko panašiu į veikale �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -53,6 +53,16 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
   pagrindžia:
     - c-61041
 
+<a id="claim-t-224479"></a>
+- t-224479
+  teiginys: "Pijopas, priartėjęs prie pilies, buvo pervertas vieno brolio strėle ir mirė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-61041
@@ -79,7 +89,7 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

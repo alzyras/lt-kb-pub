@@ -154,6 +154,65 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   pagrindžia:
     - c-175567
 
+<a id="claim-t-208610"></a>
+- t-208610
+  teiginys: "Vyskupas Motiejus Valančius šiam reikalui delegavo Beržininkų vikarą kunigą Antaną Brundzą, kurį Varmijos vyskupas paskyrė Robkojų filijos administratoriumi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:51Z"
+  pagrindžia:
+    - c-191230
+
+<a id="claim-t-210631"></a>
+- t-210631
+  teiginys: "Varmija turėjo daugiau dirbamos ir tankiau apgyvendintos žemės negu anksčiau aprašytos provincijos."
+  atnaujinta: "2026-09-19 17:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-213104"></a>
+- t-213104
+  teiginys: "Ten pažymėta krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi nimą už suteiktą kryžiuočiams pagalbą užkariaujant sambius, o būtent Sambiją, Vitlandiją ir dalį Varmijos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197357
+
+<a id="claim-t-215132"></a>
+- t-215132
+  teiginys: "Antra vertus, tie patys piliečiai turėjo gauti Varmijoje 2500 margų žemės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195649
+
+<a id="claim-t-215739"></a>
+- t-215739
+  teiginys: "Varmija vakaruose ribojosi su Pagude, šiaurėje su Aistmarėmis, vakaruose su Natangija ir Barta, o pietuose siekė Galindą."
+  atnaujinta: "2026-09-19 17:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196146
+
 ## Citatos
 
 - id: c-175565
@@ -178,7 +237,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -204,7 +263,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -229,9 +288,116 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
+
+- id: c-191230
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 110"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 110."
+  citata_originali: |
+    Vysk. M. Valančius per Jurgį Bielinį nusiuntė 5 000
+    rub. Tilžės dekanui kun. J. Zabermanui savo raštams
+    spausdinti. Be to, šiam reikalui delegavo Beržininkų vi­
+    karą kun. Antaną Brundzą, kurį Varmijos vyskupas pa­
+    skyrė Robkojų filijos administratorium.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208610
+
+- id: c-195649
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 348"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 348."
+  citata_originali: |
+    Be to, vienuoliai riteriai tu­
+    rėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­
+    rinkti iš jų vieną dalį. Antra vertus, tie patys piliečiai
+    turėjo gauti Varmijoje 2500 margų žemės
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215132
+
+- id: c-196146
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
+  citata_originali: |
+    Be to, ir kitose
+    vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir
+    turtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai
+    išnyko; net nežinoma, kur mitinė kunigaikštytė Pogeza-
+    nija skelbė savo pranašystes ir sprendimus.
+    Varmija
+    Ketvirta provincija — Varmija, taip vadinama nuo
+    senų laikų. Vakaruose ji ribojosi su Pagude, nuo kurios
+    ją skyrė Pasargės, arba Sargos, upė1. Jos šiaurėje tyvu­
+    liavo Aistmarės, vakaruose ji ribojosi su Natangija ir
+    Barta, o į pietus driekėsi net iki Galindos.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215739
+
+- id: c-196907
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
+  citata_originali: |
+    Ten ją nuo Natangijos turėjo skirti kai
+    kurie upeliai, galbūt pro Soelius,
+    Schoelen,
+    Federau,
+    Fedderau, ir Pomernę, Potnmern, tekėję j marias. Iš čia
+    Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Gin­
+    iau miestų net ligi Alnos upės, kur baigėsi senoji Var­
+    mijos siena, o kitapus upės prasidėjo Barta. Dar mažiau
+    žinomos pietinės Varmijos sienos su Galinda. Atrodo, jog
+    vienas šios sienos punktas buvo prie Morungeno, kur ir
+    šiandien yra Galindų kaimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197357
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Ten pažymėta
+    krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi­
+    nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
+    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213104
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Vitlandija]]

@@ -100,7 +100,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -121,3 +121,4 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

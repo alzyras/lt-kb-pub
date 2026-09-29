@@ -38,22 +38,17 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
 
 ## Teiginiai
 
-<a id="claim-t-42205"></a>
-- t-001
-  teiginys: "Panevėžio rinktinė gegužės 27 d., persekiodama priešą, užėmė Troškūnus ir Subačių."
-  atnaujinta: "2026-07-10 10:39"
+<a id="claim-t-230663"></a>
+- t-230663
+  teiginys: "Troškūnų valsčius priklausė Laisvės rajonui."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Subačius: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Panevėžio rinktinė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Subačius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Panevėžio rinktinė tiesiogiai nurodyta kaip užėmusi Subačių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Panevėžio rinktinė užėmė Troškūnai (0.95); Panevėžio rinktinė užėmė Subačius (0.95)"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
   pagrindžia:
-    - c-45369
+    - c-211301
 
 ## Citatos
 
@@ -80,8 +75,18 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-211301
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 330"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 330."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
   pagrindžia:
-    - t-001
+    - t-230663
 
 ## Ryšiai
 - Užėmė Troškūnai: [[objektai/grupes/Panevėžio rinktinė]]

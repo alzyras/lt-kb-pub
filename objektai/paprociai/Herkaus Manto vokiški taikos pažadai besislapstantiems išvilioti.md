@@ -47,25 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-62116"></a>
-- t-001
-  teiginys: "Herkus Mantas vokiškai žadėdavo saugumą besislapstantiems krikščionims, o išėjusius su saviškiais suimdavo arba nužudydavo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Mantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herkaus Manto vokiški taikos pažadai besislapstantiems išvilioti: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Mantas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herkaus Manto vokiški taikos pažadai besislapstantiems išvilioti\" parinktas kaip owner_note_path. Targetas \"Mantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-62536
-
 ## Citatos
 
 - id: c-62536
@@ -90,5 +71,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

@@ -141,7 +141,7 @@ canonical_biography: "Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-21917
@@ -164,6 +164,7 @@ canonical_biography: "Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-166954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -181,7 +182,7 @@ canonical_biography: "Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
     - t-004

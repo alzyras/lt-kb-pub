@@ -85,5 +85,6 @@ Imperatoriaus sūnus Galėnas sustabdė herulų puolimą ir juos sutriuškino.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

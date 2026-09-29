@@ -121,7 +121,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175564
@@ -149,8 +149,31 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196343
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 173."
+  citata_originali: |
+    Po to
+    tas pats geografas vardija tos pačios jūros, kurią vadina
+    Sinus Codanus, salas, kurių didžiausią vadina Codano-
+    nia2\ vieni tyrinėtojai ją laiko Skandinavija3, O' kiti su­
+    pranta kaip Zelandiją4. Be to, sako: „Bet tarp esančių
+    priešais Sarmatiją salų dėl jūros potvynių ir atoslūgių
+    kartais atsiranda sausumos, o kartais jas skiria vanduo,
+    todėl kartais jos atrodo kaip salos, o kartais — kaip ne­
+    nutrūkstamas žemynas“. Negi Baltijos jūroje senovėje
+    būta jūros potvynių ir atoslūgių?
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Gotai]]

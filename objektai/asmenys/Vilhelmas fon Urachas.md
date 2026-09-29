@@ -97,5 +97,6 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

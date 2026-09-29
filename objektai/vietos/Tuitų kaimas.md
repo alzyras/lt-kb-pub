@@ -23,7 +23,8 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Tuitų kaimas"]
 sameAs: []
-canonical_biography: "Antano Užubalio partizanų būrys, veikiantis Tuitų ir Varaniškių kaimuose."
+place_authority: true
+historical_names: []
 ---
 # Tuitų kaimas
 
@@ -31,14 +32,14 @@ canonical_biography: "Antano Užubalio partizanų būrys, veikiantis Tuitų ir V
 
 Antano Užubalio partizanų būrys veikė Tuitų ir Varaniškių kaimuose.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Antano Užubalio partizanų būrys veikė Tuitų ir Varaniškių kaimuose.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-215019
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 168"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 168."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:46"
+

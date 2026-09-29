@@ -7,10 +7,10 @@ datos:
   - '1944 m.'
 date_start: '1944'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Bylėnų kaimas"]
 sameAs: []
 canonical_biography: "1944 m. spalio 18 d. Bylėnų kaime partizanai iš Viešintų valsčiaus vykdomojo komiteto pirmininko ir komisijos narių atėmė žemės paskirstymo dokumentus."
+place_authority: true
+historical_names: []
 ---
 # Bylėnų kaimas
 
@@ -41,14 +43,13 @@ canonical_biography: "1944 m. spalio 18 d. Bylėnų kaime partizanai iš Viešin
 
 1944 m. spalio 18 d. Bylėnų kaime partizanai iš Viešintų valsčiaus vykdomojo komiteto pirmininko ir komisijos narių atėmė žemės paskirstymo dokumentus.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1944 m. spalio 18 d. Bylėnų kaime partizanai iš Viešintų valsčiaus vykdomojo komiteto pirmininko ir komisijos narių atėmė žemės paskirstymo dokumentus.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214612
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 57"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 57."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

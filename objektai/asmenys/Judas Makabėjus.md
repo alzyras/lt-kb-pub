@@ -80,17 +80,17 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   pagrindžia:
     - c-159381
 
-<a id="claim-t-197109"></a>
-- t-004
-  teiginys: "Dusburgietis teigia, kad judas Makabėjus kaip Dovydas įsivedė kunigystę ir kas dieną šlovina dievo didybę."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-220537"></a>
+- t-220537
+  teiginys: "Jiems atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
+  teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-179028
+    - c-202226
 
 ## Citatos
 
@@ -118,7 +118,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-159382
@@ -148,7 +148,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-159384
@@ -169,7 +169,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179028
@@ -189,8 +189,42 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-202226
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
+  citata_originali: |
+    Jiems
+    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220537
+
+- id: c-205803
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 35"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 35."
+  citata_originali: |
+    Ir ji kaip Dovydas įsivedė kunigystę ir kas
+    dieną šlovina dievo didybę. Štai ir aiškėja, kokių iš tikro didingų ženklų ir galingų stebuklų
+    padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje, o kokiu būdu jie
+    bus skelbiami, paaiškės netrukus. Kadangi netolimoje ateityje ateis pavojų metas,
+    kadangi rasis žmonių, tik save bemylinčių ir beieškančitj vien to, kas jų, o ne Jėzaus
+    Kristaus, tad pasklis nedorybė ir atvės daugelio žmonių meilė.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Judas Makabėjus kariavo prieš [[objektai/asmenys/Alchimas]], [[objektai/asmenys/Antiochas Eupatoras]], [[objektai/asmenys/Bachidas]]

@@ -7,10 +7,10 @@ datos:
   - '1944 m.'
 date_start: '1944'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Surdegio miestelis"]
 sameAs: []
 canonical_biography: "1944 m. gruodžio 14 d. pasienio komendantūra šukavo mišką į rytus nuo Surdegio miestelio ir aptiko septynis partizanus."
+place_authority: true
+historical_names: []
 ---
 # Surdegio miestelis
 
@@ -37,14 +39,13 @@ canonical_biography: "1944 m. gruodžio 14 d. pasienio komendantūra šukavo mi�
 
 1944 m. gruodžio 14 d. NKVD kariuomenės 95-ojo pasienio būrio 2-oji pasienio komendantūra, šukuodama mišką į rytus nuo Surdegio miestelio, aptiko septynis partizanus.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1944 m. gruodžio 14 d. NKVD kariuomenės 95-ojo pasienio būrio 2-oji pasienio komendantūra, šukuodama mišką į rytus nuo Surdegio miestelio, aptiko septynis partizanus.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214977
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 58"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 58."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

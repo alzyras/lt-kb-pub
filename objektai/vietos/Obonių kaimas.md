@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Obonių kaimas"]
 sameAs: []
 canonical_biography: "Zdanausko ir Starkaus pirmasis susitikimas 1946 m. gruodžio 18 d. vyko Obonių kaime, pas Vytautą Aiduką."
+place_authority: true
+historical_names: []
 ---
 # Obonių kaimas
 
@@ -31,14 +33,13 @@ canonical_biography: "Zdanausko ir Starkaus pirmasis susitikimas 1946 m. gruodž
 
 1946 m. gruodžio 18 d. Zdanauskas pirmąsyk susitiko su Starkumi Obonių kaime pas Vytautą Aiduką; pasak Onos Dapšytės-Kriukelienės kronikos, Zdanauskas sutiko bendradarbiauti LLA naudai ir gavo užduotį rinkti žinias apie karines operacijas bei aukštus pareigūnus.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1946 m. gruodžio 18 d. Zdanauskas pirmąsyk susitiko su Starkumi Obonių kaime pas Vytautą Aiduką; pasak Onos Dapšytės-Kriukelienės kronikos, Zdanauskas sutiko bendradarbiauti LLA naudai ir gavo užduotį rinkti žinias apie karines operacijas bei aukštus pareigūnus.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214838
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 173"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 173."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

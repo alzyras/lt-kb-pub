@@ -42,14 +42,32 @@ canonical_biography: "Jonas Kriovė šaltinyje nurodomas gyvenęs Ančiškių ka
 
 Ančiškių kaimo gyventojas Jonas Kriovė (Krovė), gimęs 1914 m., legalizavosi, ginklo neatidavė ir buvo suimtas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Ančiškių kaimo gyventojas Jonas Kriovė (Krovė), gimęs 1914 m., legalizavosi, ginklo neatidavė ir buvo suimtas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-230882"></a>
+- t-001
+  teiginys: "Ančiškių kaimo gyventojas Jonas Kriovė (Krovė), gimęs 1914 m., legalizavosi, ginklo neatidavė ir buvo suimtas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:15Z"
+  pagrindžia:
+    - c-211520
+
+## Citatos
+
+- id: c-211520
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 136"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 136."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

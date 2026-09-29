@@ -73,5 +73,6 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

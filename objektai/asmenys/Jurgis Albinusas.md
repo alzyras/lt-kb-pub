@@ -68,5 +68,6 @@ canonical_biography: "1565 m. Kauno muitininkai ir mokesčių rinkikai žydai sk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

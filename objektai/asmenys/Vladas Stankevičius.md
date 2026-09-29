@@ -7,12 +7,12 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,14 +39,13 @@ canonical_biography: "Vladas Stankevičius 1945 m. spalio mėn."
 
 Vladas Stankevičius 1945 m. spalį legalizavosi, išvedė legalizuotis 12 partizanų grupę, atidavė ginklus ir vėliau nebepalaikė ryšių su partizanais; teismas jį išteisino.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Vladas Stankevičius 1945 m. spalį legalizavosi, išvedė legalizuotis 12 partizanų grupę, atidavė ginklus ir vėliau nebepalaikė ryšių su partizanais; teismas jį išteisino.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213427
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 45"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 45."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

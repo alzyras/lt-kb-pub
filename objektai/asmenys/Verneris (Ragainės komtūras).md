@@ -76,6 +76,30 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
   pagrindžia:
     - c-61093
 
+<a id="claim-t-221751"></a>
+- t-221751
+  teiginys: "Verneris generalinėje kapituloje nutarė, kad kunigai kasdien skaitytų Evangelijos pradžią."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204514
+
+<a id="claim-t-222151"></a>
+- t-222151
+  teiginys: "1313 m. Verneris, Ragainės komtūras, pasistatydino karo laivą ir išplaukė pulti Junigedos pilies."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201703
+
 ## Citatos
 
 - id: c-61093
@@ -95,9 +119,47 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-201703
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  citata_originali: |
+    Apie vieną brolių karo laivą
+    Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
+    sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
+    laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
+    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
+    mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222151
+
+- id: c-204514
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
+  citata_originali: |
+    Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,
+    kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos
+    kiekvieną dieną turį skaityti evangeliją
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221751
 
 ## Ryšiai
 - Verneris (Ragainės komtūras) pastatė [[objektai/daiktai/Laivai]]

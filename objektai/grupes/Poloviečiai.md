@@ -152,6 +152,30 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   pagrindžia:
     - c-179225
 
+<a id="claim-t-214946"></a>
+- t-214946
+  teiginys: "Narbutas teigia, kad poloviečiai nebuvo atskira tauta, bet buvo pečenegų palikuonys arba jų dalis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197068
+
+<a id="claim-t-215548"></a>
+- t-215548
+  teiginys: "Smukus pečenegams dešiniojoje Dnepro pakrantėje, nutautėję hiriai su tomis gentimis persi kėlė į kairiąją šios upės pakrantę; jie įsiterpė tarp poloviečių ir kartu su jais buvo išstumti kitapus Dono, kur davė pradžią Belgorodo totoriams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194630
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.'
@@ -207,7 +231,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175235
@@ -232,7 +256,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -259,7 +283,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175237
@@ -284,7 +308,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179225
@@ -310,8 +334,121 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-194601
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
+  citata_originali: |
+    95
+    Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
+    nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
+    toms iš kitur pažįstamus poloviečius', remdamasis tokio­
+    mis pat Kojalavičiaus prielaidomis1 2. Naruševičius patei­
+    kia žinių, kurios, rodos, taip pat remia šią nuomonę, kad
+    poloviečiai buvę rusų kaimynai nuo saulės patekėjimo ir
+    nusileidimo pusių3. Šie teiginiai įpareigoja mus patyri­
+    nėti istorinius faktus, kurie geriau paaiškintų tai ir at­
+    skleistų tikrą ar spėjamą giminystę, kurią mini mūsų pirm­
+    takai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194630
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
+  citata_originali: |
+    Smukus pečenegams dešiniojoje Dnep-
+    ro pakrantėje, nutautėję hiriai su tomis gentimis persi­
+    kėlė į kairiąją šios upės pakrantę; jie įsiterpė tarp polo-
+    viečių ir kartu su jais buvo išstumti kitapus Dono, kur
+    davė pradžią Belgorodo totoriams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215548
+
+- id: c-196307
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  citata_originali: |
+    Tačiau jis prieštarauja sau ir savo tiksliai
+    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
+    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
+    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
+    riojoje Dnepro pakrantėje, į rytus nuo jo. Be to, tvirto­
+    vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
+    taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­
+    jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos
+    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
+    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
+    Jurjevu, stovėjusią prie Osteros upės žiočių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197068
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
+  citata_originali: |
+    Juo labiau kad poloviečiai nebuvo atskira tauta, bet bu­
+    vo palikuonys ar dalis pečenegų, kurie, — o tai pana­
+    šiausia į tiesą, — susiformavo iš likučių giminingų hunų
+    genčių, persikėlusių į kairiąją Dnestro pakrantę, išsis­
+    klaidžiusių po Atilos sūnų žlugimo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214946
+
+- id: c-197294
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
+  citata_originali: |
+    Po
+    šešerių metų antras vadas, vardu Sekalas, užpuolė rusų
+    kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­
+    bį. Nuo tų laikų sėkmės paskatintos poloviečių ordos,
+    visuomet būdamos stipresnės ir pridarydamos daug žalos,
+    nesiliovė puldinėjusios pietinius Rusios kraštus. Ne sy­
+    kį jie buvo smarkiai sutriuškinti, tačiau nebuvo taip pa­
+    laužti, kad liautųsi kovoti. Tik 1101 metais Vladimiras
+    Monomachas laimėjo didelę pergalę prieš poloviečius prie
+    Sutenio. Dar kelis kartus smarkiai sumušti, galop po
+    1121 metais patirto iš graikų sutriuškinimo buvo priversti
+    apie 1127 metus pasitraukti už Volgos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Poloviečiai apgulė [[objektai/vietos/Giurgevo tvirtovė]]

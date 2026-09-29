@@ -69,5 +69,6 @@ Karaliaučiaus komtūras su Vonsdorfo vyrais įsibrovė į taikos sutartims nepr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

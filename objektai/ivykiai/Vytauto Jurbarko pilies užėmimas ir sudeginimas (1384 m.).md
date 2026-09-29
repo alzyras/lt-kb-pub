@@ -76,5 +76,6 @@ Per nuleistą Jurbarko pilies tiltą puolę Vytauto žmonės nužudė du kunigus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

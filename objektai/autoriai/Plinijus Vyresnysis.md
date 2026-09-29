@@ -67,5 +67,6 @@ Plinijus Vyresnysis (23–79 m. e. m.) buvo romėnų rašytojas ir mokslininkas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

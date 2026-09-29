@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 511
+tema_objektu_skaicius: 508
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 511.
+Objektų skaičius: 508.
 
 ## Kaip naudoti
 
@@ -93,7 +93,6 @@ Objektų skaičius: 511.
 - [Danielius iš Lenčicos](../objektai/asmenys/Danielius%20i%C5%A1%20Len%C4%8Dicos)
 - [Danmilė](../objektai/asmenys/Danmil%C4%97)
 - [Darijus](../objektai/asmenys/Darijus)
-- [Daumantas (kunigaikštis, XV a.)](../objektai/asmenys/Daumantas)
 - [Deziderijus](../objektai/asmenys/Deziderijus)
 - [Ditrichas (Meiseno markgrafas)](../objektai/asmenys/Ditrichas%20%28Meiseno%20markgrafas%29)
 - [Dmitrijus Michailovičius](../objektai/asmenys/Dmitrijus%20Michailovi%C4%8Dius)
@@ -209,7 +208,6 @@ Objektų skaičius: 511.
 - [Jonas iš Liuksemburgo](../objektai/asmenys/Jonas%20i%C5%A1%20Liuksemburgo)
 - [Jonas iš Zabrežjės](../objektai/asmenys/Jonas%20i%C5%A1%20Zabre%C5%BEj%C4%97s)
 - [Jonas Karcanas](../objektai/asmenys/Jonas%20Karcanas)
-- [Jonas Karolis Katkevičius](../objektai/asmenys/Jonas%20Karolis%20Katkevi%C4%8Dius)
 - [Jonas Kazimieras](../objektai/asmenys/Jonas%20Kazimieras)
 - [Jonas Kazimieras Vaza](../objektai/asmenys/Jonas%20Kazimieras%20Vaza)
 - [Jonas Kropidla](../objektai/asmenys/Jonas%20Kropidla)
@@ -232,7 +230,6 @@ Objektų skaičius: 511.
 - [Julijonas](../objektai/asmenys/Julijonas)
 - [Juozefas Mianovskis](../objektai/asmenys/Juozefas%20Mianovskis)
 - [Jurgis Astikas](../objektai/asmenys/Jurgis%20Astikas)
-- [Jurgis Chodkevičius](../objektai/asmenys/Jurgis%20Chodkevi%C4%8Dius)
 - [Jurgis Narimantaitis](../objektai/asmenys/Jurgis%20Narimantaitis)
 - [Jurgis Tiškevičius](../objektai/asmenys/Jurgis%20Ti%C5%A1kevi%C4%8Dius)
 - [Kanutas](../objektai/asmenys/Kanutas)

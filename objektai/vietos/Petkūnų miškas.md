@@ -7,10 +7,10 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Petkūnų miškas"]
 sameAs: []
 canonical_biography: "1945 m. rugpjūčio 24–25 d. šeši ginkluoti partizanai iš Petkūnų miško pusės artėjo prie Surdegio pieninės."
+place_authority: true
+historical_names: []
 ---
 # Petkūnų miškas
 
@@ -37,14 +39,13 @@ canonical_biography: "1945 m. rugpjūčio 24–25 d. šeši ginkluoti partizanai
 
 Iš Petkūnų miško pusės prie Surdegio pieninės artėjo šeši ginkluoti partizanai.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Iš Petkūnų miško pusės prie Surdegio pieninės artėjo šeši ginkluoti partizanai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214894
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 62"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 62."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

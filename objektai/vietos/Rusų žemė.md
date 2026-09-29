@@ -45,50 +45,6 @@ historical_names: []
 
 Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui. Kai Rusų žemėje pa ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy veno vienas su kitu labai sutardami. Ir aš prašiau kunigaikštį Jogailą raštų bei privilegijų dėl tų žemių, kurias jis man buvo davęs, dėl rusų žemės7 , kuri buvo priklausiusi Liubartui" , kad aš ją galėčiau pasilaikyti.
 
-## Teiginiai
-
-<a id="claim-t-187312"></a>
-- t-001
-  teiginys: "Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "valde_teritorija -> Rusų žemė: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusų žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Rusų žemė buvo Vytautui duota ir jis siekė ją pasilaikyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170349
-
-<a id="claim-t-194035"></a>
-- t-002
-  teiginys: "Kai Rusų žemėje pa ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy veno vienas su kitu labai sutardami."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176655
-
-<a id="claim-t-194036"></a>
-- t-003
-  teiginys: "Ir aš prašiau kunigaikštį Jogailą raštų bei privilegijų dėl tų žemių, kurias jis man buvo davęs, dėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" , kad aš ją galėčiau pasilaikyti."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-170349
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.'
@@ -159,9 +115,6 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
 
 - id: c-176655
   autorius: "Anoniminis metraštininkas"
@@ -185,5 +138,4 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+

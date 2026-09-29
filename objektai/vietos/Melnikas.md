@@ -101,6 +101,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170560
+    - c-182399
 
 <a id="claim-t-199607"></a>
 - t-003
@@ -135,6 +136,31 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182400
+
+<a id="claim-t-207794"></a>
+- t-207794
+  teiginys: "J. Ižykovičius tapo Melniko mokesčių rinkėju."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-190411
+
+<a id="claim-t-211557"></a>
+- t-211557
+  teiginys: "Mazovijos kunigaikštis su Lenkų pagalba buvo užgrobęs Melniko vietovę."
+  atnaujinta: "2026-09-20 02:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193105
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -185,6 +211,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-170559
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -206,7 +233,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-170560
@@ -233,7 +260,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-182398
@@ -257,7 +284,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-182399
@@ -285,6 +312,9 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
 - id: c-182400
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -309,7 +339,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-182401
@@ -332,6 +362,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182402
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -352,5 +383,51 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190411
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 223"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 223."
+  citata_originali: |
+    Lietuvos Didžiojoje Kunigaikštystėje darbavosi ir kitas K. Manvydo Dorohostai-
+    skio studijinės kelionės palydovas, bajoras J. Ižykovičius. Labai panaši ir jo tarnybinė
+    karjera. J. Ižykovičius tapo Drohičino ir Melniko mokesčių rinkėju, 1598 m. gavo
+    Drohičino pakamarės urėdą.
+  citata_rodoma: "J. Ižykovičius tapo Drohičino ir Melniko mokesčių rinkėju, 1598 m. gavo\nDrohičino pakamarės urėdą."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207794
+
+- id: c-193105
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 84."
+  citata_originali: |
+    28. APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
+    MEDŽIO PAGROBIMĄ
+    Jogaila valdydamas visą Lietuvos Didžiąją Kuni­
+    gaikštystę, pradėjo kariauti su Mazovija2  ir su Len­
+    kais, nes Mazovijos kunigaikštis, Lenkų padedamas,
+    buvo užgrobęs Drohičiną ir Melniką. Jogaila daug kar­
+    tų žygiavo į Lenkų žemę ir padarė daug žalos Lenkų
+    bei Mozūrų žemėms, ir praliejo daug Romos tikėjimo
+    krikščionių kraujo nuo Lietuvos sienų ligi pat Vislos
+    upės 3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211557
+

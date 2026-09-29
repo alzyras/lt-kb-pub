@@ -71,5 +71,6 @@ Nedaug laiko praėjus [ir jam pasitraukus], Ordos didieji kunigaikščiai, nieka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

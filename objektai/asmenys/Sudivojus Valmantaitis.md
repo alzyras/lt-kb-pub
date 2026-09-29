@@ -69,5 +69,6 @@ canonical_biography: "Štai 1431 m. Kauno seniūnas buvo vienos iš iškiliausi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

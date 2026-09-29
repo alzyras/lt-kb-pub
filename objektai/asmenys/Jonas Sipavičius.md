@@ -8,12 +8,12 @@ datos:
   - '1948 m.'
 date_start: '1915'
 date_end: '1948'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,14 +40,13 @@ canonical_biography: "Jonas Sipavičius-Žaligovskis priklausė Vytauto Graiči�
 
 Nušautas partizanas Jonas Sipavičius-Žaligovskis gimė 1915 m. Viešintų valsčiuje ir gyveno Bartešiškių kaime, Šimonių valsčiuje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Nušautas partizanas Jonas Sipavičius-Žaligovskis gimė 1915 m. Viešintų valsčiuje ir gyveno Bartešiškių kaime, Šimonių valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213088
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 309"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 309."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

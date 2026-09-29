@@ -31,14 +31,13 @@ canonical_biography: "Stasys Rašimas gimė 1927 m. Drūlėnų kaime, dirbo Šim
 
 Partizanai 1946 m. gruodžio 7 d. nukovė Stasį Rašimą, gimusį 1927 m. Drūlėnų kaime, Aukštupėnų valsčiuje; Rašimas dirbo Šimonių valsčiaus vykdomojo komiteto paruošų agentu ir buvo VLKJS narys.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Partizanai 1946 m. gruodžio 7 d. nukovė Stasį Rašimą, gimusį 1927 m. Drūlėnų kaime, Aukštupėnų valsčiuje; Rašimas dirbo Šimonių valsčiaus vykdomojo komiteto paruošų agentu ir buvo VLKJS narys.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213365
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 211"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 211."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:38"

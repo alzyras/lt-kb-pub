@@ -90,5 +90,6 @@ Apie 1485 m. valdovas Kazimieras Jogailaitis laiške kreipėsi į Kauno seniūn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

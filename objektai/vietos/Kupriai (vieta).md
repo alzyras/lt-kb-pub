@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Kupriai","Kupriai (vieta)"]
 sameAs: []
 canonical_biography: "1949 m. sausio 20 d. Antanas Mockūnas žuvo Kuprių kaime, Vabalninko valsčiuje, Kazio Rastausko sodyboje."
+place_authority: true
+historical_names: []
 ---
 # Kupriai (vieta)
 
@@ -36,14 +38,13 @@ canonical_biography: "1949 m. sausio 20 d. Antanas Mockūnas žuvo Kuprių kaime
 
 Ona Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1949 m. sausio 20 d. Kuprių kaime per pagal „Povo“ pranešimą surengtą čekistų operaciją žuvo A. Mockūnas.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Ona Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1949 m. sausio 20 d. Kuprių kaime per pagal „Povo“ pranešimą surengtą čekistų operaciją žuvo A. Mockūnas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214785
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 329"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 329."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

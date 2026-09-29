@@ -73,5 +73,6 @@ Ten ra šoma, jog Nemunu tiesiog iš jūros pagonims būdavo atga benama druska,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

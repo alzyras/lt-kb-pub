@@ -75,5 +75,6 @@ Kęstutis paėmė į nelaisvę Jogailą, jo brolius, motiną, žemes, pilis, auk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

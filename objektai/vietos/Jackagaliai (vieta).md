@@ -12,10 +12,10 @@ datos:
   - '1948 m.'
 date_start: '1948'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Jackagaliai","Jackagaliai (vieta)"]
 sameAs: []
 canonical_biography: "1948 m. kovo 10 d. Jackagalių kaime, Raguvos valsčiuje, žuvo du partizanai."
+place_authority: true
+historical_names: []
 ---
 # Jackagaliai (vieta)
 
@@ -46,14 +48,13 @@ canonical_biography: "1948 m. kovo 10 d. Jackagalių kaime, Raguvos valsčiuje, 
 
 1948 m. kovo 10 d. Jackagalių kaime, Raguvos valsčiuje, žuvo du partizanai.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1948 m. kovo 10 d. Jackagalių kaime, Raguvos valsčiuje, žuvo du partizanai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214669
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 309"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 309."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

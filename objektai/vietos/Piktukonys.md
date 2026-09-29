@@ -36,21 +36,6 @@ historical_names: []
 
 Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Piktukance) kaimas.
 
-## Teiginiai
-
-<a id="claim-t-194770"></a>
-- t-001
-  teiginys: "Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Piktukance) kaimas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177166
-
 ## Citatos
 
 - id: c-177166
@@ -70,5 +55,4 @@ Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

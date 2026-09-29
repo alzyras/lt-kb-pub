@@ -63,6 +63,18 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
   pagrindžia:
     - c-61076
 
+<a id="claim-t-225353"></a>
+- t-225353
+  teiginys: "Tame buvo kilęs iš Meiseno ir 56 metus gyveno Baigoje bei priklausė Teutonų ordinui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202463
+
 ## Citatos
 
 - id: c-61076
@@ -83,8 +95,29 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202463
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
+  citata_originali: |
+    Apie Baigos brolį Tamę ir jo gyvenimą
+    1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus
+    gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties
+    nė karto neišėjęs už šios pilies sienų. Jis negėrė nei medaus vyno, arba midaus, nei
+    kitokių svaigalų, dėvėjo ašutinę, o visų švenčių išvakarėse valgė vien duoną ir gėrė vien
+    vandenį. Galop susirgęs priėmė šventuosius sakramentus, 39 dienas bei naktis išbuvo
+    be maisto ir po to laimingai atidavė viešpačiui sielą.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225353
 
 ## Ryšiai
 - Tame (Baigos brolis) gyveno [[objektai/vietos/Baiga]]

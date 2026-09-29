@@ -118,7 +118,7 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -156,7 +156,7 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

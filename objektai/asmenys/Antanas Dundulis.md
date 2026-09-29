@@ -8,13 +8,13 @@ datos:
   - '1950 m.'
 date_start: '1896'
 date_end: '1950'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XIX'
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,14 +41,13 @@ canonical_biography: "1947 m. rugsėjo 15 d. Antanas Dundulis, gimęs 1896 m. ir
 
 1947 m. rugsėjo 15 d. Antanas Dundulis, gimęs 1896 m. ir gyvenęs Kuosenų kaime, buvo užverbuotas agentu ir gavo slapyvardį „Baravykas“; iki 1950 m. sausio palaikė ryšius su partizanais ir tiekė jiems miltų bei mėsos.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1947 m. rugsėjo 15 d. Antanas Dundulis, gimęs 1896 m. ir gyvenęs Kuosenų kaime, buvo užverbuotas agentu ir gavo slapyvardį „Baravykas“; iki 1950 m. sausio palaikė ryšius su partizanais ir tiekė jiems miltų bei mėsos.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-212940
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 252"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 252."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

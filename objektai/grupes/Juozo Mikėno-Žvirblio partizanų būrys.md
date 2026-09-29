@@ -24,17 +24,21 @@ media_all_json: |-
 
 Juozas Mikėnas-Žvirblis 1944 m. spalį suorganizavo apie 30 partizanų būrį, veikusį Skapiškio ir Kupiškio valsčių sandūroje, Virbališkių ir Vaduvų miškuose. Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ pateikia pažymos duomenis: 1946 m. žuvus Juozui Mikėnui-Žvirbliui, būrio vadu tapo Antanas Gūra-Varnas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Juozas Mikėnas-Žvirblis 1944 m. spalį suorganizavo apie 30 partizanų būrį, veikusį Skapiškio ir Kupiškio valsčių sandūroje, Virbališkių ir Vaduvų miškuose.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 105"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-231128"></a>
+- t-001
+  teiginys: "Juozas Mikėnas-Žvirblis 1944 m. spalį suorganizavo apie 30 partizanų būrį, veikusį Skapiškio ir Kupiškio valsčių sandūroje, Virbališkių ir Vaduvų miškuose."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211766
+
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ pateikia pažymos duomenis: 1946 m. žuvus Juozui Mikėnui-Žvirbliui, būrio vadu tapo Antanas Gūra-Varnas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
@@ -44,3 +48,17 @@ Juozas Mikėnas-Žvirblis 1944 m. spalį suorganizavo apie 30 partizanų būrį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-211766
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 105"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 105."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

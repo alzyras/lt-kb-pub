@@ -74,5 +74,6 @@ Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -77,5 +77,6 @@ canonical_biography: "1788 m. Konkordija Tarantovičienė su Jonu Tarantovičium
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

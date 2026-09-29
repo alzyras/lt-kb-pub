@@ -241,6 +241,22 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   pagrindžia:
     - c-186742
 
+<a id="claim-t-207823"></a>
+- t-207823
+  teiginys: "1562 m. didysis etmonas Mikalojus Radvila Rudasis neleido prie Vitebsko sutelktai kariuomenei išsiskirstyti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1562 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus kontekstas: data, pareigos, vieta ir veiksmo objektas. Nepridėtos priežastys ar papildomi kariniai vertinimai."
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190373
+
 ## Reikšmingi paminėjimai
 - c-010
   santrauka: '1562 m. didysis etmonas Mikalojus Radvila Rudasis neleido prie Vitebsko sutelktai kariuomenei išsiskirstyti.'
@@ -280,7 +296,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -300,7 +316,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-105074
@@ -325,7 +341,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-105076
@@ -356,7 +372,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-105077
@@ -375,7 +391,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-105078
@@ -397,7 +413,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-186730
@@ -426,7 +442,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-186742
@@ -448,7 +464,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-186770
@@ -471,8 +487,27 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-190373
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 176"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 176."
+  citata_originali: |
+    1562 m. kariuomenė buvo sutelkta karo stovykloje prie Vitebsko. Nors tuo metu
+    karo veiksmai nevyko, didysis etmonas M. Radvila Rudasis neleido išsiskirstyti. Karo
+    stovykloje trūko maisto ir pašarų, apylinkių gyventojai jau buvo nuniokoti.
+  citata_rodoma: "1562 m. kariuomenė buvo sutelkta karo stovykloje prie Vitebsko. Nors tuo metu\nkaro veiksmai nevyko, didysis etmonas M. Radvila Rudasis neleido išsiskirstyti."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207823
 
 ## Ryšiai
 - Mikalojus Radvila Rudasis (kunigaikštis, XVI a.) rėmė [[objektai/grupes/Vilniaus pirkliai]]

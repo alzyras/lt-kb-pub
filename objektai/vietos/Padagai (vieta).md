@@ -12,10 +12,10 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Padagai","Padagai (vieta)"]
 sameAs: []
 canonical_biography: "1945 m. birželio 13 d. Padagų kaimo teritorijoje per kautynes su stribais buvo nušauti du stribai."
+place_authority: true
+historical_names: []
 ---
 # Padagai (vieta)
 
@@ -46,14 +48,13 @@ canonical_biography: "1945 m. birželio 13 d. Padagų kaimo teritorijoje per kau
 
 1945 m. birželio 13 d. Padagų kaimo teritorijoje per kautynes su stribais buvo nušauti du stribai.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1945 m. birželio 13 d. Padagų kaimo teritorijoje per kautynes su stribais buvo nušauti du stribai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214846
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 152"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 152."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:45"

@@ -71,9 +71,11 @@ Apvaizdos koplyčia prie Šv. Kotrynos bažnyčios buvo centrinio aštuoniakampi
     grakščiai išpuoštas išilgai būgno lipdytiniais ornamentais bei urnomis, jisai
     susilieja į švelnų, minkštą akordą su oru, šviesa ir medžių žaluma.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

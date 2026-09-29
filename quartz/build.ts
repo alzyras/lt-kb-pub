@@ -23,6 +23,10 @@ import { ChangeEvent } from "./plugins/types"
 import { minimatch } from "minimatch"
 import { buildRelationTargetMap, readRelationDocuments } from "./util/relations"
 import { isObjectDetailSlug } from "./util/objectDetail"
+import {
+  firstPagePathBySimplifiedSlug,
+  pagesReferencingChangedSlugs,
+} from "./util/incrementalPageDependencies"
 import { performance } from "node:perf_hooks"
 
 type ContentMap = Map<
@@ -343,27 +347,26 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
     // A page's outgoing links drive both its backlinks and its transclusions.
     // Refresh pages that point at a changed page, plus target pages whose
     // backlinks changed when a source page was added or edited.
-    for (const [relativePath, current] of Object.entries(currentMetadata)) {
-      const previous = previousMetadata.files[relativePath]
-      if (!previous) continue
-      if (
-        [...dirtySlugs].some(
-          (slug) => previous.links.includes(slug) || current.links.includes(slug),
-        )
-      ) {
-        pageTypes.set(relativePath, "change")
-      }
+    for (const relativePath of pagesReferencingChangedSlugs(
+      previousMetadata.files,
+      currentMetadata,
+      dirtySlugs,
+    )) {
+      pageTypes.set(relativePath, "change")
     }
     const pageSlugs = new Set(pageTypes.keys())
+    const pagePathBySimplifiedSlug = firstPagePathBySimplifiedSlug(
+      [...parsedByRelativePath].map(([relativePath, [, file]]) => ({
+        relativePath,
+        slug: String(file.data.slug ?? ""),
+      })),
+    )
     for (const relativePath of dirtyPaths.keys()) {
       const oldFile = previousMetadata.files[relativePath]
       const newFile = currentMetadata[relativePath]
       for (const link of [...(oldFile?.links ?? []), ...(newFile?.links ?? [])]) {
-        const target = [...parsedByRelativePath.entries()].find(([, content]) => {
-          const slug = String(content[1].data.slug ?? "")
-          return simplifySlug(slug as never) === simplifySlug(link as never)
-        })
-        if (target) pageSlugs.add(target[0])
+        const targetPath = pagePathBySimplifiedSlug.get(String(simplifySlug(link as never)))
+        if (targetPath) pageSlugs.add(targetPath)
       }
     }
 

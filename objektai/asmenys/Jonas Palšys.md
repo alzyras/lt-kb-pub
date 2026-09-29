@@ -8,12 +8,12 @@ datos:
   - '1945 m.'
 date_start: '1921'
 date_end: '1945'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,14 +40,13 @@ canonical_biography: "Kronikoje Jonas Palšys, Motiejaus, nurodytas gimęs 1921 
 
 Jonas Palšys, Motiejaus sūnus, gimė 1921 m. Zastaučių kaime, Biržų valsčiuje, ir buvo atpažintas tarp 1945 m. vasario 2 d. Dičiūnuose žuvusių partizanų.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Jonas Palšys, Motiejaus sūnus, gimė 1921 m. Zastaučių kaime, Biržų valsčiuje, ir buvo atpažintas tarp 1945 m. vasario 2 d. Dičiūnuose žuvusių partizanų.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213084
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 151"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 151."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

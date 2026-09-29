@@ -103,5 +103,6 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

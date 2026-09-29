@@ -57,17 +57,17 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   pagrindžia:
     - c-174294
 
-<a id="claim-t-197742"></a>
-- t-002
-  teiginys: "Helgė įsakė pririšti 40 slavų belaisvių prie laukinių vilkų ir išvyti juos į mišką baisiai mirčiai."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-215298"></a>
+- t-215298
+  teiginys: "Helgė kariavo su slavais, kurie buvo užėmę nemažai salų."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-179321
+    - c-195040
 
 ## Citatos
 
@@ -93,7 +93,7 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179321
@@ -114,8 +114,45 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-194809
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  citata_originali: |
+    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
+    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
+    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195040
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  citata_originali: |
+    Tuomet ir danų karalius Helgė kariavo su sla­
+    vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
+    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
+    už savo nelaisvę ar norėdamas turėti naudos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215298
 
 ## Ryšiai
 - Rėmė Helgę: [[objektai/asmenys/Jarmerikas]]

@@ -75,5 +75,6 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

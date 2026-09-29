@@ -24,14 +24,13 @@ media_all_json: |-
 
 1945 m. gruodžio 11 d. žuvus Povilui Tolušiui, Plėta tapo Povilo Tolušio partizanų būrio vadu, o būrys veikė Subačiaus valsčiuje.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1945 m. gruodžio 11 d. žuvus Povilui Tolušiui, Plėta tapo Povilo Tolušio partizanų būrio vadu, o būrys veikė Subačiaus valsčiuje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213853
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 52"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 52."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:40"

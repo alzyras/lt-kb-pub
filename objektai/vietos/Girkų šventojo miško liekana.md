@@ -36,28 +36,6 @@ historical_names: []
 
 Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško liekana.
 
-## Teiginiai
-
-<a id="claim-t-189001"></a>
-- t-001
-  teiginys: "Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško liekana."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Girkų šventojo miško liekana: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Girkų šventojo miško liekana\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171890
-
 ## Citatos
 
 - id: c-171890
@@ -90,5 +68,4 @@ Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

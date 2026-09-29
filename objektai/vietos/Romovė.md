@@ -237,6 +237,30 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   pagrindžia:
     - c-184451
 
+<a id="claim-t-218160"></a>
+- t-218160
+  teiginys: "Žymiausia šventykla buvo Romovėje, ku rios vieta tiksliai dar nenustatyta."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198137
+
+<a id="claim-t-220222"></a>
+- t-220222
+  teiginys: "Šaltinio komentare Romovė įvardijama kaip prūsų, lietuvių ir kitų baltų religinio kulto centras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202984
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Patelo stabas didžiojoje Romovės šventykloje stovėjęs Perkūno dešinėje.'
@@ -367,7 +391,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171783
@@ -388,7 +412,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171784
@@ -412,7 +436,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171785
@@ -435,7 +459,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171786
@@ -461,7 +485,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175512
@@ -480,7 +504,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-175513
@@ -508,7 +532,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-177142
@@ -528,7 +552,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-177143
@@ -550,7 +574,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-179396
@@ -574,7 +598,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-184451
@@ -602,8 +626,129 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-194554
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 367."
+  citata_originali: |
+    Pažvelgę į tų laikų Sambijos vidaus būklę, pastebėsi­
+    me didžiulių pokyčių, įvykusių per daugelį amžių: išdžiū­
+    vo daugybė ežerų, ir ten, kur kitadds buvo didžiulės pel­
+    kės ir klampynės, šiandien banguoja gražus derlius. Di­
+    džiuliuose krašto plotuose augo miškai, kurie geriau negu
+    dabar saugojo Prūsijos bitynų kraštą nuo smarkių vėjų.
+    Būtent provincijos vakaruose plytėjo didelė šventa giria,
+    kurios viduryje buvo dievų šventovė Romovė; šis miškas
+    ošė beveik nuo pat šiaurinės pakrantės galo net iki prie
+    Aistmarių esančių pakrantės žemių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198137
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 265."
+  citata_originali: |
+    Žymiausia šventykla buvo Romovėje, ku­
+    rios vieta tiksliai dar nenustatyta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218160
+
+- id: c-199269
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 414"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 414."
+  citata_originali: |
+    Be to, įrodymas, skatinantis sutikti, kad Dusburgietis tu­
+    rėjo neklystamų žinių apie dalykus, dėstomus tame skyriuje, o
+    ypač apie kadaise Prūsijoje gyvenusį krivį, yra jo paties pasa­
+    kojimų sąryšis. Jis kalba apie kadaise buvusį šventą Romovės
+    miestą, kaip apie krivio buveine. Pasak Faterio (cituota vieta),
+    atrodo, čia nėra ko prikišti, ir tai tiesa, nes apie tokių pačių iš
+    esmės romovių buvimą turime žinių iš kitų vietų: seniausia,
+    apie kokią žinome, buvo Sambijos pajūryje; o kad vėliau kiek­
+    vienoje provincijoje turėjo būti panaši dievų buveinė, mes jau
+    daugelyje mūsų istorijos vietų pateikėme įrodymus iš rašto pa­
+    minklų, ir kad šito iš tikrųjų būta, patvirtiname visiškai neabe­
+    jodami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200615
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
+  citata_originali: |
+    Taigi senovės lietuviai šį jūrų dievą vaizdavo kaip di­
+    džiulį žaltį, tai yra žalčių karalių *.
+    Taip pat kronikos liudija, jog šio dievo stabas, spirale susi­
+    raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū­
+    no; varinis dievas buvęs su vidutinio amžiaus žmogaus galva.
+    Atvaizdas parodytas II lentelės 7-ajame piešinyje.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201000
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
+  citata_originali: |
+    Jau mes mūsų istorijos tyrimais įrodėme, kad
+    paskutiniais stabmeldystės amžiais Romovių būta ne vienoje
+    vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie
+    vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų. Ar
+    dėl tos klaidos krivis visiškai nustoja egzistuoti? O iš tikrųjų ar
+    dar neužsimena Dusburgietis (dalis III. - Skyrius 252) ir Ko-
+    jalavičius (p. 32,35) apie Romovę, buvusią Lietuvoje ir ar apie
+    tai nekalba senieji padavimai?
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202984
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
+    prūsų, lietuvių ir kitų baltų religinio kulto centras.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220222
 
 ## Ryšiai
 - Romovė priklausė [[objektai/vietos/Prūsija]], [[objektai/vietos/Sambija]]

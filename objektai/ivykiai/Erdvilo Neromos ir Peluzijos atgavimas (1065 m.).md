@@ -113,5 +113,6 @@ Betgi sun ku tiksliai nustatyti to Mantvilos sumanyto, o Erdvilo surengto žygio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

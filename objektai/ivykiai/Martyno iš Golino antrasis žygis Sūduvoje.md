@@ -68,5 +68,6 @@ Martynas ir kiti vyrai vakaro prietemoje užpuolė Sūduvos kaimą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -61,5 +61,6 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

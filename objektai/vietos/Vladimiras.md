@@ -168,6 +168,18 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   pagrindžia:
     - c-188451
 
+<a id="claim-t-211601"></a>
+- t-211601
+  teiginys: "Vladimiras buvo Volynės srities miestas ir Volynės kunigaikštystės sostinė, esanti apie 120 km į pietus nuo Bresto."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194324
+
 ## Citatos
 
 - id: c-32555
@@ -186,7 +198,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-32556
@@ -205,7 +217,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168565
@@ -238,7 +250,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184466
@@ -266,7 +278,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188450
@@ -282,7 +294,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188451
@@ -325,8 +337,35 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-194324
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 200."
+  citata_originali: |
+    Vladimiras — UTSR Volynės sr. miestas. Volynės kunigaikš­
+    tystės sostinė (apie 120 km i pietus nuo Bresto). Nuo XIV a. vidu­
+    rio iki 1569 m. buvo LDK sudėtyje- Tautvilos ir Edlvydo pabėgimas
+    | Volynę datuojamas 1248— 1249 m. Plačiau žr. Lietuvių karas su
+    kryžiuočiais, V„ 1964, p. 137— 142.
+    9 Kalbama apie Tautvilos seserį.
+    10 Volkovyskas — BTSR miestas (prie aukštutinio Nemuno in­
+    tako
+    Volkovljos. apie 170 km Į pietus nuo Vilniaus, buvusioje
+    jotvingių žemėje).
+    XII a. buvo rusų Naugarduko kunigaikštystės
+    sudėtyje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211601
 
 ## Ryšiai
 - Apgulė Vladimirą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

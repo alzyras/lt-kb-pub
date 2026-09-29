@@ -485,6 +485,30 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   pagrindžia:
     - c-189029
 
+<a id="claim-t-215969"></a>
+- t-215969
+  teiginys: "Tokiu viešpačiu karaliumi Vladislovu ir jo broliais Dievas apdovanojo Lietuvą būtent ta da, kai jam prireikė stebuklingu būdu atversti tą užkietėjusią stabmeldiškais ir manichėjiškais paklydimais šalį ir įžiebti joje tikėjimo šviesą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198145
+
+<a id="claim-t-218663"></a>
+- t-218663
+  teiginys: "Narbutas nurodo, kad Lenkijos karalius Vladislovas Jogaila pasiuntė Jeronimą Prahiškį į Lietuvą plėsti krikščionių tikėjimo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198727
+
 ## Citatos
 
 - id: c-157555
@@ -506,7 +530,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-157556
@@ -531,7 +555,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-157557
@@ -562,7 +586,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-157558
@@ -586,7 +610,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-157559
@@ -609,7 +633,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-157560
@@ -634,7 +658,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-157561
@@ -663,7 +687,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-157562
@@ -688,7 +712,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-157563
@@ -713,7 +737,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-157564
@@ -749,7 +773,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-157565
@@ -784,7 +808,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-157568
@@ -809,7 +833,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-157569
@@ -836,7 +860,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-157570
@@ -859,7 +883,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-157571
@@ -881,7 +905,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-157572
@@ -912,7 +936,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-157573
@@ -934,7 +958,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-157574
@@ -963,7 +987,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-157575
@@ -985,7 +1009,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-157577
@@ -1012,7 +1036,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-157578
@@ -1036,7 +1060,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-157579
@@ -1074,7 +1098,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-176839
@@ -1120,7 +1144,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-176840
@@ -1144,7 +1168,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-189028
@@ -1164,7 +1188,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-189029
@@ -1188,8 +1212,47 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
+
+- id: c-198145
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 393."
+  citata_originali: |
+    Tokiu viešpačiu karaliumi
+    Vladislovu ir jo broliais Dievas apdovanojo Lietuvą būtent ta­
+    da, kai jam prireikė stebuklingu būdu atversti tą užkietėjusią
+    stabmeldiškais ir manichėjiškais paklydimais šalį ir įžiebti joje
+    tikėjimo šviesą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215969
+
+- id: c-198727
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 452."
+  citata_originali: |
+    Mat
+    Jeronimas Prahiškis, kurį Lenkijos karalius Vladislovas Jogaila
+    buvo nusiuntęs į Lietuvą plėsti krikščionių tikėjimo, rašo” , jog
+    pirmieji lietuviai, pas kuriuos jis atvykęs, garbinę žalčius:
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218663
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -208,6 +208,31 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   pagrindžia:
     - c-184236
 
+<a id="claim-t-207771"></a>
+- t-207771
+  teiginys: "Toliau jo studijų kelias vedė į Angliją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
+  pagrindžia:
+    - c-190388
+
+<a id="claim-t-209407"></a>
+- t-209407
+  teiginys: "Anglijoje vienam gyventojui teko 4.45 litro degtinės, 1.68 litro vyno ir 136.7 litro alaus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-192043
+
 ## Citatos
 
 - id: c-24045
@@ -234,7 +259,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-103081
@@ -257,7 +282,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-103082
@@ -280,7 +305,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-103083
@@ -300,7 +325,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-103084
@@ -343,7 +368,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-103085
@@ -370,7 +395,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -404,12 +429,59 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     smulkios intrigos nesiliovē ir jis priverstas buvo
     persikelt vidun Maskolijos.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-190388
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 220"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 220."
+  citata_originali: |
+    1564 m. Strasbūre Jono Šturmo gimnazijoje pradėjo mokslus Kijevo vaivados Fry-
+    deriko Pronskaus keturiolikametis sūnus Aleksandras, vėliau kurį laiką gyvenęs ir la-
+    vinęsis Prancūzijos karaliaus Karolio IX dvare. Toliau jo studijų kelias vedė į Angliją.
+  citata_rodoma: "Toliau jo studijų kelias vedė į Angliją."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207771
+
+- id: c-192043
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 103"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 103."
+  citata_originali: |
+    Mat jose
+    vynuogių vyno buvo geriama palyginti nedaug (Anglijoje vienam
+    gyventojui teko 4.45 litro degtinės, 1.68- vyno, 136.7 - alaus. Vokietijoje
+    atitinkamai: 8.8; 6,108.5 litro), o Italijoje absoliuti dauguma alkoholio
+    buvo suvartojama vyno pavidalu. Vienam italui teko 95 litrai vyno per
+    metus (prancūzui - 79, Šveicarijos gyventojui - 75, Austrijos-Vengrijos -
+    22.6), o degtinės arba kitų stipriųjų gėrimų Apeninuose nemėgta.
+    Vienam gyventojui teko tik 13.6 litro degtinės ir 0.86 litro alaus3. Dėl
+    tuometinių technikos naujovių galėję įvairiai eksperimentuoti ir tirti
+    mokslininkai teigė, kad šis gėrimų skirtumas nemažai prisideda prie
+    alkoholizmo rodiklių augimo Centrinėje Europoje ir Rusijos imperijoje.
+  citata_rodoma: "o geriama palyginti nedaug (Anglijoje vienam \ngyventojui teko 4.45 litro degtinės, 1.68- vyno, 136.7 - alaus. Vokietijoje \natitinkamai: 8.8; 6,108.5 litro), o Italijoje absoliuti dauguma alkoholio \nbuvo suvartojama vyno pavidalu. Vienam italui teko 95 litrai vyno per \nmetus (prancūzui - 79, Šveicarijos gyventojui - 75, Austrijos-Vengrijos - \n22.6), o degtinės arba kitų stipriųjų gėrimų Apeninuose nemėgta. \nVienam gyventojui teko tik 13.6 litro degtinės ir 0.86 litro alaus3. Dėl \ntuometinių technikos naujovių galėję įvairiai eksperimentuoti ir tirti \nmokslininkai teigė, kad šis gėrimų skirtumas nemažai prisideda prie \nalkoholizmo rodiklių augimo Centrinėje Europoje ir Rusijos imperijoje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209407
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Henrikas IV]]

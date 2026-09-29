@@ -190,6 +190,30 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   pagrindžia:
     - c-189123
 
+<a id="claim-t-223037"></a>
+- t-223037
+  teiginys: "1328 metų vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205858
+
+<a id="claim-t-223491"></a>
+- t-223491
+  teiginys: "1313 metais Kristmemelio pilis buvo pastatyta Nemuno pakrantėje aukščiau Ragainės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202143
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.'
@@ -277,7 +301,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-58947
@@ -297,7 +321,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-58948
@@ -321,7 +345,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-58949
@@ -343,7 +367,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-58950
@@ -362,7 +386,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188398
@@ -389,7 +413,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188399
@@ -413,7 +437,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-189123
@@ -431,8 +455,66 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-202143
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 207"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
+  citata_originali: |
+    1313 viešpaties metais, per velykas (balandžio 8—22), brolis Karolis, magistras, dievo
+    bei jo motinos garbei ir šlovei, be to, norėdamas praplėsti krikščionių žemes, subūrė visą
+    savo kariuomenę ir Nemuno pakrantėje, per šešias mylias aukščiau Ragainės, pastatė
+    Kristmemelio
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223491
+
+- id: c-204706
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 207"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
+  citata_originali: |
+    Apie Bisenės pilies puolimą 1313 metais
+      567 D.— edificavit castrum Cristmemelam, Jer.— Cristmemil; Kirsmemela — SRP, 1,
+    p. 280; Kirsmomel — SRP, 2, p. 478, plg. pr. kirsa ‘virš’ ir vok. Memel (Nemunas), XV a.
+    šnekamoje kalboje pavirto Skirsnemune (1449 — Kersmemel, Skersnemen — SZM, p.
+    217—218; plg. GAO, p. 64).
+      Ordino pilis buvusi greičiausiai Maštaičių (Norkūnų) piliakalnyje kair. Nemuno krante
+    žemiau dab. Gelgaudiškio, priešais Skirsnemunę. Greta piliakalnio išlikę keli įtvirtinti
+    papiliai (LAA. 2. p. 105; plg. Zajączkowski S.. Studya..., p. 37).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205858
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
+  citata_originali: |
+    Pažymėjęs, jog kryžiuočiai 1328
+    m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
+    lietuviai146.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223037
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Karolis (didysis magistras)]]

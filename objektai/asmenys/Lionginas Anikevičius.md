@@ -31,14 +31,13 @@ canonical_biography: "Lionginas Anikevičius buvo Mykolo sūnus ir partizanas, g
 
 1947 m. gegužės 3 d. kareiviai Dumbliūnų kaime rado Mykolo Anikevičiaus sūnų, partizaną Lionginą Anikevičių, kuris mėgino pabėgti ir buvo nušautas.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1947 m. gegužės 3 d. kareiviai Dumbliūnų kaime rado Mykolo Anikevičiaus sūnų, partizaną Lionginą Anikevičių, kuris mėgino pabėgti ir buvo nušautas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213232
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 266"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 266."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

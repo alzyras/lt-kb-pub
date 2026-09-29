@@ -7,10 +7,10 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +30,22 @@ media_all_json: |-
 
 1945 m. sausio 21 d. Broniaus Zuozos desantininkų grupė su Juozu Alekna, Povilu Tolušiu, Kaziu Liutkevičiumi, Kaziu Vičinu ir Kaziu Baniūkščiu parašiutais nuleista į Šiaulių apskritį. Broniaus Zuozos desantininkų grupė įsiliejo į Antano Šulskio-Šulo partizanų junginį, o Bronius Zuoza tapo partizanų skyriaus vadu.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-002
-  santrauka: 'Broniaus Zuozos desantininkų grupė įsiliejo į Antano Šulskio-Šulo partizanų junginį, o Bronius Zuoza tapo partizanų skyriaus vadu.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213720
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 51"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 51."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:39"
+
+- id: c-213721
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 51"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 51."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:39"

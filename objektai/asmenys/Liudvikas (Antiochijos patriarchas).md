@@ -109,5 +109,6 @@ canonical_biography: "Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvika
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

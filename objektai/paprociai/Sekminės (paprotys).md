@@ -76,5 +76,6 @@ Sekminės buvo piemenų šventė Ganiklio, Lados ir Saulės garbei.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

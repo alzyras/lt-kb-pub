@@ -31,14 +31,13 @@ canonical_biography: "Matulionytė teigė, kad Šimonių miestelio kunigas Mykol
 
 O. Zdanauskienė pasakojo, kad B. Matulionytė sakė, jog Šimonių miestelio kunigas Mykolas Banaitis palaikė ryšius su „partizanais“.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'O. Zdanauskienė pasakojo, kad B. Matulionytė sakė, jog Šimonių miestelio kunigas Mykolas Banaitis palaikė ryšius su „partizanais“.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213238
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 185"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 185."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

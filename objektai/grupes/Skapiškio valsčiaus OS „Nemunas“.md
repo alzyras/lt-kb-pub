@@ -24,14 +24,13 @@ media_all_json: |-
 
 Skapiškio valsčiaus OS „Nemunas“ viršininku buvo Jonas Vilčinskas-Doleris; sektorius buvo suskirstytas į Žalgirio, Kalnų ir Vaidoto apylinkes.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Skapiškio valsčiaus OS „Nemunas“ viršininku buvo Jonas Vilčinskas-Doleris; sektorius buvo suskirstytas į Žalgirio, Kalnų ir Vaidoto apylinkes.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213870
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 334"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 334."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:40"

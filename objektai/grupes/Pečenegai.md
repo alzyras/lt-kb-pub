@@ -68,6 +68,30 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
   pagrindžia:
     - c-184277
 
+<a id="claim-t-212288"></a>
+- t-212288
+  teiginys: "Pečenegai užėmė visą Ukrainą ir paspartino polianų smukimą prie Rosės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194940
+
+<a id="claim-t-214118"></a>
+- t-214118
+  teiginys: "Pečenegai, kaip perteikia Narbutas, po hunų ir avarų įsikūrė Dunojaus ir Dnepro tarpupyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194406
+
 ## Citatos
 
 - id: c-175759
@@ -94,7 +118,7 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184277
@@ -121,8 +145,53 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194406
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
+  citata_originali: |
+    Juo labiau kad poloviečiai nebuvo atskira tauta, bet bu­
+    vo palikuonys ar dalis pečenegų, kurie, — o tai pana­
+    šiausia į tiesą, — susiformavo iš likučių giminingų hunų
+    genčių, persikėlusių į kairiąją Dnestro pakrantę, išsis­
+    klaidžiusių po Atilos sūnų žlugimo. Nebūtina dėstyti
+    žinomų istorinių dalykų apie pečenegus, nes tai nesusiję
+    su mūsų tema. Pasakysime tik tiek, kad pečenegus, po
+    hunų ir avarų įsikūrusius krašte, esančiame Dunojaus ir
+    Dnepro tarpupyje, 915 metais pažino pietų rusai, ir nuo
+    tada jie įvairiai figūravo jų istorijoje. 1121 metais juos
+    galutinai ir visiškai nugalėjo graikų imperatorius Jonas
+    Komninas, tad nuo šio laiko skaičiuojami pečenegų vardo
+    smukimo metai2.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214118
+
+- id: c-194940
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 297."
+  citata_originali: |
+    Vė­
+    liau, pasirodžius pečenegams ir užėmus visą Ukrainą, X
+    amžiuje, paspartėjo polianų smukimas prie Rosės
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212288
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Jonas Komninas]]

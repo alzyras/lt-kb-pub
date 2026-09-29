@@ -31,57 +31,89 @@ canonical_biography: "Albinas Tindžiulis, gimęs 1902 m. Gineišių kaime ir gy
 
 Albinas Tindžiulis, gimęs 1902 m. Gineišių kaime ir gyvenęs Žilių kaime, vadovavo partizanų junginiui; jis buvo buvęs Lietuvos kariuomenės aviacijos kapitonas. Tardomas Stasys Blėkas teigė esąs Albino Tindžiulio, Vytauto Sabulio ir Petro Navicko partizanų ryšininkas ir nurodė, kur slepiasi Albino Tindžiulio vadovaujamas maždaug 150 žmonių junginys. 1946 m. Albino Tindžiulio partizanų junginiui, pagal MGB pareigūno pranešimą, priklausė Antano Užubalio ir Antano Mažeikos būriai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Albinas Tindžiulis, gimęs 1902 m. Gineišių kaime ir gyvenęs Žilių kaime, vadovavo partizanų junginiui; jis buvo buvęs Lietuvos kariuomenės aviacijos kapitonas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 122"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-231706"></a>
+- t-001
+  teiginys: "Albinas Tindžiulis, gimęs 1902 m. Gineišių kaime ir gyvenęs Žilių kaime, vadovavo partizanų junginiui; jis buvo buvęs Lietuvos kariuomenės aviacijos kapitonas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-212344
+
+<a id="claim-t-231708"></a>
+- t-002
+  teiginys: "1946 m. Albino Tindžiulio partizanų junginiui, pagal MGB pareigūno pranešimą, priklausė Antano Užubalio ir Antano Mažeikos būriai."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-212346
+
+<a id="claim-t-231709"></a>
+- t-003
+  teiginys: "1947 m. rugpjūtį MGB Vabalninko valsčiaus poskyrio ataskaitoje rašyta, kad agentai sekė Albino Tindžiulio partizanų junginį ir palaikė ryšį su majoru Karakulinu."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:50:57Z"
+  pagrindžia:
+    - c-212347
+
+<a id="claim-t-231710"></a>
+- t-004
+  teiginys: "1948 m. lapkritį agentūriniais-operatyviniais duomenimis nustatyta, kad Albino Tindžiulio partizanų junginyje buvo 29 partizanai, veikę Kupreliškio, Vabalninko ir iš dalies Pabiržės valsčiuose."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:50:57Z"
+  pagrindžia:
+    - c-212348
+
+<a id="claim-t-231711"></a>
+- t-005
+  teiginys: "S. Mackela, gavęs slapyvardį „Teisingas“, buvo įpareigotas sekti Albino Tindžiulio partizanų junginį."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:50:57Z"
+  pagrindžia:
+    - c-212349
+
+<a id="claim-t-231713"></a>
+- t-006
+  teiginys: "1945 m. vasarą Puznos miške, Vabalninko valsčiuje, vykusiam partizanų pasitarimui vadovavo buvęs Lietuvos kariuomenės aviacijos kapitonas Albinas Tindžiulis; jame dalyvavo apie 100 partizanų ir buvo svarstomi legalizacijos klausimai."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:50:57Z"
+  pagrindžia:
+    - c-212351
+
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Tardomas Stasys Blėkas teigė esąs Albino Tindžiulio, Vytauto Sabulio ir Petro Navicko partizanų ryšininkas ir nurodė, kur slepiasi Albino Tindžiulio vadovaujamas maždaug 150 žmonių junginys.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 153"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: '1946 m. Albino Tindžiulio partizanų junginiui, pagal MGB pareigūno pranešimą, priklausė Antano Užubalio ir Antano Mažeikos būriai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 168"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-004
-  santrauka: '1947 m. rugpjūtį MGB Vabalninko valsčiaus poskyrio ataskaitoje rašyta, kad agentai sekė Albino Tindžiulio partizanų junginį ir palaikė ryšį su majoru Karakulinu.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 251-252"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-005
-  santrauka: '1948 m. lapkritį agentūriniais-operatyviniais duomenimis nustatyta, kad Albino Tindžiulio partizanų junginyje buvo 29 partizanai, veikę Kupreliškio, Vabalninko ir iš dalies Pabiržės valsčiuose.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 304"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-006
-  santrauka: 'S. Mackela, gavęs slapyvardį „Teisingas“, buvo įpareigotas sekti Albino Tindžiulio partizanų junginį.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 307"
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,12 +128,77 @@ Albinas Tindžiulis, gimęs 1902 m. Gineišių kaime ir gyvenęs Žilių kaime, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-008
-  santrauka: '1945 m. vasarą Puznos miške, Vabalninko valsčiuje, vykusiam partizanų pasitarimui vadovavo buvęs Lietuvos kariuomenės aviacijos kapitonas Albinas Tindžiulis; jame dalyvavo apie 100 partizanų ir buvo svarstomi legalizacijos klausimai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 402-403"
+## Citatos
+
+- id: c-212344
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 122"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 122."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-212346
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 168"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 168."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+
+- id: c-212347
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 251-252"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 251-252."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-003
+
+- id: c-212348
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 304"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 304."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-004
+
+- id: c-212349
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 307"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 307."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-005
+
+- id: c-212351
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 402-403"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 402-403."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-006
+

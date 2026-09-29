@@ -287,7 +287,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-163400
@@ -310,7 +310,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-163402
@@ -337,7 +337,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-163404
@@ -363,7 +363,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-008
 
@@ -393,7 +393,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-007
 
@@ -414,7 +414,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-163408
@@ -440,8 +440,46 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-201719
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  citata_originali: |
+    Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
+    Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,
+    yra „Pasakojimas (Narratio...) apie Teutonų ordino pradžią“109.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202965
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
+  citata_originali: |
+    Taigi šitaip dievas nubaudė
+    savo tautą ir paniekino jos paveldą. Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
+    nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
+    tvirtoves nuo pat Egipto žemės pakraščių ligi Mezopotamijos daugiau nei dvidešimties
+    dienų kelio ruože, be to, daug kitų miestų bei tvirtovių pajūryje. Po to daug karalių
+    ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,
+    tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties
+    viešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo
+    likęs.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Henrikas Valpotas]], [[objektai/asmenys/Hermanas Bartas]], [[objektai/asmenys/Otonas]]

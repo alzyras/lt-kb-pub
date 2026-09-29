@@ -127,6 +127,40 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   pagrindžia:
     - c-173877
 
+<a id="claim-t-211963"></a>
+- t-211963
+  teiginys: "Danielius su Vasilka nusiuntė Vykin tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194327
+
+<a id="claim-t-212633"></a>
+- t-212633
+  teiginys: "1247 m. kunigaikštis Vasilka prie Drohičino pasivijo jotvingius ir, Narbuto pasakojimu, kruviname mūšyje iškovojo pergalę."
+  atnaujinta: "2026-09-20 13:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Jotvingiai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kontekstas nurodo mūšį su jotvingiais, kuriame Vasilka laimėjo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Vasilka kariavo prieš Jotvingiai (0.90)"
+  temporaliniai_duomenys: "mūšio data: 1247 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vasilka kariavo prieš Jotvingiai“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas iki Vasilkos veiksmo, vietos, datos ir rezultato, pašalinant perteklinį maršruto aprašymą. Pergalės vertinimas paliktas su Narbuto pasakojimo atribucija."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Neilgai trukus, Vladimiro kunigaikštis Levas atsiun tė savo broliui Vasilkai [žinią], kad norįs su juo pasi matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat pas juos atvažiuotų pasitarti.'
@@ -185,7 +219,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -214,7 +248,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173878
@@ -235,7 +269,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176630
@@ -260,8 +294,45 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194327
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
+  citata_originali: |
+    Danielius su Vasilka nusiuntė Vykin­
+    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211963
+
+- id: c-195986
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
+  citata_originali: |
+    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
+    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-
+    kos ir Ziemovito kariuomenę, įvyko žiaurus mūšis: iš abie­
+    jų pusių krito daug karių, bet Vasilka ir Ziemovitas narsiai
+    kovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet
+    narsus žmogus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Vasilka siuntė į [[objektai/vietos/Haličas]]

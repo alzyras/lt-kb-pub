@@ -67,5 +67,6 @@ Vladislovas Jogaila į Konstancos susirinkimą pasiuntė dominikoną Teodorą Le
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

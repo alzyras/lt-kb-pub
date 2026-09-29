@@ -73,14 +73,26 @@ function fixtureExecutor(calls, { failAt = "", afterStep } = {}) {
   }
 }
 
-test("build runner defaults to a full checked build of public/", () => {
+test("build runner defaults to auto mode", () => {
   assert.deepEqual(parseArguments([]), {
+    mode: "auto",
+    output: "public",
+    json: false,
+    help: false,
+    lockHeld: false,
+  })
+})
+
+test("build runner accepts --full and rejects conflicting build modes", () => {
+  assert.deepEqual(parseArguments(["--full"]), {
     mode: "full",
     output: "public",
     json: false,
     help: false,
     lockHeld: false,
   })
+  assert.deepEqual(parseArguments(["--mode=full"]), parseArguments(["--full"]))
+  assert.throws(() => parseArguments(["--full", "--mode", "auto"]), /Conflicting build modes/)
 })
 
 test("build runner accepts auto mode, an explicit output, and JSON reporting", () => {
@@ -95,6 +107,7 @@ test("build runner accepts auto mode, an explicit output, and JSON reporting", (
 
 test("build runner rejects unknown modes, missing values, and unknown flags", () => {
   assert.throws(() => parseArguments(["--mode", "fast"]), /expected auto or full/)
+  assert.throws(() => parseArguments(["--mode"]), /--mode requires auto or full/)
   assert.throws(() => parseArguments(["--output"]), /requires a directory/)
   assert.throws(() => parseArguments(["--skip-tests"]), /Unknown site build argument/)
 })
@@ -137,6 +150,30 @@ test("full build checks a staging tree and a warm auto run is a verified no-op",
   )
   assert.equal(full.status, "success")
   assert.equal(
+    firstCalls.find((call) => call.name === "audit_evidence_matches").env.EVIDENCE_AUDIT_FILES,
+    undefined,
+  )
+  assert.equal(
+    firstCalls.some((call) => call.name === "verify_graph_explorer"),
+    true,
+  )
+  assert.equal(
+    firstCalls.some((call) => call.name === "verify_rendered_articles_seo"),
+    true,
+  )
+  assert.equal(
+    firstCalls
+      .find((call) => call.name === "audit_evidence_matches-kupiskio-partizanai")
+      .args.includes("Kupiškio krašto partizanai"),
+    true,
+  )
+  assert.equal(
+    firstCalls
+      .find((call) => call.name === "audit_evidence_matches-lituanistika-kupiskis")
+      .args.includes("Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"),
+    true,
+  )
+  assert.equal(
     await readFile(path.join(output, "index.html"), "utf8"),
     `${full.inputFingerprint}\n`,
   )
@@ -172,13 +209,37 @@ test("full build checks a staging tree and a warm auto run is a verified no-op",
   assert.equal(autoCalls.length, 0)
 })
 
+test("source evidence mismatches stop before Quartz emits the site", async (t) => {
+  const { root } = await makeFixture(t)
+  const calls = []
+  const built = await buildSite(
+    { mode: "full", output: "public", json: true, lockHeld: false },
+    root,
+    { PATH: process.env.PATH },
+    fixtureExecutor(calls, { failAt: "audit_evidence_matches" }),
+  )
+
+  assert.equal(built.status, "failed")
+  assert.equal(
+    calls.some((call) => call.name === "audit_evidence_matches"),
+    true,
+  )
+  assert.equal(
+    calls.some((call) => call.name.startsWith("quartz-")),
+    false,
+  )
+})
+
 test("auto selects incremental mode for 50 new Markdown files and 20 edits", async (t) => {
   const { root, output } = await makeFixture(t)
+  const objectRoot = path.join(root, "objektai")
+  await mkdir(objectRoot, { recursive: true })
+  await symlink("../objektai", path.join(root, "content", "objektai"), "dir")
   const graphNodesPath = path.join(root, "quartz", "static", "graph-data", "nodes", "00.json")
   await mkdir(path.dirname(graphNodesPath), { recursive: true })
   await writeFile(graphNodesPath, '{"nodes":[] }\n')
   for (let index = 0; index < 20; index++) {
-    await writeFile(path.join(root, "content", `note-${index}.md`), `Initial ${index}\n`)
+    await writeFile(path.join(objectRoot, `note-${index}.md`), `Initial ${index}\n`)
   }
   const baselineCalls = []
   const baseline = await buildSite(
@@ -191,13 +252,13 @@ test("auto selects incremental mode for 50 new Markdown files and 20 edits", asy
 
   for (let index = 0; index < 50; index++) {
     await writeFile(
-      path.join(root, "content", `new-${index}.md`),
+      path.join(objectRoot, `new-${index}.md`),
       `# Synthetic object ${index}\n\n## Teiginiai\n\n- t-${String(900000 + index)}\n  teiginys: "Synthetic QA claim on a newly added object ${index}."\n`,
     )
   }
   for (let index = 0; index < 20; index++) {
     await writeFile(
-      path.join(root, "content", `note-${index}.md`),
+      path.join(objectRoot, `note-${index}.md`),
       `Initial ${index}\n\n## Teiginiai\n\n- t-${String(910000 + index)}\n  teiginys: "Synthetic QA claim added to existing object ${index}."\n`,
     )
   }
@@ -223,6 +284,18 @@ test("auto selects incremental mode for 50 new Markdown files and 20 edits", asy
     seed: incremental.incrementalPlan.seed,
   })
   assert.match(incremental.incrementalPlan.seed, /^(copy-on-write|hardlinks)$/)
+  const evidenceAuditCall = calls.find((call) => call.name === "audit_evidence_matches")
+  assert.ok(evidenceAuditCall)
+  const auditedFiles = JSON.parse(evidenceAuditCall.env.EVIDENCE_AUDIT_FILES)
+  assert.equal(auditedFiles.length, 70)
+  assert.equal(
+    auditedFiles.every((file) => file.startsWith(`${objectRoot}${path.sep}`)),
+    true,
+  )
+  assert.deepEqual(
+    incremental.stages.find((stage) => stage.name === "audit_evidence_matches").scope,
+    { mode: "changed-object-files", fileCount: 70 },
+  )
   const incrementalCall = calls.find((call) => call.name === "quartz-incremental-build")
   assert.equal(incrementalCall.env.SITE_INCREMENTAL_BUILD, "1")
   const baselineCall = baselineCalls.find((call) => call.name === "quartz-build")

@@ -8,10 +8,10 @@ datos:
   - '1952 m.'
 date_start: '1951'
 date_end: '1952'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,16 +44,19 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: '1951 m. gruodžio 5 d. Duoniūnų kaime partizanams apšaudžius MGB įgaliotinį Liogkichą ir stribus, Liogkichas buvo sunkiai sužeistas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 414"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Santrauka
 
 1951 m. gruodžio 5 d. Duoniūnų kaime partizanams apšaudžius MGB įgaliotinį Liogkichą ir stribus, Liogkichas buvo sunkiai sužeistas.
+
+## Citatos
+
+- id: c-214313
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 414"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 414."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:42"

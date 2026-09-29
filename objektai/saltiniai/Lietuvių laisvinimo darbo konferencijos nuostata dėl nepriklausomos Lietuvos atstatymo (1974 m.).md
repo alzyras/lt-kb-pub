@@ -78,5 +78,6 @@ Jos siekė veikti išvien ir pasitarnauti Lietuvos laisvės bylai tarptautiniu m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

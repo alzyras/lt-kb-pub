@@ -2,7 +2,6 @@
 tipas: daiktas
 pavadinimas: 'Radijo imtuvas'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
@@ -23,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Žydų prekių asortimentas buvo įvairus – jame minimi degtukai, dviračiai ir radijo imtuvai. Jurgis Guzas į slėptuvę atgabeno savo radijo imtuvą; jį ir slėptuvę įrengė padedamas Alberto Nakučio ir Augusto Baltuškos. Radijo pranešimai buvo nuolat sekami ir užrašomi.
+Žydų prekių asortimentas buvo įvairus – jame minimi degtukai, dviračiai ir radijo imtuvai.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -53,48 +52,54 @@ Nenurodyta
   statusas: verified
 - t-002
 
-- c-002
-  santrauka: 'Jurgis Guzas į slėptuvę atgabeno savo radijo imtuvą; jį ir slėptuvę įrengė padedamas Alberto Nakučio ir Augusto Baltuškos.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 67"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: 'Radijo pranešimai buvo nuolat sekami ir užrašomi.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 68"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-004
-  santrauka: 'Petro Vaidakavičiaus partizanų junginys turėjo radijo imtuvą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 103"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-005
-  santrauka: 'Informatorius „Laikrodis“ pranešė, kad Dariaus ir Girėno apygardos Propagandos ir agitacijos skyriaus viršininkas Adolfas Baltrėnas-Anupras jo namuose prašė radijo imtuvo dalių ir laido minai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Santrauka
+
+Žydų prekių asortimentas buvo įvairus – jame minimi degtukai, dviračiai ir radijo imtuvai.
+
+## Citatos
+
+- id: c-213557
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 316"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 316."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-006
-  santrauka: 'O. Valevičienė pasakojo, kad Tigro bunkeryje buvo radijo imtuvas ir gultai, o bunkerį apšvietė žibalinė lempa.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213558
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 103"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 103."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213560
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 405"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 405."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213561
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 68"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 68."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213562
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 67"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 67."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+

@@ -71,3 +71,29 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-21342"></a>
+- t-001
+  teiginys: "1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kuršas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Alūkšta: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė nurodo, kad Alūkštos apskritis buvo Kurše."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Alūkšta priklausė Kuršas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per stipriai susiejo Alūkštą su reikalavimu; citata aiškiau remia įtraukimą į teritorijos sampratą."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-24041
+

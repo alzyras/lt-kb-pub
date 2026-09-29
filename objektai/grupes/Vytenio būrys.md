@@ -2,7 +2,6 @@
 tipas: grupe
 pavadinimas: 'Vytenio būrys'
 saltiniai:
-  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
@@ -23,7 +22,11 @@ media_all_json: |-
 
 ## Santrauka
 
-Juozo Jankausko-Pilsudskio būrio partizanai anksčiau priklausė Vytenio būriui. Vytenio būriui vadovavo Anicetas Laužikas-Švitrigaila; būrys veikė Kupiškio, Skapiškio ir Šimonių valsčiuose. Nuo 1948 m., žuvus Anicetui Laužikui-Švitrigailai, Teofilis Gudas-Eskimas vadovavo Algimanto apygardos Šarūno rinktinės 2-osios Algirdo kuopos Vytenio būriui.
+Juozo Jankausko-Pilsudskio būrio partizanai anksčiau priklausė Vytenio būriui.
+
+## Santrauka
+
+Juozo Jankausko-Pilsudskio būrio partizanai anksčiau priklausė Vytenio būriui.
 
 ## Reikšmingi paminėjimai
 
@@ -38,120 +41,205 @@ Juozo Jankausko-Pilsudskio būrio partizanai anksčiau priklausė Vytenio būriu
   statusas: verified
 - t-002
 
-- c-002
-  santrauka: 'Vytenio būriui vadovavo Anicetas Laužikas-Švitrigaila; būrys veikė Kupiškio, Skapiškio ir Šimonių valsčiuose.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+## Teiginiai
+
+<a id="claim-t-230521"></a>
+- t-001
+  teiginys: "Vytenio būriui vadovavo Anicetas Laužikas-Švitrigaila; būrys veikė Kupiškio, Skapiškio ir Šimonių valsčiuose."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211159
+
+<a id="claim-t-230524"></a>
+- t-002
+  teiginys: "Vytenio būriui vadovavo Anicetas Laužikas-Švitrigaila, 1-ajam skyriui – Viktoras Sabaliauskas-Kirvis, o 2-ajam – Juozas Jankauskas-Pilsudskis."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:10Z"
+  pagrindžia:
+    - c-211162
+
+<a id="claim-t-230527"></a>
+- t-003
+  teiginys: "Vytenio būrio vadas buvo Teofilis Gudas-Eskimas, o jo pavaduotojas – Juozas Varanavičius-Pakštys."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:10Z"
+  pagrindžia:
+    - c-211165
+
+<a id="claim-t-230528"></a>
+- t-004
+  teiginys: "1948 m. sausio 3 d. Duoniūnuose žuvo Vytenio būrio vadas Anicetas Laužikas-Švitrigaila ir jo pavaduotojas Petras Mockevičius-Petriškevičius."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211166
+
+<a id="claim-t-230529"></a>
+- t-005
+  teiginys: "Stasys Valma-Dobilas žuvo būdamas Vytenio būrio partizanu."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:10Z"
+  pagrindžia:
+    - c-211167
+
+<a id="claim-t-230530"></a>
+- t-006
+  teiginys: "Vytenio būrio partizanas Vytautas Kavoliūnas-Grandinis legalizavosi 1951 m. lapkričio 27 d., partizanų gretose buvęs nuo 1946 m."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:10Z"
+  pagrindžia:
+    - c-211168
+
+<a id="claim-t-230532"></a>
+- t-007
+  teiginys: "Vytenio būrio vadas buvo Vilius (Vilhelmas) Bugailiškis-Drąsutis."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:10Z"
+  pagrindžia:
+    - c-211170
+
+<a id="claim-t-230533"></a>
+- t-008
+  teiginys: "Po Vytenio būrio vado Antano Mockūno žūties 1949 m. sausio 20 d. būrio vadu tapo K. Kregždė."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:10Z"
+  pagrindžia:
+    - c-211171
+
+## Citatos
+
+- id: c-211159
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 22"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 22."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Nuo 1948 m., žuvus Anicetui Laužikui-Švitrigailai, Teofilis Gudas-Eskimas vadovavo Algimanto apygardos Šarūno rinktinės 2-osios Algirdo kuopos Vytenio būriui.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 78"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-004
-  santrauka: '1946 m. vasarą Šimonių girioje Šarūno rinktinės vadas Antanas Slučka iš 15–20 buvusių partizanų suorganizavo Vytenio būrį ir jo vadu paskyrė Petrą Indriūną-Vėbrą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 79"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-005
-  santrauka: 'Vytenio būriui vadovavo Anicetas Laužikas-Švitrigaila, 1-ajam skyriui – Viktoras Sabaliauskas-Kirvis, o 2-ajam – Juozas Jankauskas-Pilsudskis.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211162
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 226-227"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 226-227."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-006
-  santrauka: '1947 m. rugsėjo 19 d. J. Šeinauskas-Alyzas įstojo į Aniceto Laužiko-Švitrigailos vadovaujamą Vytenio būrį, gavo vokišką karabiną ir pistoletą, vėliau tapo vado pavaduotoju.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 278"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-007
-  santrauka: '1948 m. sausio 3 d. per operaciją prie Duoniūnų kapinių žuvo Vytenio būrio vadas Anicetas Laužikas-Švitrigaila ir jo pavaduotojas Petras Mockevičius-Petriškevičius.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 278-279"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-008
-  santrauka: 'Vytenio būrio vadas buvo Teofilis Gudas-Eskimas, o jo pavaduotojas – Juozas Varanavičius-Pakštys.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+
+- id: c-211165
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 295"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 295."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-009
-  santrauka: '1948 m. sausio 3 d. Duoniūnuose žuvo Vytenio būrio vadas Anicetas Laužikas-Švitrigaila ir jo pavaduotojas Petras Mockevičius-Petriškevičius.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-003
+
+- id: c-211166
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 306"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 306."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-010
-  santrauka: 'Stasys Valma-Dobilas žuvo būdamas Vytenio būrio partizanu.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-004
+
+- id: c-211167
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 387"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 387."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-011
-  santrauka: 'Vytenio būrio partizanas Vytautas Kavoliūnas-Grandinis legalizavosi 1951 m. lapkričio 27 d., partizanų gretose buvęs nuo 1946 m.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-005
+
+- id: c-211168
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 406"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 406."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-012
-  santrauka: 'Šarūnas suorganizavo Vytenio būrį ir jo vadu paskyrė Petrą Indriūną-Vėbrą; Indriūnui žuvus 1946 m., būrio vadu tapo Anicetas Laužikas-Švitrigaila, o po Laužiko žūties 1948 m. – Teofilis Gudas-Eskimas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 416"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-013
-  santrauka: 'Vytenio būrio vadas buvo Vilius (Vilhelmas) Bugailiškis-Drąsutis.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-006
+
+- id: c-211170
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 417"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 417."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-014
-  santrauka: 'Po Vytenio būrio vado Antano Mockūno žūties 1949 m. sausio 20 d. būrio vadu tapo K. Kregždė.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-007
+
+- id: c-211171
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 436"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 436."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-008
+

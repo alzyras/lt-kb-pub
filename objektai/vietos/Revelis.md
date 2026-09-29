@@ -138,6 +138,30 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   pagrindžia:
     - c-184450
 
+<a id="claim-t-218178"></a>
+- t-218178
+  teiginys: "Narbutas Revelyje, šv. Olafo bažnyčioje, matė medinį kotą su žalvariniu gaidžiu, laikytu pagonybės laikų vėliava."
+  atnaujinta: "2026-09-20 14:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198580
+
+<a id="claim-t-222696"></a>
+- t-222696
+  teiginys: "1323 metais Dovydas su lietuvių kariuomene įsibrovė į Revelį, Danijos karaliaus žemę, ir nusiaubė jos teritoriją."
+  atnaujinta: "2026-09-20 14:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203342
+
 ## Citatos
 
 - id: c-68559
@@ -164,6 +188,7 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-68560
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -180,7 +205,7 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171711
@@ -200,7 +225,7 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171712
@@ -221,7 +246,7 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184450
@@ -244,8 +269,66 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-197753
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 507"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 507."
+  citata_originali: |
+    P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
+    tentycznego, objašnil, tlómaczenie polskie doląc-
+    zyt i do druku podal Teodor Narbutt // MAB RS. -
+    E 22. - B. 54). Kaip byloja šio parengto spaudai ran­
+    kraščio pratarmė, Rivijaus kroniką T. Narbutas įsi­
+    gijo 1808 metais Revelyje, tai yra per vadinamąjį
+    Suomijos karą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198580
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  citata_originali: |
+    Iš Marienburgo, Karaliaučiaus, Revelio senienų
+    aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
+    duotas žirgas arba gaidys. Revelyje, šv. Olafo bažnyčioje, pats
+    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
+    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
+    laikų vėliava, paimta Latvijoje.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218178
+
+- id: c-203342
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
+  citata_originali: |
+    Tuo metu Dovydas, Gardino pilininkas, įsibrovė su lietuvių kariuomene į Revelį,
+    Danijos karaliaus žemę, ir, neskaitant galybės kitų nuostolių, kurių pridarė šioje žemėje,
+    degindamas bei plėšdamas, pagavo ir nužudė daugiau nei penkis tūkstančius krikščionių
+    kilmingųjų, moterų, mergelių ir kitų abiejų lyčių žmonių.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222696
 
 ## Ryšiai
 - Puolė Revelį: [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pskoviečiai]]

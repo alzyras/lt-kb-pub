@@ -24,26 +24,34 @@ media_all_json: |-
 
 1947 m. kovo mėn. Povilo Barono-Briedžio skyriui priklausė 7 partizanai. Povilas Baronas-Briedis, partizanavęs nuo 1944 m., vėliau vadovavo Žalgirio partizanų būriui ir 1948 m. rugpjūčio 31 d. žuvo Bajorų kaime, Felikso Budreikos vienkiemyje. Povilo Barono-Briedžio skyriui vadovavo Povilas Baronas-Briedis; nariai buvo Jonas (byloje – Juozas) Lapienis-Jokeris, Pranas Galvydis-Valteris, Steponas Šukys, Petras Pakštas, Anicetas Merkys-Vanagas ir Valančiūnas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1947 m. kovo mėn. Povilo Barono-Briedžio skyriui priklausė 7 partizanai.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 221"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Povilas Baronas-Briedis, partizanavęs nuo 1944 m., vėliau vadovavo Žalgirio partizanų būriui ir 1948 m. rugpjūčio 31 d. žuvo Bajorų kaime, Felikso Budreikos vienkiemyje.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 221"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-231059"></a>
+- t-001
+  teiginys: "1947 m. kovo mėn. Povilo Barono-Briedžio skyriui priklausė 7 partizanai."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211697
+
+<a id="claim-t-231060"></a>
+- t-002
+  teiginys: "Povilas Baronas-Briedis, partizanavęs nuo 1944 m., vėliau vadovavo Žalgirio partizanų būriui ir 1948 m. rugpjūčio 31 d. žuvo Bajorų kaime, Felikso Budreikos vienkiemyje."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:09Z"
+  pagrindžia:
+    - c-211698
+
+## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Povilo Barono-Briedžio skyriui vadovavo Povilas Baronas-Briedis; nariai buvo Jonas (byloje – Juozas) Lapienis-Jokeris, Pranas Galvydis-Valteris, Steponas Šukys, Petras Pakštas, Anicetas Merkys-Vanagas ir Valančiūnas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
@@ -53,3 +61,29 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-211697
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 221"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 221."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-211698
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 221"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 221."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

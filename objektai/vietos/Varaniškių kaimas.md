@@ -31,14 +31,13 @@ canonical_biography: "1951 m. vasario 24 d. Varaniškių kaime, Vabalninko ir Au
 
 1951 m. vasario 24 d. pagal slaptos pranešėjos „Onos“ agentūrinius duomenis surengtos operacijos metu bunkeryje Varaniškių kaime žuvo Povilas Laužikas-Liudas.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1951 m. vasario 24 d. pagal slaptos pranešėjos „Onos“ agentūrinius duomenis surengtos operacijos metu bunkeryje Varaniškių kaime žuvo Povilas Laužikas-Liudas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-215055
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 289"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 289."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:46"

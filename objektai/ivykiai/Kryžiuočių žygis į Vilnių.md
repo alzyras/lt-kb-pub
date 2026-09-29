@@ -74,5 +74,6 @@ Kryžiuočių kariaunai žygiuojant į Vilnių, paaiškėjo, kad lietuviai ketur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

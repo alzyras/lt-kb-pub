@@ -79,5 +79,6 @@ Kristinas buvo Mazovijos vaivada ir 1216 arba 1217 m. pradžioje pateko į prūs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

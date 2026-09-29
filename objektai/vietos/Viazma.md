@@ -160,6 +160,30 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   pagrindžia:
     - c-170610
 
+<a id="claim-t-211811"></a>
+- t-211811
+  teiginys: "Ir atėjo maskvenai su totoriais, ir nusiaubė Viazmos žemę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193141
+
+<a id="claim-t-212056"></a>
+- t-212056
+  teiginys: "Maskvos didysis kunigaikštis Ivanas Vasiljevičius užėmė Viazmos miestą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193937
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio.'
@@ -190,11 +214,12 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     Paskutiniam savo žygiui, pasitelkęs burių iš Lenkijos ir gavęs
     ordino pagalbos, Vytautas išsirengė su gana didele kariuomene.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-37797
@@ -214,7 +239,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-68864
@@ -237,7 +262,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167693
@@ -256,7 +281,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167771
@@ -275,7 +300,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-170610
@@ -296,8 +321,44 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-193141
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 129."
+  citata_originali: |
+    Ir atėjo
+    maskvenai su totoriais, ir nusiaubė Viazmos žemę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211811
+
+- id: c-193937
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 144."
+  citata_originali: |
+    Maskvos didysis kunigaikš­
+    tis Ivanas Vasiljevičius pradėjo karą su Lietuvos Di­
+    džiąja Kunigaikštyste ir paėmė Viazmos4 miestą bei
+    nemaža kitų miestų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212056
 
 ## Ryšiai
 - Užėmė Viazmą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

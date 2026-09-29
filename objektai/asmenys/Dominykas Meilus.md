@@ -57,8 +57,9 @@ Du broliukai Dominy kas Meilus ir Juozapas Valentas laikinai, kol pasitai sys, b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-209576"></a>

@@ -78,5 +78,6 @@ canonical_biography: "1991 m. gegužės 19 d. Šalčininkų rajone, Krakūnų pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

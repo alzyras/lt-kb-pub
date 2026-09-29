@@ -48,69 +48,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-192027"></a>
-- t-001
-  teiginys: "1841 m. prie Druskininkų tik ką atkastoje kapavietėje, lauke su gausiais laidojimais, buvo rasta moneta."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Druskininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Druskininkų kapavietėje rastos monetos radimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Druskininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druskininkų kapavietėje rastos monetos radimas\" parinktas kaip owner_note_path. Targetas \"Druskininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie monetos radimą prie Druskininkų 1841 m. Citatos triukšmas neperkeltas."
-  pagrindžia:
-    - c-174906
-
-<a id="claim-t-192028"></a>
-- t-002
-  teiginys: "Vienoje prie Druskininkų rastos monetos pusėje pavaizduoti Gedimino Stulpai, o kita pusė buvo gerokai pažeista."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Druskininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Druskininkų kapavietėje rastos monetos radimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Druskininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druskininkų kapavietėje rastos monetos radimas\" parinktas kaip owner_note_path. Targetas \"Druskininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-174906
-
-<a id="claim-t-192486"></a>
-- t-003
-  teiginys: "1841 m. prie Druskininkų tik ką atkastoje kapavietėje buvo rasta moneta."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Druskininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Druskininkų kapavietėje rastos monetos radimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Druskininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druskininkų kapavietėje rastos monetos radimas\" parinktas kaip owner_note_path. Targetas \"Druskininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir pastraipos triukšmas, paliekant pagrindinį radimo faktą. Nepridėtas monetos vaizdulių aprašymas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-174906
-
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -150,7 +87,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-    - t-003
+

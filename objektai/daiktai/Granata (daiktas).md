@@ -41,32 +41,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-209847"></a>
-- t-001
-  teiginys: "Garalevyčiaus namai ant Nemuno kranto, ku rie, anok kauniškių pasakojimo, gana smar kiai nukentėjo nuog vokiečių granatų, mums atvažiavus Kaunan jau buvo pataisyti."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192467
-
-<a id="claim-t-209848"></a>
-- t-002
-  teiginys: "Vokiečių didžioji granata sudraskė rusų kareivį."
-  atnaujinta: "2026-09-12 14:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192468
-
 ## Santrauka
 
 Garalevyčiaus namai ant Nemuno kranto, ku rie, anok kauniškių pasakojimo, gana smar kiai nukentėjo nuog vokiečių granatų, mums atvažiavus Kaunan jau buvo pataisyti. Vokiečių didžioji granata sudraskė rusų kareivį.
@@ -89,8 +63,6 @@ Garalevyčiaus namai ant Nemuno kranto, ku rie, anok kauniškių pasakojimo, gan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-192468
   šaltinis: "Kelionė Lietuvon 1916 karės metais"
@@ -108,6 +80,54 @@ Garalevyčiaus namai ant Nemuno kranto, ku rie, anok kauniškių pasakojimo, gan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+
+- id: c-213498
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 128"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 128."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+- id: c-213499
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 45"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 45."
+  citata_originali: |
+    Pusė vieno bokšto nuvirto. Niekas ten ne­
+    gyvena. Ant baltų sienos šonų matyti kraujo
+    ženklai,
+    kuriais aptaškė ten pat žuvęs rusų
+    kareivis, sudraskytas į šmotukus vokiečių di­
+    džiosios granatos.
+  citata_rodoma: "Pusė vieno bokšto nuvirto. Niekas ten ne­\ngyvena. Ant baltų sienos šonų matyti kraujo \nženklai, \nkuriais aptaškė ten pat žuvęs rusų \nkareivis, sudraskytas į šmotukus vokiečių di­\ndžiosios granatos."
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-213500
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 45"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 45."
+  citata_originali: |
+    Tuomet ir Kauno inteli­
+    gentai įsitikrino, kad ištikro atvažiuota delega­
+    tų iš Amerikos, bet ne iš Suvalkų gubernijos.
+    Kauno mieste nepadaryta didelių eibių.
+    Garalevyčiaus namai ant Nemuno kranto, ku­
+    rie,
+    anok kauniškių pasakojimo, gana smar­
+    kiai nukentėjo nuog vokiečių granatų, mums
+    atvažiavus Kaunan jau buvo pataisyti.
+  citata_rodoma: "Tuomet ir Kauno inteli­\ngentai įsitikrino, kad ištikro atvažiuota delega­\ntų iš Amerikos, bet ne iš Suvalkų gubernijos.\nKauno mieste nepadaryta didelių eibių. \nGaralevyčiaus namai ant Nemuno kranto, ku­\nrie, \nanok kauniškių pasakojimo, gana smar­\nkiai nukentėjo nuog vokiečių granatų, mums \natvažiavus Kaunan jau buvo pataisyti."
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 

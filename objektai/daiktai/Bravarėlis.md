@@ -86,6 +86,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177724
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -99,9 +100,11 @@ Nenurodyta
     lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
   citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos\nlugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -12,10 +12,10 @@ datos:
   - '1952 m.'
 date_start: '1952'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Galvydžiai","Galvydžiai (vieta)"]
 sameAs: []
 canonical_biography: "1952 m. rugpjūtį agentas „Ramojus“ paskyrė susitikimą su A. Buroku Galvydžių kaime, Anykščių rajone."
+place_authority: true
+historical_names: []
 ---
 # Galvydžiai (vieta)
 
@@ -42,14 +44,13 @@ canonical_biography: "1952 m. rugpjūtį agentas „Ramojus“ paskyrė susitiki
 
 Agentas „Ramojus“, buvęs partizanas B. Kalytis-Siaubas, nurodė A. Burokui kitą susitikimo vietą Galvydžių kaime, Anykščių rajone, ir susitikimo datą – 1952 m. rugpjūčio 13–15 d.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Agentas „Ramojus“, buvęs partizanas B. Kalytis-Siaubas, nurodė A. Burokui kitą susitikimo vietą Galvydžių kaime, Anykščių rajone, ir susitikimo datą – 1952 m. rugpjūčio 13–15 d.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214637
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 422"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 422."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

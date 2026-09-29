@@ -40,23 +40,57 @@ canonical_biography: "1947 m. gruodžio 24–25 d. Jonas Tamošiūnas-Trockis bu
 
 Jonas Tamošiūnas-Trockis 1947 m. gruodžio 24–25 d. naktį buvo sunkiai sužeistas ir suimtas Jono Kuliuko namuose per operaciją, o vėliau mirė Panevėžio kalėjime. Jonas Tamošiūnas-Trockis, Alekso sūnus, 1922 m. gimęs partizanas, buvo suimtas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Jonas Tamošiūnas-Trockis 1947 m. gruodžio 24–25 d. naktį buvo sunkiai sužeistas ir suimtas Jono Kuliuko namuose per operaciją, o vėliau mirė Panevėžio kalėjime.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231854"></a>
+- t-001
+  teiginys: "Jonas Tamošiūnas-Trockis 1947 m. gruodžio 24–25 d. naktį buvo sunkiai sužeistas ir suimtas Jono Kuliuko namuose per operaciją, o vėliau mirė Panevėžio kalėjime."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
+  pagrindžia:
+    - c-212492
+
+<a id="claim-t-231855"></a>
+- t-002
+  teiginys: "Jonas Tamošiūnas-Trockis, Alekso sūnus, 1922 m. gimęs partizanas, buvo suimtas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
+  pagrindžia:
+    - c-212493
+
+## Citatos
+
+- id: c-212492
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 253"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 253."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Jonas Tamošiūnas-Trockis, Alekso sūnus, 1922 m. gimęs partizanas, buvo suimtas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+
+- id: c-212493
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 275"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 275."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-002
+

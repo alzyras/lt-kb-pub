@@ -74,5 +74,6 @@ M. Bielskio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, pažįstam�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -77,9 +77,11 @@ Kliausis, lg.
     grössten Konfliktes , Breslau 1 21924.
   citata_rodoma: "—\nKliausis, lg. : Die Kircheupolitik in Litauen unter Jogaila und Vytautas\n( 1377-1421 ), Diss. Graz 1929, mašinr. VII + 117 p.). — Krasauskas,\nR. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

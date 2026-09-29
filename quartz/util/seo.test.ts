@@ -3,10 +3,27 @@ import test from "node:test"
 import { isPoorSeoPage, pageStructuredData, seoDescription, seoTitle, seoImageUrl } from "./seo"
 
 test("explicit B SEO titles remain complete when the site suffix would truncate them", () => {
-  for (const title of ["Valančius ir blaivybė: kaip keitėsi kaimas", "Valančiaus blaivybės sąjūdis: skaitmeninė paroda"]) {
-    assert.equal(seoTitle({seoTitle: title, title: "Ilgoji redakcinė antraštė"}, "Lietuvos istorija", " – Lietuvos istorija"), title)
+  for (const title of [
+    "Valančius ir blaivybė: kaip keitėsi kaimas",
+    "Valančiaus blaivybės sąjūdis: skaitmeninė paroda",
+  ]) {
+    assert.equal(
+      seoTitle(
+        { seoTitle: title, title: "Ilgoji redakcinė antraštė" },
+        "Lietuvos istorija",
+        " – Lietuvos istorija",
+      ),
+      title,
+    )
   }
-  assert.match(seoTitle({title: "Labai ilga ankstesnio puslapio antraštė, kuriai paliekamas senas elgesys"}, "Lietuvos istorija", " – Lietuvos istorija"), /… – Lietuvos istorija$/)
+  assert.match(
+    seoTitle(
+      { title: "Labai ilga ankstesnio puslapio antraštė, kuriai paliekamas senas elgesys" },
+      "Lietuvos istorija",
+      " – Lietuvos istorija",
+    ),
+    /… – Lietuvos istorija$/,
+  )
 })
 
 test("social and structured-data image URLs are absolute for local media", () => {
@@ -49,7 +66,10 @@ test("editorial articles have one Article with organization author and real date
   const articles = data["@graph"].filter((e: any) => e["@type"] === "Article")
   assert.equal(articles.length, 1)
   assert.equal(articles[0].author["@type"], "Organization")
+  assert.equal(articles[0].author.name, "Lietuvos istorijos žinių lobynas")
+  assert.equal(articles[0].publisher["@id"], "https://example.com/#organization")
   assert.equal(articles[0].datePublished, "2026-09-13")
+  assert.equal(articles[0].dateModified, "2026-09-13")
   assert.equal(articles[0].image, "https://example.com/a.jpg")
 })
 

@@ -7,10 +7,10 @@ datos:
   - '1945 m.'
 date_start: '1945'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Atkočiškių kaimas"]
 sameAs: []
 canonical_biography: "1945 m. gegužę partizanai vyko į Atkočiškių kaimą, Viešintų valsčiuje, kur, pagal pranešimą, pas ūkininką Joną Čerkauską buvo du stribai."
+place_authority: true
+historical_names: []
 ---
 # Atkočiškių kaimas
 
@@ -37,14 +39,13 @@ canonical_biography: "1945 m. gegužę partizanai vyko į Atkočiškių kaimą, 
 
 Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikiama, kad Petras Masilionis-Napoleonas pranešė apie du stribus pas Joną Čerkauską Atkočiškių kaime, o penki partizanai nuėjo į kaimą.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikiama, kad Petras Masilionis-Napoleonas pranešė apie du stribus pas Joną Čerkauską Atkočiškių kaime, o penki partizanai nuėjo į kaimą.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214567
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 61"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 61."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

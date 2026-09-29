@@ -82,5 +82,6 @@ Mecklenburgas priskiriamas avių ir galvijų auginimo regionui pagal vyraujantį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

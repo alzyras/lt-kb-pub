@@ -120,5 +120,6 @@ Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėji
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

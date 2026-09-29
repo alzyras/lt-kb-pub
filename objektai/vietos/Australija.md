@@ -104,7 +104,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166977
@@ -122,7 +122,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

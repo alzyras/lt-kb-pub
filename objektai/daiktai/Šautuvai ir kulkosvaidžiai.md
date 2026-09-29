@@ -7,10 +7,10 @@ datos:
   - '1944 m.'
 date_start: '1944'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Tėvynės apsaugos būrio 50–60 narių buvo ginkluoti šautuvais ir turėjo 3 kulkosvaidžius. Partizanai paėmė šautuvus ir pasislėpė.
+Tėvynės apsaugos būrio 50–60 narių buvo ginkluoti šautuvais ir turėjo 3 kulkosvaidžius.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -46,25 +46,20 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
+Nenurodyta
 
-- c-001
-  santrauka: 'Tėvynės apsaugos būrio 50–60 narių buvo ginkluoti šautuvais ir turėjo 3 kulkosvaidžius.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 81"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Partizanai paėmė šautuvus ir pasislėpė.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 87"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Santrauka
 
-Tėvynės apsaugos būrio 50–60 narių buvo ginkluoti šautuvais ir turėjo 3 kulkosvaidžius. Partizanai paėmė šautuvus ir pasislėpė.
+Tėvynės apsaugos būrio 50–60 narių buvo ginkluoti šautuvais ir turėjo 3 kulkosvaidžius.
+
+## Citatos
+
+- id: c-213581
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 87"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 87."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 17:39"
+

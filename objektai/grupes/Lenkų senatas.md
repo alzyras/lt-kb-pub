@@ -168,7 +168,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -196,7 +196,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168791
@@ -227,7 +227,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168792
@@ -267,7 +267,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-178528
@@ -294,7 +294,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 ## Ryšiai

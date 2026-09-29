@@ -42,29 +42,6 @@ canonical_biography: "Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus S
 
 Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemaitijoje.
 
-## Teiginiai
-
-<a id="claim-t-190211"></a>
-- t-001
-  teiginys: "Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemaitijoje."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sunus -> Glapiminas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sutinkąs: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Glapiminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Sutinką kaip Glapimino sūnų."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Sutinkąs buvo sūnus Glapiminas (0.96)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173094
-
 ## Citatos
 
 - id: c-173094
@@ -83,8 +60,6 @@ Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Glapiminas]]

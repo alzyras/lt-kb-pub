@@ -76,5 +76,6 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -430,7 +430,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-013
 
@@ -452,7 +452,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-012
 
@@ -473,7 +473,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-86302
@@ -492,7 +492,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-86304
@@ -515,7 +515,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-009
 
@@ -539,7 +539,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-86306
@@ -566,7 +566,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-86307
@@ -599,7 +599,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-010
     - t-011
@@ -620,7 +620,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-178839
@@ -647,7 +647,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-178840
@@ -675,7 +675,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-188386
@@ -694,7 +694,7 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-188387
@@ -711,8 +711,80 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
+
+- id: c-202188
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
+  citata_originali: |
+    Apie Junigedos pilies papilių sudeginimą
+    1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių,
+    nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti
+    tikėjimą ir tikinčiuosius, sutelkė visą savo kariuomenę, patraukė prie Junigedos pilies ir
+    ją smarkiai užpuolė. Daug žmonių išžudęs, pavertė pelenais du šios pilies papilius, vieną
+    — ant kalno, kitą — slėnyje.
+    253 (246).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202501
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
+  citata_originali: |
+    Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
+    1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
+    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
+    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į
+    Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
+    nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
+    244 (237).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205449
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 180-181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180-181."
+  citata_originali: |
+    Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
+
+       Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje  pilį533, kurią
+
+      531  Žr. D. III, 227.
+      532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
+    paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
+    Studya..., p. 38— 39). Dusburgietis, matyt, valsčiaus vardu vadinęs ir jo centrą, t. y.
+    Veliuoną (SZM, p. 215—216, 239—241), įsikūrusį deš. Nemuno krante prie Veliuonos
+    upelio.
+      533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
+    piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du
+    papiliai — ant kalno ir slėnyje (D. III, 252). Pirmajam priklausė į vakarus nuo Gedimino
+
+    pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
+    tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
+    stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link
+    Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
+    pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Konradas Štangė]]

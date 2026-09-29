@@ -85,5 +85,6 @@ Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

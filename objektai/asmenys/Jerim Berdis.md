@@ -69,7 +69,7 @@ canonical_biography: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

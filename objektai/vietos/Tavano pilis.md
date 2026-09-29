@@ -85,5 +85,6 @@ Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė mui
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

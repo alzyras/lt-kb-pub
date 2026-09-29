@@ -26,28 +26,6 @@ media_all_json: |-
 
 Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.
 
-## Teiginiai
-
-<a id="claim-t-190554"></a>
-- t-001
-  teiginys: "Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Paryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Paryžiaus akademijos „Užrašai“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Paryžius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paryžiaus akademijos „Užrašai“\" parinktas kaip owner_note_path. Targetas \"Paryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173437
-
 ## Citatos
 
 - id: c-173437
@@ -75,5 +53,4 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

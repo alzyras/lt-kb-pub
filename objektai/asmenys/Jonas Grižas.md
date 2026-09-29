@@ -31,17 +31,22 @@ canonical_biography: "Jonas Grižas-Beržas, gyvenęs Obonių kaime, buvo Antano
 
 Jonas Grižas-Beržas, gyvenęs Obonių kaime Šimonių valsčiuje, buvo A. Starkaus būrio partizanas ir sužeistas. Partizanai Joną Grižą rado mirusį bunkeryje ir palaidojo jo palaikus Obonių kaimo kapinėse.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Jonas Grižas-Beržas, gyvenęs Obonių kaime Šimonių valsčiuje, buvo A. Starkaus būrio partizanas ir sužeistas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
-  puslapiai: "PDF 273"
-  citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-231913"></a>
+- t-001
+  teiginys: "Jonas Grižas-Beržas, gyvenęs Obonių kaime Šimonių valsčiuje, buvo A. Starkaus būrio partizanas ir sužeistas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
+  pagrindžia:
+    - c-212551
+
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Partizanai Joną Grižą rado mirusį bunkeryje ir palaidojo jo palaikus Obonių kaimo kapinėse.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
@@ -51,3 +56,17 @@ Jonas Grižas-Beržas, gyvenęs Obonių kaime Šimonių valsčiuje, buvo A. Star
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-212551
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 273"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 273."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

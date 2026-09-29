@@ -42,29 +42,6 @@ canonical_biography: "Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės ba
 
 Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą.
 
-## Teiginiai
-
-<a id="claim-t-190218"></a>
-- t-001
-  teiginys: "Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Kuršas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vidmantas iš Kuršo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vardijimas „iš Kuršo“ tiesiogiai sieja Vidmantą su Kuršu kaip kilmės ar gyvenamąja vieta."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Vidmantas iš Kuršo gyveno Kuršas (0.70)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173101
-
 ## Citatos
 
 - id: c-173101
@@ -85,5 +62,4 @@ Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

@@ -31,14 +31,13 @@ canonical_biography: "Sudorinas buvo Kupiškio apskrities ūkio inspektorius lei
 
 1946 m. liepos 29 d. ūkio inspektorius leitenantas Sudorinas su stribų grupe Laukminiškių kaime teiravosi, kur yra MVD Kupiškio apskrities skyriaus darbuotojų nušienautos pievos.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1946 m. liepos 29 d. ūkio inspektorius leitenantas Sudorinas su stribų grupe Laukminiškių kaime teiravosi, kur yra MVD Kupiškio apskrities skyriaus darbuotojų nušienautos pievos.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213220
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 207"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 207."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

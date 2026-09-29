@@ -79,5 +79,6 @@ Plačiukas Ažytėnų gertuvės epizode atvyksta su svečiu gerti, sulaukia Kazi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

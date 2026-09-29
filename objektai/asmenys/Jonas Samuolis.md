@@ -8,12 +8,12 @@ datos:
   - '1950 m.'
 date_start: '1949'
 date_end: '1950'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,14 +40,13 @@ canonical_biography: "1949 m. kovo 9 d. Jono Samuolio sodyboje aptiktas bunkeris
 
 Jono Samuolio sodyboje rastą bunkerį kronika sieja su 1949 m. kovo 9 d. (byloje – 1950 m. kovu), o Jonas Samuolis ir Elžbieta Samuolienė įvardijami suimtais ryšininkais bei aktyviais partizanų rėmėjais.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'Jono Samuolio sodyboje rastą bunkerį kronika sieja su 1949 m. kovo 9 d. (byloje – 1950 m. kovu), o Jonas Samuolis ir Elžbieta Samuolienė įvardijami suimtais ryšininkais bei aktyviais partizanų rėmėjais.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-213086
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 254"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 254."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:37"

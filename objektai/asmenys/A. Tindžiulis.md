@@ -31,14 +31,13 @@ canonical_biography: "Kronikos teigimu, Kupiškio krašte veikęs partizanų jun
 
 A. Tindžiulis, Kupiškio krašte savarankiškai veikęs partizanų junginio vadas, esant būtinoms aplinkybėms leido partizanams legalizuotis, bet draudė atiduoti ginklus.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: 'A. Tindžiulis, Kupiškio krašte savarankiškai veikęs partizanų junginio vadas, esant būtinoms aplinkybėms leido partizanams legalizuotis, bet draudė atiduoti ginklus.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-212853
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 20"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 20."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:36"

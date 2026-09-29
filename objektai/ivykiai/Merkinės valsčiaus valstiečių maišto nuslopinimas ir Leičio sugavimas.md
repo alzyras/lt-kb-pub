@@ -72,5 +72,6 @@ Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta tymais garantuoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

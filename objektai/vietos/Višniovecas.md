@@ -84,5 +84,6 @@ Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

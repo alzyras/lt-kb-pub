@@ -58,7 +58,8 @@ export function ObjectPageShell({
   )
   const media = objectMediaSet(fm as any)
   const view = objectPageViewModel(fm, evidence, { gallery: media.all.length })
-  view.counts.sources = objectBibliography(props.allFiles, evidence).length
+  view.counts.sources =
+    objectBibliography(props.allFiles, evidence).length + (evidence.authoredSources?.length ?? 0)
   const graphSlug = graphSlugForPageData(file as any, slug)
   const relations = objectRelationInputs(
     fm,

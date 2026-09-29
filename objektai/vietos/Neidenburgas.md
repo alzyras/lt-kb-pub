@@ -83,5 +83,6 @@ Kitame žygyje iš Neidenburgo Kęstutis parsigabeno 800 vyrų, kurie, anot Wiga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

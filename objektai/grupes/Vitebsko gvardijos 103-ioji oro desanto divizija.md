@@ -78,7 +78,7 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

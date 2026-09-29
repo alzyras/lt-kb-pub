@@ -223,6 +223,52 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   pagrindžia:
     - c-186614
 
+<a id="claim-t-186361"></a>
+- t-186361
+  teiginys: "Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą."
+  atnaujinta: "2026-09-19 15:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Radvila: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169716
+    - c-178767
+
+<a id="claim-t-196561"></a>
+- t-196561
+  teiginys: "Mikalojus Radvila, vykdydamas įsakymą, sutelkė Lietuvos žemėse kariuomenę ir patraukė su Jerim Berdžiu į skitų kraštą."
+  atnaujinta: "2026-09-19 15:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169716
+
+<a id="claim-t-208001"></a>
+- t-208001
+  teiginys: "Mikalojus Radvila 1515 m. dalyvavo Vienos kongrese Žygimanto Senojo delegacijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1515 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą bei tiksliai nusako Mikalojaus Radvilos dalyvavimą 1515 m. Vienos kongrese."
+  pagrindžia:
+    - c-190617
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Mikalojus Radvila smogė priešams į sparną ir nulėmė mūšio sėkmę.'
@@ -279,7 +325,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-169713
@@ -306,7 +352,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-169715
@@ -331,7 +377,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-169716
@@ -353,8 +399,10 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+    - t-186361
+    - t-196561
 
 - id: c-169718
   autorius: "Michał Baliński"
@@ -376,7 +424,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169719
@@ -409,7 +457,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-178767
@@ -435,8 +483,9 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+    - t-186361
 
 - id: c-178768
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -461,7 +510,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-184884
@@ -480,7 +529,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-186614
@@ -500,8 +549,31 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-190617
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 194"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 194."
+  citata_originali: |
+    Vienas pirmųjų ryškių Lietuvos Didžiosios Kunigaikštystės diplomatinio aktyvu-
+    mo Imperijoje žingsnių buvo jos atstovų pasirodymas tarptautiniame Vienos kongrese
+    1515 m.
+    17 Į kongresą valdovo Žygimanto Senojo delegacijos sudėtyje atvyko Lietuvos
+    Didžiosios Kunigaikštystės kancleris ir Vilniaus vaivada Mikalojus Radvila ir Stanis-
+    lovas Goštautas. Jie turėjo Ponų Tarybos diplomatinę užduotį - pasistengti sugadinti
+    imperatoriaus Maksimiljano I ir Maskvos didžiojo kunigaikščio Vasilijaus III santykius,
+    jų raidą pakreipti savo valstybei, kariavusiai su Maskva, palankia kryptimi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208001
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Malūnas]]

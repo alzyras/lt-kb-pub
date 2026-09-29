@@ -79,5 +79,6 @@ Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

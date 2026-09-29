@@ -7,10 +7,10 @@ datos:
   - '1947 m.'
 date_start: '1947'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Kuosenų kaimas"]
 sameAs: []
 canonical_biography: "Mirabelio miškas, kuriame 1947 m. gruodžio 25 d. žuvo Aleksas Daukas-Onytė, buvo netoli Kuosenų kaimo."
+place_authority: true
+historical_names: []
 ---
 # Kuosenų kaimas
 
@@ -37,14 +39,13 @@ canonical_biography: "Mirabelio miškas, kuriame 1947 m. gruodžio 25 d. žuvo A
 
 1947 m. gruodžio 25 d. Mirabelio miške netoli Kuosenų kaimo žuvo Aleksas Daukas-Onytė, o Jonas Tamošiūnas-Trockis buvo suimtas.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  santrauka: '1947 m. gruodžio 25 d. Mirabelio miške netoli Kuosenų kaimo žuvo Aleksas Daukas-Onytė, o Jonas Tamošiūnas-Trockis buvo suimtas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+- id: c-214711
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 286"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 286."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  atnaujinta: "2026-09-28 17:44"

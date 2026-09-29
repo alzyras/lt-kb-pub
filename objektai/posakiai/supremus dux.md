@@ -71,5 +71,6 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

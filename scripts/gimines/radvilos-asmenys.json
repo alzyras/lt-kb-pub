@@ -1,0 +1,776 @@
+{
+  "family": "Radvilos",
+  "scope": "Šaltiniais pagrįstos istorinės biografijos ir giminystės ryšiai; vardų sutapimai nėra automatinis tapatybės įrodymas.",
+  "articleSlug": "radvilos-gimine-valdos-ir-paveldas",
+  "people": [
+    {
+      "name": "Mikalojus Radvila Senasis",
+      "notePath": "objektai/asmenys/Mikalojus Radvila Senasis.md",
+      "dates": "mirė 1509 m.",
+      "bio": "Mikalojus buvo Radvilos Astikaičio sūnus. Ėjo Vilniaus vaivados ir LDK kanclerio pareigas. Su Sofija Manvydaite susilaukė sūnų Mikalojaus, Jono, Jurgio ir Vaitiekaus. Iš jų palikuonių išaugo atskiros Radvilų šakos.",
+      "sources": [
+        {
+          "title": "VLE: Mikalojus Radvila Senasis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-radvila-senasis/"
+        }
+      ],
+      "related": [
+        "Sofija Manvydaitė Radvilienė",
+        "Jonas Radvila (1474-1522)"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Jonas Radvila (1474-1522)",
+      "notePath": "objektai/asmenys/Jonas Radvila (1474-1522).md",
+      "dates": "1474–1522",
+      "bio": "Jonas buvo Mikalojaus Radvilos Senojo ir Sofijos Manvydaitės sūnus. Vedęs Oną Kiškaitę gavo Nesvyžių ir Olyką. Jo sūnus Mikalojus Juodasis tapo vienu įtakingiausių XVI a. Lietuvos didikų.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Radvila (1474-1522)",
+          "url": "https://www.vle.lt/straipsnis/jonas-radvila/"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Senasis",
+        "Sofija Manvydaitė Radvilienė",
+        "Mikalojus Radvila Juodasis",
+        "Ona Kiškaitė (Jono Radvilos žmona)"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Ona Kiškaitė (Jono Radvilos žmona)",
+      "notePath": "objektai/asmenys/Ona Kiškaitė (Jono Radvilos žmona).md",
+      "dates": "XVI a.",
+      "bio": "Ona, Stanislovo Kiškos duktė, 1513 m. tapo antrąja Jono Radvilos žmona. Jos kraitis apėmė Nesvyžių ir Olyką. Buvo Mikalojaus Radvilos Juodojo motina.",
+      "sources": [
+        {
+          "title": "VLE: Ona Kiškaitė (Jono Radvilos žmona)",
+          "url": "https://www.vle.lt/straipsnis/jonas-radvila/"
+        }
+      ],
+      "related": [
+        "Jonas Radvila (1474-1522)",
+        "Mikalojus Radvila Juodasis"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Elžbieta Goštautaitė (Jono Radvilos žmona)",
+      "notePath": "objektai/asmenys/Elžbieta Goštautaitė (Jono Radvilos žmona).md",
+      "dates": "XV–XVI a.",
+      "bio": "Elžbieta, Martyno Goštauto duktė, buvo pirmoji Jono Radvilos žmona. VLE Jono biografijoje ši santuoka nurodoma kaip bevaikė.",
+      "sources": [
+        {
+          "title": "VLE: Elžbieta Goštautaitė (Jono Radvilos žmona)",
+          "url": "https://www.vle.lt/straipsnis/jonas-radvila/"
+        }
+      ],
+      "related": [
+        "Jonas Radvila (1474-1522)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jurgis Radvila (1480–1541)",
+      "notePath": "objektai/asmenys/Jurgis Radvila (1480–1541).md",
+      "dates": "1480–1541",
+      "bio": "Jurgis Radvila vadovavo Lietuvos kariuomenei, ėjo didžiojo etmono pareigas. Jo vaikai buvo etmonas Mikalojus Rudasis ir karalienė Barbora Radvilaitė. Šis Jurgis gyveno anksčiau už bendravardį kardinolą.",
+      "sources": [
+        {
+          "title": "VLE: Jurgis Radvila (1480–1541)",
+          "url": "https://www.vle.lt/straipsnis/jurgis-radvila/"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Senasis",
+        "Barbora Kiškaitė (Jurgio Radvilos žmona)",
+        "Mikalojus Radvila Rudasis",
+        "Barbora Radvilaitė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Barbora Kiškaitė (Jurgio Radvilos žmona)",
+      "notePath": "objektai/asmenys/Barbora Kiškaitė (Jurgio Radvilos žmona).md",
+      "dates": "XVI a.",
+      "bio": "Stanislovo Kiškos duktė Barbora buvo Jurgio Radvilos žmona. Jos nereikia painioti su Barbora Kolanka, karalienės Barboros Radvilaitės motina.",
+      "sources": [
+        {
+          "title": "VLE: Barbora Kiškaitė (Jurgio Radvilos žmona)",
+          "url": "https://www.vle.lt/straipsnis/jurgis-radvila/"
+        },
+        {
+          "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, p. 8–9",
+          "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+        }
+      ],
+      "related": [
+        "Jurgis Radvila (1480–1541)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jurgis Radvila (1556–1600)",
+      "notePath": "objektai/asmenys/Jurgis Radvila (1556–1600).md",
+      "dates": "1556–1600",
+      "bio": "Mikalojaus Radvilos Juodojo sūnus Jurgis tapo Vilniaus, vėliau Krokuvos vyskupu. 1582 m. Vilniuje įsteigė kunigų seminariją, o 1583 m. buvo paskirtas kardinolu. Jį reikia skirti nuo XVI a. pirmosios pusės etmono Jurgio Radvilos.",
+      "sources": [
+        {
+          "title": "VLE: Jurgis Radvila (1556–1600)",
+          "url": "https://www.vle.lt/straipsnis/jurgis-radvila-1/"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Juodasis",
+        "Mikalojus Kristupas Radvila-Našlaitėlis"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Albrechtas Radvila (1558–1592)",
+      "notePath": "objektai/asmenys/Albrechtas Radvila (1558–1592).md",
+      "dates": "1558–1592",
+      "bio": "Mikalojaus Radvilos Juodojo sūnus, pirmasis Klecko ordinatas ir LDK didysis maršalka.",
+      "sources": [
+        {
+          "title": "VLE: Albrechtas Radvila (1558–1592)",
+          "url": "https://www.vle.lt/straipsnis/radvilos/"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Juodasis",
+        "Jurgis Radvila (1556–1600)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Stanislovas Radvila Pamaldusis (1559–1599)",
+      "notePath": "objektai/asmenys/Stanislovas Radvila Pamaldusis (1559–1599).md",
+      "dates": "1559–1599",
+      "bio": "Mikalojaus Radvilos Juodojo sūnus, LDK didysis maršalka ir Žemaitijos seniūnas.",
+      "sources": [
+        {
+          "title": "VLE: Stanislovas Radvila Pamaldusis (1559–1599)",
+          "url": "https://www.vle.lt/straipsnis/radvilos/"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Juodasis",
+        "Albrechtas Stanislovas Radvila"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Zigmantas Karolis Radvila (1591–1642)",
+      "notePath": "objektai/asmenys/Zigmantas Karolis Radvila (1591–1642).md",
+      "dates": "1591–1642",
+      "bio": "Mikalojaus Kristupo Radvilos Našlaitėlio sūnus. Priklausė Maltos ordinui, tapo Naugarduko vaivada.",
+      "sources": [
+        {
+          "title": "VLE: Zigmantas Karolis Radvila (1591–1642)",
+          "url": "https://www.vle.lt/straipsnis/radvilos/"
+        }
+      ],
+      "related": [
+        "Mikalojus Kristupas Radvila-Našlaitėlis"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Albrechtas Stanislovas Radvila",
+      "notePath": "objektai/asmenys/Albrechtas Stanislovas Radvila.md",
+      "dates": "1593–1656",
+      "bio": "Stanislovo Radvilos Pamaldžiojo sūnus Albrechtas Stanislovas nuo 1623 m. buvo LDK kancleris. Rašė politinius ir religinius veikalus, paliko atsiminimus apie valstybės gyvenimą. Jo rezidencija buvo Olykoje.",
+      "sources": [
+        {
+          "title": "VLE: Albrechtas Stanislovas Radvila",
+          "url": "https://www.vle.lt/straipsnis/albrechtas-albertas-stanislovas-radvila/"
+        }
+      ],
+      "related": [
+        "Stanislovas Radvila Pamaldusis (1559–1599)"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Aleksandras Liudvikas Radvila (1594–1654)",
+      "notePath": "objektai/asmenys/Aleksandras Liudvikas Radvila (1594–1654).md",
+      "dates": "1594–1654",
+      "bio": "Našlaitėlio sūnus Aleksandras Liudvikas 1636 m. tapo Nesvyžiaus ordinatu. Nuo 1637 m. ėjo LDK didžiojo maršalkos pareigas. Jo ir Teklės Valavičiūtės sūnus buvo Mykolas Kazimieras, miręs 1680 metais.",
+      "sources": [
+        {
+          "title": "VLE: Aleksandras Liudvikas Radvila (1594–1654)",
+          "url": "https://www.vle.lt/straipsnis/aleksandras-liudvikas-radvila/"
+        }
+      ],
+      "related": [
+        "Mikalojus Kristupas Radvila-Našlaitėlis",
+        "Mykolas Kazimieras Radvila (mirė 1680 m.)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Mykolas Kazimieras Radvila (mirė 1680 m.)",
+      "notePath": "objektai/asmenys/Mykolas Kazimieras Radvila (mirė 1680 m.).md",
+      "dates": "1625 arba 1635–1680",
+      "bio": "Aleksandro Liudviko Radvilos ir Teklės Valavičiūtės sūnus ėjo LDK pakanclerio ir lauko etmono pareigas. Vedė Kotryną Sobieskytę, Jono Sobieskio seserį. Gimimo metus VLE pateikia dvejopai: 1635 arba 1625. Tai XVII a. pareigūnas, ne XVIII a. gyvenęs Žuvelė.",
+      "sources": [
+        {
+          "title": "VLE: Mykolas Kazimieras Radvila (mirė 1680 m.)",
+          "url": "https://www.vle.lt/straipsnis/mykolas-kazimieras-radvila/"
+        }
+      ],
+      "related": [
+        "Aleksandras Liudvikas Radvila (1594–1654)",
+        "Teklė Valavičiūtė (Aleksandro Liudviko Radvilos žmona)",
+        "Kotryna Sobieskytė",
+        "Karolis Stanislovas Radvila (1669–1719)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Teklė Valavičiūtė (Aleksandro Liudviko Radvilos žmona)",
+      "notePath": "objektai/asmenys/Teklė Valavičiūtė (Aleksandro Liudviko Radvilos žmona).md",
+      "dates": "XVII a.",
+      "bio": "Teklė Valavičiūtė buvo Aleksandro Liudviko Radvilos žmona ir Mykolo Kazimiero Radvilos, mirusio 1680 m., motina.",
+      "sources": [
+        {
+          "title": "VLE: Teklė Valavičiūtė (Aleksandro Liudviko Radvilos žmona)",
+          "url": "https://www.vle.lt/straipsnis/mykolas-kazimieras-radvila/"
+        }
+      ],
+      "related": [
+        "Aleksandras Liudvikas Radvila (1594–1654)",
+        "Mykolas Kazimieras Radvila (mirė 1680 m.)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Kotryna Sobieskytė",
+      "notePath": "objektai/asmenys/Kotryna Sobieskytė.md",
+      "dates": "XVII a.",
+      "bio": "Kotryna Sobieskytė, būsimojo karaliaus Jono Sobieskio sesuo, buvo Mykolo Kazimiero Radvilos žmona. Jų sūnus Karolis Stanislovas tapo LDK kancleriu.",
+      "sources": [
+        {
+          "title": "VLE: Kotryna Sobieskytė",
+          "url": "https://www.vle.lt/straipsnis/mykolas-kazimieras-radvila/"
+        }
+      ],
+      "related": [
+        "Mykolas Kazimieras Radvila (mirė 1680 m.)",
+        "Karolis Stanislovas Radvila (1669–1719)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Karolis Stanislovas Radvila (1669–1719)",
+      "notePath": "objektai/asmenys/Karolis Stanislovas Radvila (1669–1719).md",
+      "dates": "1669–1719",
+      "bio": "Karolis Stanislovas buvo Mykolo Kazimiero Radvilos ir Kotrynos Sobieskytės sūnus. Nuo 1699 m. ėjo LDK kanclerio pareigas. Su Ona Kotryna Sanguškaite susilaukė Mykolo Kazimiero Žuvelės ir Jeronimo Florijono. Jo nereikia painioti su XVIII a. antroje pusėje gyvenusiu Karoliu Stanislovu, vadintu „Panie Kochanku“.",
+      "sources": [
+        {
+          "title": "VLE: Karolis Stanislovas Radvila (1669–1719)",
+          "url": "https://www.vle.lt/straipsnis/karolis-stanislovas-radvila/"
+        }
+      ],
+      "related": [
+        "Mykolas Kazimieras Radvila (mirė 1680 m.)",
+        "Kotryna Sobieskytė",
+        "Ona Kotryna Sanguškaitė",
+        "Jeronimas Florijonas Radvila",
+        "Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)",
+        "Karolina Teresė Radvilaitė (1707–1765)",
+        "Konstancija Radvilaitė (Jono Frydricho Sapiegos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Ona Kotryna Sanguškaitė",
+      "notePath": "objektai/asmenys/Ona Kotryna Sanguškaitė.md",
+      "dates": "XVII–XVIII a.",
+      "bio": "Ona Kotryna Sanguškaitė buvo kanclerio Karolio Stanislovo Radvilos žmona. Palenkės Bialoje plėtojo manufaktūrą, kurioje gaminti stiklo ir keramikos dirbiniai, austi gobelenai bei juostos.",
+      "sources": [
+        {
+          "title": "VLE: Ona Kotryna Sanguškaitė",
+          "url": "https://www.vle.lt/straipsnis/karolis-stanislovas-radvila/"
+        }
+      ],
+      "related": [
+        "Karolis Stanislovas Radvila (1669–1719)",
+        "Jeronimas Florijonas Radvila",
+        "Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Pranciška Uršulė Radvilienė (1705–1753)",
+      "notePath": "objektai/asmenys/Pranciška Uršulė Radvilienė (1705–1753).md",
+      "dates": "1705–1753",
+      "bio": "Pranciška Uršulė, kilusi iš Višnioveckių, rašė pjeses Nesvyžiaus teatrui. Jos kūriniai buvo vaidinami šeimos dvare, kuriame scenos menas tapo kasdienio gyvenimo dalimi. Ji buvo Mykolo Kazimiero Radvilos Žuvelės žmona ir Karolio Stanislovo Radvilos motina.",
+      "sources": [
+        {
+          "title": "VLE: Pranciška Uršulė Radvilienė (1705–1753)",
+          "url": "https://www.vle.lt/straipsnis/pranciska-ursule-radviliene/"
+        }
+      ],
+      "related": [
+        "Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)",
+        "Karolis Stanislovas Radvila"
+      ],
+      "aliases": [
+        "Pranciška Uršulė Višnioveckaitė"
+      ]
+    },
+    {
+      "name": "Jonušas Radvila (1579-1620)",
+      "notePath": "objektai/asmenys/Jonušas Radvila (1579-1620).md",
+      "dates": "1579–1620",
+      "bio": "Perkūno sūnus Jonušas kariavo Livonijoje, vėliau dalyvavo maište prieš Zigmantą Vazą. Pirmoji jo žmona buvo Sofija Olelkaitė, antroji – Elžbieta Sofija Hohencolernaitė. Iš antrosios santuokos gimė Boguslavas.",
+      "sources": [
+        {
+          "title": "VLE: Jonušas Radvila (1579-1620)",
+          "url": "https://www.vle.lt/straipsnis/jonusas-radvila/"
+        }
+      ],
+      "related": [
+        "Kristupas Radvila Perkūnas",
+        "Boguslavas Radvila",
+        "Sofija Olelkaitė (Jonušo Radvilos žmona)",
+        "Elžbieta Sofija Hohencolernaitė"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Sofija Olelkaitė (Jonušo Radvilos žmona)",
+      "notePath": "objektai/asmenys/Sofija Olelkaitė (Jonušo Radvilos žmona).md",
+      "dates": "mirė 1612 m.",
+      "bio": "Sofija buvo Slucko ir Kapyliaus kunigaikštytė. 1600 m. ištekėjo už Jonušo Radvilos. Su šia santuoka Radvilų valdos pasipildė Olelkaičių žemėmis.",
+      "sources": [
+        {
+          "title": "VLE: Sofija Olelkaitė (Jonušo Radvilos žmona)",
+          "url": "https://www.vle.lt/straipsnis/jonusas-radvila/"
+        }
+      ],
+      "related": [
+        "Jonušas Radvila (1579-1620)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Elžbieta Sofija Hohencolernaitė",
+      "notePath": "objektai/asmenys/Elžbieta Sofija Hohencolernaitė.md",
+      "dates": "XVII a.",
+      "bio": "Brandenburgo kurfiursto Johanno Georgo duktė Elžbieta Sofija 1613 m. tapo antrąja Jonušo Radvilos žmona. Jų sūnus buvo Boguslavas Radvila.",
+      "sources": [
+        {
+          "title": "VLE: Elžbieta Sofija Hohencolernaitė",
+          "url": "https://www.vle.lt/straipsnis/jonusas-radvila/"
+        }
+      ],
+      "related": [
+        "Jonušas Radvila (1579-1620)",
+        "Boguslavas Radvila"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Boguslavas Radvila",
+      "notePath": "objektai/asmenys/Boguslavas Radvila.md",
+      "dates": "1620–1669",
+      "bio": "Boguslavas buvo Jonušo Radvilos ir Elžbietos Sofijos Hohencolernaitės sūnus. Veikė ATR ir Prūsijos politikoje, paliko autobiografinį pasakojimą. Vedė Oną Mariją Radvilaitę; jų duktė buvo Liudvika Karolina.",
+      "sources": [
+        {
+          "title": "VLE: Boguslavas Radvila",
+          "url": "https://www.vle.lt/straipsnis/boguslavas-radvila/"
+        },
+        {
+          "title": "VLE: Liudvika Karolina Radvilaitė (tėvai)",
+          "url": "https://www.vle.lt/straipsnis/liudvika-karolina-radvilaite/"
+        }
+      ],
+      "related": [
+        "Jonušas Radvila (1579-1620)",
+        "Elžbieta Sofija Hohencolernaitė",
+        "Ona Marija Radvilaitė (Boguslavo Radvilos žmona)",
+        "Liudvika Karolina Radvilaitė"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Jonušas Radvila (1612-1655)",
+      "notePath": "objektai/asmenys/Jonušas Radvila (1612-1655).md",
+      "dates": "1612–1655",
+      "bio": "Kristupo II Radvilos ir Onos Kiškaitės sūnus Jonušas tapo Lietuvos didžiuoju etmonu. Globojo evangelikų reformatų mokyklą ir spaustuvę Kėdainiuose. 1655 m. buvo vienas Kėdainių sutarties su Švedija iniciatorių.",
+      "sources": [
+        {
+          "title": "VLE: Jonušas Radvila (1612-1655)",
+          "url": "https://www.vle.lt/straipsnis/jonusas-radvila-1/"
+        }
+      ],
+      "related": [
+        "Kristupas II Radvila",
+        "Ona Marija Radvilaitė (Boguslavo Radvilos žmona)",
+        "Kotryna Potockytė (Jonušo Radvilos žmona)"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Kotryna Potockytė (Jonušo Radvilos žmona)",
+      "notePath": "objektai/asmenys/Kotryna Potockytė (Jonušo Radvilos žmona).md",
+      "dates": "mirė 1645 m.",
+      "bio": "Kotryna Potockytė buvo pirmoji Jonušo Radvilos, gyvenusio 1612–1655 m., žmona. Jų duktė Ona Marija vėliau ištekėjo už Boguslavo Radvilos.",
+      "sources": [
+        {
+          "title": "VLE: Kotryna Potockytė (Jonušo Radvilos žmona)",
+          "url": "https://www.vle.lt/straipsnis/jonusas-radvila-1/"
+        }
+      ],
+      "related": [
+        "Jonušas Radvila (1612-1655)",
+        "Ona Marija Radvilaitė (Boguslavo Radvilos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Ona Marija Radvilaitė (Boguslavo Radvilos žmona)",
+      "notePath": "objektai/asmenys/Ona Marija Radvilaitė (Boguslavo Radvilos žmona).md",
+      "dates": "1640–1667",
+      "bio": "Jonušo Radvilos ir Kotrynos Potockytės duktė Ona Marija ištekėjo už Boguslavo Radvilos. Jų duktė buvo Liudvika Karolina.",
+      "sources": [
+        {
+          "title": "VLE: Ona Marija Radvilaitė (Boguslavo Radvilos žmona)",
+          "url": "https://www.vle.lt/straipsnis/boguslavas-radvila/"
+        },
+        {
+          "title": "VLE: Liudvika Karolina Radvilaitė (tėvai)",
+          "url": "https://www.vle.lt/straipsnis/liudvika-karolina-radvilaite/"
+        }
+      ],
+      "related": [
+        "Jonušas Radvila (1612-1655)",
+        "Kotryna Potockytė (Jonušo Radvilos žmona)",
+        "Boguslavas Radvila",
+        "Liudvika Karolina Radvilaitė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Liudvika Karolina Radvilaitė",
+      "notePath": "objektai/asmenys/Liudvika Karolina Radvilaitė.md",
+      "dates": "1667–1695",
+      "bio": "Boguslavo ir Onos Marijos duktė paveldėjo Biržų–Dubingių Radvilų valdas. Rėmė evangelikų reformatų švietimą ir lietuviškų knygų leidybą.",
+      "sources": [
+        {
+          "title": "VLE: Liudvika Karolina Radvilaitė",
+          "url": "https://www.vle.lt/straipsnis/liudvika-karolina-radvilaite/"
+        }
+      ],
+      "related": [
+        "Boguslavas Radvila",
+        "Ona Marija Radvilaitė (Boguslavo Radvilos žmona)"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Motiejus Radvila (1749–1800)",
+      "notePath": "objektai/asmenys/Motiejus Radvila (1749–1800).md",
+      "dates": "1749–1800",
+      "bio": "Motiejus Radvila kūrė muziką ir literatūros tekstus, ėjo Vilniaus kašteliono pareigas. Parašė libretą Jano Davido Hollando operai „Agotėlė“, 1784 m. pastatytai Nesvyžiuje.",
+      "sources": [
+        {
+          "title": "VLE: Motiejus Radvila (1749–1800)",
+          "url": "https://www.vle.lt/straipsnis/motiejus-radvila/"
+        }
+      ],
+      "related": [],
+      "aliases": []
+    },
+    {
+      "name": "Dominykas Jeronimas Radvila (1786–1813)",
+      "notePath": "objektai/asmenys/Dominykas Jeronimas Radvila (1786–1813).md",
+      "dates": "1786–1813",
+      "bio": "Dominykas Jeronimas, Jeronimo Vincento Radvilos ir Sofijos Dorotos Fryderikos von Thurn und Taxis sūnus, tarnavo Napoleono kariuomenėje. 1812 m. vadovavo ulonų pulkui, o kitais metais mirė nuo Hanau mūšyje patirtų sužeidimų.",
+      "sources": [
+        {
+          "title": "VLE: Dominykas Jeronimas Radvila (1786–1813)",
+          "url": "https://www.vle.lt/straipsnis/dominykas-jeronimas-radvila/"
+        },
+        {
+          "title": "Virgilijus Pugačiauskas, „Dominykas Jeronimas ir Antanas Henrikas Radvilos: gyvenimiškos dilemos“, 2020, p. 595–611 (santrauka)",
+          "url": "https://www.lituanistika.lt/content/109785"
+        }
+      ],
+      "related": [
+        "Jeronimas Vincentas Radvila (1759–1786)",
+        "Sofija Dorota Fryderika von Thurn und Taxis"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jeronimas Vincentas Radvila (1759–1786)",
+      "notePath": "objektai/asmenys/Jeronimas Vincentas Radvila (1759–1786).md",
+      "dates": "1759–1786",
+      "bio": "Jeronimas Vincentas buvo LDK didysis pakamaris ir Dominyko Jeronimo Radvilos tėvas. Jo žmona buvo Sofija Dorota Fryderika von Thurn und Taxis. Jis mirė netrukus po sūnaus gimimo.",
+      "sources": [
+        {
+          "title": "VLE: Jeronimas Vincentas Radvila (1759–1786)",
+          "url": "https://www.vle.lt/straipsnis/dominykas-jeronimas-radvila/"
+        },
+        {
+          "title": "Virgilijus Pugačiauskas, „Dominykas Jeronimas ir Antanas Henrikas Radvilos: gyvenimiškos dilemos“, 2020, p. 595–611 (santrauka)",
+          "url": "https://www.lituanistika.lt/content/109785"
+        }
+      ],
+      "related": [
+        "Dominykas Jeronimas Radvila (1786–1813)",
+        "Sofija Dorota Fryderika von Thurn und Taxis"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Sofija Dorota Fryderika von Thurn und Taxis",
+      "notePath": "objektai/asmenys/Sofija Dorota Fryderika von Thurn und Taxis.md",
+      "dates": "XVIII–XIX a.",
+      "bio": "Sofija Dorota Fryderika von Thurn und Taxis buvo Jeronimo Vincento Radvilos žmona ir Dominyko Jeronimo motina. Jos vaidmuo sūnaus auklėjimo bei globos ginčuose aptariamas Virgilijaus Pugačiausko tyrime.",
+      "sources": [
+        {
+          "title": "Virgilijus Pugačiauskas, „Dominykas Jeronimas ir Antanas Henrikas Radvilos: gyvenimiškos dilemos“, 2020, p. 595–611 (santrauka)",
+          "url": "https://www.lituanistika.lt/content/109785"
+        }
+      ],
+      "related": [
+        "Jeronimas Vincentas Radvila (1759–1786)",
+        "Dominykas Jeronimas Radvila (1786–1813)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Mykolas Jeronimas Radvila (1744-1831)",
+      "notePath": "objektai/asmenys/Mykolas Jeronimas Radvila (1744-1831).md",
+      "dates": "1744–1831",
+      "bio": "Mykolas Jeronimas buvo paskutinis Vilniaus vaivada. Su žmona Elena Pšezdzeckaite kaupė meno ir knygų rinkinius Nieboruve. Jo sūnūs Antanas Henrikas ir Mykolas Gedeonas pasirinko skirtingas politines bei karines karjeras.",
+      "sources": [
+        {
+          "title": "VLE: Mykolas Jeronimas Radvila (1744-1831)",
+          "url": "https://www.vle.lt/straipsnis/mykolas-jeronimas-radvila/"
+        }
+      ],
+      "related": [
+        "Elena Pšezdzeckaitė",
+        "Antanas Henrikas Radvila (1775–1833)",
+        "Mykolas Gedeonas Radvila (1778-1850)"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Elena Pšezdzeckaitė",
+      "notePath": "objektai/asmenys/Elena Pšezdzeckaitė.md",
+      "dates": "XVIII–XIX a.",
+      "bio": "Elena Pšezdzeckaitė, Mykolo Jeronimo Radvilos žmona, kūrė Arkadijos parką prie Nieboruvo. Su vyru kaupė meno kūrinius ir knygas.",
+      "sources": [
+        {
+          "title": "VLE: Elena Pšezdzeckaitė",
+          "url": "https://www.vle.lt/straipsnis/mykolas-jeronimas-radvila/"
+        }
+      ],
+      "related": [
+        "Mykolas Jeronimas Radvila (1744-1831)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Antanas Henrikas Radvila (1775–1833)",
+      "notePath": "objektai/asmenys/Antanas Henrikas Radvila (1775–1833).md",
+      "dates": "1775–1833",
+      "bio": "Antanas Henrikas Radvila buvo Prūsijos politikas ir kompozitorius. 1815–1833 m. ėjo Poznanės vietininko pareigas. Kūrė muziką Goethe’s „Faustui“, grojo violončele; jo aplinkoje lankėsi Europos muzikai ir rašytojai. Buvo Mykolo Jeronimo sūnus.",
+      "sources": [
+        {
+          "title": "VLE: Antanas Henrikas Radvila (1775–1833)",
+          "url": "https://www.vle.lt/straipsnis/antanas-henrikas-radvila/"
+        }
+      ],
+      "related": [
+        "Mykolas Jeronimas Radvila (1744-1831)",
+        "Mykolas Gedeonas Radvila (1778-1850)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Mykolas Gedeonas Radvila (1778-1850)",
+      "notePath": "objektai/asmenys/Mykolas Gedeonas Radvila (1778-1850).md",
+      "dates": "1778–1850",
+      "bio": "Mykolo Jeronimo sūnus Mykolas Gedeonas tarnavo Napoleono kariuomenėje. Per 1830–1831 m. sukilimą trumpai vadovavo Lenkijos sukilėlių kariuomenei. Numalšinus sukilimą buvo ištremtas į Jaroslavlį, 1836 m. grįžo į Lenkiją.",
+      "sources": [
+        {
+          "title": "VLE: Mykolas Gedeonas Radvila (1778-1850)",
+          "url": "https://www.vle.lt/straipsnis/mykolas-gedeonas-radvila/"
+        }
+      ],
+      "related": [
+        "Mykolas Jeronimas Radvila (1744-1831)",
+        "Antanas Henrikas Radvila (1775–1833)"
+      ],
+      "aliases": [],
+      "enrichStub": true
+    },
+    {
+      "name": "Leonas Jeronimas Radvila (1808–1885)",
+      "notePath": "objektai/asmenys/Leonas Jeronimas Radvila (1808–1885).md",
+      "dates": "1808–1885",
+      "bio": "Leonas Jeronimas, Mykolo Jeronimo Radvilos vaikaitis, tarnavo Rusijos imperijos kariuomenėje. Dalyvavo malšinant 1830–1831 m. sukilimą. Jo tarnyba parodo, kad tos pačios giminės nariai atsidurdavo skirtingose konflikto pusėse.",
+      "sources": [
+        {
+          "title": "VLE: Leonas Jeronimas Radvila (1808–1885)",
+          "url": "https://www.vle.lt/straipsnis/leonas-jeronimas-radvila/"
+        }
+      ],
+      "related": [
+        "Mykolas Jeronimas Radvila (1744-1831)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Ferdinandas Frydrichas Radvila (1834–1926)",
+      "notePath": "objektai/asmenys/Ferdinandas Frydrichas Radvila (1834–1926).md",
+      "dates": "1834–1926",
+      "bio": "Ferdinandas Frydrichas Radvila atstovavo lenkams Vokietijos Reichstage. Po Pirmojo pasaulinio karo dalyvavo atkurtos Lenkijos parlamentiniame gyvenime. Jo sūnus buvo politikas Jonušas Pranciškus Radvila.",
+      "sources": [
+        {
+          "title": "VLE: Ferdinandas Frydrichas Radvila (1834–1926)",
+          "url": "https://www.vle.lt/straipsnis/ferdinandas-frydrichas-radvila/"
+        }
+      ],
+      "related": [
+        "Jonušas Pranciškus Radvila (1880–1967)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jonušas Pranciškus Radvila (1880–1967)",
+      "notePath": "objektai/asmenys/Jonušas Pranciškus Radvila (1880–1967).md",
+      "dates": "1880–1967",
+      "bio": "Ferdinando Frydricho sūnus Jonušas Pranciškus veikė Lenkijos politikoje. Antrojo pasaulinio karo metais jį kalino ir sovietų, ir nacių valdžia. Po pakartotinio sovietų suėmimo į Lenkiją grįžo 1947 metais.",
+      "sources": [
+        {
+          "title": "VLE: Jonušas Pranciškus Radvila (1880–1967)",
+          "url": "https://www.vle.lt/straipsnis/jonusas-pranciskus-radvila/"
+        }
+      ],
+      "related": [
+        "Ferdinandas Frydrichas Radvila (1834–1926)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Elžbieta Šidloveckaitė",
+      "notePath": "objektai/asmenys/Elžbieta Šidloveckaitė.md",
+      "dates": "XVI a.",
+      "bio": "Elžbieta Šidloveckaitė buvo Mikalojaus Radvilos Juodojo žmona. Jų dukterys Elžbieta, Sofija, Ona ir Kristina ištekėjo į Lenkijos didikų šeimas.",
+      "sources": [
+        {
+          "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+          "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Juodasis"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Elžbieta Radvilaitė (Mikalojaus Meleckio žmona)",
+      "notePath": "objektai/asmenys/Elžbieta Radvilaitė (Mikalojaus Meleckio žmona).md",
+      "dates": "1550–1591",
+      "bio": "Mikalojaus Radvilos Juodojo ir Elžbietos Šidloveckaitės duktė, Mikalojaus Meleckio žmona.",
+      "sources": [
+        {
+          "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+          "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Juodasis",
+        "Elžbieta Šidloveckaitė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Sofija Radvilaitė (Achacijaus Čėmos žmona)",
+      "notePath": "objektai/asmenys/Sofija Radvilaitė (Achacijaus Čėmos žmona).md",
+      "dates": "1552–1608",
+      "bio": "Mikalojaus Radvilos Juodojo ir Elžbietos Šidloveckaitės duktė, Achacijaus Čėmos žmona.",
+      "sources": [
+        {
+          "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+          "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Juodasis",
+        "Elžbieta Šidloveckaitė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Ona Radvilaitė (Mikalojaus Tvorovskio žmona)",
+      "notePath": "objektai/asmenys/Ona Radvilaitė (Mikalojaus Tvorovskio žmona).md",
+      "dates": "1553–1590",
+      "bio": "Mikalojaus Radvilos Juodojo ir Elžbietos Šidloveckaitės duktė, Mikalojaus Tvorovskio žmona.",
+      "sources": [
+        {
+          "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+          "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Juodasis",
+        "Elžbieta Šidloveckaitė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Kristina Radvilaitė (Jano Zamoiskio žmona)",
+      "notePath": "objektai/asmenys/Kristina Radvilaitė (Jano Zamoiskio žmona).md",
+      "dates": "1560–1580",
+      "bio": "Mikalojaus Radvilos Juodojo ir Elžbietos Šidloveckaitės duktė, Jano Zamoiskio žmona.",
+      "sources": [
+        {
+          "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+          "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+        }
+      ],
+      "related": [
+        "Mikalojus Radvila Juodasis",
+        "Elžbieta Šidloveckaitė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Barbora Kolanka",
+      "notePath": "objektai/asmenys/Barbora Kolanka.md",
+      "dates": "mirė 1550 m.",
+      "bio": "Barbora Kolanka buvo Jurgio Radvilos žmona ir karalienės Barboros Radvilaitės motina.",
+      "sources": [
+        {
+          "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, 2012, p. 8–9",
+          "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+        }
+      ],
+      "related": [
+        "Jurgis Radvila (1480–1541)",
+        "Barbora Radvilaitė"
+      ],
+      "aliases": []
+    }
+  ]
+}

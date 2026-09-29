@@ -51,3 +51,24 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-188064
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 286"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 286."
+  citata_originali: |
+    1210 m. Valdemaro Dano užpuolimai. Tuo melu krikš-
+    t i oii i s karalius Valdemaras Danas, garsus nepaprastu
+    įaurumu ir despotiškumu, užpuolė Kuršo pakrančių že­
+    mes ir ketino užkariauti visą pagonių gyvenamą pajūrį ir
+    •kleisti krikščionybę tuose kraštuose.
+  citata_rodoma: "Tuo melu krikš- \nt i oii i s karalius Valdemaras Danas, garsus nepaprastu \nįaurumu ir despotiškumu, užpuolė Kuršo pakrančių že­\nmes ir ketino užkariauti visą pagonių gyvenamą pajūrį ir \n•kleisti krikščionybę tuose kraštuose."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

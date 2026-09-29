@@ -63,5 +63,6 @@ Popiežius Inocentas VI laiške didžiajam magistrui, remdamasis kartojamomis ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

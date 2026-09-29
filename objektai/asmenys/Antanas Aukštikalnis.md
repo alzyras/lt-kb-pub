@@ -40,14 +40,32 @@ canonical_biography: "Antanas Aukštikalnis gimė 1924 m. Lamokų kaime, Vabalni
 
 Antanas Aukštikalnis, gimęs 1924 m. Lamokų kaime, Vabalninko valsčiuje, buvo sužeistas ir suimtas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Antanas Aukštikalnis, gimęs 1924 m. Lamokų kaime, Vabalninko valsčiuje, buvo sužeistas ir suimtas.'
-  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+<a id="claim-t-231846"></a>
+- t-001
+  teiginys: "Antanas Aukštikalnis, gimęs 1924 m. Lamokų kaime, Vabalninko valsčiuje, buvo sužeistas ir suimtas."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:50:58Z"
+  pagrindžia:
+    - c-212484
+
+## Citatos
+
+- id: c-212484
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
   puslapiai: "PDF 208"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 208."
   citatos_rezimas: "indeksas"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

@@ -45,31 +45,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-189624"></a>
-- t-001
-  teiginys: "1392 m. Vladislovas Jogaila nusiuntė Jeronimą Prahiškį į Lietuvą pas Vytautą su laišku skelbti krikščionių tikėjimo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Vladislovas Jogaila pasiuntė Jeronimą į Lietuvą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vladislovas Jogaila siuntė į Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutelktas į pasiuntimo įvykį, aiškiai įvardijant siuntėją, adresatą ir tikslą. Neįtraukta Narbuto spėjimų apie Jeronimo kilmę ir kalbą."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172507
-
 ## Citatos
 
 - id: c-172507
@@ -97,5 +72,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

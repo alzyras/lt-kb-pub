@@ -59,5 +59,6 @@ Tarp kitų, mažiau įsimintinų, pasirodė žmo gėdrų (androfagų) tauta, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

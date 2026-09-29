@@ -71,5 +71,6 @@ Pūtvės pilies galingasis Spūdas Ordino kariuomenei pasiūlė išduoti pilį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

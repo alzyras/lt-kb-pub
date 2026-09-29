@@ -67,6 +67,19 @@ historical_names: []
   pagrindžia:
     - c-39962
 
+<a id="claim-t-208609"></a>
+- t-208609
+  teiginys: "Užpalių parapijos katalikai buvo minimi tarp tikinčiųjų, kurie visiškai atsisakė degtinės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:51Z"
+  pagrindžia:
+    - c-191229
+
 ## Citatos
 
 - id: c-39962
@@ -86,8 +99,33 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191229
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 199"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 199."
+  citata_originali: |
+    Ažudari sawa ausi ant balso piemenio jusu, klausot
+    židu vileima ir pagalwes ažu pekliszku gėrimu jamet
+    wielej jemis mokieti. Kas taj dedas su jumis, wajkaj ma­
+    na? Kitu parapijų Katalikaj, kaipo tai Aniksczcziu, Ute­
+    nos, Užpalu, Kurkiu ir kitu, niegana, kad arielku wisiszkaj
+    ažumete, bet dar iszwidi jogiej suwedžiotojej su winu no­
+    ri jus nu S. blajwistes attraukti, susitarė wisi isz wiena
+    ani wina negerti, o jus rodos swetimos awiniczes aweles,
+    teberugstat arielkoj ir karczemas it sawa gera dabojet.
+  citata_rodoma: "Kitu parapijų Katalikaj, kaipo tai Aniksczcziu, Ute­\nnos, Užpalu, Kurkiu ir kitu, niegana, kad arielku wisiszkaj \nažumete"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208609
 
 ## Ryšiai
 - Užėmė Užpaliai: [[objektai/asmenys/P. Genys]]

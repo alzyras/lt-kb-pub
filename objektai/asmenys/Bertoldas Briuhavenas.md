@@ -112,6 +112,18 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   pagrindžia:
     - c-188271
 
+<a id="claim-t-223175"></a>
+- t-223175
+  teiginys: "1291 m. Bertoldas Bruhavenas sudegino tuščią Kolainių pilį ir nusiaubė Junigedos valsčių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202146
+
 ## Citatos
 
 - id: c-169459
@@ -152,7 +164,7 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178679
@@ -191,7 +203,7 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -215,7 +227,7 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188271
@@ -240,8 +252,55 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-202146
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 179-180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179-180."
+  citata_originali: |
+    Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų
+    įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį:
+    išsivarė daug žmonių ir išsivežė galybę visokių daiktų. Nors šis Jazbutas rodėsi einąs
+    su netikėliais, tačiau slapta gerbė brolius. Jis įspėjo juos anksčiau, nei pats patraukė
+    su kariuomene į žygį. Dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su
+    1200 vyrų, turėjusių jam pastoti kelią. Šie, nužygiavę į dykras, plytinčias tarp dviejų
+    upių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi
+    ir didžiai trūkdami maisto. Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
+    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
+    530  D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),
+    deš. Bebro intakas.
+
+    nesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę
+    su savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių. Kiti išbėgiojo, ir kurie
+    ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei
+    pavalgyti, tik vienas kitas išsigelbėjo nuo žūties.
+    242 (235). Apie paguodą, suteiktą broliams bei krikščionims
+    Kai ši brolių kariuomenė, nugalėjusi priešą, dar nebuvo sugrįžusi iš žygio, kartą brolis
+    Meinhardas, magistras, prisėdo su kuriais ne kuriais Ordino vyresniaisiais pasišnekėti apie
+    rūpesčius, kuriuos kėlė minėtoji kariuomenė, užgaišusi kur kas ilgiau, nei turėjo, ir apie
+    Ragainės komtūro bei jo karių mirtį. Kai jie nuliūdę šnekučiavosi, atvyko žygūnas, kuris
+    pranešė, kad Ragainės broliai nukovę 25 plėšikautojus. Nespėjus baigti kalbos, atvyko
+    antras ir pranešė, jog brolių kariuomenė nugalėjo priešą ir sugrįžta. Šiam vos baigus
+    kalbėti, atskubėjo trečias, kuris pranešė, kad nukautas vienas kunigaikštis, norėjęs,
+    pasak visų, pavergti Prūsijos žemę ir išvaryti iš čia brolius531. Todėl magistras bei broliai
+    didžiai nudžiugo ir padėkojo už galybę suteiktų malonių dievui, guodžiančiam savo
+    žmones kiekvienoje nelaimėje. Štai šitaip pragaras, visai neseniai džiūgavęs teisingojo
+    dievo lėmimu, patyrė skausmą, o brolių liūdesys pavirto džiaugsmu.
+    243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
+    1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
+    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
+    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223175
 
 ## Ryšiai
 - Bertoldas Briuhavenas surengė žygį į [[objektai/vietos/Junigeda]]

@@ -73,5 +73,6 @@ Senosios Trakų pilies virš didžiųjų vartų seniau buvo akmenyje iškaltas k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

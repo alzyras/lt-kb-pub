@@ -59,6 +59,18 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
   pagrindžia:
     - c-175662
 
+<a id="claim-t-219150"></a>
+- t-219150
+  teiginys: "Narva išteka iš Peipaus ežero."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197891
+
 ## Citatos
 
 - id: c-175662
@@ -83,8 +95,24 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197891
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
+  citata_originali: |
+    Narowa (Narva) išteka iš Peipaus ežero
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219150
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Estai]]

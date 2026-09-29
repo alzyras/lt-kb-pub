@@ -72,5 +72,6 @@ canonical_biography: Šeškinė yra kalvų ruožas šiauriniame Vilniaus pakraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

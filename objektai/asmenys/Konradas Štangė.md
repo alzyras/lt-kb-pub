@@ -38,31 +38,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 
 ## Teiginiai
 
-<a id="claim-t-60159"></a>
-- t-001
-  teiginys: "Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Junigeda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas Štangė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Junigeda: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas Štangė\" parinktas kaip owner_note_path. Targetas \"Junigeda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60792
-
-<a id="claim-t-60160"></a>
-- t-002
-  teiginys: "Konradas Štangė padrąsino sutrikusius brolius Judo Makabėjaus žodžiais ir ragino prasiskverbti pro priešus."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60791
-
 <a id="claim-t-197119"></a>
 - t-003
   teiginys: "Konradas Štangė padalijo savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo."
@@ -127,8 +102,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-60792
   autorius: "Petras Dusburgietis"
@@ -146,8 +119,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179032
   autorius: "Petras Dusburgietis"
@@ -168,8 +139,29 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-204207
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  citata_originali: |
+    Tada jis padalijo
+    savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
+    kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
+    paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
+    256 (249). Apie nuostabų atsitikimą šiame kare
+    Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia į žygį ne
+    vienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti
+    kamšaties.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Konradas Štangė keliavo į [[objektai/vietos/Junigeda]]

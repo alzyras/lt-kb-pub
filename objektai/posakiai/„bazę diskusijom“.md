@@ -76,5 +76,6 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
