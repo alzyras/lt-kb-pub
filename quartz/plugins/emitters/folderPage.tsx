@@ -7,6 +7,7 @@ import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../
 import { FullPageLayout } from "../../cfg"
 import path from "path"
 import {
+  FilePath,
   FullSlug,
   SimpleSlug,
   stripSlashes,
@@ -185,6 +186,9 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
         const folderInfo = computeFolderInfo(affectedFolders, content, cfg.locale)
         yield* processFolderInfo(ctx, folderInfo, allFiles, opts, resources)
       }
+    },
+    async *incrementalEmit(ctx, content, resources, changeEvents) {
+      yield* this.partialEmit!(ctx, content, resources, changeEvents) as AsyncGenerator<FilePath>
     },
   }
 }

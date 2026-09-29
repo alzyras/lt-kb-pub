@@ -12,6 +12,7 @@ export function generateRobotsTxt(baseUrl?: string): string {
 
 export const RobotsTxt: QuartzEmitterPlugin = () => ({
   name: "RobotsTxt",
+  incrementalPolicy: "static",
   async emit(ctx) {
     const content = generateRobotsTxt(ctx.cfg.configuration.baseUrl)
     const path = await write({

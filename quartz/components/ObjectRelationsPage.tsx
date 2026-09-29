@@ -1,3 +1,4 @@
+import path from "node:path"
 import { ArrowLeft, ChevronLeft, ChevronRight } from "lucide-preact"
 import { FullSlug } from "../util/path"
 import { objectDetailEvidenceFromFile, type ObjectDetailEvidence } from "../util/objectDetail"
@@ -32,8 +33,9 @@ export function objectRelationGroupItems(
   frontmatter: Record<string, unknown>,
   evidence: ObjectDetailEvidence,
   allFiles: QuartzComponentProps["allFiles"],
+  objectRoot?: string,
 ): ObjectRelationGroupItem[] {
-  return objectRelationGroups(objectRelationInputs(frontmatter, evidence), allFiles, {
+  return objectRelationGroups(objectRelationInputs(frontmatter, evidence, objectRoot), allFiles, {
     dedupe: false,
   }).map((group: ObjectRelationGroup, index) => ({
     id: `${index + 1}:${group.label}`,
@@ -85,7 +87,12 @@ const ObjectRelationsPage: QuartzComponent = (props: QuartzComponentProps) => {
   const objectSlug = objectFile.slug as FullSlug
   const objectFrontmatter = (objectFile.frontmatter ?? {}) as Record<string, unknown>
   const evidence = objectDetailEvidenceFromFile(String(objectFile.filePath ?? ""))
-  const groups = objectRelationGroupItems(objectFrontmatter, evidence, allFiles)
+  const groups = objectRelationGroupItems(
+    objectFrontmatter,
+    evidence,
+    allFiles,
+    path.resolve(props.ctx.argv.directory, "objektai"),
+  )
   const page = Math.max(1, Number(fileData.frontmatter?.object_relations_page ?? 1) || 1)
   const pages = Math.max(1, Math.ceil(groups.length / RELATIONS_PAGE_SIZE))
   const start = (page - 1) * RELATIONS_PAGE_SIZE
