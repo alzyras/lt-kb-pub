@@ -48,7 +48,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 <a id="claim-t-184839"></a>
 - t-001
   teiginys: "Skalvių didikas Svisdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,9 +68,9 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     - c-168200
 
 <a id="claim-t-221776"></a>
-- t-221776
+- t-002
   teiginys: "Svisdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -157,20 +157,21 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 - id: c-205560
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 159"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
   citata_originali: |
-    Kai šitai vyko, ir vyrai, ir moterys paskutiniais
-    žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami,
-    jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas. Šis Bansas
-    norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik
-    visus prūsus sukurstė atsimesti nuo krikščionybės. Dėl to, ištyrę visus jo nusižengimus,
-    jį pelnytai pasmerkė mirti.
+    188 (183). Apie tai, kaip buvo apleista Skalvos žemė
+    Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
+    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
+    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
+    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
+    kito patraukė pas brolius su visais savo namais ir šeimyna.
+  citata_rodoma: "Kai \ngalingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta \nir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai \npalankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po \nkito patraukė pas brolius su visais savo namais ir šeimyna."
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
+  atnaujinta: "2026-09-30 07:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-221776
+    - t-002
 

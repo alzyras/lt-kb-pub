@@ -69,7 +69,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 <a id="claim-t-11077"></a>
 - t-001
   teiginys: "Rėza buvo vienas iš lietuvių kalbos gynėjų per ginčą, kuriame lietuvių kalba buvo apginta."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,10 +83,10 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   pagrindžia:
     - c-13629
 
-<a id="claim-t-188470"></a>
-- t-002
+<a id="claim-t-217451"></a>
+- t-005
   teiginys: "Narbutas nurodo, kad Rėza „Dainose“ gynė Lietuvos kronikininkus nuo XVIII a. kritikų priekaištų dėl išgalvotų vardų."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,12 +101,12 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171360
+    - c-200120
 
-<a id="claim-t-188471"></a>
-- t-003
+<a id="claim-t-219485"></a>
+- t-007
   teiginys: "Narbutas rašo, kad, Rėzos teigimu, lietuviai turėjo iš skandinavų perimtą laiko dalijimą į devynis periodus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -121,12 +121,12 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171361
+    - c-198194
 
-<a id="claim-t-188472"></a>
-- t-004
+<a id="claim-t-219106"></a>
+- t-006
   teiginys: "Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -141,10 +141,10 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171362
+    - c-199702
 
 <a id="claim-t-216646"></a>
-- t-216646
+- t-002
   teiginys: "Ponas Rėza „Dainų“ komentaruose pažy mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama Bier."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -156,7 +156,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - c-199547
 
 <a id="claim-t-216777"></a>
-- t-216777
+- t-003
   teiginys: "Rėza Šilinyčių, dar žinomą Šilo Radikio vardu, mato pas senovės prūsus ir sieja jį su staliaus funkcija."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -168,9 +168,9 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - c-199296
 
 <a id="claim-t-216906"></a>
-- t-216906
+- t-004
   teiginys: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza."
-  atnaujinta: "2026-09-20 15:18"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -226,7 +226,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   pagrindžia:
     - t-001
 
-- id: c-171360
+- id: c-200120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 220"
@@ -242,12 +242,12 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     9 Karamzin.
   citata_rodoma: "Iškiliojoje pusėje panaši žymė kaip III\nlentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­\ngiau taškų. 9-ojo piešinio aprašymą skaityk straipsnyje „Sta­\n8 Dabar visi Lietuvos senovės tyrėjai įsitikina, kad mūsų kroniki­\nninkai rašė teisybę, kaip tai teisingai pažymi ponas Rėza “Dainose”\nir mato klaidingumą XVIII amžiaus kritikų darytų jiems priekaištų,\nesą patys sugalvoję daugelio dievų ir garsių žmonių vardus.\n9 Karamzin."
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
+    - t-005
 
 - id: c-171361
   autorius: "Teodoras Narbutas"
@@ -268,10 +268,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
-- id: c-171362
+- id: c-199702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 431"
@@ -293,12 +291,12 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
   citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
+    - t-006
 
 - id: c-177069
   autorius: "Teodoras Narbutas"
@@ -339,27 +337,29 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
 
 - id: c-198216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 129."
   citata_originali: |
-    Valdant Žygimantui Augus­
-    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
-    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
-    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
-    Zigmantui III. Ši trumpa ekskursija į istoriją remiasi vietinių
-    istorijos mokovų apklausa ir klebonijos užrašais, kuriais vie­
-    los klebonas leido man pasinaudoti 1805 metais.
+    Veliona (Wellona)
+    Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­
+    nio gyvenimo deivė. Lasickis šiame pavadinime klaidingai įžiūri
+    dievą.
+    Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
+    10 Rėza.
+  citata_rodoma: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine"
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-30 07:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-216906
+    - t-004
 
 - id: c-199296
   autorius: "Teodoras Narbutas"
@@ -381,7 +381,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-216777
+    - t-003
 
 - id: c-199547
   autorius: "Teodoras Narbutas"
@@ -399,5 +399,5 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-216646
+    - t-002
 

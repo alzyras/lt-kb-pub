@@ -2504,7 +2504,7 @@
     },
     "objektai/asmenys/Birutė.md": {
       "content_hash": "302eb59f9df15bcc97c67ef6a4e2481e6bdcd573b535db1286b6b26d210c0200",
-      "rendered_hash": "0e070254ec64a69119d7cac20a170752de2c026b80a0a62ecd86842ead83daae"
+      "rendered_hash": "e396ec1049a2f7a7a6c7b9e778f6a1dbfe8491e75d13409c0a01dd2d9183e0d9"
     },
     "objektai/asmenys/Biti Girėjus.md": {
       "content_hash": "63a92db829eaa44669c7c3908f1faea43543599b16db3f7d03ff7ca398bbeb12",
@@ -10920,7 +10920,7 @@
     },
     "objektai/asmenys/Mikalojus Radvila.md": {
       "content_hash": "da116c1b21350e8bc7f01eea1f1e7b9171460b91fb86c1bfdff7c8618b621bbc",
-      "rendered_hash": "b286432d6af2e1545a5727c2f00f55c934bee9b34841c9201ba2ddf1c6572771"
+      "rendered_hash": "e3e9f1941fc63d0b136b2bc0da99ee72a0654d9aa4de32c2eec2f2387fa59248"
     },
     "objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas).md": {
       "content_hash": "12eea513fed35949e567c0e82d3b780ffda729a5abaafe0e1e3a37317896cdbc",
@@ -12332,7 +12332,7 @@
     },
     "objektai/asmenys/Petras Dusburgietis.md": {
       "content_hash": "c683d4a82ac42784a291966790405c20bb5e16e0a4eee95861e57666fe24b23b",
-      "rendered_hash": "43424c31a72634e0defa35e6484b8ef5a2d60a762298e96916250240381b4ae8"
+      "rendered_hash": "48ecd9ac10b75d588b7f7975456de8114185eff5acf3add739aa9f4fc178469a"
     },
     "objektai/asmenys/Petras Goštautas.md": {
       "content_hash": "65414a35be2373fc8107721310de4e3eb8af9f9e2143b3505b9fd8ae6f6b8876",
@@ -14656,11 +14656,11 @@
     },
     "objektai/asmenys/Surbantas.md": {
       "content_hash": "876037a75f81b65cc180bab6f88ba45dee42d83dbc2c5bec660d2a10071c601e",
-      "rendered_hash": "14bc33196b2ca0b27713cca2915c68cbb66f0d9744f1085121239473b6a570f3"
+      "rendered_hash": "6ec1a233db39454c58829c9850ac933ef72eb59380cd59b9b3be77ea2adefdd7"
     },
     "objektai/asmenys/Surdeta.md": {
       "content_hash": "f45de4ae9b1d8a4100594c63998b5d210e61ebb0d4a607676ac007044ecba8dd",
-      "rendered_hash": "1888ac935cf3d91ff865a00237ecebc7fb2dea597ac19e99b8e7bb1bdd0089f5"
+      "rendered_hash": "d63e0de0a73d5635cd67db4dd9ed0f9cd0df97f54929dbccac2cf3926fa9af6a"
     },
     "objektai/asmenys/Surminas.md": {
       "content_hash": "893f63eb3af7303f663d421e2fe5fefd32fc3c2d4376aceeaf78889ee342ced0",
@@ -14720,7 +14720,7 @@
     },
     "objektai/asmenys/Svisdeta.md": {
       "content_hash": "15527ebfad9681f5e49a1f9eff2dd08d6a44256ec728a0455e406df47a741235",
-      "rendered_hash": "7332f7d4e458e099d53acbcb6fe70e6ea2dbfe33308f351134f8fccf164a9747"
+      "rendered_hash": "44e745e6dcffc789324d339f6baa6529285387691b9d4ef2d3c54f8c2a81c1df"
     },
     "objektai/asmenys/Sydney Brenner.md": {
       "content_hash": "9033037bcf2bed00f5bf5e062e23825af79254f28436d8db5e2c9ec14c79771e",
@@ -14960,7 +14960,7 @@
     },
     "objektai/asmenys/Teodosijus.md": {
       "content_hash": "a4609add881e15b65a82a0e130931a33fb4e0f60e4217084b1fe20940722e7db",
-      "rendered_hash": "a3213ef77b67a42a33722ff06c91465bb8d9ceeb3a602c8cae293e404b8a8dd0"
+      "rendered_hash": "d9b78cc524d86a1e14b29bab995a252fedf8728dff66f87f2cfdbd2cedc54a73"
     },
     "objektai/asmenys/Teodozijus.md": {
       "content_hash": "4d3ff8f82799c9c49fa1172492946f7056171dc198b55b9f23868b2ce019a23c",
@@ -21108,7 +21108,7 @@
     },
     "objektai/autoriai/Petras Dusburgietis.md": {
       "content_hash": "bf30d6e0f173425e75019c89b5f21bf87162c00ab21a0f5a318fd1ddcda4dc9d",
-      "rendered_hash": "2b86f7e13f2733ea19d21968f7f32403ebee4bb15b968e1542be32ecf5b49bd3"
+      "rendered_hash": "2bf35a19d208dad86935c1c2ffd5cd5e6b9786a444480cbcc951f300fd218326"
     },
     "objektai/autoriai/Petras Kojelavičius.md": {
       "content_hash": "e57f102ab82f3645fb8bca283820b52197e93071d1f3ff8b81e484a09880351e",
@@ -21536,7 +21536,7 @@
     },
     "objektai/autoriai/Rėza (leidėjas, 1818 m.).md": {
       "content_hash": "6419e6a365d5fb4f95c63ed9be959d1844f06b84896a8f0fa3876792ac355d09",
-      "rendered_hash": "bdf568062e7ba1b7966f11f3e15d250b095b957b922a44db0063084a4988a734"
+      "rendered_hash": "33102542494c0fa15e91d7ac2802d3586f8e12cb58cb3dc84ddfb816c1ce64ad"
     },
     "objektai/autoriai/Rūta Klišytė.md": {
       "content_hash": "1cb9d43263591103bdfb32ef1dc420f575c140d9f81992aedb573cf17a2164aa",

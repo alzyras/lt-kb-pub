@@ -64,7 +64,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
 <a id="claim-t-186351"></a>
 - t-001
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdytojos bažnyčią pergalei prie Klecko atminti."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kłeckas: 0.83"
@@ -81,7 +81,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
 <a id="claim-t-186353"></a>
 - t-002
   teiginys: "Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus vaivadai Mikalojui Radvilai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "priklause -> Mikalojus Radvila: 0.86"
@@ -99,7 +99,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
 <a id="claim-t-186354"></a>
 - t-003
   teiginys: "Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "reme -> Martynas iš Golino: 0.74"
@@ -117,7 +117,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
 <a id="claim-t-186356"></a>
 - t-004
   teiginys: "Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "priklause -> Mikalojus Radvila: 0.90"
@@ -135,7 +135,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
 <a id="claim-t-186357"></a>
 - t-005
   teiginys: "Mikalojus Radvila smogė priešams į sparną ir nulėmė mūšio sėkmę."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Radvila: 0.85"
@@ -152,7 +152,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
 <a id="claim-t-186358"></a>
 - t-006
   teiginys: "1560 m. vasario 12 d. Mikalojus Radvila iš Rotundo gavo jo Lietuvos istorijos rankraštį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -170,9 +170,9 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
     - c-169719
 
 <a id="claim-t-196562"></a>
-- t-007
+- t-009
   teiginys: "Mikalojus Radvila užpuolė priešą ir jį sumušė."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -182,9 +182,9 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
     - c-178767
 
 <a id="claim-t-196563"></a>
-- t-008
+- t-010
   teiginys: "Mikalojus Radvila iš Maskvos valdovo irgi buvo gavęs nemaža pinigų."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -194,9 +194,9 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
     - c-178768
 
 <a id="claim-t-201537"></a>
-- t-009
+- t-011
   teiginys: "Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Lietuvos kancleriui ir Vilniaus vaivadai Mikalojui Radvilai, kad dėl kelio į Kauną uždarymo visa druska ir kitos prekės, paprastai vežamos per Kauną, pasuko Bugu ir Narevu, o Kauno muitinės."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -206,9 +206,9 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
     - c-184884
 
 <a id="claim-t-204010"></a>
-- t-010
+- t-012
   teiginys: "1492 m. Sofija Manvydaitė Radvilienė nurodė, kad nepaklusnius jos perleidžiamus bajorus savo autoritetu sutramdytų jos vyras Mikalojus Radvila."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -221,9 +221,9 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
     - c-186614
 
 <a id="claim-t-186361"></a>
-- t-186361
+- t-007
   teiginys: "Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą."
-  atnaujinta: "2026-09-19 15:13"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Radvila: 0.85"
@@ -236,12 +236,11 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169716
-    - c-178767
 
 <a id="claim-t-196561"></a>
-- t-196561
+- t-008
   teiginys: "Mikalojus Radvila, vykdydamas įsakymą, sutelkė Lietuvos žemėse kariuomenę ir patraukė su Jerim Berdžiu į skitų kraštą."
-  atnaujinta: "2026-09-19 15:13"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -252,7 +251,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
     - c-169716
 
 <a id="claim-t-208001"></a>
-- t-208001
+- t-013
   teiginys: "Mikalojus Radvila 1515 m. dalyvavo Vienos kongrese Žygimanto Senojo delegacijoje."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -398,8 +397,8 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-    - t-186361
-    - t-196561
+    - t-007
+    - t-008
 
 - id: c-169718
   autorius: "Michał Baliński"
@@ -481,8 +480,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-    - t-186361
+    - t-009
 
 - id: c-178768
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -508,7 +506,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
+    - t-010
 
 - id: c-184884
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -527,7 +525,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
+    - t-011
 
 - id: c-186614
   autorius: "Rimvydas Petrauskas"
@@ -547,7 +545,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
+    - t-012
 
 - id: c-190617
   autorius: "Jūratė Kiaupienė"
@@ -570,7 +568,7 @@ Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-208001
+    - t-013
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Malūnas]]
