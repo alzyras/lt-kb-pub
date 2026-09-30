@@ -1,7 +1,7 @@
 ---
-title: "Puota, svečias ir statusas: bajorų svečiavimosi tradicijos Lietuvos Didžiojoje Kunigaikštystėje XVI–XVIII a."
+title: "Puota, svečias ir statusas"
 seo_title: "Puotos LDK didikų dvaruose XVI–XVIII a."
-description: "Kaip dvaro virtuvė, vynas, bendra taurė, svečio priėmimas ir nematomas namų ūkio darbas kūrė LDK elito statusą bei socialinius ryšius."
+description: "Nuo dvaro ūkio ir bendros taurės iki Užgavėnių vaišių bei Vilniaus priėmimų: kaip LDK bajorai rodė statusą ir palaikė ryšius."
 image: "/static/articles/viena-diena-xviii-a-vilniuje/radvilu-puota-orlovskis.jpg"
 media_primary_thumb_url: "/static/articles/viena-diena-xviii-a-vilniuje/radvilu-puota-orlovskis.jpg"
 media_primary_width: 1920
@@ -13,7 +13,7 @@ noindex: false
 autorius: "Lietuvos istorijos žinių lobynas"
 date: 2026-07-26
 sukurta: "2026-07-26"
-atnaujinta: "2026-09-27"
+atnaujinta: "2026-09-30"
 tags:
   - bajorija
   - dvaras
@@ -27,209 +27,214 @@ cssclasses:
   - puota-feature
 ---
 
-<p class="puota-kicker">Ilgasis skaitymas · XVI–XVIII amžiai · šaltiniais grįsta rekonstrukcija</p>
+<p class="puota-kicker">Bajorų svetingumas Lietuvos Didžiojoje Kunigaikštystėje · XVI–XVIII a.</p>
 
-<p class="puota-dek">Bajorų vaišėse susitikdavo giminės, pareigūnai ir dvaro svečiai. Prie stalo buvo rodoma šeimininko galia, priimami reikalingi žmonės, išbandomas artumas, keičiamasi naujienomis ir palaikomi ryšiai, be kurių sunkiai veikė teismai, seimeliai, karjera ar dvaro ūkis. Tačiau ne kiekviena taurė slėpė sandorį. Šaltiniai leidžia pamatyti įdomesnį dalyką: politinis, ūkinis ir privatus bajoro gyvenimas vyko tuose pačiuose kambariuose ir dažnai tarp tų pačių žmonių.</p>
+<p class="puota-dek">Priimti svečią kainavo: reikėjo maisto atsargų, gėrimų, indų, vietos apsistoti ir žmonių, kurie visu tuo pasirūpintų. Dosnus stalas leido parodyti išteklius, o kvietimas pietų — palaikyti pažintį su žmogumi, kurio pagalbos galėjo prireikti teisme, seimelyje ar tvarkant valdas. Vaišėse susitikdavo šeimos, kaimynystės ir tarnybos ryšiai. Ką šeimininkas galėjo pasiūlyti ir kaip elgėsi su svečiu, buvo svarbu jo padėčiai tarp kitų bajorų.</p>
 
-<p class="puota-evidence-note">Parengė Lietuvos istorijos žinių lobynas · atnaujinta 2026-09-27.</p>
+<p class="puota-evidence-note">Parengė Lietuvos istorijos žinių lobynas · atnaujinta 2026-09-30.</p>
 
 <figure class="puota-hero">
   <img src="/static/articles/viena-diena-xviii-a-vilniuje/radvilu-puota-orlovskis.jpg" alt="Aleksandro Orlovskio paveiksle prie ilgo stalo puotaujanti Radvilų aplinka" loading="eager" />
-  <figcaption>Aleksander Orłowski, <em>Puota pas Radvilą</em>. Dailininkas gyveno 1777–1832 m., todėl kūrinys čia naudojamas kaip vėlyvesnis bajoriškos puotos vaizdinys, o ne kaip dokumentinė konkretaus XVIII a. Vilniaus vakaro rekonstrukcija. Nacionalinis muziejus Varšuvoje, viešoji sritis. <a href="/galerija/puota-pas-radvilas--m-article-ebd39ff36cb3f3fe70bb2be3">Kūrinio kortelė</a>.</figcaption>
+  <figcaption>Aleksandras Orlovskis (Aleksander Orłowski, 1777–1832), <em>Puota pas Radvilas</em>. Kūrinys nedatuotas. Varšuvos nacionalinis muziejus, viešoji sritis. <a href="/galerija/puota-pas-radvilas--m-article-ebd39ff36cb3f3fe70bb2be3">Kūrinio kortelė</a>.</figcaption>
 </figure>
 
-## Virtuvės inventoriai, papročių aprašymai ir laiškai
+Apie XVI a. bajorų stalą ir jo aprūpinimą daug pasako dvarų inventoriai bei teismų bylos, kurias tyrė Neringa Dambrauskaitė. Bendro gėrimo papročius nagrinėjo Rimvydas Laužikas, o Domininkas Burba, skaitydamas Jono Dominyko Lopacinskio laiškus, atsekė konkrečius XVIII a. vidurio susitikimus Vilniuje. Šių tyrimų medžiagoje ypač gerai matyti didikų ir pasiturinčių bajorų aplinka; smulkesnės bajorijos stalas buvo kuklesnis. Puotų aprašymus čia papildo ir kasdienių gėrimų apskaitos tyrimas, padedantis atskirti šventę nuo įprastos dienos.
 
-Straipsnyje nagrinėjama, kaip vaišės, bendras gėrimas ir svečio priėmimas siejosi su bajoro statusu bei politiniais ryšiais.
+<p class="puota-evidence-note">Išskleidžiamose kortelėse pateikti teiginiai, jų atramos ir svarbios šaltinių pastabos. Esami teiginių bei citatų numeriai veda į projekto įrodymus; papildomi tyrimai susieti su konkrečiais leidinio puslapiais.</p>
 
-Remiamasi trimis tyrimais: Neringos Dambrauskaitės darbu apie XVI a. bajorų virtuvę, Rimvydo Laužiko analize apie XVII–XVIII a. gėrimą iš vienos taurės ir Domininko Burbos išnagrinėtais Jono Dominyko Lopacinskio laiškais. Inventoriai liudija daiktus ir maisto atsargas, papročių aprašymai – bendro gėrimo reikšmes, o korespondencija – konkrečius susitikimus.
+## Stalas prasidėdavo ūkyje
 
-1730–1762 m. Lopacinskio laiškuose daugiausia aprašoma didikų ir pasiturinčių bajorų aplinka, ypač Sapiegų bei iš dalies Radvilų ryšiai. Pasak Burbos, pokalbiams, puotoms, karnavalams ir fejerverkams korespondentas kartais skyrė daugiau dėmesio negu politiniams ar ekonominiams įvykiams. Šie laiškai leidžia pažinti konkretaus elito rato bendravimą; visos LDK bajorijos kasdienybės jie neaprėpia.
+XVI a. bajorų sodybose virtuvei paprastai statydavo atskirą medinį pastatą. Dambrauskaitės nagrinėtuose inventoriuose jos įranga nesudėtinga: ugniavietė, stalas, pora suolų. Amžiaus pabaigoje minima ir spinta indams. Virtuvės reikmenų daugėjo, nors pati maisto ruošimo patalpa išliko paprasta.
 
-<p class="puota-evidence-note"><strong>Kaip veikia įrodymų kortelės?</strong> Jose rodomas patikrintas teiginys, šaltinio puslapis ir indeksuotos citatos numeris. Pažodžiui cituojami tik kabutėmis pažymėti šaltinio žodžiai; nuoroda atveria visą teiginio ir citatos kontekstą svetainėje.</p>
+Dvaro ūkis tiekė javus, daržoves, vaisius, galvijų ir naminių paukščių mėsą, pieno produktus. Maisto atsargas papildydavo žvejyba ir medžioklė. Žvėriena išskyrė bajorišką stalą, bet XVI a. pabaigoje naminių gyvulių ir paukščių mėsa buvo svarbesnė mitybos dalis. Turtingesni šeimininkai pirko atvežtinių prieskonių ir vyno. Jų galimybę vaišinti lėmė ir valdose užaugintas maistas, ir pinigai prekėms, kurių patys nepasigamindavo.
 
-<div class="puota-thesis">
-  <span>Pagrindinė tezė</span>
-  <p>Vaišindamas svečius bajoras rodė savo išteklius ir palaikė pažintis. Kai kuriuose laiškuose šalia susitikimų minimos ir derybos dėl valdų ar seimelių reikalų.</p>
-</div>
+Kasdienį aprūpinimą palaikė tarnai bei nelaisvieji arba samdomi šeimynykščiai. Rykūnė prižiūrėjo gyvulius ir naminius paukščius, gamino pieno produktus; jos pareigos galėjo apimti ir maisto ruošimą dvaro šeimynai bei platesnę namų ūkio priežiūrą. Dvaruose buvo salyklinių, ažnyčių ir bravorų. Viename Dambrauskaitės aptartame epizode Mykolas Petraškevičius naktį pasiuntė pusbernį su rykūne į klėtį alaus. Toks pavedimas leidžia pamatyti, kas paimdavo ir atnešdavo atsargas, kai jų prireikdavo ponui.
 
-## Prieš atvykstant svečiui: kukli virtuvė, nekuklus stalas
-
-Puota prasidėdavo ne reprezentacinėje salėje, o atskirame mediniame virtuvės pastate. Dambrauskaitės apibendrinti XVI a. inventoriai rodo paprastą erdvę: ugniavietę, stalą ir porą suolų; tik šimtmečio pabaigoje joje atsiranda spinta indams. Tuo pat metu daugėjo virtuvės indų ir įrankių rūšių. Tai svarbi priešprieša: reprezentaciją kūrė ne būtinai prabangi maisto gaminimo patalpa, bet gebėjimas ant stalo pateikti tai, ko kasdien neturėjo dauguma gyventojų.
-
-Dvaro ūkis stalą aprūpindavo javais, daržovėmis, vaisiais, galvijų ir naminių paukščių mėsa, pieno produktais. Atsargas papildė žvejyba ir medžioklė. Vis dėlto XVI a. pabaigoje naminių gyvulių bei paukščių mėsa racione aiškiai dominavo prieš žvėrieną, nors pastaroji išliko bajoriškos virtuvės skiriamuoju bruožu. Pasiturintys bajorai galėjo pridėti importuotų prieskonių ir vyno. Dambrauskaitės išvada atsargi, bet aiški: brangūs atvežtiniai produktai kartu su žvėriena skyrė bajorišką stalą nuo valstietiško.
-
-<figure class="puota-figure puota-figure--wide">
-  <img src="/static/articles/puota-svecias-ir-statusas/vilnius-1576.jpg" alt="Georgo Brauno ir jo bendradarbių 1576 metų Vilniaus panorama" loading="lazy" />
-  <figcaption>Georgas Braunas ir bendradarbiai, Vilniaus vaizdas, nupieštas 1576 m., publikuotas 1581 m. Tai miesto, kuriame rezidencijos, teismai, bažnyčios ir svetingumo erdvės veikė greta, ankstyvas vaizdinys. viešoji sritis. <a href="/galerija/vilniaus-vaizdas-ir-planas-1576-m--m-d9c7a19da6f6d56ef839a3f8">Kūrinio kortelė</a>.</figcaption>
-</figure>
-
-Dambrauskaitė nurodo, kad LDK bajorai gėrė iš Vengrijos, Italijos, Prancūzijos, Ispanijos ir kitur importuotus vynus; vengriškas buvo prieinamesnis, o malmazija — reta ir brangi. Autorė vyno vartojimą sieja su aukštu bajorų statusu: importuotas gėrimas liudijo šeimininko išteklius.
-
-1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko trylika statinių seno įprastinio vyno, dvi statines seno iš sausų uogų pagaminto vyno ir dešimt statinių dviejų rūšių jauno vyno už 274 raudonuosius auksinus – auksines dukato tipo monetas. Pirkinys liudija dvaro aprūpinimą vynu; konkreti puota šaltinyje nenurodyta. Vynui tapus plačiau paplitusiu, šampaną Laužikas vertina kaip vieną iš didikų ir paprastosios bajorijos skirties ženklų.
+Svečių priėmimas rėmėsi šiuo kasdieniu darbu. Šeimininko dosnumui reikėjo gerai aprūpinto ūkio ir žmonių, galinčių įvykdyti jo pavedimus.
 
 <details class="article-evidence">
-  <summary><span class="article-evidence__eyebrow">2 patikrinti teiginiai</span><strong>Vyno kiekis ir socialinė skirtis</strong></summary>
+  <summary><span class="article-evidence__eyebrow">Tyrimo atramos</span><strong>Virtuvė ir stalo aprūpinimas</strong></summary>
   <div class="article-evidence__body">
-    <p class="article-evidence__claim">1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko 25 statines kelių rūšių seno ir jauno vyno už 274 raudonuosius auksinus.</p>
-    <p class="article-evidence__source">Rimvydas Laužikas · PDF p. 3 · citata c-185903 · <a href="/objektai/vietos/Vengrija#claim-t-202545">teiginys t-202545 ir kontekstas</a></p>
-    <p class="article-evidence__claim">Laužiko vertinimu, šampanas tapo didikų ir paprastosios bajorijos skiriamuoju ženklu.</p>
-    <p class="article-evidence__source">Rimvydas Laužikas · PDF p. 3 · citata c-185906 · <a href="/objektai/vietos/Sampane-(vieta)#claim-t-202548">teiginys t-202548 ir kontekstas</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Oginskio sąskaita neįrodo konkrečios puotos meniu, o šampano reikšmė pateikiama kaip tyrėjo apibendrinimas, ne visuotinė kiekvieno dvaro taisyklė.</p>
+    <p class="article-evidence__claim">Dambrauskaitė aptaria atskirą virtuvės pastatą, jo reikmenis, dvare pagamintus bei importuotus maisto produktus ir naminių gyvulių bei žvėrienos santykį.</p>
+    <p class="article-evidence__source">Neringa Dambrauskaitė, 2013 · p. 69–77 · <a href="/objektai/saltiniai/Lituanistika-53374-Bajoru-virtuve-01-lietuvos-did-iosios-kunigaik-tyst-s-bajor-virtuv">tyrimo kortelė ir įrodymai</a>.</p>
   </div>
 </details>
-
-## Taurė, kuri ėjo iš rankų į rankas
-
-Kita statuso ir santykio pusė buvo ne tai, **kas** taurėje, o tai, **kaip** iš jos geriama. Laužikas gėrimą iš vienos taurės analizuoja kaip socialinio solidarumo demonstravimą ir socialinę sąveiką. Viduramžių bei ankstyvųjų naujųjų laikų Vakarų Europoje bendra taurė buvo religinių ir pasaulietinių ceremonijų — tarp jų vestuvių bei universitetų bendruomenių — dalis. Tai platesnis europinis kontekstas, o ne tiesioginis įrodymas apie kiekvieną LDK pobūvį.
-
-Laužikas europinio papročio ištakas sieja su trimis kultūrinėmis tradicijomis — antika, krikščionybe ir Šiaurės _barbaricum_. Kalbėdamas jau apie LDK bajoriją, jis siūlo hipotezę, kad XVI–XVII a. vakarietiška gėrimo iš vienos taurės forma Lietuvoje galėjo plisti mėgdžiojant Lenkijos bajorus ir perimant sarmatizmo madą. Tai tyrėjo hipotezė apie papročio sklaidą.
-
-<div class="puota-object-grid">
-  <figure class="puota-figure">
-    <img src="/static/articles/puota-svecias-ir-statusas/batoro-kristolo-taure-1576-1586.jpg" alt="Kalnų krištolo taurė su Stepono Batoro monograma" loading="lazy" />
-    <figcaption>Ambrogio Sarachi, kalnų krištolo taurė su Stepono Batoro monograma, 1576–1586 m. CC0. <a href="/galerija/sarachi-kristoline-taure-su-stepono-batoro-monograma-soninis-vaizdas--m-ef41b7fd53d2c710858ba3e3">Kūrinio kortelė</a>.</figcaption>
-  </figure>
-  <figure class="puota-figure">
-    <img src="/static/articles/puota-svecias-ir-statusas/vladislovo-vazos-bratina-iki-1637.jpg" alt="Sidabrinė Vladislovo Vazos bratina iki 1637 metų" loading="lazy" />
-    <figcaption>Anoniminio meistro sukurta Vladislovo IV Vazos <em>bratina</em>, iki 1637 m. Tokie bendro gėrimo indai padeda suprasti papročio materialią formą, bet vien šis daiktas neįrodo konkretaus LDK vakaro ritualo. viešoji sritis. <a href="/galerija/vladislovo-iv-vazos-bratina-brolybes-taure--m-cd50f1693b2b343c15633be4">Kūrinio kortelė</a>.</figcaption>
-  </figure>
-</div>
-
-Jędrzejus Kitowiczius rašė, kad geriantieji paeiliui naudojosi ta pačia stikline ar taure, o likę lašai nekėlė pasibjaurėjimo. Johannas Georgas Adamas Forsteris savo ruožtu pastebėjo ilgai trunkantį gėrimą ratu ir didelius išgeriamus kiekius.
-
-<details class="article-evidence">
-  <summary><span class="article-evidence__eyebrow">5 patikrinti teiginiai</span><strong>Bendra taurė: paprotys ir liudininkai</strong></summary>
-  <div class="article-evidence__body">
-    <p class="article-evidence__claim">Bendra taurė buvo Vakarų Europos pasaulietinių ir religinių ceremonijų dalis; Laužikas jos ištakas sieja su antikos, krikščionybės ir Šiaurės <em>barbaricum</em> tradicijomis.</p>
-    <p class="article-evidence__source">Rimvydas Laužikas · citatos c-184075 ir c-184079 · <a href="/objektai/paprociai/Gerimo-is-vienos-taures-paprotys#claim-t-200730">t-200730</a> · <a href="/objektai/paprociai/Gerimas-is-vienos-taures#claim-t-200734">t-200734</a></p>
-    <p class="article-evidence__claim">Laužikas kelia hipotezę, kad LDK vakarietiška forma galėjo plisti per Lenkijos bajorų pavyzdį ir sarmatizmo madą.</p>
-    <p class="article-evidence__source">Rimvydas Laužikas · PDF p. 13 · citata c-184080 · <a href="/objektai/paprociai/Gerimas-is-vienos-taures#claim-t-200735">teiginys t-200735 ir kontekstas</a></p>
-    <p class="article-evidence__claim">Kitowiczius liudijo gėrimą paeiliui iš to paties indo, o Forsteris – ilgą gėrimą ratu ir didelius kiekius.</p>
-    <p class="article-evidence__source">Rimvydas Laužikas · PDF p. 14 · citatos c-184090 ir c-184084 · <a href="/objektai/autoriai/Jedrzej-Kitowicz#claim-t-200745">t-200745</a> · <a href="/objektai/autoriai/Johannas-Georgas-Adamas-Forsteris#claim-t-200739">t-200739</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Papročio plitimo kelias yra tyrėjo hipotezė. Šie liudijimai neįrodo, kad taip gėrė visi bajorai per kiekvienas vaišes.</p>
-  </div>
-</details>
-
-Ar tai reiškia, kad visi prie stalo staiga tapdavo lygūs? Ne. Laužiko vartojama bendrystės sąvoka nusako solidarumo demonstravimą ir pasitikėjimo kūrimą, bet nepanaikina bajorų hierarchijos, turto skirtumų ar patronų ir klientų santykių. Bendra taurė galėjo siųsti žinią „mes priklausome tam pačiam ratui“, tačiau kas kvietė, kas sėdėjo garbingiausioje vietoje ir kas galėjo pasiūlyti brangų vyną, vis tiek rodė nelygybę.
-
-## Priimti svečią reiškė išlikti reikalingam
-
-Didžiąją teoriją geriausiai patikrina maža scena. 1751 m. Jonas Dominykas Lopacinskis broliui rašė, kad jam skauda galvą, bet vis tiek reikia vykti į Panerius. Ten Tribunolo maršalas Juozapas Antanas Solohubas ir LDK artilerijos generolas Antanas Solohubas pakvietė jį „be ceremonijų“ prie „mažojo staliuko“. Burbos publikacijoje prie šios vietos skliaustuose atsargiai spėjama „[lošti kortomis?]“. Kadangi pats šaltinis palieka klaustuką, kortų žaidimo negalima paversti faktu.
-
-Net jausdamasis prastai Lopacinskis laikė būtinu vykti pasitikti pareigūnų. Kvietimas „be ceremonijų“ prie staliuko rodo siūlytą neformalų bendravimą. Apie tame susitikime vykusias derybas laiške nekalbama.
-
-Po metų Lopacinskio laiške pasirodo kitas Tribunolo maršalas — Simonas Sirutis. Jis su žmona ir kolegomis „valgęs pietus pas mus“ Antakalnyje, o vėliau turėjo išvykti nakvynei į Panerius. Laiške nenurodytas joks per šiuos pietus priimtas sprendimas ar sudarytas sandoris.
-
-<details class="article-evidence">
-  <summary><span class="article-evidence__eyebrow">2 patikrinti teiginiai</span><strong>Priėmimai Paneriuose ir Antakalnyje</strong></summary>
-  <div class="article-evidence__body">
-    <p class="article-evidence__claim">1751 m. Lopacinskis vyko į Panerius, kur Solohubai jį pakvietė „be ceremonijų“ prie mažojo staliuko.</p>
-    <p class="article-evidence__source">Domininkas Burba · PDF p. 6 · citata c-183947 · <a href="/objektai/paprociai/Tribunolo-pobuviai-ir-priemimai-Vilniuje#claim-t-200556">teiginys t-200556 ir kontekstas</a></p>
-    <p class="article-evidence__claim">1752 m. Simonas Sirutis su žmona ir bendrakeleiviais pietavo Lopacinskio namuose Antakalnyje, paskui vyko į Panerius.</p>
-    <p class="article-evidence__source">Domininkas Burba · PDF p. 6 · citata c-183947 · <a href="/objektai/paprociai/Tribunolo-pobuviai-ir-priemimai-Vilniuje#claim-t-200555">teiginys t-200555 ir kontekstas</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Kortų stalo reikšmė publikacijoje pažymėta klaustuku. Šaltinis nefiksuoja konkretaus sandorio nei per Panerių susitikimą, nei per Antakalnio pietus.</p>
-  </div>
-</details>
-
-Lopacinskis tuo metu buvo žmogus, kuriam buvimas arti elito turėjo praktinę vertę. Burba rodo, kad kanauninko paslaugumas apgyvendinant atvykstančius bajorus buvo viena iš priemonių išlaikyti įtaką, siekti karjeros sau, giminei ir šalininkams. Ši išvada tiesiogiai taikoma jo tarpininkavimui dėl būsto, o ne automatiškai kiekvieniems pietums. Vis dėlto ji padeda suprasti platesnį elgesio modelį: priimti, padėti, informuoti ir išlikti reikalingam buvo vienos socialinės strategijos dalys.
-
-Konkretūs epizodai šią išvadą pririša prie veiksmo. Jonui Augustui Hylzenui ketinant atvykti į Vilnių, Lopacinskis prašė brolio sutikimo svečią apgyvendinti giminės mūriniame name. 1757 m. jis priėmė Vitebsko kaštelioną Martyną Tiškevičių ir tarėsi dėl seimelio reikalų bei Sapiegų interesų. Kitu atveju žinome, kad artilerijos generolo Jurgio Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje. Vienur dokumentuotas būstas, kitur – pokalbio tema, dar kitur – laikinas apsistojimas. Tai leidžia namus apibūdinti kaip socialinės prieigos erdvę, tačiau neatskleidžia nei šeimininko tikėtos naudos, nei pokalbio rezultato ir neįrodo, kad kiekvienas svečias atvykdavo derėtis.
-
-<details class="article-evidence">
-  <summary><span class="article-evidence__eyebrow">3 patikrinti teiginiai</span><strong>Priėmimas peržengia stalo ribas</strong></summary>
-  <div class="article-evidence__body">
-    <p class="article-evidence__claim">Jonui Augustui Hylzenui ketinant atvykti į Vilnių, Lopacinskis prašė sutikimo jį apgyvendinti giminės mūriniame name.</p>
-    <p class="article-evidence__source">Domininkas Burba · PDF p. 10 · citata c-183868 · <a href="/objektai/asmenys/Jonas-Augustas-Hylzenas-(Minsko-vaivada,-XVIII-a.)#claim-t-200512">teiginys t-200512 ir kontekstas</a></p>
-    <p class="article-evidence__claim">1757 m. Lopacinskis priėmė Martyną Tiškevičių ir tarėsi su juo dėl seimelio reikalų bei Sapiegų interesų.</p>
-    <p class="article-evidence__source">Domininkas Burba · PDF p. 11 · citata c-183953 · <a href="/objektai/paprociai/Derybos-ir-interesu-derinimas-per-seimelius-Vilniuje#claim-t-200619">teiginys t-200619 ir kontekstas</a></p>
-    <p class="article-evidence__claim">Artilerijos generolo Jurgio Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje.</p>
-    <p class="article-evidence__source">Domininkas Burba · PDF p. 10 · citata c-183866 · <a href="/objektai/asmenys/Jurgis-Detloff-Flemming-(artilerijos-generolas,-XVIII-a.)#claim-t-200508">teiginys t-200508 ir kontekstas</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Pirmasis epizodas liudija apgyvendinimą, antrasis – pokalbio temą. Nė vienas šaltinis neleidžia sukurti nežinomo susitarimo ar rezultato.</p>
-  </div>
-</details>
-
-## Egzotinis saldumynas kaip santykio kalba
-
-Prabangos ženklas kartais telpa viename vaisiaus pavadinime. Rašydamas Mykolui Ksaverui Sapiegai apie Augusto III vardo dienos iškilmes, Lopacinskis juokavo, kad iš pradžių jie susiginčys, o paskui taikysis valgydami koadjutoriaus [[objektai/zodynas/konfitiūrai|konfitiūrus]]. Laiške vardijami ananasai, karambolos su klaustuku ir kiti neaiškiai užrašyti „indiški“ pavadinimai; jų esą privežta labai daug. Patikimas branduolys yra ananasų ir kitų egzotinių vaisių konfitiūrai. Neaiškių žodžių negalima „išversti“ į tikslų meniu.
-
-Kivirčą ir susitaikymą Lopacinskis siejo su bendromis vaišėmis. Tai humoristinė laiško užuomina, o ne žinia, kad egzotinių vaisių konfitiūrai išsprendė konkretų ginčą.
-
-<details class="article-evidence">
-  <summary><span class="article-evidence__eyebrow">Patikrintas teiginys</span><strong>Konfitiūrai ir būsimo susitaikymo vaizdinys</strong></summary>
-  <div class="article-evidence__body">
-    <p class="article-evidence__claim">1754 m. Augusto III vardo dienos iškilmių aplinkoje minėti koadjutoriaus konfitiūrai iš ananasų ir kitų egzotinių vaisių.</p>
-    <p class="article-evidence__source">Domininkas Burba · PDF p. 11 · citata c-183942 · <a href="/objektai/daiktai/Puotu-konfitiurai-is-ananasu-ir-kitu-egzotiniu-vaisiu#claim-t-200673">teiginys t-200673 ir citatos kontekstas</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Neaiškiai užrašyti vaisiai neidentifikuojami kaip tikslus meniu, o humoristinė susitaikymo formulė nelaikoma įvykusio rezultato protokolu.</p>
-  </div>
-</details>
-
-## Kai reikalai persidengdavo su pramogomis
-
-1754 m. per karnavalą Lopacinskis derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu dėl Balbieriškio valdų. Šaltinis nepasako derybų rezultato ir nemini, kad jos vyko per puotą. Todėl šis atvejis liudija tik tai, kad ekonominiai reikalai galėjo būti tvarkomi tuo pačiu pramogų sezono metu.
-
-<details class="article-evidence">
-  <summary><span class="article-evidence__eyebrow">Patikrintas teiginys</span><strong>Balbieriškio derybos per karnavalą</strong></summary>
-  <div class="article-evidence__body">
-    <p class="article-evidence__claim">1754 m. per karnavalą Lopacinskis derėjosi su Liudviku Chelchovskiu dėl Balbieriškio valdų.</p>
-    <p class="article-evidence__source">Domininkas Burba · PDF p. 7 · citata c-183863 · <a href="/objektai/asmenys/Liudvikas-Chelchovskis-(Kauno-pavieto-stalininkas,-XVIII-a.)#claim-t-200500">teiginys t-200500 ir kontekstas</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Šaltinis nemini puotos ir neatskleidžia derybų rezultato. Vienas atvejis nepaverčia kiekvieno karnavalo politiniu ar ekonominiu forumu.</p>
-  </div>
-</details>
-
-## Darbas dvaro virtuvėje ir ūkyje
-
-Dambrauskaitė virtuvę aprašo kaip šeimynykščių darbo erdvę. Maisto gaminimui reikėjo atsargų, indų ir įrankių, o vaišėms – ir aptarnavimo. Konkretaus Lopacinskio virėjo ar kitų šio priėmimo tarnų vardų aptarti šaltiniai nepateikia.
-
-Kitas Dambrauskaitės tyrimas aprašo rykūnę: ji prižiūrėjo gyvulius bei naminius paukščius ir gamino pieno produktus. Rykūnės priklausė nelaisvajai arba samdomai šeimynai. Ažnyčioje daigintas ir džiovintas salyklas. Viename šaltinyje Mykolas Petraškevičius naktį siuntė pusbernį su rykūne į klėtį alaus; kam jis buvo skirtas, nenurodyta.
 
 <details class="article-evidence">
   <summary><span class="article-evidence__eyebrow">3 patikrinti teiginiai</span><strong>Nuo tvarto ir salyklo iki klėties</strong></summary>
   <div class="article-evidence__body">
     <p class="article-evidence__claim">Rykūnė prižiūrėjo sodybos gyvulius bei naminius paukščius ir gamino pieno produktus.</p>
-    <p class="article-evidence__source">Neringa Dambrauskaitė · PDF p. 10 · citata c-186219 · <a href="/objektai/zodynas/rykune-(savoka)#claim-t-203615">teiginys t-203615 ir kontekstas</a></p>
+    <p class="article-evidence__source">Neringa Dambrauskaitė · PDF p. 10 · citata c-186219 · <a href="/objektai/zodynas/rykune-(savoka)/irodymai#claim-t-203615">teiginys t-203615 ir kontekstas</a></p>
     <p class="article-evidence__claim">Ažnyčioje buvo daiginamas ir džiovinamas salyklas.</p>
-    <p class="article-evidence__source">Neringa Dambrauskaitė · PDF p. 6 · citata c-186220 · <a href="/objektai/zodynas/aznycia-(savoka)#claim-t-203616">teiginys t-203616 ir kontekstas</a></p>
+    <p class="article-evidence__source">Neringa Dambrauskaitė · PDF p. 6 · citata c-186220 · <a href="/objektai/zodynas/aznycia-(savoka)/irodymai#claim-t-203616">teiginys t-203616 ir kontekstas</a></p>
     <p class="article-evidence__claim">Mykolas Petraškevičius naktį siuntė pusbernį su rykūne į klėtį alaus.</p>
-    <p class="article-evidence__source">Neringa Dambrauskaitė · PDF p. 8 · citata c-186223 · <a href="/objektai/asmenys/Mykolas-Petraskevicius#claim-t-203619">teiginys t-203619 ir kontekstas</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Naktinis alaus atnešimas liudija namų ūkio logistiką, bet citata nemini nei svečių, nei puotos. Sąsaja su svetingumu čia yra atsargiai apribota straipsnio sintezė.</p>
+    <p class="article-evidence__source">Neringa Dambrauskaitė · PDF p. 8 · citata c-186223 · <a href="/objektai/asmenys/Mykolas-Petraskevicius/irodymai#claim-t-203619">teiginys t-203619 ir kontekstas</a></p>
+    <p class="article-evidence__limit"><strong>Šaltinio pastaba.</strong> Naktinio alaus paėmimo epizode svečiai neminimi; jis panaudotas namų ūkio darbui paaiškinti. Dambrauskaitė rykūnės pareigas plačiau aptaria p. 18 (PDF p. 10).</p>
   </div>
 </details>
 
-1752 m. pietų aprašyme tarp svečių minima ir Simono Siručio žmona. Laiškas neatskleidžia jos vaidmens rengiant priėmimą ar aptariant reikalus.
+## Ką rodė vynas
 
-## Kada bendra taurė tapo atgrasi?
+XVI a. į LDK atkeliaudavo vynų iš Vengrijos, Italijos, Prancūzijos, Ispanijos ir kitur. Dambrauskaitės aptariamoje medžiagoje vengriškas vynas buvo prieinamesnis, o malmazija — reta ir brangi. Autorė vyno vartojimą sieja su aukštu statusu. Vaišinant svečius brangus gėrimas leido tą statusą parodyti: šeimininkas turėjo iš ko jį nupirkti ir galėjo dalytis.
 
-Papročiai keičiasi ir tuomet, kai pasikeičia kūno bei higienos samprata. XVIII ir XIX a. sandūroje gėrimas iš vienos taurės Lietuvos bajorų kultūroje nyko. Laužikas šį lūžį sieja su Apšvietos idėjomis; atskiri indai vis labiau tiko naujam individualumo ir švaros supratimui.
+1738 m. Marcijonas Mykolas Oginskis iš Vengrijos užsakė 25 statines vyno: trylika seno įprastinio, dvi seno iš sausų uogų ir dešimt dviejų rūšių jauno. Už vyną sumokėjo 274 raudonuosius auksinus, o atgabenimas į Vilnių kainavo dar 125. Transportui teko beveik pusė pačios prekės kainos. Aprūpinti dvarą reiškė apmokėti ir ilgą prekių kelią.
 
-Silezijos gydytojas Janas Józefas Kauschas paprotį vertino kaip nehigienišką. Kiti XVIII a. Abiejų Tautų Respublikos stebėtojai tą pačią praktiką aiškino skirtingai — kaip svetingumo ženklą, seną paprotį arba paprasčiausią indų trūkumą.
+Vyno pasirinkimas ilgainiui darėsi įvairesnis. Laužikas pažymi, kad šiam gėrimui plintant tarp platesnių pasiturinčiųjų sluoksnių, didikus išskyrė šampanas. Keitėsi pati prabangos kartelė: reikšmės turėjo ir rūšis, kilmė bei proga, kuriai gėrimas skirtas.
 
-Ši kaita užbaigia pasakojimo lanką. XVI a. statusą padėjo rodyti retas vynas, prieskoniai ir žvėriena; XVII–XVIII a. bendra taurė galėjo žymėti solidarumą; XVIII a. pabaigoje tas pats dalijimasis indu jau susidūrė su nauja higienos norma. Svetingumas neišnyko, bet jo priimtina forma pasikeitė.
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">Vyno pirkimas ir vartojimas</span><strong>Vyno kiekis ir socialinė skirtis</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__claim">1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko 25 statines kelių rūšių seno ir jauno vyno už 274 raudonuosius auksinus.</p>
+    <p class="article-evidence__source">Rimvydas Laužikas · PDF p. 3 · citata c-185903 · <a href="/objektai/vietos/Vengrija/irodymai#claim-t-202545">teiginys t-202545 ir kontekstas</a></p>
+    <p class="article-evidence__claim">Vyno atgabenimas į Vilnių kainavo dar 125 raudonuosius auksinus.</p>
+    <p class="article-evidence__source">Rimvydas Laužikas · p. 13 (PDF p. 3) · citata c-184064 · <a href="/objektai/vietos/Vengrija/irodymai#claim-t-200719">teiginys t-200719 ir kontekstas</a></p>
+    <p class="article-evidence__claim">Laužiko vertinimu, šampanas tapo didikų ir paprastosios bajorijos skiriamuoju ženklu.</p>
+    <p class="article-evidence__source">Rimvydas Laužikas · PDF p. 3 · citata c-185906 · <a href="/objektai/vietos/Sampane-(vieta)/irodymai#claim-t-202548">teiginys t-202548 ir kontekstas</a></p>
+    <p class="article-evidence__limit"><strong>Šaltinio pastaba.</strong> Sąskaita aprašo vyno pirkimą ir atgabenimą, ne vienos puotos sąnaudas. Šampano socialinę reikšmę apibendrina Laužikas.</p>
+  </div>
+</details>
+
+## Taurė, kuri ėjo iš rankų į rankas
+
+Per vaišes buvo svarbu ir tai, kaip geriama. Laužikas gėrimą iš vienos taurės aiškina kaip bendrystės raišką: dalijantis indu buvo viešai rodomas artumas ir priklausymas susirinkusiųjų ratui. Tyrėjas šį paprotį lygina su Vakarų Europos religinėmis bei pasaulietinėmis ceremonijomis. Jo manymu, XVI–XVII a. vakarietiška papročio forma Lietuvoje galėjo plisti per Lenkijos bajorų pavyzdį ir sarmatizmo madą.
+
+<div class="puota-object-grid">
+<figure class="puota-figure">
+    <img src="/static/articles/puota-svecias-ir-statusas/batoro-kristolo-taure-1576-1586.jpg" alt="Kalnų krištolo taurė su Stepono Batoro monograma" loading="lazy" />
+    <figcaption>Ambrogio Sarachi, kalnų krištolo taurė su Stepono Batoro monograma, 1576–1586 m. Bavarijos nacionalinis muziejus. Nuotrauka: „Wikimedia Commons“ naudotojas Artinpl, CC0. <a href="/galerija/sarachi-kristoline-taure-su-stepono-batoro-monograma-soninis-vaizdas--m-ef41b7fd53d2c710858ba3e3">Kūrinio kortelė</a>.</figcaption>
+  </figure>
+<figure class="puota-figure">
+    <img src="/static/articles/puota-svecias-ir-statusas/vladislovo-vazos-bratina-iki-1637.jpg" alt="Vladislovo Vazos bratina su dangteliu, dekoruota spalvotais akmenimis" loading="lazy" />
+    <figcaption>Vladislovo IV Vazos <em>bratina</em> — brolybės taurė, iki 1637 m.; meistras nežinomas. Vienos meno istorijos muziejus. Nuotrauka: „Wikimedia Commons“ naudotojas BurgererSF, viešoji sritis. <a href="/galerija/vladislovo-iv-vazos-bratina-brolybes-taure--m-cd50f1693b2b343c15633be4">Kūrinio kortelė</a>.</figcaption>
+  </figure>
+</div>
+
+Laužiko aptarti autoriai aprašo du būdus: iš didelės ratu siunčiamos taurės kiekvienas tik gurkštelėdavo arba mažesnę taurę ištuštindavo, vėl pripildavo ir perduodavo kitam. Papročių aprašytojas Jędrzejus Kitowiczius (Jędrzej Kitowicz) mini ir šiandien neįprastą detalę — kitam geriančiajam netrukdė nuo ūsų į taurę patekę lašai.
+
+Kitowicziaus aprašytoje tostų sekoje šeimininkas pirmasis gėrė į garbingiausio svečio sveikatą. Atsistojus jam, stodavosi ir kiti; paskui taurė keliaudavo svečiui. Autorius net pajuokavo, kad nuolat stojantis ir sėdantis buvo galima pavargti anksčiau, negu apsvaigti. Bendras veiksmas jungė susirinkusiuosius, tačiau sykiu pabrėžė rangą: svarbiausiam svečiui teko pirmasis pagerbimas. Ilgai trunkantį gėrimą ratu ir didelius kiekius pastebėjo ir gamtininkas Georgas Forsteris (Johann Georg Adam Forster).
+
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">Papročio tyrimas ir liudijimai</span><strong>Bendra taurė: paprotys ir liudininkai</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__claim">Bendra taurė buvo Vakarų Europos pasaulietinių ir religinių ceremonijų dalis; Laužikas jos ištakas sieja su antikos, krikščionybės ir Šiaurės <em>barbaricum</em> tradicijomis.</p>
+    <p class="article-evidence__source">Rimvydas Laužikas · p. 17, 26 · citata c-184075 · <a href="/objektai/paprociai/Gerimo-is-vienos-taures-paprotys/irodymai#claim-t-200730">teiginys t-200730</a> · <a href="https://www.llti.lt/failai/TD51%20internetui-1-21.pdf#page=16">tyrėjo išvados leidinio tekste</a></p>
+    <p class="article-evidence__claim">Laužikas kelia hipotezę, kad LDK vakarietiška forma galėjo plisti per Lenkijos bajorų pavyzdį ir sarmatizmo madą.</p>
+    <p class="article-evidence__source">Rimvydas Laužikas · p. 23, 26 (PDF p. 13, 16) · <a href="https://www.llti.lt/failai/TD51%20internetui-1-21.pdf#page=13">papročio plitimo hipotezė</a>.</p>
+    <p class="article-evidence__claim">Kitowiczius liudijo gėrimą paeiliui iš to paties indo, o Forsteris – ilgą gėrimą ratu ir didelius kiekius.</p>
+    <p class="article-evidence__source">Rimvydas Laužikas · PDF p. 14 · citatos c-184090 ir c-184084 · <a href="/objektai/autoriai/Jedrzej-Kitowicz/irodymai#claim-t-200745">t-200745</a> · <a href="/objektai/autoriai/Johannas-Georgas-Adamas-Forsteris/irodymai#claim-t-200739">t-200739</a></p>
+    <p class="article-evidence__source">Du gėrimo būdai ir tostų seka: Laužikas, p. 24 (PDF p. 14), remiantis Kitowicziaus, Vautrino ir Beauplano pasakojimais.</p>
+    <p class="article-evidence__limit"><strong>Šaltinio pastaba.</strong> Papročio plitimo kelias — Laužiko hipotezė. Kitowicziaus ir kitų autorių liudijimai čia pateikiami pagal jo tyrimą.</p>
+  </div>
+</details>
+
+## Užgavėnės pas Vitebsko raštininką
+
+Kitokį vaišių vaizdą išsaugojo anoniminis eilėraštis apie 1651 m. Užgavėnes Vitebsko žemės raštininko Mikalojaus Kisieliaus (Mikołaj Kisiel) namuose, šaltinyje vadinamoje Maszkiewicze vietovėje. Mariolos Jarczykowos išnagrinėtame kūrinyje husarai atvyksta pietų, giriamas maistas, vyno gausa ir šeimininkų svetingumas.
+
+Ypač daug dėmesio tenka šeimininko dukrai Eufrozinai (Eufrozyna): autorius žavisi jos išvaizda ir elgesiu, vaizduoja taurės padavimą, raginimą išgerti ir svečių šūksnius. Svetingumas čia turi ir žaismingumo, ir spaudimo priimti siūlomą gėrimą. Eilėraštis aukština šeimininkus, todėl jo perdėjimų nereikia laikyti suvartoto vyno apskaita. Tačiau jame gerai matyti, už ką jie giriami: gausą, dėmesį svečiams ir gebėjimą įtraukti juos į bendrą linksmybę.
+
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">Papildomas tyrimas</span><strong>1651 m. vaišių aprašymas eilėmis</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__claim">Jarczykowa aptaria anoniminį kūrinį apie husarų Užgavėnes pas Kisielių; pateikia jo ištraukas ir šeimininko tapatybės paaiškinimą.</p>
+    <p class="article-evidence__source">Mariola Jarczykowa, 2019 · p. 219–221 (PDF p. 9–11) · <a href="https://rl-ihpan.edu.pl/images/2019-Tom5/06_Jarczykowa.pdf#page=9">tyrimas ir publikuotos ištraukos</a> · rankraštis: Biblioteka Jagiellońska, Przyb. 217/61, l. 154v–155.</p>
+    <p class="article-evidence__limit">Remiamasi tyrėjos publikacija; pats rankraštis šiame darbe neperžiūrėtas. Tekstas yra proginė poezija.</p>
+  </div>
+</details>
+
+## Pakviesti, apgyvendinti, išlikti reikalingam
+
+XVIII a. vidurio Vilniuje svetingumas glaudžiai siejosi su teismų ir seimelių gyvenimu. Jono Dominyko Lopacinskio (Jan Dominik Łopaciński) korespondencijoje susitikimai ir praktiniai reikalai nuolat eina greta. Burba, nagrinėjęs šiuos laiškus, parodė, kaip paslaugumas padėjo Lopacinskiui palaikyti įtaką ir siekti karjeros sau, giminei bei šalininkams.
+
+1751 m. Lopacinskis broliui skundėsi galvos skausmu, tačiau vis tiek turėjo vykti į Panerius susitikti su Tribunolo maršalu Juozapu Antanu Solohubu (Józef Antoni Sołłohub) ir artilerijos generolu Antanu Solohubu (Antoni Sołłohub). Šie jį pakvietė pietų „be ceremonijų“, prie mažojo staliuko. Kvietimas skambėjo neformaliai, bet dalyvavimas jam buvo pakankamai svarbus, kad vyktų prastai jausdamasis. Tokiose aplinkybėse buvimas kartu pagrįstai laikytinas ryšių palaikymu.
+
+1752 m. kitas Tribunolo maršalas, Simonas Sirutis, su žmona ir kolegomis pietavo Lopacinskio namuose Antakalnyje, o nakvoti turėjo išvykti į Panerius. Pareigūnų bendravimas įtraukė ir šeimos narius, vyko namuose bei kelionėje tarp apsistojimo vietų.
+
+<figure class="puota-figure puota-figure--wide">
+  <img src="/static/articles/puota-svecias-ir-statusas/vilnius-1576.jpg" alt="Georgo Brauno ir jo bendradarbių 1576 metų Vilniaus panorama" loading="lazy" />
+  <figcaption>Georgas Braunas (Georg Braun) ir bendradarbiai, Vilniaus vaizdas: nupieštas 1576 m., paskelbtas 1581 m. leidinyje <em>Civitates orbis terrarum</em>. Skaitmeninė kopija — Jeruzalės hebrajų universiteto ir tuometės Žydų nacionalinės bei universitetinės bibliotekos „Historic Cities“ rinkinys. Viešoji sritis. <a href="/galerija/vilniaus-miesto-planas-1576-m--m-d9c7a19da6f6d56ef839a3f8">Vaizdo kortelė</a>.</figcaption>
+</figure>
+
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">2 patikrinti teiginiai</span><strong>Priėmimai Paneriuose ir Antakalnyje</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__claim">1751 m. Lopacinskis vyko į Panerius, kur Solohubai jį pakvietė „be ceremonijų“ pietų prie mažojo staliuko.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 6 · citata c-183947 · <a href="/objektai/paprociai/Tribunolo-pobuviai-ir-priemimai-Vilniuje/irodymai#claim-t-200556">teiginys t-200556 ir kontekstas</a></p>
+    <p class="article-evidence__claim">1752 m. Simonas Sirutis su žmona ir bendrakeleiviais pietavo Lopacinskio namuose Antakalnyje, paskui vyko į Panerius.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 6 · citata c-183947 · <a href="/objektai/paprociai/Tribunolo-pobuviai-ir-priemimai-Vilniuje/irodymai#claim-t-200555">teiginys t-200555 ir kontekstas</a></p>
+    <p class="article-evidence__limit"><strong>Šaltinio pastaba.</strong> Burbos pasakojime prie mažojo staliuko pateikta spėlionė apie kortas. Tačiau p. 40, 22 išnašoje publikuojamoje laiško ištraukoje tiesiogiai minima „na obiad do małego stolika“ — pietų prie mažojo staliuko (šio straipsnio vertimas). Rankraštis šiame darbe neperžiūrėtas.</p>
+  </div>
+</details>
+
+Lopacinskis padėdavo ir rasti būstą. Jonui Augustui Hylzenui (Jan August Hylzen) ketinant atvykti į Vilnių, jis prašė brolio sutikimo svečią apgyvendinti giminės mūriniame name. Jo rezidencijoje kurį laiką gyveno ir artilerijos generolo Jurgio Flemmingo sutuoktinė Antanina. Tokia pagalba suteikdavo progų susitikti ir palaikyti pažintį, o šeimininkas likdavo žmogumi, į kurį galima kreiptis.
+
+Kai kurių pokalbių turinys žinomas konkrečiai. 1757 m. priėmęs Vitebsko kaštelioną Martyną Tiškevičių, Lopacinskis tarėsi dėl seimelio reikalų ir Sapiegų interesų. Šiuo atveju svečio priėmimą su politiniu veikimu sieja pats laiškas. Kartu tai padeda suprasti, kodėl buvo verta puoselėti ryšius ir tada, kai susitikimas apsiribodavo pietumis: pažįstami žmonės galėjo vėliau tapti reikalingais pašnekovais.
+
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">3 patikrinti teiginiai</span><strong>Priėmimas peržengia stalo ribas</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__claim">Jonui Augustui Hylzenui ketinant atvykti į Vilnių, Lopacinskis prašė sutikimo jį apgyvendinti giminės mūriniame name.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 10 · citata c-183868 · <a href="/objektai/asmenys/Jonas-Augustas-Hylzenas-(Minsko-vaivada,-XVIII-a.)/irodymai#claim-t-200512">teiginys t-200512 ir kontekstas</a></p>
+    <p class="article-evidence__claim">1757 m. Lopacinskis priėmė Martyną Tiškevičių ir tarėsi su juo dėl seimelio reikalų bei Sapiegų interesų.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 11 · citata c-183953 · <a href="/objektai/paprociai/Derybos-ir-interesu-derinimas-per-seimelius-Vilniuje/irodymai#claim-t-200619">teiginys t-200619 ir kontekstas</a></p>
+    <p class="article-evidence__claim">Artilerijos generolo Jurgio Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 10 · citata c-183866 · <a href="/objektai/asmenys/Jurgis-Detloff-Flemming-(artilerijos-generolas,-XVIII-a.)/irodymai#claim-t-200508">teiginys t-200508 ir kontekstas</a></p>
+    <p class="article-evidence__limit"><strong>Šaltinio pastaba.</strong> Laiškai atskirai liudija ketinimą apgyvendinti Hylzeną, Flemmingienės viešnagę ir pokalbį su Tiškevičiumi. Pastarojo pokalbio rezultatas nenurodytas.</p>
+  </div>
+</details>
+
+## Saldumynai ir reikalai per karnavalą
+
+Lopacinskio laiškuose liko ir jo paties humoro. 1754 m., rašydamas Mykolui Ksaverui Sapiegai apie Augusto III vardadienio iškilmes, jis žadėjo iš pradžių susirieti, o paskui taikytis valgant koadjutoriaus konfitiūrus — cukruje virtus vaisius. Minimi ananasai ir kiti egzotiniai vaisiai, kurių dalies pavadinimai publikacijoje liko neaiškūs. Gausiai atgabenti saldumynai tiko pasigirti šventės prašmatnumu; būsimo kivirčo ir susitaikymo juokas suteikė laiškui asmeniškumo.
+
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">Patikrintas teiginys</span><strong>Konfitiūrai ir būsimo susitaikymo vaizdinys</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__claim">1754 m. Augusto III vardo dienos iškilmių aplinkoje minėti koadjutoriaus konfitiūrai iš ananasų ir kitų egzotinių vaisių.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 11 · citata c-183942 · <a href="/objektai/daiktai/Puotu-konfitiurai-is-ananasu-ir-kitu-egzotiniu-vaisiu/irodymai#claim-t-200673">teiginys t-200673 ir citatos kontekstas</a></p>
+    <p class="article-evidence__limit"><strong>Šaltinio pastaba.</strong> Susiriejimas ir susitaikymas minimi kaip būsimas veiksmas, juokaujant. Dalies vaisių pavadinimai publikacijoje neaiškūs.</p>
+  </div>
+</details>
+
+Tais pačiais metais per karnavalą Lopacinskis derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik Chełchowski) dėl Balbieriškio valdų. Pramogų sezonas sutelkė žmones ir suteikė progų tvarkyti reikalus. Pobūviai, viešnagės ir derybos tilpo tame pačiame bendravimo kalendoriuje, o pažintys buvo naudingos pereinant nuo vieno prie kito.
+
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">Patikrintas teiginys</span><strong>Balbieriškio derybos per karnavalą</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__claim">1754 m. per karnavalą Lopacinskis derėjosi su Liudviku Chelchovskiu dėl Balbieriškio valdų.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 7 · citata c-183863 · <a href="/objektai/asmenys/Liudvikas-Chelchovskis-(Kauno-pavieto-stalininkas,-XVIII-a.)/irodymai#claim-t-200500">teiginys t-200500 ir kontekstas</a></p>
+    <p class="article-evidence__limit"><strong>Šaltinio pastaba.</strong> Laiškas nurodo karnavalo metą, bet ne konkrečią puotą ar derybų rezultatą.</p>
+  </div>
+</details>
+
+## Šventinis ir kasdienis gėrimas
+
+Didelė puota išsiskirdavo ir iš paties didiko kasdienybės. Dorota Dias-Lewandowska, nagrinėjusi XVIII a. pabaigos gėrimų apskaitą Lenkijos didikų rezidencijose ir valdovo dvare, rado aiškią progų skirtį. Aleksandros Oginskienės (Aleksandra Ogińska) dvare Sedlcuose (Siedlce) kasdien dažniausiai vartotas vietinis alus ir stalo vynas. Atvykstant ar išvykstant svečiams būdavo patiekiama ir brangesnių gėrimų. Šis palyginimas padeda suprasti prabangos reikšmę: svečio pagerbimui svarbus galėjo būti pats įprasto aprūpinimo pakeitimas.
+
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">Papildomas tyrimas</span><strong>Kasdienė apskaita ir išskirtinės progos</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__source">Dorota Dias-Lewandowska, 2019 · p. 360, 366–368 (PDF p. 6, 12–14) · <a href="https://journals.iaepan.pl/khkm/article/download/2328/2199#page=12">tekstas ir apskaitos analizė</a> · <a href="https://doi.org/10.23858/KHKM67.2019.3.005">leidinio įrašas</a>.</p>
+    <p class="article-evidence__limit">Tai lyginamasis Lenkijos dvarų kontekstas. Autorė perspėja, kad ne visur žinomas valgiusių žmonių skaičius; bendras išduotų gėrimų kiekis nėra vienam asmeniui tenkantis suvartojimas.</p>
+  </div>
+</details>
+
+Keitėsi ir bendro gėrimo priimtinumas. Laužikas papročio gerti iš vienos taurės nykimą XVIII–XIX a. sandūroje sieja su Apšvietos idėjomis. Jo cituojamam Silezijos gydytojui Kauschui nepatiko po valgio dalytis neišplauta taure. Kiti svetimšaliai tą patį paprotį aiškino svetingumu, sena tradicija ar indų stoka. Išsiskyrė ir vertinimai, ir stebėtos aplinkybės: iškilmingai siunčiama taurė turėjo kitą prasmę negu dalijimasis indu, kai jų tiesiog trūko.
 
 <details class="article-evidence">
   <summary><span class="article-evidence__eyebrow">3 patikrinti teiginiai</span><strong>Kodėl bendra taurė nyko?</strong></summary>
   <div class="article-evidence__body">
     <p class="article-evidence__claim">XVIII ir XIX a. sandūroje gėrimo iš vienos taurės paprotys Lietuvos bajorų kultūroje nyko; Laužikas kaitą sieja su Apšvietos idėjomis.</p>
-    <p class="article-evidence__source">Rimvydas Laužikas · PDF p. 16 · citata c-184076 · <a href="/objektai/paprociai/Gerimo-is-vienos-taures-paprotys#claim-t-200731">teiginys t-200731 ir kontekstas</a></p>
-    <p class="article-evidence__claim">Janas Józefas Kauschas gėrimą iš vienos taurės laikė nehigienišku; kiti svetimšaliai jį aiškino ir kaip svetingumą, seną paprotį ar indų trūkumą.</p>
-    <p class="article-evidence__source">Rimvydas Laužikas · citatos c-184077 ir c-184056 · <a href="/objektai/paprociai/Gerimo-is-vienos-taures-paprotys#claim-t-200732">t-200732</a> · <a href="/objektai/vietos/Abieju-Tautu-Respublika#claim-t-200711">t-200711</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Tai bendroji kultūrinio pokyčio kryptis, ne vienu metu ir dėl vienos priežasties visuose dvaruose įvykęs lūžis.</p>
+    <p class="article-evidence__source">Rimvydas Laužikas · p. 26 (PDF p. 16) · <a href="https://www.llti.lt/failai/TD51%20internetui-1-21.pdf#page=16">papročio kaitos aptarimas</a>.</p>
+    <p class="article-evidence__claim">Silezijos gydytojas Kauschas gėrimą iš vienos taurės laikė nehigienišku; kiti svetimšaliai jį aiškino ir kaip svetingumą, seną paprotį ar indų trūkumą.</p>
+    <p class="article-evidence__source">Rimvydas Laužikas · citatos c-184077 ir c-184056 · <a href="/objektai/paprociai/Gerimo-is-vienos-taures-paprotys/irodymai#claim-t-200732">t-200732</a> · <a href="/objektai/vietos/Abieju-Tautu-Respublika/irodymai#claim-t-200711">t-200711</a></p>
+    <p class="article-evidence__limit"><strong>Šaltinio pastaba.</strong> Laužikas apibendrina ilgalaikį papročio kitimą, o svetimšalių vertinimai priklauso nuo jų patirties bei stebėtų aplinkybių.</p>
   </div>
 </details>
 
-## Vaišės ir bajoro ryšiai
+Geram priėmimui reikėjo suprasti, ko svečias tikisi. Brangesnis vynas, pirmasis tostas jo garbei, pietūs be ceremonijų ar parūpinta nakvynė buvo skirtingi dėmesio ženklai. Jie leido parodyti šeimininko galimybes ir tęsti pažintį. Svetingumo vertė išlikdavo ir išsiskirsčius svečiams — žmogus prisimindavo, pas ką buvo laukiamas ir į ką galėtų kreiptis kitą kartą.
 
-Aptartuose šaltiniuose svečiavimasis siejamas su keliomis bajorų gyvenimo sritimis:
-
-1. <details class="article-claim-inline"><summary><strong>Statuso rodymas.</strong> Importuotas vynas, prieskoniai ir egzotiniai konfitiūrai demonstravo išteklius bei prieigą prie tolimų prekių.</summary><div class="article-claim-inline__evidence"><span>Šaltiniai ir teiginiai</span><div><a href="../../objektai/saltiniai/Lituanistika-53374-Bajoru-virtuve-01-lietuvos-did-iosios-kunigaik-tyst-s-bajor-virtuv">Dambrauskaitė, p. 76–78</a> · <a href="../../objektai/daiktai/Puotu-konfitiurai-is-ananasu-ir-kitu-egzotiniu-vaisiu#claim-t-200673">Ananasų konfitiūrų teiginys ir citata</a></div></div></details>
-2. <details class="article-claim-inline"><summary><strong>Bendrystės demonstravimas.</strong> Gėrimas iš vienos taurės Laužiko analizėje buvo socialinio solidarumo ir korporatyvinės bendrystės veiksmas.</summary><div class="article-claim-inline__evidence"><span>Šaltiniai ir teiginiai</span><div><a href="../../objektai/paprociai/Gerimo-is-vienos-taures-paprotys#claim-t-200730">Europinis ceremoninis kontekstas</a> · <a href="../../objektai/zodynas/Korporatyvine-bendryste">LDK bajorijos interpretacija</a></div></div></details>
-3. <details class="article-claim-inline"><summary><strong>Prieigos palaikymas.</strong> Priėmimai Antakalnyje ir Paneriuose rodė, kad aukštų pareigūnų socialinis gyvenimas vyko namų bei išvykų erdvėse; Lopacinskio paslaugumas platesniame kontekste padėjo jam išlaikyti įtaką.</summary><div class="article-claim-inline__evidence"><span>Šaltiniai ir teiginiai</span><div><a href="../../objektai/paprociai/Tribunolo-pobuviai-ir-priemimai-Vilniuje#claim-t-200555">Antakalnis, 1752 m.</a> · <a href="../../objektai/paprociai/Tribunolo-pobuviai-ir-priemimai-Vilniuje#claim-t-200556">Paneriai, 1751 m.</a> · <a href="../../objektai/saltiniai/Domininkas-Burba,-Bajoru-gyvenimo-peripetijos-XVIII-amziaus-vidurio-Lietuvos-Didziosios-Kunigaikstystes-sostineje-pagal-Vilniaus-kanauninko-Jono-Dominyko-Lopac-f1f2c60ede">Burbos išvados</a></div></div></details>
-4. <details class="article-claim-inline"><summary><strong>Reikalų ir pramogų sambūvis.</strong> Balbieriškio derybos per 1754 m. karnavalą yra konkretus, bet vienetinis įrodymas, kad ekonominiai reikalai galėjo būti tvarkomi pramogų sezono metu.</summary><div class="article-claim-inline__evidence"><span>Šaltinis ir teiginys</span><div><a href="../../objektai/asmenys/Liudvikas-Chelchovskis-(Kauno-pavieto-stalininkas,-XVIII-a.)#claim-t-200500">Teiginys t-200500 ir citata c-183863</a></div></div></details>
-5. <details class="article-claim-inline"><summary><strong>Namų ūkio sutelkimas.</strong> Šeimininko statusą kūrė ne vien jo turtas: gyvulius prižiūrintys, produktus gaminantys ir pono pavedimus vykdantys žmonės palaikė materialų svetingumo pagrindą.</summary><div class="article-claim-inline__evidence"><span>Šaltiniai ir teiginiai</span><div><a href="../../objektai/zodynas/rykune-(savoka)#claim-t-203615">Rykūnės darbai</a> · <a href="../../objektai/asmenys/Mykolas-Petraskevicius#claim-t-203619">Alaus paėmimas iš klėties</a></div></div></details>
-
-Vaišėse bajorai rodė savo statusą ir palaikė ryšius. Kartais tie ryšiai virsdavo derybomis; kartais susitikimas likdavo pietumis, karnavalu ar ilgu gėrimu ratu.
-
-<aside class="article-read-next"><strong>Skaitykite toliau.</strong> Kaip tie patys žmonės judėjo tarp Vilniaus prieigų, seimelių, Tribunolo, rūmų ir naktinių pramogų, pasakoja straipsnis <a href="/straipsniai/viena-diena-xviii-a-vilniuje">„Viena diena XVIII a. Vilniuje“</a>.</aside>
+<aside class="article-read-next"><strong>Skaitykite toliau.</strong> Apie XVIII a. Vilniaus susitikimų vietas, Tribunolą ir pramogas — <a href="/straipsniai/viena-diena-xviii-a-vilniuje">„Viena diena XVIII a. Vilniuje“</a>.</aside>
 
 ## Naudoti tyrimai
 
@@ -237,5 +242,5 @@ Vaišėse bajorai rodė savo statusą ir palaikė ryšius. Kartais tie ryšiai v
 - Neringa Dambrauskaitė, „Ką sutiktume pravėrę bajoro sodybos vartus? Tarnai ir šeimynykščiai Lietuvos Didžiosios Kunigaikštystės bajorų namų ūkyje XVI amžiuje ir XVII amžiaus pirmoje pusėje“, _Lietuvos istorijos studijos_, t. 34, 2014. [[objektai/saltiniai/Lituanistika-61725-Bajoro-sodybos-tarnai-ir-seimynykciai-01-k-sutikume-prav-r-bajoro-sodybos-vartus-tarnai-i|Šaltinio puslapis]]
 - Rimvydas Laužikas, „Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje“, _Tautosakos darbai_, t. 51, 2016. [[objektai/saltiniai/Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)|Šaltinio puslapis]]
 - Domininkas Burba, „Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją“, _Istorija_, t. 97, Nr. 1, 2015, p. 26–46. [[objektai/saltiniai/Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede|Šaltinio puslapis]]
-
-<p class="puota-editorial-note"><strong>Redakcinė pastaba.</strong> Straipsnyje sąmoningai atskirti trys lygmenys: duomenų bazėje patikrintas faktas, cituojamo istoriko interpretacija ir kelių šaltinių pagrindu šiame tekste siūloma sintezė. Kur šaltinis palieka klaustuką arba liudija tik ketinimą, neapibrėžtumas išsaugotas.</p>
+- Mariola Jarczykowa, „Husarskie zabawy piórem. Obraz towarzystwa rycerskiego w wierszach z rękopisu Biblioteki Jagiellońskiej“, _Rocznik Lituanistyczny_, t. 5, 2019, p. 211–232. [DOI ir leidinio įrašas](https://doi.org/10.12775/RL.2019.5.06); [tekstas](https://rl-ihpan.edu.pl/images/2019-Tom5/06_Jarczykowa.pdf).
+- Dorota Dias-Lewandowska, „From the cellar to the table. Modesty, moderation and economy of Polish nobles’ drinking culture in the second half of the 18th century (based on inventories of drinks served in noble and aristocratic households)“, _Kwartalnik Historii Kultury Materialnej_, t. 67, Nr. 3, 2019, p. 359–370. [Leidinio įrašas su lenkišku pavadinimu](https://doi.org/10.23858/KHKM67.2019.3.005); [skaitytas tekstas anglų kalba](https://journals.iaepan.pl/khkm/article/download/2328/2199).
