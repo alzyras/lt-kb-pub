@@ -90,3 +90,4 @@ Pastato viduje buvo pastatyti tik gultai, o kėdžių ir kitokių baldų nebuvo.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

@@ -202,3 +202,4 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-230631
+

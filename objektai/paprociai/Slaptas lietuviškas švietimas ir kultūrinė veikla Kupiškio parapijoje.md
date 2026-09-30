@@ -144,3 +144,4 @@ Po 1863–1864 m. sukilimo Kupiškio bažnyčia tapo slapto lietuviško švietim
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-003
+

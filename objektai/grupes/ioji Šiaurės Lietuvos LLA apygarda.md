@@ -78,3 +78,4 @@ Partizaninio karo pradžioje dalis Kupiškio apylinkių kovotojų priklausė 3-i
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

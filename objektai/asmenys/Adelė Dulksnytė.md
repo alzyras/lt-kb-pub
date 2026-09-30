@@ -104,3 +104,4 @@ canonical_biography: "1948 m. sausio 3 d. Duoniūnų kaime per operaciją buvo s
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

@@ -94,3 +94,4 @@ Laikraščio „Kupiškėnų mintys“ redakcijos kolektyvas minėjo reikšminge
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

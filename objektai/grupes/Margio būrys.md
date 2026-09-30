@@ -86,3 +86,4 @@ Margio būrys veikė Kamajų valsčiuje, jame kovojo svėdasiškiai partizanai, 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

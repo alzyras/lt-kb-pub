@@ -139,3 +139,4 @@ Noriūnuose iš dolomito plokščių buvo pastatyti kumetynas ir du bokštai. Jo
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

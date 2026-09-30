@@ -59,3 +59,4 @@ Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubili
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-09-28 18:31"
+

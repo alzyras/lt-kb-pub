@@ -83,3 +83,4 @@ Miesto valdžia ir etnografijos muziejus prisideda prie Kupiškio žydų paveldo
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

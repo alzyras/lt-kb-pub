@@ -90,3 +90,4 @@ Kupiškio mieste ir kaimuose karčemos bei aludės minimos jau XVI a. pabaigoje;
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

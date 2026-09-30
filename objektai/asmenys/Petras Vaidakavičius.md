@@ -145,3 +145,4 @@ Petras Vaidakavičius, Kosto sūnus, gimė 1905 m. Trakinių kaime, Ukmergės va
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-004
+

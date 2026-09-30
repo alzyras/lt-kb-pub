@@ -117,3 +117,4 @@ Romo Petronio būrys daugiausia veikė Alizavos, Žadeikių, Kupreliškio ir Bak
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

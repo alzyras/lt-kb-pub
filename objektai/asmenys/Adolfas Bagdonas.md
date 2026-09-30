@@ -95,3 +95,4 @@ Adolfas Bagdonas-Beržas gimė 1916 m. Kalnių kaime, Pumpėnų valsčiuje; jis 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

@@ -87,3 +87,4 @@ Albertas Nakutis-Viesulas, partizanas nuo 1944 m., vėliau tapo Algimanto apygar
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

@@ -111,3 +111,4 @@ Tumo Vaižganto kuopa priklausė Algimanto apygardos Kun. Margio rinktinei. 1949
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-003
+

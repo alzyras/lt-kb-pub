@@ -95,3 +95,4 @@ Juozas Vaitiekūnas buvo 24 metų ir gyveno Daskapio kaime, Vabalninko valsčiuj
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

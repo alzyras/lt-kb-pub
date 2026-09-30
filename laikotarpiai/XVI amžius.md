@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVI amžius"
 periodo_pradzia: 1501
 periodo_pabaiga: 1600
-periodo_objektu_skaicius: 1411
+periodo_objektu_skaicius: 1410
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1411.
+Objektų skaičius: 1410.
 
 ## Susiję objektai
 
@@ -855,7 +855,6 @@ Objektų skaičius: 1411.
 - [[objektai/vietos/Vilniaus turgus]]
 - [[objektai/vietos/Vilniaus vaivadija]]
 - [[objektai/vietos/Vilniaus Šv. Kazimiero bažnyčia]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vingrių šaltiniai]]
 - [[objektai/vietos/Vitebskas]]
 - [[objektai/vietos/Vištyčio ežeras]]

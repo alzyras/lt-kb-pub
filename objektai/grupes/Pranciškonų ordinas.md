@@ -614,8 +614,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05815
-    - c-34236
     - c-181414
+    - c-34236
 
 <a id="claim-t-205621"></a>
 - t-041
@@ -874,10 +874,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-100491
+    - c-181416
     - c-181418
     - c-100509
     - c-181390
-    - c-181416
 
 <a id="claim-t-108290"></a>
 - t-108290
@@ -912,8 +912,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05815
-    - c-34236
     - c-181414
+    - c-34236
     - c-22700
     - c-31243
     - c-34237
@@ -1003,8 +1003,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-100491
-    - c-181418
     - c-181416
+    - c-181418
 
 <a id="claim-t-108303"></a>
 - t-108303
@@ -1045,9 +1045,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-05814
     - c-181402
     - c-05815
+    - c-181414
     - c-34236
     - c-34235
-    - c-181414
     - c-22700
     - c-31243
     - c-34237
@@ -1106,9 +1106,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-100503
+    - c-181398
     - c-100510
     - c-181405
-    - c-181398
     - c-100502
     - c-181385
 
@@ -1152,9 +1152,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-05814
     - c-181402
     - c-05815
+    - c-181414
     - c-34236
     - c-34235
-    - c-181414
 
 <a id="claim-t-108322"></a>
 - t-108322
@@ -1210,10 +1210,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181402
     - c-34235
     - c-05815
+    - c-181414
     - c-34236
     - c-31243
     - c-34237
-    - c-181414
 
 <a id="claim-t-203159"></a>
 - t-203159
@@ -1224,8 +1224,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05815
-    - c-34236
     - c-181414
+    - c-34236
 
 <a id="claim-t-210435"></a>
 - t-210435

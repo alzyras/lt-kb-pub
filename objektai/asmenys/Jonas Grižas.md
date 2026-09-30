@@ -70,3 +70,4 @@ Jonas Grižas-Beržas, gyvenęs Obonių kaime Šimonių valsčiuje, buvo A. Star
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

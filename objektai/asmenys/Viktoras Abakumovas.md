@@ -87,3 +87,4 @@ canonical_biography: "Viktoras Abakumovas buvo SSRS valstybės saugumo ministras
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

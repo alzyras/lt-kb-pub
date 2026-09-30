@@ -279,3 +279,4 @@ Povilo Laužiko partizanai buvo įsirengę bunkerį Ožkinių kaime, Prano Rudž
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-230560
+

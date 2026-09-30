@@ -62,3 +62,4 @@ Juozas Mikėnas-Žvirblis 1944 m. spalį suorganizavo apie 30 partizanų būrį,
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

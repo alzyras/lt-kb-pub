@@ -69,3 +69,4 @@ Povilas Labakojis, partizanų būrio vadas, slapyvardžiais Žaibas ir Žaibutis
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

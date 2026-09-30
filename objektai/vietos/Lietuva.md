@@ -3947,8 +3947,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163827
-    - c-182071
     - c-181968
+    - c-182071
 
 <a id="claim-t-180163"></a>
 - t-180163

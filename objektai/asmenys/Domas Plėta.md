@@ -85,3 +85,4 @@ Domas Plėta žuvo 1947 m. sausio 20 d. Rudilių kaime.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

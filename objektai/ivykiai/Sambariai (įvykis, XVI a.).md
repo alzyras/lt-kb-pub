@@ -85,3 +85,4 @@ XX a. pradžioje Joniškio apylinkių ūkininkai po pavasario sėjos sudėdavo g
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

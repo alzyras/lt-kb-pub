@@ -155,3 +155,4 @@ Vytenio būrio bunkeriai buvo įrengti Kuosėnų, Duoniūnų ir Skuodinių kaimu
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-003
+

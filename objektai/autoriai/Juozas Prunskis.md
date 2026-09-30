@@ -88,3 +88,4 @@ Aldona Vasiliauskienė nurodo, kad Juozas Prunskis 1932–1934 m. Kupiškyje pra
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

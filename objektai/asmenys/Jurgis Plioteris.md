@@ -56,26 +56,6 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
   pagrindžia:
     - c-194797
 
-<a id="claim-t-217195"></a>
-- t-217195
-  teiginys: "Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris turėjo keletą tokių auksinių monetų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Raseiniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurgis Plioteris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis Plioteris\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198500
-
 ## Citatos
 
 - id: c-173050
@@ -142,6 +122,22 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217195
+
+- id: c-215065
+  autorius: "Teodoras Narbutas"
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  citata_originali: |
+    Amžiną atilsį Raseinių maršalka Jurgis Plioteris
+    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
+    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
+    autorius, man rašytame laiške (Raseiniai. - 1836.IV19)*.
+  citata_rodoma: "Amžiną atilsį Raseinių maršalka Jurgis Plioteris \nturėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio \nautorius, man rašytame laiške (Raseiniai. - 1836.IV19)*."
+  statusas: verified
+  atnaujinta: "2026-09-30 03:10"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 

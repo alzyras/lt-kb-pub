@@ -58,28 +58,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195376"></a>
-- t-001
-  teiginys: "Pasakotoja teigia, kad blaivystė daug padėjo bendruomenei ir jos vyras nustojo gerti."
-  atnaujinta: "2026-07-12 02:18"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177791
-
-<a id="claim-t-195375"></a>
-- t-195375
-  teiginys: "Prieš priesaiką dar būdavo atsisveikinama su degtine."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177792
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -98,8 +76,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-177792
   autorius: "M. Katkus"
@@ -115,6 +91,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195375
 

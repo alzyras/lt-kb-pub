@@ -70,3 +70,4 @@ Svėdasų miestelyje gyvenęs Vladas Gogelis pranešdavo apie sovietinius aktyvi
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

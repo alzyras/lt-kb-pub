@@ -75,3 +75,4 @@ Teofilis Gudas-Eskimas gimė 1914 m., gyveno Nociūnų kaime Šimonių valsčiuj
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

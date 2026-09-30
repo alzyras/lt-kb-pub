@@ -80,3 +80,4 @@ Subačiaus valsčiuje Vytauto Kujelavičiaus partizanų būryje buvo 35 partizan
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

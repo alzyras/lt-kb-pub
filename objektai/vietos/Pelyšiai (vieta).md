@@ -115,3 +115,4 @@ Pelyšių kaime buvo stogastulpis, Balio Buračo vertinimu, pastatytas apie 1798
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

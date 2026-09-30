@@ -155,3 +155,4 @@ Kronikos sąraše Antanas Starkus siejamas su 14 partizanų Šimonių valsčiuje
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-004
+

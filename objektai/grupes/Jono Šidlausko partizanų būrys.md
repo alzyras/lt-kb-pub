@@ -63,3 +63,4 @@ Jonas Šidlauskas nuo 1944 m. buvo partizanas ir suorganizavo bei vadovavo parti
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

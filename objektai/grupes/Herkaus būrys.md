@@ -111,3 +111,4 @@ Herkaus būriui vadovavo Petras Apšega-Vilkas; būrys veikė Šimonių, Skapiš
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-003
+

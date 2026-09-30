@@ -100,3 +100,4 @@ Kazys Kalpokas 1944 m. pabaigoje suorganizavo apie 150 partizanų junginį, o t�
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

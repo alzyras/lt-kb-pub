@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 61
+tema_objektu_skaicius: 59
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 61.
+Objektų skaičius: 59.
 
 ## Kaip naudoti
 
@@ -55,7 +55,6 @@ Objektų skaičius: 61.
 - [Namų baldai ir rakandai](../objektai/daiktai/Nam%C5%B3%20baldai%20ir%20rakandai)
 - [Narvelis sūriams džiovinti](../objektai/daiktai/Narvelis%20s%C5%ABriams%20d%C5%BEiovinti)
 - [Odinis akmenų prikimštas maišas](../objektai/daiktai/Odinis%20akmen%C5%B3%20prikim%C5%A1tas%20mai%C5%A1as)
-- [Pančiukas](../objektai/daiktai/Pan%C4%8Diukas)
 - [Pečiukas](../objektai/daiktai/Pe%C4%8Diukas)
 - [Piesta](../objektai/daiktai/Piesta)
 - [Pilies raktai (pilis)](../objektai/daiktai/Pilies%20raktai)
@@ -80,7 +79,6 @@ Objektų skaičius: 61.
 - [Ubladė](../objektai/daiktai/Ublad%C4%97)
 - [Ublas](../objektai/daiktai/Ublas)
 - [Vaišių stalai](../objektai/daiktai/Vai%C5%A1i%C5%B3%20stalai)
-- [Virvė](../objektai/daiktai/Virv%C4%97)
 - [Ąsotis](../objektai/daiktai/%C4%84sotis)
 - [Šach Achmedo palapinės prie Vilniaus](../objektai/daiktai/%C5%A0ach%20Achmedo%20palapin%C4%97s%20prie%20Vilniaus)
 - [Šakutė](../objektai/daiktai/%C5%A0akut%C4%97)

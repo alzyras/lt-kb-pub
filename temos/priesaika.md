@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 27
+tema_objektu_skaicius: 26
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 27.
+Objektų skaičius: 26.
 
 ## Kaip naudoti
 
@@ -26,7 +26,6 @@ Objektų skaičius: 27.
 ## Susiję objektai
 
 ### Papročiai
-- [[objektai/paprociai/Blaivystės brostva ir prisiekimo praktika per tris sekmadienius]]
 - [[objektai/paprociai/Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/paprociai/Karo paskelbimo ir taikos sutvirtinimo apeigos]]
@@ -53,5 +52,5 @@ Objektų skaičius: 27.
 - [[objektai/posakiai/Kad man Periamas sumusztu]]
 - [[objektai/posakiai/Kaip aš tą kepurę atiduodu į tavo rankas]]
 - [[objektai/posakiai/prisiekdamas visomis šventenybėmis]]
-- [prisiekęs dievų galybe](../objektai/posakiai/prisiek%C4%99s%20diev%C5%B3%20galybe)
+- [[objektai/posakiai/prisiekęs dievų galybe]]
 - [„duotu žodžiu ir ranka“](../objektai/posakiai/%E2%80%9Eduotu%20%C5%BEod%C5%BEiu%20ir%20ranka%E2%80%9C)

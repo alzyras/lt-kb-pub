@@ -250,3 +250,4 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-230654
+

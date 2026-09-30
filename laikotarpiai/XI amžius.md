@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XI amžius"
 periodo_pradzia: 1001
 periodo_pabaiga: 1100
-periodo_objektu_skaicius: 118
+periodo_objektu_skaicius: 117
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 118.
+Objektų skaičius: 117.
 
 ## Susiję objektai
 
@@ -39,7 +39,6 @@ Objektų skaičius: 118.
 - [[objektai/asmenys/Tacitas]]
 - [[objektai/asmenys/Vredė]]
 - [[objektai/asmenys/Vsevolodas]]
-- [[objektai/asmenys/Živinbudas]]
 
 ### Autoriai
 - [[objektai/autoriai/A. Kotzebue]]

@@ -99,3 +99,4 @@ Kupiškio kapinės įsteigtos 1818 m.; ankstyviausias lietas kryžius pažymėta
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

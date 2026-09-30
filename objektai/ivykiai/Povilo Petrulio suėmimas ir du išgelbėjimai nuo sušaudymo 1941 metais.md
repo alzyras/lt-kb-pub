@@ -88,3 +88,4 @@ Puponių kaime gyvenęs Povilas Petrulis 1941 m. rugpjūčio 15 d. buvo suimtas 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

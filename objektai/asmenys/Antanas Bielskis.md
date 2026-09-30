@@ -85,3 +85,4 @@ Antanas Bielskis, vienas pirmųjų partizanų vadų, žuvo 1953 m. balandžio 6 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

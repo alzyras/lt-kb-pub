@@ -130,3 +130,4 @@ Henrikas Orakauskas gimė 1948 m. Vyžuonose, 1974 m. baigė Telšių dailės te
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
+

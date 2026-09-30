@@ -205,8 +205,8 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   pagrindžia:
     - c-14963
     - c-180567
-    - c-14964
     - c-180571
+    - c-14964
 
 ## Citatos
 

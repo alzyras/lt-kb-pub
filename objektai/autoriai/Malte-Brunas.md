@@ -69,26 +69,6 @@ Teodoras Narbutas remiasi Malte-Bruno geografiniais ir etimologiniais aiškinima
   pagrindžia:
     - c-196240
 
-<a id="claim-t-217704"></a>
-- t-217704
-  teiginys: "Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaukazas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Malte-Brunas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Malte-Brunas\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-200427
-
 ## Citatos
 
 - id: c-00376
@@ -183,6 +163,25 @@ Teodoras Narbutas remiasi Malte-Bruno geografiniais ir etimologiniais aiškinima
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217704
+
+- id: c-215203
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 260"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 260."
+  citata_originali: |
+    Kijevo Plikasis kalnas garsėjo 1
+    1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­
+    siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau­
+    ve - plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar­
+    džio. Tačiau ir prūsų kalboje Khoh reiškia plikas, todėl Kaukazo pa­
+    vadinimas išvedamas iš Khohkasp - plikasis kalnas. Tokios nuomo­
+    nės yra Malte-Brunas (Vocabulaire de mots génériques).
+  citata_rodoma: "Tačiau ir prūsų kalboje Khoh reiškia plikas, todėl Kaukazo pa­\nvadinimas išvedamas iš Khohkasp - plikasis kalnas. Tokios nuomo­\nnės yra Malte-Brunas (Vocabulaire de mots génériques)."
+  statusas: verified
+  atnaujinta: "2026-09-30 03:51"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 

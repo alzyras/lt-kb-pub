@@ -95,3 +95,4 @@ Povilas Samuolis-Šimkus, Antano sūnus, 1920 m. gimė ir gyveno Bagdoniškių k
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

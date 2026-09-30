@@ -89,3 +89,4 @@ Klebonijai buvo nupirkta skardos ir plytų. Bažnyčios stogo dalis buvo apdengt
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

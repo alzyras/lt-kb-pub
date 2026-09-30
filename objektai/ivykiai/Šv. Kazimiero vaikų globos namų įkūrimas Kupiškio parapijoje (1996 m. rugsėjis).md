@@ -90,3 +90,4 @@ Dekanas K. Gutauskas pavedė vikarui organizuoti vaikų globos namų steigimo da
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

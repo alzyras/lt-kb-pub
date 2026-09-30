@@ -67,3 +67,4 @@ Birželio 13 d. Girelės miške žuvo Algirdas Laužikas, Petras Juodiškis ir M
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-09-28 18:24"
+

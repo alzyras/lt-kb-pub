@@ -515,9 +515,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   semantiniai_rysiai: "Mykolas Glinskis keliavo į Vilnius (0.90)"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
+    - c-179969
     - c-79094
     - c-179961
-    - c-179969
 
 ## Reikšmingi paminėjimai
 - c-008

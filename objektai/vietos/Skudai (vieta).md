@@ -74,3 +74,4 @@ Petras Čepė gyveno Skudų kaime, Subačiaus valsčiuje. Onos Dapšytės-Kriuke
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

@@ -89,3 +89,4 @@ Algimanto apygardai vadovavo Antanas Slučka-Šarūnas (1947 m. gegužė - 1948 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

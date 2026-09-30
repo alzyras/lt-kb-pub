@@ -153,3 +153,4 @@ Kazys Morkūnas, Juozo sūnus, gimė 1918 m. Ančiškių kaime, buvo Šaulių s�
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-004
+

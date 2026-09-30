@@ -74,3 +74,4 @@ Pranas Variakojis gimė 1914 m. Zizonių kaime, Vabalninko valsčiuje. Kregždė
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

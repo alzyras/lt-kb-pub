@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 79
+tema_objektu_skaicius: 80
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 79.
+Objektų skaičius: 80.
 
 ## Kaip naudoti
 
@@ -107,3 +107,6 @@ Objektų skaičius: 79.
 
 ### Posakiai
 - [Pergalės būdas tikriausias — kantrybė](../objektai/posakiai/Pergal%C4%97s%20b%C5%ABdas%20tikriausias%20%E2%80%94%20kantryb%C4%97)
+
+### Žodynas
+- [destalinizacija postalininis metas atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20postalininis%20metas%20at%C5%A1ilimo%20laikotarpis)

@@ -88,3 +88,4 @@ Julius Burneika 1945 m. gegužę (kitur nurodoma – birželį) tapo partizanų 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
+

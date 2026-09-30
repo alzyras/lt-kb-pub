@@ -155,3 +155,4 @@ Kupiškio parapijos kunigai aptarnauja Šepetos psichoneurologinio pensiono gyve
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-230678
+

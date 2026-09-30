@@ -62,3 +62,4 @@ Vladas Stankevičius 1945 m. balandį suorganizavo partizanų būrį ir jam vado
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
+

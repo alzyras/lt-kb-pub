@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 387
+tema_objektu_skaicius: 389
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 387.
+Objektų skaičius: 389.
 
 ## Kaip naudoti
 
@@ -425,3 +425,7 @@ Objektų skaičius: 387.
 - [Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)](../objektai/ivykiai/%C5%BDyd%C5%B3%20%C5%BEudyn%C4%97s%20Kauno%20VII%20forte%20%281941%20m.%20liepos%204%20ir%206%20d.%29)
 - [Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos](../objektai/ivykiai/%C5%BDygis%20prie%C5%A1%20varmius%2C%20notangus%20ir%20bartus%20ir%20broli%C5%B3%20%C5%BE%C5%ABtis%20prie%20b%C5%ABsimos%20Baigos)
 - [Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)](../objektai/ivykiai/%C5%BDygis%20%C4%AF%20Pagud%C4%99%20ir%20Elbingo%20pilies%20pastatymas%20%281237%20m.%29)
+
+### Žodynas
+- [destalinizacija atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20at%C5%A1ilimo%20laikotarpis)
+- [destalinizacija postalininis metas atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20postalininis%20metas%20at%C5%A1ilimo%20laikotarpis)
