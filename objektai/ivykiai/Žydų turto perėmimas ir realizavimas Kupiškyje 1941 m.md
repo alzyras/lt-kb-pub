@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1941 m. Kupiškyje žydų turtas buvo pardavinėjamas vietos gyventojams; iš viso jo parduota už ne mažiau kaip 10 tūkst. rublių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

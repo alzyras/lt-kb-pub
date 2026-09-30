@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Naujasis korespondentas, gavęs užduotį parašyti apie pasirengimą rajono spartakiadai, pėsčiomis nuėjo keliolika kilometrų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 831 (PDF 832)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 831 (PDF 832)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

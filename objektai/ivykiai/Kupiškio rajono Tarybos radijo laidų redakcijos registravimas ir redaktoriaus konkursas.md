@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1994 m. spalį Kupiškio rajono Taryba įregistravo radijo laidų redakciją ir paskelbė laidų redaktoriaus konkursą, kurį laimėjo vienas iš trijų pretendentų – Algirdas Petrulis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 843 (PDF 844)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 843 (PDF 844)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

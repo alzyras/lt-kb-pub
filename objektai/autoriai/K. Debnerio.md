@@ -22,16 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a4be8a1783a935f084ed4646
-canonical_name: K. Debnerio
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - K. Debnerio
+entity_id: "ent-a4be8a1783a935f084ed4646"
+canonical_name: "K. Debnerio"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Debnerio"]
 sameAs: []
-canonical_biography: Debnerio knygutė.
+canonical_biography: "Debnerio knygutė."
 ---
 # K. Debnerio
 

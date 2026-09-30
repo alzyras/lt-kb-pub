@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XV amžius"
 periodo_pradzia: 1401
 periodo_pabaiga: 1500
-periodo_objektu_skaicius: 1326
+periodo_objektu_skaicius: 1321
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1326.
+Objektų skaičius: 1321.
 
 ## Susiję objektai
 
@@ -125,7 +125,6 @@ Objektų skaičius: 1326.
 - [[objektai/asmenys/Kontarinis (pasiuntinys, XV a.)]]
 - [[objektai/asmenys/Krunevičius]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Leicis]]
 - [[objektai/asmenys/Machmetas]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/asmenys/Michailas Borisovičius]]
@@ -168,7 +167,6 @@ Objektų skaičius: 1326.
 - [[objektai/asmenys/Povilas Russdortas]]
 - [[objektai/asmenys/Pranciškus Ksaveras Mykolas Bohušas]]
 - [[objektai/asmenys/Pranciškus Skorina]]
-- [[objektai/asmenys/Rimvydas]]
 - [[objektai/asmenys/Rumbaudas]]
 - [[objektai/asmenys/Rusdorfas]]
 - [[objektai/asmenys/Saladinas]]
@@ -222,7 +220,6 @@ Objektų skaičius: 1326.
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/asmenys/Zigmantas Kaributas]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- [[objektai/asmenys/Zigmantas Rotas]]
 - [[objektai/asmenys/Zubas]]
 - [[objektai/asmenys/Čeplė]]
 - [[objektai/asmenys/Šedbaras Valmantaitis]]
@@ -816,7 +813,6 @@ Objektų skaičius: 1326.
 - [[objektai/vietos/Vilniaus pilis]]
 - [[objektai/vietos/Vilniaus pilys]]
 - [[objektai/vietos/Vilniaus Šv. Stanislovo katedra]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vingrių šaltiniai]]
 - [[objektai/vietos/Visla]]
 - [[objektai/vietos/Vitebskas]]
@@ -1059,7 +1055,6 @@ Objektų skaičius: 1326.
 - [[objektai/saltiniai/1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion]]
 - [[objektai/saltiniai/1404 m. Racionžo taikos sutartis]]
 - [[objektai/saltiniai/1408 m. Vytauto privilegija Kaunui]]
-- [[objektai/saltiniai/1411 m. Torunės taika]]
 - [[objektai/saltiniai/1427 m. vyskupų induitas dėl Šv. Jono bažnyčios pašventinimo]]
 - [[objektai/saltiniai/1432 m. Lietuvos ir lietuviškos Rusios priesaika Prūsijos ordinui dėl Švitrigailos sutarties]]
 - [[objektai/saltiniai/1436 m. pasienio konvencija tarp Vladislovo Varniečio ir Povilo Rusdorfo]]

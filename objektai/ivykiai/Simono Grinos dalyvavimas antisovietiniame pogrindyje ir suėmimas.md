@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Simonas Grina dalyvavo antisovietiniame pogrindyje Vilniuje ir 1940 m. buvo suimtas bei tardomas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 204 (PDF 205)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 204 (PDF 205)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

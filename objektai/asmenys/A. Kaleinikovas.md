@@ -51,6 +51,7 @@ Prie A. Kaleinikovo (1951–2005) kapo esantys du monumentalūs kryžiai yra sti
   santrauka: 'A. Kaleinikovo (1951–2005) kapo du monumentalūs kryžiai aprašomi kaip stilistiškai panašūs, todėl keliama prielaida, kad juos galėjo padaryti tas pats meistras.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 993 (PDF 994)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 993 (PDF 994)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

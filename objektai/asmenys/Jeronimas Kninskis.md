@@ -58,3 +58,16 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-217139"></a>
+- t-001
+  teiginys: "Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kninskis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+

@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '2006 m. spalio 10 d. Dalia Kuodytė ir komisijos pirmininkas Gintaras Šidlauskas pasirašė Stanislovo Krumpliausko Laisvės kovų dalyvio pažymėjimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 551 (PDF 552)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 551 (PDF 552)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

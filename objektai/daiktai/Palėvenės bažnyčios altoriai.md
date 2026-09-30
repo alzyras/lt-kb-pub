@@ -65,6 +65,7 @@ Nenurodyta
   santrauka: 'Iki 2011 m. buvo restauruojami Palėvenės bažnyčios Šv. Dominyko ir Tomo Akviniečio altoriai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 314 (PDF 315)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 314 (PDF 315)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

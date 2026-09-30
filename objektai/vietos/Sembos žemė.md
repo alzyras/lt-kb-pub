@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0c3ddd22122223abe5d724d7
-canonical_name: Sembos žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Sembos žemė
+entity_id: "ent-0c3ddd22122223abe5d724d7"
+canonical_name: "Sembos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sembos žemė"]
 sameAs: []
-canonical_biography: 'Sembos žemėje, Gėlavandenių marių pakrantėje, stovėjo pilis priešais Brandenburgo pilį. 1280 m. sūduviai, pasitelkę lietuvius, smarkiai užpuolė Sembos žemę.'
+canonical_biography: "Sembos žemėje, Gėlavandenių marių pakrantėje, stovėjo pilis priešais Brandenburgo pilį. 1280 m. sūduviai, pasitelkę lietuvius, smarkiai užpuolė Sembos žemę."
+place_authority: true
+historical_names: []
 ---
 # Sembos žemė
 
@@ -54,6 +54,18 @@ Sembos žemėje, Gėlavandenių marių pakrantėje, stovėjo pilis priešais Bra
   pagrindžia:
     - c-204250
 
+<a id="claim-t-220346"></a>
+- t-220346
+  teiginys: "1280 m. sūduviai, pasitelkę lietuvius, smarkiai užpuolė Sembos žemę."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202318
+
 ## Citatos
 
 - id: c-202318
@@ -69,6 +81,8 @@ Sembos žemėje, Gėlavandenių marių pakrantėje, stovėjo pilis priešais Bra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220346
 
 - id: c-204250
   autorius: "Petras Dusburgietis"

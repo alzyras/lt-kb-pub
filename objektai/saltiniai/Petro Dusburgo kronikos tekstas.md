@@ -44,4 +44,20 @@ Pats Dusburgas (nepaisant jo teksto šiame skyriuje apie Prūsijos sienas), regi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-212213"></a>
+- t-001
+  teiginys: "Pats Dusburgas (nepaisant jo teksto šiame skyriuje apie Prūsijos sienas), regis, nurodo dvi atskiras jo amžiuje žinomas Rusias: vieną, per kurios vidurį plau kė Nemunas iki lietuvių žemių, ir antrą, kurią kirto išėjęs iš."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197029
 

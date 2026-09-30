@@ -49,6 +49,7 @@ Rugpjūčio 27 d. seimelio tarybos posėdyje kupiškietė Dalia Ragelytė paskir
   santrauka: 'Rugpjūčio 27 d. seimelio tarybos posėdyje kupiškietė Dalia Ragelytė paskirta Sąjūdžio tarybos sekretore.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 865 (PDF 866)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 865 (PDF 866)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

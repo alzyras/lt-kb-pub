@@ -37,6 +37,7 @@ Kupiškio rajone veikusią Vaclovo Čepukonio-Tigro grupę sudarė penki partiza
   santrauka: 'Kupiškio rajone veikusią Vaclovo Čepukonio-Tigro grupę sudarė penki partizanai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 406"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 406."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ Kupiškio rajone veikusią Vaclovo Čepukonio-Tigro grupę sudarė penki partiza
   santrauka: '1953 m. MVD nutarime teigta, kad tardomas Vaclovas Čepukonis atskleidė partizanų veiklą Rokiškio, Troškūnų ir Kupiškio rajonuose, buvo pasitelktas pogrindžio dalyvių paieškai, o jo bylą nutarta nutraukti ir paleisti jį iš įkalinimo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 420"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 420."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

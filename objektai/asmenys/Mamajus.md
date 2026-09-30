@@ -72,6 +72,24 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   pagrindžia:
     - c-194506
 
+<a id="claim-t-212097"></a>
+- t-212097
+  teiginys: "Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mamajus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mamajus\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką.'

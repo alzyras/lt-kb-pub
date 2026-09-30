@@ -58,6 +58,17 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   pagrindžia:
     - c-174170
 
+<a id="claim-t-213046"></a>
+- t-213046
+  teiginys: "Kasiodoro raštų rinkinyje (Variarum. Lib."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Citatos
 
 - id: c-174170

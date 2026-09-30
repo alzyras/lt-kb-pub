@@ -73,7 +73,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-176317"></a>
 - t-001
   teiginys: "Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Birutės kalnas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,7 +89,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-176318"></a>
 - t-002
   teiginys: "Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Algirdo žygiai į Maskvą: 0.83"
   ryšio_patikimumo_lygis: "aukstas"
@@ -106,7 +106,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-176321"></a>
 - t-003
   teiginys: "Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -122,7 +122,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-196428"></a>
 - t-004
   teiginys: "Kojelavičiaus pasakojime Kęstutis, grįžęs į Lietuvą, paėmė į žmonas vaidilutę Birutę."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -135,7 +135,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-207488"></a>
 - t-005
   teiginys: "Alfredas Bumblauskas nurodo, kad Birutės ir Kęstučio meilės istorija yra vienas iš Lietuvos metraščiuose užrašytų siužetų, atitinkančių epinius pasakojimus."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -148,7 +148,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-217636"></a>
 - t-006
   teiginys: "Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip Žemaičių didiko dukterį ir Praurimės aukuro ugnies saugotoją prie Palangos."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -167,7 +167,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-217912"></a>
 - t-007
   teiginys: "Narbutas pasakoja, kad Kęstutis Birutę išsivežė prieš jos valią į Naujuosius Trakus ir ten vedė, nors ji buvo davusi skaistybės įžadą."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -187,7 +187,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-219118"></a>
 - t-008
   teiginys: "Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -199,7 +199,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   ryšio_subjekto_parinkimas: "Birutė: llm_allowed_candidate, person"
   ryšio_targeto_parinkimas: "Palanga: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Claim tiesiogiai teigia Birutės grįžimą į Palangą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Birutė keliavo į Palanga (0.93); Birutė mirė Palanga (0.86)"
   pagrindžia:
     - c-199097
@@ -207,7 +207,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 <a id="claim-t-219810"></a>
 - t-009
   teiginys: "Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau."
-  atnaujinta: "2026-09-19 11:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -223,28 +223,13 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   pagrindžia:
     - c-200481
 
-<a id="claim-t-223663"></a>
-- t-010
-  teiginys: "Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė."
-  atnaujinta: "2026-09-19 11:45"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Palanga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Palanga: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Palanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205710
-
 ## Citatos
 
 - id: c-00022
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331
     metus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­
@@ -252,25 +237,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     veik 18 metų.
   citata_rodoma: "Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331 \nmetus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­\nle 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­\nveik 18 metų."
   statusas: verified
-  atnaujinta: "2026-09-27 13:25"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-15262
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 24"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
-  citata_originali: |
-    Kęstutis, matyt, buvo buvęs du kartu
-    vedęs. Pirmoji Kęstučio žmona mums nežinoma, ir turėjo būti
-    trijų vyresniųjų Kęstučio sūnų motina. Birutė bus pagimdžiusi
-    tris jaunesniuosius sūnus ir tris dukteris^1 ).
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-30 03:10"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -347,7 +314,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     patvirtina vienalaikiai rašytiniai šaltiniai.
   citata_rodoma: "Visų pirma atsirado \nherojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad \nepinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-\nčiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į \nMaskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi \ndar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-\ndota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, \no Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti \npasakojimai užrašyti XV–XVI a."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-30 03:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -391,7 +358,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
   citata_rodoma: "Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs\njo aplankyti, netikėtai rado negyvą,\nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki\nšiol aiškus ir rašantiesiems Lietuvos\nistoriją dera jo imtis.\n37\nVygandas  savo kronikoje, p."
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-30 03:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -420,7 +387,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     romis, nusiaubė visą kraštą.
   citata_rodoma: "Užėmęs kovos lau­\nką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­\nsa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami \ntoliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius \nkarius, ramiai patraukė namo, išsigabendami laimikį — \nvisą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į \nžmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­\nnimu, nors labai norėjo užmiršti savo vargus."
   statusas: verified
-  atnaujinta: "2026-07-13 00:09"
+  atnaujinta: "2026-09-30 03:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -447,7 +414,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     Gardiną.
   citata_rodoma: "Jogaila nudžiugo gavęs progą sutelkti \nkariuomenę, šiek tiek pažygiavo link Seversko, po to \nstaiga pasuko kita linkme ir skubiai patraukė į Vilnių; \nčia, pilies viršininkui Hanului bei miesto magistratui \nišdavus, naktį buvo įleistas į miesto vidų, užėmė pilis, \n■dalį Kęstučio įgulos išžudė, o kitus suėmė. Tuo būdu \nužėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­\nją, prašydamas pagalbos; pats, palikęs mieste stiprią \nsavo įgulą, pailsėjusią ir papildytą kariuomenę nuve­\ndė į Trakus prieš Vytautą. Vytautas, iš draugų apie \nviską sužinojęs, spėjo su pamote Birute pasitraukti į\nGardiną."
   statusas: verified
-  atnaujinta: "2026-09-27 13:39"
+  atnaujinta: "2026-09-30 03:10"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -467,7 +434,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     kaip pagonė, jos legenda nenutrūko ir įsigalint krikščionybei, o XVI a.
   citata_rodoma: "usias pavyzdys – dainos apie Sudaitį. Šiandien pripažįstama, \nkad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedi-\nmino sapnas apie Vilniaus įkūrimą, Algirdo žygiai į Maskvą bei Birutės ir Kęstučio meilės \nistorija (Biru"
   statusas: verified
-  atnaujinta: "2026-09-08 15:24"
+  atnaujinta: "2026-09-30 03:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -486,7 +453,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     saugoti skaistybę ir pati buvo žmonių garbinama kaip
     dievaitė
   statusas: verified
-  atnaujinta: "2026-09-12 19:43"
+  atnaujinta: "2026-09-30 03:10"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -495,23 +462,24 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
 - id: c-198556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
-    Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
-    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
-    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
-    po Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau,
-    beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
-    tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
-    minimo ir garbinimo apeigos.
-  citata_rodoma: "Au­\nkuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­\nnas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­\ngaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­\nsę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo \nsenuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip \ndeivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota \npo Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau, \nbeveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­\ntės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­\nminimo ir garbinimo apeigos."
+    Duomenų apie tai mums
+    paliko Strijkovskis.
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną.
+  citata_rodoma: "Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją \nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį \nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip \nžmoną."
   statusas: verified
-  atnaujinta: "2026-09-27 13:39"
+  atnaujinta: "2026-09-30 07:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -534,7 +502,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
   citata_rodoma: "Mirusi buvo palaidota \npo Amžinosios ugnies aukuro griuvėsiais30. Dabar, kai rašau, \nbeveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­\ntės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­\nminimo ir garbinimo apeigos.\nDar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­\nsėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl \naukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-"
   statusas: verified
-  atnaujinta: "2026-09-27 13:39"
+  atnaujinta: "2026-09-30 03:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -557,7 +525,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     sukeltų, neramumų liudytojas.
     Garbinamas buvo žalčio pavidalu.
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-30 02:59"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -580,7 +548,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     deivę, juk ir Strijkovskis tą patvirtina.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-30 02:59"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -605,7 +573,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     po Amžinosios ugnies aukuro griuvėsiais30.
   citata_rodoma: "Patys kryžiuočiai tą vietą visuomet palikdavo neliestą: \nviena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­\nnies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­\nkuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­\nnas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­\ngaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­\nsę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo \nsenuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip \ndeivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota \npo Amžinosios ugnies aukuro griuvėsiais30."
   statusas: verified
-  atnaujinta: "2026-09-27 13:39"
+  atnaujinta: "2026-09-30 02:59"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -629,7 +597,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
     sę, turėjo palikti jai tas apeigas.
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-30 03:10"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -653,7 +621,7 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
     nė, būdama gyva, garsėjo savo kilniaširdiškumu.
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-30 03:10"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -669,31 +637,11 @@ Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksli
     skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
     bas, aiškiai mini ją buvus panašia žyne, arba vestale.
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-30 02:59"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-205710
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
-  citata_originali: |
-    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
-    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
-    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
-    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
-    kaimynų krikščionių žemes.
-  citata_rodoma: "kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos \nžemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir \nkitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos \npaklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į \nkaimynų krikščionių žemes."
-  statusas: verified
-  atnaujinta: "2026-09-27 13:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
 
 ## Ryšiai
 - Birutė keliavo į [[objektai/vietos/Palanga]]

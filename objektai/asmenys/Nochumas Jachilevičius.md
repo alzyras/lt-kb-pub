@@ -50,6 +50,7 @@ canonical_biography: "1936–1940 m. Kupiškio seniūnu buvo Nochumas Jachilevi�
   santrauka: '1936–1940 m. Kupiškio seniūnu buvo Nochumas Jachilevičius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 580 (PDF 581)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 580 (PDF 581)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ canonical_biography: "1936–1940 m. Kupiškio seniūnu buvo Nochumas Jachilevi�
   santrauka: 'Prasidėjus sovietinei okupacijai, N. Jachilevičius buvo atleistas iš Kupiškio seniūno pareigų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 581 (PDF 582)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 581 (PDF 582)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

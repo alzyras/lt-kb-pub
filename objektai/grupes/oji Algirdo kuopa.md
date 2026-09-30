@@ -105,6 +105,7 @@ media_all_json: |-
   santrauka: '1947 m. gegužės 1 d. Šiaurės Rytų Lietuvos vadų suvažiavime Vladas Valikonis-Šernas tapo 2-osios Algirdo kuopos vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 24"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 24."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

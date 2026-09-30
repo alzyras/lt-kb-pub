@@ -44,6 +44,7 @@ media_all_json: |-
   santrauka: '1946 m. kovo 1 d. tardymo protokole Jonas Sakalas teigė, kad Antanas Starkus palaikė ryšius su Alfonso Paškevičiaus būriu ir kad abu būriai 1946 m. sausio 21 d. užpuolė Bajorų rinkiminę apylinkę Svėdasų valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 83"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 83."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

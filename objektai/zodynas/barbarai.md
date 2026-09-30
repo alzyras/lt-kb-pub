@@ -55,4 +55,20 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-185366"></a>
+- t-001
+  teiginys: "Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168727
 

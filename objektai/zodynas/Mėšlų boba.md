@@ -41,6 +41,17 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
   pagrindžia:
     - c-199129
 
+<a id="claim-t-217475"></a>
+- t-217475
+  teiginys: "Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas šiukšles ir pagerbiamą darželyje laikoma mėšlo ar šiukšlių krūva."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-172203

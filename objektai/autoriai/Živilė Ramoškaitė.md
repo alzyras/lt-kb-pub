@@ -41,6 +41,7 @@ Muzikologės Živilės Ramoškaitės teigimu, vaikus žaidina suaugusieji, o ne 
   santrauka: 'Pasak Živilės Ramoškaitės, vaikus žaidina suaugusieji, o ne jie patys žaidžia.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1091 (PDF 1092)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1091 (PDF 1092)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

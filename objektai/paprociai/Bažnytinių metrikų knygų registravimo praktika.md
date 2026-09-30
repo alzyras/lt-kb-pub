@@ -68,6 +68,7 @@ Nenurodyta
   santrauka: 'XVII a. vidurio Kupiškio bažnytinės metrikų knygos teikia duomenų apie asmenų krikštą, santuoką ar mirtį, apeigų dalyvius ir jas atlikusius dvasininkus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 187 (PDF 188)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 187 (PDF 188)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

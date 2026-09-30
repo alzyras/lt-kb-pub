@@ -54,6 +54,7 @@ Seniausias žinomas Kupiškio krašto dvaras, priklausęs valdovo domenui ir min
   santrauka: 'Kupiškio dvaras buvo Pajuodupėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 706 (PDF 707)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 706 (PDF 707)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

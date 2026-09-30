@@ -57,6 +57,7 @@ media_all_json: |-
   santrauka: 'Kupiškio seniūnijos 1603 m. inventoriuje pateikti 41 kaime gyvenusių valstiečių vardai ir pavardės; inventoriuje užregistruota 680 valstiečių, tiek pat, kiek dūmų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 151 (PDF 152)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 151 (PDF 152)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

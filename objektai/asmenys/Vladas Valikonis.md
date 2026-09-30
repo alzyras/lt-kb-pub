@@ -59,4 +59,3 @@ Antano Starkaus-Blindos 1947 m. gegužės 1 d. raporte teigta, kad Jauniaus būr
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-09-28 17:38"
-

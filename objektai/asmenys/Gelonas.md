@@ -68,6 +68,17 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   pagrindžia:
     - c-201091
 
+<a id="claim-t-218796"></a>
+- t-218796
+  teiginys: "Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį, išnaikinusį žmogėdras bei įgijusį vadų vado vardą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+
 ## Citatos
 
 - id: c-172948

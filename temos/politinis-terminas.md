@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 148
+tema_objektu_skaicius: 146
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 148.
+Objektų skaičius: 146.
 
 ## Kaip naudoti
 
@@ -59,8 +59,6 @@ Objektų skaičius: 148.
 - [delegacinis seimas (seimas)](../objektai/zodynas/delegacinis%20seimas)
 - [demarkacijos linija](../objektai/zodynas/demarkacijos%20linija)
 - [Desovietizacija ir liustracija](../objektai/zodynas/Desovietizacija%20ir%20liustracija)
-- [destalinizacija atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20at%C5%A1ilimo%20laikotarpis)
-- [destalinizacija postalininis metas atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20postalininis%20metas%20at%C5%A1ilimo%20laikotarpis)
 - [diarchija](../objektai/zodynas/diarchija)
 - [Diarchijos sistema](../objektai/zodynas/Diarchijos%20sistema)
 - [didvalstybė](../objektai/zodynas/didvalstyb%C4%97)

@@ -74,6 +74,26 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   pagrindžia:
     - c-168171
 
+<a id="claim-t-184811"></a>
+- t-184811
+  teiginys: "Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "mire -> Trakai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ona (Vytauto žmona): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Ona miršta Vytautui esant Trakuose; vieta palaikoma kontekstu „čia“."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Ona (Vytauto žmona) mirė Trakai (0.78)"
+  pagrindžia:
+    - c-168172
+
 ## Citatos
 
 - id: c-83902
@@ -161,4 +181,6 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-184811
 

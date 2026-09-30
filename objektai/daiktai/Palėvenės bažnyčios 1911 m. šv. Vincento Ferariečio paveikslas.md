@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Paveikslo apatiniame kairiajame kampe yra parašas „Wł. Leszczynski 1911“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 231 (PDF 232)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 231 (PDF 232)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

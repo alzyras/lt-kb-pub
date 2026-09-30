@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1644 m. sausio 30 d. Vladislovas IV patvirtino Kupiškio seniūnijos revizorių nuostatus, kuriuose reikalauta kiekvieną sekmadienį lankytis bažnyčioje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 366 (PDF 367)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 366 (PDF 367)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

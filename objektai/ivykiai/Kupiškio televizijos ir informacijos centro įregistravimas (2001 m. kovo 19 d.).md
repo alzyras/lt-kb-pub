@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '2001 m. kovo 19 d. buvusi Kupiškio televizijos studija įregistruota kaip viešoji įstaiga Kupiškio televizijos ir informacijos centras; jo direktoriumi buvo Povilas Vireliūnas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 846 (PDF 847)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 846 (PDF 847)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

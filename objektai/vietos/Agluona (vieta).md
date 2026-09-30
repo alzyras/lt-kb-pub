@@ -25,16 +25,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8fad589f21a4809f5a52afac
-canonical_name: Agluona (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Agluona
-  - Agluona (vieta)
+entity_id: "ent-8fad589f21a4809f5a52afac"
+canonical_name: "Agluona (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Agluona","Agluona (vieta)"]
 sameAs: []
-canonical_biography: Pagal XVI a. tradiciją Mindaugas buvo nužudytas Agluonoje.
+canonical_biography: "Pagal XVI a. tradiciją Mindaugas buvo nužudytas Agluonoje."
+place_authority: true
+historical_names: []
 ---
 # Agluona (vieta)
 

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1914–1916 m. parengtas Pyvesos aukštupio nuo Bakšėnų ir Einorių reguliavimo bei baseino sausinimo projektas, kurio sąmata siekė 16 000 rublių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 693 (PDF 694)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 693 (PDF 694)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

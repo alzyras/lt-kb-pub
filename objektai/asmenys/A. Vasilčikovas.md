@@ -18,16 +18,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-043fb90d200b36acff23f45b
-canonical_name: A. Vasilčikovas (kunigaikštis)
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Vasilčikovas
-  - A. Vasilčikovas (kunigaikštis)
+entity_id: "ent-043fb90d200b36acff23f45b"
+canonical_name: "A. Vasilčikovas (kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Vasilčikovas","A. Vasilčikovas (kunigaikštis)"]
 sameAs: []
-canonical_biography: 'Vasilčikovą, Tauragės majorato savininką.'
+canonical_biography: "Vasilčikovą, Tauragės majorato savininką."
 ---
 # A. Vasilčikovas (kunigaikštis)
 

@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1944 m. gruodį prie Kepurių kaimo Alfonso Augulio pasaloje buvo nukautas vienas asmuo; leidinio „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ autorė Ona Dapšytė-Kriukelienė asmenį vadina stribu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 112"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 112."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

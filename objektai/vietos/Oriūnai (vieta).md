@@ -48,6 +48,7 @@ Oriūnų senkapio monetų nominalai ir jų priskyrimas valdovams pateikti 7 lent
   santrauka: '7 lentelėje pateikiami Oriūnų senkapio monetų nominalai ir jų priskyrimas valdovams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 638 (PDF 639)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 638 (PDF 639)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

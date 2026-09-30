@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIX amžius"
 periodo_pradzia: 1801
 periodo_pabaiga: 1900
-periodo_objektu_skaicius: 1543
+periodo_objektu_skaicius: 1542
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1543.
+Objektų skaičius: 1542.
 
 ## Susiję objektai
 
@@ -894,7 +894,6 @@ Objektų skaičius: 1543.
 - [[objektai/vietos/Vilniaus gubernija]]
 - [[objektai/vietos/Vilniaus katedra]]
 - [[objektai/vietos/Vilniaus universitetas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vitebskas]]
 - [[objektai/vietos/Vištyčio ežeras]]
 - [[objektai/vietos/Vladimiras]]

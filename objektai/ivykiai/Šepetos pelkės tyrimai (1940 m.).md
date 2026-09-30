@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1940 m. balandžio 10 d. V. Vilkaičio vadovaujamas kolektyvas atvyko tirti Šepetos pelkės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 104 (PDF 105)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 104 (PDF 105)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

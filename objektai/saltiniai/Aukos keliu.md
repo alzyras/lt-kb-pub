@@ -41,6 +41,7 @@ Jono Jurgaičio knygoje „Aukos keliu“ minimi Sibiro kančias patyrę arba ki
   santrauka: 'Jono Jurgaičio knygoje „Aukos keliu“ minimi Sibiro kančias patyrę arba kitaip sovietų persekioti Panevėžio vyskupijos kunigai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 362 (PDF 363)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 362 (PDF 363)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

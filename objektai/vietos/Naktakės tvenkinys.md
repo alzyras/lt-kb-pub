@@ -49,6 +49,7 @@ Naktakės tvenkinys, susidaręs 1984 m. užtvenkus Naktakės upelę, Aldonos Ram
   santrauka: 'Aldona Ramanauskienė Naktakės upelės užtvenkimą 1984 m. apibūdino kaip Noriūnų gyvenvietės puošmeną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 700 (PDF 701)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 700 (PDF 701)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

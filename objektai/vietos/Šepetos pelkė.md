@@ -50,6 +50,7 @@ historical_names: []
   santrauka: 'Moreninės kalvos plyti į pietryčius nuo Kupiškio palei Šepetos pelkę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 13 (PDF 14)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 13 (PDF 14)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ historical_names: []
   santrauka: 'Šepetos pelkė užima 1 650 ha ir plyti Aukštaičių plynaukštės moreninio priemolio guolyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 14 (PDF 15)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 14 (PDF 15)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

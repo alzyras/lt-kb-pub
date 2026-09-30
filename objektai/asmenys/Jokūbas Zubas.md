@@ -37,6 +37,7 @@ Mikniūnų revizijos įraše Jokūbas Zubas įvardytas tarp dviejų dūmų turė
   santrauka: 'Revizijos sąraše Mikniūnuose užfiksuoti du dūmai, siejami su Kristupu Grina ir Jokūbu Zubu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 163 (PDF 164)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 163 (PDF 164)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

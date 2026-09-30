@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: '1946 m. balandžio 2 d. Leonidas Čečiurovas ir Počiajevas parengė Antano Puodžiūno arešto nutartį bei nutarimą dėl kardomosios priemonės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 497 (PDF 498)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 497 (PDF 498)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1866 m. sausio 18 d. Rusijos imperijos vyriausybės įstatymu pertvarkytas valstybinių valstiečių administravimas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 185 (PDF 186)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 185 (PDF 186)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

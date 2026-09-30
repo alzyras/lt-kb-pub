@@ -49,3 +49,15 @@ Dusburgietis teigia, kad trautmann R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-222556"></a>
+- t-001
+  teiginys: "R. Trautmanno „Die altpreussische Personennamen; Ein Beitrag zur baltischen Philologie“ išleista Göttingene 1925 m."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1925 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį teiginį apie leidimo vietą ir metus."
+

@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-02f6e629a1c63b876419eefd
-canonical_name: Halberštatas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Halberštatas
-  - Halberštatas (vieta)
+entity_id: "ent-02f6e629a1c63b876419eefd"
+canonical_name: "Halberštatas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Halberštatas","Halberštatas (vieta)"]
 sameAs: []
-canonical_biography: Halberštato vyskupas Gardolfas.
+canonical_biography: "Halberštato vyskupas Gardolfas."
+place_authority: true
+historical_names: []
 ---
 # Halberštatas (vieta)
 

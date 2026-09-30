@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Alšininkai","Alšininkai (vieta)"]
 sameAs: []
 canonical_biography: "Alšininkuose kilęs konfliktas pasibaigė Liudviko Juškevičiaus mirtimi."
+place_authority: true
+historical_names: []
 ---
 # Alšininkai (vieta)
 

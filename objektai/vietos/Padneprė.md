@@ -61,6 +61,25 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   pagrindžia:
     - c-175618
 
+<a id="claim-t-213449"></a>
+- t-213449
+  teiginys: "Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąja Dnepro pakrante ties Kijevu, kitapus Dnepro nurodydamas alanus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Dnepras: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Graikai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad graikų kolonistai gyveno dešiniojoje Dnepro pakrantėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Graikai gyveno Dnepras (0.86); Graikai gyveno Padneprė (0.72)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Citatos
 
 - id: c-175617

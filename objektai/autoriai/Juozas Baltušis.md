@@ -49,6 +49,7 @@ Juozas Baltušis romane „Sakmė apie Juzą“ Kairabalės pelkės prototipu pa
   santrauka: 'Juozas Baltušis romane „Sakmė apie Juzą“ Kairabalės pelkės prototipu pasirinko Šepetą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 102 (PDF 103)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 102 (PDF 103)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,6 +64,7 @@ Juozas Baltušis romane „Sakmė apie Juzą“ Kairabalės pelkės prototipu pa
   santrauka: 'Donata Jutkienė Juozą Baltušį ir jo romaną „Parduotos vasaros“ įvardija kaip tarsi akstiną atsirasti dar vienam meno kūriniui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1165 (PDF 1166)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1165 (PDF 1166)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -74,6 +76,7 @@ Juozas Baltušis romane „Sakmė apie Juzą“ Kairabalės pelkės prototipu pa
   santrauka: 'Juozas Baltušis aplankė Kupiškyje ir kitose Lietuvos vietose gyvenančius žmones – vaikystės ir ankstyvosios jaunystės draugus ą ...!'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1166 (PDF 1167)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1166 (PDF 1167)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

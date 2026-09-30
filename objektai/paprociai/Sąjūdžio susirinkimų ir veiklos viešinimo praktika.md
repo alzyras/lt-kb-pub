@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Rugsėjo 14, 19 ir 23 d. komunalinių įmonių kombinato salėje vykusiuose sąjūdininkų susirinkimuose dalyvavo apie 20 žmonių, kurie svarstė veiklos gaires ir nutarė viešinti Sąjūdžio veiklą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 849 (PDF 850)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 849 (PDF 850)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

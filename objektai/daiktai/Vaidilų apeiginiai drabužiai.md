@@ -64,6 +64,25 @@ Nenurodyta
   pagrindžia:
     - c-172547
 
+<a id="claim-t-218695"></a>
+- t-218695
+  teiginys: "Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Vaidilos: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vaidilų apeiginiai drabužiai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vaidilos: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad drabužis yra vaidilų."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Vaidilų apeiginiai drabužiai priklausė Vaidilos (0.82)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-172547

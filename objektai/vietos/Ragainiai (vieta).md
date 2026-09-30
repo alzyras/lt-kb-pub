@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2add225a59132bdd1bb5f7e0
-canonical_name: Ragainiai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ragainiai
-  - Ragainiai (vieta)
+entity_id: "ent-2add225a59132bdd1bb5f7e0"
+canonical_name: "Ragainiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ragainiai","Ragainiai (vieta)"]
 sameAs: []
-canonical_biography: Ragainiai buvo prie Romintės girios pietinio pakraščio.
+canonical_biography: "Ragainiai buvo prie Romintės girios pietinio pakraščio."
+place_authority: true
+historical_names: []
 ---
 # Ragainiai (vieta)
 

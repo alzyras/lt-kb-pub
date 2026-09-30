@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Adolfo Bagdono kuopos Propagandos skyriaus vadovai Rafaelis Sargautas-Daumantas ir Juozas Gasiūnas Gitėnų miško bunkeryje spausdino antisovietinius lapelius bei atsišaukimus ir platino juos tarp gyventojų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 41"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 41."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

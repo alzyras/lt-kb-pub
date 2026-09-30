@@ -42,6 +42,7 @@ media_all_json: |-
   santrauka: '1963 m. Religinių kultų reikalų tarybos prie LTSR MT įgaliotinio Justo Rugienio ir Vytauto Jakelaičio pasirašytame dokumente Kupiškio bažnyčios meno vertybių apyskaitoje įrašyti du XVIII–XIX a. arnotai ir keturios medinės skulptūros.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 431 (PDF 432)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 431 (PDF 432)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

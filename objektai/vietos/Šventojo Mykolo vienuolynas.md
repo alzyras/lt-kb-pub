@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6da88fdfb2b82bf31ec715dc
-canonical_name: Šventojo Mykolo vienuolynas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Šventojo Mykolo vienuolynas
+entity_id: "ent-6da88fdfb2b82bf31ec715dc"
+canonical_name: "Šventojo Mykolo vienuolynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventojo Mykolo vienuolynas"]
 sameAs: []
-canonical_biography: 'Atvažiavo Velykų sekmadienį ir apsistojo didžiaja me švento Mykolo vienuolyne. Ir štai čia pat, švento Mykolo vienuolyne, jį nužudė.'
+canonical_biography: "Atvažiavo Velykų sekmadienį ir apsistojo didžiaja me švento Mykolo vienuolyne. Ir štai čia pat, švento Mykolo vienuolyne, jį nužudė."
+place_authority: true
+historical_names: []
 ---
 # Šventojo Mykolo vienuolynas
 

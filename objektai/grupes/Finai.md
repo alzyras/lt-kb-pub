@@ -49,6 +49,18 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
   pagrindžia:
     - c-175738
 
+<a id="claim-t-214551"></a>
+- t-214551
+  teiginys: "Narbutas atmeta prielaidą, kad finai buvo sudėtinė pirmykštės lietuvių tautos dalis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196438
+
 ## Citatos
 
 - id: c-175738
@@ -106,4 +118,6 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214551
 

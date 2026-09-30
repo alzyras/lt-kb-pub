@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4d5ced8e841ff79bf1c9a3d8
-canonical_name: Kampsvykių pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kampsvykių pilis
+entity_id: "ent-4d5ced8e841ff79bf1c9a3d8"
+canonical_name: "Kampsvykių pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kampsvykių pilis"]
 sameAs: []
-canonical_biography: Kampsvykių pilis buvo pastatyta prie Arsos upės.
+canonical_biography: "Kampsvykių pilis buvo pastatyta prie Arsos upės."
+place_authority: true
+historical_names: []
 ---
 # Kampsvykių pilis
 

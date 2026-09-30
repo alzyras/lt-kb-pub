@@ -87,6 +87,60 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   pagrindžia:
     - c-198912
 
+<a id="claim-t-217089"></a>
+- t-217089
+  teiginys: "Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+
+<a id="claim-t-219357"></a>
+- t-219357
+  teiginys: "Narbutas prie Pušaičio, požemio dievaičio ir barstukų vyriausiojo, aprašymo nurodo Stenderio „Lettische Grammatik“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Barstukai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+
+<a id="claim-t-220090"></a>
+- t-220090
+  teiginys: "Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Barstukai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.'

@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Prie medinės bažnyčios buvo pastatyta stulpinė varpinė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 374 (PDF 375)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 374 (PDF 375)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

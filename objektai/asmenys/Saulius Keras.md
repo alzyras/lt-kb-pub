@@ -50,6 +50,7 @@ Saulius Keras 2001 m. paskirtas Kupiškio bažnyčios vikaru, o 2003 m. birželi
   santrauka: 'Saulius Keras 2001 m. paskirtas Kupiškio bažnyčios vikaru, o 2003 m. birželio 2 d. – Utenos Kristaus Žengimo į dangų parapijos vikaru.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 443 (PDF 444)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 443 (PDF 444)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

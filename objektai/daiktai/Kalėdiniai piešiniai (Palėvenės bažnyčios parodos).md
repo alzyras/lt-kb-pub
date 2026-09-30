@@ -55,6 +55,7 @@ Nenurodyta
   santrauka: '2007 m. Palėvenės bažnyčioje surengta Noriūnų Jono Černiaus pagrindinės mokyklos mokinių kalėdinių piešinių paroda.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 250 (PDF 251)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 250 (PDF 251)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

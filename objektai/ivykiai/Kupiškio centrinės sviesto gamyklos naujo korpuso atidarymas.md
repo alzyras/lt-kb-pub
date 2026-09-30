@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1973 m. spalio 1 d. Kupiškio centrinėje sviesto gamykloje atidarytas naujas korpusas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 779 (PDF 780)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 779 (PDF 780)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Domas Plėta žuvo 1947 m. sausio 20 d. Rudilių kaime.
   santrauka: 'Domas Plėta žuvo 1947 m. sausio 20 d. Rudilių kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 617 (PDF 618)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 617 (PDF 618)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

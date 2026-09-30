@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1951 m. rugpjūčio 28 d. Feliksas Ereminas grąžintas į Daujėnus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 522 (PDF 523)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 522 (PDF 523)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

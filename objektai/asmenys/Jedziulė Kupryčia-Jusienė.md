@@ -49,6 +49,7 @@ canonical_biography: "Jedziulė Kupryčia-Jusienė buvo Sipainių (Rudikų) kaim
   santrauka: 'Jedziulė Kupryčia-Jusienė buvo Sipainių (Rudikų) kaimo gyventoja.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 156 (PDF 157)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 156 (PDF 157)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

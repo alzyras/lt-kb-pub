@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Zapolės Jamas"]
 sameAs: []
 canonical_biography: "Zapolės Jamas minimas kaip 1582 m. sausio 12 d. dešimties metų karo paliaubų pasirašymo vieta."
+place_authority: true
+historical_names: []
 ---
 # Zapolės Jamas
 

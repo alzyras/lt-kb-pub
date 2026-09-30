@@ -75,6 +75,7 @@ Henrikas Orakauskas gimė 1948 m. Vyžuonose, 1974 m. baigė Telšių dailės te
   santrauka: 'Donata Jutkienė straipsnyje „Henrikas Orakauskas – Kupiškio miesto puošybos pradininkas“ skulptūroje įžvelgia Henriko Orakausko tapatinimąsi su Oskaru Milašiumi ir poeto ryšiu su Lietuva, o pačią skulptūrą laiko autoportretu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1153 (PDF 1154)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1153 (PDF 1154)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,6 +87,7 @@ Henrikas Orakauskas gimė 1948 m. Vyžuonose, 1974 m. baigė Telšių dailės te
   santrauka: 'Donata Jutkienė Kupiškio Henriko Orakausko memorialinius paminklus priskiria „pranešimų“ tipui ir pažymi, kad jie nėra pritaikyti oficialių minėjimų vietoms.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1166 (PDF 1167)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1166 (PDF 1167)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,6 +97,7 @@ Henrikas Orakauskas gimė 1948 m. Vyžuonose, 1974 m. baigė Telšių dailės te
   santrauka: 'Donata Jutkienė straipsnyje „Henrikas Orakauskas – Kupiškio miesto puošybos pradininkas“ vertina, kad Henrikas Orakauskas savo kūryba įprasmino svarbius praeities ženklus ir įvykius Kupiškyje bei už jo ribų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1166 (PDF 1167)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1166 (PDF 1167)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

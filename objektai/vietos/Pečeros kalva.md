@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d0f871a628d60b836d8a4078
-canonical_name: Pečeros kalva
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pečeros kalva
+entity_id: "ent-d0f871a628d60b836d8a4078"
+canonical_name: "Pečeros kalva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pečeros kalva"]
 sameAs: []
-canonical_biography: 'Šiandien ji vadinama Pečeros kalva, kuri stūk so čia pat prie Dnepro, be užutekių, graži ir patogi.'
+canonical_biography: "Šiandien ji vadinama Pečeros kalva, kuri stūk so čia pat prie Dnepro, be užutekių, graži ir patogi."
+place_authority: true
+historical_names: []
 ---
 # Pečeros kalva
 

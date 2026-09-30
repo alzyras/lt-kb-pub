@@ -60,3 +60,23 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-221342"></a>
+- t-001
+  teiginys: "Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde -> Kimenava: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gedetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kimenava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kadangi Gedetas vadinamas Kimenavos sūduvių vadu, tai rodo jo valdžią Kimenavoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gedetas valdė Kimenava (0.78)"
+

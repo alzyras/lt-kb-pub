@@ -37,6 +37,7 @@ Julius Burneika 1945 m. gegužę (kitur nurodoma – birželį) tapo partizanų 
   santrauka: 'Julius Burneika 1945 m. gegužę (kitur nurodoma – birželį) tapo partizanų grupės vadu, o vėliau vadovavo Algimanto apygardos Jauniaus būriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 111"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 111."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

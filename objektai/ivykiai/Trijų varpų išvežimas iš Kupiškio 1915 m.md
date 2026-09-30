@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1915 m. rusų valdžia išsivežė tris Kupiškio bažnyčios varpus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 351 (PDF 352)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 351 (PDF 352)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

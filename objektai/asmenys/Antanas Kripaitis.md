@@ -51,6 +51,7 @@ Aldona Vasiliauskienė straipsnyje „Kristaus Žengimo į dangų bažnyčios ir
   santrauka: 'Aldona Vasiliauskienė straipsnyje „Kristaus Žengimo į dangų bažnyčios ir parapijos istorija“ Antaną Kripaitį apibūdino kaip buvusį Kupiškio progimnazijos kapelioną ir Kupiškio kultūrinio gyvenimo judintoją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

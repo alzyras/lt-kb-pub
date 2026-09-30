@@ -50,6 +50,7 @@ Povilas Labakojis, partizanų būrio vadas, slapyvardžiais Žaibas ir Žaibutis
   santrauka: 'Povilas Labakojis, partizanų būrio vadas, slapyvardžiais Žaibas ir Žaibutis, gimė 1918 m. ir gyveno Užubalių kaime, Subačiaus valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 63"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 63."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

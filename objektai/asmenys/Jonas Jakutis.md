@@ -51,6 +51,7 @@ Jonas Jakutis (1876–1960), vietinis stalius, apie 1920 m. pagamino nemažą da
   santrauka: 'Jonas Jakutis (1876–1960), vietinis stalius, apie 1920 m. pagamino nemažą dalį bažnyčios ir zakristijos baldų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 343 (PDF 344)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 343 (PDF 344)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ Jonas Jakutis (1876–1960), vietinis stalius, apie 1920 m. pagamino nemažą da
   santrauka: 'Dalia Klajumienė pažymi, kad savamokslis Jonas Jakutis dirbo staliumi-dailide ir fotografu, o jo talentas bei profesionalumas nenusileido mokslus ragavusiųjų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 346 (PDF 347)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 346 (PDF 347)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

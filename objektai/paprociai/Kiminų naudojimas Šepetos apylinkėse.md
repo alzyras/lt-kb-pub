@@ -47,6 +47,7 @@ Nenurodyta
   santrauka: 'Karų ir nelaimių atvejais liaudies medicina kiminus naudojo kaip tvarsliavą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 23 (PDF 24)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 23 (PDF 24)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

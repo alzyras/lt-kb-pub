@@ -66,4 +66,3 @@ Antanas Matulis, Juozo sūnus, gimė 1900 m. ir gyveno Remeikių kaime.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

@@ -40,6 +40,7 @@ Dalia Klajumienė straipsnyje „Palėvenės sakralinio ansamblio architektūra 
   santrauka: '1751 m. inventorius yra ankstyviausias žinomas archyvinis dokumentas, išsamiai aprašęs Palėvenės dominikonų vienuolyno ir bažnyčios išvaizdą bei atspindėjęs ankstyvą ansamblio raidos etapą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 215 (PDF 216)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 215 (PDF 216)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +53,7 @@ Dalia Klajumienė straipsnyje „Palėvenės sakralinio ansamblio architektūra 
   santrauka: 'Inventoriuje aprašyti bažnyčios altoriai; jame nurodyta, kad bažnyčia pašventinta šv. Dominyko, šv. Pranciškaus ir šv. Lauryno garbei.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 215 (PDF 216)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 215 (PDF 216)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

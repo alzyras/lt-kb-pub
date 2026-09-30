@@ -28,7 +28,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Grigalius Chodkevičius"]
 sameAs: []
-canonical_biography: "Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų."
+canonical_biography: "Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buvo Lietuvos lauko, vėliau didysis etmonas, 1564 m. kartu su Mikalojumi Radvila Ruduoju laimėjo Ulos mūšį, o Zabludove įsteigė slavišką spaustuvę."
 ---
 # Grigalius Chodkevičius
 

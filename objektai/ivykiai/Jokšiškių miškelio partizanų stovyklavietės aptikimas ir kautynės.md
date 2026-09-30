@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1945 m. rugsėjo 13 d. NKVD 12-ojo pasienio pulko kareiviai Jokšiškių miškelyje aptiko aštuonių partizanų stovyklavietę; kautynėse žuvo Juozo Mikėno būrio partizanai Bronius Mėlynis ir Adolfas Janiūnas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 113"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 113."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

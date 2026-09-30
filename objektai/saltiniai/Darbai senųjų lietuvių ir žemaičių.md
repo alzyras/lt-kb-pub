@@ -71,3 +71,41 @@ Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-216562"></a>
+- t-001
+  teiginys: "S. Daukantas „Darbų“ pratarmėje rašė kūrinį skyręs ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvių darbus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Darbai senųjų lietuvių ir žemaičių: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Darbai senųjų lietuvių ir žemaičių\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
+<a id="claim-t-218873"></a>
+- t-002
+  teiginys: "Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu jau buvo parašyti ir buvo žinomi D. Poškai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Darbai senųjų lietuvių ir žemaičių: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Darbai senųjų lietuvių ir žemaičių\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

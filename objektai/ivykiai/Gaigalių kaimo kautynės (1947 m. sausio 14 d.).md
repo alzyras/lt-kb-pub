@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: '1947 m. sausio 14 d. Gaigalių kaime nušauti namo šeimininkas Albinas Triznickas ir partizanas Povilas Vitkevičius; padegtame name sudegė dar vienas partizanas, o Ona Triznickienė ir Liudvikas Triznickas buvo sulaikyti.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 258"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 258."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

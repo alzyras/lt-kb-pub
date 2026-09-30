@@ -74,6 +74,21 @@ Nenurodyta
   pagrindžia:
     - c-66993
 
+<a id="claim-t-222421"></a>
+- t-222421
+  teiginys: "Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Skomanto vadovaujama sūduvių kariuomenė siaubė Kulmo žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Kulmas (0.90); Rusai puolė Kulmas (0.86); Sūduviai buvo sąjungininkas su Rusai (0.82)"
+
 ## Citatos
 
 - id: c-66993

@@ -50,6 +50,7 @@ canonical_biography: "1605–1606 m. Andrius Naruševičius Jurgiui Suliatickiui
   santrauka: '1605–1606 m. Andrius Naruševičius Jurgiui Suliatickiui, Jonui Staniševskiui ir Florijonui Peliasui užstatė kelis kaimus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 153 (PDF 154)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 153 (PDF 154)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

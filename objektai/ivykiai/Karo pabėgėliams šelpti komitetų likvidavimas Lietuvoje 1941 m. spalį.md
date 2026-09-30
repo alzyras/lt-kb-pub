@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1941 m. spalį Lietuvoje likvidavus pabėgėliams šelpti komitetus, kupiškėnai nebegalėjo plėtoti veiklos ir padėti pabėgėliams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 568 (PDF 569)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 568 (PDF 569)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

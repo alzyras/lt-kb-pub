@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Sovietmečiu kolūkiuose ir kombinatuose dirbę meistrai kryžius gamino ne darbo metu ir dažnai slapta.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 989 (PDF 990)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 989 (PDF 990)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

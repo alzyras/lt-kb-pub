@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Apskritims ir valsčiams buvo skiriama dešimtys sunkvežimių ir vagonų, o geležinkelių stotyse, laikantis konspiracijos, pristatyta tuščių prekinių ir gyvulinių vagonų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 594 (PDF 595)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 594 (PDF 595)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ Nenurodyta
   santrauka: 'Iki Subačiaus redakcijos darbuotojai laikraščio ryšulėlius vežė traukiniu, o toliau gabeno pakeleivingu sunkvežimiu ar arklių traukiamu vežimu, kartais nešė pėsčiomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 825 (PDF 826)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 825 (PDF 826)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

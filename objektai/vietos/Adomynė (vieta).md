@@ -48,6 +48,7 @@ Kupiškio bažnyčios šventoriuje apie XX a. 4-ąjį dešimtmetį pastatytas de
   santrauka: 'Kupiškio bažnyčios šventoriuje apie XX a. 4-ąjį dešimtmetį pastatytas dekoruotas kryžius apibūdinamas kaip labai panašus į Adomynės bažnyčios šventoriaus kryžių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 993 (PDF 994)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 993 (PDF 994)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

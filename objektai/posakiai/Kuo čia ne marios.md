@@ -34,6 +34,7 @@ Kaunas turi savo marias, todėl kupiškėnai svarstė: „kuo čia ne marios“.
   santrauka: 'Kaunas turi savo marias, todėl kupiškėnai svarstė: „kuo čia ne marios“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 33 (PDF 34)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 33 (PDF 34)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

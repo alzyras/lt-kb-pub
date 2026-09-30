@@ -64,3 +64,25 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Huronai]]
+
+## Teiginiai
+
+<a id="claim-t-216917"></a>
+- t-001
+  teiginys: "Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeigas laikė labai panašiomis į jo aptariamas apeigas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Šiaurės Amerika Kanada: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Huronai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šiaurės Amerika Kanada: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo huronus kaip Šiaurės Amerikoje ir Kanadoje gyvenančią tautą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Huronai gyveno Šiaurės Amerika Kanada (0.95)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

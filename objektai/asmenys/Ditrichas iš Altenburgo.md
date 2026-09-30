@@ -115,6 +115,21 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
+<a id="claim-t-221638"></a>
+- t-221638
+  teiginys: "Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Lunenburgas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ditrichas iš Altenburgo: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lunenburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ditrichas pastatė Lunenburgo pilį; kandidatas yra Lunenburgas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.88)"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą.'

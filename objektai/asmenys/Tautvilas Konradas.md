@@ -23,15 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9492f86d7f29269ce5d86bec
-canonical_name: Tautvilas Konradas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Tautvilas Konradas
+entity_id: "ent-9492f86d7f29269ce5d86bec"
+canonical_name: "Tautvilas Konradas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tautvilas Konradas"]
 sameAs: []
-canonical_biography: Tautvilas Konradas buvo Kęstučio sūnus ir Vytauto bei Žygimanto brolis.
+canonical_biography: "Tautvilas Konradas buvo Kęstučio sūnus ir Vytauto bei Žygimanto brolis."
 ---
 # Tautvilas Konradas
 

@@ -82,6 +82,34 @@ Nenurodyta
   pagrindžia:
     - c-178989
 
+<a id="claim-t-221184"></a>
+- t-221184
+  teiginys: "Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytenis su lietuviais įsibrovė į Livonijos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis surengė žygį į Livonija (0.91)"
+
+<a id="claim-t-222029"></a>
+- t-222029
+  teiginys: "Dar apie tą patį Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-63736

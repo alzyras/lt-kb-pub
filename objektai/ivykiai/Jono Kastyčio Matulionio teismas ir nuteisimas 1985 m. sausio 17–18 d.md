@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1985 m. sausio 17–18 d. Vilniuje LTSR Aukščiausiasis Teismas nuteisė kunigą Joną Kastytį Matulionį trejiems metams laisvės atėmimo; po aštuonių mėnesių jis buvo amnestuotas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 474 (PDF 475)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 474 (PDF 475)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

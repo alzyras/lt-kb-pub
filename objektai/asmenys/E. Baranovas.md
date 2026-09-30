@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5ab60a323a8524624ea65123
-canonical_name: E. Baranovas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - E. Baranovas
+entity_id: "ent-5ab60a323a8524624ea65123"
+canonical_name: "E. Baranovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["E. Baranovas"]
 sameAs: []
-canonical_biography: E. Baranovas trukdė paskirti į parapijas 27 neopresbiterius.
+canonical_biography: "E. Baranovas trukdė paskirti į parapijas 27 neopresbiterius."
 ---
 # E. Baranovas
 

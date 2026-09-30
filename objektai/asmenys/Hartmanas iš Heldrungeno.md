@@ -93,6 +93,21 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   pagrindžia:
     - c-202368
 
+<a id="claim-t-224815"></a>
+- t-224815
+  teiginys: "Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Po susijungimo Livonija aiškiai aprašyta kaip atitekusi Vokiečių ordinui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.86)"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.'

@@ -82,6 +82,19 @@ Nenurodyta
   pagrindžia:
     - c-177021
 
+<a id="claim-t-216793"></a>
+- t-216793
+  teiginys: "II skyrius ŠVENTOSIOS VIETOS Šventieji kalnai, Kalnas Iš seniausios istorijos žinoma, kad senovės tautos atnašau davo dievams aukas ant aukštumų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-199488
+
 ## Citatos
 
 - id: c-172709
@@ -158,6 +171,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216793
 
 - id: c-199584
   autorius: "Teodoras Narbutas"

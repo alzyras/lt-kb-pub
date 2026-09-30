@@ -51,6 +51,7 @@ Steponas Aukštikalnis-Vėjas buvo eilinis, su Jono Kalkio broliu Juliumi rinko 
   santrauka: 'Steponas Aukštikalnis, kronikoje įvardytas emgėbistų agentu „Kalkiu“, nuo 1946 m. rugpjūčio priklausė Vytauto Šato partizanų būriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 257"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 257."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

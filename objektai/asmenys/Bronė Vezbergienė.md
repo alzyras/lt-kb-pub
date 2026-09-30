@@ -50,6 +50,7 @@ Bronė Vezbergienė dirbo bibliotekininke Antašavoje 1957–1979 m.
   santrauka: 'Bronė Vezbergienė gyveno 1957–1979 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 817 (PDF 818)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 817 (PDF 818)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

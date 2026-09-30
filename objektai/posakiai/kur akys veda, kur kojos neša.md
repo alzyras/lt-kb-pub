@@ -71,3 +71,19 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-223096"></a>
+- t-001
+  teiginys: "Po brolių smūgio lietuvių kariuomenę apėmė baimė, ir ji pabėgo kur akys veda, kur kojos neša, prarasdama daug žmonių bei arklių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kur akys veda, kur kojos neša: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kur akys veda, kur kojos neša\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

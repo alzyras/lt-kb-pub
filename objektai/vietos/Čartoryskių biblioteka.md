@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Čartoryskių biblioteka"]
 sameAs: []
 canonical_biography: "Čartoryskių bibliotekoje Krokuvoje saugomas anoniminio autoriaus rankraštis."
+place_authority: true
+historical_names: []
 ---
 # Čartoryskių biblioteka
 

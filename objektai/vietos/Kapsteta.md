@@ -56,6 +56,14 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   pagrindžia:
     - c-59195
 
+<a id="claim-t-221769"></a>
+- t-221769
+  teiginys: "Kur buvo Kapstetos pilis, nėra aišku."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.'

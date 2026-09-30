@@ -53,3 +53,16 @@ Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškian�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-220177"></a>
+- t-001
+  teiginys: "Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškiančio gerai įsižiūrėti arba deramai ištirti."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+

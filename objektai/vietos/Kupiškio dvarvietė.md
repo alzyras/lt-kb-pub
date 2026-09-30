@@ -43,6 +43,7 @@ Kupiškio dvarvietė, kaip ir Kupiškio (Aukštupėnų) piliakalnis bei senamies
   santrauka: 'Kupiškio dvarvietė, kaip ir Kupiškio (Aukštupėnų) piliakalnis bei senamiestis, nėra tyrinėta; Gintautas Zabiela šį tyrimų trūkumą sieja su didelėmis valsčiaus archeologijos pažinimo spragomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 136 (PDF 137)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 136 (PDF 137)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

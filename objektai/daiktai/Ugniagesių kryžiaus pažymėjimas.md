@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1940 m. kovo 15 d. Stasys Švagždys gavo Ugniagesių kryžiaus pažymėjimą už skęstančio berniuko Algirdo Lukoševičiaus išgelbėjimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 682-683 (PDF 683-684)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 682-683 (PDF 683-684)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

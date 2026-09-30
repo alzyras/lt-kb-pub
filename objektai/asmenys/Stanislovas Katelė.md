@@ -41,6 +41,7 @@ Suvainių vieno dūmo įraše nurodytas Stanislovas Katelė.
   santrauka: 'Suvainių vieno dūmo įraše nurodytas Stanislovas Katelė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 163 (PDF 164)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 163 (PDF 164)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

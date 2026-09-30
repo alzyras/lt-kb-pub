@@ -36,6 +36,8 @@ entity_view_role: "place"
 entity_aliases: ["Sokolnikai","Sokolnikai (vieta)"]
 sameAs: []
 canonical_biography: "Sokolnikai po 1772 m. atsidūrė Rusijos imperijos ribose. Sokolnikuose 1771 m. buvo įsteigtas pranciškonų vienuolynas."
+place_authority: true
+historical_names: []
 ---
 # Sokolnikai (vieta)
 

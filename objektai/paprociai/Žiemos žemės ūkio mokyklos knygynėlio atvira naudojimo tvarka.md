@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Knygynėliu galėjo naudotis esami ir buvę mokyklos mokiniai, jaunųjų ūkininkų ratelių nariai ir apylinkės ūkininkai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 789 (PDF 790)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 789 (PDF 790)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

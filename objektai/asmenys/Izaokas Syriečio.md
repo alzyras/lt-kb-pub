@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a7fae4473e71c56738c7d034
-canonical_name: Izaokas Syriečio
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Izaokas Syriečio
+entity_id: "ent-a7fae4473e71c56738c7d034"
+canonical_name: "Izaokas Syriečio"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Izaokas Syriečio"]
 sameAs: []
-canonical_biography: 'Šv. Izaoko Syriečio pavyzdžiu autorius aiškina, kad tikros linksmybės šaltinis esanti rami, tyra sąžinė.'
+canonical_biography: "Šv. Izaoko Syriečio pavyzdžiu autorius aiškina, kad tikros linksmybės šaltinis esanti rami, tyra sąžinė."
 ---
 # Izaokas Syriečio
 

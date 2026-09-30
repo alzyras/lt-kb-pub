@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9b62149a27a11e585e5a81c5
-canonical_name: Trakų pavietas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Trakų pavietas
+entity_id: "ent-9b62149a27a11e585e5a81c5"
+canonical_name: "Trakų pavietas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trakų pavietas"]
 sameAs: []
-canonical_biography: V. I. Marevičius gimė 1755 m. Trakų paviete.
+canonical_biography: "V. I. Marevičius gimė 1755 m. Trakų paviete."
 place_authority: true
 historical_names: []
 ---

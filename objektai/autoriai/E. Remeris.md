@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-93f96f6f64bad3d7e8e2b514
-canonical_name: E. Remeris
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - E. Remeris
+entity_id: "ent-93f96f6f64bad3d7e8e2b514"
+canonical_name: "E. Remeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Remeris"]
 sameAs: []
-canonical_biography: Remerio dienoraštis yra išties geras šaltinis.
+canonical_biography: "Remerio dienoraštis yra išties geras šaltinis."
 ---
 # E. Remeris
 

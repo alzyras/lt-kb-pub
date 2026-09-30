@@ -68,6 +68,34 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   pagrindžia:
     - c-204948
 
+<a id="claim-t-224318"></a>
+- t-224318
+  teiginys: "Antrosios atskalūnybės metais Rudino broliai ir miestiečiai gynė krikščionių tikėjimą nuo prūsų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudinas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225094"></a>
+- t-225094
+  teiginys: "Pasak kai kurių žmonių, Rudino miestas buvo du kartus užkariautas, o jo gyventojai paimti į nelaisvę arba išžudyti."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> pasak kai kurių: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "pasak kai kurių: mention_match, thing, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudinas\" parinktas kaip owner_note_path. Targetas \"pasak kai kurių\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-87074

@@ -72,6 +72,22 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   pagrindžia:
     - c-175113
 
+<a id="claim-t-215703"></a>
+- t-215703
+  teiginys: "Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> ab ovo: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "dzieje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "ab ovo: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dzieje\" parinktas kaip owner_note_path. Targetas \"ab ovo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“.'

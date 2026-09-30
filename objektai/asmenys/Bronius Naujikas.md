@@ -37,6 +37,7 @@ Bronių Naujiką Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto parti
   santrauka: 'Bronių Naujiką Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ įvardija Žiogeliu ir nurodo gyvenus Gineišių kaime, Pandėlio valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 211"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 211."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1896 m. gegužės 26 d. Viktorija Ona Bačiulytė ištekėjo už Jono Žilinsko.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 200 (PDF 201)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 200 (PDF 201)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

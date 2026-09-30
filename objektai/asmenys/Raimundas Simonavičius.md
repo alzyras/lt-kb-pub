@@ -68,6 +68,7 @@ Raimundas Simonavičius 1998 m. buvo paskirtas Kupiškio vikaru. Raimundas Simon
   santrauka: 'Raimundas Simonavičius 1998–2001 m. Kupiškyje ėjo vikaro pareigas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 442 (PDF 443)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 442 (PDF 443)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,4 +87,3 @@ Raimundas Simonavičius 1998 m. buvo paskirtas Kupiškio vikaru. Raimundas Simon
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

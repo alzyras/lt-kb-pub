@@ -63,6 +63,7 @@ canonical_biography: "1948 m. sausio 3 d. Duoniūnų kaime per operaciją buvo s
   santrauka: '1947 m. spalio 7 d. Antano Starkaus-Montės vadovaujami partizanai apsistojo pas Adelę Dulksnytę Duoniūnų kaime ir ketino jos namuose įsirengti bunkerį.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 278"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 278."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -72,6 +73,7 @@ canonical_biography: "1948 m. sausio 3 d. Duoniūnų kaime per operaciją buvo s
   santrauka: 'Per 1948 m. sausio 3 d. surengtą operaciją buvo suimta Adelė Dulksnytė-Motinėlė, kuri vėliau buvo nuteista.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 278-279"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 278-279."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

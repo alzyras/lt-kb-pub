@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1953 m. Aukštaičių kolūkis kunigui skyrė 10,48 aro žemės sklypą klebonijai statyti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 239 (PDF 240)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 239 (PDF 240)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

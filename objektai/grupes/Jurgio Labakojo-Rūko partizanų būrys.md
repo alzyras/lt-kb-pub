@@ -30,6 +30,7 @@ Jurgis Labakojis-Rūkas, kaip Ona Dapšytė-Kriukelienė nurodo kronikoje „Kup
   santrauka: 'Jurgis Labakojis-Rūkas, kaip Ona Dapšytė-Kriukelienė nurodo kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“, žuvo 1947 m. balandžio 11 d. per karinę čekistų operaciją Skudų kaime.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 50"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 50."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

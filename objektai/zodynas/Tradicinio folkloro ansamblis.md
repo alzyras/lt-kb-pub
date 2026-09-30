@@ -34,6 +34,7 @@ Tradicinio folkloro ansamblių repertuaro pagrindą sudaro atstovaujamo krašto 
   santrauka: 'Tradicinio folkloro ansamblių repertuaro pagrindą sudaro atstovaujamo krašto dainos ar šokiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1080 (PDF 1081)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1080 (PDF 1081)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

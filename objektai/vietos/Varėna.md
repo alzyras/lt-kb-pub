@@ -25,17 +25,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f8281d2adc7efe2463b960ed
-canonical_name: Varėna
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Varėna
-sameAs: []
-canonical_biography: '1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį. 7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir. Lenkų vyriausybė apsimetė nieko apie tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems klausimams išspręsti.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Varėna","url":"https://lt.wikipedia.org/wiki/Var%C4%97na","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Varėna","url":"https://www.vle.lt/straipsnis/varena/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:31:00+00:00","source_checked_at":"2026-09-20T13:31:00+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Varėna – miestas pietų Lietuvoje, Alytaus apskrityje, 51 km į pietryčius nuo Alytaus. Varėnos rajono savivaldybės ir seniūnijos centras. Yra 6 seniūnaitijos (Dzūkų, M. K. Čiurlionio, Parko, Šilo, Vytauto, Žalioji). Miestas išsidėstęs į šiaurę nuo Vilniaus–Marcinkonių geležinkelio, prie plento 127 Babriškės–Varėna–Eišiškės . Stovi medinė Šv. arkangelo Mykolo bažnyčia (nuo 1933 m.), Varėnos sinagoga (XX a. pr.), yra paštas, Varėnos geležinkelio stotis. Miesto centre yra savivaldybė, kultūros namai. Šiaurės rytiniame miesto pakraštyje gausu pramonės įmonių (melioracijos, pieno, transporto ir kt.). Ten ir Varėnos poliklinika – trijų aukštų pastate (vienas korpusas statytas 1968 m., kitas – 1982 m.) bei ligoninė.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"13981","revision_id":"7867393","status":"published","translation_status":"native","source":{"title":"Varėna","url":"https://lt.wikipedia.org/wiki/Var%C4%97na","publisher":"Vikipedija","language":"lt","article_id":"13981","revision_id":"7867393","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7867393","history_url":"https://lt.wikipedia.org/w/index.php?title=Var%C4%97na&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:22:50.766021+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"9309c18674ff792fab01eafada0b6c78dffeccaf4000892bb9b0fecaac543198","version_pk":"7e06121d2a6ce2a3fd3ce755d244c47c"}},"source_buttons":[{"label":"Vikipedija","title":"Varėna","url":"https://lt.wikipedia.org/wiki/Var%C4%97na","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Varėna","url":"https://www.vle.lt/straipsnis/varena/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Var%C4%97na","https://www.vle.lt/straipsnis/varena/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Husitai","claim_id":"t-172102","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-172037","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-172035","confidence":0.84},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-41367","confidence":0.74}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -49,6 +38,15 @@ object_page_seo_description: 'Varėna: 1—2 d. lenkai sumušė mūsų kariuomen
 object_page_seo_input_hash: eafb354fefecbadda609fbabfa5ef8a4d7e1acdce0cffbc44caeb15e0e5f2306
 object_page_seo_generated_at: '2026-09-20T13:31:00+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-f8281d2adc7efe2463b960ed"
+canonical_name: "Varėna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varėna"]
+sameAs: ["https://www.wikidata.org/entity/Q835843"]
+canonical_biography: "1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį. 7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir. Lenkų vyriausybė apsimetė nieko apie tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems klausimams išspręsti."
+place_authority: true
+historical_names: []
 ---
 # Varėna
 

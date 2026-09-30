@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d92d15dedee8c7f271442359
-canonical_name: Livonijos žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Livonijos žemė
+entity_id: "ent-d92d15dedee8c7f271442359"
+canonical_name: "Livonijos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Livonijos žemė"]
 sameAs: []
-canonical_biography: 'Krivio valiai, šaltinio pasakojimu, pakluso lietuviai ir kitos Livonijos žemėje gyvenusios tautos.'
+canonical_biography: "Krivio valiai, šaltinio pasakojimu, pakluso lietuviai ir kitos Livonijos žemėje gyvenusios tautos."
+place_authority: true
+historical_names: []
 ---
 # Livonijos žemė
 

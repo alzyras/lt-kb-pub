@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8f3876a64d5c1d08936cad6e
-canonical_name: Kunigiškiai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kunigiškiai
-  - Kunigiškiai (vieta)
+entity_id: "ent-8f3876a64d5c1d08936cad6e"
+canonical_name: "Kunigiškiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kunigiškiai","Kunigiškiai (vieta)"]
 sameAs: []
-canonical_biography: 'Kunigiškiai yra kaimas, kurio vaikai, nepaisydami motinos įspėjimų, rūkė daržinėje ir ją padegė.'
+canonical_biography: "Kunigiškiai yra kaimas, kurio vaikai, nepaisydami motinos įspėjimų, rūkė daržinėje ir ją padegė."
 place_authority: true
 historical_names: []
 ---

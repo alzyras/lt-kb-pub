@@ -30,6 +30,7 @@ Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–195
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodė, kad agentas „Murkūnas“ palaikė draugiškus ryšius su legalizavusiais partizanais ir iš jų sužinodavo slėptuvių vietas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 384"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 384."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

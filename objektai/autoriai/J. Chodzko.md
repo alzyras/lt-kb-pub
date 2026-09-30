@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-32eb0cd28f4f603aa9cd0562
-canonical_name: J. Chodzko
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. Chodzko
+entity_id: "ent-32eb0cd28f4f603aa9cd0562"
+canonical_name: "J. Chodzko"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Chodzko"]
 sameAs: []
-canonical_biography: J. Chodzko yra knygelės „Jonas iš Svisiočės“ autorius.
+canonical_biography: "J. Chodzko yra knygelės „Jonas iš Svisiočės“ autorius."
 ---
 # J. Chodzko
 
@@ -53,4 +50,21 @@ J. Chodzkos knygelė „Jonas iš Svisiočės“ buvo išversta į lietuvių kal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208726"></a>
+- t-001
+  teiginys: "J. Chodzkos knygelė „Jonas iš Svisiočės“ buvo išversta į lietuvių kalbą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-191346
 

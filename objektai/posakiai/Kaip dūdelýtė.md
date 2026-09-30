@@ -34,6 +34,7 @@ Pandėlio apylinkių posakis „kaip dūdelýtė“ apibūdina liesą ir ploną 
   santrauka: 'Pandėlio apylinkėse posakiu „kaip dūdelýtė“ pabrėžiamas vaiko liesumas ir plonumas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1096 (PDF 1097)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1096 (PDF 1097)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

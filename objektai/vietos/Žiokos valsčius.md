@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4b177fb6e5ce0d61e62897d6
-canonical_name: Žiokos valsčius
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Žiokos valsčius
+entity_id: "ent-4b177fb6e5ce0d61e62897d6"
+canonical_name: "Žiokos valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žiokos valsčius"]
 sameAs: []
-canonical_biography: Žiokos valsčiuje gyveno prūsas Dargis.
+canonical_biography: "Žiokos valsčiuje gyveno prūsas Dargis."
+place_authority: true
+historical_names: []
 ---
 # Žiokos valsčius
 

@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Tvartas yra ūkinis trobesys gyvuliams laikyti; Lietuvoje jis minimas rašytiniuose šaltiniuose nuo XVI a., o archeologiniai duomenys siekia XIII–XIV a.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 721 (PDF 722)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 721 (PDF 722)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ Nenurodyta
   santrauka: 'Kai leido ekonominės sąlygos, lietuviai stengėsi tvartus statyti atskirai nuo gyvenamojo namo, siekdami apsaugoti tvartus nuo gaisro, taip pat dėl higienos ir estetikos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 721 (PDF 722)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 721 (PDF 722)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -72,6 +74,7 @@ Nenurodyta
   santrauka: 'Paprasčiausi ankstyviausi tvartai buvo neilgi, keturkampio plano, vienos patalpos ir su vieneriomis durimis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 721 (PDF 722)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 721 (PDF 722)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,56 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pe
 
 Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė.
 
-## Teiginiai
-
-<a id="claim-t-221886"></a>
-- t-221886
-  teiginys: "Apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203876
-
-<a id="claim-t-222457"></a>
-- t-222457
-  teiginys: "Rudolfas, nukovęs Čekijos karalių Otokarą, Austrijos kunigaikštystę atidavė savo sūnui Albrechtui."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Austrija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Albrechtas (Rudolfo sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Austrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Austrijos kunigaikštystė buvo atiduota Albrechtui, todėl pagrįstas jo valdymo ryšys su Austrija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Albrechtas (Rudolfo sūnus) valdė Austrija (0.82)"
-  pagrindžia:
-    - c-203876
-
-<a id="claim-t-222615"></a>
-- t-222615
-  teiginys: "Rudolfo sūnus Albrechtas vėliau tapo Romos karaliumi."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Albrechtas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albrechtas (Rudolfo sūnus): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Albrechtas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albrechtas (Rudolfo sūnus)\" parinktas kaip owner_note_path. Targetas \"Albrechtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203876
-
 ## Citatos
 
 - id: c-60863
@@ -129,8 +79,4 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221886
-    - t-222457
-    - t-222615
 

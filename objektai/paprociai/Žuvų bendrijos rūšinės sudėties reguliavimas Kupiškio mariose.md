@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Egidijus Bukelskis siūlė ateityje Kupiškio mariose įveisti šamų, kad būtų geriau subalansuota žuvų bendrija ir sumažėtų kuojų bei plakių gausumas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 92 (PDF 93)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 92 (PDF 93)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Kupiškio mariose nesugauta sidabrinių karosų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 92 (PDF 93)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 92 (PDF 93)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

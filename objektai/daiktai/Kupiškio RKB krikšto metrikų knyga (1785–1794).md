@@ -55,6 +55,7 @@ Nenurodyta
   santrauka: 'Knygos paskutiniame, 81-ajame, lape yra 1834 m. kovo 20 d. Kupiškio dekano Gasparo Dulskio įrašas, parašas ir du antspaudai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 367 (PDF 368)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 367 (PDF 368)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

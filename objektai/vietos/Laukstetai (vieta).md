@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3adb3b3c01569d253f042881
-canonical_name: Laukstetai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Laukstetai
-  - Laukstetai (vieta)
+entity_id: "ent-3adb3b3c01569d253f042881"
+canonical_name: "Laukstetai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Laukstetai","Laukstetai (vieta)"]
 sameAs: []
-canonical_biography: Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi.
+canonical_biography: "Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi."
+place_authority: true
+historical_names: []
 ---
 # Laukstetai (vieta)
 
@@ -57,4 +56,20 @@ Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-223740"></a>
+- t-001
+  teiginys: "Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205104
 

@@ -70,6 +70,7 @@ Nenurodyta
   santrauka: '2010 m. Kalėdų šventę pagyvino Noriūnų mokyklos mokinių ir tikybos mokytojos Ingos Paugienės pristatyta kalėdinių sveikinimų paroda.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 252 (PDF 253)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 252 (PDF 253)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Kazimieras Dulksnys parašė aprašą apie Tauragnų bažnyčią, kuris 1947 m. 
   santrauka: 'Kazimieras Dulksnys parašė aprašą apie Tauragnų bažnyčią, kuris 1947 m. vyskupo K. Paltaroko nurodymu buvo pateiktas straipsnyje apie Tauragnų bažnyčios ir parapijos istoriją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 458 (PDF 459)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 458 (PDF 459)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

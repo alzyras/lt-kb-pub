@@ -50,6 +50,7 @@ I. Vezerekaros-Albertos romanas Lurdo ir civilinių jungtuvių temomis buvo išv
   santrauka: 'I. Vezerekaros-Albertos parašė romaną Lurdo ir civilinių jungtuvių temomis, o kūrinys buvo išverstas į lietuvių kalbą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 486 (PDF 487)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 486 (PDF 487)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

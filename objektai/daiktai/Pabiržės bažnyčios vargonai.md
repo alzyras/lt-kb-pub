@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Pabiržėje buvo pradėti restauruoti bažnyčios vargonai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 546 (PDF 547)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 546 (PDF 547)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

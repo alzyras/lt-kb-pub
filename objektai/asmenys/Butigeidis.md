@@ -20,6 +20,12 @@ media_direct_json: '[{"mediaId":"m-00e7511710450bd2c4ef1c08","title":"Butigeidis
 media_total_count: 1
 media_primary_width: 480
 media_primary_height: 800
+entity_id: "ent-c55b63ae14ddffbe0a8af01a"
+canonical_name: "Butigeidis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Butigeidis","[\"Butigeidis\", \"Butigeidis\"]"]
+sameAs: []
 ---
 
 # Butigeidis

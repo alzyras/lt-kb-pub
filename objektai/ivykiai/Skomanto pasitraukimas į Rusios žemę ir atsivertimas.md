@@ -66,3 +66,20 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-221566"></a>
+- t-001
+  teiginys: "Sūduvių vadas Skomantas, neatsilaikydamas prieš nuolatinius brolių antpuolius, su šeimyna ir bičiuliais pasitraukė į Rusios žemę."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Skomantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skomanto pasitraukimas į Rusios žemę ir atsivertimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Skomantas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skomanto pasitraukimas į Rusios žemę ir atsivertimas\" parinktas kaip owner_note_path. Targetas \"Skomantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

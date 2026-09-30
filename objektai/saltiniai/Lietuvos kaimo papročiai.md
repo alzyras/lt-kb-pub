@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1993 m. knygoje „Lietuvos kaimo papročiai“ iš naujo išspausdinti svarbiausi tarpukario spaudoje publikuoti Balio Buračo straipsniai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 928 (PDF 929)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 928 (PDF 929)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: 'Laikraštėlis „Tau, parapijieti“ nuo 2010 m. rudens buvo ir Antašavos Šv. Hiacinto parapijos leidinys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 824 (PDF 825)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 824 (PDF 825)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

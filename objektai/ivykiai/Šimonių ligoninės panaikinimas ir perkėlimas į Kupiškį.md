@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1963 m. Šimonių 10 lovų ligoninė buvo panaikinta ir perkelta į Kupiškį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 769 (PDF 770)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 769 (PDF 770)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

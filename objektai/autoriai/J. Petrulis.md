@@ -49,6 +49,7 @@ Petrulis straipsniuose nepaminėjo visų nustatytų Kupiškio krašto dievdirbi�
   santrauka: 'Petrulis straipsniuose nepaminėjo visų nustatytų Kupiškio krašto dievdirbių: Jono Burbulio vardas liko Petrulio užrašuose, o Petrulis 1962 m. Girsteikių kaime gavo dvi Burbulio skulptūras.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 952 (PDF 953)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 952 (PDF 953)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

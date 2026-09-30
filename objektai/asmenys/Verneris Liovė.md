@@ -64,6 +64,7 @@ Po karo Verneris Liovė apsigyveno Vokietijos Federacinėje Respublikoje, Kelne.
   santrauka: '1941 m. liepos pradžioje Kupiškio gimnazijos vokiečių kalbos mokytojas Verneris Liovė buvo paskirtas miesto komendantu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 582 (PDF 583)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 582 (PDF 583)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

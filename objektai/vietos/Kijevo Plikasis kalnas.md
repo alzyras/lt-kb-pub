@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3f8da2d0c7e007532d2332a3
-canonical_name: Kijevo Plikasis kalnas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kijevo Plikasis kalnas
+entity_id: "ent-3f8da2d0c7e007532d2332a3"
+canonical_name: "Kijevo Plikasis kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kijevo Plikasis kalnas"]
 sameAs: []
-canonical_biography: 'Kijevo Plikasis kalnas garsėjo 1 1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau ve - plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar džio.'
+canonical_biography: "Kijevo Plikasis kalnas garsėjo 1 1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau ve - plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar džio."
+place_authority: true
+historical_names: []
 ---
 # Kijevo Plikasis kalnas
 

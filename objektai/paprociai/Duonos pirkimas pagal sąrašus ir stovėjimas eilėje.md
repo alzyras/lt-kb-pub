@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Šepetos darbininkai kas antrą dieną galėjo nusipirkti duonos pagal sąrašus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 113 (PDF 114)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 113 (PDF 114)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XXI amžius"
 periodo_pradzia: 2001
 periodo_pabaiga: 2100
-periodo_objektu_skaicius: 838
+periodo_objektu_skaicius: 837
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 838.
+Objektų skaičius: 837.
 
 ## Susiję objektai
 
@@ -598,7 +598,6 @@ Objektų skaičius: 838.
 - [[objektai/vietos/Vilkija]]
 - [[objektai/vietos/Vilniaus gubernija]]
 - [[objektai/vietos/Vilniaus katedra]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vitebskas]]
 - [[objektai/vietos/Vištyčio ežeras]]
 - [[objektai/vietos/Vladimiras]]

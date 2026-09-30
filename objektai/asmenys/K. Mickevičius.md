@@ -41,6 +41,7 @@ Kupiškėno smuikininko K. Mickevičiaus muzikoje pasitaikė sutartinėms, skudu
   santrauka: 'K. Mickevičiaus muzikoje pasitaikė sutartinėms, skudučių ir ragų muzikai būdingų sinkopių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1078 (PDF 1079)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1078 (PDF 1079)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

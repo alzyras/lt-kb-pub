@@ -60,6 +60,7 @@ Nenurodyta
   santrauka: 'XX a. pradžioje Joniškio apylinkėse po pavasario sėjos ūkininkai parūpindavo grūdų sambarių alui, o kaimo gyventojai dvi dienas puotaudavo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 942 (PDF 943)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 942 (PDF 943)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

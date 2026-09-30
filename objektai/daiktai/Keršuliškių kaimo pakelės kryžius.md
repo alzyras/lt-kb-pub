@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1970 m. Keršuliškių kaimo pakelėje buvo nufotografuotas aukštas paprastas kryžius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 957 (PDF 958)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 957 (PDF 958)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

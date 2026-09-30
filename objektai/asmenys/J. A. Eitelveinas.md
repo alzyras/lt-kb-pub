@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d40fa00428f0505efaee3ca9
-canonical_name: J. A. Eitelveinas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - J. A. Eitelveinas
+entity_id: "ent-d40fa00428f0505efaee3ca9"
+canonical_name: "J. A. Eitelveinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. A. Eitelveinas"]
 sameAs: []
-canonical_biography: 'J. A. Eitelveinas vadovavo Rusijos ir Prūsijos komisijai, susijusiai su hidrauliniais darbais prie Nemuno.'
+canonical_biography: "J. A. Eitelveinas vadovavo Rusijos ir Prūsijos komisijai, susijusiai su hidrauliniais darbais prie Nemuno."
 ---
 # J. A. Eitelveinas
 

@@ -98,6 +98,7 @@ Kupiškio parapijos kunigai aptarnauja Šepetos psichoneurologinio pensiono gyve
   santrauka: 'Kupiškio parapijos kunigai aptarnauja Šepetos psichoneurologinio pensiono gyventojus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 453 (PDF 454)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 453 (PDF 454)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -109,6 +110,7 @@ Kupiškio parapijos kunigai aptarnauja Šepetos psichoneurologinio pensiono gyve
   santrauka: '1963 m. Šepetoje pradėjo veikti izoplokščių cechas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 783 (PDF 784)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 783 (PDF 784)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

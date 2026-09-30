@@ -57,6 +57,28 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   pagrindžia:
     - c-174073
 
+<a id="claim-t-212487"></a>
+- t-212487
+  teiginys: "Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Vysla: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo gotų judėjimą per Vyslos žemupį; artimiausias leidžiamas santykis yra keliavo_i."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Gotai keliavo į Vysla (0.72)"
+  temporaliniai_duomenys: "kelionės data: 161 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Gotai keliavo į Vysla“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai pateikia Naruševičiaus tyrimų pagrindu nurodytą gotų žygį. Karaliaus titulas ir datavimas palikti kaip šaltinio perteikiama formuluotė."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, laikė labai panašia į tiesą.'

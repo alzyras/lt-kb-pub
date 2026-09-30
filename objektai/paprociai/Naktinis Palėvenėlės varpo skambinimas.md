@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Nežinomi asmenys kartais naktimis skambina Palėvenėlės varpu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1011 (PDF 1012)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1011 (PDF 1012)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

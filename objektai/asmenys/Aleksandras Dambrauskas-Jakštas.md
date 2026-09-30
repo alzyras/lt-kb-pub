@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5353df3544e78c2446735264
-canonical_name: Aleksandras Dambrauskas-Jakštas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Aleksandras Dambrauskas-Jakštas
+entity_id: "ent-5353df3544e78c2446735264"
+canonical_name: "Aleksandras Dambrauskas-Jakštas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Dambrauskas-Jakštas"]
 sameAs: []
-canonical_biography: 'Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipelniusių kunigų į reikšmingesnes parapijas.'
+canonical_biography: "Dambrauskas-Jakštas teigė, kad Valančius neskirdavo neveiklių bei nenusipelniusių kunigų į reikšmingesnes parapijas."
 ---
 # Aleksandras Dambrauskas-Jakštas
 

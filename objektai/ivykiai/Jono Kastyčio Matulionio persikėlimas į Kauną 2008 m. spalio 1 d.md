@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '2008 m. spalio 1 d. Jonas Kastytis Matulionis persikėlė į Kauną ir buvo Šv. Pranciškaus Ksavero bažnyčios kunigas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 478 (PDF 479)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 478 (PDF 479)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

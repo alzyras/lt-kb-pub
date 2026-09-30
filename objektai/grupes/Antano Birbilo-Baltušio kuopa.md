@@ -34,6 +34,7 @@ Antano Birbilo-Baltušio vadovaujama kuopa veikė Subačiaus, Geležių ir Karsa
   santrauka: 'Antano Birbilo-Baltušio vadovaujama kuopa veikė Subačiaus, Geležių ir Karsakiškio trikampyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 610 (PDF 611)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 610 (PDF 611)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

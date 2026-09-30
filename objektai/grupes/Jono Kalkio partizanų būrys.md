@@ -30,6 +30,7 @@ Jono Kalkio partizanų būryje Adolfas Baltrėnas-Sakalėlis buvo vado pavaduoto
   santrauka: 'Jono Kalkio partizanų būryje Adolfas Baltrėnas-Sakalėlis buvo vado pavaduotojas ir antisovietinės spaudos platintojas, o Steponas Aukštikalnis-Vėjas su Jono Kalkio broliu Juliumi rinko maistą ir nešė jį į Skamarakų kaimo bunkerį.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 145"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 145."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

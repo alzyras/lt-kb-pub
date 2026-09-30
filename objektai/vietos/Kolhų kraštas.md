@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5fb309884941b8af73400345
-canonical_name: Kolhų kraštas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kolhų kraštas
+entity_id: "ent-5fb309884941b8af73400345"
+canonical_name: "Kolhų kraštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kolhų kraštas"]
 sameAs: []
-canonical_biography: 'Reikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš to prie Fasio pasiektų Meotų jūrą.'
+canonical_biography: "Reikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš to prie Fasio pasiektų Meotų jūrą."
+place_authority: true
+historical_names: []
 ---
 # Kolhų kraštas
 

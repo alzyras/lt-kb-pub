@@ -41,6 +41,7 @@ Griciūnuose buvo trys dūmai, priklausę Kazimierui Bliekai, Jonui Lauciui ir M
   santrauka: 'Griciūnuose buvo trys dūmai, priklausę Kazimierui Bliekai, Jonui Lauciui ir Motiejui Bliekai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 163 (PDF 164)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 163 (PDF 164)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

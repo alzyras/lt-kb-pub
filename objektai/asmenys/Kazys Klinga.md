@@ -66,4 +66,3 @@ Kazys Klinga gimė 1922 m. ir gyveno Ilgalaukio kaime.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

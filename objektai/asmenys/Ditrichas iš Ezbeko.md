@@ -43,44 +43,6 @@ canonical_biography: "Dusburgietis teigia, kad apie Pieštvės pilėnų apiplė�
 
 Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei ginklanešių, jie patraukė prie Pieštvės. Dusburgietis teigia, kad šitai matydami, netikėliai pastojo jiems kelią, o šiame laivų mūšyje krito brolis Ditrichas iš Ezbeko ir dar vienas brolis, vardu [..?] iš Feringės.
 
-## Teiginiai
-
-<a id="claim-t-60106"></a>
-- t-001
-  teiginys: "1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Ragainė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Ezbeko: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Saugoti Ragainės pilį semantiškai tiesiogiai atitinka Ragainės gynimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Ditrichas iš Ezbeko gynė Ragainė (0.90); Ditrichas iš Ezbeko siuntė į Ragainė (0.90); Ditrichas iš Ezbeko keliavo į Pieštvė (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1294 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-60738
-
-<a id="claim-t-221806"></a>
-- t-221806
-  teiginys: "Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Ezbeko: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ditrichas iš Ezbeko\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202447
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.'
@@ -119,8 +81,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-60739
   autorius: "Petras Dusburgietis"
@@ -165,8 +125,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221806
 
 ## Ryšiai
 - Ditrichas iš Ezbeko gynė [[objektai/vietos/Ragainė]]

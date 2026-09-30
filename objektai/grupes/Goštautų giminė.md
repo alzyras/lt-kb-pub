@@ -72,6 +72,19 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   pagrindžia:
     - c-176475
 
+<a id="claim-t-211463"></a>
+- t-211463
+  teiginys: "Tarp Vilniaus seniūnų pirmas iš Goštautų buvo Andrius Goštautas (1387 m.)."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-193819
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.'
@@ -190,4 +203,6 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211463
 

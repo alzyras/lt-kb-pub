@@ -49,6 +49,7 @@ Pagal architekto A. Klimkos projektą buvusi mokykla 1982 m. pritaikyta etnograf
   santrauka: 'Pagal architekto A. Klimkos projektą 1982 m. buvusi mokykla pritaikyta etnografijos muziejui, o prie jos vakarinės pusės pristatytas naujas priestatas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 271 (PDF 272)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 271 (PDF 272)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

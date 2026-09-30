@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fad4320074c6f0b1ff62520f
-canonical_name: Antanas Lukšas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Antanas Lukšas
+entity_id: "ent-fad4320074c6f0b1ff62520f"
+canonical_name: "Antanas Lukšas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Lukšas"]
 sameAs: []
-canonical_biography: 'Lukšas sakė, kad dėl savo gerumo Valančius galėjęs gyvas būti danguje.'
+canonical_biography: "Lukšas sakė, kad dėl savo gerumo Valančius galėjęs gyvas būti danguje."
 ---
 # Antanas Lukšas
 

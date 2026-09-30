@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Antanas Starkus paprašė Jaroslavo Zdanausko apie rengiamas operacijas pranešti per ryšininkę Oną Gudaitę.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 181"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 181."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

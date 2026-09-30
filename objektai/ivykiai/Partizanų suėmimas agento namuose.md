@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1950 m. sausio 13 d. agento Jono Laužiko namuose Čiovydžių kaime įrengtame bunkeryje, panaudojus migdomuosius, buvo suimti Petras Černius-Špokas ir Vytautas Lapienis-Uosis.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 385"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 385."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

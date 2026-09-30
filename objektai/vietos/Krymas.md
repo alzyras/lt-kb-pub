@@ -80,6 +80,26 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   pagrindžia:
     - c-189126
 
+<a id="claim-t-184994"></a>
+- t-184994
+  teiginys: "Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Krymas: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kafos gyventojai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys rodo numatytą Kafos gyventojų judėjimą su raiteliais į Krymą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kafos gyventojai keliavo į Krymas (0.75)"
+  pagrindžia:
+    - c-168355
+
 ## Citatos
 
 - id: c-38532
@@ -126,6 +146,8 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-184994
 
 - id: c-189126
   šaltinis: "Lietuvių tautos istorija, t. 5"

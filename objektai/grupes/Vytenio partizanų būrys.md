@@ -56,6 +56,7 @@ media_all_json: |-
   santrauka: '1946 m. vasarą Šimonių girioje Šarūno rinktinės vadas Antanas Slučka iš 15–20 buvusių partizanų suorganizavo Vytenio būrį ir jo vadu paskyrė Petrą Indriūną-Vėbrą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 79"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 79."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

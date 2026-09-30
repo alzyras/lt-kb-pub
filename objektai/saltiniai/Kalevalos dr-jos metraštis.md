@@ -56,6 +56,56 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   pagrindžia:
     - c-177609
 
+<a id="claim-t-195238"></a>
+- t-195238
+  teiginys: "1925 m. „Kalevalos dr-jos metraštyje“ 5 paskelbtas A. R. Niemio tekstas „Veliamos mergaitės meškeriojimas“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177604
+
+<a id="claim-t-195239"></a>
+- t-195239
+  teiginys: "1929 m. „Kalevalos dr-jos metr. 9“ paskelbtas A. R. Niemio tekstas „Apie mūsų runų tyrinėjimo metodą“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177607
+
+<a id="claim-t-195240"></a>
+- t-195240
+  teiginys: "1924 m. „Kalevalos dr-jos metraštyje“ 4 paskelbtas A. R. Niemio tekstas „Kalevalos estetiškas įvertinimas“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177605
+
+<a id="claim-t-195242"></a>
+- t-195242
+  teiginys: "1926 m. „Kalevalos dr-jos metr. 6“ paskelbtas A. R. Niemio tekstas „Šis tas dėl aliteracijos atsiradimo ir raidos istorijos“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177606
+
+<a id="claim-t-195243"></a>
+- t-195243
+  teiginys: "1927 m. „Kalevalos dr-jos metr. 7“ paskelbtas A. R. Niemio tekstas „Kaip reikia Kalevala dėstyti suomių kalbos mokyklose“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177608
+
 ## Citatos
 
 - id: c-177604
@@ -74,6 +124,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195238
 
 - id: c-177605
   autorius: "A. Sabaliauskas"
@@ -91,6 +143,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195240
 
 - id: c-177606
   autorius: "A. Sabaliauskas"
@@ -108,6 +162,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195242
 
 - id: c-177607
   autorius: "A. Sabaliauskas"
@@ -128,6 +184,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195239
 
 - id: c-177608
   autorius: "A. Sabaliauskas"
@@ -144,6 +202,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195243
 
 - id: c-177609
   autorius: "A. Sabaliauskas"

@@ -73,15 +73,6 @@ Nenurodyta
   pagrindžia:
     - c-153486
 
-<a id="claim-t-168692"></a>
-- t-002
-  teiginys: "Rašliava vartojama kaip istorinės raštijos pavadinimas."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-153486
-
 <a id="claim-t-168695"></a>
 - t-003
   teiginys: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė."
@@ -123,7 +114,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-002
 
 - id: c-153487
   redaktorius: "A. Šapoka"

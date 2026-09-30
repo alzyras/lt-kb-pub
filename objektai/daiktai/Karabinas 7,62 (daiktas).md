@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Ginklų sąraše Romui Neniškiui, byloje nurodytam kaip Noniškis, priskirtas 7,62 mm karabinas Nr. 31115.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 240"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 240."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

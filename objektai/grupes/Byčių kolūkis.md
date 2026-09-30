@@ -40,6 +40,7 @@ Dalia Klajumienė rašo, kad sovietmečiu buvęs vienuolyno patalpose Byčių ko
   santrauka: 'Dalia Klajumienė rašo, kad sovietmečiu buvęs vienuolyno patalpose Byčių kolūkio administracinis centras sunaikino daug ansamblio pastatų ir padarė nuostolių bažnyčiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 233 (PDF 234)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 233 (PDF 234)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

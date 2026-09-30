@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Po Antrojo Vatikano susirinkimo (1962–1965 m.) Bažnyčios vidaus gyvenimo ir veiklos reformos metu umbrakuliai liturgijoje nebenaudojami.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 356 (PDF 357)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 356 (PDF 357)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

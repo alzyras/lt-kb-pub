@@ -62,6 +62,40 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   pagrindžia:
     - c-59145
 
+<a id="claim-t-224522"></a>
+- t-224522
+  teiginys: "Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varmė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aismares: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Varmė: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aismares\" parinktas kaip owner_note_path. Targetas \"Varmė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205786
+
+<a id="claim-t-225778"></a>
+- t-225778
+  teiginys: "1237 m. Elbingo pilis buvo pastatyta saloje ties vieta, kur Elbingo upė įteka į Aismares."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Elbingas: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elbingo pilis (pilis): llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Elbingo pilis pavadinta Elbingu ir lokalizuota prie Elbingo upės; ryšys palaiko priklausymą šiai vietai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Elbingo pilis (pilis) priklausė Elbingas (0.62)"
+  temporaliniai_duomenys: "pastatymo data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia pilies statybos vietą, bet pradiniame teiginyje buvo perteklinio ir nutrūkusio teksto."
+
 ## Citatos
 
 - id: c-59144
@@ -154,4 +188,6 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224522
 

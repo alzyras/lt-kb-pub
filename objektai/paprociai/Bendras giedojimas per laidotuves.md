@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Sovietiniais metais bendro giedojimo paprotys nyko, jį keitė keturių ar penkių giesmininkų grupės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 904 (PDF 905)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 904 (PDF 905)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

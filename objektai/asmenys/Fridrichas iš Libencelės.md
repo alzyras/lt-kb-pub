@@ -94,6 +94,24 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   pagrindžia:
     - c-60588
 
+<a id="claim-t-223203"></a>
+- t-223203
+  teiginys: "1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų išžudė Bisenės pilies sargybą keitusius lietuvius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Fridrichas iš Libencelės (vyskupas, XIV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Fridricho iš Libencelės žygį link Lietuvos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Fridrichas iš Libencelės (vyskupas, XIV a.) surengė žygį į Lietuva (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau ir tiksliau, nurodant, kad buvo išžudyti sargybą keitę lietuviai."
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.'

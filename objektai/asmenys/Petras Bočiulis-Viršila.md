@@ -49,6 +49,7 @@ canonical_biography: "Petras Bočiulis-Viršila žuvo 1948 m. lapkričio 10 d. �
   santrauka: 'Petras Bočiulis-Viršila žuvo 1948 m. lapkričio 10 d. Šepetos pelkėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 617 (PDF 618)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 617 (PDF 618)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

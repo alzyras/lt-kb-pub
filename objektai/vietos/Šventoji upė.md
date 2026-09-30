@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8802dee3856786da1fdb8524
-canonical_name: Šventoji upė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Šventoji upė
+entity_id: "ent-8802dee3856786da1fdb8524"
+canonical_name: "Šventoji upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventoji upė"]
 sameAs: []
-canonical_biography: Šventoji minima kaip Žemaitijai priklausęs uostamiestis Vazų valdymo laikais.
+canonical_biography: "Šventoji minima kaip Žemaitijai priklausęs uostamiestis Vazų valdymo laikais."
+place_authority: true
+historical_names: []
 ---
 # Šventoji upė
 

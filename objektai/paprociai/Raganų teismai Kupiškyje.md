@@ -56,6 +56,7 @@ Nenurodyta
   santrauka: 'Alvydas Totoris Kupiškio krašte prasidėjusius raganų teismus apibūdino kaip iki tol negirdėtus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 156 (PDF 157)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 156 (PDF 157)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

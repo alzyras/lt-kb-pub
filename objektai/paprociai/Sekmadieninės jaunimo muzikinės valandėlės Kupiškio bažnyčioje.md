@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1981 m. vasarą Kupiškio bažnyčioje sekmadieniais tarp Votyvos ir Sumos Mišių jaunimui vyko muzikinės valandėlės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 438 (PDF 439)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 438 (PDF 439)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

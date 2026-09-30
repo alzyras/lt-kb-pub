@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1985 m. birželio 19 d. amnestijai apėmus Jono Kastyčio Matulionio nuteisimo straipsnį, kunigas buvo paleistas ir iš Sibiro grįžo į Vilnių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 474 (PDF 475)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 474 (PDF 475)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

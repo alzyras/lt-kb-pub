@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Sieninis laikraštis buvo leidžiamas kas savaitę nuo 1945 m. Kristaus Karaliaus šventės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 486 (PDF 487)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 486 (PDF 487)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

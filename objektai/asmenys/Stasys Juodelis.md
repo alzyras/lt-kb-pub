@@ -49,6 +49,7 @@ canonical_biography: "1977 m. birželio 9 d. Stasys Juodelis vadovavo Kuosėnų 
   santrauka: '1977 m. birželio 9 d. Stasys Juodelis vadovavo Kuosėnų senkapio kasinėjimo ekspedicijai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 122 (PDF 123)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 122 (PDF 123)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

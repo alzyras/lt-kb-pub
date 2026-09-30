@@ -37,6 +37,7 @@ Jurgis Pivoriūnas, Jurgio sūnus, 1945 m. sausio 8 d. buvo suimtas Mičiūnų k
   santrauka: 'Jurgis Pivoriūnas, Jurgio sūnus, 1945 m. sausio 8 d. buvo suimtas Mičiūnų kaime, Skapiškio valsčiuje; jis gimė 1925 m. Šimonių miestelyje, gyveno Uogšilio kaime, Šimonių valsčiuje, ir priklausė Alfonso Paškevičiaus partizanų būriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 90"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 90."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

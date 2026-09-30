@@ -70,3 +70,34 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-216363"></a>
+- t-001
+  teiginys: "Mongolai labai garbino namų slenksčius: tas, kuris praeidamas paliesdavo juos koja, būdavo baudžiamas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
+<a id="claim-t-219410"></a>
+- t-002
+  teiginys: "Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį paprotį, kuriame slenkstis siejamas su Dievo įžeidimu ir namų laime."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų slenksčio: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų slenksčio\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

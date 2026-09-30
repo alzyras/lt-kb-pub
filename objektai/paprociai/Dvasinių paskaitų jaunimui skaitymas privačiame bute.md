@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kunigas Juozas Indriūnas Kupiškyje tęsė veiklą su jaunimu ir savo bute skaitė paskaitas dvasinėmis temomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 553 (PDF 554)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 553 (PDF 554)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

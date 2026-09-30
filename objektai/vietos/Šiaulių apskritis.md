@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-51e7c7fbbd72cbe193c3a046
-canonical_name: Šiaulių apskritis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Šiaulių apskritis
+entity_id: "ent-51e7c7fbbd72cbe193c3a046"
+canonical_name: "Šiaulių apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaulių apskritis"]
 sameAs: []
-canonical_biography: 'Kitose apskrityse blaivininkų buvo tiek: Panevėžio — 89,4 proc., Šiaulių — 88,6 proc., Tel šių — 88,3 proc., Ukmergės — 84,9 proc., Raseinių — 72 proc.'
+canonical_biography: "Kitose apskrityse blaivininkų buvo tiek: Panevėžio — 89,4 proc., Šiaulių — 88,6 proc., Tel šių — 88,3 proc., Ukmergės — 84,9 proc., Raseinių — 72 proc."
 place_authority: true
 historical_names: []
 ---

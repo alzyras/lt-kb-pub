@@ -37,6 +37,7 @@ Bronius Paškevičius, Juozo sūnus, gyveno Žeimių kaime, o byloje jo gyvenam�
   santrauka: 'Bronius Paškevičius, Juozo sūnus, gyveno Žeimių kaime, o byloje jo gyvenamąja vieta įrašytas Miškinėlių kaimas, Šimonių valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 94"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 94."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ Bronius Paškevičius, Juozo sūnus, gyveno Žeimių kaime, o byloje jo gyvenam�
   santrauka: '1947 m. liepos 1 d. Žeimių kaime kareiviai, persekiodami miško link ėjusius partizanus, nušovė vieną partizaną, atpažintą kaip Bronių Paškevičių, Juozo sūnų, gimusį 1910 m. ir priklausiusį Antano Starkaus būriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 267"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 267."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

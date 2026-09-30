@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Vilnijos regionas"]
 sameAs: []
 canonical_biography: "Vilnijos regiono atminties kraštovaizdyje atsispindi bendri Lenkijos ir Lietuvos Didžiosios Kunigaikštystės istoriniai motyvai."
+place_authority: true
+historical_names: []
 ---
 # Vilnijos regionas
 

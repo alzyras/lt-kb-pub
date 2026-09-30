@@ -51,6 +51,7 @@ Kunigas Egidijus Vijeikis 2000 m. spalio 26 d. iš Rokiškio buvo paskirtas Kupi
   santrauka: 'Egidijus Vijeikis 2000 m. spalio 26 d. buvo paskirtas Kupiškio vikaru, o 2001 m. perkeltas į Biržus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 442 (PDF 443)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 442 (PDF 443)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

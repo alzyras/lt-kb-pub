@@ -30,6 +30,7 @@ Jonas Rastauskas-Mažis Jonas, gimęs 1917 m. ir gyvenęs Butniūnų kaime, nuo 
   santrauka: 'Jonas Rastauskas-Mažis Jonas, gimęs 1917 m. ir gyvenęs Butniūnų kaime, nuo 1944 m. buvo partizanas bei Dariaus ir Girėno apygardos štabo Kovinės parengties skyriaus viršininkas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 372"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 372."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

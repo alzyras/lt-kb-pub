@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Atskirų choro balsų repeticijos vykdavo įvairiomis savaitės dienomis centrinių rūmų Aktų salėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 472 (PDF 473)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 472 (PDF 473)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

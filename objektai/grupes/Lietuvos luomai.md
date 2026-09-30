@@ -86,6 +86,23 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 - Lietuvos luomai gynė [[objektai/vietos/Livonija]]
+
+## Teiginiai
+
+<a id="claim-t-193317"></a>
+- t-001
+  teiginys: "Karaliaus ir luomų vardu jam šitaip buvo atsa kyta."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176045
+

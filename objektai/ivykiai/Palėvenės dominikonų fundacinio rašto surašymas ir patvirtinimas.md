@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1676 m. lapkričio 13 d. fundacinį raštą patvirtino Vilniaus vyskupas Mikalojus Steponas Pacas ir Seimas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 213 (PDF 214)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 213 (PDF 214)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

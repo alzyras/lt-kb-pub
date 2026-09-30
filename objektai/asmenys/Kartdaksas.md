@@ -48,6 +48,24 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
   pagrindžia:
     - c-196513
 
+<a id="claim-t-214831"></a>
+- t-214831
+  teiginys: "Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo gotų istoriko Jordano senelis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kartdaksas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kartdaksas\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-174311

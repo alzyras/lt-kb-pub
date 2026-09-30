@@ -49,6 +49,7 @@ Kupiškio dvaras buvo prie Juodupės upelio, netoli Lėvens, todėl dar vadintas
   santrauka: 'Kupiškio dvaras buvo prie Juodupės upelio, netoli Lėvens upės, ir vadintas Pajuodupe.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 144 (PDF 145)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 144 (PDF 145)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Kupiškio dvaras buvo prie Juodupės upelio, netoli Lėvens, todėl dar vadintas
   santrauka: 'Kupiškio dvarui priklausė 20,5 valako žemės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 144 (PDF 145)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 144 (PDF 145)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -71,6 +73,7 @@ Kupiškio dvaras buvo prie Juodupės upelio, netoli Lėvens, todėl dar vadintas
   santrauka: 'Kupiškio dvaras, priklausęs valdovo domenui, minimas nuo 1480 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 706 (PDF 707)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 706 (PDF 707)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

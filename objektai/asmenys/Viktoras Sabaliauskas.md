@@ -37,6 +37,7 @@ Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Viktoras Sabaliauskas-Tautietis įvardytas Rytų Lietuvos (Karaliaus Mindaugo) srities štabo Organizacinio skyriaus viršininku, dar vadintu Kirviu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 416"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 416."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–
   santrauka: 'Pabaltijo karinės apygardos Karo tribunolas 1953 m. birželio 18 d. Viktorą Sabaliauską nuteisė sušaudyti ir konfiskuoti visą jo turtą; mirties nuosprendis Viktorui Sabaliauskui įvykdytas 1953 m. rugsėjo 30 d.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 418"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 418."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

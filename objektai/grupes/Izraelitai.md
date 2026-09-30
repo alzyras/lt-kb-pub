@@ -49,6 +49,17 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   pagrindžia:
     - c-172378
 
+<a id="claim-t-217666"></a>
+- t-217666
+  teiginys: "Iš mitolo gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-172378

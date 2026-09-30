@@ -49,6 +49,7 @@ canonical_biography: "Albinas Šidlauskas po Jono Šidlausko žūties tapo jo b�
   santrauka: 'Albinas Šidlauskas po Jono Šidlausko žūties tapo jo būrio vadu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 623 (PDF 624)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 623 (PDF 624)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

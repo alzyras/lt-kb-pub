@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1946 m. gruodžio 31 d. agentas „Paukštelis“ pranešė susitikęs su Povilo Gaigalo broliu, kuris jam pasakė, kad Jonas Kazlauskas ir Kuliukas iš Romo Petronio būrio įstojo į Povilo Gaigalo būrį.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 169"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 169."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

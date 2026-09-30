@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Nuo 1990 m. Kupiškio dekanate pradėta dėstyti tikybą mokyklose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 554 (PDF 555)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 554 (PDF 555)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

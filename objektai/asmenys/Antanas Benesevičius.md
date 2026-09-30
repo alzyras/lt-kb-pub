@@ -49,6 +49,7 @@ Nuo 1948 m. liepos 1 d. Antanas Benesevičius buvo Daujėnų administratorius.
   santrauka: 'Nuo 1948 m. liepos 1 d. Antanas Benesevičius buvo Daujėnų administratorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 522 (PDF 523)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 522 (PDF 523)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

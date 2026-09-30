@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1933 m. Šv. Kazimiero draugijos rūpesčiu iš Paryžiaus pargabenta Šv. Antano skulptūra išliko ir stovi netoli Šv. Hiacinto altoriaus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 232 (PDF 233)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 232 (PDF 233)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -43,6 +43,7 @@ Lietuvos žydų švietimo draugija Lietuvoje veikė 1925–1940 m.; jos veikla b
   santrauka: 'Lietuvos žydų švietimo draugija įsteigta 1925 m.; Kupiškyje veikė jos skyrius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 567 (PDF 568)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 567 (PDF 568)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

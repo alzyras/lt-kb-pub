@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4e3352bfb6130ae26ecd0dd7
-canonical_name: Antanas Brundza
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Antanas Brundza
+entity_id: "ent-4e3352bfb6130ae26ecd0dd7"
+canonical_name: "Antanas Brundza"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Brundza"]
 sameAs: []
-canonical_biography: Vysk. M. Valančius delegavo kun. Antaną Brundzą spaudos reikalui Prūsijoje.
+canonical_biography: "Vysk. M. Valančius delegavo kun. Antaną Brundzą spaudos reikalui Prūsijoje."
 ---
 # Antanas Brundza
 

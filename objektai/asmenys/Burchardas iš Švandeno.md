@@ -80,6 +80,40 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   pagrindžia:
     - c-202737
 
+<a id="claim-t-221560"></a>
+- t-221560
+  teiginys: "Burchardas iš Švandeno buvo iškilmingai išrinktas Teutonų ordino didžiuoju magistru."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teutonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Burchardas iš Švandeno: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Burchardas iš Švandeno\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-223266"></a>
+- t-223266
+  teiginys: "Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Burchardas iš Švandeno: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Burchardas iš Švandeno\" parinktas kaip owner_note_path. Targetas \"Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-60730

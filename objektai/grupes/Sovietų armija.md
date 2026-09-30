@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1941 m. Vytauto Didžiojo karo muziejuje įkurta Raudonojo teroro ekspozicija vaizdžiai pasakojo apie NKVD piktadarystes pirmosios okupacijos metais ir iš Lietuvos bėgančios sovietų armijos nusikaltimus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1123 (PDF 1124)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1123 (PDF 1124)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

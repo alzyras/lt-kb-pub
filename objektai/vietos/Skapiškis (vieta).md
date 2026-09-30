@@ -109,6 +109,7 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   santrauka: 'Kupiškio dekanato kunigų konferencijos vyko Skapiškyje; ten surengtos kelios konferencijos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 403 (PDF 404)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 403 (PDF 404)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -120,6 +121,7 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   santrauka: 'Ateitininkų centro valdybos pirmininkas Stasys Lūšys aplankė Skapiškio ateitininkų kuopą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 411 (PDF 412)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 411 (PDF 412)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -131,6 +133,7 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   santrauka: 'Konferencijos dalyviai buvo pakviesti į Skapiškį susipažinti su Mečislovo Reinio vardo įamžinimu ir paroda „Pažintis su Ukrainos kultūra“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 453 (PDF 454)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 453 (PDF 454)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -142,6 +145,7 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   santrauka: 'Juozo Jankausko-Pilsudskio būrys veikė Skapiškio valsčiuje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 623 (PDF 624)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 623 (PDF 624)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -153,6 +157,7 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   santrauka: 'Skapiškio MTS įsikūrė Naiviuose, o jos vadovu buvo paskirtas Timčenka.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 693 (PDF 694)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 693 (PDF 694)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -164,6 +169,7 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   santrauka: 'Skapiškio viešoji biblioteka turėjo 1 218 knygų ir 182 skaitytojus, o po karo joje išliko 995 knygos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 797 (PDF 798)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 797 (PDF 798)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -175,6 +181,7 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   santrauka: 'Skapiškio biblioteka atiteko Pandėlio rajonui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 799 (PDF 800)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 799 (PDF 800)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -186,6 +193,7 @@ Kupiškio dekanato kunigų konferencijos vyko parapijų patalpose, o kelios jų 
   santrauka: 'Skapiškyje apsėdų termino reikšmė buvo nežinoma.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 903 (PDF 904)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 903 (PDF 904)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

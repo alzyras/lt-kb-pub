@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Žydų prekių asortimentas buvo įvairus – jame minimi degtukai, dviračiai ir radijo imtuvai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 570 (PDF 571)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 570 (PDF 571)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

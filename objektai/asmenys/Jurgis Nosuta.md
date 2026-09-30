@@ -69,6 +69,16 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   pagrindžia:
     - c-193578
 
+<a id="claim-t-211227"></a>
+- t-211227
+  teiginys: "Būnant Kazimierui Vilniuje, Drohičino ir Melniko seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman to."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Citatos
 
 - id: c-169585

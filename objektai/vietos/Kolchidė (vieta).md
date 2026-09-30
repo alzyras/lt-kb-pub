@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-af5c467a8b111be21e4f7aad
-canonical_name: Kolchidė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kolchidė
-  - Kolchidė (vieta)
+entity_id: "ent-af5c467a8b111be21e4f7aad"
+canonical_name: "Kolchidė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kolchidė","Kolchidė (vieta)"]
 sameAs: []
-canonical_biography: 'Narbutas teigia, kad Kolchidė iki Trojos karo buvo labiausiai civilizuotas ir turtingas kraštas, kokį galėjo pažinti graikai.'
+canonical_biography: "Narbutas teigia, kad Kolchidė iki Trojos karo buvo labiausiai civilizuotas ir turtingas kraštas, kokį galėjo pažinti graikai."
+place_authority: true
+historical_names: []
 ---
 # Kolchidė (vieta)
 

@@ -63,6 +63,7 @@ Juozas Karvelis-Šernas vadovavo Jauniaus būriui. Šimonių miške buvo nukauta
   santrauka: 'Juozas Karvelis-Šernas vadovavo Jauniaus būriui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 616 (PDF 617)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 616 (PDF 617)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kanonas K. Baronas savo pastangomis padėjo bažnyčiai užmegzti glaudžius ryšius su mokykla ir kultūros namais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 543 (PDF 544)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 543 (PDF 544)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

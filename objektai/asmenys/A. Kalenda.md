@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f889924cdd53af5ce097ad70
-canonical_name: A. Kalenda
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Kalenda
+entity_id: "ent-f889924cdd53af5ce097ad70"
+canonical_name: "A. Kalenda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Kalenda"]
 sameAs: []
-canonical_biography: A. Kalendos raštas buvo panaudotas kaip atsakymas valdžiai apie blaivybės organizacijas.
+canonical_biography: "A. Kalendos raštas buvo panaudotas kaip atsakymas valdžiai apie blaivybės organizacijas."
 ---
 # A. Kalenda
 

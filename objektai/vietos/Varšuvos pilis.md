@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Varšuvos pilis"]
 sameAs: []
 canonical_biography: "Varšuvos pilyje 1791 m. birželio 19 d. įvyko pirmasis Įstatymų sargybos posėdis."
+place_authority: true
+historical_names: []
 ---
 # Varšuvos pilis
 

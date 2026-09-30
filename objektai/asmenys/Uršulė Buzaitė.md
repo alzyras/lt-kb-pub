@@ -49,6 +49,7 @@ Uršulė Buzaitė, išrinkta tretininkių kongregacijos pirmininke, šias pareig
   santrauka: 'Uršulė Buzaitė, išrinkta tretininkių kongregacijos pirmininke, šias pareigas ėjo iki mirties 1925 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 409 (PDF 410)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 409 (PDF 410)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

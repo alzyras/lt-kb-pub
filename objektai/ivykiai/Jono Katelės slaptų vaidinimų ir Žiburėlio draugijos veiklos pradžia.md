@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Nuo 1893 m. Jonas Katelė rengė slaptus vaidinimus, o 1894 m. buvo vienas iš „Žiburėlio“ draugijos steigimo iniciatorių; ši draugija 1897 m. pavadinta „Žvaigžde“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 468 (PDF 469)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 468 (PDF 469)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

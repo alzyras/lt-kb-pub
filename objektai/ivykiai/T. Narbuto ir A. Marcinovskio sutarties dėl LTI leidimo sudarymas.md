@@ -93,6 +93,26 @@ Nenurodyta
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
 
+<a id="claim-t-216286"></a>
+- t-216286
+  teiginys: "T. Narbuto sutartis su A. Marcinovskiu dėl visos LTI leidimo buvo sudaryta praėjus porai metų po pirmo tomo išspausdinimo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išskleistas subjektas ir pašalintas OCR suskaidymas. Paliktas tik sutarties laikas ir objektas, nepridedant citatoje esančių spėjimų apie ankstesnį žodinį susitarimą."
+  susije_objektai: "mentioned_author: [[objektai/autoriai/Antanas Marcinovskis|Antanas Marcinovskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]"
+  ryšio_patikimumas: "susije_su -> Antanas Marcinovskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Antanas Marcinovskis: mention_match, author, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas\" parinktas kaip owner_note_path. Targetas \"Antanas Marcinovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)

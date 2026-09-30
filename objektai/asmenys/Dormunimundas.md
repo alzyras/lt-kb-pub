@@ -63,3 +63,24 @@ Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liu
 
 ## Ryšiai
 - Dormunimundas valdė [[objektai/vietos/Žemaitija]]
+
+## Teiginiai
+
+<a id="claim-t-216767"></a>
+- t-001
+  teiginys: "Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liutauro tėvas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sunus -> Dormunimundas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Liutauras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dormunimundas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Liutauras buvo Dormunimundo sūnus."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+

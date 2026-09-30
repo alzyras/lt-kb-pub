@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Trys iš didžiųjų granito ir granodiorito riedulių, ant kurių stovi bokštas, yra sugneisuoti; Gedimino Motuzos teigimu, jų kryptinga mineralų sandara rodo susidarymą kalnodaros sąlygomis ir seną amžių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 15 (PDF 16)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 15 (PDF 16)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

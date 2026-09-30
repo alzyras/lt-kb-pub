@@ -95,6 +95,29 @@ Nenurodyta
   pagrindžia:
     - c-43056
 
+<a id="claim-t-211041"></a>
+- t-211041
+  teiginys: "Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Taisytina didžioji raidė po „kad“ ir paliekama būtina metraščio atribucija."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Kaimas; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
+<a id="claim-t-211633"></a>
+- t-211633
+  teiginys: "Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos mintį apie Ulaščiko argumentą. Nepridėta Liachovičių ar Alberto Goštauto konteksto, nes jis nėra būtinas šiam faktui."
+  susije_objektai: "mentioned_author: [[objektai/autoriai/N. Ulaščikas|N. Ulaščikas]]; mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_place: Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1506 m.; įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos mintį apie Ulaščiko argumentą. Nepridėta Liachovičių ar Alberto Goštauto konteksto, nes jis nėra būtinas šiam faktui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Reikšmingi paminėjimai
 - c-004
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

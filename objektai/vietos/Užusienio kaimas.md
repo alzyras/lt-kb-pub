@@ -37,6 +37,7 @@ Suimtas partizanų ryšininkas Pranas Aidukas gimė ir gyveno Užusienio kaime, 
   santrauka: 'Suimtas partizanų ryšininkas Pranas Aidukas gimė ir gyveno Užusienio kaime, Šimonių valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 167"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 167."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ canonical_biography: "Jonas Jarutis buvo meras tuo metu, kai laikraštis minėjo
   santrauka: '2011 m. laikraščio „Kupiškėnų mintys“ skiltyje „Stabtelėkit minutėlę“ meras Jonas Jarutis buvo vienas iš šešių kalbintų skaitytojų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 838-839 (PDF 839-840)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 838-839 (PDF 839-840)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

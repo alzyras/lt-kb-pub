@@ -68,3 +68,26 @@ Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-218658"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė Viklifo raštus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jeronimas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Jeronimas vyko per Lenkiją."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "kelionės data: 1405 m.; kelionės data: apie 1405 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jeronimas keliavo į Lenkija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti poleminiai ir moralizuojantys epitetai, o faktinis veiksmas paliktas su Narbuto atribucija. Nepridėta duomenų apie Huso ryšius ar vėlesnius įtarimus."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+

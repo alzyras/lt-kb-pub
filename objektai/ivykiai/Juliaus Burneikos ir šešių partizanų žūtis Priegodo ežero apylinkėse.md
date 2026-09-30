@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1949 m. lapkričio 1 d. Šimonių girioje prie Priegodo ežero štabo bunkeryje susisprogdino Julius Burneika-Tardytojas ir dar šeši partizanai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 111"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 111."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

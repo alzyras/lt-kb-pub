@@ -48,6 +48,7 @@ Centrinei sviesto gamyklai priklausė Palėvenės, Palėvenėlės, Skapiškio ir
   santrauka: 'Centrinei sviesto gamyklai priklausė Palėvenės, Palėvenėlės, Skapiškio ir Puožo cechai bei apie 50 pieno separavimo ir surinkimo punktų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 779 (PDF 780)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 779 (PDF 780)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

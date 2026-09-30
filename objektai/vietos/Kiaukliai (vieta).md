@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0d4b57873d565532ba20c46b
-canonical_name: Kiaukliai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kiaukliai
-  - Kiaukliai (vieta)
+entity_id: "ent-0d4b57873d565532ba20c46b"
+canonical_name: "Kiaukliai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kiaukliai","Kiaukliai (vieta)"]
 sameAs: []
-canonical_biography: Taip katalikai gynė Kiauklių bažnytėlę ir.
+canonical_biography: "Taip katalikai gynė Kiauklių bažnytėlę ir."
 place_authority: true
 historical_names: []
 ---

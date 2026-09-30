@@ -49,6 +49,7 @@ canonical_biography: "Bonifacas Duda-Pisorius buvo Algimanto apygardos Šarūno 
   santrauka: 'Bonifacas Duda-Pisorius buvo Algimanto apygardos Šarūno rinktinės partizanas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 626 (PDF 627)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 626 (PDF 627)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -72,6 +72,25 @@ Nenurodyta
   pagrindžia:
     - c-178910
 
+<a id="claim-t-210615"></a>
+- t-210615
+  teiginys: "Redakcinė pastaba Bychovco kronikos pasakojimą veikiausiai sieja su 1426 m. rugpjūčio Vytauto karu su Pskovu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Pskovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto karas su Pskovu (1426 m. rugpjūtis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Pskovas: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto karas su Pskovu (1426 m. rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Pskovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1426 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Palikta atribucija, nes citatoje yra interpretacinis „veikiausiai“. Teiginys nesuformuluotas kaip tikras identifikavimas."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

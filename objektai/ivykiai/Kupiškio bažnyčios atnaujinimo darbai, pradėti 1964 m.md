@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1964 m. Klemensas Gutauskas, paskirtas Kupiškio bažnyčios klebonu, ėmėsi šventovės tvarkymo ir atnaujinimo darbų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 346 (PDF 347)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 346 (PDF 347)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

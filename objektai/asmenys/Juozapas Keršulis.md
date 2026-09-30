@@ -63,4 +63,3 @@ Lebedžių kaime nurodyti trys dūmai, siejami su Juozapu Keršuliu, Simonu Matu
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

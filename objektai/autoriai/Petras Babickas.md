@@ -87,6 +87,7 @@ Unė padovanojo Konstantinui Balmontui Petro Babicko eilių, kurių keletą poet
   santrauka: 'Petras Babickas parašė eilių, kurių dalį Konstantinas Balmontas išvertė į rusų kalbą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1109 (PDF 1110)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1109 (PDF 1110)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -99,6 +100,7 @@ Unė padovanojo Konstantinui Balmontui Petro Babicko eilių, kurių keletą poet
   santrauka: '1931 m. Petras Babickas pasitraukė iš pastovaus darbo Radiofone, tačiau liko aktyvus Lietuvos radijo bendradarbis; vokiečių okupacijos metais jis buvo Kauno radijo direktorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1117 (PDF 1118)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1117 (PDF 1118)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -110,6 +112,7 @@ Unė padovanojo Konstantinui Balmontui Petro Babicko eilių, kurių keletą poet
   santrauka: 'Petras Babickas rašė knygas, kurias brolis Kazys padėjo išleisti ir platinti, rinkdamas jų leidybai aukas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1123 (PDF 1124)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1123 (PDF 1124)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

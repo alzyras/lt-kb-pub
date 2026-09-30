@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-360a576502136a8a1e01cbab
-canonical_name: Konradas iš Tirbergo
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Konradas iš Tirbergo
+entity_id: "ent-360a576502136a8a1e01cbab"
+canonical_name: "Konradas iš Tirbergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas iš Tirbergo"]
 sameAs: []
-canonical_biography: Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas iš Tirbergo buvo Prūsijos žemės magistras. Konradas iš Tirbergo buvo Prūsijos žemės magistras ir vadovavo Bisenės pilies puolimui.
+canonical_biography: "Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas iš Tirbergo buvo Prūsijos žemės magistras. Konradas iš Tirbergo buvo Prūsijos žemės magistras ir vadovavo Bisenės pilies puolimui."
 ---
 # Konradas iš Tirbergo
 

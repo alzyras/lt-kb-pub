@@ -62,6 +62,24 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   pagrindžia:
     - c-59114
 
+<a id="claim-t-220202"></a>
+- t-220202
+  teiginys: "Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Traupeinas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Traupeinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pagudėnai aiškiai paliko pėstininkus Traupeino pilies apgulai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagudėnai apgulė Traupeinas (0.92); Linkas surengė žygį į Kulmas (0.76)"
+  temporaliniai_duomenys: "mūšio data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Divanas puolė Pagudėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kristburgas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes."
+
 ## Citatos
 
 - id: c-59113

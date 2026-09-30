@@ -43,6 +43,7 @@ Balys Buračas nurodė, kad jaučiams prie ragų rišdavo medelius arba ragus ap
   santrauka: 'Pasak Balio Buračo, piemenys samdydavo šeimininkę ir virėją, o svarbiausias piemenų šventės valgis buvo kiaušinienė; kupiškėnai taip pat gamindavo virtinius ir atsinešdavo degtinės ar alaus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 942 (PDF 943)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 942 (PDF 943)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,6 +55,7 @@ Balys Buračas nurodė, kad jaučiams prie ragų rišdavo medelius arba ragus ap
   santrauka: 'Balys Buračas rašė, kad seniau kupiškėnai vaikams skirtus margučius dėdavo ant mirusių artimųjų kapų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 943 (PDF 944)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 943 (PDF 944)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

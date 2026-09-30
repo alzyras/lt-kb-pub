@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIII amžius"
 periodo_pradzia: 1201
 periodo_pabaiga: 1300
-periodo_objektu_skaicius: 1080
+periodo_objektu_skaicius: 1076
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1080.
+Objektų skaičius: 1076.
 
 ## Susiję objektai
 
@@ -54,7 +54,6 @@ Objektų skaičius: 1080.
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/asmenys/Ditrichas (Velzaco pilies kunigas)]]
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
-- [[objektai/asmenys/Ditrichas iš Ezbeko]]
 - [[objektai/asmenys/Ditrichas iš Gaterslebeno]]
 - [[objektai/asmenys/Divanas]]
 - [[objektai/asmenys/Elžbieta]]
@@ -193,7 +192,6 @@ Objektų skaičius: 1080.
 - [[objektai/asmenys/Pelka]]
 - [[objektai/asmenys/Pelužis]]
 - [[objektai/asmenys/Petras (Celestinas V)]]
-- [[objektai/asmenys/Petras (Krokuvos vaivada)]]
 - [[objektai/asmenys/Petras (Poznanės vyskupas)]]
 - [[objektai/asmenys/Petras Babickas]]
 - [[objektai/asmenys/Pipinas]]
@@ -205,7 +203,6 @@ Objektų skaičius: 1080.
 - [[objektai/asmenys/Rabė]]
 - [[objektai/asmenys/Ričardas (Kornvalijos grafas)]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/asmenys/Rudolfas iš Habsburgo]]
 - [[objektai/asmenys/Samboras]]
 - [[objektai/asmenys/Sirputis (Traidenio brolis)]]
 - [[objektai/asmenys/Skomantas]]
@@ -252,7 +249,6 @@ Objektų skaičius: 1080.
 - [[objektai/asmenys/Zigfridas iš Runkelės|Zigfridas iš Runkelės (arkivyskupas, XIII a.)]]
 - [[objektai/asmenys/Čingischanas]]
 - [[objektai/asmenys/Šventaragis]]
-- [[objektai/asmenys/Živinbudas]]
 
 ### Autoriai
 - [[objektai/autoriai/Alberichas]]

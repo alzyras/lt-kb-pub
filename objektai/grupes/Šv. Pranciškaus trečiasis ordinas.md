@@ -34,6 +34,7 @@ media_all_json: |-
   santrauka: 'Šv. Pranciškaus trečiojo ordino moterų organizacijos narės XIX a. pabaigoje–XX a. viduryje parapijose lankė, slaugė ir marino ligonius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 897 (PDF 898)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 897 (PDF 898)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

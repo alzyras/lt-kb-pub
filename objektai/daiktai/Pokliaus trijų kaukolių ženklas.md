@@ -61,6 +61,14 @@ Nenurodyta
   pagrindžia:
     - c-200803
 
+<a id="claim-t-219975"></a>
+- t-219975
+  teiginys: "Narbutas Pokliaus ženklą apibūdina kaip tris kaukoles: žmogaus, jaučio ir arklio."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)

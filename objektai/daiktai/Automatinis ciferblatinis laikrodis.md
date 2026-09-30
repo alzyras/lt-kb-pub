@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Automatinis ciferblatinis laikrodis automatizavo varpų skambinimą, nustatytomis valandomis paleisdamas dvi melodijas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 484 (PDF 485)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 484 (PDF 485)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

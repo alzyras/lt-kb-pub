@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f18ffd430236cca5dc68b70d
-canonical_name: Karolis Ožiermanas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Karolis Ožiermanas
+entity_id: "ent-f18ffd430236cca5dc68b70d"
+canonical_name: "Karolis Ožiermanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis Ožiermanas"]
 sameAs: []
-canonical_biography: 'Teko laikyti rankose rankraščius, turin čius žinių apie juodkalniečius; jas surinko inžinierius ge nerolas Karolis Ojpermanas, buvęs tuose kraštuose Ru sijos imperatoriaus Povilo I žygio metu.'
+canonical_biography: "Teko laikyti rankose rankraščius, turin čius žinių apie juodkalniečius; jas surinko inžinierius ge nerolas Karolis Ojpermanas, buvęs tuose kraštuose Ru sijos imperatoriaus Povilo I žygio metu."
 ---
 # Karolis Ožiermanas
 

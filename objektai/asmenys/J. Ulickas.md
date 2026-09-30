@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d69357684165f7db38286f90
-canonical_name: J. Ulickas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - J. Ulickas
+entity_id: "ent-d69357684165f7db38286f90"
+canonical_name: "J. Ulickas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Ulickas"]
 sameAs: []
-canonical_biography: 'Ulickas savo atsimi nimuose pasakoja, kad vienas vyras, prisiekęs bažnyčio je negerti, parėjęs namo verkė, nes nežinąs, kaip ištver ti 6.'
+canonical_biography: "Ulickas savo atsimi nimuose pasakoja, kad vienas vyras, prisiekęs bažnyčio je negerti, parėjęs namo verkė, nes nežinąs, kaip ištver ti 6."
 ---
 # J. Ulickas
 

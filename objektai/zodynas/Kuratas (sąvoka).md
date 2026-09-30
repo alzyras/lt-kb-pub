@@ -45,6 +45,7 @@ media_all_json: |-
   santrauka: '1936 m. Edvardas Vaišnoras paskirtas Baltriškės kuratu ir Degučių koplyčios rektoriumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 545 (PDF 546)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 545 (PDF 546)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

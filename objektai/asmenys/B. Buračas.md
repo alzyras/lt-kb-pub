@@ -52,6 +52,7 @@ canonical_biography: "B. Buračas aprašė Kupiškio apylinkės Sekminių paprot
   santrauka: 'B. Buračo kupiškėnų vestuvių aprašas buvo vienas senovinių kupiškėnų vedybų vaidinimo šaltinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1062 (PDF 1063)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1062 (PDF 1063)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,6 +64,7 @@ canonical_biography: "B. Buračas aprašė Kupiškio apylinkės Sekminių paprot
   santrauka: 'B. Buračas aprašė Kupiškio apylinkės Sekminių paprotį bandą parginti su muzika, dainomis, ožragiu ir lumzdeliais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1065 (PDF 1066)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1065 (PDF 1066)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

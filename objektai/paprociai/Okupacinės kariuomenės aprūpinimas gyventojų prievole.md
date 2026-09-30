@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Švedams užplūdus, gyventojams teko išlaikyti okupacinę kariuomenę, aprūpinti ją maistu ir pastoge, o jos arklius – pašaru.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 161 (PDF 162)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 161 (PDF 162)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

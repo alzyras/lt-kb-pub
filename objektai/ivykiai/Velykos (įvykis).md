@@ -74,6 +74,7 @@ Nenurodyta
   santrauka: 'Paprastai kiaušiniauti vaikai eidavo antrą Velykų dieną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 940 (PDF 941)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 940 (PDF 941)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

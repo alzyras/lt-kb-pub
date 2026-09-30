@@ -92,6 +92,17 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   pagrindžia:
     - c-194618
 
+<a id="claim-t-217743"></a>
+- t-217743
+  teiginys: "Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Petersburski“ ir priklausė Juozapui Ignotui Kraševskiui."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-173181

@@ -49,6 +49,7 @@ Abramas Golumberas 1928 m. rabino metrikacijoje įrašytas kaip žemdirbys.
   santrauka: 'Abramas Golumberas 1928 m. rabino metrikacijoje įrašytas kaip žemdirbys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 571 (PDF 572)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 571 (PDF 572)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

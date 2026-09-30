@@ -37,6 +37,7 @@ Barsiukynės miške per Subačiaus įgulos operaciją žuvo Juozas Masilionis-Si
   santrauka: 'Barsiukynės miške per Subačiaus įgulos operaciją žuvo Juozas Masilionis-Sidabras, o sužeistas ir suimtas Florijonas Kulikauskas vėliau pabėgo, kaip nurodo Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 208"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 208."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

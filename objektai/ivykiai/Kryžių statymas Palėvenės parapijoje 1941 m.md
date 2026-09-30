@@ -65,6 +65,7 @@ Nenurodyta
   santrauka: 'Palėvenės miestelio tikintieji, nepaisydami sovietinės valdžios pasiuntinio draudimo, be leidimo pastatė kryžių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235 (PDF 236)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235 (PDF 236)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

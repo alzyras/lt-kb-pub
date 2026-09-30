@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '2004 m. Atminimo siena papildyta septyniomis pavardėmis, įamžintomis bronzos plokštėje, pritvirtintoje prie buvusios pagrindinės Kupiškio sinagogos sienos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

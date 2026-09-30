@@ -119,6 +119,24 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
   pagrindžia:
     - c-190555
 
+<a id="claim-t-217259"></a>
+- t-217259
+  teiginys: "Narbutas rašo, kad Sirijos patriarchą Maskvoje lydėjęs arkidiakonas Povilas pasakojo apie Rusijos carui pavaldžių tautų dangaus kūnų garbinimą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sirija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sirija\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-87095

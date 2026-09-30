@@ -34,6 +34,7 @@ Arūnas Vaicekauskas straipsnyje „Didžiosios pavasario šventės Kupiškio kr
   santrauka: '„Kupolė rožė. Sekminių–Joninių papročiai ir tautosaka“ nagrinėjamame straipsnyje įvardijama kaip originalios informacijos apie Sekminių apeigas šaltinis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 928 (PDF 929)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 928 (PDF 929)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Knyšinas","Knyšinas (vieta)"]
 sameAs: []
 canonical_biography: "Knyšine 1572 m. liepos mėnesį rašyti M. K. Radvilos Našlaitėlio laiškai."
+place_authority: true
+historical_names: []
 ---
 # Knyšinas (vieta)
 

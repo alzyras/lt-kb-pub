@@ -30,6 +30,7 @@ Agentas „Paukštelis“ 1946 m. gruodžio 31 d. pranešė, kad į Povilo Gaiga
   santrauka: 'Agentas „Paukštelis“ 1946 m. gruodžio 31 d. pranešė, kad į Povilo Gaigalo būrį iš Romo Petronio būrio perėjo Jonas Kazlauskas ir Kuliukas; šią žinią jam perdavė Povilo Gaigalo būrio vado brolis.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 169"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 169."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Ties padargine prieklėtis paprastai nutrūksta, tačiau išlieka plati užleista pastogė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 717 (PDF 718)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 717 (PDF 718)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

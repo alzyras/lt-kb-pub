@@ -37,6 +37,7 @@ canonical_biography: "1949 m. sausio 27 d. Puodžgirio miške, Šimonių, Kupiš
   santrauka: '1949 m. sausio 27 d. pagal agento „Ikso“ pranešimą parengtas specialios karinės operacijos planas, nes pranešime teigta, kad Algimanto apygardos Šarūno rinktinės štabo apsaugos būrys slepiasi Puodžgirio miške.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 351"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 351."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,6 +37,7 @@ canonical_biography: "Vytauto Kujelavičiaus būrys veikė Raguvos valsčiuje. 1
   santrauka: '1946 m. birželio 7 d. po Jočio-Barzdos žūties Vytautas Kujelavičius-Nemunėlis tapo partizanų būrio vadu ir veikė Troškūnų, Raguvos bei Subačiaus valsčiuose.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 168"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 168."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ canonical_biography: "Vytauto Kujelavičiaus būrys veikė Raguvos valsčiuje. 1
   santrauka: '1946 m. birželio 7 d. MVD kareiviai pamiškėje, Troškūnų ir Raguvos valsčių sandūroje, pastebėjo septynis partizanus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 205"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 205."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

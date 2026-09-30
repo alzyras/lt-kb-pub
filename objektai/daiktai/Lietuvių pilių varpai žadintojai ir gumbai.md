@@ -70,6 +70,17 @@ Nenurodyta
   pagrindžia:
     - c-172541
 
+<a id="claim-t-218804"></a>
+- t-218804
+  teiginys: "Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų, skirtų tam tikroms religinėms apeigoms."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-172541

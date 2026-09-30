@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-83a858cb9e6a266ac8dc410b
-canonical_name: Obeliai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Obeliai
-  - Obeliai (vieta)
+entity_id: "ent-83a858cb9e6a266ac8dc410b"
+canonical_name: "Obeliai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Obeliai","Obeliai (vieta)"]
 sameAs: []
-canonical_biography: Obelių dvarininkas Liudvikas Petkevičius pažadėjo vyskupui pastatyti naują bažnyčią Obeliuose.
+canonical_biography: "Obelių dvarininkas Liudvikas Petkevičius pažadėjo vyskupui pastatyti naują bažnyčią Obeliuose."
 place_authority: true
 historical_names: []
 ---

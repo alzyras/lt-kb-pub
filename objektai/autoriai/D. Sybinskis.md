@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4ee125ceef66ecfe3cfa18e1
-canonical_name: D. Sybinskis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - D. Sybinskis
+entity_id: "ent-4ee125ceef66ecfe3cfa18e1"
+canonical_name: "D. Sybinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["D. Sybinskis"]
 sameAs: []
-canonical_biography: Sybinskio aprašytoji antikinė „stebėtino gražumo nimfa Alexothe“.
+canonical_biography: "Sybinskio aprašytoji antikinė „stebėtino gražumo nimfa Alexothe“."
 ---
 # D. Sybinskis
 

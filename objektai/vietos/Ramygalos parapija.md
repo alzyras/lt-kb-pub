@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-212a44db4f7a5f68e2ddb135
-canonical_name: Ramygalos parapija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ramygalos parapija
+entity_id: "ent-212a44db4f7a5f68e2ddb135"
+canonical_name: "Ramygalos parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ramygalos parapija"]
 sameAs: []
-canonical_biography: 'Tai tik riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero ir Zurblio (2urblis) pievos.'
+canonical_biography: "Tai tik riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero ir Zurblio (2urblis) pievos."
+place_authority: true
+historical_names: []
 ---
 # Ramygalos parapija
 

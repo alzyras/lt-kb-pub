@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Šimonių miške vykdavo Aukštaitijos partizanų vadų pasitarimai ir sąskrydžiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 619 (PDF 620)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 619 (PDF 620)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

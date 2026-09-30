@@ -48,6 +48,7 @@ Prie Biržų esantis Parovėjos gręžinys kirto nuosėdinę storymę ir pasiek�
   santrauka: 'Prie Biržų esantis Parovėjos gręžinys kirto nuosėdinę storymę ir pasiekė kristalinį pamatą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 11 (PDF 12)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 11 (PDF 12)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

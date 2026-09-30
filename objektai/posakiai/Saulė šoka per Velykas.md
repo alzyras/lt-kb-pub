@@ -34,6 +34,7 @@ Tikėta, kad pirmą Velykų dieną saulė šoka prieš pat tekėjimą, o jos spa
   santrauka: 'Tikėta, kad pirmą Velykų dieną saulė šoka prieš pat tekėjimą, o jos spalvos mainosi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 936 (PDF 937)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 936 (PDF 937)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

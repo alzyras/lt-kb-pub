@@ -46,6 +46,24 @@ Tos vė­ liavos buvusios smolenskiečių.
   pagrindžia:
     - c-35591
 
+<a id="claim-t-211179"></a>
+- t-211179
+  teiginys: "Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Žygimantas: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Smolenskiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pasidavimas Žygimantui rodo politinį perėjimą į jo pusę, bet tai nėra tiesioginis paramos veiksmažodis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+
 ## Citatos
 
 - id: c-35591

@@ -82,6 +82,25 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   pagrindžia:
     - c-194862
 
+<a id="claim-t-215916"></a>
+- t-215916
+  teiginys: "Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Baltija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina kimbrus kaip Baltijos jūros pakrančių gyventojus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Kimbrai gyveno Baltija (0.90); Kimbrai keliavo į Ilyrija (0.84)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Citatos
 
 - id: c-175702

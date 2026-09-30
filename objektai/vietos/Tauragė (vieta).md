@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-da9af8703450a1e238e32937
-canonical_name: Tauragė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Tauragė
-  - Tauragė (vieta)
+entity_id: "ent-da9af8703450a1e238e32937"
+canonical_name: "Tauragė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tauragė","Tauragė (vieta)"]
 sameAs: []
-canonical_biography: Tauragėje vyskupas skelbė blaivybę. Pakeliui į Varnius Valančius Tauragėje skelbė blaivybę.
+canonical_biography: "Tauragėje vyskupas skelbė blaivybę. Pakeliui į Varnius Valančius Tauragėje skelbė blaivybę."
 place_authority: true
 historical_names: []
 ---

@@ -64,6 +64,7 @@ Adolfas Bagdonas-Beržas gimė 1916 m. Kalnių kaime, Pumpėnų valsčiuje; jis 
   santrauka: '1946 m. vasario 19 d. karo tribunolas Adolfą Bagdoną pagal RSFSR BK 58-1a straipsnį nuteisė sušaudyti, o nuosprendis įvykdytas 1946 m. gegužės 10 d. Vilniuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 42"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 42."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

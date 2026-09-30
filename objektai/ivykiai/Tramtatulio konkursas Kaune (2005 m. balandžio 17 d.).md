@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '2005 m. balandžio 17 d. Kaune vykusiame respublikiniame vaikų ir moksleivių liaudies kūrybos atlikėjų konkurse „Tramtatulis“ ansamblio skudutininkai tapo laureatais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1083 (PDF 1084)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1083 (PDF 1084)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

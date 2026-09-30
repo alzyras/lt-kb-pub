@@ -106,6 +106,21 @@ Nenurodyta
   pagrindžia:
     - c-66778
 
+<a id="claim-t-221697"></a>
+- t-221697
+  teiginys: "Per kovą prie Karaliaučiaus į pagalbą buvo pasikviesti visi Karaliaučiaus broliai ir jų ginklanešiai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Sembai tiesiogiai minimi kaip kovos prie Karaliaučiaus dalyviai ir žuvusieji."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sembai dalyvavo mūšyje Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.) (0.86)"
+
 ## Citatos
 
 - id: c-66778

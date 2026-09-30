@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Apeiginės duonos kepimas ir naudojimas siejo lauko darbų pradžios bei pabaigos momentus su šventiniais žemdirbių ritualais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 927 (PDF 928)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 927 (PDF 928)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Apeiginė duona ir kiaušiniai naudoti kaip skalsos arba gyvybinių jėgų simboliai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 931 (PDF 932)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 931 (PDF 932)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,6 +69,7 @@ Nenurodyta
   santrauka: 'XX a. pirmojoje pusėje per Jurgines duona buvo kepama tik šiai šventei.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 932 (PDF 933)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 932 (PDF 933)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

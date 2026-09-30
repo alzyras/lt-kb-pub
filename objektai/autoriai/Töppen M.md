@@ -64,3 +64,12 @@ Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-224212"></a>
+- t-001
+  teiginys: "M. Töppenas parašė veikalą „Geschichte der preussischen Historiographie“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

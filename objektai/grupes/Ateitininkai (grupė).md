@@ -39,6 +39,7 @@ Panevėžyje kunigas A. Juška organizavo valdžios uždraustus ateitininkus, ku
   santrauka: 'Panevėžyje kunigas A. Juška organizavo valdžios uždraustus ateitininkus, kurie slapta rinkdavosi A. Juškos bute.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

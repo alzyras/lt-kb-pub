@@ -81,6 +81,18 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
     - c-202982
     - c-204107
 
+<a id="claim-t-221395"></a>
+- t-221395
+  teiginys: "Gerhardas iš Hircbergo stengėsi patirti jos liūdesio priežastį, atsakė: „Man liūdna, kad mano mielieji sūnūs, o tavo broliai iš Teutonų ordino, kitados apie nieką kita nesikalbėję, tik apie mano sūnų, apie mane ir šventųjų darbus, dabar apie nieką kita nesikalba, tik apie karalių bei kunigaikščių darbus ir šio pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs, nei šventųjų darbų“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204107
+
 ## Citatos
 
 - id: c-60918
@@ -152,5 +164,6 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-220532
+    - t-221395
     - t-224097
 

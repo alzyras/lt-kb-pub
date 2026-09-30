@@ -50,6 +50,7 @@ canonical_biography: "Jakovas Jedunovas, SSRS MGB 2-osios vyriausiosios valdybos
   santrauka: '1948 m. gegužės trėmimui vadovavo Sergejus Ogolcovas, Jakovas Jedunovas ir Viktoras Bočkovas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 595 (PDF 596)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 595 (PDF 596)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

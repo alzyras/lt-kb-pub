@@ -64,17 +64,6 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   pagrindžia:
     - c-178020
 
-<a id="claim-t-195618"></a>
-- t-195618
-  teiginys: "Magaryčios šiame šaltinyje priskiriamos prie mažųjų pokylių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178019
-    - c-178020
-
 ## Citatos
 
 - id: c-178019
@@ -91,8 +80,6 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195618
 
 - id: c-178020
   autorius: "M. Katkus"
@@ -116,5 +103,4 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-195618
 

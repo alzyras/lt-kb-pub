@@ -48,6 +48,20 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
   pagrindžia:
     - c-204285
 
+<a id="claim-t-225169"></a>
+- t-225169
+  teiginys: "Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Divanas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Arnoldas Krofas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Divanas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai aprašo Arnoldo Krofo puolimą prieš Divaną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.'

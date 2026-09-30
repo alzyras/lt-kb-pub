@@ -49,6 +49,24 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   pagrindžia:
     - c-173218
 
+<a id="claim-t-216827"></a>
+- t-216827
+  teiginys: "Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą buvo išvertęs Dominykas Šybinskis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dominykas Šybinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dominyko Gabrieliaus Šybinskio: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Dominykas Šybinskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dominyko Gabrieliaus Šybinskio\" parinktas kaip owner_note_path. Targetas \"Dominykas Šybinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-173217

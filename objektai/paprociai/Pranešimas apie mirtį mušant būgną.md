@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio apylinkėse apie ligonio mirtį pranešdavo dviem lazdelėmis mušdami būgnelį arba būgną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1048 (PDF 1049)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1048 (PDF 1049)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

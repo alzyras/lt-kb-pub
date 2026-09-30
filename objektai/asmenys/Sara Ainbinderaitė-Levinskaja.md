@@ -41,6 +41,7 @@ Sara Ainbinderaitė-Levinskaja buvo pirmosios Kupiškio gimnazijos laidos auklė
   santrauka: 'Sara Ainbinderaitė-Levinskaja buvo pirmosios Kupiškio gimnazijos laidos auklėtinė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 567 (PDF 568)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 567 (PDF 568)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

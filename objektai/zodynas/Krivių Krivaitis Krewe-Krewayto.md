@@ -72,3 +72,34 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-217848"></a>
+- t-001
+  teiginys: "Pasak jo, Kre ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego rijos teisėjais arba žyniais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
+<a id="claim-t-219870"></a>
+- t-002
+  teiginys: "Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiškusiu žynių žynį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žyniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krivių Krivaitis Krewe-Krewayto: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Žyniai: mention_match, group, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krivių Krivaitis Krewe-Krewayto\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

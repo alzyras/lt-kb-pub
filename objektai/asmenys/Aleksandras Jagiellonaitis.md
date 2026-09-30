@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f6adb2c825986f8a8705bd38
-canonical_name: Aleksandras Jagiellonaitis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Aleksandras Jagiellonaitis
+entity_id: "ent-f6adb2c825986f8a8705bd38"
+canonical_name: "Aleksandras Jagiellonaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Jagiellonaitis"]
 sameAs: []
-canonical_biography: Aleksandras atvyko ( Lietuvos ir Lenkijos atstovų suvažia vimų (seimą) Brastoje 1505 m. sausio 11 d.
+canonical_biography: "Aleksandras atvyko ( Lietuvos ir Lenkijos atstovų suvažia vimų (seimą) Brastoje 1505 m. sausio 11 d."
 ---
 # Aleksandras Jagiellonaitis
 

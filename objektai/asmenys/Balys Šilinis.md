@@ -37,6 +37,7 @@ Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–195
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Balio Šilinio slapyvardį nurodo kaip „Šulas“ ir pažymi, kad Balys Šilinis 1951 m. gruodžio 14 d. legalizavosi kartu su Kaziu Bernatoniu-Putinu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 407"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 407."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

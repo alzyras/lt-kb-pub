@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Bažnyčių bokštuose ir varpinėse esantys didieji stacionarūs varpai šventinami ir jiems suteikiami šventųjų globėjų vardai; jų skambesys laikomas liturgijos dalimi, todėl varpai laikomi sakramentalijomis, o ne muzikos instrumentais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 351 (PDF 352)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 351 (PDF 352)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

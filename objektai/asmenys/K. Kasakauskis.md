@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f4f5214d0fc04881408eb162
-canonical_name: K. Kasakauskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - K. Kasakauskis
+entity_id: "ent-f4f5214d0fc04881408eb162"
+canonical_name: "K. Kasakauskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Kasakauskis"]
 sameAs: []
-canonical_biography: K. Kasakauskis parašė ir paskelbė blaivybę propaguojančias knygeles.
+canonical_biography: "K. Kasakauskis parašė ir paskelbė blaivybę propaguojančias knygeles."
 ---
 # K. Kasakauskis
 

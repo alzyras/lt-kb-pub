@@ -30,6 +30,7 @@ Stasio Petravičiaus („Mažyčio“) pranešime aprašytus prie Šventosios Jo
   santrauka: 'Stasio Petravičiaus („Mažyčio“) pranešime aprašytus prie Šventosios Joną Kimštą-Žalgirį sučiupusius asmenis Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ įvardijo agentais smogikais.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 424"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 424."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

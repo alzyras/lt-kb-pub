@@ -70,6 +70,7 @@ Nenurodyta
   santrauka: 'Skudučių ansambliais kupiškėnai muzikavo per kaimo bendruomenės papročius ir šventes, taip pat bažnyčioje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1078 (PDF 1079)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1078 (PDF 1079)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -81,6 +82,7 @@ Nenurodyta
   santrauka: 'Instrumentinių ansamblių, išskyrus polifoniškus skudučius ir ragus, repertuaro pagrindą sudarė seni tradiciniai šokiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1079 (PDF 1080)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1079 (PDF 1080)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

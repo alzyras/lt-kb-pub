@@ -34,6 +34,7 @@ Kupiškio melioracinės statybos valdyba vykdė melioracijos darbus.
   santrauka: 'Kupiškio melioracinės statybos valdyba vykdė plačius melioracijos darbus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 783 (PDF 784)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 783 (PDF 784)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

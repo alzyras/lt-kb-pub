@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Panaikinus Kupiškio valstybinį dvarą, jo vietoje buvo sudarytas administracinis Kupiškio valsčius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 185 (PDF 186)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 185 (PDF 186)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

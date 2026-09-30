@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-31548c475f3f176af3a09664
-canonical_name: Vengrų žemės
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Vengrų žemės
+entity_id: "ent-31548c475f3f176af3a09664"
+canonical_name: "Vengrų žemės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vengrų žemės"]
 sameAs: []
-canonical_biography: 'Esant šiam Vytautui didžiuoju kunigaikščiu ir val dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že mė, bet ir Vengrų žemės valdovas, vadinamas Romos imperatoriumigyveno su juo didelėje meilėje.'
+canonical_biography: "Esant šiam Vytautui didžiuoju kunigaikščiu ir val dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že mė, bet ir Vengrų žemės valdovas, vadinamas Romos imperatoriumigyveno su juo didelėje meilėje."
+place_authority: true
+historical_names: []
 ---
 # Vengrų žemės
 

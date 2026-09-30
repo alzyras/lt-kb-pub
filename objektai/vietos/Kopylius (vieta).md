@@ -25,16 +25,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-efe802d829e612a25101dec3
-canonical_name: Kopylius (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kopylius
-  - Kopylius (vieta)
+entity_id: "ent-efe802d829e612a25101dec3"
+canonical_name: "Kopylius (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kopylius","Kopylius (vieta)"]
 sameAs: []
-canonical_biography: Kopylius yra miestelis apie 90 km į pietus–pietvakarius nuo Minsko. Simonas Mykolaitis Olelkaitis valdė Kopylių.
+canonical_biography: "Kopylius yra miestelis apie 90 km į pietus–pietvakarius nuo Minsko. Simonas Mykolaitis Olelkaitis valdė Kopylių."
+place_authority: true
+historical_names: []
 ---
 # Kopylius (vieta)
 

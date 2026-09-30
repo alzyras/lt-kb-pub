@@ -39,6 +39,7 @@ Substratas apibūdinamas kaip iš aukštapelkių durpių pagamintas dirbtinis gr
   santrauka: 'Substratas apibūdinamas kaip iš aukštapelkių durpių pagamintas dirbtinis gruntas, durpes sijojant ir kalkinant bei pridedant augalams reikalingų maistinių medžiagų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 110 (PDF 111)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 110 (PDF 111)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

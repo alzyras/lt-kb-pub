@@ -49,6 +49,7 @@ Kunigas Žydrūnas Jurkus iš Panevėžio Šv. apaštalų Petro ir Povilo parapi
   santrauka: 'Kunigas Žydrūnas Jurkus iš Panevėžio Šv. apaštalų Petro ir Povilo parapijos buvo paskirtas Kupiškio vikaru, o 2003 m. lapkričio 12 d. perkeltas į Pasvalio Šv. Jono Krikštytojo parapiją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 443 (PDF 444)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 443 (PDF 444)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

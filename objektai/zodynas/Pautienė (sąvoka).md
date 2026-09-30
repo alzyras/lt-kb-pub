@@ -39,6 +39,7 @@ Pautienė buvo tarmiškas kiaušinienės pavadinimas, o kiaušinienė visoje Lie
   santrauka: 'Pautienė – tarmiškas kiaušinienės pavadinimas; ji įvardijama kaip svarbiausias piemenų šventės valgis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 943 (PDF 944)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 943 (PDF 944)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

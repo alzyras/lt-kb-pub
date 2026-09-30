@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio Kristaus Žengimo į dangų bažnyčios kanauninkas Vladas Rabašauskas pašventino ant bažnyčios sienos atidengtą Sąjūdžio atminimo lentą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 875 (PDF 876)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 875 (PDF 876)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

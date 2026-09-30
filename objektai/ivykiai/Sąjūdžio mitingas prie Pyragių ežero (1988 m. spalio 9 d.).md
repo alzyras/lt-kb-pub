@@ -60,6 +60,7 @@ Nenurodyta
   santrauka: '1988 m. spalio 9 d. prie Pyragių ežero vykęs Sąjūdžio mitingas priėmė 12 punktų rezoliuciją, kurioje išdėstyti reikalavimai Lietuvai ir Kupiškio rajonui aktualiais klausimais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 851 (PDF 852)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 851 (PDF 852)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

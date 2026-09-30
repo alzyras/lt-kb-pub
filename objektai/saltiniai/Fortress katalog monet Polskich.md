@@ -34,6 +34,7 @@ Monetų tyrime greta katalogo „Lietuvos Didžiosios Kunigaikštystės numizmat
   santrauka: 'Monetų tyrime greta lietuviško monetų katalogo ir knygos „Monetos pasakoja“ naudotasi ir internetiniu katalogu „Fortress katalog monet Polskich“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 628 (PDF 629)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 628 (PDF 629)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

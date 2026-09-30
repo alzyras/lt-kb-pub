@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1944 m. rudenį susikūrė Petro Žiaugros būrys, kuriame buvo apie 20 partizanų iš Kupiškio ir Skapiškio valsčių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 609 (PDF 610)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 609 (PDF 610)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

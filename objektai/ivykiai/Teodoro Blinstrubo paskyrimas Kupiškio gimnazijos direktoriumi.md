@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Teodoras Blinstrubas Kupiškio gimnazijos direktoriumi paskirtas nuo 1938 m. kovo 1 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 567 (PDF 568)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 567 (PDF 568)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

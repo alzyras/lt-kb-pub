@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1994 m. už 750 litų buvo suremontuotas parapijos automobilis „Moskvič“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 430 (PDF 431)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 430 (PDF 431)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

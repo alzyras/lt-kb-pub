@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7e50ded5eefc1f314290918b
-canonical_name: Uršulė Veinicka
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Uršulė Veinicka
+entity_id: "ent-7e50ded5eefc1f314290918b"
+canonical_name: "Uršulė Veinicka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Uršulė Veinicka"]
 sameAs: []
-canonical_biography: 'Valančius rašė Alsėdžių deka nui, kad Uršulę Veinicką apskundęs kaimynas Mykolas Juozapavičius.'
+canonical_biography: "Valančius rašė Alsėdžių deka nui, kad Uršulę Veinicką apskundęs kaimynas Mykolas Juozapavičius."
 ---
 # Uršulė Veinicka
 

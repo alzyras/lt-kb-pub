@@ -51,6 +51,7 @@ Svėdasų miestelyje gyvenęs Vladas Gogelis pranešdavo apie sovietinius aktyvi
   santrauka: '1949 m. vasario 16 d. Svėdasuose buvo nuplėšti trys lapeliai; kronikos „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ autorė Ona Dapšytė-Kriukelienė juos vadina antisovietiniais.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 354"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 354."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

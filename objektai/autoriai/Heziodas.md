@@ -48,6 +48,24 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
   pagrindžia:
     - c-198791
 
+<a id="claim-t-216275"></a>
+- t-216275
+  teiginys: "Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba pašventinimo apeigas kalba Heziodas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ambervales: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heziodas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Ambervales: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heziodas\" parinktas kaip owner_note_path. Targetas \"Ambervales\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-173309

@@ -31,17 +31,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6a01dd20477d9bcf363338f5
-canonical_name: Čekija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Čekija
-sameAs: []
-canonical_biography: 'Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir anksčiau, liko tik Lenkija ir Lietuva.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Čekija","url":"https://lt.wikipedia.org/wiki/%C4%8Cekija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Čekija","url":"https://www.vle.lt/straipsnis/cekija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:14:33+00:00","source_checked_at":"2026-09-20T11:14:33+00:00","counts":{"relations":8,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Čekija (ček. Česko; oficialiai Čekijos Respublika, ček. Česká republika) – valstybė Vidurio Europoje. Pietuose ribojasi su Austrija, vakaruose – su Vokietija, šiaurės rytuose – su Lenkija, pietryčiuose – su Slovakija. Šalies sostinė ir didžiausias miestas – Praha. Kiti didieji miestai: Brno, Ostrava, Pilzenas ir Liberecas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"2319","revision_id":"7712112","status":"published","translation_status":"native","source":{"title":"Čekija","url":"https://lt.wikipedia.org/wiki/%C4%8Cekija","publisher":"Vikipedija","language":"lt","article_id":"2319","revision_id":"7712112","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7712112","history_url":"https://lt.wikipedia.org/w/index.php?title=%C4%8Cekija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:38.879881+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"323bb85539337333e85a14ae5f2b0aeb115337715bc2a5435fd76723b0db34c4","version_pk":"03a08a545ce5fdccb96fd85d67ac4867"}},"source_buttons":[{"label":"Vikipedija","title":"Čekija","url":"https://lt.wikipedia.org/wiki/%C4%8Cekija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Čekija","url":"https://www.vle.lt/straipsnis/cekija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C4%8Cekija","https://www.vle.lt/straipsnis/cekija/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Jonas Liuksemburgietis","claim_id":"t-30310","confidence":0.9},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Pršemyslas Otokaras II","claim_id":"t-39630","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Martynas iš Opavos","claim_id":"t-221260","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Kaributas","claim_id":"t-184326","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zigmantas Kaributas","claim_id":"t-176867","confidence":0.86},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176882","confidence":0.9},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogailaitis","claim_id":"t-183769","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Jogailaičių dinastija","claim_id":"t-101620","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -55,6 +44,15 @@ object_page_seo_description: 'Čekijai „atkritus“ nuo Jogailaičių dinastin
 object_page_seo_input_hash: eea12fa8445026a9ab511fb48d4d2358159ca9891ae10e8dbbba47e7c6675bcd
 object_page_seo_generated_at: '2026-09-20T11:14:33+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-6a01dd20477d9bcf363338f5"
+canonical_name: "Čekija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čekija"]
+sameAs: ["https://www.wikidata.org/entity/Q213"]
+canonical_biography: "Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir anksčiau, liko tik Lenkija ir Lietuva."
+place_authority: true
+historical_names: []
 ---
 # Čekija
 

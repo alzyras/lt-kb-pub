@@ -30,6 +30,7 @@ Kazio Morkūno 15–18 partizanų būrį Ona Dapšytė-Kriukelienė kronikoje �
   santrauka: 'Kazio Morkūno 15–18 partizanų būrį Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ vadina „Ančiškiečių“ būriu ir priskiria Albino Tindžiulio partizanų junginiui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 128-129"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 128-129."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

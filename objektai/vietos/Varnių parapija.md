@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2fe6e88fb29cab1d74614795
-canonical_name: Varnių parapija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Varnių parapija
+entity_id: "ent-2fe6e88fb29cab1d74614795"
+canonical_name: "Varnių parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varnių parapija"]
 sameAs: []
-canonical_biography: Didžiausias pavyzdys buvo Varnių parapijos blaivininkų surašymas.
+canonical_biography: "Didžiausias pavyzdys buvo Varnių parapijos blaivininkų surašymas."
 place_authority: true
 historical_names: []
 ---

@@ -27,15 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-d6303f014e4a2ecf987050b9
-canonical_name: Mykolas Kęsgaila
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Mykolas Kęsgaila
+entity_id: "ent-noble-d6303f014e4a2ecf987050b9"
+canonical_name: "Mykolas Kęsgaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Kęsgaila"]
 sameAs: []
-canonical_biography: Mykolas Kęsgaila - Kęsgailos giminės atstovas.
+canonical_biography: "Mykolas Kęsgaila - Kęsgailos giminės atstovas."
 ---
 # Mykolas Kęsgaila
 

@@ -50,6 +50,7 @@ canonical_biography: "1986 m. rugpjūčio 21 d. Stasys Zubavičius buvo paskirta
   santrauka: '1986 m. rugpjūčio 21 d. Stasys Zubavičius buvo paskirtas Kupiškio parapijos vikaru ir Palėvenės šv. Domininko parapijos administratoriumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 441 (PDF 442)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 441 (PDF 442)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

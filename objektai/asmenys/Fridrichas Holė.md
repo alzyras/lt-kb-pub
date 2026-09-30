@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-617c7deb4942cb916f8e8da1
-canonical_name: Fridrichas Holė
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Fridrichas Holė
+entity_id: "ent-617c7deb4942cb916f8e8da1"
+canonical_name: "Fridrichas Holė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas Holė"]
 sameAs: []
-canonical_biography: Fridrichas su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą.
+canonical_biography: "Fridrichas su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą."
 ---
 # Fridrichas Holė
 

@@ -67,6 +67,19 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   pagrindžia:
     - c-172072
 
+<a id="claim-t-216033"></a>
+- t-216033
+  teiginys: "Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens deivę, kuriai esą aukoti balti paršeliai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-197894
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad prie Zapyškio tekėjęs mažas upelis anksčiau vadintas Upinės upeliu, o vėliau - Išganytojo vardu.'
@@ -154,6 +167,8 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216033
 
 - id: c-199516
   autorius: "Teodoras Narbutas"

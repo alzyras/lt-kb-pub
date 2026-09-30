@@ -37,6 +37,7 @@ Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad Petras Čepė, 1941 m. sukilimo dalyvis ir vokiečių žvalgybos agentas, buvo suimtas 1946 m. lapkričio 22 d.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 210"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 210."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

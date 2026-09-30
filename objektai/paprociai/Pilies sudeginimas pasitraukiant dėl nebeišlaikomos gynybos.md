@@ -59,6 +59,22 @@ Nenurodyta
   pagrindžia:
     - c-63469
 
+<a id="claim-t-224934"></a>
+- t-224934
+  teiginys: "Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "priklause -> Pamedė: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Spitenbergas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Spitenbergas buvo Pamedės žemėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Spitenbergas priklausė Pamedė (0.95)"
+
 ## Citatos
 
 - id: c-63468

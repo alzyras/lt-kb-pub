@@ -83,6 +83,35 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   pagrindžia:
     - c-199914
 
+<a id="claim-t-213874"></a>
+- t-213874
+  teiginys: "Narbutas Aziją laikė žmonių giminės lopšiu, o Europą, palyginti su Azija ir Afrika, vadino vėliau apgyvendintu ir civilizuotu naujuoju pasauliu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Afrika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Azija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Afrika: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Azija\" parinktas kaip owner_note_path. Targetas \"Afrika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
+<a id="claim-t-217606"></a>
+- t-217606
+  teiginys: "Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia senovę saugančia ir permainas atmetančia dvasia."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-171833

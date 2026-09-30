@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1945 m. spalio 20 d. Kupiškio valsčiaus stribai Broniaus Matkevičiaus sodyboje Karaliūnų kaime aptiko bunkerį; per susidūrimą žuvo Bronius Liubkevičius, buvo sulaikytas dar vienas partizanas ir trys rėmėjai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 121"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 121."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

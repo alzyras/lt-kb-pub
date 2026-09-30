@@ -59,6 +59,7 @@ Nenurodyta
   santrauka: 'Parapijiečiai neleido kanauninko Jono Katelės giminaičiams pastatyti kryžiaus, nes, kaip pasakojama, norėjo patys bent iš dalies atsidėkoti už Jono Katelės nuopelnus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 469 (PDF 470)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 469 (PDF 470)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

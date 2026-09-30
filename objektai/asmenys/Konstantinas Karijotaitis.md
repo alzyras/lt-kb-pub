@@ -78,6 +78,16 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   pagrindžia:
     - c-188949
 
+<a id="claim-t-211527"></a>
+- t-211527
+  teiginys: "O didžiojo kunigaikščio Algirdo brolis Karijotas valdė Lietuvos Naugarduką, ir jis turėjo keturis4 sū nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni gaikštį Konstantiną ir kunigaikštį Teodorą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'O didžiojo kunigaikščio Algirdo brolis Karijotas valdė Lietuvos Naugarduką, ir jis turėjo keturis4 sū nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni gaikštį Konstantiną ir kunigaikštį Teodorą.'

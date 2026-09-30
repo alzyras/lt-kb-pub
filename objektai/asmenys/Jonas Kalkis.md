@@ -118,4 +118,3 @@ Jonas Kalkis (Kalkys)-Vėtra, Juozo sūnus, gimė 1916 m. Lebeniškių kaime, di
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-003
-

@@ -49,6 +49,7 @@ Kupiškio tvenkinys galutinai susiformavo 1986 m.; oficialiai jis buvo skirtas k
   santrauka: 'Kupiškio tvenkinys galutinai susiformavo 1986 m.; oficialiai jis buvo skirtas kultūrinėms ir buitinėms reikmėms bei kraštovaizdžiui praturtinti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 28 (PDF 29)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 28 (PDF 29)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

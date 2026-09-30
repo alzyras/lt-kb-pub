@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Pirmasis laikraštėlio „Liuosas kelias“ numeris išėjo spalio 17 d., o 1916 m. leidinys jau vadinosi „Laisvės kelias“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 821 (PDF 822)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 821 (PDF 822)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

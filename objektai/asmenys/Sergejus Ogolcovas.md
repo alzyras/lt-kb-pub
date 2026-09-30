@@ -49,6 +49,7 @@ Sergejus Ogolcovas, SSRS MGB ministro pirmasis pavaduotojas ir generolas leitena
   santrauka: 'Sergejus Ogolcovas buvo SSRS MGB ministro pirmasis pavaduotojas ir generolas leitenantas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 595 (PDF 596)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 595 (PDF 596)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

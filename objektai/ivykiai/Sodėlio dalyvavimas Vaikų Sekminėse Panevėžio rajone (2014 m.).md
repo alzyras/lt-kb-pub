@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Veiklą atnaujinęs ansamblis „Sodėlis“ 2014 mokslo metų pabaigoje dalyvavo Panevėžio rajone surengtose Vaikų Sekminėse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1083 (PDF 1084)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1083 (PDF 1084)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

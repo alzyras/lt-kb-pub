@@ -40,6 +40,7 @@ Iki 1941 m. rugsėjo beveik visi Kupiškio žydai buvo sušaudyti, o apie 50 lik
   santrauka: 'Iki 1941 m. rugsėjo beveik visi Kupiškio žydai buvo sušaudyti, o apie 50 likusiųjų savisaugos bataliono kareiviai 1941 m. rudenį išvežė į Subačių; yra žinių, kad jie ten sušaudyti kartu su Subačiaus žydais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 588 (PDF 589)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 588 (PDF 589)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

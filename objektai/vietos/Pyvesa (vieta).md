@@ -55,6 +55,7 @@ Pyvesos upė šiaurės vakaruose skyrė vaitiją nuo Salamiesčio dvaro žemių.
   santrauka: 'Pyvesos upė šiaurės vakaruose skyrė vaitiją nuo Salamiesčio dvaro žemių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 150 (PDF 151)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 150 (PDF 151)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -68,6 +69,7 @@ Pyvesos upė šiaurės vakaruose skyrė vaitiją nuo Salamiesčio dvaro žemių.
   santrauka: 'Astravų kaimą skirstant į vienkiemius, parengtas Pyvesos vagos reguliavimo projektas, apėmęs Sodelių–Salamiesčio vietoves, 11 kaimų, 4 vienkiemius ir 1 dvarą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 692-693 (PDF 693-694)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 692-693 (PDF 693-694)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,6 +79,7 @@ Pyvesos upė šiaurės vakaruose skyrė vaitiją nuo Salamiesčio dvaro žemių.
   santrauka: '1966–1970 m. prie Pyvesos upelio sutvarkytos žemės, nusausinta ir sukultūrinta 1 436 ha šlapių žemių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 695 (PDF 696)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 695 (PDF 696)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

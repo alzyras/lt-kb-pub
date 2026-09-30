@@ -373,5 +373,8 @@ export function displayMeta(entry: MediaEntry): string {
 
 export function mediaPosition(media: MediaEntry): string {
   const point = media.focalPoint
-  return point ? `${Math.max(0, Math.min(100, point.x))}% ${Math.max(0, Math.min(100, point.y))}%` : "50% 25%"
+  // Keep the full top edge visible on portrait crops; retain horizontal focus.
+  return point
+    ? `${Math.max(0, Math.min(100, point.x))}% 0%`
+    : "50% 0%"
 }

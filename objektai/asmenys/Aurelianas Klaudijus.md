@@ -68,6 +68,17 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   pagrindžia:
     - c-174220
 
+<a id="claim-t-212999"></a>
+- t-212999
+  teiginys: "Paskui pamažu, valdant imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo, užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo tenykščius gyventojus slavus, užimdami daug jų miestų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
+
 ## Citatos
 
 - id: c-174220

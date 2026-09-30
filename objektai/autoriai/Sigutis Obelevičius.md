@@ -41,6 +41,7 @@ Sigutis Obelevičius yra skyriaus „Kupiškio valsčiaus gamta“ autorius.
   santrauka: 'Sigutis Obelevičius yra skyriaus „Kupiškio valsčiaus gamta“ autorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 17 (PDF 18)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 17 (PDF 18)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

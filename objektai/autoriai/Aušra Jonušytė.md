@@ -67,6 +67,7 @@ Aušra Jonušytė yra straipsnio „Pokario metų tremtiniai kupiškėnai ir jų
   santrauka: 'Aušra Jonušytė yra straipsnio „Pokario metų tremtiniai kupiškėnai ir jų likimas“ autorė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 592 (PDF 593)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 592 (PDF 593)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,6 +80,7 @@ Aušra Jonušytė yra straipsnio „Pokario metų tremtiniai kupiškėnai ir jų
   santrauka: 'Aušra Jonušytė aprašė naujai pastatytus Kupiškio rajono medinius paminklus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 965 (PDF 966)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 965 (PDF 966)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

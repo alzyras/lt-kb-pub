@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e86ca2e46dffa4a0568b7869
-canonical_name: Zitomiras (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Zitomiras
-  - Zitomiras (vieta)
+entity_id: "ent-e86ca2e46dffa4a0568b7869"
+canonical_name: "Zitomiras (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zitomiras","Zitomiras (vieta)"]
 sameAs: []
-canonical_biography: 'Didysis kunigaikštis Vytautas, išžygiavęs tą patį pava sarį, paėmė Zitomiro ir Oviučio miestus.'
+canonical_biography: "Didysis kunigaikštis Vytautas, išžygiavęs tą patį pava sarį, paėmė Zitomiro ir Oviučio miestus."
+place_authority: true
+historical_names: []
 ---
 # Zitomiras (vieta)
 

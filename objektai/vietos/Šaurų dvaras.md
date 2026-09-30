@@ -97,3 +97,31 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-215950"></a>
+- t-001
+  teiginys: "Šaurų dvaro bibliotekoje buvo saugoma nemažai Dionizo Poškos rankraščių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Išskleistas įvardis „šio žemaičių literato“ į Dionizo Poškos vardą, kurį palaiko citata. Kitų bibliotekoje buvusių darbų nepridėta."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
+
+<a id="claim-t-218733"></a>
+- t-002
+  teiginys: "Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys jau yra gramatiškas faktinis sakinys su aiškiu subjektu, veiksmažodžiu ir Šaurų dvaro paminėjimu. Papildomos atribucijos čia nereikia."
+  susije_objektai: "llm_object: Šaurų dvaras; mentioned_group: [[objektai/grupes/Narbutai|Narbutai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Horodlė"
+  semantiniai_rysiai: "[[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]] gimė Šaurų dvaras"
+  temporaliniai_duomenys: "gimimo data: 1784 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Teodoras Narbutas gimė Šaurų dvaras“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatiškas faktinis sakinys su aiškiu subjektu, veiksmažodžiu ir Šaurų dvaro paminėjimu. Papildomos atribucijos čia nereikia."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
+

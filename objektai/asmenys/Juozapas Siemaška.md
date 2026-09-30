@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6cdff50117fc39fcff610f64
-canonical_name: Juozapas Siemaška
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Juozapas Siemaška
+entity_id: "ent-6cdff50117fc39fcff610f64"
+canonical_name: "Juozapas Siemaška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Siemaška"]
 sameAs: []
-canonical_biography: 'Be to, Lietuvos pravoslavų metropolitas Juo zapas Siemaška įkūrė broliją, kurios nariai įsipareigojo kasmet atversti į pravoslavų tikėjimą bent po tris ka talikus 3.'
+canonical_biography: "Be to, Lietuvos pravoslavų metropolitas Juo zapas Siemaška įkūrė broliją, kurios nariai įsipareigojo kasmet atversti į pravoslavų tikėjimą bent po tris ka talikus 3."
 ---
 # Juozapas Siemaška
 

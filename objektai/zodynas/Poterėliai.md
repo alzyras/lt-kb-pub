@@ -69,8 +69,6 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-178047
   autorius: "M. Katkus"
@@ -91,21 +89,9 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
     - t-002
 
 ## Teiginiai
-
-<a id="claim-t-195645"></a>
-- t-001
-  teiginys: "Poterėliais galima verstis kaip elgetavimo būdu."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary::repair"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178046
-    - c-178047
 
 <a id="claim-t-195646"></a>
 - t-002

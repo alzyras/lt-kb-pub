@@ -45,6 +45,7 @@ Kupiškio kapinių kryždirbystės paminklų apžvalgoje J. Čepėno (sūnaus) p
   santrauka: 'J. Čepėnas jaunesnysis padirbo kryžius, kurie Kupiškio kapinių kryždirbystės tyrime pateikiami kaip tipiškiausias aptariamos grupės pavyzdys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 955 (PDF 956)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 955 (PDF 956)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

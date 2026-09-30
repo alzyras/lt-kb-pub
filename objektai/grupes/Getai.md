@@ -42,6 +42,25 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   pagrindžia:
     - c-184270
 
+<a id="claim-t-212600"></a>
+- t-212600
+  teiginys: "Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Isteris: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Getai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad getai gyveno prie Dunojaus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Getai gyveno Isteris (0.90)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais.'

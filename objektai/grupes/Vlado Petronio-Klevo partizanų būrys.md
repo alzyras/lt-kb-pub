@@ -30,6 +30,7 @@ Po Jurgio Labakojo-Rūko žūties 1947 m. balandžio 11 d. Vladas Petronis-Kleva
   santrauka: 'Po Jurgio Labakojo-Rūko žūties 1947 m. balandžio 11 d. Vladas Petronis-Klevas tapo būrio vadu ir veikė Subačiaus bei Kupiškio valsčiuose.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 219-220"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 219-220."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -39,6 +40,7 @@ Po Jurgio Labakojo-Rūko žūties 1947 m. balandžio 11 d. Vladas Petronis-Kleva
   santrauka: 'Juozas Valonis-Merkys priklausė Vlado Petronio-Klevo partizanų būriui ir gimė 1923 m. Jovarų kaime, Subačiaus valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 220-221"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 220-221."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -48,6 +50,7 @@ Po Jurgio Labakojo-Rūko žūties 1947 m. balandžio 11 d. Vladas Petronis-Kleva
   santrauka: 'Kronikoje Florijonas Kulikauskas ir Jurgis Labakojis-Rūkas nurodomi kaip Vlado Petronio-Klevo partizanų būrio nariai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 264"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 264."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

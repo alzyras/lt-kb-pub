@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Siuvinėti paveikslai buvo gaminami iš specialiai mechaniniu būdu tankiai perforuoto kartono, vadinamo bristolu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 668 (PDF 669)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 668 (PDF 669)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

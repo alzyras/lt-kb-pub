@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-42f1878809210120c91c96b8
-canonical_name: Britanija (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Britanija
-  - Britanija (vieta)
+entity_id: "ent-42f1878809210120c91c96b8"
+canonical_name: "Britanija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Britanija","Britanija (vieta)"]
 sameAs: []
-canonical_biography: 'Hamilkaras atrado Albioną, arba Britaniją. Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą.'
+canonical_biography: "Hamilkaras atrado Albioną, arba Britaniją. Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
+place_authority: true
+historical_names: []
 ---
 # Britanija (vieta)
 

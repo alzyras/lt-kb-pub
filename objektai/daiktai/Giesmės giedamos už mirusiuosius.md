@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio krašto Bažnyčios žmonės slapta platino savilaida išleistą, mašinraščiu spausdintą mokyklinio sąsiuvinio dydžio giesmyną „Giesmės giedamos už mirusiuosius“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 905 (PDF 906)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 905 (PDF 906)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -43,6 +43,7 @@ Kupiškio–Alizavos mikrorajono reljefas formavosi tirpstant ir traukiantis pas
   santrauka: 'Kupiškio–Alizavos mikrorajono reljefas formavosi tirpstant ir traukiantis paskutinio pleistoceno ledynui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 29 (PDF 30)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 29 (PDF 30)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Elena Jackevičiūtė buvo pirmoji moteris, Lietuvoje tapusi teisėja.
   santrauka: 'Elena Jackevičiūtė buvo pirmoji moteris, Lietuvoje tapusi teisėja.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 469 (PDF 470)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 469 (PDF 470)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

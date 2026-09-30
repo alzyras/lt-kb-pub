@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: '1949 m. spalio 31 d. Šimonių girios operacijoje žuvo 11 partizanų, o gyvi suimti penki bunkerių gyventojai; MGB paėmė Algimanto apygardos ir Šarūno rinktinės archyvą, ginklus, radijo imtuvus, rašomąsias mašinėles, šaudmenis ir antspaudus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 348"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 348."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

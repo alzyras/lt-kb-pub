@@ -19,15 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-42fe96572aa708de228f3b28
-canonical_name: J. Zavadzkis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - J. Zavadzkis
+entity_id: "ent-42fe96572aa708de228f3b28"
+canonical_name: "J. Zavadzkis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Zavadzkis"]
 sameAs: []
-canonical_biography: J. Zavadzkio spaustuvėje buvo atspausdinta brošiūra "Apej Brostvvą Blaiwistes arba Nusiturieima". M. Valančius dar du kartus užsakė J. Zavadzkiui išleisti tą pačią brošiūrą.
+canonical_biography: "J. Zavadzkio spaustuvėje buvo atspausdinta brošiūra \"Apej Brostvvą Blaiwistes arba Nusiturieima\". M. Valančius dar du kartus užsakė J. Zavadzkiui išleisti tą pačią brošiūrą."
 ---
 # J. Zavadzkis
 

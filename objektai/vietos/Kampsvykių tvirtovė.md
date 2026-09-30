@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b18442bd82c73eeb09f4e859
-canonical_name: Kampsvykių tvirtovė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kampsvykių tvirtovė
+entity_id: "ent-b18442bd82c73eeb09f4e859"
+canonical_name: "Kampsvykių tvirtovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kampsvykių tvirtovė"]
 sameAs: []
-canonical_biography: Kampsvykių tvirtovė stovėjo ant Namsviko kalvos netoli Insterburgo.
+canonical_biography: "Kampsvykių tvirtovė stovėjo ant Namsviko kalvos netoli Insterburgo."
+place_authority: true
+historical_names: []
 ---
 # Kampsvykių tvirtovė
 

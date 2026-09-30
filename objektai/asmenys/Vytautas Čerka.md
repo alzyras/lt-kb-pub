@@ -66,4 +66,3 @@ Vytautas Čerka gimė 1925 m. ir buvo Kazio Čerkos brolis.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

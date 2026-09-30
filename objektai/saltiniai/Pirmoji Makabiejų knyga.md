@@ -47,3 +47,12 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-222551"></a>
+- t-001
+  teiginys: "Pirmojoje Makabiejų knygoje raginama atkeršyti priešams už tautą ir kovoti dėl gyvybės bei įstatymo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

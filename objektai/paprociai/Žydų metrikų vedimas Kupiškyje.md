@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1908 m. Kupiškyje pradėta rašyti žydų metrika, kurioje buvo fiksuojami gimimai, mirtys ir santuokos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 565 (PDF 566)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 565 (PDF 566)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

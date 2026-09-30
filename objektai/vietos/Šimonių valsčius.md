@@ -90,6 +90,7 @@ Kronikos sąraše Antanas Starkus siejamas su 14 partizanų Šimonių valsčiuje
   santrauka: 'Kronikos sąraše Antanas Starkus siejamas su 14 partizanų Šimonių valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 167"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 167."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -99,6 +100,7 @@ Kronikos sąraše Antanas Starkus siejamas su 14 partizanų Šimonių valsčiuje
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ rašo, kad MGB Šimonių valsčiaus poskyris nukovė penkis partizanus, iš jų vieną vadą, suėmė tris ryšininkus ir vieną rėmėją bei užverbavo 13 informatorių.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 339"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 339."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

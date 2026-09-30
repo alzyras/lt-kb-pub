@@ -56,6 +56,25 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
   pagrindžia:
     - c-169554
 
+<a id="claim-t-218450"></a>
+- t-218450
+  teiginys: "Narbutas Danutę mini kaip Kęstučio ir jo žmonos dukterį, gimusią kartu su sūnumis Patriku, Vytautu, Tautvilu ir Sigailu, arba Žygimantu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_dukte -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Danutė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatos kontekste Kęstutis turėjo dukterį Danutę, todėl Danutė siejama kaip Kęstučio duktė."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Danutė buvo duktė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.90)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.'

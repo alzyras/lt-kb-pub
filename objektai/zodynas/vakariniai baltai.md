@@ -91,6 +91,36 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   pagrindžia:
     - c-69413
 
+<a id="claim-t-220890"></a>
+- t-220890
+  teiginys: "Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Baltai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginyje skalviai tiesiogiai priskiriami vakariniams baltams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kuršiai priklausė Baltai (0.82); Skalviai priklausė Baltai (0.82); Nadruviai priklausė Baltai (0.82)"
+
+<a id="claim-t-222004"></a>
+- t-222004
+  teiginys: "Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Baltai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Nadruviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys nadruvius tiesiogiai įtraukia į vakarinių baltų grupę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Nadruviai priklausė Baltai (0.82); Skalviai priklausė Baltai (0.82)"
+
 ## Citatos
 
 - id: c-69410

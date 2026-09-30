@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2ec7a151612174ac178ad6b7
-canonical_name: Rasytė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Rasytė
-  - Rasytė (vieta)
+entity_id: "ent-2ec7a151612174ac178ad6b7"
+canonical_name: "Rasytė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rasytė","Rasytė (vieta)"]
 sameAs: []
-canonical_biography: Tad gamtinė revoliucija padarė žemesnius senovės Meme lio krantus ir tuo pat metu pertverė išplovą prie Rasytės.
+canonical_biography: "Tad gamtinė revoliucija padarė žemesnius senovės Meme lio krantus ir tuo pat metu pertverė išplovą prie Rasytės."
+place_authority: true
+historical_names: []
 ---
 # Rasytė (vieta)
 

@@ -43,6 +43,7 @@ Gedimino gatvės 33-iajame name, Ryšių mazge, buvo kabinetėlis.
   santrauka: 'Ryšių mazge buvo kabinetėlis, esantis Gedimino gatvės 33-iajame name.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 842 (PDF 843)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 842 (PDF 843)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,6 +34,7 @@ Remdamasi archyviniais dokumentais, Dalia Klajumienė nurodo, kad Palėvenės do
   santrauka: 'Remdamasi archyviniais dokumentais, Dalia Klajumienė nurodo, kad Palėvenės dominikonai XVII a. pabaigoje ir XVIII a. palaikė glaudų ryšį su Vilniaus konventu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 214 (PDF 215)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 214 (PDF 215)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

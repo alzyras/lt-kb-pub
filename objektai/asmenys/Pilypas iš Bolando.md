@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3f1855f66bc463c98cfd756f
-canonical_name: Pilypas iš Bolando
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Pilypas iš Bolando
+entity_id: "ent-3f1855f66bc463c98cfd756f"
+canonical_name: "Pilypas iš Bolando"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pilypas iš Bolando"]
 sameAs: []
-canonical_biography: Pilypas iš Bolando buvo Sembos vyskupo fogtas.
+canonical_biography: "Pilypas iš Bolando buvo Sembos vyskupo fogtas."
 ---
 # Pilypas iš Bolando
 

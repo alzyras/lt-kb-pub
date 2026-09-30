@@ -29,17 +29,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6f35a96a84504a84e9263f66
-canonical_name: Dubingiai
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Dubingiai
-sameAs: []
-canonical_biography: 'Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Dubingiai","url":"https://lt.wikipedia.org/wiki/Dubingiai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Dubingiai","url":"https://www.vle.lt/straipsnis/dubingiai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:50:43+00:00","source_checked_at":"2026-09-20T10:50:43+00:00","counts":{"relations":3,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Dubingiai – miestelis Molėtų rajono savivaldybės pietuose, 20 km į pietus nuo Molėtų, ilgiausio Lietuvoje Asvejos ežero, kuris taip pat kartais vadinamas Dubingių vardu, šiauriniame krante. Dubingių seniūnijos ir seniūnaitijos centras. Dubingių plano struktūra linijinė. Miestelyje 1958 m. pastatyta Dubingių šv. Jurgio bažnyčia, biblioteka, veikia kraštotyros muziejus (įsikūręs buvusioje smuklėje ir mokykloje), yra paštas (LT-33022), Asvejos regioninio parko direkcija, istorinis-kultūrinis paminklas – medinė Dubingių karčema (XIX a., ant aukštų mūrinių pamatų; restauruota 1969 m.). Prie miestelio stūkso Dubingių piliakalnis su XVI a. piliaviete (archeologijos ir istorijos paminklas), miestelis laikomas didikų Radvilų giminės tėvonija.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"16637","revision_id":"7598865","status":"published","translation_status":"native","source":{"title":"Dubingiai","url":"https://lt.wikipedia.org/wiki/Dubingiai","publisher":"Vikipedija","language":"lt","article_id":"16637","revision_id":"7598865","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7598865","history_url":"https://lt.wikipedia.org/w/index.php?title=Dubingiai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:00.455963+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"7294625d0e1031385d2f9850ca506f18abac25f446820ea99164b6e31611ae24","version_pk":"8c54bca458015d54502e1e2f3723e9f8"}},"source_buttons":[{"label":"Vikipedija","title":"Dubingiai","url":"https://lt.wikipedia.org/wiki/Dubingiai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Dubingiai","url":"https://www.vle.lt/straipsnis/dubingiai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Dubingiai","https://www.vle.lt/straipsnis/dubingiai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e30093250ca78d6e359226e8","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Radvilų dvaras","context":"Šaltinyje nurodoma, kad Barbora tuo metu gyveno Radvilų dvare Dubingiuose.","support_ids":["t-193179","c-175924"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193179","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175924","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Grįždamas į Vilnių, jis ne- pasakė tėvams tiesos, ir tėvas, netrukus miręs, nebesužinojo apie sū- naus vedybas. Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose. Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams atlydėti žmoną į Vilnių."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Mikalojus Radvila Rudasis","claim_id":"t-113896","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-28509","confidence":0.91},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-172063","confidence":0.95}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
 object_page_finisher: 'true'
@@ -53,6 +42,15 @@ object_page_seo_description: 'Dubingiai: Barbora tuo tarpu gyveno Radvilų dvare
 object_page_seo_input_hash: ecddf0db2aa9f29836a160dc814317be4421eb87775a0d2d39b20ea40a3ab83e
 object_page_seo_generated_at: '2026-09-20T10:50:43+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-6f35a96a84504a84e9263f66"
+canonical_name: "Dubingiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubingiai"]
+sameAs: ["https://www.wikidata.org/entity/Q1883864"]
+canonical_biography: "Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose."
+place_authority: true
+historical_names: []
 ---
 # Dubingiai
 

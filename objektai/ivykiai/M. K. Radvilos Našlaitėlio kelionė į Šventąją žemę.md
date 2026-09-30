@@ -79,4 +79,22 @@ M. K. Radvila Našlaitėlis 1582-1584 m. keliavo į Šventąją žemę ir grįž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207803"></a>
+- t-001
+  teiginys: "M. K. Radvila Našlaitėlis 1582-1584 m. keliavo į Šventąją žemę ir grįžo į Nesvyžių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "kelionės data: 1584 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190505
 

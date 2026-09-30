@@ -49,6 +49,7 @@ canonical_biography: "1689 m. popiežiui Inokentijui XI į kapą buvo įdėta 12
   santrauka: '1689 m. popiežiui Inokentijui XI į kapą buvo įdėta 12 auksinių ir sidabrinių monetų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 629 (PDF 630)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 629 (PDF 630)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

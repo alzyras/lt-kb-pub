@@ -49,6 +49,7 @@ Girelės miške kartu su Petru Juodiškiu žuvo Mataušas Kunčys-Starkus.
   santrauka: 'Girelės miške kartu su Petru Juodiškiu žuvo Mataušas Kunčys-Starkus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

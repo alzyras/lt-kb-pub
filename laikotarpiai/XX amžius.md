@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XX amžius"
 periodo_pradzia: 1901
 periodo_pabaiga: 2000
-periodo_objektu_skaicius: 3550
+periodo_objektu_skaicius: 3548
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 3550.
+Objektų skaičius: 3548.
 
 ## Susiję objektai
 
@@ -1993,7 +1993,6 @@ Objektų skaičius: 3550.
 - [[objektai/vietos/Vilniaus regionas]]
 - [[objektai/vietos/Vilniaus sporto rūmai]]
 - [[objektai/vietos/Vilniaus televizijos bokštas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vingio parkas]]
 - [[objektai/vietos/Visaginas]]
 - [[objektai/vietos/Vitebskas]]
@@ -3438,7 +3437,6 @@ Objektų skaičius: 3550.
 - [[objektai/zodynas/demarkacijos linija]]
 - [[objektai/zodynas/demobilizacija]]
 - [[objektai/zodynas/Desovietizacija ir liustracija]]
-- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]
 - [[objektai/zodynas/dezertyrai]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/didysis magistras]]

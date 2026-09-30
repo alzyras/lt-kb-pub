@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Suaugę tremtiniai privalėjo kartą per mėnesį registruotis specialiosiose komendantūrose, o jų darbuotojai galėjo reikalauti dažnesnės registracijos pagal tai, kaip komendantūrų darbuotojai vertino tremtinio pavojingumą sovietinei valdžiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 599 (PDF 600)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 599 (PDF 600)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

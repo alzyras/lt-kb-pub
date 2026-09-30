@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1769 m. rugsėjį angliško alavo žvakidės buvo parvežtos iš Vilniaus, už jas sumokėta 288 auksinai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 222 (PDF 223)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 222 (PDF 223)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

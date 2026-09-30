@@ -25,16 +25,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d6ba6faefa1294e96d169731
-canonical_name: Kalnalis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kalnalis
-  - Kalnalis (vieta)
+entity_id: "ent-d6ba6faefa1294e96d169731"
+canonical_name: "Kalnalis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kalnalis","Kalnalis (vieta)"]
 sameAs: []
-canonical_biography: Kalnalio filijos bažnyčia buvo vizituota 1819 m.
+canonical_biography: "Kalnalio filijos bažnyčia buvo vizituota 1819 m."
 place_authority: true
 historical_names: []
 ---

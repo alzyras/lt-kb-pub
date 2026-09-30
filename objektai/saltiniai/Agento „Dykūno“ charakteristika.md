@@ -30,6 +30,7 @@ Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–195
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikė agento „Dykūno“ charakteristiką, kurioje jis įvardytas drausmingu, konspiratyviu ir tinkamai aplinkoje besiorientuojančiu agentu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 425-426"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 425-426."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

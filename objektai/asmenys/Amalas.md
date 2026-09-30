@@ -48,6 +48,25 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
   pagrindžia:
     - c-194859
 
+<a id="claim-t-214744"></a>
+- t-214744
+  teiginys: "Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Gotai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Amalas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys Amalą apibūdina kaip gotų karalių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Amalas buvo valdovas Gotai (0.90); Gotai keliavo į Dnepras (0.76)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+
 ## Citatos
 
 - id: c-174246

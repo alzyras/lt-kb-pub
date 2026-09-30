@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Geležinkelių stotyse pristatydavo dešimtis tuščių vagonų prekėms ir gyvuliams vežti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 594 (PDF 595)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 594 (PDF 595)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

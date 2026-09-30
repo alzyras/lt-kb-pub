@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ed212f2aee5c0a7f74e08635
-canonical_name: Himalajai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Himalajai
-  - Himalajai (vieta)
+entity_id: "ent-ed212f2aee5c0a7f74e08635"
+canonical_name: "Himalajai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Himalajai","Himalajai (vieta)"]
 sameAs: []
-canonical_biography: 'Tegu mitologai sako ką nori apie senovės egiptiečių religi ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame, yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.'
+canonical_biography: "Tegu mitologai sako ką nori apie senovės egiptiečių religi ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame, yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai."
+place_authority: true
+historical_names: []
 ---
 # Himalajai (vieta)
 

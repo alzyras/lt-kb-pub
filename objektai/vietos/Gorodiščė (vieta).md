@@ -25,16 +25,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-71078a59c722370742733639
-canonical_name: Gorodiščė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Gorodiščė
-  - Gorodiščė (vieta)
+entity_id: "ent-71078a59c722370742733639"
+canonical_name: "Gorodiščė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gorodiščė","Gorodiščė (vieta)"]
 sameAs: []
-canonical_biography: '1780 metais tokio varpo gabalą radau sename ap kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū nios miesteliu, tikroje lietuviškoje žemėje.'
+canonical_biography: "1780 metais tokio varpo gabalą radau sename ap kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū nios miesteliu, tikroje lietuviškoje žemėje."
+place_authority: true
+historical_names: []
 ---
 # Gorodiščė (vieta)
 

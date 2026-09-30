@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-34cc6fdab7ef9f392b61d315
-canonical_name: Pilypas Makžeckis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Pilypas Makžeckis
+entity_id: "ent-34cc6fdab7ef9f392b61d315"
+canonical_name: "Pilypas Makžeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pilypas Makžeckis"]
 sameAs: []
-canonical_biography: Valančius rašė laiškus ištremtam kunigui Pilypui Makžeckiui.
+canonical_biography: "Valančius rašė laiškus ištremtam kunigui Pilypui Makžeckiui."
 ---
 # Pilypas Makžeckis
 

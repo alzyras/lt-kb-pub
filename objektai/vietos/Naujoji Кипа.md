@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-c67c6dfbc1cea3963a346e28
-canonical_name: Naujoji Кипа
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Naujoji Кипа
+entity_id: "ent-c67c6dfbc1cea3963a346e28"
+canonical_name: "Naujoji Кипа"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujoji Кипа"]
 sameAs: []
-canonical_biography: 'Einant palei šią upę aukštyn, yra kaimas Naujoji Кипа.'
+canonical_biography: "Einant palei šią upę aukštyn, yra kaimas Naujoji Кипа."
+place_authority: true
+historical_names: []
 ---
 # Naujoji Кипа
 

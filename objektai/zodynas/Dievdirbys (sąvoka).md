@@ -39,6 +39,7 @@ Ieva Bobinaitė nurodo, kad sovietmečio publikacijų pavadinimuose vengta su re
   santrauka: 'Ieva Bobinaitė nurodo, kad sovietmečio publikacijų pavadinimuose vengta su religija susijusių terminų, todėl dievdirbiai ir kryždirbiai buvo įvardijami liaudies menininkais, liaudies meistrais arba liaudies skulptoriais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 949 (PDF 950)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 949 (PDF 950)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

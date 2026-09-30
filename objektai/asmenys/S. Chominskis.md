@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-02247b26d5123f6da4823477
-canonical_name: S. Chominskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - S. Chominskis
+entity_id: "ent-02247b26d5123f6da4823477"
+canonical_name: "S. Chominskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Chominskis"]
 sameAs: []
-canonical_biography: 'Chominskio iškviestas (Kauną, Valančius 1861.'
+canonical_biography: "Chominskio iškviestas (Kauną, Valančius 1861."
 ---
 # S. Chominskis
 

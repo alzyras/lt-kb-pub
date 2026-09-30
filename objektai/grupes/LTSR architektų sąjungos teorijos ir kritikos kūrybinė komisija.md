@@ -34,6 +34,7 @@ LTSR architektų sąjungos teorijos ir kritikos kūrybinė komisija, kuriai talk
   santrauka: 'LTSR architektų sąjungos teorijos ir kritikos kūrybinė komisija, kuriai talkino miestų planavimo, kaimų architektūros ir aplinkos estetikos komisijos, surengė išvažiuojamąjį valdybos posėdį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 754 (PDF 755)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 754 (PDF 755)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

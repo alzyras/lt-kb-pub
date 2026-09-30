@@ -34,6 +34,7 @@ Konferencija priėmė rezoliuciją „Dėl šiurkščių savivaliavimo atvejų i
   santrauka: 'Sąjūdžio konferencija priėmė rezoliuciją dėl šiurkščių savivaliavimo atvejų ir turto privatizavimo pažeidimų Alizavos žemės ūkio įmonėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 871 (PDF 872)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 871 (PDF 872)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

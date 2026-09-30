@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1948 m. vasario 21 d. SSRS Ministrų Taryba priėmė slaptą nutarimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 595 (PDF 596)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 595 (PDF 596)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

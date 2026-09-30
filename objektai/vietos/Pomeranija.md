@@ -109,6 +109,34 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   pagrindžia:
     - c-37651
 
+<a id="claim-t-222397"></a>
+- t-222397
+  teiginys: "Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomeranija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomeranija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-224915"></a>
+- t-224915
+  teiginys: "Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomeranija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomeranija\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.'

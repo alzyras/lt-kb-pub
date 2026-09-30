@@ -42,6 +42,7 @@ Juozo Masilionio būrys veikė Surdegio ir Subačiaus apylinkėse.
   santrauka: 'Juozo Masilionio būrys veikė Surdegio ir Subačiaus apylinkėse.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 48-49"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 48-49."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

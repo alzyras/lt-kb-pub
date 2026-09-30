@@ -24,15 +24,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-c9e918eeee2c311c1852c233
-canonical_name: A. Alekna
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Alekna
+entity_id: "ent-c9e918eeee2c311c1852c233"
+canonical_name: "A. Alekna"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Alekna"]
 sameAs: []
-canonical_biography: A. Alekna buvo Motiejaus Valančiaus biografas. A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus.
+canonical_biography: "A. Alekna buvo Motiejaus Valančiaus biografas. A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus."
 ---
 # A. Alekna
 

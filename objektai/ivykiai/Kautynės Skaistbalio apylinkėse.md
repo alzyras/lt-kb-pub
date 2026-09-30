@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Skaistbalio kautynėse Juozas Aukštikalnis po sunkaus sužeidimo mirė po dviejų dienų, o keturi partizanai žuvo; stribais priešininkus vadina Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 152"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 152."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

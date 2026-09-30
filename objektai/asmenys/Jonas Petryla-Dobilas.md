@@ -49,6 +49,7 @@ Sausio 21 d. Vidugirio miške buvo nukautas Jonas Petryla-Dobilas, vienas iš pe
   santrauka: 'Sausio 21 d. Vidugirio miške buvo nukautas Jonas Petryla-Dobilas, vienas iš penkių Šarūno rinktinės Algirdo kuopos Herkaus būrio partizanų, kilusių iš Kupiškio valsčiaus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

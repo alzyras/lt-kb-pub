@@ -41,6 +41,7 @@ Alberto Audicko nuomone, vėžiai Kupiškio marias pamėgo dėl švaraus vandens
   santrauka: 'Alberto Audicko nuomone, vėžiai Kupiškio marias pamėgo dėl švaraus vandens ir maisto gausos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 39 (PDF 40)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 39 (PDF 40)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

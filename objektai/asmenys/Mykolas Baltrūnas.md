@@ -41,6 +41,7 @@ Mykolas Baltrūnas buvo vidurinės mokyklos komjaunimo organizacijos sekretorius
   santrauka: 'Mykolas Baltrūnas buvo vidurinės mokyklos komjaunimo organizacijos sekretorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 587 (PDF 588)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 587 (PDF 588)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

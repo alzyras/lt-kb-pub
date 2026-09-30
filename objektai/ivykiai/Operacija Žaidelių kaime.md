@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Ona Dapšytė-Kriukelienė Žaidelių kaimo operaciją aprašo kaip čekistų karinę operaciją: 1950 m. sausio 22 d. bunkeryje žuvo partizanas Jonas Sabulis-Juodis, o Laisvutė Gasparonytė buvo suimta.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 388"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 388."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -40,6 +40,7 @@ Alfredo Šimonio namų apvadai buvo iš pjaustytų lentelių.
   santrauka: 'Alfredo Šimonio namų apvadai buvo iš pjaustytų lentelių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 711 (PDF 712)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 711 (PDF 712)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

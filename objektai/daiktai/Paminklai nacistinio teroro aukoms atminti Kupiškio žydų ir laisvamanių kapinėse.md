@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio žydų ir laisvamanių kapinėse, esančiose Taikos ir Pergalės gatvėse, pastatyti paminklai nacistinio teroro aukoms atminti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

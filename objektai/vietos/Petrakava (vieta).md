@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b9ee4823f580ce7c6da5f3f7
-canonical_name: Petrakava (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Petrakava
-  - Petrakava (vieta)
+entity_id: "ent-b9ee4823f580ce7c6da5f3f7"
+canonical_name: "Petrakava (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Petrakava","Petrakava (vieta)"]
 sameAs: []
-canonical_biography: Kazimieras sušaukė visuotinį lenkų seimą Petrakavoje.
+canonical_biography: "Kazimieras sušaukė visuotinį lenkų seimą Petrakavoje."
+place_authority: true
+historical_names: []
 ---
 # Petrakava (vieta)
 

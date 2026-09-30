@@ -54,6 +54,7 @@ Rajoniniame laikraštyje pasirodė du panašaus pobūdžio straipsniai: „Ko si
   santrauka: 'Rajoniniame laikraštyje pasirodę „Ko siekia vikaras S. Krumpliauskas“ ir „Nepritariu Jums, vikare!“ šaltinio pasakojime apibūdinami kaip panašaus pobūdžio straipsniai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 438 (PDF 439)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 438 (PDF 439)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

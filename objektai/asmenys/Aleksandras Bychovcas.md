@@ -63,6 +63,30 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   pagrindžia:
     - c-169841
 
+<a id="claim-t-210361"></a>
+- t-210361
+  teiginys: "Aleksandras Bychovcas buvo Gardino gubernijos Volkovysko apskrities teisėjas, pagal kurį XIX a. praminta Bychovco kronika."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Bychovcas (volkovysko apskrities teisėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Bychovcas (volkovysko apskrities teisėjas)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
+<a id="claim-t-211842"></a>
+- t-211842
+  teiginys: "Teodoro Narbuto prašomas Aleksandras Bychovcas perdavė rankraštį Vincentui Janovskiui, kad šis persiųstų jį Narbutui."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

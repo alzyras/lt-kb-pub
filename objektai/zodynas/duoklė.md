@@ -49,6 +49,24 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   pagrindžia:
     - c-168743
 
+<a id="claim-t-212086"></a>
+- t-212086
+  teiginys: "Naugardiečiai pasižadėjo Vytautui tarnauti, duoti duoklę ir laikyti jį savo valdovu kaip pskoviečiai."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pskoviečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "duoklė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pskoviečiai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"duoklė\" parinktas kaip owner_note_path. Targetas \"Pskoviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+
 ## Citatos
 
 - id: c-168743

@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Moksleiviai, kareiviai ir savivaldybės garantinį raštą pateikę asmenys buvo atleidžiami nuo užstato.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 790-791 (PDF 791-792)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 790-791 (PDF 791-792)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

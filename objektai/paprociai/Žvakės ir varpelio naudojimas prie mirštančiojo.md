@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Pateikėjų teigimu, pagal seną tradiciją prie mirštančiojo skambintas varpelis ir uždegta žvakė turėjo saugoti sielą nuo piktųjų dvasių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 895 (PDF 896)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 895 (PDF 896)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ Nenurodyta
   santrauka: 'Dabartiniu metu kunigai pataria prie mirštančiojo uždegti jo krikšto žvakę, siejant ją su Kristaus šviesos simbolika.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 895 (PDF 896)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 895 (PDF 896)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

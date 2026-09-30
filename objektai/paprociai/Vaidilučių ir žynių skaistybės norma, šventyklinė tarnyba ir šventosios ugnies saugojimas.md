@@ -89,6 +89,38 @@ Nenurodyta
   pagrindžia:
     - c-201002
 
+<a id="claim-t-217661"></a>
+- t-217661
+  teiginys: "Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis išsivežė vaidilutę Birutę į Naujuosius Trakus ir ten ją vedė."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kęstutis išsivežė Birutę į Naujuosius Trakus, todėl fiksuojamas judėjimas į Trakus."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.78)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-200041
+
+<a id="claim-t-218847"></a>
+- t-218847
+  teiginys: "Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi.'
@@ -228,6 +260,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217661
 
 - id: c-201002
   autorius: "Teodoras Narbutas"

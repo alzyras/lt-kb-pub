@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4f5475ef66e2a3f79fbe0a29
-canonical_name: Ostromit (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ostromit
-  - Ostromit (vieta)
+entity_id: "ent-4f5475ef66e2a3f79fbe0a29"
+canonical_name: "Ostromit (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ostromit","Ostromit (vieta)"]
 sameAs: []
-canonical_biography: 'Ostromit, parapijos kaimas į pietus nuo Bišoisverderio.'
+canonical_biography: "Ostromit, parapijos kaimas į pietus nuo Bišoisverderio."
+place_authority: true
+historical_names: []
 ---
 # Ostromit (vieta)
 

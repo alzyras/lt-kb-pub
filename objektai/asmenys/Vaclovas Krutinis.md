@@ -50,6 +50,7 @@ Vaclovas Krutinis Kupiškyje sukūrė du memorialinius paminklus ir 1988 m. skul
   santrauka: 'Vaclovas Krutinis Kupiškyje kūrė epizodiškai ir trumpai; ten sukūrė du memorialinius paminklus ir skulptūrą „Tėviškės prisiminimai“ (1988).'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1142 (PDF 1143)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1142 (PDF 1143)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

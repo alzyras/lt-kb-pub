@@ -66,3 +66,16 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-216170"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad tiesą sako „Antilukrecijaus“ auto rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi namomis su smilkytuvu rankose“1."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+

@@ -23,15 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-065f7bd0bb4cc757afd6a809
-canonical_name: L. A. Jucevičius
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - L. A. Jucevičius
+entity_id: "ent-065f7bd0bb4cc757afd6a809"
+canonical_name: "L. A. Jucevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["L. A. Jucevičius"]
 sameAs: []
-canonical_biography: 'L. A. Jucevičius buvo monografijų „Lietuvių liaudies priežodžiai“, „Žemaitijos atsiminimai“ ir „Lietuva“ autorius.'
+canonical_biography: "L. A. Jucevičius buvo monografijų „Lietuvių liaudies priežodžiai“, „Žemaitijos atsiminimai“ ir „Lietuva“ autorius."
 ---
 # L. A. Jucevičius
 

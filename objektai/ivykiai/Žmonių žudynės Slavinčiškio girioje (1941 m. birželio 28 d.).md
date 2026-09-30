@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: '1965 m. gegužės 25 d. akte Nr. 1 nurodyta, kad 1941 m. birželio 28 d. Slavinčiškio girioje nužudyti 78 žmonės, tikriausiai dauguma jų buvo lietuvių tautybės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 582 (PDF 583)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 582 (PDF 583)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

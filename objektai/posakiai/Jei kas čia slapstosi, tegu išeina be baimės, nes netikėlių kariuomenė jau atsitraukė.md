@@ -51,3 +51,33 @@ Dusburgietis teigia, kad sitai sužinojęs, Herkus, pasiėmęs daug ginklaneši�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-221558"></a>
+- t-001
+  teiginys: "Herkus Mantas vokiškai kviesdavo besislapstančius krikščionis išeiti be baimės, meluodamas, kad netikėlių kariuomenė jau atsitraukė."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herkus Mantas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Herkus Mantas: mention_match, person, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė\" parinktas kaip owner_note_path. Targetas \"Herkus Mantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-224579"></a>
+- t-002
+  teiginys: "Herkus Mantas vokiškai viliojo besislapstančius krikščionis išeiti, o patikėjusiuosius jo vyrai paimdavo į nelaisvę arba nužudydavo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herkus Mantas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Herkus Mantas: mention_match, person, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė\" parinktas kaip owner_note_path. Targetas \"Herkus Mantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

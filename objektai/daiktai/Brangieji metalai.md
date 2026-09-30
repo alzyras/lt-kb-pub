@@ -83,6 +83,17 @@ Nenurodyta
   pagrindžia:
     - c-14298
 
+<a id="claim-t-218502"></a>
+- t-218502
+  teiginys: "Mat jiems patikėdavo saugoti brangiuosius metalus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-14298

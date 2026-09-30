@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Vilniuje 1955 m. sausio 1 d. Šteimanų šeimoje gimė pirmagimė Lina, o 1962 m. lapkričio 3 d. – antroji duktė Aviva.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 523 (PDF 524)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 523 (PDF 524)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

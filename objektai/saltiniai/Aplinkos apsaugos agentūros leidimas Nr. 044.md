@@ -41,6 +41,7 @@ Kupiškio marių ichtiologiniai tyrimai 2012 m. atlikti pagal Aplinkos apsaugos 
   santrauka: 'Kupiškio marių ichtiologiniai tyrimai 2012 m. atlikti pagal Aplinkos apsaugos agentūros išduotą leidimą Nr. 044.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 90 (PDF 91)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 90 (PDF 91)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

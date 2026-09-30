@@ -126,6 +126,17 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   pagrindžia:
     - c-16253
 
+<a id="claim-t-13110"></a>
+- t-13110
+  teiginys: "Redaktoriaus žodyje skyrių autorystė paskirstoma Alfredui Bumblauskui, Antanui Kulakauskui, Alfonsui Eidintui ir Mindaugui Tamošaičiui."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1009 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-16252
+
 ## Citatos
 
 - id: c-16234
@@ -276,6 +287,8 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-13110
 
 - id: c-16253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

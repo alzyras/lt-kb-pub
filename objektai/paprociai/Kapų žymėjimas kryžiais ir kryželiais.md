@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Kupiškio kapinėse vyrauja paprastų formų kryžiai, daugiausia pastatyti XX a. 9–10-ajame dešimtmečiais, vienas – 2005 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 993 (PDF 994)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 993 (PDF 994)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

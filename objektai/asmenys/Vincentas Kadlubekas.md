@@ -58,3 +58,24 @@ Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-214812"></a>
+- t-001
+  teiginys: "Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų karalių Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Prūsai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Jotvingiai kovojo šalia prūsų Maslavo kariuomenėje, todėl palaikomas sąjungos ryšys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jotvingiai buvo sąjungininkas su Prūsai (0.86)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškėnų vestuvėse pajaunys, reikšdamas pagarbą, apdovanoja pamergę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1102 (PDF 1103)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1102 (PDF 1103)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

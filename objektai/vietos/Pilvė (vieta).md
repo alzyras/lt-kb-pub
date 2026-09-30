@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-55b9cb2806d2c47f0d37a69d
-canonical_name: Pilvė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pilvė
-  - Pilvė (vieta)
+entity_id: "ent-55b9cb2806d2c47f0d37a69d"
+canonical_name: "Pilvė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilvė","Pilvė (vieta)"]
 sameAs: []
-canonical_biography: Pilviškių mies telio šiapus Pilvės ir Šešupės nieko neliko.
+canonical_biography: "Pilviškių mies telio šiapus Pilvės ir Šešupės nieko neliko."
+place_authority: true
+historical_names: []
 ---
 # Pilvė (vieta)
 

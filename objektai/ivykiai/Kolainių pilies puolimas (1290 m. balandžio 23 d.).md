@@ -80,6 +80,36 @@ Nenurodyta
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
+<a id="claim-t-222169"></a>
+- t-222169
+  teiginys: "Apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-222572"></a>
+- t-222572
+  teiginys: "1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų smarkiai užpuolė Kolainių pilį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kolainiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kolainių pilies puolimas (1290 m. balandžio 23 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kolainiai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolainių pilies puolimas (1290 m. balandžio 23 d.)\" parinktas kaip owner_note_path. Targetas \"Kolainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1290 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiksliai paremtas citata."
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

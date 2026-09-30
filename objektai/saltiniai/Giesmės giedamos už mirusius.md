@@ -34,6 +34,7 @@ Kupiškio krašte naudojamas giesmynas „Giesmės giedamos už mirusius“ apim
   santrauka: 'Kupiškio krašte naudojamas giesmynas „Giesmės giedamos už mirusius“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 915 (PDF 916)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 915 (PDF 916)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

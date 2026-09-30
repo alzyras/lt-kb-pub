@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-16a48f7e71b8cb65e966e555
-canonical_name: Alanija (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Alanija
-  - Alanija (vieta)
+entity_id: "ent-16a48f7e71b8cb65e966e555"
+canonical_name: "Alanija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alanija","Alanija (vieta)"]
 sameAs: []
-canonical_biography: Dėl alanų galios padidėjimo ir išplitimo Europos dalis į šiaurę nuo sarmatų klajoklių vietovių pradėta vadinti Alanija.
+canonical_biography: "Dėl alanų galios padidėjimo ir išplitimo Europos dalis į šiaurę nuo sarmatų klajoklių vietovių pradėta vadinti Alanija."
+place_authority: true
+historical_names: []
 ---
 # Alanija (vieta)
 

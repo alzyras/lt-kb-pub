@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Šv. Antano vienuolynas"]
 sameAs: []
 canonical_biography: "Į Šv. Antano vienuolyną 1573 m. rugsėjo 14 d. važiavo išrinktasis karalius ir pasiuntiniai."
+place_authority: true
+historical_names: []
 ---
 # Šv. Antano vienuolynas
 

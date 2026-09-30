@@ -49,6 +49,7 @@ Pranas Zlatkus-Zlatkiukas buvo vienas iš penkių Šarūno rinktinės Algirdo ku
   santrauka: 'Pranas Zlatkus-Zlatkiukas buvo vienas iš penkių Kupiškio valsčiaus partizanų, nukautų sausio 21 d. Vidugirio miške.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

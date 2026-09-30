@@ -106,6 +106,30 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   pagrindžia:
     - c-203739
 
+<a id="claim-t-223569"></a>
+- t-223569
+  teiginys: "1311 m. Zigfridas mirė Marienburge ir buvo palaidotas Kulmenzėje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202603
+
+<a id="claim-t-224691"></a>
+- t-224691
+  teiginys: "Zigfridas iš Foichtvangeno išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas negali tavęs išganyti, tad išpažink žydų tikėjimą“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204111
+
 ## Citatos
 
 - id: c-86116
@@ -167,6 +191,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223569
 
 - id: c-202972
   autorius: "Petras Dusburgietis"
@@ -230,6 +256,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224691
 
 ## Ryšiai
 - Zigfridas iš Foichtvangeno keliavo į [[objektai/vietos/Venecija]]

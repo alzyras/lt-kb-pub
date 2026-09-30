@@ -76,6 +76,18 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   pagrindžia:
     - c-196257
 
+<a id="claim-t-215925"></a>
+- t-215925
+  teiginys: "Juozapas Zavadskis sukėlė labai neigiamas emocijas tiek LTI autoriui, tiek jos leidėjui."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195039
+
 ## Citatos
 
 - id: c-83715
@@ -143,6 +155,8 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215925
 
 - id: c-196257
   autorius: "Teodoras Narbutas"

@@ -36,6 +36,8 @@ entity_view_role: "place"
 entity_aliases: ["Liverpulis","Liverpulis (vieta)"]
 sameAs: []
 canonical_biography: "Liverpulyje minima Šv. Jurgio rotušė kaip neoklasicistinis pastatas."
+place_authority: true
+historical_names: []
 ---
 # Liverpulis (vieta)
 

@@ -92,6 +92,16 @@ Nenurodyta
   pagrindžia:
     - c-193428
 
+<a id="claim-t-210517"></a>
+- t-210517
+  teiginys: "Karalius Jogaila ir didysis kunigaikštis Vytautas, su savo kariuomenėmis perėję per miškus, priėjo tuos Dubrovnos laukus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

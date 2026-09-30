@@ -30,6 +30,7 @@ Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1946 m. liepos 13 d. Mieliūnuose per čekistų operaciją buvo sužeistas Antano Starkaus būrio partizanas, o per kautynes žuvo Pranas Tučius.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 206"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 206."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -39,6 +40,7 @@ Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–
   santrauka: 'Kazys Dapšys-Ąžuolas ėjo Antano Starkaus partizanų būrio vado pavaduotojo pareigas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 273"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 273."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

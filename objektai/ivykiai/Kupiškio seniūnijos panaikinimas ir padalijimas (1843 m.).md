@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Kupiškio seniūnijos teritorija buvo padalyta į Kupiškio ir Virbališkių valstybinius dvarus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 180 (PDF 181)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 180 (PDF 181)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

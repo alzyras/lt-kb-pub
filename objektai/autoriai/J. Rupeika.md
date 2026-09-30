@@ -22,16 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f2db46b4e2650b09586ab015
-canonical_name: J. Rupeika
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. Rupeika
+entity_id: "ent-f2db46b4e2650b09586ab015"
+canonical_name: "J. Rupeika"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Rupeika"]
 sameAs: []
-canonical_biography: J. Rupeikos išversta knygelė pirmąsyk pasirodė Vilniuje 1823 metais.
+canonical_biography: "J. Rupeikos išversta knygelė pirmąsyk pasirodė Vilniuje 1823 metais."
 ---
 # J. Rupeika
 

@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-55a46b469be132f276b9069b
-canonical_name: Ežerėnai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ežerėnai
-  - Ežerėnai (vieta)
+entity_id: "ent-55a46b469be132f276b9069b"
+canonical_name: "Ežerėnai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ežerėnai","Ežerėnai (vieta)"]
 sameAs: []
-canonical_biography: 'Su skausmu širdies savo radau; Šiauliuose, Tel šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir Kaune daugybę uždarytų per nelaimes, vaikų savo.'
+canonical_biography: "Su skausmu širdies savo radau; Šiauliuose, Tel šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir Kaune daugybę uždarytų per nelaimes, vaikų savo."
 place_authority: true
 historical_names: []
 ---

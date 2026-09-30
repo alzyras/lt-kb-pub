@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-70c368df871c9f60901179a4
-canonical_name: A. Radavičienė
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Radavičienė
+entity_id: "ent-70c368df871c9f60901179a4"
+canonical_name: "A. Radavičienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Radavičienė"]
 sameAs: []
-canonical_biography: 'Radavičienė liudijo, kad Valančius jos broliukui davė naują surdutėlį. Radavičienė iš vaikystės dienų prisimena, kad, jai ganant kiaules, vysk.'
+canonical_biography: "Radavičienė liudijo, kad Valančius jos broliukui davė naują surdutėlį. Radavičienė iš vaikystės dienų prisimena, kad, jai ganant kiaules, vysk."
 ---
 # A. Radavičienė
 

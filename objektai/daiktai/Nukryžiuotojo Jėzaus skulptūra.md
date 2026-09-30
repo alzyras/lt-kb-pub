@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Vilniaus dominikonas Juozapas Grigalius Tomas Šymakas 1755 m. rašė, kad LDK generolas Marsonas Nukryžiuotojo Jėzaus skulptūrą parvežė iš Italijos ir pastatė Viešintų koplyčioje, o koplyčiai sugriuvus perkėlė į dvarą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 215 (PDF 216)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 215 (PDF 216)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

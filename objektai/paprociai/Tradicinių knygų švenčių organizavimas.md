@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio bibliotekoje, suaktyvėjus kraštotyros veiklai, pradėtos organizuoti tradicinės knygų šventės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 794 (PDF 795)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 794 (PDF 795)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -67,6 +67,23 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   pagrindžia:
     - c-204817
 
+<a id="claim-t-222203"></a>
+- t-222203
+  teiginys: "1316 m. riteris Arnoldas iš Elnerio su maldininkais iš Reino krašto dalyvavo žygyje į Medininkų valsčių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Arnoldas iš Elnerio: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arnoldas iš Elnerio\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė negramatiška ir įterpia žalią citatos fragmentą."
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1316 m. riteris Arnoldas iš Elnerio su maldininkais iš Reino krašto dalyvavo žygyje į Medininkų valsčių.'

@@ -52,6 +52,19 @@ Nenurodyta
   pagrindžia:
     - c-179240
 
+<a id="claim-t-215436"></a>
+- t-215436
+  teiginys: "Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-195558
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.'
@@ -133,4 +146,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215436
 

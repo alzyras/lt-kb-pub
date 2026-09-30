@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Albertas Apšega-Raišys tapo Šarūno rinktinės žvalgybos skyriaus viršininku, o 1950 m. sausį buvo suimtas ir nuteistas 25 metams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 625 (PDF 626)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 625 (PDF 626)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

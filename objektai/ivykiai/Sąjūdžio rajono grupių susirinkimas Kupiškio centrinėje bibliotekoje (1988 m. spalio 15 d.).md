@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1988 m. spalio 15 d. Kupiškio centrinės bibliotekos salėje susirinko 160 Sąjūdžio rajono grupių narių ir visuomenės atstovų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 851-852 (PDF 852-853)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 851-852 (PDF 852-853)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

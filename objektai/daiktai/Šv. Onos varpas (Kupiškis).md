@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Šv. Onos varpą, kurį paaukojo parapijos moterys, galėjo išimties tvarka skambinti ypatingomis progomis, tačiau tai patvirtinančių duomenų nėra.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1000 (PDF 1001)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1000 (PDF 1001)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

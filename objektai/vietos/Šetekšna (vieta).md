@@ -48,6 +48,7 @@ Sutvarkius Šetekšnos upelį, nusausinta 1 600 ha užpelkėjusių žemių.
   santrauka: 'Sutvarkius Šetekšnos upelį, nusausinta 1 600 ha užpelkėjusių žemių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 695 (PDF 696)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 695 (PDF 696)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

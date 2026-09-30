@@ -30,6 +30,7 @@ Agento „Alekso“ charakteristikoje nurodyta, kad agentui buvo pavesta sekti P
   santrauka: 'Agento „Alekso“ charakteristikoje nurodyta, kad agentui buvo pavesta sekti Petrą Navicką-Jokerį, Tadą Likerauską ir Emiliją Sadauskaitę.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 384"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 384."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -65,6 +65,18 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
   pagrindžia:
     - c-174151
 
+<a id="claim-t-214919"></a>
+- t-214919
+  teiginys: "Gatereris net mano, kad, kol ši tauta atkeliavo prie Baltijos jūros, ji viešėjo kažkur vidury slavų kraštų, iš kur pasisėmė slavų arba veikiau slavų-sarmatų žodžių; nepaisant to, lietuvių kalba pagal savo šaltinį yra kilusi iš kažkokios labai ¡senos, iš Trakijos kilusios kalbos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195850
+
 ## Citatos
 
 - id: c-174151
@@ -160,4 +172,6 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214919
 

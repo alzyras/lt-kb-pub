@@ -62,6 +62,26 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   pagrindžia:
     - c-195542
 
+<a id="claim-t-214592"></a>
+- t-214592
+  teiginys: "Narbutas rašo, kad tisagetai maistui ir gėrimui vartojo kumelių pieną, galbūt sekdami budinais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Budinai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tisagetai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Budinai: mention_match, group, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tisagetai\" parinktas kaip owner_note_path. Targetas \"Budinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-196712
+
 ## Citatos
 
 - id: c-175732
@@ -169,4 +189,6 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214592
 

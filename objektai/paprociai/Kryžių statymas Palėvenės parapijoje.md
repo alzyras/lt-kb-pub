@@ -65,6 +65,7 @@ Nenurodyta
   santrauka: 'Kunigo Antano Valantino paraginti Palėvenės parapijiečiai pradėjo statyti kryžius; Buivėnų kaimo žmonės pirmieji pastatė kryžių, o iki 1941 m. birželio buvo pastatyta apie 20 medinių paminklų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235 (PDF 236)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235 (PDF 236)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -80,3 +80,24 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-223090"></a>
+- t-001
+  teiginys: "Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai sako, kad prūsai buvo Ordino valdžioje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prūsai priklausė Kryžiuočių ordinas (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1285 m.; įvykio data: 1292 m.; įvykio data: 1293 m.; įvykio data: 1337 m.; įvykio data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata."
+

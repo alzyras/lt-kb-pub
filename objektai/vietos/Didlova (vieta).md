@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5d9da9b44af212bed35056c4
-canonical_name: Didlova (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Didlova
-  - Didlova (vieta)
+entity_id: "ent-5d9da9b44af212bed35056c4"
+canonical_name: "Didlova (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didlova","Didlova (vieta)"]
 sameAs: []
-canonical_biography: 'Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio.'
+canonical_biography: "Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio."
+place_authority: true
+historical_names: []
 ---
 # Didlova (vieta)
 

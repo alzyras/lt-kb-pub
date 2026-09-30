@@ -34,6 +34,7 @@ Albino Tindžiulio-Dėdės būrys savarankiškai veikė partizaninio karo pradž
   santrauka: 'Albino Tindžiulio-Dėdės būrys savarankiškai veikė partizaninio karo pradžioje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 607 (PDF 608)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 607 (PDF 608)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

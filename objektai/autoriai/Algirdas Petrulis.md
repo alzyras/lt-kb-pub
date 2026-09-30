@@ -50,6 +50,7 @@ Algirdas Petrulis buvo ilgametis laikraščio žurnalistas ir Kupiškio radijo-i
   santrauka: 'Algirdas Petrulis buvo ilgametis laikraščio žurnalistas ir Kupiškio radijo-informacijos skyriaus vedėjas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 842 (PDF 843)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 842 (PDF 843)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,6 +64,7 @@ Algirdas Petrulis buvo ilgametis laikraščio žurnalistas ir Kupiškio radijo-i
   santrauka: 'Po oficialios vietinio radijo transliacijų pabaigos 1990 m. Algirdas Petrulis dar penkerius metus rengė forumus ir Tarybos sesijų posėdžių transliacijas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 843 (PDF 844)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 843 (PDF 844)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -72,6 +74,7 @@ Algirdas Petrulis buvo ilgametis laikraščio žurnalistas ir Kupiškio radijo-i
   santrauka: 'Algirdas Petrulis yra skyriaus „Sąjūdžio ištakos ir sklaida kupiškėnų krašte“ autorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 847 (PDF 848)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 847 (PDF 848)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

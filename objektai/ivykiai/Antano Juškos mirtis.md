@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Antanas Juška mirė 1991 m. vasario 15 d. Panevėžyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 467 (PDF 468)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 467 (PDF 468)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

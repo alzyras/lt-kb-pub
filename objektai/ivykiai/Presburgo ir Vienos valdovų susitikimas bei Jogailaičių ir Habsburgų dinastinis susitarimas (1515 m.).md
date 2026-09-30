@@ -62,6 +62,18 @@ Nenurodyta
   pagrindžia:
     - c-178594
 
+<a id="claim-t-193473"></a>
+- t-193473
+  teiginys: "Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176174
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime.'
@@ -108,6 +120,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193473
 
 - id: c-178594
   autorius: "Albertas Vijūkas-Kojelavičius"

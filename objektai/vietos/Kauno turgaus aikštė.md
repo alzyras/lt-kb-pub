@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Kauno turgaus aikštė"]
 sameAs: []
 canonical_biography: "Kauno turgaus aikštėje prie gėdos stulpo turėjo būti atliekama plakimo bausmė."
+place_authority: true
+historical_names: []
 ---
 # Kauno turgaus aikštė
 

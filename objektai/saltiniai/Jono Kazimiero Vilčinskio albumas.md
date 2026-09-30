@@ -34,6 +34,7 @@ Jono Kazimiero Vilčinskio albume esančias litografijas ir chromolitografijas I
   santrauka: 'Albume publikuotos žymių to meto dailininkų litografijos ir chromolitografijos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 675 (PDF 676)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 675 (PDF 676)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

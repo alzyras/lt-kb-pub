@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1946 m. įsteigtas Kupiškio apskrities sveikatos apsaugos skyrius, kurio žinioje buvo Kupiškio ligoninė ir keturių vietovių ambulatorijos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 769 (PDF 770)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 769 (PDF 770)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

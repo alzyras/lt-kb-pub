@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b4570230b0eabfcc934acd72
-canonical_name: Kalnis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kalnis
-  - Kalnis (vieta)
+entity_id: "ent-b4570230b0eabfcc934acd72"
+canonical_name: "Kalnis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kalnis","Kalnis (vieta)"]
 sameAs: []
-canonical_biography: 'Kalnis, kitaip Kalniki, buvo miestelis prie Supo.'
+canonical_biography: "Kalnis, kitaip Kalniki, buvo miestelis prie Supo."
+place_authority: true
+historical_names: []
 ---
 # Kalnis (vieta)
 

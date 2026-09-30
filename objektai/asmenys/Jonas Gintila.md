@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f1af0804f3bac6ac298cdc9a
-canonical_name: Jonas Gintila
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jonas Gintila
+entity_id: "ent-f1af0804f3bac6ac298cdc9a"
+canonical_name: "Jonas Gintila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Gintila"]
 sameAs: []
-canonical_biography: Jonas Gintila 1845 m. ragino klebonus steigti parapines mokyklas.
+canonical_biography: "Jonas Gintila 1845 m. ragino klebonus steigti parapines mokyklas."
 ---
 # Jonas Gintila
 

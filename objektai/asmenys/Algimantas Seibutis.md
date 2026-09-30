@@ -41,6 +41,7 @@ Algimantas Seibutis buvo vienas iš Sąjūdžio laikotarpio liudytojų, priminus
   santrauka: 'Algimantas Seibutis buvo vienas iš Sąjūdžio laikotarpio liudytojų, priminusių pirmuosius permainų žingsnius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 875 (PDF 876)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 875 (PDF 876)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -66,6 +66,18 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   pagrindžia:
     - c-177116
 
+<a id="claim-t-217577"></a>
+- t-217577
+  teiginys: "Prutenis gyvenęs ir Šventamiestyje, kitaip Šventajame Karvelyje; tam tikrais kritiškais momentais, kai Didžiajai Rornovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji būdavo naikinama, kaip per karus su lenkais, tuomet jis gyvendavo vietovėse, kurios turi panašius pavadinimus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198457
+
 ## Citatos
 
 - id: c-61051
@@ -152,6 +164,8 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217577
 
 - id: c-199088
   autorius: "Teodoras Narbutas"

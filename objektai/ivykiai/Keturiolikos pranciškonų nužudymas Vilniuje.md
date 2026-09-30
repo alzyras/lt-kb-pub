@@ -64,6 +64,71 @@ Nenurodyta
   pagrindžia:
     - c-188830
 
+<a id="claim-t-210881"></a>
+- t-210881
+  teiginys: "Lietuvos metraščio pasakojime per pranciškonų nužudymą Vilniuje septyni vienuoliai buvo sukapoti, o kiti septyni, pririšti prie kryžių, paleisti Nerimi."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Keturiolikos pranciškonų nužudymas Vilniuje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=94"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Keturiolikos pranciškonų nužudymas Vilniuje\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
+<a id="claim-t-210947"></a>
+- t-210947
+  teiginys: "Lietuvos metraščio pasakojime Algirdui žygiuojant prieš Maskvą Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "puole -> Pranciškonų ordinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė vienuolius, tad ryšys su pranciškonais tiesiogiai palaikomas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Vilniaus miestiečių luomas puolė Pranciškonų ordinas (0.78)"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
+<a id="claim-t-211354"></a>
+- t-211354
+  teiginys: "Lietuvos metraštis pranciškonų nužudymą Vilniuje aiškina pagonių nenoru turėti Romos tikėjimo krikščionių ir kerštu už dievų naikinimą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Keturiolikos pranciškonų nužudymas Vilniuje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Keturiolikos pranciškonų nužudymas Vilniuje\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
+<a id="claim-t-211952"></a>
+- t-211952
+  teiginys: "Lietuvos metraščio pasakojime vyskupo sode, kur buvo sukapoti pranciškonai, tebestovėjo kryžius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Keturiolikos pranciškonų nužudymas Vilniuje: owner_note_path, event"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Keturiolikos pranciškonų nužudymas Vilniuje\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
 ## Citatos
 
 - id: c-170443

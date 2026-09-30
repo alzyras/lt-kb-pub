@@ -42,6 +42,7 @@ canonical_biography: "1948 m. vasario 1 d. Bugailiškių kaime, Šimonių valsč
   santrauka: '1948 m. vasario 1 d. Bugailiškių kaime, kaip aprašo Ona Dapšytė-Kriukelienė, stribų grupė pastebėjo važiuojančius partizanus ir pradėjo į juos šaudyti.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 308"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 308."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

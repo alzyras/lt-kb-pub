@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio seniūnijos valstiečiai, be lažo, činšo ir duoklės, paeiliui budėjo Kupiškio dvare: vasarą kasnakt po 12, kartais 14 vyrų, o žiemą po 8.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 140 (PDF 141)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 140 (PDF 141)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

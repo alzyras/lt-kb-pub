@@ -37,6 +37,7 @@ canonical_biography: "Pranešime teigiama, kad Jonas Kazlauskas iš Romo Petroni
   santrauka: '1946 m. gruodžio 31 d. agentas „Paukštelis“ pranešė, kad Povilo Gaigalo brolis jam sakė, jog Jonas Kazlauskas iš Romo Petronio būrio įstojo į P. Gaigalo partizanų būrį.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 169"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 169."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

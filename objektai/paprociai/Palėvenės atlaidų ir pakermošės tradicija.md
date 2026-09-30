@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Palėvenėje nuo bažnyčios šventinimo vyksta Jono Krikštytojo atlaidai birželio 24 d. ir Dominyko tituliniai atlaidai rugpjūčio 8 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 253 (PDF 254)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 253 (PDF 254)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

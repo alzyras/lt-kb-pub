@@ -27,16 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-1db5f82a028bba803e22442e
-canonical_name: 'Gaudencijus (arkivyskupas, XI a.)'
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Gaudencijus
-  - 'Gaudencijus (arkivyskupas, XI a.)'
+entity_id: "ent-1db5f82a028bba803e22442e"
+canonical_name: "Gaudencijus (arkivyskupas, XI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gaudencijus","Gaudencijus (arkivyskupas, XI a.)"]
 sameAs: []
-canonical_biography: Gaudencijus buvo šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis.
+canonical_biography: "Gaudencijus buvo šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis."
 ---
 # Gaudencijus (arkivyskupas, XI a.)
 

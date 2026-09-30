@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1997 m. Mirabelio miške įsteigtas 98 ha Vainiškio valstybinis pedologinis draustinis, siekiant išsaugoti Nemunėlio–Nevėžio aukštupių lygumos velėninius jaurinius glėjinius priemolio dirvožemius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 18 (PDF 19)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 18 (PDF 19)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1958 m. rugpjūčio 1 d. Kupiškio MTS reorganizuota į ratinių traktorių stotį, o rugpjūčio 6 d. jos technika perduota kolūkiams; tuo metu sukurtos Noriūnų ir Naivių ratinių traktorių stotys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 693 (PDF 694)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 693 (PDF 694)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

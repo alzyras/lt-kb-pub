@@ -48,6 +48,7 @@ Pasak rašytojo, Kairabalė telkšojo Puponių kaimo lankose netoli Kupiškio; m
   santrauka: 'Pasak rašytojo, Kairabalė telkšojo Puponių kaimo lankose netoli Kupiškio; melioratoriai ją nusausino, o jos vietoje dabar žaliuoja daugiametės žolės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1133 (PDF 1134)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1133 (PDF 1134)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

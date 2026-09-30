@@ -67,6 +67,51 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   pagrindžia:
     - c-206101
 
+<a id="claim-t-221654"></a>
+- t-221654
+  teiginys: "Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmenzė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Goliubo pilis (pilis): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kulmenzė: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Goliubo pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Kulmenzė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-223365"></a>
+- t-223365
+  teiginys: "Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis kaimus ir paėmė į nelaisvę arba nužudė daug krikščionių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Kulmas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įsibrovimas į Kulmo žemę nurodo lietuvių puolimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-224968"></a>
+- t-224968
+  teiginys: "Goliubo pilis stovėjo prie Drevantos, į šiaurės rytus nuo Torunės."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Torunė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Goliubo pilis (pilis): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Torunė: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Goliubo pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Torunė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Goliubo pilis stovėjo prie Drevantos, į šiaurės rytus nuo Torunės.'

@@ -47,6 +47,25 @@ Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios 
   pagrindžia:
     - c-198710
 
+<a id="claim-t-218120"></a>
+- t-218120
+  teiginys: "Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios vadu prie Fišhauzeno įvardytas žynys Siggo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Adalbertas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Adalbertas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata aiškiai sako, kad prūsai užpuolė Adalbertą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Prūsai puolė Adalbertas (0.88)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-173318

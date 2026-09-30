@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Tridentas","Tridentas (vieta)"]
 sameAs: []
 canonical_biography: "Pakeliui teko visą savaitę prastomis sąlygomis gyventi Tridente."
+place_authority: true
+historical_names: []
 ---
 # Tridentas (vieta)
 

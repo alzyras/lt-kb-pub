@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-187452d2c97651e5fdf1e5a1
-canonical_name: Bulat-sultanas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Bulat-sultanas
+entity_id: "ent-187452d2c97651e5fdf1e5a1"
+canonical_name: "Bulat-sultanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bulat-sultanas"]
 sameAs: []
-canonical_biography: '1411 m., Lietuvos valstybės remiamas, Dželal-ad-dinas nugalėjo Auk so ordos chaną Bulat-sultaną, užėmė Krymą ir Juodosios jūros pakrašfius.'
+canonical_biography: "1411 m., Lietuvos valstybės remiamas, Dželal-ad-dinas nugalėjo Auk so ordos chaną Bulat-sultaną, užėmė Krymą ir Juodosios jūros pakrašfius."
 ---
 # Bulat-sultanas
 

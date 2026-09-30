@@ -107,6 +107,8 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
 
 - id: c-198199
   autorius: "Teodoras Narbutas"
@@ -126,4 +128,37 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Teiginiai
+
+<a id="claim-t-216660"></a>
+- t-001
+  teiginys: "Tadeušas Čackis buvo ne tik žmonių ir naminių gyvulių gydymo globėjas, bet ir saugodavo 31 O pravvach."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-197819
+
+<a id="claim-t-218767"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Palanga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadeušas Čackis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Palanga: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadeušas Čackis\" parinktas kaip owner_note_path. Targetas \"Palanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
 

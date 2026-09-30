@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1935 m. birželio 21 d. Kazimieras Dulksnys paskirtas vikaru į Ramygalos Šv. Jono Krikštytojo parapiją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 457 (PDF 458)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 457 (PDF 458)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

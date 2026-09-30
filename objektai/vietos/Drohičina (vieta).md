@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-547622149799f61de87a5191
-canonical_name: Drohičina (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Drohičina
-  - Drohičina (vieta)
+entity_id: "ent-547622149799f61de87a5191"
+canonical_name: "Drohičina (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drohičina","Drohičina (vieta)"]
 sameAs: []
-canonical_biography: 'Ir, tai taręs, didysis kunigaikštis Vytautas išvyko į Gardiną ir į Drohičiną.'
+canonical_biography: "Ir, tai taręs, didysis kunigaikštis Vytautas išvyko į Gardiną ir į Drohičiną."
+place_authority: true
+historical_names: []
 ---
 # Drohičina (vieta)
 

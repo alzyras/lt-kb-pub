@@ -49,6 +49,7 @@ canonical_biography: "Kazimieras Paltarokas paskyrė jÒ Zarasų Švč."
   santrauka: '1956 m. vyskupas Kazimieras Paltarokas paskyrė asmenį Zarasų Švč. Mergelės Marijos Ėmimo į dangų parapijos klebonu ir Zarasų dekanu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 467 (PDF 468)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 467 (PDF 468)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

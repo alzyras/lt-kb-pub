@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '2011 m. liepos 24 d. Palėvenės Šv. Dominyko bažnyčioje vyko Lietuvos bajorų karališkosios sąjungos šventė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 255 (PDF 256)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 255 (PDF 256)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +53,7 @@ media_all_json: |-
   santrauka: 'Sąjungos vadas Jonas Ragauskas šventėje pasakojo apie bajorų veiklą Lietuvoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 255 (PDF 256)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 255 (PDF 256)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

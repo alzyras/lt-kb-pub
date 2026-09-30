@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'XX a. pradžioje religiniai siužetai buvo labai populiarūs, todėl paveikslai dažniausiai buvo kuriami pagal visuotinai paplitusias spalvotas litografijas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 338 (PDF 339)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 338 (PDF 339)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

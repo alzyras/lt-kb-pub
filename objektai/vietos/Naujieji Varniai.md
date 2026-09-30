@@ -20,15 +20,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d0caac0e934f80d03eadbf08
-canonical_name: Naujieji Varniai
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Naujieji Varniai
+entity_id: "ent-d0caac0e934f80d03eadbf08"
+canonical_name: "Naujieji Varniai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujieji Varniai"]
 sameAs: []
-canonical_biography: 'Naujųjų Varnių bažnyčioje pasakytas pamokslas, dėl kurio vikaras aiškinosi valdžiai.'
+canonical_biography: "Naujųjų Varnių bažnyčioje pasakytas pamokslas, dėl kurio vikaras aiškinosi valdžiai."
 place_authority: true
 historical_names: []
 ---

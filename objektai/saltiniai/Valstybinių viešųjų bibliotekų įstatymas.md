@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: 'Įstatymą pasirašė Lietuvos Prezidentas Antanas Smetona ir Ministras Pirmininkas Juozas Tūbelis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 790 (PDF 791)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 790 (PDF 791)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

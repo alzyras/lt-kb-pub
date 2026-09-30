@@ -37,6 +37,7 @@ Petras Bočiulis-Viršila gyveno Nociūnų kaime, Šimonių valsčiuje, ir buvo 
   santrauka: 'Petras Bočiulis-Viršila gyveno Nociūnų kaime, Šimonių valsčiuje, ir buvo partizanas nuo 1944 m.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 288"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 288."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -87,6 +87,44 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
   pagrindžia:
     - c-200156
 
+<a id="claim-t-218540"></a>
+- t-218540
+  teiginys: "Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Aleksotas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aukuras: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Aleksotas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai lokalizuoja aukurą Aleksoto priemiestyje."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Aukuras priklausė Aleksotas (0.82); Aleksotas priklausė Kaunas (0.55)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
+<a id="claim-t-218887"></a>
+- t-218887
+  teiginys: "Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Kaunas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksotas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Aleksotas yra Kauno miesto priemiestis, tad priklauso Kaunui."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Aleksotas priklausė Kaunas (0.84)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu.'

@@ -39,6 +39,7 @@ Skaidrė Urbonienė nurodo, kad sovietmečio publikacijų pavadinimuose dievdirb
   santrauka: 'Skaidrė Urbonienė nurodo, kad sovietmečio publikacijų pavadinimuose dievdirbiai ir kryždirbiai vadinti „liaudies menininkais“, „liaudies meistrais“ arba „liaudies skulptoriais“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 949 (PDF 950)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 949 (PDF 950)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

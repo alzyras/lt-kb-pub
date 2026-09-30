@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kultūros įstaigų socialistinio lenktyniavimo ir kiekybinio vertinimo pertvarkymą straipsnio autorius laikė būtina sąlyga, kad kultūros įstaigų darbe būtų jaučiama permainų dvasia.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 776 (PDF 777)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 776 (PDF 777)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

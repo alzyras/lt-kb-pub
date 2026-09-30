@@ -42,6 +42,7 @@ Kastytis trejus metus dirbo zakristijonu Vilniaus Šv. Onos bažnyčioje ir tuo 
   santrauka: 'Kastytis trejus metus dirbo zakristijonu Vilniaus Šv. Onos bažnyčioje ir tuo metu mokėsi pogrindžio kunigų seminarijoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 473-474 (PDF 474-475)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 473-474 (PDF 474-475)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

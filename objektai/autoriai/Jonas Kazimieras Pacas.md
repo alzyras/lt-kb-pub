@@ -50,6 +50,7 @@ canonical_biography: "1640 m. LDK raštininkas Jonas Kazimieras Pacas kartu su J
   santrauka: '1640 m. LDK raštininkas Jonas Kazimieras Pacas kartu su Jonu Gloviševskiu surašė Kupiškio dvaro gyventojų prievoles bažnyčiai; šias pareigas jis ėjo 1639 m. gegužę–1653 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 366 (PDF 367)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 366 (PDF 367)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

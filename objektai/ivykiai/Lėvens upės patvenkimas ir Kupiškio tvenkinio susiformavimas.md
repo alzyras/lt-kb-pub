@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1986 m. Lėvens slėnyje susiformavo didelis tvenkinys, vietos gyventojų vadinamas Kupiškio mariomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 25 (PDF 26)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 25 (PDF 26)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

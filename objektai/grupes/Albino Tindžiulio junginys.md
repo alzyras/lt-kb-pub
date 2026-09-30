@@ -30,6 +30,7 @@ media_all_json: |-
   santrauka: '1946 m. liepos 7 d. Stuburų kaime stribai per langą nušovė Albino Tindžiulio junginio būrio vadą Antaną Užubalį, kaip šias aplinkybes aprašo Ona Dapšytė-Kriukelienė knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 206"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 206."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -39,6 +40,7 @@ media_all_json: |-
   santrauka: '1947 m. gruodžio 6 d. „Ladiga“ pranešė, kad nušovė Albino Tindžiulio junginio partizaną Juozą Vaitiekūną; Ona Dapšytė-Kriukelienė knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ „Ladigą“ (Povilą Karoblį) apibūdina kaip agentą smogiką.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 273"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 273."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

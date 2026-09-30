@@ -41,6 +41,7 @@ Arūnas Vaicekauskas yra straipsnio „Didžiosios pavasario šventės Kupiškio
   santrauka: 'Arūnas Vaicekauskas yra straipsnio „Didžiosios pavasario šventės Kupiškio krašte“ autorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 927 (PDF 928)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 927 (PDF 928)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Girsteikių koplytstulpis, pastatytas apie 1902–1904 m., J. Petrulio apsilankymo metu jau buvo suiręs.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 952 (PDF 953)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 952 (PDF 953)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

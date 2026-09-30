@@ -46,6 +46,21 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
+<a id="claim-t-222557"></a>
+- t-222557
+  teiginys: "Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Junigeda: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heinmanas, vardu Kindas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Heinmanas buvo nukautas prie Junigedos pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Heinmanas, vardu Kindas mirė Junigeda (0.89)"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu.'

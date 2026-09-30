@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio valstybiniame dvare buvo 26 karčemos: 17 jų nuomojo žydai, 3 – valstiečiai, o 5 nepelningas karčemas nutarta parduoti iš varžytynių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 183 (PDF 184)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 183 (PDF 184)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

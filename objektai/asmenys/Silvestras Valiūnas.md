@@ -25,15 +25,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-bafa366fd325dbca6287cf21
-canonical_name: Silvestras Valiūnas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Silvestras Valiūnas
-sameAs: []
-canonical_biography: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
 external_sources_json: '[{"title":"Silvestras Teofilis Valiūnas","url":"https://lt.wikipedia.org/wiki/Silvestras_Teofilis_Vali%C5%ABnas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:50:55+00:00","source_checked_at":"2026-09-20T11:50:55+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Silvestras Teofilis Valiūnas (1789 m. liepos 11 d. Paūnikiuose – 1831 m. gegužės 19 d.) – Lietuvos poetas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"360661","revision_id":"7185417","status":"published","translation_status":"native","source":{"title":"Silvestras Teofilis Valiūnas","url":"https://lt.wikipedia.org/wiki/Silvestras_Teofilis_Vali%C5%ABnas","publisher":"Vikipedija","language":"lt","article_id":"360661","revision_id":"7185417","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7185417","history_url":"https://lt.wikipedia.org/w/index.php?title=Silvestras_Teofilis_Vali%C5%ABnas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:10:33.068660+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"a05ab5eb85b9d5ac7dc55e74889311e1ab9f123b6fc70174c4f1a990b9e115ab","version_pk":"d5157b65007401a67366bde426849ddd"}},"source_buttons":[{"label":"Vikipedija","title":"Silvestras Teofilis Valiūnas","url":"https://lt.wikipedia.org/wiki/Silvestras_Teofilis_Vali%C5%ABnas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Silvestras_Teofilis_Vali%C5%ABnas"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -47,6 +38,13 @@ object_page_seo_description: 'Silvestras Valiūnas: Ši mintis paskatino kai kur
 object_page_seo_input_hash: 1023cd347426409533426e783645e7646fd14e5c08634daf2891545fcfa6cc98
 object_page_seo_generated_at: '2026-09-20T11:50:55+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-bafa366fd325dbca6287cf21"
+canonical_name: "Silvestras Valiūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Silvestras Valiūnas"]
+sameAs: ["https://www.wikidata.org/entity/Q12672865"]
+canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas)."
 ---
 # Silvestras Valiūnas
 

@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: 'Ištyrus Krumpliauskų giminės genealoginį medį, 2014 m. birželio 20 d. nustatyta, kad kanauninkas Stanislovas Krumpliauskas buvo LDK bajorų giminių palikuonis (registro nr. 69).'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 551 (PDF 552)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 551 (PDF 552)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

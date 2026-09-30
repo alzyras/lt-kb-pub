@@ -52,6 +52,24 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   pagrindžia:
     - c-188039
 
+<a id="claim-t-216560"></a>
+- t-216560
+  teiginys: "Narbutas, remdamasis Lasickiu, Platelių valsčių sieja su legendine pilimi, tačiau pažymi, kad Lasickis apie ją daugiau nepapasakojo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.61"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Plateliai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata mini Platelius kaip vietą Lietuvoje, nors kalba apie daugiau nei vienus Platelius."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-171934

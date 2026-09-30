@@ -37,6 +37,7 @@ Apolinaras Antanas Jokubka, dar nurodytas pavarde Jakubka, buvo Antano sūnus.
   santrauka: 'Apolinaras Antanas Jokubka, dar nurodytas pavarde Jakubka, buvo Antano sūnus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 154"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 154."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

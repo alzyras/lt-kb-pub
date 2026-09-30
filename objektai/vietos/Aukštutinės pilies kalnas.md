@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Aukštutinės pilies kalnas"]
 sameAs: []
 canonical_biography: "Piešinio fone kairėje vaizduojamas Aukštutinės pilies kalnas su pilies griuvėsiais."
+place_authority: true
+historical_names: []
 ---
 # Aukštutinės pilies kalnas
 

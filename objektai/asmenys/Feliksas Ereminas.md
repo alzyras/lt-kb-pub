@@ -50,6 +50,7 @@ Feliksas Ereminas Papilio klebonu buvo nuo 1928 m. kovo 6 d. iki 1934 m. gruodž
   santrauka: 'Feliksas Ereminas 1928 m. kovo 6 d.–1934 m. gruodžio 31 d. buvo Papilio klebonas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 521 (PDF 522)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 521 (PDF 522)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ Feliksas Ereminas Papilio klebonu buvo nuo 1928 m. kovo 6 d. iki 1934 m. gruodž
   santrauka: '1947 m. Feliksas Ereminas parašė Daujėnų parapijos istoriją, o 1945 m. pradėjo rašyti dienoraštį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 522 (PDF 523)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 522 (PDF 523)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

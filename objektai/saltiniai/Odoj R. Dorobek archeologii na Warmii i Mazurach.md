@@ -49,3 +49,15 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-224713"></a>
+- t-001
+  teiginys: "R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1965 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinius duomenis, o pradinis teiginys neturi predikato."
+

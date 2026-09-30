@@ -67,6 +67,7 @@ Aldona Vasiliauskienė nurodo, kad Juozas Prunskis 1932–1934 m. Kupiškyje pra
   santrauka: 'Aldona Vasiliauskienė nurodo, kad Juozas Prunskis 1932–1934 m. Kupiškyje pradėjo dvasininko darbą, kurį ji laiko tvirtu pagrindu tolesniam jo gyvenimui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 420 (PDF 421)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 420 (PDF 421)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

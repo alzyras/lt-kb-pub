@@ -49,6 +49,7 @@ canonical_biography: "Vincento Ferariečio paveikslu."
   santrauka: '1911 m. kairiosios Jėzaus Kristaus koplyčios altorių papuošė Vladislovo Leščinskio tapytas šv. Vincento Ferariečio paveikslas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 231 (PDF 232)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 231 (PDF 232)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

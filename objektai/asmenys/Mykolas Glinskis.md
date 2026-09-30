@@ -31,15 +31,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e57f09204a6c2f552000ca45
-canonical_name: Mykolas Glinskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Mykolas Glinskis
-sameAs: []
-canonical_biography: 'Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį. Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių. Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.'
 external_sources_json: '[{"title":"Mykolas Glinskis","url":"https://lt.wikipedia.org/wiki/Mykolas_Glinskis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Mykolas Glinskis","url":"https://www.vle.lt/straipsnis/mykolas-glinskis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:37:51+00:00","source_checked_at":"2026-09-19T01:37:51+00:00","counts":{"relations":2,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d. Mūšio nugalėtojas Mykolas Glinskis triumfuo- damas grįžo į Vilnių YD rugpjūčio 12 d.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","claim_id":"t-82625","evidence_id":"c-79094","origin":"internal"},"wiki":{"intro":"Mykolas Glinskis (lenk. Michał Gliński, rus. Михаил Львович Глинский, apie 1460 m. Turovas, dab. Baltarusija – 1534 m. rugsėjo 15 d. Maskva) – Lietuvos Didžiosios kunigaikštystės ir Maskvos didžiosios kunigaikštystės valstybės veikėjas.","infobox":[{"code":"row_1","label":"","value":"Mykolas Glinskis\nlenk. Michał Gliński\nrus. Михайло Львович Глинський","cells":[{"text":"Mykolas Glinskis\nlenk. Michał Gliński\nrus. Михайло Львович Глинський","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Glinskiai","cells":[{"text":"Glinskiai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Glinskių herbas","cells":[{"text":"Glinskių herbas","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Gimė","value":"1460 m.\nTurovas, dab. Baltarusija","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1460 m.\nTurovas, dab. Baltarusija","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Mirė","value":"1534 m. rugsėjo 15 d. (~74 metai)\nMaskva","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1534 m. rugsėjo 15 d. (~74 metai)\nMaskva","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Tėvas","value":"Levas Glinskis","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Levas Glinskis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Veikla","value":"Lietuvos Didžiosios kunigaikštystės ir Maskvos didžiosios kunigaikštystės valstybės veikėjas.","cells":[{"text":"Veikla","header":true,"colspan":1,"rowspan":1},{"text":"Lietuvos Didžiosios kunigaikštystės ir Maskvos didžiosios kunigaikštystės valstybės veikėjas.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"166555","revision_id":"7635943","status":"published","translation_status":"native","source":{"title":"Mykolas Glinskis","url":"https://lt.wikipedia.org/wiki/Mykolas_Glinskis","publisher":"Vikipedija","language":"lt","article_id":"166555","revision_id":"7635943","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7635943","history_url":"https://lt.wikipedia.org/w/index.php?title=Mykolas_Glinskis&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:11:35.833283+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"14f07c8f58ee3a364039095e5cd19b01cfaafad62b3776b8aecc4ec18990da1c","version_pk":"cfbeb6411f8ae787265b235e2e10416a"}},"source_buttons":[{"label":"Vikipedija","title":"Mykolas Glinskis","url":"https://lt.wikipedia.org/wiki/Mykolas_Glinskis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Mykolas Glinskis","url":"https://www.vle.lt/straipsnis/mykolas-glinskis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Mykolas_Glinskis","https://www.vle.lt/straipsnis/mykolas-glinskis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8f0ac16d98d9ffcc20d4498d","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Gerai išmanė karybos meną ir antiką; karybos pagrindų mokėsi Italijoje, tarnavo imperatoriaus Frydricho II dvare, dalyvavo karinėse operacijose ir Lietuvoje formavo husarų dalinius.","context":"Karolis Zikaras (sud.), 2013 m.","support_ids":["t-82626","c-42155"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82626","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-42155","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Kur kas geriau karybos meną išmanė totorių kilmės Mykolas Glinskis. Savo jaunys- tės metais jis karybos pagrindų išmoko Italijoje - krašte, kur tuo metu vyko svar- biausi Europos karai. Paskui keletą metų tarnavo vokiečių imperatoriaus Frydricho il dvare ir turėjo gausybę progų daly- vauti karinėse operacijose prieš fryzus, prieš Ispanijos musulmonus ir kt. Grįžęs į gimtuosius kraštus, jis ėmėsi kavalerijos reformos: 1501 m. su diplomatine misija apsilankęs Vengrijoje, iš ten jis atsinešė rei- kiamą pavyzdį ir ėmėsi Lietuvoje formuoti rytietiškais ginklais ginkluotus ir kovoms su turkais ypač tinkančius samdytos kava- lerijos dalinius - husarus. Glinskis neblo- gai išmanė ir antikos…"}],"status":"published","conflict_status":"clear"},{"trait_id":"2dfae01a50487dcaa169da01","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Albertas Vijūkas-Kojelavičius Mykolą apibūdina kaip įniršusį, suniektą ir veikusį su barbarišku žiaurumu.","context":"Autoriaus vertinimas, aprašant Slucko ir Kopylio žemių nusiaubimą; Albertas Vijūkas-Kojelavičius, 1989 m.","support_ids":["t-196569","c-168160"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196569","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168160","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Įniršęs ir suniektas Mykolas su barbarišku žiaurumu nusiaubė didelius Slucko ir Ko- pylio žemių plotus. Nuniokojęs tas apygardas, patrau­ kė su visa kariuomene į Turovą. Užkariavęs čia pilį, be didelio vargo privertė jam prisiekti ištikimybę šio krašto bajorus, nepajėgiančius jam atsispirti ir palai­ kančius rusų pusę."}],"status":"published","conflict_status":"clear"},{"trait_id":"e61b2ad4a6bd5b81b1c97ee8","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Bychovco kronikoje Mykolas Glinskis vadinamas Lietuvos kariuomenės vadu ir kunigaikščiu.","context":"Lietuvos metraštis, Bychovco kronika, 1971 m.","support_ids":["t-210527","c-193396"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210527","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193396","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Veikiausiai, jau VIU.9 nugalėjusios LDK ka­ riuomenės vadas Mykolas Glinskis išvyko iš Klecko Ir Vili. 12 at­ vyko į Vilnių pranešti apie pergalę mirštančiam didžiajam kuni­ gaikščiui Aleksandrui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fd5cdf51f7259cf518c7079b","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vadovavo Lietuvos kariuomenei mūšyje prie Cepros ir Klecko, veikė su kairiuoju sparnu bei įsakė pulkams žengti per upę.","context":"Bychovco kronikos pasakojimas apie mūšį; Lietuvos metraštis, Bychovco kronika, 1971 m.","support_ids":["t-210554","c-194198","t-210940","c-194227"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210554","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"internal_claim","claim_id":"t-210940","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194198","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Totoriai sučiupo pono Zaberezinskio raštininką Koptį ir, nukirtę jam galvą, nešiojo pasityčiojimui pasmeigę ant ieties. Kunigaikš­ tis Mykolas !3, matydamas su didikais ir su visa kariuo­ mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems pulkams žengti abiem perėjimais per upę."},{"kind":"evidence","evidence_id":"c-194227","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Dešiniojo sparno kariuomenė paskubėjusi pirmoji įveikė perėją ir atsidūrė už upės. Totoriai ma­ tė, kad lietuviai ne visi kartu keliasi per upę, patys narsiausieji iš jų tarpo puolė lietuvius ir daugelį iš to dešiniojo sparno nukovė ir vos jų nesumušė. O tada kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir, perėjęs per upę, smogė visiems totorių pulkams ir per­ skėlė juos į dvi dalis."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Mykolas Glinskis buvo totorių kilmės karybos žinovas ir Lietuvos karo veikėjas. Jaunystėje jis karybos pagrindų mokėsi Italijoje, vėliau keletą metų tarnavo vokiečių imperatoriaus Frydricho II dvare, kur turėjo progų dalyvauti įvairiose karinėse operacijose. Grįžęs į gimtuosius kraštus, Glinskis ėmėsi kavalerijos reformos: po 1501 m. diplomatinės misijos Vengrijoje Lietuvoje pradėjo formuoti rytietiškais ginklais ginkluotus husarų dalinius, ypač tinkamus kovoms su turkais. Bychovco kronika pasakoja, kad matydamas totorių tyčiojimąsi iš nukirsdinto raštininko, jis greitai įsakė kariuomenei abiem perėjimais žengti per upę. Kito šaltinio teigimu, po mūšio paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d., o rugpjūčio 12 d. Glinskis triumfuodamas grįžo į Vilnių.","sentences":[{"sentence_id":"s1","text":"Mykolas Glinskis buvo totorių kilmės karybos žinovas ir Lietuvos karo veikėjas.","support_ids":["t-82626","c-42155"]},{"sentence_id":"s2","text":"Jaunystėje jis karybos pagrindų mokėsi Italijoje, vėliau keletą metų tarnavo vokiečių imperatoriaus Frydricho II dvare, kur turėjo progų dalyvauti įvairiose karinėse operacijose.","support_ids":["t-82626","c-42155"]},{"sentence_id":"s3","text":"Grįžęs į gimtuosius kraštus, Glinskis ėmėsi kavalerijos reformos: po 1501 m. diplomatinės misijos Vengrijoje Lietuvoje pradėjo formuoti rytietiškais ginklais ginkluotus husarų dalinius, ypač tinkamus kovoms su turkais.","support_ids":["t-82626","c-42155"]},{"sentence_id":"s4","text":"Bychovco kronika pasakoja, kad matydamas totorių tyčiojimąsi iš nukirsdinto raštininko, jis greitai įsakė kariuomenei abiem perėjimais žengti per upę.","support_ids":["t-210554","c-194198"]},{"sentence_id":"s5","text":"Kito šaltinio teigimu, po mūšio paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d., o rugpjūčio 12 d. Glinskis triumfuodamas grįžo į Vilnių.","support_ids":["t-198222","c-79094"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltinis tiesiogiai pagrindžia totorių kilmę ir karybos išmanymą, tačiau ne teiginį, kad jis buvo Lietuvos karo veikėjas."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo mokslus Italijoje, tarnybą Frydricho II dvare ir dalyvavimą karinėse operacijose."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1501 m. misiją Vengrijoje ir rytietiškais ginklais ginkluotų husarų dalinių formavimą Lietuvoje."},{"sentence_id":"s4","supported":true,"reason":"Bychovco kronikos ištrauka tiesiogiai aprašo nukirsdintą raštininką, totorių tyčiojimąsi ir įsakymą žengti per upę abiem perėjimais."},{"sentence_id":"s5","supported":true,"reason":"Šaltinio ištraukoje tiesiogiai nurodyta, kad paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d., o Glinskis rugpjūčio 12 d. triumfuodamas grįžo į Vilnių."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-82626","c-42155"]},{"sentence_id":"s2","supported":true,"support_ids":["t-82626","c-42155"]},{"sentence_id":"s3","supported":true,"support_ids":["t-82626","c-42155"]},{"sentence_id":"s4","supported":true,"support_ids":["t-210554","c-194198"]},{"sentence_id":"s5","supported":true,"support_ids":["t-198222","c-79094"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-82625","confidence":0.9},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Bajorai","claim_id":"t-184799","confidence":0.75}],"timeline":[],"support_disclosure":{"claims":13,"sources":3}}'
 object_page_finisher: 'true'
@@ -53,6 +44,13 @@ object_page_seo_description: 'Mykolas Glinskis buvo totorių kilmės karybos ži
 object_page_seo_input_hash: 1f612edfbf302bf197c13df28d7a9e1affb82fe76ab15925f2a297836aaf0e61
 object_page_seo_generated_at: '2026-09-19T01:37:51+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-e57f09204a6c2f552000ca45"
+canonical_name: "Mykolas Glinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Glinskis"]
+sameAs: ["https://www.wikidata.org/entity/Q975749"]
+canonical_biography: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį. Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių. Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius."
 ---
 # Mykolas Glinskis
 
@@ -481,6 +479,46 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   pagrindžia:
     - c-194198
 
+<a id="claim-t-82624"></a>
+- t-82624
+  teiginys: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį."
+  atnaujinta: "2026-09-29 18:43"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-42156
+    - c-79096
+    - c-179963
+    - c-179964
+
+<a id="claim-t-82625"></a>
+- t-82625
+  teiginys: "Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių."
+  atnaujinta: "2026-09-29 18:43"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas Glinskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Mykolas Glinskis grįžo į Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mykolas Glinskis keliavo į Vilnius (0.90)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179969
+    - c-79094
+    - c-179961
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo.'
@@ -615,6 +653,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-82624
 
 - id: c-42157
   sudarytojas: "Karolis Zikaras"
@@ -669,6 +709,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-82625
 
 - id: c-79096
   sudarytojas: "Karolis Zikaras"
@@ -694,6 +736,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-82624
 
 - id: c-168160
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -997,6 +1041,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-82625
 
 - id: c-179963
   sudarytojas: "Karolis Zikaras"
@@ -1025,6 +1071,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-198207
+    - t-82624
 
 - id: c-179964
   sudarytojas: "Karolis Zikaras"
@@ -1048,6 +1095,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-82624
 
 - id: c-179966
   autorius: "Anoniminis metraštininkas"
@@ -1123,6 +1172,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-82625
 
 - id: c-179970
   autorius: "Michał Baliński"

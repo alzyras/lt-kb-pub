@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-589d80330dd284442c16b0d7
-canonical_name: Palėvenė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Palėvenė
-  - Palėvenė (vieta)
+entity_id: "ent-589d80330dd284442c16b0d7"
+canonical_name: "Palėvenė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Palėvenė","Palėvenė (vieta)"]
 sameAs: []
-canonical_biography: Palėvenėje vyskupas skelbė blaivybę.
+canonical_biography: "Palėvenėje vyskupas skelbė blaivybę."
 place_authority: true
 historical_names: []
 ---

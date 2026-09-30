@@ -89,4 +89,3 @@ Daunorių kaime gyvenęs Antanas Mickūnas perėjo į Kalkio būrį. Antanas Moc
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

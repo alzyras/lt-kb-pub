@@ -48,6 +48,7 @@ Straipsnio muzikos leksikos analizė remiasi Klementinos Vosylytės aiškinamojo
   santrauka: 'Straipsnio muzikos leksikos analizė remiasi Klementinos Vosylytės aiškinamojo „Kupiškėnų žodyno“ I–IV tomų medžiaga.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1089 (PDF 1090)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1089 (PDF 1090)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

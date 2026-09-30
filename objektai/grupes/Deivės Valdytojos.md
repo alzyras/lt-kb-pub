@@ -52,6 +52,17 @@ Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į
   pagrindžia:
     - c-197729
 
+<a id="claim-t-215846"></a>
+- t-215846
+  teiginys: "Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į slėnius prie upių ir ežerų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Citatos
 
 - id: c-175721

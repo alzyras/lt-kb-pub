@@ -54,6 +54,7 @@ Vilniaus Lazdynai 1974 m. buvo apdovanoti Lenino premija.
   santrauka: 'Vilniaus Lazdynai 1974 m. buvo apdovanoti Lenino premija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 732 (PDF 733)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 732 (PDF 733)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -87,6 +87,35 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   pagrindžia:
     - c-59267
 
+<a id="claim-t-216054"></a>
+- t-216054
+  teiginys: "Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo las arba šventykla, savo viduryje turėjusi neapsakomo didumo ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
+<a id="claim-t-219918"></a>
+- t-219918
+  teiginys: "Narbutas nurodo Hartknocho spėjimą, kad ten, kur stovėjo Senoji Torunė, anksčiau taip pat buvusi šventykla."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senoji Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senoji Torunė\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-59266

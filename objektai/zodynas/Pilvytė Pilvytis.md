@@ -42,6 +42,17 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
   pagrindžia:
     - c-172057
 
+<a id="claim-t-219909"></a>
+- t-219909
+  teiginys: "Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-172057

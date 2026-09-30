@@ -42,6 +42,7 @@ canonical_biography: "Antanas Matulis gyveno Remeikių kaime."
   santrauka: '1900 m. gimęs Antanas Matulis, Juozo sūnus, gyveno Remeikių kaime.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 150"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 150."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

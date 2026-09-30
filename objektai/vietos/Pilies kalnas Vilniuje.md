@@ -60,3 +60,23 @@ Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-216804"></a>
+- t-001
+  teiginys: "Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies kalne iš saulėtekio pusės."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pilies kalnas Vilniuje: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pilies kalnas apibūdinamas kaip esantis Vilniuje."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

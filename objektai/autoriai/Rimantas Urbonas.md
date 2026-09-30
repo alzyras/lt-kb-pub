@@ -43,6 +43,7 @@ Rimantas Urbonas daugiausia kritikavo provincinio mąstymo stereotipus, valdžio
   santrauka: 'Rimantas Urbonas buvo rajono laikraščio „Komunizmo keliu“ žurnalistas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 851 (PDF 852)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 851 (PDF 852)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

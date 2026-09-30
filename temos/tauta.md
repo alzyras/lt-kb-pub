@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 263
+tema_objektu_skaicius: 265
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 263.
+Objektų skaičius: 265.
 
 ## Kaip naudoti
 
@@ -303,5 +303,7 @@ Objektų skaičius: 263.
 - [Tauta ir žodis](../objektai/saltiniai/Tauta%20ir%20%C5%BEodis)
 
 ### Žodynas
+- [destalinizacija atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20at%C5%A1ilimo%20laikotarpis)
+- [destalinizacija postalininis metas atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20postalininis%20metas%20at%C5%A1ilimo%20laikotarpis)
 - [luomas](../objektai/zodynas/luomas)
 - [viešpaties dievo kariuomenė dievo tauta](../objektai/zodynas/vie%C5%A1paties%20dievo%20kariuomen%C4%97%20dievo%20tauta)

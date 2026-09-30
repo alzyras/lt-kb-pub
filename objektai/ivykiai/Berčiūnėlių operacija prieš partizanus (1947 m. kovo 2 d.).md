@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ 1947 m. kovo 2 d. Berčiūnėliuose aprašoma karinė čekistų operacija, per kurią žuvo Balys Kairys, Balys Vinciūnas ir Petras Stašys.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 261"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 261."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

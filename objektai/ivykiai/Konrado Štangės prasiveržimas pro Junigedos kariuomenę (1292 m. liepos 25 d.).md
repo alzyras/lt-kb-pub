@@ -73,6 +73,24 @@ Nenurodyta
   pagrindžia:
     - c-66829
 
+<a id="claim-t-221508"></a>
+- t-221508
+  teiginys: "Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Junigeda: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas Štangė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Konradas Štangė patraukė link Junigedos pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Konradas Štangė keliavo į Junigeda (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1292 m.; įvykio data: apie 1292 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citatos informacija."
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.'

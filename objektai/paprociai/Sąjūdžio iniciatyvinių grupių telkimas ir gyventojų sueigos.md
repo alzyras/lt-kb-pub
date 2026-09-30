@@ -59,6 +59,7 @@ Nenurodyta
   santrauka: 'Sąjūdžio iniciatyvinių grupių aplinkoje gyventojų sueigos buvo šaukiamos reguliariai, o svarbiausi vietos reikalai neliko be dėmesio ir kontrolės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 870 (PDF 871)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 870 (PDF 871)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Marintojos naudodavo sakramentalijas, atlikdavo maldos tarnystę ir organizuodavo maldai budėtojus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 897 (PDF 898)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 897 (PDF 898)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

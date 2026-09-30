@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Pirmasis laikraščio „Stalino keliu“ tiražas Kupiškyje išspausdintas 1947 m. gegužės 9 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 825 (PDF 826)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 825 (PDF 826)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

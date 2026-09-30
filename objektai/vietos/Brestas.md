@@ -82,6 +82,42 @@ historical_names: []
   pagrindžia:
     - c-184935
 
+<a id="claim-t-185230"></a>
+- t-185230
+  teiginys: "Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168591
+
+<a id="claim-t-185231"></a>
+- t-185231
+  teiginys: "Šich Achmetas, Užvolgio skitų valdovas, būdamas tremtinys ir beveik belaisvis Breste ir Radome tarėsi su Aleksandru."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168592
+
+<a id="claim-t-193439"></a>
+- t-193439
+  teiginys: "Netru kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir tinti paliaubų, tačiau nebeM a sk v o s p a siu n tin ia i surado karaliaus Lietuvoje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168594
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus.'
@@ -206,6 +242,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185230
 
 - id: c-168592
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -236,6 +274,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185231
 
 - id: c-168594
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -264,6 +304,7 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+    - t-193439
 
 - id: c-178835
   autorius: "Albertas Vijūkas-Kojelavičius"

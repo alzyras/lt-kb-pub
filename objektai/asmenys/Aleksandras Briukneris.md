@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9ceeb907163c0a78b14e9bf0
-canonical_name: Aleksandras Briukneris
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Aleksandras Briukneris
+entity_id: "ent-9ceeb907163c0a78b14e9bf0"
+canonical_name: "Aleksandras Briukneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Briukneris"]
 sameAs: []
-canonical_biography: 'A. Briukneris ironizavo, kad mitologai nuo Narbuto iki Karo sukūrė gausų ir įvairų lietuvių Olimpą.'
+canonical_biography: "A. Briukneris ironizavo, kad mitologai nuo Narbuto iki Karo sukūrė gausų ir įvairų lietuvių Olimpą."
 ---
 # Aleksandras Briukneris
 

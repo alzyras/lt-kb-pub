@@ -55,6 +55,7 @@ Margio būrys veikė Kamajų valsčiuje, jame kovojo svėdasiškiai partizanai, 
   santrauka: '1949 m. lapkričio 2 d. 10 val., remiantis suimto partizano Stasio Gimbučio-Tarzano parodymais, Šimonių girioje prie Iženos upelio pradėtas Margio būrio bunkerio šturmas; žuvo šeši būrio eiliniai partizanai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 369"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 369."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

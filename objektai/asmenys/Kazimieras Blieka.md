@@ -41,6 +41,7 @@ Griciūnų kaime trys dūmai buvo siejami su Kazimieru Blieka, Jonu Lauciumi ir 
   santrauka: 'Griciūnų kaime trys dūmai buvo siejami su Kazimieru Blieka, Jonu Lauciumi ir Motiejumi Blieka.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 163 (PDF 164)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 163 (PDF 164)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

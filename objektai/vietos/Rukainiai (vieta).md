@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Rukainiai","Rukainiai (vieta)"]
 sameAs: []
 canonical_biography: "Rukainiai minimi kaip bažnyčios vieta, kuriai kadaise priklausęs Švč. M. Marijos paveikslas buvo perduotas Vilniaus pranciškonų vienuolynui."
+place_authority: true
+historical_names: []
 ---
 # Rukainiai (vieta)
 

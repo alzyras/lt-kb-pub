@@ -30,6 +30,7 @@ media_all_json: |-
   santrauka: '1947 m. balandžio 10–11 d. Raguvėlėje MGB vidaus kariuomenės 137-ojo šaulių pulko 4-osios ir 5-osios kuopų grupė pas Antaną Rančį rado nesipriešinusį, slėptis mėginusį ginkluotą partizaną, jį nušovė ir paėmė ginklą, šovinius bei žiūronus.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 264"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 264."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

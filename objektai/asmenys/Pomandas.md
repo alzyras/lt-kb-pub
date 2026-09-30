@@ -65,6 +65,20 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   pagrindžia:
     - c-179037
 
+<a id="claim-t-224739"></a>
+- t-224739
+  teiginys: "Dusburgietis Pomandą vaizduoja kaip kilnų, prūsų gerbtą vyrą, neseniai priėmusį krikščionių tikėjimą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomandas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomandas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis Pomandą vaizduoja kaip kilnų, prūsų gerbtą vyrą, neseniai priėmusį krikščionių tikėjimą.'

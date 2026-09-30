@@ -85,6 +85,7 @@ Nenurodyta
   santrauka: 'Vargonai buvo restauruoti 1990 m. ir papildyti keliais balsais, o 1994 m. įrengtas naujas elektros variklis; vargonų meistras Juozapas Lekeravičius juos remontavo ir derino.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 429 (PDF 430)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 429 (PDF 430)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,6 +97,7 @@ Nenurodyta
   santrauka: '1997 m. panevėžietis Antanas Šauklys restauravo vargonus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 543 (PDF 544)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 543 (PDF 544)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

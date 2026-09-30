@@ -54,6 +54,24 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   pagrindžia:
     - c-193484
 
+<a id="claim-t-211090"></a>
+- t-211090
+  teiginys: "Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo klausyti, mokėti duoklę ir įsileisti jo vietininką."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pskovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskoviečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Pskovas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskoviečiai\" parinktas kaip owner_note_path. Targetas \"Pskovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+
 ## Citatos
 
 - id: c-170706

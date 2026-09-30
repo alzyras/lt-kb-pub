@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Šventinamojo galva patepama Šventąja Krizma, apibūdinama kaip kvapusis pašventinimo ir dalyvavimo Kristaus kunigystėje balzamas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 534 (PDF 535)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 534 (PDF 535)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

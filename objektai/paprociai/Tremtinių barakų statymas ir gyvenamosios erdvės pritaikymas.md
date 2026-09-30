@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Mansko ir Asinsko rajonuose įsikūrę tremtiniai patys statė barakus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 600 (PDF 601)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 600 (PDF 601)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,6 +64,7 @@ Nenurodyta
   santrauka: 'Tremtiniai vėliau patys pasigamindavo gultus, tarp kurių dieną gyventojai susispausdavo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 601 (PDF 602)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 601 (PDF 602)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'O. Glemžienė subūrė pirmąją sutartinių giedotojų grupę, kurios atliekamas sutartines 1936 m. į fonografo plokšteles įrašė Zenonas Slaviūnas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1015 (PDF 1016)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1015 (PDF 1016)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

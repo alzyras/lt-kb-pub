@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Žydų prekybininkai susivienydavo ir padėdavo krautuvėlei išvengti bankroto.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 570 (PDF 571)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 570 (PDF 571)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Kupiškyje dėl prekybinio kredito kildavo ginčų: skolininkai kaltino krautuvininkus per didele skola, o krautuvininkai klientus – vengimu grąžinti skolą; vėliau tokie klientai prekių kreditan nebegaudavo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 570 (PDF 571)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 570 (PDF 571)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

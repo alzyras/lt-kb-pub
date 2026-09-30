@@ -57,6 +57,21 @@ Nenurodyta
   pagrindžia:
     - c-203721
 
+<a id="claim-t-225482"></a>
+- t-225482
+  teiginys: "Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Otonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Otoną atvykus į Prūsijos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-62703

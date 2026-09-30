@@ -34,6 +34,7 @@ Posakyje Bažnyčia vaizduojama kaip valtis su Kristumi, o jos nariai raginami v
   santrauka: 'Posakyje Bažnyčia vaizduojama kaip valtis su Kristumi, o jos nariai raginami vieningai darbuotis ir nelikti abejingi kito skausmui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 424 (PDF 425)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 424 (PDF 425)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

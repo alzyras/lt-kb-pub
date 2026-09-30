@@ -49,6 +49,7 @@ Algimantas Miškinis atliko detalius Kupiškio miesto urbanistikos tyrimus. Algi
   santrauka: 'Algimantas Miškinis atliko detalius Kupiškio miesto urbanistikos tyrimus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 262 (PDF 263)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 262 (PDF 263)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Algimantas Miškinis atliko detalius Kupiškio miesto urbanistikos tyrimus. Algi
   santrauka: 'Algimantas Miškinis pastebi, kad XIX–XX a. sankirtoje pradėta statyti naujoji mūrinė bažnyčia iš esmės pakeitė miestelio panoramą ir kraštovaizdžio apybraižas, kurios iki tol mažai disonavo su Lėvens upės slėniu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 335 (PDF 336)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 335 (PDF 336)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -71,6 +73,7 @@ Algimantas Miškinis atliko detalius Kupiškio miesto urbanistikos tyrimus. Algi
   santrauka: 'Miškinis Kupiškį apibūdino kaip tradicinį Lietuvos miestelį, išskirdamas vienaukščius gyvenamuosius namus, buvusią turgavietę, bažnyčios siluetą ir pieninę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 733 (PDF 734)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 733 (PDF 734)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

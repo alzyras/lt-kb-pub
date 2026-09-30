@@ -43,6 +43,7 @@ Alizavos apylinkėse ir Biržų rajone budėjimas vadintas apsėdais; Biržų kr
   santrauka: 'Biržų krašte apsėdai trukdavo vieną vakarą, o Alizavos apylinkėse – 3–4 dienas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 903 (PDF 904)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 903 (PDF 904)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -67,6 +67,16 @@ Helsinkai šiame šaltinyje yra miestas.
   pagrindžia:
     - c-178053
 
+<a id="claim-t-195652"></a>
+- t-195652
+  teiginys: "Helsinkuose buvo pastatytas Lonnroto paminklas, kuriam lėšas rinko Augustas Robertas Niemi."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178052
+
 ## Citatos
 
 - id: c-178052
@@ -91,6 +101,8 @@ Helsinkai šiame šaltinyje yra miestas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195652
 
 - id: c-178053
   autorius: "A. Sabaliauskas"

@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-eacc24270f4c81d3418f7b2b
-canonical_name: Naumiestis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Naumiestis
-  - Naumiestis (vieta)
+entity_id: "ent-eacc24270f4c81d3418f7b2b"
+canonical_name: "Naumiestis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naumiestis","Naumiestis (vieta)"]
 sameAs: []
-canonical_biography: Delegatai galėjo atsilankyti Naumiestyje.
+canonical_biography: "Delegatai galėjo atsilankyti Naumiestyje."
+place_authority: true
+historical_names: []
 ---
 # Naumiestis (vieta)
 

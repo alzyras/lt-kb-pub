@@ -80,6 +80,25 @@ Nenurodyta
   pagrindžia:
     - c-66721
 
+<a id="claim-t-224546"></a>
+- t-224546
+  teiginys: "1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1246 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia glaustesnį sakinį be perteklinių detalių ir fragmentų."
+  pagrindžia:
+    - c-201871
+
 ## Citatos
 
 - id: c-66721
@@ -232,6 +251,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224546
 
 - id: c-203713
   autorius: "Petras Dusburgietis"

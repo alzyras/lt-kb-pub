@@ -27,15 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-04a00eb6fe39b3dc2cbef411
-canonical_name: Jurgis Pacas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jurgis Pacas
+entity_id: "ent-noble-04a00eb6fe39b3dc2cbef411"
+canonical_name: "Jurgis Pacas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Pacas"]
 sameAs: []
-canonical_biography: Jurgis Pacas - Pacai giminės atstovas.
+canonical_biography: "Jurgis Pacas - Pacai giminės atstovas."
 ---
 # Jurgis Pacas
 

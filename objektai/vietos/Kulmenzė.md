@@ -79,6 +79,69 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   pagrindžia:
     - c-202763
 
+<a id="claim-t-220694"></a>
+- t-220694
+  teiginys: "Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Kulmas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduvių kariuomenė minima kaip Kulmo žemę siaubusios kariuomenės dalis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Kulmas (0.82); Ninerikas keliavo į Kulmenzė (0.78); Rusai puolė Kulmas (0.78)"
+
+<a id="claim-t-221416"></a>
+- t-221416
+  teiginys: "Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_palaidotas -> Kulmenzė: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Liudvikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmenzė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Liudvikas tiesiogiai įvardytas kaip palaidotas Kulmenzės katedroje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "mirties data: 1299 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą."
+
+<a id="claim-t-223719"></a>
+- t-223719
+  teiginys: "Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kulmenzė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmenzė\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225195"></a>
+- t-225195
+  teiginys: "Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango netoli Kulmenzės."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kulmenzė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmenzė\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą.'

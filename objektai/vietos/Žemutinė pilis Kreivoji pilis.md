@@ -73,6 +73,22 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   pagrindžia:
     - c-170269
 
+<a id="claim-t-211658"></a>
+- t-211658
+  teiginys: "Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "apgule -> Vilnius: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas apgulė Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

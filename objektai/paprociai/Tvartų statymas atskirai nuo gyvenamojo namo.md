@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Jei leisdavo ekonominės sąlygos, lietuviai stengdavosi statyti tvartus atskirai nuo gyvenamojo namo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 721 (PDF 722)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 721 (PDF 722)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

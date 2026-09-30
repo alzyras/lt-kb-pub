@@ -50,3 +50,16 @@ Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-218572"></a>
+- t-001
+  teiginys: "Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visiems savo mirusiesiems pagerbti."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

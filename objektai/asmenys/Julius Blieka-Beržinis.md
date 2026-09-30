@@ -66,6 +66,7 @@ canonical_biography: "Julius Blieka-Beržinis buvo štabo apsaugos būrio partiz
   santrauka: 'Julius Blieka-Beržinis buvo Algimanto apygardos partizanas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 626 (PDF 627)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 626 (PDF 627)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

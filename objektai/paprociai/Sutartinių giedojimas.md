@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Sutartinės, kadaise giedotos sodžiuose, ilgainiui nutilo, tačiau Palėvenės ir Pandėlio gyventojai jas dar prisiminė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1090 (PDF 1091)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1090 (PDF 1091)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ Aldona Vaitiekūnaitė-Kubilienė 1971–1987 m. dirbo Lietuvos valstybinio tele
   santrauka: 'Aldona Vaitiekūnaitė-Kubilienė 1971–1987 m. dirbo Lietuvos valstybinio televizijos ir radijo komiteto atsakingąja redaktore Kupiškio rajone.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 842 (PDF 843)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 842 (PDF 843)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

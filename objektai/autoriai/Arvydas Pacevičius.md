@@ -52,6 +52,7 @@ Arvydas Pacevičius šiame straipsnyje minimas kaip egodokumentikos tyrimų svar
   santrauka: 'Knygos istorikas Arvydas Pacevičius pastebėjo, kad bibliotekos vienuolynuose paprastai būdavo įrengiamos virš refektorijų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 219 (PDF 220)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 219 (PDF 220)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

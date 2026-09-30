@@ -63,6 +63,22 @@ Nenurodyta
   pagrindžia:
     - c-178991
 
+<a id="claim-t-222843"></a>
+- t-222843
+  teiginys: "Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "surenge_zygi_i -> Sūduva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ulrichas Bajeris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ulrichas Bajeris su pajėgomis įsiveržė į Sūduvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ulrichas Bajeris surengė žygį į Sūduva (0.95); Ulrichas Bajeris puolė Sūduviai (0.86)"
+
 ## Citatos
 
 - id: c-63195

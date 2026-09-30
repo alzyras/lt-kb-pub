@@ -63,6 +63,39 @@ Nenurodyta
   pagrindžia:
     - c-202824
 
+<a id="claim-t-221607"></a>
+- t-221607
+  teiginys: "Netrukus po Ragainės pastatymo brolis Meinhardas prie Nemuno pastatė Skalvių pilį atsivertusiems skalviams gyventi."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainės ir Skalvių pilių pastatymas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainės ir Skalvių pilių pastatymas\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225712"></a>
+- t-225712
+  teiginys: "1289 m. brolis Meinhardas Nemuno pakrantėje, skalvių žemėje, pastatė Landeshutės pilį, vėliau vadintą Ragaine."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Ragainė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainės ir Skalvių pilių pastatymas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Ragainė: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainės ir Skalvių pilių pastatymas\" parinktas kaip owner_note_path. Targetas \"Ragainė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "pastatymo data: 1289 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys perrašytas pašalinant fragmentiškumą ir paliekant pagrįstus faktus."
+
 ## Citatos
 
 - id: c-63771

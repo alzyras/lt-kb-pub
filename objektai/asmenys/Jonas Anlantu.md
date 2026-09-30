@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2112f3da3b0ad3610119e24b
-canonical_name: Jonas Anlantu
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jonas Anlantu
+entity_id: "ent-2112f3da3b0ad3610119e24b"
+canonical_name: "Jonas Anlantu"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Anlantu"]
 sameAs: []
-canonical_biography: Jonas Anlantu buvo kunigaikštis ir Albrechto vaikaitis.
+canonical_biography: "Jonas Anlantu buvo kunigaikštis ir Albrechto vaikaitis."
 ---
 # Jonas Anlantu
 

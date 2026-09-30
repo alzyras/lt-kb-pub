@@ -48,6 +48,7 @@ Kupiškėnai nemato skirtumo tarp sielos, dūšios ir vėlės sąvokų ir laiko 
   santrauka: 'Kupiškėnai nemato skirtumo tarp sielos, dūšios ir vėlės sąvokų ir laiko šiuos žodžius sinonimais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 881 (PDF 882)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 881 (PDF 882)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-52c08ce44fb9523e863f4b0c
-canonical_name: Lietuvos žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Lietuvos žemė
+entity_id: "ent-52c08ce44fb9523e863f4b0c"
+canonical_name: "Lietuvos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos žemė"]
 sameAs: []
-canonical_biography: Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos žemė buvo Prūsijos žemės kaimynystėje anapus Nemuno. Ordino kariuomenė įsiveržė į Lietuvos žemę ir užėmė Bisenės pilį.
+canonical_biography: "Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos žemė buvo Prūsijos žemės kaimynystėje anapus Nemuno. Ordino kariuomenė įsiveržė į Lietuvos žemę ir užėmė Bisenės pilį."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos žemė
 

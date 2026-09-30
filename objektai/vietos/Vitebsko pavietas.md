@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Vitebsko pavietas"]
 sameAs: []
 canonical_biography: "Vitebsko pavieto bajoro Fiodoro Voropos."
+place_authority: true
+historical_names: []
 ---
 # Vitebsko pavietas
 

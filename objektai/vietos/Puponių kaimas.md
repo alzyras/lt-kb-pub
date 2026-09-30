@@ -37,6 +37,7 @@ Vokiečių okupacijos metais policijoje tarnavęs Petras Žiaugrė, vokiečiams 
   santrauka: 'Vokiečių okupacijos metais policijoje tarnavęs Petras Žiaugrė, vokiečiams pasitraukus, Puponių kaime subūrė partizanų būrį, sudarytą daugiausia iš vietos jaunuolių, ir jam vadovavo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 107"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 107."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

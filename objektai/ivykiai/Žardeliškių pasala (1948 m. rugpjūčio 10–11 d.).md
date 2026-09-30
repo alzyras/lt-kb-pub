@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Ona Dapšytė-Kriukelienė dokumentinėje kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ aprašo, kad 1948 m. rugpjūčio 10–11 d. stribai apsupo Kazio Gildučio sodybą ir pradėjo šaudyti; per įvykį žuvo Balys Gildutis.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 315"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 315."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

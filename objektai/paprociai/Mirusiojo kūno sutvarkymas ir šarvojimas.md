@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Mirusio kataliko kūno sutvarkymas ir šarvojimas turi religinę prasmę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 895 (PDF 896)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 895 (PDF 896)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

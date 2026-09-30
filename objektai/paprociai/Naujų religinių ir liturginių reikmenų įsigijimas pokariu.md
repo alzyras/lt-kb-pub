@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1948–1961 m. bažnyčiai pagaminti nauji suolai ir klauptai, įsigyti katafalko ir Didžiosios savaitės kryžiai, trys Velykų karsto paveikslai, umbrakulis, Betliejaus komplektas, šventųjų paveikslai ir liturginė tekstilė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 233 (PDF 234)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 233 (PDF 234)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

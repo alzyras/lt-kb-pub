@@ -49,6 +49,7 @@ Gamtininkas Tadas Ivanauskas siūlė Šepetos pelkę paskelbti gamtos rezervatu.
   santrauka: 'Gamtininkas Tadas Ivanauskas siūlė Šepetos pelkę paskelbti gamtos rezervatu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 23 (PDF 24)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 23 (PDF 24)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Gamtininkas Tadas Ivanauskas siūlė Šepetos pelkę paskelbti gamtos rezervatu.
   santrauka: 'Apie 1921 metus Tadas Ivanauskas siūlė Šepetos pelkę palikti gamtos rezervatu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 103 (PDF 104)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 103 (PDF 104)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

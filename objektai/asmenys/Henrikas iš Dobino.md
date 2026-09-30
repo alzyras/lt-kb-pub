@@ -76,6 +76,23 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   pagrindžia:
     - c-60767
 
+<a id="claim-t-225807"></a>
+- t-225807
+  teiginys: "Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Dobino: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Henrikas iš Dobino su būriu tiesiogiai nukovė 80 lietuvių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-60767

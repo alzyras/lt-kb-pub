@@ -49,6 +49,7 @@ historical_names: []
   santrauka: '1952 m. spalio 3 d. Anykščių rajone žuvo V. Šinkūnas-Kariūnas ir Vytautas Valma-Savanoris.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 625 (PDF 626)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 625 (PDF 626)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

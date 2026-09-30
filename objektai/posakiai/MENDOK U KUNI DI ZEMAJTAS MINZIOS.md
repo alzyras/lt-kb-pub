@@ -49,6 +49,24 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
   pagrindžia:
     - c-172453
 
+<a id="claim-t-217032"></a>
+- t-217032
+  teiginys: "Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo, siejo su skaitymu „MENDOK: U“ ir „KUNI: DI“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kunigas Didis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "MENDOK U KUNI DI ZEMAJTAS MINZIOS: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kunigas Didis: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"MENDOK U KUNI DI ZEMAJTAS MINZIOS\" parinktas kaip owner_note_path. Targetas \"Kunigas Didis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-172452

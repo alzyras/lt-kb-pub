@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Kryžius pastatytas 1943 m. karo laikotarpiu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 957-958 (PDF 958-959)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 957-958 (PDF 958-959)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

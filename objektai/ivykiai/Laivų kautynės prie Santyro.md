@@ -83,6 +83,22 @@ Nenurodyta
   pagrindžia:
     - c-203577
 
+<a id="claim-t-224843"></a>
+- t-224843
+  teiginys: "Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "puole -> Sventopelkas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas Bremeris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Konradas užpuolė Sventopelką ir jo pajėgas, kurios citatoje įvardytos kaip 'juos'."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Konradas Bremeris puolė Sventopelkas (0.84)"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.'

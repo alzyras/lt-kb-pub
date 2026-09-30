@@ -55,6 +55,7 @@ Nenurodyta
   santrauka: 'Kupiškio bažnyčios mažiausias iš trijų didžiųjų varpų pavadintas Šv. Jono vardu; jo graižo skersmuo – 100 cm, aukštis iki karūnos – 80 cm, svoris – 655,5 kg.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 998 (PDF 999)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 998 (PDF 999)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Janina Šilaikaitė-Brunzienė pasakojo, kad pelkėje dirbusių žmonių gyvačių gaudymas buvo gana populiarus: jas virdavo kiaulėms šerti, o kai kurie kepdavo ant laužo ir valgydavo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 101 (PDF 102)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 101 (PDF 102)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

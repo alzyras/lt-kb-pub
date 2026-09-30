@@ -41,6 +41,7 @@ Karolina Bagdžiūnaitė buvo Adomo ir Izabelės duktė, o jos motina Izabelė K
   santrauka: 'Karolina Bagdžiūnaitė buvo Adomo ir Izabelės Kvedaraitės duktė, o jos motina Izabelė buvo kilusi iš Svydenių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 196 (PDF 197)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 196 (PDF 197)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

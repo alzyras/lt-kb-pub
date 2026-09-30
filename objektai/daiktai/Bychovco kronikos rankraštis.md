@@ -112,6 +112,39 @@ Nenurodyta
   pagrindžia:
     - c-193248
 
+<a id="claim-t-210606"></a>
+- t-210606
+  teiginys: "Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Aleksandras Bychovcas (volkovysko apskrities teisėjas): 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bychovco kronikos rankraštis: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Aleksandras Bychovcas (volkovysko apskrities teisėjas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Aleksandras Bychovcas tiesiogiai vadinamas rankraščio savininku."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Bychovco kronikos rankraštis priklausė Aleksandras Bychovcas (volkovysko apskrities teisėjas) (0.93)"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
+<a id="claim-t-211735"></a>
+- t-211735
+  teiginys: "Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bychovco kronikos rankraštis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bychovco kronikos rankraštis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.'

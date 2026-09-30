@@ -58,6 +58,7 @@ Nenurodyta
   santrauka: 'Išeivių bendruomenės, vietos valdžios institucijų, krašto muziejaus ir visuomeniškai aktyvių žmonių bendras darbas leidžia sėkmingai vykdyti paveldo sklaidos ir puoselėjimo projektus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 578 (PDF 579)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 578 (PDF 579)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

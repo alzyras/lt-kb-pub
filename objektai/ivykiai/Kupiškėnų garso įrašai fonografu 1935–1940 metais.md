@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1935–1940 m. archyve fonografu buvo padaryta daug Kupiškėnų garso įrašų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1013 (PDF 1014)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1013 (PDF 1014)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

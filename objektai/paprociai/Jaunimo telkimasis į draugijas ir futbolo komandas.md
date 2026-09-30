@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Valsčiaus mieste steigiamos „Pavasario“ kuopa, Šaulių sąjunga ir tretininkų draugija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1134 (PDF 1135)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1134 (PDF 1135)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

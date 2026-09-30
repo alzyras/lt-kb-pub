@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-49964378a33561a638d08943
-canonical_name: M. Kirvelis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - M. Kirvelis
+entity_id: "ent-49964378a33561a638d08943"
+canonical_name: "M. Kirvelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Kirvelis"]
 sameAs: []
-canonical_biography: 1858 m. rugpjūčio 15 d. M. Kirvelis prikalbėjo savo parapiją visiškai išsižadėti degtinės.
+canonical_biography: "1858 m. rugpjūčio 15 d. M. Kirvelis prikalbėjo savo parapiją visiškai išsižadėti degtinės."
 ---
 # M. Kirvelis
 

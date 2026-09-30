@@ -41,4 +41,3 @@ Adolfas Mažonis-Hitleris buvo Albino Tindžiulio partizanų junginio partizanas
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-09-28 17:36"
-

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5ecbb37948654d44e66cda01
-canonical_name: Poznanės kunigaikštystė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Poznanės kunigaikštystė
+entity_id: "ent-5ecbb37948654d44e66cda01"
+canonical_name: "Poznanės kunigaikštystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Poznanės kunigaikštystė"]
 sameAs: []
-canonical_biography: Per Poznanės kunigaikštystę blaivybės brolijų idėjos pasiekė Lenkijos Karalystę.
+canonical_biography: "Per Poznanės kunigaikštystę blaivybės brolijų idėjos pasiekė Lenkijos Karalystę."
 place_authority: true
 historical_names: []
 ---

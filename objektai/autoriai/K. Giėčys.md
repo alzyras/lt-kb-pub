@@ -22,16 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-aad79bba69eb14d9a7728859
-canonical_name: K. Giėčys
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - K. Giėčys
+entity_id: "ent-aad79bba69eb14d9a7728859"
+canonical_name: "K. Giėčys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Giėčys"]
 sameAs: []
-canonical_biography: 'K. Giėčys manė, kad kai kurios blaivybės brolijos galėjo įsikurti dar anksčiau nei 1858 m.'
+canonical_biography: "K. Giėčys manė, kad kai kurios blaivybės brolijos galėjo įsikurti dar anksčiau nei 1858 m."
 ---
 # K. Giėčys
 

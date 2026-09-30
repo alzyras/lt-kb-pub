@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Aldona Vasiliauskienė „Kristaus Žengimo į dangų bažnyčios ir parapijos istorijoje“ rašo, kad 1929 m. Kupiškio kapinių medinė koplytėlė, 20 metų neremontuota, buvo beveik sugriuvusi: stogas supuvo, nebuvo grindų ar langų, todėl remontuoti nebeapsimokėjo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 400 (PDF 401)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 400 (PDF 401)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

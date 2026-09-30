@@ -124,6 +124,24 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
   pagrindžia:
     - c-57400
 
+<a id="claim-t-221468"></a>
+- t-221468
+  teiginys: "1317 m. apie birželio 24 d. viena Ordino kariuomenės dalis nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-203324
+
 ## Citatos
 
 - id: c-57400
@@ -198,6 +216,8 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221468
 
 - id: c-204671
   autorius: "Petras Dusburgietis"

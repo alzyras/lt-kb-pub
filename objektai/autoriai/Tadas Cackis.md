@@ -20,16 +20,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-85a8c3452134b6d386723de7
-canonical_name: Tadas Cackis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Tadas Cackis
+entity_id: "ent-85a8c3452134b6d386723de7"
+canonical_name: "Tadas Cackis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tadas Cackis"]
 sameAs: []
-canonical_biography: Cackio veikalas buvo T. Narbuto Saurų dvaro bibliotekoje.
+canonical_biography: "Cackio veikalas buvo T. Narbuto Saurų dvaro bibliotekoje."
 ---
 # Tadas Cackis
 

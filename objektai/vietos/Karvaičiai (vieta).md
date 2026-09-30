@@ -26,16 +26,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2bd9213463f6d0a9ae903685
-canonical_name: Karvaičiai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Karvaičiai
-  - Karvaičiai (vieta)
+entity_id: "ent-2bd9213463f6d0a9ae903685"
+canonical_name: "Karvaičiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karvaičiai","Karvaičiai (vieta)"]
 sameAs: []
-canonical_biography: 'Jai pradingus arba pertraukus dalį sausumos tarp Ven tės ir Karvaičių, kai vanduo ėmė plaukti Memelio tėkmės 1 1254 metų rugpjūčio 23 diena (ten pat.'
+canonical_biography: "Jai pradingus arba pertraukus dalį sausumos tarp Ven tės ir Karvaičių, kai vanduo ėmė plaukti Memelio tėkmės 1 1254 metų rugpjūčio 23 diena (ten pat."
+place_authority: true
+historical_names: []
 ---
 # Karvaičiai (vieta)
 

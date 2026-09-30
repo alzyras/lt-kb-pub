@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-3424b75f54727b01ddc31435
-canonical_name: J. S. Fateris
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. S. Fateris
+entity_id: "ent-3424b75f54727b01ddc31435"
+canonical_name: "J. S. Fateris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. S. Fateris"]
 sameAs: []
-canonical_biography: 'J. S. Fateris teigė, kad „Signat“ reiškia „laiminti“.'
+canonical_biography: "J. S. Fateris teigė, kad „Signat“ reiškia „laiminti“."
 ---
 # J. S. Fateris
 

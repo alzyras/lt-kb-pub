@@ -35,7 +35,7 @@ canonical_name: "Jonas Basanavičius"
 entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Basanavičius","Dr. J. Basanavičius","Dr. Jonas Basanavičius","Jonas Basanavičius","objektai/autoriai/Dr. Jonas Basanavičius"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q363949"]
 canonical_biography: "Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927). Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika. Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų."
 ---
 # Jonas Basanavičius

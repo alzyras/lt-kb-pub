@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Adolfo Bagdono mirties nuosprendis įvykdytas 1946 m. gegužės 10 d. Vilniuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 42"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 42."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

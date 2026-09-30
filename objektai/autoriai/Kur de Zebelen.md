@@ -47,6 +47,26 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
   pagrindžia:
     - c-174561
 
+<a id="claim-t-214356"></a>
+- t-214356
+  teiginys: "Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino iš graikiško pavadinimo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Puantine de Sivrej: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kur de Zebelen: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Puantine de Sivrej: mention_match, author, gap=4"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kur de Zebelen\" parinktas kaip owner_note_path. Targetas \"Puantine de Sivrej\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-197539
+
 ## Citatos
 
 - id: c-174561
@@ -97,4 +117,6 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214356
 

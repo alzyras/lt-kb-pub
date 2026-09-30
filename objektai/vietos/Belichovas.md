@@ -96,3 +96,27 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 
 ## Ryšiai
 - Belichovas priklausė [[objektai/asmenys/Jonas (Sarginio sūnus)]]
+
+## Teiginiai
+
+<a id="claim-t-220224"></a>
+- t-001
+  teiginys: "Belichovo pilis stovėjo Osos pakrantėje ir priklausė kilmingam pamedėnui Jonui, Sarginio sūnui."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Belichovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belichovas\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-224234"></a>
+- t-002
+  teiginys: "Belichovas buvo gyvenvietė dešiniajame Osos žemupio krante, 9 km į šiaurės rytus nuo Grudziondzo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

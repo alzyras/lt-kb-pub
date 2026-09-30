@@ -84,6 +84,13 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   pagrindžia:
     - c-65447
 
+<a id="claim-t-220718"></a>
+- t-220718
+  teiginys: "V. Mažiulis pateikė didelę dalį prūsiškųjų ir kitų baltiškųjų vietovardžių bei asmenvardžių rekonstrukcijų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'V. Mažiulis pateikė didelę dalį prūsiškųjų ir kitų baltiškųjų vietovardžių bei asmenvardžių rekonstrukcijų.'

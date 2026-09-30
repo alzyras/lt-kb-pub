@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Pakopinė aptarnavimo sistema buvo vienas ryškiausių su sovietmečio modernizmu siejamų pokyčių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 756 (PDF 757)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 756 (PDF 757)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Pakopinės aptarnavimo sistemos kūrimo procesai intensyviausiai vyko iki aštuntojo dešimtmečio, kai susiformavo respublikos miestų, gyvenviečių ir aptarnavimo įstaigų tinklas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 757 (PDF 758)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 757 (PDF 758)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

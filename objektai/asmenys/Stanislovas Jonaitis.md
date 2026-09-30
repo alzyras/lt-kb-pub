@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a1748de02bbc313d446c02e4
-canonical_name: Stanislovas Jonaitis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Stanislovas Jonaitis
+entity_id: "ent-a1748de02bbc313d446c02e4"
+canonical_name: "Stanislovas Jonaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Jonaitis"]
 sameAs: []
-canonical_biography: Stanislovas Jonaitis buvo Trakų kaštelionas ir Žemaičių seniūnas.
+canonical_biography: "Stanislovas Jonaitis buvo Trakų kaštelionas ir Žemaičių seniūnas."
 ---
 # Stanislovas Jonaitis
 

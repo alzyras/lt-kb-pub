@@ -49,6 +49,7 @@ canonical_biography: "Julius Ožys-Girėnas buvo Vytenio būrio partizanas."
   santrauka: '1948 m. lapkričio 10 d. Julius Ožys-Girėnas, Vytenio būrio partizanas, žuvo Šepetos pelkėje per kautynes su MGB vidaus kariuomenės kareiviais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 617 (PDF 618)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 617 (PDF 618)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

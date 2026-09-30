@@ -11,7 +11,7 @@ import {
 } from "../quartz/components/scripts/graph-explorer-model"
 import { objectShardFile, type OuterIndex } from "../quartz/util/graphExplorerData"
 
-const base = path.resolve(process.argv[2] || "public")
+const base = path.resolve(process.argv[2] || process.env.PUBLIC_ROOT || "public")
 const read = <T>(file: string): T => JSON.parse(fs.readFileSync(path.join(base, file), "utf8"))
 const core = read<GraphTopology>("static/graph-data/explorer/core.json")
 const index = read<OuterIndex>("static/graph-data/explorer/index.json")

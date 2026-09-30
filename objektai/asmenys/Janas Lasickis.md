@@ -25,15 +25,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-69b5e35e4ddcaf25550b6e05
-canonical_name: Janas Lasickis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Janas Lasickis
-sameAs: []
-canonical_biography: 'Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netikrų krikščionių dievus, draugijos nariai pasivadino senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­ kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­ gantu, Juozapas.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:04:28+00:00","source_checked_at":"2026-09-19T08:04:28+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -47,6 +38,13 @@ object_page_seo_description: 'Janas Lasickis: Išstudijavę Jano Lasickio knygą
 object_page_seo_input_hash: 506c0b6d99c4886f53f3935f03fcc3d7339386ee1ebfb1ff4246e608940da499
 object_page_seo_generated_at: '2026-09-19T08:04:28+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-69b5e35e4ddcaf25550b6e05"
+canonical_name: "Janas Lasickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Janas Lasickis"]
+sameAs: []
+canonical_biography: "Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netikrų krikščionių dievus, draugijos nariai pasivadino senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­ kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­ gantu, Juozapas."
 ---
 # Janas Lasickis
 

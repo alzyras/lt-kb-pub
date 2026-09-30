@@ -160,6 +160,7 @@ Nenurodyta
   santrauka: 'Stasys Gurklys-Nagaika slėpėsi Broniaus Zuozos sodyboje Siaurių kaime, po namo grindimis įrengtame bunkeryje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -171,6 +172,7 @@ Nenurodyta
   santrauka: '1948 m. partizanai Likalaukių kaime buvo įsirengę bunkerį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 625 (PDF 626)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 625 (PDF 626)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

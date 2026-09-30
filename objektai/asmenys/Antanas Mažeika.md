@@ -37,6 +37,7 @@ Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–195
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad Antanas Mažeika, Povilo sūnus, 1909 m. gimė Rateliuose, o 1945 m. įstojo į Antano Gaidžiūno būrį ir rugpjūtį perėmė būrio vadovavimą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 138"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 138."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

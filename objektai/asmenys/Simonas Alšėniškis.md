@@ -63,3 +63,15 @@ Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-211324"></a>
+- t-001
+  teiginys: "Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kunigaikštį Si moną Alšėniškį, vadinamą Rūsčiuoju 9 ."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+

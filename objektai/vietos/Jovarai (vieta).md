@@ -56,6 +56,7 @@ Kęstučio partizanų būrio vadas Juozas Valonis-Merkys gimė ir gyveno Jovarų
   santrauka: 'Juozą Valonį-Merkį, gyvenusį Jovarų kaime, Ona Dapšytė-Kriukelienė savo kronikoje įvardija Kęstučio būrio vadu ir aprašo kaip nušautą, o byloje jis nurodytas Vyčio apygardos vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 426"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 426."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

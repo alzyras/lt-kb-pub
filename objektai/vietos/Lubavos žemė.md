@@ -98,6 +98,21 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   pagrindžia:
     - c-202457
 
+<a id="claim-t-222653"></a>
+- t-222653
+  teiginys: "Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kristijonas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lubavos žemė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kristijonas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Lubavos žemės nobiliai pripažino Kristijono valdžią, todėl ryšys rodo priklausymą jo valdžiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lubavos žemė priklausė Kristijonas (0.72)"
+
 ## Citatos
 
 - id: c-59296

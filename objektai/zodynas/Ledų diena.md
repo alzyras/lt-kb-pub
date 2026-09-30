@@ -34,6 +34,7 @@ Trečioji arba ketvirtoji šventės diena tradicinėje kultūroje vadinta Ledų 
   santrauka: 'Trečioji arba ketvirtoji šventės diena tradicinėje kultūroje vadinta Ledų diena; tikėta, kad tądien per audrą dirbant žemės ūkio darbus ledai išguldys pasėlius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 936 (PDF 937)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 936 (PDF 937)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

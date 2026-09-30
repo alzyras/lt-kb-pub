@@ -41,6 +41,7 @@ Pasak Simono Jurkštaičio, N. Meyerio vaikaičiai ir kiti Kupiškio žydų bend
   santrauka: 'Pasak Simono Jurkštaičio, N. Meyerio vaikaičiai ir kiti Kupiškio žydų bendruomenės palikuonys galės rasti jiems rūpimos informacijos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 579 (PDF 580)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 579 (PDF 580)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

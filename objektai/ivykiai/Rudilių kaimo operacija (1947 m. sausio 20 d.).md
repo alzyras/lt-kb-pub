@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Rudilių kaimo operaciją kronika įvardija kaip karinę čekistų operaciją, surengtą 1947 m. sausio 20 d. pagal agento „Jurgio“ duomenis; per operaciją žuvo būrio vadas Domas Plėta ir partizanas Stasys Algirdas Graičiūnas-Konduktorius.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 258"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 258."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -43,6 +43,7 @@ Mūšos–Nemunėlio mikrorajonui priskiriama 90 m absoliutinio aukščio banguo
   santrauka: 'Mūšos–Nemunėlio mikrorajonui priskiriama apie 90 m absoliutinio aukščio banguota moreninė lyguma.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 29 (PDF 30)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 29 (PDF 30)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

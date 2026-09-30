@@ -60,6 +60,15 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
   pagrindžia:
     - c-175127
 
+<a id="claim-t-214516"></a>
+- t-214516
+  teiginys: "Narbutas nurodė: Pastaboje žodis „auksakalys“ siejamas su lenkišku zlotnik, o „prekiautojas“ – su kramnik."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)

@@ -53,3 +53,15 @@ Dusburgietis teigia, kad voigt J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-222227"></a>
+- t-001
+  teiginys: "J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1827-1838; įvykio data: 1838 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą."
+

@@ -58,6 +58,7 @@ Nenurodyta
   santrauka: 'Kun. Kazimieras Mockus Kupiškyje pasistatė antkapinį paminklą – Lurdą su Švč. Mergelės Marijos skulptūra.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 430 (PDF 431)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 430 (PDF 431)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

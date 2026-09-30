@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4df8b4da3105f464e620207f
-canonical_name: F. Bugailiškis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - F. Bugailiškis
+entity_id: "ent-4df8b4da3105f464e620207f"
+canonical_name: "F. Bugailiškis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["F. Bugailiškis"]
 sameAs: []
-canonical_biography: 'Bugailiškio atsiminimais:. Bugailiškio atsiminimai.'
+canonical_biography: "Bugailiškio atsiminimais:. Bugailiškio atsiminimai."
 ---
 # F. Bugailiškis
 

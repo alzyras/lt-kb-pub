@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8d1616f6863f50f84325cef0
-canonical_name: Karkinęs miestas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Karkinęs miestas
+entity_id: "ent-8d1616f6863f50f84325cef0"
+canonical_name: "Karkinęs miestas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karkinęs miestas"]
 sameAs: []
-canonical_biography: Kijevo vietoje stovėjusi skitų žemdirbių gyvenvietė seniai buvo žinoma Karkinęs pavadinimu.
+canonical_biography: "Kijevo vietoje stovėjusi skitų žemdirbių gyvenvietė seniai buvo žinoma Karkinęs pavadinimu."
+place_authority: true
+historical_names: []
 ---
 # Karkinęs miestas
 

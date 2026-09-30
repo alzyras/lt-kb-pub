@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7dacf61a579d8f55eaadfde7
-canonical_name: Partigalos pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Partigalos pilis
+entity_id: "ent-7dacf61a579d8f55eaadfde7"
+canonical_name: "Partigalos pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Partigalos pilis"]
 sameAs: []
-canonical_biography: Varmės žemėje Gubučių vadovaujami prūsai pastatė Partigalos pilį.
+canonical_biography: "Varmės žemėje Gubučių vadovaujami prūsai pastatė Partigalos pilį."
+place_authority: true
+historical_names: []
 ---
 # Partigalos pilis
 

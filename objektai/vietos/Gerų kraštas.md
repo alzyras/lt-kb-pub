@@ -78,6 +78,17 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
   pagrindžia:
     - c-175589
 
+<a id="claim-t-213101"></a>
+- t-213101
+  teiginys: "Narbutas Gerų kraštą siejo su Herodoto minėta vieta, kur skitai nuo Dnepro žemupio esą veždavo laidoti mirusiuosius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse, o jo vidurys buvo Rogačiovas.'

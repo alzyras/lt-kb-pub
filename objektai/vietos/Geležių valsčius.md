@@ -64,6 +64,7 @@ Remiantis kronika, 25 metų partizanas Jonas Skardžius-Rakštis žuvo 1949 m. k
   santrauka: 'Remiantis kronika, 25 metų partizanas Jonas Skardžius-Rakštis žuvo 1949 m. kovo 17 d. karinės čekistų operacijos metu Vosniūnų šile, Geležių valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 290"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 290."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,4 +95,3 @@ Remiantis kronika, 25 metų partizanas Jonas Skardžius-Rakštis žuvo 1949 m. k
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

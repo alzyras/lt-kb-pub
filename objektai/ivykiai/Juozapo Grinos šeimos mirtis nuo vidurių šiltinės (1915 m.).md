@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: '1915 m. Juozapas Grina, grįžęs iš Amerikos, ir šeši jo vaikai Kreivenių kaime mirė nuo tuo metu siautusios vidurių šiltinės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 201-202 (PDF 202-203)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 201-202 (PDF 202-203)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Bažnyčios baldų dekore, Dalia Klajumienės vertinimu, išlaikyta neogotikai b
   santrauka: 'Neogotikiniai baldų dekoro elementai, kaip vertinama tyrime, derinti prie A. Zaborskio dirbtuvių altorių dekoro.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 346 (PDF 347)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 346 (PDF 347)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Pranas Sližys sukūrė daug giesmių pagal kunigo Jono Kastyčio Matulionio žo
   santrauka: 'Pranas Sližys sukūrė daug giesmių pagal kunigo Jono Kastyčio Matulionio žodžius; 1995 m. rinkinyje „Mišios. Giesmės. Dainos“ šis kunigas nurodytas kaip tekstų autorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 471-472 (PDF 472-473)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 471-472 (PDF 472-473)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

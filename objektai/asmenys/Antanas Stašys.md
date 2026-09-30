@@ -66,4 +66,3 @@ Antanas Stašys gimė 1924 m. Sungailių kaime, Vabalninko valsčiuje.
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-001
-

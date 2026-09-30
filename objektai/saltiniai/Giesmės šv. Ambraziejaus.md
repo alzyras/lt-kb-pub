@@ -34,6 +34,7 @@ Arūnas Vaicekauskas pirmuoju tikru Velykų kiaušinio paminėjimu lietuviškame
   santrauka: 'Martyno Mažvydo „Giesmės šv. Ambraziejaus“ dedikacijoje nurodomas pirmasis tikras Velykų kiaušinio paminėjimas lietuviškame šaltinyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 939 (PDF 940)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 939 (PDF 940)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

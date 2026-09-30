@@ -50,6 +50,7 @@ Aloyzas Buzas papasakojo trijų kartų Buzų kalvystės istoriją.
   santrauka: 'Aloyzas Buzas papasakojo trijų kartų Buzų kalvystės istoriją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 965 (PDF 966)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 965 (PDF 966)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Georgijus Jefremovas buvo lietuvių poezijos vertėjas.
   santrauka: 'Georgijus Jefremovas buvo lietuvių poezijos vertėjas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 866 (PDF 867)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 866 (PDF 867)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -94,6 +94,23 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
   pagrindžia:
     - c-66719
 
+<a id="claim-t-224114"></a>
+- t-224114
+  teiginys: "Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas iš Vienos: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jonas iš Vienos buvo su Erneke, kuris išplaukė laivais link Lietuvos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas iš Vienos keliavo į Lietuva (0.78); Jonas iš Vienos keliavo į Kolainiai (0.72)"
+  pagrindžia:
+    - c-204280
+
 ## Citatos
 
 - id: c-66718
@@ -194,4 +211,6 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224114
 

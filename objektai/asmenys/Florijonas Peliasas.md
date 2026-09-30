@@ -50,6 +50,7 @@ Florijonas Peliasas 1605–1606 m. kartu su Jurgiu Suliatickiu ir Jonu Stanišev
   santrauka: '1605–1606 m. A. Naruševičius užstatė Panoriūnės–Palėvenės dvaro kaimus Jurgiui Suliatickiui, Jonui Staniševskiui ir Florijonui Peliasui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 153 (PDF 154)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 153 (PDF 154)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

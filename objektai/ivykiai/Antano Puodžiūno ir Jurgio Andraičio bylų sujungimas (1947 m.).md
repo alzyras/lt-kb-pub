@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: '1947 m. rugpjūčio 29 d. Antano Puodžiūno ir Jurgio Andraičio bylos buvo sujungtos į vieną bylą Nr. 11107.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 494 (PDF 495)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 494 (PDF 495)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

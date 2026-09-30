@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Suimto partizano Vaclovo Čepukonio-Tigro parodymuose nurodyta, kad 1948 m. gegužę Daukų kaime 15 Antano Starkaus vadovaujamų partizanų apšaudė kareivių automobilį, o gyventojai pranešė apie tris žuvusius kareivius.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 311"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 311."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

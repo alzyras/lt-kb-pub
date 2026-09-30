@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1859 m. Kupiškio valstybinio dvaro (valsčiaus) patikrinamosios revizijos metu jam priklausė 56 gyvenamosios vietovės su 556 kiemais, kuriuose gyveno 2 272 reviziniai valstiečiai vyrai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 185 (PDF 186)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 185 (PDF 186)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -61,6 +61,24 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   pagrindžia:
     - c-60784
 
+<a id="claim-t-225746"></a>
+- t-225746
+  teiginys: "Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Traupeinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kaltis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Traupeinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kaltis paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kaltis apgulė Traupeinas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai nurodo Kalčio paskyrimą apgulos pėstininkų vadu."
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Prūsų vadas Kaltis žuvo nukautas kalaviju, kai bėgantys pėstininkai susidūrė su raiteliais.'

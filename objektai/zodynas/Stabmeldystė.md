@@ -57,3 +57,16 @@ O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-217434"></a>
+- t-001
+  teiginys: "O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

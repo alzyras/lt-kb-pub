@@ -56,6 +56,7 @@ media_all_json: |-
   santrauka: 'S. Mackela per apklausą nurodė, kad jo brolis Modestas Mackela nuo 1945 m. priklausė Ukmergės teritorijoje veikusiam Šarūno partizanų junginiui ir ėjo junginio vado pavaduotojo pareigas slapyvardžiu Mackūnas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 307"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 307."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

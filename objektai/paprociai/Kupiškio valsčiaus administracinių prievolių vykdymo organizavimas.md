@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Dar iki vokiečių kariuomenės atėjimo į Kupiškį 1941 m. birželio 26 d. buvo atkuriama lietuviška valsčiaus administracija.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 581 (PDF 582)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 581 (PDF 582)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

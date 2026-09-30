@@ -41,6 +41,7 @@ Bronius Navarskas dalyvavo vyrų ansamblyje. Bronius Navarskas įvardytas tarp v
   santrauka: 'Bronius Navarskas dalyvavo vyrų ansamblyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 700 (PDF 701)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 700 (PDF 701)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -53,6 +54,7 @@ Bronius Navarskas dalyvavo vyrų ansamblyje. Bronius Navarskas įvardytas tarp v
   santrauka: 'Bronius Navarskas buvo dumplinių instrumentų muzikantas ir muzikavo kartu su Aleksandru Kriūka.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1073 (PDF 1074)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1073 (PDF 1074)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

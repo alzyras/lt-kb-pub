@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1581–1596 m. Kupiškio vietininkas Grigalius Kaptis ir jo padėjėjas Laurynas Vaina, kaip nurodo šaltinis, reikalavo didesnių mokesčių, skirdavo baudas ir negrąžindavo pasiskolintų padargų, pakinktų bei gyvulių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 138 (PDF 139)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 138 (PDF 139)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

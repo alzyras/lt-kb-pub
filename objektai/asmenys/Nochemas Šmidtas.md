@@ -49,6 +49,7 @@ canonical_biography: "Nochemas Šmidtas turėjo elektrinę ir 1931 m. pasirašė
   santrauka: '1931 m. Nochemas Šmidtas, turėjęs elektrinę, pasirašė su Kupiškio miesto savivaldybe sutartį aprūpinti elektra Kupiškį ir jo apylinkes.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 580 (PDF 581)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 580 (PDF 581)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

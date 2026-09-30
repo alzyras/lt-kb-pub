@@ -37,6 +37,7 @@ canonical_biography: "Jonas Jankauskas gyveno Petrošiškio kaime, Vabalninko va
   santrauka: '1946 m. liepos 16 d. Jono Jankausko namuose Petrošiškio kaime po grindimis rastas bunkeris, kuriame slėpėsi Gediminas Aukštikalnis; Ona Dapšytė-Kriukelienė Jankauską įvardija partizanų rėmėju.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 206"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 206."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

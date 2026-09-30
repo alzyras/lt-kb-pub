@@ -51,6 +51,7 @@ Kostė Kleniauskienė Juodpėnų bibliotekoje dirbo 1963–1975 m. ir 1998–200
   santrauka: 'Kostė Kleniauskienė Juodpėnų bibliotekoje dirbo 1963–1975 m. ir 1998–2004 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 817 (PDF 818)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 817 (PDF 818)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

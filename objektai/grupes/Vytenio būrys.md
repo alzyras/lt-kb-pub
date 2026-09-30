@@ -34,6 +34,7 @@ Juozo Jankausko-Pilsudskio būrio partizanai anksčiau priklausė Vytenio būriu
   santrauka: 'Juozo Jankausko-Pilsudskio būrio partizanai anksčiau priklausė Vytenio būriui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 623 (PDF 624)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 623 (PDF 624)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

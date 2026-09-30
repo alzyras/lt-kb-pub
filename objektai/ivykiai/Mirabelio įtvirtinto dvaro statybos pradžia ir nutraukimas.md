@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Gintautas Zabiela mano, kad Mirabelyje XVIII a. pradžioje galėjo būti pradėta įtvirtinto dvaro statyba, nutraukta paruošus vietą ir pradėjus pilti pylimus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 135 (PDF 136)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 135 (PDF 136)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

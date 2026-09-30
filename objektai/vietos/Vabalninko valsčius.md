@@ -89,6 +89,7 @@ canonical_biography: "Septynių partizanų grupė prieš 1948 m. vasario 12 d. b
   santrauka: '1948 m. vasario 12 d. informatoriaus „Vernyj“ pranešime nurodyta, kad Povilo Laužiko-Liudo septynių partizanų grupė anksčiau buvo dislokuota Vabalninko valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 289"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 289."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

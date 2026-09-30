@@ -51,6 +51,7 @@ Mykolas Juozapas Petrauskas sudarė 1721 m. Kupiškio bažnyčios inventorių.
   santrauka: 'Mykolas Juozapas Petrauskas sudarė 1721 m. Kupiškio bažnyčios inventorių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 366 (PDF 367)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 366 (PDF 367)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

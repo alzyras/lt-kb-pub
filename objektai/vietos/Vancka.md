@@ -85,3 +85,21 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]
 - Vancka priklausė [[objektai/vietos/Pomeranija]]
+
+## Teiginiai
+
+<a id="claim-t-222306"></a>
+- t-001
+  teiginys: "Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pomeranija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vancka: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pomeranija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai apibūdina Vancką kaip Pomeranijos kunigaikštystės kraštą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vancka priklausė Pomeranija (0.90); Vancka priklausė Teutonai (0.82)"
+

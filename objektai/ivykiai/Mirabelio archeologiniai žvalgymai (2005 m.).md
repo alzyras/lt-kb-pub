@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '2005 m. Mirabelio vietoje archeologinius žvalgymus atliko Vismantas Muralis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 135 (PDF 136)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 135 (PDF 136)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

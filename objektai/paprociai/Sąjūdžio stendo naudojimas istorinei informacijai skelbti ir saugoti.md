@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Sąjūdžio suvažiavimuose dalyvavęs asmuo parsivežtą aktualiausią informaciją skelbdavo sąjūdininkų stende.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 874 (PDF 875)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 874 (PDF 875)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Iki jubiliejinio minėjimo stende buvo numatyta skelbti rajono Sąjūdžio ištakas, ankstesnių renginių kroniką ir nuotraukas, o po sukakties stendas iš tiesų perduotas saugoti Kupiškio etnografijos muziejui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 874 (PDF 875)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 874 (PDF 875)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

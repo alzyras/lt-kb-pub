@@ -44,6 +44,7 @@ Klierikas Salvijus Pranskūnas, padedamas dr. Arvydo Petro Žygo, 1988 m. telkė
   santrauka: 'Klierikas Salvijus Pranskūnas, padedamas dr. Arvydo Petro Žygo, 1988 m. telkė pirmuosius ateitininkus Kupiškyje, o ateitininkų kuopa veikė nuo 1989 m. rugsėjo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 444 (PDF 445)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 444 (PDF 445)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

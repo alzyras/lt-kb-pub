@@ -30,6 +30,7 @@ Kronikos autorė Ona Dapšytė-Kriukelienė nurodo, kad persekiojant Vytauto Ša
   santrauka: 'Kronikos autorė Ona Dapšytė-Kriukelienė nurodo, kad persekiojant Vytauto Šato ir Juozo Aukštikalnio būrių partizanus Skaistbalio apylinkėse kautynėse su jos vadinamais stribais sunkiai sužeistas Juozas Aukštikalnis po dviejų dienų mirė.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 152"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 152."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

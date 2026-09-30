@@ -34,6 +34,7 @@ Panašios drožybos skulptūrėlių užfiksuota ne vienoje Lietuvos bažnyčioje
   santrauka: 'Lietuvos sakralinės dailės daugiatomyje nurodoma analogiškų drožybos skulptūrėlių Lietuvos bažnyčiose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 353 (PDF 354)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 353 (PDF 354)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

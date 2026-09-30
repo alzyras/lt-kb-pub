@@ -57,39 +57,6 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
   pagrindžia:
     - c-194697
 
-<a id="claim-t-217025"></a>
-- t-217025
-  teiginys: "Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jurgis Plioteris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Januškevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jurgis Plioteris: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Januškevičius\" parinktas kaip owner_note_path. Targetas \"Jurgis Plioteris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198068
-    - c-199396
-
-<a id="claim-t-217865"></a>
-- t-217865
-  teiginys: "Apie šio lobio suradimą Švėkšnos klebono kunigo kanau ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš to gyventojams."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198068
-
 ## Citatos
 
 - id: c-173047
@@ -149,9 +116,6 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217025
-    - t-217865
 
 - id: c-199396
   autorius: "Teodoras Narbutas"
@@ -176,6 +140,27 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217025
+
+- id: c-215064
+  autorius: "Teodoras Narbutas"
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  citata_originali: |
+    Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?
+    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
+    užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę­
+    sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir
+    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
+    kraštams.
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams.
+  citata_rodoma: "Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams."
+  statusas: verified
+  atnaujinta: "2026-09-30 03:10"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 

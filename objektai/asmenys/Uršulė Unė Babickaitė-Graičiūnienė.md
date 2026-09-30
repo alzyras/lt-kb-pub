@@ -65,6 +65,7 @@ Uršulė Unė Babickaitė-Graičiūnienė Panevėžio teatre pastatė tris spekt
   santrauka: 'Uršulė Unė Babickaitė-Graičiūnienė, dar įvardyta Une Baye, gyveno 1897–1961 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1110 (PDF 1111)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1110 (PDF 1111)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -74,6 +75,7 @@ Uršulė Unė Babickaitė-Graičiūnienė Panevėžio teatre pastatė tris spekt
   santrauka: 'Babickaitė mirė, pagal oficialią versiją – nuo kraujo užkrėtimo Òsidūrus pirštą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1107 (PDF 1108)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1107 (PDF 1108)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,4 +94,3 @@ Uršulė Unė Babickaitė-Graičiūnienė Panevėžio teatre pastatė tris spekt
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

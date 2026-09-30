@@ -62,6 +62,20 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
   pagrindžia:
     - c-204041
 
+<a id="claim-t-223516"></a>
+- t-223516
+  teiginys: "Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Noihauzas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Noihauzas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Konradas pastatydino pilį, vadintą Noihauzu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.'

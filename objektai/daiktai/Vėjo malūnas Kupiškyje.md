@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'A. Graužinis ir H. Orakauskas visuomeniniais pagrindais ėmėsi atstatyti Kupiškio vėjo malūną, esantį P. Cvirkos gatvėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 853 (PDF 854)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 853 (PDF 854)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

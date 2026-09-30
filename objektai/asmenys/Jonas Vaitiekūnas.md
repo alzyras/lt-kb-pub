@@ -72,6 +72,7 @@ Jonas Vaitiekūnas-Tranas buvo Juozo Vaitiekūno brolis. Jonas Vaitiekūnas gyve
   santrauka: 'Bylose yra duomenų, kad Jonas Vaitiekūnas žuvo 1948 m. lapkričio 12 d.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 360"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 360."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,4 +103,3 @@ Jonas Vaitiekūnas-Tranas buvo Juozo Vaitiekūno brolis. Jonas Vaitiekūnas gyve
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

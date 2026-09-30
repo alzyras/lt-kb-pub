@@ -31,17 +31,6 @@ media_all_json: '[]'
 tags:
   - vieta
   - pilis
-entity_id: ent-1f8e9b2ddb7507d6fadae416
-canonical_name: Sluckas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Sluckas
-sameAs: []
-canonical_biography: 'Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Sluckas","url":"https://lt.wikipedia.org/wiki/Sluckas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Sluckas","url":"https://www.vle.lt/straipsnis/sluckas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:02:06+00:00","source_checked_at":"2026-09-19T14:02:06+00:00","counts":{"relations":5,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Slùckas (bltr. Слуцк, rus. Слуцк) – miestas pietinėje Baltarusijoje, Minsko srityje, 105 km nuo Minsko, prie Slučės upės (Pripetės intakas). Rajono centras. Yra geležinkelio stotis, išvystyta metalo apdirbimo, lengvoji ir tekstilės pramonė. Sluckas nuo senų laikų garsėja linų prekyba.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"61549","revision_id":"7384710","status":"published","translation_status":"native","source":{"title":"Sluckas","url":"https://lt.wikipedia.org/wiki/Sluckas","publisher":"Vikipedija","language":"lt","article_id":"61549","revision_id":"7384710","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7384710","history_url":"https://lt.wikipedia.org/w/index.php?title=Sluckas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:22:06.693158+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"d6f8c0aac1dc82b9964bbc1e114b77b3546fe61c3a41b0c2524565395c25663e","version_pk":"e0c10a4e599a163bb9799fcd3b67a388"}},"source_buttons":[{"label":"Vikipedija","title":"Sluckas","url":"https://lt.wikipedia.org/wiki/Sluckas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Sluckas","url":"https://www.vle.lt/straipsnis/sluckas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Sluckas","https://www.vle.lt/straipsnis/sluckas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-183782","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Biti Girėjus","claim_id":"t-185695","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Burnaš Girėjus","claim_id":"t-185695","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-119096","confidence":0.74},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-181136","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
 object_page_finisher: 'true'
@@ -55,6 +44,15 @@ object_page_seo_description: 'Sluckas: Tuo būdu į jo valdymo pabaigą atskiros
 object_page_seo_input_hash: 4107d2a82999e926047f6eb28cc13778d77a16bbe6c83c9a2784737577393102
 object_page_seo_generated_at: '2026-09-19T14:02:06+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-1f8e9b2ddb7507d6fadae416"
+canonical_name: "Sluckas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sluckas"]
+sameAs: ["https://www.wikidata.org/entity/Q201243"]
+canonical_biography: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+place_authority: true
+historical_names: []
 ---
 # Sluckas
 

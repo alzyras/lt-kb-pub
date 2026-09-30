@@ -83,6 +83,14 @@ Nenurodyta
   pagrindžia:
     - c-10295
 
+<a id="claim-t-210036"></a>
+- t-210036
+  teiginys: "Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
 ## Citatos
 
 - id: c-10293

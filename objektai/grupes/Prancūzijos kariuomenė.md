@@ -45,6 +45,7 @@ media_all_json: |-
   santrauka: '1812 m. Prancūzijos kariuomenės reikmėms Kupiškio seniūnijoje nusavinta turto už 17 279 rublius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 174 (PDF 175)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 174 (PDF 175)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

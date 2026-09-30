@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-335c74ec4264b8a203f7c15a
-canonical_name: Austrijos-Vengrija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Austrijos-Vengrija
+entity_id: "ent-335c74ec4264b8a203f7c15a"
+canonical_name: "Austrijos-Vengrija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Austrijos-Vengrija"]
 sameAs: []
-canonical_biography: Austrijos-Vengrijos gyventojui teko 22.6 litro vyno per metus.
+canonical_biography: "Austrijos-Vengrijos gyventojui teko 22.6 litro vyno per metus."
 place_authority: true
 historical_names: []
 ---

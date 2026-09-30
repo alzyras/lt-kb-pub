@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Redakcijos darbuotojos plėtė savo akiratį dalyvaudamos seminaruose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 838 (PDF 839)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 838 (PDF 839)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

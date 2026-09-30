@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1991 m. pavasarį Rokiškio, Zarasų ir Kupiškio rajonų bibliotekininkai paminėjo Jono Katelės 160-ąsias gimimo metines.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 469 (PDF 470)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 469 (PDF 470)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

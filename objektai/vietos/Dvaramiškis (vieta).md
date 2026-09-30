@@ -54,6 +54,7 @@ Vilhelmina Aleknienė-Elskienė (Mackevičiūtė) gimė 1932 m. Dvaramiškio kai
   santrauka: 'Vilhelmina Aleknienė-Elskienė (Mackevičiūtė) gimė 1932 m. Dvaramiškio kaime ir gyveno Kupiškyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1033 (PDF 1034)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1033 (PDF 1034)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

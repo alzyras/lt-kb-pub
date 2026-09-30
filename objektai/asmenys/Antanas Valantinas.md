@@ -67,6 +67,7 @@ Antanas Valantinas 1940 m. liepos–1941 m. rugpjūčio mėn. dirbo vikaru. Aldo
   santrauka: 'Aldona Vasiliauskienė nurodo, kad kunigo Antano Valantino paskatinti Buivėnų kaimo žmonės pirmieji pastatė kryžių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 235 (PDF 236)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 235 (PDF 236)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

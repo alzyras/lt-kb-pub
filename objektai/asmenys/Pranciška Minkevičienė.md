@@ -73,4 +73,3 @@ Pranciška Minkevičienė dirbo Didžprūdėlių viešojoje bibliotekoje 1979–
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
-

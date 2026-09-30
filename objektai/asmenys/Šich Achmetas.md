@@ -66,6 +66,21 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   pagrindžia:
     - c-178822
 
+<a id="claim-t-195007"></a>
+- t-195007
+  teiginys: "Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pradinis teiginys turi perteklinį kontekstą apie karalių ir gali būti glaustesnis."
+  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Mengli Girėjus|Mengli Girėjus]]; mentioned_place: Krymas; llm_object: Trakai"
+  semantiniai_rysiai: "[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Lietuva; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Trakai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-177390
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -185,6 +200,8 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195007
 
 - id: c-177391
   autorius: "Albertas Vijūkas-Kojelavičius"

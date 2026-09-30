@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Alvydo Totorio teigimu, Noriūnų dvarininkai sausino dvaro žemes siekdami gerinti jų kokybę; darbus liudija išlikę medinio drenažo fragmentai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 692 (PDF 693)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 692 (PDF 693)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-060302dc755a4f2a33807750
-canonical_name: A. Dailydė
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Dailydė
+entity_id: "ent-060302dc755a4f2a33807750"
+canonical_name: "A. Dailydė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Dailydė"]
 sameAs: []
-canonical_biography: A. Dailydė priešinosi Marijampolės mokyklų direktoriui Meyeriui-pastoriui.
+canonical_biography: "A. Dailydė priešinosi Marijampolės mokyklų direktoriui Meyeriui-pastoriui."
 ---
 # A. Dailydė
 

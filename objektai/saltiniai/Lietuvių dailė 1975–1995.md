@@ -41,6 +41,7 @@ A. Andriuškevičiaus knyga „Lietuvių dailė: 1975–1995“ išleista Vilniu
   santrauka: 'A. Andriuškevičiaus knyga „Lietuvių dailė: 1975–1995“ išleista Vilniuje, Vilniaus dailės akademijos leidykloje, 1997 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1148 (PDF 1149)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1148 (PDF 1149)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

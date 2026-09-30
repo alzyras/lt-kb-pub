@@ -64,6 +64,54 @@ Nenurodyta
   pagrindžia:
     - c-63088
 
+<a id="claim-t-221029"></a>
+- t-221029
+  teiginys: "1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "puole -> Ragainė: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių pagrobimas vyko prie Ragainės pilies, todėl tai tiksliausias leistinas vietos objektas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1295 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+
+<a id="claim-t-221406"></a>
+- t-221406
+  teiginys: "1295 m. rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Ragainė: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvių veiksmą prieš Ragainės papilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1295 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
+
+<a id="claim-t-222277"></a>
+- t-222277
+  teiginys: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

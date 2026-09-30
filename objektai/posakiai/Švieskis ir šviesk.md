@@ -41,6 +41,7 @@ Aukštaičių pažangiojo jaunimo organizacijos šūkis buvo „Švieskis ir šv
   santrauka: 'Aukštaičių pažangiojo jaunimo organizacijos šūkis buvo „Švieskis ir šviesk“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 786 (PDF 787)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 786 (PDF 787)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

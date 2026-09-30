@@ -73,6 +73,27 @@ Nenurodyta
   pagrindžia:
     - c-173908
 
+<a id="claim-t-215828"></a>
+- t-215828
+  teiginys: "Teodoro Narbuto pasakojime Neronas 54 ar 55 m., siekdamas Romai parodyti prašmatnų reginį, pasiuntė kilmingą romėną pargabenti gintaro."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Neronas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Neronas sumanė atgabenti gintaro, o dėl to buvo išsiųstas romėnas; įvykis yra ši pasiųsto riterio kelionė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Neronas siuntė į Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro (0.86)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-195430
+
 ## Citatos
 
 - id: c-173908
@@ -145,6 +166,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215828
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Neronas]]

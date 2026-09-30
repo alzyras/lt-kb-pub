@@ -41,6 +41,7 @@ XX a. pradžioje Terpeikiuose stovėjo S. Matulionio dirbtas dviaukštis stogast
   santrauka: 'XX a. pradžioje Terpeikiuose stovėjo S. Matulionio dirbtas dviaukštis stogastulpis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 958 (PDF 959)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 958 (PDF 959)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -77,3 +77,20 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-225312"></a>
+- t-001
+  teiginys: "Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Notangai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Štenkelis iš Bentheimo: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Notangai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kontekste priešas yra notangai, prieš kurių rikiuotę Štenkelis kovojo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Štenkelis iš Bentheimo kariavo prieš Notangai (0.70)"
+

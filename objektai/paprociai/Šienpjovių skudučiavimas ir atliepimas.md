@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Pyragių šienpjoviai per šienapjūtę pūsdavo iš žalio builio padarytais skudučiais, o Palėvenės šienpjoviai atliepdavo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1049 (PDF 1050)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1049 (PDF 1050)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

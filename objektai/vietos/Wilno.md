@@ -61,3 +61,16 @@ Obraz Litwy pod względem jej cywilizacyi, od czasow najdawniejszych do koncawie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-219803"></a>
+- t-001
+  teiginys: "Obraz Litwy pod względem jej cywilizacyi, od czasow najdawniejszych do koncawieku XVIII.-Wilno, 1844."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1921 m. rugsėjo 7 d. vyskupas P. Karevičius konsekravo Kupiškio Kristaus Žengimo į dangų bažnyčią.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 265 (PDF 266)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 265 (PDF 266)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

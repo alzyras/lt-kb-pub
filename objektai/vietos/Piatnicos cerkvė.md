@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-13c9687dc6d894c3759309ca
-canonical_name: Piatnicos cerkvė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Piatnicos cerkvė
+entity_id: "ent-13c9687dc6d894c3759309ca"
+canonical_name: "Piatnicos cerkvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Piatnicos cerkvė"]
 sameAs: []
-canonical_biography: 'Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va dino gudelkomis, vaivorykštę - Linksminę, žinios „apie kaž kokį lietuvių Bakchą, jo garbintojus ir jo šventyklą, buvusią Vilniuje“, Piatnicos cerkvės vietoje34, ir 1.1., ir 1.1.'
+canonical_biography: "Narbuto teiginiai, kad žemaičiai „vandens mergeles“ va dino gudelkomis, vaivorykštę - Linksminę, žinios „apie kaž kokį lietuvių Bakchą, jo garbintojus ir jo šventyklą, buvusią Vilniuje“, Piatnicos cerkvės vietoje34, ir 1.1., ir 1.1."
+place_authority: true
+historical_names: []
 ---
 # Piatnicos cerkvė
 

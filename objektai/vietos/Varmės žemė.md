@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-983e6a4eff033ba0181a4e77
-canonical_name: Varmės žemė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Varmės žemė
+entity_id: "ent-983e6a4eff033ba0181a4e77"
+canonical_name: "Varmės žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varmės žemė"]
 sameAs: []
-canonical_biography: Broliai atplaukė prie Varmės žemės kranto ir netoli būsimos Baigos pilies pamatė prūsų pilį.
+canonical_biography: "Broliai atplaukė prie Varmės žemės kranto ir netoli būsimos Baigos pilies pamatė prūsų pilį."
+place_authority: true
+historical_names: []
 ---
 # Varmės žemė
 

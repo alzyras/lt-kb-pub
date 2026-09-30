@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: 'Tarptautiniai ir respublikiniai medžio drožėjų plenerai „Žmogus ir vanduo“ Kupiškyje vyko 2004–2011 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1142-1143 (PDF 1143-1144)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1142-1143 (PDF 1143-1144)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

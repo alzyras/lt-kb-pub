@@ -48,6 +48,7 @@ Vėžionys ribojosi su Kupiškio dvaro žemėmis, Iciūnų kaimo žemėmis, Lėv
   santrauka: 'Vėžionys ribojosi su Kupiškio dvaro žemėmis, Iciūnų kaimo žemėmis, Lėvens upe ir Rukšių užusieniu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 148 (PDF 149)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 148 (PDF 149)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-29f8219e04495a516eab1d70
-canonical_name: Albertas Friderikas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Albertas Friderikas
+entity_id: "ent-29f8219e04495a516eab1d70"
+canonical_name: "Albertas Friderikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Friderikas"]
 sameAs: []
-canonical_biography: 'Tas ąžuolas buvo tuščiaviduris ir tokio storumo, kad į jį su arkliu buvo galima įjoti ir patogiai apsig ręžti, o taip ir padarė švento atminimo markgrafas Albertas Friderikas.'
+canonical_biography: "Tas ąžuolas buvo tuščiaviduris ir tokio storumo, kad į jį su arkliu buvo galima įjoti ir patogiai apsig ręžti, o taip ir padarė švento atminimo markgrafas Albertas Friderikas."
 ---
 # Albertas Friderikas
 

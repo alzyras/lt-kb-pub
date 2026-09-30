@@ -67,6 +67,7 @@ Nenurodyta
   santrauka: 'Lietuvos istoriografijoje monetų dėjimas į kapus ilgai interpretuotas kaip pagonybės apraiška, o naujesniuose darbuose jis aiškintas kaip universalus Lietuvos christianizacijos procesą lydėjęs reiškinys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 629 (PDF 630)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 629 (PDF 630)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +79,7 @@ Nenurodyta
   santrauka: 'Monetų dėjimas į kapus buvo laidotuvių ritualas, paplitęs Europos civilizacijoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 629 (PDF 630)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 629 (PDF 630)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

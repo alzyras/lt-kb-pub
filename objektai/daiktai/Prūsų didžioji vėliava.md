@@ -56,6 +56,25 @@ Nenurodyta
   pagrindžia:
     - c-201352
 
+<a id="claim-t-218736"></a>
+- t-218736
+  teiginys: "Narbutas Prūsų didžiojoje vėliavoje aprašo Atrimpo atvaizdą kaip jaunikaitį su javų varpų vainiku ant galvos, stovintį Perkūno kairėje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Prūsai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsų didžioji vėliava: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Genityvinė formuluotė tiesiogiai sieja didžiąją vėliavą su prūsais."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Prūsų didžioji vėliava priklausė Prūsai (0.86)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-172624

@@ -37,6 +37,7 @@ canonical_biography: "Stasys Užtupas, Petro, pabėgo iš įkalinimo ir 1947 m. 
   santrauka: '1947 m. rugpjūčio 31 d. Miliūnų kaime MVD Kupiškio valsčiaus poskyrio kareiviai sužeistą Stasį Užtupą sulaikė, persekiodami jį kaip iš įkalinimo pabėgusį, dokumentų padirbinėjimu įtariamą asmenį.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 269"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 269."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ canonical_biography: "Stasys Užtupas, Petro, pabėgo iš įkalinimo ir 1947 m. 
   santrauka: '1947 m. rugpjūčio 31 d. Kupiškio emvėdistai Miliūnų kaime rado iš sulaikymo pabėgusį, dokumentų padirbinėjimu įtariamą Stasį Užtupą, o sužeistą Stasį Užtupą sulaikė.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 278"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 278."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

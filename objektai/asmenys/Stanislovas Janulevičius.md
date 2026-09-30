@@ -51,6 +51,7 @@ Stanislovas Janulevičius (1839 arba 1841–1921) rūpinosi naujosios Kupiškio 
   santrauka: 'Stanislovas Janulevičius (1839 arba 1841–1921) rūpinosi naujosios Kupiškio bažnyčios statybomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 337 (PDF 338)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 337 (PDF 338)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

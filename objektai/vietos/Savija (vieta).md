@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ed912db1ea3404f033a92756
-canonical_name: Savija (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Savija
-  - Savija (vieta)
+entity_id: "ent-ed912db1ea3404f033a92756"
+canonical_name: "Savija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Savija","Savija (vieta)"]
 sameAs: []
-canonical_biography: Prie Savos ir Dravos upių plytėjusi Panonijos dalis buvo vadinama Savija.
+canonical_biography: "Prie Savos ir Dravos upių plytėjusi Panonijos dalis buvo vadinama Savija."
+place_authority: true
+historical_names: []
 ---
 # Savija (vieta)
 

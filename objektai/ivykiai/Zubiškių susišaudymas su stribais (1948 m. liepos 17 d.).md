@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje rašoma, kad 1948 m. liepos 17 d. Zubiškių kaime partizanai apšaudė „stribus“; susišaudyme dalyvavo Antanas Starkus, Albinas Pajarskas ir Jonas Lapienis, aukų nebuvo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 314"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 314."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

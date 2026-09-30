@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'XVIII a. trečiajame dešimtmetyje Noriūnų dvaro savininkas Jonas Bucholcas baigė mūryti Jėzaus Kristaus koplyčią bažnyčios kairiajame šone.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 227 (PDF 228)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 227 (PDF 228)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

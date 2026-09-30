@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Siverų Naugardas"]
 sameAs: []
 canonical_biography: "Siverų Naugardą valdė iš Voluinės Vladimiro atkeltas Teodoras Liubartaitis."
+place_authority: true
+historical_names: []
 ---
 # Siverų Naugardas
 

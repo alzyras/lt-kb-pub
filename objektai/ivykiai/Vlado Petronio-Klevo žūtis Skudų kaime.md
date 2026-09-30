@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Pagal informatoriaus „Petronio“ agentūrinį pranešimą, Vladas Petronis žuvo 1948 m. vasario 2 d. MGB vidaus kariuomenės 137-ojo šaulių pulko pajėgų surengtoje karinėje operacijoje Skudų kaime, Subačiaus valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 219-220"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 219-220."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

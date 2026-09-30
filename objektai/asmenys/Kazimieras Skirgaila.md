@@ -100,6 +100,25 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   pagrindžia:
     - c-169310
 
+<a id="claim-t-185951"></a>
+- t-185951
+  teiginys: "Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Skirgaila (Lenkijos karalius): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Skirgaila (Lenkijos karalius)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169312
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.'
@@ -267,6 +286,8 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185951
 
 - id: c-178746
   autorius: "Albertas Vijūkas-Kojelavičius"

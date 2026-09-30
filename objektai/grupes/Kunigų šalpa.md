@@ -34,6 +34,7 @@ Amerikoje „Kunigų šalpa“ 100 tūkst. egzempliorių tiražu išleido atviru
   santrauka: 'Amerikoje „Kunigų šalpa“ 100 tūkst. egzempliorių tiražu išleido atviruką, kurio kitoje pusėje buvo kalinio S. Tamkevičiaus malda.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 476 (PDF 477)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 476 (PDF 477)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

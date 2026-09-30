@@ -99,6 +99,16 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   pagrindžia:
     - c-59086
 
+<a id="claim-t-221261"></a>
+- t-221261
+  teiginys: "Apie Skomanto, sūduvių vado, atsivertimą Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios žemę503 su visa šeimyna ir bičiuliais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-59086

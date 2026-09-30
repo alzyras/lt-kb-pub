@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Pastaruoju metu daugelis žmonių renka riedulius: vieni prie namų turi po vieną kitą akmenį, o kiti sukaupia didelius, muziejinius rinkinius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 14 (PDF 15)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 14 (PDF 15)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

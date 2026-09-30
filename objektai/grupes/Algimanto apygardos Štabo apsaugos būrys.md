@@ -38,6 +38,7 @@ Onos Dapšytės-Kriukelienės kronikoje nurodyta, kad 1950 m. sausio 15 d. Mazge
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje nurodyta, kad 1950 m. sausio 15 d. Mazgeliškių kaime nukauti trys partizanai, o Algimanto apygardos Štabo apsaugos būrys visiškai sunaikintas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 385-386"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 385-386."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

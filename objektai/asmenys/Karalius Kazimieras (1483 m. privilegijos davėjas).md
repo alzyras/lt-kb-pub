@@ -78,6 +78,21 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
   pagrindžia:
     - c-179172
 
+<a id="claim-t-219775"></a>
+- t-219775
+  teiginys: "Karalius Kazimieras 1483 m. privilegija bajorui Rimvydui suteikė žemę prie Merkio upės Trakų apskrityje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išskleistas aiškus subjektas ir veiksmas: Kazimieras privilegija suteikė žemę Rimvydui. Narbuto interpretacija apie katiną kaip simbolį neperkelta kaip neutralus faktas."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Rimvydas|Rimvydas]]; mentioned_place: Trakai; mentioned_place: Upės (Oppen) kaimas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Viena"
+  temporaliniai_duomenys: "įvykio data: 1483 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas aiškus subjektas ir veiksmas: Kazimieras privilegija suteikė žemę Rimvydui. Narbuto interpretacija apie katiną kaip simbolį neperkelta kaip neutralus faktas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)

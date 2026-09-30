@@ -48,6 +48,7 @@ Povilas Balčiūnas iš Didžiagraščių priglaudė žydų šeimą, kuri ten gy
   santrauka: 'Povilas Balčiūnas iš Didžiagraščių kaimo priglaudė žydų šeimą, kuri Didžiagraščiuose galėjo gyventi apie porą metų, kol buvo susekta ir sušaudyta.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,6 +34,7 @@ Gintautas Zabiela straipsnyje „Kupiškio valsčiaus archeologija“ Kupiškį,
   santrauka: 'Gintautas Zabiela straipsnyje „Kupiškio valsčiaus archeologija“ Kupiškį, gyvavusį nuo XVI a. pradžios, vadina visiškai balta dėme Lietuvos archeologijoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 135 (PDF 136)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 135 (PDF 136)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

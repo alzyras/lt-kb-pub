@@ -50,6 +50,7 @@ canonical_biography: "Nijolė Steponaitytė tyrinėjo Kupiškį ir nustatė saug
   santrauka: 'Nijolė Steponaitytė tyrinėjo Kupiškį ir nustatė saugotinos teritorijos ribas bei vertingus plano ir tūrinės-erdvinės kompozicijos elementus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 262 (PDF 263)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 262 (PDF 263)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

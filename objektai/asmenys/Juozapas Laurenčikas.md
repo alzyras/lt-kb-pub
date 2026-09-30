@@ -49,6 +49,7 @@ canonical_biography: "1926 m. kunigas Juozapas Laurenčikas aprašė Palėvenės
   santrauka: '1926 m. kunigas Juozapas Laurenčikas aprašė bažnyčią, jai priklausiusius pastatus ir teritoriją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 314 (PDF 315)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 314 (PDF 315)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

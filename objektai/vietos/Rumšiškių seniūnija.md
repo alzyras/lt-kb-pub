@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Rumšiškių seniūnija"]
 sameAs: []
 canonical_biography: "Rumšiškių seniūnijos valstiečiams buvo skirta 100 kirčių bausmė."
+place_authority: true
+historical_names: []
 ---
 # Rumšiškių seniūnija
 

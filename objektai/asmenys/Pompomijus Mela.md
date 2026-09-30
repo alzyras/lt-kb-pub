@@ -56,6 +56,18 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
   pagrindžia:
     - c-174033
 
+<a id="claim-t-212685"></a>
+- t-212685
+  teiginys: "Pompomijus Mela kalba apie Gdansko Zulavas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196480
+
 ## Citatos
 
 - id: c-174033
@@ -145,4 +157,6 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212685
 

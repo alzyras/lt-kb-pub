@@ -96,6 +96,27 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
   pagrindžia:
     - c-197491
 
+<a id="claim-t-213305"></a>
+- t-213305
+  teiginys: "Narbuto leidime lotyniška citata nurodyta kaip paimta iš M. Mechovitos 1517 m. Krokuvoje išleisto veikalo „Tractatus de duabus sarmatiis Asiana et Europiana“."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mechovita: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mechovita\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1517 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia bibliografinę informaciją apie Mechovitos veikalą. Papildomų faktų už citatos ribų nepridėta."
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+
 ## Citatos
 
 - id: c-174457

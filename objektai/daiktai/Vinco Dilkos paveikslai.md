@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Troškūnų bažnyčios šoniniuose altoriuose buvo įtaisyti du Vinco Dilkos paveikslai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 466 (PDF 467)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 466 (PDF 467)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

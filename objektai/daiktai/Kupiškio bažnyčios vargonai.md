@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Vokiečiai ardė ir kūreno Kupiškio bažnyčios grindis, vargonus bei altorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 381 (PDF 382)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 381 (PDF 382)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

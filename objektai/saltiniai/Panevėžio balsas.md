@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1934 m. „Panevėžio balse“ rašyta, kad pasiturintys žydai perka žemės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 571 (PDF 572)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 571 (PDF 572)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

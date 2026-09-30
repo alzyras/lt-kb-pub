@@ -93,6 +93,24 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   pagrindžia:
     - c-196898
 
+<a id="claim-t-224216"></a>
+- t-224216
+  teiginys: "1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pilypas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Pilypas atvyko į Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pilypas keliavo į Prūsija (0.93)"
+  temporaliniai_duomenys: "kelionės data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Pilypą, bet pradinė formuluotė per ilga."
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.'

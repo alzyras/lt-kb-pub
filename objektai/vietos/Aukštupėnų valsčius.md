@@ -77,6 +77,7 @@ Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad Stasys Gurklys-Barsukas žuvo 1953 m. kovo 29 d. čekistų operacijos metu Broniaus Zuozos bunkeryje Siaurų kaime, Aukštupėnų valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 289"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 289."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,6 +87,7 @@ Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad Vincas Jėčius 1948 m. gegužės 16 d. žuvo čekistų operacijoje Ožkinių kaime, Aukštupėnų valsčiuje, surengtoje pagal Juozo Nevieros pranešimą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 290"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 290."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

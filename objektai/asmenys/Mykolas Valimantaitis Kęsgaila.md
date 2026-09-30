@@ -27,15 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-b0fed714092933040f87f8b6
-canonical_name: Mykolas Valimantaitis Kęsgaila
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Mykolas Valimantaitis Kęsgaila
+entity_id: "ent-noble-b0fed714092933040f87f8b6"
+canonical_name: "Mykolas Valimantaitis Kęsgaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Valimantaitis Kęsgaila"]
 sameAs: []
-canonical_biography: Mykolas Valimantaitis Kęsgaila - Kęsgailos giminės atstovas.
+canonical_biography: "Mykolas Valimantaitis Kęsgaila - Kęsgailos giminės atstovas."
 ---
 # Mykolas Valimantaitis Kęsgaila
 

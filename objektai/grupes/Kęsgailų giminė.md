@@ -71,6 +71,17 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   pagrindžia:
     - c-193643
 
+<a id="claim-t-211812"></a>
+- t-211812
+  teiginys: "Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi bent 12 kartų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+
 ## Citatos
 
 - id: c-170719

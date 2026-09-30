@@ -33,17 +33,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5b97e50cb1b761cb43cf0c54
-canonical_name: Narevas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Narevas
-sameAs: []
-canonical_biography: 'Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Narevas","url":"https://www.vle.lt/straipsnis/narevas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:01:48+00:00","source_checked_at":"2026-09-19T17:01:48+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Narevas, Narvė arba Naura (lenk. Narew, bltr. Нараў, Narav, ukr. Нарва, Narva) – upė Baltarusijos vakaruose ir Lenkijos šiaurės rytuose; dešinysis Vyslos intakas (tačiau dalyje šaltinių nurodoma kaip Vakarinio Bugo intakas). Prasideda Baltarusijoje, Belovežo girioje. Upės ilgis 484 km iš kurių Lenkijos teritorijoje upė teka 448 km, Baltarusijoje – 36 km, 1 km upė teka per valstybės sieną. Upės baseino plotas 75,200 km² iš kurių 21,302 km² yra Baltarusijoje ir 53,873 km² Lenkijoje. Upė teka Šiaurinės Palenkės ir Šiaurinės Mazovijos žemumose, Narevo aukštupio slėniu ir Narevo žemupio slėniu. Nuo Suražo iki Žendzianų tęsiasi Narevo nacionalinis parkas. 1994 m. įkurtas Lomžos Narevo upės slėnio kraštovaizdžio parkas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"110968","revision_id":"7772133","status":"published","translation_status":"native","source":{"title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","publisher":"Vikipedija","language":"lt","article_id":"110968","revision_id":"7772133","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7772133","history_url":"https://lt.wikipedia.org/w/index.php?title=Narevas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:21.156383+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"14fbf380bf1c7e894b56593436bd01b352a07f75da41f9ee09ca08313bf2e637","version_pk":"0aeb79ebc060ba75a7e047e1bb53151b"}},"source_buttons":[{"label":"Vikipedija","title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Narevas","url":"https://www.vle.lt/straipsnis/narevas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Narevas","https://www.vle.lt/straipsnis/narevas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -57,6 +46,15 @@ object_page_seo_description: 'Narevas: Būtent čia, prie Bugo ir Narevo, susifo
 object_page_seo_input_hash: 520c3875950718467eaebd4aefb471f9a7fa404d3f3250e415f3b2c477240aa1
 object_page_seo_generated_at: '2026-09-19T17:01:48+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-5b97e50cb1b761cb43cf0c54"
+canonical_name: "Narevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Narevas"]
+sameAs: ["https://www.wikidata.org/entity/Q60055"]
+canonical_biography: "Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską."
+place_authority: true
+historical_names: []
 ---
 # Narevas
 

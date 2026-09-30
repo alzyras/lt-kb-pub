@@ -41,6 +41,7 @@ Kleopas Kozmianas buvo Kupiškio bažnyčios choro globėjas.
   santrauka: 'Kleopas Kozmianas buvo Kupiškio bažnyčios choro globėjas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1012 (PDF 1013)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1012 (PDF 1013)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

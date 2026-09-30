@@ -46,6 +46,7 @@ Antanas Birbilas-Baltušis tapo būrio vadu po Antano Šilo-Kovo žūties ir buv
   santrauka: 'Antanas Birbilas-Baltušis tapo būrio vadu po Antano Šilo-Kovo žūties ir buvo suimtas 1945 m. liepos 7 d.; jo būrys veikė Panevėžio ir Subačiaus valsčiuose.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 36-37"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 36-37."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

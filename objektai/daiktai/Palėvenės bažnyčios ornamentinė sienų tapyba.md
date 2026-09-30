@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Palėvenės bažnyčios presbiterijos sienoje atidengta ir restauruota ornamentinė sienų tapyba.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 234 (PDF 235)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 234 (PDF 235)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

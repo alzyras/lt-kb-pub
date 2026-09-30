@@ -50,6 +50,7 @@ Vytautas Aleksandras Laužikas-Žydas žuvo 1948 m. liepos 24 d.
   santrauka: 'Vytautas Aleksandras Laužikas-Žydas žuvo 1948 m. liepos 24 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 625 (PDF 626)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 625 (PDF 626)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

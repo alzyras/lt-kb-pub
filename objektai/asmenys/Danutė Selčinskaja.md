@@ -41,6 +41,7 @@ Danutė Selčinskaja buvo Valstybinio Vilniaus Gaono žydų muziejaus Žydų gel
   santrauka: 'Danutė Selčinskaja buvo Valstybinio Vilniaus Gaono žydų muziejaus Žydų gelbėjimo ir atminimo įamžinimo skyriaus vedėja.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 523 (PDF 524)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 523 (PDF 524)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

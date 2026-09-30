@@ -59,6 +59,17 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
   pagrindžia:
     - c-188005
 
+<a id="claim-t-214128"></a>
+- t-214128
+  teiginys: "Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš poloviečius prie Sutenio."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Citatos
 
 - id: c-177318

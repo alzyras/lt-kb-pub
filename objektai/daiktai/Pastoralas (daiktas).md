@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Kardinolo šventinamajam įteiktas pastoralas apibūdintas kaip ganytojo tarnystės ženklas, siejamas su rūpinimusi kaimene ir vadovavimu Dievo Bažnyčiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 534 (PDF 535)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 534 (PDF 535)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

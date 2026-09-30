@@ -47,3 +47,12 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-223803"></a>
+- t-001
+  teiginys: "Puotoje Skomantas paragino brolį Liudviką atsikeršyti už įžeidimus ir pažadėjo jam padėti."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

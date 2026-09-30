@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-c7bf201e4ae65d7f3bcf5d5e
-canonical_name: Euksino jūra
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Euksino jūra
+entity_id: "ent-c7bf201e4ae65d7f3bcf5d5e"
+canonical_name: "Euksino jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Euksino jūra"]
 sameAs: []
-canonical_biography: 'Senovėje manyta, kad Euksino ir Kaspijos jūrų vandenys susisiekdavo.'
+canonical_biography: "Senovėje manyta, kad Euksino ir Kaspijos jūrų vandenys susisiekdavo."
+place_authority: true
+historical_names: []
 ---
 # Euksino jūra
 

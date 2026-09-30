@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8a2362b629b58e92a935d311
-canonical_name: Rubuliai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Rubuliai
-  - Rubuliai (vieta)
+entity_id: "ent-8a2362b629b58e92a935d311"
+canonical_name: "Rubuliai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rubuliai","Rubuliai (vieta)"]
 sameAs: []
-canonical_biography: Kartenos parapijos Rubulių kaimo valstietis Kazimieras Gontą.
+canonical_biography: "Kartenos parapijos Rubulių kaimo valstietis Kazimieras Gontą."
 place_authority: true
 historical_names: []
 ---

@@ -51,6 +51,7 @@ Pranas Viktoras Raulinaitis 1926 m. buvo Centro valdybos pirmininkas.
   santrauka: 'Pranas Viktoras Raulinaitis 1926 m. buvo Centro valdybos pirmininkas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 410-411 (PDF 411-412)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 410-411 (PDF 411-412)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

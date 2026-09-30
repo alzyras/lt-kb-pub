@@ -74,6 +74,17 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   pagrindžia:
     - c-167538
 
+<a id="claim-t-219835"></a>
+- t-219835
+  teiginys: "Iš šventojo Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab meldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-59180

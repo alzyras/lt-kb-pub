@@ -34,6 +34,7 @@ Bendruomenių valandoje pradėti rengti valandos trukmės Anykščių, Biržų i
   santrauka: 'Bendruomenių valandoje buvo rengiami valandos trukmės Anykščių, Biržų ir Pasvalio rajonų aktualijų atspindžiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 846 (PDF 847)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 846 (PDF 847)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -51,6 +51,7 @@ Po Jono Šidlausko žūties Stasys Liaudanskas, gyvenęs Rokiškio apskrityje, �
   santrauka: 'Iki Sierakausko tėvūnijos įkūrimo Romas Petronis buvo kartu su Stasiu Liaudansku, Linu Pivoravičiumi, Petru Lauciumi, Jonu Baltušiu ir Romu Styra, o tuo metu Petronis eidavo į Biržų girią.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 134-135"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 134-135."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

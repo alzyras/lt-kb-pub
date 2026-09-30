@@ -49,6 +49,7 @@ Kupiškio miestelyje stovinčią sinagogą 1775 m. mini ir klebonas Tadas Miloš
   santrauka: 'Kupiškio miestelyje stovinčią sinagogą 1775 m. mini ir klebonas Tadas Milošas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 275 (PDF 276)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 275 (PDF 276)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

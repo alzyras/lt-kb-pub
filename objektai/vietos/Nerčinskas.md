@@ -61,3 +61,16 @@ Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia prid�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-216055"></a>
+- t-001
+  teiginys: "Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką: lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko miestas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

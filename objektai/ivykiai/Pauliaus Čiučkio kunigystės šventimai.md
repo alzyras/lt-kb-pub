@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1940 m. birželio 16 d. Paulius Čiučkis Panevėžio katedroje gavo kunigystės šventimus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 536 (PDF 537)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 536 (PDF 537)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

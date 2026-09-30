@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1942–1943 m. beveik visi Tauragnų bažnyčios paveikslai ir stacijos buvo atnaujinti, kai kurie nutapyti iš naujo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 458 (PDF 459)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 458 (PDF 459)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

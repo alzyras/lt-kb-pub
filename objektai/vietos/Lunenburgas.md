@@ -73,6 +73,21 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   pagrindžia:
     - c-76664
 
+<a id="claim-t-224882"></a>
+- t-224882
+  teiginys: "Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Lunenburgas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ditrichas iš Altenburgo: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lunenburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Ditrichas pastatė Lunenburgo pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.90); Lunenburgas priklausė Barta (0.82)"
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.'

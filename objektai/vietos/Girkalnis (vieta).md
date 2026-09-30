@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d63f61e3dc4ac07cbfde375b
-canonical_name: Girkalnis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Girkalnis
-  - Girkalnis (vieta)
+entity_id: "ent-d63f61e3dc4ac07cbfde375b"
+canonical_name: "Girkalnis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Girkalnis","Girkalnis (vieta)"]
 sameAs: []
-canonical_biography: 'Valančius tais metais ap lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če kiškę 6 7. Girkalnio parapijiečiai Steponas ir Kotryna minimi kaip vieno apsakymo personažai.'
+canonical_biography: "Valančius tais metais ap lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če kiškę 6 7. Girkalnio parapijiečiai Steponas ir Kotryna minimi kaip vieno apsakymo personažai."
 place_authority: true
 historical_names: []
 ---

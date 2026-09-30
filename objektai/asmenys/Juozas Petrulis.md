@@ -41,6 +41,7 @@ Juozas Petrulis, rengdamas knygą apie liaudies dievdirbius ir menininkus, nusta
   santrauka: 'Skaidrė Urbonienė Juozo Petrulio darbą apibūdina kaip didžiulį: rengdamas knygą apie liaudies dievdirbius ir menininkus, Juozas Petrulis nustatė apie šimtą dievdirbių pavardžių ir parašė apie septyniasdešimt biografijų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 949 (PDF 950)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 949 (PDF 950)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +53,7 @@ Juozas Petrulis, rengdamas knygą apie liaudies dievdirbius ir menininkus, nusta
   santrauka: 'Skaidrė Urbonienė neabejotinu Juozo Petrulio nuopelnu laiko Kupiškio krašto dievdirbių ir kryždirbių vardų nustatymą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 949 (PDF 950)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 949 (PDF 950)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -62,6 +62,23 @@ Nenurodyta
   pagrindžia:
     - c-87547
 
+<a id="claim-t-220785"></a>
+- t-220785
+  teiginys: "Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Galinda: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Galinda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad sūduviai įsibrovė į Galindos žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Galinda (0.90); Galindai kariavo prieš Krikščionys (0.86)"
+  pagrindžia:
+    - c-202793
+
 ## Citatos
 
 - id: c-87546
@@ -136,6 +153,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220785
 
 - id: c-203780
   autorius: "Petras Dusburgietis"

@@ -48,6 +48,7 @@ Močiutė Anusevičienė buvo kilusi iš Skodinių.
   santrauka: 'Močiutė Anusevičienė buvo kilusi iš Skodinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1043 (PDF 1044)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1043 (PDF 1044)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

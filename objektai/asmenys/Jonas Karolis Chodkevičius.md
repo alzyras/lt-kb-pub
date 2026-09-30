@@ -139,6 +139,7 @@ Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis et
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184873
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
   puslapiai: "PDF 152"
@@ -154,7 +155,7 @@ Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis et
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-206380
@@ -175,6 +176,7 @@ Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis et
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-206381
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -208,7 +210,7 @@ Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis et
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-206382
@@ -227,6 +229,7 @@ Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis et
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-206383
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -250,7 +253,7 @@ Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis et
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-206384
@@ -271,7 +274,7 @@ Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis et
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-206385
@@ -301,7 +304,7 @@ Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis et
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-206386

@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-91b90ddf0d302cc7d6355fc2
-canonical_name: Augustas Šleicheris
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Augustas Šleicheris
+entity_id: "ent-91b90ddf0d302cc7d6355fc2"
+canonical_name: "Augustas Šleicheris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas Šleicheris"]
 sameAs: []
-canonical_biography: Augustas Šleicheris buvo vienas pirmųjų viešai kritiškai apie T. Narbuto lietuvių mitologijos tyrinėjimą atsiliepusių tyrinėtojų.
+canonical_biography: "Augustas Šleicheris buvo vienas pirmųjų viešai kritiškai apie T. Narbuto lietuvių mitologijos tyrinėjimą atsiliepusių tyrinėtojų."
 ---
 # Augustas Šleicheris
 

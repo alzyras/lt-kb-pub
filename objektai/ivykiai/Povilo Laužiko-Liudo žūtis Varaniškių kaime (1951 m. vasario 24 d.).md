@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1951 m. vasario 24 d. Povilas Laužikas-Liudas žuvo Kupiškio rajono Varaniškių kaime, Povilo Stuko sodyboje įrengtame bunkeryje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -109,6 +109,7 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   santrauka: 'Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 21 (PDF 22)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 21 (PDF 22)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -121,6 +122,7 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   santrauka: 'Kupiškio valsčiuje nuo seno buvo paplitę įvairūs styginiai, saviskambiai instrumentai ir membranofonai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1078 (PDF 1079)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1078 (PDF 1079)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -133,6 +135,7 @@ Natūralių pievų fragmentų Kupiškio valsčiuje išlikę upių pakrantėse. J
   santrauka: 'XX a. viduryje ir antrojoje pusėje senieji muzikavimo židiniai išliko Kupiškio valsčiaus centre ir šiaurės rytuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1079 (PDF 1080)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1079 (PDF 1080)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

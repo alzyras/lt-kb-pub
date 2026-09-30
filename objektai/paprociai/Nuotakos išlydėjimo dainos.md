@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Nuotakai nustojus raudoti apeigines raudas, jaunimas dainuodavo lydėtines dainas; Kupiškio apylinkėse buvo dainuojamos ir atsisveikinimo dainos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1032 (PDF 1033)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1032 (PDF 1033)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

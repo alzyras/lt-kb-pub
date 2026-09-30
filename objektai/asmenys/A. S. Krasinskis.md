@@ -26,16 +26,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8459e4ba33411b05954c094c
-canonical_name: 'A. S. Krasinskis (vyskupas, XIX a.)'
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. S. Krasinskis
-  - 'A. S. Krasinskis (vyskupas, XIX a.)'
+entity_id: "ent-8459e4ba33411b05954c094c"
+canonical_name: "A. S. Krasinskis (vyskupas, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. S. Krasinskis","A. S. Krasinskis (vyskupas, XIX a.)"]
 sameAs: []
-canonical_biography: 'A. S. Krasinskis buvo Vilniaus vyskupas, dalyvavęs 1860 m. spalio 1 d. iškilmėse katedroje.'
+canonical_biography: "A. S. Krasinskis buvo Vilniaus vyskupas, dalyvavęs 1860 m. spalio 1 d. iškilmėse katedroje."
 ---
 # A. S. Krasinskis (vyskupas, XIX a.)
 

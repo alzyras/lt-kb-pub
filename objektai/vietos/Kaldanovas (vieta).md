@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4beca8850cb8478ef0042f3b
-canonical_name: Kaldanovas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kaldanovas
-  - Kaldanovas (vieta)
+entity_id: "ent-4beca8850cb8478ef0042f3b"
+canonical_name: "Kaldanovas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaldanovas","Kaldanovas (vieta)"]
 sameAs: []
-canonical_biography: Kaldanovas buvo dabartinės BTSR Minsko srities miestas Dzeržinskas ir XVI a. buvo į šiaurę nuo Naugarduko vaivadijos sienos.
+canonical_biography: "Kaldanovas buvo dabartinės BTSR Minsko srities miestas Dzeržinskas ir XVI a. buvo į šiaurę nuo Naugarduko vaivadijos sienos."
+place_authority: true
+historical_names: []
 ---
 # Kaldanovas (vieta)
 

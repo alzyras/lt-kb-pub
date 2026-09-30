@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-645e7353a33224b6a8e963ed
-canonical_name: Viktoras Vizgirda
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Viktoras Vizgirda
+entity_id: "ent-645e7353a33224b6a8e963ed"
+canonical_name: "Viktoras Vizgirda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Viktoras Vizgirda"]
 sameAs: []
-canonical_biography: 'Vizgirda liudijo, kad Valančius mažai draugaudavęs su ponais. Vizgirda prisimena, kad Visų Šventųjų šventės va kare jis, vaikas, stovėjo tarp klierikų prie katafalko.'
+canonical_biography: "Vizgirda liudijo, kad Valančius mažai draugaudavęs su ponais. Vizgirda prisimena, kad Visų Šventųjų šventės va kare jis, vaikas, stovėjo tarp klierikų prie katafalko."
 ---
 # Viktoras Vizgirda
 

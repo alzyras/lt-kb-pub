@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-b106ece9d833fbb41f18fe88
-canonical_name: Krokų Lankos ežeras
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Krokų Lankos ežeras
+entity_id: "ent-b106ece9d833fbb41f18fe88"
+canonical_name: "Krokų Lankos ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krokų Lankos ežeras"]
 sameAs: []
-canonical_biography: Norint nuvesti Memelį iš Krokų Lankos ežero iki Klai pėdos tiesiai į šiaurę per pelkes ir slėnius net iki Šmalco upelio.
+canonical_biography: "Norint nuvesti Memelį iš Krokų Lankos ežero iki Klai pėdos tiesiai į šiaurę per pelkes ir slėnius net iki Šmalco upelio."
+place_authority: true
+historical_names: []
 ---
 # Krokų Lankos ežeras
 

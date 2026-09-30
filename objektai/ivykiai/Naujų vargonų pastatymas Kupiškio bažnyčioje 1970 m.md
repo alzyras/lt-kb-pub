@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1970 m. Kupiškio bažnyčioje buvo pastatyti nauji vargonai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 348 (PDF 349)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 348 (PDF 349)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

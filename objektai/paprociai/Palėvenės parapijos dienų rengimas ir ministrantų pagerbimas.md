@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Palėvenės parapijos dienų šventėje pagerbti į ją atvykę tuo metu dar gyvi buvę ministrantai ir gėlių barstytojos, o moterys katalikės jiems įteikė po simbolinį duonos kepalą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 258 (PDF 259)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 258 (PDF 259)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

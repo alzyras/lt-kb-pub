@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'P. ir V. Vireliūnai, padedami keliolikos vyresniųjų klasių moksleivių, pradėjo rengti laidą jaunimui „Prie sienos“, eteryje gyvavusią nuo 1996 m. gruodžio 11 d. dvejus metus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 843 (PDF 844)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 843 (PDF 844)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

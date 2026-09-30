@@ -89,4 +89,3 @@ Ona Petrulytė gyveno Sodelių kaime, Vabalninko valsčiuje. Paulina Petrulytė 
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

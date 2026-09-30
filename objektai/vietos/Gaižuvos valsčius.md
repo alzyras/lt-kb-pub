@@ -82,6 +82,20 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   pagrindžia:
     - c-86227
 
+<a id="claim-t-224298"></a>
+- t-224298
+  teiginys: "Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir juos niokojo gaisrais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gaižuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gaižuvos valsčius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gaižuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gaižuvos valsčius\" parinktas kaip owner_note_path. Targetas \"Gaižuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir juos niokojo gaisrais.'

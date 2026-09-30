@@ -26,17 +26,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-023d0da476e1940516f241c1
-canonical_name: Mažoji Azija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Mažoji Azija
-sameAs: []
-canonical_biography: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Mažoji Azija","url":"https://lt.wikipedia.org/wiki/Ma%C5%BEoji_Azija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Mažoji Azija","url":"https://www.vle.lt/straipsnis/mazoji-azija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:19:25+00:00","source_checked_at":"2026-09-20T13:19:25+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Mažoji Azija (turk. Küçük Asya, sen. gr. Μικρὰ Ἀσία = Mikrá Asía), arba Anatolija (turk. Anadolu, sen. gr. Ἀνατολή = Anatolḗ) – pusiasalis Azijos žemyno vakaruose, tarp Juodosios jūros ir Viduržemio jūros, į rytus nuo Bosforo sąsiaurio ir Egėjo jūros. Iš esmės pusiasalis sutampa su Turkijos valstybės ribomis Azijos žemyne.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"33215","revision_id":"7007438","status":"published","translation_status":"native","source":{"title":"Mažoji Azija","url":"https://lt.wikipedia.org/wiki/Ma%C5%BEoji_Azija","publisher":"Vikipedija","language":"lt","article_id":"33215","revision_id":"7007438","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7007438","history_url":"https://lt.wikipedia.org/w/index.php?title=Ma%C5%BEoji_Azija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:56.013464+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"a83e6e2d3af98c0a81526669dabd1b5374b1bab9147804fd0b099dc2e2a4d8f0","version_pk":"076a1b4196101d4392dcf8c6d48a9887"}},"source_buttons":[{"label":"Vikipedija","title":"Mažoji Azija","url":"https://lt.wikipedia.org/wiki/Ma%C5%BEoji_Azija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Mažoji Azija","url":"https://www.vle.lt/straipsnis/mazoji-azija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ma%C5%BEoji_Azija","https://www.vle.lt/straipsnis/mazoji-azija/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -50,6 +39,15 @@ object_page_seo_description: 'Mažoji Azija: Kiek vėliau Mažoji Azija pateko �
 object_page_seo_input_hash: 03c50c44761cb5ad0398d2b5a7455d34ca2407b0830b96b94432c1535daf7779
 object_page_seo_generated_at: '2026-09-20T13:19:25+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-023d0da476e1940516f241c1"
+canonical_name: "Mažoji Azija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mažoji Azija"]
+sameAs: ["https://www.wikidata.org/entity/Q51614"]
+canonical_biography: "Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai."
+place_authority: true
+historical_names: []
 ---
 # Mažoji Azija
 

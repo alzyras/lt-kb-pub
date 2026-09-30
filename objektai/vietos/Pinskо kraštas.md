@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-44d03cecf71bb73207962de9
-canonical_name: Pinskо kraštas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pinskо kraštas
+entity_id: "ent-44d03cecf71bb73207962de9"
+canonical_name: "Pinskо kraštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pinskо kraštas"]
 sameAs: []
-canonical_biography: 'Pinsko krašte dainuojama tokia vestuvinė daina:.'
+canonical_biography: "Pinsko krašte dainuojama tokia vestuvinė daina:."
+place_authority: true
+historical_names: []
 ---
 # Pinskо kraštas
 

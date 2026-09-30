@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Terpeikių kaime Simonas Matulionis pagamino vieną stogastulpį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 953 (PDF 954)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 953 (PDF 954)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ S. Mayersohno sūnus po karo atvyko į Kupiškį, o pasakojime jo apsilankymo ti
   santrauka: 'Po karo S. Mayersohno sūnus atvyko į Kupiškį pažvelgti į savo protėvių žemę ir ją pagerbti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 577 (PDF 578)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 577 (PDF 578)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

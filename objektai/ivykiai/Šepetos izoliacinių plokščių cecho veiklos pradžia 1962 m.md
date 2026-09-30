@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1962 m. Šepetoje pradėjo veikti izoliacinių plokščių cechas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 115 (PDF 116)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 115 (PDF 116)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

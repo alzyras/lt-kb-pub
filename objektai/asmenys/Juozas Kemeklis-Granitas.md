@@ -49,6 +49,7 @@ Iki 1951 m. gruodžio Juozas Kemeklis-Granitas vadovavo rinktinei, o po Kemeklio
   santrauka: 'Juozas Kemeklis-Granitas iki 1951 m. gruodžio mėn. vadovavo Vaižganto rinktinei; po jo žūties jai vadovavo Vaclovas Čepukonis-Tigras.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

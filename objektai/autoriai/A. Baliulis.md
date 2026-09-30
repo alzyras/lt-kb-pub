@@ -49,6 +49,7 @@ A. Baliulis, remdamasis 1909 m. susirašinėjimu dėl bažnyčių remonto, nusta
   santrauka: 'A. Baliulis, remdamasis 1909 m. susirašinėjimu dėl bažnyčių remonto, nustatė, kad tais metais buvo remontuota bažnyčia ir altoriai, o darbams išleista 3 000 rublių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 231 (PDF 232)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 231 (PDF 232)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

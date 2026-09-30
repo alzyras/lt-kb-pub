@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e4f111b073357fa28bb9e87d
-canonical_name: J. Zabermanas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - J. Zabermanas
+entity_id: "ent-e4f111b073357fa28bb9e87d"
+canonical_name: "J. Zabermanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Zabermanas"]
 sameAs: []
-canonical_biography: Zabermanui savo raštams spausdinti.
+canonical_biography: "Zabermanui savo raštams spausdinti."
 ---
 # J. Zabermanas
 
@@ -55,4 +53,21 @@ Vyskupas Motiejus Valančius per Jurgį Bielinį nusiuntė Tilžės dekanui kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208874"></a>
+- t-001
+  teiginys: "Vyskupas Motiejus Valančius per Jurgį Bielinį nusiuntė Tilžės dekanui kunigui J. Zabermanui 5 000 rublių savo raštams spausdinti, o jų tarpininkavimu leidyba pradėta Prūsijoje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:42Z"
+  pagrindžia:
+    - c-191494
 

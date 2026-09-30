@@ -86,6 +86,36 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
   pagrindžia:
     - c-176939
 
+<a id="claim-t-218152"></a>
+- t-218152
+  teiginys: "Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Reda Griškaitė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Norbertas Vėlius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Reda Griškaitė: mention_match, author, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Norbertas Vėlius\" parinktas kaip owner_note_path. Targetas \"Reda Griškaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
+<a id="claim-t-219325"></a>
+- t-219325
+  teiginys: "Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> V. Visockas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Norbertas Vėlius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "V. Visockas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Norbertas Vėlius\" parinktas kaip owner_note_path. Targetas \"V. Visockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
 ## Citatos
 
 - id: c-170750

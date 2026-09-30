@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Apie didžiojo altoriaus darbus ir meistrus 1758–1785 m. pajamų bei išlaidų knygoje duomenų nėra.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 220 (PDF 221)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 220 (PDF 221)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

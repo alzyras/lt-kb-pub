@@ -22,15 +22,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-9549532c4a39b53b805caf66
-canonical_name: Nikolajus Muravjovas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Nikolajus Muravjovas
+entity_id: "ent-9549532c4a39b53b805caf66"
+canonical_name: "Nikolajus Muravjovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nikolajus Muravjovas"]
 sameAs: []
-canonical_biography: 13 pas Valančiui Varnius atvyko Kau no gubernatorius Nikolajus Muravjovas. Jį atsiuntė tėvas Michailas Muravjovas.
+canonical_biography: "13 pas Valančiui Varnius atvyko Kau no gubernatorius Nikolajus Muravjovas. Jį atsiuntė tėvas Michailas Muravjovas."
 ---
 # Nikolajus Muravjovas
 

@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'XX a. pradžioje ir vėliau motoriniai malūnai atsirado Kupiškyje, Subačiaus g. stotyje, Skapiškyje ir kitur.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 727 (PDF 728)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 727 (PDF 728)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

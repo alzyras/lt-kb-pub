@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-94baff58478b976240e19fd3
-canonical_name: Ukmergės dekanatas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ukmergės dekanatas
+entity_id: "ent-94baff58478b976240e19fd3"
+canonical_name: "Ukmergės dekanatas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ukmergės dekanatas"]
 sameAs: []
-canonical_biography: Vidiškių sena bažnyčia buvo Ukmergės dekanate.
+canonical_biography: "Vidiškių sena bažnyčia buvo Ukmergės dekanate."
 place_authority: true
 historical_names: []
 ---

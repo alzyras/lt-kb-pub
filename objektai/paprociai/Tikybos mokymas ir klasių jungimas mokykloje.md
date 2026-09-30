@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1991 m. kun. K. Baronas dėstė tikybą tuometėje I vidurinėje mokykloje, kur trūko tikybos mokytojų ir programų, todėl buvo jungiamos klasės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 542 (PDF 543)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 542 (PDF 543)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

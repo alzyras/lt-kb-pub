@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: '1952 m. spalio 3 d. Anykščių rajone žuvo Vytautas Šinkūnas-Kariūnas ir Vytautas Valma-Savanoris, o operacijos metu suimtas Viktoras Sabaliauskas buvo nuteistas mirties bausme ir sušaudytas 1953 m. rugsėjo 30 d.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 625 (PDF 626)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 625 (PDF 626)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

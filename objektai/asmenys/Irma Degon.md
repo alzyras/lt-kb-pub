@@ -41,6 +41,7 @@ Antrojo pasaulinio karo metais kunigas padėjo slėptis iš Vilniaus geto pabėg
   santrauka: 'Antrojo pasaulinio karo metu dešimtmetė Irma Degon pabėgo iš Vilniaus geto.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 236 (PDF 237)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 236 (PDF 237)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f06d5f471fcccc257326a6c4
-canonical_name: Santyro pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Santyro pilis
+entity_id: "ent-f06d5f471fcccc257326a6c4"
+canonical_name: "Santyro pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Santyro pilis"]
 sameAs: []
-canonical_biography: Sventopelkas su kariuomene priėjo Santyro pilį ir prie jos įsirengė stovyklą.
+canonical_biography: "Sventopelkas su kariuomene priėjo Santyro pilį ir prie jos įsirengė stovyklą."
+place_authority: true
+historical_names: []
 ---
 # Santyro pilis
 

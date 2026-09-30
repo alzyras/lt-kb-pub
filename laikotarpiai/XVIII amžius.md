@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVIII amžius"
 periodo_pradzia: 1701
 periodo_pabaiga: 1800
-periodo_objektu_skaicius: 1200
+periodo_objektu_skaicius: 1199
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1200.
+Objektų skaičius: 1199.
 
 ## Susiję objektai
 
@@ -716,7 +716,6 @@ Objektų skaičius: 1200.
 - [[objektai/vietos/Vigrai]]
 - [[objektai/vietos/Vilniaus Aukštutinė pilis]]
 - [[objektai/vietos/Vilniaus katedra]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vitebskas]]
 - [[objektai/vietos/Vištyčio ežeras]]
 - [[objektai/vietos/Vladimiras]]

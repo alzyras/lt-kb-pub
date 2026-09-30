@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Daiva Vyčinienė sąmoningo benykstančios kupiškėnų dainavimo tradicijos gaivinimo pradžią datuoja apie 1922 m., kai Ona Glemžienė-Simonavičiūtė su dukterimi Stefanija ir pakviestomis dainininkėmis ėmė dainuoti kupiškėnų dainas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1012 (PDF 1013)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1012 (PDF 1013)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

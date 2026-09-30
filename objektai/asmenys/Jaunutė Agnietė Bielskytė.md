@@ -22,7 +22,7 @@ entity_id: "ent-e8291ef88b3564ef6d3bea23"
 canonical_name: "Jaunutė Agnietė Bielskytė"
 entity_roles: ["person"]
 entity_view_role: "person"
-entity_aliases: ["[\"Agnietė Bielskytė\", \"Agneška Bielskytė\"]","Jaunutė Agnietė Bielskytė"]
+entity_aliases: ["Agneška Bielskytė","Agnietė Bielskytė","[\"Agnietė Bielskytė\", \"Agneška Bielskytė\"]","Jaunutė Agnietė Bielskytė"]
 sameAs: []
 canonical_biography: "Jaunutė Agnietė Bielskytė buvo Jono Chodkevičiaus žmona. Ši santuoka Chodkevičius susiejo su kunigaikščių Alšėniškių ir Bielskių aplinka."
 ---

@@ -47,6 +47,7 @@ Padarginė, dar vadinama ratine arba vazaunia, būdavo tarp gerosios ir grūdin�
   santrauka: 'Padarginė, dar vadinama ratine arba vazaunia, būdavo tarp gerosios ir grūdinės klėties ir skirta ūkio padargams bei kai kuriems namų apyvokos rakandams laikyti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 714-717 (PDF 715-718)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 714-717 (PDF 715-718)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

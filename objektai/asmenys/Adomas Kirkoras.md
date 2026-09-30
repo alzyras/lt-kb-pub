@@ -23,15 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a00516e9aadd63b14ca032f8
-canonical_name: Adomas Kirkoras
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Adomas Kirkoras
+entity_id: "ent-a00516e9aadd63b14ca032f8"
+canonical_name: "Adomas Kirkoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas Kirkoras"]
 sameAs: []
-canonical_biography: 'Adomas Kirkoras kasinėjo pilkapius Lydos apskrityje prie Ogrodnikų kaimo, greta Kaniavų dvaro.'
+canonical_biography: "Adomas Kirkoras kasinėjo pilkapius Lydos apskrityje prie Ogrodnikų kaimo, greta Kaniavų dvaro."
 ---
 # Adomas Kirkoras
 

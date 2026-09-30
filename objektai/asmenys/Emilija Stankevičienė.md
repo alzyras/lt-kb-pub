@@ -50,6 +50,7 @@ Emilijos Stankevičienės kapo paminklą sudaro liaunas grakštaus silueto kryž
   santrauka: 'Emilijos Stankevičienės kapo paminklą sudaro liaunas grakštaus silueto kryžius su žvaigždę primenančiais skersinių galais ir besimeldžiančio angelo bareljefu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 993 (PDF 994)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 993 (PDF 994)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

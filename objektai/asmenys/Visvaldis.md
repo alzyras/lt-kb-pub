@@ -69,6 +69,13 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   pagrindžia:
     - c-175813
 
+<a id="claim-t-218453"></a>
+- t-218453
+  teiginys: "Narbutas Visvaldį vadina rusų kunigaikščiu, kurio sostinė buvo Gercikos pilis prie Dauguvos, jo nuomone, dabartinis Daugpilis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
 ## Citatos
 
 - id: c-175812

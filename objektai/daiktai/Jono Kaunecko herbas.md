@@ -59,6 +59,7 @@ Nenurodyta
   santrauka: 'Jono Kaunecko herbą sukūrė tuometinis klierikas Marius Auruškevičius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 423 (PDF 424)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 423 (PDF 424)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

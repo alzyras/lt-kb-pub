@@ -23,15 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-76abd33ad10ee26f8181440e
-canonical_name: Jurijus Ivanovičius Iljiničius
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jurijus Ivanovičius Iljiničius
+entity_id: "ent-76abd33ad10ee26f8181440e"
+canonical_name: "Jurijus Ivanovičius Iljiničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurijus Ivanovičius Iljiničius"]
 sameAs: []
-canonical_biography: Jurijus Ivanovičius Iljiničius buvo Jono Zaberezinskio žentas.
+canonical_biography: "Jurijus Ivanovičius Iljiničius buvo Jono Zaberezinskio žentas."
 ---
 # Jurijus Ivanovičius Iljiničius
 

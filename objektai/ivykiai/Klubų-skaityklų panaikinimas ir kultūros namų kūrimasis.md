@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'Apie 1957–1958 m. klubai-skaityklos buvo panaikinti, o jų vietoje kūrėsi kultūros namai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 770 (PDF 771)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 770 (PDF 771)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

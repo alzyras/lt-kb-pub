@@ -45,6 +45,7 @@ Kupiškio seniūnijoje kasmet surinktos padūmės suma buvo 8 014 auksinų ir 23
   santrauka: 'Kupiškio seniūnijoje kasmet buvo surenkama 8 014 auksinų ir 23 grašiai padūmės.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 173 (PDF 174)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 173 (PDF 174)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

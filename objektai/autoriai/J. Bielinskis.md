@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-cebc1aaef37e1aa218f0728e
-canonical_name: J. Bielinskis
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - J. Bielinskis
+entity_id: "ent-cebc1aaef37e1aa218f0728e"
+canonical_name: "J. Bielinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Bielinskis"]
 sameAs: []
-canonical_biography: J. Bielinskis pristatomas kaip šubravcų veiklos tyrinėtojas.
+canonical_biography: "J. Bielinskis pristatomas kaip šubravcų veiklos tyrinėtojas."
 ---
 # J. Bielinskis
 

@@ -49,6 +49,19 @@ Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Perga
   pagrindžia:
     - c-189667
 
+<a id="claim-t-207053"></a>
+- t-207053
+  teiginys: "Teodoras Narbutas neabejodamas nurodė, kad laišką didžiajai kunigaikštienei Julijonai parašė didysis komtūras Vilhelmas Helfenšteinas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189668
+
 ## Citatos
 
 - id: c-189667
@@ -81,4 +94,6 @@ Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Perga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207053
 

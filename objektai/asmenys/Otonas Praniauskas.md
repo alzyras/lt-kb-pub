@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f518dd42de7754ee4bdb4654
-canonical_name: Otonas Praniauskas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Otonas Praniauskas
+entity_id: "ent-f518dd42de7754ee4bdb4654"
+canonical_name: "Otonas Praniauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otonas Praniauskas"]
 sameAs: []
-canonical_biography: Kun. Otonui Praniauskui buvo pavesta paruošti lietuviškų pamokslų knygą.
+canonical_biography: "Kun. Otonui Praniauskui buvo pavesta paruošti lietuviškų pamokslų knygą."
 ---
 # Otonas Praniauskas
 

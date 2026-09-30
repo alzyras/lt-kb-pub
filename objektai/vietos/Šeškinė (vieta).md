@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-06c47b01cc35cae40bf7e511
-canonical_name: Šeškinė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Šeškinė
-  - Šeškinė (vieta)
+entity_id: "ent-06c47b01cc35cae40bf7e511"
+canonical_name: "Šeškinė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šeškinė","Šeškinė (vieta)"]
 sameAs: []
-canonical_biography: Šeškinė yra kalvų ruožas šiauriniame Vilniaus pakraštyje.
+canonical_biography: "Šeškinė yra kalvų ruožas šiauriniame Vilniaus pakraštyje."
+place_authority: true
+historical_names: []
 ---
 # Šeškinė (vieta)
 

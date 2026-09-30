@@ -52,6 +52,7 @@ Grįžęs į tėviškę, Antanas Starkus suorganizavo iš vietinių šimonieči�
   santrauka: 'Grįžęs į tėviškę, Antanas Starkus suorganizavo iš vietinių šimoniečių partizanų būrį ir jam vadovavo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 83"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 83."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

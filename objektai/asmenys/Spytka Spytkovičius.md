@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2b9cb9f1661ab2dfa033c790
-canonical_name: Spytka Spytkovičius
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Spytka Spytkovičius
+entity_id: "ent-2b9cb9f1661ab2dfa033c790"
+canonical_name: "Spytka Spytkovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spytka Spytkovičius"]
 sameAs: []
-canonical_biography: Spytka Spytkovičius buvo Jogailos kariuomenės kiemo etmonas.
+canonical_biography: "Spytka Spytkovičius buvo Jogailos kariuomenės kiemo etmonas."
 ---
 # Spytka Spytkovičius
 

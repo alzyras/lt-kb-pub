@@ -37,6 +37,7 @@ Mykolas Kapšys-Maika gimė 1910 m. ir gyveno Miežiškių valsčiuje.
   santrauka: 'Mykolas Kapšys-Maika gimė 1910 m. ir gyveno Miežiškių valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 361"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 361."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

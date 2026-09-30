@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-bccb1dc7f0f8c8122defeffb
-canonical_name: Ramijos pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ramijos pilis
+entity_id: "ent-bccb1dc7f0f8c8122defeffb"
+canonical_name: "Ramijos pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ramijos pilis"]
 sameAs: []
-canonical_biography: 'Brolis Ditrichas, persikėlęs į kitą Nemuno krantą, užpuolė Ramijos pilį.'
+canonical_biography: "Brolis Ditrichas, persikėlęs į kitą Nemuno krantą, užpuolė Ramijos pilį."
+place_authority: true
+historical_names: []
 ---
 # Ramijos pilis
 

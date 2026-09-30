@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1939 m. Šimonių valsčiuje užfiksuota jaunesnių giedotojų grupė pagiedojo apie 20 sutartinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1015 (PDF 1016)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1015 (PDF 1016)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

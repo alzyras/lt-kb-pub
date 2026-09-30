@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1850 m. vizitacijos akte nurodyta, kad Palėvenės bažnyčiai apšviesti buvo naudojami du stikliniai sietynai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 230 (PDF 231)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 230 (PDF 231)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

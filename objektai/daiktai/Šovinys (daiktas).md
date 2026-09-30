@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Remiantis suimtų Alberto Apšegos ir Povilo Valmos tardymo duomenimis, 1950 m. sausio 26 d. Mirabelio miške rastame požeminiame partizanų bunkeryje paimta 145 šovinių.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 389"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 389."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,6 +60,7 @@ Nenurodyta
   santrauka: '1950 m. vasario 9 d. Šimonių girioje rastame bunkeryje paimta 40 šovinių, remiantis Vytauto Lapienio-Uosio tardymo duomenimis, kaip nurodo Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 389"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 389."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

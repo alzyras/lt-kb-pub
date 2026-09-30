@@ -41,6 +41,7 @@ Genovaitė Dručkutė Valę Čepulionytę-Balaišienę įvardija kaip Valiusės 
   santrauka: 'Valė Čepulionytė-Balaišienė buvo novelės „Valiusei reikia Alekso“ Valiusės prototipas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1140 (PDF 1141)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1140 (PDF 1141)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

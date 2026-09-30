@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Komandos viršininku paskirtas Domas Pajarskas, pavaduotoju Jonas Guoba, o sargybos viršininku – Juozas Žeimantas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 683 (PDF 684)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 683 (PDF 684)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ G. Leonovas buvo pirmasis 1954 m. įsteigto Kupiškio savanorių gaisrininkų dr
   santrauka: 'G. Leonovas buvo pirmasis 1954 m. įsteigto Kupiškio savanorių gaisrininkų draugijos skyriaus pirmininkas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 689 (PDF 690)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 689 (PDF 690)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,6 +41,7 @@ Balys Vaškelis-Kęstutis ėjo Šarūno rinktinės štabo viršininko pareigas.
   santrauka: 'Balys Vaškelis-Kęstutis ėjo Šarūno rinktinės štabo viršininko pareigas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

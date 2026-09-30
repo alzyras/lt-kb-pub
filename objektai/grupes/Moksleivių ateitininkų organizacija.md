@@ -34,6 +34,7 @@ Kupiškio dekanato kunigai savo pareiškime moksleivių ateitininkų kuopeles ap
   santrauka: 'Kupiškio dekanato kunigai moksleivių ateitininkus laikė Katalikų akcijos vyskupų žinioje esančia religine kultūrine organizacija, skatinančia katalikišką pasaulėžiūrą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 406 (PDF 407)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 406 (PDF 407)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

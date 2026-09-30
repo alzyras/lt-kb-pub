@@ -54,6 +54,7 @@ historical_names: []
   santrauka: 'Viename dokumente minima, kad 1574 m. prie Kupos upės permatuotos bajorų žemės šalia Dievelionių, vėliau vadintų Plundakais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 138 (PDF 139)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 138 (PDF 139)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

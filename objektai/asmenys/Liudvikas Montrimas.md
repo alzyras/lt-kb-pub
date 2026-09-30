@@ -37,6 +37,7 @@ canonical_biography: "Liudvikas Montrimas, gyvenęs Dapšių kaime, žuvo 1947 m
   santrauka: '1947 m. gegužės 17 d. MGB Šimonių valsčiaus operatyvinė grupė Žalgirio miške surado du per susišaudymą nušautus partizanus, tarp jų – Dapšių kaimo gyventoją Liudviką Montrimą.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 266"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 266."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

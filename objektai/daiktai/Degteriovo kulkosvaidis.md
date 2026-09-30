@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Iš bunkerių paimti rusiškas Degteriovo kulkosvaidis ir trys kulkosvaidžio diskai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 188"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 188."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

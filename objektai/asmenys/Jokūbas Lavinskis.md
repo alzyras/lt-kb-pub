@@ -41,6 +41,7 @@ Arūnas Vaicekauskas nurodo, kad Jokūbas Lavinskis XVI a. aprašė sambarinio a
   santrauka: 'Arūnas Vaicekauskas nurodo, kad Jokūbas Lavinskis XVI a. aprašė sambarinio alaus gėrimą per Sekmines, nors Kupiškio krašte tokios apeigos nebuvo žinomos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 942 (PDF 943)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 942 (PDF 943)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

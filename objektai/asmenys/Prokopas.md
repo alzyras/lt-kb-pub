@@ -65,6 +65,24 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   pagrindžia:
     - c-200000
 
+<a id="claim-t-217411"></a>
+- t-217411
+  teiginys: "Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Treniota: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad Treniota pasiuntė Prokopą į Polocką."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-38115

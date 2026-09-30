@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Pasakojama, kad pelkėje šienavę žmonės, ieškodami vandens, norėjo iškasti šulinėlį, tačiau iškasė suakmenėjusį mergaitės kūną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 100 (PDF 101)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 100 (PDF 101)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

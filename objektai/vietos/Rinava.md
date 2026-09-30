@@ -102,6 +102,24 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   pagrindžia:
     - c-204974
 
+<a id="claim-t-222091"></a>
+- t-222091
+  teiginys: "Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Semba: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rinava: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai lokalizuoja Rinavą Sembos teritorijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Rinava priklausė Semba (0.90)"
+  temporaliniai_duomenys: "įvykio data: 117 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi šaltinio santrumpų ir perteklinę atribuciją."
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'

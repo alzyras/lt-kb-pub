@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4a1ba6fd4c4cf777ad36f963
-canonical_name: Hermanas Bailis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Hermanas Bailis
+entity_id: "ent-4a1ba6fd4c4cf777ad36f963"
+canonical_name: "Hermanas Bailis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas Bailis"]
 sameAs: []
-canonical_biography: '102) turėjo žinių, jog „magistro Hermano Bai lio laikais marių vandenys nebuvo taip arti kalvos prie Baigos kaip šiandien, bet žemiau šios aukštumos net ligi vandens plytėjo derlingi laukai, buvo gražių ir tan kiai gyvenamų kaimų“.'
+canonical_biography: "102) turėjo žinių, jog „magistro Hermano Bai lio laikais marių vandenys nebuvo taip arti kalvos prie Baigos kaip šiandien, bet žemiau šios aukštumos net ligi vandens plytėjo derlingi laukai, buvo gražių ir tan kiai gyvenamų kaimų“."
 ---
 # Hermanas Bailis
 

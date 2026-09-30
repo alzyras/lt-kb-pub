@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: 'Nuo 1790 m. rugpjūčio 5 d. iki 1791 m. spalio 25 d. Kupiškio vikaras kunigas Antanas Strazdelis atliko krikšto apeigas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 368 (PDF 369)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 368 (PDF 369)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

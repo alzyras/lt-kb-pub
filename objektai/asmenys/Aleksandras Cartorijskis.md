@@ -109,3 +109,15 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-211385"></a>
+- t-001
+  teiginys: "Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+

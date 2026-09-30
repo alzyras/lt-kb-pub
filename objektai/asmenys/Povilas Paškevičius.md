@@ -41,6 +41,7 @@ Kunigas Povilas Paškevičius kartu su vikaru kunigu A. Juška talkino klebonui 
   santrauka: 'Kunigas Povilas Paškevičius kartu su vikaru kunigu A. Juška talkino klebonui Juozapui Gražiui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

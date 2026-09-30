@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio žydai dalyvavo lietuvių organizuotoje savanorių gaisrininkų ir Lietuvos šaulių sąjungos veikloje, o Nachemas Šmidtas buvo Tautininkų sąjungos valdybos narys.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 569 (PDF 570)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 569 (PDF 570)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

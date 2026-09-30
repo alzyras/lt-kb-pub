@@ -72,3 +72,27 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-216538"></a>
+- t-001
+  teiginys: "Narbutas skiria Gondu nuo karvojaus: Gondu esą puošdavo vestuvių apeigas ir likdavo ant stalo neliestas, o karvojų suvalgydavo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
+<a id="claim-t-217416"></a>
+- t-002
+  teiginys: "Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvių karalienę, išleidžiančią mergaites už vyrų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

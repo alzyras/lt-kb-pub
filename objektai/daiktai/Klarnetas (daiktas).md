@@ -84,6 +84,7 @@ Nenurodyta
   santrauka: 'Po Antrojo pasaulinio karo klarnetas prie kupiškėnų kapelų prisidėdavo tik kartais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1076 (PDF 1077)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1076 (PDF 1077)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,6 +97,7 @@ Nenurodyta
   santrauka: 'Suaugusieji pūsdavo klarnetą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1095 (PDF 1096)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1095 (PDF 1096)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

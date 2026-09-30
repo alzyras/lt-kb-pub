@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1947 m. Kupiškio dekanas V. Kupstas prašė vyskupijos skirti lėšų altaristo kunigo Juozapo Ruškio paminklui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 426 (PDF 427)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 426 (PDF 427)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

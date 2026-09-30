@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Bandūrėlis buvo vienas iš Kupiškio valsčiuje paplitusių saviskambių instrumentų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1078 (PDF 1079)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1078 (PDF 1079)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ Nenurodyta
   santrauka: 'Jaunimas mėgo grupėje muzikuoti bandūrėliais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1078 (PDF 1079)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1078 (PDF 1079)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

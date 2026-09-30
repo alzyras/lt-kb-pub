@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'J. Čepėno jaunesniojo kryžiai neturėjo pridėtinių drožinių ant kryžmų ir stiebo briaunų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 955 (PDF 956)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 955 (PDF 956)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

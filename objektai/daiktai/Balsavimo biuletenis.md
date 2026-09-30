@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Partizanai, agituodami gyventojus nedalyvauti rinkimuose, naikindavo balsavimo biuletenius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 611 (PDF 612)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 611 (PDF 612)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

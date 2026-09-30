@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio kapinėse veikiausiai XX a. pabaigoje pastatytas akmeninis monolitinis koplytstulpis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 990 (PDF 991)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 990 (PDF 991)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

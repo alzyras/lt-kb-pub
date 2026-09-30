@@ -57,6 +57,7 @@ Santa Neimanaitė nurodo, kad netoli Kupiškio, prie pagrindinės Aukštupėnų 
   santrauka: 'Netoli Kupiškio, prie pagrindinės Aukštupėnų poilsiavietės esanti sala dėl neįprastos formos vadinama Uošvės Liežuviu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 28 (PDF 29)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 28 (PDF 29)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -73,6 +74,7 @@ Santa Neimanaitė nurodo, kad netoli Kupiškio, prie pagrindinės Aukštupėnų 
   santrauka: 'Altarijos žemės sklypas buvo nupirktas Aukštupėnų vienkiemyje, netoli Kupiškio bažnyčios.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,6 +84,7 @@ Santa Neimanaitė nurodo, kad netoli Kupiškio, prie pagrindinės Aukštupėnų 
   santrauka: '1949 m. balandžio 15 d. viešoji biblioteka atidaryta Aukštupėnų valsčiaus centre.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 145 (PDF 146)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 145 (PDF 146)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

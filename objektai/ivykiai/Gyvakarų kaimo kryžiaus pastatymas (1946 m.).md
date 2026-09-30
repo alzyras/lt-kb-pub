@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Gyvakarų kaimas pokariu, 1946 m., pasistatė labai aukštą kryžių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 956 (PDF 957)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 956 (PDF 957)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

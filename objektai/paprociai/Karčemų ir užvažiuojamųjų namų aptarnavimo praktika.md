@@ -65,6 +65,7 @@ Nenurodyta
   santrauka: 'Kupiškio mieste ir kaimuose karčemos bei aludės minimos nuo XVI a. pabaigos ir buvo statomos prie kelių, sankryžų bei kaimų galulaukių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 728 (PDF 729)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 728 (PDF 729)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: 'V. Buzui už pasižymėjimą ginant Lietuvos laisvę ir nepriklausomybę buvo įteiktas IV laipsnio Vyčio kryžiaus ordinas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 867 (PDF 868)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 867 (PDF 868)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -53,6 +53,7 @@ Nenurodyta
   santrauka: 'Nuo 2001 m. Anykščių Šv. Mato bažnyčiai įsigijus naujus vargonus, pradėti tarptautiniai jaunųjų vargonininkų festivaliai „Juniores Priores Organorum Seinensis“, kurie tradiciškai prasidėdavo Seinų bažnyčioje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 549 (PDF 550)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 549 (PDF 550)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

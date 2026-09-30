@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Flandrija","Flandrija (vieta)"]
 sameAs: []
 canonical_biography: "Flandrijoje subrendo dailininkas Peteris Paulius Rubensas."
+place_authority: true
+historical_names: []
 ---
 # Flandrija (vieta)
 

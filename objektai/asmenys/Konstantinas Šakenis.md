@@ -51,6 +51,7 @@ Konstantinas Šakenis buvo švietimo ministras ir 1930 m. rugpjūčio 30 d. užd
   santrauka: 'Konstantinas Šakenis buvo švietimo ministras ir 1930 m. rugpjūčio 30 d. uždraudė ateitininkų veiklą mokyklose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 410 (PDF 411)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 410 (PDF 411)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

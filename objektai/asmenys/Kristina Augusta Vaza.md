@@ -64,6 +64,7 @@ Numizmatikos rinkinio įraše Kristina Augusta Vaza nurodyta prie 1633 m. Rygos 
   santrauka: 'Kristinos Augustos Vazos 1645 m. Rygos šilingas buvo kaldintas Rygos kalykloje iš bilono, buvo 14 mm skersmens ir svėrė 0,55 g.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 645 (PDF 646)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 645 (PDF 646)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

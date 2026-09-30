@@ -40,6 +40,7 @@ Palėvenės dominikonai XVII a. pabaigoje ir XVIII a. palaikė glaudų ryšį su
   santrauka: 'Palėvenės dominikonai XVII a. pabaigoje ir XVIII a. palaikė glaudų ryšį su Vilniaus konventu ir iš Vilniaus parsivežė bažnytinio meno kūrinių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 214 (PDF 215)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 214 (PDF 215)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +53,7 @@ Palėvenės dominikonai XVII a. pabaigoje ir XVIII a. palaikė glaudų ryšį su
   santrauka: 'Po Šiaurės karo ir krašto suirutės dominikonai tęsė bažnyčios bei vienuolyno statybą, plėtimą ir puošimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 214 (PDF 215)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 214 (PDF 215)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

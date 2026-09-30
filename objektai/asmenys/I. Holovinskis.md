@@ -23,15 +23,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-98c4771b202d3989f4df82b2
-canonical_name: I. Holovinskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - I. Holovinskis
+entity_id: "ent-98c4771b202d3989f4df82b2"
+canonical_name: "I. Holovinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["I. Holovinskis"]
 sameAs: []
-canonical_biography: I. Holovinskis buvo Rusijos imperijos katalikų bažnyčios metropolitas. I. Holovinskis skiepijo M. Valančiui principą vengti staigių ir atvirų permainų. I. Holovinskis 1852 arba 1853 m. sausio 31 d. rašė M. Valančiui į Varnius.
+canonical_biography: "I. Holovinskis buvo Rusijos imperijos katalikų bažnyčios metropolitas. I. Holovinskis skiepijo M. Valančiui principą vengti staigių ir atvirų permainų. I. Holovinskis 1852 arba 1853 m. sausio 31 d. rašė M. Valančiui į Varnius."
 ---
 # I. Holovinskis
 

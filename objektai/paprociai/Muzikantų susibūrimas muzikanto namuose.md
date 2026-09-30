@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Gaila Kirdienė straipsnyje „Kupiškėnų instrumentinio muzikavimo tradicija“ A. Kriūkos namus Aukštupėnuose apibūdino kaip tikrą kupiškėnų muzikantų centrą, kuriame susirinkę muzikantai iki sutemų šnekučiuodavosi ir grieždavo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1073 (PDF 1074)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1073 (PDF 1074)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

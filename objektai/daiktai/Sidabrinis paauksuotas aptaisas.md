@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Švč. Mergelės Marijos paveikslas turėjo sidabrinį paauksuotą aptaisą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 215 (PDF 216)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 215 (PDF 216)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

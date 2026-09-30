@@ -27,17 +27,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-ac1480e837d4140fe1cf63bd
-canonical_name: Augustavo gubernija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Augustavo gubernija
-sameAs: []
-canonical_biography: 'Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Suvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Augustavo gubernija","url":"https://lt.wikipedia.org/wiki/Augustavo_gubernija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Augustavo Gubernija","url":"https://www.vle.lt/straipsnis/augustavo-gubernija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:38:24+00:00","source_checked_at":"2026-09-20T09:38:24+00:00","counts":{"relations":2,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Augustavo gubernija (rus. Августовская губерния, lenk. Gubernia augustowska) – buvo Rusijos imperijos, Lenkijos Kongreso karalystės administracinis-teritorinis vienetas. Centras – Suvalkai. Jai priklausė visa Lietuvos Užnemunė.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"80800","revision_id":"6917984","status":"published","translation_status":"native","source":{"title":"Augustavo gubernija","url":"https://lt.wikipedia.org/wiki/Augustavo_gubernija","publisher":"Vikipedija","language":"lt","article_id":"80800","revision_id":"6917984","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=6917984","history_url":"https://lt.wikipedia.org/w/index.php?title=Augustavo_gubernija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:17:09.951192+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"dd455b503bad99d91a313027bb320667e49b42ec9e478d84fbecb179765a0ad1","version_pk":"df9300fe59115e950c061505b6289dfd"}},"source_buttons":[{"label":"Vikipedija","title":"Augustavo gubernija","url":"https://lt.wikipedia.org/wiki/Augustavo_gubernija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Augustavo Gubernija","url":"https://www.vle.lt/straipsnis/augustavo-gubernija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Augustavo_gubernija","https://www.vle.lt/straipsnis/augustavo-gubernija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"43a0bc34a5071d9b216e7931","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Apėmė lietuviškąją Užnemunę; teritorija sudarė maždaug šeštadalį dabartinės Lietuvos teritorijos.","context":"Šaltinis aprašo Augustavo gubernijai priklausiusią Lietuvos Užnemunę ir jos teritorinį dydį istoriniame administraciniame kontekste.","support_ids":["t-183583","c-166976"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183583","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166976","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Nuo ketvirtojo dešimtmečio rusiška administracinio teritorinio val- dymo sistema įvesta ir Kongresinėje Lenkijoje. Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su- valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lietuvos Užnemunė","claim_id":"t-183583","confidence":0.94},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Užnemunė","claim_id":"t-171614","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":4,"sources":3}}'
 object_page_finisher: 'true'
@@ -51,6 +40,15 @@ object_page_seo_description: 'Augustavo gubernija: Lietuvos Užnemunė pri- 3 sk
 object_page_seo_input_hash: 3760224840b6edf51c0e008d383ab240e808a191e0facd985f3981b7156ee040
 object_page_seo_generated_at: '2026-09-20T09:38:24+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-ac1480e837d4140fe1cf63bd"
+canonical_name: "Augustavo gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Augustavo gubernija"]
+sameAs: ["https://www.wikidata.org/entity/Q933349"]
+canonical_biography: "Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Suvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos."
+place_authority: true
+historical_names: []
 ---
 # Augustavo gubernija
 

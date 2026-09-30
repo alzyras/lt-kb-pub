@@ -41,6 +41,7 @@ Bartolomé Esteban Murillo buvo XVII a. ispanų dailininkas.
   santrauka: 'Bartolomé Esteban Murillo buvo XVII a. ispanų dailininkas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 676 (PDF 677)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 676 (PDF 677)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

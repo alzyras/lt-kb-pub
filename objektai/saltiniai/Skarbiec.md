@@ -50,3 +50,15 @@ A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-210674"></a>
+- t-001
+  teiginys: "A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvijimų ii LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Danilowicz, Skarbiec, 1 1 , Nr. 1883)."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+

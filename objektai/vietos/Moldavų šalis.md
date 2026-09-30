@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4f5501c623fd4a83047df85d
-canonical_name: Moldavų šalis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Moldavų šalis
+entity_id: "ent-4f5501c623fd4a83047df85d"
+canonical_name: "Moldavų šalis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Moldavų šalis"]
 sameAs: []
-canonical_biography: 'Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu''garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku.'
+canonical_biography: "Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu'garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku."
+place_authority: true
+historical_names: []
 ---
 # Moldavų šalis
 

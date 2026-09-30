@@ -49,6 +49,7 @@ canonical_biography: "Morta Stipaičia Matulienė-Juknienė buvo Sipainių (Rudi
   santrauka: '1646 m. Morta Stipaičia Matulienė-Juknienė ir Jedziulė Kupryčia-Jusienė buvo sudegintos ant laužo, nuteistos už raganavimą savo kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 156 (PDF 157)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 156 (PDF 157)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

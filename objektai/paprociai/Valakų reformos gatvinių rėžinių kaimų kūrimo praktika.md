@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Alvydas Totoris Kupiškio krašto sodžių kūrimą apibūdina kaip prievartinį administracinį procesą, vykusį LDK įgyvendinant nuo 1557 m. Valakų reformą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 707 (PDF 708)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 707 (PDF 708)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

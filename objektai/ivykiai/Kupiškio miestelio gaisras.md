@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Senoji medinė Kupiškio bažnyčia veikė 165 metus, nuo 1616 iki 1781 m., kol miestelio gaisras ją ir beveik visus parapijai priklausiusius pastatus nuniokojo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 454 (PDF 455)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 454 (PDF 455)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

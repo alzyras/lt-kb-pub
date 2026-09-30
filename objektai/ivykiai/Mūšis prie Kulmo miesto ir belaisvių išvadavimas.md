@@ -69,3 +69,47 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-220650"></a>
+- t-001
+  teiginys: "Prūsų kariuomenė įsibrovė į Kulmo žemę, ją nusiaubė degindama ir plėšdama, o daug krikščionių išžudė."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mūšis prie Kulmo miesto ir belaisvių išvadavimas (mūšis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūšis prie Kulmo miesto ir belaisvių išvadavimas (mūšis)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-222216"></a>
+- t-002
+  teiginys: "Prūsų kariuomenei priėjus Kulmo miestą, ginkluoti miestiečiai mūšyje nukovė prūsų vadą ir išvadavo paimtus krikščionių belaisvius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mūšis prie Kulmo miesto ir belaisvių išvadavimas (mūšis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūšis prie Kulmo miesto ir belaisvių išvadavimas (mūšis)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-223070"></a>
+- t-003
+  teiginys: "Apie daugybės prūsų žūtį Neilgai trukus po to prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė, viską degindama ir plėšdama, o daugybę krikščionių išžudė."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

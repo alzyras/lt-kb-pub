@@ -55,6 +55,7 @@ Nenurodyta
   santrauka: '2010 m. gegužės 9 d. Palėvenėje vyko jaunimo kryžiaus sutikimas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 252 (PDF 253)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 252 (PDF 253)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

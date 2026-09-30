@@ -41,6 +41,7 @@ Vytautas Gudaitis buvo Kultūros ministerijos Bibliotekų skyriaus viršininkas 
   santrauka: 'Vytautas Gudaitis buvo Kultūros ministerijos Bibliotekų skyriaus viršininkas ir dalyvavo komisijos vizite Kupiškio rajone.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 807 (PDF 808)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 807 (PDF 808)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

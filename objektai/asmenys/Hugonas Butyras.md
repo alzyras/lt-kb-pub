@@ -74,6 +74,24 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   pagrindžia:
     - c-60778
 
+<a id="claim-t-222255"></a>
+- t-222255
+  teiginys: "Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gime -> Olandija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hugonas Butyras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Olandija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė „kilęs iš Olandijos“ pagrindžia kilmės arba gimimo vietos ryšį, bet nėra visiškai pažodinė gimimo nuoroda."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Hugonas Butyras gimė Olandija (0.72)"
+  temporaliniai_duomenys: "įvykio data: po 1146 m.; įvykio data: 1146 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia aiškų biografinį faktą apie kilmę ir tarnybą."
+
 ## Citatos
 
 - id: c-60777

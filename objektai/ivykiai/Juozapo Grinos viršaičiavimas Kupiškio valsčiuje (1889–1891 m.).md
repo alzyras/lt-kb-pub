@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: '1889–1891 m. Juozapas Grina buvo Kupiškio valsčiaus viršaitis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 201 (PDF 202)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 201 (PDF 202)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

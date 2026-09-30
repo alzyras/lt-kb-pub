@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Koplytstulpiai su Jėzaus krikšto ar šv. Jono Nepomuko skulptūromis Lietuvoje ir kitose katalikiškose Europos šalyse statyti prie tiltų, upių ir šlapių vietų, perspėjant apie pavojus arba dėkojant Dievui už laimingą atsitikimo baigtį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 961 (PDF 962)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 961 (PDF 962)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

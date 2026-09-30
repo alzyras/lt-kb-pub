@@ -50,6 +50,7 @@ Vincentas Sladkevičius 1988 m. spalio 30 d. lankėsi Kupiškyje ir pašventino 
   santrauka: 'Vincentas Sladkevičius 1988 m. spalio 30 d. lankėsi Kupiškyje ir pašventino stogastulpį bažnyčios šventoriuje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 444 (PDF 445)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 444 (PDF 445)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -63,3 +63,35 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-220339"></a>
+- t-001
+  teiginys: "1280 m. Karolis, Salerno ir vėlesnis Sicilijos karalius, atidengė Marijos Magdalietės palaikus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Salernas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karolis (Salerno, vėliau Sicilijos karalius): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Salernas: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karolis (Salerno, vėliau Sicilijos karalius)\" parinktas kaip owner_note_path. Targetas \"Salernas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1280 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatos faktą."
+
+<a id="claim-t-223559"></a>
+- t-002
+  teiginys: "Apie palaimintosios Marijos Magdalietės palaikų atidengimą 1280 viešpaties metais Karolis, Salerno, o vėliau Sicilijos karalius, atidengė Marijos Magdalietės palaikus (Ptol."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

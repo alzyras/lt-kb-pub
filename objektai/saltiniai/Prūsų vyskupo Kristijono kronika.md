@@ -101,6 +101,25 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   pagrindžia:
     - c-174602
 
+<a id="claim-t-215753"></a>
+- t-215753
+  teiginys: "Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia apie sieros šaltinį netoli prūsų Romovės."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Prūsai: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Romovė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė rodo, kad Romovė buvo siejama su prūsais kaip jų vieta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Romovė priklausė Prūsai (0.82)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-174598

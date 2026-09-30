@@ -41,6 +41,7 @@ Vyrų ansamblyje dalyvavo Vladas Čerkauskas.
   santrauka: 'Vyrų ansamblyje dalyvavo Vladas Čerkauskas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 700 (PDF 701)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 700 (PDF 701)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

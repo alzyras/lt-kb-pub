@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4fd0aeb37584279dc265cd3e
-canonical_name: Pinsk (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pinsk
-  - Pinsk (vieta)
+entity_id: "ent-4fd0aeb37584279dc265cd3e"
+canonical_name: "Pinsk (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pinsk","Pinsk (vieta)"]
 sameAs: []
-canonical_biography: 'Vaišvilkas išsigando to paties likimo, pabėgo j Pinską ir ten gyveno.'
+canonical_biography: "Vaišvilkas išsigando to paties likimo, pabėgo j Pinską ir ten gyveno."
+place_authority: true
+historical_names: []
 ---
 # Pinsk (vieta)
 

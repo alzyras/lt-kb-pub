@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: '1820 m. Kupiškio parapijos kapinių viduryje pastatyta šešiakampė medinė, lentomis apkalta koplyčia.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 264 (PDF 265)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 264 (PDF 265)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,6 +66,7 @@ Nenurodyta
   santrauka: 'Kupiškio kapinių koplyčia vietos gyventojų lėšomis pastatyta 1858 m., o 1929 m. dėl didelio sunykimo nugriauta.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 375 (PDF 376)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 375 (PDF 376)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

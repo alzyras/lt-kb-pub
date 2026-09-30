@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVII amžius"
 periodo_pradzia: 1601
 periodo_pabaiga: 1700
-periodo_objektu_skaicius: 1095
+periodo_objektu_skaicius: 1094
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1095.
+Objektų skaičius: 1094.
 
 ## Susiję objektai
 
@@ -658,7 +658,6 @@ Objektų skaičius: 1095.
 - [[objektai/vietos/Vilniaus Aukštutinė pilis]]
 - [[objektai/vietos/Vilniaus katedra]]
 - [[objektai/vietos/Vilniaus universitetas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vitebskas]]
 - [[objektai/vietos/Vištyčio ežeras]]
 - [[objektai/vietos/Vladimiras]]

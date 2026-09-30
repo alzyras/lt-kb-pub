@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: 'Nuo 1723 m. Noriūnų dvaro savininkas Jonas Bucholcas pradėjo mūryti Jėzaus Kristaus koplyčią Palėvenės bažnyčios kairiajame šone; iki XVIII a. vidurio ją užbaigė Mykolas Rapolas Šumskis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 214 (PDF 215)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 214 (PDF 215)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

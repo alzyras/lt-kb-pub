@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Tremtiniai, norėdami trumpam išvykti iš tremties vietos, turėjo gauti MVD leidimą, o suaugusieji privalėjo kartą per mėnesį registruotis specialiosiose komendantūrose; komendantai galėjo reikalauti registruotis dažniau.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 599 (PDF 600)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 599 (PDF 600)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

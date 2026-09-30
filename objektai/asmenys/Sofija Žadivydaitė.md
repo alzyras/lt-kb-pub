@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6815a2e1581fa42468fda3b7
-canonical_name: Sofija Žadivydaitė
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Sofija Žadivydaitė
+entity_id: "ent-6815a2e1581fa42468fda3b7"
+canonical_name: "Sofija Žadivydaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sofija Žadivydaitė"]
 sameAs: []
-canonical_biography: Sofija Žadivydaitė buvo Mitkos Zubrevickio žmona.
+canonical_biography: "Sofija Žadivydaitė buvo Mitkos Zubrevickio žmona."
 ---
 # Sofija Žadivydaitė
 

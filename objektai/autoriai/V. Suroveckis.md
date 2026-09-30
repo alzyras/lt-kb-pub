@@ -56,6 +56,19 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
   pagrindžia:
     - c-174440
 
+<a id="claim-t-212786"></a>
+- t-212786
+  teiginys: "Pasak Narbuto, V. Suroveckis teigė, kad VI amžiaus pradžioje slavai plačiai išplito dešiniojoje Vyslos pakrantėje ir užėmė budinų kraštus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-194441
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pasak Narbuto, V. Suroveckis teigė, kad VI amžiaus pradžioje slavai plačiai išplito dešiniojoje Vyslos pakrantėje ir užėmė budinų kraštus.'
@@ -138,4 +151,6 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212786
 

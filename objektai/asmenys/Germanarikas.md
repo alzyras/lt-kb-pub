@@ -104,6 +104,25 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   pagrindžia:
     - c-197404
 
+<a id="claim-t-213313"></a>
+- t-213313
+  teiginys: "Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų karalystės pamatus, jei nebūtų sutrukdęs hunų įsiveržimas į Europą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Gotai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Germanarikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Germanarikas tiesiogiai įvardytas kaip vienas iš gotų karalių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Germanarikas buvo valdovas Gotai (0.90)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-174030

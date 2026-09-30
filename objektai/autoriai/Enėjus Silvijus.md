@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-697277d842f2dbe7ada73052
-canonical_name: Enėjus Silvijus
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Enėjus Silvijus
+entity_id: "ent-697277d842f2dbe7ada73052"
+canonical_name: "Enėjus Silvijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Enėjus Silvijus"]
 sameAs: []
-canonical_biography: 'Narbutas nurodo, kad, nesant senųjų Enėjaus Silvijaus raštų leidimų, negalima teigti, jog pranešimas buvo paties autoriaus rašinys, tačiau daro išvadą, kad jis turėtų būti iš XVI amžiaus antrosios pusės.'
+canonical_biography: "Narbutas nurodo, kad, nesant senųjų Enėjaus Silvijaus raštų leidimų, negalima teigti, jog pranešimas buvo paties autoriaus rašinys, tačiau daro išvadą, kad jis turėtų būti iš XVI amžiaus antrosios pusės."
 ---
 # Enėjus Silvijus
 

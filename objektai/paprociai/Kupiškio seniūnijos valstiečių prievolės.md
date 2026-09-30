@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1603 m. Kupiškio seniūnijos valstiečiai mokėjo činšą nuo kiekvieno užimto valako; jo dydis priklausė nuo žemės rūšies ir kitų sąlygų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 151 (PDF 152)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 151 (PDF 152)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ Nenurodyta
   santrauka: 'Kupiškio seniūnijos valstiečiai nuo kiekvieno užimto valako dvarui privalėjo pristatyti po statinę rugių ir avižų, vežimą šieno, žąsį, dvi vištas, 20 kiaušinių ir 8 svarus šukuotų linų pluošto.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 151 (PDF 152)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 151 (PDF 152)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

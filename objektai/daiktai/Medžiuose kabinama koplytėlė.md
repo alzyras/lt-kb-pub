@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškio apylinkėse paprotys kabinti koplytėles medžiuose dar gyvavo XX a. 3–4 dešimtmečiais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 963 (PDF 964)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 963 (PDF 964)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

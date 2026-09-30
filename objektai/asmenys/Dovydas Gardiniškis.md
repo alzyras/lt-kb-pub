@@ -75,6 +75,18 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
   pagrindžia:
     - c-202912
 
+<a id="claim-t-225348"></a>
+- t-225348
+  teiginys: "1319 m. Dovydas su 800 vyrų įsiveržė į Unzatrapio valsčių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203755
+
 ## Citatos
 
 - id: c-32718
@@ -133,6 +145,8 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225348
 
 ## Ryšiai
 - Dovydas Gardiniškis gynė [[objektai/vietos/Pskovas]]

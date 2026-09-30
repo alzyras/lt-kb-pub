@@ -90,6 +90,24 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   pagrindžia:
     - c-172105
 
+<a id="claim-t-219993"></a>
+- t-219993
+  teiginys: "Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo manymu, kilo visuomeninis gyvenimas ir religinės vizijos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventasis miškelis šventasis miškas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis miškelis šventasis miškas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-172102

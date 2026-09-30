@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-d42f8544ba29555c3267315e
-canonical_name: Sedbaras Valimantaitis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Sedbaras Valimantaitis
+entity_id: "ent-d42f8544ba29555c3267315e"
+canonical_name: "Sedbaras Valimantaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sedbaras Valimantaitis"]
 sameAs: []
-canonical_biography: Sis Sedbaras buvo Ukmergės vietininkas.
+canonical_biography: "Sis Sedbaras buvo Ukmergės vietininkas."
 ---
 # Sedbaras Valimantaitis
 

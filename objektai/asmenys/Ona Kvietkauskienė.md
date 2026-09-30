@@ -51,6 +51,7 @@ Onos Kvietkauskienės kapo paminklas yra Kupiškio kapinėse pastatytas stogastu
   santrauka: 'Onos Kvietkauskienės kapo paminklas yra Kupiškio kapinėse pastatytas stogastulpis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 993 (PDF 994)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 993 (PDF 994)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -76,6 +76,25 @@ Nenurodyta
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
+<a id="claim-t-224390"></a>
+- t-224390
+  teiginys: "1296 m. Liudvikas iš Libencelės su broliais įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį ligi pamatų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "puole -> Kimelis: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Liudvikas iš Libencelės: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kimelis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kimetlio pilis buvo tiesiogiai užpulta ir sudeginta Liudviko vadovaujamo žygio metu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Liudvikas iš Libencelės puolė Kimelis (0.89); Liudvikas iš Libencelės užėmė Kimelis (0.84); Liudvikas iš Libencelės surengė žygį į Kimelis (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1296 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo negramatiškas ir su šaltinio fragmentais; citata pagrindžia pilies sunaikinimą."
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1296 m. Liudvikas iš Libencelės su broliais įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį ligi pamatų.'

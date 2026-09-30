@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1944 m. Panemunėlio parapijos istorijos aprašyme administratorius Juozas Matulionis Lietuvos katalikų blaivybės draugijos skyriaus įsteigimą siejo su vikarų Mykolo Grigaliūno, Juozo Garškos ir Antano Simonaičio veikla.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 529 (PDF 530)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 529 (PDF 530)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

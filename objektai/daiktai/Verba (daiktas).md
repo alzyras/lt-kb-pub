@@ -63,6 +63,7 @@ Nenurodyta
   santrauka: 'Aukštaitijoje verbos pagrindą sudarydavo blindės (žilvyčio) šakelė, o, pasak Nijolės Marcinkevičienės, Šiaurės Aukštaitijoje kadagys ilgainiui išstūmė karklą iš verbos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 932 (PDF 933)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 932 (PDF 933)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -72,6 +73,7 @@ Nenurodyta
   santrauka: 'Plakimas verba buvo žinomas visoje Lietuvoje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 933 (PDF 934)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 933 (PDF 934)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

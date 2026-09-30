@@ -50,6 +50,7 @@ A. Čelkys nuo 1982 m. dirbo komandoje, buvo pirmos klasės vairuotojas ir už g
   santrauka: 'A. Čelkys Skapiškio ugniagesių komandoje dirbo nuo 1982 m. ir buvo pirmos klasės vairuotojas, nuolat premijuotas už gerą darbą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 688 (PDF 689)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 688 (PDF 689)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

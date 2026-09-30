@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Abu kandidatai į parlamentą pradėjo susitikimų su rinkėjais maratoną.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 864 (PDF 865)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 864 (PDF 865)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

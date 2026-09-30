@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-80569a20875400986229b27c
-canonical_name: Naujoji Meksika
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Naujoji Meksika
+entity_id: "ent-80569a20875400986229b27c"
+canonical_name: "Naujoji Meksika"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujoji Meksika"]
 sameAs: []
-canonical_biography: 'Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai.'
+canonical_biography: "Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai."
+place_authority: true
+historical_names: []
 ---
 # Naujoji Meksika
 

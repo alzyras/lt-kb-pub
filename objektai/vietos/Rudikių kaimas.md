@@ -37,6 +37,7 @@ Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–195
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Vytauto Laužiko-Žydo žūtį 1948 m. liepos 24 d. naktį į 25 d. Rudikių kaime sieja su emgebistų surengta pasala.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 289"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 289."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

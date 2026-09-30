@@ -63,3 +63,22 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-223499"></a>
+- t-001
+  teiginys: "T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vygandas Marburgietis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Hiršas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vygandas Marburgietis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Hiršas\" parinktas kaip owner_note_path. Targetas \"Vygandas Marburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai pateikia T. Hiršo interpretaciją; pradinis teiginys negramatiškas."
+

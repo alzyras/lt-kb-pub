@@ -50,6 +50,7 @@ Antanas Jokantas 1941 m. buvo Kupiškio miesto komendanto Vernerio Liovės adjut
   santrauka: 'Antanas Jokantas 1941 m. buvo Kupiškio miesto komendanto Vernerio Liovės adjutantas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 582 (PDF 583)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 582 (PDF 583)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

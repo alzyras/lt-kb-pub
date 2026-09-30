@@ -54,6 +54,7 @@ Nenurodyta
   santrauka: 'Prie medinės Kupiškio bažnyčios buvo trys varpai: du 1787 m. atgabenti iš Rygos, o mažasis gautas iš Šimonių bažnyčios.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 374 (PDF 375)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 374 (PDF 375)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,6 +66,7 @@ Nenurodyta
   santrauka: '1915 m. rusų valdžia iš Kupiškio bažnyčios išsivežė tris varpus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 381 (PDF 382)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 381 (PDF 382)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,6 +78,7 @@ Nenurodyta
   santrauka: '1819 m. šventoriuje sumūrytoje naujoje trijų aukštų varpinėje buvo pakabinti keturi varpai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 509 (PDF 510)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 509 (PDF 510)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,6 +37,7 @@ Kronikoje Povilas Karoblis, Vinco sūnus, gimęs 1917 m. Misiškių kaime, Vabal
   santrauka: 'Kronikoje Povilas Karoblis, Vinco sūnus, gimęs 1917 m. Misiškių kaime, Vabalninko valsčiuje, įvardytas agentu smogiku „Ladiga“; 1947 m. gruodžio 6 d. Karoblis pranešė nušovęs Tindžiulio junginio partizaną Juozą Vaitiekūną.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 273"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 273."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

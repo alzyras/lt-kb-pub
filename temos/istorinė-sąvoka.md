@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 421
+tema_objektu_skaicius: 418
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 421.
+Objektų skaičius: 418.
 
 ## Kaip naudoti
 
@@ -98,8 +98,6 @@ Objektų skaičius: 421.
 - [deficitas talonai](../objektai/zodynas/deficitas%20talonai)
 - [denariukas](../objektai/zodynas/denariukas)
 - [deportacijos trėmimai](../objektai/zodynas/deportacijos%20tr%C4%97mimai)
-- [destalinizacija atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20at%C5%A1ilimo%20laikotarpis)
-- [destalinizacija postalininis metas atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20postalininis%20metas%20at%C5%A1ilimo%20laikotarpis)
 - [diarchija](../objektai/zodynas/diarchija)
 - [didvalstybė](../objektai/zodynas/didvalstyb%C4%97)
 - [didžioji suirutė smuta](../objektai/zodynas/did%C5%BEioji%20suirut%C4%97%20smuta)
@@ -429,7 +427,6 @@ Objektų skaičius: 421.
 - [Wespats](../objektai/zodynas/Wespats)
 - [Wolok](../objektai/zodynas/Wolok)
 - [įpėdinis](../objektai/zodynas/%C4%AFp%C4%97dinis)
-- [įšleitė](../objektai/zodynas/%C4%AE%C5%A1leit%C4%97)
 - [šaknų ieškojimas](../objektai/zodynas/%C5%A1akn%C5%B3%20ie%C5%A1kojimas)
 - [šeimyna familia domus](../objektai/zodynas/%C5%A1eimyna%20familia%20domus)
 - [šiuolaikinė tautos (nacijos) samprata](../objektai/zodynas/%C5%A1iuolaikin%C4%97%20tautos%20%28nacijos%29%20samprata)

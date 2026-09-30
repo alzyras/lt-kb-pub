@@ -55,6 +55,7 @@ Nenurodyta
   santrauka: 'Per Pirmąjį pasaulinį karą buvo išvežti ir išlydyti 1883 m. įsigyti varpai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 232 (PDF 233)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 232 (PDF 233)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,6 +70,7 @@ Nenurodyta
   santrauka: '1883 m. parapijiečių lėšomis buvo atstatytas 1851 m. žaibo sudegintas Palėvenės bažnyčios bokštas ir nupirkti nauji varpai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 313 (PDF 314)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 313 (PDF 314)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -80,6 +82,7 @@ Nenurodyta
   santrauka: '1955 m. gaisro metu Palėvenės bažnyčios varpai buvo išgelbėti, bet apdegė medinės jų atramos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 314 (PDF 315)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 314 (PDF 315)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

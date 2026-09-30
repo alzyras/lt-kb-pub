@@ -41,20 +41,6 @@ canonical_biography: "Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cig
 
 Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn. Zigmantas Rotas nepatvirtintas jokia priesaika.
 
-## Teiginiai
-
-<a id="claim-t-196655"></a>
-- t-196655
-  teiginys: "Zigmantas Rotas nepatvirtintas jokia priesaika."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169631
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.'
@@ -120,6 +106,30 @@ Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-196655
+
+- id: c-215082
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  puslapiai: "PDF 422"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
+  citata_originali: |
+    Jedlnioje sukvietė lenkų seimą, kuris nu­
+    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
+    liuose Lenkijos pasienyje ir
+    uoliai žiūrėti, kad ir impera­
+    toriaus, ir Vytauto žygūnai
+    negalėtų prasmukti nei į vie­
+    ną, nei į kitą pusę. Viskam
+    vadovauti paskyrė Joną Čar-
+    nkovskį. Šis ryžtingai įvykdė, kas jam buvo patikėta,
+    suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą;
+    iškratė jų nešulius ir atėmė imperatoriaus laišką, pa­
+    leido juos laisvėn.
+  citata_rodoma: "suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą; \niškratė jų nešulius ir atėmė imperatoriaus laišką, pa­\nleido juos laisvėn."
+  statusas: verified
+  atnaujinta: "2026-09-30 03:12"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 

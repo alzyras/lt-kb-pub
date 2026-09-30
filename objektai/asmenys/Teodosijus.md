@@ -47,27 +47,10 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 
 ## Teiginiai
 
-<a id="claim-t-30394"></a>
-- t-001
-  teiginys: "Vytautas siekė, kad Polocko vyskupas Teodosijus taptų Lietuvos stačiatikių metropolitu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Teodosijus: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodosijus: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytautas tiesiogiai siekė iškelti Teodosijų į metropolitus, todėl palaikymo ryšys pagrįstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Teodosijus (0.86)"
-  pagrindžia:
-    - c-32808
-
 <a id="claim-t-220088"></a>
-- t-220088
+- t-001
   teiginys: "Rytų Romos imperatoriui Teodosijui įsakius nugriauti Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į kryžių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -78,27 +61,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
     - c-198634
 
 ## Citatos
-
-- id: c-32808
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 329"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 329."
-  citata_originali: |
-    Nepasisekė tik Vytautui didžiajai Lietuvos kunigaikštijai
-    naudinga linkme sutvarkyti rytų Bažnyčios reikalų^61. Mirus Kijevo
-    ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
-    pastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą
-    Teodosijų. Jis buvo tačiau priverstas pripažinti « Kijevo ir visos
-    Rusios» metropolitu graiką Fotijų (1408-1431)^62.
-  citata_rodoma: "Mirus Kijevo\nir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo\npastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą\nTeodosijų. Jis buvo tačiau priverstas pripažinti « Kijevo ir visos\nRusios» metropolitu graiką Fotijų (1408-1431)^62."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-177119
   autorius: "Teodoras Narbutas"
@@ -121,20 +83,23 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - id: c-198634
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 380"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
   citata_originali: |
-    Pavyzdžiui, deivės Cereros
-    rankoje jis yra pasišventimo simbolis, dievų paslapčių ir glo-
-    14 Qui etiam hieroglificamm literarum interpretendarum periti, cha­
-    racterem sub crucis forma vitam futurum significare dixerunt (lib. XII. -
-    Cap. 26)*.
-    15 De civitate Dei.
+    Tačiau laikant juos kapais, iškyla toks klausimas. Pirmiau­
+    sia tvirtinu, kad kryžius senų senovėje beveik visoms tautoms,
+    kuriose gyvavo kokia nors civilizacija, religiniu požiūriu buvo
+    išganymo, tai yra geresnio pomirtinio gyvenimo vilties, žen­
+    klas. Rytų Romos imperatoriui Teodosijui įsakius nugriauti
+    Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės
+    akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į
+    kryžių.
+  citata_rodoma: "Rytų Romos imperatoriui Teodosijui įsakius nugriauti \nAleksandrijos stabmeldžių šventyklas, ant Serapio šventovės \nakmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į \nkryžių."
   statusas: verified
-  atnaujinta: "2026-09-12 23:45"
+  atnaujinta: "2026-09-30 07:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-220088
+    - t-001
 

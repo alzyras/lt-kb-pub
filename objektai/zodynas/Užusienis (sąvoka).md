@@ -39,6 +39,7 @@ Kaimams priklausę užusieniai buvo išmatuoti, o jų ribos nužymėtos.
   santrauka: 'Kaimams priklausę užusieniai buvo išmatuojami ir turėjo nužymėtas ribas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 137 (PDF 138)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 137 (PDF 138)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

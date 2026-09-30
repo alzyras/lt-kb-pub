@@ -39,6 +39,7 @@ Duoba yra krosnimis šildoma žeminės tipo patalpa, įrengiama kalno atšlaitė
   santrauka: 'Duoba – krosnimis šildoma žeminės tipo patalpa kalno atšlaitėje javams džiovinti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 724 (PDF 725)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 724 (PDF 725)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

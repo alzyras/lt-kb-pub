@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2ce20e0176489dba1eec707f
-canonical_name: Rudino pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Rudino pilis
+entity_id: "ent-2ce20e0176489dba1eec707f"
+canonical_name: "Rudino pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rudino pilis"]
 sameAs: []
-canonical_biography: 1234 m. Rudino pilis pastatyta tarp Pamedės ir Kulmo žemių.
+canonical_biography: "1234 m. Rudino pilis pastatyta tarp Pamedės ir Kulmo žemių."
+place_authority: true
+historical_names: []
 ---
 # Rudino pilis
 

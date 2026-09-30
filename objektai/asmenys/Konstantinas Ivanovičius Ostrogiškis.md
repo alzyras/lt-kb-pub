@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a0d3e45d642c6d0908255046
-canonical_name: Konstantinas Ivanovičius Ostrogiškis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Konstantinas Ivanovičius Ostrogiškis
+entity_id: "ent-a0d3e45d642c6d0908255046"
+canonical_name: "Konstantinas Ivanovičius Ostrogiškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas Ivanovičius Ostrogiškis"]
 sameAs: []
-canonical_biography: 'Tuomet pateko nelaisvėn etmonas Kons tantinas Ivanovičius Ostrogiškis, ponas Grigalius Stanislovaitis Astikas, ponas Liutauras Chreptavičius, ponas Mikalojus Jurgaitis Hlebavičius°, ponas Mika lojus Zenovjevičius31 ir daugelis kitų didikų.'
+canonical_biography: "Tuomet pateko nelaisvėn etmonas Kons tantinas Ivanovičius Ostrogiškis, ponas Grigalius Stanislovaitis Astikas, ponas Liutauras Chreptavičius, ponas Mikalojus Jurgaitis Hlebavičius°, ponas Mika lojus Zenovjevičius31 ir daugelis kitų didikų."
 ---
 # Konstantinas Ivanovičius Ostrogiškis
 

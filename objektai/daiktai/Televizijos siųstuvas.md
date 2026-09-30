@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Krantinės gatvės prieigose, ant vandentiekio bokšto, buvo sumontuotas 100 vatų galingumo siųstuvas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 843 (PDF 844)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 843 (PDF 844)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

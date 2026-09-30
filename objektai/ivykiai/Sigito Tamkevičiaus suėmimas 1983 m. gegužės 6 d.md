@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1983 m. gegužės 6 d. Alfonso Svarinsko teisme Sigitas Tamkevičius SJ buvo suimtas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 476 (PDF 477)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 476 (PDF 477)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

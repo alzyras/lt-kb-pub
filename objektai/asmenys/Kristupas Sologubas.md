@@ -41,6 +41,7 @@ Kristupas Sologubas valdė Palėvenės (Palėvenėlės) dvarą.
   santrauka: 'Kristupas Sologubas valdė Palėvenės (Palėvenėlės) dvarą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 141 (PDF 142)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 141 (PDF 142)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

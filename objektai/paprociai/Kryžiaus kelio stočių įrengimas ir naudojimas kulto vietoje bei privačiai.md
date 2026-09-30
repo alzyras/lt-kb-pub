@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Bouasse-Lebel leidyklos 1864 metų kataloge Kryžiaus kelio stotims buvo skirta dešimtadalis katalogo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 678 (PDF 679)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 678 (PDF 679)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +63,7 @@ Nenurodyta
   santrauka: 'Uoginių koplyčios Kryžiaus kelias sudarytas iš 14 atvaizdų, o toks stacijų skaičius nusistovėjo XVIII amžiuje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 678 (PDF 679)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 678 (PDF 679)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,6 +37,7 @@ Kronikoje Ignas Blažys nurodomas kaip gimęs Gineišių kaime, Pandėlio valsč
   santrauka: 'Kronikoje Ignas Blažys nurodomas kaip gimęs Gineišių kaime, Pandėlio valsčiuje, o jo gimimo metai pateikiami kaip 1921 m. (1926 m.).'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 211"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 211."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

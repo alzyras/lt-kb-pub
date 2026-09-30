@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Revizijos metu Kupiškio valstybiniam dvarui priklausė 56 gyvenamosios vietovės ir 556 kiemai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 185 (PDF 186)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 185 (PDF 186)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

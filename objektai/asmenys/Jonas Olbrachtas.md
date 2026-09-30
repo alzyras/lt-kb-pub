@@ -82,6 +82,25 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     - c-169326
     - c-169327
 
+<a id="claim-t-185966"></a>
+- t-185966
+  teiginys: "Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_brolis -> Vladislovas: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Olbrachtas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vladislovas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Vladislovas ir Jonas apibendrinami kaip broliai karaliai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169327
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą.'
@@ -261,6 +280,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-185965
+    - t-185966
 
 - id: c-178731
   autorius: "Albertas Vijūkas-Kojelavičius"

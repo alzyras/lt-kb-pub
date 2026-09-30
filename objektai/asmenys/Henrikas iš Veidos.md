@@ -88,6 +88,42 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   pagrindžia:
     - c-203930
 
+<a id="claim-t-220419"></a>
+- t-220419
+  teiginys: "Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas iš Veidos: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas iš Veidos\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202753
+
+<a id="claim-t-222271"></a>
+- t-222271
+  teiginys: "Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Pamedėnai: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Veidos: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Užimta pamedėnų pilis, todėl Henrikas veikė prieš pamedėnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Veidos kariavo prieš Pamedėnai (0.74)"
+  pagrindžia:
+    - c-202753
+
 ## Citatos
 
 - id: c-60768
@@ -161,6 +197,9 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220419
+    - t-222271
 
 - id: c-203930
   autorius: "Petras Dusburgietis"

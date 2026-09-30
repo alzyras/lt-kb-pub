@@ -50,6 +50,27 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   pagrindžia:
     - c-179032
 
+<a id="claim-t-221528"></a>
+- t-221528
+  teiginys: "Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Junigeda: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas Štangė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Junigeda: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas Štangė\" parinktas kaip owner_note_path. Targetas \"Junigeda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-222202"></a>
+- t-222202
+  teiginys: "Konradas Štangė padrąsino sutrikusius brolius Judo Makabėjaus žodžiais ir ragino prasiskverbti pro priešus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konradas Štangė padrąsino sutrikusius brolius Judo Makabėjaus žodžiais ir ragino prasiskverbti pro priešus.'

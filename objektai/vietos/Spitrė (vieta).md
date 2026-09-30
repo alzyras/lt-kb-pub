@@ -25,16 +25,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-699b8495faabc774ff652dfa
-canonical_name: Spitrė (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Spitrė
-  - Spitrė (vieta)
+entity_id: "ent-699b8495faabc774ff652dfa"
+canonical_name: "Spitrė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Spitrė","Spitrė (vieta)"]
 sameAs: []
-canonical_biography: Spitrė buvo kryžiuočių pilis Tilžės teritorijoje.
+canonical_biography: "Spitrė buvo kryžiuočių pilis Tilžės teritorijoje."
+place_authority: true
+historical_names: []
 ---
 # Spitrė (vieta)
 

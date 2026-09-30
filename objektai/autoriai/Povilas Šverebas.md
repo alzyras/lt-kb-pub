@@ -41,6 +41,7 @@ Povilas Šverebas yra vienas iš kelių Lietuvos specialistų, plačiau tyrinėj
   santrauka: 'Povilas Šverebas yra vienas iš kelių Lietuvos specialistų, plačiau tyrinėjančių varpus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 996 (PDF 997)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 996 (PDF 997)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

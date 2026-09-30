@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Pietiniame aikštės kampe esančiame išplatėjime, iki 1,9 m storio supiltiniame molingame sluoksnyje aptikti du apipjaustyto kaulo ir rago fragmentai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 135 (PDF 136)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 135 (PDF 136)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

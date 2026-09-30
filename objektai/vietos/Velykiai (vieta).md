@@ -58,6 +58,7 @@ historical_names: []
   santrauka: 'Matas Nakas 1950 m. spalio 4 d. buvo paskirtas Velykių administratoriumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 402 (PDF 403)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 402 (PDF 403)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

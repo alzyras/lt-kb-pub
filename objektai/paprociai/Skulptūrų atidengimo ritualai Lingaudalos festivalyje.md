@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kelios Kupiškio mieste esančios skulptūros buvo sukurtos ir tapo tarptautinių folkloro festivalių „Lingaudala“ dalimi; festivalio tęstinumas, vieta ir šių skulptūrų atidengimo ritualai sudaro visumą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1144 (PDF 1145)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1144 (PDF 1145)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '1694 m. sausį pirktos dvi nedidelės metalinės žvakidės, kovą statyta vienuolyno pirtis, o balandį auksakaliui užsakyta šlakstytuvė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 214 (PDF 215)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 214 (PDF 215)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

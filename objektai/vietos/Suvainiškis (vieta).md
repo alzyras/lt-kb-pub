@@ -26,16 +26,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-5100ef2ef3c556f68aff4477
-canonical_name: Suvainiškis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Suvainiškis
-  - Suvainiškis (vieta)
+entity_id: "ent-5100ef2ef3c556f68aff4477"
+canonical_name: "Suvainiškis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Suvainiškis","Suvainiškis (vieta)"]
 sameAs: []
-canonical_biography: Suvainiškio parapijai buvo skirtas 1863 m. vasario 18 d. laiškas. Laiškas skirtas Suvainiškio parapijai dėl naujos bažnyčios statybos.
+canonical_biography: "Suvainiškio parapijai buvo skirtas 1863 m. vasario 18 d. laiškas. Laiškas skirtas Suvainiškio parapijai dėl naujos bažnyčios statybos."
 place_authority: true
 historical_names: []
 ---

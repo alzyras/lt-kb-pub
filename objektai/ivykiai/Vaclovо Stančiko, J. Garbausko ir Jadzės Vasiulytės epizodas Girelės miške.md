@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: '1951 m. kovo 25 d. Girelės miške žuvo Vaclovas Stančikas ir J. Garbauskas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624-625 (PDF 625-626)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624-625 (PDF 625-626)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

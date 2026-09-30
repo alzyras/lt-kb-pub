@@ -105,6 +105,29 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   pagrindžia:
     - c-91697
 
+<a id="claim-t-220274"></a>
+- t-220274
+  teiginys: "Romas BATŪRA международный конгресс."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+
+<a id="claim-t-221300"></a>
+- t-221300
+  teiginys: "191—192; Batūra R., Karinė..., р."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romas Batūra: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romas Batūra\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Romas BATŪRA международный конгресс.'

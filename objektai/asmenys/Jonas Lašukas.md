@@ -64,6 +64,7 @@ Koplyčiose matomus neogotikinius altorius apie 1958–1960 m. sukūrė kupišk�
   santrauka: 'Koplyčiose matomus neogotikinius altorius apie 1958–1960 m. sukūrė kupiškėnas meistras Jonas Lašukas (1913–1998).'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 341 (PDF 342)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 341 (PDF 342)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

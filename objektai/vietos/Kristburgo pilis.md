@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-4dba285de29d7d3932464bd1
-canonical_name: Kristburgo pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kristburgo pilis
+entity_id: "ent-4dba285de29d7d3932464bd1"
+canonical_name: "Kristburgo pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kristburgo pilis"]
 sameAs: []
-canonical_biography: Kristburgo pilis pastatyta Jėzaus Kristaus garbei ir palikta su karių įgula.
+canonical_biography: "Kristburgo pilis pastatyta Jėzaus Kristaus garbei ir palikta su karių įgula."
+place_authority: true
+historical_names: []
 ---
 # Kristburgo pilis
 

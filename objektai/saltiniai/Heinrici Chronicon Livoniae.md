@@ -121,6 +121,27 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   pagrindžia:
     - c-199018
 
+<a id="claim-t-199236"></a>
+- t-199236
+  teiginys: "Henriko Latvio kronika yra viena iš pirmųjų Pabaltijyje vokiečių kronikų ir buvo surašyta 1225-27 m."
+  atnaujinta: "2026-09-29 18:46"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Latvija; mentioned_place: Livonija"
+  temporaliniai_duomenys: "įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m.; įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heinrici Chronicon Livoniae: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heinrici Chronicon Livoniae\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-03534
+    - c-181757
+
 ## Citatos
 
 - id: c-03534
@@ -142,6 +163,8 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-199236
 
 - id: c-03535
   autorius: "Zenonas Ivinskis"
@@ -179,6 +202,8 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-199236
 
 - id: c-181758
   autorius: "Anoniminis metraštininkas"

@@ -84,4 +84,3 @@ Ažubalio kaime gyveno Bronius Puronas. Ažubalio kaime gyveno Leonas Matijošiu
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

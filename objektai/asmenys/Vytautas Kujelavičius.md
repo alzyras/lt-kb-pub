@@ -51,6 +51,7 @@ Subačiaus valsčiuje Vytauto Kujelavičiaus partizanų būryje buvo 35 partizan
   santrauka: 'Subačiaus valsčiuje Vytauto Kujelavičiaus partizanų būryje buvo 35 partizanai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 167"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 167."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +61,7 @@ Subačiaus valsčiuje Vytauto Kujelavičiaus partizanų būryje buvo 35 partizan
   santrauka: 'Vytautas Kujelavičius-Nemunėlis buvo partizanų būrio vadas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 168"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 168."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

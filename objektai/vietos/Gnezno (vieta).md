@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-56f7328269645edcb9361b75
-canonical_name: Gnezno (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Gnezno
-  - Gnezno (vieta)
+entity_id: "ent-56f7328269645edcb9361b75"
+canonical_name: "Gnezno (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gnezno","Gnezno (vieta)"]
 sameAs: []
-canonical_biography: Setidawa arba Cidova buvo netoli Gnezno.
+canonical_biography: "Setidawa arba Cidova buvo netoli Gnezno."
+place_authority: true
+historical_names: []
 ---
 # Gnezno (vieta)
 

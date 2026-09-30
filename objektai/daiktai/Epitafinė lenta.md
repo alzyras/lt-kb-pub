@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Bažnyčios prieangio dešiniojoje sienoje yra vienintelė išlikusi epitafinė lenta, kurioje įrašyta, kad čia ilsisi 1840 m. mirusi Rozalija Kvintaitė-Ruseckienė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 223 (PDF 224)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 223 (PDF 224)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

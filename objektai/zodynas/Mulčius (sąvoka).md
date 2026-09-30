@@ -39,6 +39,7 @@ Dekoratyvinis mulčius sulaiko dirvos drėgmę, saugo šaknis nuo sezoninių tem
   santrauka: 'Dekoratyvinis mulčius sulaiko dirvos drėgmę, saugo šaknis nuo sezoninių temperatūros svyravimų, trukdo augti piktžolėms ir saugo dirvą nuo erozijos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 111 (PDF 112)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 111 (PDF 112)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,6 +34,7 @@ Straipsnis „Ko siekia vikaras S. Krumpliauskas“ buvo vienas iš dviejų pana
   santrauka: 'Straipsnis „Ko siekia vikaras S. Krumpliauskas“ buvo vienas iš dviejų panašaus pobūdžio straipsnių rajoniniame laikraštyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 438 (PDF 439)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 438 (PDF 439)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

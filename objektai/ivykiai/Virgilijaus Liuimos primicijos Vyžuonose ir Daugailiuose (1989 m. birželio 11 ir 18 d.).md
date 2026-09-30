@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Kun. Virgilijus Liuima 1989 m. birželio 11 d. primicijas laikė Vyžuonose, o birželio 18 d. – Daugailiuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 554 (PDF 555)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 554 (PDF 555)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

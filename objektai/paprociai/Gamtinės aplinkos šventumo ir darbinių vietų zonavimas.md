@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Ikikrikščioniškosios bendruomenės pasaulėvaizdyje gamta laikyta šventa, o kraštovaizdis skirstytas į neliečiamas sakralias ir darbui tinkamas vietas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 706 (PDF 707)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 706 (PDF 707)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

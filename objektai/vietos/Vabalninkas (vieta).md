@@ -55,6 +55,7 @@ Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamies
   santrauka: 'Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamiesčio filijinės bažnyčios.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 398 (PDF 399)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 398 (PDF 399)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,6 +68,7 @@ Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamies
   santrauka: 'Daugiausia konferencijų vyko Kupiškyje ir Vabalninke, o kelios – Skapiškyje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 403 (PDF 404)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 403 (PDF 404)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,6 +81,7 @@ Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamies
   santrauka: '1963 m. rugsėjo 18 d. Vabalninko parapijai buvo paskirtas klebonas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 536 (PDF 537)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 536 (PDF 537)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,6 +94,7 @@ Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamies
   santrauka: '1950 m. Vabalninko ir Kupiškio rajonuose veikė Romo Petronio-Siaubo ir Povilo Laužiko-Liudo būriai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,6 +107,7 @@ Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamies
   santrauka: '.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 925 (PDF 926)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 925 (PDF 926)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -185,4 +190,3 @@ Vabalninko parapijai priklausė aštuonios koplyčios ir Antašavos bei Salamies
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-003
-

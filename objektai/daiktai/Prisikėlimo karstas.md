@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1981 m. per Velykas prie Prisikėlimo karsto grojo dūdų orkestras.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 438 (PDF 439)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 438 (PDF 439)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

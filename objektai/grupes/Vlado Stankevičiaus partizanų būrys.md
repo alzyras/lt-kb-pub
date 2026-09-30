@@ -43,6 +43,7 @@ Vladas Stankevičius 1945 m. balandį suorganizavo partizanų būrį ir jam vado
   santrauka: 'Iš viso Vlado Stankevičiaus ir Dominyko Marcinkevičiaus partizanų būriuose buvo 35 partizanai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 48"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 48."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

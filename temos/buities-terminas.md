@@ -6,7 +6,7 @@ tema_kategorija: "terminai"
 tema_kategorijos_pavadinimas: "Žodyno įrašai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 28
+tema_objektu_skaicius: 27
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 28.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -52,5 +52,4 @@ Objektų skaičius: 28.
 - [[objektai/zodynas/šikšnogalis diržas]]
 - [[objektai/zodynas/Šliuižiai|šliuižiai]]
 - [Šližikai](../objektai/zodynas/%C5%A0li%C5%BEikai)
-- [Šulmilčiai](../objektai/zodynas/%C5%A0ulmil%C4%8Diai)
 - [žiemos kinkinys](../objektai/zodynas/%C5%BEiemos%20kinkinys)

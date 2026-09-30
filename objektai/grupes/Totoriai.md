@@ -1250,6 +1250,46 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - c-203945
 
+<a id="claim-t-171416"></a>
+- t-171416
+  teiginys: "Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais."
+  atnaujinta: "2026-09-29 18:45"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-36948
+    - c-181462
+    - c-181482
+    - c-155977
+    - c-181489
+
+<a id="claim-t-171431"></a>
+- t-171431
+  teiginys: "Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas."
+  atnaujinta: "2026-09-29 18:45"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jadvyga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-36949
+    - c-181456
+    - c-181490
+
 ## Citatos
 
 - id: c-14992
@@ -1316,6 +1356,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-171416
 
 - id: c-36949
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1335,6 +1377,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-171431
 
 - id: c-36950
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1991,6 +2035,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+    - t-171416
 
 - id: c-155978
   autorius: "Petras Dusburgietis"
@@ -2299,6 +2344,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-171431
 
 - id: c-181457
   autorius: "Anoniminis metraštininkas"
@@ -2472,6 +2519,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-171416
 
 - id: c-181463
   autorius: "Petras Dusburgietis"
@@ -2939,6 +2988,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-171416
 
 - id: c-181483
   autorius: "Michał Baliński"
@@ -3115,6 +3166,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+    - t-171416
 
 - id: c-181490
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3134,6 +3186,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-171431
 
 - id: c-181491
   autorius: "Anoniminis metraštininkas"

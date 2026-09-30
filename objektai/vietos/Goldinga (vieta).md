@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-04e6864460b4afcb2527e828
-canonical_name: Goldinga (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Goldinga
-  - Goldinga (vieta)
+entity_id: "ent-04e6864460b4afcb2527e828"
+canonical_name: "Goldinga (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Goldinga","Goldinga (vieta)"]
 sameAs: []
-canonical_biography: 'Antai Goldingos klebonas ir dekanas kun., Liandsbergas 1850.VIII.28 rašė vysk.'
+canonical_biography: "Antai Goldingos klebonas ir dekanas kun., Liandsbergas 1850.VIII.28 rašė vysk."
 place_authority: true
 historical_names: []
 ---

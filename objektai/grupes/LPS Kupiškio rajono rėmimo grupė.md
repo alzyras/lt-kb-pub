@@ -36,6 +36,7 @@ K. Stančiko vadovautame mitinge kalbėjo 17 Sąjūdžio rėmimo grupės narių 
   santrauka: 'Pirmajame Kupiškio sąjūdininkų susirinkime dalyvavo A. Baniulis, A. Graužinis, P. Gurklys, Algimantas Seibutis, Kazys Stančikas, R. Urbonas ir V. bei P. Zulonai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 849 (PDF 850)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 849 (PDF 850)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

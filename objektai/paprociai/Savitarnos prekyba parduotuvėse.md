@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Savitarnos įvedimas turėjo pagerinti prekybinį pralaidumą ir taupyti pirkėjų laiką.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 761 (PDF 762)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 761 (PDF 762)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

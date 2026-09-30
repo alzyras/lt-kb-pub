@@ -124,3 +124,36 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-211053"></a>
+- t-001
+  teiginys: "Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mūšis prie Jieseldos (mūšis, XIII a.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūšis prie Jieseldos (mūšis, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1262 m.; įvykio data: apie 1262 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Tai redakcinė interpretacija, todėl palikta atribucija ir suformuluota aiškiau."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
+<a id="claim-t-211623"></a>
+- t-002
+  teiginys: "Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1252 m.; įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: 1971 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Spėjama pasakojimo kilmė suformuluota kaip komentaro vertinimas. Nepridėta Vasilkos Romanovičiaus veiksmų, nes šis teiginys apsiriboja šaltinio pagrindu."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+

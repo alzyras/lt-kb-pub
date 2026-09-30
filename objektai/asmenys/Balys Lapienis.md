@@ -37,6 +37,7 @@ canonical_biography: "Balys Lapienis buvo Svėdasų valsčiaus stribas; po 1945 
   santrauka: '1945 m. kovo 29 d. apie 21 val. 15 partizanų grupė Kušlių kaime įsiveržė į Balio Lapienio ir Albino Rašimo namus, juos nuginklavo ir išsivedė; Albinas Rašimas pabėgo, o Balio Lapienio likimas liko nežinomas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 91"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 91."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

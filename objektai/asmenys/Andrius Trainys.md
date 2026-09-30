@@ -49,6 +49,7 @@ Arūnas Bubnys nurodė, kad tarp šioje vietoje nužudytųjų tikėtina buvo ir 
   santrauka: 'Andrius Trainys buvo Žilių kaimo gyventojas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 582 (PDF 583)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 582 (PDF 583)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

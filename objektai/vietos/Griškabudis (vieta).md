@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-8c69a20c74bc60968842f88b
-canonical_name: Griškabudis (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Griškabudis
-  - Griškabudis (vieta)
+entity_id: "ent-8c69a20c74bc60968842f88b"
+canonical_name: "Griškabudis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Griškabudis","Griškabudis (vieta)"]
 sameAs: []
-canonical_biography: Vogintas tapo praša lintas už pasipriešinimą iš Marijampolės ir per keltas Griškabudin vikaru.
+canonical_biography: "Vogintas tapo praša lintas už pasipriešinimą iš Marijampolės ir per keltas Griškabudin vikaru."
+place_authority: true
+historical_names: []
 ---
 # Griškabudis (vieta)
 

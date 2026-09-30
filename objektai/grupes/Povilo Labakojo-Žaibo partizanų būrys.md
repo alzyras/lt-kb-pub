@@ -30,6 +30,7 @@ Povilo Labakojo-Žaibo 17 partizanų būrys veikė prie durpių apdirbimo įmon�
   santrauka: 'Povilo Labakojo-Žaibo 17 partizanų būrys veikė prie durpių apdirbimo įmonės Surdegio ir Navikų kaimuose, Subačiaus valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 48"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 48."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -39,6 +40,7 @@ Povilo Labakojo-Žaibo 17 partizanų būrys veikė prie durpių apdirbimo įmon�
   santrauka: 'Partizanų kuopos vadas Adolfas Bagdonas-Beržas paskyrė Povilą Labakojį partizanų būrio vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 50"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 50."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

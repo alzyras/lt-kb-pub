@@ -65,6 +65,17 @@ Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas
   pagrindžia:
     - c-197958
 
+<a id="claim-t-217643"></a>
+- t-217643
+  teiginys: "Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas buvo suprantamas kaip apsivalymas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-173388

@@ -69,6 +69,24 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   pagrindžia:
     - c-194514
 
+<a id="claim-t-213342"></a>
+- t-213342
+  teiginys: "Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių kiekvieną sudarė keturios ordos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pečenegai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinas Purpurinis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Pečenegai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas Purpurinis\" parinktas kaip owner_note_path. Targetas \"Pečenegai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
 ## Citatos
 
 - id: c-174466

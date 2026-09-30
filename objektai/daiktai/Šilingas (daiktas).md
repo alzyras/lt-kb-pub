@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Šilingo vertės monetų Kupiškio valsčiaus senkapiuose randama daugiausia.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 662 (PDF 663)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 662 (PDF 663)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

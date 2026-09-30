@@ -121,6 +121,24 @@ Nenurodyta
   pagrindžia:
     - c-60358
 
+<a id="claim-t-225774"></a>
+- t-225774
+  teiginys: "Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vakarinių baltų bendradarbiavimas pateikiamas kovos prieš Kryžiuočių ordiną kontekste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Baltai kariavo prieš Kryžiuočių ordinas (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1236 m.; įvykio data: 1242 m.; įvykio data: 1243 m.; įvykio data: 1245 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta netiksli autorinė įžanga ir suformuotas glaustas faktinis sakinys."
+
 ## Citatos
 
 - id: c-60357

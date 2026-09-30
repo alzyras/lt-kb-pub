@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Kupiškio miestelyje vienas po kito atsirado bent penki malūnai, tačiau visi išnyko, kai ankstesnis malūnas tapo motorinis ir galėjo aptarnauti visą apylinkę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 727 (PDF 728)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 727 (PDF 728)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

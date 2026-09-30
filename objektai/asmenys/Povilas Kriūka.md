@@ -49,6 +49,7 @@ Povilas Kriūka buvo muzikantas, grojęs smuiku ir lumzdeliu.
   santrauka: 'Povilas Kriūka buvo muzikantas, grojęs smuiku ir lumzdeliu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1072 (PDF 1073)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1072 (PDF 1073)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1943 m. trečiąją Sekminių atlaidų dieną kunigas F. Ereminas pašventino antkapinį paminklą kunigui Vincentui Baltrušaičiui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 522 (PDF 523)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 522 (PDF 523)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

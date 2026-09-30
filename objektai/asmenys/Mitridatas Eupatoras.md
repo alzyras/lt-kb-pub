@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-393662b61539eee1dea6e761
-canonical_name: Mitridatas Eupatoras
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Mitridatas Eupatoras
+entity_id: "ent-393662b61539eee1dea6e761"
+canonical_name: "Mitridatas Eupatoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mitridatas Eupatoras"]
 sameAs: []
-canonical_biography: Mitridatas Eupatoras ją dar va dina Osericta.
+canonical_biography: "Mitridatas Eupatoras ją dar va dina Osericta."
 ---
 # Mitridatas Eupatoras
 

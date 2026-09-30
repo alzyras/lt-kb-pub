@@ -57,3 +57,22 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-223656"></a>
+- t-001
+  teiginys: "Hermanas iš Lichtenburgo gyveno Brandenburgo pilyje ir ant pliko kūno dėvėjo grandininius marškinius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Balti vilnoniai marškiniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hermanas iš Lichtenburgo: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Balti vilnoniai marškiniai: mention_match, thing, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas iš Lichtenburgo\" parinktas kaip owner_note_path. Targetas \"Balti vilnoniai marškiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

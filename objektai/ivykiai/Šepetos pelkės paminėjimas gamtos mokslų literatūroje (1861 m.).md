@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Leidinyje Šepetos pelkė apibūdinta kaip nepraeinama, 16 kvadratinių varstų ploto, o pelkėtu Šepetos upeliu ji jungėsi su Sterkonių ežeru.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 102 (PDF 103)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 102 (PDF 103)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

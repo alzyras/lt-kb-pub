@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '2013 m. rudenį dvi Sodėlio vaikų dainuotos sutartinės buvo išleistos ir visuomenei pristatytos kompaktinėje plokštelėje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1083 (PDF 1084)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1083 (PDF 1084)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

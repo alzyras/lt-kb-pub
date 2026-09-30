@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6c7e1da060cbe18a31ba173b
-canonical_name: Baltvyžių giria
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Baltvyžių giria
+entity_id: "ent-6c7e1da060cbe18a31ba173b"
+canonical_name: "Baltvyžių giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baltvyžių giria"]
 sameAs: []
-canonical_biography: 1837 metais Baltvyžių girioje rasta didelė auksinė moneta.
+canonical_biography: "1837 metais Baltvyžių girioje rasta didelė auksinė moneta."
+place_authority: true
+historical_names: []
 ---
 # Baltvyžių giria
 

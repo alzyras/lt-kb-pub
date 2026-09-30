@@ -39,6 +39,7 @@ Klojimo šalinės skirtos javams sukrauti.
   santrauka: 'Klojimo šalinės skirtos javams sukrauti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 723 (PDF 724)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 723 (PDF 724)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

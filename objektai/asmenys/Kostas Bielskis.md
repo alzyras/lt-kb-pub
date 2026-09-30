@@ -49,6 +49,7 @@ Balandžio 13 d. Gyvakarų kaime žuvo partizanas Kostas Bielskis ir jo žmona O
   santrauka: 'Balandžio 13 d. Gyvakarų kaime žuvo partizanas Kostas Bielskis ir jo žmona Ona Skardžiūtė-Bielskienė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 625 (PDF 626)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 625 (PDF 626)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

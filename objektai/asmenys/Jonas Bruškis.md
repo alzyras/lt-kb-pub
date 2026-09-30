@@ -41,6 +41,7 @@ J. Lašuko artimieji Jono Bruškio pavardę minėjo tarp vietos gyventojų, talk
   santrauka: 'J. Lašuko artimieji Jono Bruškio pavardę minėjo tarp vietos gyventojų, talkinusių meistrui atliekant didelius užsakymus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 348 (PDF 349)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 348 (PDF 349)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -58,6 +58,17 @@ Nenurodyta
   pagrindžia:
     - c-172782
 
+<a id="claim-t-216284"></a>
+- t-216284
+  teiginys: "Lietuvoje gyveno garsi Triznų giminė22."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Citatos
 
 - id: c-172782

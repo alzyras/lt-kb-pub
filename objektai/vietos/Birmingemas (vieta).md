@@ -38,6 +38,8 @@ entity_view_role: "place"
 entity_aliases: ["Birmingemas","Birmingemas (vieta)"]
 sameAs: []
 canonical_biography: "Birmingeme 1831-1834 m. minima korintinio peripterio stiliaus rotušė."
+place_authority: true
+historical_names: []
 ---
 # Birmingemas (vieta)
 

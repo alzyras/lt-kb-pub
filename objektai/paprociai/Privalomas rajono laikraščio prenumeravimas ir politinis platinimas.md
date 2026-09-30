@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Kolūkių, miesto kolektyvų ir organizacijų vadovams nurodyta privalomai prenumeruoti Kupiškio rajono laikraštį, o jo platinimą stebėjo partinės ir komjaunimo organizacijos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 827 (PDF 828)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 827 (PDF 828)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

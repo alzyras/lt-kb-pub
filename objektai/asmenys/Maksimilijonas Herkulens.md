@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-196f3f7d5f31610871b8e01b
-canonical_name: Maksimilijonas Herkulens
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Maksimilijonas Herkulens
+entity_id: "ent-196f3f7d5f31610871b8e01b"
+canonical_name: "Maksimilijonas Herkulens"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maksimilijonas Herkulens"]
 sameAs: []
-canonical_biography: 'Metuse 286 Maksimilijonas Herkulens, Rymo cieso rius, kariaudamas priesz maisztininkus Galius visiems lie pė padaryti savo dievams auką arba apierą.'
+canonical_biography: "Metuse 286 Maksimilijonas Herkulens, Rymo cieso rius, kariaudamas priesz maisztininkus Galius visiems lie pė padaryti savo dievams auką arba apierą."
 ---
 # Maksimilijonas Herkulens
 

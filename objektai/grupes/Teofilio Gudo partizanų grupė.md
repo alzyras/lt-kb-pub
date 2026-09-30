@@ -30,6 +30,7 @@ Teofilio Gudo partizanų grupę sudarė 17 partizanų. Informatoriaus „Bružio
   santrauka: 'Teofilio Gudo partizanų grupę sudarė 17 partizanų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 216"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 216."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -39,6 +40,7 @@ Teofilio Gudo partizanų grupę sudarė 17 partizanų. Informatoriaus „Bružio
   santrauka: 'Informatoriaus „Bružio“ duomenimis, iš Uldukių atėjusi Teofilio Gudo grupė Migoniuose dažnai lankė ryšininkus Kazį Pakštą ir Marcelę Mociūnienę, todėl 1948 m. vasario 18 d. naktį ten surengta karinė čekistų operacija.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 308"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 308."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

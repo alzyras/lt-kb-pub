@@ -41,6 +41,7 @@ Tuometinis Kupiškio rajono meras Vytautas Mockus inicijavo programą.
   santrauka: 'Tuometinis Kupiškio rajono meras Vytautas Mockus inicijavo programą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 806 (PDF 807)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 806 (PDF 807)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-7f5a7f2679cb4f0ff6bf8bf2
-canonical_name: Ragainės pilis
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Ragainės pilis
+entity_id: "ent-7f5a7f2679cb4f0ff6bf8bf2"
+canonical_name: "Ragainės pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ragainės pilis"]
 sameAs: []
-canonical_biography: 1295 m. lietuviai pasiekė prie Ragainės pilies esančią salą ir pagrobė brolių žirgus bei galvijus.
+canonical_biography: "1295 m. lietuviai pasiekė prie Ragainės pilies esančią salą ir pagrobė brolių žirgus bei galvijus."
+place_authority: true
+historical_names: []
 ---
 # Ragainės pilis
 

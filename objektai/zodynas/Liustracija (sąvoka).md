@@ -45,6 +45,7 @@ media_all_json: |-
   santrauka: '1843 m. Kupiškio liustracijos duomenimis, miestelyje buvo 107 valstiečių kiemai, o 120 „pašalinių“ šeimų skaičiuotos atskirai; daugumą jų sudarė žydai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 564 (PDF 565)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 564 (PDF 565)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -37,6 +37,7 @@ Vladas Kaladė vadovavo partizanų būriui, kuriam priklausė Vladas Magila, Jon
   santrauka: 'Vladas Kaladė vadovavo partizanų būriui, kuriam priklausė Vladas Magila, Jonas Švelnys, Povilas Švelnys, Leonas Tūbelis, Algirdas Graičiūnas, Vytautas Graičiūnas ir Jonas Biškauskas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 115"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 115."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

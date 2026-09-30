@@ -48,6 +48,7 @@ Vienas Lėvens tvenkinio pusiasalių yra Jutkonių kaime.
   santrauka: 'Vienas Lėvens tvenkinio pusiasalių yra Jutkonių kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 28 (PDF 29)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 28 (PDF 29)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

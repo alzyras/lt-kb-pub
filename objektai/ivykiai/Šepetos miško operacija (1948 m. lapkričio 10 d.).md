@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Onos Dapšytės-Kriukelienės kronika nurodo: 1948 m. lapkričio 10 d. Šepetos miške per MGB operaciją žuvo Julius Ožys-Girėnas, Valerijonas Jackevičius-Valteris, Petras Bočiulis-Viršila ir Ona Petrauskaitė-Jackevičienė; Alfonsas Petrauskas-Judošius suimtas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 317"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 317."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

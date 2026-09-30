@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: '1948 m. balandžio 16 d. Butėnų kaime, Svėdasų valsčiuje, su stribais susikovė Šarūno rinktinės vadas Antanas Starkus ir partizanai Albinas Pajarskas, Jonas Lapienis bei Vytautas Lapienis; kautynėse aukų nebuvo.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 310"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 310."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

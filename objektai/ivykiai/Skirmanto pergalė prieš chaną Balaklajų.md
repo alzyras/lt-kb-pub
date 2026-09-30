@@ -47,6 +47,18 @@ Nenurodyta
   pagrindžia:
     - c-193513
 
+<a id="claim-t-210896"></a>
+- t-210896
+  teiginys: "Skirmantas prie Kaidanovo nugalėjo Balaklajų ir nukovė jo totorių kariuomenę."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193060
+
 ## Santrauka
 
 Skirmantas liepė Balaklajaus pasiuntiniams nupjaustyti nosis, lūpas ir ausis. Skirmantas prie Kaidanovo nugalėjo Balaklajų ir nukovė jo totorių kariuomenę.
@@ -72,6 +84,8 @@ Skirmantas liepė Balaklajaus pasiuntiniams nupjaustyti nosis, lūpas ir ausis. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210896
 
 - id: c-193513
   autorius: "Anoniminis metraštininkas"

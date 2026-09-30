@@ -41,6 +41,7 @@ Vilniaus pavaivadis Mykolas Rapolas Šumskis baigė mūryti Palėvenės bažnyč
   santrauka: 'Vilniaus pavaivadis Mykolas Rapolas Šumskis baigė mūryti Palėvenės bažnyčios Jėzaus koplyčią.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 313 (PDF 314)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 313 (PDF 314)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

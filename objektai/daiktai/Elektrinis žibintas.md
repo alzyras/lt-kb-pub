@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Būrio vyresnieji elektriniais žibintais pašviesdavo į duobę ir tikrindavo, ar visi joje buvę žmonės negyvi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 585 (PDF 586)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 585 (PDF 586)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

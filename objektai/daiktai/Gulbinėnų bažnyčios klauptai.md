@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1976 m. stalius, kun. Sigito Uždavinio paprašytas, pagamino klauptus Gulbinėnų bažnyčiai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 552 (PDF 553)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 552 (PDF 553)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

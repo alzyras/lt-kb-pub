@@ -27,17 +27,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-95b774aa1fd0dd51d2a66869
-canonical_name: Merkys
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Merkys
-sameAs: []
-canonical_biography: 'Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose. 162 ii skyrius: valstybės iškilimas Pradžioje Lietuva tėra buvusi tik dalis Aukštaičių žemės, kurios va­ karinė siena bus ėjusi žemiau Merkio žiočių, paties Nemuno viduru­ piu iki pat Kauno.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Merkys","url":"https://lt.wikipedia.org/wiki/Merkys","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Merkys","url":"https://www.vle.lt/straipsnis/merkys/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Merkys - Wikipedia","url":"https://en.wikipedia.org/wiki/Merkys","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""},{"title":"Merkys – Wikipedia","url":"https://de.wikipedia.org/wiki/Merkys","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:01:36+00:00","source_checked_at":"2026-09-20T04:01:36+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Merkys (bltr. Мерычанка) – dešinysis Nemuno intakas, didžiausia pietryčių Lietuvos upė. Upės visas ilgis – 203 km, iš jų Lietuvoje – 185,2 km; teka Šalčininkų, Varėnos rajonų savivaldybių teritorijomis ir Baltarusijos (Ašmenos rajono) teritorija.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"9156","revision_id":"7853510","status":"published","translation_status":"native","source":{"title":"Merkys","url":"https://lt.wikipedia.org/wiki/Merkys","publisher":"Vikipedija","language":"lt","article_id":"9156","revision_id":"7853510","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7853510","history_url":"https://lt.wikipedia.org/w/index.php?title=Merkys&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:08.751495+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"2718f262b88d1abfa14fd43ae1dcf9d19e1a582ca7f11c0e825bb8be9d20ee4a","version_pk":"6b580234e833d6283f2172e167976d8d"}},"source_buttons":[{"label":"Vikipedija","title":"Merkys","url":"https://lt.wikipedia.org/wiki/Merkys","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Merkys","url":"https://www.vle.lt/straipsnis/merkys/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Merkys","https://www.vle.lt/straipsnis/merkys/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Bona","claim_id":"t-111947","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Žygimantas Senasis","claim_id":"t-111945","confidence":0.7}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -51,6 +40,15 @@ object_page_seo_description: 'Merkys: Mezolito įrankių gausiai aptikta palei u
 object_page_seo_input_hash: a1ebea87247286e5b55fb5fe0bea6a35b960b7cb2b21837ed3787a308b5791df
 object_page_seo_generated_at: '2026-09-20T04:01:36+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-95b774aa1fd0dd51d2a66869"
+canonical_name: "Merkys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Merkys"]
+sameAs: ["https://www.wikidata.org/entity/Q1419589"]
+canonical_biography: "Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose. 162 ii skyrius: valstybės iškilimas Pradžioje Lietuva tėra buvusi tik dalis Aukštaičių žemės, kurios va­ karinė siena bus ėjusi žemiau Merkio žiočių, paties Nemuno viduru­ piu iki pat Kauno."
+place_authority: true
+historical_names: []
 ---
 # Merkys
 

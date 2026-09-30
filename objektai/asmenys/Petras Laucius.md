@@ -37,6 +37,7 @@ Iki Sierakausko tėvūnijos įkūrimo Petras Laucius buvo kartu su Romu Petroniu
   santrauka: 'Iki Sierakausko tėvūnijos įkūrimo Petras Laucius buvo kartu su Romu Petroniu, Linu Pivoravičiumi, Jonu Baltušiu, Romu Styra ir Stasiu Liaudansku; tuo metu Petronis eidavo į Biržų girią.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 134-135"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 134-135."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

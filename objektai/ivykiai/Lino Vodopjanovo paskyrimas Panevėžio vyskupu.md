@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '2016 m. gegužės 20 d. popiežius Pranciškus Panevėžio vyskupu paskyrė Genadijų Liną Vodopjanovą, kuris tapo septintuoju vyskupijoje besidarbuojančiu vyskupu ir penktuoju vyskupu ordinaru.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 535 (PDF 536)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 535 (PDF 536)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

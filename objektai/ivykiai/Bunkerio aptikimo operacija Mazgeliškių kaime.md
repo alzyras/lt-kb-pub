@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Mazgeliškių bunkerio operacijos aprašyme kronika nurodo, kad Algimanto apygardos štabo apsaugos būrys buvo visiškai sunaikintas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 386"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 386."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

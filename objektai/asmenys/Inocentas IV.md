@@ -85,6 +85,38 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   pagrindžia:
     - c-201816
 
+<a id="claim-t-221366"></a>
+- t-221366
+  teiginys: "1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Prūsija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Inocentas IV: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Inocentas IV pasiuntė Vilhelmą į Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Inocentas IV siuntė į Prūsija (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1243 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys buvo su OCR triukšmu; citata aiškiai pagrindžia konkrečią Inocento IV veiklą."
+  pagrindžia:
+    - c-204565
+
+<a id="claim-t-224540"></a>
+- t-224540
+  teiginys: "Inocentas IV apaštališkojo sosto vardu įsakė skelbti kryžiaus karą karalystėse ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204565
+
 ## Citatos
 
 - id: c-60965
@@ -203,6 +235,9 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221366
+    - t-224540
 
 ## Ryšiai
 - Inocentas IV siuntė į [[objektai/vietos/Prūsija]]

@@ -54,6 +54,7 @@ Eduardas Starkus iš Puponių kaimo saugo dovanotus rankšluosčius kaip prisimi
   santrauka: 'Eduardas Starkus iš Puponių kaimo saugo dovanotus rankšluosčius kaip prisiminimą apie mirusius kaimynus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 911 (PDF 912)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 911 (PDF 912)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,6 +66,7 @@ Eduardas Starkus iš Puponių kaimo saugo dovanotus rankšluosčius kaip prisimi
   santrauka: 'Vladas Starkus buvo kilęs iš Puponių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1031 (PDF 1032)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1031 (PDF 1032)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,6 +78,7 @@ Eduardas Starkus iš Puponių kaimo saugo dovanotus rankšluosčius kaip prisimi
   santrauka: 'Puponių vestuvinės dainos anotacijoje nurodyta, kad dainuojama po šliūbo, pavalgius vakarienę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1031 (PDF 1032)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1031 (PDF 1032)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

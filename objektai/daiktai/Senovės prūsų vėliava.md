@@ -89,6 +89,25 @@ Nenurodyta
   pagrindžia:
     - c-197907
 
+<a id="claim-t-216450"></a>
+- t-216450
+  teiginys: "Narbutas rašė, kad prūsų didžiojoje vėliavoje Atrimpas vaizduotas kaip jaunikaitis su javų varpų vainiku, stovintis Perkūno kairėje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Prūsai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Senovės prūsų vėliava: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vėliava tiesiogiai apibūdinama kaip prūsų didžioji vėliava."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Senovės prūsų vėliava priklausė Prūsai (0.84)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-172596

@@ -37,6 +37,7 @@ Juozas Spetyla buvo nušautas 1945 m. birželį Gučiūnų kaime, Kamajų valsč
   santrauka: 'Juozas Spetyla buvo nušautas 1945 m. birželį Gučiūnų kaime, Kamajų valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 110"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 110."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

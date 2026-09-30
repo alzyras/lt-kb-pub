@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Kupiškėnų išradimas – medinė rankena arbatinės laikraščiui – leido jį užrakinti spynute ir patogiau laikyti skaitant.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 396 (PDF 397)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 396 (PDF 397)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

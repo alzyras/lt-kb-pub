@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1982 m. J. Prunskis pagerbtas Lietuvių rašytojų sąjungos išeivijoje garbės nario vardu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 527 (PDF 528)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 527 (PDF 528)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

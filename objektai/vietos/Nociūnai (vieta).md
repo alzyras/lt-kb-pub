@@ -56,6 +56,7 @@ Teofilis Gudas-Eskimas gimė 1914 m., gyveno Nociūnų kaime Šimonių valsčiuj
   santrauka: 'Teofilis Gudas-Eskimas gimė 1914 m., gyveno Nociūnų kaime Šimonių valsčiuje ir buvo vienas iš 1941 m. sukilimo organizatorių Šimonių miestelyje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 78"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 78."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

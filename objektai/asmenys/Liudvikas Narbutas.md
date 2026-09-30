@@ -59,6 +59,18 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
   pagrindžia:
     - c-170879
 
+<a id="claim-t-216551"></a>
+- t-216551
+  teiginys: "Narbutas žuvo Lietuvoje 1863 m. pavasarį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198817
+
 ## Citatos
 
 - id: c-170879
@@ -102,4 +114,6 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216551
 

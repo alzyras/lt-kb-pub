@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Palėvenės parapijoje bažnyčios remontui buvo renkamos gyventojų aukos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 243 (PDF 244)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 243 (PDF 244)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

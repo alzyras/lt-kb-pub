@@ -49,6 +49,7 @@ Mantas Daubaras vadovavo 2015 m. atnaujintiems Gyvakarų kapo tyrinėjimams.
   santrauka: 'Mantas Daubaras vadovavo 2015 m. atnaujintiems Gyvakarų kapo tyrinėjimams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 124 (PDF 125)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 124 (PDF 125)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

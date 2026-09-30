@@ -101,6 +101,7 @@ Nenurodyta
   santrauka: 'Tarp aptiktų daiktų buvo du šautuvai, rašomoji mašinėlė ir šoviniai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 103"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 103."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

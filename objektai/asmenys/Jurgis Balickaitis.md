@@ -49,6 +49,7 @@ canonical_biography: "1981 m. buvo numatyta sustiprinti Jurgio Balickaičio seki
   santrauka: '1981 m. buvo numatyta sustiprinti Jurgio Balickaičio sekimą ir tyrimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 438 (PDF 439)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 438 (PDF 439)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

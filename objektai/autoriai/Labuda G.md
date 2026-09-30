@@ -27,16 +27,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-fbdc1115982e4222cc22e763
-canonical_name: Labuda G
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Labuda G
-sameAs: []
-canonical_biography: 'Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigia, kad jučas); Labuda G. Dusburgietis teigia, kad labuda G.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:48:28+00:00","source_checked_at":"2026-09-20T14:48:28+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"45493dac0e0ce8b3f96c0fde","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus.","context":"Nurodyta 1985 m. leidinio bibliografijoje: „Labuda G. Rec.: M. Hellman. Über die Grundlagen...“","support_ids":["t-224698","c-203985"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224698","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203985","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro 149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование..., с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24— 30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV iš Dusburgo kronikos faktai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T14:48:28+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
 object_page_finisher: 'true'
@@ -50,98 +40,19 @@ object_page_seo_description: 'Labuda G: Dusburgietis teigia, kad , norėdamas kr
 object_page_seo_input_hash: ad8575edde51ee1008c73db9c5b63ec3918a8055e1af1a703cdd25be0a0467a4
 object_page_seo_generated_at: '2026-09-20T14:48:28+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-fbdc1115982e4222cc22e763"
+canonical_name: "Labuda G"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Labuda G"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigia, kad jučas); Labuda G. Dusburgietis teigia, kad labuda G."
 ---
 # Labuda G
 
 ## Santrauka
 
 Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigia, kad jučas); Labuda G. Dusburgietis teigia, kad labuda G.
-
-## Teiginiai
-
-<a id="claim-t-64698"></a>
-- t-001
-  teiginys: "G. Labuda nurodė, kad Henriko Barzdotojo dokumentai liudija jo buvimą Prūsijoje 1235 metais."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Labuda G: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labuda G\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: po 1202 m.; įvykio data: 1202 m.; įvykio data: po 1229 m.; įvykio data: 1229 m.; įvykio data: po 1232 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai palaiko konkretų Labudos teiginį apie Henriko Barzdotojo dokumentus."
-  pagrindžia:
-    - c-65346
-
-<a id="claim-t-64699"></a>
-- t-002
-  teiginys: "G. Labuda Vitlando pavadinimą siejo su baltų žodžiu „vidus“ ir lygino jį su latvių Vidzeme."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Labuda G: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labuda G\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-65347
-
-<a id="claim-t-64700"></a>
-- t-003
-  teiginys: "G. Labuda nagrinėjo imperatoriaus ir pagoniškųjų prūsų žemių teisinį santykį."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Labuda G: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labuda G\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-65351
-
-<a id="claim-t-64701"></a>
-- t-004
-  teiginys: "G. Labuda recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus."
-  atnaujinta: "2026-07-24 15:00"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Labuda G: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labuda G\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-65348
-
-<a id="claim-t-220902"></a>
-- t-220902
-  teiginys: "G. Labuda Dirsovės vardą laikė prūsišku."
-  atnaujinta: "2026-09-20 17:48"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nogatas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Labuda G: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Nogatas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labuda G\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203820
-    - c-204038
 
 ## Citatos
 
@@ -164,8 +75,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-65347
   autorius: "Petras Dusburgietis"
@@ -182,8 +91,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - id: c-65348
   autorius: "Petras Dusburgietis"
@@ -205,8 +112,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 
 - id: c-65349
   autorius: "Petras Dusburgietis"
@@ -247,8 +152,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - id: c-203468
   autorius: "Petras Dusburgietis"
@@ -287,8 +190,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220902
 
 - id: c-204038
   autorius: "Petras Dusburgietis"
@@ -311,8 +212,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220902
 
 - id: c-204982
   autorius: "Petras Dusburgietis"

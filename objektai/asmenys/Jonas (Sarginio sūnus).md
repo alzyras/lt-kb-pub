@@ -46,6 +46,21 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
+<a id="claim-t-224595"></a>
+- t-224595
+  teiginys: "Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Jonas (Sarginio sūnus): 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Belichovas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Jonas (Sarginio sūnus): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Belichovo pilis priklausė Jonui, Sarginio sūnui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Belichovas priklausė Jonas (Sarginio sūnus) (0.92)"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.'

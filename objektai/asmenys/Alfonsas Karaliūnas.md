@@ -49,6 +49,7 @@ Alfonsas Karaliūnas gimė Butėnų kaime, Šimonių valsčiuje.
   santrauka: 'Alfonsas Karaliūnas gimė Butėnų kaime, Šimonių valsčiuje.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 952 (PDF 953)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 952 (PDF 953)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

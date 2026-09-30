@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1988 m. spaudoje rašyta, kad Antašavos ir Alizavos kolūkiuose duris atvėrė dveji kultūros rūmai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 776 (PDF 777)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 776 (PDF 777)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

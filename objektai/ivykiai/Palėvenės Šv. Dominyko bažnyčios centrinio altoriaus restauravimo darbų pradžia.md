@@ -49,6 +49,7 @@ Nenurodyta
   santrauka: '2005 m. Palėvenės Šv. Dominyko bažnyčioje parengus centrinio altoriaus konservavimo ir restauravimo projektą, pradėti rimtesni šio altoriaus restauravimo darbai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 258 (PDF 259)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 258 (PDF 259)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

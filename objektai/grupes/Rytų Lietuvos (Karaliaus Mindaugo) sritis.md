@@ -70,6 +70,7 @@ media_all_json: |-
   santrauka: '1948 m. lapkritį Rytų Lietuvos (Karaliaus Mindaugo) srities vadas J. Kimštas buvo deleguotas į kuriamą vyriausiąją partizanų vadovybę, o Algimanto apygardos vadas A. Slučka-Šarūnas tapo srities vadu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "p. 24 (PDF 25)"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, p. 24 (PDF 25)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,6 +80,7 @@ media_all_json: |-
   santrauka: 'Agento „Miko“ duomenimis, Algimanto apygarda priklausė Rytų Lietuvos (Karaliaus Mindaugo) sričiai, kuriai vadovavo Jonas Kimštas-Žilvinas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 343"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 343."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,6 +90,7 @@ media_all_json: |-
   santrauka: 'Joana Railaitė-Slučkienė-Neringa, gimusi 1920 m. Čerelių kaime, anksčiau vadovavo Rytų Lietuvos (Karaliaus Mindaugo) srities Finansų skyriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 365"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 365."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

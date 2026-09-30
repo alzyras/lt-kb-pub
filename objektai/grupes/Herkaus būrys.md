@@ -68,6 +68,7 @@ Herkaus būriui vadovavo Petras Apšega-Vilkas; būrys veikė Šimonių, Skapiš
   santrauka: 'Povilas Gabrėnas-Romutis, slapyvardžiu Ramunėlis, žuvo kautynėse; jis buvo Algimanto apygardos Šarūno rinktinės Algirdo kuopos Herkaus būrio partizanas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 308"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 308."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

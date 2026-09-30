@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Insbrukas","Insbrukas (vieta)"]
 sameAs: []
 canonical_biography: "Ties Insbruku buvo sulaikyta viena Maskvos belaisvių partija."
+place_authority: true
+historical_names: []
 ---
 # Insbrukas (vieta)
 

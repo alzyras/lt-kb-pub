@@ -96,6 +96,19 @@ A. K. Sapiegą, 04-ldk-personalijos-idejos-refleksijos autoriaus vaizdavimu, erz
   pagrindžia:
     - c-190818
 
+<a id="claim-t-208232"></a>
+- t-208232
+  teiginys: "A. K. Sapiega, kaip vaizduojamas 04-ldk-personalijos-idejos-refleksijos šaltinyje, priekaištavo Vladislovui Juontui Kuževskiui ir dėl neatidumo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
+  pagrindžia:
+    - c-190891
+
 ## Citatos
 
 - id: c-190818
@@ -138,4 +151,6 @@ A. K. Sapiegą, 04-ldk-personalijos-idejos-refleksijos autoriaus vaizdavimu, erz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208232
 

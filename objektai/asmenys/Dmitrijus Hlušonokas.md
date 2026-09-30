@@ -27,15 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-4edf01ce40697542ddb95cbd
-canonical_name: Dmitrijus Hlušonokas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Dmitrijus Hlušonokas
+entity_id: "ent-noble-4edf01ce40697542ddb95cbd"
+canonical_name: "Dmitrijus Hlušonokas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dmitrijus Hlušonokas"]
 sameAs: []
-canonical_biography: Dmitrijus Hlušonokas - Oginskiai giminės atstovas.
+canonical_biography: "Dmitrijus Hlušonokas - Oginskiai giminės atstovas."
 ---
 # Dmitrijus Hlušonokas
 

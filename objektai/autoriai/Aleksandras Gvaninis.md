@@ -117,6 +117,38 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   pagrindžia:
     - c-173571
 
+<a id="claim-t-217375"></a>
+- t-217375
+  teiginys: "Narbutas rašė, kad Gvaninis ir Meletijus Ukapirmą lygino su Perkūnu, nes šis laikytas dangaus ir žemės viešpačiu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::authors"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
+<a id="claim-t-219043"></a>
+- t-219043
+  teiginys: "Narbutas Gvaninį nurodė kaip pasakojimo apie senus Lietuvos naminių žalčių prietarus šaltinį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "gap::authors"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Gvaninį nurodė kaip pasakojimo apie senus Lietuvos naminių žalčių prietarus šaltinį.'

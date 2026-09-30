@@ -79,18 +79,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   pagrindžia:
     - c-175508
 
-<a id="claim-t-197915"></a>
-- t-003
-  teiginys: "Fosas teigia, jog jis pasiekė tik Reiną ar toliausiai Elbės žiotis."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179395
-
 <a id="claim-t-215212"></a>
 - t-215212
   teiginys: "Net ir Reinas buvo gavęs teisę vadintis gintaro upe."
@@ -184,8 +172,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - id: c-195337
   autorius: "Teodoras Narbutas"

@@ -49,6 +49,7 @@ canonical_biography: "Joana Railaitė-Neringa žuvo 1949 m. spalio 27 d. Andrion
   santrauka: '1949 m. spalio 27 d. Andrioniškio apylinkėse Joana Railaitė-Neringa kartu su vyru Antanu Slučka-Šarūnu ir partizanu Juozu Jovaiša-Lokiu susisprogdino, patekę į apsuptį.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 622 (PDF 623)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 622 (PDF 623)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

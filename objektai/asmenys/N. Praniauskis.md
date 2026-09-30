@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-46695a1fc652ecefc0162cc9
-canonical_name: N. Praniauskis
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - N. Praniauskis
+entity_id: "ent-46695a1fc652ecefc0162cc9"
+canonical_name: "N. Praniauskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["N. Praniauskis"]
 sameAs: []
-canonical_biography: N. Praniauskio patarimai buvo siejami su lietuviško laikraščio sumanymu.
+canonical_biography: "N. Praniauskio patarimai buvo siejami su lietuviško laikraščio sumanymu."
 ---
 # N. Praniauskis
 

@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1917 m. rugsėjo 22 d. laiške Kupiškio bažnyčios administratorius A. Bajorinas prašė Žemaičių vyskupo leisti parapijoje įsteigti Gyvojo Rožančiaus kanoniškąją draugiją, kurios direktoriumi galėtų būti kun. A. Kripaitis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 396 (PDF 397)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 396 (PDF 397)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -56,3 +56,24 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-219197"></a>
+- t-001
+  teiginys: "1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė Veliuonos pilį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Veliuona: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Veliuonos sudeginimas tiesiogiai rodo kryžiuočių karinį puolimą prieš miestą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Veliuona (0.86); Kryžiuočių ordinas puolė Veliuonos pilis (0.84)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+

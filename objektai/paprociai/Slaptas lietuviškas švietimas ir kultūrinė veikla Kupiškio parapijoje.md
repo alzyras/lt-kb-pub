@@ -95,6 +95,7 @@ Nenurodyta
   santrauka: 'Po 1863–1864 m. sukilimo numalšinimo Kupiškio bažnyčia tapo slapto lietuviško švietimo centru; 1868 m. Kupiškyje klebonu pradėjo dirbti Kleopas Kozmianas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 376 (PDF 377)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 376 (PDF 377)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

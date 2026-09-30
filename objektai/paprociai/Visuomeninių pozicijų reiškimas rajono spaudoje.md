@@ -59,6 +59,7 @@ Nenurodyta
   santrauka: 'Demokratėjanti rajono spaudos pozicija skatino žmones aktyviau įsitraukti į visuomeninį gyvenimą, drąsiau reikšti mintis ir atviriau diskutuoti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 847 (PDF 848)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 847 (PDF 848)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

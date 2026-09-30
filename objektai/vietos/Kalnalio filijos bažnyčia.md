@@ -20,15 +20,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e0be9cd40c5e529a3b9f4c1e
-canonical_name: Kalnalio filijos bažnyčia
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Kalnalio filijos bažnyčia
+entity_id: "ent-e0be9cd40c5e529a3b9f4c1e"
+canonical_name: "Kalnalio filijos bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kalnalio filijos bažnyčia"]
 sameAs: []
-canonical_biography: Kalnalio filijos bažnyčia 1819 m. buvo vizituota vysk. Juozapo Arnulfo Giedraičio.
+canonical_biography: "Kalnalio filijos bažnyčia 1819 m. buvo vizituota vysk. Juozapo Arnulfo Giedraičio."
 place_authority: true
 historical_names: []
 ---

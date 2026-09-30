@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Vienkiemių klėčių čerpių dangos buvo puošiamos skirtingų spalvų čerpių ornamentais, kartais ir šeimininko inicialais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 721 (PDF 722)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 721 (PDF 722)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

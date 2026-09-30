@@ -37,6 +37,7 @@ Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–
   santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad tardoma Valė Pajedaitė-Čerškuvienė prisipažino nuo 1945 m. palaikiusi ryšius su partizanais.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 95-96"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 95-96."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

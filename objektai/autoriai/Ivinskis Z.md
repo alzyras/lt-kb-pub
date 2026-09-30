@@ -67,3 +67,23 @@ Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-220248"></a>
+- t-001
+  teiginys: "Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kalavijuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuviai sutriuškino kalavijuočius Saulės mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1236 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų bibliografinį teiginį apie Ivinskio darbą ir Saulės mūšio kontekstą."
+  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
+

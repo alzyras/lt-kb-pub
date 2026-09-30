@@ -65,6 +65,7 @@ Nenurodyta
   santrauka: 'Po kun. V. Liuimos pastangų ir rėmėjų paieškų 1996 m. rugsėjį Kupiškio parapijoje įkurti Šv. Kazimiero vaikų globos namai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 555 (PDF 556)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 555 (PDF 556)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Virš Bagdonių sentikių cerkvės stogo kyla bokštas su aštuongaliu ažūriniu kryžiumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 310 (PDF 311)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 310 (PDF 311)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

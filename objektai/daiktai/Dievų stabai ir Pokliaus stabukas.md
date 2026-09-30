@@ -55,6 +55,28 @@ Nenurodyta
   pagrindžia:
     - c-179080
 
+<a id="claim-t-216952"></a>
+- t-216952
+  teiginys: "Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
+<a id="claim-t-219328"></a>
+- t-219328
+  teiginys: "Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi baisios išvaizdos Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Citatos
 
 - id: c-172591

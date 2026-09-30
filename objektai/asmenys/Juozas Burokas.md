@@ -49,6 +49,7 @@ Juozas Burokas buvo Didžprūdžių kaimo bandonininkas.
   santrauka: 'Juozas Burokas buvo Didžprūdžių kaimo bandonininkas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1074 (PDF 1075)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1074 (PDF 1075)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

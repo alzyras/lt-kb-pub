@@ -46,6 +46,7 @@ Unė Babickaitė-Milerienė yra Vytauto Babicko duktė.
   santrauka: 'Unė Babickaitė-Milerienė yra Vytauto Babicko duktė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1114-1115 (PDF 1115-1116)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1114-1115 (PDF 1115-1116)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -44,6 +44,7 @@ Jonas Šidlauskas nuo 1944 m. buvo partizanas ir suorganizavo bei vadovavo parti
   santrauka: 'Jonas Šidlauskas nuo 1944 m. buvo partizanas ir suorganizavo bei vadovavo partizanų būriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 133"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 133."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

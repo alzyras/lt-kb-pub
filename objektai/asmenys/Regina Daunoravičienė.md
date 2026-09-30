@@ -41,6 +41,7 @@ Regina Daunoravičienė iš Marijonos Klasinskienės perėmė varpų skambinimo 
   santrauka: 'Regina Daunoravičienė iš Marijonos Klasinskienės perėmė varpų skambinimo tradiciją.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1010 (PDF 1011)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1010 (PDF 1011)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -48,6 +48,7 @@ Konstancija Grinienė per 17 metų pagimdė 14 vaikų ir mirė 1886 m., sulaukus
   santrauka: 'Konstancija Šlapelytė buvo Justino ir Barboros Žukaitės duktė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 195 (PDF 196)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 195 (PDF 196)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

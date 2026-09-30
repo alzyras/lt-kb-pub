@@ -56,6 +56,7 @@ media_all_json: |-
   santrauka: 'Povilo Barono-Briedžio skyriui vadovavo Povilas Baronas-Briedis; nariai buvo Jonas (byloje – Juozas) Lapienis-Jokeris, Pranas Galvydis-Valteris, Steponas Šukys, Petras Pakštas, Anicetas Merkys-Vanagas ir Valančiūnas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 221-222"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 221-222."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

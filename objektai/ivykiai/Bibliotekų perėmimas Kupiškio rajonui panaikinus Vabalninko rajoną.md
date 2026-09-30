@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1959 m. gruodžio 6 d. panaikinus Vabalninko rajoną, nuo gruodžio 18 d. septynios jo bibliotekos su darbuotojais perduotos Kupiškio rajono Kultūros skyriui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 801 (PDF 802)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 801 (PDF 802)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1930 m. spalio 2 d. Kupiškio dekanato kunigai laiške Prezidentui Švietimo ministro žygį prieš moksleivius ateitininkus vadino neteisėtu, neteisingu ir katalikybei kenksmingu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 406 (PDF 407)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 406 (PDF 407)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

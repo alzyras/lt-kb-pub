@@ -69,6 +69,23 @@ Nenurodyta
     - c-59883
     - c-167349
 
+<a id="claim-t-225781"></a>
+- t-225781
+  teiginys: "Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Hirtshalsas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Notangai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Hirtshalsas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad notangai Hirtshalsą paskyrė aukai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Notangai paskyrė Hirtshalsas (0.86)"
+  pagrindžia:
+    - c-204642
+
 ## Citatos
 
 - id: c-59881
@@ -201,6 +218,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225781
 
 - id: c-205091
   autorius: "Petras Dusburgietis"

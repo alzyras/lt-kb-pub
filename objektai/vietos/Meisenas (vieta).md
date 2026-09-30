@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e41755c18948b3bb7111d90d
-canonical_name: Meisenas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Meisenas
-  - Meisenas (vieta)
+entity_id: "ent-e41755c18948b3bb7111d90d"
+canonical_name: "Meisenas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Meisenas","Meisenas (vieta)"]
 sameAs: []
-canonical_biography: Meiseno markgrafas Ditrichas.
+canonical_biography: "Meiseno markgrafas Ditrichas."
+place_authority: true
+historical_names: []
 ---
 # Meisenas (vieta)
 

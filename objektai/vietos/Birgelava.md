@@ -56,6 +56,34 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   pagrindžia:
     - c-86189
 
+<a id="claim-t-221241"></a>
+- t-221241
+  teiginys: "Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Birgelava: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Treniota: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Birgelava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pilį paėmė Treniotos suburta kariuomenė; subjektas tekste yra Treniota su talkininkais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-223097"></a>
+- t-223097
+  teiginys: "Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Birgelava: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Birgelava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo pilies paėmimą, o puolėjai yra Treniotos vadovaujami lietuviai ir pagonys; iš kandidatų tinkamiausia grupė yra lietuviai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-86187

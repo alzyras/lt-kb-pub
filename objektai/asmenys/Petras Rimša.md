@@ -51,6 +51,7 @@ Petro Rimšos (1881–1961) iš bronzos nulietas Kazimiero Paltaroko bareljefas 
   santrauka: 'Petrui Rimšai priskiriamas iš bronzos nulietas Panevėžio vyskupo Kazimiero Paltaroko bareljefas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 352 (PDF 353)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 352 (PDF 353)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

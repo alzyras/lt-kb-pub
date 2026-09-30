@@ -58,6 +58,7 @@ media_all_json: |-
   santrauka: 'Žemaičių legionas, tapęs Žemaičių apygardos branduoliu, veikė Telšių, Kretingos, Mažeikių ir Tauragės apskrityse.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 496 (PDF 497)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 496 (PDF 497)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

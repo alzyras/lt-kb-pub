@@ -68,6 +68,7 @@ Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buv
   santrauka: 'Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buvusios šinkorkos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 728 (PDF 729)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 728 (PDF 729)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

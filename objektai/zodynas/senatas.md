@@ -61,6 +61,25 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
   pagrindžia:
     - c-168757
 
+<a id="claim-t-185397"></a>
+- t-185397
+  teiginys: "Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos didikai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Lietuvos didikai buvo išsiųsti į Lenkiją, todėl palaikomas jų vykimas į šią vietą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168758
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio veiksmus.'
@@ -171,4 +190,6 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185397
 

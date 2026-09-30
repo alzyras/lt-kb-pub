@@ -38,6 +38,7 @@ media_all_json: |-
   santrauka: '325 m. Visuotiniame Bažnyčios susirinkime Nikėjoje sutarta Velykas švęsti pirmąjį sekmadienį po pavasario lygiadienio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 932 (PDF 933)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 932 (PDF 933)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

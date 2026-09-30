@@ -45,6 +45,7 @@ Kupiškio piliakalnis yra ties Lėvens upės ir Aukštupio santaka, jo aikštel�
   santrauka: 'Kupiškio (Aukštupėnų) piliakalnis, senamiestis ir dvarvietė yra netyrinėti; Gintautas Zabiela šį netyrinėtumą sieja su didelėmis valsčiaus archeologijos pažinimo spragomis.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 704 (PDF 705)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 704 (PDF 705)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

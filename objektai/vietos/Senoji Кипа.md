@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-e24396f05d7c477d41df1518
-canonical_name: Senoji Кипа
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Senoji Кипа
+entity_id: "ent-e24396f05d7c477d41df1518"
+canonical_name: "Senoji Кипа"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senoji Кипа"]
 sameAs: []
-canonical_biography: 'Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš dešiniojo kranto.'
+canonical_biography: "Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš dešiniojo kranto."
+place_authority: true
+historical_names: []
 ---
 # Senoji Кипа
 
@@ -50,4 +50,20 @@ Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-214354"></a>
+- t-001
+  teiginys: "Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš dešiniojo kranto."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194439
 

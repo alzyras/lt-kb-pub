@@ -30,6 +30,7 @@ Kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika�
   santrauka: 'Kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Ona Dapšytė-Kriukelienė perteikia, kad 1947 m. gruodžio pranešime Antanas Slučka-Šarūnas nurodytas Algimanto apygardos vadu, o Sakalas – jo pavaduotoju ir Tiekimo skyriaus vadovu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 223"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 223."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -55,6 +55,7 @@ Adomas Sadula gimė 1907 m. Suvainių kaime, Palėvenėlės apylinkėje; D. Kri�
   santrauka: 'Adomas Sadula gimė 1907 m. Suvainių kaime, Palėvenėlės apylinkėje; D. Krištopaitė šį duomenį užrašė 1973 m.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1031 (PDF 1032)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1031 (PDF 1032)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -103,6 +103,48 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   pagrindžia:
     - c-193645
 
+<a id="claim-t-184935"></a>
+- t-184935
+  teiginys: "Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kremenecas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Braclavas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kremenecas: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Braclavas\" parinktas kaip owner_note_path. Targetas \"Kremenecas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-168296
+
+<a id="claim-t-184936"></a>
+- t-184936
+  teiginys: "1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Lietuviai: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Braclavas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Braclavo žemė kontekste siejama su lietuviams priklausomomis valdomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1449 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas citata paremtas faktas."
+  pagrindžia:
+    - c-168297
+
 ## Citatos
 
 - id: c-46455
@@ -178,6 +220,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-184935
 
 - id: c-168297
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -213,6 +257,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-184936
 
 - id: c-170515
   autorius: "Anoniminis metraštininkas"

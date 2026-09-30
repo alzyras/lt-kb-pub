@@ -26,16 +26,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-54be35099a12b1fc3388cea8
-canonical_name: 'V. Žilinskis (vyskupas, XIX a.)'
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - V. Žilinskis
-  - 'V. Žilinskis (vyskupas, XIX a.)'
+entity_id: "ent-54be35099a12b1fc3388cea8"
+canonical_name: "V. Žilinskis (vyskupas, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Žilinskis","V. Žilinskis (vyskupas, XIX a.)"]
 sameAs: []
-canonical_biography: 'V. Žilinskis, kaip metropolitas, dalyvavo 1860 m. spalio 1 d. iškilmėse katedroje.'
+canonical_biography: "V. Žilinskis, kaip metropolitas, dalyvavo 1860 m. spalio 1 d. iškilmėse katedroje."
 ---
 # V. Žilinskis (vyskupas, XIX a.)
 

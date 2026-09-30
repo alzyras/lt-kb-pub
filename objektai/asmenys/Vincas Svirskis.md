@@ -51,6 +51,7 @@ Liaudies dievdirbys Vincas Svirskis (1835–1916) mėgo koplytstulpiuose, ypač 
   santrauka: 'Vincas Svirskis (1835–1916) buvo dievdirbys, koplytstulpiuose vaizdavęs vėlyvojo baroko angeliukus, ypač bareljefuose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1149 (PDF 1150)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1149 (PDF 1150)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

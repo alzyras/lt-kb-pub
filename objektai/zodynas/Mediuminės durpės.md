@@ -34,6 +34,7 @@ Mediuminės durpės yra antra pagal gausumą aukštapelkinė durpių rūšis, su
   santrauka: 'Mediuminės durpės yra antra pagal gausumą aukštapelkinė durpių rūšis, sudaro vienalyčius klodus ir dažnai aptinkamos Vidurio bei Rytų Lietuvos aukštapelkėse, esančiose moreniniuose kalvynuose ir lygumose.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 109 (PDF 110)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 109 (PDF 110)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -52,6 +52,25 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   pagrindžia:
     - c-194248
 
+<a id="claim-t-185418"></a>
+- t-185418
+  teiginys: "Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Livonija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Augustas patraukė į Livoniją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168779
+
 ## Citatos
 
 - id: c-168779
@@ -77,6 +96,8 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185418
 
 - id: c-170487
   autorius: "Anoniminis metraštininkas"

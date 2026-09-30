@@ -115,6 +115,26 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   pagrindžia:
     - c-58956
 
+<a id="claim-t-223535"></a>
+- t-223535
+  teiginys: "Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Semba: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Laukstetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Laukstetas apibūdintas kaip ten, Sembos žemėje, gyvenęs sembas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Laukstetas gyveno Semba (0.76); Lochštetė priklausė Semba (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko pilies pavadinimo kilmę, pradinė formuluotė fragmentiška."
+  pagrindžia:
+    - c-203554
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.'
@@ -275,4 +295,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223535
 

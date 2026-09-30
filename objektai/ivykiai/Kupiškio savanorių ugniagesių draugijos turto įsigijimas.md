@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: '1938 m. sausį Kupiškio savanorių ugniagesių draugija įsigijo antspaudą, 848 m² žemės sklypą, mūrinį 1500 Lt vertės garažą ir dūdų orkestro instrumentus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 682 (PDF 683)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 682 (PDF 683)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

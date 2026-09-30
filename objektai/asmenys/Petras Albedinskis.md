@@ -49,6 +49,7 @@ canonical_biography: "1876 m. Petras Albedinskis už slaptų mokyklų laikymą a
   santrauka: '1876 m. rugpjūčio 31 d. Vilniaus generalgubernatorius Petras Albedinskis už slaptų mokyklų laikymą kunigą J. Katelę atidavė policijos priežiūrai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 468 (PDF 469)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 468 (PDF 469)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Migonių koplytstulpis turėjo ryškias S formos riestes.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 960 (PDF 961)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 960 (PDF 961)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

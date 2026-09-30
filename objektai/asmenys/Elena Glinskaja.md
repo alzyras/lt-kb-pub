@@ -27,15 +27,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-noble-79cf62110d748d1ac5af8e05
-canonical_name: Elena Glinskaja
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Elena Glinskaja
+entity_id: "ent-noble-79cf62110d748d1ac5af8e05"
+canonical_name: "Elena Glinskaja"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Elena Glinskaja"]
 sameAs: []
-canonical_biography: Elena Glinskaja - Glinskiai giminės atstovas.
+canonical_biography: "Elena Glinskaja - Glinskiai giminės atstovas."
 ---
 # Elena Glinskaja
 

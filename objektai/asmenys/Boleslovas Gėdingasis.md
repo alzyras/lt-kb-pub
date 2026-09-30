@@ -68,6 +68,24 @@ canonical_biography: "1253 m. galindai ir jotvingiai perėjo Krokuvos Boleslovo 
   pagrindžia:
     - c-174080
 
+<a id="claim-t-213837"></a>
+- t-213837
+  teiginys: "Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Danielius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas Gėdingasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Danielius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pagalbos atsiuntimas Danieliui tiesiogiai rodo rėmimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+
 ## Citatos
 
 - id: c-174080

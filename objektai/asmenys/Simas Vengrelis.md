@@ -41,6 +41,7 @@ Vaitas Simas Vengrelis gyveno Jutkonių kaime. Alvydas Totoris tyrime „Kupišk
   santrauka: 'Vaitas Simas Vengrelis gyveno Jutkonių kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 145 (PDF 146)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 145 (PDF 146)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +53,7 @@ Vaitas Simas Vengrelis gyveno Jutkonių kaime. Alvydas Totoris tyrime „Kupišk
   santrauka: 'Vengrelio vaitija naują pavadinimą gavo pagal Jutkonių kaime gyvenusio vaito Simo Vengrelio pavardę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 158 (PDF 159)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 158 (PDF 159)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

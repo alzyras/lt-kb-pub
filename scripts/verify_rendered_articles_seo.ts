@@ -142,8 +142,8 @@ for (const filename of articles) {
   })
   if (!renderedHero)
     fail(article, "primary image or its descriptive alt is missing from article content")
-  if (!bodyText(html).includes(`Parengė ${organizationName} · atnaujinta 2026-09-27.`))
-    fail(article, "visible article byline is missing")
+  if (!bodyText(html).includes(`Parengė ${organizationName} · atnaujinta ${modified}.`))
+    fail(article, "visible article byline is missing or does not match the modified date")
 
   const graph = jsonLdNodes(html)
   const articleNodes = graph.filter((node) => node["@type"] === "Article")

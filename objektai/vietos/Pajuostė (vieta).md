@@ -48,6 +48,7 @@ Dalis Kupiškio žydų nužudyta Pajuostėje prie Panevėžio.
   santrauka: 'Dalis Kupiškio žydų nužudyta Pajuostėje prie Panevėžio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 590 (PDF 591)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 590 (PDF 591)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

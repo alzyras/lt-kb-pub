@@ -42,6 +42,7 @@ Nenurodyta
   santrauka: 'Pramonės perversmas sąlygojo naujų technologijų kūrimąsi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 667 (PDF 668)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 667 (PDF 668)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

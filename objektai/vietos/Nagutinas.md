@@ -50,6 +50,20 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   pagrindžia:
     - c-201812
 
+<a id="claim-t-221920"></a>
+- t-221920
+  teiginys: "Po Pakimos nusiaubimo Konrado iš Tirbergo Jaunesniojo kariuomenė vakare perėjo užšalusį Nagutino ežerą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Nagutinas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nagutinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Konrado kariuomenės judėjimą per Nagutino ežerą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-59234

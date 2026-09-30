@@ -43,6 +43,7 @@ Kupiškio tvenkinio geografinės padėties apraše viena iš salų nurodoma esan
   santrauka: 'Viena iš aprašomų salų yra Bagdonų kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 28 (PDF 29)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 28 (PDF 29)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,24 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
   pagrindžia:
     - c-178808
 
+<a id="claim-t-213651"></a>
+- t-213651
+  teiginys: "Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Londonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Volfgangas Lazijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Londonas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volfgangas Lazijus\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas.'

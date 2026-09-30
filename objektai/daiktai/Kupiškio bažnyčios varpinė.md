@@ -81,6 +81,7 @@ Nenurodyta
   santrauka: 'Kupiškio bažnyčios šventoriuje stovėjusioje stulpinėje varpinėje kabėjo du iš Rygos atvežti varpai ir vienas po gaisro pasiskolintas iš Šimonių bažnyčios.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 263 (PDF 264)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 263 (PDF 264)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,6 +93,7 @@ Nenurodyta
   santrauka: '1819 m. parapijiečių lėšomis pastatyta trijų tarpsnių akmens ir plytų mūro varpinė.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 264 (PDF 265)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 264 (PDF 265)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,6 +105,7 @@ Nenurodyta
   santrauka: 'Kupiškio dekanas kanauninkas M. Kirlys 1928 m. lapkričio 28 d. prašė nugriauti mūrinę varpinę, nurodydamas, kad jos kolona išgriauta, stogo nebėra, medinės dalys supuvusios, o bažnyčios bokštuose varpams vietos pakanka.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 400 (PDF 401)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 400 (PDF 401)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

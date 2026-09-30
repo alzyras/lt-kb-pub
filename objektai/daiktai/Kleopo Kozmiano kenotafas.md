@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: 'Kleopo Kozmiano atminimui 1906 m. Kupiškio kapinėse prie jo motinos kapo buvo įrengtas kenotafas su paminkliniu kryžiumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 377 (PDF 378)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 377 (PDF 378)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -50,6 +50,7 @@ Nuo 1936 m. Kupiškio kunigas Juozapas Garška globojo kongregaciją.
   santrauka: 'Juozapas Garška nuo 1936 m. buvo Kupiškio tretininkų kongregacijos direktorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 409 (PDF 410)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 409 (PDF 410)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Šv. Ignoto bažnyčia"]
 sameAs: []
 canonical_biography: "Prie Šv. Ignoto bažnyčios buvusio jėzuitų vienuolyno patalpose vėliau įrengtos kareivinės. Ignoto bažnyčios bokštas)."
+place_authority: true
+historical_names: []
 ---
 # Šv. Ignoto bažnyčia
 

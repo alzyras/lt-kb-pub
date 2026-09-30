@@ -34,6 +34,7 @@ Monetų tyrime pagal katalogą „Lietuvos Didžiosios Kunigaikštystės numizma
   santrauka: 'Knyga „Monetos pasakoja“ taip pat naudota nagrinėjant monetas, o jų priklausomybė valdovams ar valstybėms ir nukaldinimo chronologija nurodyta pagal LDK numizmatikos katalogą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 628 (PDF 629)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 628 (PDF 629)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

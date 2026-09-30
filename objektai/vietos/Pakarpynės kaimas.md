@@ -37,6 +37,7 @@ Vincas Lukšė gyveno Pakarpynės kaime, vadovavo 14 partizanų būriui, veikė 
   santrauka: 'Vincas Lukšė gyveno Pakarpynės kaime, vadovavo 14 partizanų būriui, veikė Subačiaus valsčiuje ir žuvo 1945 m. gruodžio 2 d.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 57"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 57."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

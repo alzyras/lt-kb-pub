@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1969 m. pagal sovietinės valdžios nurodymus buvo sudarytas Kupiškio bažnyčios komitetas, vadintas „dvidešimtuku“, o komiteto vykdomasis organas ir revizijos komisija buvo išrinkti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 429 (PDF 430)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 429 (PDF 430)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

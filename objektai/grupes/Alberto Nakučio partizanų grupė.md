@@ -57,6 +57,7 @@ media_all_json: |-
   santrauka: 'Alberto Nakučio grupę sudarė 9 partizanai; knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Ona Dapšytė-Kriukelienė pažymi, kad bylos įraše jo vardas pateiktas kaip Albino.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 216"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 216."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

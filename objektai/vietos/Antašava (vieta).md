@@ -70,6 +70,7 @@ Antašavoje buvo Vabalninko parapijai priklausiusi filijinė bažnyčia. Antaša
   santrauka: 'Antašavoje buvo Vabalninko parapijai priklausiusi filijinė bažnyčia.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 398 (PDF 399)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 398 (PDF 399)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -81,6 +82,7 @@ Antašavoje buvo Vabalninko parapijai priklausiusi filijinė bažnyčia. Antaša
   santrauka: 'Antašavos kultūros namai buvo įvardyti kaip praėjusiais metais geriausių rezultatų socialistiniame lenktyniavime pasiekę ir rajone pirmąją vietą iškovoję.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 775 (PDF 776)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 775 (PDF 776)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

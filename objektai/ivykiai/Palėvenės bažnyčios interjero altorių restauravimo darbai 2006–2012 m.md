@@ -56,6 +56,7 @@ Nenurodyta
   santrauka: '2006–2008 m. buvo tęsiami Palėvenės bažnyčios centrinio altoriaus konservavimo ir restauravimo darbai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 258 (PDF 259)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 258 (PDF 259)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -68,6 +69,7 @@ Nenurodyta
   santrauka: '2011–2012 m. restauruotas Palėvenės bažnyčios šoninis Šv. Tomo Akviniečio altorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 258 (PDF 259)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 258 (PDF 259)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,6 +79,7 @@ Nenurodyta
   santrauka: '2011–2012 m. restauruotas Palėvenės bažnyčios šoninis Šv. Tomo Akviniečio altorius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 258-259 (PDF 259-260)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 258-259 (PDF 259-260)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

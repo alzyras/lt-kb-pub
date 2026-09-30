@@ -54,6 +54,7 @@ Kupiškio spaustuvės pastatas, tuomet buvęs adresu Tarybų aikštė 6, nugriau
   santrauka: 'Kupiškio spaustuvės pastatas, tuomet buvęs adresu Tarybų aikštė 6, nugriautas 1988 m. statant naują banką.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 826 (PDF 827)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 826 (PDF 827)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

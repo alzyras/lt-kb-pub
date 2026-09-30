@@ -19,16 +19,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a554603e2f76ca73136df862
-canonical_name: Beržininkai (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Beržininkai
-  - Beržininkai (vieta)
+entity_id: "ent-a554603e2f76ca73136df862"
+canonical_name: "Beržininkai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Beržininkai","Beržininkai (vieta)"]
 sameAs: []
-canonical_biography: 'Be to, šiam reikalui delegavo Beržininkų vi karą kun. Antaną Brundzą, kurį Varmijos vyskupas pa skyrė Robkojų filijos administratorium.'
+canonical_biography: "Be to, šiam reikalui delegavo Beržininkų vi karą kun. Antaną Brundzą, kurį Varmijos vyskupas pa skyrė Robkojų filijos administratorium."
 place_authority: true
 historical_names: []
 ---

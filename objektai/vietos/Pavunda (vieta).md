@@ -25,16 +25,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-181a07ec5b912a19abc2609c
-canonical_name: Pavunda (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Pavunda
-  - Pavunda (vieta)
+entity_id: "ent-181a07ec5b912a19abc2609c"
+canonical_name: "Pavunda (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pavunda","Pavunda (vieta)"]
 sameAs: []
-canonical_biography: 1308 metais Pavundos valsčius buvo nusiaubtas gaisrais.
+canonical_biography: "1308 metais Pavundos valsčius buvo nusiaubtas gaisrais."
+place_authority: true
+historical_names: []
 ---
 # Pavunda (vieta)
 

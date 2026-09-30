@@ -14,15 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-04f6b0ff8bd044e623e3848f
-canonical_name: A. Lukšas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - A. Lukšas
+entity_id: "ent-04f6b0ff8bd044e623e3848f"
+canonical_name: "A. Lukšas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Lukšas"]
 sameAs: []
-canonical_biography: 'Antanas Lukšas sakė, kad dėl savo gerumo vysk.'
+canonical_biography: "Antanas Lukšas sakė, kad dėl savo gerumo vysk."
 ---
 # A. Lukšas
 

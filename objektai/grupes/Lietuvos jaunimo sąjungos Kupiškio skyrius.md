@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1926 m. knygos buvo perduotos Lietuvos jaunimo sąjungos Kupiškio skyriui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 789 (PDF 790)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 789 (PDF 790)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

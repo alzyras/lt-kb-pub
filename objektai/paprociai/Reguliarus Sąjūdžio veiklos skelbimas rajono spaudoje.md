@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Nuo rugpjūčio 10 d. rajono laikraštyje „Kupiškėnų mintys“ kas 1–2 savaites buvo skelbiamas Sąjūdžio skyrelis „Mums aktualu“.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 862 (PDF 863)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 862 (PDF 863)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

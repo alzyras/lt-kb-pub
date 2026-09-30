@@ -41,6 +41,7 @@ Griciūnuose nurodyti trys dūmai, vienas iš jų priskirtas Motiejui Bliekai.
   santrauka: 'Griciūnuose nurodyti trys dūmai, vienas iš jų priskirtas Motiejui Bliekai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 163 (PDF 164)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 163 (PDF 164)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -42,6 +42,63 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   pagrindžia:
     - c-179157
 
+<a id="claim-t-214342"></a>
+- t-214342
+  teiginys: "Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į slėnius prie upių ir ežerų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Deivės Valdytojos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Verpėja ir Deivės Valdytojos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Deivės Valdytojos: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verpėja ir Deivės Valdytojos\" parinktas kaip owner_note_path. Targetas \"Deivės Valdytojos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
+<a id="claim-t-215034"></a>
+- t-215034
+  teiginys: "Teodoro Narbuto pasakojime Verpėjos ir Deivių Valdytojų garbintojai joms rengdavo plokščiais akmenimis apdėtas aikšteles."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
+<a id="claim-t-215171"></a>
+- t-215171
+  teiginys: "Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos be pasigailėjimo nužudydavo kiekvieną jų garbę įžeidusį žmogų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Deivės Valdytojos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Verpėja ir Deivės Valdytojos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Deivės Valdytojos: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verpėja ir Deivės Valdytojos\" parinktas kaip owner_note_path. Targetas \"Deivės Valdytojos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
+<a id="claim-t-216635"></a>
+- t-216635
+  teiginys: "Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo verpėją, gimus žmogui pradedančią verpti danguje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Verpėja ir Deivės Valdytojos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verpėja ir Deivės Valdytojos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)

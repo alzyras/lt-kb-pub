@@ -58,6 +58,23 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
   pagrindžia:
     - c-65262
 
+<a id="claim-t-225095"></a>
+- t-225095
+  teiginys: "Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Basanavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Basanavičius J: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Basanavičius: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Basanavičius J\" parinktas kaip owner_note_path. Targetas \"Jonas Basanavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 400 m; įvykio data: apie 400 m.; įvykio data: 1275 m.; įvykio data: 1366 m.; įvykio data: 1371 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata remia bibliografinę nuorodą į Basanavičiaus veikalą, o pradinė formuluotė netiksli ir perkrauta."
+
 ## Citatos
 
 - id: c-65262

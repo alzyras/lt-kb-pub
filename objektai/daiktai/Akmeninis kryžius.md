@@ -87,6 +87,7 @@ Nenurodyta
   santrauka: 'Akmeniniai antkapiniai kryžiai Lietuvoje plito nuo XIX a. antrosios pusės iki XX a. pirmosios pusės–vidurio, o kartais buvo statomi ir vėliau.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 989 (PDF 990)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 989 (PDF 990)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

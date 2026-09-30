@@ -24,15 +24,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-878be38cdd8f126b85d34b32
-canonical_name: Juozapas Mickevičius
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Juozapas Mickevičius
+entity_id: "ent-878be38cdd8f126b85d34b32"
+canonical_name: "Juozapas Mickevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Mickevičius"]
 sameAs: []
-canonical_biography: 'Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėjus Golianskis (1753— 1824), Simonas Malevskis (1759—1832) ir Mykolas Angelas Šul cas (1769—1812) buvo istorikai ir Vilniaus universiteto profesoriai.'
+canonical_biography: "Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėjus Golianskis (1753— 1824), Simonas Malevskis (1759—1832) ir Mykolas Angelas Šul cas (1769—1812) buvo istorikai ir Vilniaus universiteto profesoriai."
 ---
 # Juozapas Mickevičius
 

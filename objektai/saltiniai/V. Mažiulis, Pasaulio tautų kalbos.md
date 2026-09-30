@@ -54,3 +54,12 @@ Dusburgietis teigia, kad 14 Mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-225138"></a>
+- t-001
+  teiginys: "V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

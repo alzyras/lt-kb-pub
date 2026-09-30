@@ -57,6 +57,7 @@ Iki Antrojo pasaulinio karo Kupiškyje buvo gausu žydų. Kupiškio sinagoga min
   santrauka: 'XX a. pirmojoje pusėje bendruomenėje reiškėsi sionistinės ir kitos politinės pakraipos, veikė kultūrinis, religinis ir švietimo gyvenimas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 922 (PDF 923)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 922 (PDF 923)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

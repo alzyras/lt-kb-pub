@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1950 m. kaimuose pradėti rodyti filmai; juos demonstravo stacionarios kino salės ir kilnojamieji kino teatrai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 772 (PDF 773)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 772 (PDF 773)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

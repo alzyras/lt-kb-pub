@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Kamienecas Podolskis"]
 sameAs: []
 canonical_biography: "Tvirčiausios tame krašte buvo Lvovo ir Kamieneco-Podolsko pilys."
+place_authority: true
+historical_names: []
 ---
 # Kamienecas Podolskis
 

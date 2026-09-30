@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-6a7853455bd015f2dabcdeba
-canonical_name: A. Kitovičius
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - A. Kitovičius
+entity_id: "ent-6a7853455bd015f2dabcdeba"
+canonical_name: "A. Kitovičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Kitovičius"]
 sameAs: []
-canonical_biography: A. Kitovičius parašė Augusto III laikų kasdieninio gyvenimo ir papročių aprašymą.
+canonical_biography: "A. Kitovičius parašė Augusto III laikų kasdieninio gyvenimo ir papročių aprašymą."
 ---
 # A. Kitovičius
 

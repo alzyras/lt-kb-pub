@@ -48,6 +48,7 @@ Nenurodyta
   santrauka: '1977 m. vasario 1 d. Kupiškio rajono biblioteka tapo centrine biblioteka, o 28 kaimo bibliotekos – jos filialais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 792 (PDF 793)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 792 (PDF 793)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

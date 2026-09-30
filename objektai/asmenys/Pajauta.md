@@ -70,6 +70,47 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   pagrindžia:
     - c-199093
 
+<a id="claim-t-186244"></a>
+- t-186244
+  teiginys: "Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_zmona -> Živinbudas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pajauta: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Živinbudas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Pajauta atiduota Živinbudui į žmonas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1089 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Pajautos santuoką, bet pradinis sakinys per ilgas ir priklausomas nuo neaiškių įvardžių."
+  pagrindžia:
+    - c-169605
+
+<a id="claim-t-219549"></a>
+- t-219549
+  teiginys: "Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_dukte -> Kernius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pajauta: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kernius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatos kontekste Pajauta apibūdinta kaip kunigaikščio Kerniaus duktė."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Pajauta buvo duktė Kernius (0.82)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.'
@@ -142,6 +183,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-186244
 
 - id: c-171489
   autorius: "Teodoras Narbutas"

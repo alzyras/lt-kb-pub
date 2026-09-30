@@ -64,6 +64,45 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   pagrindžia:
     - c-178805
 
+<a id="claim-t-185978"></a>
+- t-185978
+  teiginys: "Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Maskva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vasilijus reikalavo, kad karaliaus pasiuntiniai būtų nukreipti į Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vasilijus siuntė į Maskva (0.72)"
+  pagrindžia:
+    - c-169339
+
+<a id="claim-t-185979"></a>
+- t-185979
+  teiginys: "Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vasilijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vasilijus\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169340
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
@@ -152,6 +191,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185978
 
 - id: c-169340
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -182,6 +223,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-185979
 
 - id: c-176127
   autorius: "Albertas Vijūkas-Kojelavičius"

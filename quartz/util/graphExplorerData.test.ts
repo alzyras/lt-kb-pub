@@ -95,7 +95,7 @@ test("spatial parts cover true disconnected nodes exactly once, even with stale 
   assert.ok(all.every((n) => n.id !== "A" && n.id !== "B"))
   assert.deepEqual(dataset, explorerData({ ...topology, nodes: [...topology.nodes].reverse() }))
 })
-test("preview uses the published encyclopedia, labelled dates, image focus and credits", () => {
+test("preview uses the published encyclopedia, labelled dates, top-aligned image focus and credits", () => {
   const preview = objectPreview(
     {
       object_page_view_json: JSON.stringify({
@@ -125,7 +125,7 @@ test("preview uses the published encyclopedia, labelled dates, image focus and c
   )
   assert.equal(preview.summary, "Enciklopedinė įžanga. Dar vienas sakinys.")
   assert.deepEqual(preview.dates, [{ label: "Gimė", value: "1275 m." }])
-  assert.equal(preview.image?.position, "50% 25%")
+  assert.equal(preview.image?.position, "50% 0%")
   assert.equal(preview.summaryCredit?.label, "Vikipedija")
 })
 test("obsolete topology records without a public page never become search results or bubbles", () => {

@@ -55,6 +55,7 @@ Po Vytenio būrio vado žūties Teofilis Gudas-Eskimas pradėjo vadovauti Vyteni
   santrauka: 'Teofilio Gudo-Eskimo būryje buvo penki partizanai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

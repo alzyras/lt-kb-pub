@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 252
+tema_objektu_skaicius: 251
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 252.
+Objektų skaičius: 251.
 
 ## Kaip naudoti
 
@@ -48,14 +48,13 @@ Objektų skaičius: 252.
 - [[objektai/vietos/Atmata]]
 - [[objektai/vietos/Aukokalnis]]
 - [[objektai/vietos/Auksinė]]
-- [[objektai/vietos/Ažytė]]
 - [[objektai/vietos/Barta]]
 - [[objektai/vietos/Bebras]]
 - [[objektai/vietos/Bebro upė]]
 - [[objektai/vietos/Belvederis]]
 - [[objektai/vietos/Belčica]]
 - [[objektai/vietos/Berezina]]
-- [Bobro upė](../objektai/vietos/Bobro%20up%C4%97)
+- [[objektai/vietos/Bobro upė]]
 - [Būgas](../objektai/vietos/B%C5%ABgas)
 - [Ceklis](../objektai/vietos/Ceklis)
 - [Cepra](../objektai/vietos/Cepra)

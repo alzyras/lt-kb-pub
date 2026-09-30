@@ -37,6 +37,7 @@ canonical_biography: "Febronė Kimštienė, Povilo, buvo viena iš trijų moter�
   santrauka: '1947 m. birželio 24 d. Ertėjos kaime per operaciją buvo sulaikyta Febronė Kimštienė, viena iš trijų sulaikytų moterų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 267"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 267."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

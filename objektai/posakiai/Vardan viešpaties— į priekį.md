@@ -47,6 +47,23 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   pagrindžia:
     - c-59797
 
+<a id="claim-t-221479"></a>
+- t-221479
+  teiginys: "Henrikas, pentinais spausdamas arklį, ištarė: „Vardan viešpaties — į priekį“; po šių žodžių velnias pasakė, kad Dievo vardas jį išgelbėjo."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vardan viešpaties— į priekį: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vardan viešpaties— į priekį\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Henrikas, pentinais spausdamas arklį, ištarė: „Vardan viešpaties — į priekį“; po šių žodžių velnias pasakė, kad Dievo vardas jį išgelbėjo.'

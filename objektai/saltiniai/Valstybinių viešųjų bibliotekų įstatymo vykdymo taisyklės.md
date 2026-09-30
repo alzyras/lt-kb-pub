@@ -40,6 +40,7 @@ Taisyklės numatė, kad bibliotekų patalpas skiria ir išlaiko vietos valdžia.
   santrauka: 'Taisyklės numatė, kad bibliotekų patalpas skiria ir išlaiko vietos valdžia.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 790 (PDF 791)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 790 (PDF 791)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

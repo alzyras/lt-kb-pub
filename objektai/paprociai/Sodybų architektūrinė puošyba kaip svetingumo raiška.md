@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Straipsnyje sodybos durys aiškinamos kaip fizinę ir psichinę ribą tarp vidaus ir išorės žymintis elementas, o jų puošyba siejama su sodybos prestižu, pagarba ir svetingumu.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 713 (PDF 714)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 713 (PDF 714)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

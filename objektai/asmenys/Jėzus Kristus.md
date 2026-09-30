@@ -68,6 +68,29 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   pagrindžia:
     - c-85792
 
+<a id="claim-t-223711"></a>
+- t-223711
+  teiginys: "Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+
+<a id="claim-t-225607"></a>
+- t-225607
+  teiginys: "Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Teutonai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jėzus Kristus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata teigia, kad Teutonų ordino broliams palaužiant pagonis padėjo Jėzus Kristus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jėzus Kristus rėmė Teutonai (0.70)"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi.'

@@ -87,6 +87,23 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Perlbachas\" parinktas kaip owner_note_path. Targetas \"Oliva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
+<a id="claim-t-220319"></a>
+- t-220319
+  teiginys: "M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Petras Dusburgietis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Perlbachas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Petras Dusburgietis: mention_match, author, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Perlbachas\" parinktas kaip owner_note_path. Targetas \"Petras Dusburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: po 1289 m.; gyvenimo laikotarpis: 1289 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai sieja šią nuomonę su M. Perlbachu."
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.'

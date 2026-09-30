@@ -42,6 +42,7 @@ Masiuliškių kaime gyvenęs buvęs Lietuvos kariuomenės puskarininkis Antanas 
   santrauka: 'Masiuliškių kaime gyvenęs buvęs Lietuvos kariuomenės puskarininkis Antanas Gaidžiūnas, vokiečiams pasitraukus, suorganizavo partizanų būrį, kuriam vadovavo ir kuriame buvo 12 partizanų.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 138"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 138."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-0b00ed914f1a54763bd2a604
-canonical_name: Akusamilio provincija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Akusamilio provincija
+entity_id: "ent-0b00ed914f1a54763bd2a604"
+canonical_name: "Akusamilio provincija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Akusamilio provincija"]
 sameAs: []
-canonical_biography: 'Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai.'
+canonical_biography: "Noclis straips nyje apie Serapį teigia, kad XVI amžiuje ispanai Naujojoje Meksikoje, Akusamilio provincijoje, radę kažkokį meksikie čių dievą, ant kurio drabužių buvę iškalti kryžiai."
+place_authority: true
+historical_names: []
 ---
 # Akusamilio provincija
 

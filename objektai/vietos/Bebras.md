@@ -62,6 +62,13 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
   pagrindžia:
     - c-192957
 
+<a id="claim-t-220425"></a>
+- t-220425
+  teiginys: "Bebras kronikos rodyklėje siejamas su vardais Biber, Bobare, Bibber ir Bobir, o dabartinis jo vardas yra Biebrza."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-59319

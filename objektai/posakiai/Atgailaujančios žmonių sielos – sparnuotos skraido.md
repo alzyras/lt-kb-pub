@@ -34,6 +34,7 @@ Posakyje atgailaujančių žmonių sielos vaizduojamos sparnuotos: virš juodo v
   santrauka: 'Posakyje atgailaujančių žmonių sielos vaizduojamos sparnuotos: virš juodo vandens joms nėra poilsio, o įkritusios į dūmijantį vandenį jos suverda ir smenga į dugną lyg akmenukai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 100 (PDF 101)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 100 (PDF 101)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

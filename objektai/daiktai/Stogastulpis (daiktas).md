@@ -72,6 +72,7 @@ Nenurodyta
   santrauka: 'Rastų stogastulpių Kupiškio krašte pavyzdžių yra vos keli, tačiau jų struktūros bruožai leidžia spėti, kad Kupiškio krašte buvo statomi įvairūs stogastulpių tipai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 991 (PDF 992)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 991 (PDF 992)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

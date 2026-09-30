@@ -59,3 +59,20 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
 
 ## Ryšiai
 - Puolė Apuliją: [[objektai/asmenys/Konradas (Fridricho II sūnus)]]
+
+## Teiginiai
+
+<a id="claim-t-222984"></a>
+- t-001
+  teiginys: "Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų žemių, tad didysis magistras su taryba ir persikėlė į vieną tokią dovanotąją žemę — į Apuliją (pietų Italijoj)."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Apulija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=156"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Apulija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

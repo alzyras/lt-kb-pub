@@ -30,6 +30,7 @@ Ona Dapšytė-Kriukelienė savo kronikoje „Kupiškio krašto partizanai: 1944�
   santrauka: 'Ona Dapšytė-Kriukelienė savo kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ partizanų būrį, kuriam Kupreliškio valsčiuje vadovauti paskirtas Kazys Kalpokas, vadina „Kupreliškiečių“ būriu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 131-132"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 131-132."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

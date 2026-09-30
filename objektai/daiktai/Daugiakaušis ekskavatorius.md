@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Prie daugiakaušių ekskavatorių buvo montuojami akmenų užverstuvai K-27, palengvinę drenažo tranšėjų užvertimą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 698 (PDF 699)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 698 (PDF 699)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

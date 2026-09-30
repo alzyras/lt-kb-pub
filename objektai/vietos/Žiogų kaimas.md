@@ -91,4 +91,3 @@ Vincas Kiaulėnas-Vilkas gimė 1912 m. Žiogų kaime, Skapiškio valsčiuje, o v
   atnaujinta: "2026-09-28 18:40"
   pagrindžia:
     - t-002
-

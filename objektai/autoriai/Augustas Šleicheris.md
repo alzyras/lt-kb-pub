@@ -14,16 +14,13 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-657c053ae645f5e4ef8b2d71
-canonical_name: Augustas Šleicheris
-entity_roles:
-  - author
-  - person
-entity_view_role: author
-entity_aliases:
-  - Augustas Šleicheris
+entity_id: "ent-657c053ae645f5e4ef8b2d71"
+canonical_name: "Augustas Šleicheris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Augustas Šleicheris"]
 sameAs: []
-canonical_biography: 'Narbuto lietuvių mi tologijos tyrinėjimą atsiliepė žymusis kalbininkas Augustas Šleicheris, pasišovęs išaiškinti, kurie įvairiuose šaltiniuose mi nimi lietuvių dievų vardai yra patikimi, iš liaudies užrašyti ir kurie pramanyti arba iškraipyti.'
+canonical_biography: "Narbuto lietuvių mi tologijos tyrinėjimą atsiliepė žymusis kalbininkas Augustas Šleicheris, pasišovęs išaiškinti, kurie įvairiuose šaltiniuose mi nimi lietuvių dievų vardai yra patikimi, iš liaudies užrašyti ir kurie pramanyti arba iškraipyti."
 ---
 # Augustas Šleicheris
 

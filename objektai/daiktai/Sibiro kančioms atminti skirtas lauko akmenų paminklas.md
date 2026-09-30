@@ -51,6 +51,7 @@ Nenurodyta
   santrauka: '1992 m. birželio 14 d. Kupiškio bažnyčios šventoriuje pašventintas lauko akmenų paminklas Sibiro kančioms atminti.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 543 (PDF 544)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 543 (PDF 544)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

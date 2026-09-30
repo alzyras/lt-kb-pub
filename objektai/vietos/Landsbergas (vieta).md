@@ -19,16 +19,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-2a3c4f88f91531f2ca34860e
-canonical_name: Landsbergas (vieta)
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Landsbergas
-  - Landsbergas (vieta)
+entity_id: "ent-2a3c4f88f91531f2ca34860e"
+canonical_name: "Landsbergas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Landsbergas","Landsbergas (vieta)"]
 sameAs: []
-canonical_biography: Landsbergo markgrafas Konradas.
+canonical_biography: "Landsbergo markgrafas Konradas."
+place_authority: true
+historical_names: []
 ---
 # Landsbergas (vieta)
 

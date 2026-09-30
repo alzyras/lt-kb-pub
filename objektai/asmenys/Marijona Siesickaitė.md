@@ -50,6 +50,7 @@ Marijona Siesickaitė buvo Lauryno Mykolo Odlianickio-Počobuto žmona. 1673 m. 
   santrauka: 'Marijona Siesickaitė buvo Lauryno Mykolo Odlianickio-Počobuto žmona.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 234 (PDF 235)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 234 (PDF 235)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +62,7 @@ Marijona Siesickaitė buvo Lauryno Mykolo Odlianickio-Počobuto žmona. 1673 m. 
   santrauka: '1673 m. Marijona Siesickaitė kartu su vyru Laurynu Mykolu Odlianickiu-Počobutu Palėvenės dvarą užrašė dominikonams.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 312 (PDF 313)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 312 (PDF 313)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

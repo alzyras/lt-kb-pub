@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Kiminus liaudies medicina naudojo kaip tvarsliavą karų ir nelaimių atvejais.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 22-23 (PDF 23-24)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 22-23 (PDF 23-24)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

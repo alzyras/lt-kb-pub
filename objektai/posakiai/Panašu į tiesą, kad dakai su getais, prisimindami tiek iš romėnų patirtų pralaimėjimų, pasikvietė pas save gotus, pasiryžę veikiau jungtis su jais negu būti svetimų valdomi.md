@@ -64,3 +64,22 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-212463"></a>
+- t-001
+  teiginys: "Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Gotai: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Getai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Cituojamas Naruševičiaus aiškinimas teigia, kad getai kartu su dakais ketino jungtis su gotais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Getai buvo sąjungininkas su Gotai (0.73); Getai kariavo prieš Romėnai (0.66)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+

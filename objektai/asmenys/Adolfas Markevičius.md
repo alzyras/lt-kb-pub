@@ -37,6 +37,7 @@ Sulaikytas ir legalizavęsis partizanas Adolfas Markevičius per apklausą teig�
   santrauka: 'Sulaikytas ir legalizavęsis partizanas Adolfas Markevičius per apklausą teigė priklausęs S. Bajarūno partizanų būriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 135"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 135."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

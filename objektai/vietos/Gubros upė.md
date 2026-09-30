@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-a41f7bbf380cc14deffecaaa
-canonical_name: Gubros upė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Gubros upė
+entity_id: "ent-a41f7bbf380cc14deffecaaa"
+canonical_name: "Gubros upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gubros upė"]
 sameAs: []
-canonical_biography: Prie Gubros upės stovėjo Weistote-Pil ir Wallewona pilys.
+canonical_biography: "Prie Gubros upės stovėjo Weistote-Pil ir Wallewona pilys."
+place_authority: true
+historical_names: []
 ---
 # Gubros upė
 
@@ -52,4 +52,20 @@ Prie Gubros upės stovėjo Weistote-Pil ir Wallewona pilys.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-214178"></a>
+- t-001
+  teiginys: "Prie Gubros upės stovėjo Weistote-Pil ir Wallewona pilys."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195401
 

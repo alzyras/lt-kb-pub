@@ -48,6 +48,21 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   pagrindžia:
     - c-203929
 
+<a id="claim-t-220246"></a>
+- t-220246
+  teiginys: "Skumas ir Stucė su didele kariuomene patraukė prie Baigos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Baiga: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skumas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Skumas su kariuomene patraukė prie Baigos, tai tiesioginis karinio žygio ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Skumas surengė žygį į Baiga (0.90); Stucė surengė žygį į Baiga (0.90)"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skumas ir Stucė su didele kariuomene patraukė prie Baigos.'

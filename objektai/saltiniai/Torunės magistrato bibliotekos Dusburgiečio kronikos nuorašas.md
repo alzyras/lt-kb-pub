@@ -47,6 +47,25 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
   pagrindžia:
     - c-61954
 
+<a id="claim-t-223145"></a>
+- t-223145
+  teiginys: "Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Torunė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunės magistrato bibliotekos Dusburgiečio kronikos nuorašas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Torunė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunės magistrato bibliotekos Dusburgiečio kronikos nuorašas\" parinktas kaip owner_note_path. Targetas \"Torunė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1326 m.; įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą nuorašo kilmę."
+  pagrindžia:
+    - c-202462
+
 ## Citatos
 
 - id: c-61954
@@ -89,4 +108,6 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223145
 

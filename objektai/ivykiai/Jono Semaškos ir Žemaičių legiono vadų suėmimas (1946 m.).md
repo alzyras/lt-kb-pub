@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: '1946 m. kovo–balandžio mėnesiais suimtas Jonas Semaška-Liepa kartu su 30 kitų Žemaičių legiono vadų ir ryšininkų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 497 (PDF 498)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 497 (PDF 498)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

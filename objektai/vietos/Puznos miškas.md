@@ -37,6 +37,7 @@ canonical_biography: "1951 m. Puznos miške, Vabalninko valsčiuje, įvyko Siera
   santrauka: '1951 m. Sierakausko tėvūnija buvo įkurta susirinkime, vykusiame Puznos miške, Vabalninko valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 401"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 401."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +47,7 @@ canonical_biography: "1951 m. Puznos miške, Vabalninko valsčiuje, įvyko Siera
   santrauka: '1945 m. Puznos miške vykusiam pasitarimui vadovavo Albinas Tindžiulis, kurį Ona Dapšytė-Kriukelienė knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ pristato kaip buvusį Lietuvos kariuomenės aviacijos kapitoną.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 402-403"
+  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 402-403."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

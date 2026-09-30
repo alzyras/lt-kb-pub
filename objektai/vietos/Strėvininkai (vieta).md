@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Strėvininkai","Strėvininkai (vieta)"]
 sameAs: []
 canonical_biography: "Strėvininkuose bandyta patekti į Darsūniškio seniūno Ignoto Oginskio rūmus."
+place_authority: true
+historical_names: []
 ---
 # Strėvininkai (vieta)
 

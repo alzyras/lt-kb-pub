@@ -40,6 +40,7 @@ media_all_json: |-
   santrauka: '1956 m. balandžio 3 d. Kostromoje vykusio TSRS Aukščiausiosios Tarybos Prezidiumo komisijos posėdžio protokole nurodyta A. Puodžiūnui bausmę sutrumpinti iki 9 metų laisvės atėmimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 503-504 (PDF 504-505)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 503-504 (PDF 504-505)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

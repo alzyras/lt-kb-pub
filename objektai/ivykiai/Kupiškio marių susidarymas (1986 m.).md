@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'Kupiškio marios yra dirbtinis vandens telkinys, kuris galutinai susidarė 1986 m. patvenkus Lėvens upę 110 km nuo jos žiočių.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 89 (PDF 90)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 89 (PDF 90)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

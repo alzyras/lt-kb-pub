@@ -44,3 +44,12 @@ Dusburgietis teigia, kad voigt J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 
+## Teiginiai
+
+<a id="claim-t-221506"></a>
+- t-001
+  teiginys: "J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

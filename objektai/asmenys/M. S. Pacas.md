@@ -49,6 +49,7 @@ canonical_biography: "1676 m. Vilniaus vyskupas M. S. Pacas patvirtino Palėven�
   santrauka: '1676 m. Vilniaus vyskupas M. S. Pacas kartu su Seimu patvirtino fundacinį raštą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 312 (PDF 313)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 312 (PDF 313)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

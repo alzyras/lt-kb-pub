@@ -49,6 +49,7 @@ Pranciškus Grina 1910 m. Vidiškių bažnyčioje vedė Emiliją Šilinytę.
   santrauka: 'Pranciškus Grina 1910 m. Vidiškių bažnyčioje vedė Emiliją Šilinytę.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 197 (PDF 198)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 197 (PDF 198)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

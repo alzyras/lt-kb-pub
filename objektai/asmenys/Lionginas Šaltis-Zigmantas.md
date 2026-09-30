@@ -49,6 +49,7 @@ Lionginas Šaltis-Zigmantas žuvo 1947 m. vasario 7 d. Miliūnų kaime.
   santrauka: 'Lionginas Šaltis-Zigmantas žuvo 1947 m. vasario 7 d. Miliūnų kaime.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 617 (PDF 618)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 617 (PDF 618)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

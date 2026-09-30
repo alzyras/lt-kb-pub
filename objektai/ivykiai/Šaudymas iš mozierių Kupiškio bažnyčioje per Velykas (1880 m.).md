@@ -52,6 +52,7 @@ Nenurodyta
   santrauka: 'XIX a. pabaigoje per Velykas kai kuriose Aukštaitijos bažnyčiose šaudė iš ąmozierių; Kupiškio bažnyčioje šaudyta dar 1880 m., o šventoriuje iš savo ginklų šaudė ir Kristaus karsto sergėtojai.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 935 (PDF 936)"
+  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 935 (PDF 936)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
