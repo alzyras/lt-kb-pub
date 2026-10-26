@@ -1,3 +1,3 @@
 # Preserved local export variants
 
-This archive preserves 657 exact local structured export/source-template variants excluded from the certified PostgreSQL public corpus. It is an archive for review, not a publication source. The ordinary public integration retains the exact PG manifest and generated hashes. Full provenance is recorded in manifest.json; all other historical variants remain reachable through checkpoint and main history.
+This archive preserves 657 exact local structured exports/source templates excluded from the certified PostgreSQL public corpus. It is an archive for review, not a publication source. Original Unicode paths and exact source blobs are retained. See manifest.json for provenance and ownership classifications.

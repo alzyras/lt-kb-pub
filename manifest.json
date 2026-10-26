@@ -1,7 +1,8 @@
 {
   "source_checkpoint": "de2b68208f35c96a1d10660cd4643b2c06d73e10",
   "preserved_variant_count": 657,
-  "reason": "Local generated export variants and source templates absent from the certified PostgreSQL projection; historical bytes preserved for review. No new public DB projection or historical identity is inferred.",
+  "previous_archive_commit": "91dee1ffde8cb6194d73308bbf8b99db13cbe254",
+  "original_unicode_filenames": true,
   "items": [
     {
       "path": "objektai/asmenys/Abu Saidas.md",
