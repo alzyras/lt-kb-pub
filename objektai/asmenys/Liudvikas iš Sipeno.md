@@ -74,6 +74,5 @@ Teodoras Narbutas Liudviką iš Sipeno apibūdina kaip trečiąjį po Meinhardo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

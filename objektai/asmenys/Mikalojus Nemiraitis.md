@@ -96,6 +96,5 @@ canonical_biography: "Mikalojaus Nemiraičio Iškoldės dvarui priklausę bajora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

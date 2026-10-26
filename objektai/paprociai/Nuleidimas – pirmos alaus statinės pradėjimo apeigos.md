@@ -75,6 +75,5 @@ Pirmos alaus statinės pradėjimo apeigos vadintos nuleidimu ir buvo atliekamos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

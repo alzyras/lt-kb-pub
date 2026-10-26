@@ -60,22 +60,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-196791"></a>
-- t-002
-  teiginys: "Vytauto giminystė su Zadivydu buvo dar toli mesnė."
-  atnaujinta: "2026-07-12 22:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-178910
-
-<a id="claim-t-210615"></a>
-- t-210615
+<a id="claim-t-186736"></a>
+- t-001
   teiginys: "Redakcinė pastaba Bychovco kronikos pasakojimą veikiausiai sieja su 1426 m. rugpjūčio Vytauto karu su Pskovu."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Pskovas: 0.85"
@@ -90,6 +78,20 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Palikta atribucija, nes citatoje yra interpretacinis „veikiausiai“. Teiginys nesuformuluotas kaip tikras identifikavimas."
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  pagrindžia:
+    - c-169953
+
+<a id="claim-t-196791"></a>
+- t-002
+  teiginys: "Vytauto giminystė su Zadivydu buvo dar toli mesnė."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-178910
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -129,6 +131,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-178910
   autorius: "Anoniminis metraštininkas"
@@ -156,34 +160,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-194294
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 257."
-  citata_originali: |
-    Vytauto giminystė su Zadivydu buvo dar toli­
-    mesnė.
-    * Nežinoma, kad Jonas Goštautas butų turėjęs „dvaro etmono"
-    titulą. 1430—'1431 m. jis buvo didžiojo kunigaikščio dvaio marša­
-    las; 1431 m. vadovavo vienam Švitrigailos kariuomenės daliniui,
-    kovojusiam su lenkais Volynėje.
-    10 Visiškas
-    Lenkijos
-    kariuomenės vaidmens Žalgirio mūšyje
-    paneigimas šiame BK pasakojime išplaukia iš viso poleminio kro­
-    nikos pobūdžio. Čia aiškiai polemizuojama su J. Dlugošo ir M. Mie-
-    chovitos Žalgirio mūšio aprašymais, kuriuose vaizduojama, kad Lie­
-    tuvos Didžiosios
-    Kunigaikštystės kariuomenė pačioje mūšio pra­
-    džioje pabėgusi iš kautynių lauko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

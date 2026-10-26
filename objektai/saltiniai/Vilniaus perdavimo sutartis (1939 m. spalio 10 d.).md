@@ -100,7 +100,7 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166780
@@ -123,6 +123,5 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

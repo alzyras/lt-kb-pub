@@ -77,6 +77,5 @@ Jie degindavo mirusių jų palaikus ir jų pelenus surinkdavo į urnas, o laidot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

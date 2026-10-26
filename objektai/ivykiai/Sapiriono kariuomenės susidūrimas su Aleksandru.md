@@ -70,6 +70,5 @@ Sapiriono vadovaujama kariuomenė, kaudamasi su Aleksandru, prarado 30 000 kari�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

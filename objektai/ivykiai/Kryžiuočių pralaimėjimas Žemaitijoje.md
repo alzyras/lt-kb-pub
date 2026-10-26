@@ -79,6 +79,5 @@ Narbutas rašo, kad Ragainės komtūras Jonas Rumpenheimas ir Insterburgo valdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

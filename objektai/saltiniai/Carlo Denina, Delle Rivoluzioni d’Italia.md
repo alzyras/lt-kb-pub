@@ -54,10 +54,10 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
   pagrindžia:
     - c-174650
 
-<a id="claim-t-214083"></a>
-- t-214083
+<a id="claim-t-191769"></a>
+- t-002
   teiginys: "Narbuto išnašoje Carlo Deninos „Delle Rivoluzioni d’Italia“ nurodytas kaip 1784 m. Venecijoje išleistas šios temos pagrindo šaltinis."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,7 +75,7 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
   temporalinis_llm_pakomentavimas: "Išskleistas bibliografinis kontekstas ir palikta Narbuto išnašos atribucija. Nepridėta papildomų duomenų apie Deniną ar veikalo turinį."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-197043
+    - c-174651
 
 ## Citatos
 
@@ -96,7 +96,7 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-174651
@@ -114,42 +114,5 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196818
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
-  citata_originali: |
-    Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
-    vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
-    brolius, įsikūrusius Norike. Majorijano valdomos herulų
-    lygos karvedžio Eduko sūnus Odoakras pasakė, jog, tu­
-    rėdamas tiek valdžios kiek Orestas, jis neleistų sąjungi­
-    ninkų kariuomenei gailėtis savo žygio j Italiją1.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197043
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
-  citata_originali: |
-    1
-    Delle Rivoluzioni d’Italia, di Carlo Denina in Venezia. 1784,
-    Lib. V, Gap. 1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
-    šios temos pagrindą.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214083
-
+  pagrindzia:
+    - t-002

@@ -56,6 +56,5 @@ Tas mus pribaigė; neišmie goję, nepapusrytavę, nupuolę nuo kojų, išė jom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

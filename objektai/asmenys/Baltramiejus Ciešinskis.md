@@ -70,6 +70,5 @@ Ciešinskis buvo tapęs Vilniaus vyskupijos kapitulos kanauninku, jis daug laiko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

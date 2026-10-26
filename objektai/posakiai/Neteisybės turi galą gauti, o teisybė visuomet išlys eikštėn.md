@@ -54,6 +54,5 @@ Neteisybės turi galą gauti, o teisybė vi suomet išlys eikštėn.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

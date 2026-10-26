@@ -70,6 +70,5 @@ Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė mon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

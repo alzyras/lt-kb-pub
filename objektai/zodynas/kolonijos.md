@@ -64,6 +64,5 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

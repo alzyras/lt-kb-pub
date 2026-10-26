@@ -26,6 +26,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-93eba843b2e031a910cea9e5
+canonical_name: Povilas Juozapas Safaržykas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Povilas Juozapas Safaržykas
+sameAs: []
+canonical_biography: 'Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį išsamų ir visa apimantį slavų istorijos tyrinėjimą. Narbutas rašo, kad Safaržykas alanus, asus ir osetinus siejo su skandinaviškosios „Edos“ asais. Teodoro Narbuto teigimu, Povilas Juozapas Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, o kalbų skirtumus aiškino istoriniu likimu.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:21:58+00:00","source_checked_at":"2026-09-20T14:21:58+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -39,13 +48,6 @@ object_page_seo_description: 'Povilas Juozapas Safaržykas: Teodoras Narbutas Po
 object_page_seo_input_hash: c5bc0b05d7bcd68ca637ab5b110b1d7ff8367a662c22b61c718c7a4ce261bfcf
 object_page_seo_generated_at: '2026-09-20T14:21:58+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-93eba843b2e031a910cea9e5"
-canonical_name: "Povilas Juozapas Safaržykas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Povilas Juozapas Safaržykas"]
-sameAs: []
-canonical_biography: "Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį išsamų ir visa apimantį slavų istorijos tyrinėjimą. Narbutas rašo, kad Safaržykas alanus, asus ir osetinus siejo su skandinaviškosios „Edos“ asais. Teodoro Narbuto teigimu, Povilas Juozapas Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, o kalbų skirtumus aiškino istoriniu likimu."
 ---
 # Povilas Juozapas Safaržykas
 
@@ -155,18 +157,6 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   pagrindžia:
     - c-175371
 
-<a id="claim-t-213557"></a>
-- t-213557
-  teiginys: "Voliansikio vardus, tačiau išskirtinę vie tą užėmė slovakų archeologo ir istoriko Povilo Juozapo Safairžyko (Safarik, 1795—1861) tyrinėjimai."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196695
-
 ## Citatos
 
 - id: c-173986
@@ -189,7 +179,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-173987
@@ -212,7 +202,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-173989
@@ -240,7 +230,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-173990
@@ -263,7 +253,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-175371
@@ -283,115 +273,5 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-195410
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 14"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
-  citata_originali: |
-    P. J. Safaržyko veikalas buvo pirmasis išsamus, vis­
-    ką apimantis slavų istorijos tyrinėjimas. Pats „Slavų se­
-    nienų“ autorius taip nusakė priežastis, kurios paakino jį
-    imtis tokio tyrinėjimo: „Iš tikrųjų kiekvieno žmogaus,
-    kuris atsisakė pirmykščio kietumo ir rūstumo, širdis ver­
-    da nenugalimu ilgesiu rasti patikimų žinių apie mielus
-    jo protėvius, bet šis ilgesys yra dar stipresnis moksli­
-    ninko, kuris savo gyvenimą paskyrė tyrinėjimams, tu­
-    rintiems glaudų ryšį su jo tautybe < ...> “2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195838
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 61"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
-  citata_originali: |
-    Tai, jog alanai taip pat
-    buvo vadinami asais, o rusų — ¡asais, osáis, osetinais, kurių palikuo­
-    nys ir šiandien gyvena Kaukaze, skaitome Safaržyko veikale (Staro-
-    žytnošci slawianskie. S. 16. Nr. 9). Vės dėlto jis mano ¡uos buvus
-    asus, minimus skandinaviškoje „Edoje", nors kitur kalbama apie di­
-    delį vardų panašumą. Seniausias alanų, asų, lizdas buvo prie Dono
-    (iš čia kilę ir „Edoje" minimi asai), todėl negalime pritarti Safaržyko
-    nuomonei, kad O dinas buvo kilęs iš alanų, t. y. asų, gyvenusių kraš­
-    te, kur išteka Vakarų Dauguva, Dnepras, Donas ir Volga.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196695
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 13."
-  citata_originali: |
-    PE galima rasti ir M. Osolinskio, ir E. Eichvaldo, ir
-    F. Kruzės, ir T. Voliansikio vardus, tačiau išskirtinę vie­
-    tą užėmė slovakų archeologo ir istoriko Povilo Juozapo
-    Safairžyko (Safarik, 1795—1861) tyrinėjimai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213557
-
-- id: c-196841
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 76"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
-  citata_originali: |
-    Galbūt todėl, kad ir bu-
-    dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
-    arba šį užsiėmimą perėmė iš gelonų, pačioje susiliejimo
-    su pastaraisiais pradžioje. Safaržykas žengė dar toliau1,
-    nes senovės lietuvius visiškai sugiminiavo su slavais,
-    šiandienius šių abiejų tautų skirtumus priskirdamas liki­
-    mui, kurio dėka jos patekdavo tai į germanų, tai į finų
-    valdžią, ir lietuvių kalba vis labiau tolo nuo slavų. Vis
-    dėlto žmogus, mokantis šias kalbas, neras nieko, kas ga-
-    lėtų jį įtikinti šios hipotezės teisingumu, nes lietuvių,
-    germanų, finų ir slavų kalbos skiriasi viena nuo kitos
-    kaip dangus ir žemė, p daugelio žodžių panašumas atsi­
-    rado arba juos pasiskolinus iš kaimynų, arba dėl dauge­
-    lio kitų tarpusavio santykių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197161
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 71"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 71."
-  citata_originali: |
-    Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok­
-    ti, — tas kalnas turėtų būti Minsko gubernijojell! Sis kruopštus sla­
-    vų senienų tyrinėtojas kimba prie kiekvienos tautos, prie kiekvienos
-    giminės, kur tik galima įžvelgti kokį nors panašumą (ar vardo, ar
-    kitos kokios savybės) su slavais. Klijuoja, lopo savo audeklą ir dėl
-    to dažnai pats tampa juokingas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

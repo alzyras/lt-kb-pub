@@ -83,7 +83,7 @@ Dievas Kurkas, kaip pastebėjome straipsnyje apie jį, turė jo savo stabą. Nar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-198805
@@ -100,6 +100,5 @@ Dievas Kurkas, kaip pastebėjome straipsnyje apie jį, turė jo savo stabą. Nar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -53,21 +53,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-211455"></a>
-- t-211455
-  teiginys: "Lietuvos metraštis pasakoja, kad po Algirdo mirties Kęstutis pripažino Jogailą didžiuoju kunigaikščiu Vilniuje ir važinėjo pas jį tartis."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-
-<a id="claim-t-211657"></a>
-- t-211657
+<a id="claim-t-186572"></a>
+- t-001
   teiginys: "Lietuvos metraštis šį vienuolyną pateikia kaip pirmą krikščionišką Romos tikėjimo vienuolyną Vilniuje."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
@@ -78,6 +67,8 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=71"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-169882
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -125,4 +116,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

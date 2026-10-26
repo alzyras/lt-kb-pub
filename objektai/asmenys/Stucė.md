@@ -36,22 +36,10 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 
 ## Teiginiai
 
-<a id="claim-t-220889"></a>
-- t-220889
-  teiginys: "Stucė su didele kariuomene patraukė prie Baigos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202290
-
-<a id="claim-t-221532"></a>
-- t-221532
+<a id="claim-t-60440"></a>
+- t-001
   teiginys: "Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Baiga: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -62,6 +50,8 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Stucė su kariuomene patraukė prie Baigos."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Stucė keliavo į Baiga (0.86); Stucė buvo sąjungininkas su Skumas (0.78)"
+  pagrindžia:
+    - c-61072
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -97,23 +87,8 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202290
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
-  citata_originali: |
-    Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene
-    patraukė prie Baigos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220889
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Stucė surengė žygį į [[objektai/vietos/Baiga]]

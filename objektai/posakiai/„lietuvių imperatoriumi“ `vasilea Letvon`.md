@@ -102,7 +102,6 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

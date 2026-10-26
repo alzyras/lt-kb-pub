@@ -68,7 +68,7 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192172
@@ -91,7 +91,7 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-192173
@@ -110,9 +110,8 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
 ## Teiginiai
 
 <a id="claim-t-209551"></a>

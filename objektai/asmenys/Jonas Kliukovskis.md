@@ -92,6 +92,5 @@ canonical_biography: "1594 m. Jonas Kliukovskis davė pakvitavimą Gardino pavie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

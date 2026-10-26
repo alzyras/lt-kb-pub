@@ -76,4 +76,3 @@ Dusburgietis teigia, kad reinoldas sušakosiąs ir ateityje duosiąs gausybę va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

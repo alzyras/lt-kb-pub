@@ -31,13 +31,14 @@ canonical_biography: "1947 m. lapkričio 17 d. Čiovydžių kaime bunkerio paie�
 
 Lapkričio 17 d. 17.30 val. karinė žvalgybinė paieškos grupė Čiovydžių kaime, Kupiškio valsčiuje, Apšegienės namuose rado bunkerį ir nušovė partizaną Vaclovą Jankauską, vadintą Amerikonu.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213399
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Lapkričio 17 d. 17.30 val. karinė žvalgybinė paieškos grupė Čiovydžių kaime, Kupiškio valsčiuje, Apšegienės namuose rado bunkerį ir nušovė partizaną Vaclovą Jankauską, vadintą Amerikonu.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 252"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 252."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:38"

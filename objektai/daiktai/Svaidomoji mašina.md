@@ -79,6 +79,5 @@ Henrikas Taubadelis, vokiečių pusėje buvęs mašinų technikas, iš svaidykl�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

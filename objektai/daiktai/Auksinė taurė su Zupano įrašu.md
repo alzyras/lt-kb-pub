@@ -94,7 +94,7 @@ Narbutas nurodo, kad taurė kartu su kitomis brangenybėmis 1799 metais rasta To
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195378
@@ -113,6 +113,5 @@ Narbutas nurodo, kad taurė kartu su kitomis brangenybėmis 1799 metais rasta To
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

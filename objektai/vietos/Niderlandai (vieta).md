@@ -74,11 +74,9 @@ Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika g
     vietininke, Margarita Austrijiete Savojiete, ir gyvi abiejų dvarų tarpusavio
     santykiai. Bet ir tuo atveju nepaprastas šv.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

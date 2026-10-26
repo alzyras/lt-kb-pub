@@ -102,9 +102,8 @@ Vijūkų giminė nuolat minima nuo 1580 m.; jos nariai Romainių Vijūkų lauke 
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185722
@@ -114,9 +113,8 @@ Vijūkų giminė nuolat minima nuo 1580 m.; jos nariai Romainių Vijūkų lauke 
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185952
@@ -127,6 +125,5 @@ Vijūkų giminė nuolat minima nuo 1580 m.; jos nariai Romainių Vijūkų lauke 
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
+  pagrindzia:
     - t-003
-

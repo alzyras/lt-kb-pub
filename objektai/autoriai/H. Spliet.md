@@ -86,6 +86,5 @@ canonical_biography: "32, 1893, 222-255 p. — Spliet, H."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

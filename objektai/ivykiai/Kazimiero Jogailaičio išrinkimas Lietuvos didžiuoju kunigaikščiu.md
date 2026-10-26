@@ -71,6 +71,5 @@ Lietuvos didikai Alšėnuose vienbalsiai nutarė rinkti Kazimierą Lietuvos žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

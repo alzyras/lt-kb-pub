@@ -61,16 +61,6 @@ tags:
   pagrindžia:
     - c-177582
 
-<a id="claim-t-195217"></a>
-- t-195217
-  teiginys: "Tome paskelbtas A. Sabaliausko straipsnis „A. a. prof. A. R. Niemi“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177581
-
 ## Citatos
 
 - id: c-177581
@@ -104,9 +94,6 @@ tags:
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195217
-
 - id: c-177582
   autoriai: "A. Sabaliauskas; M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931)"
@@ -123,12 +110,11 @@ tags:
     1931 metai
   citata_rodoma: "MUSŲ\nTAUTOSAKA\nRed. prof. V. Krėvė Mickevičius\nHum. m. fak. \nT au to sako s \nK o m isijo s le id in y s\nKaunas\n1931 metai"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177583
@@ -140,11 +126,9 @@ tags:
     ir tvarkomos dainos.
   citata_rodoma: "Tautosakos Komisijos perrašytos (iki š. m. XII. 1) \nir tvarkomos dainos."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

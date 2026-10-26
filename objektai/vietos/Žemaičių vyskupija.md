@@ -36,13 +36,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-4465c55c7f3424fd67103646"
-canonical_name: "Žemaičių vyskupija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Žemaičių vyskupija"]
-sameAs: ["https://www.wikidata.org/entity/Q9207351"]
-canonical_biography: "Iš Žemaičių vyskupiją valdžiusių ketu riasdešimties vyskupų Motiejus Valančius minimas greta Motiejaus I, Martyno III, Merkelio Giedraičio, Jurgio ir Antano Tiškevičių, Juozapo Arnulfo Giedraičio bei kitų ir yra vienas labiausiai pasižymėjusių ir išgarsėjusių. Žemaičių vyskupija nurodoma kaip Rusijos imperijai ir Kauno gubernijai priklausiusi teritorija. Žemaičių vyskupijoje valdant M. Valančiui tikinčiųjų dvasiniai reikalai pastebimai pagerėjo."
+entity_id: ent-4465c55c7f3424fd67103646
+canonical_name: Žemaičių vyskupija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Žemaičių vyskupija
+sameAs:
+  - 'https://www.wikidata.org/entity/Q9207351'
+canonical_biography: 'Iš Žemaičių vyskupiją valdžiusių ketu riasdešimties vyskupų Motiejus Valančius minimas greta Motiejaus I, Martyno III, Merkelio Giedraičio, Jurgio ir Antano Tiškevičių, Juozapo Arnulfo Giedraičio bei kitų ir yra vienas labiausiai pasižymėjusių ir išgarsėjusių. Žemaičių vyskupija nurodoma kaip Rusijos imperijai ir Kauno gubernijai priklausiusi teritorija. Žemaičių vyskupijoje valdant M. Valančiui tikinčiųjų dvasiniai reikalai pastebimai pagerėjo.'
 place_authority: true
 historical_names: []
 ---
@@ -176,7 +179,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191253
@@ -200,7 +203,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-191254
@@ -224,7 +227,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-191256
@@ -245,7 +248,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-191257
@@ -263,7 +266,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-191258
@@ -285,7 +288,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-192122
@@ -304,6 +307,5 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
-

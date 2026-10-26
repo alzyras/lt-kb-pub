@@ -37,22 +37,10 @@ Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir
 
 ## Teiginiai
 
-<a id="claim-t-219005"></a>
-- t-219005
-  teiginys: "Narbutas teigia, kad Minas Kretoje įvedė jau susiklosčiusias slaptas apeigas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200960
-
-<a id="claim-t-216616"></a>
-- t-216616
+<a id="claim-t-189009"></a>
+- t-001
   teiginys: "Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir trakų tradicijose minėjo kitus jų įvedėjus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,6 +54,8 @@ Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kreta\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171898
 
 ## Citatos
 
@@ -88,22 +78,5 @@ Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200960
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 195"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 195."
-  citata_originali: |
-    Zoroastras pas persus, Kadmas ir Inachas pas grai­
-    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
-    sias slaptas apeigas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219005
-
+  pagrindzia:
+    - t-001

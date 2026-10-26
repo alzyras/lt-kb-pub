@@ -89,7 +89,7 @@ Pasak Teodoro Narbuto, Liubarto valdose Vladimiras, Luckas ir Oleskas buvo užim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189370
@@ -108,6 +108,5 @@ Pasak Teodoro Narbuto, Liubarto valdose Vladimiras, Luckas ir Oleskas buvo užim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

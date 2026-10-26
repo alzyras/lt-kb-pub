@@ -75,6 +75,5 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

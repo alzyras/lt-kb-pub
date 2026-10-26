@@ -23,6 +23,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-7dc9b9256b9304609b7ed4e0
+canonical_name: Jonas Goštautas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jonas Goštautas
+sameAs: []
+canonical_biography: 'Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui. Jono Goštauto vadovaujama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą. Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui.'
 external_sources_json: '[{"title":"Jonas Goštautas","url":"https://lt.wikipedia.org/wiki/Jonas_Go%C5%A1tautas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:24:06+00:00","source_checked_at":"2026-09-19T14:24:06+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Jonas Goštautas (lenk. Jan Iwaszko Gasztołd , g. prieš 1383 m. Geranainys – m. prieš 1458 m. rugsėjo 1 d. Vilnius) – Lietuvos Didžiosios Kunigaikštystės valstybės ir karinis veikėjas, 1440–1443 m. Trakų vaivada, 1443–1457 m. Vilniaus vaivada.","infobox":[{"code":"row_1","label":"","value":"Jonas Goštautas\nlenk. Jan Iwaszko Gasztołd","cells":[{"text":"Jonas Goštautas\nlenk. Jan Iwaszko Gasztołd","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Goštautai","cells":[{"text":"Goštautai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Abdankas","cells":[{"text":"Abdankas","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Gimė","value":"1383 m.\nGeranainys","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1383 m.\nGeranainys","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Mirė","value":"prieš 1458 m. rugsėjo 1 d. (~75 metai)\nVilnius","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"prieš 1458 m. rugsėjo 1 d. (~75 metai)\nVilnius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Tėvas","value":"Andrius Goštautas","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Andrius Goštautas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Sutuoktinis (-ė)","value":"Darata Zadora\nElžbieta Drucka-Trabska","cells":[{"text":"Sutuoktinis (-ė)","header":true,"colspan":1,"rowspan":1},{"text":"Darata Zadora\nElžbieta Drucka-Trabska","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Vaikai","value":"Martynas Goštautas\nJurgis Goštautas\nMarija Goštautaitė\nAleksandra Goštautaitė,\nMarina Goštautaitė","cells":[{"text":"Vaikai","header":true,"colspan":1,"rowspan":1},{"text":"Martynas Goštautas\nJurgis Goštautas\nMarija Goštautaitė\nAleksandra Goštautaitė,\nMarina Goštautaitė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Veikla","value":"Lietuvos Didžiosios Kunigaikštystės valstybės ir karinis veikėjas, 1440-1443 m. Trakų vaivada, 1443-1457 m. Vilniaus vaivada.","cells":[{"text":"Veikla","header":true,"colspan":1,"rowspan":1},{"text":"Lietuvos Didžiosios Kunigaikštystės valstybės ir karinis veikėjas, 1440-1443 m. Trakų vaivada, 1443-1457 m. Vilniaus vaivada.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"166570","revision_id":"6838532","status":"published","translation_status":"native","source":{"title":"Jonas Goštautas","url":"https://lt.wikipedia.org/wiki/Jonas_Go%C5%A1tautas","publisher":"Vikipedija","language":"lt","article_id":"166570","revision_id":"6838532","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=6838532","history_url":"https://lt.wikipedia.org/w/index.php?title=Jonas_Go%C5%A1tautas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:11:19.514727+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"2a74b9deb10d4509b87d652f383dd75a64f69db3bb347afa401f8328b01f35fa","version_pk":"8c51ab44ffd64b136abca9c35c94bc70"}},"source_buttons":[{"label":"Vikipedija","title":"Jonas Goštautas","url":"https://lt.wikipedia.org/wiki/Jonas_Go%C5%A1tautas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Jonas_Go%C5%A1tautas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"dc26230b684c57e841f8b9db","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Mokėjo prikalbėti didikus ir įtikinti kunigaikštį Kazimierą.","context":"Bychovco kronikos pasakojime apie įvykius, kai Jonas Goštautas greitai sutvarkė reikalus ir prikalbėjo didikus; šaltinio autoriaus vertinimas taikomas tam pasakojamam įvykiui.","support_ids":["t-210589","c-194204"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210589","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194204","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Jonas Goštautas visa tai greitai padarė ir didikus prikalbėjo, o čia jau kunigaikštis Kazimieras, savo globėjo Jono Goštauto prikalbėtas ir savo Tarybos po­ nų prašomas, nustojo pykti ant kunigaikščio Jurgio Lengvenaičio"}],"status":"published","conflict_status":"clear"},{"trait_id":"bca6e927001bd69e831a171f","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo didžiojo kunigaikščio dvaro maršalas.","context":"1430–1431 m.","support_ids":["t-211143","c-194339"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211143","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194339","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Nežinoma, kad Jonas Goštautas butų turėjęs „dvaro etmono\" titulą. 1430—''1431 m. jis buvo didžiojo kunigaikščio dvaio marša­ las; 1431 m. vadovavo vienam Švitrigailos kariuomenės daliniui"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
 object_page_finisher: 'true'
@@ -36,13 +45,6 @@ object_page_seo_description: 'Jonas Goštautas: o buvęs Kazimiero globėjas Jon
 object_page_seo_input_hash: ef3104c11967d74ce2aff3043d257467cc231ad762b11c7fb5b508c6184ec3fd
 object_page_seo_generated_at: '2026-09-19T14:24:06+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-7dc9b9256b9304609b7ed4e0"
-canonical_name: "Jonas Goštautas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jonas Goštautas"]
-sameAs: ["https://www.wikidata.org/entity/Q2976306"]
-canonical_biography: "Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui. Jono Goštauto vadovaujama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą. Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui."
 ---
 # Jonas Goštautas
 
@@ -152,43 +154,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176554
-
-<a id="claim-t-210589"></a>
-- t-210589
-  teiginys: "Jonas Goštautas visa tai greitai padarė ir didikus prikalbėjo, o čia jau kunigaikštis Kazimieras, savo globėjo Jono Goštauto prikalbėtas ir savo Tarybos po nų prašomas, nustojo pykti ant kunigaikščio Jurgio Lengvenaičio."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194204
-
-<a id="claim-t-210850"></a>
-- t-210850
-  teiginys: "Šaltinis Joną Goštautą vaizduoja kaip lietuvių vadą Žalgirio mūšyje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-193123
-
-<a id="claim-t-211143"></a>
-- t-211143
-  teiginys: "Jonas Goštautas 1430–1431 m. buvo didžiojo kunigaikščio dvaro maršalas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194339
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -316,7 +281,7 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-169342
@@ -336,7 +301,7 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-003
 
@@ -371,7 +336,7 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-176552
@@ -405,7 +370,7 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-007
 
@@ -430,87 +395,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
     - t-008
-
-- id: c-193123
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 25."
-  citata_originali: |
-    taip pat apie Joną Goštautą, lietuvių vadą Žalgirio
-    mūšyje, LDK kanclerį (1440—1458) ir labai nusipelniu­
-    sį jauno didžiojo kunigaikščio Kazimiero globėją bei
-    patarėją.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210850
-
-- id: c-194204
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 129."
-  citata_originali: |
-    Jonas Goštautas visa tai greitai padarė ir didikus
-    prikalbėjo, o čia jau kunigaikštis Kazimieras, savo
-    globėjo Jono Goštauto prikalbėtas ir savo Tarybos po­
-    nų prašomas, nustojo pykti ant kunigaikščio Jurgio
-    Lengvenaičio
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210589
-
-- id: c-194217
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 131."
-  citata_originali: |
-    Ir jis labai
-    gailėjos, kad jo sugalvoti būdai virsta niekais ir daro
-    naudą didžiajam kunigaikščiui Kazimierui, o jis pats
-    krinta į duobę, kurią jam buvo iškasęs. Ir jis ėmė la­
-    bai bijoti, pabėgo į Brianską, į savo tolimiausią miestą.
-    Būdamas Brianske, sutelkė nemaža kariuomenės ir su
-    Maskvos pagalba 12 žygiuoja ir užima Kijevo miestą l3.
-    Ir didysis kunigaikštis Kazimieras sutelkia visas sa­
-    vo Lietuvos jėgas ir skubiai siunčia savo globėją Joną
-    Goštautą ".
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194339
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 257."
-  citata_originali: |
-    Nežinoma, kad Jonas Goštautas butų turėjęs „dvaro etmono"
-    titulą. 1430—'1431 m. jis buvo didžiojo kunigaikščio dvaio marša­
-    las; 1431 m. vadovavo vienam Švitrigailos kariuomenės daliniui
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211143
-

@@ -93,7 +93,7 @@ Lenkijos kariaunai perėjus per Belipai žemę, Jurgis Narimantaitis, valdęs j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189368
@@ -113,6 +113,5 @@ Lenkijos kariaunai perėjus per Belipai žemę, Jurgis Narimantaitis, valdęs j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

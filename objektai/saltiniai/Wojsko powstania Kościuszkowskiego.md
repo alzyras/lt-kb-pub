@@ -70,6 +70,5 @@ Wojsko powstania Košciuszkowskiego, Warszawa, 1987.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

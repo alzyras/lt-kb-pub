@@ -73,6 +73,5 @@ Narbutas teigia, kad hiperborėjų senoliai, pasisotinę gyvenimu ir pramogomis,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

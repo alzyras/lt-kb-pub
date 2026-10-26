@@ -74,6 +74,5 @@ Konradas iš Tirbergo Vyresnysis buvo devintasis Prūsijos žemės magistras ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

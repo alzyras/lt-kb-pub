@@ -68,6 +68,5 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

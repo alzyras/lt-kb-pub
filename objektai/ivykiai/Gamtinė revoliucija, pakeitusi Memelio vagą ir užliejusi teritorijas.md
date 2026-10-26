@@ -97,7 +97,7 @@ Jai pradingus arba pertraukus dalį sausumos tarp Ven tės ir Karvaičių, kai v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-194532
@@ -117,6 +117,5 @@ Jai pradingus arba pertraukus dalį sausumos tarp Ven tės ir Karvaičių, kai v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

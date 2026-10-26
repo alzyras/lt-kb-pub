@@ -33,6 +33,20 @@ canonical_biography: "Aleksandras Bokevičius buvo pasiųstas pranešti Vasiliju
 
 Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai. Aleksandras Bokevičius buvo apvainikuotas karaliaus vainiku ir paskelbtas Lenkijos karaliumi.
 
+## Teiginiai
+
+<a id="claim-t-196408"></a>
+- t-001
+  teiginys: "Aleksandras Bokevičius buvo apvainikuotas karaliaus vainiku ir paskelbtas Lenkijos karaliumi."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169454
+
 ## Citatos
 
 - id: c-169454
@@ -56,4 +70,5 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

@@ -69,19 +69,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   pagrindžia:
     - c-188855
 
-<a id="claim-t-206241"></a>
-- t-206241
-  teiginys: "Teodoras Narbutas Vygandą laiko pirmuoju kronikininku, kuris pilių išvardijime įvelė klaidų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-188856
-
 ## Citatos
 
 - id: c-176905
@@ -104,7 +91,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188855
@@ -123,23 +110,5 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-188856
-  šaltinis: "Lietuvių tautos istorija, t. 5"
-  puslapiai: "PDF 547"
-  indeksas: "Lietuvių tautos istorija, t. 5, PDF 547."
-  citata_originali: |
-    Jau išvardijant pilis
-    yra dalykų, klampinančių į klaidas. Vygandas pirmasis šiuo rei­
-    kalu pripainiojo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-206241
-

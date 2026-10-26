@@ -86,7 +86,7 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-40152
@@ -106,6 +106,5 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

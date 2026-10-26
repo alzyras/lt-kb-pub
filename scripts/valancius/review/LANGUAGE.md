@@ -23,3 +23,12 @@ Patikros:
 - Peržiūros pradžios vaizdai saugomi vietiniame `.cache/valancius-language/screenshots/` kataloge. Jie nėra publikuojami ar įtraukiami į medijos rinkinį.
 
 Tai **vietinė ciklo peržiūra, ne visos svetainės surinkimo rezultatas**. Ankstesni development eksporto neatitikimai šiuo kalbos redagavimu netaisyti. Istorinės suvestinės ir archyvai palikti su to meto pavadinimais. Kūrinių adresai, sukūrimo datos, juodraščio būsena ir `noindex` išsaugoti. Šio etapo pakeitimai necommitinti, nepushinti ir nepublikuoti.
+
+
+## 2026-09-30 parodų peržiūros papildymas
+
+Atnaujinti abu autoriniai parodų įvesties failai: `curation.json` ir `b-curation.json`. Sutvarkytos devynios skyrių įžangos ir šešiolikos eksponatų aprašai. „Apej brostwą błaiwistes“ antraštiniame lape nurodyta Klaipėda atskirta nuo A. Navickienės argumentuojamos Vilniaus spaudos vietos. Sutrumpintos pasikartojančios išlygos; nesusiję 1860 m. caro priėmimo ir kitų įvykių aiškinimai pašalinti iš atvaizdų pasakojimo. Vyskupo autoritetu ir laiškų skelbimo tvarka pagrįstas sklaidos paaiškinimas išsaugotas. Ankstesnės žodžių ribos šiame etape netaikytos.
+
+Viešas `exhibitionValancius.json`, medijos katalogas ir originalūs įrodymų registrai šiame etape negeneruoti ir ranka neperrašyti. Tikro projekto parodų testų įkėlimas sustoja dėl kataloge nerandamo navigacijos vaizdo `m-59834106e8bba6565f62785b`. `sync_editorial.mjs` nepaleistas: jam reikia trūkstamų kanoninių įrašų, o teksto pakeitimas nesuteikia jų patvirtinimo.
+
+Visos septynios autorinės redakcijos ir konkrečios spragos saugomos [parodų peržiūros ataskaitoje](../../../../lt-kb/darbas/saltiniu_deze/parodu-redakcija-20260930/ataskaita.md). Izoliuota įkėlimo patikra patvirtino URL, eksponatų ID ir originalių įrodymų išsaugojimą, tačiau tai nėra tikro projekto katalogo ar visų istorinių faktų patvirtinimas. Kanoninio pritaikymo metu perkelti ir redakcijų failuose nurodytas įrodymų pastabas bei papildomų tyrimų nuorodas; vien autorinio description kopijavimo neužtenka.

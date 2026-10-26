@@ -61,6 +61,5 @@ Goštautas, susirinko Vilniaus miesliečiai pagonys ir di deliu būriu atėjo pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

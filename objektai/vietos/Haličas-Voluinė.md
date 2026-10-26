@@ -69,6 +69,5 @@ Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

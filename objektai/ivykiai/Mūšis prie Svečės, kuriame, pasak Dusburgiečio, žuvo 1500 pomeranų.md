@@ -73,10 +73,10 @@ Nenurodyta
   pagrindžia:
     - c-63011
 
-<a id="claim-t-220503"></a>
-- t-220503
+<a id="claim-t-62405"></a>
+- t-002
   teiginys: "Komentare nurodoma, kad mūšis prie Svečės vyko 1244 m. arba 1245 m. pradžioje."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Svečė: 0.85"
@@ -90,6 +90,8 @@ Nenurodyta
   temporaliniai_duomenys: "mūšio data: 1244 m.; mūšio data: 1245 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata yra redakcinis komentaras, todėl būtina atribucija; data tiesiogiai paremta."
+  pagrindžia:
+    - c-63013
 
 ## Citatos
 
@@ -116,7 +118,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-63013
@@ -133,4 +135,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

@@ -61,6 +61,5 @@ Narbutas neurus apibūdina kaip miškų gyventojus, kurie nepereidavo į atviras
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

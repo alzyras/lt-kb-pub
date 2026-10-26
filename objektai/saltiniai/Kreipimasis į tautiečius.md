@@ -77,6 +77,5 @@ Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

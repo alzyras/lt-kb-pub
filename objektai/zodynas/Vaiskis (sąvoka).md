@@ -65,6 +65,5 @@ Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

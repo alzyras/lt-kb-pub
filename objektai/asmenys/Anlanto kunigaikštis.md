@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-6b7a95efa43dd2070e81aab2"
-canonical_name: "Anlanto kunigaikštis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Anlanto kunigaikštis"]
+entity_id: ent-6b7a95efa43dd2070e81aab2
+canonical_name: Anlanto kunigaikštis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Anlanto kunigaikštis
 sameAs: []
-canonical_biography: "Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą."
+canonical_biography: Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą.
 ---
 # Anlanto kunigaikštis
 
@@ -63,6 +65,5 @@ Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

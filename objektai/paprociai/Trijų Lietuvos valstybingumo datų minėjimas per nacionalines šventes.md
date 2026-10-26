@@ -168,12 +168,11 @@ Nenurodyta
     vietų imperijos, ir pradėjusią suverenitetų paradą.
   citata_rodoma: "Visus\nšiuos tris kartus minime per nacionalines šventes ir kalbame apie\nLiepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas\nMindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką\n(1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,\npanaikinto 1795 m., atkūrimas), pagaliau 1990 m. Kovo 11-osios\nLietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-\nvietų imperijos, ir pradėjusią suverenitetų paradą."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -196,12 +195,10 @@ Nenurodyta
     panaikinto 1795 m., atkūrimas), pagaliau 1990 m.
   citata_rodoma: "Tačiau svar-\nbiausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė\nbuvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus\nšiuos tris kartus minime per nacionalines šventes ir kalbame apie\nLiepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas\nMindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką\n(1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,\npanaikinto 1795 m."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-003
-

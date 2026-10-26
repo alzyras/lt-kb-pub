@@ -68,11 +68,9 @@ Pritrūkus lėšų ir atšalus statytojų uolumui dėl Reformacijos įtakos, Ber
     atstatyti Mykolas Pacas, Vilniaus vaivada ir Didžiosios Kunigaikštystės
     etmonas.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

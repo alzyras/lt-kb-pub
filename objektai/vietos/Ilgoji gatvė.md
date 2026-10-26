@@ -64,6 +64,5 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

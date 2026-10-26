@@ -63,6 +63,5 @@ Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

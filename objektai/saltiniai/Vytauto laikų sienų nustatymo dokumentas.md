@@ -59,6 +59,5 @@ Viename senoviškame sienų nustatymo dokumente, ku rio data nežinoma, bet kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

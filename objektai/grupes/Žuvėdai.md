@@ -51,10 +51,10 @@ media_all_json: |-
   pagrindžia:
     - c-10140
 
-<a id="claim-t-210278"></a>
-- t-210278
+<a id="claim-t-66404"></a>
+- t-002
   teiginys: "Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kalnėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,6 +66,8 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   temporaliniai_duomenys: "įvykio data: 1700 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-10138
 
 ## Citatos
 
@@ -96,6 +98,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-10140
   autorius: "Simonas Daukantas"
@@ -111,7 +115,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-10141
@@ -128,35 +132,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-192690
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 334"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 334."
-  citata_originali: |
-    Žemaičiai dar vėl norėjo savo Šventosios įtaką arba Palangą, kurią žuvėdai buvo sugriovę, atnaujinti, ir minavonei savo nuo jų išsiliuosavimo^1511 tenai
-        naują pilį, vadinamą Marijoninę pilį (Janmarienburg), įkurti, ant ko metuose 1688 sueime gavo ir
-        priviliją.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 16:28"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-192908
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  puslapiai: "PDF 330"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 330."
-  citata_originali: |
-    laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
-        sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

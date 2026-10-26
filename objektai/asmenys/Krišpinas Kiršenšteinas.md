@@ -71,6 +71,5 @@ Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

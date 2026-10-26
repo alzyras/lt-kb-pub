@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 30
+tema_objektu_skaicius: 31
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 30.
+Objektų skaičius: 31.
 
 ## Kaip naudoti
 
@@ -38,6 +38,7 @@ Objektų skaičius: 30.
 - [[objektai/daiktai/Kelnės]]
 - [[objektai/daiktai/Kilimas]]
 - [[objektai/daiktai/Konfederatka]]
+- [[objektai/daiktai/Kraičvežių atributai]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
 - [[objektai/daiktai/Krivio balta drobės juosta]]
 - [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
@@ -50,7 +51,7 @@ Objektų skaičius: 30.
 - [[objektai/daiktai/Rūbai]]
 - [[objektai/daiktai/Sabalų kailiniai]]
 - [[objektai/daiktai/Vaidilų apeiginiai drabužiai]]
-- [[objektai/daiktai/Vienuolio rūbai]]
+- [Vienuolio rūbai](../objektai/daiktai/Vienuolio%20r%C5%ABbai)
 - [Viršutinis apsiaustas](../objektai/daiktai/Vir%C5%A1utinis%20apsiaustas)
 - [Vyriausiojo žynio apeiginiai drabužiai](../objektai/daiktai/Vyriausiojo%20%C5%BEynio%20apeiginiai%20drabu%C5%BEiai)
 - [Vyriška apranga](../objektai/daiktai/Vyri%C5%A1ka%20apranga)

@@ -59,6 +59,5 @@ Jį taip pat vadino Wezzajs Tehws (senasis tėvas) arba tiesiog Wezzajs (se nis)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

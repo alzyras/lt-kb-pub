@@ -70,6 +70,5 @@ Lietuvos metraštis pasakoja, kad Vilniaus vaivada Petras Goštautas Algirdo lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

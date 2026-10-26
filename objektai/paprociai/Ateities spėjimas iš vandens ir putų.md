@@ -72,6 +72,5 @@ Pranašautojai ateitį nusakydavo iš stebimo vandens, ypač pagal jo ūžimą a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

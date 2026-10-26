@@ -85,6 +85,5 @@ Terminas vartojamas XIX a. vidurio sausros ir kaitros padarinių pasakojime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

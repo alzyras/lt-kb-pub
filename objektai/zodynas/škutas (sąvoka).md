@@ -73,7 +73,7 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185116
@@ -90,6 +90,5 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

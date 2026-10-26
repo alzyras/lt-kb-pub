@@ -42,7 +42,6 @@ Nenurodyta
   santrauka: 'Vladas Kaladė žuvo 1946 m. sausio 15 d. per karinę čekistų operaciją Buožių kaime, Vabalninko valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 114-115"
-  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 114-115."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

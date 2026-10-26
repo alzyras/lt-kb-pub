@@ -77,6 +77,5 @@ Dėl to buvo išrasti atvaizdai, sim boliai, paminklai, trofėjai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

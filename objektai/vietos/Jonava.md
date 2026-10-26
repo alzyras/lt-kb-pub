@@ -75,6 +75,5 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

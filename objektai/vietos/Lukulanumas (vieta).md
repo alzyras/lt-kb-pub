@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-710a9f4eb639074742e50e8f"
-canonical_name: "Lukulanumas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Lukulanumas","Lukulanumas (vieta)"]
+entity_id: ent-710a9f4eb639074742e50e8f
+canonical_name: Lukulanumas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Lukulanumas
+  - Lukulanumas (vieta)
 sameAs: []
-canonical_biography: "Odoakras Augustului davė įtvirtintą miestą netoli Neapolio, vadinamą Lukulanumu, kuris atnešdavo šešis tūkstančius solidų metinių pajamų."
-place_authority: true
-historical_names: []
+canonical_biography: 'Odoakras Augustului davė įtvirtintą miestą netoli Neapolio, vadinamą Lukulanumu, kuris atnešdavo šešis tūkstančius solidų metinių pajamų.'
 ---
 # Lukulanumas (vieta)
 
@@ -71,6 +72,5 @@ Odoakras Augustului davė įtvirtintą miestą netoli Neapolio, vadinamą Lukula
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

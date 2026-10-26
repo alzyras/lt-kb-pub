@@ -69,6 +69,5 @@ Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

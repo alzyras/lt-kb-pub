@@ -89,6 +89,5 @@ Narbutas pasakoja, kad 1397 m. rugsėjį Ragainės komtūras su maždaug keturia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

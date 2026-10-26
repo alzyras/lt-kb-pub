@@ -54,18 +54,6 @@ canonical_biography: "Žygimantas pasiuntė Joną Nemiravičių pranešti karali
   pagrindžia:
     - c-169577
 
-<a id="claim-t-211384"></a>
-- t-211384
-  teiginys: "1523 m. Jurgis Nemiravičius tapo karaliaus arba didžiojo kunigaikščio maršalu."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193647
-
 ## Citatos
 
 - id: c-169577
@@ -93,28 +81,5 @@ canonical_biography: "Žygimantas pasiuntė Joną Nemiravičių pranešti karali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-193647
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 329-330"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 329-330."
-  citata_originali: |
-    Jurgis Nemiravičius — gal būt, tai Jurgis Jurgaitis Nemiravi-
-    čtus, prieš 1507 m. pirkęs Kupacko dv. Naugarduko paviete, 1511 m.
-    22 Lietuvos mot «eitis
-    337
-
-    buvęs Kričevo vietininku, 1518 m. valdęs Daugus. 1523 m. tapo
-    didžiojo kunigaikščio maršalu, mirė 1533 m
-  statusas: verified
-  atnaujinta: "2026-09-13 18:03"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211384
-

@@ -37,7 +37,6 @@ Ona Dapšytė-Kriukelienė kronikoje nurodo, kad Juozas Gasiūnas-Davainis dezer
   santrauka: 'Ona Dapšytė-Kriukelienė kronikoje nurodo, kad Juozas Gasiūnas-Davainis dezertyravo iš sovietinės armijos, vokiečių okupacijos metais dirbo Viešintų kooperatyvo vedėju, o jo du broliai partizanai žuvo ir tėvas buvo suimtas.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 40"
-  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 40."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,7 +46,6 @@ Ona Dapšytė-Kriukelienė kronikoje nurodo, kad Juozas Gasiūnas-Davainis dezer
   santrauka: 'Juozas Gasiūnas tapo kuopos Propagandos skyriaus vadovu.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 41"
-  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 41."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

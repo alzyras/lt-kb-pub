@@ -68,10 +68,10 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   pagrindžia:
     - c-59190
 
-<a id="claim-t-225218"></a>
-- t-225218
+<a id="claim-t-58559"></a>
+- t-002
   teiginys: "Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baiga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,6 +81,8 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   ryšio_targeto_parinkimas: "Baiga: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ilienburgas\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59191
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -123,7 +125,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-59191
@@ -148,23 +150,5 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-203594
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 224"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
-  citata_originali: |
-    595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
-    3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351
-    m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab.
-    Dąbrówno) sąsmaukoje tarp dviejų ežerų, senoje Sasnos žemėje. Ordino pilis statyta
-    1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen...,
-    p. 473; Ambrassat A., Die Provinz..., p. 421).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

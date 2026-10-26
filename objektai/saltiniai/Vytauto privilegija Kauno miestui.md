@@ -57,6 +57,5 @@ Visiškai aišku, kad miestas, kaip naujakurys, 10 metų atleidžiamas nuo čin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

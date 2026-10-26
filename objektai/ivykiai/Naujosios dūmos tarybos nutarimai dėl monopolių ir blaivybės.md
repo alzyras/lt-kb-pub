@@ -78,7 +78,7 @@ Naujoji dūmos taryba pasiūlė blaivybės draugijoms steigti nereikalauti leidi
 <a id="claim-t-209355"></a>
 - t-001
   teiginys: "Naujoji dūmos taryba pasiūlė blaivybės draugijoms steigti nereikalauti leidimo arba apsiriboti pranešimu apie jų įsikūrimą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

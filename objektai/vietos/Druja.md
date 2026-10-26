@@ -29,6 +29,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-22a3ec6045bbd2270b8f5e1f
+canonical_name: Druja
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Druja
+sameAs: []
+canonical_biography: 'Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Druja","url":"https://lt.wikipedia.org/wiki/Druja","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Druja","url":"https://www.vle.lt/straipsnis/druja/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:02:12+00:00","source_checked_at":"2026-09-19T23:02:12+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Drujà (bltr. Друя, rus. Друя) – agromiestelis šiaurinėje Baltarusijoje, Vitebsko srityje, Breslaujos rajone. Apylinkės centras. Įsikūręs prie Dauguvos ir Drujos upių santakos, Latvijos pasienyje, todėl įvažiavimas į jį apribotas. Priešais Drują, kitame Dauguvos upės krante įsikūręs Latvijoje esantis Piedrujos kaimas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"187080","revision_id":"7858211","status":"published","translation_status":"native","source":{"title":"Druja","url":"https://lt.wikipedia.org/wiki/Druja","publisher":"Vikipedija","language":"lt","article_id":"187080","revision_id":"7858211","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7858211","history_url":"https://lt.wikipedia.org/w/index.php?title=Druja&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:17:56.053960+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"cda87296ef0045268b863cda92cbc4453fd8f3a2c6afeb6e46a9ede16eddc361","version_pk":"8501faf57acad91fc5811a1a7900b18c"}},"source_buttons":[{"label":"Vikipedija","title":"Druja","url":"https://lt.wikipedia.org/wiki/Druja","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Druja","url":"https://www.vle.lt/straipsnis/druja/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Druja","https://www.vle.lt/straipsnis/druja/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8f3beef9e12c238433b9dae5","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Iš Paplaujos versmės ištekantis upelis, vadintas Druja; šaltinyje taip pat minima Drujos upė.","context":"Michał Baliński apraše nurodoma, kad Druja tekėjo Paplaujoje, netoli Ziupronių kelio; minima 1538 m. Žygimanto Augusto laiške.","support_ids":["t-83317","c-79673","t-83319"],"source_refs":[{"kind":"internal_claim","claim_id":"t-83317","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-83319","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-79673","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu. Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka­ raliaus Žygimanto Augusto laiškas, rašytas rusų kalba iš Liublino, datuo­ tas 1538 metų rugsėjo 1 dieną, su Lietuvos antspaudu ir raštininko Os- tafiejaus [Eustachijaus] parašu, įspė­ jantis ponią Kiščiną, Vitebsko vaiva- dienę, kad nestabdytų vandens, vamzdžiais nuvesto į miestą, iš Dru­ jos upės Paplaujoje, tekančios netoli Ziupronių kelio, nes tam yra kara­ liaus leidimas, kurį ji privalanti gerb­ ti. Toji Kiščina valdė Markučius…"}],"status":"published","conflict_status":"clear"},{"trait_id":"a41552cac48fc7d253557a7d","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Tekėjo Paplaujoje netoli Ziupronių kelio.","context":"Vieta aprašyta 1538 m. Žygimanto Augusto laiško kontekste, kaip perteikta Michał Baliński veikale.","support_ids":["t-83319","c-79673"],"source_refs":[{"kind":"internal_claim","claim_id":"t-83319","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-79673","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu. Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka­ raliaus Žygimanto Augusto laiškas, rašytas rusų kalba iš Liublino, datuo­ tas 1538 metų rugsėjo 1 dieną, su Lietuvos antspaudu ir raštininko Os- tafiejaus [Eustachijaus] parašu, įspė­ jantis ponią Kiščiną, Vitebsko vaiva- dienę, kad nestabdytų vandens, vamzdžiais nuvesto į miestą, iš Dru­ jos upės Paplaujoje, tekančios netoli Ziupronių kelio, nes tam yra kara­ liaus leidimas, kurį ji privalanti gerb­ ti. Toji Kiščina valdė Markučius…"}],"status":"published","conflict_status":"clear"},{"trait_id":"eb725e28ddf78a86e32de8f8","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Drujos vanduo vamzdžiais buvo nuvestas į miestą.","context":"Tai minima 1538 m. rugsėjo 1 d. Žygimanto Augusto laiške; laiške ponia Kiščina įspėjama nestabdyti vandens tiekimo.","support_ids":["t-83319","c-79673"],"source_refs":[{"kind":"internal_claim","claim_id":"t-83319","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-79673","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu. Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka­ raliaus Žygimanto Augusto laiškas, rašytas rusų kalba iš Liublino, datuo­ tas 1538 metų rugsėjo 1 dieną, su Lietuvos antspaudu ir raštininko Os- tafiejaus [Eustachijaus] parašu, įspė­ jantis ponią Kiščiną, Vitebsko vaiva- dienę, kad nestabdytų vandens, vamzdžiais nuvesto į miestą, iš Dru­ jos upės Paplaujoje, tekančios netoli Ziupronių kelio, nes tam yra kara­ liaus leidimas, kurį ji privalanti gerb­ ti. Toji Kiščina valdė Markučius…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":4}}'
 object_page_finisher: 'true'
@@ -42,15 +53,6 @@ object_page_seo_description: 'Druja: Lietuvos teritorijos linija rytuose buvo š
 object_page_seo_input_hash: 96d6a68225a6b2939a4e290e35903f1e0026037d89615139cf53953b6eac28a6
 object_page_seo_generated_at: '2026-09-19T23:02:12+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-22a3ec6045bbd2270b8f5e1f"
-canonical_name: "Druja"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Druja"]
-sameAs: ["https://www.wikidata.org/entity/Q2621918"]
-canonical_biography: "Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per."
-place_authority: true
-historical_names: []
 ---
 # Druja
 
@@ -148,31 +150,6 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   pagrindžia:
     - c-184237
 
-<a id="claim-t-218062"></a>
-- t-218062
-  teiginys: "T. Narbuto pasakojime Drujos apylinkėje rastos trys tarpusavyje sujungtos žalvarinės statulėlės."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
-  pagrindžia:
-    - c-197809
-
-<a id="claim-t-218290"></a>
-- t-218290
-  teiginys: "1811 metais Drujos apylinkėse nusausinto ežero dugne buvo rastos trys žalvarinės statulėlės."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198181
-
 ## Citatos
 
 - id: c-79673
@@ -211,7 +188,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -241,7 +218,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-004
 
@@ -274,54 +251,9 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
     nigų dekanų rupesčiu apdovanoti medaliais ir or­
     deriais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-197809
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 29-30"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 29-30."
-  citata_originali: |
-    Pavyzdžiui, dievų Kabirų (su pomirtiniu pasauliu susiju­
-    sios paslaptingosios dievų trijulės) lietuvių panteone T. Nar­
-    butas ieško pastebėjęs, kad mitai apie juos yra žinomi dauge­
-    liui pasaulio tautų. O kad ir lietuviai tuos dievus turėję, ro­
-    dančios Drujos apylinkėje rastos trys tarpusavy sujungtos žal-
-    30
-
-    varinės statulėlės; buvęs net lietuviškas užrašas Triopa, patvir­
-    tinantis, kad tai panaši lietuviška minėtų dievų trijulė
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218062
-
-- id: c-198181
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
-  citata_originali: |
-    1811 me­
-    tais Drujos apylinkėse nusausinto ežero dugne rastos trys žal­
-    varinės statulėlės: jos buvo apie 18 colių aukščio, įskaitant pa­
-    grindą - 2 colių storumo trikampę žalvarinę lentą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218290
-

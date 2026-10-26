@@ -35,25 +35,10 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
 
 ## Teiginiai
 
-<a id="claim-t-223666"></a>
-- t-223666
-  teiginys: "Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Pomeranija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mstivojus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pomeranija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Mstivojus užgrobė Pomeranijos kunigaikštystės dalis; objektas apibendrintas iki kandidato Pomeranija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mstivojus užėmė Pomeranija (0.74)"
-
-<a id="claim-t-225618"></a>
-- t-225618
+<a id="claim-t-61015"></a>
+- t-001
   teiginys: "Volynės metraštyje teritorija Crasim minima forma Krismence."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Volynė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,6 +51,8 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   temporaliniai_duomenys: "įvykio data: 1259 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė buvo nutrūkusi; citata pagrindžia pavadinimo formą metraštyje."
+  pagrindžia:
+    - c-61647
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,7 +92,6 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-61647
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -121,4 +107,5 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

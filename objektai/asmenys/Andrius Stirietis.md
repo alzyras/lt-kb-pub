@@ -73,6 +73,5 @@ Teodoras Narbutas Andrių Stirietį apibūdino kaip dorai gyvenusį, garbę ir r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

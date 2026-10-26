@@ -44,6 +44,17 @@ tags:
   - valdovas
   - valstybė
   - vieta
+entity_id: ent-0403a3e77c0055f3610886b7
+canonical_name: Lenkija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Lenkija
+sameAs: []
+canonical_biography: 'Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai. Tad Zigmantui nebeliko kito sąjungininko, kaip tik Lenkija, kuri jam padėjo net ruošiant sąmokslą. Senieji aktai, kuriais ji buvo surišta su Lenkija, jau nebegaliojo.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Lenkija","url":"https://lt.wikipedia.org/wiki/Lenkija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Lenkija","url":"https://www.vle.lt/straipsnis/lenkija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T22:08:16+00:00","source_checked_at":"2026-09-18T22:08:16+00:00","counts":{"relations":75,"gallery":0,"sources":18},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun- ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran- tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą. Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di- plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva žiūrėjo tik per Vilniaus prizmę.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-177352","evidence_id":"c-161236","origin":"internal"},"wiki":{"intro":"Lenkija (lenk. Polska; oficialiai Lenkijos Respublika, lenk. Rzeczpospolita Polska) – valstybė Vidurio Europoje. Vakaruose ji ribojasi su Vokietija, pietuose – su Čekija ir Slovakija, rytuose – su Ukraina ir Baltarusija, šiaurėje – su Lietuva ir Rusijos Federacijai priklausančia Kaliningrado sritimi ir Baltijos jūra. Sostinė ir didžiausias miestas – Varšuva. Kiti didieji miestai yra Krokuva, Vroclavas, Lodzė, Poznanė, Gdanskas, Ščecinas, Bydgoščius, Liublinas ir Balstogė.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"1005","revision_id":"7811776","status":"published","translation_status":"native","source":{"title":"Lenkija","url":"https://lt.wikipedia.org/wiki/Lenkija","publisher":"Vikipedija","language":"lt","article_id":"1005","revision_id":"7811776","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7811776","history_url":"https://lt.wikipedia.org/w/index.php?title=Lenkija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:31.758755+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"79e8a393f0428ee0846d9b61692f85c9448775cc823c322c9a4e573b10b19791","version_pk":"ed4af363930be3f65ec3fa8766061a24"}},"source_buttons":[{"label":"Vikipedija","title":"Lenkija","url":"https://lt.wikipedia.org/wiki/Lenkija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Lenkija","url":"https://www.vle.lt/straipsnis/lenkija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Lenkija","https://www.vle.lt/straipsnis/lenkija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"947ab0a5ae5e923f74b02a3e","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Lenkija priskiriama grūdų auginimo regionui.","context":"Pagal palivarko produkcijos pobūdžio schemą; aprašoma ATR laikotarpio regioninė specializacija.","support_ids":["t-203623","c-186227"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203623","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md"},{"kind":"evidence","evidence_id":"c-186227","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md","quote":"pagal vyraujantį palivarko produkcijos pobūdį schema. Grūdų augi­ nimo regionui priskiriama Lenkija, Livo­ nijos žemės, avių ir galvijų auginimo regi­ onams – Mecklenburgas, Vakarų Pamarys, Moldavija, Valakija (dabartinė Rumunijos sritis), Vengrija. Miškų ūkio regionu laiko­ mos Livonijos žemės, kanapių ir linų ga­ mybos regionais – Lietuva ir rusėniškosios LDK žemės (dabartinė Rytų Baltarusija)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"abf1dd492400368db5179937","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Šiaurės Lenkiją buvo apėmęs Šiaurės Europą dengęs ledynas.","context":"Zenono Ivinskio aprašytas ledyno atsitraukimo laikotarpis; autorius nurodo, kad ledynas Pabaltijyje ir artimose srityse paliko dabartinį reljefą.","support_ids":["t-177338","c-161217"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177338","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-161217","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis Pabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes ir ežerus, kalvas ir žemumas) su charakteringomis morenomis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a0103144a06cfdf15716df8","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir bajorų seimas.","context":"Autorių apibūdinama Lenkijos valstybingumo institucijų sąranga Krėvos sutarties laikotarpio kontekste.","support_ids":["t-177410","c-161279"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177410","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-161279","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig- ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis. Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va- lią, nebūta."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"75d5491d511110d6416b9b8f","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Liublino unijos metu Lenkijoje veikė Didžiosios ir Mažosios Lenkijos atstovų suvažiavimai, vadinti generaliniais seimeliais.","context":"A. Šapokos aprašytas Lenkijos politinis organizavimas Liublino unijos sudarymo metu.","support_ids":["t-177411","c-46570"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177411","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-46570","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Sudarant Liublino uniją, Lenkijoje, be sei- melių, dar būdavo daro- mi dviejų jos provincijų — Didlenkių ir Mažlen- kių — atskiri astovų su- važiavimai, vadinami generaliniais sei- meliais. Mat, anks- čiau Lenkija buvo susi- dėjusi iš dviejų valsty- bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne- išnykusios."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1a1d6446d52486da0d8e932d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Per Lenkiją buvo gabenama didelė dalis pietų Lietuvos prekių ir reikalingų ginklų.","context":"Aprašoma prekybos kryptis tuo metu, kai Ordinas varžė Lietuvos prekybą ir kontroliavo upių žiotis.","support_ids":["t-193202","c-175946"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193202","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175946","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Ypač svarbus centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie- jų didelių upių santakas. Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai. Per Lenkiją ypač buvo pa- togu gabentis reikalingų ginklų, kurių ordinas niekuomet nepra- leisdavo."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Lenkija – istorinė valstybė ir politinė erdvė, glaudžiai susijusi su Lietuvos raida. 1385 m. Krėvos sutartis sudarė sąlygas Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi, o vėliau ryšiai su Lenkija padėjo Lietuvai perimti krikščionišką Vakarų kultūrą ir XVI a. suformuoti Abiejų Tautų Respubliką. Šioje jungtinėje valstybėje vyravo Lenkija: Lietuvos atstovams bendrame Seime teko tik trečdalis vietų. XIX a. Lenkijos karalystė, sudaryta 1815 m. iš dalies Varšuvos kunigaikštystės žemių, buvo susieta su Rusijos valdančiąja dinastija, tačiau 1830–1831 m. jos Seimas paskelbė pašalinantis Nikolajų I ir perduodantis suverenitetą tautai. XX a. Lenkijos ir Lietuvos santykius ženklino konfliktas dėl Vilniaus: 1920 m. Liucijanas Želigovskis įžengė į miestą, o 1938 m. Lietuva priėmė Lenkijos ultimatumą.","sentences":[{"sentence_id":"s1","text":"Lenkija – istorinė valstybė ir politinė erdvė, glaudžiai susijusi su Lietuvos raida.","support_ids":["t-177418","t-177396"]},{"sentence_id":"s2","text":"1385 m. Krėvos sutartis sudarė sąlygas Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi, o vėliau ryšiai su Lenkija padėjo Lietuvai perimti krikščionišką Vakarų kultūrą ir XVI a. suformuoti Abiejų Tautų Respubliką.","support_ids":["t-177418","t-177396"]},{"sentence_id":"s3","text":"Šioje jungtinėje valstybėje vyravo Lenkija: Lietuvos atstovams bendrame Seime teko tik trečdalis vietų.","support_ids":["t-177362"]},{"sentence_id":"s4","text":"XIX a. Lenkijos karalystė, sudaryta 1815 m. iš dalies Varšuvos kunigaikštystės žemių, buvo susieta su Rusijos valdančiąja dinastija, tačiau jos Seimas paskelbė pašalinantis Nikolajų I ir perduodantis suverenitetą tautai.","support_ids":["t-177421","t-177339"]},{"sentence_id":"s5","text":"XX a. Lenkijos ir Lietuvos santykius ženklino konfliktas dėl Vilniaus: 1920 m. Liucijanas Želigovskis įžengė į miestą, o 1938 m. Lietuva priėmė Lenkijos ultimatumą.","support_ids":["t-177386","t-177384"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia glaudžius Lenkijos ir Lietuvos ryšius, tačiau nepatvirtina apibūdinimo „istorinė valstybė ir politinė erdvė“."},{"sentence_id":"s2","supported":true,"reason":"Krėvos sutartis, Jogailos tapimas Lenkijos karaliumi, Vakarų kultūros perėmimas ir ATR susiformavimas tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad ATR vyravo Lenkija, o Lietuva Seime turėjo trečdalį vietų."},{"sentence_id":"s4","supported":true,"reason":"1815 m. Lenkijos karalystės sudarymas, jos susiejimas su Rusijos dinastija ir Seimo sprendimas pašalinti Nikolajų I tiesiogiai paremti šaltiniais."},{"sentence_id":"s5","supported":true,"reason":"1920 m. Želigovskio įžengimas į Vilnių ir 1938 m. Lietuvos priimtas Lenkijos ultimatumas tiesiogiai paremti šaltiniais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-177418","t-177396"]},{"sentence_id":"s2","supported":false,"support_ids":["t-177418","t-177396"]},{"sentence_id":"s3","supported":false,"support_ids":["t-177362"]},{"sentence_id":"s4","supported":false,"support_ids":["t-177421","t-177339"]},{"sentence_id":"s5","supported":false,"support_ids":["t-177386","t-177384"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Aleksandras Jogailaitis","claim_id":"t-82174","confidence":0.88},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-11684","confidence":0.92},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Mieška","claim_id":"t-78066","confidence":0.88},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Stanislovas Augustas Poniatovskis","claim_id":"t-170896","confidence":0.86},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Steponas Batoras","claim_id":"t-113969","confidence":0.96},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Ziemovitas","claim_id":"t-93745","confidence":0.72},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Žygimantas Senasis","claim_id":"t-173319","confidence":0.88},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Ona Jogailaitė","claim_id":"t-82639","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Dalomoji Komisija","claim_id":"t-182886","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Rusėnai","claim_id":"t-169928","confidence":0.87},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Stačiatikiai","claim_id":"t-22098","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Žydai","claim_id":"t-117384","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bona Sforca","claim_id":"t-13464","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jeronimas Plečkaitis","claim_id":"t-26446","confidence":0.71},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-177345","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas Jeronimaitis Chodkevičius","claim_id":"t-101650","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Goštautas","claim_id":"t-173211","confidence":0.52},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Pilypas (Fermo vyskupas)","claim_id":"t-222585","confidence":0.91},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Stasys Raštikis","claim_id":"t-101707","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-185658","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-222017","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lenkijos karalystės kariuomenė","claim_id":"t-23483","confidence":0.74},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-183271","confidence":0.86},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-113994","confidence":0.68},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Karūna","claim_id":"t-71784","confidence":0.57},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Vėliavos","claim_id":"t-210509","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Abiejų Tautų Respublika","claim_id":"t-169905","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Didžioji Lietuvos kunigaikštystė","claim_id":"t-173017","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Edukacinė Komisija","claim_id":"t-107740","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Kuršo kunigaikštystė","claim_id":"t-71644","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Livonijos kunigaikštystė","claim_id":"t-78383","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Poznanės raitininkų eskadronai","claim_id":"t-38997","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Braclavas","claim_id":"t-46541","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Didlenkiai","claim_id":"t-183051","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Didžioji Lenkija","claim_id":"t-114861","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kamenecas","claim_id":"t-114451","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kijevas","claim_id":"t-112337","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Latgala","claim_id":"t-02535","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Abiejų Tautų Respublika","claim_id":"t-169842","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-102095","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Marijenburgas","claim_id":"t-43757","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Mažlenkiai","claim_id":"t-02589","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Naugardas Sieverskas","claim_id":"t-02157","confidence":0.93},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Niešava","claim_id":"t-175428","confidence":0.92},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Niešavos kraštas","claim_id":"t-32420","confidence":0.93},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Palenkė","claim_id":"t-112337","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Podolė","claim_id":"t-112337","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Prūsija","claim_id":"t-111382","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ukraina","claim_id":"t-122429","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vakarų Prūsija","claim_id":"t-42239","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Varmijos vyskupystė","claim_id":"t-02830","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Varmė","claim_id":"t-42239","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vidurinė Lietuva","claim_id":"t-102091","confidence":0.95},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-152691","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Voluinė","claim_id":"t-112337","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Volynė","claim_id":"t-185125","confidence":0.68},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vysla","claim_id":"t-181229","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Černigovas","claim_id":"t-02157","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Jazbutas","claim_id":"t-185800","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-176840","confidence":0.94},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-171837","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-100025","confidence":0.7},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuvių policijos savisaugos batalionai","claim_id":"t-19813","confidence":0.76},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-171837","confidence":0.66},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Pukuveras (Lietuvos karalius)","claim_id":"t-39631","confidence":0.92},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Pukuveras","claim_id":"t-179193","confidence":0.9},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-222862","confidence":0.91},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Jazbutas","claim_id":"t-221154","confidence":0.94},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-213824","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-177348","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-223426","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Konradas","claim_id":"t-223533","confidence":0.92},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Pilsudskis","claim_id":"t-20941","confidence":0.72},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Žygimantas Augustas","claim_id":"t-183827","confidence":0.72},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Jogailaičių dinastija","claim_id":"t-101620","confidence":0.94}],"timeline":[{"date":"1005 m.","label":"Brunonas į Lenkiją atvyko 1005 m.","claimId":"t-205351"},{"date":"1008 m.","label":"1008 m.","claimId":"t-177359"},{"date":"1230 m.","label":"1230 m.","claimId":"t-224573"},{"date":"1385 m.","label":"1385 m.","claimId":"t-177418"},{"date":"1390 m.","label":"Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m.","claimId":"t-177358"},{"date":"1764 m.","label":"1764 m.","claimId":"t-208040"},{"date":"1772 m.","label":"Lenkijos teritorija 1772 m.","claimId":"t-193773"},{"date":"1791 m.","label":"1791 m.","claimId":"t-177365"}],"support_disclosure":{"claims":95,"sources":16}}'
 object_page_finisher: 'true'
@@ -57,15 +68,6 @@ object_page_seo_description: 'Lenkija – istorinė valstybė ir politinė erdv�
 object_page_seo_input_hash: 237cf6c05716c56c3c4ac0768973177874d012274fb52fdadf7ba8a6c09dfa32
 object_page_seo_generated_at: '2026-09-18T22:08:16+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-0403a3e77c0055f3610886b7"
-canonical_name: "Lenkija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Lenkija"]
-sameAs: ["https://www.wikidata.org/entity/Q36"]
-canonical_biography: "Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai. Tad Zigmantui nebeliko kito sąjungininko, kaip tik Lenkija, kuri jam padėjo net ruošiant sąmokslą. Senieji aktai, kuriais ji buvo surišta su Lenkija, jau nebegaliojo."
-place_authority: true
-historical_names: []
 ---
 # Lenkija
 
@@ -1381,6 +1383,19 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - c-176427
 
+<a id="claim-t-194029"></a>
+- t-078
+  teiginys: "Lietuvos metraštis pasakoja, kad kitų metų vasarą ir rudenį Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Tarnovo ir padarė daug žalos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176651
+
 <a id="claim-t-197176"></a>
 - t-079
   teiginys: "Minėtieji broliai, valdovės Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą, tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti, minėtuosius brolius mirtinai sužeidė ir daugybę žmonių."
@@ -1453,130 +1468,6 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-187857
-
-<a id="claim-t-208039"></a>
-- t-208039
-  teiginys: "Lietuvos seimeliai iš esmės nesiskyrė nuo Lenkijos seimelių."
-  atnaujinta: "2026-09-19 01:08"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190657
-
-<a id="claim-t-208040"></a>
-- t-208040
-  teiginys: "1764 m. Lietuvos nuostatai apie seimelių darbo tvarką buvo pavyzdys Lenkijai."
-  atnaujinta: "2026-09-19 01:08"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  temporaliniai_duomenys: "įvykio data: 1764 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190684
-
-<a id="claim-t-208041"></a>
-- t-208041
-  teiginys: "Lenkija įvardyta tarp dabartinių valstybių, kurių atstovai dalyvavo 1791 m. konstitucijos priėmimo procese."
-  atnaujinta: "2026-09-19 01:08"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190659
-
-<a id="claim-t-208225"></a>
-- t-208225
-  teiginys: "A. Midletonas po 1795 m. negrįžo į Lenkiją."
-  atnaujinta: "2026-09-19 01:08"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-190890
-
-<a id="claim-t-209628"></a>
-- t-209628
-  teiginys: "Vaizbos santikiai tarp tų dviejų šalių galima sakyti, visai prany ko, nes uždėta labai didelė mokestis-tarifas ant Įvežamų Lietuvon iš Lenkijos daiktų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192248
-
-<a id="claim-t-211719"></a>
-- t-211719
-  teiginys: "Danielius su Vasilka siuntė pasiuntinius į Lenkiją pas lenkų kunigaikščius."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193862
-
-<a id="claim-t-212537"></a>
-- t-212537
-  teiginys: "Narbutas teigia, kad Lietuva, susijungusi su Lenkija, atsisakė nepriklausomybės ir tapo niokojančių karų grobiu."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196623
-
-<a id="claim-t-217555"></a>
-- t-217555
-  teiginys: "Lietuva - tai didelis, bet nedaug dirbamos žemės turintis kraš tas, ry’tuose prisišliejęs prie Lenkijos; kraštas pelkėtas ir miškin gas; jo sostinė yra Vilnius - Vyskupų miestas, toks pat didelis 5."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200840
-
-<a id="claim-t-223199"></a>
-- t-223199
-  teiginys: "Bartai kartu su lietuviais patraukė prieš Lenkiją ir iš jos išsivarė žmonių bei gyvulių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204573
-
-<a id="claim-t-224379"></a>
-- t-224379
-  teiginys: "Lietuvių kariuomenė įsiveržė į Lenkiją ir nusiaubė Bresto, Lenčicos bei Dobrynės pasienį."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205333
 
 ## Reikšmingi paminėjimai
 - c-051
@@ -1663,7 +1554,6 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-46570
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1690,7 +1580,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
     - t-059
 
@@ -1708,12 +1598,11 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-065
 
 - id: c-161210
@@ -1736,7 +1625,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
     - t-031
 
@@ -1754,7 +1643,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-052
 
 - id: c-161214
@@ -1782,7 +1671,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
     - t-055
 
@@ -1810,7 +1699,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
     - t-057
 
@@ -1834,7 +1723,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-161217
@@ -1857,7 +1746,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-161218
@@ -1875,7 +1764,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-161219
@@ -1900,7 +1789,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-161220
@@ -1920,7 +1809,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-161221
@@ -1939,7 +1828,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-161222
@@ -1962,7 +1851,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-161223
@@ -1984,7 +1873,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
 
 - id: c-161225
@@ -2005,7 +1894,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
     - t-037
 
@@ -2028,7 +1917,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-064
 
 - id: c-161227
@@ -2052,7 +1941,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-161228
@@ -2073,7 +1962,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-161230
@@ -2099,7 +1988,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-060
 
 - id: c-161233
@@ -2117,7 +2006,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-161236
@@ -2141,7 +2030,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-161237
@@ -2164,7 +2053,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
 
 - id: c-161240
@@ -2189,7 +2078,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-054
 
 - id: c-161241
@@ -2209,7 +2098,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-063
 
 - id: c-161243
@@ -2231,7 +2120,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
 
 - id: c-161245
@@ -2256,7 +2145,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-056
 
@@ -2286,7 +2175,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
 
 - id: c-161248
@@ -2306,7 +2195,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-161249
@@ -2329,7 +2218,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-161251
@@ -2355,7 +2244,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-161252
@@ -2375,7 +2264,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-161253
@@ -2397,7 +2286,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-161254
@@ -2422,7 +2311,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
     - t-051
 
@@ -2444,7 +2333,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-161259
@@ -2466,7 +2355,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
 
 - id: c-161260
@@ -2494,7 +2383,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-044
 
 - id: c-161261
@@ -2513,7 +2402,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-161262
@@ -2537,7 +2426,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-161263
@@ -2553,12 +2442,11 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     Lenkija visa tai jautė ir matė. Reikėjo iš paskutiniųjų gelbėtis,
     kad unija pasiliktų nesuardyta.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-161265
@@ -2581,7 +2469,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-062
 
 - id: c-161267
@@ -2608,7 +2496,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-161269
@@ -2628,7 +2516,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-161270
@@ -2647,7 +2535,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-161271
@@ -2669,7 +2557,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-053
 
 - id: c-161274
@@ -2689,7 +2577,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-161276
@@ -2712,7 +2600,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-161277
@@ -2754,7 +2642,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-061
 
 - id: c-161279
@@ -2777,7 +2665,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-043
     - t-058
 
@@ -2801,7 +2689,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-050
 
 - id: c-161281
@@ -2823,7 +2711,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-161282
@@ -2841,7 +2729,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-161284
@@ -2889,7 +2777,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-041
 
 - id: c-161285
@@ -2914,7 +2802,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-161286
@@ -2935,7 +2823,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-036
 
 - id: c-161287
@@ -2971,7 +2859,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
     - t-012
 
@@ -2990,7 +2878,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-166436
@@ -3019,7 +2907,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-067
 
 - id: c-167005
@@ -3044,7 +2932,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-167006
@@ -3063,7 +2951,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-167242
@@ -3091,7 +2979,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-045
 
 - id: c-171624
@@ -3118,7 +3006,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-068
 
 - id: c-171625
@@ -3140,7 +3028,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-069
 
 - id: c-175457
@@ -3166,7 +3054,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-070
 
 - id: c-175945
@@ -3187,7 +3075,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-071
 
 - id: c-175946
@@ -3209,7 +3097,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-072
 
 - id: c-175947
@@ -3229,7 +3117,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-073
 
 - id: c-175948
@@ -3249,7 +3137,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-074
 
 - id: c-176314
@@ -3268,7 +3156,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-075
 
 - id: c-176426
@@ -3289,7 +3177,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-076
 
 - id: c-176427
@@ -3309,7 +3197,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-077
 
 - id: c-176651
@@ -3330,6 +3218,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-078
 
 - id: c-177580
   redaktorius: "A. Šapoka"
@@ -3345,7 +3235,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-179049
@@ -3368,7 +3258,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-079
 
 - id: c-184974
@@ -3387,7 +3277,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-080
 
 - id: c-186227
@@ -3414,7 +3304,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-081
 
 - id: c-187857
@@ -3436,7 +3326,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-084
 
 - id: c-188112
@@ -3457,7 +3347,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-082
 
 - id: c-188162
@@ -3478,349 +3368,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-083
-
-- id: c-190657
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 74"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 74."
-  citata_originali: |
-    Lietuvos seimeliai
-    iš esmės nesiskyrė nuo Lenkijos seimelių, tačiau, kalbant apie kai kurias detales,
-    buvo racionalesni: buvo lengviau išrinkti žemės teismo teisėjus, automatiškai
-    paaiškėdavo, kas bus direktorius.
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208039
-
-- id: c-190659
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 90"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 90."
-  citata_originali: |
-    Išvad os
-    1791 m. Gegužės 3-iosios konstitucijos ir spalio io-osios Abiejų Tautų tarpusavio
-    įžado priėmimo procese dalyvavo net keleto dabartinių valstybių - Lenkijos, Lie­
-    tuvos, Baltarusijos ir Ukrainos - atstovai, tačiau jų įamžinimo šių šalių atminties
-    kultūrose skirtumai išlieka akivaizdūs. Daugiausiai šioje srityje yra nuveikusi Len­
-    kija, kurioje šio įvykio vertinimuose nebūta ryškesnio specialistų ir visuomenės
-    nuomonių išsiskyrimo.
-  citata_rodoma: "1791 m. Gegužės 3-iosios konstitucijos ir spalio io-osios Abiejų Tautų tarpusavio \nįžado priėmimo procese dalyvavo net keleto dabartinių valstybių - Lenkijos, Lie­\ntuvos, Baltarusijos ir Ukrainos - atstovai, tačiau jų įamžinimo šių šalių atminties \nkultūrose skirtumai išlieka akivaizdūs"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208041
-
-- id: c-190684
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 74"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 74."
-  citata_originali: |
-    Lietuvos seimeliai
-    iš esmės nesiskyrė nuo Lenkijos seimelių, tačiau, kalbant apie kai kurias detales,
-    buvo racionalesni: buvo lengviau išrinkti žemės teismo teisėjus, automatiškai
-    paaiškėdavo, kas bus direktorius. Todėl 1764 m. Lietuvos nuostatai apie seimelių
-    darbo tvarką buvo pavyzdys Lenkijai, nes juose buvo numatytas ne tik pasiuntinių
-    rinkimas, bet ir balsavimas dauguma balsų.
-  citata_rodoma: "Todėl 1764 m. Lietuvos nuostatai apie seimelių \ndarbo tvarką buvo pavyzdys Lenkijai, nes juose buvo numatytas ne tik pasiuntinių \nrinkimas, bet ir balsavimas dauguma balsų."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208040
-
-- id: c-190890
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 282"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
-  citata_originali: |
-    Hagoje Hermanui Schubartui98, A. Midletonas gavo teisę išvykti. Pasiuntinio
-    skola buvo padengta Nikolajaus Repnino nurodymu.
-    Nei j Lenkiją, nei į Lietuvą A. Midletonas negrįžo.
-  citata_rodoma: "Nei j Lenkiją, nei į Lietuvą A. Midletonas negrįžo."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208225
-
-- id: c-192248
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 65"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 65."
-  citata_originali: |
-    Vaizbos
-    santikiai
-    tarp tų dviejų šalių galima sakyti, visai prany­
-    ko,
-    nes uždėta labai didelė
-    mokestis-tarifas
-    ant Įvežamų
-    Lietuvon
-    iš Lenkijos
-    daiktų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209628
-
-- id: c-193862
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
-  citata_originali: |
-    O
-    paskui Danielius sumanė su savo broliu ir nusiuntė
-    pasiuntinius į Lenkiją, pas lenkų kunigaikščius,
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211719
-
-- id: c-196584
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
-  citata_originali: |
-    Jūra dažnai išmeta gintarą, prikibusį prie
-    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
-    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
-    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
-    skirtos nuo medžių žievės1.
-    152
-    Pavienių gintaro gabalų randama beveik visur: Lie­
-    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
-    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
-    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
-    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
-    tojai žino, iš ko jis atsiranda2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196623
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 29-30"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29-30."
-  citata_originali: |
-    Lietuva, susijungusi
-    30
-
-    su Lenkija, savanoriškai atsisakė savo nepriklausomybės,
-    pateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos
-    išorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,
-    padarė ją niokojančių karų grobiu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212537
-
-- id: c-199070
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
-  citata_originali: |
-    Vienas kitas aiškiai lietuviškas her­
-    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
-    rios tais herbais naudojosi. Tik 1413 metais, po Lietuvos uni­
-    jos su Lenkija Horodlės seime, abiejų tautų susijungimo žen-
-    klan Lenkijos bajorai suteikė savo herbus lietuvių bajorams ir
-    įvesta herbų vienovė.
-    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
-    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200840
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 451-452"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 451-452."
-  citata_originali: |
-    Lietuva - tai didelis, bet nedaug dirbamos žemės turintis kraš­
-    tas, ry’tuose prisišliejęs prie Lenkijos; kraštas pelkėtas ir miškin­
-    gas; jo sostinė yra Vilnius - Vyskupų miestas, toks pat didelis
-    5.
-    Medžiagą pralenkė darbas: jose Geležies apdirbėjas
-    Buvo iškalęs marias ir jų apsuptuosius žemynus,
-    Žemė visus kraštus ir aukštcrjj dangti virš jųjų
-    Ir vandenų žydriuosius dievus: Tritoną skardingą
-    Ir daugiaveidį Protėją, ir atsirėmusį rankom
-    10. Į milžinų banginių kupras Egeoną šimtarankj
-    Ir Doridės dukras, kurių keliolika nardo.
-    Kitos žalsvąsias kasas, ant uolų susėdę, džiovinąs,
-    Keletas joja žuvim. Ne visos iš veido vienodos,
-    Betgi ir skirias nedaug, kaip sesėm tikrosiom pritinka.
-    15. Žemėje žmonės visur ir miestai, girios ir žvėrys,
-    Upės su nimfom grakščiom ir kaimo dievai tūleriopi,
-    O viršuje dangus su žvaigždėm, mirgtdiuojančiom skaisčiai,
-    Šviečia šeši zodiako ženklai iš kairiosios jų pusės,
-    Lygiai tiek pat, kiek spindi ženklų ir iš dešiniosios.
-    Vos tik Klimenės sūnus, taku skardžiuoju atkopęs,
-    20. Įžengė į namus ligi šiol abejojamo tėvo,
-    Nukreipė savo žingsnius tuojau į gimdytojo veidą
-    Ir sustojo atokiai; pakelt iš arčiau nevaliojęs
-    Tėvo šviesos. Įsisupęs į purpuro skraistę, sėdėjo
-    Febas auksiniam krėsle, kuris mirgidiavo smaragdais.
-    Jo dešinėj ir kairėj stovėjo Dienos ir Metai,
-    Mėnesiai, Amžiai visi ir Valandos tarpais vienodais.
-    Čia ir Pavasaris jaunas, žiedų vainiku pasipuošęs,
-    Vasara rūbais leng\’ais, apsikaišiusi galvą sau varpom,
-    Šone stovėjo Ruduo, apsitaškęs sutraiškytom kekėm,
-    30. Ir apšarmojus Žiema, pašiaušusi plaukus žiluosius).
-    (Ovidijus. Metamorfozės)*.
-    452
-
-    kaip ir Karalių miestas su visais priemiesčiais
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217555
-
-- id: c-202119
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
-  citata_originali: |
-    3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
-
-       Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
-    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
-    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
-    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
-    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
-    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
-    netikėlių pasiuntiniams jų drabužius bei žirgus165.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202138
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
-  citata_originali: |
-    Minėtieji broliai, valdovės
-    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą,
-    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
-    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
-    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
-    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai. Broliai pagydyti protingai
-    užbaigė jiems patikėtą reikalą. Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
-    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
-    168  Dobrynė — deš.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204427
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
-  citata_originali: |
-    Todėl kunigaikštis pasiuntė pas
-    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
-    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
-    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
-    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II ir Vokietijos kunigaikščių,
-    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą. Taigi pas
-    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
-    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
-    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
-    prūsų kariuomenė ir ją nuniokojo gaisrais ir grobstymais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204573
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
-  citata_originali: |
-    Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai,
-    pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
-    prieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:
-    daug žmonių bei gyvulių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223199
-
-- id: c-205333
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
-  citata_originali: |
-    Tuo metu stipri lietuvių kariuomenė įsibrovė į Lenkiją ir, degindama bei grobdama,
-    nusiaubė Bresto, Lenčicos bei Dobrynės pasienį
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224379
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]

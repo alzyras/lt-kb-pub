@@ -83,7 +83,7 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175903
@@ -110,6 +110,5 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -88,6 +88,5 @@ Pasak Teodoro Narbuto, 1374 m. rugsėjo 22 d. Kęstutis, atsilygindamas, sukviet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

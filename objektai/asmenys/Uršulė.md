@@ -109,7 +109,7 @@ canonical_biography: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176623
@@ -129,6 +129,5 @@ canonical_biography: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

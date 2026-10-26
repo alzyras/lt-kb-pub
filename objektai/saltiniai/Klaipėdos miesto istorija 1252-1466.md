@@ -80,6 +80,5 @@ Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto is
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

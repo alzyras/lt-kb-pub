@@ -63,8 +63,6 @@ Radziszewka yra maždaug 4 km nuo Vidiškių ir 15 km nuo Ukmergės, prie Švent
   indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 8."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-19 13:07"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

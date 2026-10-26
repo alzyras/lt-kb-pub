@@ -73,6 +73,5 @@ Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunval
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

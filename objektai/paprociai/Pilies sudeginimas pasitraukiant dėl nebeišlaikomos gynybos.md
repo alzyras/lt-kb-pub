@@ -59,10 +59,10 @@ Nenurodyta
   pagrindžia:
     - c-63469
 
-<a id="claim-t-224934"></a>
-- t-224934
+<a id="claim-t-62712"></a>
+- t-002
   teiginys: "Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "priklause -> Pamedė: 0.95"
@@ -74,6 +74,8 @@ Nenurodyta
   ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Spitenbergas buvo Pamedės žemėje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Spitenbergas priklausė Pamedė (0.95)"
+  pagrindžia:
+    - c-63470
 
 ## Citatos
 
@@ -95,7 +97,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-63469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -113,7 +114,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-63470
@@ -139,4 +140,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

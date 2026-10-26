@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8a44ddfa339817f853c4c76b"
-canonical_name: "Aleksandras Jurjevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Aleksandras Jurjevičius"]
+entity_id: ent-8a44ddfa339817f853c4c76b
+canonical_name: Aleksandras Jurjevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Aleksandras Jurjevičius
 sameAs: []
-canonical_biography: "Aleksandras Jurjevičius buvo Vilniaus kaštelionas ir Gardino vietininkas."
+canonical_biography: Aleksandras Jurjevičius buvo Vilniaus kaštelionas ir Gardino vietininkas.
 ---
 # Aleksandras Jurjevičius
 
@@ -63,6 +65,5 @@ Aleksandras Jurjevičius buvo Vilniaus kaštelionas ir Gardino vietininkas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

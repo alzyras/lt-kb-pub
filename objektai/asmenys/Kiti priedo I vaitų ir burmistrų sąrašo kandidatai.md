@@ -23,6 +23,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-e4e2b8ee0a95deaba76c0bfc
+canonical_name: Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
+sameAs: []
+canonical_biography: '72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1. Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius. Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:39:42+00:00","source_checked_at":"2026-09-19T21:39:42+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -36,13 +45,6 @@ object_page_seo_description: 'Kiti priedo I vaitų ir burmistrų sąrašo kandid
 object_page_seo_input_hash: 897c95bab6f832a6f6f81fa4072ac322ff2fb3eb0d9c45e74e1a6e16d765b79c
 object_page_seo_generated_at: '2026-09-19T21:39:42+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-e4e2b8ee0a95deaba76c0bfc"
-canonical_name: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kiti priedo I vaitų ir burmistrų sąrašo kandidatai"]
-sameAs: []
-canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1. Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius. Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
 ---
 # Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 
@@ -170,25 +172,6 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   pagrindžia:
     - c-83333
 
-<a id="claim-t-87351"></a>
-- t-87351
-  teiginys: "Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu."
-  atnaujinta: "2026-09-20 00:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Motiejus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Motiejus Božiminskis paskirtas Vilniaus vaitu; kandidatuose yra tik bendras Motiejaus asmens puslapis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka cituojamą sąrašo informaciją."
-  pagrindžia:
-    - c-83333
-
 ## Citatos
 
 - id: c-83328
@@ -219,7 +202,7 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-83329
@@ -246,7 +229,7 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-83330
@@ -265,7 +248,7 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-83331
@@ -301,7 +284,7 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-83332
@@ -319,7 +302,7 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-83333
@@ -354,8 +337,6 @@ canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-007
-    - t-87351
-

@@ -84,7 +84,7 @@ Ingigerdą, galbūt rusnėnų kariūno Ingvaro dukrą, Sturlaugas išleido už F
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195517
@@ -104,6 +104,5 @@ Ingigerdą, galbūt rusnėnų kariūno Ingvaro dukrą, Sturlaugas išleido už F
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -61,6 +61,5 @@ Narbutas teigia, kad Belgorodo totoriai buvo poloviečių-lietuvių likučiai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

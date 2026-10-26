@@ -63,6 +63,5 @@ Gelonų gyvenimo būdas visiškai skiriasi nuo bu dinu5, kurie yra autochtonai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

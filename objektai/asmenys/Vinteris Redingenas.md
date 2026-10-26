@@ -66,6 +66,5 @@ Kryžiuotis Vinteris Redingenas žuvo būdamas puolėjų vadas, kai didysis magi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

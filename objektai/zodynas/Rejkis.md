@@ -152,7 +152,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -178,6 +178,5 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

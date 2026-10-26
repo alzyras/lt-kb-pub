@@ -104,6 +104,5 @@ Ji gavo herulišką pavadinimą — Vilkomiras1 2.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

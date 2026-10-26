@@ -80,7 +80,6 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-178020
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -96,11 +95,9 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
     nepakelia.
   citata_rodoma: "Čia geriama magaryčias tiek, kiek galva pakelia arba kiek nepakelia."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-e0f3764adeb82a86e0bbadab"
-canonical_name: "Komalek (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Komalek","Komalek (vieta)"]
+entity_id: ent-e0f3764adeb82a86e0bbadab
+canonical_name: Komalek (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Komalek
+  - Komalek (vieta)
 sameAs: []
-canonical_biography: "Kovalero, Komalek priešais Plovistą šiauri niame ežero pakraštyje."
-place_authority: true
-historical_names: []
+canonical_biography: 'Kovalero, Komalek priešais Plovistą šiauri niame ežero pakraštyje.'
 ---
 # Komalek (vieta)
 
@@ -69,6 +70,5 @@ Kovalero, Komalek priešais Plovistą šiauri niame ežero pakraštyje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

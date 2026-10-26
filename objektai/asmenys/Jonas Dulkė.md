@@ -31,13 +31,14 @@ canonical_biography: "Jonas Dulkė buvo iš Punkiškių kaimo ir žuvo 1946 m. g
 
 1946 m. gruodžio 1 d. partizanams apšaudžius MVD Šimonių valsčiaus operatyvinę grupę, žuvo keliu namo važiavęs Jonas Dulkė iš Punkiškių kaimo.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213059
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: '1946 m. gruodžio 1 d. partizanams apšaudžius MVD Šimonių valsčiaus operatyvinę grupę, žuvo keliu namo važiavęs Jonas Dulkė iš Punkiškių kaimo.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 211"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 211."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:37"

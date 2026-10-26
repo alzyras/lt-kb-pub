@@ -66,18 +66,3 @@ Terminas vartojamas kartu su poterių ir greito išėjimo aprašymu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195638"></a>
-- t-001
-  teiginys: "Apieravonė šiame šaltinyje yra trumpas išmaldos ar aukojimo veiksmas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178040
-

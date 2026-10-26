@@ -68,6 +68,5 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -78,6 +78,5 @@ canonical_biography: "Šklovo mūšyje taip pat dalyvavo ir kunigaikščio Jurij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

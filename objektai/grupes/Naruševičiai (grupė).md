@@ -68,6 +68,5 @@ Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK gimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

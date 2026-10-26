@@ -89,7 +89,7 @@ Magistras ir broliai 1233 metais Kvedino saloje pastatė Marienverderio pilį. M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-206111
@@ -110,6 +110,5 @@ Magistras ir broliai 1233 metais Kvedino saloje pastatė Marienverderio pilį. M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

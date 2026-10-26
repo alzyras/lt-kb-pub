@@ -62,6 +62,5 @@ Don Kichotas autoriaus pasakojimus apie pašalinius žmones aiškino priežodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

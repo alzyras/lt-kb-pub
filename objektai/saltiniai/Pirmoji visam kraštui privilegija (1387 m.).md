@@ -74,6 +74,5 @@ Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

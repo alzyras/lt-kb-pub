@@ -72,6 +72,5 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

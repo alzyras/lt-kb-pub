@@ -84,6 +84,5 @@ Teodoro Narbuto pasakojime Rygos arkivyskupas Jonas, Sveryno grafas, buvo įkali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -112,7 +112,6 @@ canonical_biography: "Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

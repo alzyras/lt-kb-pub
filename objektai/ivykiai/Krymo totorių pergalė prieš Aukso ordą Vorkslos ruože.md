@@ -79,10 +79,10 @@ Nenurodyta
   pagrindžia:
     - c-169983
 
-<a id="claim-t-210438"></a>
-- t-210438
+<a id="claim-t-186794"></a>
+- t-002
   teiginys: "Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje, o 1503 m. rudenį grįžo į LDK."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.83"
@@ -97,6 +97,8 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai sujungia pralaimėjimą, prieglobsčio paiešką ir 1503 m. rudens grįžimą į LDK. Nepridėta Kijevo ar Belgorodo detalė, nes ji nėra būtina šiam sakiniui."
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-169983
 
 ## Citatos
 
@@ -125,6 +127,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
+    - t-002

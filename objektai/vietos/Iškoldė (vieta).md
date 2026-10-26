@@ -107,6 +107,5 @@ Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

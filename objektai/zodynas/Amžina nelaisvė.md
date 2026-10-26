@@ -61,6 +61,5 @@ Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

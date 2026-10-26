@@ -72,6 +72,5 @@ Ta dobė tebsidaro dar šiandien daugioj vie toj moterys, gyvenančios Lietuvoj 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

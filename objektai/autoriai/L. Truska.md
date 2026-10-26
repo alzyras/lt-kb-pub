@@ -89,6 +89,5 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -76,6 +76,5 @@ Kaidanovo vietovardyje tikrai galėjo atsispindėti buvęs di delis mūšis su K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

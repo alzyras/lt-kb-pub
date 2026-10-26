@@ -57,6 +57,5 @@ Kaip upė, tekėdama per visą šalį, pagirdo žmones ir gyvulius, bet pati nei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

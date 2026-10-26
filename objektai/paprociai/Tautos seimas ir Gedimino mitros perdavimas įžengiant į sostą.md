@@ -83,6 +83,5 @@ Po Algirdo mirties, kaip aprašo Teodoras Narbutas, 1377 m. Vilniuje surengtame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

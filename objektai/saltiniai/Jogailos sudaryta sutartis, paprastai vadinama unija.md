@@ -76,6 +76,5 @@ Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

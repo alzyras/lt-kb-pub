@@ -90,6 +90,5 @@ Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -34,13 +34,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-2a39817b19170b0fb1eb44d2"
-canonical_name: "Obolenskis (vyskupas, XIX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Obolenskis","Obolenskis (vyskupas, XIX a.)"]
+entity_id: ent-2a39817b19170b0fb1eb44d2
+canonical_name: 'Obolenskis (vyskupas, XIX a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Obolenskis
+  - 'Obolenskis (vyskupas, XIX a.)'
 sameAs: []
-canonical_biography: "Obolenskis teigė, kad vysk. M. Valančius atkakliai ir sistemingai demokratizavo iš paprastos liaudies kilusių kunigų skaičių. Jau 1868.X.5 rašte Nr. 1927 Kauno guberna toriui Obolenskiui vyskupas įrodinėjo, kad Dievo žodžio skelbimas esanti pirmoji Bažnyčios pareiga. Todėl Kauno gubernatorius Obolenskis tos išimties nepripažino."
+canonical_biography: 'Obolenskis teigė, kad vysk. M. Valančius atkakliai ir sistemingai demokratizavo iš paprastos liaudies kilusių kunigų skaičių. Jau 1868.X.5 rašte Nr. 1927 Kauno guberna toriui Obolenskiui vyskupas įrodinėjo, kad Dievo žodžio skelbimas esanti pirmoji Bažnyčios pareiga. Todėl Kauno gubernatorius Obolenskis tos išimties nepripažino.'
 ---
 # Obolenskis (vyskupas, XIX a.)
 
@@ -151,7 +154,7 @@ canonical_biography: "Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191471
@@ -170,7 +173,7 @@ canonical_biography: "Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-191473
@@ -192,7 +195,7 @@ canonical_biography: "Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-191474
@@ -220,7 +223,7 @@ canonical_biography: "Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-191475
@@ -241,7 +244,7 @@ canonical_biography: "Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-191476
@@ -267,6 +270,5 @@ canonical_biography: "Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-

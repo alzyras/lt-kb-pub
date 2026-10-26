@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-1382d8f01135f0402d7f3f0c"
-canonical_name: "Neriškių miškas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Neriškių miškas"]
+entity_id: ent-1382d8f01135f0402d7f3f0c
+canonical_name: Neriškių miškas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Neriškių miškas
 sameAs: []
-canonical_biography: "Ji taip pat turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Neriškių miškas."
-place_authority: true
-historical_names: []
+canonical_biography: 'Ji taip pat turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Neriškių miškas.'
 ---
 # Neriškių miškas
 
@@ -66,6 +66,5 @@ Ji taip pat turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

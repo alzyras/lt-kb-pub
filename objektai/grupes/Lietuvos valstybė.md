@@ -55,6 +55,5 @@ Lietuvos valstybė buvo pagrindinė ir vadovaujanti jėga kovoje prieš Kryžiuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

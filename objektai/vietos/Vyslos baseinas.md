@@ -64,6 +64,5 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

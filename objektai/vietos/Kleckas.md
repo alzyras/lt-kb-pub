@@ -28,6 +28,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-3c6bc2e7782273e07b62291a
+canonical_name: Kleckas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kleckas
+sameAs: []
+canonical_biography: Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu. 1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius. Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Kleckas","url":"https://lt.wikipedia.org/wiki/Kleckas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:05:39+00:00","source_checked_at":"2026-09-19T23:05:39+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Klèckas (bltr. Клецк, Клецак; rus. Клецк) – miestas pietvakarinėje Baltarusijoje, Minsko srityje, 36 km į pietvakarius nuo Minsko, prie Pripetės intako Lanės upės. Klecko rajono centras. Per Klecką eina geležinkelis Baranovičiai–Mogiliavas. Vyrauja maisto (duonos, konservų, vyno, pieno, vaisių, daržovių), medienos apdirbimo ir baldų pramonė, pašarų gamyba.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"145468","revision_id":"7733505","status":"published","translation_status":"native","source":{"title":"Kleckas","url":"https://lt.wikipedia.org/wiki/Kleckas","publisher":"Vikipedija","language":"lt","article_id":"145468","revision_id":"7733505","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7733505","history_url":"https://lt.wikipedia.org/w/index.php?title=Kleckas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:02.393225+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"32d0f96067089c59ac07771f186ab158035465464f6ba9666df81925cf6e3d9e","version_pk":"0c8d28a8c9413cb546c1b3c07ebc3ea0"}},"source_buttons":[{"label":"Vikipedija","title":"Kleckas","url":"https://lt.wikipedia.org/wiki/Kleckas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kleckas"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -41,15 +52,6 @@ object_page_seo_description: 'Kleckas: Mykolas Glinskis ir Lietuvos kariuomenė 
 object_page_seo_input_hash: 73413569b0b2a19b268d275c3b9bfd495bccc3c8d37aa22f5d6d5a113c848de1
 object_page_seo_generated_at: '2026-09-19T23:05:39+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-3c6bc2e7782273e07b62291a"
-canonical_name: "Kleckas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kleckas"]
-sameAs: ["https://www.wikidata.org/entity/Q200937"]
-canonical_biography: "Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu. 1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius. Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti."
-place_authority: true
-historical_names: []
 ---
 # Kleckas
 
@@ -58,6 +60,32 @@ historical_names: []
 Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu. 1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius. Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.
 
 ## Teiginiai
+
+<a id="claim-t-195088"></a>
+- t-001
+  teiginys: "Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys pašalina religinį ir moralinį vertinimą, bet išlaiko pagrįstą faktą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; llm_object: Kleckas"
+  semantiniai_rysiai: "[[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]] keliavo į Kleckas; [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] keliavo į Kleckas"
+  temporaliniai_duomenys: "įvykio data: 1503 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pašalina religinį ir moralinį vertinimą, bet išlaiko pagrįstą faktą."
+  ryšio_patikimumas: "keliavo_i -> Kleckas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kleckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Lietuvos kariuomenė grįžo į stovyklą prie Klecko."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-177476
 
 <a id="claim-t-195089"></a>
 - t-002
@@ -136,18 +164,6 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   pagrindžia:
     - c-177471
 
-<a id="claim-t-210518"></a>
-- t-210518
-  teiginys: "Bychovco kronikos rankraščio tekstas nutrūksta pasakojant apie 1506 m. LDK kariuomenės mūšį su Krymo totoriais ties Klecku."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194205
-
 ## Citatos
 
 - id: c-177470
@@ -170,7 +186,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177471
@@ -202,7 +218,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-177472
@@ -224,7 +240,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-177473
@@ -245,7 +261,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-177475
@@ -268,7 +284,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-177476
@@ -293,6 +309,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177477
   autorius: "Michał Baliński"
@@ -331,30 +349,5 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-194205
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 11."
-  citata_originali: |
-    Svarbiausias Bychovco kronikos rankraščio trūku­
-    mas — tai pradžios ir pabaigos stoka. Tekstas praside­
-    da per vidurį nutrauktu sakiniu apie romėnų išgąstį dėl
-    Atilos vadovaujamų hunų įsiveržimo į Italiją: „[romė­
-    nai kurie] byli u tom miste, baczeczy tak welikuiu
-    šilu ludey ieho, byli ohorneny strachom welikim y
-    rozbehlisia z mesta", o baigiasi taip pat nutrauktu sa­
-    kiniu apie LDK kariuomenės mūšį su Krymo totoriais
-    ties Klecku 1506 m.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210518
-

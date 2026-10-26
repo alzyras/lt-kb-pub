@@ -7,6 +7,7 @@ variantai:
 aliases:
   - 'Palėvenėlė'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1892 m.'
@@ -46,10 +47,6 @@ historical_names: []
 
 Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasis kelio ruožas nuo Zuntės gatvės iki Palėvenėlės kaimo liko marių dugne, o vietoj jo buvo nutiestas naujas kelias. Vėžionys ribojosi su Iciūnų kaimo žemėmis, priklausiusiomis Palėvenėlės dvarui.
 
-## Santrauka
-
-Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasis kelio ruožas nuo Zuntės gatvės iki Palėvenėlės kaimo liko marių dugne, o vietoj jo buvo nutiestas naujas kelias. Vėžionys ribojosi su Iciūnų kaimo žemėmis, priklausiusiomis Palėvenėlės dvarui.
-
 ## Teiginiai
 
 <a id="claim-t-226119"></a>
@@ -70,7 +67,6 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 28 (PDF 29)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 28 (PDF 29)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,7 +79,6 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Senasis kelio ruožas ėjo nuo Zuntės gatvės iki Palėvenėlės kaimo.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 32 (PDF 33)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 32 (PDF 33)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,7 +91,6 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Vėžionys ribojosi su Iciūnų kaimo žemėmis, priklausiusiomis Palėvenėlės dvarui.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 148 (PDF 149)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 148 (PDF 149)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -116,7 +110,6 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Palėvenėlė įsikūrusi abipus kelio Kupiškis–Alizava, 7 km į šiaurę nuo Kupiškio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 779 (PDF 780)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 779 (PDF 780)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -126,7 +119,15 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   santrauka: 'Albina Žiūkienė (Katelytė), gim. 1892 m., Palėvenėlės vnk., užr.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 1008 (PDF 1009)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 1008 (PDF 1009)."
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad Subačiaus miestelio stribas Petras Masilionis buvo nušautas per susišaudymą netoli Palėvenėlės kaimo 1946 m. gruodį.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "p. 325-326 (PDF 326-327)"
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -143,6 +144,5 @@ Vienas tvenkinio pusiasalis yra už Palėvenėlės, prie Miliūnų kaimo. Senasi
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

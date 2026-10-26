@@ -90,6 +90,16 @@ Nenurodyta
   pagrindžia:
     - c-177803
 
+<a id="claim-t-195387"></a>
+- t-004
+  teiginys: "Po prikeltuvių griežikai apeidavo užstalę, o svečiai jiems duodavo pinigų."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177802
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -108,7 +118,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177802
@@ -124,6 +134,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 - id: c-177803
   autorius: "M. Katkus"
@@ -142,7 +154,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177804
@@ -158,6 +170,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

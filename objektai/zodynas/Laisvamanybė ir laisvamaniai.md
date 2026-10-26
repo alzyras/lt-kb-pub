@@ -91,12 +91,11 @@ Nenurodyta
     sipratimo ir dėl laisvamanybės.
   citata_rodoma: "Dr. Šliūpas visą\ngyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-\nsipratimo ir dėl laisvamanybės."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-00277
@@ -116,6 +115,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

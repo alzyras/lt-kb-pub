@@ -45,22 +45,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-215906"></a>
-- t-215906
-  teiginys: "T. Narbutas pasakoja, kad uždegus tokią žvakę atvykdavo žalčių karalius su roplių svita."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196268
-
-<a id="claim-t-217171"></a>
-- t-217171
+<a id="claim-t-189955"></a>
+- t-001
   teiginys: "Pasak Narbuto perteikiamo Jucevičiaus pasakojimo, lietuviai burtams naudodavo žalčio taukų žvakes, kurių liepsna esą prišaukdavo žalčių karalių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,6 +62,8 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žalčio taukų žvakių naudojimas burtams\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172838
 
 ## Citatos
 
@@ -95,28 +85,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-196268
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 479"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 479."
-  citata_originali: |
-    Lietuviai tam tikriems burtams naudodavo žvakes, paga­
-    mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­
-    čių karalius su visa didžiule roplių svita. Burtininkui visuomet į
-    naudą
-    išeidavo
-    šios
-    rūšies
-    fetišų
-    vartojimas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215906
-
+  pagrindzia:
+    - t-001

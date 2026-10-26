@@ -82,6 +82,5 @@ canonical_biography: "1935 m. gegužės 21–22 d. kitas JAV lietuvis, Feliksas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

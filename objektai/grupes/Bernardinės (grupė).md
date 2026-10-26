@@ -65,6 +65,5 @@ Kaune naujai besikuriančios vienuolės bernardinės supirko čia 8 miestiečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

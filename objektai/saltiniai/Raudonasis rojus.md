@@ -60,6 +60,5 @@ p. 235, Karikatūrų ir satyrų leidinys „Raudonasis rojus“ išleistas 1951 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

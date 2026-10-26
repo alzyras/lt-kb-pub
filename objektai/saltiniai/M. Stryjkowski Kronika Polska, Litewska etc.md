@@ -71,6 +71,5 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

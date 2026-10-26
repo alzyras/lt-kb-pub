@@ -18,6 +18,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-a9be46041e62933d6f3de580
+canonical_name: Ovidijus
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Ovidijus
+sameAs: []
+canonical_biography: 'Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertimą pateikė kaip bandymą kurti gryna lietuvių kalba. Narbutas nurodė, kad Eratostenas, Aristotelis, Strabonas ir Ovidijus kalbėjo apie vandens lygio kritimą. Ovidijus turėjo apaštalauti Gardino paviete, kur lietuviai gyvena, ir Trakų.'
 external_sources_json: '[{"title":"Ovidijus","url":"https://lt.wikipedia.org/wiki/Ovidijus","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Ovidijus","url":"https://www.vle.lt/straipsnis/ovidijus/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:12:21+00:00","source_checked_at":"2026-09-20T12:12:21+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Basė rašo, kad Ovidijus ketino vaizdingai papasakoti senovės istoriją. Jo Fajetonas (žemės gaisras) esąs tarp visko, kas pripažinta istoriškai, t. y. tarp Deukaliono pot­ vynio ir Kadmo kelionės į Europą.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","claim_id":"t-215160","evidence_id":"c-195046","origin":"internal"},"wiki":{"intro":"Publius Ovidius Naso (g. 43 m. pr. m. e. kovo 20 d. – m. 17 m. arba vėliau) – romėnų poetas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"14126","revision_id":"7169899","status":"published","translation_status":"native","source":{"title":"Ovidijus","url":"https://lt.wikipedia.org/wiki/Ovidijus","publisher":"Vikipedija","language":"lt","article_id":"14126","revision_id":"7169899","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7169899","history_url":"https://lt.wikipedia.org/w/index.php?title=Ovidijus&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:12:46.898752+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"7610622eb9460e599a8089992b9e92aff2756c8358ccc9f7bb552a9390b1434f","version_pk":"7d701cad439c398b573297f52d6fc5cf"}},"source_buttons":[{"label":"Vikipedija","title":"Ovidijus","url":"https://lt.wikipedia.org/wiki/Ovidijus","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Ovidijus","url":"https://www.vle.lt/straipsnis/ovidijus/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ovidijus","https://www.vle.lt/straipsnis/ovidijus/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0eee30f854199725d0fe78e5","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Ketino vaizdingai papasakoti senovės istoriją.","context":"Basė taip rašo apie Ovidijaus sumanymą; tai pateikta Teodoro Narbuto 1995 m. veikale, aptariant Ovidijaus „Fajetoną“ ir senovės istorijos laikotarpį.","support_ids":["t-215160","c-195046"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215160","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195046","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Basė rašo, kad Ovidijus ketino vaizdingai papasakoti senovės istoriją. Jo Fajetonas (žemės gaisras) esąs tarp visko, kas pripažinta istoriškai, t. y. tarp Deukaliono pot­ vynio ir Kadmo kelionės į Europą."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Ovidijus – autorius, kurio pėdsakai pateiktuose šaltiniuose siejami su senovės pasaulio geografijos ir istorijos aiškinimais. Teodoras Narbutas nurodo, kad Ovidijus Eridaną vadino didžiausia upe, taip pat mini jį tarp autorių, kalbėjusių apie vandens lygio kritimą. Pasak Basės, Ovidijus ketino vaizdingai papasakoti senovės istoriją, o jo pasakojimas apie Fajetoną siejamas su laikotarpiu tarp Deukaliono tvano ir Kadmo kelionės į Europą. Narbutas taip pat pateikia Ksavero Bogušo išverstą „Metamorfozių“ II knygos 1–30 eilučių fragmentą kaip bandymą kurti gryna lietuvių kalba ir tiksliai perteikti originalo metrą. Pateiktuose duomenyse nėra patikimai nurodyto Ovidijaus gyvenimo laikotarpio ar vietos, todėl platesnė biografinė santrauka negalima.","sentences":[{"sentence_id":"s1","text":"Ovidijus – autorius, kurio pėdsakai pateiktuose šaltiniuose siejami su senovės pasaulio geografijos ir istorijos aiškinimais.","support_ids":["t-212359","c-196529","t-215160","c-195046"]},{"sentence_id":"s2","text":"Teodoras Narbutas nurodo, kad Ovidijus Eridaną vadino didžiausia upe, taip pat mini jį tarp autorių, kalbėjusių apie vandens lygio kritimą.","support_ids":["t-212359","c-196529","t-213713","c-196862"]},{"sentence_id":"s3","text":"Pasak Basės, Ovidijus ketino vaizdingai papasakoti senovės istoriją, o jo pasakojimas apie Fajetoną siejamas su laikotarpiu tarp Deukaliono tvano ir Kadmo kelionės į Europą.","support_ids":["t-215160","c-195046"]},{"sentence_id":"s4","text":"Narbutas taip pat pateikia Ksavero Bogušo išverstą „Metamorfozių“ II knygos 1–30 eilučių fragmentą kaip bandymą kurti gryna lietuvių kalba ir tiksliai perteikti originalo metrą.","support_ids":["t-217697","c-200091"]},{"sentence_id":"s5","text":"Pateiktuose duomenyse nėra patikimai nurodyto Ovidijaus gyvenimo laikotarpio ar vietos, todėl platesnė biografinė santrauka negalima.","support_ids":[]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai sieja Ovidijų su Eridanu ir senovės istorijos aiškinimu."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai nurodo abu teiginius apie Eridaną ir vandens lygio kritimą."},{"sentence_id":"s3","supported":true,"reason":"Basės teiginys ir laikotarpio ribos tiesiogiai pateikti cituojamame šaltinyje."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo Bogušo vertimą, lietuvių kalbą ir originalo metro perteikimą; Narbuto vaidmuo patvirtintas atitinkamu claim."},{"sentence_id":"s5","supported":false,"reason":"Sakinys neturi support_ids, todėl jo teiginys apie patikimos biografinės informacijos nebuvimą nėra tiesiogiai paremtas pateiktais įrodymais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-212359","c-196529","t-215160","c-195046"]},{"sentence_id":"s2","supported":true,"support_ids":["t-212359","c-196529","t-213713","c-196862"]},{"sentence_id":"s3","supported":true,"support_ids":["t-215160","c-195046"]},{"sentence_id":"s4","supported":true,"support_ids":["t-217697","c-200091"]},{"sentence_id":"s5","supported":false,"support_ids":[]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
 object_page_finisher: 'true'
@@ -31,13 +41,6 @@ object_page_seo_description: 'Ovidijus – autorius, kurio pėdsakai pateiktuose
 object_page_seo_input_hash: 4bac72fdf81849381532b8a5f47acc256a3041ae98a034f153656b9fe820a957
 object_page_seo_generated_at: '2026-09-20T12:12:21+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-a9be46041e62933d6f3de580"
-canonical_name: "Ovidijus"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Ovidijus"]
-sameAs: ["https://www.wikidata.org/entity/Q7198"]
-canonical_biography: "Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertimą pateikė kaip bandymą kurti gryna lietuvių kalba. Narbutas nurodė, kad Eratostenas, Aristotelis, Strabonas ir Ovidijus kalbėjo apie vandens lygio kritimą. Ovidijus turėjo apaštalauti Gardino paviete, kur lietuviai gyvena, ir Trakų."
 ---
 # Ovidijus
 
@@ -87,41 +90,17 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   pagrindžia:
     - c-174783
 
-<a id="claim-t-212359"></a>
-- t-212359
-  teiginys: "Ovidijus Eridaną vadina didžiausia upe;."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196529
-
-<a id="claim-t-215160"></a>
-- t-215160
-  teiginys: "Basė rašo, kad Ovidijus ketino vaizdingai papasakoti senovės istoriją."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195046
-
-<a id="claim-t-216860"></a>
-- t-216860
-  teiginys: "Ovidijaus „Metamorfozių“ fragmentas (II knygos 1-30 ei lutės), kurį išvertė Ksaveras Bogušas, tiksliai perteikdamas ori ginalo eilių metrą."
-  atnaujinta: "2026-09-20 15:12"
+<a id="claim-t-197327"></a>
+- t-003
+  teiginys: "Ovidijus turėjo apaštalauti Gardino paviete, kur lietuviai gyvena, ir Trakų."
+  atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-200091
+    - c-179133
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -171,7 +150,7 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-174783
@@ -203,7 +182,7 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-179133
@@ -228,86 +207,5 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195046
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 332"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 332."
-  citata_originali: |
-    Basė rašo, kad Ovidijus ketino vaizdingai papasakoti
-    senovės istoriją. Jo Fajetonas (žemės gaisras) esąs tarp
-    visko, kas pripažinta istoriškai, t. y. tarp Deukaliono pot­
-    vynio ir Kadmo kelionės į Europą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215160
-
-- id: c-196529
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 153."
-  citata_originali: |
-    Ovidijus Eridaną vadina didžiausia upe;
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212359
-
-- id: c-199789
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 453"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
-  citata_originali: |
-    Jeronimas įtikino, kad tai apgavystė, sugriovė
-    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
-    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
-    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
-    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
-    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
-    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
-    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
-    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
-    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
-    no paviete, kur lietuviai gyvena, ir Trakų.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200091
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 449"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
-  citata_originali: |
-    Donu musu wisudienu dok mums szinderi, ir atlajsk mus musu
-    kalties, keip ir mes atlaudziem sawiemis kahiemìs; ir ne wesk
-    mus in pagundima, bet ižgialbek mus no pikta.
-    Bandymas kurti gryna lietuvių kalba:
-    Ovidijaus „Metamorfozių“ fragmentas (II knygos 1-30 ei­
-    lutės), kurį išvertė Ksaveras Bogušas, tiksliai perteikdamas ori­
-    ginalo eilių metrą. Čia ir skambumas, ilgumas, ir tas kerintis
-    kalbos grožis, kurio nesugebėtų pamėgdžioti jokia iš dabar gy­
-    vuojančių Europos kalbų .
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216860
-
+  pagrindzia:
+    - t-003

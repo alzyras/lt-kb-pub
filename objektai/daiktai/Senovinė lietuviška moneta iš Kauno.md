@@ -86,7 +86,7 @@ Prie Kauno rastoje monetoje vienoje pusėje pavaizduoti Gediminaičių Stulpai i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-201108
@@ -106,6 +106,5 @@ Prie Kauno rastoje monetoje vienoje pusėje pavaizduoti Gediminaičių Stulpai i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

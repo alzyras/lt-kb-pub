@@ -84,6 +84,15 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   pagrindžia:
     - c-55841
 
+<a id="claim-t-55241"></a>
+- t-003
+  teiginys: "Akademijos visuotinių iškilmių salės aukštis buvo sulig trimis aukštais."
+  atnaujinta: "2026-05-31 12:00"
+  sprendimo_priezastis: "gap::places"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55842
+
 <a id="claim-t-83113"></a>
 - t-004
   teiginys: "Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus."
@@ -128,7 +137,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-55841
@@ -149,7 +158,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-55842
@@ -173,6 +182,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-79508
   autorius: "Michał Baliński"
@@ -202,6 +213,5 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-

@@ -86,7 +86,6 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

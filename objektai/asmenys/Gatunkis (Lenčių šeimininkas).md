@@ -101,7 +101,7 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
@@ -119,11 +119,9 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
     įrankių šipinimą, tik nuo to laiko nedraudė man stalioriauti.
   citata_rodoma: "Nieko į tai neatsakė: nei pagyrė už branktus nei barė už įrankių šipinimą, tik nuo to laiko nedraudė man stalioriauti."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

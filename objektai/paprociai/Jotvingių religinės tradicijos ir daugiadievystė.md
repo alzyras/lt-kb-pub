@@ -73,6 +73,5 @@ Gal todėl, kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai čiuojamą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

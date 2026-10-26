@@ -91,7 +91,7 @@ Anot Teodoro Narbuto, Mindaugo pasiuntiniai Livonijoje su turtingomis dovanomis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188554
@@ -118,6 +118,5 @@ Anot Teodoro Narbuto, Mindaugo pasiuntiniai Livonijoje su turtingomis dovanomis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

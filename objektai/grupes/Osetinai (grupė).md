@@ -47,7 +47,7 @@ media_all_json: '[]'
 <a id="claim-t-212968"></a>
 - t-212968
   teiginys: "Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai osetinai, ištirti mokslininko, senovės istoriko pono Klaproto, kuris veikale „Asia Polyglotta“ pateikia osetinų kalbos žo dyną, kuriame nerandame nieko, ką galima būtų vadinti panašumu į lietuvių kalbą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

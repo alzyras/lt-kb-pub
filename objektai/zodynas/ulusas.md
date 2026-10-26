@@ -73,6 +73,5 @@ Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

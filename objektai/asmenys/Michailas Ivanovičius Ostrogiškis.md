@@ -22,13 +22,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-a9c56283c56becefcb4c035e"
-canonical_name: "Michailas Ivanovičius Ostrogiškis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Michailas Ivanovičius Ostrogiškis"]
+entity_id: ent-a9c56283c56becefcb4c035e
+canonical_name: Michailas Ivanovičius Ostrogiškis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Michailas Ivanovičius Ostrogiškis
 sameAs: []
-canonical_biography: "Michailas Ivanovičius Ostrogiškis buvo Lucko seniūnas ir Volynės žemės maršalas."
+canonical_biography: Michailas Ivanovičius Ostrogiškis buvo Lucko seniūnas ir Volynės žemės maršalas.
 ---
 # Michailas Ivanovičius Ostrogiškis
 
@@ -71,6 +73,5 @@ Michailas Ivanovičius Ostrogiškis buvo Lucko seniūnas ir Volynės žemės mar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

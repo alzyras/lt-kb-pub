@@ -106,19 +106,6 @@ Nenurodyta
   pagrindžia:
     - c-179091
 
-<a id="claim-t-219770"></a>
-- t-219770
-  teiginys: "Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio ir prašo visų dievų, kiekvieno atskirai, kuriuos pirmiau išvar dijau, idant maloningai teiktųsi priimti tos šventės apeigą li auką."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-198645
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio ir prašo visų dievų, kiekvieno atskirai, kuriuos pirmiau išvar dijau, idant maloningai teiktųsi priimti tos šventės apeigą li auką.'
@@ -165,7 +152,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-172653
@@ -188,7 +175,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-179091
@@ -209,71 +196,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-198645
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 312"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 312."
-  citata_originali: |
-    Grunau, rašęs savo
-    kroniką apie 1520 metus, pasakoja, kaip savo akimis matęs
-    liudytojas, kadangi jo laikais prūsai kaimiečiai dar slapčia at­
-    likdavo kai kurias stabmeldiškas apeigas. Pasak jo, vaidila, at­
-    sisėdęs ant kokios pakylos, kaip iš sakyklos bylodavo žmonėms
-    apie senąją tautos kilmę, garsių didvyrių žygius ir jų dorybes,
-    toliau apie dievų įsakymus, ko jie reikalaują iš žmonių. Paskui
-    buvo dedamos rankos ant ožio galvos, ir toliau apeigos vykda­
-    vo taip, kaip Strijkovskio aprašyta.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219770
-
-- id: c-199421
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 313"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 313."
-  citata_originali: |
-    Išlaidos būdavo didelės, nes auko­
-    davo daugybę dalykų. Žinome, kad per panašias apeigas skam­
-    bėdavo lietuviška muzika. Venecijos pasiuntinys Kantorinis
-    (Kantoriui) Bergerono kelionių aprašymuose duoda tam tikrą
-    supratimą apie tą muziką, susidedančią iš katilų, būgnų, tri­
-    mitų, ragų, dūdelių; apie tas aukas galime tik spėlioti, nes duo­
-    menų apie jas neišliko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200921
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 311"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
-  citata_originali: |
-    3. Metinė sumestinė auka buvo atnašaujama per šventes,
-    švęstas baigiantis metams. Cituojame Strijkovskį: „Ketvertas
-    arba šešetas kaimų sueina į vieną vietą, susirenka arba tary­
-    tum prisikalėdoja pinigų, duonos ir kitų gėrybių; jas pardavę,
-    jeigu bus gavę daug pinigų, tuojau už tuos pinigus perka jautį
-    ir ožį, sueina į vieną namą, kur užkuria didelę ugnį; ten pat jų
-    žmonos supila kvietinius ir grikių miltus, iš kurių pridaro pa­
-    plotėlių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

@@ -80,6 +80,5 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -31,42 +31,23 @@ canonical_biography: "Povilas Labakojis gyveno Užubalių kaime, Subačiaus vals
 
 Povilas Labakojis, partizanų būrio vadas, slapyvardžiais Žaibas ir Žaibutis, gimė 1918 m. ir gyveno Užubalių kaime, Subačiaus valsčiuje. Mataušas Birbilas gyveno Užubalių kaime, Subačiaus valsčiuje.
 
-## Teiginiai
-
-<a id="claim-t-230869"></a>
-- t-001
-  teiginys: "Mataušas Birbilas gyveno Užubalių kaime, Subačiaus valsčiuje."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  pagrindžia:
-    - c-211507
-
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Povilas Labakojis, partizanų būrio vadas, slapyvardžiais Žaibas ir Žaibutis, gimė 1918 m. ir gyveno Užubalių kaime, Subačiaus valsčiuje.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 63"
-  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 63."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-## Citatos
-
-- id: c-211507
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-002
+  santrauka: 'Mataušas Birbilas gyveno Užubalių kaime, Subačiaus valsčiuje.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 63"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 63."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-001
-

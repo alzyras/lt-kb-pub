@@ -74,6 +74,5 @@ Keturiomis kolonomis, kurių kiekvienoje buvo mažiausiai po 4 000 ginkluotų ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

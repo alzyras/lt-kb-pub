@@ -30,22 +30,10 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
 
 ## Teiginiai
 
-<a id="claim-t-200920"></a>
-- t-002
-  teiginys: "Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getais, juo į šiaurę einant, vadinos tyragetais, tai yra gyventojai tyrų, kaipogi tenai nė kokio medžio nebuvo, bet vieni tyri lau kai, kurie šiandien dar pietinėj Padalijo j ir Ukrainoj."
-  atnaujinta: "2026-07-16 14:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184270
-
-<a id="claim-t-212600"></a>
-- t-212600
+<a id="claim-t-192938"></a>
+- t-001
   teiginys: "Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,6 +48,20 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   semantiniai_rysiai: "Getai gyveno Isteris (0.90)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175708
+
+<a id="claim-t-200920"></a>
+- t-002
+  teiginys: "Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getais, juo į šiaurę einant, vadinos tyragetais, tai yra gyventojai tyrų, kaipogi tenai nė kokio medžio nebuvo, bet vieni tyri lau kai, kurie šiandien dar pietinėj Padalijo j ir Ukrainoj."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184270
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -128,6 +130,8 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-184270
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -152,7 +156,7 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai

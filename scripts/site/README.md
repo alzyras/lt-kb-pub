@@ -3,8 +3,9 @@
 `npm run build` yra standartinis public build kelias: pagal nutylėjimą jis
 naudoja `auto`, o priverstinį pilną build atlieka `npm run build -- --full`.
 Šis public repo runneris naudoja jau eksportuotus failus ir neprijungia
-privačios SQLite duomenų bazės. End-to-end projekciją iš DB pradėkite viena
-komanda iš `lt-kb` repo:
+privačios PostgreSQL duomenų bazės. End-to-end projekciją iš DB
+pradėkite komanda iš `lt-kb` repo; projekcija skaitoma iš
+`lithuanianhistory.workflow` PostgreSQL schemos:
 
 ```sh
 uv run lt-kb site regenerate

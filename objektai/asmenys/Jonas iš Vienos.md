@@ -36,20 +36,10 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 
 ## Teiginiai
 
-<a id="claim-t-221741"></a>
-- t-221741
-  teiginys: "Kiti išbėgiojo, ir kurie ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei pavalgyti, tik vienas kitas išsigelbėjo nuo žūties."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-221696"></a>
-- t-221696
+<a id="claim-t-60348"></a>
+- t-001
   teiginys: "Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Lietuva: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -60,6 +50,8 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   ryšio_paaiskinimas: "Išplaukimas Lietuvos link tiesiogiai rodo kelionę Lietuvos kryptimi."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Jonas iš Vienos keliavo į Lietuva (0.88)"
+  pagrindžia:
+    - c-60980
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,4 +95,5 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

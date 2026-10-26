@@ -83,6 +83,5 @@ Po Klemenso V vainikavimo prie Liono sugriuvusi siena pražudė daug žmonių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

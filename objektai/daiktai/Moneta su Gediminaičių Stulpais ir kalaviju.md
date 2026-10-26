@@ -79,6 +79,5 @@ Moneta buvo rasta 1841 metais kapavietėje prie Druskininkų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

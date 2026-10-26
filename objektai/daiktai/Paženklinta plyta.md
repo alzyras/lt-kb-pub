@@ -66,10 +66,10 @@ Nenurodyta
   pagrindžia:
     - c-56405
 
-<a id="claim-t-209955"></a>
-- t-209955
+<a id="claim-t-08313"></a>
+- t-002
   teiginys: "Paskuojoji plyta turėjo dvikežį skersį, o ženklas buvo siunčiamas didžiajam kunigaikščiui."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
@@ -80,6 +80,8 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paženklinta plyta\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-10268
 
 ## Citatos
 
@@ -101,6 +103,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-56405
   autorius: "Simonas Daukantas"
@@ -127,6 +131,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

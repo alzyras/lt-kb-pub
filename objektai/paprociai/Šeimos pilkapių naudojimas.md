@@ -69,7 +69,7 @@ Kai kurie pilkapiai būdavo naudojami kaip visos šeimos kapai, iš anksto numat
 <a id="claim-t-218604"></a>
 - t-001
   teiginys: "Kai kurie pilkapiai būdavo naudojami kaip visos šeimos kapai, iš anksto numatant vietas vėliau mirsiantiems šeimos nariams."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

@@ -97,7 +97,6 @@ Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsėjo 17 d. pirm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

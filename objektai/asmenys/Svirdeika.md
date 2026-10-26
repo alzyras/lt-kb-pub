@@ -98,7 +98,7 @@ canonical_biography: "„[...] Švenčiausios trejybės švenčių išvakarėse 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189010
@@ -120,7 +120,7 @@ canonical_biography: "„[...] Švenčiausios trejybės švenčių išvakarėse 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai

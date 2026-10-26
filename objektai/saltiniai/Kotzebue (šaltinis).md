@@ -59,6 +59,5 @@ Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

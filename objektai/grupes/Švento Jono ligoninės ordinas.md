@@ -78,6 +78,5 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

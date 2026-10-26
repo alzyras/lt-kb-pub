@@ -49,23 +49,10 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   pagrindžia:
     - c-172372
 
-<a id="claim-t-194605"></a>
-- t-003
-  teiginys: "Dėl to susiklostė nuomonė, kad šventasis Steponas išra dęs šį raidyną XI amžiuje, bet reikia patikslinti, kad jis jį su tvarkė pagal rusų abėcėlę ir ėmė rašyti šiaurės slavų tarme, idant čiabuviai galėtų suprasti iš rašto Dievo tiesas, kurias, ma tyt, jau."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177004
-
-<a id="claim-t-218075"></a>
-- t-218075
+<a id="claim-t-189485"></a>
+- t-002
   teiginys: "Narbutas biarmius, arba permius, laikė atskira didelės šiaurės slavų šeimos šaka pagal kalbos, papročių ir fizionomijos skirtumus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,6 +66,21 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaurės slavai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172373
+
+<a id="claim-t-194605"></a>
+- t-003
+  teiginys: "Dėl to susiklostė nuomonė, kad šventasis Steponas išra dęs šį raidyną XI amžiuje, bet reikia patikslinti, kad jis jį su tvarkė pagal rusų abėcėlę ir ėmė rašyti šiaurės slavų tarme, idant čiabuviai galėtų suprasti iš rašto Dievo tiesas, kurias, ma tyt, jau."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177004
 
 ## Citatos
 
@@ -101,7 +103,7 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-172373
@@ -125,6 +127,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-177004
   autorius: "Teodoras Narbutas"
@@ -147,29 +151,5 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-201257
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 435"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
-  citata_originali: |
-    Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
-    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
-    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
-    Dėl to susiklostė nuomonė, kad šventasis Steponas išra­
-    dęs šį raidyną XI amžiuje, bet reikia patikslinti, kad jis jį su­
-    tvarkė pagal rusų abėcėlę ir ėmė rašyti šiaurės slavų tarme,
-    idant čiabuviai galėtų suprasti iš rašto Dievo tiesas, kurias, ma­
-    tyt, jau pažino. Mat jeigu biarmiečiai nebūtų turėję savo rai­
-    dyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir
-    slavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

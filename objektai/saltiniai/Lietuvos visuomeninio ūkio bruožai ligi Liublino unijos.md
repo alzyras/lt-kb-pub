@@ -69,6 +69,5 @@ Rim. = Rimka, A., Lietuvos visuomeninio ūkio bruožai ligi Liublino unijos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

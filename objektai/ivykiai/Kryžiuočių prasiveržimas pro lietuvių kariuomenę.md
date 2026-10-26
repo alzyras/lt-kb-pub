@@ -68,6 +68,5 @@ Dusburgietis teigia, kad broliai, padedami Jėzaus Kristaus, sėkmingai prasiver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

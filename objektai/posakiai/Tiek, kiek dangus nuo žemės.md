@@ -58,6 +58,5 @@ Vadinasi, Gero upė nutoltų nuo sa vo vietos tiek, kiek dangus nuo žemės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

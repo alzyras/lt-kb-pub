@@ -72,6 +72,5 @@ canonical_biography: "Įvadinis tekstas Vilhelmą Robertsoną priskiria žymiaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

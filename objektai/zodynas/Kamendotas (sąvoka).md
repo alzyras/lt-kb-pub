@@ -88,7 +88,7 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184534
@@ -113,7 +113,7 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184535
@@ -135,6 +135,5 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

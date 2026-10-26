@@ -181,7 +181,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
     - t-006
@@ -208,7 +208,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-91763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -227,7 +226,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-91764
@@ -252,7 +251,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -277,6 +276,5 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

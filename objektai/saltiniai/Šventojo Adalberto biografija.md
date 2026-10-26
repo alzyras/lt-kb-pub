@@ -58,6 +58,5 @@ Biografijoje pasakojama, kad Fišhauzeno apylinkėse prūsams užpuolus Adalbert
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

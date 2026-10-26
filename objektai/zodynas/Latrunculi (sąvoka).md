@@ -68,11 +68,9 @@ Teodoras Narbutas nurodo, kad Dusburgietis nenaudėliais (latrunculi) vadino ma�
     lykų, dažnai būdami visiškai saugūs.
   citata_rodoma: "Žygiai būdavo dvejopi: į vienus eidavo maži būriai ryž­\ntingų, prie sunkumų pratusių karių, taip sakant, plėšikų \niš pašaukimo, kuriuos Dusburgietis vadina nenaudėliais \n(latrunculi). Jie aklai rizikuodami braudavosi į girias, \ntykodavo grobio iš pasalų, užpuldavo tokiose vietose, ku­\nriose turėjo galimybių laimėti, iškrėsdavo baisiausių da­\nlykų, dažnai būdami visiškai saugūs."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-12 08:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -65,6 +65,5 @@ Jį kartu su kitais valstybiniais mokesčiais po 1569 m. Liublino unijos skelbda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -33,6 +33,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-5b97e50cb1b761cb43cf0c54
+canonical_name: Narevas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Narevas
+sameAs: []
+canonical_biography: 'Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Narevas","url":"https://www.vle.lt/straipsnis/narevas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:01:48+00:00","source_checked_at":"2026-09-19T17:01:48+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Narevas, Narvė arba Naura (lenk. Narew, bltr. Нараў, Narav, ukr. Нарва, Narva) – upė Baltarusijos vakaruose ir Lenkijos šiaurės rytuose; dešinysis Vyslos intakas (tačiau dalyje šaltinių nurodoma kaip Vakarinio Bugo intakas). Prasideda Baltarusijoje, Belovežo girioje. Upės ilgis 484 km iš kurių Lenkijos teritorijoje upė teka 448 km, Baltarusijoje – 36 km, 1 km upė teka per valstybės sieną. Upės baseino plotas 75,200 km² iš kurių 21,302 km² yra Baltarusijoje ir 53,873 km² Lenkijoje. Upė teka Šiaurinės Palenkės ir Šiaurinės Mazovijos žemumose, Narevo aukštupio slėniu ir Narevo žemupio slėniu. Nuo Suražo iki Žendzianų tęsiasi Narevo nacionalinis parkas. 1994 m. įkurtas Lomžos Narevo upės slėnio kraštovaizdžio parkas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"110968","revision_id":"7772133","status":"published","translation_status":"native","source":{"title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","publisher":"Vikipedija","language":"lt","article_id":"110968","revision_id":"7772133","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7772133","history_url":"https://lt.wikipedia.org/w/index.php?title=Narevas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:21.156383+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"14fbf380bf1c7e894b56593436bd01b352a07f75da41f9ee09ca08313bf2e637","version_pk":"0aeb79ebc060ba75a7e047e1bb53151b"}},"source_buttons":[{"label":"Vikipedija","title":"Narevas","url":"https://lt.wikipedia.org/wiki/Narevas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Narevas","url":"https://www.vle.lt/straipsnis/narevas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Narevas","https://www.vle.lt/straipsnis/narevas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -46,15 +57,6 @@ object_page_seo_description: 'Narevas: Būtent čia, prie Bugo ir Narevo, susifo
 object_page_seo_input_hash: 520c3875950718467eaebd4aefb471f9a7fa404d3f3250e415f3b2c477240aa1
 object_page_seo_generated_at: '2026-09-19T17:01:48+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-5b97e50cb1b761cb43cf0c54"
-canonical_name: "Narevas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Narevas"]
-sameAs: ["https://www.wikidata.org/entity/Q60055"]
-canonical_biography: "Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską."
-place_authority: true
-historical_names: []
 ---
 # Narevas
 
@@ -176,55 +178,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   pagrindžia:
     - c-184982
 
-<a id="claim-t-207598"></a>
-- t-207598
-  teiginys: "Prie Bugo ir Narevo susiformavo pagrindinis LDK javų ūkis, aprūpinęs grūdais pagrindinį Europos duonos uostą Gdanską."
-  atnaujinta: "2026-09-19 20:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190215
-
-<a id="claim-t-213201"></a>
-- t-213201
-  teiginys: "1264 metais jotvingiai buvo sutriuškinti Polesėje tarp Bugo ir Narevo."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197546
-
-<a id="claim-t-215195"></a>
-- t-215195
-  teiginys: "Vėliau, VI amžiaus pradžioje, plačiai išplitę dešiniojoje Vyslos pakrantėje slavai, užėmę budinu kraštus (tai tei gia ponas Suroveckis1), galėjo visiškai išstumti ir ga lindus iš Nemuno vidurupio net už Narevo, o po to nuvyti juos į čia mūsų aptariamos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196293
-
-<a id="claim-t-215310"></a>
-- t-215310
-  teiginys: "Narevo upės pakrantėse buvo randama gražių gintaro egzempliorių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194792
-
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link.'
@@ -263,7 +216,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-159520
@@ -287,7 +240,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168420
@@ -308,7 +261,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-175472
@@ -332,7 +285,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-175473
@@ -354,7 +307,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-184982
@@ -373,105 +326,5 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-190215
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 112"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 112."
-  citata_originali: |
-    Taigi svarbiausias politinio lietuvių elito vaidmuo stačiatikiškoje kultūroje yra tas, kad
-    jie buvo šios kultūros užsakovai. Vakarinė LDK dalis – tarp Vilniaus ir Lucko – buvo ne
-    tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs reziden-
-    cijas didikai. Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis,
-    aprūpinęs grūdais pagrindinį Europos duonos uostą – Gdanską.
-  citata_rodoma: "Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, \naprūpinęs grūdais pagrindinį Europos duonos uostą – Gdanską."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207598
-
-- id: c-194792
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
-  citata_originali: |
-    o tais laikais
-    itin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­
-    krantėse
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215310
-
-- id: c-196293
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 266"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
-  citata_originali: |
-    Vėliau, VI amžiaus pradžioje, plačiai išplitę dešiniojoje
-    Vyslos pakrantėje slavai, užėmę budinu kraštus (tai tei­
-    gia ponas Suroveckis1), galėjo visiškai išstumti ir ga­
-    lindus iš Nemuno vidurupio net už Narevo, o po to nuvyti
-    juos į čia mūsų aptariamos provincijos teritoriją.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215195
-
-- id: c-196443
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
-  citata_originali: |
-    Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
-    to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
-    pražūties užuomazgą, nes savo užpuolimais galutinai įer­
-    zino lenkus, kurie, Lešeko Juodojo vadovaujami, 1282 me­
-    tais prie Narevo įvykdė tai, ką jotvingiams skyrė nelai­
-    minga lemtis: jie visi buvo užklupti prie garsėjusios dau­
-    geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai
-    paniekino nelaisvę ir leidosi visi iškapojami.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197546
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
-  citata_originali: |
-    Jis su didžiule ka­
-    riuomene prie Zavichosto persikėlė per Vyslą įr įsiveržė
-    į patį Polesės vidurį, kažkur tarp Bugo ir Narevo su­
-    spaudęs jotvingius, birželio 23 dieną visiškai juos sutriuš­
-    kino.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213201
-

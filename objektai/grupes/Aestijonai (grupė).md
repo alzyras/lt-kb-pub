@@ -68,6 +68,5 @@ Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

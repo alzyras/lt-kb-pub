@@ -104,7 +104,7 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184821
@@ -122,7 +122,7 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185854
@@ -133,6 +133,5 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
+  pagrindzia:
     - t-003
-

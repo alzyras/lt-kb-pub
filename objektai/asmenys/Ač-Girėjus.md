@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-23c8300750f218c481c1ae34"
-canonical_name: "Ač-Girėjus"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Ač-Girėjus"]
+entity_id: ent-23c8300750f218c481c1ae34
+canonical_name: Ač-Girėjus
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Ač-Girėjus
 sameAs: []
-canonical_biography: "Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap dovanojęs tą chaną Ač-Girėjų, išsiuntė su iškilminga palyda iš Lydos į Perekopo ordą viešpatauti. Ač-Girėjus buvo iš Ordos į Lietuvą atsikėlęs chanas."
+canonical_biography: 'Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap dovanojęs tą chaną Ač-Girėjų, išsiuntė su iškilminga palyda iš Lydos į Perekopo ordą viešpatauti. Ač-Girėjus buvo iš Ordos į Lietuvą atsikėlęs chanas.'
 ---
 # Ač-Girėjus
 
@@ -63,7 +65,7 @@ Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap dovanojęs tą chaną Ač-G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-194044
@@ -81,4 +83,3 @@ Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap dovanojęs tą chaną Ač-G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

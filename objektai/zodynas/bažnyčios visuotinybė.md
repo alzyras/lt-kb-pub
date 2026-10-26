@@ -79,6 +79,5 @@ Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmoni�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

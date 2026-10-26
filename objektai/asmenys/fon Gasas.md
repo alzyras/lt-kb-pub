@@ -77,6 +77,5 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -79,6 +79,5 @@ Paskui šnibždėdamas apeina aplink jau tį, papjauna jį, o kraujo neišlaisto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

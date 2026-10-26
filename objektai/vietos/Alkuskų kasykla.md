@@ -71,6 +71,5 @@ Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

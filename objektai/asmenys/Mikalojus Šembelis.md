@@ -70,6 +70,5 @@ canonical_biography: "1554 m. Žygimanto Augusto nurodymu Kauno muitinės laikyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

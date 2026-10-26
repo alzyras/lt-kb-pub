@@ -70,6 +70,5 @@ Skiriai ir sudargai pradėjo kurtis Mažojoje Skitijoje ir Žemutinėje Mezijoje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -72,6 +72,5 @@ Rostislavas Michailovičius buvo tėvo pasodintas į Haličo kunigaikštystės s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

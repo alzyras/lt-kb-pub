@@ -80,6 +80,5 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -70,6 +70,5 @@ canonical_biography: "1624 m. Kauno laivų statytojas Ambrožėjus Mikalojeviči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

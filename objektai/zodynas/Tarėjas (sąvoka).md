@@ -76,6 +76,5 @@ LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliaci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

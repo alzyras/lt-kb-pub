@@ -52,6 +52,16 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   pagrindžia:
     - c-85792
 
+<a id="claim-t-89877"></a>
+- t-002
+  teiginys: "Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  pagrindžia:
+    - c-85791
+
 <a id="claim-t-89878"></a>
 - t-003
   teiginys: "Jėzus Kristus, pasak dedikacijos, stebuklingus darbus nuveikė pats arba per savo mokinius."
@@ -68,18 +78,10 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   pagrindžia:
     - c-85792
 
-<a id="claim-t-223711"></a>
-- t-223711
-  teiginys: "Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-
-<a id="claim-t-225607"></a>
-- t-225607
+<a id="claim-t-89879"></a>
+- t-004
   teiginys: "Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Teutonai: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,6 +92,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   ryšio_paaiskinimas: "Citata teigia, kad Teutonų ordino broliams palaužiant pagonis padėjo Jėzus Kristus."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Jėzus Kristus rėmė Teutonai (0.70)"
+  pagrindžia:
+    - c-85793
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -124,6 +128,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-85792
   autorius: "Petras Dusburgietis"
@@ -151,7 +157,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
@@ -175,4 +181,5 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-004

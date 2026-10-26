@@ -83,6 +83,5 @@ Janulaitis, nors dar labiau daugiadarbis. Surinkdamas daug archyvinės medžiago
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

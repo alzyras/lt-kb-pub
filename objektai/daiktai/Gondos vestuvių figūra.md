@@ -77,6 +77,5 @@ Gondu figūra buvo statoma ant apvalaus duonos kepalo, apvynioto baltu rankšluo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -24,8 +24,6 @@ entity_view_role: "place"
 entity_aliases: ["Raseinių valsčius"]
 sameAs: []
 canonical_biography: "Raseinių valsčiaus žemininko Tomo Petravičiaus."
-place_authority: true
-historical_names: []
 ---
 # Raseinių valsčius
 
@@ -53,41 +51,3 @@ Raseinių valsčiaus žemininko Tomo Petravičiaus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-<a id="claim-t-207825"></a>
-- t-001
-  teiginys: "Raseinių valsčiaus žemininko Tomo Petravičiaus."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190442
-
-## Citatos
-
-- id: c-190442
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 232"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 232."
-  citata_originali: |
-    Tai liudija teismuose pasirodžiusios bylos dėl grasinimų, kur atsakovai jau kaltina-
-    mi burtininkavimu.
-    Antai 1595 m. Tendžiogalos valsčiaus teismo pareigūnas, vaznys Stanislovas Pet-
-    ravičius, pareiškė, kad Raseinių valsčiaus žemininko Tomo Petravičiaus iškviestas, bu-
-    vo nuvykęs į jo namus Raseinių valsčiaus Dautartų lauke.
-  citata_rodoma: "Raseinių valsčiaus žemininko Tomo Petravičiaus"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-

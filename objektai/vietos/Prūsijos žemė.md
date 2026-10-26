@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-10d12b3323aba5064cac30c6"
-canonical_name: "Prūsijos žemė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Prūsijos žemė"]
+entity_id: ent-10d12b3323aba5064cac30c6
+canonical_name: Prūsijos žemė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Prūsijos žemė
 sameAs: []
-canonical_biography: "Po Heilsbergo pilies užkariavimo Prūsijos žemėje įsiviešpatavo taika. Skalvos dalis, susisiekianti su Prūsijos žeme, buvo magistro ir brolių nusiaubta. 1311 metais Vytenis įsiveržė į Prūsijos žemę ir nusiaubė Varmės vyskupystę."
-place_authority: true
-historical_names: []
+canonical_biography: 'Po Heilsbergo pilies užkariavimo Prūsijos žemėje įsiviešpatavo taika. Skalvos dalis, susisiekianti su Prūsijos žeme, buvo magistro ir brolių nusiaubta. 1311 metais Vytenis įsiveržė į Prūsijos žemę ir nusiaubė Varmės vyskupystę.'
 ---
 # Prūsijos žemė
 
@@ -84,7 +84,7 @@ Po Heilsbergo pilies užkariavimo Prūsijos žemėje įsiviešpatavo taika. Skal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-202612
@@ -104,7 +104,6 @@ Po Heilsbergo pilies užkariavimo Prūsijos žemėje įsiviešpatavo taika. Skal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-203749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -120,6 +119,5 @@ Po Heilsbergo pilies užkariavimo Prūsijos žemėje įsiviešpatavo taika. Skal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

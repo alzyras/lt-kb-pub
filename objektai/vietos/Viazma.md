@@ -30,6 +30,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-d4a398bceb44770be7998d28
+canonical_name: Viazma
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Viazma
+sameAs: []
+canonical_biography: 'Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos. Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus. Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Viazma","url":"https://lt.wikipedia.org/wiki/Viazma","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Viazma","url":"https://www.vle.lt/straipsnis/viazma/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:45:27+00:00","source_checked_at":"2026-09-19T20:45:27+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Viazma (rus. Вязьма) – miestas Rusijoje, Smolensko srityje, prie Viazmos upės, maždaug pusiaukelėje tarp Smolensko (175 km) ir Maskvos (210 km). Rajono centras. Geležinkelių mazgas (kertasi linijos Maskva–Brestas ir Toržokas–Brianskas), netoliese praeina Minsko plentas, pro miestą – senasis Smolensko kelias, taip pat keliai į Zubcovą, Kalugą. Mašinų, statybinių medžiagų, tekstilės, maisto pramonė, geležinkelių aptarnavimas. Veikia kraštotyros ir istorijos muziejus.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"522183","revision_id":"7136079","status":"published","translation_status":"native","source":{"title":"Viazma","url":"https://lt.wikipedia.org/wiki/Viazma","publisher":"Vikipedija","language":"lt","article_id":"522183","revision_id":"7136079","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7136079","history_url":"https://lt.wikipedia.org/w/index.php?title=Viazma&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:00.758464+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"02f949cca8b717276db1e6fe934fc85f001fd66e1d928d14d58bc467a14d6184","version_pk":"19809984eb36b6ad99fcb8f01b620220"}},"source_buttons":[{"label":"Vikipedija","title":"Viazma","url":"https://lt.wikipedia.org/wiki/Viazma","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Viazma","url":"https://www.vle.lt/straipsnis/viazma/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Viazma","https://www.vle.lt/straipsnis/viazma/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Smolenskas","claim_id":"t-184322","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Stanislovas Kiška","claim_id":"t-184832","confidence":0.88},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-30263","confidence":0.93},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Maskvėnai","claim_id":"t-211671","confidence":0.63}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -43,15 +54,6 @@ object_page_seo_description: 'Viazma: Maskviečiai nesėkmingai apgulė Viazmą,
 object_page_seo_input_hash: 9441d72142bcfd6b7b483d45dc39967225e1add7762fe0e5a7e434e9be3be8a5
 object_page_seo_generated_at: '2026-09-19T20:45:27+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-d4a398bceb44770be7998d28"
-canonical_name: "Viazma"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Viazma"]
-sameAs: ["https://www.wikidata.org/entity/Q102307"]
-canonical_biography: "Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos. Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus. Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo."
-place_authority: true
-historical_names: []
 ---
 # Viazma
 
@@ -158,30 +160,6 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   pagrindžia:
     - c-170610
 
-<a id="claim-t-211811"></a>
-- t-211811
-  teiginys: "Ir atėjo maskvenai su totoriais, ir nusiaubė Viazmos žemę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193141
-
-<a id="claim-t-212056"></a>
-- t-212056
-  teiginys: "Maskvos didysis kunigaikštis Ivanas Vasiljevičius užėmė Viazmos miestą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193937
-
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio.'
@@ -212,12 +190,11 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     Paskutiniam savo žygiui, pasitelkęs burių iš Lenkijos ir gavęs
     ordino pagalbos, Vytautas išsirengė su gana didele kariuomene.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-37797
@@ -237,7 +214,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-68864
@@ -260,7 +237,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-167693
@@ -279,7 +256,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-167771
@@ -298,7 +275,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-170610
@@ -319,44 +296,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-193141
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 129."
-  citata_originali: |
-    Ir atėjo
-    maskvenai su totoriais, ir nusiaubė Viazmos žemę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211811
-
-- id: c-193937
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 144."
-  citata_originali: |
-    Maskvos didysis kunigaikš­
-    tis Ivanas Vasiljevičius pradėjo karą su Lietuvos Di­
-    džiąja Kunigaikštyste ir paėmė Viazmos4 miestą bei
-    nemaža kitų miestų
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212056
 
 ## Ryšiai
 - Užėmė Viazmą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

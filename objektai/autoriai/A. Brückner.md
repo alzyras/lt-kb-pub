@@ -123,7 +123,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-03960
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -144,7 +143,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-03961
@@ -164,7 +163,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-003
-

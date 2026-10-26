@@ -74,6 +74,5 @@ Kazimieras ir Ponų Taryba pasiuntė Joną Goštautą su kariuomene prieš atsis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

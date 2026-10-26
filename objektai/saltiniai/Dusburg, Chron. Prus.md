@@ -54,6 +54,5 @@ Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuome
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

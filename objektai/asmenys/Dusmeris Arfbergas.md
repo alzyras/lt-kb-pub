@@ -67,6 +67,5 @@ Teodoro Narbuto pasakojimu, didysis magistras Dusmeris Arfbergas susisiekė su L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

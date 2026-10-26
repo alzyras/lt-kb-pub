@@ -65,6 +65,5 @@ Leninio tipo feodalizmas Lietuvoje liko neišplėtotas, nes ši socialinė tvark
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -73,6 +73,5 @@ Krokuvos arkivyskupas, vyskupai ir Lenkų taryba išeina iš miesto pasitikti Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

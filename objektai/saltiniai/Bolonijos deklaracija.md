@@ -74,6 +74,5 @@ Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

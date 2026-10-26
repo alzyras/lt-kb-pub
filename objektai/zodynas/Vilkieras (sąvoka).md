@@ -78,7 +78,7 @@ Visas vilkiero tekstas neišliko, apie jo turinį galime spręsti iš kiek vėle
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185107
@@ -97,6 +97,5 @@ Visas vilkiero tekstas neišliko, apie jo turinį galime spręsti iš kiek vėle
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

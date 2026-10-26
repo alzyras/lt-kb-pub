@@ -69,6 +69,5 @@ Narbutas nurodo, kad Divonio kelionės aprašymas išliko rankraštyje, siejamam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

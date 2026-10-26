@@ -61,6 +61,5 @@ Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū roje, Austraviją, arba 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

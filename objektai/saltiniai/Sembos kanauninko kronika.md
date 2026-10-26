@@ -71,6 +71,5 @@ Dusburgietis teigia, kad 393 Kad mūšis įvyko 1263 m., rašoma Sembos kanaunin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

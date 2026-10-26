@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8a90e3ac96aa7a01dd36caac"
-canonical_name: "Biti-Girėjus"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Biti-Girėjus"]
+entity_id: ent-8a90e3ac96aa7a01dd36caac
+canonical_name: Biti-Girėjus
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Biti-Girėjus
 sameAs: []
-canonical_biography: "Perekopo chanaičiai — sultonas Biti-Girėjus ir sul tonas Burnašas — su dvidešimt tūkstančių žmonių at ėjo prie Slucko, eina į Naugarduką."
+canonical_biography: 'Perekopo chanaičiai — sultonas Biti-Girėjus ir sul tonas Burnašas — su dvidešimt tūkstančių žmonių at ėjo prie Slucko, eina į Naugarduką.'
 ---
 # Biti-Girėjus
 
@@ -63,6 +65,5 @@ Perekopo chanaičiai — sultonas Biti-Girėjus ir sul tonas Burnašas — su dv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

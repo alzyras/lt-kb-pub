@@ -79,6 +79,5 @@ Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Če
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

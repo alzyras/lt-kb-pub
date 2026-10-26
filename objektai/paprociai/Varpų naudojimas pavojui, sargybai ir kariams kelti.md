@@ -50,23 +50,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-194638"></a>
-- t-002
-  teiginys: "Lietuviškai šis žo dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177036
-
-<a id="claim-t-219315"></a>
-- t-219315
+<a id="claim-t-189813"></a>
+- t-001
   teiginys: "Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,6 +67,21 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpų naudojimas pavojui, sargybai ir kariams kelti\" parinktas kaip owner_note_path. Targetas \"Gumbinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172696
+
+<a id="claim-t-194638"></a>
+- t-002
+  teiginys: "Lietuviškai šis žo dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177036
 
 ## Citatos
 
@@ -101,6 +103,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-177036
   autorius: "Teodoras Narbutas"
@@ -121,27 +125,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-201548
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 161"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
-  citata_originali: |
-    Lietuviškai šis žo­
-    dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą.
-    Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
-    tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­
-    riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui
-    paskelbti. 1780 metais* tokio varpo gabalą radau sename ap­
-    kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū­
-    nios miesteliu, tikroje lietuviškoje žemėje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

@@ -69,6 +69,5 @@ Prūsų kariuomenė nusiaubė Kulmo žemę ir išžudė daug krikščionių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -81,6 +81,5 @@ Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

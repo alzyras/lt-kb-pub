@@ -72,6 +72,5 @@ canonical_biography: "1551 m. Kauno miestietis ir šiporius Simonas Šimtakapis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

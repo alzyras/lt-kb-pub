@@ -82,6 +82,5 @@ Konrado į kovas atvesti lietuvių ir rusų pulkai užėmė miestą, išžudė �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

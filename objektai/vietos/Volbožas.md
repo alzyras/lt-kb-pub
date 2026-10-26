@@ -76,6 +76,5 @@ Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

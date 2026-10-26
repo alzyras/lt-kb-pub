@@ -56,22 +56,10 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   pagrindžia:
     - c-87075
 
-<a id="claim-t-221847"></a>
-- t-221847
-  teiginys: "Rudino miestas, pasak kai kurių žmonių, buvo du kartus užkariautas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204948
-
-<a id="claim-t-224318"></a>
-- t-224318
+<a id="claim-t-91360"></a>
+- t-002
   teiginys: "Antrosios atskalūnybės metais Rudino broliai ir miestiečiai gynė krikščionių tikėjimą nuo prūsų."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,11 +69,13 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=60"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudinas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-87074
 
-<a id="claim-t-225094"></a>
-- t-225094
+<a id="claim-t-91361"></a>
+- t-003
   teiginys: "Pasak kai kurių žmonių, Rudino miestas buvo du kartus užkariautas, o jo gyventojai paimti į nelaisvę arba išžudyti."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> pasak kai kurių: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -95,6 +85,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   ryšio_targeto_parinkimas: "pasak kai kurių: mention_match, thing, gap=24"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudinas\" parinktas kaip owner_note_path. Targetas \"pasak kai kurių\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-87076
 
 ## Citatos
 
@@ -117,6 +109,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-87075
   autorius: "Petras Dusburgietis"
@@ -138,7 +132,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-87076
@@ -161,24 +155,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204948
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 141"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
-  citata_originali: |
-    Pasak
-    kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės
-    arba paimti į nelaisvę, arba išžudyti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221847
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Martynas iš Golino]]

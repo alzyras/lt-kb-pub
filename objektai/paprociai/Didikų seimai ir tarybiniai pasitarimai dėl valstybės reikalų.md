@@ -75,6 +75,5 @@ Paskui61 karalius Aleksandras paskyrė Lenkijos po nams seimą Radome rudenį, �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -55,6 +55,5 @@ Taip pagal Stenderlo pastebėjimus straipsnyje „Lyguo (Lihgo)“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

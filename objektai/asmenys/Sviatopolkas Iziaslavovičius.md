@@ -84,6 +84,5 @@ Ru sios didysis kunigaikštis Sviatopolkas Iziaslavovičius, bū damas laibai ¡
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

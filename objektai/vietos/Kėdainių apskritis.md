@@ -82,6 +82,5 @@ LENČIŲ KAUTYNES \ aa 5 1unai > =) A 5 < o DAINAVOS j as e Fai pati He) 3 1949 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

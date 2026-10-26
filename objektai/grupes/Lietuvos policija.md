@@ -63,6 +63,5 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

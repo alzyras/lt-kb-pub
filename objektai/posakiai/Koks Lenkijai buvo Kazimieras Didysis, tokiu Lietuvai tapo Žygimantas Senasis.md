@@ -77,6 +77,5 @@ Bet Lietuvos valdymą perėmė karalius — • — 257 ## Puslapis 274 258 ## P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

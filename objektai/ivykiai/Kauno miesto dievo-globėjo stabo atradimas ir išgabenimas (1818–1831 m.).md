@@ -83,6 +83,5 @@ Magistrato valdininkas Pulokolovskis, valydamas tuos griuvėsius, rado ten kadai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

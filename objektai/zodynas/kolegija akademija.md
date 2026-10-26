@@ -65,6 +65,5 @@ Visur, kur tik leido valdžia, jie ėmė steigti savo mokyklas, pradėdami nuo v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -74,6 +74,5 @@ Dėl Santvaro atvaizdo buvo įvairiausių nuomonių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

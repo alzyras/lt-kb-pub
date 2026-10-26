@@ -86,6 +86,5 @@ Sį tomą užbaigia dvi genealoginės lentelės, kurių pa grindinė dalis paimt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -81,7 +81,7 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-193707
@@ -103,6 +103,5 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

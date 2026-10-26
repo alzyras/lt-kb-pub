@@ -71,7 +71,7 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186690
@@ -92,6 +92,5 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

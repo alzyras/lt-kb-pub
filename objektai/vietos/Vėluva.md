@@ -42,6 +42,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-9a473dbff06c784ba1473f82
+canonical_name: Vėluva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vėluva
+sameAs: []
+canonical_biography: 'Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Vėluva","url":"https://lt.wikipedia.org/wiki/V%C4%97luva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vėluva","url":"https://www.vle.lt/straipsnis/veluva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:52:44+00:00","source_checked_at":"2026-09-19T09:52:44+00:00","counts":{"relations":13,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Pati Vėluva priklauso prie pilių, pastatytų pagoniškais laikais.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","claim_id":"t-213021","evidence_id":"c-196030","origin":"internal"},"wiki":{"intro":"Vėluva (vok. Wehlau, 1945–1946 m. rus. Велау, nuo 1946 m. rugsėjo 7 d. Znamenskas, rus. Знаменск) – gyvenvietė Rusijoje, Kaliningrado srities centrinėje dalyje, Gvardeisko rajone, Alnos ir Priegliaus santakoje. Nuo 2008 m. birželio 30 d. Znamensko kaimo gyvenvietės kaimas. Veikia Vėluvos geležinkelio stotis, popieriaus fabrikas „Velau papir“ („Велау папир“), margarino kombinatas „Velau“ („Велау“), malūnas, baldų fabrikas, lentpjūvė.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"188815","revision_id":"7502264","status":"published","translation_status":"native","source":{"title":"Vėluva","url":"https://lt.wikipedia.org/wiki/V%C4%97luva","publisher":"Vikipedija","language":"lt","article_id":"188815","revision_id":"7502264","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7502264","history_url":"https://lt.wikipedia.org/w/index.php?title=V%C4%97luva&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:34.534155+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"1071731616240c0f9d524e4ce4e4da675ab513b023f6d240c45187a3207cdf39","version_pk":"c09b0172c38736315db6aab17e7cc96c"}},"source_buttons":[{"label":"Vikipedija","title":"Vėluva","url":"https://lt.wikipedia.org/wiki/V%C4%97luva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vėluva","url":"https://www.vle.lt/straipsnis/veluva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/V%C4%97luva","https://www.vle.lt/straipsnis/veluva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3210cae5cf08be9128981b8b","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Pilis, pastatyta pagoniškais laikais.","context":"Teodoras Narbutas Vėluvą priskiria prie pilių, pastatytų pagoniškais laikais.","support_ids":["t-213021","c-196030"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213021","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196030","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Pati Vėluva priklauso prie pilių, pastatytų pagoniškais laikais."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-220187","confidence":0.84},{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-220187","confidence":0.84},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Henrikas Tupadelis","claim_id":"t-222185","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-99858","confidence":0.84},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Nadruviai","claim_id":"t-222838","confidence":0.88},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Skalviai","claim_id":"t-222529","confidence":0.88},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-222529","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-171553","confidence":0.66},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-171553","confidence":0.66},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-183808","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-221593","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-221305","confidence":0.8},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Tirskas","claim_id":"t-224995","confidence":0.72}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
 object_page_finisher: 'true'
@@ -55,15 +66,6 @@ object_page_seo_description: 'Vėluva: Štai Lietuvai artimesniųjų pilių įk�
 object_page_seo_input_hash: c6191df008404615fa1db958330486ece45e5523100df6c025b110d6ea99c665
 object_page_seo_generated_at: '2026-09-19T09:52:44+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-9a473dbff06c784ba1473f82"
-canonical_name: "Vėluva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vėluva"]
-sameAs: ["https://www.wikidata.org/entity/Q1779185"]
-canonical_biography: "Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.."
-place_authority: true
-historical_names: []
 ---
 # Vėluva
 
@@ -351,30 +353,6 @@ historical_names: []
   pagrindžia:
     - c-184470
 
-<a id="claim-t-213021"></a>
-- t-213021
-  teiginys: "Vėluva priklausė prie pilių, pastatytų pagoniškais laikais."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196030
-
-<a id="claim-t-225560"></a>
-- t-225560
-  teiginys: "Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205313
-
 ## Reikšmingi paminėjimai
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -461,7 +439,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
     - t-009
 
@@ -488,7 +466,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-93820
@@ -512,7 +490,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-93821
@@ -542,7 +520,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
@@ -564,7 +542,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-93824
@@ -589,7 +567,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-93825
@@ -613,7 +591,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-93826
@@ -638,7 +616,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-014
 
@@ -657,7 +635,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-168574
@@ -682,7 +660,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
     - t-015
 
@@ -706,7 +684,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-184470
@@ -736,43 +714,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
-
-- id: c-196030
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 365"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 365."
-  citata_originali: |
-    Pati Vėluva priklauso prie pilių,
-    pastatytų pagoniškais laikais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213021
-
-- id: c-205313
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 128"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
-  citata_originali: |
-    Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
-    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
-    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225560
 
 ## Ryšiai
 - Apgulė Vėluvą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]]

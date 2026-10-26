@@ -26,6 +26,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-4b3eefec58d45ad4f50da305
+canonical_name: A. Hitleris
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Hitleris
+sameAs: []
+canonical_biography: 'Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje ir Latvijoje, regione A. Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos. Hitleris ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T05:50:22+00:00","source_checked_at":"2026-09-20T05:50:22+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
 object_page_finisher: 'true'
@@ -39,13 +48,6 @@ object_page_seo_description: 'A. Hitleris: Hitleris, o 1934 m. po perversmų įs
 object_page_seo_input_hash: ec4bc0db37bb8afb7bf8f6b6b6ce0d797cfee158059cbce4b0669a99ac5e4e51
 object_page_seo_generated_at: '2026-09-20T05:50:22+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-4b3eefec58d45ad4f50da305"
-canonical_name: "A. Hitleris"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Hitleris"]
-sameAs: []
-canonical_biography: "Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje ir Latvijoje, regione A. Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos. Hitleris ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams."
 ---
 # A. Hitleris
 
@@ -150,25 +152,6 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   pagrindžia:
     - c-73352
 
-<a id="claim-t-75632"></a>
-- t-75632
-  teiginys: "1933 m. A. Hitleris atėjo į valdžią Vokietijoje."
-  atnaujinta: "2026-09-20 08:50"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Hitleris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Hitleris\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1931 m.; įvykio data: 1933 m.; įvykio data: 1934 m.; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai patvirtina faktą apie Hitlerio atėjimą į valdžią."
-  pagrindžia:
-    - c-73347
-
 ## Citatos
 
 - id: c-73347
@@ -192,9 +175,6 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-75632
-
 - id: c-73349
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -217,7 +197,7 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-004
 
@@ -241,7 +221,7 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-73351
@@ -269,7 +249,7 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-73352
@@ -288,6 +268,5 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-

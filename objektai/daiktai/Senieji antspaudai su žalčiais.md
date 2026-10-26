@@ -79,6 +79,5 @@ Vaičius globėjus; daugiausia senuosiuose antspauduose yra vi saip susirangiusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -84,11 +84,9 @@ Nenurodyta
     laikomos lietuviškos pamaldos; Vilniaus priespaudos metais tai buvo vie­
     nas iš nedaugelio tautinės sąmonės švyturių.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

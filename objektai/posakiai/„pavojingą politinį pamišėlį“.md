@@ -71,6 +71,5 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

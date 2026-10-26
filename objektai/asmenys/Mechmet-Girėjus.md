@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-b328577a21b3682ab3bcb38e"
-canonical_name: "Mechmet-Girėjus"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mechmet-Girėjus"]
+entity_id: ent-b328577a21b3682ab3bcb38e
+canonical_name: Mechmet-Girėjus
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mechmet-Girėjus
 sameAs: []
-canonical_biography: "Pats vyriausiasis chanaitis Mechmet-Girėjus tą pa čią dieną įsikūrė stovyklą prie Minsko, o savo būrius paleido link Vilniaus ir į Užnerio pusę, taip pat link Vitebsko. Mechmet-Girėjus buvo Krymo chano Mengli-Girėjaus trečiasis sūnus."
+canonical_biography: 'Pats vyriausiasis chanaitis Mechmet-Girėjus tą pa čią dieną įsikūrė stovyklą prie Minsko, o savo būrius paleido link Vilniaus ir į Užnerio pusę, taip pat link Vitebsko. Mechmet-Girėjus buvo Krymo chano Mengli-Girėjaus trečiasis sūnus.'
 ---
 # Mechmet-Girėjus
 
@@ -76,7 +78,7 @@ Pats vyriausiasis chanaitis Mechmet-Girėjus tą pa čią dieną įsikūrė stov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-193375
@@ -93,6 +95,5 @@ Pats vyriausiasis chanaitis Mechmet-Girėjus tą pa čią dieną įsikūrė stov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

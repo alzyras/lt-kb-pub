@@ -66,4 +66,3 @@ Terminas vartojamas šalutinio kruopų gamybos produkto ir vaikų maisto bei ža
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

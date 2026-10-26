@@ -71,6 +71,5 @@ Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių sarac�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

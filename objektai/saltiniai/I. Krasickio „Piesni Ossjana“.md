@@ -57,7 +57,7 @@ I. Krasickio „Osiano giesmių“ ištrauka buvo panaudota kaip LTI pirmojo tom
 <a id="claim-t-211254"></a>
 - t-001
   teiginys: "I. Krasickio „Osiano giesmių“ ištrauka buvo panaudota kaip LTI pirmojo tomo epigrafas."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

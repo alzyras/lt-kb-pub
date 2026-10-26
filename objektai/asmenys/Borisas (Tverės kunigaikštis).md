@@ -30,6 +30,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-d27d673d3e7d376d31c32879
+canonical_name: Borisas (Tverės kunigaikštis)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Borisas (Tverės kunigaikštis)
+sameAs: []
+canonical_biography: 'Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais. Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:25:56+00:00","source_checked_at":"2026-09-19T19:25:56+00:00","counts":{"relations":4,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a2f4b791572c6c832a13ccf9","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Tverės kunigaikštis","context":"1430 m. Borisas buvo tarp į Vytauto susirinkusių įvairių žemių valdovų ir didikų.","support_ids":["t-87597","c-83576"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87597","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83576","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"I siede po nem Szwitrihajła Olhirdowicz. [Tais pačiais metais (1430) pas Vytautą buvo suvažiavę visų žemių žmonės: jo vaikaitis di­ dysis Maskvos kunigaikštis Vasili­ jus Vasiljevičius ir karalius Jogaila Algirdaitis, ir Vokietijos vaivada Kunšteris, ir metropolitas Fotijas, ir kardinolas iš Romos nuo popie­ žiaus, ir Tverės kunigaikštis Borisas, ir Valakijos vaivada Ljašas, ir Čeki­ jos karalius, ir visi kunigaikščiai, ir vaivados, ir bajorai iš visų žemių pas jį buvo. Ir didysis kunigaikštis visus apdovanojęs ir atsisveikinęs, Didži­ ąją Kunigaikštystę valdęs 37 metus."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_dukte","direction":"inbound","target":"objektai/asmenys/Sofija (Švitrigailos žmona)","claim_id":"t-87855","confidence":0.97},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Podolė","claim_id":"t-179639","confidence":0.82},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Krokuva","claim_id":"t-179639","confidence":0.76},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Tverė","claim_id":"t-87596","confidence":0.87}],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
 object_page_finisher: 'true'
@@ -43,13 +52,6 @@ object_page_seo_description: 'Borisas (Tverės kunigaikštis): Tverės kunigaik�
 object_page_seo_input_hash: bdbb812c6d910e867b128d10679fdd91787bcc5990e0d826f1aa7ff5844296de
 object_page_seo_generated_at: '2026-09-19T19:25:56+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-d27d673d3e7d376d31c32879"
-canonical_name: "Borisas (Tverės kunigaikštis)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Borisas (Tverės kunigaikštis)"]
-sameAs: []
-canonical_biography: "Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais. Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą."
 ---
 # Borisas (Tverės kunigaikštis)
 
@@ -95,6 +97,19 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas."
   pagrindžia:
     - c-83576
+
+<a id="claim-t-193899"></a>
+- t-003
+  teiginys: "Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176524
 
 <a id="claim-t-193900"></a>
 - t-004
@@ -163,16 +178,6 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   pagrindžia:
     - c-188885
 
-<a id="claim-t-211397"></a>
-- t-211397
-  teiginys: "Borisas įkūrė Borisovą prie Berezinos upės."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Kunigaikštis Borisas, Ginvilos sūnus ir Polocko įpėdinis, prie Berezinos upės įkūrė savo vardo miestą Borisovą.'
@@ -236,7 +241,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-83576
@@ -266,7 +271,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-176524
@@ -291,6 +296,8 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-176525
   autorius: "Anoniminis metraštininkas"
@@ -319,7 +326,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-186610
@@ -337,7 +344,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-187799
@@ -357,7 +364,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-188884
@@ -379,7 +386,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-188885
@@ -399,7 +406,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 ## Ryšiai

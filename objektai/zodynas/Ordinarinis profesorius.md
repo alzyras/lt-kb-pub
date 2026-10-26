@@ -83,6 +83,5 @@ Tai pilnos profesoriaus pareigybės pavadinimas, pateiktas A. R. Niemi biografij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

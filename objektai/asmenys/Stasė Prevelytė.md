@@ -31,13 +31,14 @@ canonical_biography: "Kronikos teigimu, Stasė Prevelytė, dar vadinta Privelyte
 
 Stasė Prevelytė (Privelytė), kronikoje įvardyta agente „Stasė-Galkina“, 1945 m. rugsėjį NKVD Svėdasų valsčiaus poskyriui pranešė, kad Pajedos vienkiemio vakaronėje dalyvavo 11 partizanų.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213370
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Stasė Prevelytė (Privelytė), kronikoje įvardyta agente „Stasė-Galkina“, 1945 m. rugsėjį NKVD Svėdasų valsčiaus poskyriui pranešė, kad Pajedos vienkiemio vakaronėje dalyvavo 11 partizanų.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 95"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 95."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:38"

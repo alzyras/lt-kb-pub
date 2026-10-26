@@ -81,6 +81,5 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -29,6 +29,20 @@ media_primary_json: '{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus S
 media_direct_json: '[{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo Kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"istorikas","label":"istorikas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Literature of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/autoriai/M. Strijkovskis.md","title":"Motiejus Strijkovskis (kronikininkas)","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:08.873948+03:00","reviewedAt":"2026-07-31T05:53:14.027333+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas renesansinis vyro portretas su įrašu „MATTHIAS STRI...“ ir lietuviškai apibūdinamu Strijkovskio vardu; apačioje nurodoma, kad tai jo atvaizdas Kronikoje.","metadataEvidence":"Kandidato pavadinimas yra „Motiejus Strijkovskis.jpg“, aprašymas nurodo portretą jo Kronikoje, o Wikimedia Commons puslapio pavadinimas sutampa su konkrečiu target vardu.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Motiejų Strijkovskį; tapatybę patvirtina ir pats vaizdas, ir sutampantys metaduomenys.","isPrimary":1}]'
 media_contextual_json: '[]'
 media_all_json: '[{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo Kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"istorikas","label":"istorikas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Literature of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/autoriai/M. Strijkovskis.md","title":"Motiejus Strijkovskis (kronikininkas)","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:08.873948+03:00","reviewedAt":"2026-07-31T05:53:14.027333+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas renesansinis vyro portretas su įrašu „MATTHIAS STRI...“ ir lietuviškai apibūdinamu Strijkovskio vardu; apačioje nurodoma, kad tai jo atvaizdas Kronikoje.","metadataEvidence":"Kandidato pavadinimas yra „Motiejus Strijkovskis.jpg“, aprašymas nurodo portretą jo Kronikoje, o Wikimedia Commons puslapio pavadinimas sutampa su konkrečiu target vardu.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Motiejų Strijkovskį; tapatybę patvirtina ir pats vaizdas, ir sutampantys metaduomenys.","isPrimary":1}]'
+entity_id: ent-f4fe438fa563d504a31c8669
+canonical_name: Motiejus Strijkovskis (kronikininkas)
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - M. Strijkovskio
+  - M. Strijkovskis
+  - M. Strijkovskis (XVI a. antrojoje pusėje)
+  - Motiejus Strijkovskis
+  - Motiejus Strijkovskis (kronikininkas)
+sameAs: []
+canonical_biography: 'M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio kronika naudojama aiškinant Gedimino žygį bei Algirdo pergalę prie Mėlynųjų Vandenų. Vienoje citatoje jis dar apibūdinamas kaip XVI a. LDK karininkas ir diplomatas.'
 external_sources_json: '[{"title":"Motiejus Strijkovskis","url":"https://lt.wikipedia.org/wiki/Motiejus_Strijkovskis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Motiejus Strijkovskis","url":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:40:27+00:00","source_checked_at":"2026-09-18T23:40:27+00:00","counts":{"relations":0,"gallery":1,"sources":6},"featured_claim_ids":["t-193586","t-207547","t-220891","t-224313","t-172902","t-223401"],"featured_claims":[{"claim_id":"t-193586","text":"Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-176261"]},{"claim_id":"t-207547","text":"Motiejus Strijkovskis 1582 m. lenkų kalba paskelbė kroniką „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, kuri Baroko epochoje tapo parankine Lietuvos bajorijos knyga.","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","evidence_ids":["c-190164"]},{"claim_id":"t-220891","text":"Motiejus Strijkovskis Dusburgiečio nuorašą panaudojo 1582 m. Karaliaučiuje išspausdintoje Kronikoje.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202260"]},{"claim_id":"t-224313","text":"Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202260","c-202277"]},{"claim_id":"t-172902","text":"Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-42444"]},{"claim_id":"t-223401","text":"Motiejaus Strijkovskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ 1846 m. išleista Varšuvoje.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202260","c-204793"]}],"featured_quote":null,"wiki":{"intro":"Motiejus Strijkovskis (lenk. Maciej Stryjkowski, lot. Matys Strycovius; 1547 m. kovo 21 d. Strykuve – apie 1593 m. Jurbarke ar Varniuose) – mozūrų kilmės Lietuvos Didžiosios Kunigaikštystės istorikas, rašytojas ir poetas, pagarsėjęs savo kūriniu „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ (1582 m.). Šis veikalas laikomas pirmąja spausdinta knyga apie LDK istoriją. Gynė Lietuvos savarankiškumą, neigė lenkų teises į Podolę ir Voluinę.","infobox":[{"code":"row_1","label":"","value":"Motiejus Strijkovskis","cells":[{"text":"Motiejus Strijkovskis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Motiejus Strijkovskis (1582, dailininkas nežinomas)","cells":[{"text":"Motiejus Strijkovskis (1582, dailininkas nežinomas)","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Herbas „Leliwa“","cells":[{"text":"Herbas „Leliwa“","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Gimė","value":"1547 m. kovo 21 d.\nStrykuvas, Lenkijos Karalystė","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1547 m. kovo 21 d.\nStrykuvas, Lenkijos Karalystė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Mirė","value":"~ 1593 m. (~46 metai)\nJurbarkas, Varniai (?), Lietuvos Didžioji Kunigaikštystė","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"~ 1593 m. (~46 metai)\nJurbarkas, Varniai (?), Lietuvos Didžioji Kunigaikštystė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Tėvas","value":"Jokūbas Strijkovskis","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Jokūbas Strijkovskis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Veikla","value":"poetas, karys, istorikas","cells":[{"text":"Veikla","header":true,"colspan":1,"rowspan":1},{"text":"poetas, karys, istorikas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Alma mater","value":"Paduvos universitetas\nBolonijos universitetas","cells":[{"text":"Alma mater","header":true,"colspan":1,"rowspan":1},{"text":"Paduvos universitetas\nBolonijos universitetas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Vikiteka","value":"Motiejus Strijkovskis","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Motiejus Strijkovskis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"119576","revision_id":"7918622","status":"published","translation_status":"native","source":{"title":"Motiejus Strijkovskis","url":"https://lt.wikipedia.org/wiki/Motiejus_Strijkovskis","publisher":"Vikipedija","language":"lt","article_id":"119576","revision_id":"7918622","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7918622","history_url":"https://lt.wikipedia.org/w/index.php?title=Motiejus_Strijkovskis&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:12:36.763044+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"da36f5e9a7efc89711188ad2570ac25c046cc1eb4423b5524ae78380bedc842d","version_pk":"e8e1e8fa96b57eb4e8505605adfec9e5"}},"source_buttons":[{"label":"Vikipedija","title":"Motiejus Strijkovskis","url":"https://lt.wikipedia.org/wiki/Motiejus_Strijkovskis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Motiejus Strijkovskis","url":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Motiejus_Strijkovskis","https://www.vle.lt/straipsnis/motiejus-strijkovskis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"16d0450eb5af8b7a4715fb96","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rašė apie Gedimino mūšį prie Irpenės ir jo eigą.","context":"XVI a. antrojoje pusėje M. Strijkovskis papildė pasakojimą teiginiu, kad Gediminas smogė rusams iš šono, pralaužė jų rikiuotę ir juos sumušė.","support_ids":["t-172902","c-42444"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172902","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-42444","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lucko, Perejaslavlio kunigaikščiai, o Kijevo, Briansko - pabėgti). M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vyks- tant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo pri- verstas bėgti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"05bb74cc58f65fc334cc0a2a","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Parašė ir 1582 m. lenkų kalba išspausdino „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kroniką“.","context":"Kronika 1582 m. išspausdinta; šaltiniai ją sieja su Karaliaučiumi.","support_ids":["t-193586","c-176261","t-224313","c-202260","c-202277"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193586","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-224313","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-176261","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis- tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai, vis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame gyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie- tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo- rijos knyga. Lietuvos lenkėjimo procesas yra vienas svarbiausių Baroko 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 69 epochos reiškinių."},{"kind":"evidence","evidence_id":"c-202260","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Sis tekstas rodo, jog tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau nepanaudojo75. Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą."},{"kind":"evidence","evidence_id":"c-202277","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"77ff465cf299f4328fb7f4d0","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Panaudojo Petro Dusburgiečio nuorašą savo Kronikoje.","context":"1582 m. Karaliaučiuje išspausdintoje Kronikoje panaudojo Dusburgiečio nuorašą, apimantį įvykius iki 1326 m.","support_ids":["t-220891","c-202260"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220891","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202260","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Sis tekstas rodo, jog tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau nepanaudojo75. Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c819c339da001930dfc27c8c","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Kronikos autorius.","context":"Motiejaus Strijkovskio 1582 m. išspausdinta Kronika apibūdinama kaip Lietuvos Didžiosios Kunigaikštystės istorija.","support_ids":["t-220891","c-202260"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220891","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202260","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Sis tekstas rodo, jog tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau nepanaudojo75. Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą."}],"status":"published","conflict_status":"clear"},{"trait_id":"889d0cde47bbede2ae0c356f","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jo Kronika tapo parankine Lietuvos bajorijos knyga Baroko epochoje.","context":"1582 m. lenkų kalba išspausdinta Kronika aprašoma kaip svarbus lenkiškojo modelio pradžios taškas ir parankinė Lietuvos bajorijos knyga.","support_ids":["t-193586","c-176261","t-207547","c-190164"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193586","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-207547","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-176261","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis- tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai, vis labiau plito lenkiškasis, kurį skatino integraciniai procesai viešajame gyvenime. Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie- tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo- rijos knyga. Lietuvos lenkėjimo procesas yra vienas svarbiausių Baroko 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 69 epochos reiškinių."},{"kind":"evidence","evidence_id":"c-190164","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"varbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspaus- dinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine knyga Lietuvos bajorijai Baroko epochoje. Kad i"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5f90999b8669b687255cd57b","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Įvedė Petro Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą.","context":"Tai įvyko panaudojus Dusburgiečio nuorašą 1582 m. Karaliaučiuje išspausdintoje Kronikoje.","support_ids":["t-220891","c-202260"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220891","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202260","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Sis tekstas rodo, jog tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau nepanaudojo75. Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Motiejus Strijkovskis buvo XVI a. antrosios pusės kronikininkas ir istorijos autorius, reikšmingas Lietuvos Didžiosios Kunigaikštystės praeities pasakojimui. 1582 m. Karaliaučiuje jis išspausdino lenkų kalba parašytą kroniką „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ („Kronika polska, litewska, żmodzka i wszystkiej Rusi“). Baroko epochoje šis veikalas tapo parankine Lietuvos bajorijos knyga ir buvo svarbus lenkiškojo kultūros modelio plitimui. Rengdamas kroniką, Strijkovskis panaudojo Petro Dusburgiečio nuorašą, apimantį įvykius iki 1326 metų, todėl Dusburgiečio kronikos faktai pateko į Lietuvos istorijos literatūrą. Jo kronikoje taip pat užfiksuotas pasakojimas, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė; veikalas vėliau, 1846 m., buvo išleistas Varšuvoje.","sentences":[{"sentence_id":"s1","text":"Motiejus Strijkovskis buvo XVI a. antrosios pusės kronikininkas ir istorijos autorius, reikšmingas Lietuvos Didžiosios Kunigaikštystės praeities pasakojimui.","support_ids":["t-172902","c-42444","t-220891","c-202260"]},{"sentence_id":"s2","text":"1582 m. Karaliaučiuje jis išspausdino lenkų kalba parašytą kroniką „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ („Kronika polska, litewska, żmodzka i wszystkiej Rusi“).","support_ids":["t-207547","c-190164","t-224313","c-202277"]},{"sentence_id":"s3","text":"Baroko epochoje šis veikalas tapo parankine Lietuvos bajorijos knyga ir buvo svarbus lenkiškojo kultūros modelio plitimui.","support_ids":["t-193586","c-176261","t-207547","c-190164"]},{"sentence_id":"s4","text":"Rengdamas kroniką, Strijkovskis panaudojo Petro Dusburgiečio nuorašą, apimantį įvykius iki 1326 metų, todėl Dusburgiečio kronikos faktai pateko į Lietuvos istorijos literatūrą.","support_ids":["t-220891","c-202260"]},{"sentence_id":"s5","text":"Jo kronikoje taip pat užfiksuotas pasakojimas, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė; veikalas vėliau, 1846 m., buvo išleistas Varšuvoje.","support_ids":["t-172902","c-42444","t-223401","c-204793"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginiai apie XVI a. antrosios pusės kronikininko veiklą ir reikšmę LDK istorijos pasakojimui paremti nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1582 m. leidimą Karaliaučiuje, lenkų kalbą ir kronikos pavadinimą."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Baroko epochoje kronika tapo parankine Lietuvos bajorijos knyga ir buvo lenkiškojo kultūros modelio pradžios taškas."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina Dusburgiečio nuorašo, apimančio įvykius iki 1326 m., panaudojimą ir jo faktų patekimą į lituanistinę istorinę literatūrą."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina pasakojimą apie Gedimino smūgį prie Irpenės ir 1846 m. Varšuvos leidimą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-172902","c-42444","t-220891","c-202260"]},{"sentence_id":"s2","supported":true,"support_ids":["t-207547","c-190164","t-224313","c-202277"]},{"sentence_id":"s3","supported":true,"support_ids":["t-193586","c-176261","t-207547","c-190164"]},{"sentence_id":"s4","supported":true,"support_ids":["t-220891","c-202260"]},{"sentence_id":"s5","supported":true,"support_ids":["t-172902","c-42444","t-223401","c-204793"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-0b53f05e9fce5ac194bca12f","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[],"media_verification":{"status":"verified","primary_media_id":"m-0b53f05e9fce5ac194bca12f","candidate_count":1,"visual_verified_count":1,"identity_verified_count":1,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas tiesiogiai vaizduoja konkretų target – Motiejų Strijkovskį; tapatybę patvirtina ir pats vaizdas, ir sutampantys metaduomenys.","visual_evidence":"Matomas renesansinis vyro portretas su įrašu „MATTHIAS STRI...“ ir lietuviškai apibūdinamu Strijkovskio vardu; apačioje nurodoma, kad tai jo atvaizdas Kronikoje.","metadata_evidence":"Kandidato pavadinimas yra „Motiejus Strijkovskis.jpg“, aprašymas nurodo portretą jo Kronikoje, o Wikimedia Commons puslapio pavadinimas sutampa su konkrečiu target vardu.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1582 m.","label":"Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m.","claimId":"t-193586"},{"date":"1582 m.","label":"Motiejus Strijkovskis 1582 m.","claimId":"t-207547"},{"date":"1582 m.","label":"Motiejus Strijkovskis Dusburgiečio nuorašą panaudojo 1582 m.","claimId":"t-220891"},{"date":"1582 m.","label":"Motiejus Strijkovskis 1582 m.","claimId":"t-224313"},{"date":"1846 m.","label":"Motiejaus Strijkovskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ 1846 m.","claimId":"t-223401"}],"support_disclosure":{"claims":6,"sources":4}}'
 object_page_finisher: 'true'
@@ -42,13 +56,6 @@ object_page_seo_description: 'Motiejus Strijkovskis (kronikininkas): Motiejus St
 object_page_seo_input_hash: 87836e42483fb16a0a842e0ef42998d42829f5f8e130955f7bf827d7834ddf95
 object_page_seo_generated_at: '2026-09-18T23:40:27+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-f4fe438fa563d504a31c8669"
-canonical_name: "Motiejus Strijkovskis (kronikininkas)"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["M. Strijkovskio","M. Strijkovskis","M. Strijkovskis (XVI a. antrojoje pusėje)","Motiejus Strijkovskis","Motiejus Strijkovskis (kronikininkas)"]
-sameAs: ["https://www.wikidata.org/entity/Q561626"]
-canonical_biography: "M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio kronika naudojama aiškinant Gedimino žygį bei Algirdo pergalę prie Mėlynųjų Vandenų. Vienoje citatoje jis dar apibūdinamas kaip XVI a. LDK karininkas ir diplomatas."
 ---
 # Motiejus Strijkovskis (kronikininkas)
 
@@ -922,6 +929,18 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindžia:
     - c-176261
 
+<a id="claim-t-197321"></a>
+- t-049
+  teiginys: "M. Strijkovskis mokėjo prūsų ir žemaičių kalbą."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171334
+
 <a id="claim-t-197324"></a>
 - t-050
   teiginys: "Lietuvos ir Prūsijos archeologų surinkti duomenys patiks lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Praurimės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi lučių."
@@ -934,52 +953,17 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindžia:
     - c-179131
 
-<a id="claim-t-207547"></a>
-- t-207547
-  teiginys: "Motiejus Strijkovskis 1582 m. lenkų kalba paskelbė kroniką „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, kuri Baroko epochoje tapo parankine Lietuvos bajorijos knyga."
-  atnaujinta: "2026-09-19 02:40"
+<a id="claim-t-197325"></a>
+- t-051
+  teiginys: "Motiejus Strijkovskis tuoj pat nežinia kur dingo."
+  atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas leidybos faktas ir pridėta citatoje nurodyta kronikos reikšmė Lietuvos bajorijai. Nauji faktai nepridėti."
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-190164
-
-<a id="claim-t-213150"></a>
-- t-213150
-  teiginys: "Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys."
-  atnaujinta: "2026-09-19 02:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Insterburgas: 0.69"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Insterburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo jotvingių palikuonis prie Insterburgo, todėl galima pažymėti ryšį su šia vieta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Jotvingiai gyveno Raigardas (0.69); Jotvingiai gyveno Insterburgas (0.69)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-
-<a id="claim-t-224482"></a>
-- t-224482
-  teiginys: "Per Strijkovskio kroniką Dusburgiečio kronikos faktai pateko į lituanistinę istorinę literatūrą."
-  atnaujinta: "2026-09-19 02:40"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202260
+    - c-173520
 
 ## Reikšmingi paminėjimai
 - c-009
@@ -1086,7 +1070,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-42444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1105,7 +1088,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-42445
@@ -1132,7 +1115,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-42446
@@ -1154,7 +1137,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-157240
@@ -1185,7 +1168,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
     - t-014
 
@@ -1225,7 +1208,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-157242
@@ -1255,7 +1238,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-012
 
@@ -1276,7 +1259,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-157244
@@ -1292,7 +1275,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-157245
@@ -1318,7 +1301,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
     - t-016
 
@@ -1363,7 +1346,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
     - t-018
 
@@ -1394,7 +1377,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-007
     - t-020
@@ -1413,7 +1396,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-157267
@@ -1453,7 +1436,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-157268
@@ -1482,7 +1465,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-171333
@@ -1502,7 +1485,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-171334
@@ -1525,6 +1508,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-049
 
 - id: c-171335
   autorius: "Teodoras Narbutas"
@@ -1544,7 +1529,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-171336
@@ -1564,7 +1549,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-171337
@@ -1593,7 +1578,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-171338
@@ -1616,7 +1601,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
     - t-036
 
@@ -1643,7 +1628,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-171341
@@ -1666,7 +1651,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
     - t-036
 
@@ -1691,7 +1676,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
 
 - id: c-171343
@@ -1708,7 +1693,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-171344
@@ -1730,7 +1715,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
 
 - id: c-171345
@@ -1750,7 +1735,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-173516
@@ -1770,7 +1755,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-173517
@@ -1790,7 +1775,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-173518
@@ -1809,7 +1794,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-173520
@@ -1830,6 +1815,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-051
 
 - id: c-173521
   autorius: "Teodoras Narbutas"
@@ -1851,7 +1838,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
     - t-037
 
@@ -1874,7 +1861,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
     - t-038
 
@@ -1893,7 +1880,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-173524
@@ -1916,7 +1903,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-173525
@@ -1935,7 +1922,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-041
 
 - id: c-173526
@@ -1955,7 +1942,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
 
 - id: c-173527
@@ -1982,7 +1969,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-043
 
 - id: c-173528
@@ -2011,7 +1998,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-044
 
 - id: c-173645
@@ -2036,7 +2023,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-045
 
 - id: c-173646
@@ -2057,7 +2044,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
 
 - id: c-173647
@@ -2084,7 +2071,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-173649
@@ -2110,7 +2097,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-176261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2133,7 +2119,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-179131
@@ -2157,356 +2143,5 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-050
-
-- id: c-190164
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 170"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 170."
-  citata_originali: |
-    Nors dar XVII a. knygų leidyboje vyravo lotynų kalba, bet vis labiau plito lenkakal-
-    bis Lietuvos kultūros modelis, kurį skatino integraciniai procesai viešajame gyvenime.
-    Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspaus-
-    dinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi
-    parankine knyga Lietuvos bajorijai Baroko epochoje.
-    Kad ir kaip būtų, Lietuvos lenkėjimo procesas yra vienas iš svarbiausių Baroko epo-
-    chos reiškinių.
-  citata_rodoma: "varbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspaus-\ndinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi \nparankine knyga Lietuvos bajorijai Baroko epochoje. \nKad i"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207547
-
-- id: c-195898
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
-  citata_originali: |
-    Užsikrovęs šią ne pagal savo jėgas
-    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
-    sios kritikos, be atsargumo su datomis, palyginimo, da­
-    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
-    jam buvo skirta gyventi. Tačiau jis nesuskubo įgyvendin­
-    ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
-    nemokėjo juo laimingai naudotis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196052
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
-  citata_originali: |
-    Baigtos istorijos negalime rasti1;
-    kronikos ir istorijos žinių rinkiniai, pasirodę vos nuo­
-    trupomis, tik tikslina padavimų ir raštų minimas žinias,
-    kad būta ir plačiau išdėstytų dalykų. Iš visų spausdintų
-    verčiausias yra vienas Strijkovskis**, po to — prūsų ir
-    Livonijos kronikininkai. Nepaneigiama tiesa tai, kad šis
-    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
-    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
-    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
-    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
-    vo rėmėjų vardus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197890
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 179"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
-  citata_originali: |
-    Atnašaudavo alaus, duonos
-    ir įvairių valgių, kuriuos padėdavo nakčiai po alyvų krūmais.
-    Markopoliai (Markopole)
-    Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
-    rai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini
-    juos kaip požemio dievaičius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198566
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 126"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
-  citata_originali: |
-    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
-    rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
-    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198675
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
-  citata_originali: |
-    Jų nuomonės nėra nepagrįstos, nes tai buvo
-    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
-    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
-    tingais mitais.
-    Viršaitis (Wirszajtos)
-    Šio dievo stabas buvo senojoje Romovės šventykloje, jis
-    buvo labai gerbiamas. Dievas globojo namus, visokį kilnoja­
-    mąjį ir nekilnojamąjį turtą bei namų gyvulius, - taip mano Strij­
-    kovskis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198735
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
-  citata_originali: |
-    Lietuvoje
-    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
-    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
-    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
-    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
-    sūnus, iš Petro. Strijkovskis senojoje Lietuvos istorijos daly­
-    je tarp lietuvių didikų randa Montvilos sūnų, Palemono vai­
-    kų vaikaitį, vardu Nemunas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199091
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 319"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
-  citata_originali: |
-    Išpažintis
-    Prie apeigų, atliekamų per atnašavimą, dar priklauso iš­
-    pažintis. Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
-    žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
-    ninkų pranešimais ir savo paties duomenimis. Kronikininkas
-    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
-    patekęs į kaimą, į ožio aukojimą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199095
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 335."
-  citata_originali: |
-    Tą
-    patį daro su gėrimais ir pakartoja užkalbėjimą. Linksmai vai­
-    šindamiesi, dainuoja, pučia ilgus trimitus; tai trunka visą naktį
-    be pertrūkio. Strijkovskis sakosi buvęs tų liaudyje dar išliku­
-    sių aukojimų liudytojas, tačiau nemini, ar būdavo deginamos
-    kokios nors gyvulių dalys; turbūt dėl to, kad tai jau vyko krikš­
-    čionybės laikais, tad nebedrįsdavo atlikti tų iškilmingų apei­
-    gų, kurios seniau vykdavo šventykloje, kai žynių vaidmuo dar
-    buvo pats didžiausias.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199899
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
-  citata_originali: |
-    Kronikos vienur rašė, kad romėnai arba kurie nors pana­
-    šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
-    kitur - 57 metais po Kristaus, trečiur - tos pačios eros 401
-    metais. Strijkovskis, savo papratimu nesileisdamas į jokią kri­
-    tiką, naiviai deda ištraukas iš anuomet jam žinomų kronikų,
-    kurių gana daug turėjo rankose, arba semiasi žinių iš vietos
-    padavimų. Naujoviški istorijos tyrėjai, paviršutiniškai traktuo­
-    dami dalyką ir pasisavindami tariamą kritikos teisę, paskelbė
-    Palemoną gryna pasaka.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200191
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
-  citata_originali: |
-    Au­
-    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
-    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
-    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
-    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
-    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
-    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
-    po Amžinosios ugnies aukuro griuvėsiais30.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200670
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 326"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 326."
-  citata_originali: |
-    Paskui viename iš namų jos randa paruoštas
-    vaišes; ten susirinkęs jaunimas ilgai linksminasi. Strijkovskis,
-    savo akimis matęs tą nykstančią šventę, piešia mums senovi­
-    nių apeigų vaizdą. Jis pasakoja, kad tuo metų laiku būdavo
-    atnašaujamos aukos pirmaeiliams dievams, o ypač Pergrubei,
-    lietuvių Florai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200825
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
-  citata_originali: |
-    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
-    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
-    mėti ten visuomet stovi medinis kryžius. Jis yra ant gana aukš­
-    to kalno, matomas toli iš jūros.
-    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
-    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
-    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
-    lučių. Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
-    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
-    nies, degančios kiekvieną naktį, naudingumo jūrininkams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200908
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
-  citata_originali: |
-    Altana buvo tikrasis
-    Adytum, joje visuomet turėjo būti ne tik Perkūnas, bet ir dau­
-    giau stabų.
-    Iš Strijkovskio paliudijimų žinome, kad Vilniaus Antakal­
-    nyje buvo šventykla, dengta stogu, paskirta visiems dievams.
-    Matyt, tai buvo lietuvių panteonas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200958
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 202"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
-  citata_originali: |
-    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
-    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
-    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
-    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
-    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
-    dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
-    kažkokį triukšmą ir lyg žalčių šnypštimą.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201138
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 282"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
-  citata_originali: |
-    Pretorijus Hartknocho studijų prierašuose aiškina teisin­
-    gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
-    ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos
-    teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­
-    dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­
-    rijos teisėjais arba žyniais. Taigi Krewe-Krewejto reiškia visų
-    žynių vyriausiąjį žynį. Jo asmeninis autoritetas buvo labai di­
-    delis, jo sprendimai tapdavo įstatymais, pamokymai - tikėji­
-    mo tiesomis.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202260
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
-  citata_originali: |
-    Sis tekstas rodo, jog
-    tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau
-    nepanaudojo75. Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį
-    įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76
-    — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos
-    faktus į lituanistinę istorinę literatūrą.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224482
-

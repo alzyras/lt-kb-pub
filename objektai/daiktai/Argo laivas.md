@@ -71,6 +71,5 @@ Jasono vadovaujama kelionė vyko Argo laivu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

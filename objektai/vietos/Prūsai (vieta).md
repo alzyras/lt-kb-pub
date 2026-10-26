@@ -74,6 +74,5 @@ Teodoras Narbutas pasakoja, kad slapta su Jogaila susitaikęs Vytautas pasitrauk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

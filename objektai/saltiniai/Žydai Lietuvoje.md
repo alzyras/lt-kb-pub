@@ -76,6 +76,5 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

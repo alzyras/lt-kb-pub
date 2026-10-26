@@ -59,6 +59,5 @@ Narbutas teigia, kad lietuviai savo priesaikas duodavo visai panašiai: visi sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

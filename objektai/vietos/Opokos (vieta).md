@@ -71,6 +71,5 @@ Pasak Teodoro Narbuto, Algirdas užėmė Šelonę ir Lugą, o iš Porchovo bei O
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

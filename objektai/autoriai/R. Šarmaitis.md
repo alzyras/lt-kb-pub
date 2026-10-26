@@ -65,10 +65,10 @@ canonical_biography: "Šarmaitis, R.: Iš marksistiniųlenininių pozicijų, Kom
   pagrindžia:
     - c-169803
 
-<a id="claim-t-211637"></a>
-- t-211637
+<a id="claim-t-186449"></a>
+- t-002
   teiginys: "R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> K. Korsakas: 0.85"
@@ -82,6 +82,8 @@ canonical_biography: "Šarmaitis, R.: Iš marksistiniųlenininių pozicijų, Kom
   temporaliniai_duomenys: "įvykio data: 1971 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu."
+  pagrindžia:
+    - c-169800
 
 ## Citatos
 
@@ -102,6 +104,8 @@ canonical_biography: "Šarmaitis, R.: Iš marksistiniųlenininių pozicijų, Kom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-169803
   autorius: "Zenonas Ivinskis"
@@ -121,6 +125,5 @@ canonical_biography: "Šarmaitis, R.: Iš marksistiniųlenininių pozicijų, Kom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

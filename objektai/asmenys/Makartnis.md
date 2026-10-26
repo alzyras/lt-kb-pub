@@ -78,6 +78,5 @@ Teodoras Narbutas Makartnį įvardija anglų pasiuntiniu, kurį lydėjo vėlesni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

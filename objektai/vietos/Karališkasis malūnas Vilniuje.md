@@ -138,7 +138,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-004
 
@@ -170,7 +170,6 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

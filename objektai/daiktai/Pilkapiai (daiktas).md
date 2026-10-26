@@ -90,7 +90,7 @@ Pilkapiams naudota netoliese iškasta žemė; juose nerasta medžių, akmenų ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195076
@@ -106,6 +106,5 @@ Pilkapiams naudota netoliese iškasta žemė; juose nerasta medžių, akmenų ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

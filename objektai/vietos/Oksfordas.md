@@ -90,6 +90,5 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

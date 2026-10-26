@@ -67,6 +67,5 @@ Teodoro Narbuto vaizduojamas Kryžiuočių ordinas kryžiaus žygio šūkiu skel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

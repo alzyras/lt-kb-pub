@@ -61,6 +61,5 @@ Neturė jo močiutė bėdos, jai Dievas davė vai kų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

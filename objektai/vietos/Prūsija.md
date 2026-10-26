@@ -42,6 +42,24 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-ebb9aa3c0e40179636a56097
+canonical_name: Prūsija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Parusais
+  - parusiais
+  - Parusija
+  - Parusis
+  - Parusiu
+  - Parusy
+  - Prūsais
+  - Prūsija
+sameAs: []
+canonical_biography: 'Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklausomą Prūsiją. Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda. To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių. Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais. Su šiuo kraštu siejama Rusnės salos vardo kilmė.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Prūsija","url":"https://lt.wikipedia.org/wiki/Pr%C5%ABsija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T20:13:46+00:00","source_checked_at":"2026-09-18T20:13:46+00:00","counts":{"relations":93,"gallery":0,"sources":20},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­ koti tuos pavojingus jam kaimynus (1394 m.); kitais metais Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­ gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­ garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo, net iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­ je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­ nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­ kiolika dienų teplėšė Lietuvą.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-178018","evidence_id":"c-161849","origin":"internal"},"wiki":{"intro":"Prūsija (vok. Preußen) – istorinė Europos valstybė, kurioje dominavo vokiečiai, Vokietijos valstybės pirmtakė. Jos pirminės teritorijos apėmė nedidelį Prūsijos regioną pietrytinėje Baltijos jūros pakrantėje, tačiau didžiausio išsiplėtimo laikais ji valdė didžiąją dalį dabartinės Vokietijos, teritorijas šiaurės ir vakarų Lenkijoje.","infobox":[{"code":"row_1","label":"","value":"Prūsija\nvok. Preußen","cells":[{"text":"Prūsija\nvok. Preußen","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"1525 – 1947","cells":[{"text":"1525 – 1947","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Vėliava\n(1803–1892)\nHerbas\n(1871–1918)","cells":[{"text":"Vėliava\n(1803–1892)\nHerbas\n(1871–1918)","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"","value":"Location of Prūsijos karalystė 1870 m.","cells":[{"text":"Location of Prūsijos karalystė 1870 m.","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Sostinė","value":"Karaliaučius (1525–1701; 1806)\nBerlynas (1701–1806; 1806–1947)","cells":[{"text":"Sostinė","header":false,"colspan":1,"rowspan":1},{"text":"Karaliaučius (1525–1701; 1806)\nBerlynas (1701–1806; 1806–1947)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Kalbos","value":"Vokiečių","cells":[{"text":"Kalbos","header":false,"colspan":1,"rowspan":1},{"text":"Vokiečių","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Vyriausybė","value":"Neįvardinta","cells":[{"text":"Vyriausybė","header":false,"colspan":1,"rowspan":1},{"text":"Neįvardinta","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Istorija","value":"","cells":[{"text":"Istorija","header":false,"colspan":1,"rowspan":1},{"text":"","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"- Įkurta","value":"1525 m. balandžio 10 d.","cells":[{"text":"- Įkurta","header":false,"colspan":1,"rowspan":1},{"text":"1525 m. balandžio 10 d.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"- Panaikinta","value":"1947 m. vasario 25 d.","cells":[{"text":"- Panaikinta","header":false,"colspan":1,"rowspan":1},{"text":"1947 m. vasario 25 d.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"","value":"Gyventojai","cells":[{"text":"Gyventojai","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"- 1939","value":"41 915 040","cells":[{"text":"- 1939","header":false,"colspan":1,"rowspan":1},{"text":"41 915 040","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"653","revision_id":"7803357","status":"published","translation_status":"native","source":{"title":"Prūsija","url":"https://lt.wikipedia.org/wiki/Pr%C5%ABsija","publisher":"Vikipedija","language":"lt","article_id":"653","revision_id":"7803357","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7803357","history_url":"https://lt.wikipedia.org/w/index.php?title=Pr%C5%ABsija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:21:22.378393+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"5d95dce5fe9ca175c1053aee35c516c33305c6d43fa7e7af9accc2630f0033db","version_pk":"e97be108d379387d210931b50022d5d2"}},"source_buttons":[{"label":"Vikipedija","title":"Prūsija","url":"https://lt.wikipedia.org/wiki/Pr%C5%ABsija","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Pr%C5%ABsija"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5454e4b580d92141c1225243","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Tikroji Prūsija buvo ribojama Vyslos žemupio, Baltijos jūros, Nemunyno žiočių, Rusios, Mazovijos ir Dobrynės žemių; vėliau kryžiuočiai jos sieną nustūmė iki Nemuno žemupio.","context":"Teodoro Narbuto aprašymas apie Prūsijos ribas; istorinis kontekstas, vėlesnės sienos.","support_ids":["t-214457","c-194399"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214457","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194399","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"245 Tikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos jūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios siena, kurią parodėme anksčiau (§ 223), net iki Širvintos upės, vėliau žinoma siena su Mazovija, Michalovo ir Dob- rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė siena su Žemaitija (§228). Kadangi Rusios tema mūsų jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­ vincija, žiūrėsime į Prūsiją, turinčią vėlesnes ribas, kurios labai nedaug skyrėsi nuo senovinių."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fc5a00fd7937cedeb47b0d6a","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių.","context":"Prūsijos žemės aprašymas pagal Petro iš Dusburgo kroniką.","support_ids":["t-221418","c-204381"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221418","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204381","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas. Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"618d7109b4fd0bad5967ba2a","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Iki XIII amžiaus tikroji Prūsija buvo visiškai savarankiška ir sudaryta iš dvylikos provincijų, kuriose gyveno dvylika genčių.","context":"Teodoro Narbuto istorinis apibūdinimas; laikotarpis iki XIII amžiaus.","support_ids":["t-215901","c-195874"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215901","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195874","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tikrą Prūsiją, kuri ligi XIII amžiaus buvo visiškai savarankiška, sudarė dvylika provincijų, kuriose gyveno dvylika genčių"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d13dbf6d6b0f974b08081204","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Senovės Prūsijos pakrantės apibūdintos kaip seklios vietos, kartais apsemiamos, kartais sausos.","context":"Teodoro Narbuto interpretacija pagal lotynišką Pitėjo vertimą; senovės Prūsijos aprašymas.","support_ids":["t-213134","c-196691"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213134","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196691","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Priekaištaujama, kad, norint su­ skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­ tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai. Sala, kurią Plinijus vadina Baltija, remdamasis visais Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi- lia."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dc37daad9b1504fcf7a23419","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Prūsijoje kitados vyko žemės drebėjimai; tai, autoriaus teigimu, rodė į vulkaninius judesius linkę žemės gelmių sluoksniai.","context":"Teodoro Narbuto vertinimas apie senesnius gamtinius procesus Prūsijoje.","support_ids":["t-215165","c-196207"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215165","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196207","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Čia dar kartą pakartosime aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­ tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­ laikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­ veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­ desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­ 1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė jį iš Trakijos į Makedoniją (Noet Fr."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b68f5bdfb9167051c1ae6b01","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"XVI amžiaus pradžioje Prūsijoje buvo vienas didžiausių stumbrų skaičių Europoje.","context":"Šaltinio autoriaus apibūdinimas apie stumbrų paplitimą aptariamuoju laikotarpiu.","support_ids":["t-204107","c-186711"],"source_refs":[{"kind":"internal_claim","claim_id":"t-204107","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md"},{"kind":"evidence","evidence_id":"c-186711","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md","quote":"Svarbu pažymėti, jog jau XVI a. pr. Europoje prasidėjo stumbrų populiacijos nykimas ir tik LDK giriose ir Prūsijoje aptariamuoju laikotarpiu buvo didžiausias šių gyvūnų skaičius53."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4b2f147d93b089faf0dfd2ab","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Apie 1379 metus Kryžiuočių ordino valdose Prūsijoje, ypač Torunės, Kulmo ir Elbliongo apylinkėse, augo vynuogynai ir buvo nuimamas jų derlius; tais metais priskinta 608 statinaitės vynuogių.","context":"Teodoro Narbuto pasakojimas apie kryžiuočių laikų Prūsiją; apie 1379 metus.","support_ids":["t-205495","c-188000"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205495","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188000","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Tačiau dar kryžiuočių laikais, apie 1379 metus, Prūsijoje, kur vokiečių sodybos buvo pradėjusios klestėti, ant senųjų šio krašto gyven­ tojų — kilmingųjų lietuvių — išdarkytų ūkių griuvėsių, būtent Torūnės, Kulmo, Elbliongo apylinkėse, ten tam tikru metu augo rinktiniai vynuogynai ir būdavo renkami jų derliai. Bekeris nurodo, kad 1379 metais Kryžiuočių ordino valdose buvo priraškyta 608 statinaitės vynuogių1."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"17b214b6554cc88addcd6897","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"XVIII amžiuje Prūsijoje buvo įsteigtas Lietuvos departamentas, kurio centras buvo Gumbinė.","context":"Lietuvos istorijos autorių aprašymas apie XVIII amžiaus Prūsijos administracinę struktūrą.","support_ids":["t-178095","c-161879"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178095","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-161879","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done- laičio poema „Metai“ (apie 1750). Nors XVIII a. Prūsijoje buvo net oficia- liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš- kai kalbančiųjų nebeliko."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ffc4d7a2705fcc65e970df11","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Prūsijos vandens keliais prekės buvo gabenamos iki Karaliaučiaus ir Gdansko bei iš jų.","context":"Kauno istorijos aprašymas apie prekybinę laivybą ir Prūsijos vandens kelius.","support_ids":["t-201658","c-185005"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201658","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-185005","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Todėl laivų statyklos reikšmė kalbamo laikotarpio Kauno miesto gyvenime buvo išskirtinė. Dar svarbesni buvo upeiviai, žmonės, susiję su prekių gabenimu Nemunu, Nerimi, Prūsijos vandens keliais iki Karaliaučiaus ir Gdansko ar iš ten. Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomenėje ir dėl darbo pobūdžio, mat nuolat buvo kelyje, ir dėl darbo santykių - jie buvo samdiniai, ir dėl dažnai jungiamų upeivių pareigų ir prekybos operacijų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2b0a0b80a59f578ecccf3e4f","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1629 m. kai kurie Prūsijos uostai, tarp jų Klaipėda, šešeriems metams buvo palikti švedams.","context":"A. Šapokos aprašymas apie 1629 m. Altmarko paliaubas; Prūsija tuo metu buvo Lenkijos lenas, valdomas Brandenburgo elektoriaus.","support_ids":["t-183083","c-24417"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183083","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-24417","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pagaliau įsimaišė Pran- cūziją, kuri norėjo Gustavą Adolfą įtraukti į einantį Vokie- tijoje 30 metų karą, ir 1629 m. Altmarke buvo padarytos 6 metams paliaubos. Visa Livonija, anapus Dauguvos, su Ryga buvo palikta švedams. Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti šve- dams kai kurie uostai, jų tarpe ir Klaipėda."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0f5cd66d305fef1925f44071","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Prūsijoje buvo kuriama lietuviakalbės raštijos tradicija: Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa pateikė pirmą lietuvišką knygą ir pradėjo šią tradiciją.","context":"Lietuvos istorijos autorių aprašymas apie kultūrinę veiklą Prūsijoje emigracijoje.","support_ids":["t-178031","c-161815"],"source_refs":[{"kind":"internal_claim","claim_id":"t-178031","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-161815","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui. 1595 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Prūsija šiame šaltinių rinkinyje minima kaip istorinė vieta ir politinis darinys, susijęs su karyba, tarptautiniais susitarimais bei lietuvių kultūros raida. 1325 m. Vilniuje Gediminas ir Lokietka susitarė bendromis jėgomis kovoti su Prūsijos ordinu, o 1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda. XVIII a. pabaigoje Prūsija turėjo stiprią karinę pramonę, todėl čia buvo nupirkta didelė dalis LDK kariuomenei skirtų muškietų, nors kai kurie ginklai buvo prastos kokybės. Prūsijoje taip pat pradėta lietuviakalbės raštijos tradicija, o XVIII a. veikė Lietuvos departamentas, kurio centras buvo Gumbinė; vėliau lietuvių kalbos vartojimas siaurėjo.","sentences":[{"sentence_id":"s1","text":"Prūsija šiame šaltinių rinkinyje minima kaip istorinė vieta ir politinis darinys, susijęs su karyba, tarptautiniais susitarimais bei lietuvių kultūros raida.","support_ids":["c-161854","c-43771","c-161815"]},{"sentence_id":"s2","text":"1325 m. Vilniuje Gediminas ir Lokietka susitarė bendromis jėgomis kovoti su Prūsijos ordinu, o 1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda.","support_ids":["c-161854","c-24417"]},{"sentence_id":"s3","text":"XVIII a. pabaigoje Prūsija turėjo stiprią karinę pramonę, todėl čia buvo nupirkta didelė dalis LDK kariuomenei skirtų muškietų, nors kai kurie ginklai buvo prastos kokybės.","support_ids":["c-43771"]},{"sentence_id":"s4","text":"Prūsijoje taip pat pradėta lietuviakalbės raštijos tradicija, o XVIII a. veikė Lietuvos departamentas, kurio centras buvo Gumbinė; vėliau lietuvių kalbos vartojimas siaurėjo.","support_ids":["c-161815","c-161879"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia karybos, susitarimų ir lietuvių kultūros raidos sąsajas, tačiau tiesiogiai nepatvirtina, kad Prūsija šiame rinkinyje apibūdinama kaip politinis darinys."},{"sentence_id":"s2","supported":true,"reason":"Abu teiginiai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s3","supported":true,"reason":"Teiginys tiesiogiai atitinka c-43771 šaltinį."},{"sentence_id":"s4","supported":true,"reason":"Lietuviakalbės raštijos pradžia, Lietuvos departamentas Gumbinėje ir lietuvių kalbos vartojimo siaurėjimas tiesiogiai nurodyti šaltiniuose."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["c-161854","c-43771","c-161815"]},{"sentence_id":"s2","supported":false,"support_ids":["c-161854","c-24417"]},{"sentence_id":"s3","supported":false,"support_ids":["c-43771"]},{"sentence_id":"s4","supported":false,"support_ids":["c-161815","c-161879"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-172965","confidence":0.67},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Kristijonas","claim_id":"t-220515","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Krivis","claim_id":"t-219236","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Simonas Grunau","claim_id":"t-224797","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Vilhelmas iš Modenos","claim_id":"t-223925","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-54273","confidence":0.62},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Abraomas Kulvietis","claim_id":"t-18766","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Adalbertas","claim_id":"t-18754","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Adolfas fon Vintimelis","claim_id":"t-186172","confidence":0.96},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bernardas (Vroclavo kunigaikštis)","claim_id":"t-225749","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Ditrichas (Meiseno markos valdovas)","claim_id":"t-223376","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Divonis","claim_id":"t-215200","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Gerhardas","claim_id":"t-224764","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Gotfridas Hohenlohė","claim_id":"t-221677","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Henrikas (Meiseno markgrafas)","claim_id":"t-224969","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Henrikas Lankasteris","claim_id":"t-87428","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Henrikas iš Kunceno","claim_id":"t-223213","confidence":0.94},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Henrikas iš Lichtenšteino","claim_id":"t-220445","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Henrikas iš Veidos","claim_id":"t-220428","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas (Brandenburgo markgrafas)","claim_id":"t-223156","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas (Čekijos karalius)","claim_id":"t-39558","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Odoničius","claim_id":"t-221828","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)","claim_id":"t-224176","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Otonas","claim_id":"t-220438","confidence":0.7},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Samboras","claim_id":"t-224273","confidence":0.83},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vaidila","claim_id":"t-178030","confidence":0.96},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Verneris fon Hoinbergas","claim_id":"t-186264","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vinrichas Kniprodė","claim_id":"t-87591","confidence":0.87},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Anglai","claim_id":"t-172073","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Herulai","claim_id":"t-215004","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-171557","confidence":0.91},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-178046","confidence":0.7},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lenkijos karalystės kariuomenė","claim_id":"t-23483","confidence":0.83},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Prancūzai","claim_id":"t-81593","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Prūsai","claim_id":"t-212181","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-213771","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Teutonai","claim_id":"t-217990","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Vokietijos maldininkai","claim_id":"t-220468","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-185496","confidence":0.72},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Henrikas iš Kunceno","claim_id":"t-222884","confidence":0.95},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)","claim_id":"t-222445","confidence":0.65},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-179109","confidence":0.74},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-178042","confidence":0.9},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-176709","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Prūsijos hercogo Albrechto herbas","claim_id":"t-223969","confidence":0.75},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Pėstininkų muškieta titnagine spyna","claim_id":"t-39216","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Barta","claim_id":"t-214746","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Galinda","claim_id":"t-223585","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Gunlaukenas","claim_id":"t-36252","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Klaipėda","claim_id":"t-183083","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kulmas","claim_id":"t-221418","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lubava","claim_id":"t-223701","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lubavas","claim_id":"t-221418","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Nadruva","claim_id":"t-225594","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Naujoji Prūsija","claim_id":"t-21641","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Notanga","claim_id":"t-220409","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Pamedė","claim_id":"t-220449","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Plikoji Barta","claim_id":"t-222363","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-180755","confidence":0.62},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-224354","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Teutonai","claim_id":"t-221595","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-111382","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Rizenburgas","claim_id":"t-222400","confidence":0.87},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Romovė","claim_id":"t-213915","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Romučiai","claim_id":"t-218717","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Salavija","claim_id":"t-214435","confidence":0.96},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Semba","claim_id":"t-214470","confidence":0.64},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Skalva","claim_id":"t-221442","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Sūduva","claim_id":"t-220657","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Užnemunė","claim_id":"t-183097","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Varmė","claim_id":"t-220236","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vartenburgas","claim_id":"t-36639","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Aleksandras Karijotaitis","claim_id":"t-186174","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-184668","confidence":0.83},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-184787","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-184886","confidence":0.74},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-185711","confidence":0.83},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-179248","confidence":0.77},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-185742","confidence":0.86},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Hermanas iš Zalcos","claim_id":"t-225013","confidence":0.7},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-185112","confidence":0.76},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179882","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Dovydas (Gardino pilininkas)","claim_id":"t-221267","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Geroldzekas iš Švabijos","claim_id":"t-87679","confidence":0.7},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Henrikas iš Svarcburgo","claim_id":"t-222970","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Jonas iš Liuksemburgo","claim_id":"t-223036","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Popiežius Honorijus II","claim_id":"t-224811","confidence":0.94},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Traidenis","claim_id":"t-184628","confidence":0.84},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-185560","confidence":0.78},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-185791","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-178072","confidence":0.94},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-214755","confidence":0.74},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Henrikas iš Veidos","claim_id":"t-220428","confidence":0.82}],"timeline":[{"date":"1231 m.","label":"1231 m.","claimId":"t-178053"},{"date":"1231 m.","label":"1231 m.","claimId":"t-178098"},{"date":"1284 m.","label":"1284 m.","claimId":"t-205809"},{"date":"1304 m.","label":"1304 m.","claimId":"t-224727"},{"date":"1311 m.","label":"Vytenis 1311 m.","claimId":"t-196732"},{"date":"1322 m.","label":"1322 m.","claimId":"t-178054"},{"date":"1325 m.","label":"1325 m.","claimId":"t-178026"},{"date":"1325 m.","label":"1325 m.","claimId":"t-178075"}],"support_disclosure":{"claims":141,"sources":19}}'
 object_page_finisher: 'true'
@@ -55,15 +73,6 @@ object_page_seo_description: 'Prūsija šiame šaltinių rinkinyje minima kaip i
 object_page_seo_input_hash: ae32522b92e410e112c57c1b9fb729feac9c2fb8f8eec8d874e2e985c6862fff
 object_page_seo_generated_at: '2026-09-18T20:13:46+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-ebb9aa3c0e40179636a56097"
-canonical_name: "Prūsija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Parusais","parusiais","Parusija","Parusis","Parusiu","Parusy","Prūsais","Prūsija"]
-sameAs: ["https://www.wikidata.org/entity/Q38872"]
-canonical_biography: "Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklausomą Prūsiją. Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda. To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių. Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais. Su šiuo kraštu siejama Rusnės salos vardo kilmė."
-place_authority: true
-historical_names: []
 ---
 # Prūsija
 
@@ -2142,207 +2151,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-189167
 
-<a id="claim-t-207995"></a>
-- t-207995
-  teiginys: "Balceris Levaltas Jezierskis buvo kilęs iš Prūsijos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190543
-
-<a id="claim-t-208144"></a>
-- t-208144
-  teiginys: "Buvo rengiama muitų mokesčio administravimo pasienyje su Prūsija analizė."
-  atnaujinta: "2026-09-18 23:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190672
-
-<a id="claim-t-208588"></a>
-- t-208588
-  teiginys: "Vyskupas Motiejus Valančius pats suorganizavo slaptą katalikiškos lietuviškos literatūros leidimą Prūsijoje ir jos gabenimą į Lietuvą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:49Z"
-  pagrindžia:
-    - c-191208
-
-<a id="claim-t-208589"></a>
-- t-208589
-  teiginys: "Iš Prūsijos į Lietuvą pradėjo plisti vyskupo Motiejaus Valančiaus parašytos knygos bei brošiūros."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:49Z"
-  pagrindžia:
-    - c-191209
-
-<a id="claim-t-210820"></a>
-- t-210820
-  teiginys: "Būdamas Lenkijos karaliumi bei Lietuvos didžiuoju kunigaikščiu, karalius Kazimieras ryžosi, savo Lenki jos karalystės Tarybos ponų prikalbėtas, užbaigti tą karą su Prūsija."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193447
-
-<a id="claim-t-212439"></a>
-- t-212439
-  teiginys: "Herulų kelias į jų gimtosios Jūros upės krantus vedė per Pamarį, Kujaviją ir Mazoviją į Prūsiją."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196076
-
-<a id="claim-t-213967"></a>
-- t-213967
-  teiginys: "Jotvingiai klajojo tarp Mazovijos, Prūsijos ir Lietuvos iki Drevantos pelkių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-193061
-
-<a id="claim-t-213993"></a>
-- t-213993
-  teiginys: "Lietuvos valstybė tuomet ne tik savo galybe ir dy džiu pranoko Prūsiją ir Latviją, bet ir buvo viena tų, ku rios ilgiausiai džiaugėsi savo nepriklausomybe."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196552
-
-<a id="claim-t-215165"></a>
-- t-215165
-  teiginys: "Narbutas teigia, kad kitados Prūsijoje vyko žemės drebėjimai."
-  atnaujinta: "2026-09-18 23:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196207
-
-<a id="claim-t-215901"></a>
-- t-215901
-  teiginys: "Iki XIII amžiaus tikroji Prūsija buvo visiškai savarankiška ir sudaryta iš dvylikos provincijų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195874
-
-<a id="claim-t-216129"></a>
-- t-216129
-  teiginys: "Prūsijos kronikininkai dažniausiai kalba apie šią auką, va dindami ją ožio aukojimu, Bockheiligung."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199263
-
-<a id="claim-t-216598"></a>
-- t-216598
-  teiginys: "Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį."
-  atnaujinta: "2026-09-18 23:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokietijos maldininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Vokietijos maldininkai keliavo į Prūsijos žemę."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198751
-
-<a id="claim-t-216949"></a>
-- t-216949
-  teiginys: "Smun kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai - pir miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga liau Žemaitijoje."
-  atnaujinta: "2026-09-18 23:13"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198686
-
-<a id="claim-t-217096"></a>
-- t-217096
-  teiginys: "Prūsijai ir Livonijai praradus nepriklauso mybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu vėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas visą tautą pašaukė priimti šventąjį tikėjimą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199101
-
-<a id="claim-t-217464"></a>
-- t-217464
-  teiginys: "Kurše, Livonijo je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (?"
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198746
-
-<a id="claim-t-219391"></a>
-- t-219391
-  teiginys: "Prūsijoje buvo gausių piliakalnių ir pilkapių, supiltų virš žymių žmonių kapų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200934
-
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais.'
@@ -2786,7 +2594,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-068
 
 - id: c-32359
@@ -2808,7 +2616,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-43769
@@ -2827,7 +2635,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-43770
@@ -2852,7 +2660,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-43771
@@ -2874,7 +2682,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-161812
@@ -2900,7 +2708,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
 
 - id: c-161813
@@ -2940,7 +2748,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-052
 
 - id: c-161814
@@ -2961,7 +2769,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-161815
@@ -2982,7 +2790,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-161816
@@ -3001,7 +2809,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-161818
@@ -3036,7 +2844,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-062
 
 - id: c-161819
@@ -3067,7 +2875,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
     - t-015
 
@@ -3097,7 +2905,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
     - t-048
 
@@ -3121,7 +2929,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-161822
@@ -3145,7 +2953,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
     - t-065
 
@@ -3181,7 +2989,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-161824
@@ -3200,7 +3008,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
 
 - id: c-161826
@@ -3223,7 +3031,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
     - t-042
 
@@ -3246,7 +3054,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-161829
@@ -3266,7 +3074,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-061
 
 - id: c-161830
@@ -3284,7 +3092,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-044
 
 - id: c-161831
@@ -3304,7 +3112,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-161832
@@ -3334,7 +3142,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
 
 - id: c-161833
@@ -3359,7 +3167,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-058
 
 - id: c-161834
@@ -3392,7 +3200,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-161835
@@ -3419,7 +3227,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-036
     - t-057
 
@@ -3437,7 +3245,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-161837
@@ -3456,7 +3264,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-056
 
 - id: c-161839
@@ -3480,7 +3288,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
     - t-060
 
@@ -3511,7 +3319,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
     - t-028
 
@@ -3546,7 +3354,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-161843
@@ -3571,7 +3379,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
 
 - id: c-161847
@@ -3599,7 +3407,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-161849
@@ -3627,7 +3435,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-161850
@@ -3650,7 +3458,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-161851
@@ -3680,7 +3488,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-059
 
 - id: c-161853
@@ -3705,7 +3513,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-041
 
 - id: c-161854
@@ -3735,7 +3543,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
     - t-049
 
@@ -3762,7 +3570,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-025
 
@@ -3795,7 +3603,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
 
 - id: c-161859
@@ -3820,7 +3628,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
 
 - id: c-161860
@@ -3857,7 +3665,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-055
     - t-067
 
@@ -3881,7 +3689,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-161865
@@ -3898,7 +3706,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-161866
@@ -3924,7 +3732,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
 
 - id: c-161867
@@ -3948,7 +3756,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
     - t-053
 
@@ -3973,7 +3781,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-006
 
@@ -3996,7 +3804,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-045
 
 - id: c-161875
@@ -4021,7 +3829,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-161877
@@ -4042,7 +3850,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-050
 
 - id: c-161879
@@ -4064,7 +3872,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-063
     - t-064
 
@@ -4087,7 +3895,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-051
 
 - id: c-161884
@@ -4110,7 +3918,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-161885
@@ -4130,7 +3938,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-043
 
 - id: c-161887
@@ -4151,7 +3959,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-054
 
 - id: c-161889
@@ -4171,7 +3979,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-161890
@@ -4202,7 +4010,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-166472
@@ -4221,7 +4029,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-069
 
 - id: c-167254
@@ -4247,7 +4055,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
 
 - id: c-168463
@@ -4275,7 +4083,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-070
 
 - id: c-168464
@@ -4299,12 +4107,11 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
     kerštą.
   citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-071
 
 - id: c-168466
@@ -4323,12 +4130,11 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
     didžiulį grobį.
   citata_rodoma: "Ramiai\npraslinkus pavasariui, vasaros pradžioje prasidėjo nau­\nji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,\nnetikėtai patraukė su prūsų kariais Gardino kryptimi.\nPo kruvino antpuolio jis paėmė Gardino pilį, išžudė\nįgulą, sugriovė arba sudegino visus įtvirtinimus; du\ntūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė\ndidžiulį grobį."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-072
 
 - id: c-168467
@@ -4361,7 +4167,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-073
 
 - id: c-168468
@@ -4409,7 +4215,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-074
 
 - id: c-168470
@@ -4433,7 +4239,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-075
 
 - id: c-168471
@@ -4461,7 +4267,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-076
     - t-095
 
@@ -4497,7 +4303,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-077
     - t-098
 
@@ -4522,7 +4328,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-078
 
 - id: c-168475
@@ -4551,7 +4357,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-079
 
 - id: c-168476
@@ -4580,7 +4386,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-080
 
 - id: c-171697
@@ -4601,7 +4407,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-081
     - t-100
 
@@ -4625,7 +4431,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-082
 
 - id: c-171701
@@ -4649,7 +4455,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-083
 
 - id: c-171703
@@ -4675,7 +4481,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-084
 
 - id: c-175497
@@ -4697,7 +4503,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-085
 
 - id: c-175498
@@ -4722,7 +4528,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-086
 
 - id: c-175499
@@ -4745,7 +4551,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-087
 
 - id: c-175500
@@ -4771,7 +4577,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-088
 
 - id: c-175502
@@ -4796,7 +4602,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-089
 
 - id: c-175504
@@ -4821,7 +4627,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-090
 
 - id: c-175505
@@ -4844,7 +4650,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-091
 
 - id: c-177141
@@ -4865,7 +4671,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-092
 
 - id: c-177331
@@ -4889,7 +4695,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-093
 
 - id: c-177332
@@ -4911,7 +4717,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-094
 
 - id: c-178875
@@ -4948,7 +4754,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-096
 
 - id: c-178876
@@ -4972,7 +4778,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-097
 
 - id: c-179052
@@ -4997,7 +4803,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-099
 
 - id: c-179391
@@ -5021,7 +4827,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-101
 
 - id: c-179392
@@ -5048,7 +4854,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-102
 
 - id: c-179393
@@ -5075,7 +4881,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-103
 
 - id: c-185005
@@ -5095,7 +4901,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-104
 
 - id: c-185006
@@ -5113,7 +4919,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-105
 
 - id: c-185007
@@ -5132,7 +4938,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-106
 
 - id: c-186711
@@ -5152,7 +4958,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-107
 
 - id: c-187763
@@ -5175,7 +4981,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-111
 
 - id: c-187884
@@ -5200,7 +5006,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-112
 
 - id: c-187922
@@ -5224,7 +5030,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-108
 
 - id: c-187967
@@ -5244,7 +5050,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-110
 
 - id: c-188000
@@ -5265,7 +5071,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-114
 
 - id: c-188161
@@ -5287,7 +5093,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-109
 
 - id: c-188183
@@ -5305,7 +5111,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-113
 
 - id: c-188423
@@ -5325,7 +5131,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-115
 
 - id: c-188424
@@ -5347,7 +5153,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-116
 
 - id: c-188425
@@ -5372,7 +5178,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-117
 
 - id: c-189160
@@ -5389,7 +5195,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-118
 
 - id: c-189161
@@ -5408,7 +5214,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-119
 
 - id: c-189162
@@ -5427,7 +5233,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-120
 
 - id: c-189163
@@ -5447,7 +5253,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-121
 
 - id: c-189164
@@ -5466,7 +5272,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-122
 
 - id: c-189165
@@ -5486,7 +5292,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-123
 
 - id: c-189166
@@ -5503,7 +5309,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-124
 
 - id: c-189167
@@ -5524,672 +5330,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-125
-
-- id: c-187985
-  šaltinis: "Lietuvių tautos istorija, t. 3"
-  puslapiai: "PDF 62"
-  indeksas: "Lietuvių tautos istorija, t. 3, PDF 62."
-  citata_originali: |
-    Tad, kai visa
-    tai tikrai buvo padaryta šventas mintis godojant, jungti­
-    niai visos tautos pulkai, tvirtai tikėdami žygio sėkme,
-    įsiveržė į Mozūriją atlyginti už sutryptą savo dievų garbę
-    ir visai tautai padarytas skriaudas. Viskas buvo sugriau­
-    ta ir apiplėšta, nieko nebuvo pagailėta. Tačiau vos tik
-    prūsai, nebaudžiami siaubę priešų žemę, pasitraukė, mo­
-    zūrai, surinkę nemažas karines pajėgas, patys įsiveržė į
-    Prūsiją ir su neapsakomu įniršiu, dvigubai didesniu negu
-    praėjusį kartą, ėmė viską naikinti, grobti bei žudyti.
-  citata_rodoma: "Tačiau vos tik \nprūsai, nebaudžiami siaubę priešų žemę, pasitraukė, mo­\nzūrai, surinkę nemažas karines pajėgas, patys įsiveržė į \nPrūsiją ir su neapsakomu įniršiu, dvigubai didesniu negu \npraėjusį kartą, ėmė viską naikinti, grobti bei žudyti."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-190543
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 219"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 219."
-  citata_originali: |
-    Jaunąjį vaivadaitį kelionės pradžioje lydėjo 12 žmonių, o visų jų globėjas
-    buvo Radvilos Juodojo dvariškis Jeronimas Makovieckis. Palydėjęs jaunimą iki Stras-
-    būro ir ten juos įkurdinęs, J. Makovieckis grįžo į Lietuvą ir atvežė Radvilai J. Šturmo
-    gimnazijos mokymo programą, kurią Vilniaus vaivada, pasitaręs su Europoje studija-
-    vusiais dvariškiais, įvertino kaip sunkią, bet gerą. Jaunojo Radvilos namų mokytoju
-    studijinėje kelionėje tapo kitas tėvo dvariškis, bajoras, kilęs iš Prūsijos, studijavęs Vi-
-    tenberge, — Balceris Levaltas Jezierskis.
-  citata_rodoma: "Jaunojo Radvilos namų mokytoju\nstudijinėje kelionėje tapo kitas tėvo dvariškis, bajoras, kilęs iš Prūsijos, studijavęs Vi-\ntenberge, — Balceris Levaltas Jezierskis."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207995
-
-- id: c-190672
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 137"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 137."
-  citata_originali: |
-    Be to, lapkričio 30 d.
-    Seimo sprendimu Lietuvos iždo komisijai buvo nurodyta surinkti gruodžio-sausio
-    mėnesio mokesčius, pateikti pajamų ir išlaidų ataskaitas (t. y. atsiskaityti už šios
-    institucijos darbą) ir tik tada susijungti su Lenkijos Karalystės iždo komisija.
-    Sujungtos komisijos turėjo nustatyti vienodus mokesčius visoje Abiejų Tautų
-    Respublikoje**.
-    Pažymėtina ir tai, kad iki susijungimo su Lenkijos iždo komisija Lietuvos iždo
-    komisija dar turėjo atlikti ir kitus „namų darbus": laikydamasi 1791 m. gruodžio
-    z8 d. {statymų sargybos Iždo ministerijos nurodymo ji privalėjo parengti detalią
-    muitų mokesčio administravimo pasienyje su Prūsija analizę.
-  citata_rodoma: "parengti detalią \nmuitų mokesčio administravimo pasienyje su Prūsija analizę"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208144
-
-- id: c-191208
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 110"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 110."
-  citata_originali: |
-    Dabar liko tik nelegalus lie­
-    tuviškos spaudos kelias. Vysk, M. Valančius šio kelio ne­
-    atsisakė. Priešingai, jis pats suorganizavo slaptą katalikiš­
-    kos lietuviškos literatūros leidimą Prūsijoje ir jos gabe­
-    nimą į Lietuvą.
-  citata_rodoma: "Priešingai, jis pats suorganizavo slaptą katalikiš­\nkos lietuviškos literatūros leidimą Prūsijoje ir jos gabe­\nnimą į Lietuvą."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208588
-
-- id: c-191209
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 110"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 110."
-  citata_originali: |
-    Šių kunigtj tar­
-    pininkavimu pradėta vysk. M. Valančiaus raštus spaus­
-    dinti Prūsijoje5.
-    Kai kas mano, kad katalikiškos literatūros leidimui
-    Prūsijoje vysk. M. Valančius buvo panaudojęs net 25 000
-    rub.6
-    Iš Prūsijos į Lietuvą pradėjo plaukti vysk. M. Valan­
-    čiaus parašytos knygos bei brošiūros: „Kantyczkos", ,,2i-
-    1 Ten pat.
-  citata_rodoma: "Iš Prūsijos į Lietuvą pradėjo plaukti vysk. M. Valan­\nčiaus parašytos knygos bei brošiūros:"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208589
-
-- id: c-193061
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
-  citata_originali: |
-    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
-    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
-    kiečiais lietuvių ryšius su Pamariu ir Prūsija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213967
-
-- id: c-193447
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 135."
-  citata_originali: |
-    Būdamas Lenkijos karaliumi bei Lietuvos didžiuoju
-    kunigaikščiu, karalius Kazimieras ryžosi, savo Lenki­
-    jos karalystės Tarybos ponų prikalbėtas, užbaigti tą
-    karą su Prūsija
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210820
-
-- id: c-194399
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 252."
-  citata_originali: |
-    245
-    Tikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos
-    jūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios
-    siena, kurią parodėme anksčiau (§ 223), net iki Širvintos
-    upės, vėliau žinoma siena su Mazovija, Michalovo ir Dob-
-    rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną
-    ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė
-    siena su Žemaitija (§228). Kadangi Rusios tema mūsų
-    jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­
-    vincija, žiūrėsime į Prūsiją, turinčią vėlesnes ribas, kurios
-    labai nedaug skyrėsi nuo senovinių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195874
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 262"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
-  citata_originali: |
-    Tikrą Prūsiją, kuri ligi XIII amžiaus buvo visiškai
-    savarankiška, sudarė dvylika provincijų, kuriose gyveno
-    dvylika genčių
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215901
-
-- id: c-196076
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 326"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 326."
-  citata_originali: |
-    artimiausias ir saugiausias herulų kelias vingiavo į
-    Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš
-    kur buvo visai netoli iki herulų gimtosios Jūros upės
-    krantų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212439
-
-- id: c-196207
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
-  citata_originali: |
-    Čia dar kartą pakartosime
-    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
-    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
-    laikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­
-    veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos
-    žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­
-    desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės
-    drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­
-    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
-    jį iš Trakijos į Makedoniją (Noet Fr.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215165
-
-- id: c-196552
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 33"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 33."
-  citata_originali: |
-    Lietuvos valstybė tuomet ne tik savo galybe ir dy­
-    džiu pranoko Prūsiją ir Latviją, bet ir buvo viena tų, ku­
-    rios ilgiausiai džiaugėsi savo nepriklausomybe.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213993
-
-- id: c-196691
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 336"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
-  citata_originali: |
-    Priekaištaujama, kad, norint su­
-    skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­
-    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
-    seklias vietas, kurios kartais būva apsemtos, o kartais —
-    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
-    Sala, kurią Plinijus vadina Baltija, remdamasis visais
-    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
-    lia.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196996
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
-  citata_originali: |
-    Tai liudija, kad šis biografas žinojo
-    tikrąjį krašto ¡pavadinimą, nes pats asmeniškai ten buvo,
-    kalėjo prūsų kalėjime, po šv. Vaitiekaus kankinimo gy­
-    veno Lenkijos Karalystės sostinėje ir karaliaus Boleslovo
-    Narsiojo rūmuose. Tai yra aiškiausias įrodymas, jog tuo
-    vardu ne tik patys gyventojai, bet ir kaimynai lenkai va­
-    dino visą kraštą, plytėjusį nuo Vyslos ligi Priegliaus ir
-    toliau. Tai buvo jau penkis amžius gyvavusi respublika,
-    kurią sudarė į vieną politinę-religinę sąjungą susivieniju­
-    sios žinomos provincijos. Juk tarp visų lietuvių nebuvo
-    jokios atskiros genties, kuri būtų vadinama Prūsija ir
-    kurios vardas būtų siejamas su žeme ar kraštu, sudaran­
-    čiu mūsų pirmą sritį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197150
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
-  citata_originali: |
-    Daug kitų Vasilka paėmė į nelaisvę ir pasiun­
-    tė į Haličą savo broliui; visi tuo labai džiaugėsi2.
-    123
-    Kai 1253 metų pradžioje susiklostė draugiški Pamario
-    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
-    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
-    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
-    tinga Sembos provincija, bet šie atkaklūs bandymai ją
-    užkariauti nepavyko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197356
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 339"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
-  citata_originali: |
-    Iš tikrųjų įžymus botanikas Sprengelis iš Halės,
-    remdamasis vaisiaus išvaizda, parašė man savo- nuomo­
-    nę: jis priskyrė gintarą prie Phyllantus Emblica, be to,
-    pridūrė: „Aš galiu klysti. Senovės pasaulis paliko mums
-    žemėje ir akmens anglyse augalų, kurių archetipų vos
-    begalima pastebėti. Tad visiškai gali būti, jog šis prūsų
-    vaisius susijęs su viena palme, kai netoli Paryžiaus ir
-    Kolonijos buvo rasta įvairių palmių vaisių“.
-    Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
-    karšto klimato medis Phyllantus Emblica būtų atsidū­
-    ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
-    ,,De fructibus et seminibus plantarum", kad įsitikintume,
-    jog minėtas vaisius neišaugo jokioje Emblikoje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197607
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
-  citata_originali: |
-    Pavergęs slavų kraštą ir pamanęs, jog
-    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
-    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
-    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
-    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
-    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
-    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
-    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
-    viais, jog visiškai įbauginta liaudis vėl nusižemino.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198686
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
-  citata_originali: |
-    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
-    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
-    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
-    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
-    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
-    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
-    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
-    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
-    nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
-    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai - pir­
-    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
-    liau Žemaitijoje.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216949
-
-- id: c-198746
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
-  citata_originali: |
-    Kurše, Livonijo­
-    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
-    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
-    garbinamas Pušaitis ir barstukai18“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217464
-
-- id: c-198751
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
-  citata_originali: |
-    Iš šio vardo prasmės pastebime, kad
-    tas dievas reiškė tą patį, ką Antikos žmonėms Saturnas. Tas
-    senovės mitas, primenantis labai reikšmingą Titanų šeimynos
-    asmenį, negalėjo būti nežinomas lietuvių mitologijai.
-    Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu
-    buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky­
-    tas dievu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216598
-
-- id: c-199101
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 392"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 392."
-  citata_originali: |
-    Prūsijai ir Livonijai praradus nepriklauso­
-    mybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu­
-    vėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas
-    visą tautą pašaukė priimti šventąjį tikėjimą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217096
-
-- id: c-199263
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 312"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 312."
-  citata_originali: |
-    Prūsijos kronikininkai dažniausiai kalba apie šią auką, va­
-    dindami ją ožio aukojimu, Bockheiligung.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216129
-
-- id: c-200934
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 371"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
-  citata_originali: |
-    Hart-
-    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
-    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
-    nių kapų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219391
-
-- id: c-201888
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
-  citata_originali: |
-    XIII a. šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т. 2 (1908), стб.
-    813, 877) bei kt. vakarinių baltų žemės. Prūsais, Prūsija visas kraštas tarp Vyslos ir
-    Nemuno galutinai pradėta vadinti tada, kai buvo pavergtas Kryžiuočių ordino (Būga K. 3,
-    p. 120—121; Кушнер П. И. Этнические..., с. 154—155; Jasas R. Didysis..., p. 11; Salys
-    A. Prūsai (kalba), p. 147; MPKP, 1, p. 14—15; Powierski J. Stosunki..., p. 139; to paties,
-    Prusowie..., p. 368—371; to paties, Uwagi..., p. 128; HP, 1, 1, p. 280—281; Bednarczuk
-    L. Onomastyka..., p. 59—61).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203269
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 197"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
-  citata_originali: |
-    288 (281). Apie maldininkų atvykimą
-    1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
-    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
-    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
-    kitų kilmingųjų iš Reino.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204209
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
-  citata_originali: |
-    Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
-    (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
-    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
-    Ordiną — tai „šventas sumanymas“ (III,284).
-    Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami
-    praturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais
-    turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
-    Kryžininkų kariuomenėje buvo skirtingų luomų ir socialinės padėties žmonių, kurie tikėjo,
-    jog atlieka savo pareigą, gina ir skleidžia išganingą santvarką, paremtą krikščioniškąja
-    teise, pagal kurią tik krikščionių dievo vardu dovanota žemė ir ją dirbantys žmonės
-    laikomos teisėtai valdomi.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204381
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
-  citata_originali: |
-    Prūsai ir Lietuva
-    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
-    vientisumas.
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204447
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 253-254"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253-254."
-  citata_originali: |
-    9. Apie Medvėgalio pilėnus
-
-    1329 viešpaties metais  į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
-    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
-    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
-    grafais  ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
-    bei Donos burggrafu  ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
-    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių  ir 18 tūkstančių karių,
-    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
-    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
-    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204962
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
-  citata_originali: |
-    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-205193
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 197"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
-  citata_originali: |
-    287 (280). Apie žemės drebėjimą Prūsijos žemėje
-    Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.
-    Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-205708
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 248"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
-  citata_originali: |
-    114. Apie mažesnį silkių sugavimą Prūsijoje
-
-       Tais metais Prūsijos žemėje kur kas mažiau buvo pagaunama silkių, kurių ten buvę
-    gausu nuo neatmenamų laikų.
-
-
-
-                   115.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]], [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]], [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Henrikas Lankasteris]], [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Jonas (Čekijos karalius)]], [[objektai/asmenys/Konradas iš Foichtvangeno]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]], [[objektai/asmenys/Petras iš Rozenbergo]], [[objektai/asmenys/Pilypas]], [[objektai/grupes/Prancūzai]], [[objektai/asmenys/Vaidila]], [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]], [[objektai/grupes/Vokietijos maldininkai]]

@@ -70,6 +70,5 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

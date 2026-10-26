@@ -81,6 +81,5 @@ canonical_biography: "Abiem atvejais valdovas tai darė savo maršalo Alberto Ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

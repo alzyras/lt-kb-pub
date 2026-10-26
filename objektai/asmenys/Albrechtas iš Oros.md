@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-bffb9806e871b80be2fc391e"
-canonical_name: "Albrechtas iš Oros"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Albrechtas iš Oros"]
+entity_id: ent-bffb9806e871b80be2fc391e
+canonical_name: Albrechtas iš Oros
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Albrechtas iš Oros
 sameAs: []
-canonical_biography: "Albrechtas iš Oros su Fridrichu iš Libencelės ir Ditrichu iš Altenburgo puolė lietuvius Kalsių lauke."
+canonical_biography: Albrechtas iš Oros su Fridrichu iš Libencelės ir Ditrichu iš Altenburgo puolė lietuvius Kalsių lauke.
 ---
 # Albrechtas iš Oros
 
@@ -65,6 +67,5 @@ Albrechtas iš Oros su Fridrichu iš Libencelės ir Ditrichu iš Altenburgo puol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

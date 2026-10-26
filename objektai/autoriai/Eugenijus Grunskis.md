@@ -31,13 +31,14 @@ canonical_biography: "Leidinyje teigiama, kad Eugenijus Grunskis išsamiai raš�
 
 Ona Dapšytė-Kriukelienė knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Eugenijų Grunskį apibūdina kaip išsamiai rašiusį apie represinių struktūrų veiklą Kupiškio krašte.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213468
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Ona Dapšytė-Kriukelienė knygoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Eugenijų Grunskį apibūdina kaip išsamiai rašiusį apie represinių struktūrų veiklą Kupiškio krašte.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 15"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 15."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:39"

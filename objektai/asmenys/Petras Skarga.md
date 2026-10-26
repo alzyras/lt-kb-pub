@@ -94,7 +94,7 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-178779
@@ -117,6 +117,5 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -69,6 +69,5 @@ Per Graudžių girią žygiuota sunkiai; Vitingai ir Insterburgo pasienio sargyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

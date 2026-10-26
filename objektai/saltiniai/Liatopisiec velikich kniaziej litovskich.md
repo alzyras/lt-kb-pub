@@ -65,6 +65,5 @@ Lietuvos metraštis («Liatopisiec velikich kniaziej litovskich») Vytauto lupom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

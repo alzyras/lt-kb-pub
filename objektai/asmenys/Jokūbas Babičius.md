@@ -106,6 +106,5 @@ canonical_biography: "1525 metais Vilniuje jau veikė spaustu­ vė, kurioje Jok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

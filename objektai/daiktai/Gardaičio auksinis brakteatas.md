@@ -74,6 +74,5 @@ Brakteatas yra auksinis, kiek didesnio nei colis skersmens ir turi ausele pakabi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

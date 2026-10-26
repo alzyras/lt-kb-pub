@@ -79,6 +79,5 @@ Traidenio vadovaujama Lietuvos kariauna atžygiavo prie Daugpilio ir pradėjo pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

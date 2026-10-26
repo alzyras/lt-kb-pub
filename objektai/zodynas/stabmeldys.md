@@ -89,18 +89,6 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   pagrindžia:
     - c-45550
 
-<a id="claim-t-222826"></a>
-- t-222826
-  teiginys: "Dusburgietis pasakoja, kad Konradas, Vokietijos kunigas, persikėlė į Lietuvą atversti stabmeldžių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206347
-
 ## Citatos
 
 - id: c-45548
@@ -123,7 +111,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-45549
@@ -145,7 +133,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-45550
@@ -167,23 +155,5 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-206347
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
-  citata_originali: |
-    1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė į Lietuvos kraštą
-    atversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222826
-

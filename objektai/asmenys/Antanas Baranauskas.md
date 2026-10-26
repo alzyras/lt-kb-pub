@@ -33,6 +33,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-ed27356d5be324f6734eb2d2
+canonical_name: Antanas Baranauskas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Antanas Baranauskas
+  - objektai/autoriai/Antanas Baranauskas
+sameAs: []
+canonical_biography: 'Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu. Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
 external_sources_json: '[{"title":"Antanas Baranauskas","url":"https://lt.wikipedia.org/wiki/Antanas_Baranauskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Antanas Baranauskas","url":"https://www.vle.lt/straipsnis/antanas-baranauskas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:49:29+00:00","source_checked_at":"2026-09-20T09:49:29+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Antanas Baranauskas (1835 m. sausio 17 d. Anykščiuose, Vilkmergės apskrityje – 1902 m. lapkričio 26 d. Seinuose) – XIX a. vidurio lietuvių Romantizmo poetas, katalikų dvasininkas, Seinų vyskupas, kalbininkas, matematikas, Biblijos vertėjas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"23596","revision_id":"7752703","status":"published","translation_status":"native","source":{"title":"Antanas Baranauskas","url":"https://lt.wikipedia.org/wiki/Antanas_Baranauskas","publisher":"Vikipedija","language":"lt","article_id":"23596","revision_id":"7752703","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7752703","history_url":"https://lt.wikipedia.org/w/index.php?title=Antanas_Baranauskas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:05:54.893580+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"MediaWiki rendered HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"9675696fe8c8a9fac4f5f48154b00d4e4c20fd37576cfdbfeff06f15ae5e7be5","version_pk":"9ea225815eee0126a0301d7a680be4b7"}},"source_buttons":[{"label":"Vikipedija","title":"Antanas Baranauskas","url":"https://lt.wikipedia.org/wiki/Antanas_Baranauskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Antanas Baranauskas","url":"https://www.vle.lt/straipsnis/antanas-baranauskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Antanas_Baranauskas","https://www.vle.lt/straipsnis/antanas-baranauskas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"64cfd458ea84acfebff40eb7","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"1859 m. išreiškė civilizuotos, aukštąją kultūrą turinčios lietuvių tautos viziją.","context":"Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio Lietuvos istorijoje aprašoma Antano Baranausko 1859 m. išsakyta tautos vizija.","support_ids":["t-78029","c-75343"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78029","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75343","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tačiau antros šio sąjūdžio kartos atstovas, aukš- taitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatū- ros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu; / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai civilizuotos, savo aukštąją kultūrą turinčios tautos vizija."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
 object_page_finisher: 'true'
@@ -46,13 +56,6 @@ object_page_seo_description: 'Antanas Baranauskas: Tačiau antros šio sąjūdž
 object_page_seo_input_hash: 1f5da20ed0e7f22d99c1bde505536a68226ca317b1e033704134861acd69cf74
 object_page_seo_generated_at: '2026-09-20T09:49:29+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-ed27356d5be324f6734eb2d2"
-canonical_name: "Antanas Baranauskas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Antanas Baranauskas","objektai/autoriai/Antanas Baranauskas"]
-sameAs: ["https://www.wikidata.org/entity/Q570952"]
-canonical_biography: "Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu. Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi."
 ---
 # Antanas Baranauskas
 
@@ -97,44 +100,6 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   pagrindžia:
     - c-75342
 
-<a id="claim-t-208467"></a>
-- t-208467
-  teiginys: "Antanas Baranauskas nurodė, kad Kaune gyvenęs vyskupas Motiejus Valančius šiokiadieniais eidavo į savo koplyčią klausyti išpažinčių jų prašiusių žmonių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:42Z"
-  pagrindžia:
-    - c-191087
-
-<a id="claim-t-208469"></a>
-- t-208469
-  teiginys: "Baranauskas prie Valančiaus karsto pabrėžė, kad prie velionio visada buvo galima prieiti ir kad jis šelpė minias vargšų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191089
-
-<a id="claim-t-209303"></a>
-- t-209303
-  teiginys: "A. Baranauskas „Metskaitliuose“ paskelbė blaivybės raidos refleksiją „Suvveiga girtuoklu“."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:42Z"
-  pagrindžia:
-    - c-191983
-
 ## Citatos
 
 - id: c-75342
@@ -154,7 +119,7 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-75343
@@ -175,78 +140,5 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-191087
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 53"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 53."
-  citata_originali: |
-    niškis J. Bartkevičius prisipažįsta, kad jie vaikystėje tan­
-    kiau eidavę išpažinties pas vysk. M. Valančių, norėdami
-    gauti dovanų
-    Stropiu nuodėmklausiu vysk. M. Valančius buvo visą
-    gyvenimą1 2. Vysk. A. Baranauskas mini, kad ganytojas,
-    gyvendamas Kaune, ir šiokiadieniais eidavęs į savo kop­
-    lyčią klausyti išpažinčių tų, kurie prašė 3.
-    Vysk. M. Valančius rūpinosi, kad jam pavaldūs ku­
-    nigai būtų stropūs ir geri nuodėmklausiai.
-  citata_rodoma: "Vysk. A. Baranauskas mini, kad ganytojas, \ngyvendamas Kaune, ir šiokiadieniais eidavęs į savo kop­\nlyčią klausyti išpažinčių tų, kurie prašė 3."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208467
-
-- id: c-191089
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 158"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 158."
-  citata_originali: |
-    Čia išvardyta tik maža vysk. M. Valančiaus labdary­
-    bės dalelė rodo, kokia plati buvo jo karitatinė veikla,
-    kaip jis mylėjo vargšus ir koks buvo jiems artimas, pri­
-    einamas bei paprastas. Jo namų durys visiems buvo at­
-    viros, visus jis priimdavo, išklausydavo ir kuo galėdamas
-    padėdavo6 7.
-    Todėl vysk. A. Baranauskas prie vysk. M. Valančiaus
-    karsto galėjo priminti, kad prie velionio visada galima
-    buvo prieiti, kad jis šelpdavęs ir maitindavęs minias
-    vargšų 1.
-  citata_rodoma: "Todėl vysk. A. Baranauskas prie vysk. M. Valančiaus \nkarsto galėjo priminti, kad prie velionio visada galima \nbuvo prieiti, kad jis šelpdavęs ir maitindavęs minias \nvargšų 1."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208469
-
-- id: c-191983
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 82"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 82."
-  citata_originali: |
-    pasaulietis inteligentas, bendradarbiavęs su L. Ivinskiu48. Kalendorių
-    rengimui tiesiogiai talkino ir pats M. Valančius. Blaivybės judėjimo
-    apogėjuje A. Baranauskas "Metskaitliuose" paskelbė net savotišką
-    blaivybės raidos refleksiją, pavadintą "Suvveiga girtuoklu" ir pasirašyta
-    ''Jurkszto Smalausio”.
-  citata_rodoma: "Blaivybės judėjimo \napogėjuje A. Baranauskas \"Metskaitliuose\" paskelbė net savotišką \nblaivybės raidos refleksiją, pavadintą \"Suvveiga girtuoklu\" ir pasirašyta \n''Jurkszto Smalausio”."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209303
-

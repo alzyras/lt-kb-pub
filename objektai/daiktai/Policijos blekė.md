@@ -72,6 +72,5 @@ Blekėje buvo įrašyta „Gebeimer Policist fuer Litauen und Kurland“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

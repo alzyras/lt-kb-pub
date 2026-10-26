@@ -30,6 +30,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-9b95cf99f8ec3668f60ec928
+canonical_name: Pelužis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Pelužis
+sameAs: []
+canonical_biography: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė. Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku.'
 external_sources_json: '[{"title":"Pelužis","url":"https://www.vle.lt/straipsnis/peluzis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:36:14+00:00","source_checked_at":"2026-09-20T03:36:14+00:00","counts":{"relations":5,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Pelužis","url":"https://www.vle.lt/straipsnis/peluzis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/peluzis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"619f23e33cfe2d753445bdf9","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Lengvai patikėjo patarimu.","context":"Albertas Vijūkas-Kojelavičius, „Lietuvos istorija“ (1989 m.); pasakojime apie sumanymo perdavimą Albertui fon Meisenui.","support_ids":["t-184817","c-168178"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184817","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168178","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tegu su kariais netikėtai pasirodąs, iš pa­ čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem- sią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­ nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą. Žygis nereikalavo didelės ka­ riuomenės, būtų užtekę negausaus, bet ryžtingo būrio, lengvai ginkluotų, bet drąsių, ne per daug besidomin­ čių vado planais karių."}],"status":"published","conflict_status":"clear"},{"trait_id":"7ca7f92299fad93d36a23683","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Apie sumanymą pranešė Karaliaučiaus komtūrui Albertui fon Meisenui.","context":"Albertas Vijūkas-Kojelavičius, „Lietuvos istorija“ (1989 m.); Albertas fon Meisenas sumanymą parėmė.","support_ids":["t-184817","c-168178"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184817","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168178","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tegu su kariais netikėtai pasirodąs, iš pa­ čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem- sią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­ nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą. Žygis nereikalavo didelės ka­ riuomenės, būtų užtekę negausaus, bet ryžtingo būrio, lengvai ginkluotų, bet drąsių, ne per daug besidomin­ čių vado planais karių."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"13c7edb989828112642df3a1","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Dėl patirtų skriaudų kreipėsi į Sembos žemės brolius ir paprašė Karaliaučiaus komtūro skirti jam vyrų.","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.); pasakojimas apie įvykį, kurį komentare nurodoma galėjus vykti 1289 m.","support_ids":["t-222045","c-202304","t-221928","c-203120","c-204411"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222045","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-221928","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202304","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius"},{"kind":"evidence","evidence_id":"c-203120","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą], vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."},{"kind":"evidence","evidence_id":"c-204411","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"III, 235), sukilimą prūsai galėjo rengti 1289 m. Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą], vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e223dba59dca3af362555824","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvis.","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.); pasakojime apie Pelužį, įžeistą savo viešpaties.","support_ids":["t-222045","c-202304"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222045","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202304","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Pelužis buvo XIII amžiaus pabaigoje minimas lietuvis, susidūręs su savo viešpačiu – įtakingu kunigaikščiu, laikytu antru asmeniu po Lietuvos karaliaus. Dėl patirtos skriaudos jis atvyko pas Sembos žemės brolius ir kreipėsi pagalbos į Karaliaučiaus komtūrą. Pelužio prašymu komtūras jam paskyrė Martyną iš Golino, Konradą, pravarde Velnią, Stavimėlą ir dar dvidešimt narsių, plėšikauti įgudusių vyrų; visi kartu išžygiavo ginkluoti atkeršyti. Vėliau Pelužis apie sumanymą pranešė komtūrui Albertui fon Meisenui, kuris jį parėmė, o planuotam žygiui, pasak šaltinio, būtų pakakę nedidelio, ryžtingo ir lengvai ginkluoto būrio. Taip Pelužio istorija atskleidžia, kaip asmeninis konfliktas galėjo peraugti į karinę akciją, pasitelkiant kryžiuočių pareigūnų paramą.","sentences":[{"sentence_id":"s1","text":"Pelužis buvo XIII amžiaus pabaigoje minimas lietuvis, susidūręs su savo viešpačiu – įtakingu kunigaikščiu, laikytu antru asmeniu po Lietuvos karaliaus.","support_ids":["t-222045","c-202304","t-221928","c-204411"]},{"sentence_id":"s2","text":"Dėl patirtos skriaudos jis atvyko pas Sembos žemės brolius ir kreipėsi pagalbos į Karaliaučiaus komtūrą.","support_ids":["t-222045","c-202304","t-221928","c-203120"]},{"sentence_id":"s3","text":"Pelužio prašymu komtūras jam paskyrė Martyną iš Golino, Konradą, pravarde Velnią, Stavimėlą ir dar dvidešimt narsių, plėšikauti įgudusių vyrų; visi kartu išžygiavo ginkluoti atkeršyti.","support_ids":["t-221928","c-203120"]},{"sentence_id":"s4","text":"Vėliau Pelužis apie sumanymą pranešė komtūrui Albertui fon Meisenui, kuris jį parėmė, o planuotam žygiui, pasak šaltinio, būtų pakakę nedidelio, ryžtingo ir lengvai ginkluoto būrio.","support_ids":["t-184817","c-168178"]},{"sentence_id":"s5","text":"Taip Pelužio istorija atskleidžia, kaip asmeninis konfliktas galėjo peraugti į karinę akciją, pasitelkiant kryžiuočių pareigūnų paramą.","support_ids":["t-222045","c-202304","t-184817","c-168178"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina, kad Pelužis buvo lietuvis, konfliktavo su savo viešpačiu kunigaikščiu, laikytu antru po Lietuvos karaliaus, o įvykiai datuojami XIII a. pabaiga."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad įžeistas Pelužis atvyko pas Sembos žemės brolius ir kreipėsi į Karaliaučiaus komtūrą."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai išvardija paskirtus vyrus, dar dvidešimt kitų narsių vyrų ir jų išžygiavimą ginklu atkeršyti."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad Pelužis pranešė Albertui fon Meisenui, šis parėmė sumanymą, o žygiui būtų pakakę nedidelio, ryžtingo ir lengvai ginkluoto būrio."},{"sentence_id":"s5","supported":true,"reason":"Tai pagrįsta ankstesniuose šaltiniuose tiesiogiai aprašyta konflikto, keršto žygio ir komtūrų paramos seka."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-222045","c-202304","t-221928","c-204411"]},{"sentence_id":"s2","supported":true,"support_ids":["t-222045","c-202304","t-221928","c-203120"]},{"sentence_id":"s3","supported":true,"support_ids":["t-221928","c-203120"]},{"sentence_id":"s4","supported":true,"support_ids":["t-184817","c-168178"]},{"sentence_id":"s5","supported":true,"support_ids":["t-222045","c-202304","t-184817","c-168178"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Martynas iš Golino","claim_id":"t-222398","confidence":0.82},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Stavimėlas","claim_id":"t-221484","confidence":0.72},{"predicate":"puole","direction":"outbound","target":"objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)","claim_id":"t-185761","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių","claim_id":"t-223060","confidence":0.84},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-184699","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":6,"sources":3}}'
 object_page_finisher: 'true'
@@ -43,13 +52,6 @@ object_page_seo_description: 'Pelužis buvo XIII amžiaus pabaigoje minimas liet
 object_page_seo_input_hash: 3ab6975c3f67fa7a160f48479176f221b59d0bcdeabe12bf452c3148165b399b
 object_page_seo_generated_at: '2026-09-20T03:36:14+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-9b95cf99f8ec3668f60ec928"
-canonical_name: "Pelužis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Pelužis"]
-sameAs: []
-canonical_biography: "Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė. Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku."
 ---
 # Pelužis
 
@@ -143,39 +145,6 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   pagrindžia:
     - c-179341
 
-<a id="claim-t-220635"></a>
-- t-220635
-  teiginys: "Pelužis buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo."
-  atnaujinta: "2026-09-20 06:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-222045"></a>
-- t-222045
-  teiginys: "Pelužis buvo lietuvis, kuris dėl konflikto su savo viešpačiu kreipėsi į Sembos žemės brolius."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-202304
-
-<a id="claim-t-224272"></a>
-- t-224272
-  teiginys: "Pelužis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
-  atnaujinta: "2026-09-20 06:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -254,7 +223,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
@@ -278,7 +247,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168178
@@ -297,12 +266,11 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     čių vado planais karių.
   citata_rodoma: "Tegu su kariais netikėtai pasirodąs, iš pa­\nčių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-\nsią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­\nnešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,\nkuris parėmė sumanymą. Žygis nereikalavo didelės ka­\nriuomenės, būtų užtekę negausaus, bet ryžtingo būrio,\nlengvai ginkluotų, bet drąsių, ne per daug besidomin­\nčių vado planais karių."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-179341
@@ -330,51 +298,5 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-194645
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
-  citata_originali: |
-    Dabar
-    panagrinėkime naujesnius pėdsakus, liudijančius, kad šių
-    protėvių vardas ne tik nebuvo svetimas Lietuvoje, bet ir
-    įsiamžino įžymių žmonių, giminių asmenvardžiuose, upių,
-    ežerų, gyvenviečių pavadinimuose. Dusiburgas2 primena
-    vardą įžymaus žmogaus, kilusio iš kunigaikščio Pelužio
-    giminės; anot vietinių tyrinėjimų, Lydos apskrityje būta
-    ir kilmingos Pelužių, arba Pelusų, Pelasų, giminės; ten
-    taip pat Pelesos upė ir to paties pavadinimo ežeras, į kurį
-    ji įteka, be to, esama kaimų, senovinių gyvenviečių, yra
-    senoji ir naujoji Pelesa, taip pat Palaškos, esančios toje
-    pačioje apskrityje ir netoli šių vandens telkinių. Netoli
-    šių vietų plytinti gana didelė sritis seniau buvo vadinama
-    Peluzija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202304
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
-  citata_originali: |
-    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
-    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
-    karaliaus524, atvyko pas Sembos žemės brolius
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222045
-

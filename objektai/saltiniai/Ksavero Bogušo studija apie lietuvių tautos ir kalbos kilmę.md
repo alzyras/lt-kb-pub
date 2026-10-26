@@ -58,6 +58,5 @@ Iš keturių dialektų, kuriuos paminėjome, lietuvių kalba yra gryniausia, ori
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

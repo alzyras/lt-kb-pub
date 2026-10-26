@@ -106,7 +106,7 @@ Sutvirtinimo sakramento tvarkos aprašyme aiškinama, kas yra šis sakramentas, 
 <a id="claim-t-208797"></a>
 - t-208797
   teiginys: "Sutvirtinimo sakramento tvarkos aprašyme aiškinama, kas yra šis sakramentas, kokie jo vaisiai ir kaip jam pasiruošti bei jį priimti."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

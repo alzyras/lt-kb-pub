@@ -26,13 +26,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-3eea8ed5995cfb65f4af41b5"
-canonical_name: "Kazimieras Bielinskis (kunigas, XIX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kazimieras Bielinskis","Kazimieras Bielinskis (kunigas, XIX a.)"]
+entity_id: ent-3eea8ed5995cfb65f4af41b5
+canonical_name: 'Kazimieras Bielinskis (kunigas, XIX a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kazimieras Bielinskis
+  - 'Kazimieras Bielinskis (kunigas, XIX a.)'
 sameAs: []
-canonical_biography: "Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardytas kaip Telšių apskrities Salantų klebonas."
+canonical_biography: Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardytas kaip Telšių apskrities Salantų klebonas.
 ---
 # Kazimieras Bielinskis (kunigas, XIX a.)
 
@@ -66,9 +69,8 @@ canonical_biography: "Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209416"></a>

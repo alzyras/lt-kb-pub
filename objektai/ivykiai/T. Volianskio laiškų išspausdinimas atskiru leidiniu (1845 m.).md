@@ -92,6 +92,5 @@ Volianskio laiškai 1 Minėtas piešinys spausdinamas šio teksto gale.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -87,6 +87,5 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

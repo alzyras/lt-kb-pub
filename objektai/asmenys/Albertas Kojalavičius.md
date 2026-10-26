@@ -122,7 +122,7 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185449
@@ -139,7 +139,7 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185700
@@ -149,9 +149,8 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-185956
@@ -162,6 +161,5 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
+  pagrindzia:
     - t-004
-

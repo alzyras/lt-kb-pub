@@ -77,6 +77,5 @@ Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, ai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

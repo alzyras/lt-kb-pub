@@ -79,6 +79,5 @@ XVI a. pagrindiniai pieno produktai buvo sūriai ir sviestas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

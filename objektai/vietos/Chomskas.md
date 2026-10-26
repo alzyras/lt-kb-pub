@@ -75,6 +75,5 @@ Oginskis spėjo sutelkti Chomske, ėmė supti Rusijos kariuomenės daliniai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

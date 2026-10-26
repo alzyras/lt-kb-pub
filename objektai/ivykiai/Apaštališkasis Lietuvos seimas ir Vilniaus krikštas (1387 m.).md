@@ -114,7 +114,7 @@ Pasak Teodoro Narbuto, Jogaila, atvykęs į Vilnių, sušaukė Lietuvos seimą, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189324
@@ -133,6 +133,5 @@ Pasak Teodoro Narbuto, Jogaila, atvykęs į Vilnių, sušaukė Lietuvos seimą, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

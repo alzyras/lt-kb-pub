@@ -23,13 +23,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-e082be5eee43194f18090e77"
-canonical_name: "Simonas Jurgaitis Alšėniškis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Simonas Jurgaitis Alšėniškis"]
+entity_id: ent-e082be5eee43194f18090e77
+canonical_name: Simonas Jurgaitis Alšėniškis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Simonas Jurgaitis Alšėniškis
 sameAs: []
-canonical_biography: "Lucko seniūnas Simonas Jurgaitis Alšėniškis mirė 1505 ar 1506 m."
+canonical_biography: Lucko seniūnas Simonas Jurgaitis Alšėniškis mirė 1505 ar 1506 m.
 ---
 # Simonas Jurgaitis Alšėniškis
 
@@ -71,6 +73,5 @@ Lucko seniūnas Simonas Jurgaitis Alšėniškis mirė 1505 ar 1506 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

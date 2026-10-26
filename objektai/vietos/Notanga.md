@@ -19,6 +19,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-af7020f25b4614eb46e31776
+canonical_name: Notanga
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Notanga
+sameAs: []
+canonical_biography: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad siaurės rytuose priėjo Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais priskiriama Notangai). Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų.'
+place_authority: true
+historical_names: []
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:48:15+00:00","source_checked_at":"2026-09-20T18:48:15+00:00","counts":{"relations":6,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Notanga (prūs. Nātanga) – prūsų žemė už Varmės iki Priegliaus ir Alnos. Šiaurėje Priegliaus upė skyrė nuo Sembos, pietvakariuose ribojosi su Varme, pietuose nuo Bartos skyrė Alna. Notanga siekė ir Baltijos pakrantę (Aistmarės). Joje gyveno prūsų gentis notangai. Notangos šiaurinei daliai priklausė Seilavos balynas su iš jo ištekančiu Frišingu (Virsingu) bei šio upyno upėmis – Stradiku ir Pasmara.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"28050","revision_id":"7618508","status":"published","translation_status":"native","source":{"title":"Notanga","url":"https://lt.wikipedia.org/wiki/Notanga","publisher":"Vikipedija","language":"lt","article_id":"28050","revision_id":"7618508","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7618508","history_url":"https://lt.wikipedia.org/w/index.php?title=Notanga&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:24.956085+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"30e032b7b15b78fc1bf1543dd7969572907caeab65ca0dc5ef0286a03a3d9cc8","version_pk":"edc1f359c5b85726961455217aa949c6"}},"source_buttons":[{"label":"Vikipedija","title":"Notanga","url":"https://lt.wikipedia.org/wiki/Notanga","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Notanga"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"eab8bde264143c35256962cd","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Žemė","context":"Šaltinyje Notanga tiesiogiai vadinama „Notangos žeme“; aprašyta 1311 m. ir kitų karinių žygių kontekste.","support_ids":["t-220480","c-203496","t-220826","c-203287","t-223644","c-203666"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220480","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-220826","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-223644","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203496","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl, negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."},{"kind":"evidence","evidence_id":"c-203287","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"1311 viešpaties metais, per užgavėnes (vasario 22), Vytenis, Lietuvos karalius, su didele kariuomene, degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu, tiesa, ir pats patyrė nuostolių, nes žuvo nemaža jo žmonių, nutolusių nuo savo kariuomenės."},{"kind":"evidence","evidence_id":"c-203666","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kitą 552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen, dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133). dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių."}],"status":"published","conflict_status":"clear"},{"trait_id":"27bc4764893d705937da9cbe","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Turėjo pakraštį (confinium), t. y. atskirą Notangos žemės dalį","context":"Kronikoje aprašyta „viena Notangos žemės dalis“ ir jos pakraštys; tai pateikiama konkretaus nuniokojimo kontekste.","support_ids":["t-225301","c-202876"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225301","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202876","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie vienos Notangos dalies nuniokojimą Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais], kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium], nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis], ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su moterimis ir mažais vaikais išsivarė kartu su kitu grobiu."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:48:15+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kroicburgas","claim_id":"t-223461","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-220409","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Fridrichas iš Holdenštetės","claim_id":"t-225127","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytenis (Lietuvos karalius)","claim_id":"t-39419","confidence":0.89},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-221273","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Ditrichas (Meiseno markos valdovas)","claim_id":"t-223376","confidence":0.7}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
 external_sources_json: '[{"title":"Notanga","url":"https://lt.wikipedia.org/wiki/Notanga","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_finisher: 'true'
@@ -32,15 +43,6 @@ object_page_seo_description: 'Notanga: Dusburgietis teigia, kad pirmoji — Kulm
 object_page_seo_input_hash: 7206a0deaac6fb22a1d89327ed6ee94a6f43beadc06abc16f6de1f8812ecaeef
 object_page_seo_generated_at: '2026-09-20T18:48:15+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-af7020f25b4614eb46e31776"
-canonical_name: "Notanga"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Notanga"]
-sameAs: ["https://www.wikidata.org/entity/Q708885"]
-canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad siaurės rytuose priėjo Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais priskiriama Notangai). Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų."
-place_authority: true
-historical_names: []
 ---
 # Notanga
 
@@ -130,34 +132,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   pagrindžia:
     - c-86940
 
-<a id="claim-t-220409"></a>
-- t-220409
-  teiginys: "Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių."
-  atnaujinta: "2026-09-20 21:48"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Notanga: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Notanga išvardijama kaip viena iš Prūsijos žemės dalių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Notanga priklausė Prūsija (0.90)"
-
-<a id="claim-t-220826"></a>
-- t-220826
-  teiginys: "1311 metais Vytenis su Lietuvos kariuomene nusiaubė Notangą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-203287
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.'
@@ -220,7 +194,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-86941
@@ -242,7 +216,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-86942
@@ -266,7 +240,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-86943
@@ -287,7 +261,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-86944
@@ -312,7 +286,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-86945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -329,44 +302,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-203287
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 204"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 204."
-  citata_originali: |
-    1311 viešpaties metais, per užgavėnes (vasario 22), Vytenis, Lietuvos karalius, su
-    didele kariuomene, degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug
-    žmonių, o beveik penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu, tiesa, ir pats
-    patyrė nuostolių, nes žuvo nemaža jo žmonių, nutolusių nuo savo kariuomenės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220826
-
-- id: c-204756
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 59"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
-  citata_originali: |
-    Teritorija į rytus nuo Varmės, šiaurėje siekė
-    Priegliaus pakrantes, o rytuose — Alnos upę (į pietryčius nuo dab. Kaliningrado —
-    imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
-    Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
-    priskiriama Notangai).
-  statusas: verified
-  atnaujinta: "2026-09-13 18:04"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Puolė Notangą: [[objektai/grupes/Sūduviai]]

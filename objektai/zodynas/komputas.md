@@ -89,6 +89,5 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

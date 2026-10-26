@@ -77,6 +77,5 @@ Narbutas teigia, kad prieš VI amžių lietuvių tauta neturėjo karaliaus ir bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

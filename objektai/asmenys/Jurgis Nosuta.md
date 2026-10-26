@@ -57,27 +57,17 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   pagrindžia:
     - c-169585
 
-<a id="claim-t-211558"></a>
-- t-211558
-  teiginys: "Jurgis Nosuta buvo Drohičino ir Melniko seniūnas."
-  atnaujinta: "2026-09-13 21:47"
+<a id="claim-t-193932"></a>
+- t-002
+  teiginys: "Būnant Kazimierui Vilniuje, Drohičino ir Melniko seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman to."
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-193578
-
-<a id="claim-t-211227"></a>
-- t-211227
-  teiginys: "Būnant Kazimierui Vilniuje, Drohičino ir Melniko seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman to."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+    - c-176557
 
 ## Citatos
 
@@ -101,7 +91,7 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176557
@@ -128,24 +118,8 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-193578
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
-  citata_originali: |
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
-    to
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211558
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Jurgis Nosuta keliavo į [[objektai/vietos/Mazovija]]

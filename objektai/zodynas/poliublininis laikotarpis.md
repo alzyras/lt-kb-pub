@@ -160,7 +160,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-91775
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -178,12 +177,11 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     Didžiosios Lietuvos Kunigaikštystės gyventojus.
   citata_rodoma: "pir­\nmojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.\nPlačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­\nkai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­\nsiėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­\nrėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis\nryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­\nbinę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius\nDidžiosios Lietuvos Kunigaikštystės gyventojus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
     - t-004
@@ -206,7 +204,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-005
 
@@ -228,7 +226,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-91779
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -247,7 +244,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-91781
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -269,4 +265,3 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

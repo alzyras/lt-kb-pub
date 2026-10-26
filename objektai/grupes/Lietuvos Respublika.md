@@ -103,7 +103,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-22567
@@ -123,7 +123,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-176236
@@ -143,7 +143,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 ## Ryšiai

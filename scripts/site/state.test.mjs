@@ -6,8 +6,22 @@ import test from "node:test"
 
 import { collectInputFingerprints, fingerprintTree, fingerprintTreeMetadata } from "./state.mjs"
 
+function temporaryRoot(prefix) {
+  const base =
+    process.platform === "win32" && process.env.LOCALAPPDATA
+      ? path.join(process.env.LOCALAPPDATA, "Temp")
+      : os.tmpdir()
+  return mkdtemp(path.join(base, prefix))
+}
+
+function createDirectorySymlink(target, linkPath) {
+  const symlinkType = process.platform === "win32" ? "junction" : "dir"
+  const linkTarget = process.platform === "win32" ? path.resolve(path.dirname(linkPath), target) : target
+  return symlink(linkTarget, linkPath, symlinkType)
+}
+
 test("input fingerprint follows content symlinks and catches same-size byte edits", async (t) => {
-  const parent = await mkdtemp(path.join(os.tmpdir(), "site-input-fingerprint-"))
+  const parent = await temporaryRoot("site-input-fingerprint-")
   const root = path.join(parent, "repo")
   const content = path.join(root, "content")
   const external = path.join(root, "objects")
@@ -15,7 +29,7 @@ test("input fingerprint follows content symlinks and catches same-size byte edit
   await mkdir(external, { recursive: true })
   await writeFile(path.join(content, "index.md"), "# Home\n")
   await writeFile(path.join(external, "entry.md"), "aaa\n")
-  await symlink("../objects", path.join(content, "objects"), "dir")
+  await createDirectorySymlink("../objects", path.join(content, "objects"))
   t.after(() => rm(parent, { recursive: true, force: true }))
 
   const first = await collectInputFingerprints(root, { SITE_ORIGIN: "https://example.invalid" })
@@ -33,16 +47,21 @@ test("input fingerprint follows content symlinks and catches same-size byte edit
 })
 
 test("broken input symlinks are fingerprinted and target appearance invalidates the build", async (t) => {
-  const parent = await mkdtemp(path.join(os.tmpdir(), "site-broken-input-symlink-"))
+  const parent = await temporaryRoot("site-broken-input-symlink-")
   const root = path.join(parent, "repo")
   const content = path.join(root, "content")
   await mkdir(content, { recursive: true })
   await writeFile(path.join(content, "index.md"), "# Home\n")
-  await symlink("../optional-media", path.join(content, "media"), "dir")
+  await createDirectorySymlink("../optional-media", path.join(content, "media"))
   t.after(() => rm(parent, { recursive: true, force: true }))
 
   const first = await collectInputFingerprints(root, {})
-  assert.deepEqual(first.brokenSymlinks, [{ path: "content/media", target: "../optional-media" }])
+  assert.equal(first.brokenSymlinks.length, 1)
+  assert.equal(first.brokenSymlinks[0].path, "content/media")
+  assert.equal(
+    path.resolve(content, first.brokenSymlinks[0].target),
+    path.resolve(root, "optional-media"),
+  )
 
   await mkdir(path.join(root, "optional-media"))
   await writeFile(path.join(root, "optional-media", "image.md"), "# Media note\n")

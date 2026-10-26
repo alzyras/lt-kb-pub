@@ -89,6 +89,5 @@ Kęstutis tuo metu stebėjo kryžiuočius ir Maskvos žygio metu rėmė Voluinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

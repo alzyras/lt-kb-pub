@@ -37,7 +37,6 @@ Per 1947 m. sausio 12 d. operaciją Zizonių kaime Genė Balčiūnaitė, Elzės 
   santrauka: 'Per 1947 m. sausio 12 d. operaciją Zizonių kaime Genė Balčiūnaitė, Elzės Balčiūnienės duktė, buvo sužeista.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 257-258"
-  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 257-258."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

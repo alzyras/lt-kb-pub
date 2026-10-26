@@ -42,6 +42,21 @@ canonical_biography: "Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimu
 
 Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui. Kojelavičiaus pasakojime Petras kelias dienas žygiavo per priešų šalį, niokodamas kelią, bet neleido būriams palaidai plėšikauti.
 
+## Teiginiai
+
+<a id="claim-t-196578"></a>
+- t-001
+  teiginys: "Kojelavičiaus pasakojime Petras kelias dienas žygiavo per priešų šalį, niokodamas kelią, bet neleido būriams palaidai plėšikauti."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178775
+
 ## Citatos
 
 - id: c-169516
@@ -87,7 +102,6 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-178775
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -114,4 +128,5 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

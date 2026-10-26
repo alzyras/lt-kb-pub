@@ -51,20 +51,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-222876"></a>
-- t-222876
-  teiginys: "Apie tai, kaip buvo sunku atgabenti maisto į Karaliaučiaus pilį Prūsai, užkietėję piktadariai, ilgai suko galvą, kaip sunaikinti Karaliaučiaus pilį."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-222558"></a>
-- t-222558
+<a id="claim-t-62129"></a>
+- t-001
   teiginys: "Kai kurie kilmingi sembai paliko gimtuosius namus, su šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Sembai: 0.83"
@@ -75,6 +65,8 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=32"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-62561
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -122,4 +114,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

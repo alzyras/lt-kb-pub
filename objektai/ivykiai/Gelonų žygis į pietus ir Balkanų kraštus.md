@@ -71,6 +71,5 @@ Gal tai davė pradžią romėnų žinioms apie gelonų žygį į getų dukras ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

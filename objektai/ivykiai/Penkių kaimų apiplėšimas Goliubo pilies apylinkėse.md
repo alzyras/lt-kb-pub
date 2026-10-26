@@ -64,10 +64,10 @@ Nenurodyta
     - c-63052
     - c-167338
 
-<a id="claim-t-223094"></a>
-- t-223094
+<a id="claim-t-183953"></a>
+- t-002
   teiginys: "Per penkių kaimų apiplėšimą Goliubo pilies apylinkėse lietuvių kariuomenė paėmė į nelaisvę arba nužudė daug krikščionių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -80,6 +80,8 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citatoje aiškiai pasakyta, kad lietuvių kariuomenė įsibrovė į Kulmo žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-167338
 
 ## Citatos
 
@@ -104,7 +106,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167338
@@ -136,6 +138,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
+    - t-002

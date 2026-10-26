@@ -74,6 +74,5 @@ Nors karalius nenutraukė karo veiksmų, už kuriuos stojo San guška ir Jonas C
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

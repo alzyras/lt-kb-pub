@@ -74,6 +74,5 @@ Sutartis su Antanu Marcinovskiu dėl viso veikalo išspausdinimo buvo sudaryta 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

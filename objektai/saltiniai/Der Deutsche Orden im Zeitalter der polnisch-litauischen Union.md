@@ -79,6 +79,5 @@ Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

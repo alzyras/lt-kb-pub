@@ -26,6 +26,21 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-95dbbfbe4a5ac5d5a5311493
+canonical_name: Sofija (Vytauto duktė)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Maskvos kunigaikštienė Sofija
+  - Sofija
+  - Sofija (Vytauto duktė)
+  - Sofiją
+  - Vytauto dukters Sofijos
+  - Vytauto dukterį Sofiją
+  - Zofija
+sameAs: []
+canonical_biography: 'Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:45:36+00:00","source_checked_at":"2026-09-20T04:45:36+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0cbdb4d3992dc01dff8bbdb2","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Maskvos kunigaikštienė","context":"Šaltiniuose Sofija įvardijama kaip Vytauto duktė ir Maskvos kunigaikštienė; po vyro mirties ji buvo su nepilnamečiu sūnumi Vosyliumi II.","support_ids":["t-176611","c-160602","t-176612","c-15324"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176611","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-176612","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-160602","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties."},{"kind":"evidence","evidence_id":"c-15324","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Vytautas ruošėsi gerai juos nubausti. Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė paimti sūnų savo globon, paliekant jam jo valstybę^2 )."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6fd3322bfcaaf841fabd31f4","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Maskvos kunigaikščio Vasilijaus žmona","context":"Šaltinis aprašo Sofiją kaip tekančią už Maskvos kunigaikščio Vasilijaus ir Vytauto surengtas jai dideles palydėtuves.","support_ids":["t-184830","c-168191"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184830","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168191","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Priėmus nutarimą, ieškota žmogaus, kuriam be pavojaus galima būtų patikėti šią slaptą užduotį, mat jis turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­ dovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu. Jo atvykimas (tiesą sakant, P a šn e n k a m a s m o zū rų daug kas manė, jog dėl gi- k u n ig a ik štis H enri- minystės jis gali likti nepas- k a s tebėtas) anaiptol negalėjo ne­ sukelti kryžiuočiams įtarimo, tačiau tuo pat metu Vytautas Marienburge surengė sa­ vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_dukte","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176612","confidence":0.96}],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
 object_page_finisher: 'true'
@@ -39,13 +54,6 @@ object_page_seo_description: 'Sofija (Vytauto duktė): Sofija šiame įraše ats
 object_page_seo_input_hash: 441c8976acb5168e63b28ebe7c1b68e833bebc96bebee141ea7877ad27c326d6
 object_page_seo_generated_at: '2026-09-20T04:45:36+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-95dbbfbe4a5ac5d5a5311493"
-canonical_name: "Sofija (Vytauto duktė)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Maskvos kunigaikštienė Sofija","Sofija","Sofija (Vytauto duktė)","Sofiją","Vytauto dukters Sofijos","Vytauto dukterį Sofiją","Zofija"]
-sameAs: []
-canonical_biography: "Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu."
 ---
 # Sofija (Vytauto duktė)
 
@@ -176,7 +184,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-160600
@@ -198,7 +206,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-160602
@@ -222,7 +230,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-160603
@@ -248,7 +256,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-160604
@@ -267,12 +275,11 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     derybas su Maskva.
   citata_rodoma: "1387 m. apsilankė jis Vytauto dvare Lucke. Čia jie padarė su­\ntartį. Kad ji būtų tvirtesnė, būsimas Maskvos viešpats turėjo\nvesti Vytauto dukterį Sofiją. Tai buvo pirmas nelegalus Vytau­\nto žingsnis, nukreiptas prieš lenkus ir jų valdovą Jogailą, ir be\njo žinios buvo slapta pasiųsta Vytauto delegacija galutinai baigti\nderybas su Maskva."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-168191
@@ -307,7 +314,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 ## Ryšiai

@@ -65,6 +65,5 @@ Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

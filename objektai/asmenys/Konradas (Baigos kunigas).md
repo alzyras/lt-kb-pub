@@ -93,6 +93,5 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

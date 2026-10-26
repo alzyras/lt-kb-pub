@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-fcc4a87bccd0e4c000644a24"
-canonical_name: "Rodanas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rodanas","Rodanas (vieta)"]
+entity_id: ent-fcc4a87bccd0e4c000644a24
+canonical_name: Rodanas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rodanas
+  - Rodanas (vieta)
 sameAs: []
-canonical_biography: "Galijos Rodano pavadinimo panašumas paskatino jį tapatinti su Eridanu ir susieti su Padu."
-place_authority: true
-historical_names: []
+canonical_biography: Galijos Rodano pavadinimo panašumas paskatino jį tapatinti su Eridanu ir susieti su Padu.
 ---
 # Rodanas (vieta)
 
@@ -70,6 +71,5 @@ Galijos Rodano pavadinimo panašumas paskatino jį tapatinti su Eridanu ir susie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

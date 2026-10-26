@@ -65,11 +65,9 @@ Vilniuje Kazimierą galėjo aptarnauti pranciškonai konventualai arba bernardin
     15, Летописный сборник именуемый Тверскою летописью, Санкт Петербург,
     1863, с.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

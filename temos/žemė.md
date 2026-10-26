@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 77
+tema_objektu_skaicius: 78
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 77.
+Objektų skaičius: 78.
 
 ## Kaip naudoti
 
@@ -28,6 +28,7 @@ Objektų skaičius: 77.
 ### Vietos
 - [[objektai/vietos/Auktalitas]]
 - [[objektai/vietos/Aukštaičių žemė]]
+- [[objektai/vietos/Ažytė]]
 - [[objektai/vietos/Bartos žemė]]
 - [[objektai/vietos/Brandenburgo žemė]]
 - [[objektai/vietos/Bresto žemė (Palenkė)]]
@@ -50,7 +51,7 @@ Objektų skaičius: 77.
 - [[objektai/vietos/Kulmo žemė]]
 - [[objektai/vietos/Kumanų žemė]]
 - [[objektai/vietos/Kuršo žemė]]
-- [[objektai/vietos/Kščeniškiai]]
+- [Kščeniškiai](../objektai/vietos/K%C5%A1%C4%8Deni%C5%A1kiai)
 - [Lanzanija](../objektai/vietos/Lanzanija)
 - [Lietauka](../objektai/vietos/Lietauka)
 - [Liubutskas](../objektai/vietos/Liubutskas)

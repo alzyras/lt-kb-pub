@@ -66,6 +66,5 @@ Kęstutis ir Mazovijos kunigaikštis Ziemovitas 1358 m. rugpjūčio 13 d. Gardin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -75,6 +75,5 @@ Teodoras Narbutas Aleksandrą Neviškį vadina Didžiojo Naugardo kunigaikščiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

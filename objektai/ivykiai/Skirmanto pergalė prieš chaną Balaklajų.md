@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-210896"></a>
 - t-210896
   teiginys: "Skirmantas prie Kaidanovo nugalėjo Balaklajų ir nukovė jo totorių kariuomenę."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

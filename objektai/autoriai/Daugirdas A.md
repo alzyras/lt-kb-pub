@@ -79,6 +79,5 @@ canonical_biography: "257, „PAVOJAUS AKIVAIZDOJE, Daugirdas A."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -94,6 +94,5 @@ Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

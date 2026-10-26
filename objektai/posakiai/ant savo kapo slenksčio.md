@@ -56,6 +56,5 @@ Taip dažnai didžiausia žemės galybė atsiduria ant savo kapo slenksčio.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

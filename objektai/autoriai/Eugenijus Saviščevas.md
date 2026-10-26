@@ -76,6 +76,5 @@ Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Ad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

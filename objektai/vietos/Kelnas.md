@@ -24,6 +24,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-f4658b95aa55408a6b589d33
+canonical_name: Kelnas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kelnas
+sameAs: []
+canonical_biography: 'Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne. Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300.'
+place_authority: true
+historical_names: []
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:40:05+00:00","source_checked_at":"2026-09-20T18:40:05+00:00","counts":{"relations":3,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Kelnas, rečiau Kiolnas (vok. Köln) – ketvirtasis pagal dydį Vokietijos miestas, taip pat didžiausias Šiaurės Reino-Vestfalijos žemės miestas. Miestą garsina jo istorija, kultūra, architektūra ir tarptautinio svarbumo renginiai.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"52596","revision_id":"7365935","status":"published","translation_status":"native","source":{"title":"Kelnas","url":"https://lt.wikipedia.org/wiki/Kelnas","publisher":"Vikipedija","language":"lt","article_id":"52596","revision_id":"7365935","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7365935","history_url":"https://lt.wikipedia.org/w/index.php?title=Kelnas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:26.581949+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"65bde1c130521f207ed4a292c2a7efca6aee3cee96fbe492296f3ce9f57ad523","version_pk":"6d10e3ffc19f46f80f70bb52a4781d82"}},"source_buttons":[{"label":"Vikipedija","title":"Kelnas","url":"https://lt.wikipedia.org/wiki/Kelnas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kelnas"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0}},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:40:05+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_palaidotas","direction":"inbound","target":"objektai/asmenys/Albertas Didysis","claim_id":"t-222450","confidence":0.96},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Albertas Didysis","claim_id":"t-222450","confidence":0.82},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Albertas Didysis","claim_id":"t-224477","confidence":0.97}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 external_sources_json: '[{"title":"Kelnas","url":"https://lt.wikipedia.org/wiki/Kelnas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_finisher: 'true'
@@ -37,15 +48,6 @@ object_page_seo_description: 'Kelnas: Dusburgietis teigia, kad atsisakęs Regens
 object_page_seo_input_hash: 406412c177a3516fafea0fe8a346fbb3d912fd03ec68b7bddbf9998094bf857f
 object_page_seo_generated_at: '2026-09-20T18:40:05+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-f4658b95aa55408a6b589d33"
-canonical_name: "Kelnas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kelnas"]
-sameAs: ["https://www.wikidata.org/entity/Q365"]
-canonical_biography: "Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne. Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300."
-place_authority: true
-historical_names: []
 ---
 # Kelnas
 
@@ -141,7 +143,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-59081
@@ -164,7 +166,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-59082
@@ -186,7 +188,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -213,75 +215,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-201802
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 233"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
-  citata_originali: |
-    Apie Albertą Didįjį ir Tomą Akvinietį
-
-      Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas,
-    kuris neturėjo sau lygaus išsilavinimu. Atsisakęs Regensburgo vyskupystės,  jis 18
-    metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties
-    metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
-    mokinys bei pamokslininkų ordino vienuolis (Ptol.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202028
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
-  citata_originali: |
-    76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
-
-      Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
-    kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
-    karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
-
-
-
-                             77.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-205113
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
-  citata_originali: |
-    Tą dieną, kai priimamas dievo kūnas, šio kaimo klebonas jai davė nešventintą
-    paplotėlį, tačiau  ji niekaip jo negalėjo nuryti, todėl,  jį atsiėmęs, davė jai pašventintą
-    ostiją, kurią tuoj pat prarijo, o jis iš to suprato, jog ji medžiagiško maisto nieku būdu
-    negalinti priimti.
-
-
-
-                     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
-
-      Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
-    kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
-    karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]

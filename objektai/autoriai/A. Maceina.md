@@ -77,6 +77,5 @@ Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

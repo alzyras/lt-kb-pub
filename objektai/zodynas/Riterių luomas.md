@@ -111,7 +111,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -134,6 +134,5 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

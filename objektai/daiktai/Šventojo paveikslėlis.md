@@ -70,6 +70,5 @@ Narbutas teigia, kad Lietuvos kaimiečiai šventojo paveikslėlį prikaldavo iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

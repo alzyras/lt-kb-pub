@@ -12,10 +12,10 @@ datos:
   - '1946 m.'
 date_start: '1946'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,8 +35,6 @@ entity_view_role: "place"
 entity_aliases: ["Kinderiai","Kinderiai (vieta)"]
 sameAs: []
 canonical_biography: "1946 m. lapkričio 3 d. Kinderių kaime, Šimonių valsčiuje, buvo surengta pasala."
-place_authority: true
-historical_names: []
 ---
 # Kinderiai (vieta)
 
@@ -44,13 +42,14 @@ historical_names: []
 
 1946 m. lapkričio 3 d. 4 val. ryto Kinderių kaime, Šimonių valsčiuje, po agento „Žukovo“ pranešimo apie partizanų apsilankymus pas Kazį Mykolaitį buvo surengta pasala.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214706
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: '1946 m. lapkričio 3 d. 4 val. ryto Kinderių kaime, Šimonių valsčiuje, po agento „Žukovo“ pranešimo apie partizanų apsilankymus pas Kazį Mykolaitį buvo surengta pasala.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 209"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 209."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:44"

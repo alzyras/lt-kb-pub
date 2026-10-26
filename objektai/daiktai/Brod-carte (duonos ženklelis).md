@@ -82,6 +82,5 @@ Su brod-carte buvo galima gauti 90 gramų duonos per dieną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -24,6 +24,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-1651565d59a88575c989eba1
+canonical_name: Nestoras
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Nestoras
+sameAs: []
+canonical_biography: 'Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“. Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą. Teodoras Narbutas Nestoro pateiktomis žiniomis grindė teiginį, kad skandinavams priklausė daug kraštų ir tautų.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:28:45+00:00","source_checked_at":"2026-09-19T14:28:45+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c4a6f2281b4a43657ff98cb1","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Rusų vienuolis ir Marijos Algirdienės rūmų kapelionas.","context":"1342 m., pasak Teodoro Narbuto.","support_ids":["t-206366","c-188981"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206366","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188981","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Pačioje didžiojo kunigaikščio Algirdo viešpatavimo pradžioje, 1342 metais1 2, rusų vienuolis, vardu Nestoras, didžiosios kuni­ 1 Reikia pažymėti, kad laikotarpis nuo 1345 iki 1348 metų Strijkovskio yra praleistas. 2 Kulczynski. Menologium Bazylianskie*. Šis autorius, sekdamas Koja- lavičiumi, to įvykio data nurodo 1329 metus, betgi vėliau, geriau istoriją 561 gaikštienės Marijos Algirdienės rūmų kapelionas, atvertė kai kuriuos lietuvius krikščionybėn, tarp jų buvo dvariškių, garsios kilmės, du broliai Kuklėjus ir Michlėjus, didžiojo kunigaikščio numylėtiniai"}],"status":"published","conflict_status":"clear"},{"trait_id":"843c8eb2e7e8400faa83984e","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Rašė istorinius aprašymus ir užrašė senų padavimų liekanas.","context":"Teodoro Narbuto vertinimu, Nestoras, vadinamas rusų istorijos tėvu, dėl menkos turėtos medžiagos užrašė tik sutrumpintas padavimų liekanas.","support_ids":["t-212718","c-194716"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212718","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194716","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Iš tikrųjų sla­ vai, išsibarstę po didžiulius Europos plotus, nors ir yra broliai pagal kalbą ir papročius, be to, mėgsta palaimin­ tos praeities bendroje protėvių žemėje prisiminimus, ne­ apdairiai prarado savo protėvių istoriją, prabylančią iš religinių politinių padavimų, kanklininkų giesmių ir ty­ lių pasakojimų susibūrus šeimai. Priėmus krikščionybę, pražuvo senovės paminklai pirma, negu buvo susivokta užrašyti padavimus. Pats Nestoras, rusų istorijos tėvas, jau aptiko nedaug medžiagos savo aprašymams ir pajėgė užrašyti tik senų padavimų sutrumpintas liekanas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"67403a7d628d95e1abfcb205","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Išsaugojo krivičių gyvenimo paveikslą.","context":"Teodoras Narbutas pabrėžia, kad šis paveikslas buvo nepilnas.","support_ids":["t-212875","c-197239"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212875","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197239","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Be to, reikia pridurti nors ir nepilną, tačiau Nestoro išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­ jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių metu rengdavo turnyrus. Visa tai išliko Prūsijoje. Jie nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų genčių; jų kalba buvo labiau gimininga slavų kalbai: Slėceris šias dvi kalbas skelbia esant antro giminystės laipsnio. Dėl sąjungos su graikų imperatoriumi rusai pri­ siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip ir prūsų Perkūnas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9dffe037e886c63d667941c8","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Pateikė žinių apie variagų valdymą, tautas ir gentis.","context":"Teodoras Narbutas remiasi Nestoro pasakojimu apie 859 m. variagų paskirtą kailių duoklę krivičiams ir jo pateiktomis žiniomis apie rusų variagams priklausiusias gentis.","support_ids":["t-212766","c-196117","t-215485","c-197451"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212766","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-215485","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196117","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Be to, ir Pretorijus sako, jog prūsai ir rusai iš pradžių priklausė vienai genčiai; variagų vardą jis kildina iš grynai prūsiško žodžio Wa- rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu, jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir krivičiams. Visų šių teiginių, kaip man atrodo, pakanka įrodyti, jog ne vienai senovės prūsų kartai tenka garbė už tai, 1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su \\Warrejas."},{"kind":"evidence","evidence_id":"c-197451","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Bet, kai smulkiame tautų sąva­ de šiam bendriniam pavadinimui neliko vietos, jis buvo tarsi pamirštas, tuo tarpu herulais vadinamų hirių sąvo­ ka įgavo persvarą tarp kitų jiems giminingų genčių; jų pavadinimas, tapęs bendrinis visiems, užgožė tą, kuris liko tik gimtojoje žemėje ir ten gyvenusioms gentims. Iš mums žinomų originalių istorikų pirmasis, Lietuvą pa­ minėjęs 860 metais ar kiek vėliau, buvo Nestoras; jis iš­ vardijo rusų variagams ¡priklausiusias gentis2. Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­ siojo karus, 1009 metais mini ir lietuvius**."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"035cace14142a3492bfdfd1e","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Paminėjo Lietuvą.","context":"Teodoro Narbuto teigimu, apie 860 m. ar kiek vėliau Nestoras buvo pirmasis iš žinomų originalių istorikų, paminėjęs Lietuvą.","support_ids":["t-215485","c-197451"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215485","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197451","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Bet, kai smulkiame tautų sąva­ de šiam bendriniam pavadinimui neliko vietos, jis buvo tarsi pamirštas, tuo tarpu herulais vadinamų hirių sąvo­ ka įgavo persvarą tarp kitų jiems giminingų genčių; jų pavadinimas, tapęs bendrinis visiems, užgožė tą, kuris liko tik gimtojoje žemėje ir ten gyvenusioms gentims. Iš mums žinomų originalių istorikų pirmasis, Lietuvą pa­ minėjęs 860 metais ar kiek vėliau, buvo Nestoras; jis iš­ vardijo rusų variagams ¡priklausiusias gentis2. Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­ siojo karus, 1009 metais mini ir lietuvius**."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8dd661307430c669ec11b99e","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Perėmė ir užrašė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą.","context":"Taip Nestoro veiksmus vertina Teodoras Narbutas.","support_ids":["t-215510","c-195172"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215510","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195172","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tačiau ži­ noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais, ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe- rewoz, o iš čia pasakojimas apie tris brolius — K i j ų, Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­ novės Kijevą. Nestoras irgi nusirašė visa tai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4d1e87abd505a6f2ad6b883d","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Vadinamas rusų istorijos tėvu.","context":"Tai Teodoro Narbuto vertinimas jo pasakojime apie senųjų padavimų išsaugojimą.","support_ids":["t-212718","c-194716"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212718","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194716","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Iš tikrųjų sla­ vai, išsibarstę po didžiulius Europos plotus, nors ir yra broliai pagal kalbą ir papročius, be to, mėgsta palaimin­ tos praeities bendroje protėvių žemėje prisiminimus, ne­ apdairiai prarado savo protėvių istoriją, prabylančią iš religinių politinių padavimų, kanklininkų giesmių ir ty­ lių pasakojimų susibūrus šeimai. Priėmus krikščionybę, pražuvo senovės paminklai pirma, negu buvo susivokta užrašyti padavimus. Pats Nestoras, rusų istorijos tėvas, jau aptiko nedaug medžiagos savo aprašymams ir pajėgė užrašyti tik senų padavimų sutrumpintas liekanas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1e6b61846ee0246c48f12f97","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Laikomas pirmuoju iš žinomų originalių istorikų, paminėjusiu Lietuvą.","context":"Teodoro Narbuto teigimu, tai įvyko apie 860 m. ar kiek vėliau.","support_ids":["t-215485","c-197451"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215485","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197451","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Bet, kai smulkiame tautų sąva­ de šiam bendriniam pavadinimui neliko vietos, jis buvo tarsi pamirštas, tuo tarpu herulais vadinamų hirių sąvo­ ka įgavo persvarą tarp kitų jiems giminingų genčių; jų pavadinimas, tapęs bendrinis visiems, užgožė tą, kuris liko tik gimtojoje žemėje ir ten gyvenusioms gentims. Iš mums žinomų originalių istorikų pirmasis, Lietuvą pa­ minėjęs 860 metais ar kiek vėliau, buvo Nestoras; jis iš­ vardijo rusų variagams ¡priklausiusias gentis2. Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­ siojo karus, 1009 metais mini ir lietuvius**."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":9,"sources":2}}'
 object_page_finisher: 'true'
@@ -37,13 +46,6 @@ object_page_seo_description: 'Nestoras: Narbutas aiškina, kad Nestoras IX amži
 object_page_seo_input_hash: c34b9b18d2a30e3383b83b1af37a72fed3419dd4ae74955efc20f4a465506966
 object_page_seo_generated_at: '2026-09-19T14:28:45+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-1651565d59a88575c989eba1"
-canonical_name: "Nestoras"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Nestoras"]
-sameAs: []
-canonical_biography: "Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“. Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą. Teodoras Narbutas Nestoro pateiktomis žiniomis grindė teiginį, kad skandinavams priklausė daug kraštų ir tautų."
 ---
 # Nestoras
 
@@ -248,24 +250,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   pagrindžia:
     - c-188981
 
-<a id="claim-t-213402"></a>
-- t-213402
-  teiginys: "Teodoro Narbuto teigimu, Nestoras IX amžiuje žinojo šį kraštą ir jo gyventojus priskirdavo prie rusų variagų."
-  atnaujinta: "2026-09-19 17:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nestoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nestoras\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“.'
@@ -358,7 +342,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-173813
@@ -380,7 +364,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-173814
@@ -402,7 +386,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-173815
@@ -427,7 +411,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-173818
@@ -451,7 +435,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-010
 
@@ -477,7 +461,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-173820
@@ -505,7 +489,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-175369
@@ -529,7 +513,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-179337
@@ -554,7 +538,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-188981
@@ -579,143 +563,5 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
-
-- id: c-194558
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 242"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
-  citata_originali: |
-    Istorikas, rašęs jau praėjus
-    šio Kauno įkūrėjo amžiui, neįsigilinęs į istorines detales,
-    galėjo vadinti jam žinomais vardais šią ir anksčiau minė­
-    tas žemes pagal jų padėtį; tačiau Protono III amžiuje tų
-    pavadinimų dar nebuvo1. Taip pat skandinavų užkariavi­
-    mai lietuvių žemėse buvo labai seni ir dideli. Tai patvir­
-    tina Nestoro pateiktos žinios, kad skandinavams priklau­
-    sė daug kraštų ir tautų2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195172
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
-  citata_originali: |
-    Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
-    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
-    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
-    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
-    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
-    novės Kijevą. Nestoras irgi nusirašė visa tai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196117
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
-  citata_originali: |
-    Be to, ir Pretorijus sako,
-    jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
-    variagų vardą jis kildina iš grynai prūsiško žodžio Wa-
-    rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį
-    duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
-    jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
-    krivičiams.
-    Visų šių teiginių, kaip man atrodo, pakanka įrodyti,
-    jog ne vienai senovės prūsų kartai tenka garbė už tai,
-    1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
-    \Warrejas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197092
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 74"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
-  citata_originali: |
-    Tačiau jis prieštarauja sau ir savo tiksliai
-    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
-    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
-    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
-    riojoje Dnepro pakrantėje, į rytus nuo jo. Be to, tvirto­
-    vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
-    taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­
-    jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos
-    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
-    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
-    Jurjevu, stovėjusią prie Osteros upės žiočių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197239
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
-  citata_originali: |
-    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
-    išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
-    jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
-    metu rengdavo turnyrus. Visa tai išliko Prūsijoje. Jie
-    nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
-    genčių; jų kalba buvo labiau gimininga slavų kalbai:
-    Slėceris šias dvi kalbas skelbia esant antro giminystės
-    laipsnio. Dėl sąjungos su graikų imperatoriumi rusai pri­
-    siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip
-    ir prūsų Perkūnas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197451
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
-  citata_originali: |
-    Bet, kai smulkiame tautų sąva­
-    de šiam bendriniam pavadinimui neliko vietos, jis buvo
-    tarsi pamirštas, tuo tarpu herulais vadinamų hirių sąvo­
-    ka įgavo persvarą tarp kitų jiems giminingų genčių; jų
-    pavadinimas, tapęs bendrinis visiems, užgožė tą, kuris
-    liko tik gimtojoje žemėje ir ten gyvenusioms gentims. Iš
-    mums žinomų originalių istorikų pirmasis, Lietuvą pa­
-    minėjęs 860 metais ar kiek vėliau, buvo Nestoras; jis iš­
-    vardijo rusų variagams ¡priklausiusias gentis2. Dytmaras,
-    Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­
-    siojo karus, 1009 metais mini ir lietuvius**.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

@@ -23,9 +23,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Girvalakių kaimas"]
 sameAs: []
-canonical_biography: " "
-place_authority: true
-historical_names: []
+canonical_biography: "Aleksas Balaišis, gyvenęs Girvalakių kaime, Skapiškio valsčiuje. Petras Montrimas, gyvenęs Girvalakių kaime, Skapiškio valsčiuje."
 ---
 # Girvalakių kaimas
 
@@ -33,22 +31,23 @@ historical_names: []
 
 Aleksas Balaišis gyveno Girvalakių kaime, Skapiškio valsčiuje. Petras Montrimas gyveno Girvalakių kaime, Skapiškio valsčiuje.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214655
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Aleksas Balaišis gyveno Girvalakių kaime, Skapiškio valsčiuje.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 107"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 107."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:44"
-
-- id: c-214656
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-002
+  santrauka: 'Petras Montrimas gyveno Girvalakių kaime, Skapiškio valsčiuje.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 107"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 107."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:44"

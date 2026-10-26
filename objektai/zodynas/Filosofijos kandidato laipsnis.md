@@ -84,6 +84,5 @@ Terminas šiame šaltinyje siejamas su 1891 m. gautu akademiniu laipsniu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

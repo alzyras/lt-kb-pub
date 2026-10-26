@@ -82,6 +82,5 @@ Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

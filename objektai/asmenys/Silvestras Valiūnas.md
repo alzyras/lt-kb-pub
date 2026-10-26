@@ -25,6 +25,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-bafa366fd325dbca6287cf21
+canonical_name: Silvestras Valiūnas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Silvestras Valiūnas
+sameAs: []
+canonical_biography: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
 external_sources_json: '[{"title":"Silvestras Teofilis Valiūnas","url":"https://lt.wikipedia.org/wiki/Silvestras_Teofilis_Vali%C5%ABnas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:50:55+00:00","source_checked_at":"2026-09-20T11:50:55+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Silvestras Teofilis Valiūnas (1789 m. liepos 11 d. Paūnikiuose – 1831 m. gegužės 19 d.) – Lietuvos poetas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"360661","revision_id":"7185417","status":"published","translation_status":"native","source":{"title":"Silvestras Teofilis Valiūnas","url":"https://lt.wikipedia.org/wiki/Silvestras_Teofilis_Vali%C5%ABnas","publisher":"Vikipedija","language":"lt","article_id":"360661","revision_id":"7185417","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7185417","history_url":"https://lt.wikipedia.org/w/index.php?title=Silvestras_Teofilis_Vali%C5%ABnas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:10:33.068660+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"a05ab5eb85b9d5ac7dc55e74889311e1ab9f123b6fc70174c4f1a990b9e115ab","version_pk":"d5157b65007401a67366bde426849ddd"}},"source_buttons":[{"label":"Vikipedija","title":"Silvestras Teofilis Valiūnas","url":"https://lt.wikipedia.org/wiki/Silvestras_Teofilis_Vali%C5%ABnas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Silvestras_Teofilis_Vali%C5%ABnas"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -38,13 +47,6 @@ object_page_seo_description: 'Silvestras Valiūnas: Ši mintis paskatino kai kur
 object_page_seo_input_hash: 1023cd347426409533426e783645e7646fd14e5c08634daf2891545fcfa6cc98
 object_page_seo_generated_at: '2026-09-20T11:50:55+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-bafa366fd325dbca6287cf21"
-canonical_name: "Silvestras Valiūnas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Silvestras Valiūnas"]
-sameAs: ["https://www.wikidata.org/entity/Q12672865"]
-canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas)."
 ---
 # Silvestras Valiūnas
 
@@ -95,45 +97,6 @@ canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius 
   pagrindžia:
     - c-166959
 
-<a id="claim-t-208498"></a>
-- t-208498
-  teiginys: "Silvestras Valiūnas, J. Šimkevičius ir D. Poška buvo kilę iš to paties Raseinių pavieto."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-191118
-
-<a id="claim-t-209269"></a>
-- t-209269
-  teiginys: "J. Šimkevičiaus ir Silvestro Valiūno rašinius, autoriaus vertinimu, sieja panašūs siužetai, pasakymai ir net vietovės."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-192000
-
-<a id="claim-t-209389"></a>
-- t-209389
-  teiginys: "J. Bielinskis ir Mykolas Brenšteinas manė, kad Silvestras Valiūnas priklausė šubraveams–rustikanams, t. y. korespondentams."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-191883
-
 ## Citatos
 
 - id: c-166959
@@ -157,78 +120,6 @@ canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-- id: c-191118
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 43"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 43."
-  citata_originali: |
-    Šubravcų
-    draugijos prezidento "lekiosimas ant ližės" sukosi apie gimtąją
-    Žemaitiją. Ir dar vienas faktelis, jau kelintą kartą sugrąžinantis prie
-    J. Šimkevičiaus ir D. Poškos tarpusavio ryšių problematikos, išplaukia
-    iš to, kas siejasi su S. Valiūnu. Visi trys: J.Šimkevičius, D. Poška ir S.
-    Valiūnas buvo kilę iš vieno Raseinių pavieto.
-  citata_rodoma: "Visi trys: J.Šimkevičius, D. Poška ir S. \nValiūnas buvo kilę iš vieno Raseinių pavieto."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208498
-
-- id: c-191883
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 41"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 41."
-  citata_originali: |
-    Valiūno plunksnos, taip ir nebuvo paskelbtos spaudoje. Čia turinti
-    omenyje S. Valiūno kūriniai: "PIungės-Telšių kontubernija", "Plungės
-    kontubernija",
-    "Garbingiausiam
-    Plungės-Tcfšių
-    kontubernijos
-    restauratoriui”, kurie neabejotinai parašyti tais pačiais 1817 metais. J.
-    Bielinskiui nekilo abejonių ir dėl paties S. Valiūno priklausymo
-    šubraveams - rustikanams (t.y. korespondentams), kurių žinomos tik
-    kelios pavardės, o pagrindiniai sąrašai, jei ir buvo, tai neišliko42;
-    panašiai manė ir Mykolas Brenšteinas.
-  citata_rodoma: "J. \nBielinskiui nekilo abejonių ir dėl paties S. Valiūno priklausymo \nšubraveams - rustikanams (t.y. korespondentams), kurių žinomos tik \nkelios pavardės, o pagrindiniai sąrašai, jei ir buvo, tai neišliko42; \npanašiai manė ir Mykolas Brenšteinas."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209389
-
-- id: c-192000
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 43"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 43."
-  citata_originali: |
-    Galima išvardinti ir daugiau panašių, siužetų, pasakymų ir net
-    vietovių, susiejančių J. Šimkevičiaus ir S. Valiūno rašinius. Šubravcų
-    draugijos prezidento "lekiosimas ant ližės" sukosi apie gimtąją
-    Žemaitiją. Ir dar vienas faktelis, jau kelintą kartą sugrąžinantis prie
-    J. Šimkevičiaus ir D. Poškos tarpusavio ryšių problematikos, išplaukia
-    iš to, kas siejasi su S. Valiūnu.
-  citata_rodoma: "Galima išvardinti ir daugiau panašių, siužetų, pasakymų ir net \nvietovių, susiejančių J. Šimkevičiaus ir S. Valiūno rašinius."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209269
-

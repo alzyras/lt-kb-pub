@@ -79,6 +79,5 @@ Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -60,6 +60,5 @@ Trečios knygos penktame skyriuje jau iškėlėme į istorijos areną dviejų �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -96,6 +96,5 @@ Kronikos ištraukoje teigiama, kad apie 1366 metus Vilniuje rusai susipešė dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

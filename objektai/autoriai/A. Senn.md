@@ -75,6 +75,5 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

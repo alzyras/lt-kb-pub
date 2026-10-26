@@ -68,10 +68,10 @@ Nenurodyta
   pagrindžia:
     - c-60028
 
-<a id="claim-t-224154"></a>
-- t-224154
+<a id="claim-t-59396"></a>
+- t-002
   teiginys: "1314 m. sausio pradžioje maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -84,6 +84,8 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1314 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą laiką, veikėjus ir vietą."
+  pagrindžia:
+    - c-60027
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -140,6 +142,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-60028
   autorius: "Petras Dusburgietis"
@@ -161,6 +165,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -72,6 +72,5 @@ Balys : Bibliography of Baltic Bibliographies, Lituanistikos Darbai, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

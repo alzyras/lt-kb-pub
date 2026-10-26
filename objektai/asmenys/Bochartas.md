@@ -33,6 +33,20 @@ canonical_biography: "Narbutas nurodo, kad Bochartas žodį Cabires kildino iš 
 
 Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiškiančio galią. Bochartas yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties.
 
+## Teiginiai
+
+<a id="claim-t-197392"></a>
+- t-001
+  teiginys: "Bochartas yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173017
+
 ## Citatos
 
 - id: c-173017
@@ -61,51 +75,5 @@ Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201534
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
-  citata_originali: |
-    Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
-    apeigos buvo slaptos, antra, painiava net senovės mitologų vei­
-    kaluose, nes vieni Kabirus prilygina Dioskūrams, tai yra Kas­
-    torui ir Polideukui, kiti laiko juos kažkokių dievų vaikais, tre­
-    ti - kerėtojais arba kažkokiais šventikais, panašiais į daktilus,
-    koribantus, kuretus. Tačiau lygindami tuos padavimus vieną
-    su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
-    Rolandas, labiausiai priartėdami prie tiesos, sutaria, kad Ka­
-    tarai - trys pragaro, arba mirusiųjų, dievai, kadangi Prozerpi­
-    na simbolizuoja žemę, priimančią į savo įsčias visa, kas mirė,
-    ir atiduodančią, arba gimdančią, iš tų pačių įsčių, dėl to ji yra
-    pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
-    gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
-    nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
-    graikų mitologijos Trejybė.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-215061
-  autorius: "Teodoras Narbutas"
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
-  citata_originali: |
-    Seniausiems ir drauge labiausiai paplitusiems mitams pri­
-    klauso mitas apie Kabirus. Egiptiečiai ir graikai, romėnai, in­
-    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
-    giau ar mažiau paslaptingą dievų Kabirų ritualą.
-    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
-    kiančio galią.
-  citata_rodoma: "Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­\nkiančio galią."
-  statusas: verified
-  atnaujinta: "2026-09-30 03:10"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

@@ -90,6 +90,5 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -45,22 +45,10 @@ Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Br
 
 ## Teiginiai
 
-<a id="claim-t-222924"></a>
-- t-222924
-  teiginys: "Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204810
-
-<a id="claim-t-223563"></a>
-- t-223563
+<a id="claim-t-60265"></a>
+- t-001
   teiginys: "Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konradas iš Tirbergo Vyresnysis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,6 +61,8 @@ Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Br
   temporaliniai_duomenys: "įvykio data: po 1271 m.; įvykio data: 1271 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-60897
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -108,21 +98,5 @@ Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204810
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
-  citata_originali: |
-    Brolis Ditrichas iš Gaterslebeno, aštuntas Prūsijos žemės magistras, vadovavo šešerius
-    metus405, pradėjęs 1271 viešpaties metais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222924
-
+  pagrindzia:
+    - t-001

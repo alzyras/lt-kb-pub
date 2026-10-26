@@ -83,7 +83,7 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166970
@@ -102,6 +102,5 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

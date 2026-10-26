@@ -54,6 +54,5 @@ Tai aršiausia kvarantana, Inirią turėjau išbandyti ant savo kailio.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

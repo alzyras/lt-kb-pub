@@ -65,6 +65,5 @@ Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo iš jo žemės, bet, n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

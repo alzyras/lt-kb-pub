@@ -51,10 +51,10 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   pagrindžia:
     - c-60817
 
-<a id="claim-t-225423"></a>
-- t-225423
+<a id="claim-t-60186"></a>
+- t-002
   teiginys: "Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuviai: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -65,6 +65,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Numa kartu su Derska išžudė lietuvius."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Numa gyveno Pagudė (0.86); Derska gyveno Pagudė (0.86)"
+  pagrindžia:
+    - c-60818
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,7 +113,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-60818
@@ -137,4 +139,5 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

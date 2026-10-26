@@ -68,6 +68,5 @@ Lietuvos valstybingumo raida 1914–1918 metais.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

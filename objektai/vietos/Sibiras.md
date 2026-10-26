@@ -25,6 +25,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-3171f75e671cab278fe00509
+canonical_name: Sibiras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sibiras
+sameAs: []
+canonical_biography: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą. Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.'
+place_authority: true
+historical_names: []
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:54:41+00:00","source_checked_at":"2026-09-20T18:54:41+00:00","counts":{"relations":2,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Sibiras (rus. Сибирь) – didelis gamtinis regionas, užimantis rytinę Rusijos dalį ir iš dalies sutampantis su Šiaurės Azija. Sibiras sudaro 77 % Rusijos ploto (13,1 mln. km²), bet ten gyvena tik 28 % šalies gyventojų (40 mln.). Sibiras dengia ~10 % Žemės sausumos.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"11494","revision_id":"7713046","status":"published","translation_status":"native","source":{"title":"Sibiras","url":"https://lt.wikipedia.org/wiki/Sibiras","publisher":"Vikipedija","language":"lt","article_id":"11494","revision_id":"7713046","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7713046","history_url":"https://lt.wikipedia.org/w/index.php?title=Sibiras&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:08.521013+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"d7875b3e70d869469d1c16db97d63005c5aee0bcc5828dc1d081b4f2e92c731a","version_pk":"94cbfb70b65722b4e8865103b03ead1b"}},"source_buttons":[{"label":"Vikipedija","title":"Sibiras","url":"https://lt.wikipedia.org/wiki/Sibiras","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Sibiras","url":"https://www.vle.lt/straipsnis/sibiras/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Sibiras","https://www.vle.lt/straipsnis/sibiras/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0}},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:54:41+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-69238","confidence":0.72},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Sovietų Sąjunga","claim_id":"t-69239","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 external_sources_json: '[{"title":"Sibiras","url":"https://lt.wikipedia.org/wiki/Sibiras","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Sibiras","url":"https://www.vle.lt/straipsnis/sibiras/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_finisher: 'true'
@@ -38,15 +49,6 @@ object_page_seo_description: 'Sibiras: Tačiau pergyvenusi didžiules netektis �
 object_page_seo_input_hash: 2c3087a9ebbd2c538d29abcf7fd08992cbc336b75146c0d17f700eaeb1bd8805
 object_page_seo_generated_at: '2026-09-20T18:54:41+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-3171f75e671cab278fe00509"
-canonical_name: "Sibiras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sibiras"]
-sameAs: ["https://www.wikidata.org/entity/Q5428"]
-canonical_biography: "Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą. Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse."
-place_authority: true
-historical_names: []
 ---
 # Sibiras
 
@@ -103,24 +105,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-68624
     - c-167027
 
-<a id="claim-t-69240"></a>
-- t-69240
-  teiginys: "Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą."
-  atnaujinta: "2026-09-24 22:34"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sibiras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibiras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-68625
-
 ## Citatos
 
 - id: c-68624
@@ -152,7 +136,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-68625
@@ -175,9 +159,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-69240
-
 - id: c-68626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,7 +173,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-68627
@@ -214,7 +195,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-167027
@@ -242,6 +223,5 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

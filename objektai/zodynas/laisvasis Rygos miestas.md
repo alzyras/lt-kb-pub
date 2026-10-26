@@ -61,6 +61,5 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

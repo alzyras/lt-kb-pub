@@ -74,6 +74,5 @@ Fordo komisija derėjosi su neutraliomis Europos šalimis ir kreipėsi į kariau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

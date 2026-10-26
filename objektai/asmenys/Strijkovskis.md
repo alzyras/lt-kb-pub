@@ -35,22 +35,10 @@ Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius,
 
 ## Teiginiai
 
-<a id="claim-t-214751"></a>
-- t-214751
-  teiginys: "Anoniminio recenzento teigimu, po Strijkovskio Lietuvos istorijos tyrinėjimų pėdsakus atnaujino kiti autoriai."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197224
-
-<a id="claim-t-213005"></a>
-- t-213005
+<a id="claim-t-191471"></a>
+- t-001
   teiginys: "Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius, Didžiojo Naugardo kraštuose vadintus igovėnais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,6 +52,8 @@ Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius,
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strijkovskis\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174353
 
 ## Citatos
 
@@ -91,25 +81,5 @@ Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-197224
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 447"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 447."
-  citata_originali: |
-    Nors autorius ir ne vienas pats stojo
-    Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir­
-    tinti įžangos pradžioje), nes po Strijkovskio ir po Koja-
-    lavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženk­
-    liai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas vi­
-    suomet bus labai didelis
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214751
-
+  pagrindzia:
+    - t-001

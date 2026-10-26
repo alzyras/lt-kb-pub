@@ -72,6 +72,5 @@ Dabar, kai rašau, beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Bi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

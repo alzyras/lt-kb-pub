@@ -48,7 +48,7 @@ Burchardas iš Švandeno, Teutonų ordino didysis magistras, persivilko hospital
 <a id="claim-t-222215"></a>
 - t-222215
   teiginys: "1307 m. hospitaljerai užėmė Rodo salą ir dar penkias salas."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

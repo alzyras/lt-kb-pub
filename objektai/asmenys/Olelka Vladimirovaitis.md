@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-32a646b8d9e42f0171761f1e"
-canonical_name: "Olelka Vladimirovaitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Olelka Vladimirovaitis"]
+entity_id: ent-32a646b8d9e42f0171761f1e
+canonical_name: Olelka Vladimirovaitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Olelka Vladimirovaitis
 sameAs: []
-canonical_biography: "Po Žygimanto mirties Olelka buvo paleistas ir išvyko į Kopylių."
+canonical_biography: Po Žygimanto mirties Olelka buvo paleistas ir išvyko į Kopylių.
 ---
 # Olelka Vladimirovaitis
 
@@ -64,6 +66,5 @@ Po Žygimanto mirties Olelka buvo paleistas ir išvyko į Kopylių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

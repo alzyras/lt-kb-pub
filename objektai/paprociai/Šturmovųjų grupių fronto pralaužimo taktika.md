@@ -67,9 +67,9 @@ Nenurodyta
     - c-43183
 
 <a id="claim-t-67245"></a>
-- t-67245
+- t-002
   teiginys: "Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> durtuvų kautynės: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,8 +99,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-67245
+  pagrindzia:
+    - t-002
 
 - id: c-43183
   sudarytojas: "Karolis Zikaras"
@@ -116,11 +116,9 @@ Nenurodyta
     | gerai apmokyti prancūzų taktikos. Kai prasidėjo puolimas,
     | tai jie ir lindo kyliais vienas paskui kitą kaip skėriai.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -63,6 +63,5 @@ Narbutas nurodo, kad Stela viename šaltinyje rado žinią apie litalanų žygį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

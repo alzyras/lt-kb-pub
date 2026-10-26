@@ -79,6 +79,5 @@ canonical_biography: "Mikalojus Gricevičius prieš 1586 m. Ramygalos turgaus di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

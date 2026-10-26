@@ -69,6 +69,5 @@ Narbutas teigia, kad kryžiuočiai ir kalavijuočiai, vadovaujami Prūsijos komt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

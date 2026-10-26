@@ -79,6 +79,5 @@ Teodoras Narbutas, remdamasis laiško Čekijos karaliui Otokarui II citata, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

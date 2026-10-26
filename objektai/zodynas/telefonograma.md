@@ -61,6 +61,5 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

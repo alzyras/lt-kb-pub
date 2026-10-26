@@ -73,6 +73,5 @@ L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -93,6 +93,5 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

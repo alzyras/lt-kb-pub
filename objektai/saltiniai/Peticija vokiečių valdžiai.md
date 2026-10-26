@@ -64,6 +64,5 @@ Toks bu vo vokiečių valdžios atsakymas į mano jiems inteiktą peticiją.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

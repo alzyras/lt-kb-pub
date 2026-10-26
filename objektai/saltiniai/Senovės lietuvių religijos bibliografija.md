@@ -72,6 +72,5 @@ Ivinskis : Senovės lietuvių religijos bibliografija, Kaunas 1938 (atsp. iš So
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

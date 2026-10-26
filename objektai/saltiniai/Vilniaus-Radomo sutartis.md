@@ -70,6 +70,5 @@ M. Liubavskis LDK Seimo raidoje 1401 m. Vilniaus-Radomo sutartį išskyrė kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -55,6 +55,5 @@ Ir žmonės, ir kunigai vi si rnelste-meldė mūsų gelbėti Lietuvą ir Lietu v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -75,6 +75,5 @@ Koks buvo mūsij nusistebėjimas, kuomet nu važiavę pas Skandinavijos liniją 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

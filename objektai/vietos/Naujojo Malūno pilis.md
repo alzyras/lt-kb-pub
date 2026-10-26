@@ -62,18 +62,6 @@ Lietuviai kartu su rygiečiais apsupo ordino Naujojo Malūno pilį, kurioje, pas
   pagrindžia:
     - c-188484
 
-<a id="claim-t-221033"></a>
-- t-221033
-  teiginys: "1298 m. Rygos miestiečiai ir lietuviai buvo apsupę Naujojo Malūno pilį."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202785
-
 ## Citatos
 
 - id: c-188484
@@ -96,32 +84,5 @@ Lietuviai kartu su rygiečiais apsupo ordino Naujojo Malūno pilį, kurioje, pas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-202785
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 191-192"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191-192."
-  citata_originali: |
-    Šie,
-    susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio
-    29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę
-    549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.
-    Golub-Dobrzyń.
-    550  D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
-    Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
-    79).
-    551  Dab. Gauja, upė Latvijoje.
-
-    Naujojo Malūno pilį.552
-  statusas: verified
-  atnaujinta: "2026-09-13 18:01"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221033
-

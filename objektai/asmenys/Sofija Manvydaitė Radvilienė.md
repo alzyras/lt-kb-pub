@@ -79,6 +79,5 @@ canonical_biography: "1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojama
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

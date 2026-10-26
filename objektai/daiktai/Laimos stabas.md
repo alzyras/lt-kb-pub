@@ -74,6 +74,5 @@ Netoli Krušvicos, prie Goplo ežero, buvo rastas iš smiltainio iškaltas Laimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -67,11 +67,9 @@ Mykolas Petraškevičius savo pusbernį su rykūne naktį siuntė į klėtį ala
     palikęs saugoti žmoną ir turtą58.
   citata_rodoma: "Mykolas Petraškevičius \nsavo pusbernį su rykūne naktį siuntė į klė-\ntį alaus"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

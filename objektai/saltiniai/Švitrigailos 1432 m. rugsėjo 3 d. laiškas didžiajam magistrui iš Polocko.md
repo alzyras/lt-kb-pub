@@ -84,6 +84,5 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

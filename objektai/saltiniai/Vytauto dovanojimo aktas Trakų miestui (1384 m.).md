@@ -87,6 +87,5 @@ Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

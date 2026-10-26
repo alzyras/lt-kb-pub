@@ -77,6 +77,5 @@ Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

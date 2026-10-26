@@ -80,7 +80,7 @@ Bevažinėjant jam po Europą sudaryta jojo pastangomis komisija iš neutralių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192425
@@ -103,6 +103,5 @@ Bevažinėjant jam po Europą sudaryta jojo pastangomis komisija iš neutralių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

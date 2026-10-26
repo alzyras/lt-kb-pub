@@ -96,7 +96,7 @@ Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy mus Masilijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-196731
@@ -119,6 +119,5 @@ Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy mus Masilijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

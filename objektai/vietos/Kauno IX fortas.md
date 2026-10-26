@@ -71,6 +71,5 @@ Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

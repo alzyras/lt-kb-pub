@@ -74,6 +74,5 @@ Ir visi krašto žmonės prisidėjo prie jo, ir visos pilys pasidavė jam. Pasku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

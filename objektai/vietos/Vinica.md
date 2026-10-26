@@ -39,6 +39,30 @@ historical_names: []
 
 ## Teiginiai
 
+<a id="claim-t-185319"></a>
+- t-001
+  teiginys: "Prisiekęs ištikimybę Vytautui ir jo įpėdiniams, Dimitras gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168680
+
+<a id="claim-t-193455"></a>
+- t-002
+  teiginys: "Vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168680
+
 <a id="claim-t-194277"></a>
 - t-003
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
@@ -50,30 +74,6 @@ historical_names: []
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176870
-
-<a id="claim-t-185319"></a>
-- t-185319
-  teiginys: "Prisiekęs ištikimybę Vytautui ir jo įpėdiniams, Dimitras gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168680
-
-<a id="claim-t-193455"></a>
-- t-193455
-  teiginys: "Vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168680
 
 ## Citatos
 
@@ -103,9 +103,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185319
-    - t-193455
+  pagrindzia:
+    - t-001
+    - t-002
 
 - id: c-176870
   autorius: "Michał Baliński"
@@ -142,6 +142,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

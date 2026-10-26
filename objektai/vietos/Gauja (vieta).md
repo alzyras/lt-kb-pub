@@ -87,7 +87,7 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188178
@@ -110,6 +110,5 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -75,6 +75,5 @@ Selonietis Stangas buvo prie Šventosios upės, žemiau Jurbarko, esančios pili
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

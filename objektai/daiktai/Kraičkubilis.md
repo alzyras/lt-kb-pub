@@ -85,12 +85,11 @@ Nenurodyta
     Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji išsivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje.
   citata_rodoma: "Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji išsivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177738
@@ -106,6 +105,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

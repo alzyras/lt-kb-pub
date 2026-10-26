@@ -60,6 +60,5 @@ Organizuotas namų užpuolimas XVIII a. luominėje Lietuvos Didžiosios Kunigaik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

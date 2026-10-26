@@ -96,7 +96,7 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185420
@@ -115,7 +115,7 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185421
@@ -131,6 +131,5 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

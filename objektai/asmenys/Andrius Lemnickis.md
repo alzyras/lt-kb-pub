@@ -79,6 +79,5 @@ canonical_biography: "1737 m. Juozapas Malinovskis ir Antanas Krukovskis užpuol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

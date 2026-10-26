@@ -73,6 +73,5 @@ Mūšyje žuvo Kolomanas, Vengrijos karaliaus brolis, ir Henrikas, Lenkijos kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

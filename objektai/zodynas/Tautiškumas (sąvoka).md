@@ -67,6 +67,5 @@ Ne į latvius, kurie yra lyvių-lietuvių šaka, bet į vi durio lietuvius, ¡ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

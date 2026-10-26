@@ -71,6 +71,5 @@ Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais, V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

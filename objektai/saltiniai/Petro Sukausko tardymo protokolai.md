@@ -24,13 +24,14 @@ media_all_json: |-
 
 Petras Sukauskas ir kiti partizanai 1945 m. rugpjūtį neatidavė ginklų, tikėdamiesi JAV ir Anglijos puolimo prieš SSRS; šį motyvą kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikia Ona Dapšytė-Kriukelienė.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214527
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Petras Sukauskas ir kiti partizanai 1945 m. rugpjūtį neatidavė ginklų, tikėdamiesi JAV ir Anglijos puolimo prieš SSRS; šį motyvą kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ perteikia Ona Dapšytė-Kriukelienė.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 105"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 105."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:44"

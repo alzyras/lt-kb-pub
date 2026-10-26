@@ -39,23 +39,10 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
 
 ## Teiginiai
 
-<a id="claim-t-205287"></a>
-- t-002
-  teiginys: "Čia reikėtų prisiminti, ką Mykolas Lietuvis pagal čio nykštes legendas skelbė, kad atvykėliai su Palemonu pir miausia pastatė Platelių tvirtovę iškart, kai tik išsilaipino (Quaedam ad Litvaniam pertinentia, ex fragmentis Michelonis Lituani."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-188039
-
-<a id="claim-t-216560"></a>
-- t-216560
+<a id="claim-t-189045"></a>
+- t-001
   teiginys: "Narbutas, remdamasis Lasickiu, Platelių valsčių sieja su legendine pilimi, tačiau pažymi, kad Lasickis apie ją daugiau nepapasakojo."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,6 +56,21 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   ryšio_paaiskinimas: "Citata mini Platelius kaip vietą Lietuvoje, nors kalba apie daugiau nei vienus Platelius."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171934
+
+<a id="claim-t-205287"></a>
+- t-002
+  teiginys: "Čia reikėtų prisiminti, ką Mykolas Lietuvis pagal čio nykštes legendas skelbė, kad atvykėliai su Palemonu pir miausia pastatė Platelių tvirtovę iškart, kai tik išsilaipino (Quaedam ad Litvaniam pertinentia, ex fragmentis Michelonis Lituani."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188039
 
 ## Citatos
 
@@ -93,6 +95,8 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-188039
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -112,6 +116,5 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

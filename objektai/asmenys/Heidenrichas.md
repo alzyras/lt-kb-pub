@@ -72,6 +72,5 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

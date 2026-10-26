@@ -63,6 +63,5 @@ Kęstučio sūnūs, išskyrus Vytautą ir Žygimantą, išvyko svetur, o Teodora
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

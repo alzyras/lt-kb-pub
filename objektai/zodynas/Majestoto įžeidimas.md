@@ -59,6 +59,5 @@ Už neteisingą apkaltinimą majestoto įžeidimu Statute numatyta mirties bausm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

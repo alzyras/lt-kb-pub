@@ -85,6 +85,5 @@ Jonas iš Apelderno buvo vienas iš vyskupo Alberto brolių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

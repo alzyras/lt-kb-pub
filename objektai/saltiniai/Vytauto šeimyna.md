@@ -74,6 +74,5 @@ Studija „Vytauto šeimyna“ sulaukė plataus dėmesio ir buvo atspausta iš 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

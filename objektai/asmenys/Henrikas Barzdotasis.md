@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-5a5bdf588f5df3193955c597"
-canonical_name: "Henrikas Barzdotasis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Henrikas Barzdotasis"]
+entity_id: ent-5a5bdf588f5df3193955c597
+canonical_name: Henrikas Barzdotasis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Henrikas Barzdotasis
 sameAs: []
-canonical_biography: "Henrikas Barzdotasis buvo Vroclavo ir Krokuvos kunigaikštis; jis galėjo būti kryžiuočių pakvietimo į Prūsijos pasienį iniciatorius."
+canonical_biography: Henrikas Barzdotasis buvo Vroclavo ir Krokuvos kunigaikštis; jis galėjo būti kryžiuočių pakvietimo į Prūsijos pasienį iniciatorius.
 ---
 # Henrikas Barzdotasis
 
@@ -62,6 +64,5 @@ Henrikas Barzdotasis buvo Vroclavo ir Krokuvos kunigaikštis; jis galėjo būti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

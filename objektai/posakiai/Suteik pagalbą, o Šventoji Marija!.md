@@ -62,6 +62,5 @@ Teodoro Narbuto pasakojime kariauna, persižegnojusi šventuoju kryžiaus ženkl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

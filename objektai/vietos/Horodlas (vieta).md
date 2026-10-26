@@ -25,15 +25,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-0c42ae43a3298ea7f042c152"
-canonical_name: "Horodlas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Horodlas","Horodlas (vieta)"]
+entity_id: ent-0c42ae43a3298ea7f042c152
+canonical_name: Horodlas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Horodlas
+  - Horodlas (vieta)
 sameAs: []
-canonical_biography: "Horodlas yra Volynės vietovė prie Vakarų Bugo."
-place_authority: true
-historical_names: []
+canonical_biography: Horodlas yra Volynės vietovė prie Vakarų Bugo.
 ---
 # Horodlas (vieta)
 
@@ -77,6 +78,5 @@ Horodlas yra Volynės vietovė prie Vakarų Bugo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

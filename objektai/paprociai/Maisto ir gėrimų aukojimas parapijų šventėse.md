@@ -78,6 +78,5 @@ Beveik iki XVII amžiaus Lietuvos kaimiečiai per kasmetines šventes po pamald�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

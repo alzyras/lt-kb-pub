@@ -64,6 +64,5 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -80,6 +80,5 @@ Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

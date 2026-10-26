@@ -27,6 +27,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-8ae6163f449df65e61c75cc3
+canonical_name: Melnikas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Melnikas
+sameAs: []
+canonical_biography: 'Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku. Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis. Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
+place_authority: true
+historical_names: []
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:10:46+00:00","source_checked_at":"2026-09-19T23:10:46+00:00","counts":{"relations":5,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4639372b300782efcc193b7e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"žemė","context":"1930 m. šaltinyje Melnikas įvardijamas kaip Trakų kunigaikštijos žemė.","support_ids":["t-199610","c-182400"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199610","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-182400","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 )."}],"status":"published","conflict_status":"clear"},{"trait_id":"7be9e25aa7c004d5f8a69513","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"mokesčių rinkimo vieta","context":"Šaltinis nurodo, kad J. Ižykovičius buvo Melniko mokesčių rinkėjas; tai apibūdina XVI a. administracinį naudojimą.","support_ids":["t-207794","c-190411"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207794","source":"darbas/sources/02-kiaupiene-mes-lietuva-ldk-bajorija.md"},{"kind":"evidence","evidence_id":"c-190411","source":"darbas/sources/02-kiaupiene-mes-lietuva-ldk-bajorija.md","quote":"J. Ižykovičius tapo Drohičino ir Melniko mokesčių rinkėju, 1598 m. gavo Drohičino pakamarės urėdą."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Pilys","claim_id":"t-112047","confidence":0.62},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-210755","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Palenkė","claim_id":"t-68689","confidence":0.82},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Jurgis Nosuta","claim_id":"t-210755","confidence":0.78},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Nikodemas Janavičius iš Čechanovičių","claim_id":"t-87806","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
 object_page_finisher: 'true'
@@ -40,15 +51,6 @@ object_page_seo_description: 'Melnikas: Vokiečiai apsiėmė laikytis taikos su 
 object_page_seo_input_hash: 7ded8f4fa271d14772babc2c7c74428a184a2b43e597acd9741a121ac6270682
 object_page_seo_generated_at: '2026-09-19T23:10:46+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-8ae6163f449df65e61c75cc3"
-canonical_name: "Melnikas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Melnikas"]
-sameAs: []
-canonical_biography: "Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku. Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis. Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną."
-place_authority: true
-historical_names: []
 ---
 # Melnikas
 
@@ -99,7 +101,6 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170560
-    - c-182399
 
 <a id="claim-t-199607"></a>
 - t-003
@@ -134,50 +135,6 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182400
-
-<a id="claim-t-207794"></a>
-- t-207794
-  teiginys: "J. Ižykovičius tapo Melniko mokesčių rinkėju."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-190411
-
-<a id="claim-t-211557"></a>
-- t-211557
-  teiginys: "Mazovijos kunigaikštis su Lenkų pagalba buvo užgrobęs Melniko vietovę."
-  atnaujinta: "2026-09-20 02:10"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193105
-
-<a id="claim-t-68689"></a>
-- t-68689
-  teiginys: "Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis."
-  atnaujinta: "2026-09-29 18:47"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Palenkė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Melnikas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Palenkė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Melnikas pateiktas kaip viena Palenkės vietų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Melnikas priklausė Palenkė (0.82)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182401
-    - c-24305
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -228,9 +185,6 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68689
-
 - id: c-170559
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -252,7 +206,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-170560
@@ -279,7 +233,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-182398
@@ -303,7 +257,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-182399
@@ -331,9 +285,6 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 - id: c-182400
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -358,7 +309,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-182401
@@ -381,9 +332,6 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68689
-
 - id: c-182402
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -404,51 +352,5 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-190411
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 223"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 223."
-  citata_originali: |
-    Lietuvos Didžiojoje Kunigaikštystėje darbavosi ir kitas K. Manvydo Dorohostai-
-    skio studijinės kelionės palydovas, bajoras J. Ižykovičius. Labai panaši ir jo tarnybinė
-    karjera. J. Ižykovičius tapo Drohičino ir Melniko mokesčių rinkėju, 1598 m. gavo
-    Drohičino pakamarės urėdą.
-  citata_rodoma: "J. Ižykovičius tapo Drohičino ir Melniko mokesčių rinkėju, 1598 m. gavo\nDrohičino pakamarės urėdą."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207794
-
-- id: c-193105
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 84."
-  citata_originali: |
-    28. APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
-    MEDŽIO PAGROBIMĄ
-    Jogaila valdydamas visą Lietuvos Didžiąją Kuni­
-    gaikštystę, pradėjo kariauti su Mazovija2  ir su Len­
-    kais, nes Mazovijos kunigaikštis, Lenkų padedamas,
-    buvo užgrobęs Drohičiną ir Melniką. Jogaila daug kar­
-    tų žygiavo į Lenkų žemę ir padarė daug žalos Lenkų
-    bei Mozūrų žemėms, ir praliejo daug Romos tikėjimo
-    krikščionių kraujo nuo Lietuvos sienų ligi pat Vislos
-    upės 3.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211557
-

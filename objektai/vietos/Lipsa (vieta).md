@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-eccaad4383ac98dd10ec5d9f"
-canonical_name: "Lipsa (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Lipsa","Lipsa (vieta)"]
+entity_id: ent-eccaad4383ac98dd10ec5d9f
+canonical_name: Lipsa (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Lipsa
+  - Lipsa (vieta)
 sameAs: []
-canonical_biography: "Liubeko pirklių pa statytas uostas, vadinamas Lipsa, ir daug kitų."
-place_authority: true
-historical_names: []
+canonical_biography: 'Liubeko pirklių pa statytas uostas, vadinamas Lipsa, ir daug kitų.'
 ---
 # Lipsa (vieta)
 
@@ -69,6 +70,5 @@ Liubeko pirklių pa statytas uostas, vadinamas Lipsa, ir daug kitų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

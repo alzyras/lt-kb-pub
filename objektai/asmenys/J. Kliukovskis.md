@@ -90,6 +90,5 @@ Kliukovskio raštas (pakvitavimas), d u o t a s dar 1591 m .
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

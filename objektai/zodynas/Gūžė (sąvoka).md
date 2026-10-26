@@ -68,6 +68,5 @@ GŪŽĖ (GUČE), geriau gal GUCIE, kadangi Gudas vie tos kalba, Guszdas arba Gus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-211033"></a>
 - t-211033
   teiginys: "Vienoje pusėje buvo Gediminaičių Stulpai, kitoje – šv. Jurgis ant žirgo su ietimi prieš drakoną."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

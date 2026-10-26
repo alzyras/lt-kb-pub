@@ -275,6 +275,51 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   pagrindžia:
     - c-167703
 
+<a id="claim-t-187724"></a>
+- t-012
+  teiginys: "Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Lietuvos kariuomenės smurtinį karinį veiksmą prieš totorius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Totoriai (0.90); Mykolas Glinskis kariavo prieš Totoriai (0.88)"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170663
+
+<a id="claim-t-187725"></a>
+- t-013
+  teiginys: "Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Odojevas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Odojevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad LDK kariuomenė buvo užėmusi Odojevą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Lietuvos kariuomenė užėmė Odojevas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1406-1408; įvykio data: 1407 m.; įvykio data: 1408 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170664
+
 <a id="claim-t-193552"></a>
 - t-014
   teiginys: "Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes."
@@ -286,31 +331,6 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176232
-
-<a id="claim-t-207515"></a>
-- t-207515
-  teiginys: "Lietuvos kariuomenės siekį parodyti savo istorinę gelmę, pasak Alfredo Bumblausko, išreiškė garbės kuopa su XIV a. riterių, XVII a. husarų ir XVIII a. pabaigos karių uniformomis."
-  atnaujinta: "2026-09-24 21:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190132
-
-<a id="claim-t-230507"></a>
-- t-230507
-  teiginys: "1944 m. liepą Juozas Alekna pasiūlė susirinkusiems stoti į Lietuvos kariuomenę ir tęsti kovą su sovietinės armijos daliniais."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  pagrindžia:
-    - c-211146
 
 ## Citatos
 
@@ -336,7 +356,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-42823
@@ -363,7 +383,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-42824
@@ -393,7 +413,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-166157
@@ -419,7 +439,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166542
@@ -438,7 +458,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-166543
@@ -456,7 +476,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-166545
@@ -475,7 +495,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-166546
@@ -497,7 +517,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-166547
@@ -516,7 +536,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-167702
@@ -534,7 +554,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-167703
@@ -553,7 +573,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-170663
@@ -577,6 +597,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 - id: c-170664
   autorius: "Anoniminis metraštininkas"
@@ -600,6 +622,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 - id: c-176232
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -618,40 +642,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
-
-- id: c-190132
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 284"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 284."
-  citata_originali: |
-    O su tuo yra susijusios ir naujos istorinės kultūros formos Lietuvoje. Tai ir siekis
-    įtvirtinti LDK istorinę vėliavą – Vytį raudoname lauke, tai ir siekis parodyti, kad įvai-
-    rios Lietuvos institucijos 1918 m. tik atsikūrė, o ne įsikūrė. Šiuo aspektu ryškiai matomas
-    Lietuvos kariuomenės siekis parodyti savo istorinę gelmę, suformuojant garbės kuopą su
-    XIV a. riterių, XVII a. husarų ir XVIII a. pabaigos karių uniformomis.
-  citata_rodoma: "Šiuo aspektu ryškiai matomas \nLietuvos kariuomenės siekis parodyti savo istorinę gelmę, suformuojant garbės kuopą su \nXIV a. riterių, XVII a. husarų ir XVIII a. pabaigos karių uniformomis."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207515
-
-- id: c-211146
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 30"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 30."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-230507
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lenkai]]

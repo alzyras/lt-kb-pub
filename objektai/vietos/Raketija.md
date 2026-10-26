@@ -71,6 +71,5 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -76,6 +76,5 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

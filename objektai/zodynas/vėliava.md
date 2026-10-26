@@ -121,15 +121,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   pagrindžia:
     - c-44239
 
-<a id="claim-t-78915"></a>
-- t-78915
-  teiginys: "Vėliavai vadovaudavo kapitonas."
-  atnaujinta: "2026-09-20 00:29"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44240
-
 ## Citatos
 
 - id: c-14727
@@ -149,7 +140,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-005
 
@@ -172,7 +163,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-006
 
@@ -190,7 +181,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-44240
@@ -210,9 +201,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-    - t-78915
 
 - id: c-76016
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -232,6 +222,5 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

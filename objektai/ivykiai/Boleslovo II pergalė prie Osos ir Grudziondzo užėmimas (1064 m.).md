@@ -77,6 +77,5 @@ Be to, dar nauja Boleslovo taktika, kuri dau giausia rėmėsi sumaniu priešo pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -7,10 +7,10 @@ datos:
   - '1947 m.'
 date_start: '1947'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,13 +34,14 @@ Organizacijai vadovavo Bronė Maldeikaitė-Ramunėlė ir Jonas Užubalis-Ąžuol
 
 Organizacijai vadovavo Bronė Maldeikaitė-Ramunėlė ir Jonas Užubalis-Ąžuolas.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213825
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Organizacijai vadovavo Bronė Maldeikaitė-Ramunėlė ir Jonas Užubalis-Ąžuolas.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 23"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 23."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:40"

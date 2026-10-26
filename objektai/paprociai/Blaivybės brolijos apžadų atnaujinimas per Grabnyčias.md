@@ -64,9 +64,8 @@ Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti bla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-208834"></a>

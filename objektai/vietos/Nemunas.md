@@ -43,6 +43,19 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-a583cf71df9cf24dda686750
+canonical_name: Nemunas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Nemunas
+  - Nemuno
+  - Nemuno upė
+sameAs: []
+canonical_biography: 'Nemunas šiame šaltinyje aprašomas kaip svarbiausia Lietuvos vakarų gynybos, karo žygių ir prekybos ašis, pagal kurią ėjo pilys, sienų ginčai ir žemaičių kovos.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Nemunas","url":"https://lt.wikipedia.org/wiki/Nemunas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T20:22:49+00:00","source_checked_at":"2026-09-18T20:22:49+00:00","counts":{"relations":17,"gallery":0,"sources":18},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Didysis magistras, vis dar laikydamasis ankstesnių ketinimų atimti Vilnių iš Vytauto, tais pačiais metais, vasarą, per Šv. Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­ dinti ir stiprinti Rittersverderio pilį52. Tačiau netruko užklupti juos Vytautas su lietuviais bei lenkais ir kreipėsi į magistrą, kad mestų darbus ir pasišalintų iš krašto.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-180370","evidence_id":"c-163969","origin":"internal"},"wiki":{"intro":"Nemunas (bltr. Нёман, Nioman, prūs. Mīmeli, rus. Неман, Neman, vok. Memel, žem. Nemons) – ilgiausia Lietuvos upė. Jo visas ilgis yra 937 km, Lietuvos teritorijoje teka 359 km. Likusioji dalis teka per Baltarusiją (462 km) bei riboja Lietuvos sieną su Baltarusija (17,3 km) ir Rusijos Kaliningrado sritimi (98,7 km). Nemuno baseino plotas 98 200 km², iš jų 46 600 km² yra Lietuvoje (apima 72 % Lietuvos teritorijos).","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"5933","revision_id":"7912834","status":"published","translation_status":"native","source":{"title":"Nemunas","url":"https://lt.wikipedia.org/wiki/Nemunas","publisher":"Vikipedija","language":"lt","article_id":"5933","revision_id":"7912834","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7912834","history_url":"https://lt.wikipedia.org/w/index.php?title=Nemunas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:28.817358+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"22146ecb87bb8894d8d6752b1e4e0f6ec9d1f1aa23199cc8770d03e7e6fae316","version_pk":"6fbe1846d215756ccea53e26f92aa4c1"}},"source_buttons":[{"label":"Vikipedija","title":"Nemunas","url":"https://lt.wikipedia.org/wiki/Nemunas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Nemunas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"87b3c4f2c7637356291ea2ea","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Upė prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą.","context":"Petras Dusburgietis, Prūsijos žemės kronika (1985 m.); kronikoje aprašoma Nemuno geografinė padėtis.","support_ids":["t-222404","c-202729"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222404","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202729","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e24eba62b4249a0274e98271","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Nemunas atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo.","context":"Petras Dusburgietis, Prūsijos žemės kronika (1985 m.); autoriaus aprašoma Nemuno geografinė reikšmė.","support_ids":["t-222404","c-202729"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222404","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202729","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a940aa9bc2b762a29f51788d","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Nemuno žemupyje yra atšakos Gilija ir Rusnė; ties jų išsišakojimu Nemunas praranda savo pavadinimą.","context":"Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.); autoriaus tyrimų aprašymas.","support_ids":["t-216061","c-199135"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216061","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199135","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­ namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­ nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­ kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį, pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk Kronu)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5a87f035454184274104a272","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Nemuno vidurupyje tarp Kauno ir Gardino buvo gausu rėvų.","context":"Zigmantas Kiaupa, Kauno istorija, t. 1 (2010 m.); aprašoma istorinė Nemuno vidurupio būklė.","support_ids":["t-201643","c-184990"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201643","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184990","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"O laivai istrigdavo ar skęsdavo daugiausia dėl nerūpestingumo. Kitaip atrodė Nemuno vidurupis. Jame tarp Kauno ir Gardino buvo gausu rėvų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"276e6d644ae3e7281f7b0682","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Nemuno slenksčiuose buvo daugybė akmenų, daugiausia iš švediško granito, su kitų rūšių priemaiša.","context":"Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.); autoriaus aprašymas.","support_ids":["t-214757","c-196735"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214757","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196735","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Šios uolienų nuolaužos ne visur vienodai nuklojo žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­ ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­ menys būtų iš visų kampų sunešti į vieną krūvą. Štai, pavyzdžiui, Nemuno slenksčiuose matome daugybę akme­ nų, pradedant itališko riešuto dydžio ir baigiant milijono pūdų svorio, visuomet iš švediško granito, su nedidele ki­ tų keturių rūšių priemaiša. Vadinasi, tai akivaizdžiai by­ loja, jog ši akmenų kruša būdavo daugiau ar mažiau tirš­ ta, su didesniais ar mažesniais tarpais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a872e534e08cb2db070c6c32","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Nemuno pakrantės žemupyje apibūdintos kaip pirmoji lietuvių tautos buveinė šiame krašte.","context":"Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.); autoriaus vertinimas ir istorinė interpretacija.","support_ids":["t-212565","c-195271"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212565","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195271","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tad Nemuno žemupio pakrantes visų pirma de­ ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte, iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun- manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­ lies, ligi šiol vadinamos Ruse arba slaviškai Rusne, Rusnia."}],"status":"published","conflict_status":"clear"},{"trait_id":"c64adc181e5d5d0f71004ee3","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Nemuno vandens kelias buvo patogus ir patikimas susisiekimo kelias; žemupys buvo patogus laivybai.","context":"Zigmantas Kiaupa, Kauno istorija, t. 1 (2010 m.); autoriaus aprašomas Nemuno naudojimas ankstyvuoju laikotarpiu.","support_ids":["t-201637","c-184984"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201637","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184984","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Jų gyvenime Nemunas turėjo būti labai svarbus, mat vandens keliai patogiausi ir patiki- miausi. Nemuno žemupys nuo santakos su Nerimi patogus laivybai, išplaukti į jūrą taip pat patogu per pietinę Kuršių nerijos dalį kertantį sąsiaurį. Nemuno vidurupyje ir didžiausiame jo intake Neryje daugybė esančių rėvų sunkino laivybą, tačiau neuž- kirto jai kelio."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"953860e31490da097dc6e868","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Nemuno vandens kelias buvo prekybos ašis, pratęsta už Lietuvos valstybės ribų iki Dancigo uosto.","context":"Zigmantas Kiaupa, Kauno istorija, t. 1 (2010 m.); aprašoma istorinė prekybos sistema.","support_ids":["t-201640","c-184987"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201640","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184987","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Šioje prekyboje aktyvūs buvo ir Lietuvos pirkliai, be pačių kauniečių, vilniečiai, trakiečiai, ir Hanzos miestų Dancigo, Tomo, Karaliaučiaus pirkliai, taip pat prekiaujantis Vokiečių ordinas. Prekybos ašis buvo Nemuno vandens kelias, pratęstas už Lietuvos valstybės ribų iki Dancigo uosto. Šis uostas buvo galinis taškas, kurį pasiekdavo Kauno ir kitų Lietuvos miestų per Kauną keliaujantys pirkliai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7d25a061750e5f5a0f8e1102","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Nemunas buvo naudojamas kaip laivybos ir prekybos kelias.","context":"Zigmantas Kiaupa, Kauno istorija, t. 1 (2010 m.); autoriaus aprašymas, paremtas raižinio vaizdu ir burinių laivų pavaizdavimu.","support_ids":["t-201648","c-184995"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201648","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184995","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Bet ir šiuose nedideliuose Neries ruožuose parodyti net 4 buriniai laivai, taip pabrėžiama upės kaip susisiekimo ir prekybos kelio reikšmė. Nemunas, galima sakyti, vyrauja raižinyje, jam skirta daug dėmesio. Jo aprašymą pradėti reikia nuo krantinės dešiniajame miesto krante."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Nemunas yra istoriniuose šaltiniuose minima upė, siejama su svarbiomis Lietuvos žemėmis, pilimis ir karo veiksmais. Tradiciškai manyta, kad ankstyvasis Lietuvos valstybės branduolys buvo tarp Nemuno ir Neries, o Nemuno žemupio pakrantės, Teodoro Narbuto vertinimu, laikytos pirmąja lietuvių tautos buveine šiame krašte. Upė buvo svarbi gynybos ir karinių žygių erdvė: 1362 m. jos ir Neries santakoje kryžiuočiai sugriovė Kauno pilį, o 1410 m. puolimas prie Nemuno galėjo baigtis katastrofa. Šaltiniai taip pat mini pilis prie Nemuno ir jo anapus statytą Rittersverderį, o viename žygyje nepakankamai tvirtas Nemuno ledas neatlaikė kariuomenės svorio, todėl dalis karių bei grobio paskendo.","sentences":[{"sentence_id":"s1","text":"Nemunas yra istoriniuose šaltiniuose minima upė, siejama su svarbiomis Lietuvos žemėmis, pilimis ir karo veiksmais.","support_ids":["t-180378","t-180396","t-180370"]},{"sentence_id":"s2","text":"Tradiciškai manyta, kad ankstyvasis Lietuvos valstybės branduolys buvo tarp Nemuno ir Neries, o Nemuno žemupio pakrantės, Teodoro Narbuto vertinimu, laikytos pirmąja lietuvių tautos buveine šiame krašte.","support_ids":["t-180378","t-212565","t-214747"]},{"sentence_id":"s3","text":"Upė buvo svarbi gynybos ir karinių žygių erdvė: 1362 m. jos ir Neries santakoje kryžiuočiai sugriovė Kauno pilį, o 1410 m. puolimas prie Nemuno galėjo baigtis katastrofa.","support_ids":["t-180396","t-180376"]},{"sentence_id":"s4","text":"Šaltiniai taip pat mini pilis prie Nemuno ir jo anapus statytą Rittersverderį, o viename žygyje nepakankamai tvirtas Nemuno ledas neatlaikė kariuomenės svorio, todėl dalis karių bei grobio paskendo.","support_ids":["t-180369","t-180370","t-185069"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi teiginio faktai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Ankstyvojo Lietuvos branduolio vieta ir Narbuto vertinimas tiesiogiai paremti šaltiniais."},{"sentence_id":"s3","supported":true,"reason":"1362 m. Kauno pilies sunaikinimas ir 1410 m. galimos katastrofos faktai tiesiogiai paremti šaltiniais."},{"sentence_id":"s4","supported":true,"reason":"Pilis prie Nemuno, Rittersverderio statyba anapus Nemuno ir kariuomenės bei grobio paskendimas tiesiogiai paremti šaltiniais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180378","t-180396","t-180370"]},{"sentence_id":"s2","supported":false,"support_ids":["t-180378","t-212565","t-214747"]},{"sentence_id":"s3","supported":false,"support_ids":["t-180396","t-180376"]},{"sentence_id":"s4","supported":false,"support_ids":["t-180369","t-180370","t-185069"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/P. Liatukas","claim_id":"t-39622","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Gelonai","claim_id":"t-214255","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-180318","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Skalviai","claim_id":"t-221098","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Ditrichas iš Ezbeko","claim_id":"t-224543","confidence":0.75},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-80724","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Vikingai","claim_id":"t-32750","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-180740","confidence":0.66},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Gilija","claim_id":"t-219790","confidence":0.74},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-180363","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Paštuvos valsčius","claim_id":"t-221125","confidence":0.64},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Pieštvė","claim_id":"t-223732","confidence":0.65},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Rusnė","claim_id":"t-213591","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Salynas","claim_id":"t-183089","confidence":0.92},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Veliuona","claim_id":"t-180759","confidence":0.64},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Veliuonėlė","claim_id":"t-86252","confidence":0.64},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-90696","confidence":0.86}],"timeline":[{"date":"1362 m.","label":"1362 m.","claimId":"t-180348"},{"date":"1362 m.","label":"1362 m.","claimId":"t-180384"},{"date":"1362 m.","label":"1362 m.","claimId":"t-180396"},{"date":"1398 m.","label":"1398 m.","claimId":"t-180382"},{"date":"1410 m.","label":"1410 m.","claimId":"t-180376"},{"date":"1805 m.","label":"Narbutas 1805 m.","claimId":"t-218589"},{"date":"1809 m.","label":"Narbutas rašė, kad 1809 m.","claimId":"t-216744"}],"support_disclosure":{"claims":97,"sources":17}}'
 object_page_finisher: 'true'
@@ -56,15 +69,6 @@ object_page_seo_description: 'Nemunas yra istoriniuose šaltiniuose minima upė,
 object_page_seo_input_hash: ef3d186e87a79bcef7748a67b350f637561a3dbf788e9cd465efe6bd63f0bb2f
 object_page_seo_generated_at: '2026-09-18T20:22:49+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-a583cf71df9cf24dda686750"
-canonical_name: "Nemunas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Nemunas","Nemuno","Nemuno upė"]
-sameAs: ["https://www.wikidata.org/entity/Q5622"]
-canonical_biography: "Nemunas šiame šaltinyje aprašomas kaip svarbiausia Lietuvos vakarų gynybos, karo žygių ir prekybos ašis, pagal kurią ėjo pilys, sienų ginčai ir žemaičių kovos."
-place_authority: true
-historical_names: []
 ---
 # Nemunas
 
@@ -1596,6 +1600,19 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-175475
 
+<a id="claim-t-197902"></a>
+- t-087
+  teiginys: "Štai, pavyzdžiui, Nemuno slenksčiuose matome daugybę akme nų, pradedant itališko riešuto dydžio ir baigiant milijono pūdų svorio, visuomet iš švediško granito, su nedidele ki tų keturių rūšių priemaiša."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-179389
+
 <a id="claim-t-201089"></a>
 - t-088
   teiginys: "Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos."
@@ -1894,319 +1911,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
   pagrindžia:
     - c-189151
-
-<a id="claim-t-207601"></a>
-- t-207601
-  teiginys: "1812 m. birželio 24 d. Napoleonas su pagrindinėmis pajėgomis persikėlė per Nemuną ties Kaunu."
-  atnaujinta: "2026-09-18 23:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190218
-
-<a id="claim-t-208523"></a>
-- t-208523
-  teiginys: "1858 m. rudenį blaivybės brolijų judėjimas peržengė Nemuną, Žemaitijoje įsikūrus pirmosioms žemaitiškoms blaivybės brolijoms."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
-  pagrindžia:
-    - c-191143
-
-<a id="claim-t-208578"></a>
-- t-208578
-  teiginys: "Skirsnemu nės miestelio Barčienės vaikai per nepaklusnumą vos ne prigėrė Nemune."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
-  pagrindžia:
-    - c-191198
-
-<a id="claim-t-209636"></a>
-- t-209636
-  teiginys: "Naujas tiltas turi tų pat išvaizdų, tik su tuom skirtumu, kad viduryje tilto iš abie jų pusių palikta properša, matyti Nemunas ir puikiausias Kauno reginys."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192256
-
-<a id="claim-t-209637"></a>
-- t-209637
-  teiginys: "Garalevyčiaus namai ant Nemuno kranto, ku rie, anok kauniškių pasakojimo, gana smar kiai nukentėjo nuog vokiečių granatų, mums atvažiavus Kaunan jau buvo pataisyti."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192257
-
-<a id="claim-t-209638"></a>
-- t-209638
-  teiginys: "Vienu žodžiu Nemuno baseiną."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192258
-
-<a id="claim-t-210570"></a>
-- t-210570
-  teiginys: "Ten ra šoma, jog Nemunu tiesiog iš jūros pagonims būdavo atga benama druska, ginklai ir kiti daiktai, ir Memelio pilies uždavinys buvo tam sutrukdyti."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195160
-
-<a id="claim-t-212011"></a>
-- t-212011
-  teiginys: "Vaišvilkas įkūrė vienuolyną prie Nemuno upės tarp Lietuvos ir Naugarduko."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193056
-
-<a id="claim-t-212404"></a>
-- t-212404
-  teiginys: "Gotų keliai iš Skandinavijos į Rytus galėjo eiti nuo Nemuno žiočių prieš upės srovę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195360
-
-<a id="claim-t-212584"></a>
-- t-212584
-  teiginys: "Jis, be abejonės, buvęs prie žiočių Nemuno, kuris senovė je nenutrūkstama vaga plukdė savo vandenis į jūrą prie šiandieninio Memelio miesto, — tai sužinosime vėliau."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196062
-
-<a id="claim-t-212975"></a>
-- t-212975
-  teiginys: "Iš įvairių Karaliaučiaus Slaptajame archy ve esančių transakcijų ponas Foigtas1 teigia, jog viena dešinioji Nemuno deltos šaka nuo Rusnės suko į šiaurę, iš dešiniosios pakrantės įtekėjo Minija, po to jungėsi su Dange, kurios žiotyse stovėjo sena lietuvių."
-  atnaujinta: "2026-09-18 23:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194963
-
-<a id="claim-t-213052"></a>
-- t-213052
-  teiginys: "Nuo Salavijos ją skyrė Nemunas, nes tikrai ži nome, kad jai priklausė Ragainės apylinkės;."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196995
-
-<a id="claim-t-213896"></a>
-- t-213896
-  teiginys: "Pradedant nuo Vys los, išilgai estų kraštų, per šiandienį Nemuną (viduryje, kiek žemiau Gardino), Žemaitiją, Livoniją, Estiją (Gu diją) net iki rytinio Baltijos pakraščio (Suomių įlanką);."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195315
-
-<a id="claim-t-214255"></a>
-- t-214255
-  teiginys: "Teodoras Narbutas Dionyzo iš Charakso minimą Aldeską tapatino su Nemunu."
-  atnaujinta: "2026-09-18 23:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Nemunas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gelonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pastaroji upė kontekste yra Nemunas, ir citata sako, kad jos aukštupyje apgyvendinta gelonų tauta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Gelonai gyveno Nemunas (0.72)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-194963
-    - c-196599
-
-<a id="claim-t-214747"></a>
-- t-214747
-  teiginys: "Narbutas Nemuno žemupio pakrantes laiko pirmąja lietuvių tautos buveine šiame krašte."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196967
-
-<a id="claim-t-217115"></a>
-- t-217115
-  teiginys: "Prie Druskininkų kaimo, netoli Nemuno, Narbutas aprašė platų pilkapyną."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201011
-
-<a id="claim-t-217339"></a>
-- t-217339
-  teiginys: "Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina mos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199482
-
-<a id="claim-t-217565"></a>
-- t-217565
-  teiginys: "Kauno šventasis miškas buvo prie Neries ir Nemuno santakos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201582
-
-<a id="claim-t-217579"></a>
-- t-217579
-  teiginys: "Narbutas Lokaičius lokalizuoja netoli kairiojo Nemuno kranto."
-  atnaujinta: "2026-09-18 23:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198862
-
-<a id="claim-t-217742"></a>
-- t-217742
-  teiginys: "Lemtis, nuginusi gelonus ir budinus nuo tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te kančią per jų sodybų vidurį, jie pavadino Rose (Ross)."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198242
-
-<a id="claim-t-219992"></a>
-- t-219992
-  teiginys: "Lietu vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį, arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė)."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199189
-
-<a id="claim-t-220523"></a>
-- t-220523
-  teiginys: "1313 metais Kristmemelio pilis buvo pastatyta Nemuno pakrantėje šešiomis myliomis aukščiau Ragainės."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204784
-
-<a id="claim-t-221822"></a>
-- t-221822
-  teiginys: "Skalvių žemė buvo abiejose Nemuno pusėse."
-  atnaujinta: "2026-09-18 23:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203719
-
-<a id="claim-t-222404"></a>
-- t-222404
-  teiginys: "Nemunas prasideda Rusios valdose ir prie Klaipėdos pilies bei miesto įteka į jūrą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202729
-
-<a id="claim-t-222490"></a>
-- t-222490
-  teiginys: "Kristmemelio pilis buvo prie žemutinio Nemuno."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206231
 
 ## Reikšmingi paminėjimai
 - c-010
@@ -2564,7 +2268,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
 
 - id: c-32284
@@ -2577,12 +2281,11 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     Nemuno. Lietuvai atėjo pačios sunkiausios dienos, kokių ji iki tol
     nebuvo patyrusi. Vienas po kito sekė nauji ordino smūgiai.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
 
 - id: c-32289
@@ -2602,7 +2305,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-163963
@@ -2625,7 +2328,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
     - t-043
 
@@ -2646,7 +2349,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
     - t-029
 
@@ -2669,7 +2372,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-163968
@@ -2692,7 +2395,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
     - t-042
 
@@ -2714,7 +2417,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
 
 - id: c-163970
@@ -2739,7 +2442,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-052
 
 - id: c-163971
@@ -2760,7 +2463,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-163972
@@ -2790,7 +2493,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-046
 
@@ -2814,7 +2517,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-051
 
 - id: c-163975
@@ -2847,7 +2550,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-163976
@@ -2871,7 +2574,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-163978
@@ -2887,7 +2590,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-163979
@@ -2913,7 +2616,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
     - t-033
 
@@ -2936,7 +2639,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-163981
@@ -2956,7 +2659,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-163982
@@ -2977,7 +2680,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-036
 
 - id: c-163983
@@ -2998,7 +2701,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
 
 - id: c-163985
@@ -3028,7 +2731,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-055
 
@@ -3047,7 +2750,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-057
 
 - id: c-163987
@@ -3067,7 +2770,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
     - t-044
 
@@ -3097,7 +2800,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
     - t-045
 
@@ -3121,7 +2824,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-163993
@@ -3143,7 +2846,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
     - t-041
 
@@ -3168,7 +2871,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-163995
@@ -3187,7 +2890,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-163996
@@ -3219,7 +2922,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
     - t-011
 
@@ -3243,7 +2946,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-164000
@@ -3263,7 +2966,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-164001
@@ -3283,7 +2986,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-164002
@@ -3308,7 +3011,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
 
 - id: c-164003
@@ -3332,7 +3035,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-164004
@@ -3352,7 +3055,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-164005
@@ -3373,7 +3076,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-164007
@@ -3396,7 +3099,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-164009
@@ -3422,7 +3125,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-054
     - t-056
 
@@ -3446,7 +3149,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
     - t-014
 
@@ -3469,7 +3172,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-050
 
 - id: c-164018
@@ -3495,7 +3198,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-164019
@@ -3512,7 +3215,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-053
 
 - id: c-164026
@@ -3531,7 +3234,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-164027
@@ -3552,7 +3255,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-164028
@@ -3580,7 +3283,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-167761
@@ -3596,12 +3299,11 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     Nemuno. Lietuvai atėjo pačios sunkiausios dienos, kokių ji iki tol
     nebuvo patyrusi.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
 
 - id: c-168427
@@ -3631,7 +3333,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-058
 
 - id: c-168428
@@ -3652,7 +3354,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-059
 
 - id: c-168429
@@ -3689,7 +3391,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-060
 
 - id: c-168430
@@ -3714,7 +3416,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-061
 
 - id: c-168431
@@ -3740,7 +3442,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-062
 
 - id: c-168432
@@ -3768,7 +3470,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-063
 
 - id: c-170572
@@ -3789,7 +3491,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-064
 
 - id: c-171667
@@ -3815,7 +3517,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-065
 
 - id: c-171668
@@ -3838,7 +3540,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-171669
@@ -3856,7 +3558,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-067
 
 - id: c-171670
@@ -3879,7 +3581,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-068
 
 - id: c-171671
@@ -3899,7 +3601,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-069
 
 - id: c-171672
@@ -3923,7 +3625,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-070
 
 - id: c-171673
@@ -3947,7 +3649,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-071
 
 - id: c-171674
@@ -3974,7 +3676,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-072
 
 - id: c-171675
@@ -3999,7 +3701,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-073
 
 - id: c-171676
@@ -4019,7 +3721,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-074
 
 - id: c-171677
@@ -4042,7 +3744,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-075
 
 - id: c-173538
@@ -4065,7 +3767,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-076
 
 - id: c-173539
@@ -4087,7 +3789,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-077
 
 - id: c-175474
@@ -4109,7 +3811,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-078
 
 - id: c-175475
@@ -4134,7 +3836,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-086
 
 - id: c-175476
@@ -4157,7 +3859,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-079
 
 - id: c-175477
@@ -4178,7 +3880,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-080
 
 - id: c-175478
@@ -4202,7 +3904,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-081
 
 - id: c-175479
@@ -4225,7 +3927,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-082
 
 - id: c-175480
@@ -4250,7 +3952,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-083
 
 - id: c-179050
@@ -4277,7 +3979,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-084
 
 - id: c-179388
@@ -4303,7 +4005,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-085
 
 - id: c-179389
@@ -4327,6 +4029,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-087
 
 - id: c-184439
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -4355,7 +4059,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-088
 
 - id: c-184440
@@ -4382,7 +4086,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-089
 
 - id: c-184441
@@ -4406,7 +4110,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-090
 
 - id: c-184983
@@ -4423,7 +4127,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-091
 
 - id: c-184984
@@ -4442,7 +4146,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-092
 
 - id: c-184985
@@ -4459,7 +4163,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-093
 
 - id: c-184986
@@ -4476,7 +4180,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-094
 
 - id: c-184987
@@ -4495,7 +4199,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-095
 
 - id: c-184988
@@ -4511,7 +4215,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-096
 
 - id: c-184989
@@ -4531,7 +4235,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-097
 
 - id: c-184990
@@ -4547,7 +4251,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-098
 
 - id: c-184991
@@ -4567,7 +4271,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-099
 
 - id: c-184992
@@ -4587,7 +4291,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-100
 
 - id: c-184993
@@ -4603,7 +4307,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-101
 
 - id: c-184994
@@ -4622,7 +4326,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-102
 
 - id: c-184995
@@ -4639,7 +4343,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-103
 
 - id: c-187672
@@ -4658,7 +4362,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-105
 
 - id: c-187844
@@ -4683,7 +4387,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-106
 
 - id: c-188109
@@ -4709,7 +4413,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-104
 
 - id: c-188418
@@ -4732,7 +4436,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-107
 
 - id: c-189148
@@ -4748,7 +4452,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-108
 
 - id: c-189149
@@ -4764,7 +4468,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-109
 
 - id: c-189150
@@ -4783,7 +4487,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-110
 
 - id: c-189151
@@ -4806,941 +4510,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-111
-
-- id: c-190218
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 200"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 200."
-  citata_originali: |
-    Tačiau karas su Napoleonu ir jo baigtis iš
-    esmės pakeitė situaciją.
-    Karo su Napoleonu išvakarėse caras Aleksandras I buvo atvykęs į Lietuvą ir tikrino
-    savo armijos parengtį. Birželio 24 d. Napoleonas su pagrindinėmis pajėgomis persikėlė
-    per Nemuną ties Kaunu.
-  citata_rodoma: "Birželio 24 d. Napoleonas su pagrindinėmis pajėgomis persikėlė \nper Nemuną ties Kaunu."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207601
-
-- id: c-191143
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 61"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 61."
-  citata_originali: |
-    Pralaimėjimas Kryme, posūkis link didelių reformų
-    Vertė administraciją pro pirštus žiūrėti į blaivybės brolijų veiklą
-    Lenkijos Karalystėje. Tuolab kad Karalystės autonomizacija įžengė į
-    tokią stadiją, kada buvo griaunamas Paskievįčiaus režimas ir kuriama
-    nauja valdymo sistema, formavosi naujas politinis klimatas8.
-    Kaip tik tada, kai reformų rengimas buvo pačiame įkarštyje,
-    blaivybės brolijos forsavo Nemuną: 1858. m, rudenį įsikūrė pirmosios
-    žemaitiškos blaivybės brolijos.
-  citata_rodoma: "Kaip tik tada, kai reformų rengimas buvo pačiame įkarštyje, \nblaivybės brolijos forsavo Nemuną: 1858. m, rudenį įsikūrė pirmosios \nžemaitiškos blaivybės brolijos."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208523
-
-- id: c-191198
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 114"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 114."
-  citata_originali: |
-    Štai Kretingoje neklusnūs vaikai čiuožė
-    ant plono ledo, įlūžo ir būtų prigėrę, jeigu jų nebūtų iš­
-    gelbėjęs suaugęs žmogus. Lenkimuose neklusnus vaikas
-    nukentėjo grybaudamas Kuršo pono miške. Skirsnemu­
-    nės miestelio Barčienės vaikai per nepaklusnumą vos ne­
-    prigėrė Nemune.
-  citata_rodoma: "Skirsnemu­\nnės miestelio Barčienės vaikai per nepaklusnumą vos ne­\nprigėrė Nemune."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208578
-
-- id: c-192256
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 41"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 41."
-  citata_originali: |
-    Naujas tiltas turi tų pat išvaizdų,
-    tik su tuom skirtumu, kad viduryje tilto iš abie­
-    jų pusių palikta properša, matyti Nemunas ir
-    puikiausias Kauno reginys.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209636
-
-- id: c-192257
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 45"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 45."
-  citata_originali: |
-    Kauno mieste nepadaryta didelių eibių.
-    Garalevyčiaus namai ant Nemuno kranto, ku­
-    rie,
-    anok kauniškių pasakojimo, gana smar­
-    kiai nukentėjo nuog vokiečių granatų, mums
-    atvažiavus Kaunan jau buvo pataisyti.
-    Paties
-    savininko nebesama Kaune.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209637
-
-- id: c-192258
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 65"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 65."
-  citata_originali: |
-    Vienu žodžiu Nemuno baseiną.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209638
-
-- id: c-193056
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
-  citata_originali: |
-    O Grigorijus buvo šven­
-    tasis, kokio iki jo nėra buvę ir daugiau nebebus.
-    Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
-    anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
-    keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
-    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
-    ir gyveno tenai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 20:03"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212011
-
-- id: c-194963
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 178-179"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 178-179."
-  citata_originali: |
-    be to, patvirtina ir pati vie­
-    tovė. Nėra pagrindo manyti, kad nuo Ventos žiočių iki
-    Dangės žiočių būta nemažų kranto linijos pokyčių. Visa
-    ši pakrantė senovėje buvo nepalyginti gilesnė ir turėjo
-    daugiau vietų, tinkamų laivams įplaukti, o tam yra gana
-    nesenų liudijimų.
-    Yra žinoma, jog Palanga, Šventoji ir kt. Žemaitijai
-    priklausantys miesteliai dar Vazų valdymo Lenkijoje lai­
-    kais buvo uostamiesčiai, ypač šie du dabar mūsų minėti.
-    Vėliau metai iš metų jūra vis seklėjo, vis labiau ir labiau
-    iš jos plotų veržėsi smėlis, užlygindamas jūros gelmes, iš
-    kurių seniau ji išmesdavo daugiau gintaro.
-    181
-
-    182
-    Fiziniai pokyčiai. Labai svarbių hidrografinių pokyčių
-    nuo Palangos iki Sembos pakrančių įvyko rašytinės isto­
-    rijos amžiais. Iš įvairių Karaliaučiaus Slaptajame archy­
-    ve esančių transakcijų ponas Foigtas1 teigia, jog viena
-    dešinioji Nemuno deltos šaka nuo Rusnės suko į šiaurę,
-    iš dešiniosios pakrantės įtekėjo Minija, po to jungėsi su
-    Dange, kurios žiotyse stovėjo sena lietuvių tvirtovė Klai­
-    pėda, Klejpeda2, ir galop vienomis plačiomis žiotimis įsi­
-    liejo į jūrą toje pačioje vietoje, kur šiandien yra Kuršių
-    marių žiotys. Prie šio tvirtinimo reikia pridurti, jog Pto-
-    lemėjas nurodo Krono upės, kuri yra Nemunas, žiotis sub-
-    elevatione Poli 56 graduum et longitudine 50 graduum.
-    Tai geriausiai atitinka šiandien Kuršių marių žiotis į jū­
-    rą
-  statusas: verified
-  atnaujinta: "2026-09-13 18:01"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212975
-    - t-214255
-
-- id: c-195160
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 183"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 183."
-  citata_originali: |
-    Ten ra­
-    šoma, jog Nemunu tiesiog iš jūros pagonims būdavo atga­
-    benama druska, ginklai ir kiti daiktai, ir Memelio pilies
-    uždavinys buvo tam sutrukdyti
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210570
-
-- id: c-195271
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
-  citata_originali: |
-    Tad Nemuno žemupio pakrantes visų pirma de­
-    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
-    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
-    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
-    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
-    užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia
-    jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­
-    lies, ligi šiol vadinamos Ruse arba slaviškai Rusne,
-    Rusnia.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195315
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
-  citata_originali: |
-    Pradedant nuo Vys­
-    los, išilgai estų kraštų, per šiandienį Nemuną (viduryje,
-    kiek žemiau Gardino), Žemaitiją, Livoniją, Estiją (Gu­
-    diją) net iki rytinio Baltijos pakraščio (Suomių įlanką);
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213896
-
-- id: c-195360
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 292"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 292."
-  citata_originali: |
-    kiti gotų genčių žygiai tiesiai iš
-    Skandinavijos galėjo būti nuo Nemuno žiočių prieš šios
-    upės srovę
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212404
-
-- id: c-195531
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 252."
-  citata_originali: |
-    Tad pakalbėkime apie kiekvieną sritį atskirai.
-    245
-    Tikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos
-    jūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios
-    siena, kurią parodėme anksčiau (§ 223), net iki Širvintos
-    upės, vėliau žinoma siena su Mazovija, Michalovo ir Dob-
-    rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną
-    ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė
-    siena su Žemaitija (§228).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196062
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 157."
-  citata_originali: |
-    Jis, be abejonės, buvęs prie žiočių Nemuno, kuris senovė­
-    je nenutrūkstama vaga plukdė savo vandenis į jūrą prie
-    šiandieninio Memelio miesto, — tai sužinosime vėliau.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212584
-
-- id: c-196599
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
-  citata_originali: |
-    Tai, be
-    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
-    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa. Sis geografas pastarosios aukštupyje kuo
-    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
-    pat patvirtina tai daugelyje savo darbų3. Pats Ptolemėjas,
-    kuris šį sykį mini toje žemėje gyvenančią igelonų tautą,
-    1 Zelva — lietuviškas pavadinimas — taip pat kartojasi ne
-    vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
-    rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
-    liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214255
-
-- id: c-196622
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 249"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 249."
-  citata_originali: |
-    Nekyla abejonių, jog priešistoriniais taikais egzistavo
-    vilkų, Wilkow, tauta, kurios vardas buvo įvairiai iškrai­
-    pomas. Ji gyveno į vakarus nuo Beržūnos iki pat Baltijos
-    jūros arba, atsiskyrusi nuo slavų giminės tautų, išplito
-    krašte, kuris šiandien sudaro Borisovo ir Vileikos apskri­
-    tis. Vėliau ji pasistūmėjo prie Neries žemupio ir dešiniuo­
-    ju Nemuno krantu nuo Neries žiočių pasiekė Dubysą, per
-    kurią persikėlusi turėjo po kurio laiko atsidurti Baltijos
-    jūros pakrantėje, nes, priešingu atveju, nebūtų galėjusi
-    taip lengvai patekti į Vakarų Europos kraštus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196715
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 209"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
-  citata_originali: |
-    Keliaudami Dnąpro keliu šiek tiek aukštyn, šiandienio
-    Lojovo, arba Lojovo Grodeko, apylinkėse turėjo užeiti pir­
-    mą brastą į dešiniąją pakrantę. Iš čia, tęsdami kelionę į
-    vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos
-    vakarine Dnepro šaka1, Pentikapo upe, kurios vandens
-    baseinas jungėsi su Nemuno sistema (§21). Toliau, savo
-    kelionėje nenutoldami nuo kairiojo' Pripetės kranto, pateko
-    prie Maročės ir Punios žiočių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196878
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 401"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
-  citata_originali: |
-    Taigi matyti, jog
-    akmenys lengvai krito nuo kalnų paraboline metimo kryp­
-    timi. Šios uolienų nuolaužos ne visur vienodai nuklojo
-    žemės paviršių: vienur jų daugybė, kitur visiškai mažai ar­
-    ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­
-    menys būtų iš visų kampų sunešti į vieną krūvą. Štai,
-    pavyzdžiui, Nemuno slenksčiuose matome daugybę akme­
-    nų, pradedant itališko riešuto dydžio ir baigiant milijono
-    pūdų svorio, visuomet iš švediško granito, su nedidele ki­
-    tų keturių rūšių priemaiša.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196967
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
-  citata_originali: |
-    Prie
-    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
-    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
-    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
-    iš kur besiplėsdami lietuviai užėmė tolesnes šalis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214747
-
-- id: c-196995
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 364"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 364."
-  citata_originali: |
-    Nuo Salavijos ją skyrė Nemunas, nes tikrai ži­
-    nome, kad jai priklausė Ragainės apylinkės;
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213052
-
-- id: c-197586
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 211"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
-  citata_originali: |
-    Il­
-    gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,
-    plytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus
-    Želvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy­
-    linkės, pateko į žemes, kurias pagal tuometinį derlingumą
-    galima buvo šiek tiek lyginti su Ukrainos žemėmis. Čia
-    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
-    upės, plukdančios savo vandenis per gražias apylinkes;
-    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
-    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
-    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
-    išliko visiškai nepakitęs.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197746
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 304"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
-  citata_originali: |
-    Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju­
-    dėjimą, norėdami padalyti laiką į atkarpas, bet kadangi su jų
-    padėtimi pynėsi mitologija, tai turėjo būti žinomas ir pranaša­
-    vimas iš žvaigždžių; kaip tik todėl liaudies padavimuose žodis
-    žvaigždininkas (Zwajždinikas) - astronomas - turi tą pačią
-    prasmę kaip juodaknygininkas (Juodukniginikas).
-    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
-    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
-    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
-    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
-    našystėmis tikėta.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198242
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
-  citata_originali: |
-    Lemtis, nuginusi gelonus ir budinus nuo
-    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
-    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
-    kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217742
-
-- id: c-198514
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 300"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
-  citata_originali: |
-    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
-    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
-    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
-    mi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­
-    tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
-    kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių. Toje vie­
-    toje vanduo ėmęs virti ir suktis verpetu, ir dabar taip daro, tarytum
-    nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
-    nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
-    tinanti kūdikį. Kartais ji pasirodo žvejams naktį, lydima bajoro; prie
-    jų girdėti šuns urzgimas, katino kniaukimas ir gyvatės šnypštimas.
-    Dar daug kitokių pasakų mena apie šią porą panemunių gyventojai
-    Rumšiškių apylinkėse.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198714
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
-  citata_originali: |
-    Siek tiek pasistūmėję upe
-    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
-    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
-    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
-    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
-    nas (Nemon). Apie jį dar esama padavimo, kad jis buvęs gar­
-    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
-    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
-    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
-    keliais milžinkapiais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198862
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
-  citata_originali: |
-    Man sakė, kad Karaliaučiuje
-    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
-    das žirgas, o ant jo - juodas gaidys.
-    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
-    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
-    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
-    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
-    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
-    veidžiai, kai kurie variniai ir sidabriniai daiktai. 1813 metais jo
-    mylista Daujotas, anuometinis Lokaičių palivarko nuomoto­
-    jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
-    11 colių diametro“.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217579
-
-- id: c-199135
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
-  citata_originali: |
-    Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
-    ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
-    namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie
-    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
-    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
-    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
-    (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
-    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
-    Kronu).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199189
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 226"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
-  citata_originali: |
-    Lietu­
-    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
-    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
-    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
-    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219992
-
-- id: c-199313
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
-  citata_originali: |
-    Skaityk žemiau atitinkamus straipsnius.
-    Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
-    Veliuona (Wellona). Dabar tai menkas miestelis dešiniajame
-    Nemuno krante, penkios mylios iki Jurbarko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199482
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 452"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 452."
-  citata_originali: |
-    Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­
-    mos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217339
-
-- id: c-200003
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
-  citata_originali: |
-    Pas mus, remiantis kitu šaltiniu
-    tikriausiai iš kitos Lietuvos dalies, aptiktas ankstesnis pastebėji­
-    mas. O lietuviai Nemuno žemupyje vietoj „Gej“ šaukia „Hej“*.
-    Reikia atminti, ką sakėme anksčiau straipsnyje „Varpas“, kad
-    Antikos žmonės manė, jog metalo žvangėjimas nubaidąs pik­
-    tąsias dvasias nuo mirusiojo kūno.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201011
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 374"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
-  citata_originali: |
-    Gardino apskrityje^ prie Druskininkų kaimo, žinomo gydomojo
-    vandens šaltiniais , netoli nuo Nemuno, mačiau platų, dau­
-    giau kaip margo dydžio pilkapyną, vėjams nu pusčius smėlį,
-    beveik visiškai atvirą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217115
-
-- id: c-201543
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 366"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
-  citata_originali: |
-    Šiuo atveju, kadangi tokių atsitikimų dažniausiai
-    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
-    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
-    sako, kad tai būdavo daroma niekam nematant. Vieną tokį
-    laužą pats mačiau kairiajame Nemuno krante, prie kelio iš
-    Kauno į Prienus, važiuodamas per Išlaužą. Jis yra kairiojoje
-    kelio pusėje, pamiškėje, prie pat vieškelio; kiekvienas žmo­
-    gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
-    turi rūpestingai užmesti ant jo kokią nors šakelę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201582
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 262"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
-  citata_originali: |
-    Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
-    takos. Kaune - prie Neries ir Nemuno santakos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217565
-
-- id: c-202123
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 26"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
-  citata_originali: |
-    Nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių
-    kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi
-    karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“
-    (III, 179). Aprašęs kai kurias kovas Skalvoje abipus Nemuno, kronikininkas pažymi, jog
-    „daug karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną“ (III, 188).
-    Kalbėdamas apie Skomanto vadovaujamų sūduvių ir lietuvių kariuomenės įsiveržimą
-    į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
-    dažniau įsibraudavo“ į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
-    nuostolių, kad tai labai dažnai pasikartodavo (III, 192).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202729
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
-  citata_originali: |
-    Nemunas — taip pat upė, prasidedanti Rusios valdose,
-    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
-    Lietuvos ir Kuršo187.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222404
-
-- id: c-202752
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
-  citata_originali: |
-    Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
-    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
-    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
-    kovą prieš agresiją.
-    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
-    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
-    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
-    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
-    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
-    Kronika teikia medžiagos kovai su socialistinėms šalims priešiška revanšistine
-    ideologija, kuri dabartinėje epochoje tęsia viduramžių vokiečių feodalų agresijos
-    prieš Rytų Europos tautas tradicijas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203493
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
-  citata_originali: |
-    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203719
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 154"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
-  citata_originali: |
-    182 (177). Apie Ragainės pilies užkariavimą
-    Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
-    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
-    Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
-    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221822
-
-- id: c-204597
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
-  citata_originali: |
-    Apie šio laivo sudeginimą 1313 metais
-    Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
-    Lietuva; ilgai taręsi ir visaip svarstę, kaip jį sunaikinti, galop pasiuntė kilmingą bei
-    karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
-    raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
-    gintis. Galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį,
-    pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista,
-    o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
-    jį pavertė pelenais568.
-    319 (312).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204653
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 207-208"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207-208."
-  citata_originali: |
-    37).
-
-    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
-    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
-    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
-    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
-    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204784
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 207"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
-  citata_originali: |
-    1313 viešpaties metais, per velykas (balandžio 8—22), brolis Karolis, magistras, dievo
-    bei jo motinos garbei ir šlovei, be to, norėdamas praplėsti krikščionių žemes, subūrė visą
-    savo kariuomenę ir Nemuno pakrantėje, per šešias mylias aukščiau Ragainės, pastatė
-    Kristmemelio
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220523
-
-- id: c-205567
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 153"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
-  citata_originali: |
-    Pilis buvusi pastatyta aukštame Nemuno krante (žr. D. III, 182). 1289 m. toje vietoje
-    Ordinas pastatė pirmąją Ragainės pilį (žr. D. III, 235; HE, p. 126; С V, t. 34, p. 106—
-    107; Boetticher A., Die Bau.., 5, p. 109).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-206231
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
-  citata_originali: |
-    kryžiuočiai 1328
-    m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222490
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

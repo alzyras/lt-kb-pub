@@ -154,12 +154,11 @@ media_all_json: |-
     pasisiūlyti į valdinius.
   citata_rodoma: "Jogaila\n1419 m e ta i \nir Vytautas, įsitikinę, jog len­\nkų reikalavimai teisėti, neat­\nmetė šitokios galimybės ginčui išspręsti. Kai paaiškėjo, \nkad imperatoriaus sprendimai nesiremia teisingumu, \nkad jo skelbiamos ištarmės pažeidžia net moralės nor­\nmas, jie atsisakė jo tarpinin-\n1420 m e ta i \nkavimo ir pasiryžo ginklu įro-\nkilusių tikybinių nesutarimų čekai atsisakė klausyti \nRomos bažnyčios, pradėjo atvirai maištauti prieš savo \nkaralių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­\nmyninėse šalyse jėgų, kuriomis galėtų remtis kovoje \nprieš imperatoriaus galybę. Žinodami, kad pastarojo\nČ ek a i siūlo karaliaus \nv a in ik ą \nJog a ila i \nir \nV y ta u tu i\nšiaurėje bei rytuose ir paska­\ntino kaimynus čekus, atsikra­\nčius teisėto valdovo valdžios, \npasisiūlyti į valdinius."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
@@ -181,6 +180,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -73,6 +73,5 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

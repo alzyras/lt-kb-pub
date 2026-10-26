@@ -74,6 +74,5 @@ canonical_biography: "22 dienas tęsėsi apsuptis, o dviejų poilsio dienų metu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

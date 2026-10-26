@@ -60,6 +60,5 @@ Senovės lietuviai tokį ženklą vadino Pemvdos; skaityk straips nius „Velion
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

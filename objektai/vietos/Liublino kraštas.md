@@ -130,7 +130,7 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-178856
@@ -158,6 +158,5 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -78,6 +78,5 @@ Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

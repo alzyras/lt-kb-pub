@@ -77,6 +77,5 @@ Viršaitis tuo krauju šlaksto žmo nes, o likutį išsidalija į puodelius ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

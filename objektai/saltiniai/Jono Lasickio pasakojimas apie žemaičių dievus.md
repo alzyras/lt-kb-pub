@@ -64,6 +64,5 @@ Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -83,6 +83,5 @@ Apie 1397 m. Švitrigaila susitaikė su karaliumi ir buvo išleistas iš kalėji
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

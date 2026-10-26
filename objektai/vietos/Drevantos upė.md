@@ -78,6 +78,5 @@ Vienas lietuvių dalinys, persikėlęs per Drevantą, įsibrovė į Kulmo žemę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -48,25 +48,3 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-20050"></a>
-- t-001
-  teiginys: "XVI a. Tiškevičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusėnai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tiškevičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata Tiškevičius priskiria rusėnų giminių grupei."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Tiškevičiai priklausė Rusėnai (0.78)"
-  pagrindžia:
-    - c-22785
-

@@ -26,6 +26,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-800b1e18dac5188e8df88189
+canonical_name: Rudamina
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rudamina
+sameAs: []
+canonical_biography: 'Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš didesnių mūšių prie Rudaminos: pasisekė paimti nelaisvėn lietuvių kariuome­ nės.'
+place_authority: true
+historical_names: []
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:39:36+00:00","source_checked_at":"2026-09-19T12:39:36+00:00","counts":{"relations":1,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"77fb32e43de857f23f04aac4","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Rudamina apibūdinama kaip miestelis arba bažnytkaimis pietryčiuose nuo Vilniaus, už pusantros mylios nuo miesto.","context":"Michał Baliński, Vilniaus miesto istorija (2007 m.), pateikdamas Voigto vertinimą ir savo nurodymą.","support_ids":["t-114969","c-105970"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114969","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105970","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vilniaus miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­ je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­ jo lankytis tolimose provincijose, kur artimiau susipažino su krikščioniškąja kultūra26. Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius. Betgi yra ir Rudamina, miestelis, arba bažnyt­ kaimis, pietryčiuose, už pusantros mylios nuo miesto."}],"status":"published","conflict_status":"clear"},{"trait_id":"db39437a61f5eb31f4f3a23d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Rudamina buvo bažnytkaimis; jos bažnyčia buvo atiduota kolegijai, o aptarnavimas pavestas jėzuitams ir nuolatiniam vikarui.","context":"Michał Baliński, Vilniaus miesto istorija (2007 m.); aprašoma istorinė bažnyčios paskirtis ir administravimas.","support_ids":["t-114967","c-105965"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114967","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105965","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Rudaminos bažnyčią atidavė ko­ legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi- terio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­ statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus privilegiją."}],"status":"published","conflict_status":"clear"},{"trait_id":"a3134443d11e0da2fe85e29a","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Rudaminoje buvo bažnyčia ir prie jos pastatyta bažnytėlė.","context":"Michał Baliński, Vilniaus miesto istorija (2007 m.); aprašoma XVI a. infrastruktūra.","support_ids":["t-114968","c-105965"],"source_refs":[{"kind":"internal_claim","claim_id":"t-114968","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-105965","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Rudaminos bažnyčią atidavė ko­ legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi- terio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­ statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus privilegiją."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Charitonas Charotičius","claim_id":"t-87644","confidence":0.72}],"timeline":[],"support_disclosure":{"claims":10,"sources":4}}'
 object_page_finisher: 'true'
@@ -39,15 +50,6 @@ object_page_seo_description: 'Rudamina: Vienok kartą išėjusiems pasiplėšti 
 object_page_seo_input_hash: ab8efd9e486245c2d45e4c430e0aa065c4dc24e83ec8a19cbe85543ffb65894a
 object_page_seo_generated_at: '2026-09-19T12:39:36+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-800b1e18dac5188e8df88189"
-canonical_name: "Rudamina"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rudamina"]
-sameAs: []
-canonical_biography: "Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš didesnių mūšių prie Rudaminos: pasisekė paimti nelaisvėn lietuvių kariuome­ nės."
-place_authority: true
-historical_names: []
 ---
 # Rudamina
 
@@ -233,18 +235,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   pagrindžia:
     - c-189187
 
-<a id="claim-t-211645"></a>
-- t-211645
-  teiginys: "Ištraukė Į Lietuvos žemę21, nakvojo Rudaminoje, pusantros mylios nuo Vilniaus, ir, nepri ėję Trakų, pasuko į Senuosius Trakus."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193551
-
 ## Citatos
 
 - id: c-105965
@@ -270,12 +260,11 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     privilegiją.
   citata_rodoma: "Rudaminos bažnyčią atidavė ko­\nlegijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios\nir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa\nkita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­\nniaus vyskupas Valerijonas Protasevičius, deramu išlaiky­\nmu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-\nterio nuo seno laikytas valdas: Helanokempis (Elniakampius),\nPutviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­\nstatyta, ir viską patvarkė pagal aukščiau minėtą karaliaus\nprivilegiją."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-007
     - t-008
@@ -302,7 +291,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -339,7 +328,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-105970
@@ -368,7 +357,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-105972
@@ -389,7 +378,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-105973
@@ -438,7 +427,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-189186
@@ -457,7 +446,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-189187
@@ -474,24 +463,5 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
-
-- id: c-193551
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 116"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116."
-  citata_originali: |
-    Ištraukė Į Lietuvos žemę21, nakvojo
-    Rudaminoje, pusantros mylios nuo Vilniaus, ir, nepri­
-    ėję Trakų, pasuko į Senuosius Trakus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211645
-

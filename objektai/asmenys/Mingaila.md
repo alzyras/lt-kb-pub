@@ -30,6 +30,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-57ae01bf1b9a07beba47d8ad
+canonical_name: Mingaila
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mingaila
+sameAs: []
+canonical_biography: 'Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:19:53+00:00","source_checked_at":"2026-09-19T19:19:53+00:00","counts":{"relations":1,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d779cc7930a0a74d97736528","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Ašmenos seniūnas","context":"Teodoro Narbuto 2001 m. pateiktame dokumente Mingaila įvardijamas Ašmenos seniūnu.","support_ids":["t-206363","c-188978"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206363","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188978","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Ir mes, Vladimiras, minėto valdovo kunigaikščio Aleksandro dėdė; Žy­ gimantas, to paties minėto valdovo Aleksandro brolis; Jurgis iš Pinsko; Mykolas iš Zaslavlio; Aleksandras iš Starodubo; Jonas iš Alšėnų; Jonas iš Drucko; Jomantas iš Klecko; Mingaila, Ašme­ nos seniūnas; Manvydas, Vilniaus seniūnas; Barkus iš Uiso; Vasi­ lijus, Boreikos sūnus; Čupurna, anksčiau m inėto valdovo kunigaikščio Aleksandro rūmų maršalka; Krėvos vietininkas Goš­ tautas; Kymantas Ginvila, Trakųvietininkas;Sungailą Kauno vie­ tininkas; Valim antas, Pluškio sūnus; Vigaila, U km ergės vietininkas; Astikas, Užpalių vietininkas; Kareiva, Medininkų vie­ tininkas; Buivydas, Kernavės vietininkas; Girdė, Saumanto sū­ nus…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a17dc14185243461209ad803","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kunigaikštis, valdęs Polocke","context":"Daukanto 1995 m. veikale Mingaila vadinamas kunigaikščiu; Teodoras Narbutas 1994 m. rašo, kad jis buvo perėmęs valdžią Polocke ir perdavė ją sūnui Ginvilai.","support_ids":["t-201016","c-184366","t-205157","c-188079"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201016","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"internal_claim","claim_id":"t-205157","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-184366","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Taip pasibengė rėdą ūkės polockionų, vienok lyčiaus tos karės raštuose nėra randama. Ne­ trukus Mingaila kunigaikštis nustipo, palikdamas du sūnų karšinčiais — Ginvilą rėdytoju Polocko, o Skirmantą Naujapilio. Letgaliai, nebtverdamies vergyba vokyčių, pa­ trako**, kurie vienok nevildamies stengti, patelkė ne vien lietuvius, bet ir gudus pagalbon."},{"kind":"evidence","evidence_id":"c-188079","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Mingaila, ¡paėmęs valdžią Polocke, per­ leido ją savo sūnui Ginvilai. Pats jis baigė savo gyve­ nimo dienas 1192 metais Naugarduke (Trakų)2."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"39ab310ac0fbe45276730bff","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Skrupulingas","context":"Teodoro Narbuto 1998 m. veikale, cituojant laiške minimą kunigo Pranckevičiaus dienoraštį, Mingaila apibūdinamas kaip „skrúpulas“; tai šaltinio autoriaus pateiktas vertinimas konkrečiame pasakojime apie statulėlę.","support_ids":["t-217170","c-200611"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217170","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200611","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"„Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­ vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­ raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš, norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­ kirsti angą ir ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros statulėlę, kurią nunešė kunigui vikanu Mingailai. Kunigas vika­ ras, skrupulas, nelaukdamas mano sugrįžimo, įsakė tą antiką sudaužyti ir nucinkuoti prikaistuvus bei puodus."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Ginvilas","claim_id":"t-186111","confidence":0.84}],"timeline":[],"support_disclosure":{"claims":7,"sources":6}}'
 object_page_finisher: 'true'
@@ -43,13 +52,6 @@ object_page_seo_description: 'Mingaila: Dalyvaujant garbingiems ir narsiems vyra
 object_page_seo_input_hash: 3dc2cf5285a772650ebaf1d31502b05b497c0856030188072864d633d041f9f5
 object_page_seo_generated_at: '2026-09-19T19:19:53+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-57ae01bf1b9a07beba47d8ad"
-canonical_name: "Mingaila"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mingaila"]
-sameAs: []
-canonical_biography: "Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo]."
 ---
 # Mingaila
 
@@ -149,6 +151,18 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   pagrindžia:
     - c-179180
 
+<a id="claim-t-197427"></a>
+- t-006
+  teiginys: "Mingaila leidosi į kelionę po visą pasaulį, ieškodama savo brangios netekties."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179181
+
 <a id="claim-t-201016"></a>
 - t-007
   teiginys: "Ne trukus Mingaila kunigaikštis nustipo, palikdamas du sūnų karšinčiais — Ginvilą rėdytoju Polocko, o Skirmantą Naujapilio."
@@ -186,18 +200,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
   pagrindžia:
     - c-188978
-
-<a id="claim-t-220117"></a>
-- t-220117
-  teiginys: "Mingaila įsakė sudaužyti rastą Veneros statulėlę ir iš jos nucinkuoti prikaistuvus bei puodus."
-  atnaujinta: "2026-09-19 22:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200611
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -289,7 +291,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168151
@@ -315,7 +317,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168152
@@ -340,7 +342,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-171474
@@ -365,7 +367,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-179180
@@ -387,7 +389,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-179181
@@ -408,6 +410,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 - id: c-184366
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -427,7 +431,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-188079
@@ -445,7 +449,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-188978
@@ -474,100 +478,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
-
-- id: c-193972
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 44-45"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 44-45."
-  citata_originali: |
-    O paskui didysis kunigaikštis Vykintas pasimirė, ir
-    po jo ėmė kunigaikščiauti Zivinbudis, Lietuvos didysis
-    kunigaikštis, valdydamas tas abi kunigaikštystes —
-    Lietuvos ir Žemaitijos, o Erdvilą — Naugarduke ir vi­
-    47
-
-    suose tuose minėtuose rusų miestuose. Ir ilgus metus
-    valdė kunigaikštis Erdvilą, tuose miestuose begyvenda­
-    mas, ir pasimirė.
-    O po jo ėmė kunigaikšėiauti jo sūnus Mingaila '.
-    Po savo tėvo mirties didysis kunigaikštis Mingaila su­
-    telkė savo kariuomenę ir patraukė prieš Polocko mies­
-    tą
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199271
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
-  citata_originali: |
-    Vos ji
-    pasilenkė skinti tariamojo laimikio, upės dugnas prasivėrė ir
-    įtraukė ją į požemio gelmę - pragarą (Pragaras). Šioje pože­
-    mio karalystėje viešpatavo karalius, vadintas Pokliumi, kurį
-    sužavėjo jaunosios karalaitės grožis. Nelaimingoji motina, ku­
-    riai atnešė tik dukrelės kurpaites, įsitikinusi, kad ją prarijo Ra­
-    sos upė, spėjo, jog šį darbą bus padaręs kuris nors iš vandenų
-    arba povandeninių valdovų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200611
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
-  citata_originali: |
-    „Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną
-    atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
-    vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
-    raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
-    norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
-    išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
-    kirsti angą ir ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą
-    sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros
-    statulėlę, kurią nunešė kunigui vikanu Mingailai. Kunigas vika­
-    ras, skrupulas, nelaukdamas mano sugrįžimo, įsakė tą antiką
-    sudaužyti ir nucinkuoti prikaistuvus bei puodus.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220117
-
-- id: c-201586
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
-  citata_originali: |
-    Šioje pože­
-    mio karalystėje viešpatavo karalius, vadintas Pokliumi, kurį
-    sužavėjo jaunosios karalaitės grožis. Nelaimingoji motina, ku­
-    riai atnešė tik dukrelės kurpaites, įsitikinusi, kad ją prarijo Ra­
-    sos upė, spėjo, jog šį darbą bus padaręs kuris nors iš vandenų
-    arba povandeninių valdovų. Taigi ji leidosi į kelionę po visą
-    pasaulį, ieškodama savo brangios netekties.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Mingaila puolė [[objektai/grupes/Polockiečiai]]

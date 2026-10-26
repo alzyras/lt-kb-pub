@@ -35,6 +35,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-14bdca8dbf2485e721b4635c
+canonical_name: Kulmas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kulmas
+sameAs: []
+canonical_biography: 'tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Kulmas","url":"https://lt.wikipedia.org/wiki/Kulmas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kulmas","url":"https://www.vle.lt/straipsnis/kulmas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T04:36:00+00:00","source_checked_at":"2026-09-19T04:36:00+00:00","counts":{"relations":38,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Į rytus Kulmas tuomet tęsėsi tik ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą. Čia taip pat buvo senų senovės siena, kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­ čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš tikrosios Prūsijos, be to, ten ribojosi provincijų mažos Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi Galindos.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","claim_id":"t-212485","evidence_id":"c-195718","origin":"internal"},"wiki":{"intro":"Kulmas (lenk. Chełmno) – miestas Lenkijoje, Kujavijos Pamario vaivadijoje, 40 km į šiaurės rytus nuo Bydgoščiaus, prie tarptautinio kelio E75 (Cešynas–Gdanskas). Apskrities centras. 20 822 gyventojai (2006 m.).","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"190720","revision_id":"7359542","status":"published","translation_status":"native","source":{"title":"Kulmas","url":"https://lt.wikipedia.org/wiki/Kulmas","publisher":"Vikipedija","language":"lt","article_id":"190720","revision_id":"7359542","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7359542","history_url":"https://lt.wikipedia.org/w/index.php?title=Kulmas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:18.121093+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"17e996af218b01847c14eecd397f1fa06246716d8624538fca9e992a23070416","version_pk":"e51d5b48fab3308b1a920d800662620f"}},"source_buttons":[{"label":"Vikipedija","title":"Kulmas","url":"https://lt.wikipedia.org/wiki/Kulmas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kulmas","url":"https://www.vle.lt/straipsnis/kulmas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kulmas","https://www.vle.lt/straipsnis/kulmas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d7208561e90c498f66f6a207","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Į rytus tęsėsi iki Drevantos krantų.","context":"Teodoras Narbutas, aprašydamas istorinę situaciją, rašė, kad Kulmas tuomet į rytus tęsėsi tik ligi Drevantos krantų.","support_ids":["t-212485","c-195718","t-213666","c-194959"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212485","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-213666","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195718","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Į rytus Kulmas tuomet tęsėsi tik ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą. Čia taip pat buvo senų senovės siena, kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­ čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš tikrosios Prūsijos, be to, ten ribojosi provincijų mažos Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi Galindos."},{"kind":"evidence","evidence_id":"c-194959","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Be to, šių dviejų provincijų pasienyje plytėjo didžiulė giria, kuri skverbėsi į abiem provincijoms priklausančias žemes. Į rytus Kulmas tuomet tęsėsi tik ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą. Čia taip pat buvo senų senovės siena, kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­ čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš tikrosios Prūsijos, be to, ten ribojosi provincijų mažos Lubavos ir Sasavos žemės."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Hermanas iš Šenenbergo","claim_id":"t-225345","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-222261","confidence":0.68},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Henrikas iš Lichtenšteino","claim_id":"t-222600","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Šventoji Barbora","claim_id":"t-224207","confidence":0.78},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Hermanas (Ordino magistras)","claim_id":"t-225460","confidence":0.92},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Hermanas iš Zalcos","claim_id":"t-217747","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-220393","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-220249","confidence":0.87},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Teutonai","claim_id":"t-220885","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Mozūrai","claim_id":"t-52959","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-221418","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lubava","claim_id":"t-214680","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Sasava (Salavijos tvirtovė)","claim_id":"t-214680","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vartenbergas","claim_id":"t-221462","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Divanas","claim_id":"t-221067","confidence":0.8},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-88368","confidence":0.7},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Herkus Mantas","claim_id":"t-175202","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Linkas","claim_id":"t-221434","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Skomantas (lietuvių vadas)","claim_id":"t-40424","confidence":0.96},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Skomantas","claim_id":"t-184827","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-222300","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Traidenis","claim_id":"t-185647","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vladislovas Lokietka","claim_id":"t-222124","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-222359","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-222552","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-222963","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-220231","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduvos prūsai","claim_id":"t-185683","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Vengrai","claim_id":"t-221758","confidence":0.9},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Hermanas iš Zalcos","claim_id":"t-224576","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Herkus Mantas","claim_id":"t-220567","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Skomantas","claim_id":"t-224350","confidence":0.94},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-221619","confidence":0.87},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vladislovas Lokietka","claim_id":"t-224431","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-224350","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-221848","confidence":0.82},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-221619","confidence":0.66},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Prūsai","claim_id":"t-222152","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
 object_page_finisher: 'true'
@@ -48,15 +59,6 @@ object_page_seo_description: 'Kulmas: tis Konradas, kuriam ypatingai rūpėjo pa
 object_page_seo_input_hash: f1dc3c6a6310d6f6c6f7c1f618c8f978ff5aa99d3d29f097d93428285ee1f3b2
 object_page_seo_generated_at: '2026-09-19T04:36:00+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-14bdca8dbf2485e721b4635c"
-canonical_name: "Kulmas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kulmas"]
-sameAs: ["https://www.wikidata.org/entity/Q161962"]
-canonical_biography: "tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj."
-place_authority: true
-historical_names: []
 ---
 # Kulmas
 
@@ -370,30 +372,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - c-188057
 
-<a id="claim-t-222593"></a>
-- t-222593
-  teiginys: "Kulmo žemė buvo Mazovijos kunigaikščio Konrado dovanota Ordinui."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205731
-
-<a id="claim-t-223182"></a>
-- t-223182
-  teiginys: "Herkus Mantas su kariuomene įsiveržė į Kulmo žemę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205879
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
@@ -505,7 +483,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-007
 
@@ -528,7 +506,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-86523
@@ -552,7 +530,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-86524
@@ -571,7 +549,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-86525
@@ -589,7 +567,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-86526
@@ -618,7 +596,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-86527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -638,7 +615,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-86528
@@ -668,7 +645,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-86529
@@ -689,7 +666,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-86531
@@ -711,7 +688,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-86532
@@ -734,7 +711,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-86533
@@ -756,7 +733,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-86534
@@ -780,7 +757,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-167555
@@ -803,7 +780,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-167556
@@ -825,7 +802,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-175450
@@ -848,7 +825,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-179048
@@ -871,7 +848,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-179380
@@ -894,7 +871,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-186560
@@ -911,7 +888,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-187854
@@ -931,7 +908,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-188057
@@ -954,7 +931,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-188159
@@ -980,218 +957,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
-
-- id: c-194959
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 353"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 353."
-  citata_originali: |
-    Be to, šių dviejų provincijų pasienyje
-    plytėjo didžiulė giria, kuri skverbėsi į abiem provincijoms
-    priklausančias žemes. Į rytus Kulmas tuomet tęsėsi tik
-    ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro
-    sruvena į Goliubą. Čia taip pat buvo senų senovės siena,
-    kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­
-    čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš
-    tikrosios Prūsijos, be to, ten ribojosi provincijų mažos
-    Lubavos ir Sasavos žemės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195718
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 353"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 353."
-  citata_originali: |
-    Į rytus Kulmas tuomet tęsėsi tik
-    ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro
-    sruvena į Goliubą. Čia taip pat buvo senų senovės siena,
-    kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­
-    čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš
-    tikrosios Prūsijos, be to, ten ribojosi provincijų mažos
-    Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi
-    šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi
-    Galindos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202553
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
-  citata_originali: |
-    Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-      Kalbant apie pagrindinę prūsų teritoriją, prūsų ir lietuvių tarpusavio santykius, reikia
-      1 Пашуто В.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203198
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 256-257"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256-257."
-  citata_originali: |
-    Apie Kulmo žemės nusiaubimą 1330 metais
-
-      Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo
-      604 D. nutyli, kad Ordino valdų puolimas buvo numatytas bendromis Lokietkos ir
-    Gedimino jėgomis susitinkant Ordino teritorijoje rugsėjo 8 d. Lietuvos kariuomenė
-    rugsėjo pradžioje pasirodė prie Bartenšteino  ir kovodama žygiavo tolyn pro Lubavą,
-    palei Drevantą, pasiekė Straisbergo apylinkes, kur kryžiuočiai sutelkė jėgas, siekdami
-    atremti lietuvius. Iš čia Gediminas patraukė į pietus ir atvyko prie Dobrynės pilies, kurią
-    nesėkmingai šturmavo Lokietkos pajėgos. Čia įvyko derybos tarp Gedimino ir Lokietkos.
-
-    karalystės raiteliais, su daugybe samdininkų ir 8 tūkstančiais karių, kuriuos jam iš savo
-    žemės atsiuntė į pagalbą Vengrijos karalius, ir apgulė Šenenzės miestą bei pilį, o paskui
-    patraukė prie Lypos pilies, tačiau nė vienos jų nepaėmė, tik 10 dienų užgulė šią žemę,
-    viską grobdamas bei degindamas.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203398
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
-  citata_originali: |
-    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203413
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
-  citata_originali: |
-    Prūsai ir Lietuva
-    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
-    vientisumas.
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204677
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 56"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
-  citata_originali: |
-    Žemės pakraštyje, Vyslos deš, krante — Kulmo pilis, miestas: castrum Colmen (1222
-    m., PUB, 1, 1, Nr. 41, p. 28), Colme (1230 m., ten pat, Nr. 72, p. 53), Culmine, civitatum
-    [...] Culmen (1233 m., ten pat, Nr. 105, p. 77, 81), alden Culmen, nuwen Culmen (1278
-    m., ten pat, 1, 2, Nr. 366, p. 250), antiquo Culmine, Culmine (1282 m., ten pat, Nr. 410,
-    p. 271); D.— in Colmine, civitatem Colmensem, versus Colmen (III, 10, 36); Jer.— alde
-    Colme, stat Colmin, Colmen burc (SRP, 1, p. 352— 353); Can. Samb.— Culmen (ten pat,
-    p. 280), dab. Chełmno (SZCh, p. 18—20).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-205731
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
-  citata_originali: |
-    Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
-    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
-    Prūsijoje pagrindu (II, 5, 6
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222593
-
-- id: c-205879
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 128"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
-  citata_originali: |
-    Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
-    į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę
-    kitokio turto, kurį išsigabeno su savimi, sudegino visus pastatus, esančius už įtvirtinimų
-    [sienų], o visą šią žemę užliejo raudonu krikščionių krauju.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223182
-
-- id: c-206019
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 91"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
-  citata_originali: |
-    Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
-    ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
-    Kristaus tikėjimas ten turėsiąs išnykti. Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems
-    verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties
-    dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su
-    priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius
-    prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
-    aukų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Prūsai]]

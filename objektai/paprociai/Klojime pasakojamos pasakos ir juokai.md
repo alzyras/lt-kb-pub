@@ -70,16 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-177784
 
-<a id="claim-t-195370"></a>
-- t-195370
-  teiginys: "Kūlimo metu klojime klausytasi juokavimų ir pasakų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177786
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -99,12 +89,11 @@ Nenurodyta
     juokingo žodžio užtenka viso ryto nuotaikai pakelti.
   citata_rodoma: "Vieno juokingo žodžio užtenka viso ryto nuotaikai pakelti."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177785
@@ -121,7 +110,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-177786
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -141,9 +129,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195370
-
 - id: c-177787
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -166,4 +151,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

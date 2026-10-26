@@ -103,7 +103,6 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

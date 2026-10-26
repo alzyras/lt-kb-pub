@@ -95,7 +95,6 @@ canonical_biography: "1644 m. iš vicekanclerio Kazimiero Sapiegos fundacijos bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

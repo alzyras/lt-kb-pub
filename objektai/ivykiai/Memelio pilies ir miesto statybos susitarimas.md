@@ -107,7 +107,7 @@ Pagal susitarimą Livonijos kryžiuočiai, magistraujant Eberhardui Zeinui, penk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-194997
@@ -129,6 +129,5 @@ Pagal susitarimą Livonijos kryžiuočiai, magistraujant Eberhardui Zeinui, penk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

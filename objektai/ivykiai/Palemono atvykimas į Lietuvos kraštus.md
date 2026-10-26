@@ -84,6 +84,5 @@ Dažną kartą ir kiekvieno ¡kronikininko kartojamas pasakojimas apie keleto š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

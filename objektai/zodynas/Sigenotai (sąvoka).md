@@ -94,6 +94,5 @@ Nauja jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž kokios nea
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

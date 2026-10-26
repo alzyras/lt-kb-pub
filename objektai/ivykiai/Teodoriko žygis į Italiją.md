@@ -74,6 +74,5 @@ Teodoriko žygyje į Italiją dalyvavo kariai, kolonistai, šeimos, vežiniai, m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

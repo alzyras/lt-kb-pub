@@ -80,6 +80,5 @@ Teodoro Narbuto pasakojime didysis magistras Henrikas Kniprodė 1352 m. pradžio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

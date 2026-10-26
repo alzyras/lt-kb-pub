@@ -70,6 +70,5 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

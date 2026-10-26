@@ -79,9 +79,7 @@ Ignotas Dombrovskis buvo Ukmergės vėliavininkas. Ignotas Dombrovskis Sužinojo
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

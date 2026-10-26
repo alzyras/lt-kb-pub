@@ -85,11 +85,9 @@ Nenurodyta
     metais.
   citata_rodoma: "Sekančiais metais jie vėl su daugeliu svečių suruošė\nnaują „kelionę” į Lietuvą paėmė Gardiną ir sudegino, o įgulą\nišvedė nelaisvėn; paskui dar sudegino Merkinę, Drohičiną ir\nLydą^2 ). Bet ypatingai smarkūs buvo Lietuvos puolimai 1394\nmetais."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

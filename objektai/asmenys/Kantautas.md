@@ -38,23 +38,10 @@ canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis bu
 
 ## Teiginiai
 
-<a id="claim-t-193933"></a>
-- t-002
-  teiginys: "Kantautas buvo kilęs iš Žemaičių."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176558
-
 <a id="claim-t-186123"></a>
-- t-186123
+- t-001
   teiginys: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,6 +57,19 @@ canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis bu
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169484
+
+<a id="claim-t-193933"></a>
+- t-002
+  teiginys: "Kantautas buvo kilęs iš Žemaičių."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176558
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -141,8 +141,8 @@ canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186123
+  pagrindzia:
+    - t-001
 
 - id: c-176558
   autorius: "Anoniminis metraštininkas"
@@ -164,6 +164,5 @@ canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

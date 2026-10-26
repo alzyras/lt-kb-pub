@@ -74,6 +74,5 @@ Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

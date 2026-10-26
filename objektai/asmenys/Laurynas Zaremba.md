@@ -110,7 +110,7 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-169500
@@ -141,6 +141,5 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

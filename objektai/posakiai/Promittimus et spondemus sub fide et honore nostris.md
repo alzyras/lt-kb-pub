@@ -118,6 +118,5 @@ Warschaviensis et Wilnensis, promittimus et spondemus sub fide et honore nostris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

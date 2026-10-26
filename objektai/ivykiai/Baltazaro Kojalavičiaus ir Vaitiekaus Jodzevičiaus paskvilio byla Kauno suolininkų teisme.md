@@ -36,29 +36,12 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Santrauka
-
-Kauno suolininkai nutarė paskvilio, kaip daiktinio įrodymo, neįrašyti į teismo knygas, kad neįamžintų magistrato negarbės.
-
-## Citatos
-
-- id: c-185967
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
-  puslapiai: "PDF 3"
-  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 3."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 21:24"
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-203004"></a>
 - t-001
   teiginys: "Kauno suolininkai nutarė paskvilio, kaip daiktinio įrodymo, neįrašyti į teismo knygas, kad neįamžintų magistrato negarbės."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,3 +58,19 @@ Kauno suolininkai nutarė paskvilio, kaip daiktinio įrodymo, neįrašyti į tei
   pagrindžia:
     - c-185967
 
+## Santrauka
+
+Kauno suolininkai nutarė paskvilio, kaip daiktinio įrodymo, neįrašyti į teismo knygas, kad neįamžintų magistrato negarbės.
+
+## Citatos
+
+- id: c-185967
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 3"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 3."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 21:24"
+  pagrindzia:
+    - t-001

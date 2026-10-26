@@ -69,6 +69,5 @@ Sūduviai, padedami lietuvių, smarkiai užpuolė Sembos žemę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

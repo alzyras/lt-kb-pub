@@ -25,6 +25,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-df545ec49c89d638e1cdfaf1
+canonical_name: Johanas Foigtas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - J. Foigtas
+  - Johanas Foigtas
+sameAs: []
+canonical_biography: 'Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschichte Preussens, B. 3, S. 603—626. Dusburgietis teigia, kad d. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje ir kitur. Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto vieta (CDP, 2, Nr..'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:56:56+00:00","source_checked_at":"2026-09-19T15:56:56+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c0548e7016b760beef5ba00b","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Moksliškai tyrinėjo Dusburgiečio kroniką.","context":"XIX a. trečiajame dešimtmetyje, kaip nurodo šaltinis.","support_ids":["t-223286","c-204050"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223286","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204050","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"581db545c5d78dd30b66a4d3","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Parašė veikalą „Geschichte Preussens“.","context":"Šaltinyje nurodomas J. Foigto veikalas; laikotarpis šioje ištraukoje nenurodytas.","support_ids":["t-224488","c-204050","c-205910"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224488","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204050","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83."},{"kind":"evidence","evidence_id":"c-205910","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"83 Voigt J. Geschichte Preussens, B. 3, S. 603—626."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
 object_page_finisher: 'true'
@@ -38,13 +49,6 @@ object_page_seo_description: 'Johanas Foigtas: Dusburgietis teigia, kad foigtas8
 object_page_seo_input_hash: 7a97fa62d962fa24c44e38ce1df5c6ea42609fc1f20a5f93f71f93cdd3a696fa
 object_page_seo_generated_at: '2026-09-19T15:56:56+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-df545ec49c89d638e1cdfaf1"
-canonical_name: "Johanas Foigtas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["J. Foigtas","Johanas Foigtas"]
-sameAs: []
-canonical_biography: "Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschichte Preussens, B. 3, S. 603—626. Dusburgietis teigia, kad d. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje ir kitur. Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto vieta (CDP, 2, Nr.."
 ---
 # Johanas Foigtas
 
@@ -420,7 +424,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-65303
@@ -436,7 +440,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-171302
@@ -456,7 +460,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-171303
@@ -477,7 +481,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-173609
@@ -510,7 +514,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-173610
@@ -545,7 +549,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-173612
@@ -564,7 +568,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-173613
@@ -595,7 +599,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-174768
@@ -617,7 +621,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-179116
@@ -642,7 +646,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-179259
@@ -664,7 +668,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-179260
@@ -686,7 +690,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-188839
@@ -703,90 +707,5 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
-
-- id: c-194748
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
-  citata_originali: |
-    Ragainė Hartknocho išleistame Dus-
-    burgo veikale klaidingai pavadinta Ramige (p. III. C.
-    178). Ponas Foigtas rado Berlyno rankraštyje vietovardį
-    Raganita, ir tai žinomas pats tikriausias pavadinimas, nes
-    jis kilęs iš mitinio vardo Ragana.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194847
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 346"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
-  citata_originali: |
-    Iš dalies
-    tai buvo pono Foigto studijos apie senovės Sambijos vi-
-    tingus (Geschichte der Eidechsen Gesellschaft in Preus-
-    sen. S. 206—208) teiginiai; tačiau ten nepakako vietos
-    viską plačiai išdėstyti, ir tik vienas dokumentas su pra­
-    dingusios žemės dydžio aprašymu sudarė svarbiausio
-    įrodymo pagrindą. Čia plačiau panagrinėsime tuos tei­
-    ginius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195133
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
-  citata_originali: |
-    Salavija
-    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
-    laueri. Jos sienas pažymėti yra labai sunku. Kadangi se­
-    nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
-    bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
-    tas, t. y. Pusnė. Tik jai sunykus, galbūt paskutiniais pa­
-    gonybės amžiais, atsirado šis pavadinimas, reiškiąs jos
-    nuotolį nuo Prūsijos vidurio.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200584
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 432"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
-  citata_originali: |
-    Betgi
-    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
-    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
-    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
-    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
-    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
-    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
-    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
-    2.
-    Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
-    todėl jam kelia įtarimą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

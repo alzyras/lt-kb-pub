@@ -116,7 +116,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-22415
@@ -141,7 +141,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-72189
@@ -166,6 +166,5 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

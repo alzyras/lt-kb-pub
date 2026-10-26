@@ -80,6 +80,5 @@ canonical_biography: "1549 m. LDK maršalas Radvila Juodasis dėkojo Mikalojui R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -73,11 +73,9 @@ Narbutas aprašo, kad prie Paparčių prasiveržusi kryžiuočių kariuomenė m�
     magistras surengė aukščiausio rango pareigūnų teismą, kurio
     nuosprendžiu Sudimantas buvo pakartas už kojų.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

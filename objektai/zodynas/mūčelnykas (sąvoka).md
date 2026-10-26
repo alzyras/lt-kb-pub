@@ -74,6 +74,5 @@ Išgirdęs tą, vėl Boleslovas karalius siuntė į Parusnį siuntinius, liepdam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

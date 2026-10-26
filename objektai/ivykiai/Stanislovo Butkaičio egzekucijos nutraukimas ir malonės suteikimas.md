@@ -86,7 +86,7 @@ Iškart paskelbus nuosprendį, Stanislovas Butkaitis buvo nuvestas į egzekucijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186578
@@ -106,6 +106,5 @@ Iškart paskelbus nuosprendį, Stanislovas Butkaitis buvo nuvestas į egzekucijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -192,7 +192,7 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -221,7 +221,7 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-169365
@@ -249,6 +249,5 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

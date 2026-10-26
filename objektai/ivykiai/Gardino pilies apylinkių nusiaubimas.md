@@ -72,6 +72,5 @@ Prūsijos broliai su kariuomene užpuolė Gardino pilies apylinkes.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

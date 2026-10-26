@@ -66,6 +66,5 @@ Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -72,6 +72,5 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

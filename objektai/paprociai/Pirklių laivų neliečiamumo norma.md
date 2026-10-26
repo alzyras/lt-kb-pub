@@ -102,6 +102,5 @@ Pagal šią normą pirklių laivas nebuvo puolamas, jei jo savininkas nebuvo gin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

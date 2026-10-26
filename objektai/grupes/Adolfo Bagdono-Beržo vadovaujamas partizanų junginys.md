@@ -24,13 +24,14 @@ media_all_json: |-
 
 Iki Adolfo Bagdono-Beržo vadovavimo junginyje buvo daugiau kaip 100 partizanų, o jis veikė Subačiaus valsčiaus miškuose.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213608
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Iki Adolfo Bagdono-Beržo vadovavimo junginyje buvo daugiau kaip 100 partizanų, o jis veikė Subačiaus valsčiaus miškuose.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 38"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 38."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:39"

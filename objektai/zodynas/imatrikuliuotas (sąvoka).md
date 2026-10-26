@@ -63,6 +63,5 @@ Imatrikuliuotas asmuo šaltinyje yra įrašytas į Vilniaus miesto piliečių b�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

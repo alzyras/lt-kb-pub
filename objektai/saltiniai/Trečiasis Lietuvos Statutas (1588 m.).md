@@ -124,37 +124,6 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   pagrindžia:
     - c-186407
 
-<a id="claim-t-21285"></a>
-- t-21285
-  teiginys: "Trečiasis Lietuvos Statutas 1588 m. įformino atskirą LDK teisinę sistemą."
-  atnaujinta: "2026-09-19 23:03"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trečiasis Lietuvos Statutas (1588 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trečiasis Lietuvos Statutas (1588 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1588 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo fragmentiškas, o citata pagrindžia glaustą faktą."
-  pagrindžia:
-    - c-23984
-
-<a id="claim-t-207569"></a>
-- t-207569
-  teiginys: "Trečiasis Lietuvos Statutas įformino LDK teisinę sistemą."
-  atnaujinta: "2026-09-19 23:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190186
-
 ## Citatos
 
 - id: c-23984
@@ -179,9 +148,6 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-21285
-
 - id: c-186340
   autorius: "Giedrė Sabaitytė"
   šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
@@ -201,7 +167,7 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186341
@@ -225,7 +191,7 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186342
@@ -254,7 +220,7 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-186343
@@ -276,7 +242,7 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-186344
@@ -302,7 +268,7 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-186407
@@ -319,29 +285,5 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-190186
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 168"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 168."
-  citata_originali: |
-    Aukščiausia (šalia valdovo) valdžios institucija buvo bendras seimas, susidėjęs iš senato
-    ir atstovų rūmų ir rinkęs karalių. Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta
-    vienai Lenkijos provincijai (jos buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija
-    su Krokuva).
-    Tačiau išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk-
-    domoji valdžia – kancleris, iždininkas, etmonas ir kt. (tik antrojoje XVIII a. pusėje ėmė
-    rastis ir bendros vykdomosios valdžios institucijos), atskiras iždas, kariuomenė, teismai ir
-    teisinė sistema, kurią įformino Trečiasis Lietuvos Statutas 1588 metais.
-  citata_rodoma: "teisinė sistema, kurią įformino Trečiasis Lietuvos Statutas 1588 metais."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207569
-

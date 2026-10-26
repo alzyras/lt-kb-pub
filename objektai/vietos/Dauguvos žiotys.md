@@ -82,6 +82,5 @@ Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 12
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

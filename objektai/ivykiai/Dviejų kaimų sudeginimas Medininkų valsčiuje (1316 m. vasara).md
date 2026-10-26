@@ -51,22 +51,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-196939"></a>
-- t-002
-  teiginys: "Apie Junigedos papilio sudeginimą Tais pačiais metais, švento Mato, apaštalo, dieną (rugsėjo 21) tas pats maršalas su didele kariuomene atžygiavo į lauką, vardu Kaišai577, ir tūkstantis penki Šimtai rai telių, palikę arklius, pėsčiomis po brolių vėliava per."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-63568
-
-<a id="claim-t-223061"></a>
-- t-223061
+<a id="claim-t-62775"></a>
+- t-001
   teiginys: "1316 m. vasarą Ragainės broliai Medininkų valsčiuje sudegino du kaimus, išžudė vyrus, o moteris ir vaikus paėmė į nelaisvę."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
@@ -80,6 +68,20 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibendrina citatoje nurodytą įvykį."
+  pagrindžia:
+    - c-63568
+
+<a id="claim-t-196939"></a>
+- t-002
+  teiginys: "Apie Junigedos papilio sudeginimą Tais pačiais metais, švento Mato, apaštalo, dieną (rugsėjo 21) tas pats maršalas su didele kariuomene atžygiavo į lauką, vardu Kaišai577, ir tūkstantis penki Šimtai rai telių, palikę arklius, pėsčiomis po brolių vėliava per."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-63568
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -124,6 +126,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-

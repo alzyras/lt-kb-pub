@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-a749d52c83fa95863a78b948"
-canonical_name: "Pūtvė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pūtvė","Pūtvė (vieta)"]
+entity_id: ent-a749d52c83fa95863a78b948
+canonical_name: Pūtvė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pūtvė
+  - Pūtvė (vieta)
 sameAs: []
-canonical_biography: "Pūtvės pilies galingasis Spūdas Ordino kariuomenei pasiūlė išduoti pilį."
-place_authority: true
-historical_names: []
+canonical_biography: Pūtvės pilies galingasis Spūdas Ordino kariuomenei pasiūlė išduoti pilį.
 ---
 # Pūtvė (vieta)
 
@@ -70,6 +71,5 @@ Pūtvės pilies galingasis Spūdas Ordino kariuomenei pasiūlė išduoti pilį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

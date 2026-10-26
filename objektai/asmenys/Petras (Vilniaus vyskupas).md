@@ -96,6 +96,5 @@ Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos gi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

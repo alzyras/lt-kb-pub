@@ -82,6 +82,5 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -73,6 +73,5 @@ Naklo apsiausties metu buvo pasidaryta apsiausties mašinų ir kitokių karo įt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

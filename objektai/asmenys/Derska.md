@@ -55,6 +55,23 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   pagrindžia:
     - c-60732
 
+<a id="claim-t-60101"></a>
+- t-002
+  teiginys: "Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Derska: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Derska su Numa išžudė lietuvius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Derska keliavo į Pagudė (0.75)"
+  pagrindžia:
+    - c-60733
+
 <a id="claim-t-184690"></a>
 - t-003
   teiginys: "Prūsų didikas Derska, pabėgęs iš Prūsijos, gyveno Lietuvoje ir tikėjosi kryžiuočių atleidimo už naują išdavystę."
@@ -74,21 +91,6 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   semantiniai_rysiai: "Derska buvo sąjungininkas su Kryžiuočių ordinas (0.63)"
   pagrindžia:
     - c-168051
-
-<a id="claim-t-225340"></a>
-- t-225340
-  teiginys: "Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Derska: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Derska su Numa išžudė lietuvius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Derska keliavo į Pagudė (0.75)"
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -161,7 +163,7 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-60733
@@ -187,6 +189,8 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-168051
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -210,6 +214,5 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

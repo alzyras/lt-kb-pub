@@ -87,6 +87,5 @@ Tie, kurie įgydavo garsą per jų pačių nuopelnus, kuriems kilmė neturėjo �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

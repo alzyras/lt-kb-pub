@@ -74,6 +74,5 @@ Ključevskij : Kurs russkoj istorii, I, Maskva 1956, 30-45 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

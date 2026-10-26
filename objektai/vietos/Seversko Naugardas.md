@@ -110,7 +110,7 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168499
@@ -134,7 +134,7 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 ## Ryšiai

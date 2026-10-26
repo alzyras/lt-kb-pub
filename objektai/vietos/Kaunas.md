@@ -44,6 +44,23 @@ tags:
   - vieta
   - miestas
   - pilis
+entity_id: ent-3f16a56c83e4895e223c7db8
+canonical_name: Kaunas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kaunan
+  - Kaunas
+  - Kaune
+  - Kauno
+  - Kauno pilis
+  - Kauną
+  - Kovnas
+sameAs: []
+canonical_biography: 'Kaunas šiame šaltinyje minimas kaip Ordino puolimų taikinys, žygio į Žemaitiją maršruto mazgas, Vytauto bažnytinių fundacijų vieta ir vienas iš pagrindinių jo laikų prekybos centrų.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Kaunas","url":"https://lt.wikipedia.org/wiki/Kaunas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kauno Pilis","url":"https://www.vle.lt/straipsnis/kauno-pilis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T20:01:29+00:00","source_checked_at":"2026-09-18T20:01:29+00:00","counts":{"relations":48,"gallery":20,"sources":18},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Atėjo žiema, vis dėlto lietuviams ji nebuvo nė kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­ puolių ir iš žiemos stovyklos. Kadangi Kaunas Neries ir N e s ė k m in g a i m ė g in a Nemuno santakoje vasarą p u lti K au n ą sunkiau prieinamas, tuo tarpu žiemą, užšalus vandenims, be vargo apsupamas, todėl Vytautas, tikėdamasis jį pa­ imti, priėjo tylomis miškais ir netikėtai pasirodė su ka­ riuomene prie pylimo. Pilį ir miestą, smarkiai įtvirtin­ tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","claim_id":"t-184977","evidence_id":"c-168338","origin":"internal"},"wiki":{"intro":"Kaunas – antrasis pagal dydį Lietuvos miestas šalies centrinėje dalyje, Nemuno ir Neries santakoje. Svarbus pramonės, transporto, mokslo ir kultūros centras, Laikinoji sostinė. Kauno miesto savivaldybė, Kauno rajono savivaldybės centras, katalikų arkivyskupijos centras. Yra 11 seniūnijų.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"1117","revision_id":"7858689","status":"published","translation_status":"native","source":{"title":"Kaunas","url":"https://lt.wikipedia.org/wiki/Kaunas","publisher":"Vikipedija","language":"lt","article_id":"1117","revision_id":"7858689","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7858689","history_url":"https://lt.wikipedia.org/w/index.php?title=Kaunas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:46.360858+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"040d4d3802e9985f3803e3577142b9d559a248c803c87cdb84cf33fca6d6452c","version_pk":"c7851c055565247d9dc34096601b478e"}},"source_buttons":[{"label":"Vikipedija","title":"Kaunas","url":"https://lt.wikipedia.org/wiki/Kaunas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kauno Pilis","url":"https://www.vle.lt/straipsnis/kauno-pilis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kaunas","https://www.vle.lt/straipsnis/kauno-pilis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6f149518d5ffdfc226643e48","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Įsikūręs Nemuno ir Neries santakoje, prie patogių vandens kelių, valstybės lietuviškųjų žemių viduryje.","context":"Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) aprašyme.","support_ids":["t-201612","c-184959"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201612","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184959","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Politinės, gamtinės ir teisinės prekybos sąlygos Vytauto laikais. Kaunas įsikūrė Ne- muno ir Neries santakoje, prie patogių vandens kelių, valstybės lietuviškųjų žemių viduryje. Gera vieta prekybai turėjusi traukti atvykstančius pirklius ir vietinius pre- kių gamintojus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b0b03f22cb0cf1729db9a14c","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Dviejų didelių upių santaka; apylinkėse minima aukšta pakrantė ir plynė.","context":"Teodoro Narbuto pasakojime apie kryžiuočių stovyklą prie Kauno.","support_ids":["t-206497","c-189112"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206497","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189112","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Didžiulei stovyklai vieta parinkta prie Kauno, dešiniajame Neries krante, dviejų didžiulių upių santakoje, plynėje, nusidriekusioje aukšta pa­ krante."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6c0424ee4f5b1149b4376443","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Kauno pilis buvo strategiškai svarbioje vietoje, Nemuno ir Neries santakoje.","context":"2013 m. Karolio Zikaro sudarytame veikale; pirmoji pilis kronikose paminėta 1361 m.","support_ids":["t-179922","c-43489"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179922","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-43489","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Grįžęs namo, jis vėl organizavo žygį iš Įsruties į Kauną, „atnešė stabmeldžiams visokių nelaimių“, bet per Kauno mūrinės pilies statyba. Pirmoji Kauno pilis kronikose paminėta 1361 m. Ji pastatyta strategiškai svarbioje vietoje - Nemuno ir Nėries santakoje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5eb0d07c9b79bc794ad6f02f","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Kauno pilis ir miestas buvo smarkiai įtvirtinti.","context":"Alberto Vijūko-Kojelavičiaus aprašyme apie Vytauto žygį žiemą.","support_ids":["t-184977","c-168338"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184977","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168338","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Atėjo žiema, vis dėlto lietuviams ji nebuvo nė kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­ puolių ir iš žiemos stovyklos. Kadangi Kaunas Neries ir N e s ė k m in g a i m ė g in a Nemuno santakoje vasarą p u lti K au n ą sunkiau prieinamas, tuo tarpu žiemą, užšalus vandenims, be vargo apsupamas, todėl Vytautas, tikėdamasis jį pa­ imti, priėjo tylomis miškais ir netikėtai pasirodė su ka­ riuomene prie pylimo. Pilį ir miestą, smarkiai įtvirtin­ tus, gynė stambios lietuvių bei lenkų samdytinių įgulos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5c85714dc779d912f69aecd2","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Kauno tvirtovė autoriaus apibūdinama kaip strategiškai svarbi.","context":"Lietuvos istorijos (2013 m.) aprašyme apie 1915 m. įvykius.","support_ids":["t-179983","c-163554"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179983","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163554","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa- vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos kariuomenių kontroliuojamoje zonoje. Toje teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"75182853a9013b0e5b070e48","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kaunas buvo didelis prekybos centras prie Nemuno.","context":"A. Šapokos redaguotoje Lietuvos istorijoje; aprašomas istorinis laikotarpis, kai prekyba vyko Nemunu.","support_ids":["t-193189","c-175933"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193189","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175933","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tuo metu rytų Lietuvos, t. y. ru- siškųjų žemių prekyba daugiausia ėjo Dauguva, o tikrosios Lie- tuvos ir jai artimųjų sričių — Nemunu. Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas. Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie- jų didelių upių santakas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c98e248f038a156f75990c2b","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Vytauto valdymo metu Kaunas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje.","context":"Veikale Vytautas Didysis 1350–1430 aprašomas Vytauto valdymo laikotarpis.","support_ids":["t-179916","c-163561"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179916","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-163561","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"pirkliai, ir jau prie Vytenio, Gedimino ir kitų didžiųjų Lietuvos kunigaikščių turė­ jo su ja prekybos santykius, kurie Vytauto laikais dar labiau išsiplėtė ir sutvirtėjo. Jo valdymo metu pačioje Lietuvoje jau buvo du dideli pre­ kybos centrai — Kaunas ir Polockas. Juose buvo daugiausia įsigalėję vokiečių pirkliai, turėdami čia savo kontoras."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bf574071010c2ad0f913e022","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kaunas išliko stambus regioninis prekybos centras.","context":"Zigmantas Kiaupa taip apibūdina Kauną miesto istorijos aprašyme.","support_ids":["t-201614","c-184961"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201614","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184961","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Kauno miesto gyvenimui tiesioginę ar netiesioginę įtaką turėjo Europos šalių ir pačios Lietuvos raida. Kaunas išliko stambus regioninis prekybos centras, bet jo pirklių veiklos sąly­ gos keitėsi. Neišnyko viduramžių Kauno miesto augimo pamatas - Lietuvos prekių paklausa Europoje, bet pasipildė prekių sąrašas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bd3c3199405eff4e1f1e4f96","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kaunas tapo visos Lietuvos prekybos mišku centru.","context":"Zigmanto Kiaupos aprašytas istorinis laikotarpis, kai prie Kauno buvo suvežamos valstybės ir valdovo miškuose paruoštos prekės.","support_ids":["t-201617","c-184964"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201617","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184964","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Muitininkas kartu su specialiais brokuotojais prekes apžiūrėdavo, atrinkdavo tinkamas eksportuoti ir sumokėdavo paruošėjui pinigus. Nors prekybos miško prekėmis valstybės monopolis greitai buvo sušvelnintas, bet, kadangi prie Kauno būdavo suvežamos ir valstybės/valdovo miškuose paruoštos pre- kės, Kaunas tapo visos Lietuvos prekybos mišku centru. Tai miestui buvo naudinga."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2b6c6de72ce204b7ce1e09ee","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kauno tvirtovė buvo laikoma raktu į tikrąsias Lietuvos žemes ir svarbiu punktu.","context":"Teodoro Narbuto pasakojime; tai pateikiama kaip autoriaus aprašomas strateginis vertinimas.","support_ids":["t-206489","c-189104"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206489","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189104","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Kauno tvirtovė buvo raktas į tikrąsias Lietuvos žemes; stovinti dviejų didelių upių 1 Hermanu Comer. Chron. Autorius apie tai paliudija, nors pats yra pri­ painiojęs. Žr.: Naruszewicz. - T. VI. - S. 298, 299. 2 Dlugošas apie tai gerai žinojo, nes pasakoja (t. I. - P. 1131): Sed parum provide dum rediret aservatus, iterum Cruciferas fallens, de quo apud eos mag­ ni morsus habebantur, captivitatem evasit, et in Lithuaniam pervenit (Bet kai dar kartą, lygiai taip pat apsukriai apgaudamas kryžiuočius, dėl ko daugelis jų buvo smarkiai išjuokti, pabėgo iš nelaisvės ir į Lietuvą parvyko). 142 santakoje visada buvo svarbus punktas, viliojantis aną valdyti, masino būdamas reikalingas vėlesniems…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1d35339125bf1da64d6cd213","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Kauno muitinė kontroliavo prekių judėjimą vandeniu ir sausuma.","context":"Zigmanto Kiaupos aprašytame istoriniame laikotarpyje.","support_ids":["t-201613","c-184960"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201613","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184960","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Surinkti muitai eidavo į valstybės ar valdovo iždą (jie dar nebuvo atskirti). Kauno muitinė kontroliavo prekių judėjimą pro Kauną vandeniu ir sausuma. Jos žinioje buvo visa Lietuvos valstybės šiaurės vakarų dalis, įskaitant Žemaitiją."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"cf508296b737c639484c29ce","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Kauno muitinė buvo valdovo ir valstybės įmonė, kontroliavusi prekybą su užsieniu ir rinkusi muitus.","context":"Zigmanto Kiaupos istoriniame aprašyme.","support_ids":["t-201616","c-184963"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201616","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184963","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Kauno muitinė buvo ne miestiečių, o valdovo/valstybės įmonė. Ji kontroliavo prekių judėjimą į užsienį ir iš užsienio į Lietuvą visoje vakarinėje valstybės dalyje ir rinko muitus, ėjusius į valdovo/valstybės iždą. Kauno sankrovos teisės įgyvendinimas turėjo padėti muiti- ninkams sekti prekių judėjimą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6737dd5ef946f52a1fc6c32d","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1939 m. Kaune buvo pastatyta mokyklų, bibliotekų, naujų muziejų ir universiteto fakultetų korpusų.","context":"Lietuvos istorijos (2013 m.) aprašyme apie 1939 m. modernėjantį miestą.","support_ids":["t-179963","c-163605"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179963","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163605","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Augo ir modernėjo miestai, Kaunas, 1939 m. turėjęs 154 000 gyventojų, iš kurių 60 proc. sudarė lietuviai, jau buvo naujoviškas, tvarkingas miestas. Jame pastatyta mokyklų, bibliotekų, naujų muziejų ir universiteto fakul- tetų korpusų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f45209463cdb94df1caebd5d","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Kauno Įgulos bažnyčioje buvo įrengti Skulptūros ir vitražo muziejai.","context":"Lietuvos istorijos (2013 m.) aprašyme apie sovietmečiu pritaikytas uždarytas bažnyčias.","support_ids":["t-179960","c-163609"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179960","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163609","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Už- darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri- taikytos uždarytos bažnyčios: Šv. Kazimiero bažnyčioje atidarytas Ateiz- mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne – M. K. Čiurlionio muziejaus senojo meno ekspozicija."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d94abe3d6ba91150bd7073e3","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Kauno stotis nebuvo sugriauta, nors aplink ją karo metu buvo padaryta nuostolių.","context":"1916 m. kelionės aprašyme; tai autoriaus stebėjimas tuo metu.","support_ids":["t-209619","c-192239"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209619","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md"},{"kind":"evidence","evidence_id":"c-192239","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md","quote":"Kauno stotis ne­ sugriauta. Aplinkui stoties karės metu pada­ ryta gerokai nuostolių."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Kaunas – istorinė Lietuvos vieta, ilgainiui tapusi svarbiu gotikos, prekybos ir pasipriešinimo centru. 1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje, ant Neries kranto, sunaikino Eigulių pilį, o 1384 m. vasarą čia pastatė Marienwerderio pilį, vadintą tvirčiausia mūrine pilimi priešo žemėje. Vytauto laikais Kaunas kartu su Vilniumi ir Trakais sudarė Lietuvos gotikos epicentrą, o atkūrus pasienio pilis miestas tapo svarbia gynybinės erdvės dalimi. Vėliau, prie Kauno suvežant valstybės ir valdovo miškuose paruoštas prekes, jis išaugo į visos Lietuvos prekybos mišku centrą ir buvo laikomas antruoju Lietuvos Didžiosios Kunigaikštystės miestu. XX a. Kaunas patyrė okupacinį spaudimą: 1943 m. čia uždarytas universitetas, o 1972 m. Romo Kalantos susideginimas miesto sode prie Muzikinio teatro tapo pasipriešinimo simboliu ir suaktyvino neformalaus jaunimo judėjimą.","sentences":[{"sentence_id":"s1","text":"Kaunas – istorinė Lietuvos vieta, ilgainiui tapusi svarbiu gotikos, prekybos ir pasipriešinimo centru.","support_ids":["t-179982","t-201617","t-179990"]},{"sentence_id":"s2","text":"1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje, ant Neries kranto, sunaikino Eigulių pilį, o 1384 m. vasarą čia pastatė Marienwerderio pilį, vadintą tvirčiausia mūrine pilimi priešo žemėje.","support_ids":["t-179988","t-179930"]},{"sentence_id":"s3","text":"Vytauto laikais Kaunas kartu su Vilniumi ir Trakais sudarė Lietuvos gotikos epicentrą, o atkūrus pasienio pilis miestas tapo svarbia gynybinės erdvės dalimi.","support_ids":["t-179982","t-179976"]},{"sentence_id":"s4","text":"Vėliau, prie Kauno suvežant valstybės ir valdovo miškuose paruoštas prekes, jis išaugo į visos Lietuvos prekybos mišku centrą ir buvo laikomas antruoju Lietuvos Didžiosios Kunigaikštystės miestu.","support_ids":["t-201617","t-201619"]},{"sentence_id":"s5","text":"XX a. Kaunas patyrė okupacinį spaudimą: 1943 m. čia uždarytas universitetas, o 1972 m. Romo Kalantos susideginimas miesto sode prie Muzikinio teatro tapo pasipriešinimo simboliu ir suaktyvino neformalaus jaunimo judėjimą.","support_ids":["t-179934","t-179943","t-179990"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia gotikos, prekybos mišku ir pasipriešinimo aspektus, tačiau nepakankamai tiesiogiai pagrindžia teiginį, kad Kaunas yra istorinė Lietuvos vieta."},{"sentence_id":"s2","supported":true,"reason":"Visi datos, vietos, Eigulių pilies sunaikinimo ir Marienwerderio pilies pastatymo teiginiai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s3","supported":false,"reason":"Gotikos epicentro teiginys paremtas, tačiau šaltinis tik nurodo pilių atstatymą ir tiesiogiai nepatvirtina, kad Kaunas tapo svarbia gynybinės erdvės dalimi."},{"sentence_id":"s4","supported":true,"reason":"Abu pagrindiniai teiginiai apie miško prekių suvežimą, prekybos mišku centrą ir antrąjį LDK miestą tiesiogiai paremti šaltiniais."},{"sentence_id":"s5","supported":true,"reason":"Universiteto uždarymas 1943 m., Romo Kalantos susideginimo vieta ir data bei pasipriešinimo simbolio ir jaunimo judėjimo teiginiai tiesiogiai paremti šaltiniais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-179982","t-201617","t-179990"]},{"sentence_id":"s2","supported":false,"support_ids":["t-179988","t-179930"]},{"sentence_id":"s3","supported":false,"support_ids":["t-179982","t-179976"]},{"sentence_id":"s4","supported":false,"support_ids":["t-201617","t-201619"]},{"sentence_id":"s5","supported":false,"support_ids":["t-179934","t-179943","t-179990"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-d29d0715a3843d7346a6b084"},"featured_gallery":[{"media_id":"m-8efc0a2016b5201434efeec2","relation_type":"map_of"},{"media_id":"m-c7fc67925a699ec3ea564e2b","relation_type":"depicts"},{"media_id":"m-9cac5122770355d56a29831f","relation_type":"depicts"}],"media_verification":{"status":"not_required","primary_media_id":"m-81cf13b0df8deee3ec39ab82","candidate_count":18,"visual_verified_count":18,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Tai aiškiai identifikuotas istorinis Kauno miesto atvaizdas.","visual_evidence":"Matomas istorinis Kauno miesto planas, Nemunas, miesto rajonai, gatvės ir siaurojo geležinkelio linijos.","metadata_evidence":"Pavadinime aiškiai nurodyta „Kauno miesto planai - 1922“, aprašymas išsamiai apibūdina Kauno planą.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-184499","confidence":0.94},{"predicate":"gime","direction":"inbound","target":"objektai/asmenys/Emmanuel Levinas","claim_id":"t-18885","confidence":0.95},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-10469","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Adomas Mickevičius","claim_id":"t-05717","confidence":0.76},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Juozas Tumas-Vaižgantas","claim_id":"t-63766","confidence":0.68},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Šach Achmedas","claim_id":"t-87417","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-179929","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Tauro apygarda","claim_id":"t-49111","confidence":0.66},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-179916","confidence":0.6},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Augustinas Voldemaras","claim_id":"t-179948","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Benediktas Makras","claim_id":"t-93182","confidence":0.62},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Boucicaut","claim_id":"t-87490","confidence":0.67},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-179758","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Juozas Urbšys","claim_id":"t-19026","confidence":0.93},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179758","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zigmantas Sierakauskas","claim_id":"t-75351","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Žydų Hapoelio klubas","claim_id":"t-75087","confidence":0.73},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Romas Kalanta","claim_id":"t-183564","confidence":0.62},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-41975","confidence":0.74},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179968","confidence":0.68},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Polockas","claim_id":"t-180456","confidence":0.66},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-86195","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Namas","claim_id":"t-216098","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę","claim_id":"t-19579","confidence":0.66},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Pramonės ir prekybos rūmai Kaune","claim_id":"t-25169","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Prisikėlimo bažnyčia Kaune","claim_id":"t-26412","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Šarvuotasis traukinys Gediminas","claim_id":"t-78695","confidence":0.55},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/„Pienocentro“ pastatas Kaune","claim_id":"t-71580","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Aleksotas","claim_id":"t-216539","confidence":0.89},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Karo muziejaus sodelis","claim_id":"t-21466","confidence":0.97},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Hanza","claim_id":"t-116693","confidence":0.91},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-179925","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-179933","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kauno pilis","claim_id":"t-179923","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Pažaislio vienuolyno ansamblis","claim_id":"t-179992","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Prisikėlimo bažnyčia","claim_id":"t-102033","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-179985","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-179953","confidence":0.58},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-36448","confidence":0.84},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Petras Kubiliūnas","claim_id":"t-19193","confidence":0.78},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vinrichas fon Kniprodė","claim_id":"t-80702","confidence":0.86},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Kazokai","claim_id":"t-180661","confidence":0.78},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-184499","confidence":0.9},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lenkijos karalystės kariuomenė","claim_id":"t-179977","confidence":0.96},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-180661","confidence":0.78},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusijos kariuomenė","claim_id":"t-10469","confidence":0.68},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-179983","confidence":0.9},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Sungaila","claim_id":"t-30386","confidence":0.82}],"timeline":[{"date":"1361 m.","label":"Pirmoji Kauno pilis kronikose paminėta 1361 m.","claimId":"t-179922"},{"date":"1362 m.","label":"Kaunas pirmą kartą kryžiuočių buvo puolamas 1362 m.","claimId":"t-211154"},{"date":"1382 m.","label":"1382 m.","claimId":"t-179988"},{"date":"1384 m.","label":"1384 m.","claimId":"t-179930"},{"date":"1915 m.","label":"1915 m.","claimId":"t-179983"},{"date":"1939 m.","label":"1939 m.","claimId":"t-179963"},{"date":"1943 m.","label":"1943 m.","claimId":"t-179934"},{"date":"1972 m.","label":"1972 m.","claimId":"t-179943"}],"support_disclosure":{"claims":63,"sources":16}}'
 object_page_finisher: 'true'
@@ -59,15 +76,6 @@ object_page_seo_generated_at: '2026-09-18T20:01:29+00:00'
 object_page_seo_policy_version: object-page-policy/v7
 media_primary_width: 960
 media_primary_height: 640
-entity_id: "ent-3f16a56c83e4895e223c7db8"
-canonical_name: "Kaunas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kaunan","Kaunas","Kaune","Kauno","Kauno pilis","Kauną","Kovnas"]
-sameAs: ["https://www.wikidata.org/entity/Q4115712"]
-canonical_biography: "Kaunas šiame šaltinyje minimas kaip Ordino puolimų taikinys, žygio į Žemaitiją maršruto mazgas, Vytauto bažnytinių fundacijų vieta ir vienas iš pagrindinių jo laikų prekybos centrų."
-place_authority: true
-historical_names: []
 ---
 # Kaunas
 
@@ -598,6 +606,22 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-163559
+
+<a id="claim-t-179942"></a>
+- t-029
+  teiginys: "Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal."
+  atnaujinta: "2026-06-10 12:34"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-163573
 
 <a id="claim-t-179943"></a>
 - t-030
@@ -2166,339 +2190,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   pagrindžia:
     - c-189116
 
-<a id="claim-t-10847"></a>
-- t-10847
-  teiginys: "Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį."
-  atnaujinta: "2026-09-24 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-163591
-
-<a id="claim-t-207580"></a>
-- t-207580
-  teiginys: "Kaune stovėjo Vytauto funduota bažnyčia."
-  atnaujinta: "2026-09-24 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190197
-
-<a id="claim-t-207581"></a>
-- t-207581
-  teiginys: "Pažaislio vienuolyno ansamblis yra prie Kauno."
-  atnaujinta: "2026-09-24 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  pagrindžia:
-    - c-190198
-
-<a id="claim-t-208539"></a>
-- t-208539
-  teiginys: "Po 1863 m. sukilimo civilinė vyriausybė iš vienuolynų atėmė Dotnuvos, Kauno Šv. apaštalų Petro ir Povilo, Klovainių, Palėvenės, Tytuvėnų ir Troškūnų parapijas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įvykio data: po 1863 m.; įvykio data: 1863 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Neužbaigtas fragmentas išplėstas į sakinį, įvardijant visas citatoje nurodytas parapijas. Nauji faktai nepridėti."
-  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
-  pagrindžia:
-    - c-191159
-
-<a id="claim-t-208540"></a>
-- t-208540
-  teiginys: "1864 m. vyskupas Motiejus Valančius buvo prievarta apgyvendintas Kaune, jam uždrausta išvykti iš miesto."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas asmens vardas ir aiškiai įvardytas draudimo objektas. Valdžios vykdytojas, kurio citatoje nėra, nepridėtas."
-  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
-  pagrindžia:
-    - c-191160
-
-<a id="claim-t-208542"></a>
-- t-208542
-  teiginys: "1864 m. vysk. M. Valančius aplankė Kauną."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191162
-
-<a id="claim-t-208543"></a>
-- t-208543
-  teiginys: "Į Kauną priimti Sutvirtinimo sakramento atvykdavo žmonės ir iš Vilniaus, Minsko bei Polocko."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191163
-
-<a id="claim-t-208544"></a>
-- t-208544
-  teiginys: "Valančius grįžo iš Kauno ir pakeliui aplankė Skirsnemunę bei Jurbarką."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191164
-
-<a id="claim-t-208546"></a>
-- t-208546
-  teiginys: "1867–1868 m. bado metu Kaune M. Valančius kasdien maitindavo kelis šimtus žmonių ir įsteigė mažą ligoninę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įkūrimo data: 1868 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškai taisyklingas ir tiesiogiai pagrįstas citata. Jame nurodyti abu Kaune aprašomi Valančiaus veiksmai."
-  pagrindžia:
-    - c-191166
-
-<a id="claim-t-208548"></a>
-- t-208548
-  teiginys: "Keliaudamas per vyskupystę, vyskupas Motiejus Valančius aplankė kalinius ir Kaune aptiko daugybę per nelaimes uždarytų vaikų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
-  pagrindžia:
-    - c-191168
-
-<a id="claim-t-209473"></a>
-- t-209473
-  teiginys: "Rašiau Kaune 1861 m. kovo 8 dienoj."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-192093
-
-<a id="claim-t-209619"></a>
-- t-209619
-  teiginys: "Kauno stotis ne sugriauta."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192239
-
-<a id="claim-t-209620"></a>
-- t-209620
-  teiginys: "Kauno mieste nepadaryta didelių eibių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192240
-
-<a id="claim-t-209621"></a>
-- t-209621
-  teiginys: "Delegatams Kaune suteikta visiška susižinojimo ir susinešimo laisvė."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192241
-
-<a id="claim-t-209622"></a>
-- t-209622
-  teiginys: "Kauno miesto galva yra vokietys Bušeli."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192242
-
-<a id="claim-t-209623"></a>
-- t-209623
-  teiginys: "Kauno mokyklų direktoriumi yra vokietys Ritter."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192243
-
-<a id="claim-t-209624"></a>
-- t-209624
-  teiginys: "Kauną atradau išpuoš tą, tik žinoma ne mano priėmimui, bet kaize rio Wilhelmo, kuris turėjo tą pat dieną atvyk ti Kaunan."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192244
-
-<a id="claim-t-210354"></a>
-- t-210354
-  teiginys: "Vokiečiai apgulė ir sunaikino Kauno pilį."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193250
-
-<a id="claim-t-211154"></a>
-- t-211154
-  teiginys: "Kaunas pirmą kartą kryžiuočių buvo puolamas 1362 m."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193430
-
-<a id="claim-t-214917"></a>
-- t-214917
-  teiginys: "Kaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto se noviniu būdu ir iš senovinių ¡.medžiagų, griuvėsiai."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197127
-
-<a id="claim-t-215037"></a>
-- t-215037
-  teiginys: "Kai 1818 metais Kaune buvo statoma mui tinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio muro, visų vadinamo Perkūno namais."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196229
-
-<a id="claim-t-217544"></a>
-- t-217544
-  teiginys: "Kaune buvo pasakojama apie Perkūnui skirtą šventovę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200812
-
-<a id="claim-t-218670"></a>
-- t-218670
-  teiginys: "Prie Kauno rasta senovinė lietuviška moneta su Gediminaičių herbu Stulpais."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200878
-
-<a id="claim-t-219529"></a>
-- t-219529
-  teiginys: "Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u no ir Neries upių santakoje, augo dievams skirta giraitė, kuri tęsėsi iki pat pilies, dabar virtusios griuvėsiais."
-  atnaujinta: "2026-09-24 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200935
-
-<a id="claim-t-220119"></a>
-- t-220119
-  teiginys: "Narbutas teigia, kad Kauno apylinkių liepynus sunaikino šalį ištikusi suirutė."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198915
-
-<a id="claim-t-225992"></a>
-- t-225992
-  teiginys: "Gyvendama Kaune, Unė Babickaitė per Kauno radiofoną skaitė lietuvių poeziją ir tarmiškai dainavo kupiškėnų dainas, o Kauno radiofone dirbo jos brolis Petras Babickas."
-  atnaujinta: "2026-09-25 02:17"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
-  vertinimo_atnaujinta: "2026-09-23T18:02:05Z"
-  pagrindžia:
-    - c-206508
-
 ## Reikšmingi paminėjimai
 - c-042
   santrauka: '1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.'
@@ -2792,7 +2483,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-13418
@@ -2819,7 +2510,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-21467
@@ -2843,7 +2534,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-21469
@@ -2863,7 +2554,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-32116
@@ -2880,7 +2571,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-37433
@@ -2900,7 +2591,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-052
 
 - id: c-43489
@@ -2921,7 +2612,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-46522
@@ -2940,7 +2631,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-054
 
 - id: c-163551
@@ -2965,7 +2656,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-163552
@@ -2988,7 +2679,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
     - t-031
 
@@ -3009,7 +2700,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-163554
@@ -3034,7 +2725,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-061
 
 - id: c-163555
@@ -3055,7 +2746,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-163556
@@ -3081,7 +2772,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
 
 - id: c-163557
@@ -3102,7 +2793,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-036
 
@@ -3131,7 +2822,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-072
 
 - id: c-163559
@@ -3160,7 +2851,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
     - t-051
 
@@ -3182,7 +2873,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-163561
@@ -3204,7 +2895,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-163562
@@ -3223,7 +2914,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-068
 
 - id: c-163563
@@ -3243,7 +2934,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-163565
@@ -3264,7 +2955,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-062
 
 - id: c-163567
@@ -3283,7 +2974,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-163568
@@ -3302,7 +2993,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-163569
@@ -3330,7 +3021,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-050
 
 - id: c-163570
@@ -3355,7 +3046,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-163572
@@ -3376,7 +3067,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-069
 
 - id: c-163573
@@ -3404,7 +3095,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-029
     - t-059
 
 - id: c-163574
@@ -3422,7 +3114,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-044
 
 - id: c-163575
@@ -3443,7 +3135,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-065
 
 - id: c-163576
@@ -3467,7 +3159,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-163577
@@ -3490,7 +3182,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-073
 
 - id: c-163580
@@ -3512,7 +3204,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-163581
@@ -3534,7 +3226,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-070
 
 - id: c-163583
@@ -3554,7 +3246,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-163584
@@ -3575,7 +3267,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-163585
@@ -3598,7 +3290,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-163587
@@ -3619,7 +3311,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-041
 
 - id: c-163588
@@ -3642,7 +3334,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-163589
@@ -3678,7 +3370,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-163591
@@ -3703,9 +3395,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-10847
-
 - id: c-163593
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3728,7 +3417,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
 
 - id: c-163596
@@ -3751,7 +3440,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-060
 
 - id: c-163598
@@ -3771,7 +3460,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
 
 - id: c-163599
@@ -3799,7 +3488,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-163600
@@ -3824,7 +3513,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-163603
@@ -3845,7 +3534,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-055
 
 - id: c-163604
@@ -3875,7 +3564,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-163605
@@ -3898,7 +3587,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-043
 
 - id: c-163608
@@ -3920,7 +3609,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-053
 
 - id: c-163609
@@ -3940,7 +3629,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-163610
@@ -3961,7 +3650,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-163611
@@ -3982,7 +3671,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
 
 - id: c-163612
@@ -4006,7 +3695,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-163613
@@ -4028,7 +3717,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-063
 
 - id: c-163614
@@ -4049,7 +3738,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-163615
@@ -4074,7 +3763,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-163616
@@ -4093,7 +3782,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-056
 
 - id: c-163618
@@ -4115,7 +3804,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-163620
@@ -4144,7 +3833,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-163621
@@ -4161,7 +3850,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-067
 
 - id: c-163622
@@ -4182,7 +3871,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-163623
@@ -4211,7 +3900,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
     - t-057
 
@@ -4233,7 +3922,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-064
 
 - id: c-163629
@@ -4254,7 +3943,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-058
 
 - id: c-163630
@@ -4280,7 +3969,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-163631
@@ -4303,7 +3992,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-071
 
 - id: c-163632
@@ -4325,7 +4014,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-166991
@@ -4344,7 +4033,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-167241
@@ -4372,7 +4061,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-045
 
 - id: c-168335
@@ -4393,7 +4082,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-074
 
 - id: c-168337
@@ -4429,7 +4118,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-075
     - t-097
 
@@ -4460,7 +4149,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-076
     - t-077
 
@@ -4486,7 +4175,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-078
 
 - id: c-168341
@@ -4508,7 +4197,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-079
 
 - id: c-171596
@@ -4535,7 +4224,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-080
     - t-081
 
@@ -4559,7 +4248,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-099
 
 - id: c-171598
@@ -4579,7 +4268,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-082
 
 - id: c-171599
@@ -4599,7 +4288,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-083
 
 - id: c-171600
@@ -4622,7 +4311,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-084
 
 - id: c-171601
@@ -4644,7 +4333,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-085
 
 - id: c-171602
@@ -4674,7 +4363,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-086
 
 - id: c-171603
@@ -4697,7 +4386,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-087
 
 - id: c-171604
@@ -4718,7 +4407,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-088
 
 - id: c-171605
@@ -4738,7 +4427,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-089
 
 - id: c-171606
@@ -4757,7 +4446,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-090
 
 - id: c-171607
@@ -4781,7 +4470,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-091
 
 - id: c-173537
@@ -4804,7 +4493,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-092
 
 - id: c-175440
@@ -4824,7 +4513,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-093
 
 - id: c-175933
@@ -4846,7 +4535,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-094
 
 - id: c-176309
@@ -4865,7 +4554,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-095
 
 - id: c-177370
@@ -4883,7 +4572,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-096
 
 - id: c-178844
@@ -4914,7 +4603,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-098
 
 - id: c-184957
@@ -4933,7 +4622,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-100
 
 - id: c-184958
@@ -4949,7 +4638,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-101
 
 - id: c-184959
@@ -4966,7 +4655,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-102
 
 - id: c-184960
@@ -4983,7 +4672,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-103
 
 - id: c-184961
@@ -5001,7 +4690,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-104
 
 - id: c-184962
@@ -5020,7 +4709,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-105
 
 - id: c-184963
@@ -5038,7 +4727,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-106
 
 - id: c-184964
@@ -5056,7 +4745,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-107
 
 - id: c-184965
@@ -5073,7 +4762,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-108
 
 - id: c-184966
@@ -5091,7 +4780,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-109
 
 - id: c-186558
@@ -5110,7 +4799,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-110
 
 - id: c-186625
@@ -5126,7 +4815,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-111
 
 - id: c-187953
@@ -5147,7 +4836,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-112
 
 - id: c-189103
@@ -5163,7 +4852,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-113
 
 - id: c-189104
@@ -5190,7 +4879,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-114
 
 - id: c-189105
@@ -5207,7 +4896,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-115
 
 - id: c-189106
@@ -5227,7 +4916,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-116
 
 - id: c-189107
@@ -5244,7 +4933,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-117
 
 - id: c-189108
@@ -5263,7 +4952,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-118
 
 - id: c-189109
@@ -5279,7 +4968,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-119
 
 - id: c-189110
@@ -5295,7 +4984,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-120
 
 - id: c-189111
@@ -5314,7 +5003,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-121
 
 - id: c-189112
@@ -5331,7 +5020,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-122
 
 - id: c-189113
@@ -5350,7 +5039,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-123
 
 - id: c-189114
@@ -5367,7 +5056,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-124
 
 - id: c-189115
@@ -5386,7 +5075,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-125
 
 - id: c-189116
@@ -5397,582 +5086,12 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Taip pat statybai Kaune mes perleido­
     me vietovę, kuri visiems laikams turi priklausyti ordinui.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-126
-
-- id: c-190197
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 128"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 128."
-  citata_originali: |
-    Mergelės Marijos.
-    Tai netiesiogiai patvirtina iškart po Vorsklos mūšio funduota Vytauto bažnyčia Kaune,
-    pašvęsta Švč. Mergelei.
-  citata_rodoma: "Tai netiesiogiai patvirtina iškart po Vorsklos mūšio funduota Vytauto bažnyčia Kaune, \npašvęsta Švč. Mergelei."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207580
-
-- id: c-190198
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 176"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 176."
-  citata_originali: |
-    Sukurti europinės
-    reikšmės kūriniai: Vilniaus katedros Šv. Kazimiero koplyčia, Vilniaus Šv. Petro ir Povilo
-    bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno, susiformavo savita Vilniaus baroko
-    mokykla, o architektas Jonas Kristupas Glaubicas sukūrė Vilniaus – baroko ir europinės
-    kultūros miesto įvaizdį.
-  citata_rodoma: "Vilniaus katedros Šv. Kazimiero koplyčia, Vilniaus Šv. Petro ir Povilo \nbažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207581
-
-- id: c-191159
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 14"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 14."
-  citata_originali: |
-    Tačiau pačiuose vienuolynuose drausmė buvo
-    pašlijusi, nes caro valdžia trukdė paskirti tinkamus vie­
-    nuolynų viršininkus5.
-    Po 1863 m. sukilimo civilinė vyriausybė atėmė iš vie­
-    nuolynų Dotnuvos, Kauno šv. Apaštalų Petro ir Povilo,
-    Klovainių, Palėvenės, Tytuvėnų ir Troškūnų parapijas,
-    įsakė į jas paskirti pasauliečius kunigus, o ten buvusius
-    vienuolynus uždarė6.
-  citata_rodoma: "Po 1863 m. sukilimo civilinė vyriausybė atėmė iš vie­\nnuolynų Dotnuvos, Kauno šv. Apaštalų Petro ir Povilo, \nKlovainių, Palėvenės, Tytuvėnų ir Troškūnų parapijas, \nįsakė į jas paskirti pasauliečius kunigus, o ten buvusius \nvienuolynus uždarė6."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208539
-
-- id: c-191160
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 18"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 18."
-  citata_originali: |
-    Vyskupas negalėjo be gu­
-    bernatoriaus sutikimo paskirti kunigą į parapiją, perkelti
-    ar netinkamą atleisti iš pareigų. Be to, gubernatorius pats
-    sprendė, ar ten, kur vyskupas numato skirti kunigą, jis
-    esąs reikalingas3. Kaip jau minėta, vysk. M. Valančių
-    1864 m. prievarta apgyvendino Kaune ir uždraudė išvykti
-    iš miesto.
-  citata_rodoma: "Kaip jau minėta, vysk. M. Valančių \n1864 m. prievarta apgyvendino Kaune ir uždraudė išvykti \niš miesto."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208540
-
-- id: c-191162
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 56"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 56."
-  citata_originali: |
-    Todėl vysk. M. Valančius tais metais ap­
-    lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če­
-    kiškę 6 7. Kitais metais vizitavo tik Vilkijos ir Karmėlavos
-    parapijas 1.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208542
-
-- id: c-191163
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 58"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 58."
-  citata_originali: |
-    Į Kauną
-    priimti Sutvirtinimo sakramento atkeliaudavo žmonės ne
-    tik iš tolimiausių Žemaičių vyskupijos parapijų, bet ir
-    iš Vilniaus, Minsko ir Polocko5.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208543
-
-- id: c-191164
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 125"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 125."
-  citata_originali: |
-    Jurbarkiškio pavyzdžiu pasekė Gaurės
-    ir Skirsnemunės klebonai!. Vysk. M. Valančius tų pa­
-    čių metų rudenį, grįždamas iš Kauno, aplankė Skirsne­
-    munę ir Jurbarką.
-  citata_rodoma: "Vysk. M. Valančius tų pa­\nčių metų rudenį, grįždamas iš Kauno, aplankė Skirsne­\nmunę ir Jurbarką."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208544
-
-- id: c-191166
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 158"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 158."
-  citata_originali: |
-    1867.—1868 m. Lietuvoje kilo badas 4. Vysk. M. Va­
-    lančius Kaune kasdien maitindavo kelis šimtus žmonių
-    neatsižvelgdamas nei į jų tikėjimą, nei į tautybę. Čia jis
-    įsteigė mažą ligoninę.
-  citata_rodoma: "1867.—1868 m. Lietuvoje kilo badas 4. Vysk. M. Va­\nlančius Kaune kasdien maitindavo kelis šimtus žmonių \nneatsižvelgdamas nei į jų tikėjimą, nei į tautybę. Čia jis \nįsteigė mažą ligoninę"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208546
-
-- id: c-191168
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 214"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 214."
-  citata_originali: |
-    Argi nežinot, jogiai kožnas, išplė­
-    šius ar pavagiąs svetimą naudą, tol negali būti išgany­
-    tas, kol nesugrąžins, ką išplėšė ar pavogė.
-    Važiuodamas kiaurai per vyskupystę, aplankiau visus
-    kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­
-    šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir
-    Kaune daugybę uždarytų per nelaimes, vaikų savo.
-  citata_rodoma: "Važiuodamas kiaurai per vyskupystę, aplankiau visus \nkalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­\nšiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir \nKaune daugybę uždarytų per nelaimes, vaikų savo."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208548
-
-- id: c-192093
-  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
-  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
-  puslapiai: "PDF 92"
-  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 92."
-  citata_originali: |
-    Ir dar prašau jūsų,
-    užsilaikykit spakainiai, idant nepagadintumėt viso gero savo. Melskitės už ŠVIESIAUSIĄ CIESORIŲ,
-    už patys save, už ponus ir valdytojus jūsų ir už mane.
-    Rašiau Kaune 1861 m. kovo 8 dienoj.
-  citata_rodoma: "Rašiau Kaune 1861 m. kovo 8 dienoj."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209473
-
-- id: c-192239
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 41"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 41."
-  citata_originali: |
-    Kauno stotis ne­
-    sugriauta.
-    Aplinkui stoties karės metu pada­
-    ryta gerokai nuostolių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209619
-
-- id: c-192240
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 45"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 45."
-  citata_originali: |
-    Kauno mieste nepadaryta didelių eibių.
-    Garalevyčiaus namai ant Nemuno kranto, ku­
-    rie,
-    anok kauniškių pasakojimo, gana smar­
-    kiai nukentėjo nuog vokiečių granatų, mums
-    atvažiavus Kaunan jau buvo pataisyti.
-    Paties
-    savininko nebesama Kaune.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209620
-
-- id: c-192241
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 46"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 46."
-  citata_originali: |
-    Tai maž-daug ir
-    viskas ką galima pasakyti apie Kauno miestui
-    padarytas eibes.
-    Kauno militarės valdžios j-
-    sileidusios delegatus miestan, nedarė jiems jo­
-    kių kliūčių.
-    Palikta jiems visiška susižinoji­
-    mo ir susinešimo laisvė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209621
-
-- id: c-192242
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 64"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 64."
-  citata_originali: |
-    Kauno miesto galva yra vokietys Bušeli.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209622
-
-- id: c-192243
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 64"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 64."
-  citata_originali: |
-    Kauno mokyklų
-    direktoriumi
-    yra vokietys Ritter.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209623
-
-- id: c-192244
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 71"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 71."
-  citata_originali: |
-    Kauną atradau išpuoš­
-    tą, tik žinoma ne mano priėmimui, bet kaize­
-    rio Wilhelmo, kuris turėjo tą pat dieną atvyk­
-    ti Kaunan.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209624
-
-- id: c-193250
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 62"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 62."
-  citata_originali: |
-    Vokiečiai tąjį etmoną pralenkė, Kauno pilį apgulė ir
-    iš didelių patrankų visą sudaužė,
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210354
-
-- id: c-193430
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 210"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 210."
-  citata_originali: |
-    Kaunas pirmą kartą kryžiuočių buvo puolamas 1362 m., tai­
-    gi Jau po Gedimino mirties. Spėjama, kad Lietuvos metraščių PS ir
-    BK pasakojime apie Kauno apgulimą ir Kauno gynėją Gedimino
-    etmoną Goštautą
-    atsispindi Goštautų giminės tradicija, sujungusi
-    tikrus Istorinius (vykius — 1362 m. Kauno Ir 1364 m. Veliuonos gy­
-    nimą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211154
-
-- id: c-195721
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 489"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
-  citata_originali: |
-    Si moneta yra senesnė už mūsų
-    turimą.
-    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta ir
-    daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau nuken­
-    tėjusios). Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
-    kokia neaiški raidė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196229
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 484"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 484."
-  citata_originali: |
-    Kai 1818 metais Kaune buvo statoma mui­
-    tinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio
-    muro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-
-    lokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą
-    bronzinę apie šešių colių aukščio statulėlę
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215037
-
-- id: c-197127
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 492"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
-  citata_originali: |
-    Kaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto se­
-    noviniu būdu ir iš senovinių ¡.medžiagų, griuvėsiai. Pasakojama,
-    jog tai būta lietuvių dievui Perkūnui skirtos šventovės
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214917
-
-- id: c-198011
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 366"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
-  citata_originali: |
-    Šiuo atveju, kadangi tokių atsitikimų dažniausiai
-    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
-    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
-    sako, kad tai būdavo daroma niekam nematant. Vieną tokį
-    laužą pats mačiau kairiajame Nemuno krante, prie kelio iš
-    Kauno į Prienus, važiuodamas per Išlaužą. Jis yra kairiojoje
-    kelio pusėje, pamiškėje, prie pat vieškelio; kiekvienas žmo­
-    gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
-    turi rūpestingai užmesti ant jo kokią nors šakelę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198258
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
-  citata_originali: |
-    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
-    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
-    čius. „Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną
-    atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
-    vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
-    raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
-    norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
-    išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
-    kirsti angą ir ją sutvirtinti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198915
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 308"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 308."
-  citata_originali: |
-    ypač liepinis buvo geras Kauno
-    apylinkėse, kol didžiulius tenykščius liepynus sunaikino šalį
-    ištikusi suirutė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220119
-
-- id: c-199850
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 157"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
-  citata_originali: |
-    Kitaip vadinosi Pizio.
-    Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
-    jau anksčiau matėme straipsnyje „Milda“, kad buvo tam tikra
-    rūšis kerėtojų, arba meilės deivės žynių, vadintų mildaunin-
-    kais, kurie padėdavo žmonėms meilės reikaluose. Be kitų ke­
-    rų, jie žinojo tam tikrą sparnuotą nykštuką, vadinamą Kauniu
-    (Kaunis); kerėtojo pasiųstas, jis užpuldavęs jaunuolius, neno­
-    rinčius pasiduoti meilės vilionėms, ir jų širdis užkrėsdaves mir­
-    tinais meilės nuodais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200812
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
-  citata_originali: |
-    Kaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto
-    senoviniu būdu ir iš senovinių medžiagų, griuvėsiai. Pasakoja­
-    ma, jog tai būta lietuvių dievui Perkūnui skirtos šventovės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217544
-
-- id: c-200878
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 252"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 252."
-  citata_originali: |
-    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta
-    ir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau
-    nukentėjusios). Vienoje pusėje - Gediminaičių herbas Stulpai ir
-    kažkokia neaiški raidė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218670
-
-- id: c-200935
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
-  citata_originali: |
-    Paimk juos ant savus sparnus,
-    Atnešk man juos sveiką tiktai,
-    Nenoriu aš brangių daiktų,
-    Gan man tavo apėmimo)*.
-    Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
-    no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
-    tęsėsi iki pat pilies, dabar virtusios griuvėsiais. Šią vietą iki šiol
-    vadina šilu, nors joje nematyti jokio medžio.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219529
-
-- id: c-206508
-  autorius: "Aldona Ruseckaitė"
-  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Garsioji Babickų šeima"
-  puslapiai: "p. 1110 (PDF 1111)"
-  indeksas: "Aldona Ruseckaitė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Garsioji Babickų šeima, p. 1110 (PDF 1111)."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
-    - t-225992
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Augustinas Voldemaras]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

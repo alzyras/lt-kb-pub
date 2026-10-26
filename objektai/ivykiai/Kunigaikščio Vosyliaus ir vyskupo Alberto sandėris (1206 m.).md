@@ -81,6 +81,5 @@ Sandėrio įkaitu Vosylius perleido vyskupui Albertui pusę Kuoknesės pilies ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

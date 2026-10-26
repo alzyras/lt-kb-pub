@@ -59,6 +59,5 @@ Afanasjevo parengtoje ir 1861 m. paskelbtoje knygoje Mamepuallbl OllH 2eo2pacfiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

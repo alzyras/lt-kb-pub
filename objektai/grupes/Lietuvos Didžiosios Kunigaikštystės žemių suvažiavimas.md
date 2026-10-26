@@ -97,7 +97,7 @@ Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186985
@@ -119,7 +119,7 @@ Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186986
@@ -141,6 +141,5 @@ Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

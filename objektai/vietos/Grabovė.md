@@ -105,7 +105,7 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-38496
@@ -131,6 +131,5 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

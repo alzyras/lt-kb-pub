@@ -55,6 +55,5 @@ Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų buvę nukauti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

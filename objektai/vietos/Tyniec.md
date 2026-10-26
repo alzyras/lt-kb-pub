@@ -73,6 +73,5 @@ Lenkijos (Tynieco). 80 Tyniecas 376 Tyszkiewicz J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

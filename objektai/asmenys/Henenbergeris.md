@@ -26,6 +26,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-48e172c904630b730ffd9fe1
+canonical_name: Henenbergeris
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Henenbergeris
+sameAs: []
+canonical_biography: 'Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išblyškusį senį pastėrusiomis akimis ir balta drobule apmuturiuota galva. Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu. Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:52:00+00:00","source_checked_at":"2026-09-19T12:52:00+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":["t-213038","t-218449","t-215904","t-219600","t-220020","t-212197","t-215238"],"featured_claims":[{"claim_id":"t-213038","text":"Narbutas nurodo, kad XV a. prūsų kronikininkas Henenbergeris pateikė daugiau jau neegzistuojančių Nemuno deltos šakų pavadinimų.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196614"]},{"claim_id":"t-218449","text":"Narbutas vertino, kad Henenbergeris, Hartknochas, Kojalavičius ir Škicas apšmeižė senovės lietuvius dėl tariamo žiaurumo ligoniams.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-201377"]},{"claim_id":"t-215904","text":"XV am žiaus prūsų kronikininkas Henenbergeris nurodo dar dau giau šiandien jau neegzistuojančių šakų: Akmenės, Szyrwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, Kallamppe, Taszargis, U Imis, Szloda.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196614"]},{"claim_id":"t-219600","text":"Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-199463"]},{"claim_id":"t-220020","text":"Pasak Henenbergerio tyrimų, turtingųjų namuose gedulas trukdavo keturias savaites, o samdytos raudotojos turėdavo nuolat apraudoti mirusįjį.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-198712"]},{"claim_id":"t-212197","text":"Narbutas Henenbergerį mini tarp kronikininkų, citavusių pirmojo Kulmo, arba Prūsijos, vyskupo Kristijono kroniką apie senovės Prūsiją.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196383"]},{"claim_id":"t-215238","text":"Narbutas remiasi Henenbergeriu kaip patvirtinimu, kad buvo sudinų gentis arba taip vadinta giminė.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-195685"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4598a180c54506f11ec70386","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Prūsų kronikininkas","context":"XV amžius; taip Henenbergerį apibūdina Teodoras Narbutas.","support_ids":["t-213038","c-196614"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213038","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196614","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"XV am­ žiaus prūsų kronikininkas Henenbergeris nurodo dar dau­ giau šiandien jau neegzistuojančių šakų: Akmenės, Szyr- winde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, Kallamppe, Taszargis, U Imis, Szloda. Visi šie pavadinimai lietuvių kalboje turi prasmę ir teikia didelių galimybių etimologiniams tyrimams. Pagrindinė kairioji vaga, atsi­ šakojusi prie Sancinės, vadinama Gilge, arba Gilia, tai reiškia gylį; žemiau, ties Būdveitų kaimu, jį išsišakoja į dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota; jos tik prie Dreiškių kaimo vėl susilieja į vieną."}],"status":"published","conflict_status":"clear"},{"trait_id":"d0cef2c85312f95aff098155","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Apšmeižė senovės lietuvius, priskirdamas jiems žiaurumą su ligoniais, bejėgiais, luošaisiais ir mirštančiaisiais","context":"Teodoro Narbuto vertinimas apie Henenbergerio, Škico, Hartknocho ir Kojalavičiaus pasakojimą apie senovės lietuvius; vertinimas pateiktas XIX a. istoriniame veikale apie senovę.","support_ids":["t-218449","c-201377"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218449","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201377","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Draugystės, svetingumo, santai­ kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­ baimingai tautai tikriausiai nebuvo tušti simboliai. Tad Ški­ cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se­ novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė­ giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta pagreitinti jų mirtį . Tuo nepatikės niekas, kas bent kiek pa- 13 13 Iš dalies tą darė herulai - tai pasakysime mūsų istorijos tęsiny­ je, - bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir ligos palaužtų senelių prašymu."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Henenbergeris – prūsų kronikininkas, kurį Narbutas mini tarp Kristijono, pirmojo Kulmo, arba Prūsijos, vyskupo, kroniką apie senovės Prūsiją citavusių autorių. Jo užrašai svarbūs Nemuno deltos istorijai: jis pateikė daugybės šiandien nebeegzistuojančių šakų pavadinimus, tarp jų Akmenės, Szyrwinde, Alt-Russe, Neyupe ir Gilijos. Narbutas taip pat rėmėsi Henenbergeriu teigdamas, kad egzistavo sudinų gentis arba taip vadinta giminė. Henenbergeris pasakojo, kad XVI amžiaus pabaigoje prie Rusnės, Sakininkų kaime, augusi didžiulė liepa, prie kurios žmonės slapta melsdavosi. Jo tyrimuose aprašyta ir turtingųjų namų gedulo tradicija: gedulas trukdavęs keturias savaites, o samdytos raudotojos nuolat apraudodavusios mirusįjį. Pateikti duomenys prieštarauja dėl Henenbergerio datavimo: vienur jis vadinamas XV amžiaus, kitur jo laikų liudytoju XVI amžiaus pabaigoje kronikininku.","sentences":[{"sentence_id":"s1","text":"Henenbergeris – prūsų kronikininkas, kurį Narbutas mini tarp Kristijono, pirmojo Kulmo, arba Prūsijos, vyskupo, kroniką apie senovės Prūsiją citavusių autorių.","support_ids":["t-212197","c-196383"]},{"sentence_id":"s2","text":"Jo užrašai svarbūs Nemuno deltos istorijai: jis pateikė daugybės šiandien nebeegzistuojančių šakų pavadinimus, tarp jų Akmenės, Szyrwinde, Alt-Russe, Neyupe ir Gilijos.","support_ids":["t-213038","c-196614"]},{"sentence_id":"s3","text":"Narbutas taip pat rėmėsi Henenbergeriu teigdamas, kad egzistavo sudinų gentis arba taip vadinta giminė.","support_ids":["t-215238","c-195685"]},{"sentence_id":"s4","text":"Henenbergeris pasakojo, kad XVI amžiaus pabaigoje prie Rusnės, Sakininkų kaime, augusi didžiulė liepa, prie kurios žmonės slapta melsdavosi.","support_ids":["t-219600","c-199463"]},{"sentence_id":"s5","text":"Pateikti duomenys prieštarauja dėl Henenbergerio datavimo: vienur jis vadinamas XV amžiaus, kitur jo laikų liudytoju XVI amžiaus pabaigoje kronikininku.","support_ids":["t-213038","c-196614","t-219600","c-199463"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta abiem nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo nebeegzistuojančias Nemuno deltos šakas ir pateikia visus išvardytus pavadinimus, įskaitant Giliją."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta šaltiniu, kuriame Narbutas Henenbergerį nurodo kaip sudinų genties ar giminės patvirtinimą."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo XVI amžiaus pabaigą, Sakininkų kaimą prie Rusnės, didžiulę liepą ir slaptą meldimąsi."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai pateikia nesuderinamus chronologinius teiginius: Henenbergeris vadinamas XV amžiaus kronikininku, tačiau kartu kalbama apie jo laikus XVI amžiaus pabaigoje."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-212197","c-196383"]},{"sentence_id":"s2","supported":true,"support_ids":["t-213038","c-196614"]},{"sentence_id":"s3","supported":true,"support_ids":["t-215238","c-195685"]},{"sentence_id":"s4","supported":true,"support_ids":["t-219600","c-199463"]},{"sentence_id":"s5","supported":true,"support_ids":["t-213038","c-196614","t-219600","c-199463"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":2}}'
 object_page_finisher: 'true'
@@ -39,13 +48,6 @@ object_page_seo_description: 'Henenbergeris – prūsų kronikininkas, kurį Nar
 object_page_seo_input_hash: 4d33d762063533f3963617b91bca7fb15fca9642c1c06e05bad2ee2960ef9e4e
 object_page_seo_generated_at: '2026-09-19T12:52:00+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-48e172c904630b730ffd9fe1"
-canonical_name: "Henenbergeris"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Henenbergeris"]
-sameAs: []
-canonical_biography: "Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išblyškusį senį pastėrusiomis akimis ir balta drobule apmuturiuota galva. Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu. Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi."
 ---
 # Henenbergeris
 
@@ -251,36 +253,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   pagrindžia:
     - c-173747
 
-<a id="claim-t-218311"></a>
-- t-218311
-  teiginys: "Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išblyškusį senį pastėrusiomis akimis ir balta drobule apmuturiuota galva."
-  atnaujinta: "2026-09-19 15:52"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-
-<a id="claim-t-219187"></a>
-- t-219187
-  teiginys: "Dar daugiau: Henenbergeris tikina, neva jis, keletą metų prieš parašydamas savąją Prūsijos kroniką (apie 1584 metus), pats matęs tokių senų vie naakių žmonių, ir tiems, kurie netikėjo upės šventumu, nieko neatsitikdavo, nors kiti, vos tik joje nusiprausę."
-  atnaujinta: "2026-09-19 15:52"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201350
-
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Narbutas nurodo, kad Henenbergeris ir Hartknochas vėliavos su nežinomų raidžių užrašu aprašymą perėmė iš Grunau.'
@@ -389,7 +361,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-172887
@@ -413,7 +385,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-172888
@@ -433,7 +405,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-172889
@@ -458,7 +430,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-172890
@@ -482,7 +454,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-172891
@@ -501,7 +473,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-173746
@@ -528,7 +500,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-173747
@@ -559,7 +531,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
     - t-011
 
@@ -581,7 +553,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-177101
@@ -609,142 +581,5 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
-
-- id: c-195685
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
-  citata_originali: |
-    Rytuose ji ribojosi su Sudar­
-    gą, pietuose — su jotvingių Polese, vakaruose — su Ga­
-    linda ir Barta, o šiaurėje — su Barta ir Nadruva.
-    1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
-    žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
-    spėjimas yra visiškai nepriimtinas. O tai, kad buvusi sudinų gentis
-    ar taip vadinta giminė, patvirtina Henenbergeris.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196383
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
-  citata_originali: |
-    Iš imperatoriaus Augusto valdy­
-    mo Romos valstybėje epochos išliko geografijos—istorijos
-    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
-    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
-    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
-    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
-    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
-    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
-    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
-    te, vėliau pavadintame Prūsija, stebėjimus. Mes panau­
-    dosime Hartknocho aprašytus padavimus, pridurdami ir
-    Luko Davido kronikos teiginius, kurių nežinojo anas au­
-    1 Lib.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198712
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
-  citata_originali: |
-    Erazmas Ste­
-    la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
-    kad laidojimo apeigų tvarka buvo labai senas, šventas daly­
-    kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­
-    vių genties tautos. Pasak Henenbergerio tyrimų, turtingųjų na­
-    muose gedulas trukdavo keturias savaites, per kurias negalėjo
-    būti jokio pasilinksminimo, o samdytos raudotojos privalėjo
-    nuolat verkti apraudodamos mirusiojo atminimą. Dainiai ge­
-    dulingomis raudomis apdainuodavo jo dorybes ir žymiausius
-    jo karo žygius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199463
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 239"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
-  citata_originali: |
-    LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
-    medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
-    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
-    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
-    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
-    meldžių papratimu slapčia ateidavo prie jos m elstis18.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201350
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
-  citata_originali: |
-    Mitologinė
-    šios upės ypatybė yra ta, kad teikiamos malonės ženklan ji sa­
-    vo gerbėjams užtemdydavo vieną akį. Dar daugiau: Henen-
-    bergeris tikina, neva jis, keletą metų prieš parašydamas savąją
-    Prūsijos kroniką (apie 1584 metus), pats matęs tokių senų vie­
-    naakių žmonių, ir tiems, kurie netikėjo upės šventumu, nieko
-    neatsitikdavo, nors kiti, vos tik joje nusiprausę, susilaukdavo
-    norėto luošumo. Pamenu, jog skandinavų mitologijoje yra Iš­
-    minties šaltinis, kuriame uosis Igdrasilis (arba Idrasibas) maiti­
-    na vieną savo šaknį.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219187
-
-- id: c-201377
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 359"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
-  citata_originali: |
-    Draugystės, svetingumo, santai­
-    kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
-    baimingai tautai tikriausiai nebuvo tušti simboliai. Tad Ški­
-    cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se­
-    novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė­
-    giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta
-    pagreitinti jų mirtį . Tuo nepatikės niekas, kas bent kiek pa- 13
-    13
-    Iš dalies tą darė herulai -  tai pasakysime mūsų istorijos tęsiny­
-    je, -  bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir
-    ligos palaužtų senelių prašymu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

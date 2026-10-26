@@ -64,22 +64,10 @@ Nenurodyta
   pagrindžia:
     - c-170812
 
-<a id="claim-t-218806"></a>
-- t-218806
-  teiginys: "Betgi žmonės, turintys geresnes galvas, leng vai išrado tai, ką mes vadiname proto religija. Tačiau jos lygis, visuomenėms tobulėjant, įvairiose tautose pasirodė esąs ki toks."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201292
-
-<a id="claim-t-218313"></a>
-- t-218313
+<a id="claim-t-188505"></a>
+- t-002
   teiginys: "Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,6 +81,8 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prigimtinė religija\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171395
 
 ## Citatos
 
@@ -114,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-171395
@@ -139,23 +129,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201292
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
-  citata_originali: |
-    Betgi žmonės, turintys geresnes galvas, leng­
-    vai išrado tai, ką mes vadiname proto religija. Tačiau jos lygis,
-    visuomenėms tobulėjant, įvairiose tautose pasirodė esąs ki­
-    toks.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218806
-
+  pagrindzia:
+    - t-002

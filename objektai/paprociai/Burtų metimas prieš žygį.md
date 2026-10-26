@@ -74,6 +74,5 @@ Lietuvių kariuomenės priekyje žygiavęs vyras, metęs burtus, paskelbė lauki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

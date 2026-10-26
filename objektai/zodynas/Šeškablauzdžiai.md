@@ -77,4 +77,3 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

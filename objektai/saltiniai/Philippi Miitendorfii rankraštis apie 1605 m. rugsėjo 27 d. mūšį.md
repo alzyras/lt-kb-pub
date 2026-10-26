@@ -88,6 +88,5 @@ Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

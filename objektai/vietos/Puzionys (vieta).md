@@ -28,22 +28,22 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Puzionys","Puzionys (vieta)"]
 sameAs: []
-place_authority: true
-historical_names: []
+canonical_biography: "Janiulytė, vardo nežino, iš Puzionių kaimo."
 ---
 # Puzionys (vieta)
 
 ## Santrauka
 
-Nenurodyta
+Janiulytė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ siejama su Puzionių kaimu, o autorė Ona Dapšytė-Kriukelienė nurodo nežinanti jos vardo.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214901
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Janiulytė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ siejama su Puzionių kaimu, o autorė Ona Dapšytė-Kriukelienė nurodo nežinanti jos vardo.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 182"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 182."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:45"

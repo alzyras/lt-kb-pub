@@ -68,6 +68,5 @@ Dar daugiau: jie suėmė mano bajorus be mano sutiki mo, kankino juos vandeniu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

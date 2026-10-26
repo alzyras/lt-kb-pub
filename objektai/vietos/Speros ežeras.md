@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-bd965c288591a7ec2c7c096d"
-canonical_name: "Speros ežeras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Speros ežeras"]
+entity_id: ent-bd965c288591a7ec2c7c096d
+canonical_name: Speros ežeras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Speros ežeras
 sameAs: []
-canonical_biography: "Pasak Strijkovskio, Speros ežeras buvo laikomas šventu ir garbinamas iki paskutinių stabmeldystės laikų."
-place_authority: true
-historical_names: []
+canonical_biography: 'Pasak Strijkovskio, Speros ežeras buvo laikomas šventu ir garbinamas iki paskutinių stabmeldystės laikų.'
 ---
 # Speros ežeras
 
@@ -65,6 +65,5 @@ Pasak Strijkovskio, Speros ežeras buvo laikomas šventu ir garbinamas iki pasku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -85,6 +85,5 @@ canonical_biography: "23 Paveldėtojų parduodamų Svečių na­ mų pardavimo k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

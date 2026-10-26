@@ -92,7 +92,7 @@ canonical_biography: "„Po daugelio garsių ir laimingų kovų su netikėliais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167158
@@ -113,6 +113,5 @@ canonical_biography: "„Po daugelio garsių ir laimingų kovų su netikėliais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -70,6 +70,5 @@ Sūduviai ir kitos kaimyninės gentys įsiveržė į Galindos žemę ir išsivar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

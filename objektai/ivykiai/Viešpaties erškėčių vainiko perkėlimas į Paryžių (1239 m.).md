@@ -83,16 +83,6 @@ Nenurodyta
   pagrindžia:
     - c-63216
 
-<a id="claim-t-224458"></a>
-- t-224458
-  teiginys: "1239 m. Liudvikas, Prancūzijos karalius, perkėlė viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
 ## Citatos
 
 - id: c-63216
@@ -115,7 +105,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

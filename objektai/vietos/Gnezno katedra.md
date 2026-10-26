@@ -81,6 +81,5 @@ Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

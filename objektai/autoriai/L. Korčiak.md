@@ -75,6 +75,5 @@ L. Korčiak skeptiškai vertino bandymus šiose sueigose įžvelgti sritinės ba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

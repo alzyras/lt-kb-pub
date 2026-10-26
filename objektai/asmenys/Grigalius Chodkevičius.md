@@ -8,8 +8,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
   - karvedys
+  - asmuo
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -28,20 +28,20 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Grigalius Chodkevičius"]
 sameAs: []
-canonical_biography: "Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buvo Lietuvos lauko, vėliau didysis etmonas, 1564 m. kartu su Mikalojumi Radvila Ruduoju laimėjo Ulos mūšį, o Zabludove įsteigė slavišką spaustuvę."
+canonical_biography: "Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų."
 ---
 # Grigalius Chodkevičius
 
 ## Santrauka
 
-Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buvo Lietuvos lauko, vėliau didysis etmonas, 1564 m. kartu su Mikalojumi Radvila Ruduoju laimėjo Ulos mūšį, o Zabludove įsteigė slavišką spaustuvę.
+Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.
 
 ## Teiginiai
 
 <a id="claim-t-40125"></a>
 - t-001
   teiginys: "Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių."
-  atnaujinta: "2026-09-22 01:44"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -58,7 +58,7 @@ Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buv
 <a id="claim-t-184710"></a>
 - t-002
   teiginys: "Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius."
-  atnaujinta: "2026-09-22 01:44"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,24 +74,30 @@ Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buv
   pagrindžia:
     - c-168071
 
-## Šaltiniai
-
-- [VLE: Grigalius Chodkevičius](https://www.vle.lt/straipsnis/grigalius-chodkevicius/)
-- [VLE: Chodkevičiai](https://www.vle.lt/straipsnis/chodkeviciai/)
-
-## Šeima
-
-- [[objektai/asmenys/Aleksandras Chodkevičius (1475-1549)|Aleksandras Chodkevičius (1475–1549)]]
-- [[objektai/asmenys/Aleksandras Chodkevičius (mirė 1578 m.)|Aleksandras Chodkevičius (mirė 1578 m.)]]
-- [[objektai/asmenys/Andrius Chodkevičius (1549–1575)|Andrius Chodkevičius (1549–1575)]]
-
-[[objektai/grupes/Chodkevičiai|Chodkevičiai]] · [[straipsniai/chodkeviciai-etmonai-miestai-ir-spaustuves|Giminės narių registras ir istorija]]
-
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Grigalius Chodkevičius raštu paliudijo, kad Bogdanas Senkavičius pats ir už brolį atvyko į karo tarnybą bei įsirašė į vėliavininko sąrašą.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Iš 1568 m. Žygimanto Augusto rašto dvarioniui Bogušui Ovsianui sužinome, kad
+    bajoro Bogdano Senkavičiaus žmona skundėsi, kad jų Skorobovo dvarelį su valdiniais,
+    pastatais ir viskuo, kas jame buvo, minėtas B. Ovsianas prijungė prie valdovo Cerinio
+    dvaro, nurodydamas priežastį, kad dvarelio savininko brolis, kuris neturi atsidalijęs
+    savo dalies, nestojo į karo tarnybą. Valdovui buvo pateiktas didžiojo etmono Grigo
+    Chodkevičiaus raštas, kuriuo jis paliudijo, kad konfiskuoto Skorobovo dvarelio savi-
+    ninkas Bogdanas Senkavičius pats už save ir už brolį atvyko į karo tarnybą, įsirašė į
+    vėliavininko sąrašą ir yra didžiojo etmono kariuomenėje, rašė, kad pas jį [G. Chodkevi-
+    čių] buvo atvažiavusi nuskriaustojo žmona ir prašė padarytą didelę skriaudą atlyginti ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-44337
   sudarytojas: "Karolis Zikaras"
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   puslapiai: "PDF 88"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
@@ -113,13 +119,13 @@ Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buv
     gaminti Niunberge meistro
     Kunzo Lochnerio, XVI a.
     6 dešimtmetyje
-  citata_rodoma: "buvo geriausi kariai, kuriuos tuo metu\nbuvo galima surinkti. Greta didžiojo\netmono M. Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų.\n\nŽygimanto Augusto\nparadiniai šarvai, pa-\n\ngaminti Niunberge meistro\nKunzo Lochnerio, XVI a.\n6 dešimtmetyje"
+  citata_rodoma: "Greta didžiojo\netmono M. Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų.\n\nŽygimanto Augusto\nparadiniai šarvai, pa-\n\ngaminti Niunberge meistro\nKunzo Lochnerio, XVI a."
   statusas: verified
-  atnaujinta: "2026-09-22 01:29"
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168071
@@ -140,33 +146,9 @@ Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buv
     jog santuoka esanti neteisėta, nes negalima, girdi,
     vesti mirusios žmonos sesers.
   statusas: verified
-  atnaujinta: "2026-09-22 01:29"
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-206374
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 181"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 181."
-  citata_originali: |
-    Iš 1568 m. Žygimanto Augusto rašto dvarioniui Bogušui Ovsianui sužinome, kad
-    bajoro Bogdano Senkavičiaus žmona skundėsi, kad jų Skorobovo dvarelį su valdiniais,
-    pastatais ir viskuo, kas jame buvo, minėtas B. Ovsianas prijungė prie valdovo Cerinio
-    dvaro, nurodydamas priežastį, kad dvarelio savininko brolis, kuris neturi atsidalijęs
-    savo dalies, nestojo į karo tarnybą. Valdovui buvo pateiktas didžiojo etmono Grigo
-    Chodkevičiaus raštas, kuriuo jis paliudijo, kad konfiskuoto Skorobovo dvarelio savi-
-    ninkas Bogdanas Senkavičius pats už save ir už brolį atvyko į karo tarnybą, įsirašė į
-    vėliavininko sąrašą ir yra didžiojo etmono kariuomenėje, rašė, kad pas jį [G. Chodkevi-
-    čių] buvo atvažiavusi nuskriaustojo žmona ir prašė padarytą didelę skriaudą atlyginti ir
-  citata_rodoma: "Iš 1568 m. Žygimanto Augusto rašto dvarioniui Bogušui Ovsianui sužinome, kad\nbajoro Bogdano Senkavičiaus žmona skundėsi, kad jų Skorobovo dvarelį su valdiniais,\npastatais ir viskuo, kas jame buvo, minėtas B. Ovsianas prijungė prie valdovo Cerinio\ndvaro, nurodydamas priežastį, kad dvarelio savininko brolis, kuris neturi atsidalijęs\nsavo dalies, nestojo į karo tarnybą. Valdovui buvo pateiktas didžiojo etmono Grigo\nChodkevičiaus raštas, kuriuo jis paliudijo, kad konfiskuoto Skorobovo dvarelio savi-\nninkas Bogdanas Senkavičius pats už save ir už brolį atvyko į karo tarnybą, įsirašė į\nvėliavininko sąrašą ir yra didžiojo etmono kariuomenėje, rašė, kad pas jį [G. Chodkevi-\nčių] buvo atvažiavusi nuskriaustojo žmona ir prašė padarytą didelę skriaudą atlyginti ir"
-  statusas: verified
-  atnaujinta: "2026-09-22 01:29"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

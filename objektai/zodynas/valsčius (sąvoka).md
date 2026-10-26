@@ -71,7 +71,7 @@ Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas
 <a id="claim-t-225100"></a>
 - t-225100
   teiginys: "Sklunijos valsčiaus vyrai grąžino Karaliaučiaus broliams pagrobtus arklius."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

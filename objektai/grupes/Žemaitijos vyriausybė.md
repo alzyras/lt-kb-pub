@@ -66,6 +66,5 @@ Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė kon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

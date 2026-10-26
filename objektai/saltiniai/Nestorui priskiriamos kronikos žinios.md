@@ -57,6 +57,5 @@ Narbutas nurodo, kad Nestoro pateiktos žinios patvirtina senus ir didelius skan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

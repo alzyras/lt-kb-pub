@@ -34,6 +34,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-3c1562764430ae0e01e9bb29
+canonical_name: Europa
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Europa
+sameAs: []
+canonical_biography: 'Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Europa","url":"https://lt.wikipedia.org/wiki/Europa","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Europa","url":"https://www.vle.lt/straipsnis/europa/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Europa – Wikipedia","url":"https://de.wikipedia.org/wiki/Europa","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:57:42+00:00","source_checked_at":"2026-09-19T09:57:42+00:00","counts":{"relations":9,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Europa – viena iš pasaulio dalių, kartu su Azija sudaranti Eurazijos žemyną. Europos plotas − 10,1 milijono kvadratinių kilometrų, ji užima 1/15-ąją visos pasaulio sausumos teritorijos. Europoje gyvena apie 747 milijonai žmonių (trečiasis pagal gyventojų skaičių žemynas). Europa taip pat dažnai vadinama „Senuoju žemynu“ priešpriešinant su „Naujuoju žemynu“ (Amerika).","infobox":[{"code":"row_1","label":"","value":"Europa","cells":[{"text":"Europa","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"Plotas","value":"10 180 000 km²","cells":[{"text":"Plotas","header":true,"colspan":1,"rowspan":1},{"text":"10 180 000 km²","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Gyventojų","value":"746 419 440 (2018)","cells":[{"text":"Gyventojų","header":true,"colspan":1,"rowspan":1},{"text":"746 419 440 (2018)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Tankumas","value":"72,9 žm./km²","cells":[{"text":"Tankumas","header":true,"colspan":1,"rowspan":1},{"text":"72,9 žm./km²","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Valstybės","value":"apie 40","cells":[{"text":"Valstybės","header":true,"colspan":1,"rowspan":1},{"text":"apie 40","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"BVP (PPP)","value":"29,01 trln. JAV dol. (2019)","cells":[{"text":"BVP (PPP)","header":true,"colspan":1,"rowspan":1},{"text":"29,01 trln. JAV dol. (2019)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"BVP (nominalus)","value":"21,79 trln. JAV dol. (2019)","cells":[{"text":"BVP (nominalus)","header":true,"colspan":1,"rowspan":1},{"text":"21,79 trln. JAV dol. (2019)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"BVP gyventojui","value":"29 410 JAV dol.","cells":[{"text":"BVP gyventojui","header":true,"colspan":1,"rowspan":1},{"text":"29 410 JAV dol.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Kalbos","value":"indoeuropiečių\nfinougrų\nsemitų\nbaskų\ntiurkų\nKaukazo\nmongolų","cells":[{"text":"Kalbos","header":true,"colspan":1,"rowspan":1},{"text":"indoeuropiečių\nfinougrų\nsemitų\nbaskų\ntiurkų\nKaukazo\nmongolų","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"Laiko juostos","value":"nuo UTC±0 iki UTC+5","cells":[{"text":"Laiko juostos","header":true,"colspan":1,"rowspan":1},{"text":"nuo UTC±0 iki UTC+5","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"9","revision_id":"7909692","status":"published","translation_status":"native","source":{"title":"Europa","url":"https://lt.wikipedia.org/wiki/Europa","publisher":"Vikipedija","language":"lt","article_id":"9","revision_id":"7909692","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7909692","history_url":"https://lt.wikipedia.org/w/index.php?title=Europa&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:11.747131+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"0dd1c159396001578da599ce4692ca62aa08ddd482fc71dd09c7f2e89aa09409","version_pk":"520ab16515abef7c185ffde37722ac89"}},"source_buttons":[{"label":"Vikipedija","title":"Europa","url":"https://lt.wikipedia.org/wiki/Europa","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Europa","url":"https://www.vle.lt/straipsnis/europa/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Europa","https://www.vle.lt/straipsnis/europa/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8add310189b5f83af3f2b6b8","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Palyginti su Azija ir Afrika, vėliau apgyvendinta ir civilizuota.","context":"Teodoras Narbutas teigia, kad Europa, palyginti su Azija ir Afrika, buvo vėliau apgyvendinta ir civilizuota (1995 m.).","support_ids":["t-213665","c-196063"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213665","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196063","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Europa palyginti su Azija ir Afrika yra naujasis pa­ saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau civilizuotas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-20943","confidence":0.88},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Samojedai","claim_id":"t-216628","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Snorro Sturleson","claim_id":"t-87576","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Persai","claim_id":"t-213138","confidence":0.9},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-117889","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-183337","confidence":0.91},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Bailamberas","claim_id":"t-215340","confidence":0.76},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Hunai","claim_id":"t-215340","confidence":0.92},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-05290","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
 object_page_finisher: 'true'
@@ -47,15 +58,6 @@ object_page_seo_description: 'Europa: Kartu jis atsuko į Europą jos politinį 
 object_page_seo_input_hash: 1aaee783e2d4f0a974cfb63bc748601d56e2776b5a539b85ab704d14dc7243a5
 object_page_seo_generated_at: '2026-09-19T09:57:42+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-3c1562764430ae0e01e9bb29"
-canonical_name: "Europa"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Europa"]
-sameAs: ["https://www.wikidata.org/entity/Q46"]
-canonical_biography: "Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą."
-place_authority: true
-historical_names: []
 ---
 # Europa
 
@@ -248,72 +250,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-184122
 
-<a id="claim-t-213665"></a>
-- t-213665
-  teiginys: "Narbutas teigia, kad Europa, palyginti su Azija ir Afrika, buvo vėliau apgyvendinta ir civilizuota."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196063
-
-<a id="claim-t-214764"></a>
-- t-214764
-  teiginys: "Narbutas Europą, palyginti su Azija ir Afrika, vadino naujesniu ir vėliau apgyvendintu bei civilizuotu žemynu."
-  atnaujinta: "2026-09-19 12:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Afrika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Afrika: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europa\" parinktas kaip owner_note_path. Targetas \"Afrika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-196063
-
-<a id="claim-t-216981"></a>
-- t-216981
-  teiginys: "Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti."
-  atnaujinta: "2026-09-19 12:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Petras I Didysis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Petras I Didysis: mention_match, person, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europa\" parinktas kaip owner_note_path. Targetas \"Petras I Didysis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1725 m.; įvykio data: 2000 m.; įvykio data: apie 2000 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Vertinamasis Europos tautų apibūdinimas paliktas su Narbuto atribucija. Neplėsta jo civilizacinė priešprieša Azijai ir Afrikai."
-  pagrindžia:
-    - c-199551
-
-<a id="claim-t-218067"></a>
-- t-218067
-  teiginys: "Atviras, gyvas, aistringas, trokštantis lais vės protas; paprastumas, vaišingumas, noras išgarsėti savo iš radimais, pomėgis perimti svetimus dalykus ir iš to nenumal šinamas siekimas tobulėti - tokie buvo amžini Europos tautų bruožai, ypač pelazgų-helenų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200730
-
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Narbutas Perkūną apibūdino kaip senovės Europoje plačiai paplitusį dievą, dangaus ir žemės karalių bei gamtos valdovą.'
@@ -356,7 +292,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-37365
@@ -378,7 +314,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-006
 
@@ -430,7 +366,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -453,7 +389,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-101248
@@ -474,7 +410,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-171577
@@ -501,7 +437,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-175429
@@ -528,7 +464,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-176306
@@ -548,7 +484,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-184122
@@ -565,81 +501,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     juoti meno istoriją ne iš vadovėlių, o iš pačių meno šedevrų; jis gali tapti
     neišsemiamu estetinio jaunosios kartos auklėjimo šaltiniu.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
-
-- id: c-196063
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
-  citata_originali: |
-    Europa palyginti su Azija ir Afrika yra naujasis pa­
-    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
-    civilizuotas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213665
-    - t-214764
-
-- id: c-199551
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
-  citata_originali: |
-    Visa tai,
-    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
-    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
-    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
-    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
-    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
-    žyniai.
-    Pamąstykime dabar apie pražūtingas senovės tautų tiky­
-    bos klaidas, pradėdami nuo daugiadievystės išpažinimo.
-    Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
-    mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
-    kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
-    vai išrado tai, ką mes vadiname proto religija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216981
-
-- id: c-200730
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 80"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
-  citata_originali: |
-    Atviras, gyvas, aistringas, trokštantis lais­
-    vės protas; paprastumas, vaišingumas, noras išgarsėti savo iš­
-    radimais, pomėgis perimti svetimus dalykus ir iš to nenumal­
-    šinamas siekimas tobulėti - tokie buvo amžini Europos tautų
-    bruožai, ypač pelazgų-helenų genčių, kurių priekin išėjo grai­
-    kai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218067
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Persai]], [[objektai/asmenys/Snorro Sturleson]]

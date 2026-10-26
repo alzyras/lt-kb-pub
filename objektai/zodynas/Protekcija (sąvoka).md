@@ -60,6 +60,5 @@ Per jų protekciją nekratyta mano daiktų, nevežta manęs pas dakta rą, ir ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -62,6 +62,5 @@ Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

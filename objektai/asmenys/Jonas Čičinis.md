@@ -68,6 +68,5 @@ canonical_biography: "Štai 1544 m. Povilas Kosis už 40 grašių parsisamdė Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

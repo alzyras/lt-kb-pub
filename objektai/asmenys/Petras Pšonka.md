@@ -71,6 +71,5 @@ Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

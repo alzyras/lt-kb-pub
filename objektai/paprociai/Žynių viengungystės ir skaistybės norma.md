@@ -73,6 +73,5 @@ Narbutas teigia, kad kiekvienas žynys ir vaidilutė privalėjo likti viengungis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

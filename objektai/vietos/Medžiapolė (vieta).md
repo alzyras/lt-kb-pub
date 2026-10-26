@@ -71,6 +71,5 @@ Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

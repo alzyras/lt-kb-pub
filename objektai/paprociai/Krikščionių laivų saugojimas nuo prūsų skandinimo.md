@@ -70,6 +70,5 @@ Kronika nurodo, kad broliui Ulrichui su keliais broliais ir ginklanešiais buvo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

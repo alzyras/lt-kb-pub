@@ -78,6 +78,5 @@ canonical_biography: "1722 m. Elžbieta Pranckevičienė sukvietė žmones ir i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

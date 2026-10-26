@@ -52,6 +52,19 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-189820"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad per laidotuves išverktas ašaras rinkdavo į molinius ar stiklinius indelius ir statydavo kape prie mirusiojo kojų."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172703
+
 <a id="claim-t-189821"></a>
 - t-002
   teiginys: "Narbutas pastebėjo sudaužytų ašarinių liekanų, o kelių šukių vidus buvo dengtas tamsiai rudos spalvos glazūra."
@@ -65,22 +78,10 @@ Nenurodyta
   pagrindžia:
     - c-172704
 
-<a id="claim-t-197250"></a>
-- t-004
-  teiginys: "Turėjau tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys čio telpa tryliktoji lietuviškos kvortos dalis."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179086
-
-<a id="claim-t-216277"></a>
-- t-216277
+<a id="claim-t-189822"></a>
+- t-003
   teiginys: "Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,17 +95,20 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašarų rinkimas į ašarines ir jų dėjimas į kapą\" parinktas kaip owner_note_path. Targetas \"Sandara\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172705
 
-<a id="claim-t-219422"></a>
-- t-219422
-  teiginys: "Narbutas rašo, kad per laidotuves išverktas ašaras rinkdavo į molinius ar stiklinius indelius ir statydavo kape prie mirusiojo kojų."
-  atnaujinta: "2026-09-28 21:24"
+<a id="claim-t-197250"></a>
+- t-004
+  teiginys: "Turėjau tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys čio telpa tryliktoji lietuviškos kvortos dalis."
+  atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-179086
 
 ## Citatos
 
@@ -128,6 +132,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172704
   autorius: "Teodoras Narbutas"
@@ -149,7 +155,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-172705
@@ -172,6 +178,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-179086
   autorius: "Teodoras Narbutas"
@@ -193,50 +201,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-- id: c-198191
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
-  citata_originali: |
-    1820
-    metais mano kaimynas kaimietis, kasdamas duobę bulvėms,
-    aptiko seną kapą, kuriame šalia kelių sutrūnijusių žmonių kau­
-    lų rado keletą ypatingo pavidalo stiklinių buteliukų (žiūrėk V
-    lentelės 36-ąjį piešinį). Ant apskritimo, nulipdyto iš stiklo, storo
-    ir gana nedailaus, stovi ropelė iš šviesiai žalio, gana permato­
-    mo stiklo, jos kaklelis yra ovalaus piltuvėlio pavidalo. Turėjau
-    tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys­
-    čio telpa tryliktoji lietuviškos kvortos dalis.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199104
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
-  citata_originali: |
-    Radau keletą geležėlių, kurios man
-    atrodė esančios mažų sagtelių liekanos. Dar pastebėjau su­
-    daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­
-    siai rudos spalvos glazūra. Vienas kaimietis man pasakojo, kad
-    valdant karaliui Stanislovui Augustui, maždaug prieš 38 me­
-    tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar­
-    dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo­
-    linius dubenėlius, kurių seniau niekas nedrįsdavo judinti; vė­
-    liau smalsūs svečiai surinko ir šukes.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

@@ -80,19 +80,6 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   pagrindžia:
     - c-188314
 
-<a id="claim-t-207482"></a>
-- t-207482
-  teiginys: "Leonas, Alfredo Bumblausko pateikiamas kaip Haličo kunigaikštis ir Švarno brolis, negavęs Lietuvos sosto iš Vaišelgos, pasikvietė Vaišelgą į svečius ir nužudė Vaišelgą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190059
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Leonas, Alfredo Bumblausko pateikiamas kaip Haličo kunigaikštis ir Švarno brolis, negavęs Lietuvos sosto iš Vaišelgos, pasikvietė Vaišelgą į svečius ir nužudė Vaišelgą.'
@@ -128,7 +115,7 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188314
@@ -153,26 +140,5 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-190059
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 88"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 88."
-  citata_originali: |
-    Politiniu požiūriu Lietuvai tai buvo labai nenaudingas žingsnis.
-    Tačiau Vaišelga minėtinas ir kaip pirmas žmogus Lietuvoje, kuris, kaip teigė amžininkai,
-    iš žiauraus pagonio virto karštai tikinčiu krikščionimi. 1267 m. – Vaišelga Lietuvos sostą
-    perleido savo svainiui Haličo kunigaikščiui Švarnui, Haličo kunigaikštis Leonas (Švarno
-    brolis), negavęs Lietuvos sosto iš Vaišelgos, pasikvietė jį į svečius ir nužudė.
-  citata_rodoma: "1267 m. – Vaišelga Lietuvos sostą \nperleido savo svainiui Haličo kunigaikščiui Švarnui, Haličo kunigaikštis Leonas (Švarno \nbrolis), negavęs Lietuvos sosto iš Vaišelgos, pasikvietė jį į svečius ir nužudė."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207482
-

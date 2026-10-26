@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-1e885db1f48b715a147da2ad"
-canonical_name: "Stanislovas Petraitis Kiška"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Stanislovas Petraitis Kiška"]
+entity_id: ent-1e885db1f48b715a147da2ad
+canonical_name: Stanislovas Petraitis Kiška
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Stanislovas Petraitis Kiška
 sameAs: []
-canonical_biography: "O Smolensko vaivada tuo metu buvo ponas Stanislovas Petraitis, pramintas Kiška."
+canonical_biography: 'O Smolensko vaivada tuo metu buvo ponas Stanislovas Petraitis, pramintas Kiška.'
 ---
 # Stanislovas Petraitis Kiška
 
@@ -62,6 +64,5 @@ O Smolensko vaivada tuo metu buvo ponas Stanislovas Petraitis, pramintas Kiška.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

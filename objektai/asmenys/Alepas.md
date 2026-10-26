@@ -22,6 +22,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-be7cf3ffe79dfc0c36e4e886
+canonical_name: Alepas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Alepas
+  - Alepo
+  - Aleps
+sameAs: []
+canonical_biography: 'Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio atsivertimą į krikščionybę sieja su prūsų stabmeldystės lūžiu ir religinės sostinės perkėlimu į Lietuvą. Kadangi pasakojimas yra religinis ir vertinamasis, teiginiai pateikiami kaip Narbuto ar jo minimų kronikų vaizdinys.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:47:45+00:00","source_checked_at":"2026-09-20T13:47:45+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -35,13 +46,6 @@ object_page_seo_description: 'Alepas: Narbutas Alepą vaizduoja kaip paskutinį 
 object_page_seo_input_hash: a72adff551a0be7193cb0a7d38ce48521aa1a647e08344ff442a8ee66a446769
 object_page_seo_generated_at: '2026-09-20T13:47:45+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-be7cf3ffe79dfc0c36e4e886"
-canonical_name: "Alepas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Alepas","Alepo","Aleps"]
-sameAs: []
-canonical_biography: "Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio atsivertimą į krikščionybę sieja su prūsų stabmeldystės lūžiu ir religinės sostinės perkėlimu į Lietuvą. Kadangi pasakojimas yra religinis ir vertinamasis, teiginiai pateikiami kaip Narbuto ar jo minimų kronikų vaizdinys."
 ---
 # Alepas
 
@@ -202,6 +206,18 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   pagrindžia:
     - c-173530
 
+<a id="claim-t-197388"></a>
+- t-008
+  teiginys: "Alepas taikindavo dalinius kunigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo mokėti jam atlygį."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173529
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -280,7 +296,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
 
@@ -308,7 +324,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-170892
@@ -328,7 +344,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-170894
@@ -353,7 +369,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-006
 
@@ -379,6 +395,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-173530
   autorius: "Teodoras Narbutas"
@@ -400,28 +418,5 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
-
-- id: c-199157
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 431"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
-  citata_originali: |
-    Ma­
-    tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė
-    žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis
-    vyriausiųjų žynių eilėje. Žynių, anot Prūsijos kronikų, iki ga­
-    lutinio stabmeldystės žlugimo, arba iki vyriausiojo žynio Ale-
-    po, buvo 481 12; taigi nuo krikšto priėmimo datos, arba nuo 1265
-    iki 1414 metų, per 149 metus, jų buvo dar 23. Tą patvirtina
-    mūsų anksčiau pasakyti dalykai apie šio padavimo autentiš­
-    kumą (straipsnis „Žyniai“).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

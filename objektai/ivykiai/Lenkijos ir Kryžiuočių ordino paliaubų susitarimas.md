@@ -73,6 +73,5 @@ Paliaubų susitarimas numatė taikos laikotarpį tarp Prūsijos, Lietuvos ir Rus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

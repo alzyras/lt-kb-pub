@@ -60,6 +60,5 @@ Danguje jos kaudavosi su Juodžiais (Jodsy), tai yra su piktosiomis dvasiomis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -79,6 +79,5 @@ canonical_biography: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

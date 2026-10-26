@@ -64,6 +64,5 @@ XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­ tyno Galio, kroni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

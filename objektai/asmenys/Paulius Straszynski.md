@@ -76,11 +76,9 @@ Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį liet
     nesigėdijo viešai bażnyčioje vadint lietuvius galvi­
     jais [„bydło” ] ir tam lygiais vardais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

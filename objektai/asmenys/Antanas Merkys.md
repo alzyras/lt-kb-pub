@@ -26,6 +26,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-0b55c8293d35c2566c7528c5
+canonical_name: Antanas Merkys
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Antanas Merkys
+sameAs: []
+canonical_biography: 'LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę. Merkį. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.'
 external_sources_json: '[{"title":"Antanas Merkys","url":"https://lt.wikipedia.org/wiki/Antanas_Merkys","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Antanas Merkys","url":"https://www.vle.lt/straipsnis/antanas-merkys/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:51:11+00:00","source_checked_at":"2026-09-20T13:51:11+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Antanas Merkys (1887 m. sausio 20 ar vasario 1 d. Bajoruose, Skapiškio valsčius – 1955 m. kovo 5 d. Malenkuose, Vladimiro sritis, palaidotas Petrašiūnų kapinėse) – teisininkas, politikas, paskutinis tarpukario Lietuvos Ministras pirmininkas.","infobox":[{"code":"row_1","label":"","value":"Antanas Merkys","cells":[{"text":"Antanas Merkys","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"Gimė","value":"1887 m. sausio 20 d.\nBajorai, Skapiškio valsčius","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1887 m. sausio 20 d.\nBajorai, Skapiškio valsčius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Mirė","value":"1955 m. kovo 5 d. (68 metai)\nMalenkai, Vladimiro sritis","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1955 m. kovo 5 d. (68 metai)\nMalenkai, Vladimiro sritis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Palaidotas (-a)","value":"Petrašiūnų kapinėse","cells":[{"text":"Palaidotas (-a)","header":true,"colspan":1,"rowspan":1},{"text":"Petrašiūnų kapinėse","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Tėvas","value":"Karolis Merkys","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Karolis Merkys","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Motina","value":"Ona Plukaitė-Merkienė","cells":[{"text":"Motina","header":true,"colspan":1,"rowspan":1},{"text":"Ona Plukaitė-Merkienė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Veikla","value":"teisininkas, politikas","cells":[{"text":"Veikla","header":true,"colspan":1,"rowspan":1},{"text":"teisininkas, politikas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Partija","value":"Lietuvių tautininkų sąjunga","cells":[{"text":"Partija","header":true,"colspan":1,"rowspan":1},{"text":"Lietuvių tautininkų sąjunga","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Alma mater","value":"1918 m. Kijevo universitetas","cells":[{"text":"Alma mater","header":true,"colspan":1,"rowspan":1},{"text":"1918 m. Kijevo universitetas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"Vikiteka","value":"Antanas Merkys","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Antanas Merkys","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"1510","revision_id":"7891230","status":"published","translation_status":"native","source":{"title":"Antanas Merkys","url":"https://lt.wikipedia.org/wiki/Antanas_Merkys","publisher":"Vikipedija","language":"lt","article_id":"1510","revision_id":"7891230","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7891230","history_url":"https://lt.wikipedia.org/w/index.php?title=Antanas_Merkys&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:05:56.754604+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"MediaWiki rendered HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"5e0d23e4a189338858fd49730a505de20f8e3a652f60f74ca84cb0e8e94dc72b","version_pk":"c43cd34556438fbbc68ede26658c81d2"}},"source_buttons":[{"label":"Vikipedija","title":"Antanas Merkys","url":"https://lt.wikipedia.org/wiki/Antanas_Merkys","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Antanas Merkys","url":"https://www.vle.lt/straipsnis/antanas-merkys/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Antanas_Merkys","https://www.vle.lt/straipsnis/antanas-merkys/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -39,13 +48,6 @@ object_page_seo_description: 'Antanas Merkys: LVLS ir LKDP nepareikalavo leisti 
 object_page_seo_input_hash: ba14b6854d1b0c6ee4bdb53b305c1b63285d1b58ed8a7586b8159a7f7086eb62
 object_page_seo_generated_at: '2026-09-20T13:51:11+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-0b55c8293d35c2566c7528c5"
-canonical_name: "Antanas Merkys"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Antanas Merkys"]
-sameAs: ["https://www.wikidata.org/entity/Q571011"]
-canonical_biography: "LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę. Merkį. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti."
 ---
 # Antanas Merkys
 
@@ -119,27 +121,6 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   pagrindžia:
     - c-154637
 
-<a id="claim-t-169958"></a>
-- t-169958
-  teiginys: "Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį."
-  atnaujinta: "2026-09-20 16:51"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Merkys: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Merkys\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia aiškiau nurodyti politinį kontekstą, neperžengiant jos ribų."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-154637
-    - c-154638
-
 ## Citatos
 
 - id: c-154635
@@ -159,7 +140,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-154637
@@ -180,9 +161,8 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-    - t-169958
 
 - id: c-154638
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -203,9 +183,6 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-169958
-
 - id: c-154639
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -225,7 +202,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-154640
@@ -247,6 +224,5 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

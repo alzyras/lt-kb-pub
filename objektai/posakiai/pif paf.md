@@ -81,6 +81,5 @@ O ko verta Vytauto Žalakevičiaus ir Almanto Grikevičiaus „Jausmų“ (1968)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

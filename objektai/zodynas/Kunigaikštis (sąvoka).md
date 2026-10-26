@@ -82,6 +82,5 @@ Senosios lietuviškos kronikos, kuriomis sekė Strij kovskis, neskyrė šių dvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

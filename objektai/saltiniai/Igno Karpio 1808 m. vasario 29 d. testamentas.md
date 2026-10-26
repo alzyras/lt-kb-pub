@@ -94,7 +94,7 @@ Igno Karpio 1808 m. vasario 29 d. testamentu apie 7000 jo dvarų valstiečių bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186332
@@ -116,7 +116,7 @@ Igno Karpio 1808 m. vasario 29 d. testamentu apie 7000 jo dvarų valstiečių bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186333
@@ -137,6 +137,5 @@ Igno Karpio 1808 m. vasario 29 d. testamentu apie 7000 jo dvarų valstiečių bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

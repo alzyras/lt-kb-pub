@@ -98,7 +98,6 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-178027
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -112,7 +111,7 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185988
@@ -131,6 +130,5 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

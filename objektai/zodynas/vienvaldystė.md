@@ -67,6 +67,5 @@ Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

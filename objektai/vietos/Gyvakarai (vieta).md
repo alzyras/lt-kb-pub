@@ -7,6 +7,7 @@ variantai:
 aliases:
   - 'Gyvakarai'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1953 m.'
@@ -44,10 +45,6 @@ historical_names: []
 
 Smėlio ir žvyro plotai apie Salamiestį siaurais ruožais tęsiasi pietryčių kryptimi pro Gyvakarų kaimą iki Kupiškio. Manoma, kad glaciokarstinių dubų grandinė tęsiasi tarp Laičių ir Gyvakarų kaimų. 1953 m. balandžio 13 d. Gyvakarų kaime žuvo partizanas Kostas Bielskis ir jo žmona Ona Skardžiūtė.
 
-## Santrauka
-
-Smėlio ir žvyro plotai apie Salamiestį siaurais ruožais tęsiasi pietryčių kryptimi pro Gyvakarų kaimą iki Kupiškio. Manoma, kad glaciokarstinių dubų grandinė tęsiasi tarp Laičių ir Gyvakarų kaimų. 1953 m. balandžio 13 d. Gyvakarų kaime žuvo partizanas Kostas Bielskis ir jo žmona Ona Skardžiūtė.
-
 ## Teiginiai
 
 <a id="claim-t-226207"></a>
@@ -71,7 +68,6 @@ Smėlio ir žvyro plotai apie Salamiestį siaurais ruožais tęsiasi pietryčių
   santrauka: 'Smėlio ir žvyro ruožai nuo Salamiestio tęsiasi pro Gyvakarų kaimą iki Kupiškio.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 13 (PDF 14)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 13 (PDF 14)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,7 +79,6 @@ Smėlio ir žvyro plotai apie Salamiestį siaurais ruožais tęsiasi pietryčių
   santrauka: 'Manoma, kad glaciokarstinių dubų grandinė tęsiasi tarp Laičių ir Gyvakarų kaimų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 13 (PDF 14)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 13 (PDF 14)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,6 +86,15 @@ Smėlio ir žvyro plotai apie Salamiestį siaurais ruožais tęsiasi pietryčių
   statusas: verified
 - t-004
 
+- c-004
+  santrauka: '1953 m. balandžio 6 d. Gyvakarų kaime, Kupiškio rajone, žuvo žmogus.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 146"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-206723
@@ -102,6 +106,5 @@ Smėlio ir žvyro plotai apie Salamiestį siaurais ruožais tęsiasi pietryčių
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

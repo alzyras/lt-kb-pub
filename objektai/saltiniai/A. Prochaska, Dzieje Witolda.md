@@ -72,6 +72,5 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

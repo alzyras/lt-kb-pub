@@ -2,7 +2,7 @@ import path from "path"
 import { randomUUID } from "node:crypto"
 import fs from "fs"
 import { BuildCtx } from "../../util/ctx"
-import { FilePath, FullSlug, joinSegments } from "../../util/path"
+import { FilePath, FullSlug } from "../../util/path"
 import { Readable } from "stream"
 
 type WriteOptions = {
@@ -35,11 +35,10 @@ export const write = async ({ ctx, slug, ext, content }: WriteOptions): Promise<
   // because static hosts conventionally require those exact names.
   const usePrettyHtmlPath =
     ext === ".html" && slug !== "index" && slug !== "404" && !slug.endsWith("/index")
-  const pathToPage = (
-    usePrettyHtmlPath
-      ? joinSegments(ctx.argv.output, slug, "index.html")
-      : joinSegments(ctx.argv.output, slug + ext)
-  ) as FilePath
+  const routeSegments = usePrettyHtmlPath
+    ? [...slug.split("/"), "index.html"]
+    : `${slug}${ext}`.split("/")
+  const pathToPage = path.join(ctx.argv.output, ...routeSegments) as FilePath
   const dir = path.dirname(pathToPage)
   const outputContent =
     usePrettyHtmlPath && (typeof content === "string" || Buffer.isBuffer(content))

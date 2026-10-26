@@ -81,6 +81,5 @@ Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

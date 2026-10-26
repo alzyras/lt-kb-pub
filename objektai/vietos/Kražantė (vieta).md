@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8aa4632c29ae392509b537ab"
-canonical_name: "Kražantė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kražantė","Kražantė (vieta)"]
+entity_id: ent-8aa4632c29ae392509b537ab
+canonical_name: Kražantė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kražantė
+  - Kražantė (vieta)
 sameAs: []
-canonical_biography: "Medziojnos šventykla šaltinyje lokalizuojama Kražantės upės kairiajame krante prie Kražių."
-place_authority: true
-historical_names: []
+canonical_biography: Medziojnos šventykla šaltinyje lokalizuojama Kražantės upės kairiajame krante prie Kražių.
 ---
 # Kražantė (vieta)
 
@@ -69,6 +70,5 @@ Medziojnos šventykla šaltinyje lokalizuojama Kražantės upės kairiajame kran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

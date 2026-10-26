@@ -57,6 +57,5 @@ Be to, neretai istori kas daro ir tokią „pasibaisėtiną“ klaidą, kad gro�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

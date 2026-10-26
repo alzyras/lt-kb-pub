@@ -72,6 +72,5 @@ Ulrichas iš Drinlevės ir Fridrichas Kvicas išardė tiltą, nukovė 55 lietuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

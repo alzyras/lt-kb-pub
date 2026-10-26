@@ -79,6 +79,5 @@ canonical_biography: "1741 m. Eleonora Zagurska skundė Antaną ir Oną Jezersku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

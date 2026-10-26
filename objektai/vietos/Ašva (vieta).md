@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-1e71199448a74d9f9378d27a"
-canonical_name: "Ašva (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ašva","Ašva (vieta)"]
+entity_id: ent-1e71199448a74d9f9378d27a
+canonical_name: Ašva (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ašva
+  - Ašva (vieta)
 sameAs: []
-canonical_biography: "Antroji šiandien vadinama Ašva; ji prasideda taip pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir žą ties Loišės pasienio smukle."
-place_authority: true
-historical_names: []
+canonical_biography: 'Antroji šiandien vadinama Ašva; ji prasideda taip pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir žą ties Loišės pasienio smukle.'
 ---
 # Ašva (vieta)
 
@@ -72,6 +73,5 @@ Antroji šiandien vadinama Ašva; ji prasideda taip pat Raseinių apskrityje, pl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

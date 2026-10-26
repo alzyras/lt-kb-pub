@@ -58,6 +58,5 @@ Ant tos šventės turėjo gaspadoriąi savo šeimyną nuvaišinti ir susibarusie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

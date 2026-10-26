@@ -86,6 +86,5 @@ Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvyki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

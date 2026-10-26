@@ -65,10 +65,10 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
   pagrindžia:
     - c-171822
 
-<a id="claim-t-216428"></a>
-- t-216428
+<a id="claim-t-188934"></a>
+- t-002
   teiginys: "Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,6 +82,8 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druskininkų pilkapynas\" parinktas kaip owner_note_path. Targetas \"Druskininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171823
 
 ## Citatos
 
@@ -108,7 +110,7 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-171823
@@ -134,29 +136,5 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198187
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 374"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
-  citata_originali: |
-    Senoviniuose kapuose su kaulais randama me­
-    talinių daiktų, amato įrankių, šarvų, šalmų, kalavijų, pinigų.
-    Gardino apskrityje^ prie Druskininkų kaimo, žinomo gydomojo
-    vandens šaltiniais , netoli nuo Nemuno, mačiau platų, dau­
-    giau kaip margo dydžio pilkapyną, vėjams nu pusčius smėlį,
-    beveik visiškai atvirą; kaimiečiai tuos kapus priskiria stabmel­
-    dystės laikams; pasakoja, kad, prie skeletų būdavo randama
-    labai senų pinigų ir visokių metalo gabalų. 1826 metais turė­
-    jau progą apžiūrėti šį lauką, nusėtą žmonių kaulais: visi kapai
-    išblaškyti, maža tokių, kuriuose būtų buvę galima įžiūrėti ko­
-    kią nors skeleto sandarą, bet pastebėjau, kad visi guli galvo­
-    mis į vakarus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

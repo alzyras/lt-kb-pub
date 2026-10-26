@@ -79,6 +79,5 @@ Pasak Teodoro Narbuto, popiežius Klemensas IV pritarė Čekijos karaliaus Otoka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

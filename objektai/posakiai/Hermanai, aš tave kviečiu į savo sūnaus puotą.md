@@ -80,7 +80,6 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

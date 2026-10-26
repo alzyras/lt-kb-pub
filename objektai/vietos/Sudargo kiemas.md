@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-c858221ac4b8f70cb0f3b46f"
-canonical_name: "Sudargo kiemas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sudargo kiemas"]
+entity_id: ent-c858221ac4b8f70cb0f3b46f
+canonical_name: Sudargo kiemas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sudargo kiemas
 sameAs: []
-canonical_biography: "1317 metais brolis Albrechtas iš Hageno užpuolė Sudargo kiemą ir sudegino jį kartu su aplinkiniais kaimais."
-place_authority: true
-historical_names: []
+canonical_biography: 1317 metais brolis Albrechtas iš Hageno užpuolė Sudargo kiemą ir sudegino jį kartu su aplinkiniais kaimais.
 ---
 # Sudargo kiemas
 
@@ -72,6 +72,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

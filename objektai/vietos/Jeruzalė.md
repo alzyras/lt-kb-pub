@@ -31,6 +31,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-faae38a780a74b02627a6255
+canonical_name: Jeruzalė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Jeruzalė
+sameAs: []
+canonical_biography: 'Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Jeruzalė","url":"https://lt.wikipedia.org/wiki/Jeruzal%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:44:57+00:00","source_checked_at":"2026-09-19T14:44:57+00:00","counts":{"relations":9,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Jeruzalė (hebr. ‏יְרוּשָׁלַיִם‏‎ = Yerushaláyim, arab. القدس = al-Quds) – senas Artimųjų Rytų miestas, laikomas šventu krikščionybėje, judaizme ir islame. Miesto statusas ginčytinas: ir Izraelis, ir Palestina laiko Jeruzalę savo sostine. Vis dėlto Izraelis kontroliuoja visą miestą ir yra paskelbęs Jeruzalę savo nedaloma sostine, tačiau didžioji dalis tarptautinės bendruomenės to nepripažįsta. Knesetas, prezidentas ir vyriausybė reziduoja Vakarų Jeruzalėje.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"7629","revision_id":"7881814","status":"published","translation_status":"native","source":{"title":"Jeruzalė","url":"https://lt.wikipedia.org/wiki/Jeruzal%C4%97","publisher":"Vikipedija","language":"lt","article_id":"7629","revision_id":"7881814","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7881814","history_url":"https://lt.wikipedia.org/w/index.php?title=Jeruzal%C4%97&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:37.485923+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"c7ef3e0c62bf6a0fe287f6cd468db9bde8655eadbf401005900f4c6e3ee138da","version_pk":"90c3e407b30997f7925cdd02d17febe3"}},"source_buttons":[{"label":"Vikipedija","title":"Jeruzalė","url":"https://lt.wikipedia.org/wiki/Jeruzal%C4%97","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Jeruzal%C4%97"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f81ed0a4c44d59b06fe5f78d","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Jeruzalėje įkurta ir pašventinta Švč. Marijos Teutonų ordino vienuolių ligoninė.","context":"Petras Dusburgietis kronikoje teigia, kad popiežius Celestinas III Jeruzalėje įkūrė ir pašventino ligoninę; šaltinis tai datuoja Celestino III veiklos laikotarpiu.","support_ids":["t-222775","c-201786"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222775","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201786","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus, būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos ir Armėnijos152, kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo šulai, o kiti broliai—sienos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d7299a8b70bc0a838f695e27","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Jeruzalėje įkurta ligoninė buvo skirta pavargėliams bei paliegėliams slaugyti.","context":"Petras Dusburgietis aprašo popiežiaus patvirtintą Jeruzalės ligoninės brolių ordiną ir nurodo jo paskirtį slaugyti pavargėlius bei paliegėlius.","support_ids":["t-224275","c-204353"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224275","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204353","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tad popiežius, išklausęs šią pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas 153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab Izraelio teritorijoje), XI a."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a8210e09f26679caa4aa639","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Jeruzalė aprašoma kaip kryžininkų ir maldininkų žygio tikslas bei iš netikėlių rankų išvaduotas miestas.","context":"Petras Dusburgietis, aprašydamas 1096 m. įvykius, teigia, kad Petras su kryžininkais užėmė šventąjį Jeruzalės miestą.","support_ids":["t-225315","c-204587"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225315","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204587","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai bei kiti kilmingieji ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu, duodami viešpačiui įžadus leistis į maldininkų žygį. Taigi 1096 viešpaties metais anksčiau minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip šventajame Jeruzalės…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"258f4a74a4f5b08bfb9f1dc1","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1190 m. Jeruzalėje įsikūrė Kryžiuočių ordinas.","context":"„Pelplino analų“ pirmoji žinutė, kaip ją apibūdina leidinio tekstas, kalba apie Ordino įsikūrimą Jeruzalėje 1190 m.","support_ids":["t-224916","c-204190"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224916","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204190","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Pirmoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje, pradedant Torune (1231 m."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Simeonas","claim_id":"t-222915","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Krikščionys","claim_id":"t-223929","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Atsiskyrėlis","claim_id":"t-222569","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-224117","confidence":0.63},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Celestinas III","claim_id":"t-220894","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-224275","confidence":0.61},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Omaras","claim_id":"t-223929","confidence":0.62},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Arabai","claim_id":"t-224096","confidence":0.51},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-224494","confidence":0.74}],"timeline":[{"date":"1096 m.","label":"1096 m.","claimId":"t-225315"},{"date":"1190 m.","label":"„Pelplino analų“ pirmojoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m.","claimId":"t-224916"},{"date":"1291 m.","label":"Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.","claimId":"t-221686"}],"support_disclosure":{"claims":11,"sources":2}}'
 object_page_finisher: 'true'
@@ -44,15 +55,6 @@ object_page_seo_description: 'Jeruzalė: Kai 1099 m. iš turkų buvo išvaduota 
 object_page_seo_input_hash: d10276134c8514c8706b3a44d5ea34475ad9831ec67fca5b75e53ec3d0cab875
 object_page_seo_generated_at: '2026-09-19T14:44:57+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-faae38a780a74b02627a6255"
-canonical_name: "Jeruzalė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Jeruzalė"]
-sameAs: ["https://www.wikidata.org/entity/Q1218"]
-canonical_biography: "Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų."
-place_authority: true
-historical_names: []
 ---
 # Jeruzalė
 
@@ -219,40 +221,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   pagrindžia:
     - c-179044
 
-<a id="claim-t-207965"></a>
-- t-207965
-  teiginys: "Jeruzalė buvo pasiekta birželio pabaigoje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190396
-
-<a id="claim-t-222805"></a>
-- t-222805
-  teiginys: "Dusburgiečio pasakojimu, Celestinas III Jeruzalėje įkūrė šventosios Marijos Teutonų ordino ligoninę."
-  atnaujinta: "2026-09-19 17:44"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-225072"></a>
-- t-225072
-  teiginys: "Hermanas Balkas kronikoje vadinamas Jeruzalėje veikusios šventosios Marijos Teutonų namų ligoninės ordino magistru."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204710
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.'
@@ -331,7 +299,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-67707
@@ -361,7 +329,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-67708
@@ -401,7 +369,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-67709
@@ -424,7 +392,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-67710
@@ -447,7 +415,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-67711
@@ -471,7 +439,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-67712
@@ -498,7 +466,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-67713
@@ -524,7 +492,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-179044
@@ -549,122 +517,5 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
-
-- id: c-190396
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 224"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 224."
-  citata_originali: |
-    Važiuojant į Veneciją, prie jų prisidėjo ir
-    visą kelionę kartu buvo baronas Abraomas dc Dona iš Silezijos.
-    1583 m. birželio pradžioje keliautojai priplaukė prie Sirijos krantų ir išsilaipino Tri-
-    polio uoste. Toliau sausuma iškeliavo į Jeruzalę, kurią pasiekė birželio pabaigoje.
-  citata_rodoma: "Toliau sausuma iškeliavo į Jeruzalę, kurią pasiekė birželio pabaigoje."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207965
-
-- id: c-201769
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 36"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
-  citata_originali: |
-    Mat
-    prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant
-    karalienė Saba, norėjusi patirti Saliamono išmintingumą. Štai šis popiežius Celestinas
-    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
-    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto
-    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
-    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos ir Armėnijos152,
-    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
-    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
-    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
-    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202364
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 240"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
-  citata_originali: |
-    Apie šventosios žemės reikalus
-
-       Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės,
-    vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas,
-    žiauriai įsiveržė  į Šventąją žemę bei ją visą užėmė,  ir šitaip krikščionis, gyvenusius
-    Šventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai
-    sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
-    pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš. Prancūzijos
-    karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų
-    atsiskyręs, todėl  jį vadino Petru Atsiskyrėliu, ragindamas  jį aplankyti viešpaties kapą
-    bei kitas šventąsias vietas. Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai
-    nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,
-    kartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia
-    begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
-    mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
-    svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204587
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 241"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
-  citata_originali: |
-    Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji
-    gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai
-    bei kiti kilmingieji ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu,
-    duodami viešpačiui įžadus leistis į maldininkų žygį. Taigi 1096 viešpaties metais anksčiau
-    minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir
-    užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą
-    bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę
-    kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip
-    šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
-    arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
-    su vienu ir Petros — su vienu sufraganu. Radosi nepaprastai daug bažnyčių kolegiatų,
-    iškilmingus įžadus darančių vienuolių vienuolynų, kitokių vyrų vienuolynų, atsiskyrėlių
-    maldyklų, griežtos klauzūros moterų vienuolynų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204710
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51."
-  citata_originali: |
-    Brolis Hermanas, vadinamas Balkų, pirmas šventosios Marijos Teutonų namų
-    Jeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225072
-

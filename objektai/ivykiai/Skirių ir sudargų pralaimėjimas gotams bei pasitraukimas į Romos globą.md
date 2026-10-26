@@ -67,7 +67,7 @@ Apie 355 metus Edukas išvedė skirių ir kitų persekiojamų gotų genčių lik
 <a id="claim-t-215230"></a>
 - t-001
   teiginys: "Apie 355 metus Edukas išvedė skirių ir kitų persekiojamų gotų genčių likučius į dešiniąją Dunojaus pakrantę, kur jie pasidavė romėnų globai."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

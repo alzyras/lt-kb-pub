@@ -69,7 +69,6 @@ Dusetos šiame šaltinyje yra vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-177912
   šaltinis: "Mūsų tautosaka, t.4 (1931) — Tautosakos komisijos gauta medžiaga ir perrašytos dainos"
   puslapiai: "p. 187 (PDF 185)"
@@ -84,4 +83,3 @@ Dusetos šiame šaltinyje yra vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

@@ -68,11 +68,9 @@ Vaitiekaus Goštauto, Lietuvos kanclerio, antkapio autoriumi laikomas Sienos sku
     rintas su abstraktišku, hieratiškai monumentaliu stiliumi, bet pastarajam
     yra duota aiški persvara.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

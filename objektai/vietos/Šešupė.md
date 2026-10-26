@@ -28,6 +28,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-27a7ebb4b4ff21f57b0c8dd4
+canonical_name: Šešupė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šešupė
+sameAs: []
+canonical_biography: 'Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Šešupė","url":"https://lt.wikipedia.org/wiki/%C5%A0e%C5%A1up%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Šešupė","url":"https://www.vle.lt/straipsnis/sesupe/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:48:33+00:00","source_checked_at":"2026-09-19T15:48:33+00:00","counts":{"relations":1,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Šešupė (vok. Scheschuppe arba Ostfluss, lenk. Szeszupa, rus. Шешупе) – upė, tekanti Lenkijos, Lietuvos ir Rusijos Kaliningrado srities teritorija; kairysis Nemuno intakas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"17032","revision_id":"7866536","status":"published","translation_status":"native","source":{"title":"Šešupė","url":"https://lt.wikipedia.org/wiki/%C5%A0e%C5%A1up%C4%97","publisher":"Vikipedija","language":"lt","article_id":"17032","revision_id":"7866536","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7866536","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%A0e%C5%A1up%C4%97&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:40.553621+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"9b69f4e2acf3dfa132cb71152fc2e202890435e070478daf5a09d98a51d27202","version_pk":"32825843b08b55ce1121e1022ce8915a"}},"source_buttons":[{"label":"Vikipedija","title":"Šešupė","url":"https://lt.wikipedia.org/wiki/%C5%A0e%C5%A1up%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Šešupė","url":"https://www.vle.lt/straipsnis/sesupe/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%A0e%C5%A1up%C4%97","https://www.vle.lt/straipsnis/sesupe/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2e866e0e292a28b5c0283752","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Šešupė turi krantus; šaltiniuose aiškiai minimas jos žemupys.","context":"Zenono Ivinskio 1978 m. istoriniame veikale ir 1916 m. kelionės apraše minima Šešupės krantų bei žemupio vieta.","support_ids":["t-73959","c-32594","t-209662","c-192282"],"source_refs":[{"kind":"internal_claim","claim_id":"t-73959","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-209662","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md"},{"kind":"evidence","evidence_id":"c-32594","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn. Šešupės krantu ji ėjo per girių masyvus. Jos žemupys paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­ muno pusėje įteka Šventoji."},{"kind":"evidence","evidence_id":"c-192282","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md","quote":"Mintis ma­ no atsidūrė tėviškėje, kur augau ir jaunystė­ je ant Šešupės krantų žaidžiau."}],"status":"published","conflict_status":"clear"},{"trait_id":"1318696a06f756c1a9728a24","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Šešupės krantai eina per girių masyvus.","context":"Tai 1978 m. Zenono Ivinskio istoriniame veikale pateiktas istorinis vietovės aprašymas.","support_ids":["t-73959","c-32594"],"source_refs":[{"kind":"internal_claim","claim_id":"t-73959","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32594","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn. Šešupės krantu ji ėjo per girių masyvus. Jos žemupys paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­ muno pusėje įteka Šventoji."}],"status":"published","conflict_status":"clear"},{"trait_id":"09e76b467195b9db4d959091","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Šešupė naudota kaip sienos žymėjimo vieta; prie jos krantų taip pat žuvauta.","context":"Istoriniuose šaltiniuose aprašoma, kad siena ėjo Šešupės krantu, o 1916 m. pasakojime minima žvejyba gyvenant ant Šešupės krantų.","support_ids":["t-73959","c-32594","t-73964","c-37872","t-209663","c-192283"],"source_refs":[{"kind":"internal_claim","claim_id":"t-73959","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-73964","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-209663","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md"},{"kind":"evidence","evidence_id":"c-32594","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn. Šešupės krantu ji ėjo per girių masyvus. Jos žemupys paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­ muno pusėje įteka Šventoji."},{"kind":"evidence","evidence_id":"c-37872","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­ vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­ lininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių pakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­ tuvą nuo didesnės vokiečių įtakos1 2)."},{"kind":"evidence","evidence_id":"c-192283","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md","quote":"Šeš­ tadienis buvo, ėjome žuvauti, nes gyvename '' ant Šešupės krantų"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-73959","confidence":0.74}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
 object_page_finisher: 'true'
@@ -41,15 +52,6 @@ object_page_seo_description: 'Šešupė: Ja Vytautas sutiko užleisti ordinui Ž
 object_page_seo_input_hash: e74ee5f505ab067fa4b9d32fac5e6d5fd445bcfef1123969e31ed8a1380bc3da
 object_page_seo_generated_at: '2026-09-19T15:48:33+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-27a7ebb4b4ff21f57b0c8dd4"
-canonical_name: "Šešupė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šešupė"]
-sameAs: ["https://www.wikidata.org/entity/Q5629"]
-canonical_biography: "Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas)."
-place_authority: true
-historical_names: []
 ---
 # Šešupė
 
@@ -153,55 +155,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - c-175989
 
-<a id="claim-t-209661"></a>
-- t-209661
-  teiginys: "Pilviškių mies telio šiapus Pilvės ir Šešupės nieko neliko."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-192281
-
-<a id="claim-t-209662"></a>
-- t-209662
-  teiginys: "Mintis ma no atsidūrė tėviškėje, kur augau ir jaunystė je ant Šešupės krantų žaidžiau."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192282
-
-<a id="claim-t-209663"></a>
-- t-209663
-  teiginys: "Šeš tadienis buvo, ėjome žuvauti, nes gyvename ' ant Šešupės krantų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192283
-
-<a id="claim-t-218801"></a>
-- t-218801
-  teiginys: "Rausvė įteka į Šešupę kairiajame krante netoli Naumiesčio."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200081
-
 ## Citatos
 
 - id: c-32593
@@ -222,7 +175,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-004
 
@@ -243,7 +196,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -271,7 +224,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-175989
@@ -292,76 +245,5 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-192281
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 39"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 39."
-  citata_originali: |
-    Pilviškių mies­
-    telio šiapus Pilvės ir
-    Šešupės nieko
-    neliko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209661
-
-- id: c-192282
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 40"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 40."
-  citata_originali: |
-    Mintis ma­
-    no atsidūrė tėviškėje, kur augau ir jaunystė­
-    je ant Šešupės krantų žaidžiau.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209662
-
-- id: c-192283
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 54"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 54."
-  citata_originali: |
-    Šeš­
-    tadienis buvo,
-    ėjome žuvauti, nes gyvename
-    ' ant Šešupės krantų
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209663
-
-- id: c-200081
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 227"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
-  citata_originali: |
-    Ji įteka į Šešupę jos kairiajame krante netoli
-    Naumiesčio.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218801
-

@@ -86,6 +86,5 @@ Gediminas laiške popiežiui Jonui XXII, kaip perteikia Teodoras Narbutas, pripa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

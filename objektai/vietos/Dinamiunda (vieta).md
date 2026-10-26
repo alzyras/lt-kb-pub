@@ -93,6 +93,5 @@ Gausios lietuvių pajėgos, perėjusios Žemgalą ir persikėlusios per užšalu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -60,6 +60,5 @@ Iki šioliai mes, Amerikos lietuviai, parodėme tikrą mūsų kailio storžievi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

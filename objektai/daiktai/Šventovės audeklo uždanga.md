@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-218164"></a>
 - t-218164
   teiginys: "Už uždangos, be žynių, buvo draudžiama įeiti, už tai grėsė mirties bausmė."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

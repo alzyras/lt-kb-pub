@@ -67,6 +67,5 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

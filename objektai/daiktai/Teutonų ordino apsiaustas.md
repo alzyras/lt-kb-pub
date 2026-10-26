@@ -73,7 +73,7 @@ Nenurodyta
 <a id="claim-t-224620"></a>
 - t-001
   teiginys: "1272 m. Meiseno markos valdovas paliko Prūsijoje 24 savo šeimynos vyrus ir leido juos apvilkti Teutonų ordino apsiaustais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

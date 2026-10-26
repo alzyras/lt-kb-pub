@@ -32,8 +32,9 @@ function hasMissingSlug(node: unknown): boolean {
 
 test("processed paths fall back to file data after worker transfer", () => {
   const file = new VFile("")
-  file.data.filePath = "/tmp/quartz-worker-note.md" as FilePath
-  assert.equal(resolveProcessedFilePath(file), "/tmp/quartz-worker-note.md")
+  const filePath = path.join(os.tmpdir(), "quartz-worker-note.md")
+  file.data.filePath = filePath as FilePath
+  assert.equal(resolveProcessedFilePath(file), path.resolve(filePath))
 })
 
 test("a route-invalidated cache hit is refreshed and reused on the next parse", async (t) => {

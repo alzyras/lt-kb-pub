@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-3fc8f895900022316b69006e"
-canonical_name: "Šventoji ties Jurbarku"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šventoji ties Jurbarku"]
+entity_id: ent-3fc8f895900022316b69006e
+canonical_name: Šventoji ties Jurbarku
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šventoji ties Jurbarku
 sameAs: []
-canonical_biography: "Upė, įtekanti į Nemuną žemiau Jurbarko, ties Smali ninkais, kur eina Prūsijos siena, taip pat vadinasi Šventoji (Swięta)."
-place_authority: true
-historical_names: []
+canonical_biography: 'Upė, įtekanti į Nemuną žemiau Jurbarko, ties Smali ninkais, kur eina Prūsijos siena, taip pat vadinasi Šventoji (Swięta).'
 ---
 # Šventoji ties Jurbarku
 
@@ -65,6 +65,5 @@ Upė, įtekanti į Nemuną žemiau Jurbarko, ties Smali ninkais, kur eina Prūsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

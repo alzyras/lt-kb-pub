@@ -68,6 +68,5 @@ canonical_biography: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigato
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -67,6 +67,5 @@ Chicago, 1987; Gidžiūnas Viktoras.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

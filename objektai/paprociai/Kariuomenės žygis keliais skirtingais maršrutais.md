@@ -71,6 +71,5 @@ Dusburgietis teigia, kad pradėjusi karą kariuomenė paprastai traukia ne vienu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

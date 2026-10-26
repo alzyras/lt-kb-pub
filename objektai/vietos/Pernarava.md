@@ -145,6 +145,5 @@ Kojelavičiaus pasakojime Prūsų magistras, remiamas Bavarijos grafo Volfgango 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

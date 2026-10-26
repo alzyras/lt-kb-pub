@@ -76,6 +76,5 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -26,6 +26,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-7c7cbf6cdbbf791b27cabdb1
+canonical_name: Danija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Danija
+sameAs: []
+canonical_biography: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Danija","url":"https://lt.wikipedia.org/wiki/Danija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Danija","url":"https://www.vle.lt/straipsnis/danija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:51:35+00:00","source_checked_at":"2026-09-20T00:51:35+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Danija (dan. Danmark; oficialiai Danijos Karalystė, dan. Kongeriget Danmark) – valstybė Šiaurės Europoje, tarp Baltijos ir Šiaurės jūrų. Įsikūrusi Jutlandijos pusiasalyje ir aplinkinėse salose: Danijos salyne, Šiaurės Fryzų salose, Bornholme. Jutlandijos pietuose ribojasi su Vokietija (vienintelė sausumos siena – 68 km ilgio). Šalies sostinė ir didžiausias miestas – Kopenhaga.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"731","revision_id":"7921893","status":"published","translation_status":"native","source":{"title":"Danija","url":"https://lt.wikipedia.org/wiki/Danija","publisher":"Vikipedija","language":"lt","article_id":"731","revision_id":"7921893","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7921893","history_url":"https://lt.wikipedia.org/w/index.php?title=Danija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:17:35.648832+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"e7695fcb451d6d295a9583bdc44e1d35c9d204c5362af8a01c71578ff2be33aa","version_pk":"157b1d4db84b1a45afd56046be7aced8"}},"source_buttons":[{"label":"Vikipedija","title":"Danija","url":"https://lt.wikipedia.org/wiki/Danija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Danija","url":"https://www.vle.lt/straipsnis/danija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Danija","https://www.vle.lt/straipsnis/danija/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Frotonas III","claim_id":"t-214540","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Starkateras","claim_id":"t-215657","confidence":0.74},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-212187","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Slavai","claim_id":"t-215677","confidence":0.92}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -39,15 +50,6 @@ object_page_seo_description: 'Danija: Livonija tada buvo suskaldyta tarp kelių 
 object_page_seo_input_hash: 2693f2a4b4ff1f0cb78dcf4dca81e43a91c53711ab4c985a6f5be3d1ed39a7dd
 object_page_seo_generated_at: '2026-09-20T00:51:35+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-7c7cbf6cdbbf791b27cabdb1"
-canonical_name: "Danija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Danija"]
-sameAs: ["https://www.wikidata.org/entity/Q35"]
-canonical_biography: "Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras."
-place_authority: true
-historical_names: []
 ---
 # Danija
 
@@ -159,42 +161,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - c-175402
 
-<a id="claim-t-210479"></a>
-- t-210479
-  teiginys: "Dabar saugomas Danijos lobyne."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194731
-
-<a id="claim-t-212800"></a>
-- t-212800
-  teiginys: "Poznanės kolekcionierius ypač ža vėjosi Karališkojo Danijos lobyno rinkiniais, kurių dau guma jau buvo publikuota."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195435
-
-<a id="claim-t-218059"></a>
-- t-218059
-  teiginys: "T. Volianskis ypač žavėjosi Karališkojo Danijos lobyno rinkiniais."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199667
-
 ## Citatos
 
 - id: c-171834
@@ -221,7 +187,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175399
@@ -247,7 +213,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-175400
@@ -273,7 +239,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-175401
@@ -302,7 +268,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-175402
@@ -333,144 +299,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-194731
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 486"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 486."
-  citata_originali: |
-    Buvo iškastas Fiūno saloje (pagal Tomą
-    Bartoliną. K. 2. D. 9. P. 461). Dabar saugomas Danijos lobyne.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210479
-
-- id: c-194984
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 243"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
-  citata_originali: |
-    236
-    Sklinda garsūs senoviniai skandinavų padavimai apie
-    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
-    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
-    ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
-    Haroldo rūmuose kartu su karalaičiu Vikaru. Sis Siaurės
-    didvyris pirmaisiais V amžiaus metais, kai Letrą, t. y. Da­
-    niją, valdė karaliai Halfadonas ir Fridleifas, o po jų —
-    Frotonas IV, daug kartų rengė žygius į tolimus kraštus.
-    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
-    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
-    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
-    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
-    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
-    nijos karalystei.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195435
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 457"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 457."
-  citata_originali: |
-    Poznanės kolekcionierius ypač ža­
-    vėjosi Karališkojo Danijos lobyno rinkiniais, kurių dau­
-    guma jau buvo publikuota.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212800
-
-- id: c-195742
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 245"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
-  citata_originali: |
-    Pavergęs slavų kraštą ir pamanęs, jog
-    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
-    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
-    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
-    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
-    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
-    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
-    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
-    viais, jog visiškai įbauginta liaudis vėl nusižemino. Kiek
-    vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
-    rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
-    karalius Halfanask
-    239
-    Visi šie išdėstyti dalykai ir iš įvairių šaltinių surinkti
-    įvykiai, rodos, gali įtikinti, kad lietuvių tauta politiškai
-    egzistavo apvaizdos jiems skirtame Vakarų krašte.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197535
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
-  citata_originali: |
-    Jūra dažnai išmeta gintarą, prikibusį prie
-    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
-    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
-    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
-    skirtos nuo medžių žievės1.
-    152
-    Pavienių gintaro gabalų randama beveik visur: Lie­
-    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
-    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
-    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
-    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
-    tojai žino, iš ko jis atsiranda2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199667
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 66."
-  citata_originali: |
-    Poznanės kolekcionierius ypač žavėjosi Kara­
-    liškojo Danijos lobyno rinkiniais, kurių dauguma jau buvo pub­
-    likuota.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218059
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Frotonas III]], [[objektai/asmenys/Hadingas]]

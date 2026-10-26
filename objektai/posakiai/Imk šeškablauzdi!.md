@@ -71,18 +71,3 @@ Po kraičio sutalpinimo broliai taip juokaudami ima nešti skrynią.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195434"></a>
-- t-001
-  teiginys: "Kraičio nešime pavartojamas raginimas „Imk šeškablauzdi!“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177855
-

@@ -100,7 +100,7 @@ canonical_biography: "Žuvo pats didysis magistras Ulrichas fon Jungingenas, bev
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186214
@@ -118,6 +118,5 @@ canonical_biography: "Žuvo pats didysis magistras Ulrichas fon Jungingenas, bev
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

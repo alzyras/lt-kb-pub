@@ -7,10 +7,10 @@ datos:
   - '1949 m.'
 date_start: '1949'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,8 +30,6 @@ entity_view_role: "place"
 entity_aliases: ["Daskapio kaimas"]
 sameAs: []
 canonical_biography: "1949 m. balandžio 15–16 d. Daskapio kaime, Vabalninko valsčiuje, Stasio Šulnio namuose rastas bunkeris ir dokumentai."
-place_authority: true
-historical_names: []
 ---
 # Daskapio kaimas
 
@@ -39,13 +37,14 @@ historical_names: []
 
 Stasio Šulnio namuose Daskapio kaime, Vabalninko valsčiuje, buvo bunkeris.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214614
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Stasio Šulnio namuose Daskapio kaime, Vabalninko valsčiuje, buvo bunkeris.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 357"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 357."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:44"

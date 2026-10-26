@@ -25,15 +25,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-808657ae77badf0a17687cf8"
-canonical_name: "Samacha (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Samacha","Samacha (vieta)"]
+entity_id: ent-808657ae77badf0a17687cf8
+canonical_name: Samacha (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Samacha
+  - Samacha (vieta)
 sameAs: []
-canonical_biography: "Čingischanas 1223 metais pasiuntė kariuomenę užimti Samachos ir Derbento miestų."
-place_authority: true
-historical_names: []
+canonical_biography: Čingischanas 1223 metais pasiuntė kariuomenę užimti Samachos ir Derbento miestų.
 ---
 # Samacha (vieta)
 
@@ -77,6 +78,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

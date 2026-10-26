@@ -70,6 +70,5 @@ Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -82,6 +82,5 @@ Teodoras Narbutas aprašo, kad prie Izborsko dešimt dienų kovojęs priešas, s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

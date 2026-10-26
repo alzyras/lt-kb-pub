@@ -79,6 +79,5 @@ Lapkūnas aprašomas kaip vargingas kaimo žmogus, turėjęs gausią šeimą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

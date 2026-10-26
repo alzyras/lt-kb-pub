@@ -75,6 +75,5 @@ Tad Vytautas įsakė grįžti Kaributui į Lietuvą, o čekams husitams nurašė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Antanas Kubilius'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
@@ -29,11 +30,7 @@ canonical_biography: "Subačiaus ugniagesių draugijos valdybai pirmininkavo val
 
 ## Santrauka
 
-Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubilius.
-
-## Santrauka
-
-Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubilius.
+Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubilius. Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Antaną Kubilių-Rūgštyman įvardija Algimanto apygardos ryšių organizatoriumi ir agento „Miko“ globėju; per Rūgštymą ėjo korespondencija į srities štabą.
 
 ## Reikšmingi paminėjimai
 
@@ -41,7 +38,6 @@ Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubili
   santrauka: 'Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubilius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 689 (PDF 690)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 689 (PDF 690)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,14 +45,12 @@ Ugniagesių draugijos valdybai pirmininkavo valsčiaus viršaitis Antanas Kubili
   statusas: verified
 - t-002
 
-## Citatos
-
-- id: c-212952
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-002
+  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ Antaną Kubilių-Rūgštyman įvardija Algimanto apygardos ryšių organizatoriumi ir agento „Miko“ globėju; per Rūgštymą ėjo korespondencija į srities štabą.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 343"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 343."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 18:31"
-

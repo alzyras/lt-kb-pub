@@ -66,6 +66,5 @@ Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

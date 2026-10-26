@@ -68,6 +68,5 @@ Hunų įsiveržimas į Europą sutrukdė Germanarikui įtvirtinti gotų karalyst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

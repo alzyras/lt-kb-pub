@@ -89,6 +89,5 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

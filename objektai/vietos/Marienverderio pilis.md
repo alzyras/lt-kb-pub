@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-6620363f72170c8602fed7bd"
-canonical_name: "Marienverderio pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Marienverderio pilis"]
+entity_id: ent-6620363f72170c8602fed7bd
+canonical_name: Marienverderio pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Marienverderio pilis
 sameAs: []
-canonical_biography: "Marienverderio pilis perkelta iš Kvedino salos į Pamedės valsčių Reisiai."
-place_authority: true
-historical_names: []
+canonical_biography: Marienverderio pilis perkelta iš Kvedino salos į Pamedės valsčių Reisiai.
 ---
 # Marienverderio pilis
 
@@ -65,6 +65,5 @@ Marienverderio pilis perkelta iš Kvedino salos į Pamedės valsčių Reisiai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

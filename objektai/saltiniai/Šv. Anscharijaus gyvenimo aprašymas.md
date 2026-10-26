@@ -82,6 +82,5 @@ Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus I
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

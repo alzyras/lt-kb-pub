@@ -66,47 +66,10 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   pagrindžia:
     - c-49105
 
-<a id="claim-t-193173"></a>
-- t-005
-  teiginys: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-46455
-
-<a id="claim-t-207572"></a>
-- t-207572
-  teiginys: "1569 m. Žygimantas Augustas, Alfredo Bumblausko teigimu, savo aktais palaikydamas Lenkiją prie jos prijungė Braclavo vaivadiją."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190189
-
-<a id="claim-t-211231"></a>
-- t-211231
-  teiginys: "Aleksandras įsakė atstatyti Moldavijos vaivados nusiaubtą ir sudegintą Braclavą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193645
-
 <a id="claim-t-184935"></a>
-- t-184935
+- t-002
   teiginys: "Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,9 +87,9 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     - c-168296
 
 <a id="claim-t-184936"></a>
-- t-184936
+- t-003
   teiginys: "1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -144,6 +107,38 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas citata paremtas faktas."
   pagrindžia:
     - c-168297
+
+<a id="claim-t-187566"></a>
+- t-004
+  teiginys: "Lietuvos metraštis pasakoja, kad Aleksandras įsakė atstatyti Braclavą, nes miestas buvo Moldavijos vaivados nusiaubtas ir sudegintas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Braclavas: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Braclavas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Aleksandras įsakė atstatyti Braclavą; tai artimiausias leidžiamas statymo ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170515
+
+<a id="claim-t-193173"></a>
+- t-005
+  teiginys: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-46455
 
 ## Citatos
 
@@ -170,7 +165,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-49105
@@ -191,7 +186,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168296
@@ -220,8 +215,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184935
+  pagrindzia:
+    - t-002
 
 - id: c-168297
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -257,8 +252,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184936
+  pagrindzia:
+    - t-003
 
 - id: c-170515
   autorius: "Anoniminis metraštininkas"
@@ -280,42 +275,5 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190189
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 160"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 160."
-  citata_originali: |
-    Žygimantas Augustas palaikyda-
-    mas Lenkiją savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos
-    teritorijos (Palenkę ir Voluinės vaivadiją – kovo mėn., Kijevo ir Braclavo vaivadijas – bir-
-    želį). Prijungtų sričių bajorai turėjo prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos
-    seime.
-  citata_rodoma: "ntas Augustas palaikyda-\nmas Lenkiją savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos \nteritorijos (Palenkę ir Voluinės vaivadiją – kovo mėn., Kijevo ir Braclavo vaivadijas – bir-\nželį). Priju"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207572
-
-- id: c-193645
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 147."
-  citata_originali: |
-    O likusiai kariuomenei didysis kunigaikštis Aleksandras
-    įsakė atstatyti Braclavą, nes Braclavas buvo Moldavi­
-    jos vaivados nusiaubtas ir sudegintas
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211231
-
+  pagrindzia:
+    - t-004

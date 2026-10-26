@@ -80,6 +80,5 @@ Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tauta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-79e6360c821ff1f4dac1cf86"
-canonical_name: "Ganga (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ganga","Ganga (vieta)"]
+entity_id: ent-79e6360c821ff1f4dac1cf86
+canonical_name: Ganga (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ganga
+  - Ganga (vieta)
 sameAs: []
-canonical_biography: "Nura įteka į Gangą prie Nuralapuro."
-place_authority: true
-historical_names: []
+canonical_biography: Nura įteka į Gangą prie Nuralapuro.
 ---
 # Ganga (vieta)
 
@@ -69,6 +70,5 @@ Nura įteka į Gangą prie Nuralapuro.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

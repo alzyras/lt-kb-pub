@@ -66,10 +66,10 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   pagrindžia:
     - c-59122
 
-<a id="claim-t-223098"></a>
-- t-223098
+<a id="claim-t-58491"></a>
+- t-002
   teiginys: "Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Štarkenbergas: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,11 +80,13 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   ryšio_paaiskinimas: "Claim priskiria įsakymą didžiajam magistrui, nors kandidato pavadinimas nėra tas pats kaip Anonas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastatė Štarkenbergas (0.62)"
+  pagrindžia:
+    - c-59123
 
-<a id="claim-t-224393"></a>
-- t-224393
+<a id="claim-t-58492"></a>
+- t-003
   teiginys: "Prūsai užėmė Štarkenbergo pilį, išžudė jos brolius ir gyventojus, o pačią pilį sudegino."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kulmas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -95,7 +97,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Štarkenbergas\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-205231
+    - c-59124
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -137,7 +139,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-59123
@@ -159,6 +161,8 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-59124
   autorius: "Petras Dusburgietis"
@@ -177,25 +181,5 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-205231
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 140"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
-  citata_originali: |
-    Tada perpykę
-    prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
-    vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
-    brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais. Po daugelio metų ši pilis
-    buvo perkelta į Kulmo vyskupystę Osos pakrantėn, kur tebestovi po šiai dienai430.
-    151 (146).
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224393
-
+  pagrindzia:
+    - t-003

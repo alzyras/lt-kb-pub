@@ -79,6 +79,5 @@ Vienas žmogus, tik ras katalikų tikėjimo išpažinėtojas, pirko iš vieno t�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

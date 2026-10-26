@@ -80,6 +80,5 @@ Kariavimą antpuoliais Teodoras Narbutas sieja su pykčiu, goduliu ir pasileidim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -87,6 +87,5 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

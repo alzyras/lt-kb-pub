@@ -77,6 +77,5 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -103,7 +103,7 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189132
@@ -123,7 +123,7 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-189133
@@ -142,6 +142,5 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

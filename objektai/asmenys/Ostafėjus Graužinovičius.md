@@ -90,6 +90,5 @@ Mums žemai lenkėsi ba joras Ponas Ostafėjus Graužinovičius ir įteikė mums
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

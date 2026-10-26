@@ -76,6 +76,5 @@ Raginami sarmatų puolimų, kėlusių visiško išnaikini mo pavojų, kuriam pas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

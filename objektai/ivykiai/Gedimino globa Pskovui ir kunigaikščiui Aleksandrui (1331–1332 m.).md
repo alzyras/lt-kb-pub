@@ -95,7 +95,7 @@ Po aštuoniolikos mėnesių Gediminas, pasak Teodoro Narbuto, sudarė Aleksandru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188584
@@ -119,6 +119,5 @@ Po aštuoniolikos mėnesių Gediminas, pasak Teodoro Narbuto, sudarė Aleksandru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

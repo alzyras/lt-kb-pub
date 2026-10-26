@@ -56,6 +56,5 @@ Tik vienas Dievas, kuris nėra niekieno sukurtas, ku rio būstas yra toji begali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

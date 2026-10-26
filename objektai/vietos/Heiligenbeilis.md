@@ -38,22 +38,10 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
 
 ## Teiginiai
 
-<a id="claim-t-219692"></a>
-- t-219692
-  teiginys: "Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) šven tykloje, dabartiniame Heiligenbeilyje; ten stovėjusį dievo Kurko, arba Žemininko, stabą sutrupindavo ir padirbdavo naują."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200340
-
-<a id="claim-t-216581"></a>
-- t-216581
+<a id="claim-t-189003"></a>
+- t-001
   teiginys: "Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,6 +56,8 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   semantiniai_rysiai: "Šventasis ąžuolas priklausė Heiligenbeilis (0.82)"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171892
 
 ## Citatos
 
@@ -90,22 +80,5 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200340
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 335."
-  citata_originali: |
-    Šią šventę prūsai užbaigdavo Šventosios (Szwenta) šven­
-    tykloje, dabartiniame Heiligenbeilyje; ten stovėjusį dievo Kur-
-    ko, arba Žemininko, stabą sutrupindavo ir padirbdavo naują.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219692
-
+  pagrindzia:
+    - t-001

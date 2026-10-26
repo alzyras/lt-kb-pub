@@ -72,6 +72,5 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

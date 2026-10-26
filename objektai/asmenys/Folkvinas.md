@@ -89,18 +89,6 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   pagrindžia:
     - c-188287
 
-<a id="claim-t-224257"></a>
-- t-224257
-  teiginys: "Šaltinis pasakoja, kad Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204368
-
 ## Citatos
 
 - id: c-60908
@@ -121,7 +109,7 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188286
@@ -144,7 +132,7 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188287
@@ -165,27 +153,5 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-204368
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
-  citata_originali: |
-    Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
-
-      Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje,
-    šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų
-    ordino didįjį magistrą, prijungti jo Ordiną prie savo Ordino. Šiuo reikalu brolis Hermanas,
-    minėtasis magistras, ir brolis Jonas iš Magdeburgo, brolio Folkvino pasiuntinys, kreipėsi
-      254 1240 ar 1241 m.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224257
-

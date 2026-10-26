@@ -81,6 +81,5 @@ Derybos su spaustuvininkais dėl „Naujosios mitologijos“ išleidimo buvo nes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

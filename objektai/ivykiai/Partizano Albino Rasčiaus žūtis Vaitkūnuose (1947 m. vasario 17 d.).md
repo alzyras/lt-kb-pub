@@ -41,15 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
-Nenurodyta
 
-## Citatos
-
-- id: c-214339
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: '1947 m. vasario 17 d. Vaitkūnų kaime Jono Kubkos daržinėje mėgindamas pabėgti buvo nušautas partizanas Albinas Rasčius, buvęs Svėdasų valsčiaus policininkas.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 260"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 260."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:42"

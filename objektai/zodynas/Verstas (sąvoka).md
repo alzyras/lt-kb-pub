@@ -65,6 +65,5 @@ Pavažiavus 5-6 verstus nuo Kybartų nesimato jokių karės pėdsakų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

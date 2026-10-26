@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-7c0000fe978d91a7d7932f17"
-canonical_name: "Šunskai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šunskai","Šunskai (vieta)"]
+entity_id: ent-7c0000fe978d91a7d7932f17
+canonical_name: Šunskai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šunskai
+  - Šunskai (vieta)
 sameAs: []
-canonical_biography: "Šunskų parapijoje buvo išdeginti pašešupiai."
-place_authority: true
-historical_names: []
+canonical_biography: Šunskų parapijoje buvo išdeginti pašešupiai.
 ---
 # Šunskai (vieta)
 
@@ -68,6 +69,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

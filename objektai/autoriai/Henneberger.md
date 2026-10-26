@@ -71,6 +71,5 @@ canonical_biography: "7; iš ten buvo perimta vėlesnių kronikininkų, būtent,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

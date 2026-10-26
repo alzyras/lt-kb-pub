@@ -87,6 +87,5 @@ canonical_biography: "Įvadinis tekstas Francą Bopą mini tarp kalbininkų, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

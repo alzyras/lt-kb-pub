@@ -68,6 +68,5 @@ Nuo tol joks namas negalėjo būti statomas be miesto tarybos žinios ir be virv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -93,12 +93,10 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
     me ir padarė juos galingus ir savarankiškus.
   citata_rodoma: "Vokietijos impera­\ntoriai silpni, nes renkami, tad siekdami galios prieš bajoriją ir \ngalingą dvasininkiją, jie miestams teikė globą ir vis didesnes \nprivilegijas; savo ruožtu, šie nesiliovė buvę tikrais imperijos są­\njungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­\nperijos miestams, vėliau jiems leido dalyvauti imperijos valdy­\nme ir padarė juos galingus ir savarankiškus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

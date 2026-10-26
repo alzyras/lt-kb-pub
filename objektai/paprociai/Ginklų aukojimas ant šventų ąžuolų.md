@@ -75,6 +75,5 @@ Reikia daryti išvadą, kad ąžuolas, iš po kurio kelmo iškasti tie seno vės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

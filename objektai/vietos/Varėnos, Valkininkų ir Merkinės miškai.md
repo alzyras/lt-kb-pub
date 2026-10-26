@@ -79,6 +79,5 @@ Pagaliau šie miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo Rū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

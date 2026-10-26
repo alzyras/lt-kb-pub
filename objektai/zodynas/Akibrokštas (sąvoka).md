@@ -60,6 +60,5 @@ Narbutui, ku ris teigė visiškai atvirkščiai, buvo didžiulis akibrokštas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

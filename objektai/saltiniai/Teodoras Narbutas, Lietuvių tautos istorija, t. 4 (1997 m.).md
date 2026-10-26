@@ -53,11 +53,9 @@ media_all_json: |-
     A. Marcinowskiego, 1838.
   citata_rodoma: "Versta iš: \nDzieje narodu \nLitewskiego przez \nTeodora Narbutta. \nTom czwarty.\nWilno, nakladem i drukiem \nA. Marcinowskiego, 1838."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-12 08:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

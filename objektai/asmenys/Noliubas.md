@@ -52,31 +52,23 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   pagrindžia:
     - c-85898
 
-<a id="claim-t-220411"></a>
-- t-220411
-  teiginys: "Noliubas buvo Sklodo iš Kvedenavos sūnus."
-  atnaujinta: "2026-09-13 21:47"
+<a id="claim-t-89994"></a>
+- t-002
+  teiginys: "Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-204409
+    - c-85899
 
-<a id="claim-t-224894"></a>
-- t-224894
-  teiginys: "Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-225551"></a>
-- t-225551
+<a id="claim-t-89995"></a>
+- t-003
   teiginys: "Dažnų antpuolių nukamuotas Noliubas ilgainiui priėmė tikėjimą ir, Dusburgiečio vertinimu, tapo pagirtinu žmogumi."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-85899
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -120,7 +112,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-85899
@@ -141,24 +133,9 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-204409
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 119"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
-  citata_originali: |
-    Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
-    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
-    paklusdamas broliams
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220411
+  pagrindzia:
+    - t-002
+    - t-003
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sklodas iš Kvedenavos]]

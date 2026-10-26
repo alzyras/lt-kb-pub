@@ -84,6 +84,5 @@ Narbutas pasakoja, kad 1396 m. Dubysos saloje buvo sutartos abipusės paliaubos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

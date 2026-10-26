@@ -32,29 +32,12 @@ media_all_json: |-
 
 Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų straipsnį apie gintarą.
 
-## Citatos
-
-- id: c-174731
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
-  citata_originali: |
-    2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
-    parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).
-  citata_rodoma: "2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą\nparašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Teiginiai
 
-<a id="claim-t-213482"></a>
+<a id="claim-t-191849"></a>
 - t-001
   teiginys: "Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų straipsnį apie gintarą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,4 +54,24 @@ Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų str
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie „Muzeum Domome“ minimą Hačevskio straipsnį. Palikti tik citatoje esantys duomenys apie autorių, temą ir 1837 m. leidinį."
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174731
 
+## Citatos
+
+- id: c-174731
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
+  citata_originali: |
+    2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
+    parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).
+  citata_rodoma: "2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą\nparašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

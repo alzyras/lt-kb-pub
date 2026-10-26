@@ -82,7 +82,7 @@ Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak ske
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-187011
@@ -109,6 +109,5 @@ Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak ske
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

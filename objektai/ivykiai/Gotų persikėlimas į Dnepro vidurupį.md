@@ -93,6 +93,5 @@ Astringų priešakinis būrys persikėlė į Dnepro vidurupio kairiąją pakrant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -85,6 +85,5 @@ Mataušas Modelis Barboros vedybų pasakojime rodomas kaip numanomas jos liktasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

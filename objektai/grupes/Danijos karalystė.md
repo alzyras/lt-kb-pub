@@ -94,7 +94,7 @@ Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-187939
@@ -110,6 +110,5 @@ Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

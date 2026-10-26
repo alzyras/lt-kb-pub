@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-d8bb44896700ced585c491e8"
-canonical_name: "Pasargė (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pasargė","Pasargė (vieta)"]
+entity_id: ent-d8bb44896700ced585c491e8
+canonical_name: Pasargė (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pasargė
+  - Pasargė (vieta)
 sameAs: []
-canonical_biography: "Vakaruose ji ribojosi su Pagude, nuo kurios ją skyrė Pasargės, arba Sargos, upė."
-place_authority: true
-historical_names: []
+canonical_biography: 'Vakaruose ji ribojosi su Pagude, nuo kurios ją skyrė Pasargės, arba Sargos, upė.'
 ---
 # Pasargė (vieta)
 
@@ -69,6 +70,5 @@ Vakaruose ji ribojosi su Pagude, nuo kurios ją skyrė Pasargės, arba Sargos, u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

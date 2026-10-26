@@ -68,6 +68,5 @@ Sventopelko ir magistro susitikimas Vyslos saloje baigėsi nesudarius taikaus su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -74,10 +74,10 @@ Nenurodyta
   pagrindžia:
     - c-172777
 
-<a id="claim-t-216921"></a>
-- t-216921
+<a id="claim-t-189895"></a>
+- t-002
   teiginys: "Narbutas vaizdavo, kad liaudis jėzuitų pamokymus priėmė nuolankiai ir nesipriešino šventųjų ąžuolų bei girių kirtimui."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,6 +91,8 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senųjų dievų simbolių, šventųjų medžių, žalčių ir amžinosios ugnies naikinimas misijų metu\" parinktas kaip owner_note_path. Targetas \"kunigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172778
 
 ## Citatos
 
@@ -112,7 +114,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-172778
@@ -134,24 +136,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-201093
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
-  citata_originali: |
-    1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
-    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
-    lius. Ten jie rado pagonybės likučių ir juos skrupulingai išnaiki­
-    no. Tai buvo senųjų dievų simboliai: nežinomos rūšies gyvūnų
-    kaulai, įvairūs amuletai, sukabinti ant namų sienų ir dvivėrių
-    durų. Tuos likučius misionieriai trypė kojomis, mėtė į ugnį. Šven­
-    tuosius medžius įsakė nukirsdinti, žalčius išžudyti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

@@ -73,6 +73,5 @@ Priešingai, priėmusiems tuos svečius gražiai ir svetingai būdavo garantuota
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

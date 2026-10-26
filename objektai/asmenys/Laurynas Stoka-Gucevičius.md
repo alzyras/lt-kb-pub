@@ -68,11 +68,9 @@ Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po arc
     šiurkščiai disonuoja su viso pastato proporcijomis; be jų fasadas būtų dar
     monumentalesnis.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

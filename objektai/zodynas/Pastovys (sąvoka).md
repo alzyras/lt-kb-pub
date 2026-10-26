@@ -66,6 +66,5 @@ Valstybėje jau buvo tapę norma, kad į Vilnių, į valstybės seimus, po 1569 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -78,6 +78,5 @@ Jeigu kas nors iš lietuvių gyvenančių Ame rikoje panorėtų sušelpti savo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -38,22 +38,10 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
 
 ## Teiginiai
 
-<a id="claim-t-223697"></a>
-- t-223697
-  teiginys: "Kersovo apylinkėse aštuoni šimtai Lietuvos raitelių nuniokojo dešimt kaimų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202568
-
-<a id="claim-t-221705"></a>
-- t-221705
+<a id="claim-t-58697"></a>
+- t-001
   teiginys: "Aštuoni šimtai Lietuvos raitelių Kersovu vadinamoje Lenkijos žemės dalyje nuniokojo 10 kaimų."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kersovas: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,6 +51,8 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
   ryšio_targeto_parinkimas: "Kersovas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginys rodo Lietuvos raitelių karinį nuniokojimą Kersovu vadinamoje vietovėje; kandidatas „Lietuviai“ semantiškai atitinka raitelių grupę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59329
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,21 +92,5 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202568
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 162"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
-  citata_originali: |
-    aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės
-    dalyje, kuri vadinama Kersovu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223697
-
+  pagrindzia:
+    - t-001

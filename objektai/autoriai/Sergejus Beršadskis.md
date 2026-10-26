@@ -69,6 +69,5 @@ Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

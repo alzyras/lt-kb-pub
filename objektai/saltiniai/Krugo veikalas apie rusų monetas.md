@@ -56,6 +56,5 @@ Svajonė apie šį susijungimą, kaip gana taikliai spėja Krugas savo veikale a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

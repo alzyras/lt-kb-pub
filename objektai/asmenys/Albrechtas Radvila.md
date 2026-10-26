@@ -105,7 +105,7 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184857
@@ -122,6 +122,5 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

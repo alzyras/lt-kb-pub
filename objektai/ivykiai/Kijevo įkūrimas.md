@@ -69,6 +69,5 @@ Tokiomis aplinkybėmis dabartinio Kijevo žemė pir miausia tapo skitų pastovia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

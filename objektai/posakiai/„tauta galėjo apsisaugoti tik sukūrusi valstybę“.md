@@ -69,6 +69,5 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

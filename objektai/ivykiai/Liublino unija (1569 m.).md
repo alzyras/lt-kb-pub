@@ -161,6 +161,15 @@ Nenurodyta
   pagrindžia:
     - c-154532
 
+<a id="claim-t-169847"></a>
+- t-006
+  teiginys: "Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-154525
+
 <a id="claim-t-169848"></a>
 - t-007
   teiginys: "Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų."
@@ -292,45 +301,6 @@ Nenurodyta
   pagrindžia:
     - c-167959
 
-<a id="claim-t-207456"></a>
-- t-207456
-  teiginys: "Alfredo Bumblausko vertinimu, Liublino unija reikšmingai sumažino LDK teritoriją, tačiau jos reikšmė gyventojų skaičiaus atžvilgiu buvo mažesnė."
-  atnaujinta: "2026-09-19 12:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
-  pagrindžia:
-    - c-190085
-
-<a id="claim-t-207457"></a>
-- t-207457
-  teiginys: "Alfredo Bumblausko pateikiamu vertinimu, po Liublino unijos LDK liko apie 2,5 milijono žmonių."
-  atnaujinta: "2026-09-19 12:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
-  pagrindžia:
-    - c-190055
-
-<a id="claim-t-219868"></a>
-- t-219868
-  teiginys: "Narbutas apžvelgė politine ir kultūrinę lietuvių rai dą nuo seniausių laikų iki Liublino unijos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
-  pagrindžia:
-    - c-199678
-
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.'
@@ -400,7 +370,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-006
     - t-007
 
 - id: c-154526
@@ -426,7 +397,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-009
 
@@ -454,7 +425,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-154529
@@ -477,7 +448,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-154532
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -496,7 +466,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-008
 
@@ -521,7 +491,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-154534
@@ -544,7 +514,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-166648
@@ -564,7 +534,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-167959
@@ -593,7 +563,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-167960
@@ -622,7 +592,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-171267
@@ -642,63 +612,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
-
-- id: c-190055
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 32"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 32."
-  citata_originali: |
-    Tiesa, tuojau pat
-    įvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš-
-    minga gyventojų skaičiaus atžvilgiu. Kadangi numanoma 1568 m. LDK Ukrainos žemėse
-    gyvenus tik apie 250 tūkstančių žmonių, o Palenkėje – apie 150 tūkstančių, todėl manoma,
-    kad po Liublino unijos LDK liko apie 2,5 milijono žmonių.
-  citata_rodoma: "Kadangi numanoma 1568 m. LDK Ukrainos žemėse \ngyvenus tik apie 250 tūkstančių žmonių, o Palenkėje – apie 150 tūkstančių, todėl manoma, \nkad po Liublino unijos LDK liko apie 2,5 milijono žmonių."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207457
-
-- id: c-190085
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 32"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 32."
-  citata_originali: |
-    Naujausių tyrimų nuro-
-    domi mažesni skaičiai, tačiau 1568 m. manoma buvus jau arti 3 milijonų. Tiesa, tuojau pat
-    įvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš-
-    minga gyventojų skaičiaus atžvilgiu. Kadangi numanoma 1568 m.
-  citata_rodoma: "esa, tuojau pat \nįvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš-\nminga gyventojų skaičiaus atžvilgiu. K"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207456
-
-- id: c-199678
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
-  citata_originali: |
-    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
-    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija - tai
-    savarankiškos LDK egzistavimo pabaiga.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219868
-

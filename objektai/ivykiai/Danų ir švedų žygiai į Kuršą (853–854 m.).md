@@ -95,6 +95,5 @@ Paskui Danijos karatius Erikas II 853 metais išsilaipino Kurše, kur buvo įsik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

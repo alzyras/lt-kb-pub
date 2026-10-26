@@ -71,6 +71,5 @@ AUPL = Akta unii Polski z Litwą 1385-1791, išl.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -87,6 +87,5 @@ Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

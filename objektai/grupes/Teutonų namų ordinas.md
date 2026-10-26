@@ -59,18 +59,6 @@ media_all_json: '[]'
   pagrindžia:
     - c-202627
 
-<a id="claim-t-220266"></a>
-- t-220266
-  teiginys: "1274 m. arba 1273 m. Teutonų namų ordino didžiuoju magistru buvo Hartmanas iš Heldrungeno."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202780
-
 ## Citatos
 
 - id: c-202627
@@ -90,7 +78,7 @@ media_all_json: '[]'
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-202780
@@ -107,9 +95,6 @@ media_all_json: '[]'
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220266
-
 - id: c-203232
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -125,6 +110,5 @@ media_all_json: '[]'
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

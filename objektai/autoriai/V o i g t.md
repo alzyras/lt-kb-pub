@@ -61,6 +61,5 @@ Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui ciste
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

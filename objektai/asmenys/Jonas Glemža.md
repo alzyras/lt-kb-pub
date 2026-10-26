@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Jonas Glemža'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
@@ -29,11 +30,7 @@ canonical_biography: "Buvo Elvyros Glemžaitės brolis."
 
 ## Santrauka
 
-Jonas Glemža buvo Elvyros Glemžaitės brolis.
-
-## Santrauka
-
-Jonas Glemža buvo Elvyros Glemžaitės brolis.
+Jonas Glemža buvo Elvyros Glemžaitės brolis. Ona Dapšytė-Kriukelienė Joną Glemžą, gimusį 1917 m. Pandėlio valsčiuje ir gyvenusį Miliūnų kaime, apibūdina kaip partizanų rėmėją, įtariamą dokumentų padirbinėjimu; Glemža žuvo 1947 m. rugpjūčio 31 d. Nušautas nepažįstamasis buvo atpažintas kaip Jonas Glemža iš Pandėlio valsčiaus.
 
 ## Teiginiai
 
@@ -50,19 +47,25 @@ Jonas Glemža buvo Elvyros Glemžaitės brolis.
   pagrindžia:
     - c-208447
 
-<a id="claim-t-230599"></a>
-- t-230599
-  teiginys: "Nušautas nepažįstamasis buvo atpažintas kaip Jonas Glemža iš Pandėlio valsčiaus."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  vertinimo_atnaujinta: "2026-09-27T12:51:00Z"
-  pagrindžia:
-    - c-211237
-
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Ona Dapšytė-Kriukelienė Joną Glemžą, gimusį 1917 m. Pandėlio valsčiuje ir gyvenusį Miliūnų kaime, apibūdina kaip partizanų rėmėją, įtariamą dokumentų padirbinėjimu; Glemža žuvo 1947 m. rugpjūčio 31 d.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 269"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Nušautas nepažįstamasis buvo atpažintas kaip Jonas Glemža iš Pandėlio valsčiaus.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 278"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-208447
@@ -74,18 +77,5 @@ Jonas Glemža buvo Elvyros Glemžaitės brolis.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-211237
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 278"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 278."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-230599
-

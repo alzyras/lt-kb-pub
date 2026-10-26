@@ -61,6 +61,5 @@ Naščių žemėje nurodomos trys chorunžos: Merkio, Eišiškių ir Rodūnės; 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

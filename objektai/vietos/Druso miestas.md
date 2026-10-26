@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-156f3e56a85d7c92e9c09df5"
-canonical_name: "Druso miestas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Druso miestas"]
+entity_id: ent-156f3e56a85d7c92e9c09df5
+canonical_name: Druso miestas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Druso miestas
 sameAs: []
-canonical_biography: "Senovės Druso miestas buvo patogus ir svetimšaliams saugus uostas netoli dabartinio Elbliongo."
-place_authority: true
-historical_names: []
+canonical_biography: Senovės Druso miestas buvo patogus ir svetimšaliams saugus uostas netoli dabartinio Elbliongo.
 ---
 # Druso miestas
 
@@ -86,6 +86,5 @@ Senovės Druso miestas buvo patogus ir svetimšaliams saugus uostas netoli dabar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

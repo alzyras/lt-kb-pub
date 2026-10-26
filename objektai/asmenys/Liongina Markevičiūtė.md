@@ -31,13 +31,14 @@ canonical_biography: "1949 m. vasario 2 d. Lionginos Markevičiūtės ūkyje apt
 
 1949 m. vasario 2 d. Lionginos Markevičiūtės ūkyje aptiktame bunkeryje slėpėsi du partizanai; Adolfas Baltrėnas žuvo, o Vytautas Aukštikalnis ir namų šeimininkė Liongina Markevičiūtė buvo suimti.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213230
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: '1949 m. vasario 2 d. Lionginos Markevičiūtės ūkyje aptiktame bunkeryje slėpėsi du partizanai; Adolfas Baltrėnas žuvo, o Vytautas Aukštikalnis ir namų šeimininkė Liongina Markevičiūtė buvo suimti.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 252"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 252."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:37"

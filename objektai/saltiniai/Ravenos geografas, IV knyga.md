@@ -59,6 +59,5 @@ Taip pat yra senovės geogra fo, žinomo kaip Ravenos geografas2, IX amžiaus in
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

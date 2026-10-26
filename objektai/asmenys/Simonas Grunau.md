@@ -25,6 +25,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-fc1f94d8741cb80af7e5937d
+canonical_name: Simonas Grunau
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Simonas Grunau
+sameAs: []
+canonical_biography: 'Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
 external_sources_json: '[{"title":"Simonas Grunau","url":"https://lt.wikipedia.org/wiki/Simonas_Grunau","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:49:58+00:00","source_checked_at":"2026-09-19T15:49:58+00:00","counts":{"relations":2,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Simonas Grunau (vok. Simon Grunau, Grūnavas, apie 1470 m. Tolkemita, dab. Tolkmickas, Varmijos Mozūrų vaivadija – apie 1531 m.) – vokiečių kronikininkas, „Prūsijos kronika“ autorius.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"247355","revision_id":"7707029","status":"published","translation_status":"native","source":{"title":"Simonas Grunau","url":"https://lt.wikipedia.org/wiki/Simonas_Grunau","publisher":"Vikipedija","language":"lt","article_id":"247355","revision_id":"7707029","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7707029","history_url":"https://lt.wikipedia.org/w/index.php?title=Simonas_Grunau&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:10:36.906640+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"6cc99ae71fbdbaad9bf05d4325871a533eb2622db107d3604f4e0c2301f16faf","version_pk":"12f5ff530cb86170fc24b442b0b9330b"}},"source_buttons":[{"label":"Vikipedija","title":"Simonas Grunau","url":"https://lt.wikipedia.org/wiki/Simonas_Grunau","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Simonas_Grunau"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"017d0e439b45bd58ef699330","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Parašė išsamią visos Prūsijos istoriją nuo legendinių laikų iki 1529 m.","context":"XVI a. 3-iajame dešimtmetyje Prūsijoje. Šaltinis ją vertina kaip pirmąją ir išsamiausią visos Prūsijos istoriją; joje plačiai remiamasi Petru iš Dusburgo.","support_ids":["t-224797","c-203833"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224797","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203833","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a. 3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-224797","confidence":0.7},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Kaimas","claim_id":"t-220019","confidence":0.84}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
 object_page_finisher: 'true'
@@ -38,13 +47,6 @@ object_page_seo_description: 'Simonas Grunau: Pasak Simono Grunau kronikos, prū
 object_page_seo_input_hash: 309cf807f6f0dea48559afff43f8f0534151ec71b5a28454467e6bb3a9f4e365
 object_page_seo_generated_at: '2026-09-19T15:49:58+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-fc1f94d8741cb80af7e5937d"
-canonical_name: "Simonas Grunau"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Simonas Grunau"]
-sameAs: ["https://www.wikidata.org/entity/Q1323315"]
-canonical_biography: "Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus."
 ---
 # Simonas Grunau
 
@@ -310,12 +312,11 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
     vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
   citata_rodoma: "Pasak\nSimono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,\nkur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-\nvų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-64920
@@ -336,7 +337,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-166961
@@ -357,7 +358,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-171498
@@ -382,7 +383,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-171499
@@ -405,7 +406,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-171500
@@ -428,7 +429,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-171501
@@ -447,7 +448,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-171502
@@ -466,7 +467,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-171503
@@ -492,7 +493,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-171504
@@ -517,7 +518,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-171505
@@ -543,7 +544,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-173850
@@ -570,7 +571,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-179039
@@ -590,118 +591,5 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
-
-- id: c-195782
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
-  citata_originali: |
-    Iš imperatoriaus Augusto valdy­
-    mo Romos valstybėje epochos išliko geografijos—istorijos
-    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
-    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
-    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
-    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
-    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
-    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
-    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
-    te, vėliau pavadintame Prūsija, stebėjimus. Mes panau­
-    dosime Hartknocho aprašytus padavimus, pridurdami ir
-    Luko Davido kronikos teiginius, kurių nežinojo anas au­
-    1 Lib.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197884
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 400"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
-  citata_originali: |
-    Taip anot pono Foigto tyrimų.
-    Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
-    se ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas. Is­
-    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
-    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198784
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 415"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
-  citata_originali: |
-    O pats
-    krivis visoje jų istorijoje atlieka tokį svarbų vaidmenį ir yra
-    toks svarbus objektas, kad jeigu jis būtų buvęs pramanytas, tai
-    būtų sugriuvusi visa jos sandara. Todėl reiktų padaryti prie­
-    kaištą Lukui Davidui, kad arba jis išgalvojo pačią vyskupo Kris­
-    tijono kroniką, arba pripasakojo nebūtų joje dalykų; kai dėl
-    antrojo, tai negalima nieko sakyti, nes yra ir kitas liudytojas -
-    kronikininkas Grunau, kuris tą patį perskaitė minėtoje kroni­
-    koje, tad nėra abejonės, kad vyskupas Kristijonas žinojo krivį
-    esant, o gal ir pažino jį iš arti, būdamas prūsų nelaisvėje.
-    Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
-    išplaukiančius iš paties dalyko.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199769
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 432"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
-  citata_originali: |
-    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
-    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
-    taip pat turėdami omenyje kronikininkams būdingus trūku­
-    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
-    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
-    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
-    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
-    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
-    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
-    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
-    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
-    Davido mirties rankraščių net rasti išrašų iš jos likučiai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203823
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
-  citata_originali: |
-    Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
-    variantas. Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83. M.
-    Tepenas, apžvelgdamas Prūsijos istoriografiją, nemaža dėmesio skyrė ir Dusburgiečiui84.
-    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
-    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
-    XVII a.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

@@ -72,10 +72,10 @@ Nenurodyta
   pagrindžia:
     - c-174919
 
-<a id="claim-t-214112"></a>
-- t-214112
+<a id="claim-t-192050"></a>
+- t-002
   teiginys: "Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
@@ -90,6 +90,8 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sutvarkyta vietovardžio forma ir sakinys tiesiogiai susietas su pratarmės pasirašymu. Nepridėta daugiau biografinių aplinkybių."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174920
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -141,7 +143,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-174920
@@ -159,4 +161,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

@@ -72,6 +72,5 @@ Narbutas teigia, kad likimas buvo pagrindinis senovės latvių filosofijos princ
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

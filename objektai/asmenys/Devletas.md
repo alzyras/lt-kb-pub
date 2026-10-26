@@ -84,6 +84,5 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

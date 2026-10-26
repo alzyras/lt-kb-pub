@@ -60,6 +60,5 @@ Rankraštyje Vilniuje minima Ragučio maldykla Didžiojoje gatvėje prie žuvų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

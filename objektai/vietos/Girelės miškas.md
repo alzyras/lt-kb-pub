@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Girelės miškas'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1950 m.'
@@ -37,11 +38,7 @@ historical_names: []
 
 ## Santrauka
 
-Birželio 13 d. Girelės miške žuvo Algirdas Laužikas, Petras Juodiškis ir Mataušas Kunčys-Starkus.
-
-## Santrauka
-
-Birželio 13 d. Girelės miške žuvo Algirdas Laužikas, Petras Juodiškis ir Mataušas Kunčys-Starkus.
+Birželio 13 d. Girelės miške žuvo Algirdas Laužikas, Petras Juodiškis ir Mataušas Kunčys-Starkus. Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1945 m. balandžio 28 d. Girelės miške per čekistų operaciją rastame bunkeryje slėpėsi Vytautas Sabulis, jo brolis ir žmona.
 
 ## Reikšmingi paminėjimai
 
@@ -49,7 +46,6 @@ Birželio 13 d. Girelės miške žuvo Algirdas Laužikas, Petras Juodiškis ir M
   santrauka: 'Birželio 13 d. Girelės miške žuvo Algirdas Laužikas, Petras Juodiškis ir Mataušas Kunčys-Starkus.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -57,14 +53,12 @@ Birželio 13 d. Girelės miške žuvo Algirdas Laužikas, Petras Juodiškis ir M
   statusas: verified
 - t-002
 
-## Citatos
-
-- id: c-214648
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-002
+  santrauka: 'Onos Dapšytės-Kriukelienės kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodoma, kad 1945 m. balandžio 28 d. Girelės miške per čekistų operaciją rastame bunkeryje slėpėsi Vytautas Sabulis, jo brolis ir žmona.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 60"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 60."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 18:24"
-

@@ -32,6 +32,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-73d95951340f95611b7366b1
+canonical_name: Volynė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Volynė
+sameAs: []
+canonical_biography: '1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą. 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę. Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.'
+place_authority: true
+historical_names: []
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:26:12+00:00","source_checked_at":"2026-09-19T16:26:12+00:00","counts":{"relations":7,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1cd86458716044f5ceb9d66b","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kunigaikštystė, kurią Kazimieras valdė","context":"Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti Lietuvos, Rusų ir Volynės Kunigaikštysčių.","support_ids":["t-211140","c-193032"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211140","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193032","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"O paskui didysis kunigaikštis Kazimieras atvyko į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo, didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­ džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Auksinė Orda","claim_id":"t-225640","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-185125","confidence":0.68},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-185807","confidence":0.63},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-184669","confidence":0.78},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-185134","confidence":0.86},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Aleksandras Narimantaitis","claim_id":"t-186175","confidence":0.86},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-185207","confidence":0.74}],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
 object_page_finisher: 'true'
@@ -45,15 +56,6 @@ object_page_seo_description: 'Volynė: 1219 m. priešmindauginė Lietuva sudarė
 object_page_seo_input_hash: 6f343411217be868685ecbbdf49870182e36b13221759637de848b897c619ee8
 object_page_seo_generated_at: '2026-09-19T16:26:12+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-73d95951340f95611b7366b1"
-canonical_name: "Volynė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Volynė"]
-sameAs: []
-canonical_biography: "1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą. 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę. Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio."
-place_authority: true
-historical_names: []
 ---
 # Volynė
 
@@ -212,54 +214,6 @@ historical_names: []
   pagrindžia:
     - c-178896
 
-<a id="claim-t-210897"></a>
-- t-210897
-  teiginys: "O Volynės kunigaikščio bajorai žemai lenkėsi didžiajam kunigaikščiui Gediminui, pra šydami, kad juos valdytų ir būtų viešpačiu, o jų žemių neniokotų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194237
-
-<a id="claim-t-211140"></a>
-- t-211140
-  teiginys: "Kazimieras valdė Lietuvos, Rusų ir Volynės Kunigaikštystes."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193032
-
-<a id="claim-t-211301"></a>
-- t-211301
-  teiginys: "Volynės kunigaikščiai ir bajorai atvyko pas Kazimierą, nusilenkė jam ir prisiekė tarnauti Lietuvos Didžiajai Kunigaikštystei."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193882
-
-<a id="claim-t-211959"></a>
-- t-211959
-  teiginys: "Švitrigaila gavo Lucką su visa Volynės žeme iki gyvos galvos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194263
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.'
@@ -406,7 +360,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-59289
@@ -424,7 +378,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168567
@@ -449,7 +403,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-168568
@@ -482,7 +436,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-168569
@@ -510,7 +464,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-168571
@@ -538,7 +492,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-170627
@@ -566,7 +520,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-178896
@@ -594,83 +548,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
-
-- id: c-193032
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
-  citata_originali: |
-    O paskui didysis kunigaikštis Kazimieras atvyko
-    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
-    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
-    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211140
-
-- id: c-193882
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 123"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 123."
-  citata_originali: |
-    Netrukus iš Volynės atvyko kunigaikščiai Sanguš-
-    kos1 ir visi kiti Volynės kunigaikščiai bei bajorai ir
-    nusilenkė didžiajam kunigaikščiui Kazimierui, prisiek­
-    dami jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai
-    tarnauti2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211301
-
-- id: c-194237
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 63"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 63."
-  citata_originali: |
-    O Volynės kunigaikščio bajorai
-    žemai lenkėsi didžiajam kunigaikščiui Gediminui, pra­
-    šydami, kad juos valdytų ir būtų viešpačiu, o jų žemių
-    neniokotų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210897
-
-- id: c-194263
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 132"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 132."
-  citata_originali: |
-    davė jam ligi gyvos galvos Lucką su
-    visa Volynės žeme
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211959
 
 ## Ryšiai
 - Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

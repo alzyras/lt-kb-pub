@@ -74,6 +74,5 @@ Teodoro Narbuto pasakojime Kęstutį, 1361 m. paimtą į nelaisvę, nugabeno į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

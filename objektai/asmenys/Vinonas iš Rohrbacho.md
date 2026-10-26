@@ -91,6 +91,5 @@ canonical_biography: "1205 metais brolija išrinko magistru Vinoną iš Rohrbach
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

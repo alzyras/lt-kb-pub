@@ -71,6 +71,5 @@ Karigaila su bendrininkais slapta užpuolė Dirsunės namus, nužudė Dirsunę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

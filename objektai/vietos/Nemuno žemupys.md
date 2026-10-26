@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-6d88859f4b78837e63b45b15"
-canonical_name: "Nemuno žemupys"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Nemuno žemupys"]
+entity_id: ent-6d88859f4b78837e63b45b15
+canonical_name: Nemuno žemupys
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Nemuno žemupys
 sameAs: []
-canonical_biography: "Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta garsaus pranašo, kurio teirautasi apie tos šventyklos likimą. O lietuviai Nemuno žemupyje vietoj „Gej“ šaukia „Hej“."
-place_authority: true
-historical_names: []
+canonical_biography: 'Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta garsaus pranašo, kurio teirautasi apie tos šventyklos likimą. O lietuviai Nemuno žemupyje vietoj „Gej“ šaukia „Hej“.'
 ---
 # Nemuno žemupys
 
@@ -75,7 +75,7 @@ Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu sią Vilniuje, su�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-199836
@@ -93,6 +93,5 @@ Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu sią Vilniuje, su�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

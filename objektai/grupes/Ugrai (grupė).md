@@ -65,6 +65,5 @@ Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

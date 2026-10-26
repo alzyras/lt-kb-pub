@@ -60,6 +60,5 @@ Amatai ir pramonės pradmenys Kauno miesto savivaldos raida ir raiška .
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

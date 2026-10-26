@@ -65,6 +65,5 @@ Teodoro Narbuto pasakojimu, kryžiuočiai, užkariavę Sambiją, subūrė samdom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

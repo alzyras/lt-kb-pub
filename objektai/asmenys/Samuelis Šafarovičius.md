@@ -79,6 +79,5 @@ canonical_biography: "1733 m. Samuelis Šafarovičius su ginkluota kompanija už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

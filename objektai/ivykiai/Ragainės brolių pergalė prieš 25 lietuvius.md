@@ -68,7 +68,6 @@ Lietuviai iš Aukaimio apylinkių su 36 vyrais planavo plėšikišką išpuolį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-205472
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -85,6 +84,5 @@ Lietuviai iš Aukaimio apylinkių su 36 vyrais planavo plėšikišką išpuolį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

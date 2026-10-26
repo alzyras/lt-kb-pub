@@ -71,21 +71,3 @@ Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-193533"></a>
-- t-001
-  teiginys: "Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė, kurios savarankiškumą laidavo 1588 m. Lietuvos Statutas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-176213
-

@@ -29,42 +29,10 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
 
 ## Teiginiai
 
-<a id="claim-t-196388"></a>
-- t-002
-  teiginys: "Mykolas, sužinojęs, kad Kazimieras su žymiausiais senatoriais ir bajorais vyksta iš Bresto į Vilnių, paliko Trakų pilį ir patraukė į Mazoviją."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
-  pagrindžia:
-    - c-168757
-
-<a id="claim-t-185396"></a>
-- t-185396
-  teiginys: "Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio veiksmus."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "senatas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"senatas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168757
-
 <a id="claim-t-185397"></a>
-- t-185397
+- t-001
   teiginys: "Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,6 +47,19 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168758
+
+<a id="claim-t-196388"></a>
+- t-002
+  teiginys: "Mykolas, sužinojęs, kad Kazimieras su žymiausiais senatoriais ir bajorais vyksta iš Bresto į Vilnių, paliko Trakų pilį ir patraukė į Mazoviją."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
+  pagrindžia:
+    - c-168757
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -164,9 +145,8 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-185396
 
 - id: c-168758
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -190,6 +170,5 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185397
-
+  pagrindzia:
+    - t-001

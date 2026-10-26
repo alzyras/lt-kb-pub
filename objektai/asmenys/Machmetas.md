@@ -125,7 +125,7 @@ canonical_biography: "1424 m. Vytauto pa­ siųstoji kariuomenė smarkiai sumuš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-90781
@@ -150,7 +150,7 @@ canonical_biography: "1424 m. Vytauto pa­ siųstoji kariuomenė smarkiai sumuš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-90782
@@ -173,7 +173,7 @@ canonical_biography: "1424 m. Vytauto pa­ siųstoji kariuomenė smarkiai sumuš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 ## Ryšiai

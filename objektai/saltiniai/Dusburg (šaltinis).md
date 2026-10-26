@@ -67,6 +67,5 @@ Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, ven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

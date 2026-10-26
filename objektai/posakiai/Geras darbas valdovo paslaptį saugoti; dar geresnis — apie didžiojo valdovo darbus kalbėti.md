@@ -55,6 +55,5 @@ Geras darbas valdovo paslaptį saugoti; dar geres nis — apie didžiojo valdovo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -14,13 +14,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-df12bd610ca70d4864d14109"
-canonical_name: "Saksas Gramatikas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Saksas Gramatikas"]
+entity_id: ent-df12bd610ca70d4864d14109
+canonical_name: Saksas Gramatikas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Saksas Gramatikas
 sameAs: []
-canonical_biography: "Anot jo, senovės rusai yra šiandienos rusų protėviai; šią savo prie laidą pagrindžia tuo, kad Saksas Gramatikas bendrine sąvoka Estiorum terrae apėmęs kraštą, kur buvusi Rotala."
+canonical_biography: 'Anot jo, senovės rusai yra šiandienos rusų protėviai; šią savo prie laidą pagrindžia tuo, kad Saksas Gramatikas bendrine sąvoka Estiorum terrae apėmęs kraštą, kur buvusi Rotala.'
 ---
 # Saksas Gramatikas
 
@@ -65,6 +68,5 @@ Anot jo, senovės rusai yra šiandienos rusų protėviai; šią savo prie laidą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

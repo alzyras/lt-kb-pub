@@ -70,6 +70,5 @@ Po mūšio Kulmo pilėnai eidavo į kovos lauką laidoti žuvusiųjų kūnų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

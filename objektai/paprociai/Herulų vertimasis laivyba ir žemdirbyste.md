@@ -71,6 +71,5 @@ Herulai, gavę laisvai valdyti pajūrio koloni ją, gal Malabatui patarus, ėmė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

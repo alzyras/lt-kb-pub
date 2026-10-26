@@ -77,6 +77,5 @@ jubiliejinių metų (1930) Lietuvos istorijos dirvonuose ėmė pasirodyti vad. �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

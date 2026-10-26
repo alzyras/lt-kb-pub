@@ -70,6 +70,5 @@ Europiečiai prieš 300 metų atrado Ameriką, įkūrė ten savo kolonijas ir su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

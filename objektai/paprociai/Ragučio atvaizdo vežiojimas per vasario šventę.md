@@ -77,6 +77,5 @@ Narbutas teigia, kad per vasarį švenčiamą Ragučio šventę jo stabas arba a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

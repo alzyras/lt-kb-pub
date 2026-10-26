@@ -71,6 +71,5 @@ Sorų paplotėliai buvo atnašaujami kaip auka ir kepami ant prie liepų medži�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -61,6 +61,5 @@ Kita ginčytina Kauno ir Trakų santykių vieta buvo trakiečių galimybė preki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -62,6 +62,5 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

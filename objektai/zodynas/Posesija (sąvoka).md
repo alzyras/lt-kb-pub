@@ -83,7 +83,7 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185122
@@ -101,7 +101,7 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185123
@@ -119,6 +119,5 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

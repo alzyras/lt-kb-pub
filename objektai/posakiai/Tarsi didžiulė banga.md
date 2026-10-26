@@ -55,6 +55,5 @@ Tarsi didžiulė banga jos persirito per Dneprą; neapsa koma baimė ėjo pirma 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

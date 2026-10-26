@@ -84,6 +84,5 @@ canonical_biography: "Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

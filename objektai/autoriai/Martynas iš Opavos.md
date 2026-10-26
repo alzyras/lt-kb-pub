@@ -22,13 +22,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-f1789ed7d1cf6e8aa21ee35c"
-canonical_name: "Martynas iš Opavos"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Martynas iš Opavos"]
+entity_id: ent-f1789ed7d1cf6e8aa21ee35c
+canonical_name: Martynas iš Opavos
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Martynas iš Opavos
 sameAs: []
-canonical_biography: "Martynas iš Opavos buvo čekų vienuolis, gyvenęs ir veikęs Prahoje bei Romoje, popiežiaus kurijoje. Dusburgietis IV dalies marginaliniuose paaiškinimuose rėmėsi Martyno iš Opavos veikalu."
+canonical_biography: 'Martynas iš Opavos buvo čekų vienuolis, gyvenęs ir veikęs Prahoje bei Romoje, popiežiaus kurijoje. Dusburgietis IV dalies marginaliniuose paaiškinimuose rėmėsi Martyno iš Opavos veikalu.'
 ---
 # Martynas iš Opavos
 
@@ -82,7 +85,7 @@ Martynas iš Opavos buvo čekų vienuolis, gyvenęs ir veikęs Prahoje bei Romoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-205303
@@ -101,6 +104,5 @@ Martynas iš Opavos buvo čekų vienuolis, gyvenęs ir veikęs Prahoje bei Romoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

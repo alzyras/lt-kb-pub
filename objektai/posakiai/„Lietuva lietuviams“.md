@@ -85,7 +85,6 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

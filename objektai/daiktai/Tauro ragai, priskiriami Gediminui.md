@@ -91,6 +91,5 @@ Narbutas teigia, kad kunigaikščio giminės ainiai saugojo tauro, kurį Gedimin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -79,6 +79,5 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

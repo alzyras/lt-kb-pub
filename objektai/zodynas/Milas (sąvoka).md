@@ -64,6 +64,5 @@ Milas būdavo audžiamas tiek kaimuose, tiek dvaruose.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 19:20"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

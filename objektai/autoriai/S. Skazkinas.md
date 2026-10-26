@@ -76,6 +76,5 @@ S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

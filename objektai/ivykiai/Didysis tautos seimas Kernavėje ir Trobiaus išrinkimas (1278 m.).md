@@ -79,6 +79,5 @@ Po Romunto mirties, pasak Teodoro Narbuto, Kernavėje susirinkę aukštieji vals
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

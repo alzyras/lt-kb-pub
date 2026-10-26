@@ -76,6 +76,5 @@ Tuo keliu nuėjo ne tik Dauguvos pilys, kaip Gercike, Kukenois, bet ir pats Polo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

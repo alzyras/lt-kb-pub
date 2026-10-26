@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-49956bbad50634769bfe9e08"
-canonical_name: "Petras Lavrovas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Petras Lavrovas"]
+entity_id: ent-49956bbad50634769bfe9e08
+canonical_name: Petras Lavrovas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Petras Lavrovas
 sameAs: []
-canonical_biography: "Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas."
+canonical_biography: Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas.
 ---
 # Petras Lavrovas
 
@@ -63,6 +65,5 @@ Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

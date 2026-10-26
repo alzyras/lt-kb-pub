@@ -79,6 +79,5 @@ canonical_biography: "1737 m. Antanas Krukovskis su Juozapu Malinovskiu užpuol�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

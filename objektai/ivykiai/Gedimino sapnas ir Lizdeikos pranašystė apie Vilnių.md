@@ -89,7 +89,7 @@ Narbutas pasakoja, kad Lizdeika paskelbė didžiajam kunigaikščiui Gediminui p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200597
@@ -117,6 +117,5 @@ Narbutas pasakoja, kad Lizdeika paskelbė didžiajam kunigaikščiui Gediminui p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

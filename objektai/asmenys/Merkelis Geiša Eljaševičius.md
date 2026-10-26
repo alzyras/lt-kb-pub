@@ -87,6 +87,5 @@ canonical_biography: "1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

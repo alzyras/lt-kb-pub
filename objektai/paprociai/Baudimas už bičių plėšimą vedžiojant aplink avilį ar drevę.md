@@ -73,6 +73,5 @@ Teodoras Narbutas nurodo, kad, pasak Lietuvos legendų, bičių plėšikai nuo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

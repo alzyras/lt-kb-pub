@@ -61,6 +61,5 @@ Mokšeckio brigada priverčia iš Širvintų pasitraukti 7-ajj pest.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -79,11 +79,9 @@ Włodarski, B.
     svjazi Rossii do XVII v., Maskva 1961, 116-130 p. (straipsnių rinkinys).
   citata_rodoma: "—Włodarski, B. : _Problem jaćwiński w stosunkach polsko-\nruskich,_ Zapiski Historyczne, t. 24, sąs. 2-3, Toruń 1959. — (”) _Jatviežs-\nkaja problemu v polsko-russkich svjazach X-XIII v.,_ Meždunarodnye\nsvjazi Rossii do XVII v., Maskva 1961, 116-130 p. (straipsnių rinkinys)."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

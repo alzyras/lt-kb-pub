@@ -57,7 +57,7 @@ media_all_json: '[]'
 <a id="claim-t-219624"></a>
 - t-001
   teiginys: "1910 m. lenkų enciklopedijoje paskelbtame Aleksandro Briuknerio straipsnyje T. Narbutas pavadintas įžymiuoju falsifikatoriumi."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

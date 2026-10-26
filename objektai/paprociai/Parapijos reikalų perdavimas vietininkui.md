@@ -87,6 +87,5 @@ Daugiau vargo aš turėjau su parapijos reikalų perleidimu savo vietininkui.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

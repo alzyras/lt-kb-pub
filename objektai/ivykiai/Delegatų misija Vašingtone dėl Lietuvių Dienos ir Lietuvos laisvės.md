@@ -84,7 +84,7 @@ Kuomet per mano galvų slankiojo tos liūd nos mintys ir pradėjau nerimauti api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192413
@@ -102,6 +102,5 @@ Kuomet per mano galvų slankiojo tos liūd nos mintys ir pradėjau nerimauti api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

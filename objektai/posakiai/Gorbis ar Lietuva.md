@@ -66,6 +66,5 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

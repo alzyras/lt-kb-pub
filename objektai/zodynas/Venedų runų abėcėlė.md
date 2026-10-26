@@ -58,6 +58,5 @@ To dievaičio vardo užrašė raidė „o“ yra įterpta į vidurį, o ne į pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

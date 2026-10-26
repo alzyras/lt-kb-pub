@@ -72,7 +72,7 @@ Tad sauromatų vardą reikėtų versti į klaidžio jantys, klajokliai matai. Va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-196671
@@ -93,6 +93,5 @@ Tad sauromatų vardą reikėtų versti į klaidžio jantys, klajokliai matai. Va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

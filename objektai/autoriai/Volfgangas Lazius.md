@@ -23,13 +23,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-fbba45ab041007132371ce37"
-canonical_name: "Volfgangas Lazius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Volfgangas Lazius"]
+entity_id: ent-fbba45ab041007132371ce37
+canonical_name: Volfgangas Lazius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Volfgangas Lazius
 sameAs: []
-canonical_biography: "Volfgangas Lazius pirmasis paskelbė heruliškąją „Tėve mūsų“ maldą."
+canonical_biography: Volfgangas Lazius pirmasis paskelbė heruliškąją „Tėve mūsų“ maldą.
 ---
 # Volfgangas Lazius
 
@@ -71,6 +74,5 @@ Volfgangas Lazius pirmasis paskelbė heruliškąją „Tėve mūsų“ maldą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

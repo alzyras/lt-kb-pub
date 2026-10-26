@@ -26,6 +26,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-5f2921927c7316c173f95c5c
+canonical_name: Stanislovas Augustas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Stanislovas Augustas
+sameAs: []
+canonical_biography: 'Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T02:37:54+00:00","source_checked_at":"2026-09-20T02:37:54+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8dc9cdf135c559806f060f8c","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Karalius ir monarchas","context":"Šaltiniuose Stanislovas Augustas tiesiogiai įvardijamas karaliumi; 1998 m. šaltinis jį taip pat vadina nuverstu monarchu.","support_ids":["t-200767","c-184112","t-208257","c-190888"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200767","source":"darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md"},{"kind":"internal_claim","claim_id":"t-208257","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md"},{"kind":"evidence","evidence_id":"c-184112","source":"darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md","quote":"Nojaus aukojimo grupė frontono viduje kupina veržlaus judesio; nišose tūnančių statulų charakteris — tapybiškas ir afektuotas. Tuose italo Righi, karaliaus Stanislovo Augusto dvaro skulptoriaus, kūri­ niuose skamba gęstanti baroko melodija. Gi trijų medinių, skarda apkalstytų statulų frontono kampuose (vidury — šv."},{"kind":"evidence","evidence_id":"c-190888","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md","quote":"Nei j Lenkiją, nei į Lietuvą A. Midletonas negrįžo. 1796 m. pavasarį persikėlė į Hamburgą, o iš ten - į Danijai priklausiusią Altoną. Čia buvęs pasiuntinybės tarnautojas sulaukėjo nuopelnų įvertinimo -17 9 4 m. data suteikto Šv. Stanislovo ordino ir Stanislovo Augusto, nuversto monarcho, kurio valstybės pertvarkymo vizija šventai tikėjo, finansinės paramos - 200 dukatų. 1796-ųjų metų vasarą pra­ leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko. Laidotuvių išlaidas apmokėjo Stanislovas Augustas99."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":4}}'
 object_page_finisher: 'true'
@@ -39,13 +48,6 @@ object_page_seo_description: 'Stanislovas Augustas: Spaustuvė turėjo karališk
 object_page_seo_input_hash: 64ed61d02880333bf392fc5ac590104f2b499fe9fd3ac8f4c84c476935dd357c
 object_page_seo_generated_at: '2026-09-20T02:37:54+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-5f2921927c7316c173f95c5c"
-canonical_name: "Stanislovas Augustas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Stanislovas Augustas"]
-sameAs: []
-canonical_biography: "Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto."
 ---
 # Stanislovas Augustas
 
@@ -124,34 +126,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   pagrindžia:
     - c-184235
 
-<a id="claim-t-208257"></a>
-- t-208257
-  teiginys: "1797 m. A. Midletono laidotuvių išlaidas apmokėjo Stanislovas Augustas."
-  atnaujinta: "2026-09-20 05:37"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  temporaliniai_duomenys: "įvykio data: 1797 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir tarinį bei tiksliai perteikia šaltinyje nurodytą laidotuvių išlaidų apmokėjimą."
-  pagrindžia:
-    - c-190888
-
-<a id="claim-t-208369"></a>
-- t-208369
-  teiginys: "A. Midletonas buvo, šaltinio apibūdinimu, karaliaus Stanislovo Augusto dvaro grupuotės žmogus."
-  atnaujinta: "2026-09-20 05:37"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
-  pagrindžia:
-    - c-190944
-
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: '1797 m. A. Midletono laidotuvių išlaidas apmokėjo Stanislovas Augustas.'
@@ -217,7 +191,7 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177117
@@ -242,7 +216,7 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184112
@@ -257,12 +231,11 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
     niuose skamba gęstanti baroko melodija. Gi trijų medinių, skarda apkalstytų
     statulų frontono kampuose (vidury — šv.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-184235
@@ -275,77 +248,9 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
     gusto, XVI šim tm etyje, jie pradėjo Lietuvon įves-
      dinēti vergiją....
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-- id: c-190888
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 282"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
-  citata_originali: |
-    Nei j Lenkiją, nei į Lietuvą A. Midletonas negrįžo. 1796 m. pavasarį persikėlė
-    į Hamburgą, o iš ten - į Danijai priklausiusią Altoną. Čia buvęs pasiuntinybės
-    tarnautojas sulaukėjo nuopelnų įvertinimo -17 9 4 m. data suteikto Šv. Stanislovo
-    ordino ir Stanislovo Augusto, nuversto monarcho, kurio valstybės pertvarkymo
-    vizija šventai tikėjo, finansinės paramos - 200 dukatų. 1796-ųjų metų vasarą pra­
-    leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio
-    i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko. Laidotuvių išlaidas apmokėjo
-    Stanislovas Augustas99.
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208257
-
-- id: c-190944
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 282"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
-  citata_originali: |
-    1796-ųjų metų vasarą pra­
-    leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio
-    i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko. Laidotuvių išlaidas apmokėjo
-    Stanislovas Augustas99.
-    Išvados
-    Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo
-    karaliaus Stanislovo Augusto dvaro grupuotės žmogus.
-  citata_rodoma: "Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo \nkaraliaus Stanislovo Augusto dvaro grupuotės žmogus."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208369
-
-- id: c-200626
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 375"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
-  citata_originali: |
-    Dar pastebėjau su­
-    daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­
-    siai rudos spalvos glazūra. Vienas kaimietis man pasakojo, kad
-    valdant karaliui Stanislovui Augustui, maždaug prieš 38 me­
-    tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar­
-    dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo­
-    linius dubenėlius, kurių seniau niekas nedrįsdavo judinti; vė­
-    liau smalsūs svečiai surinko ir šukes. Iš menkų jų likučių ir
-    vietinių pasakojimų įsitikinau, kad tos ašarinės buvo mažučiai
-    puodeliai, galėję turėti vos pusantro colio skersmenį ir gal iki
-    dviejų colių gylio, su šiek tiek siaurėjančiu kakleliu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

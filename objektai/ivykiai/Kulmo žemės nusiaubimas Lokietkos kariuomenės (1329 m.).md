@@ -73,7 +73,7 @@ Nenurodyta
 <a id="claim-t-220253"></a>
 - t-001
   teiginys: "1329 m. vasario 1 d. Lokietka su 6 tūkstančiais karių įsiveržė į Kulmo žemę."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

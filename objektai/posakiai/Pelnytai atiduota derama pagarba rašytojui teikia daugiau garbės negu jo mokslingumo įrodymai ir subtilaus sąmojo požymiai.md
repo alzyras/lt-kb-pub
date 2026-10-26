@@ -79,4 +79,3 @@ Autorinė sentencija apie deramos pagarbos rašytojui vertę, įterpta į Baltij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

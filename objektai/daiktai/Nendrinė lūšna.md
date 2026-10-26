@@ -70,6 +70,5 @@ Narbutas teigia, kad ulmigerai gyveno iš nendrių nupintose ir moliu apdrėbtos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

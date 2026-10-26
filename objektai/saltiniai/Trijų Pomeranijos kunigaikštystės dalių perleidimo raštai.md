@@ -59,6 +59,5 @@ Kronikoje teigiama, kad visi trys broliai, siekdami dovanojimo teisėtumo ir am�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

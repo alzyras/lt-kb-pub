@@ -78,6 +78,5 @@ Pabaiskas yra parapijos kaimas, priklausantis vie­ tiniam klebonui ir nutolęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -55,6 +55,5 @@ Tokį pat nuotolį nuo Vys los žiočių į Panoniją suskaičiuoja ir Ptolemėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-cad8ff2ebea4c585d77420b8"
-canonical_name: "Jonas Jaroševičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jonas Jaroševičius"]
+entity_id: ent-cad8ff2ebea4c585d77420b8
+canonical_name: Jonas Jaroševičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jonas Jaroševičius
 sameAs: []
-canonical_biography: "J. Jaroševičius teigė, kad T. Narbutas nušvietė pagoniškąjį lietuvių tikėjimą, ištaisė kai kurias Strijkovskio ir Lasickio klaidas bei supažindino su lietuvių dievų vardais ir ypatybėmis."
+canonical_biography: 'J. Jaroševičius teigė, kad T. Narbutas nušvietė pagoniškąjį lietuvių tikėjimą, ištaisė kai kurias Strijkovskio ir Lasickio klaidas bei supažindino su lietuvių dievų vardais ir ypatybėmis.'
 ---
 # Jonas Jaroševičius
 
@@ -66,6 +68,5 @@ J. Jaroševičius teigė, kad T. Narbutas nušvietė pagoniškąjį lietuvių ti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

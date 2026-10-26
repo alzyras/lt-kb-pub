@@ -78,6 +78,5 @@ Gruodžio 6 d. Algirdo vėliavos plevėsavo ant kalvų prie Maskvos, greta jų b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

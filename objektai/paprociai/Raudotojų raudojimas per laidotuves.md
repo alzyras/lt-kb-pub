@@ -76,6 +76,5 @@ Svarbiausias dalykas laidotuvėse buvo raudotojos; many ta, kad jos nuraminanči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

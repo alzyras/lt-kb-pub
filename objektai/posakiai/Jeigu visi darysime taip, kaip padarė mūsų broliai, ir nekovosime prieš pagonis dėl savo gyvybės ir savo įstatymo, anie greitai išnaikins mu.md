@@ -28,20 +28,10 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
 
 ## Teiginiai
 
-<a id="claim-t-224209"></a>
-- t-224209
-  teiginys: "Deja, tavyje nesirado nė kruopelytės malonės, nes tuo metu, kai magistras tave bardavo už tavo nusikaltimus, tu, jeigu būtum buvęs protingas, turėjai jį gerbti nelyginant savo tėvą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-223998"></a>
-- t-223998
+<a id="claim-t-59104"></a>
+- t-001
   teiginys: "Makabiejų knygos žodžiai apie kovą už gyvybę ir įstatymą skatino magistrą ir brolius ginti Prūsijos žemę nuo karaliaus antpuolių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -51,6 +41,8 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
   ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=53"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeigu visi darysime taip, kaip padarė mūsų broliai, ir nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mu\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59736
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,4 +83,5 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

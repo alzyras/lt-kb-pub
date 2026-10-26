@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Antanas Juška'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1929 m.'
@@ -39,10 +40,6 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
 
 1929 m. gegužės 25 d. arkivyskupas Juozapas Skvireckas įšventino Antaną Jušką kunigu; Juška primicijas laikė Palėvenės Šv. Domininko bažnyčioje. Panevėžyje kunigas Antanas Juška organizavo valdžios uždraustus ateitininkus, vadovavo blaivybės draugijai ir buvo pavasarininkų dvasios vadas. Po Stalino mirties speciali komisija, iš naujo persvarsčiusi Antano Juškos bylą, sumažino jam skirtą bausmę nuo 25 iki 8 metų.
 
-## Santrauka
-
-1929 m. gegužės 25 d. arkivyskupas Juozapas Skvireckas įšventino Antaną Jušką kunigu; Juška primicijas laikė Palėvenės Šv. Domininko bažnyčioje. Panevėžyje kunigas Antanas Juška organizavo valdžios uždraustus ateitininkus, vadovavo blaivybės draugijai ir buvo pavasarininkų dvasios vadas. Po Stalino mirties speciali komisija, iš naujo persvarsčiusi Antano Juškos bylą, sumažino jam skirtą bausmę nuo 25 iki 8 metų.
-
 ## Teiginiai
 
 <a id="claim-t-227795"></a>
@@ -66,7 +63,6 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   santrauka: 'Panevėžyje Juška organizavo slapta veikusius ateitininkus, vadovavo blaivybės draugijai ir buvo pavasarininkų dvasios vadas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,7 +75,6 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   santrauka: 'Po Stalino mirties speciali komisija, iš naujo persvarsčiusi Antano Juškos bylą, sumažino jam skirtą bausmę nuo 25 iki 8 metų.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 465 (PDF 466)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 465 (PDF 466)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,7 +87,15 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   santrauka: 'Kunigas Antanas Juška rėmė spaudą ir katalikiškas organizacijas bei globojo moksleivius.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 467 (PDF 468)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 467 (PDF 468)."
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: '1912 m. gimęs ir Aščiagalių kaime gyvenęs Antanas Juška-Vilkas priklausė Adolfo Bagdono kuopai ir buvo paskirtas vadovauti 14–15 partizanų būriui, veikusiam Mieliškio kaimo apylinkėse, Subačiaus valsčiuje.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "p. 467 (PDF 468)"
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -109,6 +112,5 @@ canonical_biography: "Antanas Juška gimė Subačiuje Domicelės Valaitės ir Ju
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

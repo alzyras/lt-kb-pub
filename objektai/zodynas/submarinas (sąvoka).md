@@ -64,6 +64,5 @@ Kas žino, ar austrų submarinas nelaukia mūsų ša lę Sicilijos krantų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

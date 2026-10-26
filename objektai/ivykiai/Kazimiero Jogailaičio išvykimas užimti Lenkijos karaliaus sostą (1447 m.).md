@@ -77,6 +77,5 @@ Kazimieras išvyko į Lenkiją užimti karaliaus sosto 1447 m., veikiausiai gegu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

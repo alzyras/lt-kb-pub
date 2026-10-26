@@ -73,6 +73,5 @@ Tad panašus rakto ženklas, iškaltas antkapiniame akme nyje, bus simbolis tiki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

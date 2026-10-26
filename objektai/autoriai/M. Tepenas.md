@@ -22,6 +22,20 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-1c4044dedef835fcfd847e44
+canonical_name: M. Tepenas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - M. Tepenas
+  - Toeppen M.
+  - Toppen M.
+  - Töppen M.
+  - Тоерреn M.
+sameAs: []
+canonical_biography: 'M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio leidimo parengėjas ir paskelbėjas. Išnašos jį taip pat tiesiogiai sieja su Prūsijos istoriografijos, įvadiniais ir istoriškai lyginamaisiais darbais.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:38:43+00:00","source_checked_at":"2026-09-20T06:38:43+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"617408bc0e35e96e8e55ed31","canonical_code":"author.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"XIX a., remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai.","context":"Šaltinio autoriaus perteiktas M. Tepeno požiūris; XIX a.; etninės istorijos tyrimų kontekstas.","support_ids":["t-221568","c-203698"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221568","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203698","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Savo ruožtu dar XIX a. M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9."}],"status":"published","conflict_status":"clear"},{"trait_id":"588ea70bd8e440862ff75a94","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Apžvelgė Prūsijos istoriografiją, išsamiai tyrė Petro Dusburgiečio kroniką ir rengė jos mokslinį leidimą pagal skirtingus istorinius nuorašus.","context":"M. Tepeno mokslinė veikla Prūsijos istoriografijos ir Petro Dusburgiečio kronikos tyrimų kontekste.","support_ids":["t-225464","c-203259"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225464","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203259","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"M. Tepenas, apžvelgdamas Prūsijos istoriografiją, nemaža dėmesio skyrė ir Dusburgiečiui84. Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"eaacc5d07b361ae72fda7e3a","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.","context":"Geografinių ir istorinių vietovių tyrimų kontekstas; šaltinyje nurodoma kaip M. Tepeno pastaba.","support_ids":["t-222584","c-202774"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222584","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202774","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone, Romovė resp. Romuva galėjusi būti prie Biserkiemio (netoli Gumbinės) ant kalvos, tada vadintos Sidabro kalnu, kur aptinkama įvairių radinių, be kita ko — pentinų, lenkto ir sukto sidabro (Prätorius M., Deliciae..., kn. 4, sk. 1, § XXII, r. 1. (WU) 152; r. p. (MA) 271—272; š. p. 564—565). M, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"cca4df623479e0f92a85e188","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Parengė Petro Dusburgiečio kronikos mokslinį leidimą originalo, lotynų, kalba ir 1861 m. paskelbė jį „Scriptores rerum Prussicarum“ serijoje.","context":"M. Tepeno, kaip mokslinio leidimo parengėjo ir paskelbėjo, vaidmuo; 1861 m.; kronikos leidybos kontekstas.","support_ids":["t-222839","c-203506"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222839","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203506","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius Torunės, Karaliaučiaus, Berlyno ir kt. nuorašus parengė ir 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė M. Tepenas. Kronikos lietuviškas vertimas publikuojamas pirmą kartą. „Lituanistinės bibliotekos“ serijoje pateikiamu Petro iš Dusburgo kronikos teksto vertimu, jo aptarimu įžanginiame straipsnyje bei paaiškinimuose norima platesnei visuomenei atskleisti šio svarbaus šaltinio turinį ir reikšmę, padaryti plačiau prieinamą kronikos tekstą, panagrinėti kai kurias istoriografines, kultūrines, filologines ir kt. problemas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"M. Tepenas – autorius, nagrinėjęs Prūsijos istoriografiją ir ypatingą dėmesį skyręs Petrui Dusburgiečiui. Rengdamas naują kronikos leidimą, jis išsamiau tyrė jos tekstą, lygino Torunės, Karaliaučiaus, Berlyno ir kitus išlikusius nuorašus, o 1861 m. originalo, lotynų, kalba paskelbė mokslinį leidimą serijoje „Scriptores rerum Prussicarum“. Remdamasis įvairiais rašytiniais šaltiniais, XIX a. Tepenas priėjo išvadą, kad skalviai ir nadruviai buvo lietuviai. Tyrinėdamas baltų Romovės ar Romuvos vietą Nadruvoje, jis atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio. Taip jo darbas siejasi ne tik su kronikos tekstologija, bet ir su platesniais baltų istorijos bei geografijos aiškinimais.","sentences":[{"sentence_id":"s1","text":"M. Tepenas – autorius, nagrinėjęs Prūsijos istoriografiją ir ypatingą dėmesį skyręs Petrui Dusburgiečiui.","support_ids":["t-225464","c-203259"]},{"sentence_id":"s2","text":"Rengdamas naują kronikos leidimą, jis išsamiau tyrė jos tekstą, lygino Torunės, Karaliaučiaus, Berlyno ir kitus išlikusius nuorašus, o 1861 m. originalo, lotynų, kalba paskelbė mokslinį leidimą serijoje „Scriptores rerum Prussicarum“.","support_ids":["t-224132","c-204488","t-225464","c-203259"]},{"sentence_id":"s3","text":"Remdamasis įvairiais rašytiniais šaltiniais, XIX a. Tepenas priėjo išvadą, kad skalviai ir nadruviai buvo lietuviai.","support_ids":["t-223169","c-203698"]},{"sentence_id":"s4","text":"Tyrinėdamas baltų Romovės ar Romuvos vietą Nadruvoje, jis atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.","support_ids":["t-222584","c-202774"]},{"sentence_id":"s5","text":"Taip jo darbas siejasi ne tik su kronikos tekstologija, bet ir su platesniais baltų istorijos bei geografijos aiškinimais.","support_ids":["t-222584","c-202774","t-223169","c-203698","t-224132","c-204488","t-225464","c-203259"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta c-203259: Tepenas apžvelgė Prūsijos istoriografiją ir skyrė dėmesio Dusburgiečiui."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta c-203259 ir c-204488: jis tyrė kroniką, lygino nuorašus ir 1861 m. paskelbė lotynišką leidimą nurodytoje serijoje."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta c-203698 ir c-203698: nurodyta, kad XIX a. Tepenas, remdamasis rašytiniais šaltiniais, laikė skalvius ir nadruvius lietuviais."},{"sentence_id":"s4","supported":false,"reason":"Įrodymai tiesiogiai patvirtina, kad Tepenas atkreipė dėmesį į Romenę, tačiau nepatvirtina, kad jis ją tyrinėjo būtent ieškodamas Romovės ar Romuvos vietos."},{"sentence_id":"s5","supported":true,"reason":"Tai pagrįsta ankstesniuose įrodymuose nurodytais jo tekstologiniais, istoriografiniais, etninės istorijos ir geografijos tyrimais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-225464","c-203259"]},{"sentence_id":"s2","supported":true,"support_ids":["t-224132","c-204488","t-225464","c-203259"]},{"sentence_id":"s3","supported":true,"support_ids":["t-223169","c-203698"]},{"sentence_id":"s4","supported":true,"support_ids":["t-222584","c-202774"]},{"sentence_id":"s5","supported":true,"support_ids":["t-222584","c-202774","t-223169","c-203698","t-224132","c-204488","t-225464","c-203259"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
 object_page_finisher: 'true'
@@ -35,13 +49,6 @@ object_page_seo_description: 'M. Tepenas – autorius, nagrinėjęs Prūsijos is
 object_page_seo_input_hash: 5cc07089262bf096000283c03c294ea926428b63974a6b7474c9cab7e3962644
 object_page_seo_generated_at: '2026-09-20T06:38:43+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-1c4044dedef835fcfd847e44"
-canonical_name: "M. Tepenas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["M. Tepenas","Toeppen M.","Toppen M.","Töppen M.","Тоерреn M."]
-sameAs: []
-canonical_biography: "M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio leidimo parengėjas ir paskelbėjas. Išnašos jį taip pat tiesiogiai sieja su Prūsijos istoriografijos, įvadiniais ir istoriškai lyginamaisiais darbais."
 ---
 # M. Tepenas
 
@@ -162,40 +169,6 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   pagrindžia:
     - c-65379
 
-<a id="claim-t-223169"></a>
-- t-223169
-  teiginys: "XIX a. M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, teigė, kad skalviai ir nadruviai buvę lietuviai."
-  atnaujinta: "2026-09-20 09:38"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-224132"></a>
-- t-224132
-  teiginys: "M. Tepenas parengė kronikos mokslinį leidimą originalo kalba ir 1861 m. paskelbė jį „Scriptores rerum Prussicarum“ serijoje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204488
-
-<a id="claim-t-225464"></a>
-- t-225464
-  teiginys: "M. Tepenas apžvelgė Prūsijos istoriografiją ir skyrė daug dėmesio Dusburgiečiui."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203259
-
 ## Citatos
 
 - id: c-56017
@@ -219,7 +192,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-005
 
@@ -237,7 +210,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-56019
@@ -256,7 +229,6 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-65376
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -275,7 +247,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-65378
@@ -294,7 +266,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-65379
@@ -310,65 +282,5 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-202774
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
-  citata_originali: |
-    Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—
-    1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone,
-    Romovė resp. Romuva galėjusi būti prie Biserkiemio (netoli Gumbinės) ant kalvos, tada
-    vadintos Sidabro kalnu, kur aptinkama įvairių radinių, be kita ko — pentinų, lenkto ir
-    sukto sidabro (Prätorius M., Deliciae..., kn. 4, sk. 1, § XXII, r. 1. (WU) 152; r. p. (MA)
-    271—272; š. p. 564—565). M, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų
-    Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203259
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
-  citata_originali: |
-    M.
-    Tepenas, apžvelgdamas Prūsijos istoriografiją, nemaža dėmesio skyrė ir Dusburgiečiui84.
-    Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum
-    Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas
-    XVII a. Torunės nuorašas, jis sulygintas su XVI a. Karaliaučiaus, Berlyno ir kt. variantais
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225464
-
-- id: c-204488
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
-  citata_originali: |
-    Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
-    Torunės, Karaliaučiaus, Berlyno ir kt. nuorašus parengė ir 1861 m. „Scriptores
-    rerum Prussicarum“ serijoje paskelbė M. Tepenas. Kronikos lietuviškas vertimas
-    publikuojamas pirmą kartą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224132
-

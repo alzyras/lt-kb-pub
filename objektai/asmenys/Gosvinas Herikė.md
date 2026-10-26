@@ -75,6 +75,5 @@ Gosvinas Herike buvo Livonijos provincijos magistras ir su Dusmeriu Arfbergu der
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

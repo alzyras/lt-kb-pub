@@ -64,16 +64,6 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   pagrindžia:
     - c-185989
 
-<a id="claim-t-195635"></a>
-- t-195635
-  teiginys: "„Dantų plauti“ vadinamas gavėnios pradžios paprotys."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178036
-
 ## Citatos
 
 - id: c-178036
@@ -88,15 +78,11 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
     pas kits kitą bonkelėmis degtinės nešini. Eina „dantų plauti“ .
   citata_rodoma: "Eina „dantų plauti“ ."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195635
-
 - id: c-178037
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -111,7 +97,6 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-185989
   autoriai: "A. Sabaliauskas; M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931)"
@@ -135,6 +120,5 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

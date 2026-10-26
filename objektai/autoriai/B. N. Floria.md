@@ -23,13 +23,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-94c36e08dbf3e044263d36cf"
-canonical_name: "B. N. Floria"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["B. N. Floria"]
+entity_id: ent-94c36e08dbf3e044263d36cf
+canonical_name: B. N. Floria
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - B. N. Floria
 sameAs: []
-canonical_biography: "Florią kronika atsiradusi ne tik Slucko ku nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų aplinkoje dviem etapais."
+canonical_biography: 'Florią kronika atsiradusi ne tik Slucko ku nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų aplinkoje dviem etapais.'
 ---
 # B. N. Floria
 
@@ -79,6 +82,5 @@ Florią kronika atsiradusi ne tik Slucko ku nigaikščių Olelkaičių, bet ir l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

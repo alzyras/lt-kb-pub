@@ -99,10 +99,10 @@ Nenurodyta
     - c-63439
     - c-63440
 
-<a id="claim-t-222806"></a>
-- t-222806
+<a id="claim-t-62692"></a>
+- t-003
   teiginys: "Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
@@ -116,6 +116,8 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta, kad teiginys aiškiau sietųsi su sąjungų ir veikimo prieš Ordiną tema."
+  pagrindžia:
+    - c-63441
 
 ## Citatos
 
@@ -139,7 +141,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-63440
@@ -161,7 +163,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-63441
@@ -185,6 +187,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-63442
   autorius: "Petras Dusburgietis"
@@ -205,6 +209,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

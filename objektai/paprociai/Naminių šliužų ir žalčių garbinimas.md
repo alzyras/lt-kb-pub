@@ -98,7 +98,7 @@ Narbutas teigia, kad gyvi nuodingi šliužai buvo traktuojami kaip namų dievai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-200028
@@ -119,7 +119,7 @@ Narbutas teigia, kad gyvi nuodingi šliužai buvo traktuojami kaip namų dievai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200766
@@ -139,6 +139,5 @@ Narbutas teigia, kad gyvi nuodingi šliužai buvo traktuojami kaip namų dievai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

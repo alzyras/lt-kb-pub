@@ -94,7 +94,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-164911
@@ -112,6 +112,5 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

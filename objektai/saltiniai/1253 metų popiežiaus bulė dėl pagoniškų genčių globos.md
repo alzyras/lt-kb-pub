@@ -70,6 +70,5 @@ Iš to atsira do 1253 metų bulė, kuri leido kunigaikščiams priimti sau goti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

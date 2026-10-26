@@ -77,6 +77,5 @@ Iš vokiečių konsulio Kopenhagene gau ta pasas Kaunan per Warnemundą, Berlyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

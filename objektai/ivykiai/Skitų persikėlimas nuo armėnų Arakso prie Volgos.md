@@ -72,6 +72,5 @@ Persų galybės slegiamos skitų kartos VII a. pr. Kr. buvo nustumtos nuo armėn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

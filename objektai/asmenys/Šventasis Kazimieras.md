@@ -86,6 +86,5 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

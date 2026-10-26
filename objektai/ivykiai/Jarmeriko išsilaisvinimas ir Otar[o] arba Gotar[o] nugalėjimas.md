@@ -93,6 +93,5 @@ Pabėgęs iš nelaisvės Jarmerikas užpuolė švedų karalių Otarą arba Gotar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

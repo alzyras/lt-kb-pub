@@ -67,7 +67,7 @@ Vilniaus vyskupijos administratoriaus buvo prašoma pasirašyti Lietuvos kunigų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192357
@@ -89,6 +89,5 @@ Vilniaus vyskupijos administratoriaus buvo prašoma pasirašyti Lietuvos kunigų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -77,6 +77,5 @@ canonical_biography: "Švitrigaila įsakė sudeginti metropolitą Gerasimą."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

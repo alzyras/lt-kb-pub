@@ -62,6 +62,5 @@ Pasiuntė ir Vytautas į Romą laiškus, pasižadėdamas pulti visa savo galybe 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

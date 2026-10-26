@@ -88,9 +88,9 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
     - c-00082
 
 <a id="claim-t-64755"></a>
-- t-64755
+- t-003
   teiginys: "Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Martynas Mažvydas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -125,7 +125,7 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-00082
@@ -143,7 +143,7 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-00083
@@ -158,6 +158,5 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64755
-
+  pagrindzia:
+    - t-003

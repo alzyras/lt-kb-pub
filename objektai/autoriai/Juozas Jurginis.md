@@ -50,24 +50,10 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 
 ## Teiginiai
 
-<a id="claim-t-207828"></a>
-- t-207828
-  teiginys: "Juozas Jurginis 1978 m. parašė straipsnį „Bajorai ir šlėkta Lietuvos valstybėje“."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  temporaliniai_duomenys: "įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190384
-
 <a id="claim-t-186443"></a>
-- t-186443
+- t-001
   teiginys: "Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -81,10 +67,10 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   pagrindžia:
     - c-167829
 
-<a id="claim-t-211733"></a>
-- t-211733
+<a id="claim-t-186444"></a>
+- t-002
   teiginys: "Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> K. Korsakas: 0.85"
@@ -98,6 +84,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   temporaliniai_duomenys: "įvykio data: 1971 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu."
+  pagrindžia:
+    - c-169795
 
 ## Citatos
 
@@ -132,8 +120,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186443
+  pagrindzia:
+    - t-001
 
 - id: c-169795
   autorius: "Anoniminis metraštininkas"
@@ -152,23 +140,5 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-190384
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 58"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 58."
-  citata_originali: |
-    1978 m. Juozas Jurginis straipsnyje „Bajorai ir šlėkta Lietuvos valstybėje"
-    48 dar kartą
-    grįžta prie terminų prasmių ir jų vartosenos šaltiniuose bei tyrimuose problemos. Auto-
-  citata_rodoma: "1978 m. Juozas Jurginis straipsnyje „Bajorai ir šlėkta Lietuvos valstybėje\"\n48 dar kartą\ngrįžta prie terminų prasmių ir jų vartosenos šaltiniuose bei tyrimuose problemos."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207828
-
+  pagrindzia:
+    - t-002

@@ -86,7 +86,7 @@ Pasitaikė, kaip tyčia Italų linijos laivas Dante Alighieri. Laivas Dante Alig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192466
@@ -102,6 +102,5 @@ Pasitaikė, kaip tyčia Italų linijos laivas Dante Alighieri. Laivas Dante Alig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-16a2bca86bf9777ba0bbc9a3"
-canonical_name: "Tauridės pusiasalis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Tauridės pusiasalis"]
+entity_id: ent-16a2bca86bf9777ba0bbc9a3
+canonical_name: Tauridės pusiasalis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Tauridės pusiasalis
 sameAs: []
-canonical_biography: "Kimerų Bosporas yra priešais Tauridės pusiasalio rytinį kyšulį."
-place_authority: true
-historical_names: []
+canonical_biography: Kimerų Bosporas yra priešais Tauridės pusiasalio rytinį kyšulį.
 ---
 # Tauridės pusiasalis
 
@@ -64,6 +64,5 @@ Kimerų Bosporas yra priešais Tauridės pusiasalio rytinį kyšulį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -81,11 +81,9 @@ Terminas vartojamas 1862 m. kaimo gyvenimo aprašymo rėmuose.
     1862 metų.
   citata_rodoma: "Kad kultūringumo laipsnis įvairių Lietuvos vietų yra įvairus, tai \nsurašyti vaizdai liečia ne baudžiauninkus, \ntik \nkarališkius žmones, \n1862 metų"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

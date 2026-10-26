@@ -72,6 +72,5 @@ Didysis kunigaikštis Erdvilą įsi rengė čionai sostinę ir ėmė vadintis Na
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

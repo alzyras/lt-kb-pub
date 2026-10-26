@@ -77,6 +77,5 @@ Chodynicki : Legenda o męczeństwie czternastu Franciszkanów w Wilnie , AW, IV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

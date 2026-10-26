@@ -61,10 +61,10 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   pagrindžia:
     - c-60784
 
-<a id="claim-t-225746"></a>
-- t-225746
+<a id="claim-t-60152"></a>
+- t-002
   teiginys: "Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Traupeinas: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -78,6 +78,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   temporaliniai_duomenys: "įvykio data: 1265 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai nurodo Kalčio paskyrimą apgulos pėstininkų vadu."
+  pagrindžia:
+    - c-60783
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -119,6 +121,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-60784
   autorius: "Petras Dusburgietis"
@@ -135,6 +139,5 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

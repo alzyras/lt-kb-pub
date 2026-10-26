@@ -81,6 +81,5 @@ Narbutas nurodo, kad netoli Elbliongo buvo rasta molio, vaško ir į mozaiką pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

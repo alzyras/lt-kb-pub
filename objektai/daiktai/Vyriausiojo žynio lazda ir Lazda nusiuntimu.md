@@ -44,33 +44,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-197246"></a>
-- t-003
-  teiginys: "Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at siųsdavo lazdą su dviem užlenkimais."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179084
-
-<a id="claim-t-216339"></a>
-- t-216339
-  teiginys: "Narbutas spėjo, kad senovės lietuvių pasiuntinys nešdavosi ženklintą lazdą, vadintą Lazda nusiuntimu."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-
-<a id="claim-t-220167"></a>
-- t-220167
+<a id="claim-t-189667"></a>
+- t-001
   teiginys: "Narbutas rašo, kad priešais didiesiems aukų atnašavimams vadovaujantį vyriausiąjį žynį buvo nešiojama lazda su trimis užlenkimais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -84,6 +61,33 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyriausiojo žynio lazda ir Lazda nusiuntimu\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172550
+
+<a id="claim-t-189668"></a>
+- t-002
+  teiginys: "Narbutas spėjo, kad senovės lietuvių pasiuntinys nešdavosi ženklintą lazdą, vadintą Lazda nusiuntimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172551
+
+<a id="claim-t-197246"></a>
+- t-003
+  teiginys: "Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at siųsdavo lazdą su dviem užlenkimais."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179084
 
 ## Citatos
 
@@ -105,6 +109,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172551
   autorius: "Teodoras Narbutas"
@@ -124,6 +130,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-179084
   autorius: "Teodoras Narbutas"
@@ -143,26 +151,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
-- id: c-200586
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 290"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
-  citata_originali: |
-    Mat
-    jiems patikėdavo saugoti brangiuosius metalus. Tą patvirtina
-    paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės
-    sumos auksu būdavo dedamos saugoti į Vilniaus bažnyčios -
-    Katedros - iždą .
-    Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at­
-    siųsdavo lazdą su dviem užlenkimais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

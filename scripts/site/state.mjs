@@ -3,7 +3,7 @@ import { execFileSync } from "node:child_process"
 import { lstat, readFile, readlink, readdir, realpath, stat } from "node:fs/promises"
 import path from "node:path"
 
-export const STATE_SCHEMA_VERSION = 4
+export const STATE_SCHEMA_VERSION = 5
 export const INPUTS_SCHEMA_VERSION = 1
 
 const INPUT_DIRECTORIES = ["content", "quartz"]
@@ -464,6 +464,17 @@ export async function fingerprintTreeMetadata(directory) {
     { includeIdentity: true, hashContent: false },
     new Set(),
   )
+  // Windows reports creation time for ctimeNs, so replacing bytes while
+  // restoring mtime can leave every stable metadata field unchanged. Hash
+  // file contents there to keep the output guard reliable on NTFS as well.
+  if (process.platform === "win32") {
+    for (const record of records) {
+      if (record.type !== "file" && record.type !== "symlink") continue
+      const absolutePath = path.join(directory, ...record.path.split("/"))
+      const info = await stat(absolutePath)
+      if (info.isFile()) record.sha256 = digest(await readFile(absolutePath))
+    }
+  }
   records.sort((left, right) => comparePaths(left.path, right.path))
   return {
     fingerprint: digest(JSON.stringify(records)),

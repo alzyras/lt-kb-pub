@@ -73,6 +73,5 @@ Jų tarpe saloje pa sirodė beesančios keturios Romos patricijų giminės: Kent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -24,13 +24,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-dcdc6457b74930d5e6e03c38"
-canonical_name: "Andrius Nemyra"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Andrius Nemyra"]
+entity_id: ent-dcdc6457b74930d5e6e03c38
+canonical_name: Andrius Nemyra
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Andrius Nemyra
 sameAs: []
-canonical_biography: "Andrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas Nemyra (be vardo) jau figūruoja 1398 m. Salyno sutarties akte tarp liudininkų ir taip pat 1401,1.18 Vilniaus unijos akte."
+canonical_biography: 'Andrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas Nemyra (be vardo) jau figūruoja 1398 m. Salyno sutarties akte tarp liudininkų ir taip pat 1401,1.18 Vilniaus unijos akte.'
 ---
 # Andrius Nemyra
 
@@ -76,6 +78,5 @@ Andrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas Nemyra (be vardo) j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

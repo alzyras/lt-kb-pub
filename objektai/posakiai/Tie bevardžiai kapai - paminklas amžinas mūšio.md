@@ -70,6 +70,5 @@ fevaf 143 Kritusius mūšy karius laukuose liepia palaidot, Tie bevardžiai kapa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

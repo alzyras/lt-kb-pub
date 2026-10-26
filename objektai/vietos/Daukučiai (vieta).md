@@ -12,10 +12,10 @@ datos:
   - '1948 m.'
 date_start: '1948'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,8 +35,6 @@ entity_view_role: "place"
 entity_aliases: ["Daukučiai","Daukučiai (vieta)"]
 sameAs: []
 canonical_biography: "1948 m. balandžio 17–18 d. Daukučių kaime, Aukštupėnų valsčiuje, operacijos metu žuvo trys partizanai."
-place_authority: true
-historical_names: []
 ---
 # Daukučiai (vieta)
 
@@ -48,13 +46,14 @@ historical_names: []
 
 1948 m. balandžio 17–18 d. Daukučių kaime, Aukštupėnų valsčiuje, operacijos metu žuvo trys partizanai.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214620
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: '1948 m. balandžio 17–18 d. Daukučių kaime, Aukštupėnų valsčiuje, operacijos metu žuvo trys partizanai.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 311"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 311."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:44"

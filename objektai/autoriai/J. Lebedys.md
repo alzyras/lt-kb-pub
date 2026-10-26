@@ -65,10 +65,10 @@ Lebedžio, Vilnius 1957, 31-35 p.
   pagrindžia:
     - c-32973
 
-<a id="claim-t-219923"></a>
-- t-219923
+<a id="claim-t-188424"></a>
+- t-002
   teiginys: "Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -85,6 +85,8 @@ Lebedžio, Vilnius 1957, 31-35 p.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Kataloginis įrašas paverstas sakiniu apie Lebedžio parengimą. Palikta tik leidinio autorystės ir parengimo informacija."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171314
 
 ## Citatos
 
@@ -114,7 +116,7 @@ Lebedžio, Vilnius 1957, 31-35 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-171314
@@ -131,4 +133,5 @@ Lebedžio, Vilnius 1957, 31-35 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

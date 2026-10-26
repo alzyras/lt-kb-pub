@@ -18,6 +18,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-c466e41189a5a4f093fa62b9
+canonical_name: Elbė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Elbė
+sameAs: []
+canonical_biography: 'Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie Penės upės, tarp Elbės ir Oderio. Narbutas nurodo, kad gamtos tyrinėtojas, vadovaudamas romėnų kariuomenei, pats lankėsi prie Elbės. Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Elbė","url":"https://lt.wikipedia.org/wiki/Elb%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Elbė","url":"https://www.vle.lt/straipsnis/elbe/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:46:05+00:00","source_checked_at":"2026-09-19T18:46:05+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Elbė (ček. Labe, vok. Elbe) – upė, prasidedanti šiaurės vakarų Čekijoje, teka per Vokietiją; žiotyse įteka į Šiaurės jūrą. Tai vienas pagrindinių vidurio Europos vandens kelių. Upės ilgis – 1 165 km.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"21588","revision_id":"6796510","status":"published","translation_status":"native","source":{"title":"Elbė","url":"https://lt.wikipedia.org/wiki/Elb%C4%97","publisher":"Vikipedija","language":"lt","article_id":"21588","revision_id":"6796510","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=6796510","history_url":"https://lt.wikipedia.org/w/index.php?title=Elb%C4%97&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:09.878152+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"56a45a7121ad07ed015fea95d232a58cedeefa2f032372da9a047e1b381419c5","version_pk":"abd7fd02cea49c320419b5065eec1547"}},"source_buttons":[{"label":"Vikipedija","title":"Elbė","url":"https://lt.wikipedia.org/wiki/Elb%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Elbė","url":"https://www.vle.lt/straipsnis/elbe/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Elb%C4%97","https://www.vle.lt/straipsnis/elbe/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4a83e9e6cb981e92b239ca78","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Elbės žemupys ir vidurupis","context":"Teodoras Narbutas (1995 m.) rašo, kad herulai įsikūrė Elbės žemupyje ir VI amžiaus pirmojoje pusėje pasistūmėjo iki Elbės vidurupio.","support_ids":["t-215519","c-192983"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215519","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-192983","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"įsikūrė Elbės žemupyje, šiandienėje Meklenburgo žemėje. Ten jie išlipo ir VI amžiaus pirmojoje pusėje pasistūmėjo dešiniau iki Elbės vidurupio"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0f3788adaa000da39f9aa231","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Elbės žiotys","context":"Fosas, kaip jį perteikia Teodoras Narbutas (1995 m.), teigė, kad Pitėjas pasiekė toliausiai Elbės žiotis.","support_ids":["t-215490","c-194934"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215490","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194934","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Apie Pitėją manoma, jog jis keliavęs du kartus: pir­ mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­ tojas Strabonas daug ką jam priskyrė svetimo."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Elbė – istoriniuose šaltiniuose minima geografinė vieta, žymėjusi svarbią ribą ir kelių tautų judėjimo erdvę. Senovėje romėnai nepaliko rašytinių žinių apie kraštus už Elbės ir Arkados žiočių, todėl šio regiono pažinimas ilgą laiką rėmėsi fragmentiškais pasakojimais. Pitėjo kelionės siejamos su šiaurės rytų kryptimi, tačiau Fosas teigė, kad keliautojas pasiekė tik Reiną arba, toliausiai, Elbės žiotis. VI amžiaus pirmojoje pusėje herulai, įsikūrę Elbės žemupyje dabartinėje Meklenburgo žemėje, pasistūmėjo iki vidurupio. Su Elbės apylinkėmis siejamas ir runomis išrašytas maldelės tekstas: jis, pasak N arbuto, rastas ant paminklų prie Penės upės, tarp Elbės ir Oderio, krašte, kuriame gyveno vilkijai ir veletabai, o anksčiau – herulai.","sentences":[{"sentence_id":"s1","text":"Elbė – istoriniuose šaltiniuose minima geografinė vieta, žymėjusi svarbią ribą ir kelių tautų judėjimo erdvę.","support_ids":["t-214009","t-215519"]},{"sentence_id":"s2","text":"Senovėje romėnai nepaliko rašytinių žinių apie kraštus už Elbės ir Arkados žiočių, todėl šio regiono pažinimas ilgą laiką rėmėsi fragmentiškais pasakojimais.","support_ids":["t-214558","t-214009"]},{"sentence_id":"s3","text":"Pitėjo kelionės siejamos su šiaurės rytų kryptimi, tačiau Fosas teigė, kad keliautojas pasiekė tik Reiną arba, toliausiai, Elbės žiotis.","support_ids":["t-215490","t-214009"]},{"sentence_id":"s4","text":"VI amžiaus pirmojoje pusėje herulai, įsikūrę Elbės žemupyje dabartinėje Meklenburgo žemėje, pasistūmėjo iki vidurupio.","support_ids":["t-215519"]},{"sentence_id":"s5","text":"Su Elbės apylinkėmis siejamas ir runomis išrašytas maldelės tekstas: jis, pasak Narbuto, rastas ant paminklų prie Penės upės, tarp Elbės ir Oderio, krašte, kuriame gyveno vilkijai ir veletabai, o anksčiau – herulai.","support_ids":["t-216124"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Pateikti šaltiniai nepakankamai tiesiogiai pagrindžia teiginius apie Elbę kaip svarbią ribą ir kelių tautų judėjimo erdvę."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad romėnai nepaliko rašytinių žinių apie kraštus už Elbės ir Arkados žiočių, o žinios rėmėsi pasakojimais."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai teigia, kad Pitėjas keliavo į šiaurės rytus, o Fosas nurodė Reiną arba, toliausiai, Elbės žiotis."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad herulai įsikūrė Elbės žemupyje dabartinėje Meklenburgo žemėje ir VI amžiaus pirmojoje pusėje pasistūmėjo iki vidurupio."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina runomis išrašytą maldelę, rastą prie Penės upės tarp Elbės ir Oderio, vilkijų ir veletabų krašte, kuriame anksčiau gyveno herulai."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-214009","t-215519"]},{"sentence_id":"s2","supported":false,"support_ids":["t-214558","t-214009"]},{"sentence_id":"s3","supported":false,"support_ids":["t-215490","t-214009"]},{"sentence_id":"s4","supported":false,"support_ids":["t-215519"]},{"sentence_id":"s5","supported":false,"support_ids":["t-216124"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":9,"sources":2}}'
 object_page_finisher: 'true'
@@ -31,15 +42,6 @@ object_page_seo_description: 'Elbė – istoriniuose šaltiniuose minima geograf
 object_page_seo_input_hash: 60960f3c17f1a8e586ce19c59b40cc7d360a2b3f28b397fd93632bc93e711dad
 object_page_seo_generated_at: '2026-09-19T18:46:05+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-c466e41189a5a4f093fa62b9"
-canonical_name: "Elbė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Elbė"]
-sameAs: ["https://www.wikidata.org/entity/Q1644"]
-canonical_biography: "Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie Penės upės, tarp Elbės ir Oderio. Narbutas nurodo, kad gamtos tyrinėtojas, vadovaudamas romėnų kariuomenei, pats lankėsi prie Elbės. Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis."
-place_authority: true
-historical_names: []
 ---
 # Elbė
 
@@ -118,60 +120,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   pagrindžia:
     - c-179375
 
-<a id="claim-t-213260"></a>
-- t-213260
-  teiginys: "Narbutas nurodo, kad gamtos tyrinėtojas, vadovaudamas romėnų kariuomenei, pats lankėsi prie Elbės."
-  atnaujinta: "2026-09-19 21:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elbė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbė\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-196940
-
-<a id="claim-t-214558"></a>
-- t-214558
-  teiginys: "Romėnai, pasak Narbuto, nepaliko rašytinių žinių apie kraštus už Elbės ir Arkados žiočių."
-  atnaujinta: "2026-09-19 21:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-215519"></a>
-- t-215519
-  teiginys: "Herulai įsikūrė Elbės žemupyje ir VI amžiaus pirmojoje pusėje pasistūmėjo iki Elbės vidurupio."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-192983
-
-<a id="claim-t-218692"></a>
-- t-218692
-  teiginys: "Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau gyveno herulai."
-  atnaujinta: "2026-09-19 21:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199036
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis.'
@@ -225,7 +173,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175426
@@ -252,7 +200,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-175428
@@ -276,7 +224,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-177327
@@ -303,7 +251,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-179375
@@ -324,92 +272,5 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-192983
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 327"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
-  citata_originali: |
-    įsikūrė Elbės žemupyje, šiandienėje Meklenburgo žemėje.
-    Ten jie išlipo ir VI amžiaus pirmojoje pusėje pasistūmėjo
-    dešiniau iki Elbės vidurupio
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215519
-
-- id: c-196074
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
-  citata_originali: |
-    Fosas teigia, jog jis pasiekė tik Reiną ar
-    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
-    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
-    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
-    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
-    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
-    vintais jėzuitų aprašymais.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196940
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 147"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 147."
-  citata_originali: |
-    Iš įvairių prielaidų įtikina­
-    miausia atrodytų ta, kad ši medžiaga sunkiasi iš jūros
-    dugne esančių uolų kaip gamtinė derva, kuri vėliau kietė­
-    ja vandenyje; tai įrodinėja įvairūs stebėjimai, kurių patei­
-    kimas užimtų pernelyg daug vietos. Bet visa tai paverčia
-    niekais vienas klausimas: iš kur patenka tie gintare ran­
-    dami daiktai ir vabzdžiai? Smėlio, akmenukų, vandens
-    lašų, samanų, lapų, eglės spyglių, musių, bičių, uodų,
-    įvairių kirmėlaičių jūroje pasitaiko labai retai. Kai kurie
-    vabzdžiai ramiai susitaikė su savo likimu, kiti iš baimės
-    mėgino gelbėtis ir, įbridę į klampią masę, taip ir sustin­
-    go, be to, pasitaiko klampaus skysčio užkluptų poravimosi
-    momentu vabzdžių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213260
-
-- id: c-199036
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 345"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
-  citata_originali: |
-    Si
-    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
-    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
-    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
-    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
-    ne. muskis. und man'.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218692
-

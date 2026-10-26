@@ -88,7 +88,7 @@ Kad bausmė būtų skirta, nužudymo ir sužeidimo bylose reikėjo priesaikų. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186291
@@ -107,6 +107,5 @@ Kad bausmė būtų skirta, nužudymo ir sužeidimo bylose reikėjo priesaikų. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

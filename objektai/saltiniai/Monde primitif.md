@@ -56,6 +56,5 @@ Pagal tas pačias taisykles Kur de Zebelen (Court de Gebelins) savo „Monde pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

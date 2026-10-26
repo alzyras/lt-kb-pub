@@ -80,6 +80,5 @@ Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikšti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

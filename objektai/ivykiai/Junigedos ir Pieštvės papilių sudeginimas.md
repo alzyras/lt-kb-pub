@@ -71,6 +71,5 @@ Kunono vadovaujama kariuomenė užpuolė Junigedos ir Pieštvės pilis bei iki p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

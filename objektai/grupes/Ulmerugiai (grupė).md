@@ -66,6 +66,5 @@ Ulmerugiai, pasak Narbuto, priklausė germanų tautos rugių kartai ir buvo gimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

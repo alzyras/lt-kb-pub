@@ -76,6 +76,5 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

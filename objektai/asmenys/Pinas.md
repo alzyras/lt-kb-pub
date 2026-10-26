@@ -45,20 +45,10 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 
 ## Teiginiai
 
-<a id="claim-t-223079"></a>
-- t-223079
-  teiginys: "Pinas prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio žengti, nors jį ir smarkiai ragino pentinais."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-221196"></a>
-- t-221196
+<a id="claim-t-60413"></a>
+- t-001
   teiginys: "Aukaimio pilėnas Draika slaptai pasiuntė savo sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Ragainė: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -69,6 +59,8 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   ryšio_paaiskinimas: "Draika pasiuntė Piną pas Ragainės komtūrą, todėl Pino kelionės tikslas siejamas su Ragaine."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Pinas keliavo į Ragainė (0.82)"
+  pagrindžia:
+    - c-61045
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -116,6 +108,8 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Draika]]

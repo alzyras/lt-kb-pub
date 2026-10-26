@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Vaižganto rinktinė'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1951 m.'
@@ -28,11 +29,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vaižganto rinktinė ilgiausiai išsilaikė Kupiškio apylinkėse.
-
-## Santrauka
-
-Vaižganto rinktinė ilgiausiai išsilaikė Kupiškio apylinkėse.
+Vaižganto rinktinė ilgiausiai išsilaikė Kupiškio apylinkėse. 1950 m., likvidavus Algimanto apygardą, Kun. Margio ir Šarūno rinktinių partizanai buvo sujungti į Vaižganto rinktinę, kuri priklausė Vytauto apygardai ir veikė Kupiškio, Pandėlio bei Troškūnų rajonuose. 1951 m. birželio 2 d. LLKS Vaižganto rinktinės įsakymu Nr. 2 rajonai pakeisti Vilties, Gintaro ir Aušros tėvūnijomis.
 
 ## Teiginiai
 
@@ -48,57 +45,43 @@ Vaižganto rinktinė ilgiausiai išsilaikė Kupiškio apylinkėse.
   pagrindžia:
     - c-206912
 
-<a id="claim-t-230511"></a>
-- t-230511
-  teiginys: "1950 m., likvidavus Algimanto apygardą, Kun. Margio ir Šarūno rinktinių partizanai buvo sujungti į Vaižganto rinktinę, kuri priklausė Vytauto apygardai ir veikė Kupiškio, Pandėlio bei Troškūnų rajonuose."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  vertinimo_atnaujinta: "2026-09-27T12:51:09Z"
-  pagrindžia:
-    - c-211149
-
-<a id="claim-t-230512"></a>
-- t-230512
-  teiginys: "1951 m. birželio 2 d. LLKS Vaižganto rinktinės įsakymu Nr. 2 rajonai pakeisti Vilties, Gintaro ir Aušros tėvūnijomis."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  vertinimo_atnaujinta: "2026-09-27T12:51:09Z"
-  pagrindžia:
-    - c-211150
-
-<a id="claim-t-230515"></a>
-- t-230515
-  teiginys: "1951 m. Vaižganto rinktinei priklausė Vilties, Gintaro ir Aušros tėvūnijos."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  pagrindžia:
-    - c-211153
-
-<a id="claim-t-230516"></a>
-- t-230516
-  teiginys: "Vaižganto rinktinės vadas buvo Tigras (Vaclovas Čepukonis), o štabo viršininkas – Antanas Burokas-Mokytojas."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  vertinimo_atnaujinta: "2026-09-27T12:51:10Z"
-  pagrindžia:
-    - c-211154
-
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1950 m., likvidavus Algimanto apygardą, Kun. Margio ir Šarūno rinktinių partizanai buvo sujungti į Vaižganto rinktinę, kuri priklausė Vytauto apygardai ir veikė Kupiškio, Pandėlio bei Troškūnų rajonuose.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 26"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: '1951 m. birželio 2 d. LLKS Vaižganto rinktinės įsakymu Nr. 2 rajonai pakeisti Vilties, Gintaro ir Aušros tėvūnijomis.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 26"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: '1951 m. Vaižganto rinktinei priklausė Vilties, Gintaro ir Aušros tėvūnijos.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 416"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Vaižganto rinktinės vadas buvo Tigras (Vaclovas Čepukonis), o štabo viršininkas – Antanas Burokas-Mokytojas.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 416"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-206912
@@ -110,54 +93,5 @@ Vaižganto rinktinė ilgiausiai išsilaikė Kupiškio apylinkėse.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-211149
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 26"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 26."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-230511
-
-- id: c-211150
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 26"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 26."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-230512
-
-- id: c-211153
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 416"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 416."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-230515
-
-- id: c-211154
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 416"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 416."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-230516
-

@@ -79,6 +79,5 @@ Kryžiuočiai, įvertinę gerai įtvirtintą Kauną ir gausią jo įgulą, apgul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

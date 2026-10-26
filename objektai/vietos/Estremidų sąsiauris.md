@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-9c00dc9866907eac86868715"
-canonical_name: "Estremidų sąsiauris"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Estremidų sąsiauris"]
+entity_id: ent-9c00dc9866907eac86868715
+canonical_name: Estremidų sąsiauris
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Estremidų sąsiauris
 sameAs: []
-canonical_biography: "Estremidų sąsiauris siekė nuo šv. Vincento kyšulio iki Vakarų Prancūzijos ir Pietų Anglijos krantų."
-place_authority: true
-historical_names: []
+canonical_biography: Estremidų sąsiauris siekė nuo šv. Vincento kyšulio iki Vakarų Prancūzijos ir Pietų Anglijos krantų.
 ---
 # Estremidų sąsiauris
 
@@ -68,6 +68,5 @@ Estremidų sąsiauris siekė nuo šv. Vincento kyšulio iki Vakarų Prancūzijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

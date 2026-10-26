@@ -35,22 +35,10 @@ Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kur
 
 ## Teiginiai
 
-<a id="claim-t-217320"></a>
-- t-217320
-  teiginys: "Pavyzdžiui, iš kur atsirado Marco Ronis, Bolloysos?"
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200149
-
-<a id="claim-t-220049"></a>
-- t-220049
+<a id="claim-t-190138"></a>
+- t-001
   teiginys: "Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kurie kritikui kėlė įtarimą ir skambėjo neprūsiškai."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,6 +52,8 @@ Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kur
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bolloysos\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-173021
 
 ## Citatos
 
@@ -82,22 +72,5 @@ Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200149
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 432"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
-  citata_originali: |
-    Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
-    todėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-
-    nis, Bolloysos? Šie vardai skamba visai neprūsiškai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217320
-
+  pagrindzia:
+    - t-001

@@ -108,7 +108,7 @@ Teodoro Narbuto pasakojimu, didžiuoju kunigaikščiu paskelbtas ir Kernavėje �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188624
@@ -126,6 +126,5 @@ Teodoro Narbuto pasakojimu, didžiuoju kunigaikščiu paskelbtas ir Kernavėje �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -104,18 +104,6 @@ Nenurodyta
   pagrindžia:
     - c-169036
 
-<a id="claim-t-185676"></a>
-- t-185676
-  teiginys: "Kojelavičius perteikia Jogailos atsakymą čekų pasiuntiniams, kad jis esą patenkintas Dievo duota valdžia ir netrokšta svetimų valdų."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169036
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.'
@@ -187,10 +175,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-003
-    - t-185676
 
 - id: c-169038
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -220,6 +207,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

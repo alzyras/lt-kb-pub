@@ -72,6 +72,5 @@ Prie protėvių ir dėl ypatingų dorybių atmintinų asmenų kapų buvo meldži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

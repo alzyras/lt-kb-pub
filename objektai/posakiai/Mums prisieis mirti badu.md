@@ -55,6 +55,5 @@ Mums prisieis mirti badu, nes neturime maisto.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

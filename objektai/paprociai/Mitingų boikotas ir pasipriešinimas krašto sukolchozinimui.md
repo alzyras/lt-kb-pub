@@ -40,15 +40,13 @@ Nenurodyta
 Nenurodyta
 
 ## Reikšmingi paminėjimai
-Nenurodyta
 
-## Citatos
-
-- id: c-214470
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Kronikoje cituojamas atsišaukimas ragino gyventojus kovoti prieš „krašto sukolchozinimą – sunaikinimą“ ir nelankyti mitingų.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 277"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 277."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:43"

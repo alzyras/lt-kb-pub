@@ -30,6 +30,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-63784ee184abc8d0d5cc53fd
+canonical_name: Kražiai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kražiai
+sameAs: []
+canonical_biography: 'Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Kražiai","url":"https://lt.wikipedia.org/wiki/Kra%C5%BEiai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kražiai","url":"https://www.vle.lt/straipsnis/kraziai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:36:32+00:00","source_checked_at":"2026-09-19T22:36:32+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Kražiai – miestelis Kelmės rajono savivaldybėje, 16 km į vakarus nuo Kelmės, prie kelio Kelmė–Varniai. Urbanistikos paminklas. Seniūnijos ir seniūnaitijos centras. Stovi Kražių Švč. Mergelės Marijos Nekaltojo Prasidėjimo bažnyčia, veikia Kražių gimnazija, biblioteka, kraštotyros muziejus, paštas (LT-86026). Iš Kražių kolegijos išlikęs moksleivių bendrabutis (bursa; XVII a. gotikos ir renesanso bruožų), Radvilų pilies liekanos. Link Medžiokalnio veda tautodailininkų medžio skulptūrų alėja (nuo 2003 m.).","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"19541","revision_id":"7680945","status":"published","translation_status":"native","source":{"title":"Kražiai","url":"https://lt.wikipedia.org/wiki/Kra%C5%BEiai","publisher":"Vikipedija","language":"lt","article_id":"19541","revision_id":"7680945","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7680945","history_url":"https://lt.wikipedia.org/w/index.php?title=Kra%C5%BEiai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:07.728325+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"af8c3475501fb6c8a8dd061cb51e545cad0811bd633f05c6ca0c033ed7e2aed0","version_pk":"0deb140993d7d1baf240b02801afda45"}},"source_buttons":[{"label":"Vikipedija","title":"Kražiai","url":"https://lt.wikipedia.org/wiki/Kra%C5%BEiai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kražiai","url":"https://www.vle.lt/straipsnis/kraziai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kra%C5%BEiai","https://www.vle.lt/straipsnis/kraziai/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kazokai","claim_id":"t-183228","confidence":0.87}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -43,15 +54,6 @@ object_page_seo_description: 'Kražiai: Tuo būdu atsirado jėzuitų kolegijos K
 object_page_seo_input_hash: 746c71a4f3a7a90a42af59166ee600c1689660b0a1352c3f003a79c83342e5e4
 object_page_seo_generated_at: '2026-09-19T22:36:32+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-63784ee184abc8d0d5cc53fd"
-canonical_name: "Kražiai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kražiai"]
-sameAs: ["https://www.wikidata.org/entity/Q3183314"]
-canonical_biography: "Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt."
-place_authority: true
-historical_names: []
 ---
 # Kražiai
 
@@ -146,70 +148,6 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   pagrindžia:
     - c-175448
 
-<a id="claim-t-208555"></a>
-- t-208555
-  teiginys: "Nuo 1834 m. Motiejus Valančius buvo anuomet garsios Kražių jėzuitų gimnazijos kapelionas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įvykio data: po 1834 m.; įvykio data: 1834 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Trūkstamas tarinys papildytas, o neįvardytas asmuo įvardytas Motiejumi Valančiumi. Pašalinti OCR iškraipymai."
-  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
-  pagrindžia:
-    - c-191175
-
-<a id="claim-t-211765"></a>
-- t-211765
-  teiginys: "Kražiuose buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194345
-
-<a id="claim-t-213490"></a>
-- t-213490
-  teiginys: "Netoli Kražių, Žemaitijoje, 1836 metais rasta natūralaus dydžio bronzinė Kovo statulėlė."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194537
-
-<a id="claim-t-218407"></a>
-- t-218407
-  teiginys: "Narbutas teigia, kad 1836 metais netoli Kražių rasta bronzinė Karo dievo Kovo statulėlė."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199020
-
-<a id="claim-t-218851"></a>
-- t-218851
-  teiginys: "1618 m. Kražiuose jėzuitai rado apie šešis tūkstančius neapkrikštytų valstiečių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200464
-
 ## Citatos
 
 - id: c-67884
@@ -236,7 +174,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-171615
@@ -262,7 +200,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-171617
@@ -287,7 +225,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-175448
@@ -314,128 +252,8 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-- id: c-191175
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 8"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 8."
-  citata_originali: |
-    A. Aleknos teigimu, M. Valančius įšventintas kunigu rug­
-    sėjo 1 d .3 Kun. M. Valančius skiriamas tikybos mokytoju
-    į Mozyriaus pavieto mokyklą Minsko gubernijoje, Vil­
-    niaus vyskupijoje4. Nuo 1834 m. jis jau anuo metu gar­
-    sios Kražių jėzuitų gimnazijos kapelionas 5.
-  citata_rodoma: "Nuo 1834 m. jis jau anuo metu gar­\nsios Kražių jėzuitų gimnazijos kapelionas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208555
-
-- id: c-194345
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
-  citata_originali: |
-    Pirmo­
-    sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos
-    dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211765
-
-- id: c-194537
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 490"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
-  citata_originali: |
-    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos žemėje
-    netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietuviai
-    turėjo stabus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213490
-
-- id: c-196302
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 491"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
-  citata_originali: |
-    1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
-    Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
-    aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­
-    re, priklausančiame grafienei Choueseul, tą dievuką gavau iš
-    kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas
-    kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
-    aplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame
-    J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo
-    Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
-    tą
-    figūrą.
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
-    leidimą (PEĮ.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199020
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 255"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 255."
-  citata_originali: |
-    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­
-    mėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­
-    viai turėjo stabus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218407
-
-- id: c-200464
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
-  citata_originali: |
-    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
-    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
-    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
-    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218851
 
 ## Ryšiai
 - Puolė Kražiai: [[objektai/grupes/Kazokai]]

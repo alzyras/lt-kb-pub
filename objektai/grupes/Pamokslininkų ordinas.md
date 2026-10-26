@@ -63,6 +63,5 @@ Benediktas XI buvo brolių pamokslininkų ordino vienuolis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

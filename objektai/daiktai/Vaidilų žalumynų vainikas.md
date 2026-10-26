@@ -71,6 +71,5 @@ Vainikai buvo pinami iš šventųjų medžių lapų ir kvapniųjų žolių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

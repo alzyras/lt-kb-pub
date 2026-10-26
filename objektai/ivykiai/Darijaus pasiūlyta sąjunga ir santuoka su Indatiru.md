@@ -71,6 +71,5 @@ Apie 520 m. pr. Kr. Darijus siekė sąjungos su Indatiru ir norėjo vesti jo duk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -33,6 +33,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-7951874d2dd0c78a7cedd6b0
+canonical_name: Raseiniai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Raseiniai
+sameAs: []
+canonical_biography: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Raseiniai","url":"https://lt.wikipedia.org/wiki/Raseiniai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Raseiniai","url":"https://www.vle.lt/straipsnis/raseiniai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Raseiniai - Wikipedia","url":"https://en.wikipedia.org/wiki/Raseiniai","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""},{"title":"Raseiniai – Wikipedia","url":"https://de.wikipedia.org/wiki/Raseiniai","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:27:16+00:00","source_checked_at":"2026-09-19T10:27:16+00:00","counts":{"relations":2,"gallery":0,"sources":13},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tačiau jei norėtų į vidurines sritis, tokias kaip Vilnius, Vi­ duklė, Raseiniai arba Ariogala, ruošti ekspediciją, tada terašo Brandenburgo markgrafui, kad nori paviešėti.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","claim_id":"t-206567","evidence_id":"c-189182","origin":"internal"},"wiki":{"intro":"Raseiniai – miestas vidurio vakarų Lietuvoje, Žemaitijoje, Kauno apskrityje, 76 km į šiaurės vakarus nuo Kauno, Žemaičių aukštumos pietrytinėse priekalnėse, prie Žemaičių plento. Raseinių rajono savivaldybės centras. Raseinių miesto seniūnija, yra apylinkės seniūnijos centras, Dubysos regioninio parko direkcija.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"19373","revision_id":"7928163","status":"published","translation_status":"native","source":{"title":"Raseiniai","url":"https://lt.wikipedia.org/wiki/Raseiniai","publisher":"Vikipedija","language":"lt","article_id":"19373","revision_id":"7928163","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7928163","history_url":"https://lt.wikipedia.org/w/index.php?title=Raseiniai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:21:30.078709+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"9ced414e3eb1bd43db7b2ce681d1ec6e5b6e07efbd5e0433fca398ba4dbd3796","version_pk":"556e82b9b42c2cf16dde8c28de2d7f94"}},"source_buttons":[{"label":"Vikipedija","title":"Raseiniai","url":"https://lt.wikipedia.org/wiki/Raseiniai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Raseiniai","url":"https://www.vle.lt/straipsnis/raseiniai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Raseiniai","https://www.vle.lt/straipsnis/raseiniai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"07ca43aacb92e9f0cafe9275","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Raseiniuose buvo įkurta pijarų mokykla.","context":"A. Šapokos redaguotame 1936 m. leidinyje aprašoma pijarų mokyklų vieta.","support_ids":["t-183087","c-166475"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183087","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-166475","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui- tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie- tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va- leranavoj, Vitebske, Želviuose ir dar vienur kitur. #### 6."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"452656e60117594cfc9498c3","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Raseiniuose buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje.","context":"1971 m. Lietuvos metraštyje ir Bychovco kronikos ištraukoje Raseiniai minimi tarp pietrytinėje Žemaitijos dalyje įsteigtų pirmųjų katalikų bažnyčių vietų.","support_ids":["t-211942","c-194090"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211942","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194090","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Pirmo­ sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f4fe4d20f56418c266ef8da0","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Raseinių vienuolynas buvo vienas iš vienuolynų, kurių caro valdžia neuždarė.","context":"Petro Puzaro darbe apie vyskupo Motiejaus Valančiaus pastoracinę veiklą aprašoma caro valdžios vykdyta vienuolynų uždarymo tvarka.","support_ids":["t-208591","c-191211"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208591","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191211","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Caro valdžia panaikino parapines katalikiškas mokyk­ las, uždarė visus vienuolynus, išskyrus Kalvarijos, Kre­ tingos ir Raseinių."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Raseiniai – istorinis vietovardis, šaltiniuose aprašomas kaip sritis, valsčius ir svarbi vietovė. 1352 m. vasarį Kniprodė smarkiai nusiaubė Raseinių sritį, tačiau atsitraukimą apsunkino staigus polaidis. Žemaitijos puolimo metu Raseinių valsčius, kartu su Vaikių, Ariogalos ir Klogėnų valsčiais, buvo sulygintas su žeme. Vėlesniuose aprašymuose Raseiniai minimi kaip viena iš vidurinių sričių, o karo žygiuose priešas po Pamedės apylinkių puolimo slinko jų link. Raseiniuose taip pat veikė pijarų mokykla, o 1918–1920 m. nepriklausomybės kovų laikotarpiu bermontininkai, užėmę Šiaurės Lietuvą, pasiekė Raseinius.","sentences":[{"sentence_id":"s1","text":"Raseiniai – istorinis vietovardis, šaltiniuose aprašomas kaip sritis, valsčius ir svarbi vietovė.","support_ids":["t-184395","t-185121","t-182825"]},{"sentence_id":"s2","text":"1352 m. vasarį Kniprodė smarkiai nusiaubė Raseinių sritį, tačiau atsitraukimą apsunkino staigus polaidis.","support_ids":["t-184395"]},{"sentence_id":"s3","text":"Žemaitijos puolimo metu Raseinių valsčius, kartu su Vaikių, Ariogalos ir Klogėnų valsčiais, buvo sulygintas su žeme.","support_ids":["t-185121"]},{"sentence_id":"s4","text":"Vėlesniuose aprašymuose Raseiniai minimi kaip viena iš vidurinių sričių, o karo žygiuose priešas po Pamedės apylinkių puolimo slinko jų link.","support_ids":["t-206567","t-206566"]},{"sentence_id":"s5","text":"Raseiniuose taip pat veikė pijarų mokykla, o nepriklausomybės kovų laikotarpiu bermontininkai, užėmę Šiaurės Lietuvą, pasiekė Raseinius.","support_ids":["t-183087","t-183804"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai mini Raseinių sritį, valsčių ir Raseinių svarbą kaip vietovę."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1352 m. vasarį, Raseinių srities nusiaubimą ir staigų polaidį, apsunkinusį grįžimą."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Raseinių, Vaikių, Ariogalos ir Klogėnų valsčiai buvo sulyginti su žeme."},{"sentence_id":"s4","supported":true,"reason":"Abu teiginio aspektai tiesiogiai paremti nurodytais šaltiniais: Raseiniai priskiriami vidurinėms sritims, o priešas slinko jų link po Pamedės apylinkių puolimo."},{"sentence_id":"s5","supported":false,"reason":"Pijarų mokyklos įkūrimas pagrįstas, tačiau nurodyti šaltiniai tiesiogiai nepatvirtina, kad ji veikė nepriklausomybės kovų laikotarpiu; bermontininkų šaltinio citatoje laikotarpis taip pat neįvardytas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-184395","t-185121","t-182825"]},{"sentence_id":"s2","supported":false,"support_ids":["t-184395"]},{"sentence_id":"s3","supported":false,"support_ids":["t-185121"]},{"sentence_id":"s4","supported":false,"support_ids":["t-206567","t-206566"]},{"sentence_id":"s5","supported":false,"support_ids":["t-183087","t-183804"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Bermontininkai","claim_id":"t-183804","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Fridrichas iš Vildenbergo","claim_id":"t-224228","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":11,"sources":9}}'
 object_page_finisher: 'true'
@@ -46,15 +57,6 @@ object_page_seo_description: 'Raseiniai – istorinis vietovardis, šaltiniuose 
 object_page_seo_input_hash: 98162c59e46c89fd0b731345b68ef3a905b12b13e66f5b799ab5632cf4a7fe9b
 object_page_seo_generated_at: '2026-09-19T10:27:16+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-7951874d2dd0c78a7cedd6b0"
-canonical_name: "Raseiniai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Raseiniai"]
-sameAs: ["https://www.wikidata.org/entity/Q658562"]
-canonical_biography: "Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
-place_authority: true
-historical_names: []
 ---
 # Raseiniai
 
@@ -251,69 +253,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   pagrindžia:
     - c-189182
 
-<a id="claim-t-208591"></a>
-- t-208591
-  teiginys: "Caro valdžia uždarė visus vienuolynus, išskyrus Kalvarijos, Kretingos ir Raseinių vienuolynus."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:49Z"
-  pagrindžia:
-    - c-191211
-
-<a id="claim-t-208593"></a>
-- t-208593
-  teiginys: "Vyskupas Motiejus Valančius aplankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Čekiškę."
-  atnaujinta: "2026-09-19 13:27"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
-  pagrindžia:
-    - c-191213
-
-<a id="claim-t-208594"></a>
-- t-208594
-  teiginys: "Vyskupas Motiejus Valančius teigė, kad, keliaudamas per vyskupiją, Šiauliuose, Telšiuose, Raseiniuose, Vilkmergėje, Panevėžyje, Ežerėnuose ir Kaune rado daugybę per nelaimes uždarytų savo vaikų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
-  pagrindžia:
-    - c-191214
-
-<a id="claim-t-211942"></a>
-- t-211942
-  teiginys: "Raseiniuose buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194090
-
-<a id="claim-t-213560"></a>
-- t-213560
-  teiginys: "Taip tvirtina ponas Simonas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au torius, man rašytame laiške (Raseiniai."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194786
-
 ## Citatos
 
 - id: c-32377
@@ -330,7 +269,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-32378
@@ -352,7 +291,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-166232
@@ -374,7 +313,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166475
@@ -397,7 +336,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-167189
@@ -425,7 +364,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-167692
@@ -447,7 +386,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-168482
@@ -476,7 +415,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-171707
@@ -494,7 +433,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-189181
@@ -512,7 +451,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-189182
@@ -528,111 +467,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
-
-- id: c-191211
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 17"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 17."
-  citata_originali: |
-    Caras Aleksandras II savo viešpatavimo pradžioje pa­
-    lengvino Katalikų Bažnyčios veiklos sąlygas: nedraudė
-    remontuoti ir statyti naujų bažnyčių be civilinės valdžios
-    leidimo, uždraudė stačiatikių dvasininkams kištis Į ka­
-    talikų bažnyčių statybos reikalus, privertė valdininkus la­
-    biau gerbti katalikų dvasininkiją 4.
-    Katalikų padėtis labai pasunkėjo po 1863 m. sukilimo.
-    Caro valdžia panaikino parapines katalikiškas mokyk­
-    las, uždarė visus vienuolynus, išskyrus Kalvarijos, Kre­
-    tingos ir Raseinių.
-  citata_rodoma: "Caro valdžia panaikino parapines katalikiškas mokyk­\nlas, uždarė visus vienuolynus, išskyrus Kalvarijos, Kre­\ntingos ir Raseinių."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208591
-
-- id: c-191213
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 56"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 56."
-  citata_originali: |
-    Todėl vysk. M. Valančius tais metais ap­
-    lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če­
-    kiškę 6 7. Kitais metais vizitavo tik Vilkijos ir Karmėlavos
-    parapijas 1.
-  statusas: verified
-  atnaujinta: "2026-09-13 18:00"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208593
-
-- id: c-191214
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 214"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 214."
-  citata_originali: |
-    Argi nežinot, jogiai kožnas, išplė­
-    šius ar pavagiąs svetimą naudą, tol negali būti išgany­
-    tas, kol nesugrąžins, ką išplėšė ar pavogė.
-    Važiuodamas kiaurai per vyskupystę, aplankiau visus
-    kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­
-    šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir
-    Kaune daugybę uždarytų per nelaimes, vaikų savo.
-  citata_rodoma: "Važiuodamas kiaurai per vyskupystę, aplankiau visus \nkalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­\nšiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir \nKaune daugybę uždarytų per nelaimes, vaikų savo."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208594
-
-- id: c-194090
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 259"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
-  citata_originali: |
-    Pirmo­
-    sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos
-    dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211942
-
-- id: c-194786
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 481"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 481."
-  citata_originali: |
-    Taip tvirtina ponas Simonas
-    Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au­
-    torius, man rašytame laiške (Raseiniai. 1836.IV.19).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213560
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]]

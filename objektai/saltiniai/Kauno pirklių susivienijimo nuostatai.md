@@ -61,6 +61,5 @@ Visų upeivių teisės, pareigos, tarpusavio santykiai paliko pėdsa kų įvairi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

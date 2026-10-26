@@ -62,6 +62,5 @@ Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakcij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -89,6 +89,5 @@ Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

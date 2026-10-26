@@ -42,44 +42,12 @@ canonical_biography: "D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Di
 
 D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Raštams“. D. Urbas išvertė 1959 m. Vilniuje išleistus L. A. Jucevičiaus „Raštus“.
 
-## Citatos
-
-- id: c-173229
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 19"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
-  citata_originali: |
-    8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė
-    D. Urbas. -  V, 1959. -  P. 330-417.
-  citata_rodoma: "8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė\nD. Urbas. -  V, 1959. -  P. 330-417."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-173230
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 38."
-  citata_originali: |
-    22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
-    Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
-  citata_rodoma: "22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.\nKomentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Teiginiai
 
-<a id="claim-t-216317"></a>
+<a id="claim-t-190346"></a>
 - t-001
   teiginys: "D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Raštams“."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -96,11 +64,13 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Bibliografinė nuoroda perrašyta į sakinį apie D. Urbo vaidmenį. Nepridėta duomenų už citatoje esančios leidimo informacijos ribų."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173229
 
-<a id="claim-t-216375"></a>
+<a id="claim-t-190347"></a>
 - t-002
   teiginys: "D. Urbas išvertė 1959 m. Vilniuje išleistus L. A. Jucevičiaus „Raštus“."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -117,4 +87,41 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sąrašo tipo bibliografinis fragmentas paverstas sakiniu apie D. Urbo atliktą vertimą. Įvado ir komentarų autoriai nepridėti, nes teiginys skirtas D. Urbui."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173230
 
+## Citatos
+
+- id: c-173229
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
+  citata_originali: |
+    8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė
+    D. Urbas. -  V, 1959. -  P. 330-417.
+  citata_rodoma: "8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė\nD. Urbas. -  V, 1959. -  P. 330-417."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-173230
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 38."
+  citata_originali: |
+    22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
+    Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
+  citata_rodoma: "22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.\nKomentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

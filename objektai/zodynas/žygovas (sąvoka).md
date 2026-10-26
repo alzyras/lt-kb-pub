@@ -64,6 +64,5 @@ Visų artimieji jo tarnai vadinos žygovai, kurie su jo lazda, arba vice, žygia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

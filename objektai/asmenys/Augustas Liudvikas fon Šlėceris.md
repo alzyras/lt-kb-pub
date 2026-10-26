@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-c55fc84dd2feea5386644800"
-canonical_name: "Augustas Liudvikas fon Šlėceris"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Augustas Liudvikas fon Šlėceris"]
+entity_id: ent-c55fc84dd2feea5386644800
+canonical_name: Augustas Liudvikas fon Šlėceris
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Augustas Liudvikas fon Šlėceris
 sameAs: []
-canonical_biography: "Šlėceris teigė, kad lietuviai iki valstybės sukūrimo buvo didelė, galinga, bet barbariška tauta."
+canonical_biography: 'Šlėceris teigė, kad lietuviai iki valstybės sukūrimo buvo didelė, galinga, bet barbariška tauta.'
 ---
 # Augustas Liudvikas fon Šlėceris
 
@@ -66,6 +68,5 @@ canonical_biography: "Šlėceris teigė, kad lietuviai iki valstybės sukūrimo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

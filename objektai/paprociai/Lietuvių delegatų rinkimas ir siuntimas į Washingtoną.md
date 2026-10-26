@@ -75,6 +75,5 @@ Chicagos politiškas seimas buvo išrinkęs penkis delegatus vykti į Washington
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

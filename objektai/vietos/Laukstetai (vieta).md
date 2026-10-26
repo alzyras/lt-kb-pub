@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-3adb3b3c01569d253f042881"
-canonical_name: "Laukstetai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Laukstetai","Laukstetai (vieta)"]
+entity_id: ent-3adb3b3c01569d253f042881
+canonical_name: Laukstetai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Laukstetai
+  - Laukstetai (vieta)
 sameAs: []
-canonical_biography: "Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi."
-place_authority: true
-historical_names: []
+canonical_biography: Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi.
 ---
 # Laukstetai (vieta)
 
@@ -64,7 +65,7 @@ Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi.
 <a id="claim-t-223740"></a>
 - t-001
   teiginys: "Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

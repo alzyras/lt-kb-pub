@@ -71,6 +71,5 @@ Pagaliau Raynoldo Bažny­ čios istorija ir paskesni vėliau Lietu­ voje vieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

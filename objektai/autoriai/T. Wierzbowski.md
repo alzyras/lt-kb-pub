@@ -76,6 +76,5 @@ Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą (W.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

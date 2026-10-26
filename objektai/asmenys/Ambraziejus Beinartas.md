@@ -68,6 +68,5 @@ Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1605 m. Vilniaus kanaun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

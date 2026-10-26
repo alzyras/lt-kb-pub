@@ -73,6 +73,5 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Čia paste
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

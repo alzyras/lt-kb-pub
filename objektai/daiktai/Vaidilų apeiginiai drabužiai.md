@@ -64,10 +64,10 @@ Nenurodyta
   pagrindžia:
     - c-172547
 
-<a id="claim-t-218695"></a>
-- t-218695
+<a id="claim-t-189665"></a>
+- t-002
   teiginys: "Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,6 +82,8 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   semantiniai_rysiai: "Vaidilų apeiginiai drabužiai priklausė Vaidilos (0.82)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172548
 
 ## Citatos
 
@@ -103,7 +105,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-172548
@@ -123,24 +125,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-200419
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 293"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 293."
-  citata_originali: |
-    Šie žyniai būdavo ne­
-    vedę*.
-    Vaidilų viršutinis drabužis buvo ilgas, įprastinio sukirpi­
-    mo, apsiūtas baltu drobiniu apvadu; krūtinė būdavo užsega­
-    ma trimis sagomis su trimis poromis baltų virvelinių kilpų, be­
-    sibaigiančių kutais. Baltas drobinis diržas, susegtas sagtimi arba
-    juosta.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

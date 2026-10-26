@@ -68,6 +68,5 @@ Teisinėje praktikoje perviliojimas buvo įvardytas kaip viena iš nusikalstamo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

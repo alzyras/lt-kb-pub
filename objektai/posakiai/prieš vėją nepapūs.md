@@ -99,7 +99,7 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-38390
@@ -122,6 +122,5 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

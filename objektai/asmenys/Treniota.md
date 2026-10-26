@@ -34,6 +34,15 @@ media_primary_json: '{"mediaId":"m-7f0f77964c24820bed6ef5d8","title":"Treniota. 
 media_direct_json: '[{"mediaId":"m-7f0f77964c24820bed6ef5d8","title":"Treniota. Vėlesnis istorinis atvaizdas, 1611 m.","caption":"Treniota. Vėlesnis istorinis atvaizdas, 1611 m.","originalTitle":"Treniota. Vėlesnis istorinis atvaizdas, 1611 m.","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"1611 m.","width":760,"height":1068,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_(A._Guagnini,_1611).jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg","displayUrl":"/static/media/museum/treniota.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:35+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Treniota.md","relationType":"portrait_of","title":"Treniota"}],"attribution":"Alexander Guagnini · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_(A._Guagnini,_1611).jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."},{"mediaId":"m-77768bd0092cbb164c163df5","title":"Bareljefas „Treniota – Lietuvos kunigaikštis“","caption":"Medinis tamsintas bareljefas, vaizduojantis Lietuvos kunigaikštį Treniotą.","originalTitle":"Bareljefas „Treniota – Lietuvos kunigaikštis“","creator":"E. Juškevičius","provider":"europeana","providerLabel":"National Museum of Lithuania","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2021","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_943458047","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-943458047/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnm-bucket%2FLIMIS-943458047%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-943458047/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Carving","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drožyba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entallament","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Intaglio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kerven","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Nikerdamine","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rezbarstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Schnitzen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snideri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snoíodóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taillaketa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Talla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Řezba","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:51:03.168883+03:00","reviewedAt":"2026-07-18T23:51:18.551580+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma stilizuota vyro, apsirengusio kario ar kunigaikščio apranga ir dėvinčio galvos apdangalą, figūra mediniame bareljefe.","metadataEvidence":"Kandidato pavadinimas tiesiogiai nurodo „Treniota – Lietuvos kunigaikštis“, o aprašyme aiškiai teigiama, kad centre pavaizduotas Treniota; nurodytas Lietuvos nacionalinio muziejaus teikėjas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai bei aiškiai identifikuoja konkretų target – Treniotą.","isPrimary":0},{"mediaId":"m-68ceee5077bbcba0323450db","title":"Traniata. Транята (M. Barvicki, 1908).jpg","caption":"Treniotos atvaizdas, Mečislavo Barvickio kūrinyje, 1908 m.","originalTitle":"Traniata. Транята (M. Barvicki, 1908).jpg","creator":"Мечыслаў Барвіцкі","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Nacionalinis M. K. Čiurlionio dailės muziejus","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":474,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.230272+03:00","reviewedAt":"2026-07-18T23:50:17.996917+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas stovintis barzdotas karys su karūną primenančiu galvos apdangalu, kardu ir kitu ginklu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas Treniota; nurodytas autorius Mečislavas Barvickis ir 1908 m. data.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus konkretus targeto atvaizdas, patvirtintas pavadinimu ir aprašymu.","isPrimary":0},{"mediaId":"m-2300d806dc790096b5c7a9ac","title":"Traniata. Транята (XVIII).jpg","caption":"Treniotos portretas, XVIII amžiaus atvaizdas.","originalTitle":"Traniata. Транята (XVIII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.pawet.net // Kultura Wielkiego Księstwa Litewskiego. Analizy і obrazy. Kraków, 2006. S. 835.","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":482,"height":483,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.234374+03:00","reviewedAt":"2026-07-18T23:50:18.000158+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritime įrėmintas barzdoto kario biustas su šalmu, šarvais ir kirviu ar alebarda.","metadataEvidence":"Pavadinime nurodyta „Traniata“, aprašyme tiesiogiai įvardytas Treniota, data – XVIII amžius.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybė aiškiai nurodyta metaduomenyse, o vaizdas atitinka istorinį kario portretą.","isPrimary":0},{"mediaId":"m-67bf65c9b4cef62c2f8d43b0","title":"Treniota.jpg","caption":"Treniotos atvaizdas, Aleksandro Guanjinio kūrinyje, 1578 m.","originalTitle":"Treniota.jpg","creator":"Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Cropped version of [1] ; originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":455,"height":539,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATreniota.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.237493+03:00","reviewedAt":"2026-07-18T23:50:18.003335+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma dekoratyviniame rėme pavaizduota ginkluota, barzdota raitelio figūra su kardu ir kario palyda.","metadataEvidence":"Pavadinime tiksliai nurodyta „Treniota“, aprašyme – Treniotos atvaizdas, autorius Aleksandras Guanjinis, data 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis ir metaduomenimis tiksliai identifikuotas Treniotos atvaizdas.","isPrimary":0}]'
 media_contextual_json: '[]'
 media_all_json: '[{"mediaId":"m-7f0f77964c24820bed6ef5d8","title":"Treniota. Vėlesnis istorinis atvaizdas, 1611 m.","caption":"Treniota. Vėlesnis istorinis atvaizdas, 1611 m.","originalTitle":"Treniota. Vėlesnis istorinis atvaizdas, 1611 m.","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"1611 m.","width":760,"height":1068,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_(A._Guagnini,_1611).jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg","displayUrl":"/static/media/museum/treniota.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:35+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Treniota.md","relationType":"portrait_of","title":"Treniota"}],"attribution":"Alexander Guagnini · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_(A._Guagnini,_1611).jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."},{"mediaId":"m-77768bd0092cbb164c163df5","title":"Bareljefas „Treniota – Lietuvos kunigaikštis“","caption":"Medinis tamsintas bareljefas, vaizduojantis Lietuvos kunigaikštį Treniotą.","originalTitle":"Bareljefas „Treniota – Lietuvos kunigaikštis“","creator":"E. Juškevičius","provider":"europeana","providerLabel":"National Museum of Lithuania","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2021","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_943458047","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-943458047/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnm-bucket%2FLIMIS-943458047%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-943458047/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Carving","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drožyba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entallament","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Intaglio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kerven","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Nikerdamine","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rezbarstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Schnitzen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snideri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snoíodóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taillaketa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Talla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Řezba","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:51:03.168883+03:00","reviewedAt":"2026-07-18T23:51:18.551580+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma stilizuota vyro, apsirengusio kario ar kunigaikščio apranga ir dėvinčio galvos apdangalą, figūra mediniame bareljefe.","metadataEvidence":"Kandidato pavadinimas tiesiogiai nurodo „Treniota – Lietuvos kunigaikštis“, o aprašyme aiškiai teigiama, kad centre pavaizduotas Treniota; nurodytas Lietuvos nacionalinio muziejaus teikėjas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai bei aiškiai identifikuoja konkretų target – Treniotą.","isPrimary":0},{"mediaId":"m-68ceee5077bbcba0323450db","title":"Traniata. Транята (M. Barvicki, 1908).jpg","caption":"Treniotos atvaizdas, Mečislavo Barvickio kūrinyje, 1908 m.","originalTitle":"Traniata. Транята (M. Barvicki, 1908).jpg","creator":"Мечыслаў Барвіцкі","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Nacionalinis M. K. Čiurlionio dailės muziejus","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":474,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.230272+03:00","reviewedAt":"2026-07-18T23:50:17.996917+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas stovintis barzdotas karys su karūną primenančiu galvos apdangalu, kardu ir kitu ginklu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas Treniota; nurodytas autorius Mečislavas Barvickis ir 1908 m. data.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus konkretus targeto atvaizdas, patvirtintas pavadinimu ir aprašymu.","isPrimary":0},{"mediaId":"m-2300d806dc790096b5c7a9ac","title":"Traniata. Транята (XVIII).jpg","caption":"Treniotos portretas, XVIII amžiaus atvaizdas.","originalTitle":"Traniata. Транята (XVIII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.pawet.net // Kultura Wielkiego Księstwa Litewskiego. Analizy і obrazy. Kraków, 2006. S. 835.","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":482,"height":483,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.234374+03:00","reviewedAt":"2026-07-18T23:50:18.000158+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritime įrėmintas barzdoto kario biustas su šalmu, šarvais ir kirviu ar alebarda.","metadataEvidence":"Pavadinime nurodyta „Traniata“, aprašyme tiesiogiai įvardytas Treniota, data – XVIII amžius.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybė aiškiai nurodyta metaduomenyse, o vaizdas atitinka istorinį kario portretą.","isPrimary":0},{"mediaId":"m-67bf65c9b4cef62c2f8d43b0","title":"Treniota.jpg","caption":"Treniotos atvaizdas, Aleksandro Guanjinio kūrinyje, 1578 m.","originalTitle":"Treniota.jpg","creator":"Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Cropped version of [1] ; originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":455,"height":539,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATreniota.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.237493+03:00","reviewedAt":"2026-07-18T23:50:18.003335+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma dekoratyviniame rėme pavaizduota ginkluota, barzdota raitelio figūra su kardu ir kario palyda.","metadataEvidence":"Pavadinime tiksliai nurodyta „Treniota“, aprašyme – Treniotos atvaizdas, autorius Aleksandras Guanjinis, data 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis ir metaduomenimis tiksliai identifikuotas Treniotos atvaizdas.","isPrimary":0}]'
+entity_id: ent-25bfcc5088cfcc14bfa94d41
+canonical_name: Treniota
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Treniota
+sameAs: []
+canonical_biography: 'Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota. Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė.'
 external_sources_json: '[{"title":"Treniota","url":"https://lt.wikipedia.org/wiki/Treniota","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Treniota","url":"https://www.vle.lt/straipsnis/treniota/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Treniota - Wikipedia","url":"https://en.wikipedia.org/wiki/Treniota","publisher":"Wikimedia Foundation","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T03:30:36+00:00","source_checked_at":"2026-09-19T03:30:36+00:00","counts":{"relations":8,"gallery":5,"sources":12},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Taut­ vilą atvedė polockiečius ir vitebskiečius, taip pat savo lietuvių dalinį. Treniota turėjo dalinį, surinktą iš že­ maičių savanorių.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","claim_id":"t-205719","evidence_id":"c-188334","origin":"internal"},"wiki":{"intro":"Treniota (apie 1210 m. – 1264 m.) – Lietuvos didysis kunigaikštis (1263–1264 m.), Mindaugo sesers, kurios vardas nežinomas, ir greičiausiai Nalšios kunigaikščio Lengvenio sūnus. Pagoniškosios Lietuvos atkūrėjas. Istorijos šaltiniuose minimas nuo 13 a. 7 dešimtmečio pradžios.","infobox":[{"code":"row_1","label":"","value":"Treniota","cells":[{"text":"Treniota","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Treniota 1578 m. graviūroje iš A. Gvanjinio kronikos","cells":[{"text":"Treniota 1578 m. graviūroje iš A. Gvanjinio kronikos","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Gimė","value":"1210 m.","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1210 m.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Mirė","value":"1264 m. (~54 metai)","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1264 m. (~54 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Motina","value":"nežinomo vardo Mindaugo sesuo","cells":[{"text":"Motina","header":true,"colspan":1,"rowspan":1},{"text":"nežinomo vardo Mindaugo sesuo","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Valdė","value":"1263 m. - 1264 m. (~1 metai)","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1263 m. - 1264 m. (~1 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Pirmtakas","value":"Mindaugas","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Mindaugas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"Įpėdinis","value":"Vaišelga","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Vaišelga","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"Vikiteka","value":"Treniota","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Treniota","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"30987","revision_id":"7794649","status":"published","translation_status":"native","source":{"title":"Treniota","url":"https://lt.wikipedia.org/wiki/Treniota","publisher":"Vikipedija","language":"lt","article_id":"30987","revision_id":"7794649","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7794649","history_url":"https://lt.wikipedia.org/w/index.php?title=Treniota&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:11:08.243377+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"905558de1b8ef0f2ed1cca76ad17b40331c527dbfaee4933d10fd192ef3e046c","version_pk":"dc99b3a2d88c7036381eef2008e54c4d"}},"source_buttons":[{"label":"Vikipedija","title":"Treniota","url":"https://lt.wikipedia.org/wiki/Treniota","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Treniota","url":"https://www.vle.lt/straipsnis/treniota/","kind":"encyclopedia","bucket":"vle"},{"label":"Wikimedia Foundation","title":"Treniota - Wikipedia","url":"https://en.wikipedia.org/wiki/Treniota","kind":"institutional","bucket":"institutional"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Treniota","https://www.vle.lt/straipsnis/treniota/","https://en.wikipedia.org/wiki/Treniota"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"317b3263e56daac943cdd2b5","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Valdžios troškimas, veidmainystė ir palankumas pagonybei.","context":"Teodoras Narbutas, remdamasis istorijos įvykiais, taip apibūdino Treniotos būdo bruožus.","support_ids":["t-205720","c-188335"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205720","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188335","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Kaip galima numanyti iš istorijos įvykių, svarbiausias Treniotos būdo bruožas bu­ vo valdžios troškimas, be to, veidmainystė ir palankumas pagonybei."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b05f3157e68fb9955c7004d8","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Narsa ir siekis nenusileisti tėvui sėkme.","context":"Albertas Vijūkas-Kojelavičius rašo, kad Treniota griebėsi ginklo ir nenorėjo nusileisti tėvui nei narsa, nei sėkme.","support_ids":["t-184846","c-168207"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184846","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168207","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Kad kerštas būtų kuo didesnis, ėmė visomis išga­ lėmis rengtis karui: iš visos Skitijos jis surinko kur kas didesnę kariuomenę, nei kada anksčiau buvo su­ renkama: sutelkė didžiules Užvolgio, Nogajaus, Kaza­ nės, Krymo ordas. Treniota negaišdamas griebėsi gink­ lo: jis nenorėjo nusileisti tėvui nei narsa, nei sėkme. Jis sakėsi laikąs laimingu ženklu, kad sūnus vėl išve­ sianti į kovos lauką ta pati priežastis, kuri neseniai tė­ vus paskatinusi pulti vienam kitą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1091800b48c43b12070d6a65","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Palankumas pagonybei.","context":"Teodoras Narbutas šį bruožą priskiria Treniotai, remdamasis istorijos įvykiais.","support_ids":["t-205720","c-188335"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205720","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188335","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Kaip galima numanyti iš istorijos įvykių, svarbiausias Treniotos būdo bruožas bu­ vo valdžios troškimas, be to, veidmainystė ir palankumas pagonybei."}],"status":"published","conflict_status":"clear"},{"trait_id":"c2ce3badac11527c9a8e4f05","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Žemaičių kunigaikštis.","context":"Simonas Daukantas Treniotą įvardija Žemaičių kunigaikščiu.","support_ids":["t-201040","c-184390"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201040","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184390","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Mintautas, ketėdamas vokyčius tremti laukan iš Padaugavio, patelkė ant karės gudus ir, sukėlęs sa­ vo ūkės karėjus, perskiedė juos į dvi kariauni; su viena traukė pats į Padaugavį, kurio nusiaubęs apy- kartas Lenevardos, bet nesulaukdamas tenai gudų ateinančių pagal žadėjimą, pagrįžo namo su didžiu grobiu. Su antra kariauna Treniota, Žemaičių kunigaikš­ tis, traukė į Žemgalius, kursai visų pirma, varu įsi­ laužęs į Diunamiundės pilį, su žeme ją sulygino; paskui nusiaubė salas Eželio ir Runo, nuo tenai, išėjęs į kraštą igumių, visą sritį, vadinamą Viku, nuteriojo, taip pat, į pilį Pernavo įsilaužęs, su žeme ją sulygino. Tuo tarpu mistras kala vi jonų Brethu- zenas, norėdamas jam atmonyti*…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8930d835d3e67e68cebdd70a","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvių karaliaus sūnus.","context":"Petras Dusburgietis Treniotą įvardija lietuvių karaliaus sūnumi.","support_ids":["t-221923","c-202352"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221923","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202352","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias žemes nusiaubė, grobdamas ir degindamas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ac28db15bf419d4a22e14e5f","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos valdovas po Mindaugo.","context":"Šaltiniuose nurodoma, kad po Mindaugo valstybės valdžią perėmė Treniota ir kad 1263 m. jis užėmė Lietuvos sostą.","support_ids":["t-205722","c-188337","t-207452","c-190072"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205722","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"internal_claim","claim_id":"t-207452","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-188337","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Tiktai sužinome, jog po Mindaugo valstybę perėmė Treniota."},{"kind":"evidence","evidence_id":"c-190072","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":". ruduo – Daumantui nužudžius Mindaugą ir du jo sūnus, Lietuvos sostą užėmė Treniota, 1263 m. pabaiga – varžybos dėl valdžios tarp artimiausių Mindaugo gi- minaičių Tautvilo ir Treniotos baigėsi pirmojo nužudymu, 1264 m. vidurys – Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga. Min- da"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5f35b2524363befadcd140d7","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Vadovavo didelei kariuomenei ir kariniams žygiams.","context":"1262 m. Treniota vadovavo Mindaugo kariuomenei, kuri nusiaubė Ordino užnugarį Pavyslyje.","support_ids":["t-222018","c-206124","t-222249","c-201966"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222018","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-222249","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206124","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Priešiškuose lietuviams šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160)."},{"kind":"evidence","evidence_id":"c-201966","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fbb120b1d9c96942ae6c9827","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Subūrė iki trisdešimties tūkstančių vyrų ir padalijo kariuomenę į tris dalis.","context":"Petras Dusburgietis taip aprašo Treniotos veiksmus žygyje prieš Mazoviją ir Pamedę.","support_ids":["t-221923","c-202352"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221923","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202352","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias žemes nusiaubė, grobdamas ir degindamas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b8f62792f1ba8482ecf17294","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Įvardijamas stipriausiu Mindaugo varžovu.","context":"Alfonsas Bumblauskas Treniotą apibūdina kaip stipriausią Mindaugo varžovą.","support_ids":["t-207489","c-190106"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207489","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190106","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a5777765b8acd5d5b91e699","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Po Mindaugo mirties tapo Lietuvos valdovu, tačiau 1264 m. buvo nužudytas Mindaugo šalininkų.","context":"2013 m. Lietuvos istorijoje nurodoma, kad 1264 m. Mindaugo šalininkai nužudė Treniotą, o Lietuvos valdovu tapo Vaišelga.","support_ids":["t-90062","c-85946"],"source_refs":[{"kind":"internal_claim","claim_id":"t-90062","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-85946","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Treniota buvo stipriausias Mindaugo varžovas ir Žemaičių kunigaikštis. Jis veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą. Pasak vieno šaltinio, Treniota sutartą dieną slapta atvedė kariuomenę iš Žemaitijos, o kartu su Daumantu naktį įsiveržė į Mindaugo rūmus. Jo vadovaujamas dalinys buvo surinktas iš žemaičių savanorių, o žygiai siejami su kovomis Žemgaliuose ir Diunamiundės pilies sunaikinimu. Po Mindaugo mirties Treniota perėmė valstybės valdžią, tačiau 1264 m. Mindaugo šalininkai jį nužudė, ir valdovu tapo Mindaugo sūnus Vaišelga.","sentences":[{"sentence_id":"s1","text":"Treniota buvo stipriausias Mindaugo varžovas ir Žemaičių kunigaikštis.","support_ids":["t-207489","t-201040"]},{"sentence_id":"s2","text":"Jis veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.","support_ids":["t-90063"]},{"sentence_id":"s3","text":"Pasak vieno šaltinio, Treniota sutartą dieną slapta atvedė kariuomenę iš Žemaitijos, o kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.","support_ids":["t-184848"]},{"sentence_id":"s4","text":"Jo vadovaujamas dalinys buvo surinktas iš žemaičių savanorių, o žygiai siejami su kovomis Žemgaliuose ir Diunamiundės pilies sunaikinimu.","support_ids":["t-205719","t-201040"]},{"sentence_id":"s5","text":"Po Mindaugo mirties Treniota perėmė valstybės valdžią, tačiau 1264 m. Mindaugo šalininkai jį nužudė, ir valdovu tapo Mindaugo sūnus Vaišelga.","support_ids":["t-205722","t-90062"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Abu teiginiai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo Treniotos ir Daumanto veikimą išvien bei Mindaugo nužudymą 1263 m."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai aprašo kariuomenės atvedimą iš Žemaitijos ir naktinį įsiveržimą į Mindaugo rūmus."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai nurodo iš žemaičių savanorių surinktą Treniotos dalinį, žygį į Žemgalius ir Diunamiundės pilies sunaikinimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Treniotos valdžios perėmimą, jo nužudymą 1264 m. ir Vaišelgos tapimą valdovu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-207489","t-201040"]},{"sentence_id":"s2","supported":false,"support_ids":["t-90063"]},{"sentence_id":"s3","supported":false,"support_ids":["t-184848"]},{"sentence_id":"s4","supported":false,"support_ids":["t-205719","t-201040"]},{"sentence_id":"s5","supported":false,"support_ids":["t-205722","t-90062"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-7f0f77964c24820bed6ef5d8"},"featured_gallery":[{"media_id":"m-68ceee5077bbcba0323450db","relation_type":"painting_of"},{"media_id":"m-67bf65c9b4cef62c2f8d43b0","relation_type":"painting_of"},{"media_id":"m-2300d806dc790096b5c7a9ac","relation_type":"portrait_of"},{"media_id":"m-77768bd0092cbb164c163df5","relation_type":"statue_of"}],"media_verification":{"status":"verified","primary_media_id":"m-1c12f3431529ae5fdab9c715","candidate_count":5,"visual_verified_count":5,"identity_verified_count":5,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Metaduomenys ir vaizdas tiesiogiai sieja objektą su Treniota.","visual_evidence":"Matomas viduramžiškai vaizduojamas barzdotas raitelis su karine apranga, ginklais ir heraldiniais bei dekoratyviniais rėmais.","metadata_evidence":"Pavadinime tiesiogiai nurodyta „Traniata“, aprašyme – Treniotos atvaizdas, autorius Aleksandras Guanjinis, data 1611 m.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[{"slug":"parodos/lietuvos-ir-atr-valdovai","title":"LDK ir ATR valdovai"}],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Pisimantas","claim_id":"t-186159","confidence":0.9},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Tautvilas","claim_id":"t-185830","confidence":0.94},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-185649","confidence":0.68},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-185649","confidence":0.92},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Červinskas","claim_id":"t-185649","confidence":0.82},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Daumantas","claim_id":"t-184685","confidence":0.72},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Naugardukiečiai","claim_id":"t-184594","confidence":0.73},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-184594","confidence":0.88}],"timeline":[{"date":"1262 m.","label":"1262 m.","claimId":"t-222018"},{"date":"1262 m.","label":"Treniota vadovavo Mindaugo kariuomenei 1262 m.","claimId":"t-222249"},{"date":"1263 m.","label":"Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m.","claimId":"t-90063"},{"date":"1263 m.","label":"1263 m.","claimId":"t-207452"},{"date":"1264 m.","label":"1264 m.","claimId":"t-90062"}],"support_disclosure":{"claims":23,"sources":9}}'
 object_page_finisher: 'true'
@@ -49,13 +58,6 @@ object_page_seo_generated_at: '2026-09-19T03:30:36+00:00'
 object_page_seo_policy_version: object-page-policy/v7
 media_primary_width: 760
 media_primary_height: 1068
-entity_id: "ent-25bfcc5088cfcc14bfa94d41"
-canonical_name: "Treniota"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Treniota"]
-sameAs: ["https://www.wikidata.org/entity/Q324506"]
-canonical_biography: "Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota. Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė."
 ---
 # Treniota
 
@@ -234,6 +236,18 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   pagrindžia:
     - c-178794
 
+<a id="claim-t-196872"></a>
+- t-011
+  teiginys: "Treniota (Mindaugo seserėnas) ten pat pas juos atvyktų ir susitiktų su jais."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-178952
+
 <a id="claim-t-201039"></a>
 - t-012
   teiginys: "Treniota, urėdas Naujapilio (Nowogrodek), tą nujautęs, sukėlė savo brolius Pryšmantą ir Liubartą, urėdus juodųjų gudų, vie nok galybe vienų lietuvių nedrįsdamas su totoriais grumtis, kaipogi Utenis, kaip sakiau, su žemaičiais kariavo kalavijonis Padaugavy ir."
@@ -347,86 +361,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
   pagrindžia:
     - c-188338
-
-<a id="claim-t-207452"></a>
-- t-207452
-  teiginys: "1263 m. pabaigoje Tautvilo ir Treniotos varžybos dėl Lietuvos valdžios baigėsi Tautvilo nužudymu, o 1264 m. viduryje Mindaugo šalininkai nužudė Treniotą."
-  atnaujinta: "2026-09-19 06:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1264 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir aiškiai nurodo Tautvilo bei Treniotos žūčių seką ir datas."
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-190072
-
-<a id="claim-t-207489"></a>
-- t-207489
-  teiginys: "Treniota šaltinyje įvardijamas kaip stipriausias Mindaugo varžovas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190106
-
-<a id="claim-t-210891"></a>
-- t-210891
-  teiginys: "Susirado Treniotą\", Mindaugo sese rėną, ir su juo sumanė nužudyti Mindaugą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-193614
-
-<a id="claim-t-218138"></a>
-- t-218138
-  teiginys: "Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre niota."
-  atnaujinta: "2026-09-19 06:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-198256
-
-<a id="claim-t-221923"></a>
-- t-221923
-  teiginys: "Treniota buvo lietuvių karaliaus sūnus."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202352
-
-<a id="claim-t-222249"></a>
-- t-222249
-  teiginys: "Treniota vadovavo Mindaugo kariuomenei 1262 m. žygyje prieš Ordino užnugarį pavyslyje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-201966
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -542,7 +476,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-85945
@@ -564,7 +498,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-85946
@@ -584,7 +518,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-85947
@@ -606,7 +540,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-85948
@@ -625,7 +559,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168207
@@ -650,7 +584,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-168209
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -674,7 +607,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-171533
@@ -698,7 +631,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-176621
@@ -716,7 +649,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-178794
@@ -739,7 +672,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
     - t-010
 
@@ -764,6 +697,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-184389
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -793,7 +728,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-184390
@@ -823,7 +758,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-187759
@@ -843,7 +778,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-188091
@@ -865,7 +800,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-188334
@@ -885,7 +820,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-188335
@@ -908,7 +843,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-188336
@@ -930,7 +865,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-188337
@@ -945,7 +880,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-188338
@@ -962,157 +897,5 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
-
-- id: c-190072
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 88"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 88."
-  citata_originali: |
-    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nu-
-    žudyti dar trys dėl valdžios kovoję kunigaikščiai ir vienas išvytas. Pavardinkime šiuos
-    faktus: 1263 m. ruduo – Daumantui nužudžius Mindaugą ir du jo sūnus, Lietuvos sostą
-    užėmė Treniota, 1263 m. pabaiga – varžybos dėl valdžios tarp artimiausių Mindaugo gi-
-    minaičių Tautvilo ir Treniotos baigėsi pirmojo nužudymu, 1264 m. vidurys – Mindaugo
-    šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga. Min-
-    daugo sūnus Vaišelga, nuvertęs nuo Lietuvos sosto sąmokslo prieš tėvą organizatorių Tre-
-    niotą, keliais požiūriais išsiskiria iš Lietuvos valdovų ir kitų XIII a. istorinių asmenybių.
-  citata_rodoma: ". ruduo – Daumantui nužudžius Mindaugą ir du jo sūnus, Lietuvos sostą \nužėmė Treniota, 1263 m. pabaiga – varžybos dėl valdžios tarp artimiausių Mindaugo gi-\nminaičių Tautvilo ir Treniotos baigėsi pirmojo nužudymu, 1264 m. vidurys – Mindaugo \nšalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga. Min-\nda"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207452
-
-- id: c-190106
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 86"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 86."
-  citata_originali: |
-    Vėlesnėje Lietuvos istorijoje į panašų europinį vaidmenį gali
-    pretenduoti nebent Vytautas, Žalgirio mūšyje sustabdęs vokiečių agresiją ir priartinęs
-    valstybę prie to, ką šiandien lyginamoji istorinė sociologija vadina pirmine imperija, ir
-    1990 m. Lietuvos nepriklausomybės kūrėjai, pradėdami „suverenitetų paradą“ ir tuo pri-
-    sidėdami prie sovietų imperijos griūties.
-    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien
-    su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą (nežinoma kur, ta-
-    čiau atkreiptinas dėmesys, kad Latvijos katalikiškoje dalyje, Agluonoje iki šiol tradiciškai
-    manoma, kad Mindaugas buvo nužudytas būtent čia).
-  citata_rodoma: "Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien \nsu stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207489
-
-- id: c-193614
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
-  citata_originali: |
-    Ir Daumantas ieškojo, su kuo jam susidėti ir Min­
-    daugą nužudyti. Susirado Treniotą", Mindaugo sese­
-    rėną, ir su juo sumanė nužudyti Mindaugą. O Treniota
-    tuomet buvo Žemaičiuose.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 20:03"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210891
-
-- id: c-193749
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 54"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 54."
-  citata_originali: |
-    Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
-    tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­
-    matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat
-    pas juos atvažiuotų pasitarti.
-    Ir Haličo kunigaikštis Vasilka kvietė Vaišvilką,
-    kad jis ten pat pas juos atvyktų ir susitiktų su jais.
-    Vaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­
-    taikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo
-    jam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro
-    miestą, pasitikėdamas Vasilkos ir Švarno žodžiu.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198256
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
-  citata_originali: |
-    Šiojo sūnus Liu­
-    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218138
-
-- id: c-201966
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 11"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
-  citata_originali: |
-    Štai Didžiojo prūsų sukilimo
-    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
-    Ordino užnugarį pavyslyje (III, 160).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222249
-
-- id: c-202352
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 143"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
-  citata_originali: |
-    Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,
-    subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo
-    juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias
-    žemes nusiaubė, grobdamas ir degindamas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221923
-

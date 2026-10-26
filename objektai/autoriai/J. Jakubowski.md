@@ -101,7 +101,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-65306
@@ -120,6 +120,5 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

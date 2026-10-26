@@ -29,8 +29,6 @@ entity_view_role: "place"
 entity_aliases: ["Tumasoniai","Tumasoniai (vieta)"]
 sameAs: []
 canonical_biography: "Jonas Čekelis gimė 1925 m. Tumasonių kaime, Šimonių valsčiuje."
-place_authority: true
-historical_names: []
 ---
 # Tumasoniai (vieta)
 
@@ -38,13 +36,14 @@ historical_names: []
 
 Partizanas Jonas Čekelis iš Vytauto Kujelavičiaus būrio gimė 1925 m. Tumasonių kaime, Šimonių valsčiuje; kronika nurodo, kad 1946 m. spalį jis buvo nušautas.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-215021
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Partizanas Jonas Čekelis iš Vytauto Kujelavičiaus būrio gimė 1925 m. Tumasonių kaime, Šimonių valsčiuje; kronika nurodo, kad 1946 m. spalį jis buvo nušautas.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 209"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 209."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:46"

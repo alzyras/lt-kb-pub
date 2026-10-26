@@ -95,7 +95,7 @@ Kauno lenkai, norėdami gauti pinigų iš lietuvio delegato, pereidavo prie liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192529
@@ -121,6 +121,5 @@ Kauno lenkai, norėdami gauti pinigų iš lietuvio delegato, pereidavo prie liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -78,6 +78,5 @@ Miestuose ir pačiame Vilniuje visi namai buvo atviri pra eiviams ir svečiams: 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

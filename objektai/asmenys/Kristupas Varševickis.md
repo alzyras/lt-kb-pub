@@ -88,6 +88,5 @@ canonical_biography: "51 Šis pareiškimas buvo išsakytas ka­ pitulos susirink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

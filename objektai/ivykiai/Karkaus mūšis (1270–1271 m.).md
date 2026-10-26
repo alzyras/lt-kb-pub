@@ -85,6 +85,5 @@ Prie Karkaus, kaip nurodo Teodoras Narbutas, žuvo magistras Otonas Rodenšteina
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

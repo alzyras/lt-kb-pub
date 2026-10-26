@@ -67,6 +67,5 @@ Riteris Jonas Altenhofas žuvo prie nuleisto tilto per užpuolikų puolimą, per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

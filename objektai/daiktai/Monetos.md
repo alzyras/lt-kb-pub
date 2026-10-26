@@ -79,10 +79,10 @@ Nenurodyta
   pagrindžia:
     - c-174951
 
-<a id="claim-t-212880"></a>
-- t-212880
+<a id="claim-t-192082"></a>
+- t-002
   teiginys: "Narbutas nurodė: 1841 m. prie Druskininkų kapavietėje rasta labai plona ir apgadinta moneta, kurios vienoje pusėje pavaizduoti Gedimino šeimos Stulpai."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Gediminas (Lietuvos didysis kunigaikštis, XIV a.): 0.85"
@@ -97,6 +97,8 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalinta nereikalinga Narbuto įžanga ir paliktas aiškus radinio, vietos bei vaizdulio aprašymas. Nepridėta interpretacijų apie kitą monetos pusę daugiau, nei leidžia citata."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174950
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -138,6 +140,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-174951
   autorius: "Zenonas Ivinskis"
@@ -162,6 +166,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

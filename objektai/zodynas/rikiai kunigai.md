@@ -59,6 +59,5 @@ Tie vadai buvo vadinami rikiais ir kunigais.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -56,6 +56,5 @@ Nors Ksaveras Bogušas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

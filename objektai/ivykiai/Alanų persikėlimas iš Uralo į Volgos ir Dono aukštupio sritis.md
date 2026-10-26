@@ -68,6 +68,5 @@ Maždaug po pusantro amžiaus alanai pasitraukė į Dono aukštupį ir pavergė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

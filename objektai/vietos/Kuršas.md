@@ -37,6 +37,21 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-be9de4b505f1692daf92b99c
+canonical_name: Kuršas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kurland
+  - Kuršas
+  - Kurše
+  - Kuršu
+  - Kuržemėj
+sameAs: []
+canonical_biography: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę. 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą. Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Kuršas","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1as","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kuršas","url":"https://www.vle.lt/straipsnis/kursas-2/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:04:07+00:00","source_checked_at":"2026-09-19T01:04:07+00:00","counts":{"relations":17,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Kuršas (latv. Kurzeme, lyv. Kurāmō) – istorinis etnografinis regionas dabartinėje Latvijoje, atskirais laikotarpiais apėmęs ir dalį dabartinės Lietuvos teritorijos. Didesni dabartiniai centrai – Liepoja ir Ventspilis. Žiemgala ir Sėla kartais priskiriami Kuršui, nes priklausė Kuršo hercogystei.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"3812","revision_id":"7694320","status":"published","translation_status":"native","source":{"title":"Kuršas","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1as","publisher":"Vikipedija","language":"lt","article_id":"3812","revision_id":"7694320","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7694320","history_url":"https://lt.wikipedia.org/w/index.php?title=Kur%C5%A1as&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:21.754801+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"c40b8e75d40b10a60aa1efdcea3e5abb8b4246c77ddc6d6b64be62eff876e9e4","version_pk":"59898dacc9344c1f280cd5629560eed2"}},"source_buttons":[{"label":"Vikipedija","title":"Kuršas","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1as","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kuršas","url":"https://www.vle.lt/straipsnis/kursas-2/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kur%C5%A1as","https://www.vle.lt/straipsnis/kursas-2/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Fridrichas Ketleris","claim_id":"t-40109","confidence":0.86},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Ketleris","claim_id":"t-212705","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-214820","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Latviai","claim_id":"t-215024","confidence":0.88},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lybiai","claim_id":"t-96812","confidence":0.84},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Henrikas Botelis","claim_id":"t-221546","confidence":0.83},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Alsunga","claim_id":"t-218042","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Alūkšta","claim_id":"t-21342","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Heilsbergas","claim_id":"t-185102","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Karšuva","claim_id":"t-185102","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Piltenė","claim_id":"t-43827","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Jarmerikas","claim_id":"t-215301","confidence":0.75},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-90763","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-171531","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-180279","confidence":0.74},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-41712","confidence":0.86},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Jarmerikas","claim_id":"t-215301","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -50,15 +65,6 @@ object_page_seo_description: 'Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie
 object_page_seo_input_hash: 8f3d905a7c7ba8d0f6ac1ef69c61a6b007cbd798f548997bb201de7009bbb70b
 object_page_seo_generated_at: '2026-09-19T01:04:07+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-be9de4b505f1692daf92b99c"
-canonical_name: "Kuršas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kurland","Kuršas","Kurše","Kuršu","Kuržemėj"]
-sameAs: ["https://www.wikidata.org/entity/Q185072"]
-canonical_biography: "1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę. 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą. Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį."
-place_authority: true
-historical_names: []
 ---
 # Kuršas
 
@@ -561,107 +567,6 @@ historical_names: []
   pagrindžia:
     - c-188402
 
-<a id="claim-t-90775"></a>
-- t-90775
-  teiginys: "Dalis Kuršo buvo minima tarp teritorijų, į kurias krypo dviejų Lietuvos politinių grupuočių aspiracijos."
-  atnaujinta: "2026-09-19 04:04"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kuršas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-86542
-
-<a id="claim-t-208561"></a>
-- t-208561
-  teiginys: "Lenkimų vaikas, Puzaro apibūdinamas kaip neklusnus, nukentėjo grybaudamas Kuršo pono miške."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:48Z"
-  pagrindžia:
-    - c-191181
-
-<a id="claim-t-208562"></a>
-- t-208562
-  teiginys: "Puzaro teigimu, Kurše dažnos mišrios santuokos neigiamai veikė katalikų sąmoningumą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:48Z"
-  pagrindžia:
-    - c-191182
-
-<a id="claim-t-208563"></a>
-- t-208563
-  teiginys: "Puzaro teigimu, Kurše gyvenantiems latvių tautybės katalikams grėsė pavojus netekti savo tikėjimo."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:48Z"
-  pagrindžia:
-    - c-191183
-
-<a id="claim-t-208564"></a>
-- t-208564
-  teiginys: "Kurše daugiausia pasitaikydavo mišrių santuokų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191184
-
-<a id="claim-t-214863"></a>
-- t-214863
-  teiginys: "Tikrąjį Kuršą šian dien sudaro Piltenės, Ttikumo ir Goldingos valsčiai."
-  atnaujinta: "2026-09-19 04:04"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194643
-
-<a id="claim-t-215636"></a>
-- t-215636
-  teiginys: "Jarmerikas, įsiveržęs į Prūsiją, užgrobė Sembą, paskui Kuršą."
-  atnaujinta: "2026-09-19 04:04"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
-<a id="claim-t-218095"></a>
-- t-218095
-  teiginys: "Kurše, Livonijo je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (?"
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200397
-
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
@@ -769,7 +674,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-32166
@@ -791,7 +696,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
     - t-015
 
@@ -814,7 +719,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -835,7 +740,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-43547
@@ -856,7 +761,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-022
 
@@ -880,7 +785,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-43549
@@ -909,7 +814,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-43551
@@ -939,7 +844,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-43552
@@ -961,7 +866,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-86536
@@ -982,7 +887,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-86538
@@ -1003,7 +908,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-86539
@@ -1039,7 +944,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-86541
@@ -1059,7 +964,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-86542
@@ -1086,9 +991,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90775
-
 - id: c-167177
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1108,7 +1010,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168359
@@ -1136,7 +1038,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-168360
@@ -1164,7 +1066,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-175452
@@ -1192,7 +1094,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
     - t-025
 
@@ -1214,7 +1116,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-175454
@@ -1240,7 +1142,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
     - t-026
 
@@ -1263,7 +1165,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-177129
@@ -1283,7 +1185,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-178851
@@ -1318,7 +1220,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-188066
@@ -1343,7 +1245,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-188402
@@ -1365,207 +1267,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
-
-- id: c-191181
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 114"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 114."
-  citata_originali: |
-    Vysk. M. Valančius keturiais
-    vaizdeliais iliustruoja skaudžias IV Dievo įsakymo lau­
-    žymo pasekmes. Štai Kretingoje neklusnūs vaikai čiuožė
-    ant plono ledo, įlūžo ir būtų prigėrę, jeigu jų nebūtų iš­
-    gelbėjęs suaugęs žmogus. Lenkimuose neklusnus vaikas
-    nukentėjo grybaudamas Kuršo pono miške.
-  citata_rodoma: "Lenkimuose neklusnus vaikas \nnukentėjo grybaudamas Kuršo pono miške."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208561
-
-- id: c-191182
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 143"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 143."
-  citata_originali: |
-    Be to, katalikų sąmoningumui turėjo
-    neigiamos įtakos dažnos (Kurše) mišrios santuokos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208562
-
-- id: c-191183
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 148"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 148."
-  citata_originali: |
-    Gu­
-    bernatorius už tai vysk. M. Valančių nubaudė namų areš­
-    tu ir 1000 rb bauda3. Po to vysk. M. Valančius rašė pra­
-    šymus, kad toje prieglaudoje katalikų vaikai būtų auklė­
-    jami katalikiškai4.
-    Kurše gyvenantiems katalikams latviams grėsė pavo­
-    jus netekti savo tikėjimo.
-  citata_rodoma: "Kurše gyvenantiems katalikams latviams grėsė pavo­\njus netekti savo tikėjimo."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208563
-
-- id: c-191184
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 149"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 149."
-  citata_originali: |
-    Daugiausia mišrių santuokų pasitaikydavo Kurše.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208564
-
-- id: c-194643
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 286"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 286."
-  citata_originali: |
-    Taip pat Bogušas daro klaidingą prielaidą, kad tai
-    turėjusi būti Palanga; mes viename iš artimiausių straips­
-    nių, kalbėdami apie agazirus, įrodysime, kad jis buvo
-    iš tikrųjų ir kurioje vietoje. Kuršiai visuomet buvo žem­
-    dirbiai ir kariai, nes, gyvendami pajūrio žemėse ir būda­
-    mi turtingi, buvo priversti nuolat kariauti su skandina­
-    vais ir jiems giminingomis gentimis. Tikrąjį Kuršą šian­
-    dien sudaro Piltenės, Ttikumo ir Goldingos valsčiai.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214863
-
-- id: c-195165
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 286"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 286."
-  citata_originali: |
-    Ksaveras Bogušas1 labai gerai pastebi, kad islandų
-    sagose, kur pasakojama apie chorų, arba churų, tautą,
-    reikia suprasti kuršius, kuriems senovėje priklausė daug
-    daugiau žemių negu vėlesniais laikais ir dabar. Iš tikrų­
-    jų dar prieš žemgalius (jie yra kuršių atšaka, susimai­
-    šiusi su lietuviais ir latviais) jie gyveno prie Dauguvos
-    visoje Žemgaloje ir buvo vadinami koraksais, Korraxy.
-    Dauguvai jie suteikė mitinį pavadinimą Rox, t. y. Ross.
-    Taigi ši upė, kai kur tekėdama būtent per tos tautos že­
-    mę, buvo vadinama Korrax, t. y. Kuršių Rosé, Kuronska
-    Ross2. Jų teritorijoje buvo penki gynybiniai miestai, kurių
-    vienas vadinosi Apulija.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200397
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 180"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
-  citata_originali: |
-    Kurše, Livonijo­
-    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
-    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
-    garbinamas Pušaitis ir barstukai18“.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218095
-
-- id: c-203007
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 53-54"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53-54."
-  citata_originali: |
-    172) Dusburgiečio tekste kalbama
-
-    3. Apie prūsų susiskirstymą bei jų galybę
-
-       Prūsijos žemė188 skirstoma į
-    apie Nemuną, skiriantį Prūsiją nuo Kuršo. Teiginys, matyt, atspindi situaciją, kai Ordinas
-    ginklu prie Kuršo buvo prijungęs kitas teritorijas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204707
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 111-112"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111-112."
-  citata_originali: |
-    Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
-                                             nių
-
-      1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis
-    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
-    prie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių
-
-      342 Krašto magistras buvo nuo 1259 m. gegužės mėn.  iki 1261 m.  lapkričio
-    mėn.
-      343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
-    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
-    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir
-    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p. 199—
-    202).
-      344 Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta,
-    atrodo, deš. Nemuno krante apie dab. Jurbarką, žemiau Mituvos žiočių, kur yra Bišpiliukais
-    vadinama piliavietė (dvi kalvelės Kalnėnų kaimo teritorijoje) (Toeppen M., Historisch..,
-    p. 39; Zajączkowski S., Studya.., p. 35—36; SZM, p. 213—214; LAA, 2, p. 77).
-
-    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
-    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
-    grobio.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Ketleris]]

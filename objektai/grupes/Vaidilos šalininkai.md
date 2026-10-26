@@ -76,7 +76,7 @@ Pasak Teodoro Narbuto, Kęstutis, gelbėdamas tėvynę nuo kryžiuočių, neįve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189293
@@ -98,6 +98,5 @@ Pasak Teodoro Narbuto, Kęstutis, gelbėdamas tėvynę nuo kryžiuočių, neįve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

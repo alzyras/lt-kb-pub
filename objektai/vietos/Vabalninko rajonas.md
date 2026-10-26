@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Vabalninko rajonas'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1950 m.'
@@ -38,18 +39,28 @@ historical_names: []
 
 ## Santrauka
 
-1951 m. Kupiškio dekano rašte teigta, kad Vabalninko rajone visi kunigai buvo verčiami pasirašyti didžiules paskolas. Alizavos biblioteka atiteko Vabalninko rajonui, o Skapiškio biblioteka – Pandėlio rajonui.
+1951 m. Kupiškio dekano rašte teigta, kad Vabalninko rajone visi kunigai buvo verčiami pasirašyti didžiules paskolas. Alizavos biblioteka atiteko Vabalninko rajonui, o Skapiškio biblioteka – Pandėlio rajonui. 1952 m. birželio 21 d. Didžprūdžių kaime, Vabalninko rajone, partizanų paieška buvo organizuota pagal agentų „Anglio“ ir „Vernyj“ duomenis.
 
-## Santrauka
+## Teiginiai
 
-1951 m. Kupiškio dekano rašte teigta, kad Vabalninko rajone visi kunigai buvo verčiami pasirašyti didžiules paskolas. Alizavos biblioteka atiteko Vabalninko rajonui, o Skapiškio biblioteka – Pandėlio rajonui.
+<a id="claim-t-226244"></a>
+- t-001
+  teiginys: "Alizavos biblioteka atiteko Vabalninko rajonui, o Skapiškio biblioteka – Pandėlio rajonui."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  vertinimo_atnaujinta: "2026-09-23T18:02:11Z"
+  pagrindžia:
+    - c-206760
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1951 m. Kupiškio dekano rašte nurodyta, kad Vabalninko rajone visi kunigai buvo verčiami pasirašyti didžiules paskolas.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 426 (PDF 427)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 426 (PDF 427)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -57,6 +68,15 @@ historical_names: []
   statusas: verified
 - t-003
 
+- c-003
+  santrauka: '1952 m. birželio 21 d. Didžprūdžių kaime, Vabalninko rajone, partizanų paieška buvo organizuota pagal agentų „Anglio“ ir „Vernyj“ duomenis.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 428"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-206760
@@ -68,22 +88,5 @@ historical_names: []
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-
-- id: c-215042
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 428"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 428."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-09-28 18:24"
-
-- id: c-215043
-  autorius: "unknown"
-  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto bibliotekų istorijos fragmentai"
-  puslapiai: "p. 799 (PDF 800)"
-  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto bibliotekų istorijos fragmentai, p. 799 (PDF 800)."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-09-28 18:24"
-
+  pagrindzia:
+    - t-001

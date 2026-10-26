@@ -85,7 +85,7 @@ LDK kariuomenė įžengė į Didžiojo Naugardo teritoriją 1428 m. liepos 16 d.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-193731
@@ -102,6 +102,5 @@ LDK kariuomenė įžengė į Didžiojo Naugardo teritoriją 1428 m. liepos 16 d.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

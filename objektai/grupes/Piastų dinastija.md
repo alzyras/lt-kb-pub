@@ -76,6 +76,5 @@ Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -83,6 +83,5 @@ Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo dona
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

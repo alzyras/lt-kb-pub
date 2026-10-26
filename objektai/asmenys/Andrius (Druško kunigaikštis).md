@@ -104,6 +104,5 @@ canonical_biography: "3-oji privilegija rašyta Trakuose, datuota 1411 m., kuria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

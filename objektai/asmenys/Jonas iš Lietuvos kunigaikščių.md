@@ -88,6 +88,5 @@ Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

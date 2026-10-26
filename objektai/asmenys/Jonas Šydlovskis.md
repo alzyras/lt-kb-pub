@@ -79,6 +79,5 @@ canonical_biography: "Per 1743 m. Dominykos Šydlovskos namo užpuolimą Jonui �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -77,6 +77,5 @@ Jis priklausė pagrindiniams dievams ir iš jų buvo žemiausias, ka dangi vald�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

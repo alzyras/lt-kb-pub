@@ -94,7 +94,7 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185416
@@ -111,7 +111,7 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-185417
@@ -127,6 +127,5 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

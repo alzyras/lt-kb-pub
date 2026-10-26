@@ -70,36 +70,10 @@ Nenurodyta
   pagrindžia:
     - c-168884
 
-<a id="claim-t-196167"></a>
-- t-003
-  teiginys: "Sužinojęs apie skitų įsiveržimą į Lenkiją, karalius įsitraukė į karą dėl Podolės ir pavedė sūnui atsargiai pavaduoti jį karo stovykloje."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178565
-
-<a id="claim-t-196166"></a>
-- t-196166
-  teiginys: "Kojelavičius skitų įsibrovimą vaizdavo kaip sukrėtimą, po kurio valstybės veikėjai ėmė veikti po ankstesnio neveiklumo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168885
-
 <a id="claim-t-185524"></a>
-- t-185524
+- t-002
   teiginys: "Kovos prie Savranės pradžia buvo sunki, nes skitai dar prieš tikrąsias kautynes iš tolo apšaudė Jono Olbrachto karius strėlėmis."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -117,6 +91,19 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys faktinis, bet reikia patikslinti įvykio ir veikėjų kontekstą."
   pagrindžia:
     - c-168885
+
+<a id="claim-t-196167"></a>
+- t-003
+  teiginys: "Sužinojęs apie skitų įsiveržimą į Lenkiją, karalius įsitraukė į karą dėl Podolės ir pavedė sūnui atsargiai pavaduoti jį karo stovykloje."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178565
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -182,7 +169,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168885
@@ -228,9 +215,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185524
-    - t-196166
+  pagrindzia:
+    - t-002
 
 - id: c-178565
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -259,6 +245,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

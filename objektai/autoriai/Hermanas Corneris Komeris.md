@@ -76,11 +76,9 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.
     pilį].
   citata_rodoma: "33\nŽr. Hermano C  o  r  neri o, \ndominikono, Kroniką, Naruševi­\nčiau s t. VII, p. 342, kuris byloja: \nCives oppidi Vilnae, magis faventes Ja- \n$il, filio Olgerdi, fratris Keystuti, cu- \ncurrerunt unus post alium, ac si furem \nquemdam insequerentur ad castrum \n[Vilniaus miesto miestiečiai, labiau\npalankūs Jogailai - Algirdo, Kęstu­\nčio brolio, sūnui - subėgę vienas po \nkito ir tarsi kokį piktadarį nuvarę į \npilį]."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -33,6 +33,21 @@ canonical_biography: "2 Skorochodo Majevskio tyrinėjimai."
 
 2 Skorochodo Majevskio tyrinėjimai.
 
+## Teiginiai
+
+<a id="claim-t-194889"></a>
+- t-001
+  teiginys: "2 Skorochodo Majevskio tyrinėjimai."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177285
+
 ## Citatos
 
 - id: c-177285
@@ -51,17 +66,5 @@ canonical_biography: "2 Skorochodo Majevskio tyrinėjimai."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Teiginiai
-
-<a id="claim-t-214987"></a>
-- t-001
-  teiginys: "2 Skorochodo Majevskio tyrinėjimai."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-
+  pagrindzia:
+    - t-001

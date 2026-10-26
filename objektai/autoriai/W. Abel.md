@@ -74,6 +74,5 @@ W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su E
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

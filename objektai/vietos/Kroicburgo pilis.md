@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-e8aae42e06e5faa623262a32"
-canonical_name: "Kroicburgo pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kroicburgo pilis"]
+entity_id: ent-e8aae42e06e5faa623262a32
+canonical_name: Kroicburgo pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kroicburgo pilis
 sameAs: []
-canonical_biography: "Kroicburgo pilis pastatyta Notangos žemėje prie Kaustros upės."
-place_authority: true
-historical_names: []
+canonical_biography: Kroicburgo pilis pastatyta Notangos žemėje prie Kaustros upės.
 ---
 # Kroicburgo pilis
 
@@ -64,6 +64,5 @@ Kroicburgo pilis pastatyta Notangos žemėje prie Kaustros upės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

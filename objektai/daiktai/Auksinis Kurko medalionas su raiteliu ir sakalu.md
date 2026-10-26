@@ -81,6 +81,5 @@ Medalionas yra auksinis, maždaug dviejų colių ir dviejų linijų skersmens.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -69,6 +69,5 @@ canonical_biography: "Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

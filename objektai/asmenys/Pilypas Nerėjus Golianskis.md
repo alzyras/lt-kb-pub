@@ -24,13 +24,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-404b7c88e5f5d04e4befca44"
-canonical_name: "Pilypas Nerėjus Golianskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Pilypas Nerėjus Golianskis"]
+entity_id: ent-404b7c88e5f5d04e4befca44
+canonical_name: Pilypas Nerėjus Golianskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Pilypas Nerėjus Golianskis
 sameAs: []
-canonical_biography: "Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėjus Golianskis (1753— 1824), Simonas Malevskis (1759—1832) ir Mykolas Angelas Šul cas (1769—1812) buvo istorikai ir Vilniaus universiteto profesoriai."
+canonical_biography: 'Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėjus Golianskis (1753— 1824), Simonas Malevskis (1759—1832) ir Mykolas Angelas Šul cas (1769—1812) buvo istorikai ir Vilniaus universiteto profesoriai.'
 ---
 # Pilypas Nerėjus Golianskis
 
@@ -86,7 +88,7 @@ Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-201073
@@ -106,6 +108,5 @@ Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

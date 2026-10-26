@@ -79,6 +79,5 @@ Cackio pasakojime teigiama, kad 1444 metais tarp Kartonos ir Gubio, arba Gubio u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

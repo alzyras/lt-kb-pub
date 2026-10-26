@@ -78,6 +78,5 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -67,7 +67,7 @@ Nenurodyta
 <a id="claim-t-219061"></a>
 - t-001
   teiginys: "Žiedo skardoje buvo iškalti kariški ženklai arba simboliai, tarp jų plėšrus paukštis, ietis, skeptras, vamzdis, žvėries galva ir kalavijas."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

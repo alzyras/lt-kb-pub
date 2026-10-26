@@ -93,7 +93,7 @@ Delegatai Vilniuje iš vokiečių kariškos valdžios gavo du automobilius. Jau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192470
@@ -117,6 +117,5 @@ Delegatai Vilniuje iš vokiečių kariškos valdžios gavo du automobilius. Jau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

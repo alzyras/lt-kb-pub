@@ -37,7 +37,6 @@ Vytautas Graičiūnas-Daktaras nuo 1944 m. buvo partizanas, veikė Kupiškio ir 
   santrauka: 'Vytautas Graičiūnas-Daktaras nuo 1944 m. buvo partizanas, veikė Kupiškio ir Vabalninko valsčiuose, vėliau vadovavo Herkaus būriui ir Šepetos rajono Organizaciniam sektoriui.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 116"
-  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 116."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,7 +46,6 @@ Vytautas Graičiūnas-Daktaras nuo 1944 m. buvo partizanas, veikė Kupiškio ir 
   santrauka: 'Kazys Kriaučionis, suimtas 1945 m. rugpjūčio 27 d., Vytauto Graičiūno partizanų būrio nariais įvardijo Vytautą ir Algirdą Graičiūnus, Antaną Musteikį bei Baltušį.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 117"
-  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 117."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -57,7 +55,6 @@ Vytautas Graičiūnas-Daktaras nuo 1944 m. buvo partizanas, veikė Kupiškio ir 
   santrauka: 'Kupiškio valsčiuje Vytauto Graičiūno partizanų būryje buvo šeši partizanai.'
   šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 167"
-  indeksas: "Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika, PDF 167."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

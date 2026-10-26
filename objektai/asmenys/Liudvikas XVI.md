@@ -86,6 +86,5 @@ canonical_biography: "1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

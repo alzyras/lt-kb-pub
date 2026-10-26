@@ -60,23 +60,10 @@ Nenurodyta
   pagrindžia:
     - c-168941
 
-<a id="claim-t-196172"></a>
-- t-003
-  teiginys: "Kojelavičiaus pasakojime Kameneco kapituliacijai kelią atvėrė Podolės ir Valachijos karių nesutarimai, galėję kilti dėl Vytauto klastingumo ar kitos priežasties."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168942
-
 <a id="claim-t-185581"></a>
-- t-185581
+- t-002
   teiginys: "Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,6 +76,19 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Vytauto paliktos įgulos ir vietininkai pilyse bei miestuose rodo jo valdymo įtvirtinimą Podolėje."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168942
+
+<a id="claim-t-196172"></a>
+- t-003
+  teiginys: "Kojelavičiaus pasakojime Kameneco kapituliacijai kelią atvėrė Podolės ir Valachijos karių nesutarimai, galėję kilti dėl Vytauto klastingumo ar kitos priežasties."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168942
 
@@ -118,7 +118,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-168942
@@ -148,7 +148,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-002
     - t-003
-    - t-185581
-

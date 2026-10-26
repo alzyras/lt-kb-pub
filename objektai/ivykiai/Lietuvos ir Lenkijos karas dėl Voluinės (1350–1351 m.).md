@@ -82,6 +82,5 @@ Pasak Teodoro Narbuto, Algirdas, lydimas Kęstučio ir Liubarto, vedė Lietuvos,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

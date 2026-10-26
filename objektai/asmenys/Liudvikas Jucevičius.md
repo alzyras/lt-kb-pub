@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-c5c7c5700c07e596f53b26ea"
-canonical_name: "Liudvikas Jucevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Liudvikas Jucevičius"]
+entity_id: ent-c5c7c5700c07e596f53b26ea
+canonical_name: Liudvikas Jucevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Liudvikas Jucevičius
 sameAs: []
-canonical_biography: "Švie tėjas Liudvikas Jucevičius, gana stipriai linkęs į sentimentaliz mą, rašė:."
+canonical_biography: 'Švie tėjas Liudvikas Jucevičius, gana stipriai linkęs į sentimentaliz mą, rašė:.'
 ---
 # Liudvikas Jucevičius
 
@@ -63,6 +65,5 @@ canonical_biography: "Švie tėjas Liudvikas Jucevičius, gana stipriai linkęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

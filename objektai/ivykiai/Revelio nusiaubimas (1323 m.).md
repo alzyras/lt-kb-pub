@@ -73,7 +73,7 @@ Nenurodyta
 <a id="claim-t-225416"></a>
 - t-001
   teiginys: "1323 m. Dovydas, Gardino pilininkas, su lietuvių kariuomene nusiaubė Revelį ir, kaip pasakoja Dusburgietis, nužudė daugiau kaip penkis tūkstančius krikščionių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

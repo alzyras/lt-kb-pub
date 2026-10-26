@@ -60,6 +60,5 @@ J. E. R. kronika Perkurtą arba Perkurtą aiškina kaip griaustinį ir lietuvių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

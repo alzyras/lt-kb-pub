@@ -72,7 +72,7 @@ Prie Ogrodnikų kaimo iškastuose pilkapiuose rasta žąslų, tinkančių viduti
 <a id="claim-t-215107"></a>
 - t-001
   teiginys: "Prie Ogrodnikų kaimo iškastuose pilkapiuose rasta žąslų, tinkančių vidutinio dydžio arkliui."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

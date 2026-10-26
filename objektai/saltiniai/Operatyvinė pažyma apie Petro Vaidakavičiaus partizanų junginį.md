@@ -8,10 +8,10 @@ datos:
   - '1945 m.'
 date_start: '1944'
 date_end: '1945'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,13 +31,14 @@ media_all_json: |-
 
 Operatyvinė pažyma apie Petro Vaidakavičiaus partizanų junginį nurodė, kad 1944–1945 m. Pandėlio, Panemunėlio ir Skapiškio valsčiuose veikusį junginį sudarė Kazio Krisiūno ir Alfonso Augulio būriai.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214521
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Operatyvinė pažyma apie Petro Vaidakavičiaus partizanų junginį nurodė, kad 1944–1945 m. Pandėlio, Panemunėlio ir Skapiškio valsčiuose veikusį junginį sudarė Kazio Krisiūno ir Alfonso Augulio būriai.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 104"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 104."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:44"

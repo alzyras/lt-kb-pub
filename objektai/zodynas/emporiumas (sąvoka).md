@@ -62,6 +62,5 @@ Narbutas emporiumais vadina graikų prekyvietes, kurios VII amžiuje prieš Kris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

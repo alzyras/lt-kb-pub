@@ -51,25 +51,12 @@ Paplauja šiame straipsnyje minima kaip XVIII a. vidurio bajorų apsistojimo vie
 
 Paplauja čia minima kaip apsistojimo vieta Vilniuje.
 
-## Citatos
-
-- id: c-183975
-  autorius: "Domininkas Burba"
-  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
-  puslapiai: "PDF 11"
-  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 17:37"
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-200572"></a>
 - t-001
   teiginys: "1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.): 0.85"
@@ -87,3 +74,15 @@ Paplauja čia minima kaip apsistojimo vieta Vilniuje.
   pagrindžia:
     - c-183975
 
+## Citatos
+
+- id: c-183975
+  autorius: "Domininkas Burba"
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  puslapiai: "PDF 11"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 17:37"
+  pagrindzia:
+    - t-001

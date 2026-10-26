@@ -63,6 +63,5 @@ Nuo tų pergalių meldžionų apniko šiurpulys parusnėnus ir taip išguro, jog
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

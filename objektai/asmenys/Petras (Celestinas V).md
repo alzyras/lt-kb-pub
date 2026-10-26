@@ -84,6 +84,5 @@ Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

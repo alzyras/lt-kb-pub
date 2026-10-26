@@ -23,13 +23,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-6b45db45ba495d0f2086dbe9"
-canonical_name: "K. E. Napierskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["K. E. Napierskis"]
+entity_id: ent-6b45db45ba495d0f2086dbe9
+canonical_name: K. E. Napierskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - K. E. Napierskis
 sameAs: []
-canonical_biography: "Napierskiu, bet tik 1842 metais rankraštis buvo galutinai sutvarkytas."
+canonical_biography: 'Napierskiu, bet tik 1842 metais rankraštis buvo galutinai sutvarkytas.'
 ---
 # K. E. Napierskis
 
@@ -72,6 +74,5 @@ Napierskiu, bet tik 1842 metais rankraštis buvo galutinai sutvarkytas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

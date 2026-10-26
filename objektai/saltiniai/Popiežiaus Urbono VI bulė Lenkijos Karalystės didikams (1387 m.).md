@@ -64,6 +64,5 @@ Urbono VI bulė adresuota Mazovijos kunigaikščiams Jonušui ir Ziemovitui, Len
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -71,6 +71,5 @@ Varpeliai buvo rasti Obelių ežero apylinkės degintiniame kape.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

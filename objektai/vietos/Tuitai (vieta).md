@@ -29,8 +29,6 @@ entity_view_role: "place"
 entity_aliases: ["Tuitai","Tuitai (vieta)"]
 sameAs: []
 canonical_biography: "Gediminas Aukštikalnis gyveno Tuitų kaime, Vabalninko valsčiuje."
-place_authority: true
-historical_names: []
 ---
 # Tuitai (vieta)
 
@@ -42,13 +40,14 @@ Gediminas Aukštikalnis gyveno Tuitų kaime, Vabalninko valsčiuje.
 
 Gediminas Aukštikalnis gyveno Tuitų kaime, Vabalninko valsčiuje.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-215017
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Gediminas Aukštikalnis gyveno Tuitų kaime, Vabalninko valsčiuje.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 206"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 206."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:45"

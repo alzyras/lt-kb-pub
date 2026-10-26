@@ -66,6 +66,5 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

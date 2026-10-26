@@ -82,6 +82,5 @@ Pasak Teodoro Narbuto, 1391 m. naujasis Ordino viršininkas siekė užmegzti dra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

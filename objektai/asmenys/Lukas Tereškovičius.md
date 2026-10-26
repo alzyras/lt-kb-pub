@@ -69,6 +69,5 @@ canonical_biography: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-e24396f05d7c477d41df1518"
-canonical_name: "Senoji Кипа"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Senoji Кипа"]
+entity_id: ent-e24396f05d7c477d41df1518
+canonical_name: Senoji Кипа
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Senoji Кипа
 sameAs: []
-canonical_biography: "Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš dešiniojo kranto."
-place_authority: true
-historical_names: []
+canonical_biography: 'Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš dešiniojo kranto.'
 ---
 # Senoji Кипа
 
@@ -58,7 +58,7 @@ Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš d
 <a id="claim-t-214354"></a>
 - t-001
   teiginys: "Senoji Кипа buvo gyvenvietė prie upeliūkščio, įtekančio į Supą iš dešiniojo kranto."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

@@ -23,6 +23,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-1f20bf79df6e1d18fcd7b06a
+canonical_name: Dovydas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Dovydas
+sameAs: []
+canonical_biography: 'Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad. Dusburgietis teigia, kad kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs. Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.'
 external_sources_json: '[{"title":"Dovydas – Wikipedia","url":"https://de.wikipedia.org/wiki/Dovydas","publisher":"Vikipedija","kind":"institutional","status":"published","confidence":0.99,"language":""},{"title":"Dovydas","url":"https://www.vle.lt/straipsnis/dovydas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:16:27+00:00","source_checked_at":"2026-09-19T15:16:27+00:00","counts":{"relations":4,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Dovydas ist ein litauischer männlicher Vorname, abgeleitet von David.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"de","article_id":"7554457","revision_id":"187233661","status":"published","translation_status":"original","source":{"title":"Dovydas","url":"https://de.wikipedia.org/wiki/Dovydas","publisher":"Wikipedia","language":"de","article_id":"7554457","revision_id":"187233661","revision_url":"https://de.wikipedia.org/w/index.php?oldid=187233661","history_url":"https://de.wikipedia.org/w/index.php?title=Dovydas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:24:42.850174+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"69f73bbe1f24e271f7611ca1cec4de4aed8cfc8476d50698c27eba5ba6023880","version_pk":"f6a6ea9e2d99776b9664a27615bc8196"}},"source_buttons":[{"label":"Vikipedija","title":"Dovydas – Wikipedia","url":"https://de.wikipedia.org/wiki/Dovydas","kind":"institutional","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Dovydas","url":"https://www.vle.lt/straipsnis/dovydas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://de.wikipedia.org/wiki/Dovydas","https://www.vle.lt/straipsnis/dovydas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"20fbfc7be5e8aacf274dd9f5","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Gardino seniūnas","context":"Teodoras Narbutas 1997 m. aprašo Dovydą kaip Gardino seniūną, vadovavusį kariuomenei 1316 m.","support_ids":["t-205665","c-188280"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205665","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188280","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Dovydas, Gardino seniūnas, šioje kovoje vadovavo kariuomenei. Stiprūs ir, žinoma, į įvairias vie­ tas taikomi priešų smūgiai vertė didįjį kunigaikštį būti labai atidų. Dėl to paties jis paskubėjo išpirkti iš kry­ žiuočių nelaisvės Goštautą už didžiulę sumą — net už 30 tūkstančių vienetų auksinių monetų1 2."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5ddd21b12f98b2978096922a","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kunigas ir Julijonos nuodėmklausys","context":"Teodoras Narbutas 2001 m. Dovydą apibūdina kaip didžiosios kunigaikštienės Julijonos nuodėmklausį kunigą.","support_ids":["t-206278","c-188893"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206278","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188893","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Taigi didžiosios kunigaikštienės Julijonos nuodėmklausys kuni­ gas Dovydas suskubo suteikti sergančiam Algirdui šventąjį krikš­ tą, - galimybę dalyvauti Dievo avinėlio puotoje. Be to, pagal to meto Rytų apeigų bažnyčios papročius, davęs Aleksejaus vardą, apvilko jį vienuolio abitu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"16d233c9b56d2788cedb633d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Tikinčiųjų karalius ir pranašas","context":"Petras Dusburgietis 1985 m. šaltinio pasakojime Dovydą vadina dievo malone į tikinčiųjų karalius pakeltu pranašu.","support_ids":["t-223753","c-203647"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223753","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203647","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad, išgaišinę tuos (1 Kar 30, 14), kurie aiškiai tyko Dovydo gyvybės, sėkmingai apgintų (2 Kar 8, 18) ir jo valdinius, žodžiu, elgtųsi taip, kaip įpareigoja elgtis jų vardas (2 Kar 15, 18). Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto — „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2c1383c05142084898b895ea","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Gebėjo regėti tiesos raštuose esamus ir būsimus dalykus","context":"Petras Dusburgietis 1985 m. teigia, kad Dovydas gebėjo regėti tiesos raštuose esamus ir būsimus dalykus.","support_ids":["t-225523","c-205281"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225523","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205281","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto — „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs turėti sargybinių, kurie, nebrangindami savo gyvybės, prisisegs prie šlaunies šventąjį kalaviją, kad tie, kurie supa drąsiausiojo Izraelio vyro Saliamono guolį, išvytų iš krikščionių gyvenamų plotų klastingos tamsybės naktines šmėklas. Nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti…"}],"status":"published","conflict_status":"clear"},{"trait_id":"cdb0c006ea1e51130ad307de","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius savo asmens bei valdinių apsaugai","context":"Petras Dusburgietis 1985 m. pasakoja, kad Dovydas tai sakėsi aiškindamas savo sargybinių atranką.","support_ids":["t-224746","c-203647"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224746","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203647","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad, išgaišinę tuos (1 Kar 30, 14), kurie aiškiai tyko Dovydo gyvybės, sėkmingai apgintų (2 Kar 8, 18) ir jo valdinius, žodžiu, elgtųsi taip, kaip įpareigoja elgtis jų vardas (2 Kar 15, 18). Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto — „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Erdenas, arba Jerdenas","claim_id":"t-87498","confidence":0.97},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Dobrynė","claim_id":"t-82261","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-184693","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Dobrynė","claim_id":"t-179254","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
 object_page_finisher: 'true'
@@ -36,13 +45,6 @@ object_page_seo_description: 'Dovydas: Dusburgietis teigia, kad štai ir Dovydas
 object_page_seo_input_hash: 21ee5adf88a91e612b1a399f9ce2e496e482e64ee2970dbc6cb16c324b8986aa
 object_page_seo_generated_at: '2026-09-19T15:16:27+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-1f20bf79df6e1d18fcd7b06a"
-canonical_name: "Dovydas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Dovydas"]
-sameAs: []
-canonical_biography: "Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad. Dusburgietis teigia, kad kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs. Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas."
 ---
 # Dovydas
 
@@ -81,6 +83,18 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-168054
+
+<a id="claim-t-196820"></a>
+- t-003
+  teiginys: "Dovydas jau buvo iš Drohičino atvykęs į Gardiną."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176531
 
 <a id="claim-t-197069"></a>
 - t-004
@@ -156,38 +170,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   pagrindžia:
     - c-188893
 
-<a id="claim-t-184693"></a>
-- t-184693
-  teiginys: "Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo."
-  atnaujinta: "2026-09-19 18:16"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Mazovija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dovydas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Dovydas siaubė Mazoviją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Dovydas puolė Mazovija (0.86)"
-  pagrindžia:
-    - c-168054
-
-<a id="claim-t-223753"></a>
-- t-223753
-  teiginys: "Dusburgietis teigia, kad šaltinio pasakojime Dovydas buvo dievo malone į tikinčiųjų karalius pakeltas pranašas."
-  atnaujinta: "2026-09-19 18:16"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203647
-
 ## Citatos
 
 - id: c-78749
@@ -222,7 +204,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167442
@@ -249,7 +231,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-168054
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -274,14 +255,12 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     rengti į žygį.
   citata_rodoma: "Šis didvyris iš tiesų buvo vertas geresnio liki­\nmo. Visada jis rodydavęs tokį karinį sumanumą, vi­\nsada jį lydėjusi tokia lemtinga sėkmė, kad ligi tol be­\nmaž nebuvo ėmęsis žygio, kurio nebūtų labai sėkmin­\ngai užbaigęs. Ir sėkmingai kovodavo, ir pergales lai­\nmėdavo dėl to, kad mokėjo nepaprastai greitai susi­\nrengti į žygį."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-    - t-184693
 
 - id: c-176531
   autorius: "Anoniminis metraštininkas"
@@ -306,6 +285,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-179021
   autorius: "Petras Dusburgietis"
@@ -330,7 +311,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-179022
@@ -356,7 +337,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-184332
@@ -387,7 +368,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-188280
@@ -406,7 +387,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-188282
@@ -429,7 +410,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-188893
@@ -447,109 +428,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
-
-- id: c-193688
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 78-79"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
-  citata_originali: |
-    O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
-    gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
-    su broliaisM ir su motina, suranda tas sutartis, kurias
-    buvo su vokiečiais sudarę, ir pasiunčia žygūną pas sa­
-    vo sūnų, didįjį kunigaikštį Vytautą, į Drohičiną, pra­
-    nešdamas, kas įvyko. Tas žygūnas suranda didįjį ku-
-    SJ
-
-    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
-    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
-    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
-    dįjį kunigaikštį Kęstutį.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201741
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
-  citata_originali: |
-    19. Apie Baigos pilį
-
-      Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
-    pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių
-    mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas neatima iš
-    tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą,
-    padrąsink savo kovotojus ir paragink juos sunaikinti tuos, kurie puola mūsų karalystę“.
-    Magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai
-    nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus
-    bei surėmę  į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems talkino
-    Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
-    o kitus išžudyti.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203647
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
-  citata_originali: |
-    Štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius,
-    kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes,
-    sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip
-    saugoti jo asmenį, kad, išgaišinę tuos (1 Kar 30, 14), kurie aiškiai tyko Dovydo gyvybės,
-    sėkmingai apgintų (2 Kar 8, 18) ir jo valdinius, žodžiu, elgtųsi taip, kaip įpareigoja elgtis
-    jų vardas (2 Kar 15, 18). Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
-    „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia,
-    kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo
-    sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus
-    privalėsiąs turėti sargybinių, kurie, nebrangindami savo gyvybės, prisisegs prie šlaunies
-    šventąjį kalaviją, kad tie, kurie supa drąsiausiojo Izraelio vyro Saliamono guolį, išvytų iš
-    krikščionių gyvenamų plotų klastingos tamsybės naktines šmėklas.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223753
-
-- id: c-205281
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
-  citata_originali: |
-    Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
-    „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia,
-    kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo
-    sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus
-    privalėsiąs turėti sargybinių, kurie, nebrangindami savo gyvybės, prisisegs prie šlaunies
-    šventąjį kalaviją, kad tie, kurie supa drąsiausiojo Izraelio vyro Saliamono guolį, išvytų iš
-    krikščionių gyvenamų plotų klastingos tamsybės naktines šmėklas. Nedera, be to,
-    užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis,
-    nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo,
-    nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi
-    pripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo
-    remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

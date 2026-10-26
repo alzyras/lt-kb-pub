@@ -70,6 +70,5 @@ Dvidešimt prūsų plėšikavo Lenkijoje, o Martynas iš Golino su 17 kovos drau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

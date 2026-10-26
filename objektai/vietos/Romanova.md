@@ -83,6 +83,5 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

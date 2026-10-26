@@ -55,6 +55,5 @@ Tuom tik save ir savo žings nį teisinau, kad tai darau ad majorem Patriae glor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

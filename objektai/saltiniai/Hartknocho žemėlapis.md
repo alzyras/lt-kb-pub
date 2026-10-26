@@ -56,6 +56,5 @@ Norint visa tai suderinti, reikia Hartknocho že mėlapyje tik pataisyti Rattove
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

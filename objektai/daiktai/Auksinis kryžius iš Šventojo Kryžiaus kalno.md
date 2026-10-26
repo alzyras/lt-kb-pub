@@ -81,6 +81,5 @@ Auksinis kryžius, pasak Teodoro Narbuto, buvo paimtas kartu su Šventojo Kryži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

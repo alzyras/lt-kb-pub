@@ -78,6 +78,5 @@ Pinskas lokalizuojamas prie Pinos upės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -70,6 +70,5 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -68,7 +68,7 @@ Zigfridas iš Foichtvangeno mirė 1311 m. kovo 5 d. Marienburge.
 <a id="claim-t-222941"></a>
 - t-001
   teiginys: "Zigfridas iš Foichtvangeno mirė 1311 m. kovo 5 d. Marienburge."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

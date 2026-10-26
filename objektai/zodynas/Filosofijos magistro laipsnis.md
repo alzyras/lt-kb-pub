@@ -78,6 +78,5 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1894 m. pasiektą mok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

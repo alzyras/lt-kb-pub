@@ -35,6 +35,18 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 
 ## Teiginiai
 
+<a id="claim-t-185345"></a>
+- t-001
+  teiginys: "Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168706
+
 <a id="claim-t-185346"></a>
 - t-002
   teiginys: "Legatams pareikalavus Seversko ir Smolensko, Maskvos didikai atsisakė tartis dėl užimtų žemių grąžinimo."
@@ -71,18 +83,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178652
-
-<a id="claim-t-185345"></a>
-- t-185345
-  teiginys: "Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168706
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -156,8 +156,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185345
+  pagrindzia:
+    - t-001
 
 - id: c-168707
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -195,7 +195,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-003
 
@@ -229,6 +229,5 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-

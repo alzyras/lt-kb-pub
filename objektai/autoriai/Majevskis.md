@@ -41,29 +41,12 @@ canonical_biography: "Narbutas nurodo Majevskio studiją apie Indijos budinų hi
 
 Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą 1827 m. Varšuvos rinkinyje „Zbior rozpraw“.
 
-## Citatos
-
-- id: c-173321
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 281"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
-  citata_originali: |
-    5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją
-    (Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*.
-  citata_rodoma: "5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją\n(Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Teiginiai
 
-<a id="claim-t-216475"></a>
+<a id="claim-t-190438"></a>
 - t-001
   teiginys: "Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą 1827 m. Varšuvos rinkinyje „Zbior rozpraw“."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,4 +63,24 @@ Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Bibliografinė išnaša paversta pilnu sakiniu apie Majevskį. Nepridėta turinio, kurio citata nepateikia."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173321
 
+## Citatos
+
+- id: c-173321
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
+  citata_originali: |
+    5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją
+    (Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*.
+  citata_rodoma: "5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją\n(Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

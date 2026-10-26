@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-222086"></a>
 - t-001
   teiginys: "1323 m. rugsėjo 14 d. lietuvių kariuomenė nusiaubė ir sunaikino Dobrynės kunigaikštystę."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

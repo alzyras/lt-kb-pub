@@ -42,6 +42,20 @@ canonical_biography: "Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį
 
 Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu. Leicis buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima.
 
+## Teiginiai
+
+<a id="claim-t-197423"></a>
+- t-001
+  teiginys: "Leicis buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173062
+
 ## Citatos
 
 - id: c-173062
@@ -64,45 +78,5 @@ Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199827
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 128"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 128."
-  citata_originali: |
-    Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
-    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
-    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
-    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
-    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
-    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
-    (Lietwii) ženklas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201374
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 129."
-  citata_originali: |
-    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
-    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
-    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
-    sudvejina: vienur vadinaDekkla, kitur - Tikla. Taip pat priski­
-    ria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-
-    pakenčiančio jaunimo deivė, tai painioja ją su Laima.
-    Veliona (Wellona)
-    Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­
-    nio gyvenimo deivė.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

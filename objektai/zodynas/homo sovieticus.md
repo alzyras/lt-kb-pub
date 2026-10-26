@@ -79,7 +79,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166821
@@ -102,6 +102,5 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -80,6 +80,5 @@ kelio iki AT) 107-oji motošaulių divizija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

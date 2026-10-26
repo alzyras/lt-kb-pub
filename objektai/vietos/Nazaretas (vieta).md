@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-27c340352b4b2740effb2d5b"
-canonical_name: "Nazaretas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Nazaretas","Nazaretas (vieta)"]
+entity_id: ent-27c340352b4b2740effb2d5b
+canonical_name: Nazaretas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Nazaretas
+  - Nazaretas (vieta)
 sameAs: []
-canonical_biography: "Nazareto, Tyro ir Cezarėjos arkivyskupai."
-place_authority: true
-historical_names: []
+canonical_biography: 'Nazareto, Tyro ir Cezarėjos arkivyskupai.'
 ---
 # Nazaretas (vieta)
 
@@ -68,6 +69,5 @@ Nazareto, Tyro ir Cezarėjos arkivyskupai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -44,22 +44,10 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
 
 ## Teiginiai
 
-<a id="claim-t-225273"></a>
-- t-225273
-  teiginys: "Liudvikas iš Šipeno buvo keturioliktas Prūsijos žemės magistras."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205157
-
-<a id="claim-t-220849"></a>
-- t-220849
+<a id="claim-t-60379"></a>
+- t-001
   teiginys: "Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kulmenzė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,6 +60,8 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   temporaliniai_duomenys: "mirties data: 1299 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Liudvikas iš Šipeno mirė Kulmenzė“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas antraštės triukšmas; citata remia pareigas, trukmę ir palaidojimo vietą."
+  pagrindžia:
+    - c-61011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,23 +105,8 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-205157
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 192"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
-  citata_originali: |
-    Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
-    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225273
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Liudvikas iš Šipeno buvo palaidotas [[objektai/vietos/Chełmža]]

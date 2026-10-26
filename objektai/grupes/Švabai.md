@@ -69,6 +69,5 @@ Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

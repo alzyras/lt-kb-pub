@@ -73,6 +73,5 @@ Kariai primėtė miestą pagalių ir juos uždegė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

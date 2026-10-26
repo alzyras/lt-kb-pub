@@ -82,6 +82,5 @@ Narbutas 1805 m. Kalnėnų kaime prie Jurbarko pastebėjo ištekėjusių moterų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

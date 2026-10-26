@@ -3,12 +3,19 @@ tipas: asmuo
 pavadinimas: 'Egidijus (arkivyskupas, XIV a.)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: ["XIII–XIV a."]
+datos:
+  - '1316 m.'
+date_start: '1316'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - popiežius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -27,37 +34,31 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Egidijus","Egidijus (arkivyskupas, XIV a.)"]
 sameAs: []
-canonical_biography: "Egidijus Romietis – augustinų teologas ir Buržo arkivyskupas, miręs Avinjone 1316 m. gruodžio 22 d. Prūsijos žemės kronikos lietuviškame leidime pateikta sausio 1 d. nesutampa su šiuolaikinėje akademinėje biografijoje nurodoma data."
+canonical_biography: "Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol."
 ---
 # Egidijus (arkivyskupas, XIV a.)
 
 ## Santrauka
 
-Egidijus Romietis – augustinų teologas ir Buržo arkivyskupas, miręs Avinjone 1316 m. gruodžio 22 d. Prūsijos žemės kronikos lietuviškame leidime pateikta sausio 1 d. nesutampa su šiuolaikinėje akademinėje biografijoje nurodoma data.
+Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol.
 
-## Papildoma literatūra
+## Teiginiai
 
-- [Stanford Encyclopedia of Philosophy: Giles of Rome](https://plato.stanford.edu/entries/giles/)
+<a id="claim-t-197074"></a>
+- t-001
+  teiginys: "Egidijus nepakenčia tik niekingos nuodėmės, jis tik ją persekioja bei atperka."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-60903
 
 ## Citatos
 
-- id: c-00086
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau
-    Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone,
-    kai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio
-    1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.
-  citata_rodoma: "Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau \nBonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone, \nkai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio \n1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais."
-  statusas: verified
-  atnaujinta: "2026-09-27 13:25"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-204609
+- id: c-60903
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 241"
@@ -73,11 +74,12 @@ Egidijus Romietis – augustinų teologas ir Buržo arkivyskupas, miręs Avinjon
     — užguitą tremtinį, iš dievo sūnų — velnio sūnus, šitai yra tas dalykas, kuris niekada
     nepalieka be bausmės.
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Egidijus (arkivyskupas, XIV a.) mirė [[objektai/vietos/Avinjonas]]

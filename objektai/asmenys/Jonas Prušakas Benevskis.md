@@ -78,6 +78,5 @@ canonical_biography: "1741 m. Jonas Prušakas Benevskis buvo Haličo žemės med
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

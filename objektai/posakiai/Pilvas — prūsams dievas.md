@@ -78,6 +78,5 @@ Todėl kryžiuočiai turėjo priežodį: „Pilvas — prūsams dievas“5.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

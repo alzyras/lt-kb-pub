@@ -76,6 +76,5 @@ Narbutas rašo, kad bajorai ir riteriai medžiodavo ginklais, šunimis bei sakal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

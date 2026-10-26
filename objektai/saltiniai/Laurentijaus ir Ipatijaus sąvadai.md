@@ -75,6 +75,5 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

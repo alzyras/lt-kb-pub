@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-d9793bd3072b861b46ee5db5"
-canonical_name: "Estam (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Estam","Estam (vieta)"]
+entity_id: ent-d9793bd3072b861b46ee5db5
+canonical_name: Estam (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Estam
+  - Estam (vieta)
 sameAs: []
-canonical_biography: "Senovės Pietų tautos lietuvių kraštą vadino Estam."
-place_authority: true
-historical_names: []
+canonical_biography: Senovės Pietų tautos lietuvių kraštą vadino Estam.
 ---
 # Estam (vieta)
 
@@ -69,6 +70,5 @@ Senovės Pietų tautos lietuvių kraštą vadino Estam.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

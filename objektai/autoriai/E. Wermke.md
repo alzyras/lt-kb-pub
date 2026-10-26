@@ -85,6 +85,5 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

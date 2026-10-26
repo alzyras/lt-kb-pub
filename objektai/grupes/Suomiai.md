@@ -62,11 +62,9 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
     ir suomiai.
   citata_rodoma: "Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai\npažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai\nir suomiai."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

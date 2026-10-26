@@ -62,13 +62,12 @@ Rekolekcijos buvo viena iš dvasinio gyvenimo atsinaujinimo ir pažangos priemon
     kunigai atliktų metines rekolekcijas. Tai patvirtiną daug
     išlikusių dokumentų.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191434
@@ -84,14 +83,12 @@ Rekolekcijos buvo viena iš dvasinio gyvenimo atsinaujinimo ir pažangos priemon
     nuo 1865 m. pasunkėjus sąlygoms, ganytojas sutrumpino
     rekolekcijas iki trijų dienų4.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
 ## Teiginiai
 
 <a id="claim-t-208812"></a>

@@ -137,7 +137,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -165,7 +165,6 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-004
-

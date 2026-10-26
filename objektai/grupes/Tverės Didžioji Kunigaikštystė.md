@@ -58,6 +58,5 @@ Tais pačiais metais, pabuvęs Lenkijoje, karalius Ka zimieras atvyko j Lietuvę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

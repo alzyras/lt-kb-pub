@@ -63,6 +63,5 @@ Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Ver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

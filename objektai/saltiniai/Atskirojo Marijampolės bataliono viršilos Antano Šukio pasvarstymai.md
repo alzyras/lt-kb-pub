@@ -81,6 +81,5 @@ APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

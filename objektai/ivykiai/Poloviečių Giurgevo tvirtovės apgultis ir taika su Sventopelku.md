@@ -70,6 +70,5 @@ Poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet jos neįveikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

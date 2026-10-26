@@ -30,6 +30,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-07964e1f539f3e0b5fece4d4
+canonical_name: Julijus Cezaris (vyskupas)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Julijus Cezaris
+  - Julijus Cezaris (vyskupas)
+sameAs: []
+canonical_biography: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai. Dusburgietis teigia, kad apie naują Teutonų namų ordino brolių karą su prūsų gentimis Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35). Dusburgietis teigia, kad šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis 176 Gajus Julijus Cezaris (102 ar 100—44 m. pr.'
 external_sources_json: '[{"title":"Julijus Cezaris","url":"https://www.vle.lt/straipsnis/julijus-cezaris/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:27:48+00:00","source_checked_at":"2026-09-19T23:27:48+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Julijus Cezaris","url":"https://www.vle.lt/straipsnis/julijus-cezaris/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/julijus-cezaris/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"43ea98129d770d351016b46d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Romos valstybės veikėjas, karvedys ir rašytojas","context":"Šaltinyje aprašomas Gajus Julijus Cezaris, gyvenęs 102 arba 100–44 m. pr. m. e.; teiginys pateiktas šaltinyje „Prūsijos žemės kronika“ (1985 m.).","support_ids":["t-221110","c-201685"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221110","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201685","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis 176 Gajus Julijus Cezaris (102 ar 100—44 m. pr. m. e.) —Romos valstybės veikėjas, karvedys, rašytojas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
 object_page_finisher: 'true'
@@ -43,13 +53,6 @@ object_page_seo_description: 'Julijus Cezaris (vyskupas): Dusburgietis bando pat
 object_page_seo_input_hash: 448f6aa672bf180584bd0b2a35ab32008284219ab45c11d65e2bcd95a813a35a
 object_page_seo_generated_at: '2026-09-19T23:27:48+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-07964e1f539f3e0b5fece4d4"
-canonical_name: "Julijus Cezaris (vyskupas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Julijus Cezaris","Julijus Cezaris (vyskupas)"]
-sameAs: []
-canonical_biography: "Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai. Dusburgietis teigia, kad apie naują Teutonų namų ordino brolių karą su prūsų gentimis Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35). Dusburgietis teigia, kad šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis 176 Gajus Julijus Cezaris (102 ar 100—44 m. pr."
 ---
 # Julijus Cezaris (vyskupas)
 
@@ -135,54 +138,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindžia:
     - c-60668
 
-<a id="claim-t-210367"></a>
-- t-210367
-  teiginys: "Cezario pasakojime Litavietis vadovavo galų ir keltų kariuomenei bei gyveno Vakarų Karpatuose."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197109
-
-<a id="claim-t-213177"></a>
-- t-213177
-  teiginys: "Tik buvo manoma, kad už Divonio vardo slypi kažkoks romėnų astronomas, kuris buvo įpareigotas išmatuoti šiaurinę Eu ropą; šie Julijaus Cezario pradėti matavimai vyko be pa liovos net iki dešimtojo Augusto Oktaviano konsulato, t."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196119
-
-<a id="claim-t-215467"></a>
-- t-215467
-  teiginys: "Julijaus Cezario laikais lietuvių var das buvo gerai žinomas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195357
-
-<a id="claim-t-217894"></a>
-- t-217894
-  teiginys: "Narbutas teigia, kad Julijus Cezaris Pirėnų tautose pastebėjo panašų elgesį su žalčiais."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198404
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e.'
@@ -218,7 +173,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-60667
@@ -237,7 +192,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-60668
@@ -261,7 +216,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-005
 
@@ -280,105 +235,5 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-- id: c-195357
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 272"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
-  citata_originali: |
-    Julijaus Cezario laikais lietuvių var­
-    das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
-    Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215467
-
-- id: c-196119
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
-  citata_originali: |
-    šio veikalo detalės turi
-    geriausių šiaurinių kraštų tyrinėtojų išvadas4. Tik buvo
-    manoma, kad už Divonio vardo slypi kažkoks romėnų
-    astronomas, kuris buvo įpareigotas išmatuoti šiaurinę Eu­
-    ropą; šie Julijaus Cezario pradėti matavimai vyko be pa­
-    liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
-    iki 24 metų prieš Kristaus gimimą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213177
-
-- id: c-197109
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 206"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 206."
-  citata_originali: |
-    Julijus Cezaris1 pa­
-    sakoja apie narsų lietuvių vadą, vardu Litavietis, kuris
-    vadovavo galų ir keltų kariuomenei ir tuo metu gyveno
-    Vakarų Karpatuose
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210367
-
-- id: c-198404
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 203"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
-  citata_originali: |
-    Panašų į lietu­
-    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217894
-
-- id: c-203266
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
-  citata_originali: |
-    Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
-    Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
-    vadinamieji Dobrynės broliai. Tačiau prūsai, nutykoję gerą progą, arba nugalabydavo jų
-    vadus bei tuos, kurie juos vedė į žygį, arba patys kur toliau nuo savęs nuvydavo; šitaip
-    nusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų.
-    Kaip tik tuo metu šventosios Marijos ligoninės Teutonų namų ordino Jeruzalėje broliai
-    pradėjo prieš juos naują karą. (Ts 5, 8) Šitai ir buvo tie nauji karai, kuriuos „viešpats
-    išrinko“ nedraugų vartams išgriauti, nes, jiems nužudžius ar sunaikinus vieną kurį vadą
-    ar keletą vadų, tą pačią ar kitą dieną į nužudytųjų vietą stodavosi kiti, jiems lygūs arba
-    už juos geresni.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

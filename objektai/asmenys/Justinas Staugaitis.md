@@ -88,6 +88,5 @@ Smetona ir du vicepirmininkai Justinas Staugaitis ir S.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

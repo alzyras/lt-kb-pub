@@ -85,6 +85,5 @@ Pasak Teodoro Narbuto, 1376 m. Algirdo, Kęstučio ir Svirdeikos vadovaujami dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

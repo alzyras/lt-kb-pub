@@ -96,7 +96,7 @@ Vytautas savo ir tėvui priklausiusius kraštus iš Ordino priėmė lenais, įsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189543
@@ -121,6 +121,5 @@ Vytautas savo ir tėvui priklausiusius kraštus iš Ordino priėmė lenais, įsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

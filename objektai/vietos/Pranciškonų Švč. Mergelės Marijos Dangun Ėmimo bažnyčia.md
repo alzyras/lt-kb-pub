@@ -64,6 +64,5 @@ Centrinėje raižinio dalyje, šalia parapinės bažnyčios, į dangų šauna li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

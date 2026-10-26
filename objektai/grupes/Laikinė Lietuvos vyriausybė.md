@@ -66,6 +66,5 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

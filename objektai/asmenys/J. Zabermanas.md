@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-e4f111b073357fa28bb9e87d"
-canonical_name: "J. Zabermanas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["J. Zabermanas"]
+entity_id: ent-e4f111b073357fa28bb9e87d
+canonical_name: J. Zabermanas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - J. Zabermanas
 sameAs: []
-canonical_biography: "Zabermanui savo raštams spausdinti."
+canonical_biography: Zabermanui savo raštams spausdinti.
 ---
 # J. Zabermanas
 
@@ -61,7 +63,7 @@ Vyskupas Motiejus Valančius per Jurgį Bielinį nusiuntė Tilžės dekanui kuni
 <a id="claim-t-208874"></a>
 - t-001
   teiginys: "Vyskupas Motiejus Valančius per Jurgį Bielinį nusiuntė Tilžės dekanui kunigui J. Zabermanui 5 000 rublių savo raštams spausdinti, o jų tarpininkavimu leidyba pradėta Prūsijoje."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 19:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

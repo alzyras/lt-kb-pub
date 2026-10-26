@@ -87,6 +87,5 @@ Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

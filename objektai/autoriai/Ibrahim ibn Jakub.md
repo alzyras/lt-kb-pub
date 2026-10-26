@@ -72,6 +72,5 @@ Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

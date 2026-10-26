@@ -43,23 +43,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-189833"></a>
-- t-002
-  teiginys: "Narbutas skiria Gondu nuo karvojaus: Gondu vestuvėse paliekamas ant stalo neliestas, o tikrasis karvojus suvalgomas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172716
-
-<a id="claim-t-217736"></a>
-- t-217736
+<a id="claim-t-189832"></a>
+- t-001
   teiginys: "Gondu figūra Merkinės valsčiuje buvo statoma ant apvalaus duonos kepalo, apvynioto baltu rankšluosčiu, ir puošiama audiniu, skarele, kaspinais bei žalumynais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,6 +60,21 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gondu vestuvinė figūra ir karvojus\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172715
+
+<a id="claim-t-189833"></a>
+- t-002
+  teiginys: "Narbutas skiria Gondu nuo karvojaus: Gondu vestuvėse paliekamas ant stalo neliestas, o tikrasis karvojus suvalgomas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172716
 
 ## Citatos
 
@@ -99,6 +101,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-172716
   autorius: "Teodoras Narbutas"
@@ -119,6 +123,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

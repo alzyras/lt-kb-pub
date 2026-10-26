@@ -75,6 +75,5 @@ Netoli Krušvicos, prie Goplo ežero, buvo atkastas iš smiltainio iškaltas Lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

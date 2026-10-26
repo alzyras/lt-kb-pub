@@ -97,7 +97,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-22201
@@ -114,6 +114,5 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

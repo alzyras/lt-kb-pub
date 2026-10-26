@@ -76,6 +76,5 @@ Tie, kurie turi medaus ir grūdų, gamina iš jų gėrimus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

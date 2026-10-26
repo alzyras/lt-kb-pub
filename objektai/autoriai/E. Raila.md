@@ -75,6 +75,5 @@ E. Railos teigimu, XVIII a. antroje pusėje Lietuvos didikai savo dvaruose tik i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

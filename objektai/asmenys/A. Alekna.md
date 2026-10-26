@@ -24,13 +24,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-c9e918eeee2c311c1852c233"
-canonical_name: "A. Alekna"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["A. Alekna"]
+entity_id: ent-c9e918eeee2c311c1852c233
+canonical_name: A. Alekna
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - A. Alekna
 sameAs: []
-canonical_biography: "A. Alekna buvo Motiejaus Valančiaus biografas. A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus."
+canonical_biography: A. Alekna buvo Motiejaus Valančiaus biografas. A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus.
 ---
 # A. Alekna
 
@@ -59,13 +61,12 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
     gubernatoriaus dokumentus.
   citata_rodoma: "A. Alekna pirmasis kiek rimčiau įsigilino į du svarbius \narchyvinius rinkinius: Žemaičių vyskupystės konsistorijos ir Kauno \ngubernatoriaus dokumentus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192069
@@ -82,14 +83,12 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
     ir Balninkų (1867 m. kovo 8 d.) parapijoms, ištisai rašyti paties Valančiaus ranka.
   citata_rodoma: "A. Alekna dar anksčiau tvirtino, kad kai kuriuos aplinkraščius (turėtų būti -ganytojiškus laiškus) dėl \nblaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu. Tačiau atskirus laiškus atitinkamoms \nparapijoms „vyskupas dažnai pats rašinėjo“7, iš tikrųjų išliko laiškai Suvainiškio (1863 m. vasario 18 d.) \nir Balninkų (1867 m. kovo 8 d.) parapijoms, ištisai rašyti paties Valančiaus ranka."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
 ## Teiginiai
 
 <a id="claim-t-209430"></a>

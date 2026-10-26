@@ -64,6 +64,5 @@ Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju dėjimą, norėdami 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

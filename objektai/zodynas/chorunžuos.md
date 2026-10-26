@@ -116,7 +116,6 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

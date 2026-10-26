@@ -82,7 +82,7 @@ canonical_biography: "1511 m. Žygimantas Senasis, suteikdamas Kauno pilininko p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185426
@@ -99,6 +99,5 @@ canonical_biography: "1511 m. Žygimantas Senasis, suteikdamas Kauno pilininko p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

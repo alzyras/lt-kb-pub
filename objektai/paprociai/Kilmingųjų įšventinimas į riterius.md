@@ -71,7 +71,7 @@ Nenurodyta
 <a id="claim-t-223063"></a>
 - t-001
   teiginys: "1305 m. prie Gedimino pilies Hoinbergo grafas ir daug kitų kilmingųjų buvo įšventinti į riterius."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-ebdc6e98e6edc9ba0de0c494"
-canonical_name: "Ulmigeria (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ulmigeria","Ulmigeria (vieta)"]
+entity_id: ent-ebdc6e98e6edc9ba0de0c494
+canonical_name: Ulmigeria (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ulmigeria
+  - Ulmigeria (vieta)
 sameAs: []
-canonical_biography: "Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri."
-place_authority: true
-historical_names: []
+canonical_biography: 'Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri.'
 ---
 # Ulmigeria (vieta)
 
@@ -71,6 +72,5 @@ Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

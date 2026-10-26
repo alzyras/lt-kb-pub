@@ -62,6 +62,5 @@ Polianai vertėsi žemdirbyste, buvo vaišingi ir siekė draugiškų santykių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

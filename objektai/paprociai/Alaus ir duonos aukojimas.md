@@ -74,6 +74,5 @@ Narbutas teigia, kad visų aukų pagrindas buvo duona ir alus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

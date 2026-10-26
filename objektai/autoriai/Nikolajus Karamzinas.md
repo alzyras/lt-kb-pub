@@ -26,6 +26,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-43f578d799316acdf9db6337
+canonical_name: Nikolajus Karamzinas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Nikolajus Karamzinas
+sameAs: []
+canonical_biography: 'Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį. Narbutas rašo, kad Nikolajus Karamzinas Perkūno vardą kildino iš indų kalbos žodžio „Penui“, reiškiančio didelį. Karamzinas, Narbuto perteikimu, rašė apie vitbionų sostinę Witsby prie Dauguvos, siejamą su Vitebsku.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:44:41+00:00","source_checked_at":"2026-09-20T03:44:41+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"57cdb0f1ecb506b00e6c377a","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Autorius","context":"Nikolajus Karamzinas yra dvylikatomės „Rusijos valstybės istorijos“ (1816–1829) autorius; taip jį aprašo Teodoras Narbutas.","support_ids":["t-206234","c-188849"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206234","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188849","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Daugiausia nuorodų į devyniatomės „Prūsijos istorijos“ (1827-1838) autorių Johaną Foigtą (Johannes Voigt) ir į dvy- likatomės „Rusijos valstybės istorijos“ (1816-1829) autorių Nikolajų Karamziną."}],"status":"published","conflict_status":"clear"},{"trait_id":"9c1d6bfd1624a4e1a17bbe1f","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"„Rusijos valstybės istorijos“ autorius","context":"Teodoras Narbutas Nikolajų Karamziną įvardija dvylikatomės „Rusijos valstybės istorijos“ (1816–1829) autoriumi.","support_ids":["t-206234","c-188849"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206234","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188849","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Daugiausia nuorodų į devyniatomės „Prūsijos istorijos“ (1827-1838) autorių Johaną Foigtą (Johannes Voigt) ir į dvy- likatomės „Rusijos valstybės istorijos“ (1816-1829) autorių Nikolajų Karamziną."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
 object_page_finisher: 'true'
@@ -39,13 +49,6 @@ object_page_seo_description: 'Nikolajus Karamzinas: Narbutas, sekdamas Nikolajum
 object_page_seo_input_hash: 26eb52709865f9901e0c76a4559800eb630b3a50a401a6e4d9afb014dc8d39e9
 object_page_seo_generated_at: '2026-09-20T03:44:41+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-43f578d799316acdf9db6337"
-canonical_name: "Nikolajus Karamzinas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Nikolajus Karamzinas"]
-sameAs: []
-canonical_biography: "Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį. Narbutas rašo, kad Nikolajus Karamzinas Perkūno vardą kildino iš indų kalbos žodžio „Penui“, reiškiančio didelį. Karamzinas, Narbuto perteikimu, rašė apie vitbionų sostinę Witsby prie Dauguvos, siejamą su Vitebsku."
 ---
 # Nikolajus Karamzinas
 
@@ -191,6 +194,30 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   pagrindžia:
     - c-177282
 
+<a id="claim-t-197626"></a>
+- t-008
+  teiginys: "N. Karamzinas nebuvo sunaikinta ir todėl netrukus turėjo būti atstatyta."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179266
+
+<a id="claim-t-197627"></a>
+- t-009
+  teiginys: "N. Karamzinas anaiptol nepriskiria jų prie ramių žemdirbių, bet atvirkščiai — laiko juos karinga gentimi, turinčia rinktinę raitąją armiją."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-179267
+
 <a id="claim-t-206234"></a>
 - t-010
   teiginys: "Nikolajus Karamzinas yra dvylikatomės „Rusijos valstybės istorijos“ (1816–1829) autorius."
@@ -202,18 +229,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-188849
-
-<a id="claim-t-214883"></a>
-- t-214883
-  teiginys: "Tai Nikolajaus Karamzino (1766—1826) „Rusijos valstybės isto rijos“ VIII tomas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196354
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -254,7 +269,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-173191
@@ -274,7 +289,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-173652
@@ -297,7 +312,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-173653
@@ -316,7 +331,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-173654
@@ -338,7 +353,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-174780
@@ -364,7 +379,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-177282
@@ -381,7 +396,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-179266
@@ -405,6 +420,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 - id: c-179267
   autorius: "Teodoras Narbutas"
@@ -424,6 +441,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 - id: c-188849
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -439,168 +458,5 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
-
-- id: c-196312
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
-  citata_originali: |
-    Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
-    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
-    meta sarmatų genčių sūkuryje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196354
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 465"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 465."
-  citata_originali: |
-    Tai Nikolajaus Karamzino (1766—1826) „Rusijos valstybės isto­
-    rijos“ VIII tomas
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214883
-
-- id: c-196414
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 108"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108."
-  citata_originali: |
-    102
-    Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų
-    ir išvadų apie šį miestą; čia juos pateikti nėra prasmės,
-    nes Karamzinas, ištyręs viską, galutinai ir su jam bū­
-    dingu tikslumu įminė šią mįslę. Anot jo, minėtas miestas
-    vadintas Serkel, Biala wieza, Biata wies, Bieloserkal, o
-    visa tai reiškia vieną ir tą patį: baltas namas, balta pa­
-    lapinė, turgus, užeiga, smuklė.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196656
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
-  citata_originali: |
-    Manydami, kad mūsų skaity­
-    tojai prisimena anksčiau šia tema sakytus dalykus (§55),
-    ir norėdami geriau suprasti visą dalyką, turime papildomai
-    aiškinti.
-    221
-    Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
-    aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
-    tautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių
-    pusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,
-    Olomnošč, galvos, svarbiausio dalyko, prasme. Rytų ra­
-    šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
-    mam požiūriui.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197143
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 298"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
-  citata_originali: |
-    Tad jei laimin­
-    gas atsitiktinumas leido užklydusiems su gotais į Rytus
-    1 Karamzin. Istor. Hosud, Ross. T. II. S. 25 (2-asis leidimas).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197349
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 74"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
-  citata_originali: |
-    Be to, tvirto­
-    vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
-    taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­
-    jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos
-    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
-    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
-    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
-    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
-    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
-    vės upę Ros.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197609
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
-  citata_originali: |
-    Plinijus teigia, kad jazigai gyveno prie Tisos
-    upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
-    jų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­
-    ringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­
-    do, kad jie kariavo su svevų karaliaus Vanijaus Vanino
-    vėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus
-    metu kovėsi romėnų gretose.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-199407
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 93"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 93."
-  citata_originali: |
-    Trumpiau aiškinant žodžio Perkūnas kilmę iš lotynų
-    kalbos, galima teigti, kad jis galėjo būti kilęs iš žodžio percute­
-    re, kadangi trenkia. Karamzinas, stengdamasis išaiškinti to pa­
-    ties žodžio kilmę, pagaliau išveda jį iš indų kalbos, kurioje Pe­
-    nui reiškia didelį5. Slavų Perun, lenkų Piorun iš tikrųjų nėra
-    4 Stender.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

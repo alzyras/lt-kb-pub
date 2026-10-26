@@ -88,7 +88,7 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai

@@ -74,6 +74,5 @@ Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -80,6 +80,5 @@ Karalius, kaip jį aprašo Narbutas, aukščiausiąją valdžią Lietuvoje patik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

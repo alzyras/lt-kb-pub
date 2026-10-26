@@ -73,6 +73,5 @@ canonical_biography: "Štai 1835 m. Paryžiuje išleisto Leonardo Chodzkos (1800
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

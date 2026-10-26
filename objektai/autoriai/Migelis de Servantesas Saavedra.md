@@ -76,6 +76,5 @@ Migelis de Servantesas Saavedra (1547–1616) buvo veikalo „Don Kichotas“ au
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -83,6 +83,5 @@ Suvalkų gubernijos žmonės, mokiniai ir kunigai privalėjo sveikinti vokieči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

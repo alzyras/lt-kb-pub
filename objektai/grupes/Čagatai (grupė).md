@@ -65,6 +65,5 @@ Teodoras Narbutas Timūrą apibūdina kaip visai nežymaus čagatais vadintų to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

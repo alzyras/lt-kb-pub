@@ -96,7 +96,7 @@ Tai buvo akivaizdus aukojimo puotų li kutis. Vėliau piktnaudžiavimas stipriai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-196723
@@ -117,6 +117,5 @@ Tai buvo akivaizdus aukojimo puotų li kutis. Vėliau piktnaudžiavimas stipriai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

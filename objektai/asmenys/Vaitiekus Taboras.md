@@ -30,6 +30,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-7c330a9cabe6cce9719e8829
+canonical_name: 'Vaitiekus Taboras (vyskupas, XV–XVI a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Vaitiekus Taboras
+  - 'Vaitiekus Taboras (vyskupas, XV–XVI a.)'
+sameAs: []
+canonical_biography: 'Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis. Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu. Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:40:13+00:00","source_checked_at":"2026-09-20T03:40:13+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuomenei vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­ kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­ nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasiuntė į Naugarduką.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-87411","evidence_id":"c-83392","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a5fb37fa79b9a378a2f0ae21","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vilniaus vyskupas; 1491 m. iškeltas į vyskupus ir šešiolika metų ėjo ganytojo pareigas.","context":"Michał Baliński aprašymas; 1491–1507 m.","support_ids":["t-87413","c-83390"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87413","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83390","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"10. Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­ nytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje nuovoka kaip reta kas. Išbaudė iš popiežiaus ir karaliaus pasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais."}],"status":"published","conflict_status":"clear"},{"trait_id":"f41bc3cec55618926e3ac3d9","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Taryboje pagarsėjo reta nuovoka.","context":"Michał Baliński vertinimas apie jo veiklą einant ganytojo pareigas; XVI a. pradžia.","support_ids":["t-87413","c-83390"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87413","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83390","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"10. Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­ nytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje nuovoka kaip reta kas. Išbaudė iš popiežiaus ir karaliaus pasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais."}],"status":"published","conflict_status":"clear"},{"trait_id":"33e211512b0d2117e004f4cb","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu.","context":"Michał Baliński aprašymas apie 1506 m. Vilniaus gynybą.","support_ids":["t-87412","c-83393"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87412","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83393","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Miestiečiai prie jų dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė imti po vieną pinigą kas dveji metai, arba po vieną akmenį nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­ duktus. Tačiau šis karaliaus nurodymas gal taip greitai ne­ būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­ bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ef3d1c3f23fe9c8d26443ecc","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Trumpa kalba ragino kunigaikštį neiškrypti iš prosenelių praminto kelio.","context":"Alberto Vijūko-Kojelavičiaus pasakojimas apie kunigaikščio pasodinimą į sostą; šaltinyje nenurodyti tikslūs metai.","support_ids":["t-184853","c-168214"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184853","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168214","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Stanislovo katedrą ir pasodino į tėvo sostą. Vaitiekus Taboras, pa­ prašęs aukščiausiąjį laiminti valstybę, trumpa kalba pa­ ragino kunigaikštį neiškrypti iš prosenelių praminto ke­ lio ir uždėjo vainiką, užimamos valdžios žymenį. Se­ nuosiuose šaltiniuose radau surašyta, kad Lietuvos vyriausiasis maršalas, pagal tautos paprotį įteikdamas apnuogintą kalaviją bei rykštę, bylojęs šitokiais žo­ džiais: ,,Patys dievai, Jogailaičių šeimos šlovė, tėvo Ka­ zimiero paveikslas ir nuo seno Jūsų namams priklausęs Lietuvos Didžiosios Kunigaikštystės sostas šiandieną Tave išrinko ir paskelbė mūsų valdovu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f8bbeac8c569e4d8da20ded8","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Meldė Dievo laiminti valstybę ir ragino kunigaikštį laikytis prosenelių kelio.","context":"Alberto Vijūko-Kojelavičiaus pasakojimas apie valdžios suteikimo iškilmes; šaltinyje nenurodyti tikslūs metai.","support_ids":["t-184853","c-168214"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184853","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168214","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Stanislovo katedrą ir pasodino į tėvo sostą. Vaitiekus Taboras, pa­ prašęs aukščiausiąjį laiminti valstybę, trumpa kalba pa­ ragino kunigaikštį neiškrypti iš prosenelių praminto ke­ lio ir uždėjo vainiką, užimamos valdžios žymenį. Se­ nuosiuose šaltiniuose radau surašyta, kad Lietuvos vyriausiasis maršalas, pagal tautos paprotį įteikdamas apnuogintą kalaviją bei rykštę, bylojęs šitokiais žo­ džiais: ,,Patys dievai, Jogailaičių šeimos šlovė, tėvo Ka­ zimiero paveikslas ir nuo seno Jūsų namams priklausęs Lietuvos Didžiosios Kunigaikštystės sostas šiandieną Tave išrinko ir paskelbė mūsų valdovu."}],"status":"published","conflict_status":"clear"},{"trait_id":"92ab3693402b87f0d666f56f","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Įgijo šalyje didelę įtaką ir pagarsėjo taryboje reta nuovoka.","context":"Michał Baliński autoriaus vertinimas apie jo šešiolikos metų ganytojo pareigas; 1491–1507 m.","support_ids":["t-87413","c-83390"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87413","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83390","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"10. Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­ nytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje nuovoka kaip reta kas. Išbaudė iš popiežiaus ir karaliaus pasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"648863f61672591f795cd850","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Pirmasis davė magistratui mintį aptverti Vilnių mūro siena ir daug prisidėjo lėšomis.","context":"Michał Baliński aprašymas apie Vilniaus aptvėrimą; 1506 m.","support_ids":["t-87413","c-83390"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87413","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83390","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"10. Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­ nytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje nuovoka kaip reta kas. Išbaudė iš popiežiaus ir karaliaus pasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vaitiekus Taboras buvo Vilniaus vyskupas, XV–XVI amžių sandūroje tapęs vienu įtakingesnių Lietuvos dvasininkų. Kilęs iš lietuvių bajorų nuo Eišiškių, vyskupu jis iškeltas 1491 metais, o ganytojo pareigas ėjo šešiolika metų ir mirė 1507-aisiais. Taboras ypač išgarsėjo remdamas Vilniaus gynybą: 1506 metais, totoriams keliant grėsmę miestui, jo raginami ir remiami miestiečiai Vilnių apjuosė mūro pylimu, pakeitusiu medinius įtvirtinimus. Jis taip pat dalyvavo svarbiuose valdovų reikaluose – lydėjo į Vilnių nugabentą Aleksandrą kartu su karaliene Elena ir kitais aukštais pareigūnais. Vilniaus katedroje Taboras su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena, o kitoje ceremonijoje, pasak Kojelavičiaus, meldė Dievo laiminti valstybę, ragino valdovą sekti protėvių keliu ir uždėjo jam valdžios vainiką.","sentences":[{"sentence_id":"s1","text":"Vaitiekus Taboras buvo Vilniaus vyskupas, XV–XVI amžių sandūroje tapęs vienu įtakingesnių Lietuvos dvasininkų.","support_ids":["t-87413","c-83390"]},{"sentence_id":"s2","text":"Kilęs iš lietuvių bajorų nuo Eišiškių, vyskupu jis iškeltas 1491 metais, o ganytojo pareigas ėjo šešiolika metų ir mirė 1507-aisiais.","support_ids":["t-87413","c-83390"]},{"sentence_id":"s3","text":"Taboras ypač išgarsėjo remdamas Vilniaus gynybą: 1506 metais, totoriams keliant grėsmę miestui, jo raginami ir remiami miestiečiai Vilnių apjuosė mūro pylimu, pakeitusiu medinius įtvirtinimus.","support_ids":["t-87412","c-83393","t-87413","c-83390"]},{"sentence_id":"s4","text":"Jis taip pat dalyvavo svarbiuose valdovų reikaluose – lydėjo į Vilnių nugabentą Aleksandrą kartu su karaliene Elena ir kitais aukštais pareigūnais.","support_ids":["t-87411","c-83392"]},{"sentence_id":"s5","text":"Vilniaus katedroje Taboras su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena, o kitoje ceremonijoje, pasak Kojelavičiaus, meldė Dievo laiminti valstybę, ragino valdovą sekti protėvių keliu ir uždėjo jam valdžios vainiką.","support_ids":["t-87414","c-83391","t-184853","c-168214"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai nurodo, kad Vaitiekus Taboras buvo Vilniaus vyskupas, įgijo didelę įtaką ir pagarsėjo taryboje."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina jo kilmę nuo Eišiškių, iškėlimą vyskupu 1491 m., šešiolikos metų ganytojo pareigas ir mirtį 1507 m."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai nurodo 1506 m. totorių grėsmę, Taboro raginimą bei paramą miestiečiams ir mūro pylimo pastatymą vietoje medinių įtvirtinimų."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Aleksandrą į Vilnių lydėjo karalienė Elena, Vaitiekus Taboras ir kiti aukšti pareigūnai."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Taboro santuokos ceremoniją su Foma ir Kojelavičiaus pasakojimą apie maldą, raginimą bei valdžios vainiko uždėjimą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-87413","c-83390"]},{"sentence_id":"s2","supported":true,"support_ids":["t-87413","c-83390"]},{"sentence_id":"s3","supported":true,"support_ids":["t-87412","c-83393","t-87413","c-83390"]},{"sentence_id":"s4","supported":true,"support_ids":["t-87411","c-83392"]},{"sentence_id":"s5","supported":true,"support_ids":["t-87414","c-83391","t-184853","c-168214"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":3}}'
 object_page_finisher: 'true'
@@ -43,13 +53,6 @@ object_page_seo_description: 'Vaitiekus Taboras (vyskupas, XV–XVI a.): Vaitiek
 object_page_seo_input_hash: 9b4fa7f2bd3d07e5fc22bff844c3fdde4bee2307183c185e5ff20ad01a49be19
 object_page_seo_generated_at: '2026-09-20T03:40:13+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-7c330a9cabe6cce9719e8829"
-canonical_name: "Vaitiekus Taboras (vyskupas, XV–XVI a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Vaitiekus Taboras","Vaitiekus Taboras (vyskupas, XV–XVI a.)"]
-sameAs: []
-canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis. Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu. Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m."
 ---
 # Vaitiekus Taboras (vyskupas, XV–XVI a.)
 
@@ -164,19 +167,6 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   pagrindžia:
     - c-168214
 
-<a id="claim-t-210855"></a>
-- t-210855
-  teiginys: "Vaitiekus Taboras buvo Vilniaus vyskupu 1492— 1507.111.27."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-193388
-
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
@@ -229,7 +219,7 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-83391
@@ -251,7 +241,7 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-83392
@@ -273,7 +263,7 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-83393
@@ -297,7 +287,7 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168213
@@ -334,7 +324,7 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-168214
@@ -360,22 +350,5 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-193388
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 326"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 326."
-  citata_originali: |
-    Vaitiekus Taboras buvo Vilniaus vyskupu 1492— 1507.111.27.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210855
-

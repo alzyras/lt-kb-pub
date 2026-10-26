@@ -92,6 +92,5 @@ Po Vytenio mirties 1316 m. pradžioje Gediminas, kaip aprašo Teodoras Narbutas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

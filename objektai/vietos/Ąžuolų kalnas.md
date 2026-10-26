@@ -62,6 +62,5 @@ Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

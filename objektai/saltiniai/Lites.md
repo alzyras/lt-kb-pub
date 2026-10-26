@@ -78,6 +78,5 @@ Raczyński : RaCD, 82, 251 p. ; Lites, II, 1892.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -80,6 +80,5 @@ Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū gį kirto pats 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -68,6 +68,5 @@ Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

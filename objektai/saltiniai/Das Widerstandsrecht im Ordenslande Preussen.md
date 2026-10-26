@@ -66,6 +66,5 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

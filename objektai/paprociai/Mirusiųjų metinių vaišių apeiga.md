@@ -73,6 +73,5 @@ Narbutas teigia, kad Chauturej, arba Dziady, buvo skiriamas visų mirusių gimin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

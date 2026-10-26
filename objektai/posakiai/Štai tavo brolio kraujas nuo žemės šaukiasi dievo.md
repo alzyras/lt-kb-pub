@@ -54,6 +54,5 @@ Dusburgietis teigia, kad štai tavo brolio kraujas nuo žemės šaukiasi dievo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

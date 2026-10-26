@@ -67,6 +67,5 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

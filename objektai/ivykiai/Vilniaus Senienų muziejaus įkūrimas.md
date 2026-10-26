@@ -137,8 +137,7 @@ Tiksli įkūrimo data šioje citatoje nenurodyta. Vieta aiški iš įvykio pavad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-003
-

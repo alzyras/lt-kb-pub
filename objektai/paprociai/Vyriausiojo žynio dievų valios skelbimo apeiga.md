@@ -79,6 +79,5 @@ Po apeigos vyriausiasis žynys paskelbdavo vaidiloms dievų valią, o šie ją p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

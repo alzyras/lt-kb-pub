@@ -71,6 +71,5 @@ Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sula
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

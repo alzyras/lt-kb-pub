@@ -96,7 +96,7 @@ Dėl to atgaivinta Seimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166518
@@ -118,6 +118,5 @@ Dėl to atgaivinta Seimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

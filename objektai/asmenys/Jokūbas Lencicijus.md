@@ -65,10 +65,10 @@ canonical_biography: "1583 metais jėzuitai kunigą Jokūbą Lencicijų ir du jo
   pagrindžia:
     - c-172986
 
-<a id="claim-t-212527"></a>
-- t-212527
+<a id="claim-t-190894"></a>
+- t-002
   teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,6 +86,8 @@ canonical_biography: "1583 metais jėzuitai kunigą Jokūbą Lencicijų ir du jo
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jokūbas Lencicijus keliavo į Livonija“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jokūbo Lencicijaus pasiuntimą į Žemaičius ir Livoniją. Neperimtas Narbuto religinis vertinimas apie pagonybės likučių išnaikinimą."
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173776
 
 ## Citatos
 
@@ -106,7 +108,7 @@ canonical_biography: "1583 metais jėzuitai kunigą Jokūbą Lencicijų ir du jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-173776
@@ -126,23 +128,5 @@ canonical_biography: "1583 metais jėzuitai kunigą Jokūbą Lencicijų ir du jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199774
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 368"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
-  citata_originali: |
-    Ten jis buvo pa­
-    stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
-    bės įvedimo. 1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
-    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
-    lius. Ten jie rado pagonybės likučių ir juos skrupulingai išnaiki­
-    no.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

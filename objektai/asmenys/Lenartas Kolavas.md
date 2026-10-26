@@ -69,6 +69,5 @@ canonical_biography: "1552 m. Lenartas Kolavas atsivedė savo nelaisvą mergą B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

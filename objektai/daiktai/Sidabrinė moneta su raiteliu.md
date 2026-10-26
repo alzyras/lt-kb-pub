@@ -75,6 +75,5 @@ Kita pusė: raitelis ant žirgo, šuoliuojančio į kairę; dešinė je rankoje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

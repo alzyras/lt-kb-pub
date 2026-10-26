@@ -58,6 +58,5 @@ Komiteto valdyba pasirašė Lietuvos kunigų prašymą suteikti pagalbą Lietuva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

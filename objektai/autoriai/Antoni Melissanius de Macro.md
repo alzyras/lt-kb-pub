@@ -95,6 +95,5 @@ canonical_biography: "Šios 19 Waddyngas, Mažesniųjų brolių ordino istorijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

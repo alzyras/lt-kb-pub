@@ -79,6 +79,5 @@ Bukovinos miškuose Steponas užpuolė karalių Olbrachtą ir jo kariuomenę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

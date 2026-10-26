@@ -64,6 +64,5 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

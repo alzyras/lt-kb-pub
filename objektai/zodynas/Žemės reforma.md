@@ -74,7 +74,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-73327
@@ -97,6 +97,5 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -67,6 +67,5 @@ Pasak T. Narbuto, ordino maršalas Zigfridas Dahenfeldas lydėjo didįjį magist
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

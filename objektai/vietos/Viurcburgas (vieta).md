@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-d14bcbfe73ea3cc4e6b929af"
-canonical_name: "Viurcburgas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Viurcburgas","Viurcburgas (vieta)"]
+entity_id: ent-d14bcbfe73ea3cc4e6b929af
+canonical_name: Viurcburgas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Viurcburgas
+  - Viurcburgas (vieta)
 sameAs: []
-canonical_biography: "Viurcburgo vyskupas bei Romos imperijos kancleris Konradas."
-place_authority: true
-historical_names: []
+canonical_biography: Viurcburgo vyskupas bei Romos imperijos kancleris Konradas.
 ---
 # Viurcburgas (vieta)
 
@@ -69,6 +70,5 @@ Viurcburgo vyskupas bei Romos imperijos kancleris Konradas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

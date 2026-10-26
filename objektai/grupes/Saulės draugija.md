@@ -59,6 +59,5 @@ Kaune ir Vilniuje susitelkusi lenkų grupė sutabdė lietuvių laikraščius ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

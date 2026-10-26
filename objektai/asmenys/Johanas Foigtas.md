@@ -26,6 +26,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-bd9d4115d4f6c2e075243dce
+canonical_name: Johanas Foigtas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Johanas Foigtas
+sameAs: []
+canonical_biography: 'Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho. Narbutas rašo, kad Johanas Foigtas, remdamasis prūsų apskaitos knygomis, nurodė 1770 m. Semboje surinktą didelį gintaro kiekį. Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:55:40+00:00","source_checked_at":"2026-09-19T18:55:40+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -39,13 +48,6 @@ object_page_seo_description: 'Johanas Foigtas: Narbutas rašo, kad Johanas Foigt
 object_page_seo_input_hash: 4890ac6b3ef4b88a5b7876d923eaeb72287a6b0de19a45853d8cd388a4cefb04
 object_page_seo_generated_at: '2026-09-19T18:55:40+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-bd9d4115d4f6c2e075243dce"
-canonical_name: "Johanas Foigtas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Johanas Foigtas"]
-sameAs: []
-canonical_biography: "Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho. Narbutas rašo, kad Johanas Foigtas, remdamasis prūsų apskaitos knygomis, nurodė 1770 m. Semboje surinktą didelį gintaro kiekį. Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės."
 ---
 # Johanas Foigtas
 
@@ -227,16 +229,17 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   pagrindžia:
     - c-179328
 
-<a id="claim-t-214783"></a>
-- t-214783
-  teiginys: "IV priede Narbutas pateikė Johano Foigto surinktas žinias apie senovės Prūsijos provincijų geografiją, statistiką ir istoriją."
-  atnaujinta: "2026-09-19 21:55"
+<a id="claim-t-197759"></a>
+- t-011
+  teiginys: "Johanas Foigtas buvo prie Šyšos upės, kuri kita dos turėjo būti vadinama Cyse arba Sussa."
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-173775
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -362,7 +365,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-173769
@@ -386,7 +389,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-173770
@@ -408,7 +411,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-173771
@@ -436,7 +439,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-008
 
@@ -472,7 +475,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-173774
@@ -496,7 +499,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-173775
@@ -521,6 +524,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 - id: c-179327
   autorius: "Teodoras Narbutas"
@@ -541,7 +546,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-179328
@@ -560,92 +565,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
     - t-010
-
-- id: c-195648
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 346"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
-  citata_originali: |
-    Iš dalies
-    tai buvo pono Foigto studijos apie senovės Sambijos vi-
-    tingus (Geschichte der Eidechsen Gesellschaft in Preus-
-    sen. S. 206—208) teiginiai; tačiau ten nepakako vietos
-    viską plačiai išdėstyti, ir tik vienas dokumentas su pra­
-    dingusios žemės dydžio aprašymu sudarė svarbiausio
-    įrodymo pagrindą. Čia plačiau panagrinėsime tuos tei­
-    ginius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196197
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369-370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
-  citata_originali: |
-    Gar­
-    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
-    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
-    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    dos turėjo būti vadinama Cyse arba Sussa. Bet panašiau
-    į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
-    pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
-    esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
-    tai labiau primena šį pavadinimą, nors ši vieta, mūsų
-    nuomone, priklauso Nadruvai.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197362
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
-  citata_originali: |
-    Ragainė Hartknocho išleistame Dus-
-    burgo veikale klaidingai pavadinta Ramige (p. III. C.
-    178). Ponas Foigtas rado Berlyno rankraštyje vietovardį
-    Raganita, ir tai žinomas pats tikriausias pavadinimas, nes
-    jis kilęs iš mitinio vardo Ragana.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197520
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 175"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 175."
-  citata_originali: |
-    Sis didelis gintaro kiekis nėra perdėtas, nes
-    -senovėje jo daugybė galėjo pranokti bet kokią šiandienę
-    fantaziją. Ponas Foigtas, patvirtindamas tą patį, nurodo
-    pavyzdį iš prūsų apskaitos knygų, kad 1770 metais Sem­
-    boje surinkta daugiau kaip 411 laivo statinių, arba 65 760
-    svarų karališko svorio, gintaro2. Bet neaišku, ar tas ro­
-    mėnų riteris buvęs pačiose kasyklose, ar rašytojai tik tei­
-    gia, kad tai įvykę Germanijoje arba kairiojoje Vyslos pa­
-    krantėje; ten galėjęs valdyti koks nors gotų, prekiavusių
-    tiesiai -iš kasyklų gaunamu gintaru, karalius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

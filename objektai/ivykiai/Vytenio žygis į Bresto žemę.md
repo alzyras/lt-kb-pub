@@ -74,6 +74,5 @@ Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

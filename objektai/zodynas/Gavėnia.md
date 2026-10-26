@@ -89,6 +89,5 @@ Terminas vartojamas kalbant apie triukšmo draudimą ir tam laikui būdingus val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

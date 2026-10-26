@@ -74,6 +74,5 @@ Hoch­ meister des Deutschen Ordens 1414-1422 ; t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

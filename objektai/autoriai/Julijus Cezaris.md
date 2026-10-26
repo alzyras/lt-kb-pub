@@ -14,13 +14,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-b44dd7caa328e05fe83d5c2d"
-canonical_name: "Julijus Cezaris"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Julijus Cezaris"]
+entity_id: ent-b44dd7caa328e05fe83d5c2d
+canonical_name: Julijus Cezaris
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Julijus Cezaris
 sameAs: []
-canonical_biography: "Narbutas teigia, kad Julijus Cezaris pasakojo apie Litavietį, lietuvių vadą, vadovavusį galų ir keltų kariuomenei Vakarų Karpatuose."
+canonical_biography: 'Narbutas teigia, kad Julijus Cezaris pasakojo apie Litavietį, lietuvių vadą, vadovavusį galų ir keltų kariuomenei Vakarų Karpatuose.'
 ---
 # Julijus Cezaris
 
@@ -78,7 +81,7 @@ Narbutas teigia, kad Julijus Cezaris pasakojo apie Litavietį, lietuvių vadą, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200612
@@ -95,6 +98,5 @@ Narbutas teigia, kad Julijus Cezaris pasakojo apie Litavietį, lietuvių vadą, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

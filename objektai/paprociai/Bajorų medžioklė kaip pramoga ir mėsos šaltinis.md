@@ -93,7 +93,7 @@ XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga. Žvėriena buvo nea
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186932
@@ -118,6 +118,5 @@ XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga. Žvėriena buvo nea
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

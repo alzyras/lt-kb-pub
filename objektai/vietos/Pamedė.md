@@ -27,6 +27,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-65981ae3fa9d6f14853b303c
+canonical_name: Pamedė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pamedė
+sameAs: []
+canonical_biography: 'Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaikštijų (Kulmo, Pamedės, Varmijos ir Sembos), bet ordino galybės laikais nesusipratimų dėl to nebekildavo, nes vyskupais būdavo skiriami tik ordino nariai.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Pamedė","url":"https://lt.wikipedia.org/wiki/Pamed%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Pamedė","url":"https://www.vle.lt/straipsnis/pamede/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:16:17+00:00","source_checked_at":"2026-09-19T08:16:17+00:00","counts":{"relations":13,"gallery":0,"sources":4},"featured_claim_ids":["t-225121","t-213483","t-213572","t-220690","t-221612","t-212446","t-214952"],"featured_claims":[{"claim_id":"t-225121","text":"Pamedės kilmingasis Samilis padėjo badaujančiai Kristburgo piliai, nors gyveno tarp priešų ir tikėjimą bei brolius gerbė slapta.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204952"]},{"claim_id":"t-213483","text":"Narbutas iš tvirtovių išsidėstymo sprendė, kad rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-194693"]},{"claim_id":"t-213572","text":"Narbutas Pamedės gyventojus apibūdino kaip karingus ir kupinus normaniškos dvasios, o pačioje Pamedėje minėjo daug garbingų šeimų.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-194583"]},{"claim_id":"t-220690","text":"Pamedėnų pilis stovėjo vietoje, vėliau vadintoje Senuoju Kristburgu.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204088"]},{"claim_id":"t-221612","text":"Spitenbergo pilis buvo Pamedėje.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-206046"]},{"claim_id":"t-212446","text":"Pamedė Į šiaurę už Osos upės ir prie jos plytėjusios girios pri klausė antrai Pamedės provincijai.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-194877"]},{"claim_id":"t-214952","text":"Narbutas Pamedės pavadinimą kildino iš lietuviško žodžio „Meže“, reiškiančio ribą, nes Pamedė ribojosi su svetimais kraštais.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-195374"]}],"featured_quote":{"text":"vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","claim_id":"t-223689","evidence_id":"c-204049","origin":"internal"},"wiki":{"intro":"Pamedė (prūs. Pameddi, vok. Pomesanien) – istorinė žemė Pietų Prūsijoje, kurioje gyveno prūsų gentis pamedėnai. Tai labiausiai vakaruose buvusi prūsų žemė, tarp Vyslos, Nogato, Zirgūnos ir Osos upių. Dabar tai žemės aplink Malborką ir Elbingą.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"189907","revision_id":"7681549","status":"published","translation_status":"native","source":{"title":"Pamedė","url":"https://lt.wikipedia.org/wiki/Pamed%C4%97","publisher":"Vikipedija","language":"lt","article_id":"189907","revision_id":"7681549","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7681549","history_url":"https://lt.wikipedia.org/w/index.php?title=Pamed%C4%97&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:41.916975+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"539226c200a7172f154db7726230aff357d03884a06cbfbd43c16848839d662c","version_pk":"5f3bd1bcd350dfe1b5a24dd158a7e5a5"}},"source_buttons":[{"label":"Vikipedija","title":"Pamedė","url":"https://lt.wikipedia.org/wiki/Pamed%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Pamedė","url":"https://www.vle.lt/straipsnis/pamede/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Pamed%C4%97","https://www.vle.lt/straipsnis/pamede/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b1216a1043f246186dce8eee","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Pamedė plytėjo į šiaurę už Osos upės ir prie jos girios; šiaurėje ribojosi su Baltijos jūra, rytuose – su Pagude ir Hokerlandija, pietuose – su Ruimu, vakaruose nuo Pamario ją skyrė Vysla.","context":"Teodoras Narbutas, XIX a. veikale, aprašydamas Pamedės ribas ir aplinką.","support_ids":["t-212446","c-194877","t-214952","c-195374"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212446","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-214952","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194877","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Ypač seniai egzistavo Kulmas, Chetmno, seno­ vinis Ulmas. Atėjus kryžiuočiams, visos šios tvirtovės ir pilys visame Kulme ir Lubavoje buvo visiškai sunaikin­ tos, didesnė dalis krašto, nuniokoto nesiliaujančių mazo- viečių karų su prūsais, priklausė Kulmo vyskupui, o kita dalis Mazovijos kunigaikščiui, nors ji buvo jam menka­ vertė. Pamedė Į šiaurę už Osos upės ir prie jos plytėjusios girios pri­ klausė antrai Pamedės provincijai."},{"kind":"evidence","evidence_id":"c-195374","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"257 Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­ ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­ sėje su svetimais kraštais. Čia buvo senovinės Grevožės, Probuto ir kitos pilys."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f894527cdf39974ca83be7e8","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos, o žemės šalia Malborko iki Elbliongo, taip pat Nogato ir Vyslos tarpupis – labai mažai apgyvendintos arba be nuolatinių gyventojų.","context":"Narbutas tai sprendė iš tvirtovių išsidėstymo; autoriaus vertinimas taikomas jo aprašomam laikotarpiui ir kontekstui.","support_ids":["t-213483","c-194693"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213483","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194693","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Netgi teigiama, kad Grevožos tvirtovėje gyvenęs vietinis Krivis. Kitos tvirtovės buvo šalia Stumos, Postelino, Postolin, Reisių apskrityje prie Drūsinės ežero, šiandienio Vilen- bergo kaimo apylinkėse, taip pat prie Vyslos. Iš to tvir­ tovių išsidėstymo jau galima daryti išvadą, jog rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos, o šiau­ rėje plytėjusios žemės šalia Malborko net iki Elbliongo, taip pat Nogato ir Vyslos tarpupis buvo Labai mažai ap­ gyvendinta arba čia apskritai nebuvo nuolatinių gyven­ tojų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"484ad6fa4c3e574a9de867ab","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Pamedė buvo provincija; joje buvo senovinės Grevožės, Probuto ir kitos pilys.","context":"Teodoras Narbutas, aprašydamas Pamedę kaip istorinę teritoriją.","support_ids":["t-214952","c-195374"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214952","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195374","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"257 Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­ ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­ sėje su svetimais kraštais. Čia buvo senovinės Grevožės, Probuto ir kitos pilys."}],"status":"published","conflict_status":"clear"},{"trait_id":"7b5093cb99feb44cc6f417ed","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Pamedė buvo antroji Pamedės provincija, kurioje gyveno pamedėnai.","context":"Petras Dusburgietis, kronikoje apibrėždamas Pamedę kaip teritoriją ir jos gyventojus.","support_ids":["t-215250","c-194877","t-222575","c-204139"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215250","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-222575","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-194877","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Ypač seniai egzistavo Kulmas, Chetmno, seno­ vinis Ulmas. Atėjus kryžiuočiams, visos šios tvirtovės ir pilys visame Kulme ir Lubavoje buvo visiškai sunaikin­ tos, didesnė dalis krašto, nuniokoto nesiliaujančių mazo- viečių karų su prūsais, priklausė Kulmo vyskupui, o kita dalis Mazovijos kunigaikščiui, nors ji buvo jam menka­ vertė. Pamedė Į šiaurę už Osos upės ir prie jos plytėjusios girios pri­ klausė antrai Pamedės provincijai."},{"kind":"evidence","evidence_id":"c-204139","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Antra — Pamedė192, kurioje [gyveno] pamedėnai."}],"status":"published","conflict_status":"clear"},{"trait_id":"d1e987d9df56fccfcbcee57d","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Pamedėje stovėjo Spitenbergo pilis, kuri kronikos kontekste minima kaip iki autoriaus laikų apleista.","context":"Petro Dusburgiečio kronikos retrospektyvinis aprašymas; būklė nurodoma autoriaus laikų kontekste.","support_ids":["t-221612","c-206046"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221612","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206046","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Retrospektyvinis požiūris į įvykius ryškus tokiuose kronikininko pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bd7b83c10ddb717c96afa07f","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Pamedėnų pilis stovėjo vietoje, vėliau vadintoje Senuoju Kristburgu.","context":"Petras Dusburgietis, retrospektyviai nurodydamas pilies vietą.","support_ids":["t-220690","c-204088"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220690","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204088","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Jis žino, jog pamedėnų pilis stovėjusi „toje vietoje, kuri dabar vadinama Senuoju Kristburgu“ (III, 58)"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"85b06ef20736879b4359a179","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, stovėjo pilis.","context":"Petro Dusburgiečio kronikos aprašomas istorinis pasienio kontekstas.","support_ids":["t-222056","c-204398"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222056","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204398","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Pamedė – istorinė provincija ir vietovė, šaltiniuose dar vadinama Pomezania. Ji plytėjo į šiaurę už Osos upės ir prie jos augusios girios, o jos kraštovaizdyje minimos senovinės Grevožės, Probuto bei kitos pilys. Pasak Teodoro Narbuto, rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos, o vietos žmonės apibūdinami kaip karingi, kupini normaniškos dvasios; čia gyveno ir daug garbingų šeimų. Pamedėje stovėjo Spitenbergo pilis, o pamedėnų pilies vieta vėliau buvo siejama su Senuoju Kristburgu. Išskirtinę vietos istorijos detalę pasakoja pasakojimas apie kilmingąjį Samilį, kuris, gyvendamas tarp priešų, slapta gerbė tikėjimą ir padėjo badaujančiai Kristburgo piliai, už ką buvo žiauriai nubaustas.","sentences":[{"sentence_id":"s1","text":"Pamedė – istorinė provincija ir vietovė, šaltiniuose dar vadinama Pomezania.","support_ids":["t-212446","t-214952"]},{"sentence_id":"s2","text":"Ji plytėjo į šiaurę už Osos upės ir prie jos augusios girios, o jos kraštovaizdyje minimos senovinės Grevožės, Probuto bei kitos pilys.","support_ids":["t-212446","t-214952"]},{"sentence_id":"s3","text":"Pasak Teodoro Narbuto, rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos, o vietos žmonės apibūdinami kaip karingi, kupini normaniškos dvasios; čia gyveno ir daug garbingų šeimų.","support_ids":["t-213483","t-213572"]},{"sentence_id":"s4","text":"Pamedėje stovėjo Spitenbergo pilis, o pamedėnų pilies vieta vėliau buvo siejama su Senuoju Kristburgu.","support_ids":["t-221612","t-220690"]},{"sentence_id":"s5","text":"Išskirtinę vietos istorijos detalę pasakoja pasakojimas apie kilmingąjį Samilį, kuris, gyvendamas tarp priešų, slapta gerbė tikėjimą ir padėjo badaujančiai Kristburgo piliai, už ką buvo žiauriai nubaustas.","support_ids":["t-225121"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Pamedė tiesiogiai įvardijama kaip Pomezania ir provincija; vietovės apibūdinimas neprieštarauja šaltiniams."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai nurodo vietą į šiaurę už Osos upės ir prie girios bei mini Grevožės, Probuto ir kitas pilis."},{"sentence_id":"s3","supported":true,"reason":"Abu teiginio dėmenys tiesiogiai paremti Narbuto tekstu: rytinė ir šiaurinė dalys buvo gerai apgyvendintos, o gyventojai apibūdinti kaip karingi, normaniškos dvasios; taip pat minimos garbingos šeimos."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai nurodo Spitenbergo pilį Pamedėje ir pamedėnų pilies vietą, vėliau vadintą Senuoju Kristburgu."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai pasakoja apie Samilį, jo pagalbą badaujančiai Kristburgo piliai, slaptą tikėjimo ir brolių gerbimą bei žiaurią bausmę."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-212446","t-214952"]},{"sentence_id":"s2","supported":false,"support_ids":["t-212446","t-214952"]},{"sentence_id":"s3","supported":false,"support_ids":["t-213483","t-213572"]},{"sentence_id":"s4","supported":false,"support_ids":["t-221612","t-220690"]},{"sentence_id":"s5","supported":false,"support_ids":["t-225121"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Bajorai","claim_id":"t-213035","confidence":0.68},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Pamedėnai","claim_id":"t-224189","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Burchardas iš Magdeburgo","claim_id":"t-224861","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-221221","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Marienverderis","claim_id":"t-224861","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-220449","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Spitenbergas","claim_id":"t-225319","confidence":0.62},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Henrikas (Meiseno markgrafas)","claim_id":"t-63617","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-63617","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Pagudėnai","claim_id":"t-225758","confidence":0.72},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-221619","confidence":0.87},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-221619","confidence":0.66},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-217617","confidence":0.91}],"timeline":[],"support_disclosure":{"claims":12,"sources":2}}'
 object_page_finisher: 'true'
@@ -40,15 +51,6 @@ object_page_seo_description: 'Pamedė – istorinė provincija ir vietovė, šal
 object_page_seo_input_hash: c9f0aef66375aae8c6b50b20e0eb24a6ee784e85dece1876aa4c3dfe96b21109
 object_page_seo_generated_at: '2026-09-19T08:16:17+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-65981ae3fa9d6f14853b303c"
-canonical_name: "Pamedė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pamedė"]
-sameAs: ["https://www.wikidata.org/entity/Q586101"]
-canonical_biography: "Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaikštijų (Kulmo, Pamedės, Varmijos ir Sembos), bet ordino galybės laikais nesusipratimų dėl to nebekildavo, nes vyskupais būdavo skiriami tik ordino nariai."
-place_authority: true
-historical_names: []
 ---
 # Pamedė
 
@@ -270,90 +272,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   pagrindžia:
     - c-175487
 
-<a id="claim-t-210580"></a>
-- t-210580
-  teiginys: "Tokie kilmingų giminių ponai gyveno Pamedėje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194486
-
-<a id="claim-t-220690"></a>
-- t-220690
-  teiginys: "Pamedėnų pilis stovėjo vietoje, vėliau vadintoje Senuoju Kristburgu."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204088
-
-<a id="claim-t-221612"></a>
-- t-221612
-  teiginys: "Spitenbergo pilis buvo Pamedėje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206046
-
-<a id="claim-t-221968"></a>
-- t-221968
-  teiginys: "Pagudėnai kartu su sūduviais ir kitomis Prūsijos gentimis išnaršė Pamedę ir joje išžudė rastus krikščionis."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201883
-
-<a id="claim-t-222056"></a>
-- t-222056
-  teiginys: "Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204398
-
-<a id="claim-t-222575"></a>
-- t-222575
-  teiginys: "Antra — Pamedė192, kurioje [gyveno] pamedėnai."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204139
-
-<a id="claim-t-223689"></a>
-- t-223689
-  teiginys: "Pipinas buvo Pamedės kilmingasis."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204049
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.'
@@ -469,7 +387,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-107350
@@ -494,7 +412,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-107351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -514,7 +431,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-107352
@@ -538,7 +455,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-107353
@@ -561,7 +478,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -585,7 +502,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-171689
@@ -607,7 +524,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-175485
@@ -626,7 +543,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-175486
@@ -646,7 +563,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-175487
@@ -672,7 +589,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
     - t-012
 
@@ -703,210 +620,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
-
-- id: c-194486
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 355-356"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355-356."
-  citata_originali: |
-    Tokie kilmingų giminių ponai gyveno Pamedėje. Dus­
-    burgas iš jų mini tris: Pipiną, Masių ir Joną (p. III. C. 7,
-    140, 143). Ši provincija taip pat dalijosi į panašias ap­
-
-    skritis arba valsčius
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210580
-
-- id: c-194583
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
-  citata_originali: |
-    Čia buvo senovinės Grevožės,
-    Probuto ir kitos pilys. Rytuose ji ribojosi su Pagude ir
-    Hokerlandija, pietuose — su Ruimu, vakaruose Vysla
-    skyrė nuo Pamario, o šiaurėje buvo Baltijos jūra. Čia
-    gyvenę žmonės buvo karingi, kupini normaniškos dva­
-    sios; Pamedėje gyveno daug garbingų šeimų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195374
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
-  citata_originali: |
-    257
-    Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
-    ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
-    sėje su svetimais kraštais. Čia buvo senovinės Grevožės,
-    Probuto ir kitos pilys.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201302
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
-  citata_originali: |
-    Moteris, suviliota
-    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
-    Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
-    sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
-    dę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą,
-    vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų
-    gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
-    matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
-    sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201883
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 146"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
-  citata_originali: |
-    Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
-    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė
-    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė į nelaisvę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221968
-
-- id: c-204049
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
-  citata_originali: |
-    vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223689
-
-- id: c-204088
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
-  citata_originali: |
-    Jis žino, jog pamedėnų pilis stovėjusi „toje vietoje,
-    kuri dabar vadinama Senuoju Kristburgu“ (III, 58)
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220690
-
-- id: c-204139
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 58"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
-  citata_originali: |
-    Antra — Pamedė192, kurioje [gyveno] pamedėnai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222575
-
-- id: c-204398
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 139"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
-  citata_originali: |
-    Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222056
-
-- id: c-204952
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 138"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
-  citata_originali: |
-    Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
-    Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
-    didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
-    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
-    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
-    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
-    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius. Šitai sužinoję, prūsai
-    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
-    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
-    ten jis, ilgesnį laiką pasirgęs, galop pagijo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-206046
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 26"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
-  citata_originali: |
-    Retrospektyvinis požiūris į įvykius ryškus tokiuose kronikininko
-    pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221612
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]

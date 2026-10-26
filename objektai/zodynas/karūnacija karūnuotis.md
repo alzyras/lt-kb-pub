@@ -3,21 +3,6 @@ tipas: zodyno_irasas
 pavadinimas: 'karūnacija karūnuotis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-external_sources_json: '[]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T20:51:27+00:00","source_checked_at":"2026-09-20T20:51:27+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci- jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-104171","evidence_id":"c-97127","origin":"internal"},"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0}},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T20:51:27+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: '735f58da937357a0'
-object_page_generated_at: '2026-09-20T20:51:27+00:00'
-object_page_source_checked_at: '2026-09-20T20:51:27+00:00'
-object_page_content_state: 'content'
-object_page_claim_count: '2'
-object_page_source_count: '1'
-description: 'karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau- siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium. karūnacija…'
-socialDescription: 'karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau- siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium. karūnacija karūnuotis: buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci- jos terminą (rugsėjo 8 d.)…'
-object_page_seo_description: 'karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau- siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium. karūnacija…'
-object_page_seo_input_hash: '9e854b45b79e4f571fe7a3eb122509902bf444e55ef484627c8c50a8f8196a82'
-object_page_seo_generated_at: '2026-09-20T20:51:27+00:00'
-object_page_seo_policy_version: 'object-page-policy/v7'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -48,7 +33,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 <a id="claim-t-104168"></a>
 - t-001
   teiginys: "Vytautas paskyrė karūnacijos datą, rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais."
-  atnaujinta: "2026-09-20 23:51"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,7 +50,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 <a id="claim-t-104169"></a>
 - t-002
   teiginys: "Vytautas neketino atsisakyti karūnos ir buvo pasirengęs atvirai kovai su lenkais, tačiau jo karūnacijos pastangas nutraukė mirtis."
-  atnaujinta: "2026-09-20 23:51"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
@@ -74,7 +59,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 <a id="claim-t-104170"></a>
 - t-003
   teiginys: "Imperatorius Zigmantas iškėlė sumanymą karūnuoti Vytautą Lietuvos karaliumi, o Jogaila šiam sumanymui pritarė."
-  atnaujinta: "2026-09-20 23:51"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
@@ -83,7 +68,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 <a id="claim-t-104171"></a>
 - t-004
   teiginys: "Vytautas paskyrė karūnacijos datą rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais."
-  atnaujinta: "2026-09-20 23:51"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
@@ -92,7 +77,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 <a id="claim-t-193147"></a>
 - t-005
   teiginys: "Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium. Sumanymą iškėlė imperatorius Zigmantas."
-  atnaujinta: "2026-09-20 23:51"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,7 +104,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -141,7 +126,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-97129
@@ -162,7 +147,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-175901
@@ -182,6 +167,5 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-

@@ -71,6 +71,5 @@ Vytautas prisiekė paklusnumą popiežiui ir Prūsų Ordino valdžioje paliko sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

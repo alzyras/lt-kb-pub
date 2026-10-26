@@ -81,7 +81,7 @@ Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip krait�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai

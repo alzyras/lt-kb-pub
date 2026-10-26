@@ -78,6 +78,5 @@ Voluinės metraštis pasakoja, kad Lietuvos kunigaikštis Butegeidis ir jo broli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -71,6 +71,5 @@ Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

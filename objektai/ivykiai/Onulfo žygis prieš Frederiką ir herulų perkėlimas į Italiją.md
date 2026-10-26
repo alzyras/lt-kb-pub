@@ -73,6 +73,5 @@ Po šios pergalės Odoakras perkėlė herulus ir senus Noriko gyventojus į Ital
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -93,6 +93,5 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

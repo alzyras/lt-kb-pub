@@ -29,6 +29,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-b7d88e269f283d8e219b321c
+canonical_name: Sankt Peterburgas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sankt Peterburgas
+sameAs: []
+canonical_biography: 'Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – Maskva ir Leningradas.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Sankt Peterburgas","url":"https://lt.wikipedia.org/wiki/Sankt_Peterburgas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Sankt Peterburgas","url":"https://www.vle.lt/straipsnis/sankt-peterburgas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:27:52+00:00","source_checked_at":"2026-09-19T17:27:52+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Sankt Peterburgas (rus. Санкт-Петербург, prieškario Lietuvoje Petrapilis; 1914–1924 m. Petrogradas, 1924–1991 m. Leningradas) – miestas Šiaurės Vakarų Rusijoje, svarbus jūrų uostas; Leningrado srities centras. Įkurtas 1703 m. gegužės 27 d., tarp 1712–1728 m. ir 1732–1918 m. buvo Rusijos imperijos sostinė. Antrasis pagal dydį Rusijos miestas, ketvirtasis pagal dydį Europos miestas ir pats šiauriausias milijoninis miestas. Mieste yra Pulkovo oro uostas, jūrų (prie Suomijos įlankos), upių (prie Nevos žiočių) uostai, 5 Sankt Peterburgo geležinkelio stotys. Išvystyta mašinų pramonė, juodoji ir spalvotoji metalurgija, chemijos, lengvoji, maisto, poligrafijos pramonė. Veikia metropolitenas, išplėtotas tramvajaus, troleibusų ir autobusų transportas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"6713","revision_id":"7906620","status":"published","translation_status":"native","source":{"title":"Sankt Peterburgas","url":"https://lt.wikipedia.org/wiki/Sankt_Peterburgas","publisher":"Vikipedija","language":"lt","article_id":"6713","revision_id":"7906620","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7906620","history_url":"https://lt.wikipedia.org/w/index.php?title=Sankt_Peterburgas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:21:52.122065+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"495681a7dbfc02f08123e2726293e432f7b0d54aec2d009c528f3e4b2034a052","version_pk":"aaf52ebbb77fdbb2193257ea26803a98"}},"source_buttons":[{"label":"Vikipedija","title":"Sankt Peterburgas","url":"https://lt.wikipedia.org/wiki/Sankt_Peterburgas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Sankt Peterburgas","url":"https://www.vle.lt/straipsnis/sankt-peterburgas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Sankt_Peterburgas","https://www.vle.lt/straipsnis/sankt-peterburgas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0c0df22b7f7d001696deda62","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Naudotas kaip vieta padalijimo sutartims pasirašyti 1772 m.","context":"Karolis Zikaras (sud.) aprašo, kad 1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys.","support_ids":["t-192334","c-175133"],"source_refs":[{"kind":"internal_claim","claim_id":"t-192334","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-175133","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"48684fe0430f55742b8ad569","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Naudotas kaip delegacijų siuntimo ir priėmimo vieta 1793 m. bei 1710 m.","context":"Šaltinyje aprašoma, kad 1793 m. delegacija buvo išsiųsta į Sankt Peterburgą, o 1710 m. ten ji atvyko; datos ir kontekstas išlaikomi pagal autoriaus tekstą.","support_ids":["t-208333","c-191008","t-208402","c-190867"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208333","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md"},{"kind":"internal_claim","claim_id":"t-208402","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md"},{"kind":"evidence","evidence_id":"c-191008","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md","quote":"We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń­ skiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga"},{"kind":"evidence","evidence_id":"c-190867","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md","quote":"Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dd1a7ac75044f95afb4a2d7c","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Vieta, į kurią 1831 m. buvo išvežtas senovės paminklas kartu su draugijos muziejumi.","context":"Teodoras Narbutas nurodo, kad 1831 m. senovės paminklas kartu su muziejumi buvo išvežtas į Sankt Peterburgą.","support_ids":["t-214819","c-195875","t-218578","c-201443"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214819","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-218578","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-195875","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"1831 metais tas senovės paminklas kartu su visu draugijos muziejumi 475 buvo išvežtas į Sankt-Peterburgą"},{"kind":"evidence","evidence_id":"c-201443","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"1831 metais tas senovės paminklas kartu su visu drau­ gijos muziejumi buvo išvežtas į Sankt Peterburgą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ef9011e030e1faa8e08e92cd","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Vieta, į kurią originalas tikriausiai pateko.","context":"Teodoras Narbutas vertina neapibrėžtai: originalas buvo Vilniuje ir tikriausiai pateko į Sankt Peterburgą.","support_ids":["t-215363","c-195174"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215363","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195174","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Originalas buvo Vilniuje ir tikriau­ siai pateko į Sankt Peterburgą"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
 object_page_finisher: 'true'
@@ -42,15 +53,6 @@ object_page_seo_description: 'Sankt Peterburgas: Nors pagal mėsos ir pieno pram
 object_page_seo_input_hash: bd9f93323e4848a1516e4e529e812f9f22a006e8d3a5b1a520e97347511c5c19
 object_page_seo_generated_at: '2026-09-19T17:27:52+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-b7d88e269f283d8e219b321c"
-canonical_name: "Sankt Peterburgas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sankt Peterburgas"]
-sameAs: ["https://www.wikidata.org/entity/Q656"]
-canonical_biography: "Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – Maskva ir Leningradas."
-place_authority: true
-historical_names: []
 ---
 # Sankt Peterburgas
 
@@ -137,91 +139,6 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   pagrindžia:
     - c-175524
 
-<a id="claim-t-208333"></a>
-- t-208333
-  teiginys: "We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń skiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga."
-  atnaujinta: "2026-09-23 14:15"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-191008
-
-<a id="claim-t-208402"></a>
-- t-208402
-  teiginys: "Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku."
-  atnaujinta: "2026-09-23 14:15"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-190867
-
-<a id="claim-t-214819"></a>
-- t-214819
-  teiginys: "1831 m. senovės paminklas kartu su Varšuvos Mokslo bičiulių draugijos muziejumi buvo išvežtas į Sankt Peterburgą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195875
-
-<a id="claim-t-215363"></a>
-- t-215363
-  teiginys: "Originalas buvo Vilniuje ir tikriau siai pateko į Sankt Peterburgą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195174
-
-<a id="claim-t-218578"></a>
-- t-218578
-  teiginys: "1831 metais tas senovės paminklas kartu su visu drau gijos muziejumi buvo išvežtas į Sankt Peterburgą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201443
-
-<a id="claim-t-226073"></a>
-- t-226073
-  teiginys: "Kolekcijoje saugomi keli atvaizdai iš Sankt Peterburge veikusios Nawruckio litografijos."
-  atnaujinta: "2026-09-25 02:17"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
-  pagrindžia:
-    - c-206589
-
-<a id="claim-t-226074"></a>
-- t-226074
-  teiginys: "Dvi vienodos Sankt Peterburge išleistos litografijos vaizduoja Mergelę Mariją, apsuptą ne vien scenų iš Mergelės Marijos rožinio slėpinių, bet ir iš Švč. Jėzaus Vardo rožinio dalių."
-  atnaujinta: "2026-09-25 02:17"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
-  vertinimo_atnaujinta: "2026-09-23T18:02:11Z"
-  pagrindžia:
-    - c-206590
-
 ## Citatos
 
 - id: c-175131
@@ -249,7 +166,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-175132
@@ -274,7 +191,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175133
@@ -292,7 +209,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-175524
@@ -315,125 +232,5 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-- id: c-190867
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 71"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 71."
-  citata_originali: |
-    Wpływ na twardą
-    postawę strony rosyjskiej również w tym przypadku miała postawa dyplomacji
-    saskiej, nie wspierającej obu misji na wyraźny rozkaz króla20.
-    W końcowej fazie W ielkiej Wojny Północnej decydujące znaczenie dla
-    ułożenia stosunków Rzeczypospolitej z Rosją m iało poselstwo, o którego
-    wysłaniu zadecydowano na sejmie w Warszawie na przełomie 1718 i 1719 roku.
-    Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku.
-  citata_rodoma: "Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208402
-
-- id: c-191008
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 104"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 104."
-  citata_originali: |
-    Wówczas, stwierdzić możemy, że poszedł do następnej
-    przysięgi, na wierność dla Katarzyny II. Tu jednak zauważmy, że również kwestia
-    postrzegania wagi przysięgi w tym czasie się zmieniała10.
-    We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń­
-    skiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga dla
-    „złożenia hołdu tronowi berła rosyjskiego”11.
-  citata_rodoma: "We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń­\nskiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208333
-
-- id: c-195174
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 490"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
-  citata_originali: |
-    Originalas buvo Vilniuje ir tikriau­
-    siai pateko į Sankt Peterburgą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215363
-
-- id: c-195875
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 484-485"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 484-485."
-  citata_originali: |
-    1831
-    metais tas senovės paminklas kartu su visu draugijos muziejumi
-    475
-
-    buvo išvežtas į Sankt-Peterburgą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214819
-
-- id: c-201443
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
-  citata_originali: |
-    1831 metais tas senovės paminklas kartu su visu drau­
-    gijos muziejumi buvo išvežtas į Sankt Peterburgą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218578
-
-- id: c-206589
-  autorius: "Ieva Bobinaitė"
-  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Adomo Petrausko muziejaus masinės gamybos sieninių religinių paveikslų kolekcija. Uoginių kapinių koplyčios Kryžiaus kelio stotys"
-  puslapiai: "p. 672 (PDF 673)"
-  indeksas: "Ieva Bobinaitė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Adomo Petrausko muziejaus masinės gamybos sieninių religinių paveikslų kolekcija. Uoginių kapinių koplyčios Kryžiaus kelio stotys, p. 672 (PDF 673)."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
-    - t-226073
-
-- id: c-206590
-  autorius: "Ieva Bobinaitė"
-  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Adomo Petrausko muziejaus masinės gamybos sieninių religinių paveikslų kolekcija. Uoginių kapinių koplyčios Kryžiaus kelio stotys"
-  puslapiai: "p. 676 (PDF 677)"
-  indeksas: "Ieva Bobinaitė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Adomo Petrausko muziejaus masinės gamybos sieninių religinių paveikslų kolekcija. Uoginių kapinių koplyčios Kryžiaus kelio stotys, p. 676 (PDF 677)."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
-    - t-226074
-

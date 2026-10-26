@@ -68,6 +68,5 @@ Norvegų riterio Odo žmona buvo rusnėnų karalienė Silkizifė, o Odas valdė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

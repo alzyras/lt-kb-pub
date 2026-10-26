@@ -94,6 +94,5 @@ Pagal Teodoro Narbuto perteiktas 1382 m. Dubysos susitarimo sąlygas, Lietuvos v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

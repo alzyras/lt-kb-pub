@@ -34,6 +34,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-cce10f2bf84478f3b4dd686f
+canonical_name: Pinskas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pinskas
+sameAs: []
+canonical_biography: 'Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Pinskas","url":"https://lt.wikipedia.org/wiki/Pinskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Pinskas","url":"https://www.vle.lt/straipsnis/pinskas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T04:50:51+00:00","source_checked_at":"2026-09-19T04:50:51+00:00","counts":{"relations":4,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Pìnskas (bltr. Пінск, rus. Пинск) – miestas ir upių uostas pietvakarių Baltarusijoje, Polesės žemumose, Bresto srityje, prie Pinos ir Pripetės (Dniepro intakų) upių santakos, 40 km atstumu nuo Dniepro-Bugo kanalo. Nuo Minsko nutolęs 280 km, nuo Vilniaus – 350 km. Geležinkelio stotis, upių uostas. Išvystyta laivybos, chemijos, lengvoji, medienos pramonė. Vienas iš Polesės regiono istorinių ir kultūrinių centrų.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"49217","revision_id":"7883344","status":"published","translation_status":"native","source":{"title":"Pinskas","url":"https://lt.wikipedia.org/wiki/Pinskas","publisher":"Vikipedija","language":"lt","article_id":"49217","revision_id":"7883344","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7883344","history_url":"https://lt.wikipedia.org/w/index.php?title=Pinskas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:56.532644+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"12a36f40c9ba0600b734eedfb8cdab9f67f7dd20623a9edc74bc7137b86eea19","version_pk":"4aa9f9de89df235183ae0f785f2a65df"}},"source_buttons":[{"label":"Vikipedija","title":"Pinskas","url":"https://lt.wikipedia.org/wiki/Pinskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Pinskas","url":"https://www.vle.lt/straipsnis/pinskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Pinskas","https://www.vle.lt/straipsnis/pinskas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Vasilijus Čartoriskis","claim_id":"t-87879","confidence":0.88},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-180412","confidence":0.62},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-180415","confidence":0.98},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Gediminaičiai","claim_id":"t-96101","confidence":0.71}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
 object_page_finisher: 'true'
@@ -47,15 +58,6 @@ object_page_seo_description: 'Pinskas: Mindaugui žuvus, Vaišvilkas buvo Graiki
 object_page_seo_input_hash: 8c8d0ba6ddf2ad3e04ac2ed9652d73f1d7e900fa65824a6cfaf1fbd3efea78d4
 object_page_seo_generated_at: '2026-09-19T04:50:51+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-cce10f2bf84478f3b4dd686f"
-canonical_name: "Pinskas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pinskas"]
-sameAs: ["https://www.wikidata.org/entity/Q204150"]
-canonical_biography: "Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr."
-place_authority: true
-historical_names: []
 ---
 # Pinskas
 
@@ -81,7 +83,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė Pinskas (0.62)"
   pagrindžia:
     - c-164032
-    - c-182510
     - c-186122
 
 <a id="claim-t-180415"></a>
@@ -140,7 +141,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas į aiškų faktą apie Pinsko kunigaikštį."
   pagrindžia:
     - c-164031
-    - c-182508
     - c-186123
 
 <a id="claim-t-180419"></a>
@@ -158,7 +158,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-164036
-    - c-182507
 
 <a id="claim-t-180420"></a>
 - t-006
@@ -276,56 +275,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - c-182512
 
-<a id="claim-t-208049"></a>
-- t-208049
-  teiginys: "Pinsko seimelis 1736-1738 m. ir 1741-1744 m. buvo praktiškai nesužlugdytas."
-  atnaujinta: "2026-09-19 07:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  temporaliniai_duomenys: "įvykio data: 1736-1738; įvykio data: 1738 m.; įvykio data: 1741-1744; įvykio data: 1744 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190667
-
-<a id="claim-t-208050"></a>
-- t-208050
-  teiginys: "Būtent jo pozicija lėmė sėkmingą Pinsko seimelių baigtį."
-  atnaujinta: "2026-09-19 07:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190743
-
-<a id="claim-t-208327"></a>
-- t-208327
-  teiginys: "Pinsko pranciškonų vienuolynas buvo nusiaubtas."
-  atnaujinta: "2026-09-19 07:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-190894
-
-<a id="claim-t-212802"></a>
-- t-212802
-  teiginys: "1276 metais jotvingiai gyveno tarp Dnepro ir Pinsko pelkių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196787
-
 ## Citatos
 
 - id: c-164031
@@ -350,7 +299,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-004
 
@@ -377,7 +326,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-164036
@@ -398,7 +347,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-164037
@@ -419,7 +368,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-164038
@@ -446,7 +395,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-164039
@@ -478,7 +427,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-182504
@@ -498,7 +447,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-182505
@@ -525,7 +474,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-182506
@@ -548,7 +497,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-182507
@@ -570,9 +519,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 - id: c-182508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -595,9 +541,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-    - t-004
 
 - id: c-182510
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -623,9 +568,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-182511
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -656,7 +598,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-182512
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -675,7 +616,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-184449
@@ -699,7 +640,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-185003
@@ -718,7 +659,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-186121
@@ -744,7 +685,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-186122
@@ -770,7 +711,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186123
@@ -794,110 +735,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-- id: c-190667
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 52"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
-  citata_originali: |
-    1754-1762 m. vyko 7 pasiuntinių seimeliai, iš jų 6 buvo sužlugdyti.
-    Augusto III valdymo laikais nebūdingas buvo 1736-1738 m. it 1741-1744 m.
-    Pinsko seimelis, kurio buvo praktiškai neįmanoma sužlugdyti, nes pavieto elitas
-    gerai sutarė su didiku - Lietuvos didžiuoju etmonu ir Vilniaus vaivada Mykolu
-    Višneveckiu.
-  citata_rodoma: "Augusto III valdymo laikais nebūdingas buvo 1736-1738 m. it 1741-1744 m. \nPinsko seimelis, kurio buvo praktiškai neįmanoma sužlugdyti, nes pavieto elitas \ngerai sutarė su didiku - Lietuvos didžiuoju etmonu ir Vilniaus vaivada Mykolu \nVišneveckiu."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208049
-
-- id: c-190743
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 52"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
-  citata_originali: |
-    Augusto III valdymo laikais nebūdingas buvo 1736-1738 m. it 1741-1744 m.
-    Pinsko seimelis, kurio buvo praktiškai neįmanoma sužlugdyti, nes pavieto elitas
-    gerai sutarė su didiku - Lietuvos didžiuoju etmonu ir Vilniaus vaivada Mykolu
-    Višneveckiu. Būtent jo pozicija lėmė sėkmingą Pinsko seimelių baigtį.
-  citata_rodoma: "Būtent jo pozicija lėmė sėkmingą Pinsko seimelių baigtį."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208050
-
-- id: c-190894
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 234"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 234."
-  citata_originali: |
-    Napoleonui grįžtant iš Rusijos jis tapo marodierių ir įvairiausių
-    pabėgėlių priebėga, o pati bažnyčia buvo paversta sandėliu59. Nusiaubto ir ištuštėjusio
-    vienuolyno vaizdas iškyla aprašant Dysnos konvento gvardijono Stepono Čarkovskio
-    mirtį (ti8i3 03 07)60. Nusiaubtas buvo ir Pinsko pranciškonų vienuolynas61.
-    pasiekė Leontijaus Bennigseno vadovaujamas Rusijos kariuomenės dalinys, užklupęs ir sumušęs ten
-    susitelkusių sukilėlių grupę, žr. Powstanie kościuszkowskie 1794.
-  citata_rodoma: "Nusiaubtas buvo ir Pinsko pranciškonų vienuolynas61."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208327
-
-- id: c-193044
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
-  citata_originali: |
-    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
-    GALĄ
-    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
-    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
-    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
-    savo valdovo sūnų didžiai džiaugdamasi.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196787
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 133-134"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133-134."
-  citata_originali: |
-    1276 metais Hipčiakų kanas Mengu-Ti-
-    muras surengė žygį prieš įazigus, jotvingių tautą, kuri
-    •'Lietuvos kronika
-    (rankraštis).
-    P.
-    20—22.
-    136
-
-    gyveno tarp Dnepro ir Pinsko pelkių
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212802
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

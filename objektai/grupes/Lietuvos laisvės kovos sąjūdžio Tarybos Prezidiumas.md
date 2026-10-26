@@ -24,13 +24,14 @@ media_all_json: |-
 
 Lietuvos laisvės kovos sąjūdžio Tarybos Prezidiumas parengė vadovybei skirtą vidaus statutą dėl sričių ir apygardų sudarymo, prie kurio buvo pridėta schema.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213811
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Lietuvos laisvės kovos sąjūdžio Tarybos Prezidiumas parengė vadovybei skirtą vidaus statutą dėl sričių ir apygardų sudarymo, prie kurio buvo pridėta schema.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 345"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 345."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:40"

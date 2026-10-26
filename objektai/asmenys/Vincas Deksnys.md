@@ -7,12 +7,12 @@ datos:
   - '1948 m.'
 date_start: '1948'
 date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,22 +43,23 @@ Vincas Deksnys buvo buvęs Šimonių progimnazijos mokytojas. Vincas Deksnys-Ram
 
 Vincas Deksnys buvo buvęs Šimonių progimnazijos mokytojas. Vincas Deksnys-Ramunis buvo Šarūno rinktinės štabo viršininkas ir žuvo 1948 m. birželio 3 d.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213409
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Vincas Deksnys buvo buvęs Šimonių progimnazijos mokytojas.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 16"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 16."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:38"
-
-- id: c-213410
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-002
+  santrauka: 'Vincas Deksnys-Ramunis buvo Šarūno rinktinės štabo viršininkas ir žuvo 1948 m. birželio 3 d.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 291"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 291."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:38"

@@ -98,7 +98,7 @@ Prie Dnepro gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai kų te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-195790
@@ -120,7 +120,7 @@ Prie Dnepro gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai kų te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-196204
@@ -139,6 +139,5 @@ Prie Dnepro gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai kų te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

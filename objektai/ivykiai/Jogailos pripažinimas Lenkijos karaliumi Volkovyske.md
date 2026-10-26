@@ -74,6 +74,5 @@ Volkovyske Jogaila lenkų tautos vardu buvo pripažintas karaliumi ir būsimuoju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

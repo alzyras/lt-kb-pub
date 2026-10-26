@@ -81,6 +81,5 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

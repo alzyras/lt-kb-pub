@@ -63,6 +63,5 @@ Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

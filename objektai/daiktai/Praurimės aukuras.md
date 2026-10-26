@@ -72,6 +72,5 @@ Mat ant švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki tose v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

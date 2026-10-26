@@ -82,7 +82,7 @@ Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189604
@@ -101,6 +101,5 @@ Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -74,6 +74,5 @@ Iš Lietuvos per Karaliaučių jis išplaukė jūra į Angliją; ten pataikė į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

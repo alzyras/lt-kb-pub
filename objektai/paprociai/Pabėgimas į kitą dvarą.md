@@ -74,6 +74,5 @@ Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

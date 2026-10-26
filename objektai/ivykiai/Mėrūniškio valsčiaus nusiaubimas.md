@@ -69,6 +69,5 @@ Konradas įsiveržė į Mėrūniškio valsčių ir nukovė 18 jo žymių viešpa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

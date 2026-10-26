@@ -76,6 +76,5 @@ Nuo 1580 metų Lydos klebonai pasirašinėjo ir Lydos bei Krupos klebonais.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

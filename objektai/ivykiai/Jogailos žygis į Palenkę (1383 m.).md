@@ -78,6 +78,5 @@ Pasak Teodoro Narbuto, Jogailai rūpėjo kunigaikščio Jonošo užgrobta Vytaut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

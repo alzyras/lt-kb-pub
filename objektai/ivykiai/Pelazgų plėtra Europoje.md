@@ -78,6 +78,5 @@ Narbutas teigia, kad apie 1500 m. pr. Kr. pelazgai davė pradžią dorėnams ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -58,6 +58,5 @@ Mes savo aprašymuose laikomės vidurio tarp visiško nepasitikėjimo senovės p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

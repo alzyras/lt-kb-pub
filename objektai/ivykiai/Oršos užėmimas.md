@@ -74,6 +74,5 @@ Teodoras Narbutas spėja, kad kunigaikštis Jonas Michailovičius, regis kilęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

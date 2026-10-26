@@ -79,6 +79,5 @@ Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

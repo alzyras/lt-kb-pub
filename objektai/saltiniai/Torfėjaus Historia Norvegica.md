@@ -73,6 +73,5 @@ Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniško
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

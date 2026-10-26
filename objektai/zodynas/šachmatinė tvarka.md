@@ -85,7 +85,7 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167108
@@ -115,6 +115,5 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

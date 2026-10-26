@@ -91,6 +91,5 @@ Talkinink킬 kry탑iuo훾i킬 liko tik keletas, tarp j킬 탑uvo tarnaudami senajai T�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrind탑ia:
+  pagrindzia:
     - t-001
-

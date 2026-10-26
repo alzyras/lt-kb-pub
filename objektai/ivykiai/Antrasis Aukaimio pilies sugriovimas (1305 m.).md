@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-223292"></a>
 - t-223292
   teiginys: "Kita brolių kariuomenės dalis nusiaubė Aukaimio apylinkes, o 30 krikščionių žuvo nuo kalavijo."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

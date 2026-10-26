@@ -23,13 +23,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8efcfeeabf3e4000fd1b54dc"
-canonical_name: "Adomas Liudvikas Jucevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Adomas Liudvikas Jucevičius"]
+entity_id: ent-8efcfeeabf3e4000fd1b54dc
+canonical_name: Adomas Liudvikas Jucevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Adomas Liudvikas Jucevičius
 sameAs: []
-canonical_biography: "Jucevičiaus - tyrinėjimai nesukėlė tokio didelio istoriko entuziazmo. Narbutas parankiniame egzemplioriuje citavo Jucevičiaus monografijas Lietuvių liaudies priežodžiai, Žemaitijos atsiminimai ir Lietuva."
+canonical_biography: 'Jucevičiaus - tyrinėjimai nesukėlė tokio didelio istoriko entuziazmo. Narbutas parankiniame egzemplioriuje citavo Jucevičiaus monografijas Lietuvių liaudies priežodžiai, Žemaitijos atsiminimai ir Lietuva.'
 ---
 # Adomas Liudvikas Jucevičius
 
@@ -84,7 +86,7 @@ Jucevičiaus - tyrinėjimai nesukėlė tokio didelio istoriko entuziazmo. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200826
@@ -104,6 +106,5 @@ Jucevičiaus - tyrinėjimai nesukėlė tokio didelio istoriko entuziazmo. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

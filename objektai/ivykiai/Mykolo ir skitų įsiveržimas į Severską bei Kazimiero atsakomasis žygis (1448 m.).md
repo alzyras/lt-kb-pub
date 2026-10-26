@@ -47,23 +47,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-196228"></a>
-- t-002
-  teiginys: "Po skitų įsiveržimo lenkai ir lietuviai pradėjo įtarinėti karalių: lenkai kalbėjo apie slaptus susitarimus, o lietuviai kaltino jį neapdairumu."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169116
-
 <a id="claim-t-185755"></a>
-- t-185755
+- t-001
   teiginys: "1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,6 +66,19 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1448 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie įvykį."
+  pagrindžia:
+    - c-169116
+
+<a id="claim-t-196228"></a>
+- t-002
+  teiginys: "Po skitų įsiveržimo lenkai ir lietuviai pradėjo įtarinėti karalių: lenkai kalbėjo apie slaptus susitarimus, o lietuviai kaltino jį neapdairumu."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169116
 
@@ -114,7 +114,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-    - t-185755
-

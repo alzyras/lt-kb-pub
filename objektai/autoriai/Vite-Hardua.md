@@ -81,6 +81,5 @@ Narbutas rašo, kad Vite-Hardua pats kovojo, vedė derybas ir puotavo su variaga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

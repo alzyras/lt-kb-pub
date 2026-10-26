@@ -23,13 +23,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-9a5f510d38681387fc24154d"
-canonical_name: "Ignotas Jonas Hanušas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Ignotas Jonas Hanušas"]
+entity_id: ent-9a5f510d38681387fc24154d
+canonical_name: Ignotas Jonas Hanušas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Ignotas Jonas Hanušas
 sameAs: []
-canonical_biography: "Ignotas Jonas Hanušas parašė lyginamąją slavų, lietuvių, prūsų, indų ir persų mitologijos studiją."
+canonical_biography: 'Ignotas Jonas Hanušas parašė lyginamąją slavų, lietuvių, prūsų, indų ir persų mitologijos studiją.'
 ---
 # Ignotas Jonas Hanušas
 
@@ -86,6 +89,5 @@ Ignotas Jonas Hanušas parašė lyginamąją slavų, lietuvių, prūsų, indų i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

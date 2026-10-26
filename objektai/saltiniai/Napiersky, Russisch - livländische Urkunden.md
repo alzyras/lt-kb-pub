@@ -72,6 +72,5 @@ Nap. = Napiersky, K, E., Russisch - livländische Urkunden.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

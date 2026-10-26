@@ -95,6 +95,5 @@ Teodoras Narbutas aprašo paprotį, kai netikėtai mirusių žmonių tėvai ar g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

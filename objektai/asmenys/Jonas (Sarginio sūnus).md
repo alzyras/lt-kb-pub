@@ -36,20 +36,10 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 
 ## Teiginiai
 
-<a id="claim-t-220990"></a>
-- t-220990
-  teiginys: "Jonas (Sarginio sūnus) ne kartą buvo su ašaromis viešpaties prašęs."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-224595"></a>
-- t-224595
+<a id="claim-t-60343"></a>
+- t-001
   teiginys: "Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Jonas (Sarginio sūnus): 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -60,6 +50,8 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Belichovo pilis priklausė Jonui, Sarginio sūnui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Belichovas priklausė Jonas (Sarginio sūnus) (0.92)"
+  pagrindžia:
+    - c-60975
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,6 +91,8 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Belichovas]]

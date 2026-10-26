@@ -44,17 +44,17 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
 
 ## Teiginiai
 
-<a id="claim-t-215590"></a>
-- t-215590
-  teiginys: "Jurgis Plioteris turėjo keletą auksinių monetų."
-  atnaujinta: "2026-09-13 21:47"
+<a id="claim-t-197410"></a>
+- t-001
+  teiginys: "Jurgis Plioteris buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
+  atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-194797
+    - c-173050
 
 ## Citatos
 
@@ -81,63 +81,5 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-194797
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 481"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 481."
-  citata_originali: |
-    Amžiną atilsį Raseinių maršalka Jurgis Plioteris tu­
-    rėjo keletą tokių auksinių monetų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215590
-
-- id: c-198500
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
-  citata_originali: |
-    Apie jį dar esama padavimo, kad jis buvęs gar­
-    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
-    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
-    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
-    keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
-    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
-    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
-    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
-    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
-    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
-    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
-    sūnus, iš Petro.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-215065
-  autorius: "Teodoras Narbutas"
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  puslapiai: "PDF 219"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
-  citata_originali: |
-    Amžiną atilsį Raseinių maršalka Jurgis Plioteris
-    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
-    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
-    autorius, man rašytame laiške (Raseiniai. - 1836.IV19)*.
-  citata_rodoma: "Amžiną atilsį Raseinių maršalka Jurgis Plioteris \nturėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio \nautorius, man rašytame laiške (Raseiniai. - 1836.IV19)*."
-  statusas: verified
-  atnaujinta: "2026-09-30 03:10"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

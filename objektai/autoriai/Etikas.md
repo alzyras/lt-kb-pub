@@ -74,25 +74,5 @@ Narbutas rašo, kad Ksaveras Bogušas lietuvių genčių priskyrimą estams grin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-196254
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 89"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
-  citata_originali: |
-    Taigi ir lietuvių gentys, gyvenusios šiose že­
-    mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
-    šas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­
-    fija“1, tačiau privalome plačiau aprašyti estus.
-    78
-    Padavimai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

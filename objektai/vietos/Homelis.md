@@ -43,6 +43,21 @@ historical_names: []
 
 Apie 1447 m. Švitrigaila iš Kazimiero gavo Homelį ir, tikėtina, Turovą.
 
+## Teiginiai
+
+<a id="claim-t-194047"></a>
+- t-001
+  teiginys: "Apie 1447 m. Švitrigaila iš Kazimiero gavo Homelį ir, tikėtina, Turovą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176660
+
 ## Citatos
 
 - id: c-176660
@@ -57,4 +72,5 @@ Apie 1447 m. Švitrigaila iš Kazimiero gavo Homelį ir, tikėtina, Turovą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

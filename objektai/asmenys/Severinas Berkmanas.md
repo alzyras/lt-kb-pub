@@ -70,6 +70,5 @@ canonical_biography: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiek�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

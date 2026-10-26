@@ -57,6 +57,5 @@ Ir siunčia kunigaikštis Mykoliukas Voložino kuni gaikščius į Merkinę su p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

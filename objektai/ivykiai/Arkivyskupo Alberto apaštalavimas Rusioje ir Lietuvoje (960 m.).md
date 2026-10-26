@@ -114,7 +114,7 @@ Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me tais Konstantinopol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188070
@@ -135,6 +135,5 @@ Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me tais Konstantinopol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

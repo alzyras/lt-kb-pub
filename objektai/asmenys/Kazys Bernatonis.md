@@ -43,31 +43,14 @@ Kazys Bernatonis, slapyvardžiu Putinas, legalizavosi 1951 m. gruodžio 14 d.
 
 Kazys Bernatonis, slapyvardžiu Putinas, legalizavosi 1951 m. gruodžio 14 d.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-232083"></a>
-- t-001
-  teiginys: "Kazys Bernatonis, slapyvardžiu Putinas, legalizavosi 1951 m. gruodžio 14 d."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  pagrindžia:
-    - c-212721
-
-## Citatos
-
-- id: c-212721
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Kazys Bernatonis, slapyvardžiu Putinas, legalizavosi 1951 m. gruodžio 14 d.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 407"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 407."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-001
-

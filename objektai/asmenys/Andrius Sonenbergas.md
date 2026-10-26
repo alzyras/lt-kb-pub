@@ -69,6 +69,5 @@ Teodoro Narbuto cituojamo rankraščio teigimu, Andrius Sonenbergas, Austrijoje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

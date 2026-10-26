@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8fce9aa4ca6467eb64c11173"
-canonical_name: "Serkel (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Serkel","Serkel (vieta)"]
+entity_id: ent-8fce9aa4ca6467eb64c11173
+canonical_name: Serkel (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Serkel
+  - Serkel (vieta)
 sameAs: []
-canonical_biography: "Serkel, Biala wieza, Biata wies ir Bieloserkal reiškia tą patį miestą."
-place_authority: true
-historical_names: []
+canonical_biography: 'Serkel, Biala wieza, Biata wies ir Bieloserkal reiškia tą patį miestą.'
 ---
 # Serkel (vieta)
 
@@ -75,6 +76,5 @@ Serkel, Biala wieza, Biata wies ir Bieloserkal reiškia tą patį miestą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

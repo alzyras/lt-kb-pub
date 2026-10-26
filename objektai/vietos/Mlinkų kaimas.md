@@ -92,6 +92,5 @@ Narbutas rašo, kad Mlinkų kaimas privilegijoje buvo dovanotas mainais už Grau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

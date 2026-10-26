@@ -81,7 +81,7 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-185054
@@ -97,6 +97,5 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -66,6 +66,5 @@ Justinas imperatoriui pagoniui Antoninui Pijui (138–161) rašė: [D]ieną, vad
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 20:29"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

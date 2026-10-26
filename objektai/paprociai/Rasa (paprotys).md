@@ -76,6 +76,5 @@ O iš tikrųjų ši šventė prasidė davo naktį prieš birželio 24 dieną, ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

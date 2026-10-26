@@ -53,9 +53,9 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 ## Teiginiai
 
 <a id="claim-t-195626"></a>
-- t-195626
+- t-001
   teiginys: "Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -84,8 +84,8 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195626
+  pagrindzia:
+    - t-001
 
 - id: c-178029
   autorius: "M. Katkus"
@@ -107,4 +107,3 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-

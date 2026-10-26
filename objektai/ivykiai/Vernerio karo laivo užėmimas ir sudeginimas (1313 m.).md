@@ -68,10 +68,10 @@ Nenurodyta
   pagrindžia:
     - c-60079
 
-<a id="claim-t-225824"></a>
-- t-225824
+<a id="claim-t-59448"></a>
+- t-002
   teiginys: "1313 m. lietuvių karalius pasiuntė Surminą su šimtu laivų, šešiais šimtais ar daugiau vyrų ir šimtu raitelių sunaikinti Ordino karo laivo."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "dalyvavo_musyje -> Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,6 +85,8 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1313 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas."
+  pagrindžia:
+    - c-60079
 
 ## Citatos
 
@@ -109,6 +111,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
+    - t-002

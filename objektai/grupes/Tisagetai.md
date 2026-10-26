@@ -50,22 +50,10 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   pagrindžia:
     - c-175732
 
-<a id="claim-t-213427"></a>
-- t-213427
-  teiginys: "Tai padariusi, kariuomenė žygiavo pirmyn, vyda ma skitus per visą kraštą į dykumą, kurios ilgis buvo septynios dienos kelio; kitapus gyveno tisagetai."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195542
-
-<a id="claim-t-214592"></a>
-- t-214592
+<a id="claim-t-192963"></a>
+- t-002
   teiginys: "Narbutas rašo, kad tisagetai maistui ir gėrimui vartojo kumelių pieną, galbūt sekdami budinais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,7 +68,7 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-196712
+    - c-175733
 
 ## Citatos
 
@@ -104,7 +92,7 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175733
@@ -127,68 +115,5 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195542
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 392"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 392."
-  citata_originali: |
-    Tai padariusi, kariuomenė žygiavo pirmyn, vyda­
-    ma skitus per visą kraštą į dykumą, kurios ilgis buvo
-    septynios dienos kelio; kitapus gyveno tisagetai
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213427
-
-- id: c-196580
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 73"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
-  citata_originali: |
-    Šiuo atžvilgiu mes žinome daugiau ne­
-    gu romėnai, kurie manė, jog gelonai gyvenę toliausiai į
-    šiaurę1. Vis dėlto Herodotas turėjo daugiau žinių apie
-    romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę
-    nuo gelonų ir budinu krašto plyti septynių dienų kelio
-    dykra, o už jos gyvena tisagetai. Naujausių ir tiksliau­
-    sių šios graikų istoriko geografijos paaiškinimų pateikė
-    generolas Baturlinas, aprašydamas Darijaus žygį prieš
-    Skitiją2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196712
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
-  citata_originali: |
-    Juos matydavo vaikščiojant beveik nuogus,
-    galbūt norinčius parodyti gražų kūno sudėjimą, kurį jiems
-    davė prigimtis ir kuriuo jie pranoko kitus žmones, o gal
-    norėdami pademonstruoti įvairių spalvų ir simbolinių fi­
-    gūrų piešinius3. Maistui ir gėrimui, gal sekdami budi-
-    nais, vartojo kumelių pieną. Tą sveiką gyvulinės kilmės
-    produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
-    suomet labai vertino ir dabar tebevertina šiaurės rytų
-    gyventojai.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214592
-
+  pagrindzia:
+    - t-002

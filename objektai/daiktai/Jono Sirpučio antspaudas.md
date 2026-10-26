@@ -78,6 +78,5 @@ Antspaudo viršuje yra lotyniškos D raidės pavidalo figūrėlė, o šonuose �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

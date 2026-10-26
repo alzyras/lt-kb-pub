@@ -110,7 +110,7 @@ Tai gi su Vestardu patraukė per penkiasdešimt vyrų, gink luotų lankais ir ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-187896
@@ -131,6 +131,5 @@ Tai gi su Vestardu patraukė per penkiasdešimt vyrų, gink luotų lankais ir ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

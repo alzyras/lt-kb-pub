@@ -72,6 +72,5 @@ canonical_biography: "1627 m. Kauno suolininkas Martynas Slaveckis skundėsi Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -172,12 +172,11 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     tus, galbūt tariamąjį Palemoną su
     draugais - į Lietuvą.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-78599
@@ -210,7 +209,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-78600
@@ -255,7 +254,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-004
 
@@ -283,7 +282,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-187931
@@ -305,6 +304,5 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-

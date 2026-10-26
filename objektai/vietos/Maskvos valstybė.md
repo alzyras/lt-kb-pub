@@ -76,6 +76,5 @@ Eustachijus Daškovičius, kaltintas valdovo išdavyste, prieš 1504 m. Brastos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

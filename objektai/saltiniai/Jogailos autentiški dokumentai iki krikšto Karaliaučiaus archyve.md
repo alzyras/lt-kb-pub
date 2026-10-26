@@ -68,6 +68,5 @@ Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

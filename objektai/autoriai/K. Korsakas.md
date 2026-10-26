@@ -65,10 +65,10 @@ Korsako ir J.
   pagrindžia:
     - c-169802
 
-<a id="claim-t-210659"></a>
-- t-210659
+<a id="claim-t-186447"></a>
+- t-002
   teiginys: "K. Korsakas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos pirmininkas."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> A. Venclova: 0.83"
@@ -82,6 +82,8 @@ Korsako ir J.
   temporaliniai_duomenys: "įvykio data: 1971 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia, kad K. Korsakas sąraše nurodytas redakcinės komisijos pirmininku."
+  pagrindžia:
+    - c-169797
 
 ## Citatos
 
@@ -102,6 +104,8 @@ Korsako ir J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-169802
   autorius: "Zenonas Ivinskis"
@@ -129,6 +133,5 @@ Korsako ir J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

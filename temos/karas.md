@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 389
+tema_objektu_skaicius: 382
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 389.
+Objektų skaičius: 382.
 
 ## Kaip naudoti
 
@@ -26,8 +26,6 @@ Objektų skaičius: 389.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
-- [[objektai/asmenys/Antanas Starkus-Montė]]
 - [[objektai/asmenys/Hugonas Butyras]]
 - [[objektai/asmenys/Konradas Štangė]]
 - [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys)]]
@@ -35,10 +33,6 @@ Objektų skaičius: 389.
 
 ### Autoriai
 - [[objektai/autoriai/J. I. Kraševskis]]
-
-### Grupės
-- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
-- [[objektai/grupes/Rusijos kariuomenė]]
 
 ### Papročiai
 - [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
@@ -49,7 +43,6 @@ Objektų skaičius: 389.
 
 ### Vietos
 - [[objektai/vietos/Lvovas]]
-- [[objektai/vietos/Pagiriai]]
 - [[objektai/vietos/Pagraudė]]
 - [[objektai/vietos/Veližas]]
 
@@ -63,11 +56,11 @@ Objektų skaičius: 389.
 - [[objektai/ivykiai/Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.)]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
-- [Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)](../objektai/ivykiai/Amerikos%20lietuvi%C5%B3%20seimas%20Niujorke%20%281918%20m.%20kovo%2013%E2%80%9314%20d.%29)
-- [ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)](../objektai/ivykiai/ANBO%20IV%20l%C4%97ktuv%C5%B3%20grup%C4%97s%20skrydis%20per%20Europos%20sostines%20%281934%20m.%29)
-- [Antrasis karas su Maskva (1512–1522 m.)](../objektai/ivykiai/Antrasis%20karas%20su%20Maskva%20%281512%E2%80%931522%20m.%29)
-- [Antrasis Panevėžio puolimas](../objektai/ivykiai/Antrasis%20Panev%C4%97%C5%BEio%20puolimas)
-- [ATR karai su Švedija XVII a](../objektai/ivykiai/ATR%20karai%20su%20%C5%A0vedija%20XVII%20a)
+- [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]
+- [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]
+- [[objektai/ivykiai/Antrasis karas su Maskva (1512–1522 m.)]]
+- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
+- [[objektai/ivykiai/ATR karai su Švedija XVII a]]
 - [Augustavo-Suvalkų operacija](../objektai/ivykiai/Augustavo-Suvalk%C5%B3%20operacija)
 - [Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)](../objektai/ivykiai/Augustavo-Suvalk%C5%B3%20operacija%20%281920%20m.%20rugs%C4%97jo%2022%20d.%20%E2%80%93%20rugs%C4%97jo%20pabaiga%29)
 - [Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)](../objektai/ivykiai/Auk%C5%A1%C4%8Diausiosios%20Tarybos%20r%C5%ABm%C5%B3%20gynyba%20%281991%20m.%20sausis%E2%80%93rugpj%C5%ABtis%29)
@@ -425,7 +418,3 @@ Objektų skaičius: 389.
 - [Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)](../objektai/ivykiai/%C5%BDyd%C5%B3%20%C5%BEudyn%C4%97s%20Kauno%20VII%20forte%20%281941%20m.%20liepos%204%20ir%206%20d.%29)
 - [Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos](../objektai/ivykiai/%C5%BDygis%20prie%C5%A1%20varmius%2C%20notangus%20ir%20bartus%20ir%20broli%C5%B3%20%C5%BE%C5%ABtis%20prie%20b%C5%ABsimos%20Baigos)
 - [Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)](../objektai/ivykiai/%C5%BDygis%20%C4%AF%20Pagud%C4%99%20ir%20Elbingo%20pilies%20pastatymas%20%281237%20m.%29)
-
-### Žodynas
-- [destalinizacija atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20at%C5%A1ilimo%20laikotarpis)
-- [destalinizacija postalininis metas atšilimo laikotarpis](../objektai/zodynas/destalinizacija%20postalininis%20metas%20at%C5%A1ilimo%20laikotarpis)

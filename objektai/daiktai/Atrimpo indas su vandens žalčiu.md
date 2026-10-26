@@ -70,6 +70,5 @@ Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur na, pripildyta vanden
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

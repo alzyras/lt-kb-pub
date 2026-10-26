@@ -66,6 +66,5 @@ Sužinojau, kad dalykas yra sugrą žinime tą 1000 markią.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

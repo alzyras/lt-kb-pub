@@ -43,22 +43,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-197240"></a>
-- t-002
-  teiginys: "Dėl savo interesų jie laikė žmones baimėje ir, da rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių - tą baisųjį dievą, kurio šiurpus vaizdas ir nepaprastas žiaurumas prisidėjo prie daugelio apgavysčių."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179081
-
-<a id="claim-t-219247"></a>
-- t-219247
+<a id="claim-t-189733"></a>
+- t-001
   teiginys: "Narbutas rašė, kad aukojant požemio dievams apeigiškai užkasdavo aukojamus dalykus ir sudaužytus molinius indus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -72,6 +60,20 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Moliniai indai požemio dievų aukai\" parinktas kaip owner_note_path. Targetas \"Indai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172616
+
+<a id="claim-t-197240"></a>
+- t-002
+  teiginys: "Dėl savo interesų jie laikė žmones baimėje ir, da rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių - tą baisųjį dievą, kurio šiurpus vaizdas ir nepaprastas žiaurumas prisidėjo prie daugelio apgavysčių."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179081
 
 ## Citatos
 
@@ -98,6 +100,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-179081
   autorius: "Teodoras Narbutas"
@@ -118,27 +122,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-198700
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 315."
-  citata_originali: |
-    Dėl savo interesų jie laikė žmones baimėje ir, da­
-    rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių - tą
-    baisųjį dievą, kurio šiurpus vaizdas ir nepaprastas žiaurumas
-    prisidėjo prie daugelio apgavysčių. Beje, baisiausia buvo Po­
-    klių pamatyti kieno nors namuose - tai reiškė aiškią dievų rūs­
-    tybę. Tokiu atveju namų savininkas tikriausiai ne su tuščiomis
-    rankomis skubėdavo pas artimiausią žynį, kuris atnašaudavo
-    permaldavimo auką.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

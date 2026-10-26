@@ -14,13 +14,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-0da0d338eee9ee8c3273948a"
-canonical_name: "Jonas Ramas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Jonas Ramas"]
+entity_id: ent-0da0d338eee9ee8c3273948a
+canonical_name: Jonas Ramas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Jonas Ramas
 sameAs: []
-canonical_biography: "O Jonas Ramas, priešingai, net ir Ulisą veda j šiau rinę jūrą, taip pat Hasė argonautus prie Baltijos pa krančių <...>."
+canonical_biography: 'O Jonas Ramas, priešingai, net ir Ulisą veda j šiau rinę jūrą, taip pat Hasė argonautus prie Baltijos pa krančių <...>.'
 ---
 # Jonas Ramas
 
@@ -63,6 +66,5 @@ O Jonas Ramas, priešingai, net ir Ulisą veda j šiau rinę jūrą, taip pat Ha
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

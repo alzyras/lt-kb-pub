@@ -187,7 +187,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-55890
@@ -227,12 +227,11 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     kitos to paties mūsų siuvėjo Tomo namo pusės nuo seno
     tuščiame sklype panašiai savo lėšomis pastatėme.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-003
 
@@ -257,7 +256,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-005
 
@@ -308,6 +307,5 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-

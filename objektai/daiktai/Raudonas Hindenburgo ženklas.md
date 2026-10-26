@@ -70,6 +70,5 @@ Nuog ma nęs reikalauta raudono nuog Hindenburgo žen klo, kurio aš neturėjau.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

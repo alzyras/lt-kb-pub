@@ -49,7 +49,7 @@ Skandinavų-gotų gentys iš Vyslos žemupio ir šiauriau esančių kraštų jud
 <a id="claim-t-212690"></a>
 - t-001
   teiginys: "Skandinavų-gotų gentys iš Vyslos žemupio ir šiauriau esančių kraštų judėjo į pietus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

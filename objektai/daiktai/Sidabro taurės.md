@@ -80,6 +80,5 @@ Garbingų vaišių stalą, pasak Teodoro Narbuto, puošė didelės sidabro taur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

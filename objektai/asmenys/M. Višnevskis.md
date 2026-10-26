@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-08e48e832b1497b9f1af4138"
-canonical_name: "M. Višnevskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["M. Višnevskis"]
+entity_id: ent-08e48e832b1497b9f1af4138
+canonical_name: M. Višnevskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - M. Višnevskis
 sameAs: []
-canonical_biography: "Višnevskis apie lietuvių kalbą išmano ge riau negu kitas kuris lietuvis."
+canonical_biography: Višnevskis apie lietuvių kalbą išmano ge riau negu kitas kuris lietuvis.
 ---
 # M. Višnevskis
 
@@ -66,6 +68,5 @@ Višnevskis apie lietuvių kalbą išmano ge riau negu kitas kuris lietuvis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

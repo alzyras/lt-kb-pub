@@ -97,6 +97,5 @@ Tuoj pat užklupo kairiajame Osos krante plė šikaujančią gaują, nuvijo ją 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -24,6 +24,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-a22ffbb82e11f235343edc0b
+canonical_name: Egiptas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Egiptas
+sameAs: []
+canonical_biography: 'Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė tapo jo antrąja tėvyne. Narbutas kolchų ryšius su egiptiečiais sieja su prielaida, kad kolchai išėjo į Egiptą. Narbutas rašo, kad egiptiečiai gintarą žinojo Sacal vardu.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Egiptas","url":"https://lt.wikipedia.org/wiki/Egiptas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Egiptas","url":"https://www.vle.lt/straipsnis/egiptas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:15:14+00:00","source_checked_at":"2026-09-20T13:15:14+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Egiptas (arab. مِصر‎ = Miṣr; oficialiai Egipto Arabų Respublika, arab. جمهورية مصر العربية = Jumhūrīyat Miṣr al-ʿArabīyah) – valstybė šiaurės rytų Afrikoje ir pietvakarių Azijos Sinajaus pusiasalyje. Vakaruose ribojasi su Libija, pietuose – su Sudanu, šiaurės rytuose – su Izraeliu ir Palestinos Gazos Ruožu. Šiaurėje Egiptas prieina prie Viduržemio jūros, rytuose – prie Raudonosios jūros. Šalies sostinė ir didžiausias miestas – Kairas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"2931","revision_id":"7866437","status":"published","translation_status":"native","source":{"title":"Egiptas","url":"https://lt.wikipedia.org/wiki/Egiptas","publisher":"Vikipedija","language":"lt","article_id":"2931","revision_id":"7866437","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7866437","history_url":"https://lt.wikipedia.org/w/index.php?title=Egiptas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:06.697635+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"b2d004efbd1fc8c30efef1b484dcba9f2f0c4025993039c2774f1932f9823efa","version_pk":"4af96faed9ba16bf696810950368b178"}},"source_buttons":[{"label":"Vikipedija","title":"Egiptas","url":"https://lt.wikipedia.org/wiki/Egiptas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Egiptas","url":"https://www.vle.lt/straipsnis/egiptas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Egiptas","https://www.vle.lt/straipsnis/egiptas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -37,15 +48,6 @@ object_page_seo_description: 'Egiptas: Narbutas liną siejo su laukiniu augimu E
 object_page_seo_input_hash: 372fb98356d0cecf0662a91ad5bef46099ff7844b4b85bd8b6eb767c2c8c62b3
 object_page_seo_generated_at: '2026-09-20T13:15:14+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-a22ffbb82e11f235343edc0b"
-canonical_name: "Egiptas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Egiptas"]
-sameAs: ["https://www.wikidata.org/entity/Q79"]
-canonical_biography: "Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė tapo jo antrąja tėvyne. Narbutas kolchų ryšius su egiptiečiais sieja su prielaida, kad kolchai išėjo į Egiptą. Narbutas rašo, kad egiptiečiai gintarą žinojo Sacal vardu."
-place_authority: true
-historical_names: []
 ---
 # Egiptas
 
@@ -95,42 +97,6 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   pagrindžia:
     - c-175425
 
-<a id="claim-t-212340"></a>
-- t-212340
-  teiginys: "Apolonas ir Diana į Graikiją, Ozyris į Egiptą atvyko neva iš Siaurės."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195452
-
-<a id="claim-t-216557"></a>
-- t-216557
-  teiginys: "Egiptiečiai, giliai nugrimz dę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie dangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė jo asmenų, laikytų nemirtingais, dievinimą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198918
-
-<a id="claim-t-218904"></a>
-- t-218904
-  teiginys: "Iš šio seno egiptiečių prasimanymo kyla išvada, kad jie pirmieji ėmė daryti alų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198454
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas kolchų ryšius su egiptiečiais sieja su prielaida, kad kolchai išėjo į Egiptą.'
@@ -173,7 +139,7 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-175425
@@ -195,101 +161,5 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-194968
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
-  citata_originali: |
-    Seniau į
-    daugelį vaistų būdavo dedama skysto gintaro medžiagų,
-    eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
-    dai ir kinai; pas mus jis dedamas į lakus.
-    154
-    Gintaras žinomas labai seniai, jis visada buvo laiko­
-    mas brangenybe. Egiptiečiai žinojo jį Sacal vardu2; Pli-
-    1 Kotzebue.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195452
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 35"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
-  citata_originali: |
-    Apolonas ir Diana į Graikiją, Ozyris į Egiptą
-    atvyko neva iš Siaurės.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212340
-
-- id: c-198454
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 307"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
-  citata_originali: |
-    Iš šio seno egiptiečių prasimanymo kyla išvada, kad
-    jie pirmieji ėmė daryti alų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218904
-
-- id: c-198918
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 82."
-  citata_originali: |
-    Egiptiečiai, giliai nugrimz­
-    dę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie
-    dangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­
-    jo asmenų, laikytų nemirtingais, dievinimą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216557
-
-- id: c-199303
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
-  citata_originali: |
-    Apie tai
-    žiūrėk straipsnyje „Vaižganto šventė“.
-    Linų ūkis Lietuvoje yra žilos senovės paminklas. Atrodo,
-    šis vertingiausias augalas, kaip jį pavadino Linėjus , kaip lau­
-    kinis augąs Egipte, antrąja savo tėvyne pasirinko Lietuvos že­
-    mę, kurioje gimsta daug kilnesnis negu kur nors kitur; taip pat
-    mokėjimas juos puoselėti ir auginti siekia tolimiausias lietu­
-    vių tautos epochas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

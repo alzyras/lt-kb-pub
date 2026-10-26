@@ -78,6 +78,5 @@ canonical_biography: "1792 m. Ignoto Želazovskio žmonės užpuolė Rydzevskio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

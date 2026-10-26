@@ -108,7 +108,7 @@ canonical_biography: "1776 m. Mykolas Aleksandravičius buvo Šv. Jono bažnyči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186510
@@ -127,6 +127,5 @@ canonical_biography: "1776 m. Mykolas Aleksandravičius buvo Šv. Jono bažnyči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

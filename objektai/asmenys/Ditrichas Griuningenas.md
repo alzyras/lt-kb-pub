@@ -74,6 +74,5 @@ Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

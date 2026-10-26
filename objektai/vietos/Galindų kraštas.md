@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8bf5e154249ecf328e0fb627"
-canonical_name: "Galindų kraštas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Galindų kraštas"]
+entity_id: ent-8bf5e154249ecf328e0fb627
+canonical_name: Galindų kraštas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Galindų kraštas
 sameAs: []
-canonical_biography: "Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti. O jų šalį užpuolė supykdyti kaimynai ir taip nu niokojo, kad Galinda daugeliui metų paliko beveik negyve nama."
-place_authority: true
-historical_names: []
+canonical_biography: 'Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti. O jų šalį užpuolė supykdyti kaimynai ir taip nu niokojo, kad Galinda daugeliui metų paliko beveik negyve nama.'
 ---
 # Galindų kraštas
 
@@ -77,7 +77,7 @@ Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200620
@@ -96,6 +96,5 @@ Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

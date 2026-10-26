@@ -65,6 +65,5 @@ Si provincija taip pat dalijosi į mažas apskritis, ku rios, kaip ir Pamedėje,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

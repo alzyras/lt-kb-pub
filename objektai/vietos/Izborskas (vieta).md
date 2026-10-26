@@ -85,7 +85,7 @@ Rugpjūčio 2-ąją prie Mekužicos upės susidūręs būrys buvo sumuštas, net
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189233
@@ -107,6 +107,5 @@ Rugpjūčio 2-ąją prie Mekužicos upės susidūręs būrys buvo sumuštas, net
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

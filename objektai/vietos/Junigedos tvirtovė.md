@@ -87,7 +87,7 @@ Priėję Junigedos tvirtovę, kryžiuočiai jos nepaėmė ir sudegino tik priemi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188467
@@ -112,6 +112,5 @@ Priėję Junigedos tvirtovę, kryžiuočiai jos nepaėmė ir sudegino tik priemi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

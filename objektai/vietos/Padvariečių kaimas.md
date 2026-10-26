@@ -7,10 +7,10 @@ datos:
   - '1925 m.'
 date_start: '1925'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,8 +30,6 @@ entity_view_role: "place"
 entity_aliases: ["Padvariečių kaimas"]
 sameAs: []
 canonical_biography: "Stasys Kripaitis gimė 1925 m. Padvariečių kaime, Vabalninko valsčiuje."
-place_authority: true
-historical_names: []
 ---
 # Padvariečių kaimas
 
@@ -39,13 +37,14 @@ historical_names: []
 
 Partizanas Stasys Kripaitis gimė 1925 m. Padvariečių kaime, Vabalninko valsčiuje.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214852
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Partizanas Stasys Kripaitis gimė 1925 m. Padvariečių kaime, Vabalninko valsčiuje.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 156"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 156."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:45"

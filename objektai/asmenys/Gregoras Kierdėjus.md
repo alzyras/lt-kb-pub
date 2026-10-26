@@ -80,6 +80,5 @@ canonical_biography: "Šį norą dar labiau sustiprino Vilniuje gauta žinia, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

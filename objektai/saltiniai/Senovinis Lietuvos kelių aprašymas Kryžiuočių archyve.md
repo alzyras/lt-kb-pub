@@ -72,6 +72,5 @@ Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

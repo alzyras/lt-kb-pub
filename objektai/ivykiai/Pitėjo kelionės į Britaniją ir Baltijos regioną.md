@@ -68,6 +68,5 @@ Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

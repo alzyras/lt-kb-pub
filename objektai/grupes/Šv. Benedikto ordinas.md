@@ -98,7 +98,7 @@ Benedikto ordiną. 1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188157
@@ -115,6 +115,5 @@ Benedikto ordiną. 1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

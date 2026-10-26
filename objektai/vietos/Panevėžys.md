@@ -33,6 +33,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-8be9500628e80d0b0ef7fbca
+canonical_name: Panevėžys
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Panevėžys
+sameAs: []
+canonical_biography: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Panevėžys","url":"https://lt.wikipedia.org/wiki/Panev%C4%97%C5%BEys","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Panevėžys","url":"https://www.vle.lt/straipsnis/panevezys/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:38:06+00:00","source_checked_at":"2026-09-19T22:38:06+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Panevėžys – šiaurės Lietuvos miestas, išsidėstęs abipus Nevėžio, Vidurio Lietuvos žemumoje, 136 km į šiaurės vakarus nuo Vilniaus. Penktasis pagal dydį Lietuvos miestas, Panevėžio rajono savivaldybės ir Panevėžio seniūnijos centras. Galinė Panevėžio–Rubikių siauruko stotis (Panevėžio geležinkelio stotis). Yra Panevėžio vyskupija, įvairių tikėjimų bažnyčių, cerkvių, veikia 7 pašto skyriai (centrinis LT-35001).","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"885","revision_id":"7912095","status":"published","translation_status":"native","source":{"title":"Panevėžys","url":"https://lt.wikipedia.org/wiki/Panev%C4%97%C5%BEys","publisher":"Vikipedija","language":"lt","article_id":"885","revision_id":"7912095","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7912095","history_url":"https://lt.wikipedia.org/w/index.php?title=Panev%C4%97%C5%BEys&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:48.376366+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"db757fa44c224901a275f77d903277f66d457e687b7ee45ff5145835b84dcf3c","version_pk":"56e108c516fbb7ca0f3f3e8ebf53ef60"}},"source_buttons":[{"label":"Vikipedija","title":"Panevėžys","url":"https://lt.wikipedia.org/wiki/Panev%C4%97%C5%BEys","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Panevėžys","url":"https://www.vle.lt/straipsnis/panevezys/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Panev%C4%97%C5%BEys","https://www.vle.lt/straipsnis/panevezys/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"affe5236f245a514bf4bbe5f","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Panevėžyje buvo įkurta pijarų mokykla.","context":"Nurodyta A. Šapokos redaguotoje 1936 m. „Lietuvos istorijoje“.","support_ids":["t-183069","c-166460"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183069","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-166460","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui- tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie- tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va- leranavoj, Vitebske, Želviuose ir dar vienur kitur. #### 6."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1560 m.","label":"1560 m.","claimId":"t-201653"},{"date":"1860 m.","label":"1860 m.","claimId":"t-208580"},{"date":"1919 m.","label":"1919 m.","claimId":"t-182774"}],"support_disclosure":{"claims":6,"sources":4}}'
 object_page_finisher: 'true'
@@ -46,15 +57,6 @@ object_page_seo_description: 'Panevėžys: Pijarų mokyklos — vienur pilnos ko
 object_page_seo_input_hash: 89fa0c0789778626d8de6477d151d143f00ef392956564d7261803c53b655a40
 object_page_seo_generated_at: '2026-09-19T22:38:06+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-8be9500628e80d0b0ef7fbca"
-canonical_name: "Panevėžys"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Panevėžys"]
-sameAs: ["https://www.wikidata.org/entity/Q1719466"]
-canonical_biography: "Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
-place_authority: true
-historical_names: []
 ---
 # Panevėžys
 
@@ -156,34 +158,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - c-185001
 
-<a id="claim-t-208580"></a>
-- t-208580
-  teiginys: "1860 m. lapkričio 24 d. vyskupas Motiejus Valančius prie padėkos rašto Panevėžio dekanui pažymėjo, kad išleistos naujos žemaitiškos knygos, tarp jų – liaudžiai skirtas katekizmas, kurias reikėtų platinti."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:49Z"
-  pagrindžia:
-    - c-191200
-
-<a id="claim-t-226060"></a>
-- t-226060
-  teiginys: "2016 m. liepos 16 d. Panevėžio Kristaus Karaliaus katedroje vyko vyskupo Lino Vodopjanovo ingreso iškilmės."
-  atnaujinta: "2026-09-25 02:17"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
-  temporaliniai_duomenys: "įvykio data: 2016 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai užbaigtas ir perteikia citatoje nurodytą ingreso datą, vietą bei vyskupo vardą. Papildomų faktų nepridėta."
-  pagrindžia:
-    - c-206576
-
 ## Citatos
 
 - id: c-43725
@@ -210,7 +184,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166186
@@ -232,7 +206,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-166460
@@ -255,7 +229,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-167012
@@ -275,7 +249,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-185000
@@ -291,7 +265,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-185001
@@ -310,60 +284,5 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-191200
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 109"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 109."
-  citata_originali: |
-    Antai
-    prie 1860.XI.24 padėkos rašto Panevėžio dekanui ganyto­
-    jas pridėjo pastabą, kad yra išėję iš spaudos naujų že­
-    maitiškų knygų, tarp jų katekizmas liaudžiai, kurias reik­
-    tų platinti.
-  citata_rodoma: "Antai \nprie 1860.XI.24 padėkos rašto Panevėžio dekanui ganyto­\njas pridėjo pastabą, kad yra išėję iš spaudos naujų že­\nmaitiškų knygų, tarp jų katekizmas liaudžiai, kurias reik­\ntų platinti"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208580
-
-- id: c-191201
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 214"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 214."
-  citata_originali: |
-    Argi nežinot, jogiai kožnas, išplė­
-    šius ar pavagiąs svetimą naudą, tol negali būti išgany­
-    tas, kol nesugrąžins, ką išplėšė ar pavogė.
-    Važiuodamas kiaurai per vyskupystę, aplankiau visus
-    kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­
-    šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir
-    Kaune daugybę uždarytų per nelaimes, vaikų savo.
-  citata_rodoma: "Važiuodamas kiaurai per vyskupystę, aplankiau visus \nkalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­\nšiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir \nKaune daugybę uždarytų per nelaimes, vaikų savo."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-206576
-  autorius: "Aldona Vasiliauskienė"
-  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija"
-  puslapiai: "p. 535 (PDF 536)"
-  indeksas: "Aldona Vasiliauskienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija, p. 535 (PDF 536)."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
-    - t-226060
-

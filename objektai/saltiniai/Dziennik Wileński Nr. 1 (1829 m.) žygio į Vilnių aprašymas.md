@@ -81,6 +81,5 @@ Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

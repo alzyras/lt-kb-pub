@@ -80,6 +80,5 @@ Jie garbino didžiulius akmenis, kuriuos vadino Atmeszenes Viete, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

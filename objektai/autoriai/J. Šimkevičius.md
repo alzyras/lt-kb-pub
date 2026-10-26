@@ -14,13 +14,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8f5b9c22c9cd26c14afff564"
-canonical_name: "J. Šimkevičius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["J. Šimkevičius"]
+entity_id: ent-8f5b9c22c9cd26c14afff564
+canonical_name: J. Šimkevičius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - J. Šimkevičius
 sameAs: []
-canonical_biography: "Šimkevičius šį Ernesto Augusto ediktą įdėjo savo knygon, matyt, neatsitiktinai. J. Šimkevičius knygoje siūlė vietoj degtinės tobulinti alaus gaminimą. J. Šimkevičius XIX a. antrajame dešimtmetyje rašė apie kunigo Legovičiaus apšviestus ir išblaivintus parapijiečius."
+canonical_biography: 'Šimkevičius šį Ernesto Augusto ediktą įdėjo savo knygon, matyt, neatsitiktinai. J. Šimkevičius knygoje siūlė vietoj degtinės tobulinti alaus gaminimą. J. Šimkevičius XIX a. antrajame dešimtmetyje rašė apie kunigo Legovičiaus apšviestus ir išblaivintus parapijiečius.'
 ---
 # J. Šimkevičius
 
@@ -50,7 +53,7 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191952
@@ -78,7 +81,7 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-191985
@@ -95,9 +98,8 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
 ## Teiginiai
 
 <a id="claim-t-209250"></a>

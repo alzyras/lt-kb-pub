@@ -79,6 +79,5 @@ Livonijos magistras su dviem daliniais įsiveržė į Lietuvos Rusią nuo Dauguv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

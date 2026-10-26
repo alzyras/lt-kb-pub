@@ -71,6 +71,5 @@ Strijkovskis neabejotinai taiso šios vietos prieštaravimus ar rašiusiojo klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

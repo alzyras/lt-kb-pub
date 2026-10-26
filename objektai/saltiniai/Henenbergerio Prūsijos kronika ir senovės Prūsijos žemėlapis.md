@@ -114,7 +114,6 @@ Teodoro Narbuto teigimu, XV a. prūsų kronikininkas Henenbergeris nurodė nebee
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

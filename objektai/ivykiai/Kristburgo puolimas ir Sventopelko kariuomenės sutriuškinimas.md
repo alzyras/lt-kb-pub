@@ -62,7 +62,7 @@ Pastačius Kristburgo pilį, prūsai, naujakrikščiai ir Sventopelkas nutarė j
 <a id="claim-t-225437"></a>
 - t-001
   teiginys: "Pastačius Kristburgo pilį, prūsai, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

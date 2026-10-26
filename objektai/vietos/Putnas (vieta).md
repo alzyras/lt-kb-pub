@@ -25,15 +25,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-d7000cbd71c112a2e42d7116"
-canonical_name: "Putnas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Putnas","Putnas (vieta)"]
+entity_id: ent-d7000cbd71c112a2e42d7116
+canonical_name: Putnas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Putnas
+  - Putnas (vieta)
 sameAs: []
-canonical_biography: "Putnas buvo tvirtovinio tipo vienuolynas šiaurės Rumunijoje, įsteigtas Moldavijos vaivados Stepono Didžiojo."
-place_authority: true
-historical_names: []
+canonical_biography: 'Putnas buvo tvirtovinio tipo vienuolynas šiaurės Rumunijoje, įsteigtas Moldavijos vaivados Stepono Didžiojo.'
 ---
 # Putnas (vieta)
 
@@ -81,6 +82,5 @@ Putnas buvo tvirtovinio tipo vienuolynas šiaurės Rumunijoje, įsteigtas Moldav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

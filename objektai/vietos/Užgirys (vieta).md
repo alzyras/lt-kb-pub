@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-3fb0b7a2604c82bdea03bd20"
-canonical_name: "Užgirys (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Užgirys","Užgirys (vieta)"]
+entity_id: ent-3fb0b7a2604c82bdea03bd20
+canonical_name: Užgirys (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Užgirys
+  - Užgirys (vieta)
 sameAs: []
-canonical_biography: "Vis dėlto yra tokių vietų, ypač Žemaitijoje, Užgiryjet t."
-place_authority: true
-historical_names: []
+canonical_biography: 'Vis dėlto yra tokių vietų, ypač Žemaitijoje, Užgiryjet t.'
 ---
 # Užgirys (vieta)
 
@@ -72,6 +73,5 @@ Vis dėlto yra tokių vietų, ypač Žemaitijoje, Užgiryjet t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

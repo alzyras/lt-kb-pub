@@ -74,17 +74,6 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   pagrindžia:
     - c-177658
 
-<a id="claim-t-195294"></a>
-- t-195294
-  teiginys: "Napaliukas klausinėjo apie atlygį už Baltro pagalbą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177656
-    - c-177657
-
 ## Citatos
 
 - id: c-177656
@@ -108,9 +97,8 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-    - t-195294
 
 - id: c-177657
   autorius: "M. Katkus"
@@ -131,9 +119,6 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195294
-
 - id: c-177658
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -156,6 +141,5 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

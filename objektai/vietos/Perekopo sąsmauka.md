@@ -101,7 +101,6 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

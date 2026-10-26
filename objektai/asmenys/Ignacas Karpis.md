@@ -104,7 +104,7 @@ canonical_biography: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186321
@@ -125,7 +125,7 @@ canonical_biography: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186322
@@ -151,6 +151,5 @@ canonical_biography: "1808 m. vasario 29 d. Ignacas Karpis testamentu atleido ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

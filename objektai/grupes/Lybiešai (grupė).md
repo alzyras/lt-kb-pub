@@ -72,6 +72,5 @@ Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

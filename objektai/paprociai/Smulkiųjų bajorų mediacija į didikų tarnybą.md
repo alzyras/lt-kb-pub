@@ -98,7 +98,7 @@ XV a. antroje pusėje Lietuvos Didžiosios Kunigaikštystės kilmingųjų pasaul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186662
@@ -123,6 +123,5 @@ XV a. antroje pusėje Lietuvos Didžiosios Kunigaikštystės kilmingųjų pasaul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

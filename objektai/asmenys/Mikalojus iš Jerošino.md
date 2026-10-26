@@ -64,10 +64,10 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
     - c-60803
     - c-167500
 
-<a id="claim-t-224833"></a>
-- t-224833
+<a id="claim-t-60172"></a>
+- t-002
   teiginys: "XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,6 +80,8 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   temporaliniai_duomenys: "įvykio data: 1335 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1341 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis, gramatiškas ir tiksliai paremtas citata."
+  pagrindžia:
+    - c-60804
 
 ## Citatos
 
@@ -101,7 +103,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-60804
@@ -121,6 +123,8 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-167500
   autorius: "Petras Dusburgietis"
@@ -137,43 +141,5 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-202342
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
-  citata_originali: |
-    Tačiau lotyniškai
-    parašyta Dusburgiečio kronika nebuvo prieinama eiliniams Ordino broliams, ją reikėjo
-    išversti į vokiečių kalbą. Kiek vėliau tai padarė Mikalojus iš Jerošino. Manoma, kad lotynų
-    kalba parašyta Dusburgiečio kronika tarsi tam tikras traktatas buvo visų pirma skirta
-    gerai lotynų kalbą mokančiai aukštajai krikščioniškai dvasininkijai, pradedant pačiu
-    popiežiumi ir baigiant žymiausiųjų Europos valdovų kanceliarijų vedėjais bei patarėjais,
-    67  PKD, s.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203250
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
-  citata_originali: |
-    Kita vertus, jis rašė istorinį pasakojimą, paremtą didele jo sukaupta rašytine ir žodine
-    Ordino tradicija, siekė šią tradiciją perduoti ateities kartoms (Dedikacija). Tačiau lotyniškai
-    parašyta Dusburgiečio kronika nebuvo prieinama eiliniams Ordino broliams, ją reikėjo
-    išversti į vokiečių kalbą. Kiek vėliau tai padarė Mikalojus iš Jerošino.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

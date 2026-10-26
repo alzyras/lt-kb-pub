@@ -81,6 +81,5 @@ Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

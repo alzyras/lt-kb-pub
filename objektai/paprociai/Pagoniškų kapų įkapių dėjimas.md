@@ -75,6 +75,5 @@ Visuomet pagoniškose kapavietėse randamas koks nors geležinis daiktas, padėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

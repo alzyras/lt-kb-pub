@@ -72,6 +72,5 @@ Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

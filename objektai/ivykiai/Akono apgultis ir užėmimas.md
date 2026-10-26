@@ -85,6 +85,5 @@ Dusburgietis pasakoja, kad 1190 m. krikščionys, apsiautę Akono miestą, jį a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

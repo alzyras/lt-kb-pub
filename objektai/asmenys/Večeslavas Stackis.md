@@ -74,6 +74,5 @@ Chelmno vyskupas ignoravo nevienkartinius Večeslavo Stackio prašymus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

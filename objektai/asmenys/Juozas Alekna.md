@@ -2,7 +2,8 @@
 tipas: asmuo
 pavadinimas: 'Juozas Alekna'
 saltiniai:
-  - 'Kupiškis. Naujausi moksliniai lokaliniai tyrimai'
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
+  - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -29,7 +30,7 @@ canonical_biography: "Juozas Alekna iš Terpeikių kaimo paaukojo Palėvenės ba
 
 ## Santrauka
 
-Nenurodyta
+Artėjant frontui, 1944 m. liepą buvę policininkai susirinko Subačiaus policijos pastate, kur Juozas Alekna pasiūlė jiems stoti į Lietuvos kariuomenę ir tęsti kovą su sovietinės armijos daliniais.
 
 ## Reikšmingi paminėjimai
 
@@ -37,7 +38,15 @@ Nenurodyta
   santrauka: 'Juozas Alekna iš Terpeikių kaimo buvo parapijos geradaris ir paaukojo naują baltą arnotą.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 237 (PDF 238)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 237 (PDF 238)."
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Artėjant frontui, 1944 m. liepą buvę policininkai susirinko Subačiaus policijos pastate, kur Juozas Alekna pasiūlė jiems stoti į Lietuvos kariuomenę ir tęsti kovą su sovietinės armijos daliniais.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 30"
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

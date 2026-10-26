@@ -91,7 +91,7 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-44316
@@ -117,6 +117,5 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

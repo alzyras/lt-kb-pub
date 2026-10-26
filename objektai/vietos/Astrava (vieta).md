@@ -94,6 +94,5 @@ Teodoras Narbutas pasakoja, kad Astravoje Vytautas susitiko su karališkąja por
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

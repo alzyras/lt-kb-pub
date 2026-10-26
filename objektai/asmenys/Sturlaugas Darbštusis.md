@@ -57,16 +57,6 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
   pagrindžia:
     - c-174354
 
-<a id="claim-t-212806"></a>
-- t-212806
-  teiginys: "Vėliau Sturlaugas išleido Ingigerdą už Flamoro ir kaip kraitį davė apylinkes bei Rusios uostą Aldejaborgą."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-
 ## Citatos
 
 - id: c-174354
@@ -92,6 +82,5 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

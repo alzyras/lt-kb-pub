@@ -95,6 +95,5 @@ Pasak Narbuto, svečio priėmimą pradėdavo namų šeimininkė, paduodama jam v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

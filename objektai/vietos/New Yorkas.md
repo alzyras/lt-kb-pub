@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-afbbd42127d4846d088a4f07"
-canonical_name: "New Yorkas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["New Yorkas"]
+entity_id: ent-afbbd42127d4846d088a4f07
+canonical_name: New Yorkas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - New Yorkas
 sameAs: []
-canonical_biography: "Ir kada toji šalis pabus, dūmo jau sau, vaikščiodamas po New-Yorko gatves, trindamas sušalusias ausis."
-place_authority: true
-historical_names: []
+canonical_biography: 'Ir kada toji šalis pabus, dūmo jau sau, vaikščiodamas po New-Yorko gatves, trindamas sušalusias ausis.'
 ---
 # New Yorkas
 
@@ -64,6 +64,5 @@ Ir kada toji šalis pabus, dūmo jau sau, vaikščiodamas po New-Yorko gatves, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

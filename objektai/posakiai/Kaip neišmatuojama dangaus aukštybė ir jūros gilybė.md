@@ -56,6 +56,5 @@ Kaip neišma tuojama dangaus aukštybė ir jūros gilybė, taip neap sakoma ir t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

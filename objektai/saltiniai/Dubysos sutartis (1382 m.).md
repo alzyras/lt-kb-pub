@@ -94,7 +94,7 @@ Teodoras Narbutas nurodo, kad Dubysos sutartimi Lietuvos didysis kunigaikštis k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-189656
@@ -114,6 +114,5 @@ Teodoras Narbutas nurodo, kad Dubysos sutartimi Lietuvos didysis kunigaikštis k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

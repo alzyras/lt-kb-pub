@@ -78,6 +78,5 @@ canonical_biography: "1586 m. Ramygalos turguje Jurijaus Juknevičiaus pavaldiny
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

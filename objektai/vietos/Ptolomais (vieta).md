@@ -85,6 +85,5 @@ Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

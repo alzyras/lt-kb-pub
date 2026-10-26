@@ -94,7 +94,7 @@ canonical_biography: "[manu proprio - savo ranka] Eustachijus Valavičius, Vilni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184867
@@ -113,6 +113,5 @@ canonical_biography: "[manu proprio - savo ranka] Eustachijus Valavičius, Vilni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -84,6 +84,5 @@ Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

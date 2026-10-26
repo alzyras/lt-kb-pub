@@ -70,6 +70,5 @@ Kad ši pilis būsianti sugriauta, iš anksto rodė tam tikros pranašystės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

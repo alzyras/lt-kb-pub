@@ -96,19 +96,6 @@ Jį valdė Vilniaus generalgubernatorius.
   pagrindžia:
     - c-46900
 
-<a id="claim-t-208462"></a>
-- t-208462
-  teiginys: "Generalgubernatorius ne visada sutikdavo su vyskupo Motiejaus Valančiaus nuomone, tačiau kai kuriais atvejais vyskupas laimėdavo, o valdžios globojamus kunigus prižiūrėdavo griežčiau."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:52Z"
-  pagrindžia:
-    - c-191082
-
 ## Citatos
 
 - id: c-46900
@@ -127,7 +114,7 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-48497
@@ -146,7 +133,7 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-48499
@@ -170,7 +157,7 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166819
@@ -191,25 +178,5 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-191082
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 82"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 82."
-  citata_originali: |
-    Žinoma, ne visada generalgubernatorius sutik­
-    davo su jo nuomone, bet kartais ir vyskupas laimėdavo,
-    be to, valdžios globojamus kunigus vysk. M. Valančius
-    griežčiau prižiūrėdavo3.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208462
-

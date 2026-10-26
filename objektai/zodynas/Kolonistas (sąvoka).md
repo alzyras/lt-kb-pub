@@ -62,6 +62,5 @@ Teodoriko žygyje į Italiją kartu su kariais keliavo įvairūs kolonistai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

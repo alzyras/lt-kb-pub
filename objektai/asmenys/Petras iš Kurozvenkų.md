@@ -43,22 +43,10 @@ Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lie
 
 ## Teiginiai
 
-<a id="claim-t-217335"></a>
-- t-217335
-  teiginys: "Narbutas teigia, kad Petras supirkinėjo senus pinigus, auksą parduodavo į Olandiją, o sidabrą perkaldindavo į lenkiškus pinigus."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199089
-
-<a id="claim-t-216627"></a>
-- t-216627
+<a id="claim-t-190110"></a>
+- t-001
   teiginys: "Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lietuvoje, dėl perkūnų perkalimo pramintą Perkūnu iš Kurozvenkų."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -72,6 +60,8 @@ Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lie
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras iš Kurozvenkų\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172993
 
 ## Citatos
 
@@ -97,26 +87,5 @@ Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-199089
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 246."
-  citata_originali: |
-    Jo sūnus Petras, tos privilegijos paveldėtojas,
-    buvo pinigų pirklys. Mat tais laikais bajorai, susidėję su žy­
-    dais, spekuliavo pinigais, ypač lietuviškais. Tasai Petras buvo
-    nepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­
-    nigus, ypač perkūnus: auksą parduodavo į Olandiją, o baltąjį
-    sidabrą perkaldindavo į lenkiškus pinigus, tad buvo pramintas
-    Perkūnu iš Kurozvenkų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217335
-
+  pagrindzia:
+    - t-001

@@ -25,15 +25,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-6d6e676420d91487a5566e4b"
-canonical_name: "Cholinas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Cholinas","Cholinas (vieta)"]
+entity_id: ent-6d6e676420d91487a5566e4b
+canonical_name: Cholinas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Cholinas
+  - Cholinas (vieta)
 sameAs: []
-canonical_biography: "Cholinas — dabar Lenkijos Liublino vaivadijos miestas Cheltn."
-place_authority: true
-historical_names: []
+canonical_biography: Cholinas — dabar Lenkijos Liublino vaivadijos miestas Cheltn.
 ---
 # Cholinas (vieta)
 
@@ -76,6 +77,5 @@ Cholinas — dabar Lenkijos Liublino vaivadijos miestas Cheltn.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

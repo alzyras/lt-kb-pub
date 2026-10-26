@@ -19,6 +19,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-dc80ae1660fbf0ba3ff5875a
+canonical_name: Šiaurės Europa
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šiaurės Europa
+sameAs: []
+canonical_biography: 'Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Šiaurės Europa","url":"https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Europa","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:15:00+00:00","source_checked_at":"2026-09-20T04:15:00+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Šiaurės Europa – šiaurinė Europos žemyno dalis.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"224829","revision_id":"7494035","status":"published","translation_status":"native","source":{"title":"Šiaurės Europa","url":"https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Europa","publisher":"Vikipedija","language":"lt","article_id":"224829","revision_id":"7494035","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7494035","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%A0iaur%C4%97s_Europa&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:45.130366+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"f913f494e47e25c4676bb758bcb593c8afdd37cdd7fdbb11b608eec2eed9a020","version_pk":"22b0994576fe7ae5d2c80bb57798c8a6"}},"source_buttons":[{"label":"Vikipedija","title":"Šiaurės Europa","url":"https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Europa","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Europa"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
 object_page_finisher: 'true'
@@ -32,15 +43,6 @@ object_page_seo_description: 'Šiaurės Europa: Protestantizmas lėmė, kad vien
 object_page_seo_input_hash: cc9881e90eaafd35d5086c868337d127f059977df6a07e7ba69f191e5168f804
 object_page_seo_generated_at: '2026-09-20T04:15:00+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-dc80ae1660fbf0ba3ff5875a"
-canonical_name: "Šiaurės Europa"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šiaurės Europa"]
-sameAs: ["https://www.wikidata.org/entity/Q27479"]
-canonical_biography: "Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a."
-place_authority: true
-historical_names: []
 ---
 # Šiaurės Europa
 
@@ -122,30 +124,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   pagrindžia:
     - c-175559
 
-<a id="claim-t-215796"></a>
-- t-215796
-  teiginys: "Siaurės Europoje ilgai užsitęsęs lai mingai ištobulėjusio pietuose rašto nepažinimas, karai, sumaištys, dar pragaištingesni gaisrai, religijų ir civili nių organizacijų kaita greta visuotinės tamsos nugramz dino mūsų tėvynės praeitį į neperžvelgiamą debesį."
-  atnaujinta: "2026-09-20 07:15"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194400
-
-<a id="claim-t-215888"></a>
-- t-215888
-  teiginys: "Be jokios abejonės, ne tik patys seniausi, bet ir paskutiniai stab meldžiai Siaurės Europoje buvo samojedai:."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195212
-
 ## Citatos
 
 - id: c-24625
@@ -170,7 +148,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -196,7 +174,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-175559
@@ -219,70 +197,5 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-- id: c-194400
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 28"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
-  citata_originali: |
-    O ir tas, kuris susipažino su priešistorinės seno­
-    vės epochomis, apiplėštomis įvairių senienų epochomis,
-    ko kito galėtų geisti? Siaurės Europoje ilgai užsitęsęs lai­
-    mingai ištobulėjusio pietuose rašto nepažinimas, karai,
-    sumaištys, dar pragaištingesni gaisrai, religijų ir civili­
-    nių organizacijų kaita greta visuotinės tamsos nugramz­
-    dino mūsų tėvynės praeitį į neperžvelgiamą debesį. Ant­
-    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
-    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215796
-
-- id: c-195212
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 477"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 477."
-  citata_originali: |
-    Be jokios abejonės, ne tik patys seniausi, bet ir paskutiniai stab­
-    meldžiai Siaurės Europoje buvo samojedai:
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215888
-
-- id: c-200895
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 308"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 308."
-  citata_originali: |
-    Čia kalbama apie baltą gėrimą, kuris gali būti arba kume­
-    lių pienas, arba fermentuotas jo gaminys, kuris, kaip pamaty­
-    sime toliau, antrajame tome, buvo mėgstamas senovės lietu­
-    vių gėrimas; arba tas Alus, galintis taip vadintis dėl šviesios
-    spalvos, arba pagaliau liepų midus, kadangi seniau lietuvių
-    kraštai visur garsėjo midumi; ypač liepinis buvo geras Kauno
-    apylinkėse, kol didžiulius tenykščius liepynus sunaikino šalį
-    ištikusi suirutė. Naujoji Edą 20-ojoje giesmėje taip pat mini
-    midų, kaip mėgstamą dievų gėrimą. Kaip ir alus, midus įeida­
-    vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­
-    vilizuotose tautose buvo beveik toks pat.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

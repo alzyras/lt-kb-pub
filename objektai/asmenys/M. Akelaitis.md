@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-aa089de8b6db332ca2635166"
-canonical_name: "M. Akelaitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["M. Akelaitis"]
+entity_id: ent-aa089de8b6db332ca2635166
+canonical_name: M. Akelaitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - M. Akelaitis
 sameAs: []
-canonical_biography: "M. Akelaitis kartu su S. Daukantu svarstė „Pakeleivingo“ projektą."
+canonical_biography: M. Akelaitis kartu su S. Daukantu svarstė „Pakeleivingo“ projektą.
 ---
 # M. Akelaitis
 
@@ -65,7 +67,7 @@ M. Akelaitis kartu su S. Daukantu svarstė „Pakeleivingo“ projektą.
 <a id="claim-t-209285"></a>
 - t-001
   teiginys: "M. Akelaitis kartu su S. Daukantu svarstė „Pakeleivingo“ projektą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 19:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

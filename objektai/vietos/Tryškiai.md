@@ -87,6 +87,5 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

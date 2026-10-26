@@ -82,6 +82,5 @@ Didysis magistras pasuko į Svilonių ir Satijų valsčius, kur, Narbuto pasakoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -67,7 +67,7 @@ Teodoras Narbutas baigė versti Migelio Servanteso „Don Kichotą“. Narbutas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-201497
@@ -84,6 +84,5 @@ Teodoras Narbutas baigė versti Migelio Servanteso „Don Kichotą“. Narbutas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

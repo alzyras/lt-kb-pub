@@ -68,6 +68,5 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

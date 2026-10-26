@@ -40,6 +40,23 @@ media_primary_json: '{"mediaId":"m-d4d245e3433fc9da07cdadcd","title":"Koenigsber
 media_direct_json: '[{"mediaId":"m-fe60e45fe17af35387980c3a","title":"6. Koenigsberg. (IA dr 6-koenigsberg-7929008).jpg","caption":"XIX a. Karaliaučiaus apylinkių žemėlapis.","originalTitle":"6. Koenigsberg. (IA dr 6-koenigsberg-7929008).jpg","creator":"Scheda, Josef Bruckl, F. Haselwander Scheda, Josef Ritter (1915-1888)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : dr_6-koenigsberg-7929008 https://archive.org/download/dr_6-koenigsberg-7929008/7929008.jpg","dateDisplay":"2026-06-17 16:51:38","dateStart":null,"dateEnd":null,"width":1536,"height":1386,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A6._Koenigsberg._%28IA_dr_6-koenigsberg-7929008%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/6._Koenigsberg._%28IA_dr_6-koenigsberg-7929008%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/6._Koenigsberg._%28IA_dr_6-koenigsberg-7929008%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/6._Koenigsberg._%28IA_dr_6-koenigsberg-7929008%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Books uploaded by Fæ","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"David Rumsey Historical Map Collection","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.110585+03:00","reviewedAt":"2026-07-31T05:52:59.263098+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus istorinis žemėlapis su aiškiu užrašu „Königsberg“ ir miesto bei apylinkių geografija.","metadataEvidence":"Pavadinime tiesiogiai nurodyta Koenigsberg; aprašyme nurodytas istorinis žemėlapis.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Karaliaučiaus istorinis žemėlapis.","isPrimary":1},{"mediaId":"m-c3d9e852f40e78d853a901c5","title":"Bridges of Konigsberg.png","caption":"Karaliaučiaus žemėlapis su pažymėtais tiltais.","originalTitle":"Bridges of Konigsberg.png","creator":"Twotwos","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work based on: Konigsberg bridges.png . This file was derived from: Image-Koenigsberg, Map by Merian-Erben 1652.jpg","dateDisplay":"2025-09-17","dateStart":null,"dateEnd":null,"width":628,"height":437,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABridges_of_Konigsberg.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Bridges_of_Konigsberg.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Bridges_of_Konigsberg.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Bridges_of_Konigsberg.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"upė","label":"upė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.111758+03:00","reviewedAt":"2026-07-31T05:52:59.279964+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas miesto planas su pažymėta upe, miesto salomis ir tiltais.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta Königsberg; aprašytas Septynių tiltų žemėlapis.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Karaliaučiaus miesto žemėlapis.","isPrimary":0},{"mediaId":"m-abd0ce1ccc189a4419cb089d","title":"Fort Friedrichsburg.jpg","caption":"Karaliaučiaus Frydrichsburgo forto istorinis planas.","originalTitle":"Fort Friedrichsburg.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Cornelius Kutschke : Königsberg als Hafenstadt . Königsberg 1930, S. 13.","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1282,"height":845,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFort_Friedrichsburg.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Fort_Friedrichsburg.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Fort_Friedrichsburg.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Fort_Friedrichsburg.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Citadels","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pregolya River","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.116135+03:00","reviewedAt":"2026-07-31T05:52:59.282806+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas įtvirtintas Fort Friedrichsburg kompleksas prie Pregelio upės.","metadataEvidence":"Aprašyme tiesiogiai nurodytas senasis Königsbergas ir Fort Friedrichsburg.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto dalies ir forto planas.","isPrimary":0},{"mediaId":"m-1d176e8800e763e9246eb73e","title":"Image-Koenigsberg, Map by Merian-Erben 1652.jpg","caption":"Karaliaučiaus istorinis miesto planas, apie 1651 m.","originalTitle":"Image-Koenigsberg, Map by Merian-Erben 1652.jpg","creator":"Merian-Erben","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.preussen-chronik.de/_/bild_jsp/key=bild_kathe2.html","dateDisplay":"Public domain Public domain false false This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author''s life plus 100 years or fewer . You must also include a United States public domain tag to indicate why this work is in the public domain in the United States. This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. https://creativecommons.org/publicdomain/mark/1.0/ PDM Creative Commons Public Domain Mark 1.0 false false","dateStart":null,"dateEnd":null,"width":628,"height":437,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AImage-Koenigsberg%2C_Map_by_Merian-Erben_1652.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Image-Koenigsberg%2C_Map_by_Merian-Erben_1652.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Image-Koenigsberg%2C_Map_by_Merian-Erben_1652.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Image-Koenigsberg%2C_Map_by_Merian-Erben_1652.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1651 in Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1651 maps of Europe","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 1650s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.110307+03:00","reviewedAt":"2026-07-31T05:52:59.269875+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinė miesto panorama ir planas su antrašte „Koningsberga“.","metadataEvidence":"Pavadinime nurodyta Königsberg, aprašyme – 1651 m. Karaliaučius.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto atvaizdas.","isPrimary":0},{"mediaId":"m-2a92d5ddfbfbb59b70280a01","title":"Koenigsberg Strassenbahn.jpg","caption":"Karaliaučiaus tramvajaus tinklo žemėlapis, 1939 m.","originalTitle":"Koenigsberg Strassenbahn.jpg","creator":"Hergeberge08","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-12-05 23:58:12","dateStart":null,"dateEnd":null,"width":11150,"height":9262,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKoenigsberg_Strassenbahn.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Koenigsberg_Strassenbahn.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Koenigsberg_Strassenbahn.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Koenigsberg_Strassenbahn.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 20th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Large images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tram maps of Kaliningrad","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.110012+03:00","reviewedAt":"2026-07-31T05:52:59.310217+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomas žemėlapis su vokiškais Karaliaučiaus vietovardžiais, miesto rajonais ir tramvajaus linijomis; antraštėje nurodyta „Straßenbahn Königsberg“ ir 1939 m.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Koenigsberg“, aprašyme – „Network map of the Königsberg Tram (1939)“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Žemėlapis tiesiogiai vaizduoja konkretų Karaliaučiaus miestą.","isPrimary":0},{"mediaId":"m-3d1d7580a6bd4629ff552803","title":"Koenigsberg, Map by Bering 1613.jpg","caption":"Karaliaučiaus miesto panorama ir planas, 1613 m.","originalTitle":"Koenigsberg, Map by Bering 1613.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"2006-10-18 11:15:05","dateStart":null,"dateEnd":null,"width":4846,"height":2269,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKoenigsberg%2C_Map_by_Bering_1613.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Koenigsberg%2C_Map_by_Bering_1613.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Koenigsberg%2C_Map_by_Bering_1613.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Koenigsberg%2C_Map_by_Bering_1613.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1613 in Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable source","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media missing infobox template","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.111988+03:00","reviewedAt":"2026-07-31T05:52:59.286246+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma plati miesto panorama su kvartalais, bažnyčiomis, upėmis ir gynybiniais įtvirtinimais.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta Koenigsberg, 1613 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto atvaizdas.","isPrimary":0},{"mediaId":"m-d4d245e3433fc9da07cdadcd","title":"Koenigsberg. Entworfen und bearbeitet von Woerl, gestochen unter seiner Leitung. Lithographie von B. Herder a Freiburg en (IA dr koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047).jpg","caption":"Karaliaučiaus ir Rytų Prūsijos istorinis žemėlapis.","originalTitle":"Koenigsberg. Entworfen und bearbeitet von Woerl, gestochen unter seiner Leitung. Lithographie von B. Herder a Freiburg en (IA dr koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047).jpg","creator":"Woerl, Joseph Edmund (1803-1865) Herder, Bartholomew Weiss, J.H.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047 https://archive.org/download/dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047/10094047.jpg","dateDisplay":"2026-06-20 03:27:00","dateStart":null,"dateEnd":null,"width":1536,"height":1204,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKoenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Koenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Koenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Koenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Books uploaded by Fæ","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"David Rumsey Historical Map Collection","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.111182+03:00","reviewedAt":"2026-07-31T05:52:59.273689+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotas detalus žemėlapis su antrašte „Koenigsberg“ ir miesto vieta.","metadataEvidence":"Pavadinime tiesiogiai nurodyta Koenigsberg; aprašytas Woerl istorinis žemėlapis.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Karaliaučiaus ir jo apylinkių žemėlapis.","isPrimary":0},{"mediaId":"m-f0c07e91dee893711ff62b69","title":"Konigsberg 1886.jpg","caption":"1886–1887 m. Karaliaučiaus miesto planas su gatvėmis, pastatais, upėmis ir įtvirtinimais.","originalTitle":"Konigsberg 1886.jpg","creator":"Wagner &amp; Debes","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"''Königsberg''. Artist/engraver/cartographer: Wagner &amp; Debes. Provenance: \"Northern Germany\"; by K. Baedeker, Published by Karl Baedeker, London: 9th Edition. Type: Antique colour map; Scale 1:16.000","dateDisplay":"1887","dateStart":null,"dateEnd":null,"width":1600,"height":1208,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKonigsberg_1886.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/45/Konigsberg_1886.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/45/Konigsberg_1886.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/45/Konigsberg_1886.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.113503+03:00","reviewedAt":"2026-07-31T05:52:59.304452+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus miesto žemėlapis su užrašu „Königsberg“, gatvių tinklu, Pregel upe ir tvirtovėmis.","metadataEvidence":"Pavadinimas „Konigsberg 1886“ ir aprašas tiesiogiai nurodo istorinį miesto žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto atvaizdas.","isPrimary":0},{"mediaId":"m-3ab52c8a10b3fb07b4634fdb","title":"Liep MTB1289 Königsberg (Pr.) (Ost) 1937.png","caption":"Karaliaučiaus rytinės dalies topografinio žemėlapio fragmentas, 1937 m.","originalTitle":"Liep MTB1289 Königsberg (Pr.) (Ost) 1937.png","creator":"Reichsamt für Landesaufnahme","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://de.wikipedia.org/wiki/Datei:Liep_MTB1289_K%C3%B6nigsberg_(Pr.)_(Ost)1937.png","dateDisplay":"1937","dateStart":null,"dateEnd":null,"width":1263,"height":782,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALiep_MTB1289_K%C3%B6nigsberg_%28Pr.%29_%28Ost%29_1937.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Liep_MTB1289_K%C3%B6nigsberg_%28Pr.%29_%28Ost%29_1937.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Liep_MTB1289_K%C3%B6nigsberg_%28Pr.%29_%28Ost%29_1937.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Liep_MTB1289_K%C3%B6nigsberg_%28Pr.%29_%28Ost%29_1937.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.111492+03:00","reviewedAt":"2026-07-31T05:52:59.277486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus topografinis miesto ir priemiesčių planas su užrašu „KÖNIGSBERG“.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta Königsberg (Pr.) (Ost), 1937 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Karaliaučiaus teritorijos žemėlapio fragmentas.","isPrimary":0},{"mediaId":"m-93a2c1ea203fe92fde49e330","title":"Plan Der Stadt Koenigsberg.jpg","caption":"1763 m. Karaliaučiaus miesto planas su pastatais ir įtvirtinimais.","originalTitle":"Plan Der Stadt Koenigsberg.jpg","creator":"o. A.","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Leibniz-Institut für Länderkunde, Leipzig","dateDisplay":"1763","dateStart":null,"dateEnd":null,"width":8622,"height":7054,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_Der_Stadt_Koenigsberg.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/Plan_Der_Stadt_Koenigsberg.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/Plan_Der_Stadt_Koenigsberg.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/Plan_Der_Stadt_Koenigsberg.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s maps of Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Map collection of Leibniz-Institut für Länderkunde","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.112214+03:00","reviewedAt":"2026-07-31T05:52:59.294008+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus miesto planas su užrašu „Plan der Stadt Koenigsberg“ ir legenda.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Koenigsberg miesto planą, 1763 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis target miesto atvaizdas.","isPrimary":0},{"mediaId":"m-1a5faab95dc714c5e305f142","title":"Städte Königsbergs (1626).jpg","caption":"1626 m. Karaliaučiaus sudėtinių miestų schema, vaizduojanti pagrindines miesto dalis.","originalTitle":"Städte Königsbergs (1626).jpg","creator":"Hergeberge08","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-01-15 12:30:03","dateStart":null,"dateEnd":null,"width":3956,"height":3380,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASt%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cb/St%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/St%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg/1920px-St%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cb/St%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Altstadt (Königsberg)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Georeferenced maps in Wikimaps Warper","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kneiphof","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 17th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Löbenicht","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pregolya River","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:57:11.290604+03:00","reviewedAt":"2026-07-31T05:52:59.297469+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Spalvota schema su pažymėtais Altstadt, Löbenicht, Kneiphof ir kitais Karaliaučiaus rajonais.","metadataEvidence":"Aprašas tiesiogiai identifikuoja „independent cities making up Koenigsberg“ 1626 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto struktūros žemėlapis.","isPrimary":0},{"mediaId":"m-7f89abdacd8d341684ab4c00","title":"Topographia Practica - 3. Regiomontum.jpg","caption":"XVII a. Karaliaučiaus, arba Regiomontum, karinis-topografinis planas su miesto tvirtove ir apylinkėmis.","originalTitle":"Topographia Practica - 3. Regiomontum.jpg","creator":"Fryderyk Getkant","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://sok.riksarkivet.se/arkiv/PlRjvlNiLKE5VVmvBLzJM2","dateDisplay":"between 1634 and 1639 date QS:P,+1634-00-00T00:00:00Z/8,P1319,+1634-00-00T00:00:00Z/9,P1326,+1639-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":7544,"height":5368,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATopographia_Practica_-_3._Regiomontum.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/Topographia_Practica_-_3._Regiomontum.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/Topographia_Practica_-_3._Regiomontum.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/Topographia_Practica_-_3._Regiomontum.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Atlas of Friedrich Getkant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Content made available through Wikimedia Sverige partnerships","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Friedrich Getkant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from the National Archives of Sweden","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps in the National Archives of Sweden","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with pattypan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:50:17.786745+03:00","reviewedAt":"2026-07-31T05:52:59.306729+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre aiškiai matoma žvaigždinė miesto tvirtovė, aplinkiniai keliai, upės ir vietovardžiai.","metadataEvidence":"Aprašas tiesiogiai nurodo Fryderyko Getkanto Königsbergo žemėlapį; pavadinime vartojamas istorinis Regiomontum.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus atvaizdas.","isPrimary":0},{"mediaId":"m-52e24269616f8b72ad63f1d2","title":"Universitätsgebäude Königsberg (1931).JPG","caption":"1931 m. Karaliaučiaus miesto plano ištrauka su pažymėtais universiteto pastatais.","originalTitle":"Universitätsgebäude Königsberg (1931).JPG","creator":"unbekanntes Mitglied des Corps Masovia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Archiv Corps Masovia","dateDisplay":"1931, markiert wahrscheinlich 1994","dateStart":null,"dateEnd":null,"width":3238,"height":2240,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUniversit%C3%A4tsgeb%C3%A4ude_K%C3%B6nigsberg_%281931%29.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Universit%C3%A4tsgeb%C3%A4ude_K%C3%B6nigsberg_%281931%29.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Universit%C3%A4tsgeb%C3%A4ude_K%C3%B6nigsberg_%281931%29.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Universit%C3%A4tsgeb%C3%A4ude_K%C3%B6nigsberg_%281931%29.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Albertina, Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Items with VRTS permission confirmed","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.112473+03:00","reviewedAt":"2026-07-31T05:52:59.301155+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotas detalus miesto žemėlapis su gatvėmis, upėmis ir numeruotais universiteto objektais.","metadataEvidence":"Pavadinimas ir aprašas nurodo Königsberg miesto planą, 1931 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis miesto plano atvaizdas.","isPrimary":0}]'
 media_contextual_json: '[{"mediaId":"m-429d2e28c9d729dd3aa364a5","title":"Кёнигсбергский Кафедральный собор Калининград.jpg","caption":"Karaliaučiaus katedra – istorinis miesto paminklas.","originalTitle":"Кёнигсбергский Кафедральный собор Калининград.jpg","creator":"Зандер виктор","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2013-04-15 18:04:40","dateStart":null,"dateEnd":null,"width":1333,"height":2000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"religinė-bendruomenė","label":"religinė-bendruomenė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Westwork of Königsberg Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T10:57:05.858149+03:00","reviewedAt":"2026-07-31T05:52:59.289963+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma gotikinė mūrinė katedra su bokštu ir laikrodžiu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta Karaliaučiaus katedra bei jos istorija Königsberge.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai pagrįstas Karaliaučiaus istorinis objektas, tačiau ne pats miestas kaip visuma.","isPrimary":0}]'
 media_all_json: '[{"mediaId":"m-fe60e45fe17af35387980c3a","title":"6. Koenigsberg. (IA dr 6-koenigsberg-7929008).jpg","caption":"XIX a. Karaliaučiaus apylinkių žemėlapis.","originalTitle":"6. Koenigsberg. (IA dr 6-koenigsberg-7929008).jpg","creator":"Scheda, Josef Bruckl, F. Haselwander Scheda, Josef Ritter (1915-1888)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : dr_6-koenigsberg-7929008 https://archive.org/download/dr_6-koenigsberg-7929008/7929008.jpg","dateDisplay":"2026-06-17 16:51:38","dateStart":null,"dateEnd":null,"width":1536,"height":1386,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A6._Koenigsberg._%28IA_dr_6-koenigsberg-7929008%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/6._Koenigsberg._%28IA_dr_6-koenigsberg-7929008%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/6._Koenigsberg._%28IA_dr_6-koenigsberg-7929008%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/6._Koenigsberg._%28IA_dr_6-koenigsberg-7929008%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Books uploaded by Fæ","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"David Rumsey Historical Map Collection","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.110585+03:00","reviewedAt":"2026-07-31T05:52:59.263098+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus istorinis žemėlapis su aiškiu užrašu „Königsberg“ ir miesto bei apylinkių geografija.","metadataEvidence":"Pavadinime tiesiogiai nurodyta Koenigsberg; aprašyme nurodytas istorinis žemėlapis.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Karaliaučiaus istorinis žemėlapis.","isPrimary":1},{"mediaId":"m-c3d9e852f40e78d853a901c5","title":"Bridges of Konigsberg.png","caption":"Karaliaučiaus žemėlapis su pažymėtais tiltais.","originalTitle":"Bridges of Konigsberg.png","creator":"Twotwos","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work based on: Konigsberg bridges.png . This file was derived from: Image-Koenigsberg, Map by Merian-Erben 1652.jpg","dateDisplay":"2025-09-17","dateStart":null,"dateEnd":null,"width":628,"height":437,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABridges_of_Konigsberg.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Bridges_of_Konigsberg.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Bridges_of_Konigsberg.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Bridges_of_Konigsberg.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"upė","label":"upė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.111758+03:00","reviewedAt":"2026-07-31T05:52:59.279964+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas miesto planas su pažymėta upe, miesto salomis ir tiltais.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta Königsberg; aprašytas Septynių tiltų žemėlapis.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Karaliaučiaus miesto žemėlapis.","isPrimary":0},{"mediaId":"m-abd0ce1ccc189a4419cb089d","title":"Fort Friedrichsburg.jpg","caption":"Karaliaučiaus Frydrichsburgo forto istorinis planas.","originalTitle":"Fort Friedrichsburg.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Cornelius Kutschke : Königsberg als Hafenstadt . Königsberg 1930, S. 13.","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1282,"height":845,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFort_Friedrichsburg.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Fort_Friedrichsburg.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Fort_Friedrichsburg.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Fort_Friedrichsburg.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Citadels","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pregolya River","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.116135+03:00","reviewedAt":"2026-07-31T05:52:59.282806+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas įtvirtintas Fort Friedrichsburg kompleksas prie Pregelio upės.","metadataEvidence":"Aprašyme tiesiogiai nurodytas senasis Königsbergas ir Fort Friedrichsburg.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto dalies ir forto planas.","isPrimary":0},{"mediaId":"m-1d176e8800e763e9246eb73e","title":"Image-Koenigsberg, Map by Merian-Erben 1652.jpg","caption":"Karaliaučiaus istorinis miesto planas, apie 1651 m.","originalTitle":"Image-Koenigsberg, Map by Merian-Erben 1652.jpg","creator":"Merian-Erben","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.preussen-chronik.de/_/bild_jsp/key=bild_kathe2.html","dateDisplay":"Public domain Public domain false false This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author''s life plus 100 years or fewer . You must also include a United States public domain tag to indicate why this work is in the public domain in the United States. This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. https://creativecommons.org/publicdomain/mark/1.0/ PDM Creative Commons Public Domain Mark 1.0 false false","dateStart":null,"dateEnd":null,"width":628,"height":437,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AImage-Koenigsberg%2C_Map_by_Merian-Erben_1652.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Image-Koenigsberg%2C_Map_by_Merian-Erben_1652.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Image-Koenigsberg%2C_Map_by_Merian-Erben_1652.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Image-Koenigsberg%2C_Map_by_Merian-Erben_1652.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1651 in Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1651 maps of Europe","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 1650s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.110307+03:00","reviewedAt":"2026-07-31T05:52:59.269875+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinė miesto panorama ir planas su antrašte „Koningsberga“.","metadataEvidence":"Pavadinime nurodyta Königsberg, aprašyme – 1651 m. Karaliaučius.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto atvaizdas.","isPrimary":0},{"mediaId":"m-2a92d5ddfbfbb59b70280a01","title":"Koenigsberg Strassenbahn.jpg","caption":"Karaliaučiaus tramvajaus tinklo žemėlapis, 1939 m.","originalTitle":"Koenigsberg Strassenbahn.jpg","creator":"Hergeberge08","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-12-05 23:58:12","dateStart":null,"dateEnd":null,"width":11150,"height":9262,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKoenigsberg_Strassenbahn.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Koenigsberg_Strassenbahn.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Koenigsberg_Strassenbahn.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Koenigsberg_Strassenbahn.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 20th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Large images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tram maps of Kaliningrad","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.110012+03:00","reviewedAt":"2026-07-31T05:52:59.310217+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matomas žemėlapis su vokiškais Karaliaučiaus vietovardžiais, miesto rajonais ir tramvajaus linijomis; antraštėje nurodyta „Straßenbahn Königsberg“ ir 1939 m.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Koenigsberg“, aprašyme – „Network map of the Königsberg Tram (1939)“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Žemėlapis tiesiogiai vaizduoja konkretų Karaliaučiaus miestą.","isPrimary":0},{"mediaId":"m-3d1d7580a6bd4629ff552803","title":"Koenigsberg, Map by Bering 1613.jpg","caption":"Karaliaučiaus miesto panorama ir planas, 1613 m.","originalTitle":"Koenigsberg, Map by Bering 1613.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"2006-10-18 11:15:05","dateStart":null,"dateEnd":null,"width":4846,"height":2269,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKoenigsberg%2C_Map_by_Bering_1613.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Koenigsberg%2C_Map_by_Bering_1613.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Koenigsberg%2C_Map_by_Bering_1613.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Koenigsberg%2C_Map_by_Bering_1613.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1613 in Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable source","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media missing infobox template","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.111988+03:00","reviewedAt":"2026-07-31T05:52:59.286246+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma plati miesto panorama su kvartalais, bažnyčiomis, upėmis ir gynybiniais įtvirtinimais.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta Koenigsberg, 1613 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto atvaizdas.","isPrimary":0},{"mediaId":"m-d4d245e3433fc9da07cdadcd","title":"Koenigsberg. Entworfen und bearbeitet von Woerl, gestochen unter seiner Leitung. Lithographie von B. Herder a Freiburg en (IA dr koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047).jpg","caption":"Karaliaučiaus ir Rytų Prūsijos istorinis žemėlapis.","originalTitle":"Koenigsberg. Entworfen und bearbeitet von Woerl, gestochen unter seiner Leitung. Lithographie von B. Herder a Freiburg en (IA dr koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047).jpg","creator":"Woerl, Joseph Edmund (1803-1865) Herder, Bartholomew Weiss, J.H.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047 https://archive.org/download/dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047/10094047.jpg","dateDisplay":"2026-06-20 03:27:00","dateStart":null,"dateEnd":null,"width":1536,"height":1204,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKoenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Koenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Koenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Koenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Books uploaded by Fæ","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"David Rumsey Historical Map Collection","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.111182+03:00","reviewedAt":"2026-07-31T05:52:59.273689+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotas detalus žemėlapis su antrašte „Koenigsberg“ ir miesto vieta.","metadataEvidence":"Pavadinime tiesiogiai nurodyta Koenigsberg; aprašytas Woerl istorinis žemėlapis.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Karaliaučiaus ir jo apylinkių žemėlapis.","isPrimary":0},{"mediaId":"m-f0c07e91dee893711ff62b69","title":"Konigsberg 1886.jpg","caption":"1886–1887 m. Karaliaučiaus miesto planas su gatvėmis, pastatais, upėmis ir įtvirtinimais.","originalTitle":"Konigsberg 1886.jpg","creator":"Wagner &amp; Debes","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"''Königsberg''. Artist/engraver/cartographer: Wagner &amp; Debes. Provenance: \"Northern Germany\"; by K. Baedeker, Published by Karl Baedeker, London: 9th Edition. Type: Antique colour map; Scale 1:16.000","dateDisplay":"1887","dateStart":null,"dateEnd":null,"width":1600,"height":1208,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKonigsberg_1886.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/45/Konigsberg_1886.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/45/Konigsberg_1886.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/45/Konigsberg_1886.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.113503+03:00","reviewedAt":"2026-07-31T05:52:59.304452+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus miesto žemėlapis su užrašu „Königsberg“, gatvių tinklu, Pregel upe ir tvirtovėmis.","metadataEvidence":"Pavadinimas „Konigsberg 1886“ ir aprašas tiesiogiai nurodo istorinį miesto žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto atvaizdas.","isPrimary":0},{"mediaId":"m-3ab52c8a10b3fb07b4634fdb","title":"Liep MTB1289 Königsberg (Pr.) (Ost) 1937.png","caption":"Karaliaučiaus rytinės dalies topografinio žemėlapio fragmentas, 1937 m.","originalTitle":"Liep MTB1289 Königsberg (Pr.) (Ost) 1937.png","creator":"Reichsamt für Landesaufnahme","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://de.wikipedia.org/wiki/Datei:Liep_MTB1289_K%C3%B6nigsberg_(Pr.)_(Ost)1937.png","dateDisplay":"1937","dateStart":null,"dateEnd":null,"width":1263,"height":782,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALiep_MTB1289_K%C3%B6nigsberg_%28Pr.%29_%28Ost%29_1937.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Liep_MTB1289_K%C3%B6nigsberg_%28Pr.%29_%28Ost%29_1937.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Liep_MTB1289_K%C3%B6nigsberg_%28Pr.%29_%28Ost%29_1937.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Liep_MTB1289_K%C3%B6nigsberg_%28Pr.%29_%28Ost%29_1937.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.111492+03:00","reviewedAt":"2026-07-31T05:52:59.277486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus topografinis miesto ir priemiesčių planas su užrašu „KÖNIGSBERG“.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta Königsberg (Pr.) (Ost), 1937 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Karaliaučiaus teritorijos žemėlapio fragmentas.","isPrimary":0},{"mediaId":"m-93a2c1ea203fe92fde49e330","title":"Plan Der Stadt Koenigsberg.jpg","caption":"1763 m. Karaliaučiaus miesto planas su pastatais ir įtvirtinimais.","originalTitle":"Plan Der Stadt Koenigsberg.jpg","creator":"o. A.","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Leibniz-Institut für Länderkunde, Leipzig","dateDisplay":"1763","dateStart":null,"dateEnd":null,"width":8622,"height":7054,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_Der_Stadt_Koenigsberg.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/Plan_Der_Stadt_Koenigsberg.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/Plan_Der_Stadt_Koenigsberg.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/Plan_Der_Stadt_Koenigsberg.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s maps of Germany","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Map collection of Leibniz-Institut für Länderkunde","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.112214+03:00","reviewedAt":"2026-07-31T05:52:59.294008+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus miesto planas su užrašu „Plan der Stadt Koenigsberg“ ir legenda.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Koenigsberg miesto planą, 1763 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis target miesto atvaizdas.","isPrimary":0},{"mediaId":"m-1a5faab95dc714c5e305f142","title":"Städte Königsbergs (1626).jpg","caption":"1626 m. Karaliaučiaus sudėtinių miestų schema, vaizduojanti pagrindines miesto dalis.","originalTitle":"Städte Königsbergs (1626).jpg","creator":"Hergeberge08","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-01-15 12:30:03","dateStart":null,"dateEnd":null,"width":3956,"height":3380,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASt%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cb/St%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/St%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg/1920px-St%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cb/St%C3%A4dte_K%C3%B6nigsbergs_%281626%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Altstadt (Königsberg)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Georeferenced maps in Wikimaps Warper","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kneiphof","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 17th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Löbenicht","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pregolya River","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:57:11.290604+03:00","reviewedAt":"2026-07-31T05:52:59.297469+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Spalvota schema su pažymėtais Altstadt, Löbenicht, Kneiphof ir kitais Karaliaučiaus rajonais.","metadataEvidence":"Aprašas tiesiogiai identifikuoja „independent cities making up Koenigsberg“ 1626 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus miesto struktūros žemėlapis.","isPrimary":0},{"mediaId":"m-7f89abdacd8d341684ab4c00","title":"Topographia Practica - 3. Regiomontum.jpg","caption":"XVII a. Karaliaučiaus, arba Regiomontum, karinis-topografinis planas su miesto tvirtove ir apylinkėmis.","originalTitle":"Topographia Practica - 3. Regiomontum.jpg","creator":"Fryderyk Getkant","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://sok.riksarkivet.se/arkiv/PlRjvlNiLKE5VVmvBLzJM2","dateDisplay":"between 1634 and 1639 date QS:P,+1634-00-00T00:00:00Z/8,P1319,+1634-00-00T00:00:00Z/9,P1326,+1639-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":7544,"height":5368,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATopographia_Practica_-_3._Regiomontum.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/Topographia_Practica_-_3._Regiomontum.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/Topographia_Practica_-_3._Regiomontum.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/Topographia_Practica_-_3._Regiomontum.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Atlas of Friedrich Getkant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Content made available through Wikimedia Sverige partnerships","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Friedrich Getkant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images from the National Archives of Sweden","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps in the National Archives of Sweden","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with pattypan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:50:17.786745+03:00","reviewedAt":"2026-07-31T05:52:59.306729+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre aiškiai matoma žvaigždinė miesto tvirtovė, aplinkiniai keliai, upės ir vietovardžiai.","metadataEvidence":"Aprašas tiesiogiai nurodo Fryderyko Getkanto Königsbergo žemėlapį; pavadinime vartojamas istorinis Regiomontum.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Karaliaučiaus atvaizdas.","isPrimary":0},{"mediaId":"m-52e24269616f8b72ad63f1d2","title":"Universitätsgebäude Königsberg (1931).JPG","caption":"1931 m. Karaliaučiaus miesto plano ištrauka su pažymėtais universiteto pastatais.","originalTitle":"Universitätsgebäude Königsberg (1931).JPG","creator":"unbekanntes Mitglied des Corps Masovia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Archiv Corps Masovia","dateDisplay":"1931, markiert wahrscheinlich 1994","dateStart":null,"dateEnd":null,"width":3238,"height":2240,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUniversit%C3%A4tsgeb%C3%A4ude_K%C3%B6nigsberg_%281931%29.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Universit%C3%A4tsgeb%C3%A4ude_K%C3%B6nigsberg_%281931%29.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Universit%C3%A4tsgeb%C3%A4ude_K%C3%B6nigsberg_%281931%29.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Universit%C3%A4tsgeb%C3%A4ude_K%C3%B6nigsberg_%281931%29.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Albertina, Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Items with VRTS permission confirmed","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:57.112473+03:00","reviewedAt":"2026-07-31T05:52:59.301155+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotas detalus miesto žemėlapis su gatvėmis, upėmis ir numeruotais universiteto objektais.","metadataEvidence":"Pavadinimas ir aprašas nurodo Königsberg miesto planą, 1931 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis miesto plano atvaizdas.","isPrimary":0},{"mediaId":"m-429d2e28c9d729dd3aa364a5","title":"Кёнигсбергский Кафедральный собор Калининград.jpg","caption":"Karaliaučiaus katedra – istorinis miesto paminklas.","originalTitle":"Кёнигсбергский Кафедральный собор Калининград.jpg","creator":"Зандер виктор","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2013-04-15 18:04:40","dateStart":null,"dateEnd":null,"width":1333,"height":2000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"religinė-bendruomenė","label":"religinė-bendruomenė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Westwork of Königsberg Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Karaliaučius.md","title":"Karaliaučius","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T10:57:05.858149+03:00","reviewedAt":"2026-07-31T05:52:59.289963+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma gotikinė mūrinė katedra su bokštu ir laikrodžiu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta Karaliaučiaus katedra bei jos istorija Königsberge.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai pagrįstas Karaliaučiaus istorinis objektas, tačiau ne pats miestas kaip visuma.","isPrimary":0}]'
+entity_id: ent-80a687fe16b2bdd32c019df6
+canonical_name: Karaliaučius
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Karaliaucius
+  - Karaliaučium
+  - Karaliaučius
+  - Karaliaučių
+  - Kionigsbergas
+  - Koenigsberg
+  - Königsberg
+sameAs: []
+canonical_biography: Karaliaučius šiame šaltinyje minimas kaip Rytprūsių prekybos centras ir geografinis orientyras Lietuvos karo veiksmams Sambijoje bei keliui į Dancigą.
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Karaliaučius","url":"https://lt.wikipedia.org/wiki/Karaliau%C4%8Dius","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Karaliaucius","url":"https://www.vle.lt/straipsnis/karaliaucius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:22:36+00:00","source_checked_at":"2026-09-18T23:22:36+00:00","counts":{"relations":8,"gallery":14,"sources":15},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tad 1365. VII.25 d. Būtautas su 15 šalininkų raiti pabėgo į ordiną. Karaliaučiuje per iškilmingą krikštą gavęs Henriko vardą, Kęstutaitis tuoj išlydėjo į Lietuvą ordino kariuo­ menę, kuri atėjo iki pat Vilniaus^18.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-135438","evidence_id":"c-32084","origin":"internal"},"wiki":{"intro":"Karaliaučius (vok. Königsberg, nuo 1946 m. Kaliningradas, rus. Калининград) – miestas Rusijos vakaruose, uostamiestis prie Baltijos jūros, išsidėstęs Priegliaus žiotyse prie Aistmarių. Kaliningrado srites centras. Karaliaučiaus geležinkelio stotis, geležinkelio mazgas. Išvystyta transporto pramonė (laivų statyba, vagonų ir automobilių gamyba), naftos pramonė, turizmas. Yra Kaliningrado zoologijos sodas, Kaliningrado gintaro muziejus, Pasaulinio vandenyno muziejus, istorijos ir meno muziejus, meno galerija, dramos teatras, Karaliaučiaus katedra.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"935","revision_id":"7539825","status":"published","translation_status":"native","source":{"title":"Karaliaučius","url":"https://lt.wikipedia.org/wiki/Karaliau%C4%8Dius","publisher":"Vikipedija","language":"lt","article_id":"935","revision_id":"7539825","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7539825","history_url":"https://lt.wikipedia.org/w/index.php?title=Karaliau%C4%8Dius&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:41.653502+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"e7805bdbc18cff4dbeee924827aa3eb923c03bcd6626209403db15e0c5240931","version_pk":"99cb76806de0ba16642c02d79993e5ff"}},"source_buttons":[{"label":"Vikipedija","title":"Karaliaučius","url":"https://lt.wikipedia.org/wiki/Karaliau%C4%8Dius","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Karaliaucius","url":"https://www.vle.lt/straipsnis/karaliaucius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Karaliau%C4%8Dius","https://www.vle.lt/straipsnis/karaliaucius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"bab603241db6df4e57a5c807","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Miestas įkurtas senovinio Tvangstės miesto griuvėsių vietoje, prie pilies ir ant Šv. Mikalojaus kalvos.","context":"Anot Teodoro Narbuto, Karaliaučius įkurtas Sambijoje, senovinio Tvangstės miesto griuvėsių vietoje. Petro Dusburgiečio kronikos apraše miestas minimas prie Karaliaučiaus pilies, ant Šv. Mikalojaus kalvos.","support_ids":["t-205773","c-188388","t-222292","c-205915"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205773","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"internal_claim","claim_id":"t-222292","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-188388","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Tuo pačiu laiku vokiečių vienuoliai riteriai, pa­ dedami šventeivos Čekijos karaliaus Otokaro, visiškai nu- driokoja Sambiją ir senovinio Tvangstės4 miesto griuvėsių vietoje įkuria Karaliaučių."},{"kind":"evidence","evidence_id":"c-205915","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­ lojaus kalvoje Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai netikėtai jį užpuolė 375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama suktuvu. Šis kovos prie Karaliaučiaus epizodas įdomus viduramžių raitelių ir pėstininkų kovos vedimo būdams suvokti (Дельбрюк Г., История..., т. 3, с. 193). 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane (Brauno) yra prie Steindamm gatvės. Vėliau — Steindamm Kirche (1613 m, XX a. planai), polnische Kirche (1815 m. planas). Bažnyčia…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8e8cbcec919ee1f66d130bb2","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1255 m. pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.","context":"Zenonas Ivinskis šią paskirtį aprašo retrospektyviai, kalbėdamas apie laikotarpį po 1255 m.","support_ids":["t-135452","c-32083"],"source_refs":[{"kind":"internal_claim","claim_id":"t-135452","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32083","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­ tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus atramos taškas. Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­ vių plotus rasti kelią į šiaurę, t."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"997268d2e952f39e5d255a6f","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją.","context":"Petro Dusburgiečio kronikos komentare ši reikšmė priskiriama Karaliaučiui XIII a. antrojoje pusėje ir vėlesniam laikotarpiui.","support_ids":["t-225540","c-201867","t-225813","c-206238"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225540","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-225813","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201867","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją. Čia, be abejo, suplaukdavo ne tik įvairiausia žodinė informacija, bet ir rašytiniai pranešimai, iš kurių Dusburgietis galėjo semtis žinių savo kronikai. Taip mėginama aiškinti Dusburgiečio 133 PKD, s."},{"kind":"evidence","evidence_id":"c-206238","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"XIII a. antrojoje pusėje čia buvo kovos su rytinėmis prūsų žemėmis centrai. Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9398123a247f7801f080407b","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Karaliaučius buvo Ordino administracinis centras.","context":"Petro Dusburgiečio kronikos komentare Karaliaučius įvardijamas tarp Ordino administracinių centrų.","support_ids":["t-224632","c-201626"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224632","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201626","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus 100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti, kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2f61d81483c80160019f5e08","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą.","context":"Šaltinio komentare nurodomas laikotarpis nuo 1312 m. ir rezidencijos karinė funkcija.","support_ids":["t-225207","c-202337"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225207","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202337","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius į Lietuvą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d27058c183ac732b7d5fc65c","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Po Torno taikos Karaliaučius tapo Ordino sostine, o vėliau – Prūsų kunigaikštijos sostine.","context":"A. Šapoka šį statusą aprašo po Torno taikos ir iki Ordino panaikinimo bei Prūsų kunigaikštijos įsikūrimo.","support_ids":["t-193188","c-175932"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193188","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175932","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę. Smarkiai apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per- kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų kunigaikštijai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7d732ecb22b7eff0e1eee5ee","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Karaliaučius buvo Ordino prekybos centras, su kuriuo Vytauto laikais užsimezgė gyvi prekybos ryšiai.","context":"A. Šapoka prekybos ryšius aprašo Vytauto laikais, aprimus karams su kryžiuočiais.","support_ids":["t-135453","c-123529"],"source_refs":[{"kind":"internal_claim","claim_id":"t-135453","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-123529","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Arkivys- kupo ir rygiečių dėka dažnai būdavo sudaromos Lietuvos pre- kybos sutartys net su ordinu. Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre- kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent- rais—Karaliaučium ir Dancigu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9b5304b59ab52c2d1ac0d819","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Karaliaučiuje veikė universitetas, įkurtas 1544 m.","context":"1544 m. įkurto Karaliaučiaus universiteto pirmaisiais profesoriais, šaltinio teigimu, tapo Abraomas Kulvietis ir Stanislovas Rapolionis.","support_ids":["t-135454","c-21461"],"source_refs":[{"kind":"internal_claim","claim_id":"t-135454","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-21461","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Šią programą A. Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir- maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka- tekizmą“."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5558dc80b368e4916d71d277","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Karaliaučiuje veikė slaptasis Kryžiuočių archyvas, kuriame buvo saugomi Gedimino laiškai ir autentiški Jogailos dokumentai.","context":"Michał Baliński šiuos archyvinius dokumentus aprašo kaip saugotus Karaliaučiuje; Jogailos dokumentai buvo rašyti prieš jo krikštą.","support_ids":["t-135470","c-123524","t-135477","c-123516"],"source_refs":[{"kind":"internal_claim","claim_id":"t-135470","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-135477","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-123524","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu. Foigto vertimas į len kųk ir teksto lotynų k. pataisymai."},{"kind":"evidence","evidence_id":"c-123516","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas - Vylne, Velne, labai panėši į vardą, duotą jam Snorro. Tad kad ir kurią iš visų tų legendų pripažintume esant tikro- viškiausia, vis vien neabejotinas dalykas, jog Vilniaus įkū­ rimą ne Gediminui, bet jo pirmtakams dera priskirti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9bea8b3ce9d6c10a866b11a4","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Karaliaučiuje veikė brolių konventas.","context":"Petro Dusburgiečio kronikoje tiesiogiai minima Karaliaučiaus brolių konvento veikla.","support_ids":["t-223832","c-204995"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223832","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204995","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"319319464d8b6287609e70dd","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Karaliaučiaus miestas prie pilies buvo nepakankamai sutvirtintas, todėl sembai jį netikėtai užpuolė.","context":"Petro Dusburgiečio kronikos pasakojime aprašomas miesto būklės vertinimas ir vėlesnis puolimas.","support_ids":["t-221661","c-205915"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221661","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205915","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­ lojaus kalvoje Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai netikėtai jį užpuolė 375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama suktuvu. Šis kovos prie Karaliaučiaus epizodas įdomus viduramžių raitelių ir pėstininkų kovos vedimo būdams suvokti (Дельбрюк Г., История..., т. 3, с. 193). 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane (Brauno) yra prie Steindamm gatvės. Vėliau — Steindamm Kirche (1613 m, XX a. planai), polnische Kirche (1815 m. planas). Bažnyčia…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"406382f9e0f40c011b8d41b5","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Karaliaučiaus pilis buvo laikoma viena iš pačių tvirčiausių pilių.","context":"A. Šapoka, aprašydamas Prūsų sukilimo laikotarpį, nurodo, kad Karaliaučiaus pilis liko nesugriauta kaip viena iš tvirčiausių pilių.","support_ids":["t-135487","c-13409"],"source_refs":[{"kind":"internal_claim","claim_id":"t-135487","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-13409","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Nesugriautos liko tik Karaliau- čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Karaliaučius – istorinė vieta, 1255 m. pastatyta Otokaro II garbei ir vėliau tapusi svarbiu Ordino atramos tašku kovose prieš lietuvius. XIII a. antrojoje pusėje jis buvo kovų su rytinėmis prūsų žemėmis centras ir svarbus komunikacijos mazgas kelyje į Livoniją, o nuo 1312 m. čia rezidavo didysis maršalas, organizavęs žygius į Lietuvą. Po Torno taikos Ordinas perkėlė į Karaliaučių savo sostinę, kuri išliko svarbi ir susikūrus Prūsų kunigaikštijai. 1544 m. įkurtame universitete pirmaisiais profesoriais tapo Abraomas Kulvietis ir Stanislovas Rapolionis, o 1547 m. čia buvo išspausdintas Martyno Mažvydo „Katekizmas“, skirtas lietuviams ir Lietuvai. Išskirtinę miesto reikšmę liudija ir tai, kad slaptajame Kryžiuočių archyve Karaliaučiuje buvo saugomi trys Gedimino laiškai.","sentences":[{"sentence_id":"s1","text":"Karaliaučius – istorinė vieta, 1255 m. pastatyta Otokaro II garbei ir vėliau tapusi svarbiu Ordino atramos tašku kovose prieš lietuvius.","support_ids":["t-135452","c-32083"]},{"sentence_id":"s2","text":"XIII a. antrojoje pusėje jis buvo kovų su rytinėmis prūsų žemėmis centras ir svarbus komunikacijos mazgas kelyje į Livoniją, o nuo 1312 m. čia rezidavo didysis maršalas, organizavęs žygius į Lietuvą.","support_ids":["t-225813","c-206238","t-225207","c-202337"]},{"sentence_id":"s3","text":"Po Torno taikos Ordinas perkėlė į Karaliaučių savo sostinę, kuri išliko svarbi ir susikūrus Prūsų kunigaikštijai.","support_ids":["t-135459","c-123511"]},{"sentence_id":"s4","text":"1544 m. įkurtame universitete pirmaisiais profesoriais tapo Abraomas Kulvietis ir Stanislovas Rapolionis, o 1547 m. čia buvo išspausdintas Martyno Mažvydo „Katekizmas“, skirtas lietuviams ir Lietuvai.","support_ids":["t-135454","c-21461","t-135444","c-123515"]},{"sentence_id":"s5","text":"Išskirtinę miesto reikšmę liudija ir tai, kad slaptajame Kryžiuočių archyve Karaliaučiuje buvo saugomi trys Gedimino laiškai.","support_ids":["t-135470","c-123524"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi teiginio faktai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina kovų centrą, komunikacijos mazgą ir didžiojo maršalo rezidenciją nuo 1312 m."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina sostinės perkėlimą po Torno taikos ir jos reikšmę Prūsų kunigaikštijai."},{"sentence_id":"s4","supported":true,"reason":"Nurodyti šaltiniai tiesiogiai patvirtina universiteto įkūrimą, pirmuosius profesorius ir 1547 m. išleistą „Katekizmą“."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo tris Gedimino laiškus slaptajame Kryžiuočių archyve Karaliaučiuje."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-135452","c-32083"]},{"sentence_id":"s2","supported":true,"support_ids":["t-225813","c-206238","t-225207","c-202337"]},{"sentence_id":"s3","supported":true,"support_ids":["t-135459","c-123511"]},{"sentence_id":"s4","supported":true,"support_ids":["t-135454","c-21461","t-135444","c-123515"]},{"sentence_id":"s5","supported":true,"support_ids":["t-135470","c-123524"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-fe60e45fe17af35387980c3a","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-c3d9e852f40e78d853a901c5","relation_type":"map_of"},{"media_id":"m-abd0ce1ccc189a4419cb089d","relation_type":"map_of"},{"media_id":"m-1d176e8800e763e9246eb73e","relation_type":"map_of"},{"media_id":"m-429d2e28c9d729dd3aa364a5","relation_type":"associated_symbol_of"}],"media_verification":{"status":"not_required","primary_media_id":"m-fe60e45fe17af35387980c3a","candidate_count":14,"visual_verified_count":14,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Tiesioginis Karaliaučiaus istorinis žemėlapis.","visual_evidence":"Matomas detalus istorinis žemėlapis su aiškiu užrašu „Königsberg“ ir miesto bei apylinkių geografija.","metadata_evidence":"Pavadinime tiesiogiai nurodyta Koenigsberg; aprašyme nurodytas istorinis žemėlapis.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Ignas Onacevičius","claim_id":"t-135460","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-135479","confidence":0.9},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Glapas","claim_id":"t-223428","confidence":0.82},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Dancigas","claim_id":"t-135468","confidence":0.78},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-135453","confidence":0.92},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-135481","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-224632","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-220427","confidence":0.94}],"timeline":[{"date":"1255 m.","label":"1255 m.","claimId":"t-135435"},{"date":"1255 m.","label":"1255 m.","claimId":"t-135437"},{"date":"1255 m.","label":"1255 m.","claimId":"t-135452"},{"date":"1255 m.","label":"1255 m.","claimId":"t-135474"},{"date":"1306 m.","label":"Dusburgietis pasakoja, kad 1306 m.","claimId":"t-221091"},{"date":"1323 m.","label":"1323 m.","claimId":"t-135450"},{"date":"1323 m.","label":"Autentiškas 1323 m.","claimId":"t-135455"},{"date":"1365 m.","label":"Karaliaučiuje 1365 m.","claimId":"t-135438"}],"support_disclosure":{"claims":70,"sources":13}}'
 object_page_finisher: 'true'
@@ -53,15 +70,6 @@ object_page_seo_description: 'Karaliaučius – istorinė vieta, 1255 m. pastaty
 object_page_seo_input_hash: 2c65cf952c7fbaef4863cfd9c9b94146e6504dad66cf62ff79be669d6736b737
 object_page_seo_generated_at: '2026-09-18T23:22:36+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-80a687fe16b2bdd32c019df6"
-canonical_name: "Karaliaučius"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Karaliaucius","Karaliaučium","Karaliaučius","Karaliaučių","Kionigsbergas","Koenigsberg","Königsberg"]
-sameAs: ["https://www.wikidata.org/entity/Q1829"]
-canonical_biography: "Karaliaučius šiame šaltinyje minimas kaip Rytprūsių prekybos centras ir geografinis orientyras Lietuvos karo veiksmams Sambijoje bei keliui į Dancigą."
-place_authority: true
-historical_names: []
 ---
 # Karaliaučius
 
@@ -316,6 +324,24 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - c-123506
 
+<a id="claim-t-135449"></a>
+- t-014
+  teiginys: "Lietuvių prekių kelias į Dancigą ėjo pro Klaipėdą ir Karaliaučių, o kailiai buvo parduodami Karaliaučiaus pirkliams."
+  atnaujinta: "2026-05-31 13:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abraomas Kulvietis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaliaučius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abraomas Kulvietis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaučius\" parinktas kaip owner_note_path. Targetas \"Abraomas Kulvietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: po 1525 m.; įvykio data: 1525 m.; įvykio data: 1542 m.; įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-21461
+
 <a id="claim-t-135450"></a>
 - t-015
   teiginys: "1323 m. notaro parengtas Gedimino laiškų dokumentas buvo saugomas Karaliaučiaus slaptajame archyve."
@@ -506,6 +532,25 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - c-123540
 
+<a id="claim-t-135463"></a>
+- t-026
+  teiginys: "Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai."
+  atnaujinta: "2026-05-31 13:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Įsrutis: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Įsrutis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje nurodyta, kad kryžiuočiai statė naujas pilis, o toliau įvardyta Įsrutis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Įsrutis (0.68)"
+  temporaliniai_duomenys: "įvykio data: po 1466 m.; įvykio data: 1466 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-123526
+
 <a id="claim-t-135464"></a>
 - t-027
   teiginys: "Sukilėliai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais."
@@ -521,6 +566,24 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-123528
+
+<a id="claim-t-135466"></a>
+- t-028
+  teiginys: "1370 m. Rudavos bažnytkaimis, prie kurio lietuviai vėl susirinko po Sambijos niokojimo, buvo netoli Karaliaučiaus."
+  atnaujinta: "2026-05-31 13:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaliaučius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaučius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1370 m.; įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-123515
 
 <a id="claim-t-135467"></a>
 - t-029
@@ -778,6 +841,22 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-13409
+
+<a id="claim-t-135488"></a>
+- t-044
+  teiginys: "Karaliaučiaus rinka buvo svarbi Lietuvos vaško eksportui."
+  atnaujinta: "2026-05-31 13:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaliaučius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaučius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-32084
 
 <a id="claim-t-135489"></a>
 - t-045
@@ -1079,90 +1158,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - c-189102
 
-<a id="claim-t-207579"></a>
-- t-207579
-  teiginys: "Martynas Mažvydas turėjo kurti emigracijoje – Karaliaučiuje."
-  atnaujinta: "2026-09-19 02:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190196
-
-<a id="claim-t-208510"></a>
-- t-208510
-  teiginys: "1846 m. žemaitis poetas Simkevičius Karaliaučiuje tarnavo valdininku."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1846 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą, datą ir vietą bei tiesiogiai pagrįstas citata."
-  pagrindžia:
-    - c-191130
-
-<a id="claim-t-220674"></a>
-- t-220674
-  teiginys: "Karaliaučiaus komtūras Albertas minimas žygyje prieš Lietuvą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203518
-
-<a id="claim-t-222292"></a>
-- t-222292
-  teiginys: "Aplink švento Mikalojaus bažnyčią prie Karaliaučiaus pilies broliai buvo įkūrę miestą."
-  atnaujinta: "2026-09-19 02:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205915
-
-<a id="claim-t-223832"></a>
-- t-223832
-  teiginys: "Karaliaučiuje veikė brolių konventas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204995
-
-<a id="claim-t-224509"></a>
-- t-224509
-  teiginys: "Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija."
-  atnaujinta: "2026-09-19 02:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-225813"></a>
-- t-225813
-  teiginys: "Karaliaučius buvo kovų su rytinėmis prūsų žemėmis centras ir svarbus kelio į Livoniją komunikacijos mazgas."
-  atnaujinta: "2026-09-19 02:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
 ## Reikšmingi paminėjimai
 - c-027
   santrauka: 'Sukilėliai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais.'
@@ -1309,7 +1304,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-043
     - t-047
 
@@ -1332,7 +1327,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-21461
@@ -1359,7 +1354,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-014
     - t-017
     - t-021
 
@@ -1381,7 +1377,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-32084
@@ -1399,8 +1395,9 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
+    - t-044
 
 - id: c-32086
   autorius: "Zenonas Ivinskis"
@@ -1418,7 +1415,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-37414
@@ -1439,7 +1436,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-123504
@@ -1461,7 +1458,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
 
 - id: c-123506
@@ -1483,7 +1480,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-123507
@@ -1505,7 +1502,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-123508
@@ -1526,7 +1523,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
 
 - id: c-123509
@@ -1548,7 +1545,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-123511
@@ -1569,7 +1566,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-123512
@@ -1593,7 +1590,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
     - t-045
 
@@ -1616,7 +1613,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-123514
@@ -1638,7 +1635,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-020
 
@@ -1659,8 +1656,9 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
+    - t-028
 
 - id: c-123516
   autorius: "Michał Baliński"
@@ -1684,7 +1682,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
     - t-036
 
@@ -1706,7 +1704,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
 
 - id: c-123519
@@ -1726,7 +1724,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-123520
@@ -1751,7 +1749,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-123521
@@ -1771,7 +1769,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-123522
@@ -1794,7 +1792,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-123524
@@ -1819,7 +1817,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
     - t-046
 
@@ -1840,7 +1838,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-123526
@@ -1863,7 +1861,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-026
     - t-034
 
 - id: c-123528
@@ -1883,7 +1882,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-123529
@@ -1903,7 +1902,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-123530
@@ -1921,7 +1920,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-041
 
 - id: c-123531
@@ -1955,7 +1954,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-123532
@@ -1975,7 +1974,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
 
 - id: c-123536
@@ -2014,7 +2013,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
     - t-018
 
@@ -2034,7 +2033,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-123541
@@ -2060,7 +2059,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-123542
@@ -2079,7 +2078,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
 
 - id: c-123543
@@ -2107,7 +2106,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-123544
@@ -2131,7 +2130,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-123548
@@ -2149,7 +2148,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-167545
@@ -2167,7 +2166,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
 
 - id: c-168330
@@ -2191,12 +2190,11 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-050
 
 - id: c-168332
@@ -2226,7 +2224,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-051
     - t-055
 
@@ -2253,7 +2251,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-052
 
 - id: c-175438
@@ -2283,7 +2281,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-053
 
 - id: c-175932
@@ -2304,7 +2302,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-054
 
 - id: c-179045
@@ -2330,7 +2328,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-056
 
 - id: c-184953
@@ -2349,7 +2347,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-057
 
 - id: c-184954
@@ -2368,7 +2366,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-058
 
 - id: c-184955
@@ -2388,7 +2386,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-059
 
 - id: c-184956
@@ -2407,7 +2405,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-060
 
 - id: c-188388
@@ -2426,7 +2424,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-061
 
 - id: c-189100
@@ -2441,7 +2439,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-062
 
 - id: c-189101
@@ -2460,7 +2458,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-063
 
 - id: c-189102
@@ -2478,270 +2476,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-064
-
-- id: c-190196
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 150"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 150."
-  citata_originali: |
-    Dar po ketvirčio amžiaus 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kal-
-    ba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas Karaliaučiuje, bet skirtas
-    lietuviams ir Lietuvai. Tačiau, kaip žinoma, lietuviakalbė Abraomo Kulviečio programa
-    liko „šauksmu tyruose“. Tiek šis, tiek Martynas Mažvydas turėjo kurti emigracijoje – Ka-
-    raliaučiuje.
-  citata_rodoma: "Tiek šis, tiek Martynas Mažvydas turėjo kurti emigracijoje – Ka-\nraliaučiuje."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207579
-
-- id: c-191130
-  autorius: "Aleksandravičius, Egidijus"
-  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
-  puslapiai: "PDF 18"
-  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 18."
-  citata_originali: |
-    Kiti (V. Biržiška) teigė, jog tai buvo
-    kuris nors kitas, Šimkevičių pavardę turėjęs inteligentas, greičiausiai
-    emigrantas. Be to, V. Biržiška nurodė, jog laiško D. Poškai ąutorius
-    gali būti Rufino Piotrovičiaus, penktojo dešimtmečio viduryje bėgusio
-    nuo Rusijos valdžios persekiojimo užsienin, prisiminimuose minimas
-    žemaitis poetas Simkevičius, kuris 1846 m. Karaliaučiuje tarnavo
-    valdininku ir sakėsi daug žemaitiškų eilėraščių parašęs.
-  citata_rodoma: "Rufino Piotrovičiaus, penktojo dešimtmečio viduryje bėgusio \nnuo Rusijos valdžios persekiojimo užsienin, prisiminimuose minimas \nžemaitis poetas Simkevičius, kuris 1846 m. Karaliaučiuje tarnavo \nvaldininku ir sakėsi daug žemaitiškų eilėraščių parašęs."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208510
-
-- id: c-197004
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
-  citata_originali: |
-    Hartknochas, remdamasis vietos pa­
-    davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
-    įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog
-    smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros
-    potvyniai išilgai visos Prūsijos padarė nemažai Baltijos
-    jūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­
-    si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
-    potvynį, arba vietinį tvaną, cituotą prūsų kronikininko
-    Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­
-    mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
-    kronikos knygas), turėjo po ranka. Tačiau esama sunku­
-    mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
-    apie dalykus, susijusius su įvykiais, galėjusiais įvykti
-    daugiau negu šimtmetis prieš naują erą, jis mini 1190
-    metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
-    mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200873
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
-  citata_originali: |
-    Olafo bažnyčioje, pats
-    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
-    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
-    laikų vėliava, paimta Latvijoje. Man sakė, kad Karaliaučiuje
-    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
-    das žirgas, o ant jo - juodas gaidys.
-    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
-    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
-    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
-    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
-    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
-    veidžiai, kai kurie variniai ir sidabriniai daiktai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201867
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
-  citata_originali: |
-    Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją. Čia, be abejo,
-    suplaukdavo ne tik įvairiausia žodinė informacija, bet ir rašytiniai pranešimai, iš kurių
-    Dusburgietis galėjo semtis žinių savo kronikai. Taip mėginama aiškinti Dusburgiečio
-    133  PKD, s.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-201901
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 106"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
-  citata_originali: |
-    Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
-    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
-    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
-    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
-    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
-    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai. Sitai
-    užbaigęs ir įvykdęs maldininko įžadus, sugrįžo karalius į savo karalystę, žygyje praradęs
-    nedaug savo žmonių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203518
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
-  citata_originali: |
-    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
-    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
-    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220674
-
-- id: c-203982
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 246"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
-  citata_originali: |
-    101. Apie švento Ruprechto stebuklus Karaliaučiuje
-
-      1306 viešpaties metais Prūsijoje, Karaliaučiaus pilyje, viešpats ėmė daryti stebuklus
-    prie švento Ruprechto relikvijų, kur pagijo nuo visokiausių negalių daug žmonių, šunų
-    bei visokių traukos gyvulių.
-
-
-
-        102.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204598
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 107"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
-  citata_originali: |
-    Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
-    Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
-    skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat
-    būgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino
-    tolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami
-    ir degindami; daug žmonių paėmė į nelaisvę ir nukovė, o grįždami atgal, susimanė
-    pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
-    brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
-    bei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama
-    dievo apvaizdos, nedarančios klaidingų sprendimų: ji taip patvarkė, kad šita pilis, kurią
-    tuo metu nadruviai buvo pasistatę sau apsiginti, ilgainiui jiems pavirto kilpa ant kaklo
-    ir atvedė prie žlugimo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204995
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 129"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
-  citata_originali: |
-    Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223832
-
-- id: c-205896
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 134"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
-  citata_originali: |
-    Šis, paklausęs patarimo, susikvietė daug brolių bei
-    ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
-    juos užpuolė ir visus išžudė. Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
-    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
-    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-205915
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 121-122"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121-122."
-  citata_originali: |
-    Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
-                                         lojaus kalvoje
-
-      Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai
-    buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai netikėtai jį užpuolė
-      375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama
-    suktuvu. Šis kovos prie Karaliaučiaus epizodas įdomus viduramžių raitelių ir pėstininkų
-    kovos vedimo būdams suvokti (Дельбрюк Г., История..., т. 3, с. 193).
-      376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane (Brauno) yra prie Steindamm
-    gatvės. Vėliau — Steindamm Kirche (1613 m, XX a. planai), polnische Kirche (1815 m.
-    planas). Bažnyčia stovėjo apie 250 m į šiaurės vakarus nuo buv. pilies. Šioje vietoje, apie
-
-    ir visiškai sugriovė, daug žmonių paimdami į nelaisvę ir išžudydami. Todėl vėliau miestas
-    buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222292
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ignas Onacevičius]], [[objektai/grupes/Vokiečiai]]

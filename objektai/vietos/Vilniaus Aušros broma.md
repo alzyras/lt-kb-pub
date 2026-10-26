@@ -73,6 +73,5 @@ Vilniaus Aušros broma šiame šaltinyje yra šventovė ar miesto vartai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

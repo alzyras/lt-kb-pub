@@ -80,6 +80,5 @@ Lietuvos vyriausybė atmetė 1501 m. Melniko uniją.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

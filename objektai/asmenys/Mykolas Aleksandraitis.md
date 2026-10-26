@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-d7f4129e02ceaf894cf6b95f"
-canonical_name: "Mykolas Aleksandraitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mykolas Aleksandraitis"]
+entity_id: ent-d7f4129e02ceaf894cf6b95f
+canonical_name: Mykolas Aleksandraitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mykolas Aleksandraitis
 sameAs: []
-canonical_biography: "Mykolas Aleksandraitis buvo pasiųstas vietininku į Didįjį Naugardą."
+canonical_biography: Mykolas Aleksandraitis buvo pasiųstas vietininku į Didįjį Naugardą.
 ---
 # Mykolas Aleksandraitis
 
@@ -70,6 +72,5 @@ Mykolas Aleksandraitis buvo pasiųstas vietininku į Didįjį Naugardą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

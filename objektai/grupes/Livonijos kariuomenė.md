@@ -58,6 +58,5 @@ Livonijos kariuomenė buvo atėjusi į pagalbą Skirgailai prie Polocko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

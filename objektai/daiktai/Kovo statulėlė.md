@@ -80,6 +80,5 @@ Statulėlė buvo rasta 1836 metais netoli Kražių, Žemaitijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

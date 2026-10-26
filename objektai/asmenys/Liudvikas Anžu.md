@@ -77,6 +77,5 @@ canonical_biography: "1377 m. Vengrijos ir Lenkijos karalius Liudvikas Anžu lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

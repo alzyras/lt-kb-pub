@@ -125,7 +125,7 @@ Pilis sudeginta ir liko apleista.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-91569
@@ -148,6 +148,5 @@ Pilis sudeginta ir liko apleista.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

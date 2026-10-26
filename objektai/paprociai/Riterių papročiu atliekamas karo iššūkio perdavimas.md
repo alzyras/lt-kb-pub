@@ -83,6 +83,5 @@ Maskvos pasiuntiniai, perduodami Dmitrijaus Ivanovičiaus iššūkį Algirdui, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

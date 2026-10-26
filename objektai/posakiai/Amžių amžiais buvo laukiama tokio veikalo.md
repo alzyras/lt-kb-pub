@@ -58,6 +58,5 @@ Laukiant, kol pasirodys bešališka mokslingo išminčiaus nuomonė, gali ma pag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

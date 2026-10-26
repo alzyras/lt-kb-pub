@@ -80,7 +80,7 @@ Nenurodyta
 <a id="claim-t-223111"></a>
 - t-001
   teiginys: "1298 m. birželio 29 d. prie Naujojo Malūno pilies susijungusi Prūsijos ir Livonijos brolių kariuomenė nukovė daugiau kaip 4000 Rygos miestiečių ir lietuvių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

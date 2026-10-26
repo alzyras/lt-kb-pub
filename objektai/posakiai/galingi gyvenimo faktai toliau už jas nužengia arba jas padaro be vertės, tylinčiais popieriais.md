@@ -67,6 +67,5 @@ Kaip kiekviena sutartis taip ir ši pasiliko sutartimi: galingi gyvenimo faktai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

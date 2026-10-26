@@ -84,6 +84,5 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

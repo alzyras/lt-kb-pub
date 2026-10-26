@@ -66,6 +66,5 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

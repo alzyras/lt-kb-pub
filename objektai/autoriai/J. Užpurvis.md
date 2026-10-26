@@ -84,6 +84,5 @@ Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos ša
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

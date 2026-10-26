@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-3a89bfd139d3779d829db139"
-canonical_name: "Sierra Verde"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sierra Verde"]
+entity_id: ent-3a89bfd139d3779d829db139
+canonical_name: Sierra Verde
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sierra Verde
 sameAs: []
-canonical_biography: "Norie upė išteka iš Sierra Verdės ir įteka į Santandero įlanką."
-place_authority: true
-historical_names: []
+canonical_biography: Norie upė išteka iš Sierra Verdės ir įteka į Santandero įlanką.
 ---
 # Sierra Verde
 
@@ -64,6 +64,5 @@ Norie upė išteka iš Sierra Verdės ir įteka į Santandero įlanką.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

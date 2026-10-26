@@ -93,6 +93,5 @@ Kasparas Henenbergėris buvo 1595 m. išspausdintos Prūsijos kronikos autorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

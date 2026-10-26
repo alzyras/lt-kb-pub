@@ -99,7 +99,7 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188065
@@ -122,6 +122,5 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

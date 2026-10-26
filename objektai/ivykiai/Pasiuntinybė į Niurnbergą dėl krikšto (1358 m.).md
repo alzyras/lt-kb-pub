@@ -115,7 +115,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-14180
@@ -140,6 +140,5 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

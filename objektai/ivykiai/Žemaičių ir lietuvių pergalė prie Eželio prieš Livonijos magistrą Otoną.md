@@ -42,22 +42,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-196303"></a>
-- t-002
-  teiginys: "Netrukus po to Lietuvoje baigė dienas ir Ger mantas."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169203
-
 <a id="claim-t-185842"></a>
-- t-185842
+- t-001
   teiginys: "Prie Eželio žemaičiai ir lietuviai ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,6 +59,18 @@ Nenurodyta
   ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lietuviai kovojo šiame susidūrime."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   semantiniai_rysiai: "Žemaičiai dalyvavo mūšyje Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną (0.90)"
+  pagrindžia:
+    - c-169203
+
+<a id="claim-t-196303"></a>
+- t-002
+  teiginys: "Netrukus po to Lietuvoje baigė dienas ir Ger mantas."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169203
 
@@ -124,9 +124,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-    - t-185842
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Žemaičiai]]

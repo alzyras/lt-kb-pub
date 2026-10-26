@@ -72,6 +72,5 @@ Tie nuosprendžiai į knygas būdavo įrašomi rusiškai, lotyniškai arba lenki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

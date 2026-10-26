@@ -74,6 +74,5 @@ Jie buvo ramūs, nuo nieko nepriklausė, išskyrus chazarus, kuriems už savo ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -30,6 +30,25 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-c574b719d59bf5af057e1ff1
+canonical_name: Šiauliai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Saulė
+  - Saulės
+  - Šiauliai
+  - Šiauliuose
+  - Šiaulius
+  - Šiaulių
+  - Šiaulių apylinkėse
+  - Šiaulių žemė
+  - Šiaulių žemėje
+sameAs: []
+canonical_biography: 'riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo jiems kelią.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Šiauliai","url":"https://lt.wikipedia.org/wiki/%C5%A0iauliai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Šiauliai - Wikipedia","url":"https://en.wikipedia.org/wiki/%C5%A0iauliai","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:10:34+00:00","source_checked_at":"2026-09-19T17:10:34+00:00","counts":{"relations":5,"gallery":0,"sources":8},"featured_claim_ids":["t-182785","t-207630","t-193258","t-182786","t-182783"],"featured_claims":[{"claim_id":"t-182785","text":"1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-44078"]},{"claim_id":"t-207630","text":"Lietuvoje 1794 m. sukilimas prasidėjo Šiauliuose.","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","evidence_ids":["c-190247"]},{"claim_id":"t-193258","text":"Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-175990"]},{"claim_id":"t-182786","text":"Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-166193"]},{"claim_id":"t-182783","text":"Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-12723"]}],"featured_quote":{"text":"Važiuodamas kiaurai per vyskupystę, aplankiau visus kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­ šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir Kaune daugybę uždarytų per nelaimes, vaikų savo.","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","claim_id":"t-208629","evidence_id":"c-191249","origin":"internal"},"wiki":{"intro":"Šiauliai – miestas šiaurės Lietuvoje, ketvirtasis pagal gyventojų skaičių šalies miestas. Šiaulių apskrities ir Šiaulių rajono savivaldybės administracinis centras, Šiaulių miesto savivaldybė. Šiauliai yra svarbus ekonominis ir susisiekimo centras, jame veikia Vilniaus universiteto Šiaulių akademija, miestas yra katalikiškos vyskupystės centras.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"5293","revision_id":"7913125","status":"published","translation_status":"native","source":{"title":"Šiauliai","url":"https://lt.wikipedia.org/wiki/%C5%A0iauliai","publisher":"Vikipedija","language":"lt","article_id":"5293","revision_id":"7913125","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7913125","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%A0iauliai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:42.631116+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"23a1a1c4b5fa30ce3025ad7ca54c9475ba150422b77f7d138184a981227974c1","version_pk":"84362f2dc273f8da669443b3876576cd"}},"source_buttons":[{"label":"Vikipedija","title":"Šiauliai","url":"https://lt.wikipedia.org/wiki/%C5%A0iauliai","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%A0iauliai"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d74856e6aa108e64807f1a82","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Senovės gyvenvietė","context":"Šiaulių žemėje, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, plėtojosi senovės gyvenvietė.","support_ids":["t-182786","c-166193"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182786","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166193","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Šiaulių žemėje pagrindinė strateginė kelių sankryža yra Šiauliuose (ties dab. Tilžės ir Vilniaus gatvių san- kryža), kur plėtojosi senovės gyvenvietė."}],"status":"published","conflict_status":"clear"},{"trait_id":"7300b7dbc537bbae281259e9","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Pagrindinė strateginė kelių sankryža","context":"Šiaulių žemėje pagrindinė strateginė kelių sankryža buvo Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža.","support_ids":["t-182786","c-166193"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182786","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166193","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Šiaulių žemėje pagrindinė strateginė kelių sankryža yra Šiauliuose (ties dab. Tilžės ir Vilniaus gatvių san- kryža), kur plėtojosi senovės gyvenvietė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f07d467c70191150dcc31599","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Lietuvių gimnazija","context":"1916 m. Šiauliuose veikė lietuvių gimnazija.","support_ids":["t-209664","c-192284"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209664","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md"},{"kind":"evidence","evidence_id":"c-192284","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md","quote":"Lietuvių gimnazi­ jų esama Kaune, Vilniuje ir Šiauliuose."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Šiauliai – istorinė vieta ir senovės gyvenvietė, išaugusi prie svarbios kelių sankryžos. Šiaulių žemėje pagrindinė strateginė sankryža buvo dabartinių Tilžės ir Vilniaus gatvių sankirtos vietoje, todėl ši vietovė turėjo reikšmę regiono susisiekimui. 1236 m. ties Šiauliais įvyko didelis mūšis, kuriame lietuviai nugalėjo kalavijuočius; žuvo visa jų vadovybė, įskaitant magistrą, ir daug sąjungininkų. 1794 m. balandžio 16 d. Šiauliuose prasidėjo Lietuvos sukilimas, kurį pradėjo LDK 1-oji Tautinė brigada. Vėlesniais laikotarpiais Šiauliai išliko svarbiu administraciniu, kariniu ir kultūriniu tašku: 1916 m. čia veikė lietuvių gimnazija, o vienu istoriniu laikotarpiu miestui teko mokėti 30 kapų grašių sidabrinę.","sentences":[{"sentence_id":"s1","text":"Šiauliai – istorinė vieta ir senovės gyvenvietė, išaugusi prie svarbios kelių sankryžos.","support_ids":["t-182786","c-166193"]},{"sentence_id":"s2","text":"Šiaulių žemėje pagrindinė strateginė sankryža buvo dabartinių Tilžės ir Vilniaus gatvių sankirtos vietoje, todėl ši vietovė turėjo reikšmę regiono susisiekimui.","support_ids":["t-182786","c-166193"]},{"sentence_id":"s3","text":"1236 m. ties Šiauliais įvyko didelis mūšis, kuriame lietuviai nugalėjo kalavijuočius; žuvo visa jų vadovybė, įskaitant magistrą, ir daug sąjungininkų.","support_ids":["t-193258","c-175990","t-193783","c-176434"]},{"sentence_id":"s4","text":"1794 m. balandžio 16 d. Šiauliuose prasidėjo Lietuvos sukilimas, kurį pradėjo LDK 1-oji Tautinė brigada.","support_ids":["t-182785","c-44078","t-207630","c-190247"]},{"sentence_id":"s5","text":"Vėlesniais laikotarpiais Šiauliai išliko svarbiu administraciniu, kariniu ir kultūriniu tašku: 1916 m. čia veikė lietuvių gimnazija, o vienu istoriniu laikotarpiu miestui teko mokėti 30 kapų grašių sidabrinę.","support_ids":["t-209664","c-192284","t-201683","c-185030","t-182783","c-12723"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Šiauliuose prie svarbios strateginės kelių sankryžos plėtojosi senovės gyvenvietė."},{"sentence_id":"s2","supported":false,"reason":"Šaltiniai patvirtina sankryžos vietą ir strateginę reikšmę, tačiau neparemia teiginio apie reikšmę regiono susisiekimui kaip atskiro loginio padarinio."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai patvirtina 1236 m. mūšį prie Saulės / Šiaulių, lietuvių pergalę, kalavijuočių vadovybės, įskaitant magistrą, žūtį ir daugybę sąjungininkų aukų."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina, kad 1794 m. balandžio 16 d. Šiauliuose sukilimą pradėjo LDK 1-oji Tautinė brigada."},{"sentence_id":"s5","supported":false,"reason":"Šaltiniai patvirtina lietuvių gimnazijos veikimą Šiauliuose ir 30 kapų grašių mokestį, tačiau neparemia bendro teiginio apie išlikusią administracinę, karinę ir kultūrinę svarbą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-182786","c-166193"]},{"sentence_id":"s2","supported":true,"support_ids":["t-182786","c-166193"]},{"sentence_id":"s3","supported":true,"support_ids":["t-193258","c-175990","t-193783","c-176434"]},{"sentence_id":"s4","supported":true,"support_ids":["t-182785","c-44078","t-207630","c-190247"]},{"sentence_id":"s5","supported":true,"support_ids":["t-209664","c-192284","t-201683","c-185030","t-182783","c-12723"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gime","direction":"inbound","target":"objektai/asmenys/Victor David Brenner","claim_id":"t-64932","confidence":0.7},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-28705","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Virgoličiaus rinktinė","claim_id":"t-182783","confidence":0.96},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kryžių kalnas","claim_id":"t-183490","confidence":0.58},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kalavijuočių ordinas","claim_id":"t-78777","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":9,"sources":6}}'
 object_page_finisher: 'true'
@@ -43,15 +62,6 @@ object_page_seo_description: 'Šiauliai – istorinė vieta ir senovės gyvenvie
 object_page_seo_input_hash: 1c0c7f4bca1bbe325d3671d62f63e3a473cadcc8f09c1e321925aed89821a38f
 object_page_seo_generated_at: '2026-09-19T17:10:34+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-c574b719d59bf5af057e1ff1"
-canonical_name: "Šiauliai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Saulė","Saulės","Šiauliai","Šiauliuose","Šiaulius","Šiaulių","Šiaulių apylinkėse","Šiaulių žemė","Šiaulių žemėje"]
-sameAs: ["https://www.wikidata.org/entity/Q134712"]
-canonical_biography: "riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo jiems kelią."
-place_authority: true
-historical_names: []
 ---
 # Šiauliai
 
@@ -151,58 +161,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   pagrindžia:
     - c-185030
 
-<a id="claim-t-207630"></a>
-- t-207630
-  teiginys: "Lietuvoje 1794 m. sukilimas prasidėjo Šiauliuose."
-  atnaujinta: "2026-09-24 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1794 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą bei tiesiogiai nurodo Šiauliuose prasidėjusį 1794 m. sukilimą."
-  pagrindžia:
-    - c-190247
-
-<a id="claim-t-208629"></a>
-- t-208629
-  teiginys: "Keliaudamas per vyskupystę, vyskupas aplankė kalinius Šiauliuose, Telšiuose, Raseiniuose, Vilkmergėje, Panevėžyje, Ežerėnuose ir Kaune."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:52Z"
-  pagrindžia:
-    - c-191249
-
-<a id="claim-t-209664"></a>
-- t-209664
-  teiginys: "Šiauliuose veikė lietuvių gimnazija."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192284
-
-<a id="claim-t-230679"></a>
-- t-230679
-  teiginys: "1944 m. rugpjūčio 5–6 d. Vytauto Januškevičiaus grupė Šiaulių miesto šiaurinėje dalyje susidūrė su sovietinės armijos kariais."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  pagrindžia:
-    - c-211317
-
 ## Citatos
 
 - id: c-12723
@@ -223,7 +181,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-44078
@@ -246,7 +204,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-166193
@@ -268,7 +226,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-175990
@@ -287,7 +245,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-176434
@@ -307,7 +265,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-185030
@@ -326,80 +284,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-190247
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 194"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 194."
-  citata_originali: |
-    Šiandienių antigegu-
-    žininkų alternatyvi orientacija į Masalskį ir targovitėnus nuosekliai turi atvesti į poziciją,
-    kad būtent Jekaterina II ir Muravjovas Korikas išgelbėjo lietuvybę.
-    Dėl Gardino seimo nutarimų 1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam
-    vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Ta-
-    das Kosciuška. Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose.
-  citata_rodoma: "Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207630
-
-- id: c-191249
-  autorius: "Puzaras, Petras"
-  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
-  puslapiai: "PDF 214"
-  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 214."
-  citata_originali: |
-    Argi nežinot, jogiai kožnas, išplė­
-    šius ar pavagiąs svetimą naudą, tol negali būti išgany­
-    tas, kol nesugrąžins, ką išplėšė ar pavogė.
-    Važiuodamas kiaurai per vyskupystę, aplankiau visus
-    kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­
-    šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir
-    Kaune daugybę uždarytų per nelaimes, vaikų savo.
-  citata_rodoma: "Važiuodamas kiaurai per vyskupystę, aplankiau visus \nkalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­\nšiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir \nKaune daugybę uždarytų per nelaimes, vaikų savo."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208629
-
-- id: c-192284
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 69"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 69."
-  citata_originali: |
-    Lietuvių gimnazi­
-    jų esama Kaune, Vilniuje ir Šiauliuose.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209664
-
-- id: c-211317
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 57"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 57."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-230679
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Virgoličiaus rinktinė]]

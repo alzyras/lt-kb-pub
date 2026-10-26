@@ -84,6 +84,5 @@ Be kitų, kiek ankstesnių puldinėjimų, apie kuriuos tėra tik bendro po būd�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

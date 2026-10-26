@@ -59,6 +59,5 @@ Sužinojau, kad trečioj klesoj ■esama per pusantro tūkstančio italų ir gra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

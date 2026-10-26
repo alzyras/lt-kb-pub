@@ -71,6 +71,5 @@ T. Narbutas nurodo, kad tariami lietuviški kreipiniai į Kovo dievą buvo iška
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

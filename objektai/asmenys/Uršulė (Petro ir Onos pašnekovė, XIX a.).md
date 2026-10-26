@@ -74,6 +74,5 @@ Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

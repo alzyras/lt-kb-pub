@@ -57,6 +57,5 @@ T. Narbutas penktojo LTI tomo epigrafui pasirinko Servanteso mintį apie istorij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

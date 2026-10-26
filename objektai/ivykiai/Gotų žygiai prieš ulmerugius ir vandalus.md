@@ -85,7 +85,7 @@ Gotai nugalėjo ulmerugius ir nusiaubė jų kraštą tarp Oderio ir Viparos. Sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-196049
@@ -106,6 +106,5 @@ Gotai nugalėjo ulmerugius ir nusiaubė jų kraštą tarp Oderio ir Viparos. Sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

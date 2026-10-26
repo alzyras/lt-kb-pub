@@ -7,6 +7,7 @@ variantai:
 aliases:
   - 'Ožkiniai'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1941 m.'
@@ -42,11 +43,7 @@ historical_names: []
 
 ## Santrauka
 
-Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buvusios šinkorkos. Karčemų aprašyme Ožkinių kaimas pateikiamas kaip medinių, dvišlaičiais arba nusklembtais stogais dengtų karčemų pavyzdys.
-
-## Santrauka
-
-Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buvusios šinkorkos. Karčemų aprašyme Ožkinių kaimas pateikiamas kaip medinių, dvišlaičiais arba nusklembtais stogais dengtų karčemų pavyzdys.
+Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buvusios šinkorkos. Karčemų aprašyme Ožkinių kaimas pateikiamas kaip medinių, dvišlaičiais arba nusklembtais stogais dengtų karčemų pavyzdys. Onos Dapšytės-Kriukelienės kronikoje 1948 m. gegužės 16 d. Ožkinių kaime, gavus informatoriaus „Ruporio“ (Juozo Nevieros) agentūrinį pranešimą, aprašyta karinė čekistų operacija, per kurią buvo nukauti du partizanai.
 
 ## Teiginiai
 
@@ -68,7 +65,15 @@ Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buv
   santrauka: 'Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buvusios šinkorkos.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 728 (PDF 729)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 728 (PDF 729)."
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Onos Dapšytės-Kriukelienės kronikoje 1948 m. gegužės 16 d. Ožkinių kaime, gavus informatoriaus „Ruporio“ (Juozo Nevieros) agentūrinį pranešimą, aprašyta karinė čekistų operacija, per kurią buvo nukauti du partizanai.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 311"
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -85,6 +90,5 @@ Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buv
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

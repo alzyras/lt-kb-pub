@@ -70,6 +70,5 @@ Krotka nauka 0 kosach i pikach, Warszawa, 1794.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

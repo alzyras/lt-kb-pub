@@ -91,6 +91,5 @@ Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

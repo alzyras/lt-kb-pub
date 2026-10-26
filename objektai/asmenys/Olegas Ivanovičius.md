@@ -34,6 +34,21 @@ canonical_biography: "Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu
 
 Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko su kariuomenėmis.
 
+## Teiginiai
+
+<a id="claim-t-194120"></a>
+- t-001
+  teiginys: "Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko su kariuomenėmis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176733
+
 ## Citatos
 
 - id: c-176733
@@ -63,4 +78,5 @@ Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

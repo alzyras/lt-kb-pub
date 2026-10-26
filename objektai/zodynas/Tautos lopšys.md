@@ -65,6 +65,5 @@ Jau iki mūsų pastebėta, kad lietuvių tautos lopšio ieš koti reikia po kitu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

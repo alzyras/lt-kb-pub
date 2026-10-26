@@ -72,6 +72,5 @@ Sis pavadinimas kilęs iš lie tuviško žodžio Zeme-galas todėl, kad čia buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

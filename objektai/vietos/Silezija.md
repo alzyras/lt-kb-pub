@@ -28,6 +28,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-e4be638d9092c1f1194c5375
+canonical_name: Silezija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Silezija
+sameAs: []
+canonical_biography: 'Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo priverstas atsisakyti nuo sosto.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Silezija","url":"https://lt.wikipedia.org/wiki/Silezija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Silezija","url":"https://www.vle.lt/straipsnis/silezija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T11:32:34+00:00","source_checked_at":"2026-09-19T11:32:34+00:00","counts":{"relations":5,"gallery":0,"sources":7},"featured_claim_ids":["t-95161","t-95167","t-95169","t-95163","t-95164","t-95160","t-95168"],"featured_claims":[{"claim_id":"t-95161","text":"1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-90137"]},{"claim_id":"t-95167","text":"Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-90133"]},{"claim_id":"t-95169","text":"Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-90133"]},{"claim_id":"t-95163","text":"Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-90135"]},{"claim_id":"t-95164","text":"Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-90141"]},{"claim_id":"t-95160","text":"Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-90134"]},{"claim_id":"t-95168","text":"Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-90139"]}],"featured_quote":{"text":"Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui ir jo svainiui Mikalojui Sachsei, taip pat savo dvariškiams, su reikalais vykstantiems į Sileziją. Žr.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-95165","evidence_id":"c-90138","origin":"internal"},"wiki":{"intro":"Silezija (szl. Ślůnsk, lenk. Śląsk, vok. Schlesien, ček. Slezsko) – regionas Vidurio Europoje, esantis Lenkijos pietvakariuose ir Čekijos šiaurėje. Aukštutinė Silezija (pietų Lenkijoje) yra svarbus pramoninis regionas. Pagrindiniai regiono miestai: Bytomas, Glivicai, Katovicai, Legnica, Opolė, Valbžychas, Vroclavas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"30069","revision_id":"7724343","status":"published","translation_status":"native","source":{"title":"Silezija","url":"https://lt.wikipedia.org/wiki/Silezija","publisher":"Vikipedija","language":"lt","article_id":"30069","revision_id":"7724343","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7724343","history_url":"https://lt.wikipedia.org/w/index.php?title=Silezija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:21:58.230907+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"c206c987b1383dbe01bb7f63eb3f9f3f2033becd41ac1203cc581dc2b1a4e29a","version_pk":"ae866f4d7eaf61c2ef6629ae5a6fd948"}},"source_buttons":[{"label":"Vikipedija","title":"Silezija","url":"https://lt.wikipedia.org/wiki/Silezija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Silezija","url":"https://www.vle.lt/straipsnis/silezija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Silezija","https://www.vle.lt/straipsnis/silezija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"73dcf9e6ffadb31962b8ddd0","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Silezijoje randama pavienių gintaro gabalų.","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.), aprašydamas gintaro radimvietes.","support_ids":["t-215084","c-194642"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215084","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194642","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Jūra dažnai išmeta gintarą, prikibusį prie supuvusių šių medžių skiedrų, ir kartu patvirtina Plini- jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­ mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­ skirtos nuo medžių žievės1. 152 Pavienių gintaro gabalų randama beveik visur: Lie­ tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­ lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­ balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­ ponijos salose turėtų būti gintaro, nes tenykščiai gyven­ tojai žino, iš ko jis atsiranda2."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Silezija – istorijos šaltiniuose minima vieta, susijusi su Lietuvos politiniais, prekybiniais ir kultūriniais ryšiais. Vytauto laikais Vilniaus prekybos tinklas jau siekė Sileziją, o 1432 m. ypač Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis. Silezijos kunigaikščiai dalyvavo reikšmingame susirinkime kartu su Vokietijos pasiuntiniais ir Hanzos atstovais. Regionas buvo svarbus ir žmonių judėjimui: į Vilnių atsikėlę Silezijos amatininkai kartu su kitais vokiečių meistrais tapo turtingiausiu miesto gyventojų sluoksniu. Silezija minima ir kariniuose bei dinastiniuose įvykiuose: ties Byčina Maksimilijonas pralaimėjo mūšį ir pateko į nelaisvę, o Glogovo kunigaikštis Žygimantas iš Silezijos atvyko į Vilnių kaip mirusio karaliaus brolis.","sentences":[{"sentence_id":"s1","text":"Silezija – istorijos šaltiniuose minima vieta, susijusi su Lietuvos politiniais, prekybiniais ir kultūriniais ryšiais.","support_ids":["t-95160","t-95164","t-95167"]},{"sentence_id":"s2","text":"Vytauto laikais Vilniaus prekybos tinklas jau siekė Sileziją, o 1432 m. ypač Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.","support_ids":["t-95160","t-95161"]},{"sentence_id":"s3","text":"Silezijos kunigaikščiai dalyvavo reikšmingame susirinkime kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.","support_ids":["t-95164"]},{"sentence_id":"s4","text":"Regionas buvo svarbus ir žmonių judėjimui: į Vilnių atsikėlę Silezijos amatininkai kartu su kitais vokiečių meistrais tapo turtingiausiu miesto gyventojų sluoksniu.","support_ids":["t-95167","t-95169"]},{"sentence_id":"s5","text":"Silezija minima ir kariniuose bei dinastiniuose įvykiuose: ties Byčina Maksimilijonas pralaimėjo mūšį ir pateko į nelaisvę, o Glogovo kunigaikštis Žygimantas iš Silezijos atvyko į Vilnių kaip mirusio karaliaus brolis.","support_ids":["t-95163","t-95168"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį tiesiogiai ir kartu paremia prekybos, politinių susitikimų bei amatininkų migracijos šaltiniai."},{"sentence_id":"s2","supported":true,"reason":"Abu konkretūs teiginiai tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis patvirtina dalyvius, bet nepatvirtina, kad susirinkimas buvo reikšmingas."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis nurodo, kad amatininkai kartu su Rusios ir Livonijos pirkliais sudarė turtingiausią sluoksnį, o ne kad vien amatininkai kartu su kitais vokiečių meistrais tai sudarė."},{"sentence_id":"s5","supported":true,"reason":"Abu įvykiai tiesiogiai paremti atitinkamai t-95163 ir t-95168 šaltiniais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-95160","t-95164","t-95167"]},{"sentence_id":"s2","supported":false,"support_ids":["t-95160","t-95161"]},{"sentence_id":"s3","supported":false,"support_ids":["t-95164"]},{"sentence_id":"s4","supported":false,"support_ids":["t-95167","t-95169"]},{"sentence_id":"s5","supported":false,"support_ids":["t-95163","t-95168"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Hansas Tscheizas","claim_id":"t-87683","confidence":0.87},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Mikalojus Sachse","claim_id":"t-87788","confidence":0.9},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-95161","confidence":0.8},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-95161","confidence":0.82},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-114283","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":13,"sources":5}}'
 object_page_finisher: 'true'
@@ -41,15 +52,6 @@ object_page_seo_description: 'Silezija – istorijos šaltiniuose minima vieta, 
 object_page_seo_input_hash: 9d488a2b5f01a7e5ab126cb38ad77ef7a0953cd3080bbcc779ed60c569269a58
 object_page_seo_generated_at: '2026-09-19T11:32:34+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-e4be638d9092c1f1194c5375"
-canonical_name: "Silezija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Silezija"]
-sameAs: ["https://www.wikidata.org/entity/Q81720"]
-canonical_biography: "Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo priverstas atsisakyti nuo sosto."
-place_authority: true
-historical_names: []
 ---
 # Silezija
 
@@ -250,30 +252,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   pagrindžia:
     - c-175530
 
-<a id="claim-t-211167"></a>
-- t-211167
-  teiginys: "Ir karalius Jiržis paruošė savo kariuomenę iš Čeki jos, ir iš Silezijos, ir iš visų savo žemių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-192948
-
-<a id="claim-t-211183"></a>
-- t-211183
-  teiginys: "Iš sekan čio— beveik 40 metų — laikotarpio (iki 1492 m.) By chovco kronikoje beveik nėra nė vieno platesnio pa sakojimo iš pačios Lietuvos valstybės vidaus gyveni mo, o kalbama apie tolimus Lenkijos pasienius — Prū siją, Sileziją, Moldaviją, Juodosios jūros."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194183
-
 ## Citatos
 
 - id: c-90133
@@ -299,7 +277,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
     - t-010
 
@@ -325,7 +303,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-90135
@@ -347,7 +325,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-90136
@@ -374,7 +352,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-90137
@@ -397,7 +375,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-90138
@@ -423,7 +401,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
     - t-007
 
@@ -448,7 +426,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-90141
@@ -475,7 +453,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-175530
@@ -501,71 +479,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
-
-- id: c-192948
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 137"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 137."
-  citata_originali: |
-    Ir karalius Jiržis paruošė savo kariuomenę iš Čeki­
-    jos, ir iš Silezijos, ir iš visų savo žemių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211167
-
-- id: c-194183
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 16"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 16."
-  citata_originali: |
-    Iš sekan­
-    čio— beveik 40 metų — laikotarpio (iki 1492 m.) By­
-    chovco kronikoje beveik nėra nė vieno platesnio pa­
-    sakojimo iš pačios Lietuvos valstybės vidaus gyveni­
-    mo, o kalbama apie tolimus Lenkijos pasienius — Prū­
-    siją, Sileziją, Moldaviją, Juodosios jūros pakraščius.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211183
-
-- id: c-194642
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
-  citata_originali: |
-    Jūra dažnai išmeta gintarą, prikibusį prie
-    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
-    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
-    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
-    skirtos nuo medžių žievės1.
-    152
-    Pavienių gintaro gabalų randama beveik visur: Lie­
-    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
-    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
-    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
-    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
-    tojai žino, iš ko jis atsiranda2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Mikalojus Sachse]]

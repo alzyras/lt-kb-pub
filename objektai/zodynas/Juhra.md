@@ -97,6 +97,5 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -24,13 +24,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-4cd6fe68d31862ea01ca565f"
-canonical_name: "Jokūbas Šimkevičius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Jokūbas Šimkevičius"]
+entity_id: ent-4cd6fe68d31862ea01ca565f
+canonical_name: Jokūbas Šimkevičius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Jokūbas Šimkevičius
 sameAs: []
-canonical_biography: "1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie girtavimą“ autorius."
+canonical_biography: 1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie girtavimą“ autorius.
 ---
 # Jokūbas Šimkevičius
 
@@ -68,9 +71,8 @@ canonical_biography: "1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209294"></a>

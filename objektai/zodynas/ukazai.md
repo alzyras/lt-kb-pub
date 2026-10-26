@@ -59,6 +59,5 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

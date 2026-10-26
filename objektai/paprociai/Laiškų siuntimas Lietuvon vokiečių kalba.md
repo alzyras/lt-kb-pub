@@ -95,7 +95,7 @@ Per trumpą Jono Augštuolio buvimą Stockholme į Lietuvą buvo persiųsta arti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192522
@@ -113,6 +113,5 @@ Per trumpą Jono Augštuolio buvimą Stockholme į Lietuvą buvo persiųsta arti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

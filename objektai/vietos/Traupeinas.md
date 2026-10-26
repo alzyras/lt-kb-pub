@@ -46,6 +46,26 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 
 ## Teiginiai
 
+<a id="claim-t-58481"></a>
+- t-001
+  teiginys: "Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Traupeinas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Traupeinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pagudėnai aiškiai paliko pėstininkus Traupeino pilies apgulai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagudėnai apgulė Traupeinas (0.92); Divanas surengė žygį į Kulmas (0.76); Linkas surengė žygį į Kulmas (0.76)"
+  temporaliniai_duomenys: "mūšio data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Divanas puolė Pagudėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kristburgas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes."
+  pagrindžia:
+    - c-59113
+
 <a id="claim-t-58483"></a>
 - t-002
   teiginys: "Traupeinas rodyklėje siejamas su vardais Tranpere, Traupeien, vėlesniu Troopen ir dabartiniais Tropais."
@@ -61,24 +81,6 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59114
-
-<a id="claim-t-220202"></a>
-- t-220202
-  teiginys: "Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Traupeinas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Traupeinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pagudėnai aiškiai paliko pėstininkus Traupeino pilies apgulai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pagudėnai apgulė Traupeinas (0.92); Linkas surengė žygį į Kulmas (0.76)"
-  temporaliniai_duomenys: "mūšio data: 1265 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Divanas puolė Pagudėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kristburgas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes."
 
 ## Citatos
 
@@ -104,6 +106,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-59114
   autorius: "Petras Dusburgietis"
@@ -123,28 +127,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-- id: c-204878
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 319-320"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 319-320."
-  citata_originali: |
-    Toruń)
-    Totoriai, totoriai-mongolai
-
-    Transilvanija
-      Traupeinas (Tranpere, Traupeien; vėliau Troopen, dab. Tropai)
-      Traupis
-      Treiderė (Gauja), u.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Apgulė Traupeiną: [[objektai/grupes/Pagudėnai]]

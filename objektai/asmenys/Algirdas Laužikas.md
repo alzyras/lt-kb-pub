@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Algirdas Laužikas'
 saltiniai:
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 datos:
   - '1950 m.'
@@ -37,11 +38,7 @@ canonical_biography: "Algirdas Laužikas-Tėvas žuvo 1950 m. birželio 13 d. Gi
 
 ## Santrauka
 
-Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodiškiu ir Mataušu Kunčiu-Starkumi.
-
-## Santrauka
-
-Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodiškiu ir Mataušu Kunčiu-Starkumi.
+Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodiškiu ir Mataušu Kunčiu-Starkumi. Algirdas Laužikas-Malūnas, Antano sūnus, partizanu tapo 1944 m. ir žuvo 1950 m. birželio 13 d. Medinų miške netoli Subačiaus miestelio. Anicetas Laužikas vadovavo Vytenio būrio partizanams, su kuriais nuo 1947 m. vasario ryšius palaikė Jonas Šeinauskas.
 
 ## Reikšmingi paminėjimai
 
@@ -49,7 +46,6 @@ Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodišk
   santrauka: 'Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodiškiu ir Mataušu Kunčiu-Starkumi.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 624 (PDF 625)"
-  indeksas: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai, p. 624 (PDF 625)."
   citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -57,31 +53,12 @@ Algirdas Laužikas žuvo birželio 13 d. Girelės miške kartu su Petru Juodišk
   statusas: verified
 - t-002
 
-## Teiginiai
-
-<a id="claim-t-230585"></a>
-- t-001
-  teiginys: "Anicetas Laužikas vadovavo Vytenio būrio partizanams, su kuriais nuo 1947 m. vasario ryšius palaikė Jonas Šeinauskas."
-  atnaujinta: "2026-09-28 20:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
-  pagrindžia:
-    - c-211223
-
-## Citatos
-
-- id: c-211223
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
-  puslapiai: "PDF 278"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 278."
+- c-002
+  santrauka: 'Algirdas Laužikas-Malūnas, Antano sūnus, partizanu tapo 1944 m. ir žuvo 1950 m. birželio 13 d. Medinų miške netoli Subačiaus miestelio.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
+  puslapiai: "PDF 289"
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-28 18:40"
-  pagrindžia:
-    - t-001
-

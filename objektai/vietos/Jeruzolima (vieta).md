@@ -80,6 +80,5 @@ Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

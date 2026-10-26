@@ -24,13 +24,14 @@ media_all_json: |-
 
 Kronikoje nurodoma, kad prie Karsakiškio išgirdęs apie daug kareivių ir galimą suėmimą, Vytautas Januškevičius pasiūlė grupei vykti atskirai, o Povilo Plėtos grupė atsiskyrė.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213922
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Kronikoje nurodoma, kad prie Karsakiškio išgirdęs apie daug kareivių ir galimą suėmimą, Vytautas Januškevičius pasiūlė grupei vykti atskirai, o Povilo Plėtos grupė atsiskyrė.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 32"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 32."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:40"

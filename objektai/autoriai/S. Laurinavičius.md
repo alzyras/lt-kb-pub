@@ -14,13 +14,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-1b019553a6af7e8ee9463f7f"
-canonical_name: "S. Laurinavičius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["S. Laurinavičius"]
+entity_id: ent-1b019553a6af7e8ee9463f7f
+canonical_name: S. Laurinavičius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - S. Laurinavičius
 sameAs: []
-canonical_biography: "S. Laurinavičius buvo Kauno mokyklos profesorius ir prefektas, pateikęs vietinių tyrinėjimų faktus."
+canonical_biography: 'S. Laurinavičius buvo Kauno mokyklos profesorius ir prefektas, pateikęs vietinių tyrinėjimų faktus.'
 ---
 # S. Laurinavičius
 
@@ -66,6 +69,5 @@ S. Laurinavičius buvo Kauno mokyklos profesorius ir prefektas, pateikęs vietin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

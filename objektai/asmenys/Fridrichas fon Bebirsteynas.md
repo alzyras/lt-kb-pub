@@ -102,6 +102,5 @@ Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

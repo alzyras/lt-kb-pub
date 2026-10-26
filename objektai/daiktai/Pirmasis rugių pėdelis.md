@@ -74,6 +74,5 @@ Lasickis trum pai pamini, kad šeimininkas, nupjovęs patį pirmąjį pėdelį r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

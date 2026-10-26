@@ -76,11 +76,9 @@ Kerdžius prie lango rėkauja reikalaudamas piemens.
     pamatysi“ . . .
   citata_rodoma: "Atsistoja gatvėje prieš langą ir rėkauja: „Aš neturiu \nšunies kojų lakstyti aplink bandą, kad piemenų nėra. \nJei neleidi pie­\nmens — gink pati, man vistiek, imu ir parvarau karves į kiemą, tai ir\npamatysi“ . . ."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -55,22 +55,10 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   pagrindžia:
     - c-172070
 
-<a id="claim-t-216528"></a>
-- t-216528
-  teiginys: "Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie tuvių genties tautos žinojo trizną."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198141
-
-<a id="claim-t-219773"></a>
-- t-219773
+<a id="claim-t-189183"></a>
+- t-003
   teiginys: "Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -84,6 +72,8 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Triznų giminė gyveno Lietuvoje."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172071
 
 ## Citatos
 
@@ -105,7 +95,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-172070
@@ -124,7 +114,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-172071
@@ -151,42 +141,5 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198141
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 367"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
-  citata_originali: |
-    Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
-    tuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­
-    mos laidojant labai žymius žmones.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216528
-
-- id: c-200213
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 363"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
-  citata_originali: |
-    Raite­
-    liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
-    kuris prijos pirmasis ir paims pinigą, pelno nemenką šlovę. Jis
-    nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš
-    akių; kiti lydi mirusįjį iki laidojimo vietos. Šios lenktynės yra
-    dalis triznos papročio, žmonių pamėgdžiojamo ir mūsų istori­
-    ko pastebėto.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-003

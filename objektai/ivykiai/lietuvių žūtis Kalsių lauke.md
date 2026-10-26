@@ -70,6 +70,5 @@ Fridrichas iš Libencelės, Albrechtas iš Oros ir Ditrichas iš Altenburgo su 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

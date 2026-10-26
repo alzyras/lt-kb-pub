@@ -56,6 +56,5 @@ Ten jis sugavo merginą, žymią paną iš gar sios Habdanko herbo 12 giminės, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

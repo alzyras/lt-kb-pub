@@ -35,22 +35,10 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
 
 ## Teiginiai
 
-<a id="claim-t-197622"></a>
-- t-002
-  teiginys: "Pagal tas pačias taisykles Kur de Zebelen (Court de Gebelins) savo „Monde pri mitif“ žodį Peruką kildino iš jtVQQaÇ; Puantine de Sivrej (Poinsinet de Sivry."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174561
-
-<a id="claim-t-214356"></a>
-- t-214356
+<a id="claim-t-191679"></a>
+- t-001
   teiginys: "Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino iš graikiško pavadinimo."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +53,19 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-197539
+    - c-174561
+
+<a id="claim-t-197622"></a>
+- t-002
+  teiginys: "Pagal tas pačias taisykles Kur de Zebelen (Court de Gebelins) savo „Monde pri mitif“ žodį Peruką kildino iš jtVQQaÇ; Puantine de Sivrej (Poinsinet de Sivry."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-174561
 
 ## Citatos
 
@@ -91,32 +91,6 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-
-- id: c-197539
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 334"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
-  citata_originali: |
-    Pagal tas pačias taisykles
-    Kur de Zebelen (Court de Gebelins) savo „Monde pri­
-    mitif“ žodį Peruką kildino iš jtVQQaÇ; Puantine de Sivrej
-    (Poinsinet de Sivry. Origines de premières sociétés des
-    peuples etc.) pirmuosius žmones po Tvano aptiko Pirė­
-    nuose, įžvelgęs šio pavadinimo pradžią žodyje
-    jt v q , ug­
-    nis, o žemės rojų, arba Paradis, — Ispanijoje, prie Tago,
-    visai šalia Sevilijos, nes ten yra vietovė Paradas. Nuo
-    Ebro upės atkeliavo hebrajai, o rusai yra roussis par
-    le feu. Bet jau pakanka šių svaičiojimų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214356
-

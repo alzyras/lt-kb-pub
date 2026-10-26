@@ -70,18 +70,3 @@ Morta pasakojime pristatoma kaip penkiolikmetė pasakotojo sesuo, rugiapjūtėje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195557"></a>
-- t-001
-  teiginys: "Morta buvo penkiolikmetė pasakotojo sesuo."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177974
-

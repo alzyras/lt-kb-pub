@@ -78,6 +78,5 @@ Bazilijus Dmitrovičius po viešnagės susižiedavo su Vytauto dukra Anastazija,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

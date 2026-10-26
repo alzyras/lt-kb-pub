@@ -78,6 +78,5 @@ Atėjus sutartam susitikimo laikui, Jogaila su broliais ir aukštaisiais valstyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

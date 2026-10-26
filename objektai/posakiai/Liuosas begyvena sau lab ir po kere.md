@@ -67,6 +67,5 @@ Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tauto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

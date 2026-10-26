@@ -96,7 +96,7 @@ Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186329
@@ -114,7 +114,7 @@ Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-186330
@@ -134,6 +134,5 @@ Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

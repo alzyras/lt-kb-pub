@@ -18,6 +18,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-7552de3d0d7d1297db0fc7f7
+canonical_name: Motiejus Pretorijus
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Motiejus Pretorijus
+sameAs: []
+canonical_biography: 'Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasis savo paties matytais pastebėjimais. Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais. Pasak Pretorijaus, Poiein ziemme senovės prūsams turėjo reikšti galingos genties žemę.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:52:14+00:00","source_checked_at":"2026-09-20T14:52:14+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0}},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T14:52:14+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -31,13 +41,6 @@ object_page_seo_description: 'Motiejus Pretorijus: Narbutas rašo, kad Pretoriju
 object_page_seo_input_hash: a7b6d1da1fb62ed74e2203119ff27ce0decf68e52b64c3caf6521f71ae7ef52e
 object_page_seo_generated_at: '2026-09-20T14:52:14+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-7552de3d0d7d1297db0fc7f7"
-canonical_name: "Motiejus Pretorijus"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Motiejus Pretorijus"]
-sameAs: []
-canonical_biography: "Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasis savo paties matytais pastebėjimais. Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais. Pasak Pretorijaus, Poiein ziemme senovės prūsams turėjo reikšti galingos genties žemę."
 ---
 # Motiejus Pretorijus
 
@@ -259,7 +262,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-173213
@@ -281,7 +284,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-173642
@@ -304,7 +307,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-173643
@@ -331,7 +334,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-173644
@@ -359,7 +362,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-007
 
@@ -386,80 +389,5 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-195186
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 262"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
-  citata_originali: |
-    Si provincija
-    plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,
-    o pavadinimą gavo iš senovinio miesto Vlm, kurį vokiš­
-    kai pradėta vadinti Culm, lenkiškai — Chefmno', anot
-    Pretorijaus tyrimų2, šis pavadinimas turėjo reikšti kalvą,
-    1 S ajar zykąs, atmetęs tą išvadą (Starožyin. slaw. § 19. Nr. 5),
-    teigia, jog prūsų protėviai buvo Ptolemėjo aprašyti frugundionai —
-    tauta (o gal gentis), kurios mes nė nedrįstume priskirti prie lietuvių
-    genties. Šio nepaprastai mokslingo tyrinėtojo (nelaimei, pernelyg
-    dainai besiremiančio nuojauta, — dėl to jo išvados dažnai klaidin­
-    gos) įrodinėjimus verta čia išdėstyti bent jau tam, kad išsakytume ir
-    savo nuomonę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196057
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
-  citata_originali: |
-    Pavadinimą gavo nuo Jesse, ar­
-    ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
-    ties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­
-    tas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­
-    mas turėtų būti atsiradęs dėl vietovės kalvotumo. Pasak
-    Pretorijaus, Poiein ziemme senovės prūsams turėjo reikš­
-    ti galingos genties žemę1. Šioje provincijoje, prie to pa­
-    ties pavadinimo ežero, buvęs Truso prekybos miestas, da­
-    bar netoli šiandienio Elbliongo.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-196457
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 369-370"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
-  citata_originali: |
-    Ne Sarkės, o Šar­
-    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
-    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
-    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
-    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
-    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
-    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    dos turėjo būti vadinama Cyse arba Sussa. Bet panašiau
-    į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
-    pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
-    esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
-    tai labiau primena šį pavadinimą, nors ši vieta, mūsų
-    nuomone, priklauso Nadruvai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

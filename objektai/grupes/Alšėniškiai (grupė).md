@@ -71,6 +71,5 @@ Pasak Narbuto, Alšys prie Neries įkūrė rezidencinę pilį, pavadintą Alšė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

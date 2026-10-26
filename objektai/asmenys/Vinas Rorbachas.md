@@ -66,6 +66,5 @@ Pirmuoju mistru tų kalavijaus brostvių buvo Vinas Rorbachas, vyras kantrus ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

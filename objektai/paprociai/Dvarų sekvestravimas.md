@@ -75,11 +75,9 @@ Nenurodyta
     padarytą valstybei ir iždui. Rusijos imperijoje plačiai praktikuoti dvarų sekvestrai, reiš­
     kiantys laikinai suspenduotą savininko teisę į dvaro pajamas, M. J. Römerio neaplenkė.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 13:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

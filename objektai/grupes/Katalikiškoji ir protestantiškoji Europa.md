@@ -72,6 +72,5 @@ senoji Vakarų Europa skilo į dvi dalis – pietinę katalikiškąją ir šiaur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

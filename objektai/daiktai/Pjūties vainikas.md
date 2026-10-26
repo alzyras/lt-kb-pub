@@ -90,7 +90,7 @@ Iš baigiamų pjauti javų paskutinės saujos pjo vėjos nupina vainiką, išdab
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-201583
@@ -108,6 +108,5 @@ Iš baigiamų pjauti javų paskutinės saujos pjo vėjos nupina vainiką, išdab
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

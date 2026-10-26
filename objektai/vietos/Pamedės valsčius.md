@@ -70,6 +70,5 @@ Teodoras Narbutas aprašo, kad po netikėto smūgio Pamedės valsčiaus apylink�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

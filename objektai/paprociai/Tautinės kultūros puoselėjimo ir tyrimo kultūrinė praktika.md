@@ -80,6 +80,5 @@ Kultūrinės draugijos kvietė išsaugoti ir tobulinti gimtąją kalbą, puosel�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

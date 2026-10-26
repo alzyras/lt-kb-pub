@@ -69,7 +69,7 @@ Narbutas teigia, kad borestenitų gentis davė pradžią karališkiesiems skitam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-196464
@@ -88,6 +88,5 @@ Narbutas teigia, kad borestenitų gentis davė pradžią karališkiesiems skitam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

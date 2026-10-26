@@ -69,10 +69,10 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   pagrindžia:
     - c-61588
 
-<a id="claim-t-225684"></a>
-- t-225684
+<a id="claim-t-60958"></a>
+- t-003
   teiginys: "Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kreiviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,6 +82,8 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   ryšio_targeto_parinkimas: "Kreiviai: mention_match, place, gap=1"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mickevičius J. Putvės pilis XIV amžiuje\" parinktas kaip owner_note_path. Targetas \"Kreiviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61590
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -118,7 +120,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-61589
@@ -134,7 +136,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-61590
@@ -153,39 +155,5 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-202968
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 201"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 201."
-  citata_originali: |
-    Kryžiuočių kelių aprašymuose (XIV a. pabaiga) minimas Putinveld (Weg.
-    12, 16), Putetauken (Weg. 18). Pūtvės pilis ir laukas identifikuojami su Pūtvės kaimu
-    prie Akmenos (Jūros intako)  į pietryčius nuo Šilalės, su ten buvusiu (upės nuplautu)
-    arba gretimo Kreivių kaimo piliakalniu (SRP, 2, p. 673—675; SZM, p. 201; Biržiška V.,
-    Kryžiuočių keliai..., p. 32—33; Mickevičius J., Pūtvės pilis..., p. 286—287; Jurginis J.,
-    Baudžiavos..., p. 88; LAA, 2, p. 142), tačiau Kreivių kaime tėra kalva, vardu Pilė, be
-    įtvirtinimų ir kultūrinio sluoksnio pėdsakų (LAA, 2, p.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-204496
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
-  citata_originali: |
-    Mickevičius J. Putvės pilis XIV amžiuje.— Gimtasai kraštas, 1940, Nr. 3—4, p. 286—
-    287.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-003

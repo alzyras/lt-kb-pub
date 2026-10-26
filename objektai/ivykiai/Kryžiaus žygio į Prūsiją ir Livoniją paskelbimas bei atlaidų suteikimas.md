@@ -71,6 +71,5 @@ Dusburgietis pasakoja, kad Hermanas iš Zalcos paprašė popiežiaus teisės ske
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

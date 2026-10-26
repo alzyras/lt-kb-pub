@@ -55,7 +55,7 @@ Dusburgietis pasakoja, kad 1276 metais popiežius Jonas XXI sudėjo didelę fizi
 <a id="claim-t-220963"></a>
 - t-001
   teiginys: "Dusburgietis pasakoja, kad 1276 metais popiežius Jonas XXI sudėjo didelę fizikos mokslo knygą „Summa, vel thesaurus pauperum...“."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

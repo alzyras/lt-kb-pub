@@ -67,7 +67,7 @@ Henenbergeris tikina, kad dar jo laikais, tai yra XVI amžiaus pabaigoje, Nemuno
 <a id="claim-t-217782"></a>
 - t-001
   teiginys: "Henenbergeris tikina, kad dar jo laikais, tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab meldžių papratimu slapčia."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

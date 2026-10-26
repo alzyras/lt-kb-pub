@@ -58,6 +58,5 @@ Maskvos didysis kunigaikštis pasiuntė į Obolcus pasiuntinį su taikos nutrauk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

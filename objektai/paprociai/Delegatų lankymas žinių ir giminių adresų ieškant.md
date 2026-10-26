@@ -75,6 +75,5 @@ Delegatams atvykus Kaunan, gandas pas klido po visą Lietuvą apie jų pribuvim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

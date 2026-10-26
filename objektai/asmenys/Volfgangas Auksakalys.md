@@ -85,6 +85,5 @@ canonical_biography: "24 Vilniuje Žygimanto Senojo laikais auksakalių būta da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

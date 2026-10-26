@@ -73,6 +73,5 @@ Narbutas teigia, kad Jasono vadovaujama kelionė vyko Argo laivu, o jos dalyviai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

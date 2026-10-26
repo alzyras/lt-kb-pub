@@ -88,7 +88,7 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-44707
@@ -107,6 +107,5 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

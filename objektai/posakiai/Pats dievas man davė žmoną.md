@@ -55,6 +55,5 @@ Man būtų reikėję ieškotis žmonos, o dabar pats dievas man davė žmoną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

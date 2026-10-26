@@ -72,6 +72,5 @@ Po vadų žūties varmiai ir notangai vėl pasidavė tikėjimui ir broliams.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

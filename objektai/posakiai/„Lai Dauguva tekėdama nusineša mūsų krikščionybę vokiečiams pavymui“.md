@@ -81,6 +81,5 @@ Vos tik kryžiuočių flotilė paliko Dauguvos žio-- tis, latviai ėmė burtis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

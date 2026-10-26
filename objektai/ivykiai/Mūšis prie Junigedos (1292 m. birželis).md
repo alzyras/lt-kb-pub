@@ -76,6 +76,5 @@ Teodoro Narbuto aprašyme Ragainės komtūras Konradas Stangė, gavęs kariuomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -102,7 +102,7 @@ Teodoro Narbuto aprašymu, 1322 m. žiemą kryžiuočių armijai vadovavo kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188545
@@ -125,6 +125,5 @@ Teodoro Narbuto aprašymu, 1322 m. žiemą kryžiuočių armijai vadovavo kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8fcabef451d3a69f1f097e91"
-canonical_name: "Elbliongo (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Elbliongo","Elbliongo (vieta)"]
+entity_id: ent-8fcabef451d3a69f1f097e91
+canonical_name: Elbliongo (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Elbliongo
+  - Elbliongo (vieta)
 sameAs: []
-canonical_biography: "Senovės Druso miestas buvo netoli dabartinio Elbliongo."
-place_authority: true
-historical_names: []
+canonical_biography: Senovės Druso miestas buvo netoli dabartinio Elbliongo.
 ---
 # Elbliongo (vieta)
 
@@ -69,6 +70,5 @@ Senovės Druso miestas buvo netoli dabartinio Elbliongo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

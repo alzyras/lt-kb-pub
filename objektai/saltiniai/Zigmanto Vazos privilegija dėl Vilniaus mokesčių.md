@@ -60,6 +60,5 @@ Nesutarimai dėl judėjimo keliais laisvės buvo kilę ir tarp dviejų didžiųj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

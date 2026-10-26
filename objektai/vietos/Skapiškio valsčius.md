@@ -23,9 +23,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Skapiškio valsčius"]
 sameAs: []
-canonical_biography: "MGB Skapiškio valsčiaus poskyris nušovė 1 partizaną, užverbavo 6 informatorius. "
-place_authority: true
-historical_names: []
+canonical_biography: "MGB Skapiškio valsčiaus poskyris nušovė 1 partizaną, užverbavo 6 informatorius. Skapiškio valsčiuje – 1 karinė grupė, 17 kareivių."
 ---
 # Skapiškio valsčius
 
@@ -33,22 +31,23 @@ historical_names: []
 
 Kupiškio krašto partizanų kronikoje nurodoma, kad MGB Skapiškio valsčiaus poskyris nušovė vieną partizaną ir užverbavo šešis informatorius. Skapiškio valsčiuje buvo viena karinė grupė, kurią sudarė 17 kareivių.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-214926
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Kupiškio krašto partizanų kronikoje nurodoma, kad MGB Skapiškio valsčiaus poskyris nušovė vieną partizaną ir užverbavo šešis informatorius.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 339"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 339."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:45"
-
-- id: c-214927
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-002
+  santrauka: 'Skapiškio valsčiuje buvo viena karinė grupė, kurią sudarė 17 kareivių.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 340"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 340."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:45"

@@ -111,7 +111,7 @@ Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188557
@@ -132,7 +132,7 @@ Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-188558
@@ -153,6 +153,5 @@ Narbutas rašo, kad 1274 m. Jarunis vedė totorių kariauną, prie kurios prisid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

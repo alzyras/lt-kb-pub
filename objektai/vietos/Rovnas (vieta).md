@@ -82,6 +82,5 @@ Vytenis, palikęs belaisvius ir grobį miško tankumyne, kur juos prižiūrėjo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

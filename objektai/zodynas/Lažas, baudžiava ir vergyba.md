@@ -64,6 +64,5 @@ Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

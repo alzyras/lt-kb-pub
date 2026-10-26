@@ -80,6 +80,5 @@ Ordino kariuomenė įsiveržė į Lietuvos žemę ir ugnimi nusiaubė Vaikių va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -99,7 +99,7 @@ Ukmergės, Vilniaus, Trakų ir Lydos ap skrityse, nuo seniausių laikų buvo spe
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-194717
@@ -118,7 +118,7 @@ Ukmergės, Vilniaus, Trakų ir Lydos ap skrityse, nuo seniausių laikų buvo spe
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-196350
@@ -140,6 +140,5 @@ Ukmergės, Vilniaus, Trakų ir Lydos ap skrityse, nuo seniausių laikų buvo spe
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

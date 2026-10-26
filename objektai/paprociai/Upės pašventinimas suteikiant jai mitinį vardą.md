@@ -72,6 +72,5 @@ Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad birių gyventa pakran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

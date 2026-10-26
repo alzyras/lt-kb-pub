@@ -80,7 +80,7 @@ Hindenburgo padavadinimai Kaune buvo leidžiami vokiečių ir lietuvių kalbomis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192316
@@ -99,6 +99,5 @@ Hindenburgo padavadinimai Kaune buvo leidžiami vokiečių ir lietuvių kalbomis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -68,6 +68,5 @@ Narbutas pasakoja, kad Gelono šlovės paveldėtojai žuvo mūšiuose su švedai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

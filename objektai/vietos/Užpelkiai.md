@@ -91,7 +91,7 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 ## Ryšiai

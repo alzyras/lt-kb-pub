@@ -83,7 +83,7 @@ Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai r�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-186363
@@ -103,6 +103,5 @@ Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai r�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -70,6 +70,5 @@ XIV am žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami jos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -79,6 +79,5 @@ O Lietu vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre niotos mirti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

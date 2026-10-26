@@ -64,6 +64,5 @@ Be viršminėtų mokesnių prūsų val džia yra paskyrusi daugel pabaudimo už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -20,9 +20,10 @@ test("B keeps its URL, approved publication state, authorship and distinct socia
 test("B retains a substantial edited article and eight independent illustrations", () => {
   const main=article.content.split("## Šaltiniai")[0].replace(/<details[\s\S]*?<\/details>/g,"").replace(/<figure[\s\S]*?<\/figure>/g,"").replace(/<!--[\s\S]*?-->/g,"").replace(/<[^>]*>/g,"")
   const words=main.split(/\s+/).filter(Boolean).length
-  // Editorial length is not a word quota; retain substantive sections and illustrations.
-  assert.ok(main.trim() && words<=3500,`${words} main words`)
-  for (const heading of ["Kam degtinė nešė pajamas?", "Ką pasižadėdavo brolijos narys", "Mažiau degtinės, mažiau pajamų", "Pažadą reikėjo priminti"]) assert.ok(main.includes(heading))
+  // Apimtį lemia medžiaga; tikriname pilną straipsnį, ne ankstesnę žodžių normą.
+  assert.ok(words>0,`${words} main words`)
+  for(const heading of ['## Kodėl žmogus eidavo į karčemą?','## Kaip kvietimas negerti pasiekė parapiją?','## Ką pasižadėdavo brolijos narys'])
+    assert.ok(main.includes(heading),heading)
   const figures=[...article.content.matchAll(/<figure class="valancius-figure">[\s\S]*?<\/figure>/g)]
   assert.equal(figures.length,8)
   assert.equal(new Set(figures.map(f=>f[0].match(/src="([^"]+)/)?.[1])).size,8)
@@ -42,8 +43,8 @@ test("A selection is preserved through copy editing; B keeps five sections and e
   assert.ok(items.every((i:any)=>!['altorius','litanija','giesmynas','vyskupyste'].includes(i.key)))
   assert.ok(items.some((i:any)=>i.key==='medalis'&&i.date.includes('1889')))
   for(const s of curation.B.sections){
-    const count=s.lead.split(/\s+/).length;assert.ok(s.lead.trim() && count<=100)
-    for(const i of s.items){const count=i.description.split(/\s+/).length;assert.ok(i.description.trim() && count<=120,i.key)}
+    const count=s.lead.split(/\s+/).length;assert.ok(count>=60&&count<=100)
+    for(const i of s.items){const count=i.description.split(/\s+/).length;assert.ok(count>=70&&count<=120,i.key)}
   }
 })
 

@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-5667ee0b4059aac59bc861f7"
-canonical_name: "Kulmo miestas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kulmo miestas"]
+entity_id: ent-5667ee0b4059aac59bc861f7
+canonical_name: Kulmo miestas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kulmo miestas
 sameAs: []
-canonical_biography: "Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miesto miestiečiai nukovė prūsų kariuomenės vadą ir daug karių."
-place_authority: true
-historical_names: []
+canonical_biography: Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miesto miestiečiai nukovė prūsų kariuomenės vadą ir daug karių.
 ---
 # Kulmo miestas
 
@@ -76,7 +76,7 @@ Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-203373
@@ -94,6 +94,5 @@ Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

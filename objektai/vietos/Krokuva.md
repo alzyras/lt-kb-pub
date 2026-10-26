@@ -42,6 +42,20 @@ media_primary_json: '{"mediaId":"m-9024dea5ff7aa6650cae7b7d","title":"1847 map o
 media_direct_json: '[{"mediaId":"m-0653f7d4247ba8654b0d01d9","title":"Krakow intages 1655 SP261.jpg","caption":"1655 m. Krokuvos apgulties ir miesto panorama, vaizduojanti miestą iš Švedijos kariuomenės stovyklos.","originalTitle":"Krakow intages 1655 SP261.jpg","creator":"Engraving by Dahlbergh.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://libris.kb.se/bib/544922","dateDisplay":"1655","dateStart":null,"dateEnd":null,"width":8220,"height":4452,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish–Swedish War (1655–1660)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prints of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Siege of Kraków (1655)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674008+03:00","reviewedAt":"2026-07-31T05:55:24.933018+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma didelė miesto panorama, miesto pastatai, gynybinė aplinka, kariuomenės stovyklos ir apšaudymas.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Krakow/Krokuva, Cracovia ir 1655 m. apgultis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Istorinė graviūra tiesiogiai vaizduoja Krokuvą.","isPrimary":1},{"mediaId":"m-9024dea5ff7aa6650cae7b7d","title":"1847 map of Kraków by Alexander Kocziczka.jpg","caption":"1847 m. istorinis Krokuvos ir Podgórzės apylinkių planas.","originalTitle":"1847 map of Kraków by Alexander Kocziczka.jpg","creator":"Alexander Kocziczka","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.raremaps.com/gallery/detail/66009/plan-von-krakau-mit-podgorze-und-der-nachsten-umgebung-her-kocziczka","dateDisplay":"1847","dateStart":null,"dateEnd":null,"width":10658,"height":14578,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1840s maps of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Alexander Kocziczka","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Large images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps from Barry Lawrence Ruderman Antique Maps Inc. (Raremaps.com)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.671526+03:00","reviewedAt":"2026-07-31T05:55:24.958126+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus miesto planas su Krokuvos centru, Vysla, Kazimierzu, Podgórze ir aplinkinėmis teritorijomis.","metadataEvidence":"Pavadinimas tiesiogiai nurodo 1847 map of Kraków; žemėlapyje įrašyta PLAN von KRAKAU.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Istorinis žemėlapis tiesiogiai vaizduoja Krokuvos miestą.","isPrimary":0},{"mediaId":"m-add5e6adcbbc20103caf9f97","title":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","caption":"Krokuvos panorama nuo Piłsudskio piliakalnio","originalTitle":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","creator":"Jakub Hałun","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-05-02 14:11:49","dateStart":null,"dateEnd":null,"width":5772,"height":3853,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Las Wolski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Panoramas of Wawel","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images by Jakub Hałun","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Views from Piłsudski Mound","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Łęg Cogeneration and power plant","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.675075+03:00","reviewedAt":"2026-07-31T05:50:44.452649+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Krokuvos miesto panorama, Vavelio pilis ir kiti miesto objektai.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta, kad tai vaizdas iš Piłsudskio piliakalnio Krokuvoje.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Krokuvos miestą ir jo panoramą.","isPrimary":0},{"mediaId":"m-a81897c56c3f0cff149bb78f","title":"Krakow´s Main Square at dusk (9156827273).jpg","caption":"Krokuvos pagrindinė aikštė vakaro metu.","originalTitle":"Krakow´s Main Square at dusk (9156827273).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:52","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Krakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Krakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg/1920px-Krakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Krakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.880091+03:00","reviewedAt":"2026-07-31T05:55:24.970902+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Rynek Główny panorama su istoriniais pastatais, aikštės erdve, paminklu ir Šv. Adalberto bažnyčia.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Krakow’s Main Square.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Fotografija aiškiai vaizduoja konkretų Krokuvos miesto objektą.","isPrimary":0},{"mediaId":"m-406e59797245214ecdc5b9c6","title":"Krakow´s Main Square at dusk (9157072789).jpg","caption":"Krokuvos pagrindinė aikštė sutemose","originalTitle":"Krakow´s Main Square at dusk (9157072789).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:44","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Krakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Krakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg/1920px-Krakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Krakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.880706+03:00","reviewedAt":"2026-07-31T05:50:44.460126+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma aikštė su istoriniais pastatais, paminklu, Šv. Adalberto bažnyčia ir miesto aplinka.","metadataEvidence":"Pavadinimas ir išsamus aprašymas tiesiogiai nurodo Kraków Main Square ir Rynek Główny.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai ir tiesiogiai vaizduoja Krokuvos pagrindinę aikštę.","isPrimary":0},{"mediaId":"m-e1ff1a3aaeb94f6b11022c1d","title":"Krakow´s Main Square at dusk (9159045278).jpg","caption":"Krokuvos pagrindinė aikštė sutemus, su istorinių pastatų eile ir Šv. Adalberto bažnyčia.","originalTitle":"Krakow´s Main Square at dusk (9159045278).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:31","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Krakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Krakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg/1920px-Krakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Krakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.881123+03:00","reviewedAt":"2026-07-31T05:55:24.953082+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi būdingi aikštės pastatai, Šv. Adalberto bažnyčia ir paminklas aikštės centre.","metadataEvidence":"Metaduomenys nurodo Krakow’s Main Square ir išsamiai aprašo Krokuvos aikštės objektus.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai ir tiesiogiai susijęs su Krokuva.","isPrimary":0},{"mediaId":"m-fc9ec67c251174f5fea5a395","title":"Krakow´s Main Square at dusk (9159055668).jpg","caption":"Krokuvos pagrindinė aikštė sutemus.","originalTitle":"Krakow´s Main Square at dusk (9159055668).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:57","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Krakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Krakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg/1920px-Krakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Krakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC Flickr photo ID","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC published in","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.881574+03:00","reviewedAt":"2026-07-31T05:55:24.942329+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Rynek Główny aikštė, istoriniai Krokuvos pastatai, Adomo Mickevičiaus paminklas ir apvali Šv. Adalberto bažnyčia.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Kraków Main Square; autorius ir data pateikti Wikimedia Commons metaduomenyse.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Fotografija tiesiogiai vaizduoja konkretų Krokuvos miesto centrą.","isPrimary":0},{"mediaId":"m-7dc17a7ec7810b94d2c48144","title":"Kraków Old Town (9159192118).jpg","caption":"Krokuvos senamiestis dieną, žvelgiant Floriańska gatve link Švč. Mergelės Marijos bazilikos.","originalTitle":"Kraków Old Town (9159192118).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Kraków Old Town","dateDisplay":"2012-08-07 15:32","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_Old_Town_%289159192118%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/58/Krak%C3%B3w_Old_Town_%289159192118%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Krak%C3%B3w_Old_Town_%289159192118%29.jpg/1920px-Krak%C3%B3w_Old_Town_%289159192118%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/58/Krak%C3%B3w_Old_Town_%289159192118%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Floriańska Street in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:35:13.765957+03:00","reviewedAt":"2026-07-31T05:55:24.967082+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Floriańska gatvė, istoriniai pastatai ir tolumoje išsiskiriantys Švč. Mergelės Marijos bazilikos bokštai.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Kraków Old Town bei Floriańska gatvę.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir vizualiai atpažįstamai vaizduoja Krokuvos senamiestį.","isPrimary":0},{"mediaId":"m-34942847882f8fac2b9a356d","title":"Kraków Old Town as seen from St. Mary''s Basilica (9157064189).jpg","caption":"Krokuvos senamiestis nuo Švč. Mergelės Marijos bazilikos","originalTitle":"Kraków Old Town as seen from St. Mary''s Basilica (9157064189).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Kraków Old Town as seen from St. Mary''s Basilica","dateDisplay":"2012-08-07 13:44","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Krak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Krak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg/1920px-Krak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Krak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Views from Saint Mary Basilica in Kraków","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:35:13.766744+03:00","reviewedAt":"2026-07-31T05:50:44.444442+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš aukštai matomas Krokuvos senamiestis, pagrindinė aikštė ir istoriniai pastatai.","metadataEvidence":"Pavadinime aiškiai nurodyta Kraków Old Town, o aprašymas identifikuoja Krokuvos senamiestį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginė ir aiškiai identifikuojama Krokuvos miesto panorama.","isPrimary":0},{"mediaId":"m-2c00da3fd94d2eea00c28022","title":"Kraków Old Town at dusk (9159202954).jpg","caption":"Krokuvos senamiestis sutemus.","originalTitle":"Kraków Old Town at dusk (9159202954).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Kraków Old Town at dusk","dateDisplay":"2012-08-08 21:48","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Krak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Krak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg/1920px-Krak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Krak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Floriańska Street in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:35:13.804442+03:00","reviewedAt":"2026-07-31T05:55:24.962801+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Krokuvos senamiesčio panorama su pagrindine aikšte, istoriniais namais ir bažnyčių bokštais.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Kraków Old Town ir jo konkretūs objektai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Fotografija tiesiogiai vaizduoja Krokuvos senamiestį.","isPrimary":0},{"mediaId":"m-7ad94dac4b282700cd634693","title":"Kraków location map.svg","caption":"Krokuvos vietos žemėlapis","originalTitle":"Kraków location map.svg","creator":"SANtosito","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-10-07","dateStart":null,"dateEnd":null,"width":1001,"height":641,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_location_map.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.677650+03:00","reviewedAt":"2026-07-31T05:50:44.456595+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Krokuvos teritorija su administracinėmis ribomis, keliais, upėmis ir vandens telkiniais.","metadataEvidence":"Pavadinimas yra „Kraków location map.svg“, o aprašymas nurodo Krokuvą Mažosios Lenkijos vaivadijoje ir geografines ribas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja konkretų target – Krokuvą.","isPrimary":0},{"mediaId":"m-46cdf64ce27c982ddf0471d5","title":"Kraków rail location map.svg","caption":"Krokuvos geležinkelių vietos žemėlapis","originalTitle":"Kraków rail location map.svg","creator":"Winnetou14","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"Own work","dateDisplay":"2023-12-14","dateStart":null,"dateEnd":null,"width":1001,"height":641,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_rail_location_map.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674719+03:00","reviewedAt":"2026-07-31T05:50:44.409457+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma detalizuota miesto teritorijos, administracinių ribų ir geležinkelių schema.","metadataEvidence":"Pavadinime aiškiai nurodyta „Kraków“, o aprašymas identifikuoja Krokuvos vietos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja konkretų target – Krokuvą.","isPrimary":0},{"mediaId":"m-103e5fdd790971830bbc1789","title":"Section of Krakow´s Main Square at dusk (9156813625).jpg","caption":"Krokuvos pagrindinė aikštė sutemose","originalTitle":"Section of Krakow´s Main Square at dusk (9156813625).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Section of Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:18","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASection_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg/1920px-Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC Flickr photo ID","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC published in","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.882009+03:00","reviewedAt":"2026-07-31T05:50:44.439995+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Krokuvos pagrindinė aikštė su istoriniais pastatais ir miesto architektūra.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo Kraków Main Square, Rynek Główny Krokuvoje.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai atpažįstama Krokuvos pagrindinė aikštė.","isPrimary":0},{"mediaId":"m-a88302177f08e7f059e4bb7b","title":"Section of Krakow´s Main Square at dusk (9159040206).jpg","caption":"Krokuvos pagrindinės aikštės dalis sutemus.","originalTitle":"Section of Krakow´s Main Square at dusk (9159040206).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Section of Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:20","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASection_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg/1920px-Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.882495+03:00","reviewedAt":"2026-07-31T05:55:24.947966+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi Krokuvos Rynek Główny istoriniai namai ir aikštės erdvė.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Kraków Main Square.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Fotografija tiesiogiai vaizduoja Krokuvos pagrindinės aikštės dalį.","isPrimary":0},{"mediaId":"m-791ffedec6c18848050b4db2","title":"The Main Square (9156672495).jpg","caption":"Krokuvos pagrindinė aikštė","originalTitle":"The Main Square (9156672495).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"The Main Square","dateDisplay":"2012-08-07 08:08","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Main_Square_%289156672495%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Main_Square_%289156672495%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Main_Square_%289156672495%29.jpg/1920px-The_Main_Square_%289156672495%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Main_Square_%289156672495%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC Flickr photo ID","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC published in","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.883025+03:00","reviewedAt":"2026-07-31T05:50:44.448251+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pagrindinė aikštė, Sukiennice, Šv. Adalberto bažnyčia ir istoriniai Krokuvos pastatai.","metadataEvidence":"Aprašymas tiesiogiai nurodo Main Square Rynek Główny w Krakowie.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Krokuvos pagrindinę aikštę.","isPrimary":0}]'
 media_contextual_json: '[]'
 media_all_json: '[{"mediaId":"m-0653f7d4247ba8654b0d01d9","title":"Krakow intages 1655 SP261.jpg","caption":"1655 m. Krokuvos apgulties ir miesto panorama, vaizduojanti miestą iš Švedijos kariuomenės stovyklos.","originalTitle":"Krakow intages 1655 SP261.jpg","creator":"Engraving by Dahlbergh.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://libris.kb.se/bib/544922","dateDisplay":"1655","dateStart":null,"dateEnd":null,"width":8220,"height":4452,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish–Swedish War (1655–1660)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prints of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Siege of Kraków (1655)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674008+03:00","reviewedAt":"2026-07-31T05:55:24.933018+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma didelė miesto panorama, miesto pastatai, gynybinė aplinka, kariuomenės stovyklos ir apšaudymas.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Krakow/Krokuva, Cracovia ir 1655 m. apgultis.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Istorinė graviūra tiesiogiai vaizduoja Krokuvą.","isPrimary":1},{"mediaId":"m-9024dea5ff7aa6650cae7b7d","title":"1847 map of Kraków by Alexander Kocziczka.jpg","caption":"1847 m. istorinis Krokuvos ir Podgórzės apylinkių planas.","originalTitle":"1847 map of Kraków by Alexander Kocziczka.jpg","creator":"Alexander Kocziczka","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.raremaps.com/gallery/detail/66009/plan-von-krakau-mit-podgorze-und-der-nachsten-umgebung-her-kocziczka","dateDisplay":"1847","dateStart":null,"dateEnd":null,"width":10658,"height":14578,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1840s maps of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Alexander Kocziczka","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Large images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps from Barry Lawrence Ruderman Antique Maps Inc. (Raremaps.com)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.671526+03:00","reviewedAt":"2026-07-31T05:55:24.958126+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus miesto planas su Krokuvos centru, Vysla, Kazimierzu, Podgórze ir aplinkinėmis teritorijomis.","metadataEvidence":"Pavadinimas tiesiogiai nurodo 1847 map of Kraków; žemėlapyje įrašyta PLAN von KRAKAU.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Istorinis žemėlapis tiesiogiai vaizduoja Krokuvos miestą.","isPrimary":0},{"mediaId":"m-add5e6adcbbc20103caf9f97","title":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","caption":"Krokuvos panorama nuo Piłsudskio piliakalnio","originalTitle":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","creator":"Jakub Hałun","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-05-02 14:11:49","dateStart":null,"dateEnd":null,"width":5772,"height":3853,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Las Wolski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Panoramas of Wawel","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images by Jakub Hałun","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Quality images of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Views from Piłsudski Mound","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Łęg Cogeneration and power plant","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.675075+03:00","reviewedAt":"2026-07-31T05:50:44.452649+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Krokuvos miesto panorama, Vavelio pilis ir kiti miesto objektai.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta, kad tai vaizdas iš Piłsudskio piliakalnio Krokuvoje.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Krokuvos miestą ir jo panoramą.","isPrimary":0},{"mediaId":"m-a81897c56c3f0cff149bb78f","title":"Krakow´s Main Square at dusk (9156827273).jpg","caption":"Krokuvos pagrindinė aikštė vakaro metu.","originalTitle":"Krakow´s Main Square at dusk (9156827273).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:52","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Krakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Krakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg/1920px-Krakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Krakow%C2%B4s_Main_Square_at_dusk_%289156827273%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.880091+03:00","reviewedAt":"2026-07-31T05:55:24.970902+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Rynek Główny panorama su istoriniais pastatais, aikštės erdve, paminklu ir Šv. Adalberto bažnyčia.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Krakow’s Main Square.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Fotografija aiškiai vaizduoja konkretų Krokuvos miesto objektą.","isPrimary":0},{"mediaId":"m-406e59797245214ecdc5b9c6","title":"Krakow´s Main Square at dusk (9157072789).jpg","caption":"Krokuvos pagrindinė aikštė sutemose","originalTitle":"Krakow´s Main Square at dusk (9157072789).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:44","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Krakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Krakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg/1920px-Krakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Krakow%C2%B4s_Main_Square_at_dusk_%289157072789%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.880706+03:00","reviewedAt":"2026-07-31T05:50:44.460126+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma aikštė su istoriniais pastatais, paminklu, Šv. Adalberto bažnyčia ir miesto aplinka.","metadataEvidence":"Pavadinimas ir išsamus aprašymas tiesiogiai nurodo Kraków Main Square ir Rynek Główny.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai ir tiesiogiai vaizduoja Krokuvos pagrindinę aikštę.","isPrimary":0},{"mediaId":"m-e1ff1a3aaeb94f6b11022c1d","title":"Krakow´s Main Square at dusk (9159045278).jpg","caption":"Krokuvos pagrindinė aikštė sutemus, su istorinių pastatų eile ir Šv. Adalberto bažnyčia.","originalTitle":"Krakow´s Main Square at dusk (9159045278).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:31","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Krakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Krakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg/1920px-Krakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Krakow%C2%B4s_Main_Square_at_dusk_%289159045278%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.881123+03:00","reviewedAt":"2026-07-31T05:55:24.953082+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi būdingi aikštės pastatai, Šv. Adalberto bažnyčia ir paminklas aikštės centre.","metadataEvidence":"Metaduomenys nurodo Krakow’s Main Square ir išsamiai aprašo Krokuvos aikštės objektus.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai ir tiesiogiai susijęs su Krokuva.","isPrimary":0},{"mediaId":"m-fc9ec67c251174f5fea5a395","title":"Krakow´s Main Square at dusk (9159055668).jpg","caption":"Krokuvos pagrindinė aikštė sutemus.","originalTitle":"Krakow´s Main Square at dusk (9159055668).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:57","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Krakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Krakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg/1920px-Krakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/Krakow%C2%B4s_Main_Square_at_dusk_%289159055668%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC Flickr photo ID","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC published in","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.881574+03:00","reviewedAt":"2026-07-31T05:55:24.942329+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Rynek Główny aikštė, istoriniai Krokuvos pastatai, Adomo Mickevičiaus paminklas ir apvali Šv. Adalberto bažnyčia.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta Kraków Main Square; autorius ir data pateikti Wikimedia Commons metaduomenyse.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Fotografija tiesiogiai vaizduoja konkretų Krokuvos miesto centrą.","isPrimary":0},{"mediaId":"m-7dc17a7ec7810b94d2c48144","title":"Kraków Old Town (9159192118).jpg","caption":"Krokuvos senamiestis dieną, žvelgiant Floriańska gatve link Švč. Mergelės Marijos bazilikos.","originalTitle":"Kraków Old Town (9159192118).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Kraków Old Town","dateDisplay":"2012-08-07 15:32","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_Old_Town_%289159192118%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/58/Krak%C3%B3w_Old_Town_%289159192118%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Krak%C3%B3w_Old_Town_%289159192118%29.jpg/1920px-Krak%C3%B3w_Old_Town_%289159192118%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/58/Krak%C3%B3w_Old_Town_%289159192118%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Floriańska Street in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:35:13.765957+03:00","reviewedAt":"2026-07-31T05:55:24.967082+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Floriańska gatvė, istoriniai pastatai ir tolumoje išsiskiriantys Švč. Mergelės Marijos bazilikos bokštai.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Kraków Old Town bei Floriańska gatvę.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir vizualiai atpažįstamai vaizduoja Krokuvos senamiestį.","isPrimary":0},{"mediaId":"m-34942847882f8fac2b9a356d","title":"Kraków Old Town as seen from St. Mary''s Basilica (9157064189).jpg","caption":"Krokuvos senamiestis nuo Švč. Mergelės Marijos bazilikos","originalTitle":"Kraków Old Town as seen from St. Mary''s Basilica (9157064189).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Kraków Old Town as seen from St. Mary''s Basilica","dateDisplay":"2012-08-07 13:44","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Krak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Krak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg/1920px-Krak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Krak%C3%B3w_Old_Town_as_seen_from_St._Mary%27s_Basilica_%289157064189%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Views from Saint Mary Basilica in Kraków","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:35:13.766744+03:00","reviewedAt":"2026-07-31T05:50:44.444442+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Iš aukštai matomas Krokuvos senamiestis, pagrindinė aikštė ir istoriniai pastatai.","metadataEvidence":"Pavadinime aiškiai nurodyta Kraków Old Town, o aprašymas identifikuoja Krokuvos senamiestį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginė ir aiškiai identifikuojama Krokuvos miesto panorama.","isPrimary":0},{"mediaId":"m-2c00da3fd94d2eea00c28022","title":"Kraków Old Town at dusk (9159202954).jpg","caption":"Krokuvos senamiestis sutemus.","originalTitle":"Kraków Old Town at dusk (9159202954).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Kraków Old Town at dusk","dateDisplay":"2012-08-08 21:48","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Krak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Krak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg/1920px-Krak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Krak%C3%B3w_Old_Town_at_dusk_%289159202954%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Floriańska Street in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:35:13.804442+03:00","reviewedAt":"2026-07-31T05:55:24.962801+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Krokuvos senamiesčio panorama su pagrindine aikšte, istoriniais namais ir bažnyčių bokštais.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Kraków Old Town ir jo konkretūs objektai.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Fotografija tiesiogiai vaizduoja Krokuvos senamiestį.","isPrimary":0},{"mediaId":"m-7ad94dac4b282700cd634693","title":"Kraków location map.svg","caption":"Krokuvos vietos žemėlapis","originalTitle":"Kraków location map.svg","creator":"SANtosito","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-10-07","dateStart":null,"dateEnd":null,"width":1001,"height":641,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_location_map.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.677650+03:00","reviewedAt":"2026-07-31T05:50:44.456595+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Krokuvos teritorija su administracinėmis ribomis, keliais, upėmis ir vandens telkiniais.","metadataEvidence":"Pavadinimas yra „Kraków location map.svg“, o aprašymas nurodo Krokuvą Mažosios Lenkijos vaivadijoje ir geografines ribas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja konkretų target – Krokuvą.","isPrimary":0},{"mediaId":"m-46cdf64ce27c982ddf0471d5","title":"Kraków rail location map.svg","caption":"Krokuvos geležinkelių vietos žemėlapis","originalTitle":"Kraków rail location map.svg","creator":"Winnetou14","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"Own work","dateDisplay":"2023-12-14","dateStart":null,"dateEnd":null,"width":1001,"height":641,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_rail_location_map.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674719+03:00","reviewedAt":"2026-07-31T05:50:44.409457+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma detalizuota miesto teritorijos, administracinių ribų ir geležinkelių schema.","metadataEvidence":"Pavadinime aiškiai nurodyta „Kraków“, o aprašymas identifikuoja Krokuvos vietos žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja konkretų target – Krokuvą.","isPrimary":0},{"mediaId":"m-103e5fdd790971830bbc1789","title":"Section of Krakow´s Main Square at dusk (9156813625).jpg","caption":"Krokuvos pagrindinė aikštė sutemose","originalTitle":"Section of Krakow´s Main Square at dusk (9156813625).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Section of Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:18","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASection_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg/1920px-Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289156813625%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC Flickr photo ID","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC published in","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.882009+03:00","reviewedAt":"2026-07-31T05:50:44.439995+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Krokuvos pagrindinė aikštė su istoriniais pastatais ir miesto architektūra.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo Kraków Main Square, Rynek Główny Krokuvoje.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai atpažįstama Krokuvos pagrindinė aikštė.","isPrimary":0},{"mediaId":"m-a88302177f08e7f059e4bb7b","title":"Section of Krakow´s Main Square at dusk (9159040206).jpg","caption":"Krokuvos pagrindinės aikštės dalis sutemus.","originalTitle":"Section of Krakow´s Main Square at dusk (9159040206).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Section of Krakow´s Main Square at dusk","dateDisplay":"2012-08-07 21:20","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASection_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg/1920px-Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Section_of_Krakow%C2%B4s_Main_Square_at_dusk_%289159040206%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.882495+03:00","reviewedAt":"2026-07-31T05:55:24.947966+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi Krokuvos Rynek Główny istoriniai namai ir aikštės erdvė.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Kraków Main Square.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Fotografija tiesiogiai vaizduoja Krokuvos pagrindinės aikštės dalį.","isPrimary":0},{"mediaId":"m-791ffedec6c18848050b4db2","title":"The Main Square (9156672495).jpg","caption":"Krokuvos pagrindinė aikštė","originalTitle":"The Main Square (9156672495).jpg","creator":"Jorge Láscar from Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"The Main Square","dateDisplay":"2012-08-07 08:08","dateStart":null,"dateEnd":null,"width":4288,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Main_Square_%289156672495%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Main_Square_%289156672495%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Main_Square_%289156672495%29.jpg/1920px-The_Main_Square_%289156672495%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Main_Square_%289156672495%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"August 2012 in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC Flickr photo ID","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC published in","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old Town Market Square in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Poland photographs taken on 2012-08-07","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Nikon D90","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:34:50.883025+03:00","reviewedAt":"2026-07-31T05:50:44.448251+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma pagrindinė aikštė, Sukiennice, Šv. Adalberto bažnyčia ir istoriniai Krokuvos pastatai.","metadataEvidence":"Aprašymas tiesiogiai nurodo Main Square Rynek Główny w Krakowie.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Krokuvos pagrindinę aikštę.","isPrimary":0}]'
+entity_id: ent-f968d7fabb5caa9ca83389d2
+canonical_name: Krokuva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Cracoviae
+  - Krakowie
+  - Kraków
+  - Krokuva
+sameAs: []
+canonical_biography: 'Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pralaimėjimo vyko Vytautas, ir kaip vienas iš prekybos mazgų, susietų su Kijevu, Voluine ir Podole.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Krokuva","url":"https://lt.wikipedia.org/wiki/Krokuva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Krokuva","url":"https://www.vle.lt/straipsnis/krokuva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Kraków - Wikipedia","url":"https://en.wikipedia.org/wiki/Krak%C3%B3w","publisher":"English Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:01:48+00:00","source_checked_at":"2026-09-18T23:01:48+00:00","counts":{"relations":21,"gallery":15,"sources":19},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Susitikę abudu pusbroliai tuo- jau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lie- tuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila davė savo sutikimą dėl karūnacijos. Dabar Jogailai dar rei- kėjo gauti savo ponų tarybos sutikimą. Tuo reikalu į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkų ponai.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-177290","evidence_id":"c-161195","origin":"internal"},"wiki":{"intro":"Krokuva (lenk. Kraków, vok. Krakau, lot. Cracovia) – miestas-apskritis pietų Lenkijoje, Vyslos aukštupyje, Mažosios Lenkijos vaivadijos administracinis centras. Krokuva yra antras pagal dydį Lenkijos miestas po Varšuvos. Nuo 1038 m. iki 1596 m. Krokuva buvo Lenkijos (ir Abiejų Tautų Respublikos) sostine, nuo 1815 m. iki 1846 m. buvo Laisvosios Krokuvos sostinė, o nuo 1846 m. iki 1918 m. Krokuvos Didžiosios Kunigaikštystės sostine.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"6852","revision_id":"7849552","status":"published","translation_status":"native","source":{"title":"Krokuva","url":"https://lt.wikipedia.org/wiki/Krokuva","publisher":"Vikipedija","language":"lt","article_id":"6852","revision_id":"7849552","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7849552","history_url":"https://lt.wikipedia.org/w/index.php?title=Krokuva&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:12.303797+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"051d4962fc607789049062dd3d3761aa0d156d247d37931cdc8bd100231ee321","version_pk":"b3cf0de74b256d1e1babb053f83fd32e"}},"source_buttons":[{"label":"Vikipedija","title":"Krokuva","url":"https://lt.wikipedia.org/wiki/Krokuva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Krokuva","url":"https://www.vle.lt/straipsnis/krokuva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Krokuva","https://www.vle.lt/straipsnis/krokuva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3ffdbf56b23a23c4d9ae1fea","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"XIV a. Krokuvos gatvės buvo tiesios, nors siauros; jas formavo gotikiniai rūmai, apsupti aukštų sienų.","context":"Michał Baliński aprašymas apie XIV a. Lenkijos miestus.","support_ids":["t-177306","c-161155"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177306","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161155","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją. Lietuvai, ilgai nuo krikščio­ niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­ kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios, nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės prekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­ dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"825b380d8343b73e295a527e","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Krokuvoje buvo gotikinių rūmų, aukštų sienų ir neįprastai didelių Gelumbės prekybos namų, statydintų Kazimiero Didžiojo.","context":"Michał Baliński aprašymas apie XIV a. Krokuvą.","support_ids":["t-177305","c-161155"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177305","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161155","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją. Lietuvai, ilgai nuo krikščio­ niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­ kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios, nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės prekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­ dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"924f2aea278ec9076364ce0b","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Krokuva buvo prekybos centras, netoli Lietuvos esantis tarp kitų pirklių lankomų centrų.","context":"Vytauto laikų Lietuvos aplinką aprašantis šaltinis.","support_ids":["t-177327","c-37478"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177327","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-37478","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Nuo Lietuvos buvo taip pat netoli tokie anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­ tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių buvo apsupta pirklių gyvenamų ir lankomų žemių."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6727679bcc58f1791a9caf76","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1160 m. į Aleksandrijos uostą užsukdavo Krokuvos pirklių laivai.","context":"Benjaminas iš Tudelio taip teigė; jo teiginį cituoja Michał Baliński.","support_ids":["t-177323","c-161171"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177323","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161171","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­ dajam. Poznanė dar anksčiau už Krokuvą - 1253 metais, Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­ ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų teises."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a09c5362d711fa0399bdc419","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Krokuva buvo apibūdinta kaip nuo seno turtinga.","context":"Michał Baliński, remdamasis Benjamino iš Tudelio teiginiu ir savo pasakojimu apie 1257 m. miestą.","support_ids":["t-177261","c-161171"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177261","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161171","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­ dajam. Poznanė dar anksčiau už Krokuvą - 1253 metais, Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­ ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų teises."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a110282c6330cee4ca65de86","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1257 m. Krokuva turėjo pirmąją municipalinę tvarką, puošnius statinius ir gerai sutvirtintas mūro sienas.","context":"Michał Baliński aprašė 1257 m. Krokuvos raidą; teutonų teises jis siejo su Boleslovu Droviuoju, o privilegijas ir sienas – su Lešeku Juoduoju.","support_ids":["t-177261","c-161171"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177261","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161171","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­ dajam. Poznanė dar anksčiau už Krokuvą - 1253 metais, Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­ ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų teises."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3a444116e1d45ecf1423e768","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Krokuvoje nuo seno buvo naudojama vokiška Magdeburgo teisė.","context":"Žygimanto privilegijoje ši teisė apibūdinta kaip Krokuvos naudojama nuo seno; tai cituoja Michał Baliński.","support_ids":["t-177330","c-161159"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177330","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161159","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jas magistratas priėmė viešai iš didžiojo kuni­ gaikščio rankų19. Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į miesto reikalus, ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­ sė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"73aa000c2d7195b8c8e522bc","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Krokuvos Vavelio katedra buvo vieta, kur Jogaila priėmė krikštą, susituokė su Jadvyga ir vainikavosi.","context":"Alfredo Bumblausko aprašymas, nenurodant įvykio datos šiame teiginyje.","support_ids":["t-207590","c-190207"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207590","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190207","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Krokuvos Vavelio katedroje Jogaila krikštijosi, tuokėsi su Jadvyga, vainikavosi."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Krokuva – istorinis miestas, išryškėjantis kaip svarbi Lietuvos ir Lenkijos politinių ryšių vieta. 1257 m. ji iš Boleslovo Droviajo gavo pirmąją municipalinę tvarką ir teutonų teises, o vėliau garsėjo privilegijomis bei sutvirtintomis mūro sienomis. 1384 m. spalio 15 d. Krokuvoje Liudviko Anjou duktė Jadvyga buvo vainikuota Lenkijos karaliumi, o 1385 m. čia susirinkęs Lenkijos didikų ir bajorų seimas nutarė kviesti Jogailą į sostą. Tų pačių metų sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje galutinai sutarė dėl vėliau Krėvos akte pažadėtų dalykų. Krokuva taip pat tapo vieta, kur 1525 m. būsimasis Prūsų kunigaikštis iškilmingai prisiekė karaliui Zigmantui.","sentences":[{"sentence_id":"s1","text":"Krokuva – istorinis miestas, išryškėjantis kaip svarbi Lietuvos ir Lenkijos politinių ryšių vieta.","support_ids":["t-177261","c-161171","t-211031","c-194024"]},{"sentence_id":"s2","text":"1257 m. ji iš Boleslovo Droviajo gavo pirmąją municipalinę tvarką ir teutonų teises, o vėliau garsėjo privilegijomis bei sutvirtintomis mūro sienomis.","support_ids":["t-177261","c-161171"]},{"sentence_id":"s3","text":"1384 m. spalio 15 d. Krokuvoje Liudviko Anjou duktė Jadvyga buvo vainikuota Lenkijos karaliumi, o 1385 m. čia susirinkęs Lenkijos didikų ir bajorų seimas nutarė kviesti Jogailą į sostą.","support_ids":["t-177298","c-32155","t-211031","c-194024"]},{"sentence_id":"s4","text":"Tų pačių metų sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje galutinai sutarė dėl vėliau Krėvos akte pažadėtų dalykų.","support_ids":["t-177288","c-32156"]},{"sentence_id":"s5","text":"Krokuva taip pat tapo vieta, kur 1525 m. būsimasis Prūsų kunigaikštis iškilmingai prisiekė karaliui Zigmantui.","support_ids":["t-177286","c-161157"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Krokuva apibūdinama kaip istorinė vieta, susijusi su Lietuvos ir Lenkijos politiniais ryšiais; tai pagrindžia nurodyti politiniai įvykiai."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-177261 ir c-161171: 1257 m. Krokuvai suteiktos municipalinės ir teutonų teisės, minimos privilegijos bei sutvirtintos mūro sienos."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta t-177298, c-32155, t-211031 ir c-194024: Jadvyga vainikuota 1384 m. spalio 15 d., o 1385 m. Krokuvoje nutarta kviesti Jogailą į sostą."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta t-177288 ir c-32156: 1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje susitarė dėl vėliau Krėvos akte pažadėtų dalykų."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai paremta t-177286 ir c-161157: 1525 m. Krokuvoje būsimasis Prūsų kunigaikštis prisiekė karaliui Zigmantui."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-177261","c-161171","t-211031","c-194024"]},{"sentence_id":"s2","supported":true,"support_ids":["t-177261","c-161171"]},{"sentence_id":"s3","supported":true,"support_ids":["t-177298","c-32155","t-211031","c-194024"]},{"sentence_id":"s4","supported":true,"support_ids":["t-177288","c-32156"]},{"sentence_id":"s5","supported":true,"support_ids":["t-177286","c-161157"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-9024dea5ff7aa6650cae7b7d","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-0653f7d4247ba8654b0d01d9","relation_type":"depicts"},{"media_id":"m-add5e6adcbbc20103caf9f97","relation_type":"depicts"},{"media_id":"m-a81897c56c3f0cff149bb78f","relation_type":"depicts"},{"media_id":"m-7ad94dac4b282700cd634693","relation_type":"map_of"}],"media_verification":{"status":"not_required","primary_media_id":"m-9024dea5ff7aa6650cae7b7d","candidate_count":15,"visual_verified_count":15,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Istorinis žemėlapis tiesiogiai vaizduoja Krokuvos miestą.","visual_evidence":"Matomas detalus miesto planas su Krokuvos centru, Vysla, Kazimierzu, Podgórze ir aplinkinėmis teritorijomis.","metadata_evidence":"Pavadinimas tiesiogiai nurodo 1847 map of Kraków; žemėlapyje įrašyta PLAN von KRAKAU.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Konradas","claim_id":"t-220292","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Petras Goštautas","claim_id":"t-173209","confidence":0.68},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Petras Kustynia","claim_id":"t-87827","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Aleksandras Balinskis","claim_id":"t-177329","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Bodzanta","claim_id":"t-82241","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Borisas (Tverės kunigaikštis)","claim_id":"t-179639","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Borisas Karijotaitis","claim_id":"t-184371","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jadvyga Jogailienė","claim_id":"t-176414","confidence":0.97},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jadvyga","claim_id":"t-176410","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-177280","confidence":0.94},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas Olbrachtas","claim_id":"t-211433","confidence":0.58},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Karigaila","claim_id":"t-63796","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Motiejus iš Blonios","claim_id":"t-177329","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-177288","confidence":0.73},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-177313","confidence":0.94},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179716","confidence":0.85},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-177264","confidence":0.68},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Zigmanto Augusto antkapis","claim_id":"t-01248","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-133639","confidence":0.95},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-01875","confidence":0.72},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Traidenis","claim_id":"t-179150","confidence":0.74}],"timeline":[{"date":"1160 m.","label":"Benjaminas iš Tudelio teigė, kad 1160 m.","claimId":"t-177323"},{"date":"1241 m.","label":"Krokuva tam tikru požiūriu priklausė 1241 m.","claimId":"t-177263"},{"date":"1254 m.","label":"Baško rašė, kad 1254 m.","claimId":"t-177309"},{"date":"1257 m.","label":"1257 m.","claimId":"t-177261"},{"date":"1384 m.","label":"1384 m.","claimId":"t-177298"},{"date":"1384 m.","label":"1384 m.","claimId":"t-177303"},{"date":"1385 m.","label":"1385 m.","claimId":"t-177280"},{"date":"1385 m.","label":"1385 m.","claimId":"t-177285"}],"support_disclosure":{"claims":81,"sources":16}}'
 object_page_finisher: 'true'
@@ -55,15 +69,6 @@ object_page_seo_description: 'Krokuva – istorinis miestas, išryškėjantis ka
 object_page_seo_input_hash: 9a9dcbbb9fe475613ea659a65ea9eeae64907c6046afe61e9b910f6b355f8fe7
 object_page_seo_generated_at: '2026-09-18T23:01:48+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-f968d7fabb5caa9ca83389d2"
-canonical_name: "Krokuva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Cracoviae","Krakowie","Kraków","Krokuva"]
-sameAs: ["https://www.wikidata.org/entity/Q31487"]
-canonical_biography: "Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pralaimėjimo vyko Vytautas, ir kaip vienas iš prekybos mazgų, susietų su Kijevu, Voluine ir Podole."
-place_authority: true
-historical_names: []
 ---
 # Krokuva
 
@@ -1312,119 +1317,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindžia:
     - c-189125
 
-<a id="claim-t-207589"></a>
-- t-207589
-  teiginys: "Pasak Alfredo Bumblausko, 1550 m. Krokuvoje Barbora Radvilaitė buvo vainikuota karaliene."
-  atnaujinta: "2026-09-19 02:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1550 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Kadangi teiginys susijęs su valdovės titulo suteikimu, įtraukta autoriaus atribucija ir išskleistas Barboros Radvilaitės vardas."
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190206
-
-<a id="claim-t-207590"></a>
-- t-207590
-  teiginys: "Pasak Alfredo Bumblausko, Krokuvos Vavelio katedroje Jogaila priėmė krikštą, susituokė su Jadvyga ir vainikavosi."
-  atnaujinta: "2026-09-19 02:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190207
-
-<a id="claim-t-207821"></a>
-- t-207821
-  teiginys: "Krokuvoje saugomas anonimino autoriaus rankraštis Čartoryskių bibliotekoje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190575
-
-<a id="claim-t-207855"></a>
-- t-207855
-  teiginys: "Rašyta Krokuvoje, [1518] rugsėjo 30 dieną."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190607
-
-<a id="claim-t-208002"></a>
-- t-208002
-  teiginys: "Nuvykti iš Vienos į Krokuvą užtekdavo 7-16 dienų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190583
-
-<a id="claim-t-208224"></a>
-- t-208224
-  teiginys: "Krokuvoje jis leido spaudinius ir gynė savo bičiules."
-  atnaujinta: "2026-09-19 02:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-191004
-
-<a id="claim-t-210529"></a>
-- t-210529
-  teiginys: "Krokuva buvo vieta, į kurią Sofiją parvežė iš Lenkijos ir kur Jogaila su ja iškėlė vestuves."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194137
-
-<a id="claim-t-210733"></a>
-- t-210733
-  teiginys: "Tynieco vienuolynas yra prie Krokuvos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193199
-
-<a id="claim-t-211031"></a>
-- t-211031
-  teiginys: "1385 m. Lenkijos didikų ir bajorų seimas dėl Jogailos kvietimo į Lenkijos sostą vyko Krokuvoje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194024
-
 ## Reikšmingi paminėjimai
 - c-044
   santrauka: 'Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.'
@@ -1484,7 +1376,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-32155
@@ -1503,7 +1395,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
     - t-035
 
@@ -1523,7 +1415,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-32157
@@ -1543,7 +1435,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
     - t-028
 
@@ -1567,7 +1459,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
     - t-055
 
@@ -1594,7 +1486,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-045
     - t-048
 
@@ -1622,7 +1514,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
     - t-056
 
@@ -1645,7 +1537,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
     - t-054
 
@@ -1680,7 +1572,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-059
 
@@ -1703,7 +1595,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
     - t-029
 
@@ -1730,7 +1622,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
 
 - id: c-161150
@@ -1754,7 +1646,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-161151
@@ -1778,7 +1670,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-161152
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1802,7 +1693,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-161153
@@ -1830,7 +1721,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-043
 
@@ -1859,7 +1750,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-036
 
 - id: c-161155
@@ -1888,7 +1779,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
     - t-038
 
@@ -1909,7 +1800,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-161157
@@ -1928,7 +1819,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-161158
@@ -1957,7 +1848,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-044
     - t-050
 
@@ -1981,7 +1872,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
     - t-058
 
@@ -2004,7 +1895,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-161164
@@ -2024,7 +1915,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
     - t-033
 
@@ -2044,7 +1935,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
     - t-052
 
@@ -2085,7 +1976,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
 
 - id: c-161170
@@ -2108,7 +1999,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-161171
@@ -2133,7 +2024,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
     - t-053
 
@@ -2155,7 +2046,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-051
     - t-068
 
@@ -2187,7 +2078,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
     - t-024
 
@@ -2209,7 +2100,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-061
 
 - id: c-161175
@@ -2246,7 +2137,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-057
     - t-062
 
@@ -2273,7 +2164,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-161179
@@ -2296,7 +2187,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
 
 - id: c-161185
@@ -2326,7 +2217,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-161186
@@ -2354,7 +2245,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-161187
@@ -2377,7 +2268,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-161189
@@ -2398,7 +2289,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-161192
@@ -2423,7 +2314,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-161194
@@ -2442,7 +2333,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-041
 
 - id: c-161195
@@ -2462,7 +2353,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
     - t-039
 
@@ -2484,7 +2375,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-161208
@@ -2517,7 +2408,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
     - t-047
 
@@ -2537,7 +2428,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-060
 
 - id: c-168352
@@ -2560,7 +2451,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-063
 
 - id: c-175938
@@ -2578,7 +2469,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-064
 
 - id: c-175939
@@ -2597,7 +2488,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-065
 
 - id: c-175940
@@ -2616,7 +2507,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
     - t-066
 
@@ -2639,7 +2530,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-067
 
 - id: c-178849
@@ -2675,7 +2566,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-069
 
 - id: c-184419
@@ -2703,7 +2594,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-070
 
 - id: c-186348
@@ -2722,7 +2613,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-071
 
 - id: c-187989
@@ -2742,7 +2633,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-072
 
 - id: c-188400
@@ -2759,7 +2650,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-073
 
 - id: c-189124
@@ -2774,7 +2665,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-074
 
 - id: c-189125
@@ -2804,181 +2695,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-075
-
-- id: c-190206
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 156"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 156."
-  citata_originali: |
-    Tačiau tam įnirtingai priešinosi karaliaus motina Bona ir Lenkijos didikai, bijoję
-    Radvilų įsigalėjimo. Tik 1550 m. Krokuvoje Barbora buvo vainikuota karaliene, tačiau
-    pasiligojo ir po metų mirė.
-  citata_rodoma: "Tik 1550 m. Krokuvoje Barbora buvo vainikuota karaliene,"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207589
-
-- id: c-190207
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 262"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 262."
-  citata_originali: |
-    Krėvos sutartis padarė lemtinga Lenkiją ne tik Lietuvos istorijai, bet ir LDK
-    paveldo likimui. Tik nuvykęs į Lenkiją Jogaila Liublino pilies koplyčią pavedė ištapyti iš
-    LDK atvykusiems meistrams. Krokuvos Vavelio katedroje Jogaila krikštijosi, tuokėsi su
-    Jadvyga, vainikavosi.
-  citata_rodoma: "Krokuvos Vavelio katedroje Jogaila krikštijosi, tuokėsi su \nJadvyga, vainikavosi."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207590
-
-- id: c-190575
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 98"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 98."
-  citata_originali: |
-    Gaila, bet į klausimą, ką pasakė
-    karalius kariuomenės pasiuntiniams žodžiu 1562 m., matyt, niekas ir niekada nebesužinos.
-    Taip atrodo „Lietuvos Metrikoje" užfiksuota kita, pavadinkime ją lietuviškąja, Tiesa,
-    pasakojanti mums apie 1562 m. rugsėjo mėnesio įvykius Lietuvos Didžiosios Kuni-
-    gaikštystės karo lauko stovykloje prie Vitebsko.
-    Išsamiausias šiandien istorikams žinomas, daugiausiai informacijos suteikiąs šaltinis
-    yra Krokuvoje Čartoryskių bibliotekoje saugomas anoniminio autoriaus rankraštis.
-  citata_rodoma: "Išsamiausias šiandien istorikams žinomas, daugiausiai informacijos suteikiąs šaltinis\nyra Krokuvoje Čartoryskių bibliotekoje saugomas anoniminio autoriaus rankraštis."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207821
-
-- id: c-190583
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 194"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 194."
-  citata_originali: |
-    Esant geram aptarnavimui, pasiuntinys rai-
-    tomis per dieną galėdavo įveikti nuo б iki 9 mylių kelią (1 mylia - 7,4 km), rogėmis
-    nuvažiuodavo 7-8 mylias, o vengriška karieta—daugiausiai 16 mylių arba apie 118 km
-    per dieną. Kelionė iš Vienos į Vilnių užtrukdavo 43-53 dienas. Nuvykti iš Vienos į
-    Krokuvą užtekdavo 7-16 dienų.
-  citata_rodoma: "Kelionė iš Vienos į Vilnių užtrukdavo 43-53 dienas. Nuvykti iš Vienos į\nKrokuvą užtekdavo 7-16 dienų."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208002
-
-- id: c-190607
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 168"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 168."
-  citata_originali: |
-    Tokį raštą su antspaudu davėme Jo Malonybei Trakų vaivadai.
-    Dalyvavo žemės iždininkas, Kauno seniūnas ponas Abraomas Jezofovičius. Rašyta
-    Kro-
-    kuvoje, [1518] rugsėjo 30 dieną"
-    28.
-  citata_rodoma: "Rašyta \nKro-\nkuvoje, [1518] rugsėjo 30 dieną"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207855
-
-- id: c-191004
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 290"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 290."
-  citata_originali: |
-    1788-1789 m. sandūroje V. I. Marevičius išvyko į Gardinu, po to grįžo į
-    Vilnių. 1789 m. viduryje nuvyko į Krokuvų. Ten išleido porų spaudinių, kuriuose
-    šlovino savo protektorius ir gynė krokuvietcs bičiules.
-  citata_rodoma: "1789 m. viduryje nuvyko į Krokuvų. Ten išleido porų spaudinių, kuriuose \nšlovino savo protektorius ir gynė krokuvietcs bičiules"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208224
-
-- id: c-193199
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 68"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 68."
-  citata_originali: |
-    švento Augustino
-    vienuolynas Tyniece, prie Krokuvos
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210733
-
-- id: c-194024
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 234"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 234."
-  citata_originali: |
-    Lenkijos didikų ir bajorų seimas, kuriame buvo nutarta kvies­
-    ti Lietuvos didįjį kunigaikšti Jogailą į Lenkijos sostą, buvo ne
-    Petrakave, o Krokuvoje 1385 m. birželio ar liepos mėn.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211031
-
-- id: c-194137
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 100"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 100."
-  citata_originali: |
-    Vėliau karalius Jogaila atsiuntė iš Lenkijos žymiau­
-    sius ponus, kurie paėmę kunigaikštytę Sofiją parvežė
-    pas jį į Krokuvą. O jis iškėlė šaunias vestuves, paėmė
-    ją sau žmona ir vainikavo ją 5.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210529
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

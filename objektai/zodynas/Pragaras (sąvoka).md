@@ -62,6 +62,5 @@ Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su siję su kankini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

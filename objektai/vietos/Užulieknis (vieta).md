@@ -29,8 +29,6 @@ entity_view_role: "place"
 entity_aliases: ["Užulieknis","Užulieknis (vieta)"]
 sameAs: []
 canonical_biography: "1944 m. gruodžio 15 d. stribas Aukštikalnis žuvo partizanų pasaloje Užulieknio kaime, Biržų valsčiuje."
-place_authority: true
-historical_names: []
 ---
 # Užulieknis (vieta)
 
@@ -38,13 +36,14 @@ historical_names: []
 
 Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad 1944 m. gruodžio 15 d. Vabalninko valsčiaus stribas Aukštikalnis žuvo partizanų pasaloje Užulieknio kaime.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-215030
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Ona Dapšytė-Kriukelienė kronikoje „Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika“ nurodo, kad 1944 m. gruodžio 15 d. Vabalninko valsčiaus stribas Aukštikalnis žuvo partizanų pasaloje Užulieknio kaime.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 149"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 149."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:46"

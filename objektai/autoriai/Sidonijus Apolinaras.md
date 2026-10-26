@@ -14,13 +14,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-565d8e8d747a5dfcdb50222f"
-canonical_name: "Sidonijus Apolinaras"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Sidonijus Apolinaras"]
+entity_id: ent-565d8e8d747a5dfcdb50222f
+canonical_name: Sidonijus Apolinaras
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Sidonijus Apolinaras
 sameAs: []
-canonical_biography: "Jie turėjo paprotį išsidažyti kūną2; apie tai pasa koja Sidonijus Apolinaras."
+canonical_biography: Jie turėjo paprotį išsidažyti kūną2; apie tai pasa koja Sidonijus Apolinaras.
 ---
 # Sidonijus Apolinaras
 
@@ -63,6 +66,5 @@ Jie turėjo paprotį išsidažyti kūną2; apie tai pasa koja Sidonijus Apolinar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -56,6 +56,5 @@ XIV a. pabaigoje buvo sudaryti 100 kelių į Lietuvą aprašymai, paremti kryži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

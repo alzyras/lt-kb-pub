@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-3af90c7cef201098a970ea01"
-canonical_name: "Ilža (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ilža","Ilža (vieta)"]
+entity_id: ent-3af90c7cef201098a970ea01
+canonical_name: Ilža (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ilža
+  - Ilža (vieta)
 sameAs: []
-canonical_biography: "Ilža yra Lenkijos Kielcų vaivadijos miestas prie Ilžankos upės, apie 123 km į pietus nuo Varšuvos ir 25 km nuo Radomo."
-place_authority: true
-historical_names: []
+canonical_biography: 'Ilža yra Lenkijos Kielcų vaivadijos miestas prie Ilžankos upės, apie 123 km į pietus nuo Varšuvos ir 25 km nuo Radomo.'
 ---
 # Ilža (vieta)
 
@@ -69,6 +70,5 @@ Ilža yra Lenkijos Kielcų vaivadijos miestas prie Ilžankos upės, apie 123 km 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

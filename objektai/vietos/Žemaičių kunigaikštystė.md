@@ -20,15 +20,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-fcb3bfe9b5f05d48c2f0d76a"
-canonical_name: "Žemaičių kunigaikštystė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Žemaičių kunigaikštystė"]
+entity_id: ent-fcb3bfe9b5f05d48c2f0d76a
+canonical_name: Žemaičių kunigaikštystė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Žemaičių kunigaikštystė
 sameAs: []
-canonical_biography: "Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni gaikštystės valdininkas, pasakojęs jam apie garbę, teiktą tame krašte dar daugeliui kitų dievų. Paskui šitaip klestėjo Žemaičių kunigaikš tystėje iki paskutinių atsivertimo laikų, būtent iki 1414 metų liepos 28 dienos, kurią Aukaimio kaime mirė paskutinis Kri vių Krivaitis, vardu Gintautas, iš eilės 74 žynys."
-place_authority: true
-historical_names: []
+canonical_biography: 'Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni gaikštystės valdininkas, pasakojęs jam apie garbę, teiktą tame krašte dar daugeliui kitų dievų. Paskui šitaip klestėjo Žemaičių kunigaikš tystėje iki paskutinių atsivertimo laikų, būtent iki 1414 metų liepos 28 dienos, kurią Aukaimio kaime mirė paskutinis Kri vių Krivaitis, vardu Gintautas, iš eilės 74 žynys.'
 ---
 # Žemaičių kunigaikštystė
 
@@ -83,7 +83,7 @@ Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni gaikštystės valdini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-200729
@@ -102,6 +102,5 @@ Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni gaikštystės valdini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

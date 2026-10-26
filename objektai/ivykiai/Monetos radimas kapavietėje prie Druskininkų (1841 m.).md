@@ -80,6 +80,5 @@ Monetos vienoje pusėje buvo pavaizduotas Gedimino šeimos herbas Stulpai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

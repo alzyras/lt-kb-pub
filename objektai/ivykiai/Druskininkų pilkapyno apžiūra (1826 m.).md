@@ -76,7 +76,7 @@ Nenurodyta
 <a id="claim-t-216653"></a>
 - t-001
   teiginys: "1826 m. Narbutas apžiūrėjo prie Druskininkų esantį žmonių kaulais nusėtą lauką."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

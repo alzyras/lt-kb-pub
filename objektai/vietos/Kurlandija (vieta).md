@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-8077c2f1520ede4f19fbad3d"
-canonical_name: "Kurlandija (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kurlandija","Kurlandija (vieta)"]
+entity_id: ent-8077c2f1520ede4f19fbad3d
+canonical_name: Kurlandija (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kurlandija
+  - Kurlandija (vieta)
 sameAs: []
-canonical_biography: "Tai norės vokiečiai delei išgelbėjimo vokiško Kurlandijos elemento."
-place_authority: true
-historical_names: []
+canonical_biography: Tai norės vokiečiai delei išgelbėjimo vokiško Kurlandijos elemento.
 ---
 # Kurlandija (vieta)
 
@@ -69,6 +70,5 @@ Tai norės vokiečiai delei išgelbėjimo vokiško Kurlandijos elemento.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

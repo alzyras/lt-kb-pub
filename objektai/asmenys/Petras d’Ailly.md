@@ -24,13 +24,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-26fe1d2a323d69b83255a35a"
-canonical_name: "Petras d’Ailly"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Petras d’Ailly"]
+entity_id: ent-26fe1d2a323d69b83255a35a
+canonical_name: Petras d’Ailly
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Petras d’Ailly
 sameAs: []
-canonical_biography: "Petras d’Ailly buvo viduramžių filologas, teologas ir bažnyčios veikėjas."
+canonical_biography: 'Petras d’Ailly buvo viduramžių filologas, teologas ir bažnyčios veikėjas.'
 ---
 # Petras d’Ailly
 
@@ -73,6 +75,5 @@ Petras d’Ailly buvo viduramžių filologas, teologas ir bažnyčios veikėjas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

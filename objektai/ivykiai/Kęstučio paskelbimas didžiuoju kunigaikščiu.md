@@ -72,6 +72,5 @@ Teodoro Narbuto pasakojime Polocko gyventojai ir prie miesto buvusi kariauna vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

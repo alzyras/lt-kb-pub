@@ -73,6 +73,5 @@ Radvilos Lietuvos žemėlapis, Aidai 1952, 10 nr., 445-448 p. ; P.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

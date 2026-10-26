@@ -63,6 +63,5 @@ Antikos žmonės turėjo tam tikras vietas, vadintas Hypetres arba Subdiales, ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

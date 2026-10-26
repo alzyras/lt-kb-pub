@@ -75,7 +75,7 @@ Nenurodyta
 <a id="claim-t-221444"></a>
 - t-001
   teiginys: "1296 m. Vytenis su didele lietuvių kariuomene įsiveržė į Livonijos žemę."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

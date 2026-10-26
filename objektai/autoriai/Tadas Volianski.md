@@ -14,13 +14,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-bf9524b886fdaba5d593a8d4"
-canonical_name: "Tadas Volianski"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Tadas Volianski"]
+entity_id: ent-bf9524b886fdaba5d593a8d4
+canonical_name: Tadas Volianski
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Tadas Volianski
 sameAs: []
-canonical_biography: "Tadas Volianski laiške Narbutui teigė, kad Lietuva tuo pačiu vardu buvo žinoma romėnams."
+canonical_biography: 'Tadas Volianski laiške Narbutui teigė, kad Lietuva tuo pačiu vardu buvo žinoma romėnams.'
 ---
 # Tadas Volianski
 
@@ -67,6 +70,5 @@ Tadas Volianski laiške Narbutui teigė, kad Lietuva tuo pačiu vardu buvo žino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

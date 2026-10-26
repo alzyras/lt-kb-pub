@@ -113,6 +113,18 @@ Nenurodyta
   pagrindžia:
     - c-169884
 
+<a id="claim-t-193862"></a>
+- t-004
+  teiginys: "O kunigaikštis Jurgis Svetoslavovičius tuo metu viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą Ivanovičių IJ."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-169884
+
 <a id="claim-t-196792"></a>
 - t-005
   teiginys: "6909 metais kunigaikštis Jurijus Svetoslavovičius ir Riazanės kunigaikštis Olegas su kariuomenėmis atėjo prie Smolensko."
@@ -125,16 +137,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178911
-
-<a id="claim-t-211444"></a>
-- t-211444
-  teiginys: "O kunigaikštis Jurgis Svetoslavovičius tuo metu viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą Ivanovičių IJ."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -179,10 +181,11 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-003
+    - t-004
 
 - id: c-178911
   autorius: "Anoniminis metraštininkas"
@@ -202,26 +205,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-193030
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 98."
-  citata_originali: |
-    Šeši tūkstančiai devyni šimtai devintaisiais metais
-    kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku­
-    nigaikštis Olegas su kariuomenėmis atėjo prie Smo­
-    lensko37. Tuo metu buvo kilęs maištas ir nesantaika.
-    Vieni norėjo Vytauto, o kiti — tėvonies kunigaikščio
-    Jurijaus38. Bet kunigaikštis Jurijus susisiekė su smo-
-    lenskiečiais, tie priėmė jį ir atidarė jam miesto vartus.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

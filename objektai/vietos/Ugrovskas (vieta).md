@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-63614ed087de25fd0881c776"
-canonical_name: "Ugrovskas (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ugrovskas","Ugrovskas (vieta)"]
+entity_id: ent-63614ed087de25fd0881c776
+canonical_name: Ugrovskas (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ugrovskas
+  - Ugrovskas (vieta)
 sameAs: []
-canonical_biography: "Ugrovskas yra Lenkijos Liublino vaivadijos gyvenvietė prie Bugo ir Uherkos upių santakos."
-place_authority: true
-historical_names: []
+canonical_biography: Ugrovskas yra Lenkijos Liublino vaivadijos gyvenvietė prie Bugo ir Uherkos upių santakos.
 ---
 # Ugrovskas (vieta)
 
@@ -74,6 +75,5 @@ Ugrovskas yra Lenkijos Liublino vaivadijos gyvenvietė prie Bugo ir Uherkos upi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

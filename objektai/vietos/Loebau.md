@@ -91,7 +91,7 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167760
@@ -110,6 +110,5 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

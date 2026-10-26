@@ -65,6 +65,5 @@ Pasak Teodoro Narbuto, Valenrodų giminė nuo seno gyveno Frankonijoje; vienas j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

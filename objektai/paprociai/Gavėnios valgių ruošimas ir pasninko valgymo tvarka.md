@@ -91,16 +91,6 @@ Nenurodyta
   pagrindžia:
     - c-177823
 
-<a id="claim-t-195406"></a>
-- t-195406
-  teiginys: "Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177829
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -119,7 +109,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-177824
@@ -140,7 +130,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-177825
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -164,7 +153,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-177826
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -179,7 +167,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-177827
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -189,12 +176,11 @@ Nenurodyta
     Avižines kruopas taisant reikia gerai išmirkyti ir supilti avižas į karštą krosnį, kad jos iškeptų ir sudžiūtų. Toliau jas mala iškeltomis girnomis. Per girnas varo daug sykių, kiekvieną sykį „nekoja“ —- ypatingu būdu mėto geldoje — ir tuo atskiria išsiaižiusias ašakas. Malimą ir nekojimą tiek kartoja, kol gauna avižų branduolius nuvalytus nuo ašakų, sveikus ar pertrintus pusiau. Tai ir yra šustinės avižų kruopos.
   citata_rodoma: "Avižines kruopas taisant reikia gerai išmirkyti ir supilti avižas į karštą krosnį, kad jos iškeptų ir sudžiūtų. Toliau jas mala iškeltomis girnomis. Per girnas varo daug sykių, kiekvieną sykį „nekoja“ —- ypatingu būdu mėto geldoje — ir tuo atskiria išsiaižiusias ašakas. Malimą ir nekojimą tiek kartoja, kol gauna avižų branduolius nuvalytus nuo ašakų, sveikus ar pertrintus pusiau. Tai ir yra šustinės avižų kruopos."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-177828
@@ -211,7 +197,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-177829
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -226,9 +211,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195406
-
 - id: c-177830
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -242,6 +224,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

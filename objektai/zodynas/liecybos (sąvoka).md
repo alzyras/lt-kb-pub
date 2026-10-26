@@ -62,6 +62,5 @@ Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

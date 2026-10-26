@@ -90,7 +90,7 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-44732
@@ -111,6 +111,5 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

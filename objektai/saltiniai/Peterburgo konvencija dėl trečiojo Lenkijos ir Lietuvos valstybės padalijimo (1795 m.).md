@@ -101,7 +101,7 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166772
@@ -124,6 +124,5 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

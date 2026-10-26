@@ -65,6 +65,5 @@ Budlafla in priscis Sueonum legibus dicebatur citatio in jus, in causis ordi nar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

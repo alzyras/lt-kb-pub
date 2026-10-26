@@ -81,6 +81,5 @@ Daugelis kronikų aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

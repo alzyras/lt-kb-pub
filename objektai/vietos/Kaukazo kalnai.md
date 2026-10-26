@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-cf8e69562a6b51ee2cfed3c7"
-canonical_name: "Kaukazo kalnai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kaukazo kalnai"]
+entity_id: ent-cf8e69562a6b51ee2cfed3c7
+canonical_name: Kaukazo kalnai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kaukazo kalnai
 sameAs: []
-canonical_biography: "Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai osetinai."
-place_authority: true
-historical_names: []
+canonical_biography: 'Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai osetinai.'
 ---
 # Kaukazo kalnai
 
@@ -64,6 +64,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

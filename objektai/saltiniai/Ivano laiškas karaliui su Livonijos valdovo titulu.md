@@ -28,23 +28,10 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu. Numalšinęs 
 
 ## Teiginiai
 
-<a id="claim-t-196347"></a>
-- t-002
-  teiginys: "Numalšinęs Livoniją karalius išsiuntė Vasilijų Tiškevičių, Mykolą Pašušvinskį ir Joną Gaiką į Maskvą derėtis dėl taikos."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169691
-
 <a id="claim-t-186330"></a>
-- t-186330
+- t-001
   teiginys: "Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,6 +44,19 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu. Numalšinęs 
   ryšio_targeto_parinkimas: "Ivanas: mention_match, person, gap=16"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivano laiškas karaliui su Livonijos valdovo titulu\" parinktas kaip owner_note_path. Targetas \"Ivanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169691
+
+<a id="claim-t-196347"></a>
+- t-002
+  teiginys: "Numalšinęs Livoniją karalius išsiuntė Vasilijų Tiškevičių, Mykolą Pašušvinskį ir Joną Gaiką į Maskvą derėtis dėl taikos."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169691
 
@@ -93,7 +93,6 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu. Numalšinęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-    - t-186330
-

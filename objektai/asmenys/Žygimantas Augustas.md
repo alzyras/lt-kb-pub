@@ -36,6 +36,16 @@ media_primary_json: '{"mediaId":"m-b8b013b41c5737215e46db57","title":"Žygimanta
 media_direct_json: '[{"mediaId":"m-b8b013b41c5737215e46db57","title":"Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.","caption":"Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.","originalTitle":"Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"apie 1553 m.","width":890,"height":1058,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Cranach_the_Younger_Sigismund_II_Augustus.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Cranach_the_Younger_Sigismund_II_Augustus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Cranach_the_Younger_Sigismund_II_Augustus.jpg","displayUrl":"/static/media/museum/zygimantas-augustas.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:48+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Žygimantas Augustas.md","relationType":"portrait_of","title":"Žygimantas Augustas (arkivyskupas, XVI a.)"}],"attribution":"Lucas Cranach the Younger · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Cranach_the_Younger_Sigismund_II_Augustus.jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."}]'
 media_contextual_json: '[]'
 media_all_json: '[{"mediaId":"m-b8b013b41c5737215e46db57","title":"Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.","caption":"Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.","originalTitle":"Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"apie 1553 m.","width":890,"height":1058,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Cranach_the_Younger_Sigismund_II_Augustus.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Cranach_the_Younger_Sigismund_II_Augustus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Cranach_the_Younger_Sigismund_II_Augustus.jpg","displayUrl":"/static/media/museum/zygimantas-augustas.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:48+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Žygimantas Augustas.md","relationType":"portrait_of","title":"Žygimantas Augustas (arkivyskupas, XVI a.)"}],"attribution":"Lucas Cranach the Younger · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Cranach_the_Younger_Sigismund_II_Augustus.jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."}]'
+entity_id: ent-077de0fd46448f11b82f2562
+canonical_name: 'Žygimantas Augustas (arkivyskupas, XVI a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Žygimantas Augustas
+  - 'Žygimantas Augustas (arkivyskupas, XVI a.)'
+sameAs: []
+canonical_biography: 'Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo).'
 external_sources_json: '[{"title":"Žygimantas Augustas","url":"https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Žygimantas Augustas","url":"https://www.vle.lt/straipsnis/zygimantas-augustas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T02:07:00+00:00","source_checked_at":"2026-09-19T02:07:00+00:00","counts":{"relations":14,"gallery":1,"sources":12},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Žygimantas II Augustas, arba Zigmantas II Augustas (lenk. Zygmunt II August, 1520 m. rugpjūčio 1 d. – 1572 m. liepos 7 d.) – Lenkijos karalius (1548–1572) ir Lietuvos didysis kunigaikštis (1544–1572), kurio valdymo metu Lenkijos karalystė ir Lietuvos Didžioji Kunigaikštystė susijungė, sudarydamos konfederaciją – Abiejų Tautų Respubliką.","infobox":[{"code":"row_1","label":"","value":"Žygimantas Augustas","cells":[{"text":"Žygimantas Augustas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Lenkijos karalius ir Lietuvos didysis kunigaikštis","cells":[{"text":"Lenkijos karalius ir Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Jogailaičiai","cells":[{"text":"Jogailaičiai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Gimė","value":"1520 m. rugpjūčio 1 d.\nKrokuva","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1520 m. rugpjūčio 1 d.\nKrokuva","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Mirė","value":"1572 m. liepos 7 d. (51 metai)\nKnišinas","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1572 m. liepos 7 d. (51 metai)\nKnišinas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Palaidotas (-a)","value":"1574 m. vasario 10 d.\nVavelio katedra","cells":[{"text":"Palaidotas (-a)","header":true,"colspan":1,"rowspan":1},{"text":"1574 m. vasario 10 d.\nVavelio katedra","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Tėvas","value":"Žygimantas Senasis","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Žygimantas Senasis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Motina","value":"Bona Sforca","cells":[{"text":"Motina","header":true,"colspan":1,"rowspan":1},{"text":"Bona Sforca","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Sutuoktinis (-ė)","value":"Elžbieta Habsburgaitė\nBarbora Radvilaitė\nKotryna Habsburgaitė","cells":[{"text":"Sutuoktinis (-ė)","header":true,"colspan":1,"rowspan":1},{"text":"Elžbieta Habsburgaitė\nBarbora Radvilaitė\nKotryna Habsburgaitė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"Valdė","value":"1544 m. – 1572 m. (~28 metai)","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1544 m. – 1572 m. (~28 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"Pirmtakas","value":"Žygimantas Senasis","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Žygimantas Senasis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_13","label":"Įpėdinis","value":"Henrikas Valua","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Henrikas Valua","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_14","label":"","value":"Lenkijos karalius","cells":[{"text":"Lenkijos karalius","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_15","label":"Valdė","value":"1548 m. – 1572 m. (~24 metai)","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1548 m. – 1572 m. (~24 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_16","label":"Pirmtakas","value":"Žygimantas Senasis","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Žygimantas Senasis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_17","label":"Įpėdinis","value":"Henrikas Valua","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Henrikas Valua","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_18","label":"Vikiteka","value":"Žygimantas Augustas","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Žygimantas Augustas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_19","label":"","value":"Parašas","cells":[{"text":"Parašas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"21852","revision_id":"7926004","status":"published","translation_status":"native","source":{"title":"Žygimantas Augustas","url":"https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas","publisher":"Vikipedija","language":"lt","article_id":"21852","revision_id":"7926004","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7926004","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%BDygimantas_Augustas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:12:13.895179+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"cc8b5ce06ff8552de0dc1b1cc2a40559c3f80d9be2ac8dc4f97cc9edbe8474c6","version_pk":"41b21e225afc2993d40a03d69611fa6f"}},"source_buttons":[{"label":"Vikipedija","title":"Žygimantas Augustas","url":"https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Žygimantas Augustas","url":"https://www.vle.lt/straipsnis/zygimantas-augustas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas","https://www.vle.lt/straipsnis/zygimantas-augustas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"df6f022358ee44e464915f21","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Gavęs žinią apie Polocko netektį, apsiverkė.","context":"Aprašoma jo reakcija į Polocko praradimą; šaltinis nenurodo platesnio charakterio apibendrinimo.","support_ids":["t-182749","c-166162"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182749","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166162","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Nors miestas didvyriškai gynėsi, po dviejų savaičių kovos įgula, nebegalėdama prie- šintis, pasidavė. Polocko netektis buvo netikėta kaip per- kūnas iš giedro dangaus. Gavęs šią žinią, Žygimantas Augustas net apsiverkė."}],"status":"published","conflict_status":"clear"},{"trait_id":"90ee8ce65f41d76b939461a4","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"XVI a. medžioklėje naudojo arkebuzą.","context":"Šaltinis jį įvardija pirmuoju valdovu, XVI a. medžioklėje naudojusiu arkebuzą.","support_ids":["t-204120","c-186720"],"source_refs":[{"kind":"internal_claim","claim_id":"t-204120","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md"},{"kind":"evidence","evidence_id":"c-186720","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md","quote":"Žygimantas Augustas buvo pirmas val- dovas, XVI a. medžioklėje naudojęs arkebuzą (kulkomis šaudantį ginklą)35 – jos švininių kulkų randama ir vykdant medžioklės dvarų archeologinius kasinėji- mus36."}],"status":"published","conflict_status":"clear"},{"trait_id":"02a9915d87010e200a056948","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lenkijos karalius ir Lietuvos didysis kunigaikštis.","context":"Šaltiniuose jis apibūdinamas kaip karalius ir Lietuvos didysis kunigaikštis; 1550–1571 m. datuojamuose dokumentuose minimi jo valdovo užrašai.","support_ids":["t-204018","c-186622"],"source_refs":[{"kind":"internal_claim","claim_id":"t-204018","source":"darbas/sources/Lituanistika-64400-Feodalines-teises-apraiskos-LDK.md"},{"kind":"evidence","evidence_id":"c-186622","source":"darbas/sources/Lituanistika-64400-Feodalines-teises-apraiskos-LDK.md","quote":"Valdovo dokumentuose „leno teisės\" sąvoka (beje, šįkart rusėnų kalba) dar kartą pasirodo Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio Žygimanto Augusto laikais. Pavyzdžiui, 1558 m. valdovo privilegijoje dvaro stalininkui Bag- donui Steckavičiui suteikiamos tarnybos „leno teise\" (правом ленным) 45. Šiame dokumente esanti išlyga dėl tų tarnybų paveldėjimo atskleidžia konkretų leno teisės ypatumą."}],"status":"published","conflict_status":"clear"},{"trait_id":"25c2c25e60b6f6769a9a25fb","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"„Paskutinis savarankiškas Lietuvos valdovas ir paskutinis vyriškasis Jogailos palikuonis“.","context":"Tai Teodoro Narbuto istoriniame veikale pateiktas autoriaus vertinimas, siejamas su Žygimanto Augusto mirtimi ir tautos savarankiškumo pabaiga.","support_ids":["t-216014","c-198732"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216014","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-198732","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­ vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­ kiškumas. Čia turiu perduoti darbą tęsti lenkų istorikams. Pas­ kutinis savarankiškas Lietuvos valdovas ir paskutinis vyriška­ sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j? žau plunksną prie jo karsto“7."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-b8b013b41c5737215e46db57"},"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[{"slug":"parodos/lietuvos-ir-atr-valdovai","title":"LDK ir ATR valdovai"}],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-88469","confidence":0.84},{"predicate":"buvo_vyras","direction":"outbound","target":"objektai/asmenys/Barbora Radvilaitė","claim_id":"t-86276","confidence":0.64},{"predicate":"buvo_zmona","direction":"inbound","target":"objektai/asmenys/Barbora Radvilaitė","claim_id":"t-54953","confidence":0.86},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Barboros rūmai Vilniuje","claim_id":"t-183848","confidence":0.7},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-176975","confidence":0.9},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Knišinas","claim_id":"t-183854","confidence":0.86},{"predicate":"pastate","direction":"outbound","target":"objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai","claim_id":"t-87042","confidence":0.79},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-183581","confidence":0.68},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Šv. Barboros bažnyčia Žemutinėje pilyje","claim_id":"t-86276","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai","claim_id":"t-87130","confidence":0.72},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Vilniaus jėzuitų kolegija","claim_id":"t-86704","confidence":0.7},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-183827","confidence":0.72},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-183827","confidence":0.74},{"predicate":"vede","direction":"outbound","target":"objektai/asmenys/Barbora Radvilaitė","claim_id":"t-183848","confidence":0.92}],"timeline":[{"date":"1546 m.","label":"1546 m.","claimId":"t-183846"},{"date":"1547 m.","label":"1547 m.","claimId":"t-183849"},{"date":"1547 m.","label":"1547 m.","claimId":"t-201565"},{"date":"1555 m.","label":"1555 m.","claimId":"t-183845"},{"date":"1557 m.","label":"1557 m.","claimId":"t-183852"},{"date":"1558 m.","label":"Žygimanto Augusto laikais valdovo dokumentuose leno teisės sąvoka vėl vartota rusėnų kalba; 1558 m.","claimId":"t-204018"},{"date":"1560 m.","label":"1560 m.","claimId":"t-201566"},{"date":"1564 m.","label":"1564 m.","claimId":"t-183853"}],"support_disclosure":{"claims":23,"sources":10}}'
 object_page_finisher: 'true'
@@ -51,13 +61,6 @@ object_page_seo_generated_at: '2026-09-19T02:07:00+00:00'
 object_page_seo_policy_version: object-page-policy/v7
 media_primary_width: 890
 media_primary_height: 1058
-entity_id: "ent-077de0fd46448f11b82f2562"
-canonical_name: "Žygimantas Augustas (arkivyskupas, XVI a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Žygimantas Augustas","Žygimantas Augustas (arkivyskupas, XVI a.)"]
-sameAs: ["https://www.wikidata.org/entity/Q54058"]
-canonical_biography: "Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo)."
 ---
 # Žygimantas Augustas (arkivyskupas, XVI a.)
 
@@ -564,44 +567,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   pagrindžia:
     - c-186720
 
-<a id="claim-t-207429"></a>
-- t-207429
-  teiginys: "Bumblausko aprašyme LDK pinigų sistema prie Žygimanto Augusto įžengė į „aukso amžių“, kai buvo išleistos stambaus nominalo auksinės monetos – dukatai ir portugalai."
-  atnaujinta: "2026-09-19 05:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190028
-
-<a id="claim-t-207759"></a>
-- t-207759
-  teiginys: "Po Barboros Radvilaitės mirties Žygimantas Augustas, kaip nurodo Jūratė Kiaupienė, tikėdamasis sulaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
-  pagrindžia:
-    - c-190412
-
-<a id="claim-t-220070"></a>
-- t-220070
-  teiginys: "Valdant Žygimantui Augustui, Veliuonos vietos kunigas Ragauskas priėmė Socino tikėjimą."
-  atnaujinta: "2026-09-19 05:07"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198847
-
 ## Reikšmingi paminėjimai
 - c-014
   santrauka: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
@@ -683,7 +648,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166974
@@ -702,7 +667,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-166975
@@ -722,7 +687,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-167230
@@ -741,7 +706,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-167231
@@ -764,7 +729,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-167232
@@ -785,7 +750,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-167233
@@ -811,7 +776,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-167234
@@ -836,7 +801,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-167235
@@ -864,7 +829,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-167236
@@ -891,7 +856,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-167237
@@ -916,7 +881,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-167238
@@ -945,7 +910,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-167239
@@ -966,7 +931,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-168271
@@ -997,7 +962,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-168272
@@ -1021,7 +986,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-171546
@@ -1041,7 +1006,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-171547
@@ -1063,7 +1028,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
     - t-018
 
@@ -1088,7 +1053,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-178828
@@ -1120,7 +1085,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-178829
@@ -1145,7 +1110,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-184115
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1158,12 +1122,11 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     torium. Nereikia manyti, kad abu šiuodu stilių taip jau yra priešingi vienas
     kitam.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-184912
@@ -1179,7 +1142,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-184913
@@ -1196,7 +1159,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-185663
@@ -1206,9 +1169,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-185874
@@ -1218,9 +1180,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-186622
@@ -1241,7 +1202,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
 
 - id: c-186623
@@ -1260,7 +1221,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-186720
@@ -1278,115 +1239,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
-
-- id: c-190028
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 48"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 48."
-  citata_originali: |
-    Monetose atsirado lotyniškos legendos, nurodan-
-    čios valstybę ir valdovą, o kartu monetose, be averse vaizduoto Vyčio, reverse atsiranda
-    Lenkijos Erelis. Žygimanto Senojo laikais – nuo 1508 m. – LDK monetos pradėtos tiksliai
-    datuoti. Į „aukso amžių“ (net tiesiogine prasme) LDK pinigų sistema įžengė prie Žygi-
-    manto Augusto, kuomet išleistos stambaus nominalo auksinės monetos – dukatai ir por-
-    tugalai (1 portugalas = 10 dukatų arba 400 grašių).
-  citata_rodoma: "Į „aukso amžių“ (net tiesiogine prasme) LDK pinigų sistema įžengė prie Žygi-\nmanto Augusto, kuomet išleistos stambaus nominalo auksinės monetos – dukatai ir por-\ntugalai (1 portugalas = 10 dukatų arba 400 grašių)."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207429
-
-- id: c-190412
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 196"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 196."
-  citata_originali: |
-    Ta-
-    čiau visi jie tarnavo savo tėvynei, atstovaudami Lietuvos Didžiosios Kunigaikštystės poli-
-    tiniams interesams imperatoriaus dvare, atlikdami valdovo ar Ponų Tarybos pavedimus.
-    Vieną tokią delikačią diplomatinę misiją atliko M. Radvila Juodasis. Po antrosios
-    žmonos Barboros Radvilaitės mirties
-    24 našlaujantis Žygimantas Augustas, tuo metu dar
-    tikėdamasis susilaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos.
-  citata_rodoma: "Po antrosios\nžmonos Barboros Radvilaitės mirties\n24 našlaujantis Žygimantas Augustas, tuo metu dar\ntikėdamasis susilaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207759
-
-- id: c-198732
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
-  citata_originali: |
-    Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­
-    vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­
-    kiškumas. Čia turiu perduoti darbą tęsti lenkų istorikams. Pas­
-    kutinis savarankiškas Lietuvos valdovas ir paskutinis vyriška­
-    sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j?
-    žau plunksną prie jo karsto“7.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198847
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
-  citata_originali: |
-    1414 metais
-    kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
-    ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
-    užrašė bažnyčiai daugiau pajamų. Valdant Žygimantui Augus­
-    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
-    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
-    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
-    Zigmantui III.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220070
-
-- id: c-199469
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 400"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
-  citata_originali: |
-    Is­
-    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
-    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
-    Joje buvusios trys figūros, pavaizduotos iki juosmens - Patrim­
-    pas, ar Atrimpas, gražiaveidis jaunikaitis be barzdos ir ūsų, su
-    varpų vainiku. Viduryje buvo Perkūnas - vidutinio amžiaus,
-    barzda ir plaukai garbiniuoti, juodi, aplink galvą buvo ugnies
-    spindulių vainikas, veidas ugninės - raudonos - spalvos, išpū­
-    tęs ir piktas, žiūrėjo į Atrimpą su pykčiu, o tas tarytum šypso-
-    jęsis.
-  statusas: verified
-  atnaujinta: "2026-09-13 18:04"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]

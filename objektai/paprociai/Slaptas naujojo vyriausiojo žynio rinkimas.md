@@ -72,6 +72,5 @@ Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai išrinkdavo naują; k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -86,6 +86,5 @@ Pasakotojas su tuo nesutiko ir reikalavo pinigus grąžinti jam.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -72,6 +72,5 @@ Vėliau toje Ukrainos dalyje apsigyveno tiveriečių ainiai polianai, ku rie ver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

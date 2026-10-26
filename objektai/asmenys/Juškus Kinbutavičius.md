@@ -69,6 +69,5 @@ canonical_biography: "Štai 1523 m. Juškus Kinbutavičius gynėsi nuo vertimo a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

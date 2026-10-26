@@ -60,6 +60,5 @@ Indas, panašus į taurę, virš ku rio trikampis; virš skydo šalmas apex, kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

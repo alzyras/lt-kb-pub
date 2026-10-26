@@ -73,6 +73,5 @@ Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

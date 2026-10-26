@@ -55,6 +55,5 @@ Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

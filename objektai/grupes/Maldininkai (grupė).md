@@ -64,6 +64,5 @@ Kristburgo komtūras Ditrichas Rodė su šimtine brolių bei maldininkų apiplė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

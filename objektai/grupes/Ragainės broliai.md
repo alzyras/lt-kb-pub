@@ -68,7 +68,7 @@ Ragainės broliai su dviem kitais broliais ir 26 ginklanešiais nukovė 25 lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-205694
@@ -88,6 +88,5 @@ Ragainės broliai su dviem kitais broliais ir 26 ginklanešiais nukovė 25 lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -60,6 +60,5 @@ Pasirinkus pabėgimą į kitą dvarą, nelegalų statusą buvo lengviau įteisin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

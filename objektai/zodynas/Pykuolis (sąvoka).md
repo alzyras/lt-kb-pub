@@ -60,6 +60,5 @@ Tai yra varo šalin piktąjį dievą Pykuolį (Poklių) nuo mirusio asmens kūno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

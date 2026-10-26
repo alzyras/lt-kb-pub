@@ -67,6 +67,5 @@ Daukša pamokslus, visam metui išgul dęs, išspaudė metuose 1599.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

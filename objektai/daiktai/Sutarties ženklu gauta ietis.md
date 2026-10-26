@@ -92,6 +92,5 @@ Teodoro Narbuto pasakojimu, 1212 m. pradžioje lietuviai prie Koknesės pilies �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

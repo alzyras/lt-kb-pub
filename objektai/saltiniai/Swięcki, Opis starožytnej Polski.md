@@ -66,6 +66,5 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

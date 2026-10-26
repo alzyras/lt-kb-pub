@@ -83,6 +83,5 @@ Pylimus juosė platūs ir gilūs grioviai; jų viduje buvo rūsių, duobių ir �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

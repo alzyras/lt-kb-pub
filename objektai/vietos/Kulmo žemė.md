@@ -32,6 +32,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-d8d5a50e04f35ba9445371d0
+canonical_name: Kulmo žemė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kulmo žemė
+sameAs: []
+canonical_biography: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius). Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Kulmo žemė","url":"https://lt.wikipedia.org/wiki/Kulmo_%C5%BEem%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kulmo žemė","url":"https://www.vle.lt/straipsnis/kulmo-zeme/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T05:51:23+00:00","source_checked_at":"2026-09-19T05:51:23+00:00","counts":{"relations":8,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","claim_id":"t-221890","evidence_id":"c-203292","origin":"internal"},"wiki":{"intro":"Kulmo žemė (prūs. Kulms, vok. Kulmerland, lenk. ziemia chełmińska) – nedidelis istorinis regionas dabartinėje vidurio Lenkijoje, tarp Vyslos ir Druvinčios upių.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"300125","revision_id":"7502217","status":"published","translation_status":"native","source":{"title":"Kulmo žemė","url":"https://lt.wikipedia.org/wiki/Kulmo_%C5%BEem%C4%97","publisher":"Vikipedija","language":"lt","article_id":"300125","revision_id":"7502217","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7502217","history_url":"https://lt.wikipedia.org/w/index.php?title=Kulmo_%C5%BEem%C4%97&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:20.347249+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"2bc8aa09a64c975ae7c2a66492ec737d7fa82ee550e5cbb91691c0977f36bc34","version_pk":"8960760f24b8773da2fb5789fcbefde3"}},"source_buttons":[{"label":"Vikipedija","title":"Kulmo žemė","url":"https://lt.wikipedia.org/wiki/Kulmo_%C5%BEem%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kulmo žemė","url":"https://www.vle.lt/straipsnis/kulmo-zeme/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kulmo_%C5%BEem%C4%97","https://www.vle.lt/straipsnis/kulmo-zeme/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"68e624a3f4f8494255119147","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Teritorija tarp Osos šiaurėje, Vyslos vakaruose ir Drėvantos pietryčiuose.","context":"1222 ir 1230 m. dokumentuose taip apibūdinama Kulmo žemė.","support_ids":["t-225748","c-201848"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225748","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201848","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos šiaurėje, Vyslos vakaruose ir Drėvantos (dab. Drvencos) pietryčiuose (PUB, 1, 1, Nr. 41, p. 30; Nr. 75, p. 55)."}],"status":"published","conflict_status":"clear"},{"trait_id":"3342b482a03251743ceab266","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Ordino veiklos Prūsijoje pagrindas.","context":"Petro Dusburgiečio kronikos aiškinime Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas šios veiklos pagrindu.","support_ids":["t-221361","c-204767"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221361","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204767","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną, Dusburgietis vadina išdavikais."}],"status":"published","conflict_status":"clear"},{"trait_id":"b64f72a3a35415aea7f641ce","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Kulmo miestas buvo perkeltas nuo senosios pilies į kalvą.","context":"Anlanto kunigaikščio veiksmas; šaltinis nurodo, kad perkėlimu siekta padaryti Kulmo žemę saugesnę.","support_ids":["t-221567","c-204921"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221567","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204921","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą bei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301, šiuo perkėlimu darydamas Kulmo žemę saugesnę. 60 (59)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dbb7615543f9624a47c69704","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1231 m. prie upės pastatyta Torunės pilis.","context":"Hermanas Balkas, Prūsijos magistras, persikėlė per Vyslą į Kulmo žemę ir pastatė pilį.","support_ids":["t-221874","c-201833"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221874","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201833","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Brolis Hermanas Baikas, Prūsijos magistras, trokšdamas pasitarnauti tikėjimui ir pasikliaudamas minėtuoju kunigaikščiu bei savo kariuomenės narsumu, persikėlė per Vyslą į Kulmo žemę ir žemiau prie upės pastatė 1231 viešpaties metais Torunės pilį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c595f4e7563a4243436f5709","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Kulmo žemė buvo nusiaubta ir paversta dykra.","context":"Petro Dusburgiečio pasakojime apie prūsų antpuolius; istoriografinėje pastaboje pažymima, kad Dusburgietis galėjo perdėti nusiaubimo mastą.","support_ids":["t-224312","c-203418","t-221201","c-205077"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224312","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-221201","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203418","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas. 2."},{"kind":"evidence","evidence_id":"c-205077","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdeda, teigdamas, jog Kulmo žemė buvusi visiškai nusiaubta, paversta dykromis, nes jam rūpėjo padidinti prūsų antpuolių rezultatus, iškelti Ordino nuopelnus (HP. 1, 1, p. 427, 436; Ślaski K. Przyczyny..., p. 26— 27; Powierski J. Stosunki..., p. 153; to paties, Przekaz..., p. 408)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Kulmo žemė – istorinis kraštas, tapęs svarbia Vokiečių ordino veiklos Prūsijoje atrama. Šaltiniuose nurodoma, kad ją mozūrų kunigaikščiai buvo dovanoję vokiečiams, o Ordino įsikūrimas šiame krašte laikytas jo veiklos Prūsijoje pagrindu. 1231 m. Prūsijos magistras Hermanas Balkas persikėlė per Vyslą į Kulmo žemę ir prie upės pastatė Torunės pilį. Kraštas buvo nuolatinių karinių susidūrimų erdvė: į jį su didele kariuomene įsiveržė Divanas Klokinis ir Linkas, o 1330 m. rudenį jį puolė Lenkijos karaliaus Lokietkos pajėgos, tarp jų 8 tūkstančiai Vengrijos karaliaus atsiųstų karių. Vis dėlto šaltinių pasakojimą reikia vertinti kritiškai: istoriografijoje vyrauja nuomonė, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą, siekdamas iškelti Ordino nuopelnus.","sentences":[{"sentence_id":"s1","text":"Kulmo žemė – istorinis kraštas, tapęs svarbia Vokiečių ordino veiklos Prūsijoje atrama.","support_ids":["t-221361","c-204767"]},{"sentence_id":"s2","text":"Šaltiniuose nurodoma, kad ją mozūrų kunigaikščiai buvo dovanoję vokiečiams, o Ordino įsikūrimas šiame krašte laikytas jo veiklos Prūsijoje pagrindu.","support_ids":["t-79503","c-24223","t-221361","c-204767"]},{"sentence_id":"s3","text":"1231 m. Prūsijos magistras Hermanas Balkas persikėlė per Vyslą į Kulmo žemę ir prie upės pastatė Torunės pilį.","support_ids":["t-221874","c-201833"]},{"sentence_id":"s4","text":"Kraštas buvo nuolatinių karinių susidūrimų erdvė: į jį su didele kariuomene įsiveržė Divanas Klokinis ir Linkas, o 1330 m. rudenį jį puolė Lenkijos karaliaus Lokietkos pajėgos, tarp jų 8 tūkstančiai Vengrijos karaliaus atsiųstų karių.","support_ids":["t-220750","c-206322","t-220982","c-205421"]},{"sentence_id":"s5","text":"Vis dėlto šaltinių pasakojimą reikia vertinti kritiškai: istoriografijoje vyrauja nuomonė, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą, siekdamas iškelti Ordino nuopelnus.","support_ids":["t-221201","c-205077"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltinis nurodo, kad Kulmo žemėje įsikūręs Ordinas laikė ją savo veiklos Prūsijoje pagrindu."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Kulmo žemę dovanojo mozūrų kunigaikščiai, o Ordino įsikūrimas joje laikytas veiklos Prūsijoje pagrindu."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1231 metus, Hermano Bal ko persikėlimą per Vyslą į Kulmo žemę ir Torunės pilies pastatymą prie upės."},{"sentence_id":"s4","supported":false,"reason":"Šaltiniai patvirtina konkrečius Divano Klokinio ir Linko bei 1330 m. Lokietkos pajėgų puolimus, tačiau nepakankamai tiesiogiai pagrindžia apibendrinimą, kad kraštas buvo nuolatinių karinių susidūrimų erdvė."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad istoriografijoje vyrauja nuomonė apie Dusburgiečio perdėtą Kulmo žemės nusiaubimo mastą ir siekį iškelti Ordino nuopelnus."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-221361","c-204767"]},{"sentence_id":"s2","supported":true,"support_ids":["t-79503","c-24223","t-221361","c-204767"]},{"sentence_id":"s3","supported":true,"support_ids":["t-221874","c-201833"]},{"sentence_id":"s4","supported":true,"support_ids":["t-220750","c-206322","t-220982","c-205421"]},{"sentence_id":"s5","supported":true,"support_ids":["t-221201","c-205077"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-221361","confidence":0.73},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-79503","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Linkas","claim_id":"t-220750","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Skomantas","claim_id":"t-223845","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-220644","confidence":0.75},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-223845","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-223845","confidence":0.88},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Hermanas iš Zalcos","claim_id":"t-221688","confidence":0.76}],"timeline":[{"date":"1230 m.","label":"1222 ir 1230 m.","claimId":"t-225748"},{"date":"1231 m.","label":"1231 m.","claimId":"t-79502"},{"date":"1231 m.","label":"1231 m.","claimId":"t-79509"},{"date":"1231 m.","label":"1231 m.","claimId":"t-221874"},{"date":"1243 m.","label":"Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.","claimId":"t-223819"},{"date":"1330 m.","label":"1330 m.","claimId":"t-220982"}],"support_disclosure":{"claims":20,"sources":3}}'
 object_page_finisher: 'true'
@@ -45,15 +56,6 @@ object_page_seo_description: 'Kulmo žemė – istorinis kraštas, tapęs svarbi
 object_page_seo_input_hash: 33bd6ab8551131d067700412ebd8a15186b09a892473cf991309a90e9db48dfd
 object_page_seo_generated_at: '2026-09-19T05:51:23+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-d8d5a50e04f35ba9445371d0"
-canonical_name: "Kulmo žemė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kulmo žemė"]
-sameAs: ["https://www.wikidata.org/entity/Q672344"]
-canonical_biography: "Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius). Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams."
-place_authority: true
-historical_names: []
 ---
 # Kulmo žemė
 
@@ -377,78 +379,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   pagrindžia:
     - c-76479
 
-<a id="claim-t-220982"></a>
-- t-220982
-  teiginys: "1330 m. rudenį Lokietka, Lenkijos karalius, su savo karalystės raiteliais, samdininkais ir 8 tūkstančiais Vengrijos karaliaus atsiųstų karių užgriuvo Kulmo žemę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205421
-
-<a id="claim-t-221264"></a>
-- t-221264
-  teiginys: "Kronika pasakoja, kad tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didele kariuomene patraukė prieš jam pavaldų karalių."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206254
-
-<a id="claim-t-221874"></a>
-- t-221874
-  teiginys: "1231 m. Hermanas Balkas persikėlė į Kulmo žemę ir prie upės pastatė Torunės pilį."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201833
-
-<a id="claim-t-221890"></a>
-- t-221890
-  teiginys: "Skomantas su sūduviais, rusų kariuomene ir kitais kariais devynias dienas siaubė Kulmo žemę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203292
-
-<a id="claim-t-221942"></a>
-- t-221942
-  teiginys: "Prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203237
-
-<a id="claim-t-224668"></a>
-- t-224668
-  teiginys: "Skomantas su sūduvių ir lietuvių kariuomene įsiveržė į Kulmo žemę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204296
-
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Prūsai su didele kariuomene nusiaubė Kulmo žemę ir patraukė prie Osos pakrantėje stovėjusios Belichovo pilies.'
@@ -566,7 +496,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-43534
@@ -589,7 +519,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-76478
@@ -614,7 +544,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-76479
@@ -632,7 +562,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-76480
@@ -650,7 +580,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-76482
@@ -671,7 +601,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-76484
@@ -692,7 +622,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-76485
@@ -713,7 +643,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-76486
@@ -734,7 +664,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-76487
@@ -752,7 +682,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-76488
@@ -769,7 +699,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-76489
@@ -791,7 +721,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-76490
@@ -815,7 +745,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-76491
@@ -833,7 +763,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-76492
@@ -858,7 +788,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-76493
@@ -880,7 +810,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-76494
@@ -905,7 +835,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-167558
@@ -933,156 +863,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-
-- id: c-201833
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 52"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 52."
-  citata_originali: |
-    Brolis Hermanas Baikas, Prūsijos magistras, trokšdamas pasitarnauti tikėjimui ir
-    pasikliaudamas minėtuoju kunigaikščiu bei savo kariuomenės narsumu, persikėlė per
-    Vyslą į Kulmo žemę ir žemiau prie upės pastatė 1231 viešpaties metais Torunės pilį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221874
-
-- id: c-202098
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
-  citata_originali: |
-    „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
-    Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
-    o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą,
-    apie Sventopelko, Lietuvos ir prūsų bendrą kovą.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203237
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
-  citata_originali: |
-    Neilgai trukus po to prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė, viską
-    degindama ir plėšdama, o daugybę krikščionių išžudė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221942
-
-- id: c-203292
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 145"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
-  citata_originali: |
-    Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
-    siaubė Kulmo žemę, plėšdamas ir degindamas
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221890
-
-- id: c-204296
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 160"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
-  citata_originali: |
-    Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
-    stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224668
-
-- id: c-205077
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 43"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
-  citata_originali: |
-    Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdeda, teigdamas, jog Kulmo žemė
-    buvusi visiškai nusiaubta, paversta dykromis, nes jam rūpėjo padidinti prūsų antpuolių
-    rezultatus, iškelti Ordino nuopelnus (HP. 1, 1, p. 427, 436; Ślaski K. Przyczyny..., p. 26—
-    27; Powierski J. Stosunki..., p. 153; to paties, Przekaz..., p. 408).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-205421
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 256-257"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256-257."
-  citata_originali: |
-    Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo
-    604 D. nutyli, kad Ordino valdų puolimas buvo numatytas bendromis Lokietkos ir
-    Gedimino jėgomis susitinkant Ordino teritorijoje rugsėjo 8 d. Lietuvos kariuomenė
-    rugsėjo pradžioje pasirodė prie Bartenšteino ir kovodama žygiavo tolyn pro Lubavą,
-    palei Drevantą, pasiekė Straisbergo apylinkes, kur kryžiuočiai sutelkė jėgas, siekdami
-    atremti lietuvius. Iš čia Gediminas patraukė į pietus ir atvyko prie Dobrynės pilies, kurią
-    nesėkmingai šturmavo Lokietkos pajėgos. Čia įvyko derybos tarp Gedimino ir Lokietkos.
-
-    karalystės raiteliais, su daugybe samdininkų ir 8 tūkstančiais karių, kuriuos jam iš savo
-    žemės atsiuntė į pagalbą Vengrijos karalius, ir apgulė Šenenzės miestą bei pilį, o paskui
-    patraukė prie Lypos pilies, tačiau nė vienos jų nepaėmė, tik 10 dienų užgulė šią žemę,
-    viską grobdamas bei degindamas. Galop, pritrūkęs maisto ir sudaręs kurias ne kurias
-    sutartis, jis pasitraukė
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220982
-
-- id: c-206254
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 257"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
-  citata_originali: |
-    Tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didžiausia kariuomene
-    patraukė prieš vieną karalių, jam pavaldų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221264
 
 ## Ryšiai
 - Puolė Kulmo žemę: [[objektai/asmenys/Linkas]], [[objektai/asmenys/Sventopelkas]]

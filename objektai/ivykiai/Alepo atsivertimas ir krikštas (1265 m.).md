@@ -77,6 +77,5 @@ Jo asmuo, išvaizda, amžius sukėlė jų ypatingą pa garbą, tad, užuot nubau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

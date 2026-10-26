@@ -24,13 +24,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-288fd085deeb5f84ef2d3c4a"
-canonical_name: "Otonas iš Kerpeno"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Otonas iš Kerpeno"]
+entity_id: ent-288fd085deeb5f84ef2d3c4a
+canonical_name: Otonas iš Kerpeno
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Otonas iš Kerpeno
 sameAs: []
-canonical_biography: "Otonas vadovavo daug metų, mirė birželio 2 dieną ir buvo palaidotas Akone. Antras magistras — Otonas iš Kerpeno (1200—1208 ar 1209)."
+canonical_biography: 'Otonas vadovavo daug metų, mirė birželio 2 dieną ir buvo palaidotas Akone. Antras magistras — Otonas iš Kerpeno (1200—1208 ar 1209).'
 ---
 # Otonas iš Kerpeno
 
@@ -84,7 +86,7 @@ Otonas vadovavo daug metų, mirė birželio 2 dieną ir buvo palaidotas Akone. A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-206290
@@ -100,6 +102,5 @@ Otonas vadovavo daug metų, mirė birželio 2 dieną ir buvo palaidotas Akone. A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

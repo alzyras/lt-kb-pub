@@ -72,7 +72,7 @@ Latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas. Narbutas t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-201441
@@ -95,6 +95,5 @@ Latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas. Narbutas t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

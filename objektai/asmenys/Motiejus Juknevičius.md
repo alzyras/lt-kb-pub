@@ -69,6 +69,5 @@ canonical_biography: "1580 m. Kaune besisukinėjantis valstietis Motiejus Juknev
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

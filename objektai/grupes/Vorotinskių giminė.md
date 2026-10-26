@@ -80,6 +80,5 @@ Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

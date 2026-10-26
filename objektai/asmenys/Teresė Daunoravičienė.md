@@ -77,6 +77,5 @@ canonical_biography: "1779 m. Tomo Uzaro žmonės užpuolė Anupro ir Teresės D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

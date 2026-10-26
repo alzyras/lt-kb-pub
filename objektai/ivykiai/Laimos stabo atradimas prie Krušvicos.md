@@ -67,6 +67,5 @@ Prie Krušvicos, prie Goplo ežero, buvo atkastas smiltaininis deivės Laimos st
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -30,22 +30,10 @@ Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenė
 
 ## Teiginiai
 
-<a id="claim-t-207769"></a>
-- t-207769
-  teiginys: "XVI a. viduryje vėliavininkų pareigos vis rečiau buvo paveldimos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190556
-
 <a id="claim-t-185416"></a>
-- t-185416
+- t-001
   teiginys: "Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenės vėliava pateko į lietuvių rankas."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -110,29 +98,5 @@ Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185416
-
-- id: c-190556
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 149"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 149."
-  citata_originali: |
-    Varšuvos bei Liublino seimų darbe.
-    Kitą XVI a. viduryje Lietuvos Didžiosios Kunigaikštystės visuomenėje vykusio
-    proceso pusę išryškina V. Kamienieckis. Jis nurodo, kad kaip tik tuo metu keitėsi vėlia-
-    vininkų skyrimo tvarka -vis rečiau vėliavininkų pareigos būdavo paveldimos, vis dažniau
-    valdovas atsižvelgdavo j vietos bajorų norą turėti vieną ar kitą asmenį pavieto vėliavi-
-    ninku, pabrėžia, kad 1551 m. seime didžiojo kunigaikščio buvo prašoma, kad būtų
-    suteikta teisė pavietuose rinkti vėliavininkus.
-  citata_rodoma: "Kitą XVI a. viduryje Lietuvos Didžiosios Kunigaikštystės visuomenėje vykusio\nproceso pusę išryškina V. Kamienieckis. Jis nurodo, kad kaip tik tuo metu keitėsi vėlia-\nvininkų skyrimo tvarka -vis rečiau vėliavininkų pareigos būdavo paveldimos, vis dažniau\nvaldovas atsižvelgdavo j vietos bajorų norą turėti vieną ar kitą asmenį pavieto vėliavi-\nninku, pabrėžia, kad 1551 m. seime didžiojo kunigaikščio buvo prašoma, kad būtų\nsuteikta teisė pavietuose rinkti vėliavininkus."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207769
-
+  pagrindzia:
+    - t-001

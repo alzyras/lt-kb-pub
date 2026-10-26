@@ -34,36 +34,20 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Górnowicz H"]
 sameAs: []
-canonical_biography: "H. Górnowicziaus vietovardžių tyrimai nurodomi Prūsijos žemės kronikos 1985 m. leidimo komentaruose. Šios bibliografinės nuorodos priklauso leidimo rengėjams, o ne XIV a. kronikininkui."
+canonical_biography: "Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., Toponimia..., p. 85—86, 11, 13). Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab. Dusburgietis teigia, kad górnowicz R., Średniowieczne..., p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas A., Lietuvių hidronimų..., p. 100)."
 ---
 # Górnowicz H
 
 ## Santrauka
 
-H. Górnowicziaus vietovardžių tyrimai nurodomi Prūsijos žemės kronikos 1985 m. leidimo komentaruose. Šios bibliografinės nuorodos priklauso leidimo rengėjams, o ne XIV a. kronikininkui.
+Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., Toponimia..., p. 85—86, 11, 13). Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab. Dusburgietis teigia, kad górnowicz R., Średniowieczne..., p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas A., Lietuvių hidronimų..., p. 100).
 
 ## Teiginiai
 
-<a id="claim-t-225011"></a>
+<a id="claim-t-60555"></a>
 - t-001
-  teiginys: "H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Būga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Górnowicz H: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "K. Būga: mention_match, author, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Górnowicz H\" parinktas kaip owner_note_path. Targetas \"K. Būga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202789
-
-<a id="claim-t-223248"></a>
-- t-223248
   teiginys: "H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Marienverderis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,40 +61,39 @@ H. Górnowicziaus vietovardžių tyrimai nurodomi Prūsijos žemės kronikos 198
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Citata sieja Górnowicziaus darbą su Kvedino, Marienverderio ir Kvidzino toponimija."
   pagrindžia:
-    - c-204538
+    - c-61188
 
-<a id="claim-t-223390"></a>
-- t-223390
+<a id="claim-t-60556"></a>
+- t-002
+  teiginys: "H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> K. Būga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Górnowicz H: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "K. Būga: mention_match, author, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Górnowicz H\" parinktas kaip owner_note_path. Targetas \"K. Būga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61186
+
+<a id="claim-t-196998"></a>
+- t-003
   teiginys: "Górnowicz H tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-204270
+    - c-61187
 
 ## Citatos
 
-- id: c-00319
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Manoma, kad upėvardis Elbingas esąs baltiškas, tos pačios šaknies kaip ir lie. Elbentas
-    (GAO, p. 48—49; Kuzavinis K., Etymologica, p. 183; plg. Górnowicz R., Średniowieczne...,
-    p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas
-    A., Lietuvių hidronimų..., p. 100).
-  citata_rodoma: "Manoma, kad upėvardis Elbingas esąs baltiškas, tos pačios šaknies kaip ir lie. Elbentas \n(GAO, p. 48—49; Kuzavinis K., Etymologica, p. 183; plg. Górnowicz R., Średniowieczne..., \np. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas \nA., Lietuvių hidronimų..., p. 100)."
-  statusas: verified
-  atnaujinta: "2026-09-27 13:25"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-202789
+- id: c-61186
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 74"
@@ -121,15 +104,14 @@ H. Górnowicziaus vietovardžių tyrimai nurodomi Prūsijos žemės kronikos 198
     Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo
     (dab. Družno) ežerą (žr. paaiškinimą III, 14, 4).
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-002
 
-- id: c-204270
+- id: c-61187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 78"
@@ -141,15 +123,14 @@ H. Górnowicziaus vietovardžių tyrimai nurodomi Prūsijos žemės kronikos 198
     nebuvę. Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
     ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223390
+  pagrindzia:
+    - t-003
 
-- id: c-204538
+- id: c-61188
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 73"
@@ -163,11 +144,9 @@ H. Górnowicziaus vietovardžių tyrimai nurodomi Prūsijos žemės kronikos 198
     160—161; HP, 1, 1, p. 488; plg. Powierski I., Stosunki..., p. 44—45; Górnowicz H.,
     Toponimia..., p. 85—86, 11, 13).
   statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223248
-
+  pagrindzia:
+    - t-001

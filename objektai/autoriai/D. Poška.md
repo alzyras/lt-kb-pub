@@ -29,6 +29,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-fdecf73534a0ef8510145fa5
+canonical_name: D. Poška
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - D. Poška
+sameAs: []
+canonical_biography: 'Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas. Poška savo Baubly įtaisė net senienų muziejų.'
 external_sources_json: '[]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:47:50+00:00","source_checked_at":"2026-09-19T19:47:50+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3452d7661f972a6626f5e4c4","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rinko senienas ir senus istorinius dokumentus, Baublyje įtaisė senienų muziejų, bandė rašyti Lietuvos istoriją ir rašė žemaitiškai.","context":"A. Šapokos (red.) 1936 m. veikale „Lietuvos istorija“ aprašoma D. Poškos veikla.","support_ids":["t-05729","c-06625","t-05730","c-06627"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05729","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-05730","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-06625","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Be to, buvo renkamos se- nienos ir seni istoriniai doku- mentai, o D. Poška savo Baubly įtaisė net senienų mu- ziejų. Jis taip pat bandė rašyti ir Lietuvos istoriją."},{"kind":"evidence","evidence_id":"c-06627","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai."}],"status":"published","conflict_status":"clear"},{"trait_id":"75f6ff7ff749df9dd12d1953","canonical_code":"author.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Globojo lietuviškosios kultūros palaikus savo Baublyje.","context":"A. Šapokos (red.) 1936 m. veikale „Lietuvos istorija“ taip apibūdinama D. Poškos veikla ir santykis su lietuviškąja kultūra.","support_ids":["t-05730","c-06627"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05730","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-06627","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
 object_page_finisher: 'true'
@@ -42,13 +52,6 @@ object_page_seo_description: 'D. Poška: Poška, pats globojęs lietuviškosios 
 object_page_seo_input_hash: 5956f4259cfe9b78bfb85d5a9506627c11f234ad3344b28d9aa92bfc463893da
 object_page_seo_generated_at: '2026-09-19T19:47:50+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-fdecf73534a0ef8510145fa5"
-canonical_name: "D. Poška"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["D. Poška"]
-sameAs: []
-canonical_biography: "Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas. Poška savo Baubly įtaisė net senienų muziejų."
 ---
 # D. Poška
 
@@ -169,6 +172,18 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   pagrindžia:
     - c-176257
 
+<a id="claim-t-197288"></a>
+- t-007
+  teiginys: "Poška, rašydamas šį straipsnį, turėjo omenyje kokį nors konkretų asmenį."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-179106
+
 <a id="claim-t-197585"></a>
 - t-008
   teiginys: "Bene geriausiai ją apibūdina 1829 metais „Dziennik Warszawski“ išspaus dintas Dionizo Poškos straipsnis „Keletas įžanginių žo džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is toriją“2."
@@ -180,30 +195,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173577
-
-<a id="claim-t-212358"></a>
-- t-212358
-  teiginys: "Dionizas Poška 1829 metais „Dziennik Warszawski“ paskelbė straipsnį „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195882
-
-<a id="claim-t-216607"></a>
-- t-216607
-  teiginys: "Dionizas Poška 1829 metais paskelbė straipsnį „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“."
-  atnaujinta: "2026-09-19 22:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197991
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -270,7 +261,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-06627
@@ -291,7 +282,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-171288
@@ -312,7 +303,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-171289
@@ -333,7 +324,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-173577
@@ -359,7 +350,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-008
 
@@ -384,7 +375,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-179106
@@ -405,91 +396,5 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195419
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 441"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 441."
-  citata_originali: |
-    Tame pačiame laiške I. Ona­
-    cevičiui istorikas prisipažino, jog šią medžiagą jis ėmė
-    tvarkyti maždaug prieš dešimtį metų, t. y. apie 1825—
-    1827 metus. Vadinasi, trečiojo dešimtmečio pabaigoje
-    T. Narbutas jau turėjo sukaupęs pakankamą kiekį šalti­
-    nių, kuriais remdamasis galėjo ryžtis rekonstruoti seniau­
-    sią Lietuvos istoriją. Be to, ir anuometinė atmosfera bu­
-    vo palanki tokiam sprendimui priimti. Bene geriausiai ją
-    apibūdina 1829 metais „Dziennik Warszawski“ išspaus­
-    dintas Dionizo Poškos straipsnis „Keletas įžanginių žo­
-    džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is­
-    toriją“2.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195882
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 441"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 441."
-  citata_originali: |
-    Bene geriausiai ją
-    apibūdina 1829 metais „Dziennik Warszawski“ išspaus­
-    dintas Dionizo Poškos straipsnis „Keletas įžanginių žo­
-    džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is­
-    toriją“2. Jis parašytas metai prieš mirtį, todėl jį drįstume
-    laikyti tam tikru literatūriniu testamentu
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212358
-
-- id: c-197991
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 49"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
-  citata_originali: |
-    Be to,
-    ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
-    imti. Bene geriausiai ją apibūdina 1829 metais „Dziennik Wars-
-    zawski“ išspausdintas Dionizo Poškos straipsnis „Keletas įžan­
-    ginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių
-    istoriją“8. Jis parašytas metai prieš mirtį, todėl jį drįstume lai­
-    kyti tam tikru literatūriniu testamentu.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216607
-
-- id: c-198243
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
-  citata_originali: |
-    Autoriaus įsitikinimu, dėl šių priežasčių lietuvių tau­
-    tos istoriją gali parašyti „tiktai kuris nors civilis pilietis“ ir tik
-    jis turi galimybę objektyviai pavaizduoti tos tautos praeitį.
-    Sunku pasakyti, ar D. Poška, rašydamas šį straipsnį, turėjo
-    omenyje kokį nors konkretų asmenį. Galbūt ir taip. Jam pui­
-    kiai buvo žinomas tuometinis intelektualus Lietuvos elitas,
-    ypač tie, kurie domėjosi krašto praeitimi.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-007

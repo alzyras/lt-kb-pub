@@ -83,6 +83,5 @@ Pareikalavau inleisti Kau nan mano draugą, kuris jau trys dienos, kaip sėdėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -102,6 +102,5 @@ Susitarimu Polocko kunigaikštis atsisakė teisių į Latviją, o vyskupas įsip
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

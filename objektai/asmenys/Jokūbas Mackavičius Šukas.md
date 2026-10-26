@@ -68,6 +68,5 @@ Aleksandras Pečiūga (Alexander Piotrowicz Pieczuga) 1645-1655 m. Motiejus Gors
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

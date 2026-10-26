@@ -64,6 +64,5 @@ Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -16,7 +16,8 @@ const ExternalSources: QuartzComponent = ({ fileData }: QuartzComponentProps) =>
     }
   })()
   const primaryUrls = new Set(Array.isArray(view.primary_source_urls) ? view.primary_source_urls.map(String) : [])
-  const sources = parseExternalSources(fileData.frontmatter?.external_sources_json).filter((source) => !primaryUrls.has(source.url))
+  const overview = view.wiki && typeof view.wiki === "object" ? view.wiki as Record<string, unknown> : {}
+  const sources = parseExternalSources(fileData.frontmatter?.external_sources_json).filter((source) => overview.status !== "published" || !primaryUrls.has(source.url))
   if (sources.length === 0) return null
 
   const groups = new Map<string, typeof sources>()

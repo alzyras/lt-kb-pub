@@ -69,6 +69,5 @@ Aleksandro Pšezdzieckio monografija „Jadvygos ir Jogailos namų gyvenimas“ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

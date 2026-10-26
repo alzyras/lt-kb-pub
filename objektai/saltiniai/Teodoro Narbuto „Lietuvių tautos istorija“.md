@@ -75,6 +75,5 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

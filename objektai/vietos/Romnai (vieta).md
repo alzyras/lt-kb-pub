@@ -19,15 +19,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-fdbe6405d2e8c2f82052fba5"
-canonical_name: "Romnai (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Romnai","Romnai (vieta)"]
+entity_id: ent-fdbe6405d2e8c2f82052fba5
+canonical_name: Romnai (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Romnai
+  - Romnai (vieta)
 sameAs: []
-canonical_biography: "Prie Romnos upės žiočių yra miestelis, vadinamas Romnais arba Romne."
-place_authority: true
-historical_names: []
+canonical_biography: 'Prie Romnos upės žiočių yra miestelis, vadinamas Romnais arba Romne.'
 ---
 # Romnai (vieta)
 
@@ -71,6 +72,5 @@ Prie Romnos upės žiočių yra miestelis, vadinamas Romnais arba Romne.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

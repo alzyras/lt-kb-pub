@@ -123,7 +123,7 @@ canonical_biography: "1514 ---- • --- 375 ## Puslapis 392 VILNIAUS MIESTO ISTO
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-83445
@@ -156,6 +156,5 @@ canonical_biography: "1514 ---- • --- 375 ## Puslapis 392 VILNIAUS MIESTO ISTO
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

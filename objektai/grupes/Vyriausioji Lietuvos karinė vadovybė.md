@@ -76,6 +76,5 @@ Pasiruošimas operacijai Įvertinusi situaciją vyriausioji Lietuvos karinė vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

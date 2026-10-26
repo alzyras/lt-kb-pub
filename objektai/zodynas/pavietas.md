@@ -136,19 +136,6 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   pagrindžia:
     - c-184852
 
-<a id="claim-t-209608"></a>
-- t-209608
-  teiginys: "Pavietas su pavietu ilgų laiką negalėjo susisiekti, kaimas su mies tų, miestas su kaimu; viena pusė Nemuno su kita puse, vienas miestas su kitu."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  vertinimo_atnaujinta: "2026-07-26T18:22:38Z"
-  pagrindžia:
-    - c-192228
-
 ## Citatos
 
 - id: c-104852
@@ -172,7 +159,7 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-104854
@@ -214,7 +201,7 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-104855
@@ -234,7 +221,7 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-166365
@@ -254,7 +241,7 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-175905
@@ -272,7 +259,7 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-184852
@@ -291,24 +278,5 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-
-- id: c-192228
-  šaltinis: "Kelionė Lietuvon 1916 karės metais"
-  puslapiai: "PDF 62"
-  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 62."
-  citata_originali: |
-    Pavietas su pavietu
-    ilgų laiką negalėjo susisiekti, kaimas su mies­
-    tų, miestas su kaimu; viena pusė Nemuno
-    su kita puse, vienas miestas su kitu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 14:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209608
-

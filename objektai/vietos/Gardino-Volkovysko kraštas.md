@@ -14,15 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-b89abda264924109bd1da905"
-canonical_name: "Gardino-Volkovysko kraštas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Gardino-Volkovysko kraštas"]
+entity_id: ent-b89abda264924109bd1da905
+canonical_name: Gardino-Volkovysko kraštas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Gardino-Volkovysko kraštas
 sameAs: []
-canonical_biography: "Motiejus Strijkovskis Bychovco kronikos variantą rado Gardino-Volkovysko krašte, Didžiosios Berestovicos dvare."
-place_authority: true
-historical_names: []
+canonical_biography: 'Motiejus Strijkovskis Bychovco kronikos variantą rado Gardino-Volkovysko krašte, Didžiosios Berestovicos dvare.'
 ---
 # Gardino-Volkovysko kraštas
 
@@ -69,6 +69,5 @@ Motiejus Strijkovskis Bychovco kronikos variantą rado Gardino-Volkovysko krašt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

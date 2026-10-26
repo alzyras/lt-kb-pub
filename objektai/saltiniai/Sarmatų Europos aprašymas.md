@@ -67,6 +67,5 @@ A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

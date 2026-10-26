@@ -64,6 +64,5 @@ Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

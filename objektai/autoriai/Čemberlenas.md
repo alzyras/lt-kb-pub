@@ -36,22 +36,10 @@ canonical_biography: "Čemberlenas perrašė užrašą iš Volfgango Lazijaus, o
 
 ## Teiginiai
 
-<a id="claim-t-219738"></a>
-- t-219738
-  teiginys: "Senovės lietuvių kalba iš Čemberleno; imta iš Ksavero Bo gušo (p. 109):."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198716
-
-<a id="claim-t-212846"></a>
-- t-212846
+<a id="claim-t-191664"></a>
+- t-001
   teiginys: "Čemberlenas perrašė užrašą iš Volfgango Lazijaus, o iš Čemberleno tas užrašas pateko į Londono „Sylloge“."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,6 +53,8 @@ canonical_biography: "Čemberlenas perrašė užrašą iš Volfgango Lazijaus, o
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čemberlenas\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-174546
 
 ## Citatos
 
@@ -87,21 +77,5 @@ canonical_biography: "Čemberlenas perrašė užrašą iš Volfgango Lazijaus, o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-198716
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 448"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 448."
-  citata_originali: |
-    Senovės lietuvių kalba iš Čemberleno; imta iš Ksavero Bo­
-    gušo (p. 109):
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219738
-
+  pagrindzia:
+    - t-001

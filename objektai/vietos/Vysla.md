@@ -39,6 +39,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-db6741751d19008aa7580fbd
+canonical_name: Vysla
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vysla
+sameAs: []
+canonical_biography: Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Vysla","url":"https://lt.wikipedia.org/wiki/Vysla","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vysla","url":"https://www.vle.lt/straipsnis/vysla/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T00:01:01+00:00","source_checked_at":"2026-09-19T00:01:01+00:00","counts":{"relations":12,"gallery":0,"sources":14},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at- vykusius labai neskersuotų, jis atleido visus savo palydovus ir liko tik su dviem kunigais.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-181212","evidence_id":"c-164801","origin":"internal"},"wiki":{"intro":"Vysla (lenk. Wisła, prūs. *Wīksla < *Weiksla, vok. Weichsel, lot. Vistula) – ilgiausia upė Lenkijoje. Vyslos baseinas dengia beveik du trečdalius Lenkijos teritorijos.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"22050","revision_id":"6204100","status":"published","translation_status":"native","source":{"title":"Vysla","url":"https://lt.wikipedia.org/wiki/Vysla","publisher":"Vikipedija","language":"lt","article_id":"22050","revision_id":"6204100","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=6204100","history_url":"https://lt.wikipedia.org/w/index.php?title=Vysla&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:32.947317+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"a21336098ce853a0ea7fca8cc72e2e6b3f256829faba1c4ccc64ece5669c0705","version_pk":"ba8764b45170e429c4428088dfc915c3"}},"source_buttons":[{"label":"Vikipedija","title":"Vysla","url":"https://lt.wikipedia.org/wiki/Vysla","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vysla","url":"https://www.vle.lt/straipsnis/vysla/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vysla","https://www.vle.lt/straipsnis/vysla/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"ad849dec1351c74357cfab84","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Didelė upė.","context":"Vulfstano pasakojime Vysla, arba Ysla, apibūdinama kaip didelė upė; pasakojimas siejamas su Vulfstano kelione jūra. Šaltinis: Simonas Daukantas, „Istorija žemaitiška“, t. 1 (1995 m.).","support_ids":["t-201119","c-184469"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201119","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184469","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Vulfstanas keliavęs jūra pagal nuo Hedaby, pre­ kyba pagirto Šlezvigo miesto, į įtaką Yslos. Ten, sa­ ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­ sėj jos gyvena (Weonoland) gudai, antroj pusėj vy­ čiai, teka ji į Aestų, tai yra Žemaičių, jūrą. Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky­ bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"84b2b97e94f6a3aac5077e3f","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Teka į Aestų, arba Žemaičių, jūrą.","context":"Vulfstano pasakojime nurodoma, kad Vysla teka į Aestų, tai yra Žemaičių, jūrą. Šaltinis: Simonas Daukantas, „Istorija žemaitiška“, t. 1 (1995 m.).","support_ids":["t-201119","c-184469"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201119","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184469","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Vulfstanas keliavęs jūra pagal nuo Hedaby, pre­ kyba pagirto Šlezvigo miesto, į įtaką Yslos. Ten, sa­ ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­ sėj jos gyvena (Weonoland) gudai, antroj pusėj vy­ čiai, teka ji į Aestų, tai yra Žemaičių, jūrą. Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky­ bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e8fc94a800aa59e831d41de5","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Turėjo įvairių salų, kurias vėliau išardė vandens srautai.","context":"Teodoras Narbutas rašė, kad provincijai vakaruose siekiant Vyslą jai priklausė įvairios salos, kurias vėliau išardė vandens srautai.","support_ids":["t-215794","c-197600"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215794","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197600","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Vakaruose, kur šios provincijos sie­ na ėjo Vysla, jai priklausė įvairios salos, kurias vėliau išardė vandens srautai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"78afef94f51eb352a182e2fd","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Skyrė Prūsiją nuo Kujavijos ir Pamario.","context":"Teodoras Narbutas nurodė, kad Vysla iš vakarų pusės skyrė Prūsiją nuo Kujavijos ir Pamario.","support_ids":["t-215499","c-197113"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215499","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197113","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"iš vakarų pusės Vysla skyrė nuo Kujavijos ir Pamario"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"cc7748a3e7c169f7d67f3e13","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Buvo naudojama laivybai; seniau dideli jūros laivai ja atplaukdavo iki Torūnės.","context":"Hartlmoecho pateiktais, Narbuto vadinamais neginčijamais įrodymais, seniau dideli jūros laivai Vysla atplaukdavo iki Torūnės.","support_ids":["t-214212","c-196433"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214212","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196433","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Apie tai, kad seniau di­ deli jūros laivai atplaukdavo Vysla iki Torūnės, Hartlmo- ehas pateikia neginčijamų įrodymų1."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f41b539c64fc126a767ebf2f","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Buvo naudojama grūdams ir kroviniams plukdyti laivais į Prūsijos pasienį.","context":"Jogaila įsakė dvidešimt didelių laivų su grūdais pasroviui Vysla nuplukdyti į Prūsijos pasienį; taip aprašoma 1989 m. publikuotame Kojelavičiaus veikale.","support_ids":["t-185212","c-168573"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185212","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168573","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Lietuva juto baisią maisto sto­ ką. Norėdamas palengvinti nuniokotos tėvynės dalią, Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­ delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa­ sienį, o iš ten pasieniu vežimais nugabenti viską į Lie­ tuvą. Užgrobę visus grūdus, J ie su daro k elia s pro- gabenamus Vysla, kryžiuočiai gas karu i juos išsivežė kitur."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vysla – reikšmingas istorinis vandens kelias ir vieta, minima karinių žygių, prekybos bei Kryžiuočių ordino ekspansijos pasakojimuose. 1231 m. Ordino magistras per Vyslą persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus. 1410 m. Červinske prie Vyslos susijungusios lietuvių ir lenkų pajėgos turėjo žygiuoti į Marienburgą. Vėliau upė tapo svarbiu susisiekimo ir aprūpinimo keliu: Jogaila įsakė dvidešimt laivų su grūdais plukdyti ja į Prūsijos pasienį, nors kryžiuočiai krovinį užgrobė. 1490 m. Kaunas, gindamas savo pirklių interesus, grasino neleisti Torno laivams plaukti į Nemuną, jei šie trukdys kauniečių laivybai Vysla.","sentences":[{"sentence_id":"s1","text":"Vysla – reikšmingas istorinis vandens kelias ir vieta, minima karinių žygių, prekybos bei Kryžiuočių ordino ekspansijos pasakojimuose.","support_ids":["t-205204","c-187925","t-220226","c-203762"]},{"sentence_id":"s2","text":"1231 m. Ordino magistras per Vyslą persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.","support_ids":["t-181211","c-164785"]},{"sentence_id":"s3","text":"Červinske prie Vyslos susijungusios lietuvių ir lenkų pajėgos turėjo žygiuoti į Marienburgą.","support_ids":["t-181238","c-164783"]},{"sentence_id":"s4","text":"Upė tapo svarbiu susisiekimo ir aprūpinimo keliu: Jogaila įsakė dvidešimt laivų su grūdais plukdyti ja į Prūsijos pasienį, nors kryžiuočiai krovinį užgrobė.","support_ids":["t-185212","c-168573","t-205204","c-187925"]},{"sentence_id":"s5","text":"1490 m. Kaunas grasino neleisti Torno laivams plaukti į Nemuną, jei šie trukdys kauniečių laivybai Vysla.","support_ids":["t-201681","c-185028"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta Vyslos reikšme laivybai ir Kryžiuočių ordino ekspansija."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1231 m. persikėlimą per Vyslą, Torunės pilies statybą ir agresijos prieš prūsus pradžią."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo Červinske prie Vyslos susijungusias lietuvių ir lenkų pajėgas bei jų žygį į Marienburgą."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai patvirtina Vyslos naudojimą susisiekimui ir Jogailos įsakymą plukdyti dvidešimt laivų su grūdais, kuriuos užgrobė kryžiuočiai."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1490 m. Kauno grasinimą neleisti Torno laivams plaukti į Nemuną, jei būtų trukdoma kauniečių laivybai Vysla."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-205204","c-187925","t-220226","c-203762"]},{"sentence_id":"s2","supported":true,"support_ids":["t-181211","c-164785"]},{"sentence_id":"s3","supported":true,"support_ids":["t-181238","c-164783"]},{"sentence_id":"s4","supported":true,"support_ids":["t-185212","c-168573","t-205204","c-187925"]},{"sentence_id":"s5","supported":true,"support_ids":["t-201681","c-185028"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Alanai","claim_id":"t-215861","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Baltai","claim_id":"t-183122","confidence":0.87},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Finai","claim_id":"t-214589","confidence":0.76},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Gitonai","claim_id":"t-214589","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Gotai","claim_id":"t-212210","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Tiuringiai","claim_id":"t-215295","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Vandalai","claim_id":"t-212513","confidence":0.88},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Vidivariai","claim_id":"t-212921","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Vidivarii","claim_id":"t-31369","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Gotai","claim_id":"t-214980","confidence":0.84},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-181220","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-181229","confidence":0.62}],"timeline":[{"date":"1231 m.","label":"1231 m.","claimId":"t-181211"},{"date":"1231 m.","label":"1231 m.","claimId":"t-181221"},{"date":"1490 m.","label":"1490 m.","claimId":"t-201681"}],"support_disclosure":{"claims":48,"sources":12}}'
 object_page_finisher: 'true'
@@ -52,15 +63,6 @@ object_page_seo_description: 'Vysla – reikšmingas istorinis vandens kelias ir
 object_page_seo_input_hash: 97a6798301675a36046845f479799dc62c75ed729f690b0275566d6b3134c987
 object_page_seo_generated_at: '2026-09-19T00:01:01+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-db6741751d19008aa7580fbd"
-canonical_name: "Vysla"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vysla"]
-sameAs: ["https://www.wikidata.org/entity/Q548"]
-canonical_biography: "Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos)."
-place_authority: true
-historical_names: []
 ---
 # Vysla
 
@@ -678,126 +680,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - c-189226
 
-<a id="claim-t-212201"></a>
-- t-212201
-  teiginys: "Jis sako, kad jie nepri klauso nei sarmatams, nei germanams, turi daug žemių, vakaruose teka Vysla; jų kaimynai — estai bei gitonai (.. 66—80), šiaurėje — finai, pietuose — peucinai, o rytuose yra nežinomos sritys."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-193102
-
-<a id="claim-t-212535"></a>
-- t-212535
-  teiginys: "Jie nei grįžo į Rytus, iš kur atkeliavo, nei su stojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk tis į Rytus, neabejotinai buvo priversti brautis kitapus Karpatų."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194981
-
-<a id="claim-t-213343"></a>
-- t-213343
-  teiginys: "Vitlandija, pasak Narbuto, driekėsi rytine Vyslos pakrante."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194824
-
-<a id="claim-t-214032"></a>
-- t-214032
-  teiginys: "Šie pokyčiai labiausiai pa veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos žiočių;."
-  atnaujinta: "2026-09-19 03:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196846
-
-<a id="claim-t-214212"></a>
-- t-214212
-  teiginys: "Seniau dideli jūros laivai Vysla atplaukdavo iki Torūnės."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196433
-
-<a id="claim-t-215427"></a>
-- t-215427
-  teiginys: "Iš tiesų truputį vėliau jie iške liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran tėje, dar ir šiandien, žinomoje Kujavijoje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196362
-
-<a id="claim-t-215499"></a>
-- t-215499
-  teiginys: "Vysla skyrė Prūsiją nuo Kujavijos ir Pamario."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197113
-
-<a id="claim-t-215794"></a>
-- t-215794
-  teiginys: "Vakaruose, kur šios provincijos sie na ėjo Vysla, jai priklausė įvairios salos, kurias vėliau išardė vandens srautai."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-197600
-
-<a id="claim-t-217744"></a>
-- t-217744
-  teiginys: "Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą."
-  atnaujinta: "2026-09-19 03:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-197690
-
-<a id="claim-t-223921"></a>
-- t-223921
-  teiginys: "Sventopelkas sutvirtino pilis Vyslos pakrantėse."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202312
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
@@ -983,7 +865,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-164777
@@ -1025,7 +907,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-164778
@@ -1045,7 +927,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-164779
@@ -1066,7 +948,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-164780
@@ -1092,7 +974,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-164781
@@ -1115,7 +997,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-164782
@@ -1138,7 +1020,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
     - t-020
 
@@ -1159,7 +1041,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-164784
@@ -1185,7 +1067,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-005
 
@@ -1208,7 +1090,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-164786
@@ -1231,7 +1113,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-164787
@@ -1261,7 +1143,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
     - t-019
 
@@ -1290,7 +1172,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-164795
@@ -1311,7 +1193,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-164797
@@ -1334,7 +1216,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-164801
@@ -1354,7 +1236,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-164803
@@ -1373,7 +1255,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-167263
@@ -1414,7 +1296,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-168573
@@ -1438,7 +1320,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-171761
@@ -1462,7 +1344,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-175552
@@ -1484,7 +1366,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-175553
@@ -1507,7 +1389,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-175554
@@ -1531,7 +1413,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
 
 - id: c-175555
@@ -1556,7 +1438,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-178897
@@ -1587,7 +1469,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
 
 - id: c-179054
@@ -1614,7 +1496,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
 
 - id: c-179409
@@ -1634,7 +1516,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-184469
@@ -1656,7 +1538,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
 
 - id: c-185028
@@ -1673,7 +1555,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-187804
@@ -1696,7 +1578,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-187925
@@ -1720,7 +1602,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-188104
@@ -1739,7 +1621,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-189224
@@ -1760,7 +1642,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-036
 
 - id: c-189225
@@ -1779,7 +1661,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
 
 - id: c-189226
@@ -1795,313 +1677,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
-
-- id: c-193102
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 98"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
-  citata_originali: |
-    Jis sako, kad jie nepri­
-    klauso nei sarmatams, nei germanams, turi daug žemių,
-    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
-    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
-    rytuose yra nežinomos sritys.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212201
-
-- id: c-194752
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 133"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
-  citata_originali: |
-    Jų
-    vadas Kotiaih ar Komnat, Iyomotas, krito su ginklu ran­
-    kose, o drauge su juo visi žymesni ponai. Lenkų ¡grobiu
-    tapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­
-    lėjo ¡prieš jų valių. Visi jie buvo pakrikštyti ir kartu su
-    gyvulių bandomis ir grobiu išvesti už Vyslos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194824
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 346"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
-  citata_originali: |
-    Be to, ši senovės Vitlandija driekėsi
-    rytine Vyslos pakrante.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213343
-
-- id: c-194981
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 47"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 47."
-  citata_originali: |
-    Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­
-    stojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­
-    tis į Rytus, neabejotinai buvo priversti brautis kitapus
-    Karpatų.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212535
-
-- id: c-196362
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 379"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
-  citata_originali: |
-    Iš tiesų truputį vėliau jie iške­
-    liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
-    tėje, dar ir šiandien, žinomoje Kujavijoje
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215427
-
-- id: c-196433
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 176"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 176."
-  citata_originali: |
-    Apie tai, kad seniau di­
-    deli jūros laivai atplaukdavo Vysla iki Torūnės, Hartlmo-
-    ehas pateikia neginčijamų įrodymų1.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214212
-
-- id: c-196846
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 144"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
-  citata_originali: |
-    Čia dar kartą pakartosime
-    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
-    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
-    laikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­
-    veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos
-    žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­
-    desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės
-    drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­
-    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
-    jį iš Trakijos į Makedoniją (Noet Fr.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-214032
-
-- id: c-197107
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 191"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
-  citata_originali: |
-    195
-    Čia neaiškinsime priežasčių, kodėl mes nepripažįstame
-    lietuvių kildinimo iš gotų ar keltų, nes apie tai vėliau dar
-    pakalbėsime. Taip pat nedera steigtis neigti naujas, gana
-    neišlaikytas nuomones, pasak kurių lietuvių tauta esanti
-    daugelio tautų, ypač germanų kilmės, lydinys, kuris su­
-    sidarė maždaug IV ar V amžiuje Vyslos žemupyje ir buvo
-    vadinamas vidivariais, vidais ar dar kitais vardais. Jau
-    vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­
-    1
-    Tradunt veteres, majores Samogitarum Italos fuisse.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-197113
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 263"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
-  citata_originali: |
-    iš vakarų pusės Vysla
-    skyrė nuo Kujavijos ir Pamario
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215499
-
-- id: c-197600
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 356"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
-  citata_originali: |
-    Vakaruose, kur šios provincijos sie­
-    na ėjo Vysla, jai priklausė įvairios salos, kurias vėliau
-    išardė vandens srautai.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215794
-
-- id: c-197690
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 429"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
-  citata_originali: |
-    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
-    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
-    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
-    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
-    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
-    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
-    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
-    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
-    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
-    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-217744
-
-- id: c-202312
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 84"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84."
-  citata_originali: |
-    šis kunigaikštis sutvirtino savo pilis Vyslos
-    pakrantėse
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223921
-
-- id: c-202497
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
-  citata_originali: |
-    Kadangi tiesa sukelia neapykantą,
-    kadangi niekšai niekad jos nepaiso, nors visados apie ją kalba, tai ir šis klastingasis
-    Sventopelkas, užsikimšęs nelyginant kurčia gyvatė ausis tiesai, niekais nuleido viską,
-    ką girdėjo; pro ausis nuleidęs jam pasakytus žodžius, jis sveiką ir gyvą išleido minėtąjį
-    valdovą Henriką į Kulmo miestą, kur šis atpasakojo magistrui bei broliams visa, ką buvo
-    girdėjęs. Neilgai trukus tas pats kunigaikštis prikalbino magistrą susitikti su Sventopelku
-    vienoje Vyslos saloje302, kur po ilgų derybų, kurias vedė vienas su kitu, galop išsiskyrė
-    nesudarę taikaus susitarimo.
-    61 (60).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203762
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 5"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
-  citata_originali: |
-    Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
-    feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
-    niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,
-    Nevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės
-    kovą prieš agresiją.
-    Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių
-    sluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi
-    viduramžiais į Rytus, atskleidžia tos agresijos esmę ir jos vykdytojų katalikišką
-    fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių ir bažnytinių
-    feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
-    Kronika teikia medžiagos kovai su socialistinėms šalims priešiška revanšistine
-    ideologija, kuri dabartinėje epochoje tęsia viduramžių vokiečių feodalų agresijos
-    prieš Rytų Europos tautas tradicijas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-205256
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 7"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
-  citata_originali: |
-    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Gotai]], [[objektai/grupes/Vidivarii]]

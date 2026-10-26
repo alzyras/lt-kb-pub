@@ -70,6 +70,5 @@ Gardino vaizdas - raižinys ant skardos, gana ge rai atspaustas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

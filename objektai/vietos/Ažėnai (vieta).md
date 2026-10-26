@@ -62,6 +62,5 @@ Pas valstietį Byką Ažėnuose buvo vestuvės.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  pagrindžia:
+  pagrindzia:
     - t-001
-

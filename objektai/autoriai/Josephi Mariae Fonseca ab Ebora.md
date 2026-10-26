@@ -79,6 +79,5 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

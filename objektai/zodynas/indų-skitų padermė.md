@@ -112,7 +112,6 @@ Tai Narbuto lyginamoji rasinė / etnologinė schema, o ne neutralus šiuolaikini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

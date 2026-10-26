@@ -136,12 +136,11 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
     laivės pavidalo sakykla ir dviem menkais altorėliais sankryžos kampuose:
     didžiajam altoriui jie pritrūko ir vaizduotės, ir drąsos.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184136
@@ -155,12 +154,11 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
     sukurtas dailininkų, įsigeidusių kaip galima tirščiau išpuošti architektūrą
     savo kūriniais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184137
@@ -177,12 +175,11 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
     iš žavingiausių visame ansamblyje — moters galvutė, kukliai prisiglaudusi
     nuošaly nuo didžiosios navos kaipo konsolės dalis ( 47 ).
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-184138
@@ -199,11 +196,9 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
     savumą: natūralią realaus vaizdo sąsają su abstraktiškomis architektūrinėmis
     arba ornamentinėmis formomis.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-

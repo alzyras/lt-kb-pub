@@ -87,6 +87,5 @@ canonical_biography: "Šiandien didžiuojamės chirurgų Algimanto Marcinkeviči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -58,6 +58,5 @@ Vokietijoje apskritai, o Lietuvoje ypač, civilė valdžia priklausė nuo milita
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

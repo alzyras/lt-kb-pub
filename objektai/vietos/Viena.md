@@ -30,6 +30,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-358995e43d65ce43d58d11d6
+canonical_name: Viena
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Viena
+sameAs: []
+canonical_biography: 'Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:08:35+00:00","source_checked_at":"2026-09-20T11:08:35+00:00","counts":{"relations":1,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Viena (vok. Wien) – didžiausias Austrijos miestas, sostinė ir kartu viena iš devynių Austrijos žemių. Pagal gyventojų skaičių Viena yra šeštas pagal dydį miestas Europos Sąjungoje. Miestas įsikūręs rytinėje šalies dalyje netoli sienų su Čekija, Slovakija ir Vengrija. Mieste reziduoja kai kurios tarptautinės organizacijos (JTO, TATENA, OPEC ir kt.).","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"7480","revision_id":"7912601","status":"published","translation_status":"native","source":{"title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","publisher":"Vikipedija","language":"lt","article_id":"7480","revision_id":"7912601","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7912601","history_url":"https://lt.wikipedia.org/w/index.php?title=Viena&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:06.719596+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"87fd3ef5a6ea80728d833dafb49d44a0b1a1905348d5e33976cdba73fa526751","version_pk":"06c7d3f81fc9b889162c7964f945b1ae"}},"source_buttons":[{"label":"Vikipedija","title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Viena"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Sapiegos","claim_id":"t-91448","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
 object_page_finisher: 'true'
@@ -43,15 +54,6 @@ object_page_seo_description: 'Viena: Padarius sąjungą su Austrija, turkai užp
 object_page_seo_input_hash: 05da2b5c2c4cfde039873f7b7445b6fdb7883459913adfa49f57596829ec5d04
 object_page_seo_generated_at: '2026-09-20T11:08:35+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-358995e43d65ce43d58d11d6"
-canonical_name: "Viena"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Viena"]
-sameAs: ["https://www.wikidata.org/entity/Q1741"]
-canonical_biography: "Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
-place_authority: true
-historical_names: []
 ---
 # Viena
 
@@ -149,19 +151,6 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   pagrindžia:
     - c-171737
 
-<a id="claim-t-207807"></a>
-- t-207807
-  teiginys: "Kelionė iš Vienos į Vilnių užtrukdavo 43-53 dienas."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-190546
-
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas rašė, kad Jeronimas, vykdamas per Lenkiją į Vieną, lenkų kunigams neatskleidė Viklifo raštų naujienos.'
@@ -201,7 +190,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-24561
@@ -224,7 +213,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-87155
@@ -242,7 +231,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-87157
@@ -262,7 +251,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-171737
@@ -286,44 +275,5 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-190546
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 194"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 194."
-  citata_originali: |
-    Esant geram aptarnavimui, pasiuntinys rai-
-    tomis per dieną galėdavo įveikti nuo б iki 9 mylių kelią (1 mylia - 7,4 km), rogėmis
-    nuvažiuodavo 7-8 mylias, o vengriška karieta—daugiausiai 16 mylių arba apie 118 km
-    per dieną. Kelionė iš Vienos į Vilnių užtrukdavo 43-53 dienas. Nuvykti iš Vienos į
-    Krokuvą užtekdavo 7-16 dienų.
-  citata_rodoma: "Kelionė iš Vienos į Vilnių užtrukdavo 43-53 dienas. Nuvykti iš Vienos į\nKrokuvą užtekdavo 7-16 dienų."
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-08 15:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207807
-
-- id: c-203610
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 23"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
-  citata_originali: |
-    Kaip ir anksčiau mūsų minėtas
-    (Henriko iš Hohenlohės) taip ir šis „Pranešimas...“ aptiktas Vokiečių ordino archyve
-    Vienoje, XVI a. pradžios kodekse, parašytame Ordino archyvo Prūsijoje medžiagos
-    pagrindu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-

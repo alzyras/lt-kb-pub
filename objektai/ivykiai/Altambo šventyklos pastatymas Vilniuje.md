@@ -41,22 +41,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-197229"></a>
-- t-002
-  teiginys: "Ieškoti žinių apie tuos požemius ir pilis palie kame busimiesiems krašto senovės tyrėjams, čia apsiribojame teiginiu, kad miestuose buvo slaptos šventyklos ir galbūt su jomis jungėsi požemiai."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-172501
-
-<a id="claim-t-218018"></a>
-- t-218018
+<a id="claim-t-189618"></a>
+- t-001
   teiginys: "Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,7 +59,19 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-198061
+    - c-172501
+
+<a id="claim-t-197229"></a>
+- t-002
+  teiginys: "Ieškoti žinių apie tuos požemius ir pilis palie kame busimiesiems krašto senovės tyrėjams, čia apsiribojame teiginiu, kad miestuose buvo slaptos šventyklos ir galbūt su jomis jungėsi požemiai."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-172501
 
 ## Citatos
 
@@ -96,31 +96,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-001
     - t-002
-
-- id: c-198061
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 276"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
-  citata_originali: |
-    Ieškoti žinių apie tuos požemius ir pilis palie­
-    kame busimiesiems krašto senovės tyrėjams, čia apsiribojame
-    teiginiu, kad miestuose buvo slaptos šventyklos ir galbūt su
-    jomis jungėsi požemiai. Prie Kražių miestelio, Kražantės upės
-    kairiajame krante, ant Medžiokalnio kalno, stovėjo deivės Me-
-    dziojnos šventykla . Tai tikriausiai pati seniausia šventovė Že­
-    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
-    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
-    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
-    toje buvo pastatyta filija .
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218018
-

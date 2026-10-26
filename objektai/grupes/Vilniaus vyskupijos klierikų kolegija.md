@@ -224,7 +224,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-008
 
@@ -266,7 +266,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-55910
@@ -297,7 +297,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-006
 
@@ -335,8 +335,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
     - t-007
-

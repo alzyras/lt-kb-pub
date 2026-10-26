@@ -71,7 +71,7 @@ Dusburgietis savo kroniką rašė tarp 1320 ir 1326 metų.
 <a id="claim-t-217301"></a>
 - t-001
   teiginys: "Dusburgietis savo kroniką rašė tarp 1320 ir 1326 metų."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-09-13 20:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

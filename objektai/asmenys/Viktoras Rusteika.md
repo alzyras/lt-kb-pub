@@ -14,13 +14,15 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: "ent-4405276c2fa807189de142d8"
-canonical_name: "Viktoras Rusteika"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Viktoras Rusteika"]
+entity_id: ent-4405276c2fa807189de142d8
+canonical_name: Viktoras Rusteika
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Viktoras Rusteika
 sameAs: []
-canonical_biography: "Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką ištirti padėties Skapiškyje."
+canonical_biography: Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką ištirti padėties Skapiškyje.
 ---
 # Viktoras Rusteika
 
@@ -51,9 +53,8 @@ Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209575"></a>

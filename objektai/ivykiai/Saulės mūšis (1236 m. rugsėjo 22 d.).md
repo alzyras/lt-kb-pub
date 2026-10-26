@@ -210,22 +210,6 @@ Nenurodyta
   pagrindžia:
     - c-66987
 
-<a id="claim-t-207462"></a>
-- t-207462
-  teiginys: "1236 m. Saulės mūšyje, Alfredo Bumblausko teigimu, dalyvavo tik žemaičiai."
-  atnaujinta: "2026-09-19 20:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys turi aiškų įvykį, datą ir dalyvius, o šaltinio išvada tinkamai priskirta Bumblauskui. Papildomų dalyvių ar aplinkybių nepridėta."
-  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
-  pagrindžia:
-    - c-190092
-
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: '1236 m. Saulės mūšyje, Alfredo Bumblausko teigimu, dalyvavo tik žemaičiai.'
@@ -263,7 +247,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-11908
@@ -282,7 +266,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-11909
@@ -298,12 +282,11 @@ Nenurodyta
     blokšta iki Dauguvos, į XIII a. pradžios
     ribas.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-11910
@@ -330,7 +313,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-66984
@@ -349,7 +332,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-66986
@@ -385,7 +368,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-66987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -404,7 +386,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
     - t-008
 
@@ -425,25 +407,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
-
-- id: c-190092
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 82"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 82."
-  citata_originali: |
-    Iki šiol buvo manoma, kad lemtingame Saulės mūšyje 1236 m. Livo-
-    nijos ordiną turėjo nugalėti suvienytos Lietuvos valstybės kariuomenė. Dabar aišku, kad
-    Saulės mūšyje dalyvavo tik žemaičiai. Tiesa, 1235 m. rusų metraščiai mini „Mindaugo Lie-
-    tuvą“.
-  citata_rodoma: "ol buvo manoma, kad lemtingame Saulės mūšyje 1236 m. Livo-\nnijos ordiną turėjo nugalėti suvienytos Lietuvos valstybės kariuomenė. Dabar aišku, kad \nSaulės mūšyje dalyvavo tik žemaičiai. Tiesa"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207462
-

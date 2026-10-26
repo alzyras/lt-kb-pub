@@ -30,6 +30,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-f2bd77aec3e9c67aae54d5f4
+canonical_name: Druckas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Druckas
+sameAs: []
+canonical_biography: 'Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Druckas","url":"https://lt.wikipedia.org/wiki/Druckas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:00:32+00:00","source_checked_at":"2026-09-19T23:00:32+00:00","counts":{"relations":4,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Drùckas (bltr. Друцк, rus. Друцк) – kaimas rytinėje Baltarusijoje, 10 km nuo Talačyno, 134 km nuo Vitebsko. Buvęs XI a.- XVI a. senovės Rusios ir Lietuvos Didžiosios Kunigaikštystės miestas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"186981","revision_id":"7761522","status":"published","translation_status":"native","source":{"title":"Druckas","url":"https://lt.wikipedia.org/wiki/Druckas","publisher":"Vikipedija","language":"lt","article_id":"186981","revision_id":"7761522","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7761522","history_url":"https://lt.wikipedia.org/w/index.php?title=Druckas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:17:55.226726+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"52b223c812c0296d9234b47dc33a7658d73a4d3aee320c3458862fd07d73550c","version_pk":"ace7c8cae065f690a2d358b980d320f0"}},"source_buttons":[{"label":"Vikipedija","title":"Druckas","url":"https://lt.wikipedia.org/wiki/Druckas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Druckas"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Šuiskis","claim_id":"t-40393","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-184947","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-67840","confidence":0.78},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-67841","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -43,15 +54,6 @@ object_page_seo_description: 'Druckas: Paėmė Drucką, Oršą ir prisi­ artino
 object_page_seo_input_hash: 3a2f94491e4904978e6dda30bf5bddc3a9b5f29cc237b729c8353ee36aa269f1
 object_page_seo_generated_at: '2026-09-19T23:00:32+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-f2bd77aec3e9c67aae54d5f4"
-canonical_name: "Druckas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Druckas"]
-sameAs: ["https://www.wikidata.org/entity/Q2607478"]
-canonical_biography: "Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko."
-place_authority: true
-historical_names: []
 ---
 # Druckas
 
@@ -156,30 +158,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   pagrindžia:
     - c-170522
 
-<a id="claim-t-211195"></a>
-- t-211195
-  teiginys: "Drucko kunigaikščiai pasitiko Vytautą ir stojo jam tarnauti."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193683
-
-<a id="claim-t-211507"></a>
-- t-211507
-  teiginys: "Vytautas su Jogaila vėliau pietavo pas Drucko kunigaikštį."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193796
-
 ## Citatos
 
 - id: c-43408
@@ -202,7 +180,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-43409
@@ -232,7 +210,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-67601
@@ -248,12 +226,11 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     artino prie Vitebsko. Švitrigaila susilaukė pagalbos ir iš Smo­
     lensko.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-168308
@@ -289,7 +266,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-170522
@@ -308,46 +285,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
-- id: c-193683
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 94"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 94."
-  citata_originali: |
-    Didysis kunigaikštis Vytautas pasiėmė su sa­
-    vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
-    nę, ir išžygiavo į Vitebsko miestą prieš kunigaikštį
-    Švitrigailą'. Pirmiausia atvyko prie Drucko pilies.
-    Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 20:03"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211195
-
-- id: c-193796
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 99"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 99."
-  citata_originali: |
-    Grįždami atgal ', |Vytautas su Jogailai užsuko į
-    Drucką2 ir pietavo pas Drucko kunigaikštį Semioną
-    Dimitrijevičių3.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211507
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Petras Šuiskis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

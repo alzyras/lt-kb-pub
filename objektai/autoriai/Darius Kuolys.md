@@ -58,6 +58,5 @@ canonical_biography: "2, sudarė Darius Kuolys."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

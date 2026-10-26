@@ -73,6 +73,5 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

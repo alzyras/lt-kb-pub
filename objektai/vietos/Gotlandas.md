@@ -115,7 +115,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-157740
@@ -136,7 +136,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-184411
@@ -157,6 +157,5 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

@@ -76,6 +76,5 @@ Iš krapštė valizų kampus ir drabužių kišenius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

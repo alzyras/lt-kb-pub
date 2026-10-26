@@ -87,6 +87,5 @@ Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

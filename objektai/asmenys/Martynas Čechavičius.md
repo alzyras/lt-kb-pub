@@ -70,6 +70,5 @@ canonical_biography: "1633 m. Kauno miestas skundėsi Vladislovui Vazai, kad Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

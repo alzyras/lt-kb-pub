@@ -87,6 +87,5 @@ XVI a. bajorų mitybą veikė krikščioniškas pasninkas, per metus trukdavęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

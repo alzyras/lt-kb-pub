@@ -67,11 +67,9 @@ Vorobjovas Šv. Karių koplyčių apšvietimo efektus apibūdina kaip tokius raf
     šv. Augustino koplyčiose ( 42, 43 ) mes sutinkame tokius rafinuotus ap­
     švietimo efektus, kad užmirštame apie skulptūrą kaipo tokią.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -63,6 +63,5 @@ Chauturej, arba rusiškai Dziady, buvo švenčiami ne tik vieno, neseniai mirusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

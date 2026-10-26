@@ -93,6 +93,5 @@ Po Akono paėmimo Henrikas prie miesto sienų, priešais Šv. Mikalojaus vartus,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

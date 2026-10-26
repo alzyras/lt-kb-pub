@@ -87,6 +87,5 @@ canonical_biography: "žemės teismo antspaudu, išduo­ tas Jo Malonybei kunigu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

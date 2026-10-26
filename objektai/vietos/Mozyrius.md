@@ -27,6 +27,17 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-411656841dddf0ca786f2fa6
+canonical_name: Mozyrius
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Mozyrius
+sameAs: []
+canonical_biography: 'Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Mozyrius","url":"https://lt.wikipedia.org/wiki/Mozyrius","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Mozyrius","url":"https://www.vle.lt/straipsnis/mozyrius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:12:11+00:00","source_checked_at":"2026-09-19T23:12:11+00:00","counts":{"relations":3,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Mozỹrius (bltr. Мазыр, rus. Мозырь) – miestas pietų Baltarusijoje, Gomelio srityje, Pripetės upės dešiniajame krante. Mozyriaus rajono centras. Yra pedagogikos institutas, kraštotyros muziejus, Dramos teatras. Yra Šv. Mykolo bernardinų bažnyčia, pastatyta 1760–1775 m., perstatyta XIX a., Šv. Arkangelo Mykolo (1743–1745 m.) vienuolynas ir bažnyčia, XVIII a. Cistersų vienuolynas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"83466","revision_id":"7448171","status":"published","translation_status":"native","source":{"title":"Mozyrius","url":"https://lt.wikipedia.org/wiki/Mozyrius","publisher":"Vikipedija","language":"lt","article_id":"83466","revision_id":"7448171","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7448171","history_url":"https://lt.wikipedia.org/w/index.php?title=Mozyrius&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:14.785561+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"b52fa62bc7298c5e95e945a3b95138ceb31a1bf6dabf65f5770cf12665b6e47c","version_pk":"c55ead38b1015c241a6cdaa01d7a8639"}},"source_buttons":[{"label":"Vikipedija","title":"Mozyrius","url":"https://lt.wikipedia.org/wiki/Mozyrius","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Mozyrius","url":"https://www.vle.lt/straipsnis/mozyrius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Mozyrius","https://www.vle.lt/straipsnis/mozyrius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"72135dab27210b9e4a1f177c","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Yra prie Pripetės.","context":"Šaltinis apibūdina Mozyrių kaip miestą prie Pripetės.","support_ids":["t-211099","c-193085"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211099","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193085","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Mozyrius — Kijevo Rusios miestas, pirmą kartą šaltiniuose paminėtas 1153 m. Dabar BTSR Gomelio sr. miestas (prie Pripetės). XVI a pirmaįame ketvirtyje Mozyriaus vietininku buvo Albertas Goštautas."}],"status":"published","conflict_status":"clear"},{"trait_id":"822a1cf1277fc7853c8c1077","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Miestas.","context":"Šaltinis Mozyrių tiesiogiai įvardija kaip Kijevo Rusios miestą.","support_ids":["t-211099","c-193085"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211099","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193085","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Mozyrius — Kijevo Rusios miestas, pirmą kartą šaltiniuose paminėtas 1153 m. Dabar BTSR Gomelio sr. miestas (prie Pripetės). XVI a pirmaįame ketvirtyje Mozyriaus vietininku buvo Albertas Goštautas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-183782","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Kazokai","claim_id":"t-39099","confidence":0.76},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Skirmantas","claim_id":"t-185052","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":3,"sources":3}}'
 object_page_finisher: 'true'
@@ -40,15 +51,6 @@ object_page_seo_description: 'Mozyrius: Tačiau jis kiek apsivylė: Maskvos pasi
 object_page_seo_input_hash: 00559f36dfba273fa074bb82a1333d11915a8405e3f3df43c83fd1db5971ce83
 object_page_seo_generated_at: '2026-09-19T23:12:11+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-411656841dddf0ca786f2fa6"
-canonical_name: "Mozyrius"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Mozyrius"]
-sameAs: ["https://www.wikidata.org/entity/Q386487"]
-canonical_biography: "Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
-place_authority: true
-historical_names: []
 ---
 # Mozyrius
 
@@ -75,8 +77,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-182415
     - c-68225
+    - c-182415
 
 <a id="claim-t-68719"></a>
 - t-002
@@ -94,8 +96,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   temporaliniai_duomenys: "įvykio data: 1535 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-182415
     - c-68225
+    - c-182415
 
 <a id="claim-t-185052"></a>
 - t-003
@@ -133,17 +135,31 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   pagrindžia:
     - c-182414
 
-<a id="claim-t-211099"></a>
-- t-211099
-  teiginys: "Mozyrius buvo Kijevo Rusios miestas prie Pripetės, pirmą kartą šaltiniuose paminėtas 1153 m."
-  atnaujinta: "2026-09-13 21:47"
+<a id="claim-t-199617"></a>
+- t-005
+  teiginys: "Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos."
+  susije_objektai: "llm_object: Mozyrius; llm_object: Karačevas; llm_object: Starodubas; mentioned_place: Karačevas; mentioned_place: Starodubas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Sluckas"
+  semantiniai_rysiai: "[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Mozyrius"
+  temporaliniai_duomenys: "įvykio data: 1535 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos."
+  ryšio_patikimumas: "uzeme -> Mozyrius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mozyrius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Skirmantas paėmė Mozyrių."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-193085
+    - c-182412
 
 ## Citatos
 
@@ -170,7 +186,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -203,7 +219,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-182412
@@ -229,6 +245,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 - id: c-182414
   sudarytojas: "Karolis Zikaras"
@@ -250,7 +268,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-182415
@@ -276,30 +294,9 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-
-- id: c-193085
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 196"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 196."
-  citata_originali: |
-    Mozyrius — Kijevo
-    Rusios miestas, pirmą kartą šaltiniuose
-    paminėtas 1153 m. Dabar BTSR Gomelio sr. miestas (prie Pripetės).
-    XVI a
-    pirmaįame ketvirtyje Mozyriaus vietininku buvo Albertas
-    Goštautas.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211099
 
 ## Ryšiai
 - Užėmė Mozyrių: [[objektai/asmenys/Skirmantas]]

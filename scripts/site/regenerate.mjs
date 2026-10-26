@@ -268,13 +268,28 @@ function makeChecks(root, outputRoot, env, reportDirectory, evidenceAuditScope) 
   return { prebuild, postbuild }
 }
 
+async function persistBuildProgress(report, root) {
+  report.updatedAt = new Date().toISOString()
+  await writeJsonAtomic(
+    path.join(root, ".cache", "site-regenerate", "current-build.json"),
+    report,
+  )
+  if (report.reportPath) await writeJsonAtomic(report.reportPath, report)
+}
+
 async function executeStage(step, { root, env, json, executor, report }) {
   const started = performance.now()
+  report.currentStage = step.name
+  report.currentStageStartedAt = new Date().toISOString()
+  await persistBuildProgress(report, root)
   try {
     const result = await executor(step, { root, env: step.env ?? env, json })
     const recordedResult = step.scope ? { ...result, scope: step.scope } : result
     report.stages.push(recordedResult)
-    return recordedResult
+    report.currentStage = null
+    delete report.currentStageStartedAt
+    await persistBuildProgress(report, root)
+      return recordedResult
   } catch (error) {
     const result = {
       name: step.name,
@@ -499,6 +514,8 @@ async function runBuild(
   fingerprintOutput = fingerprintTree,
 ) {
   const started = performance.now()
+  const runId = randomUUID()
+  const startedAt = new Date().toISOString()
   const outputRoot = path.resolve(root, options.output)
   const targetCache = path.join(
     root,
@@ -511,10 +528,17 @@ async function runBuild(
   const reportPath = path.join(targetCache, "latest-build.json")
   const report = {
     schemaVersion: reportSchemaVersion,
+    runId,
+    parentRunId: env.LT_KB_SITE_REGENERATION_RUN_ID || null,
     mode: options.mode,
     status: "running",
     result: "rebuilt",
     outputRoot,
+    startedAt,
+    updatedAt: startedAt,
+    currentStage: "target-validation",
+    currentStageStartedAt: startedAt,
+    reportPath,
     stages: [],
     fallbackReasons: [],
   }
@@ -528,12 +552,22 @@ async function runBuild(
     if (error?.code !== "ENOENT") throw error
   }
 
+  const setupStarted = performance.now()
   await mkdir(targetCache, { recursive: true })
+  await persistBuildProgress(report, root)
   const recovered = await recoverInterruptedSwap({ outputRoot, targetCache, statePath })
   if (recovered) report.recovery = recovered
   await mkdir(path.dirname(outputRoot), { recursive: true })
   await cleanupOrphanedArtifacts(outputRoot)
 
+  report.stages.push({
+    name: "target-validation",
+    status: "success",
+    durationMs: Math.round(performance.now() - setupStarted),
+  })
+  report.currentStage = "input-fingerprint"
+  report.currentStageStartedAt = new Date().toISOString()
+  await persistBuildProgress(report, root)
   const fingerprintStarted = performance.now()
   let fingerprints
   try {
@@ -552,8 +586,9 @@ async function runBuild(
     report.error = `input-fingerprint failed: ${message}`
     report.totalDurationMs = Math.round(performance.now() - started)
     report.finishedAt = new Date().toISOString()
-    report.reportPath = reportPath
-    await writeJsonAtomic(reportPath, report)
+    report.currentStage = null
+    delete report.currentStageStartedAt
+    await persistBuildProgress(report, root)
     return report
   }
   report.stages.push({
@@ -564,6 +599,9 @@ async function runBuild(
   })
   report.inputFingerprint = fingerprints.inputFingerprint
   report.brokenInputSymlinks = fingerprints.brokenSymlinks
+  report.currentStage = "output-integrity"
+  report.currentStageStartedAt = new Date().toISOString()
+  await persistBuildProgress(report, root)
 
   const priorState = await readJson(statePath)
   const stateValid = priorState?.schemaVersion === STATE_SCHEMA_VERSION
@@ -641,8 +679,9 @@ async function runBuild(
         report.stages.push(skippedStage("postbuild-audits", "No input or output changes."))
         report.totalDurationMs = Math.round(performance.now() - started)
         report.finishedAt = new Date().toISOString()
-        report.reportPath = reportPath
-        await writeJsonAtomic(reportPath, report)
+        report.currentStage = null
+        delete report.currentStageStartedAt
+        await persistBuildProgress(report, root)
         return report
       }
       fingerprints = latestFingerprints
@@ -689,7 +728,6 @@ async function runBuild(
     )
   }
 
-  const runId = randomUUID()
   const outputParent = path.dirname(outputRoot)
   const outputName = path.basename(outputRoot)
   const stagingRoot = path.join(outputParent, `.${outputName}.site-regenerate-staging-${runId}`)
@@ -831,6 +869,7 @@ async function runBuild(
             ...skippedStage(step.name, step.skipReason ?? group.skipReason),
             ...(step.scope ? { scope: step.scope } : {}),
           })
+          await persistBuildProgress(report, root)
           continue
         }
         let result = await executeStage(step, { root, env, json: options.json, executor, report })
@@ -893,6 +932,9 @@ async function runBuild(
     }
 
     if (!failed) {
+      report.currentStage = "input-consistency"
+      report.currentStageStartedAt = new Date().toISOString()
+      await persistBuildProgress(report, root)
       const consistencyStarted = performance.now()
       const latestFingerprints = await fingerprintInputs(root, env)
       const changedInputs = changedInputPaths(fingerprints, latestFingerprints)
@@ -918,6 +960,9 @@ async function runBuild(
     }
 
     if (!failed) {
+      report.currentStage = "staging-output"
+      report.currentStageStartedAt = new Date().toISOString()
+      await persistBuildProgress(report, root)
       const stagingTree = incrementalBuildUsed
         ? await fingerprintIncrementalOutput(
             stagingRoot,
@@ -938,6 +983,9 @@ async function runBuild(
           durationMs: 0,
           fileCount: stagingTree.fileCount,
         })
+        report.currentStage = "publish-local-output"
+        report.currentStageStartedAt = new Date().toISOString()
+        await persistBuildProgress(report, root)
         report.outputFingerprint = stagingTree.fingerprint
         let contentMetadataState = {}
         if (await exists(buildMetadataPath)) {
@@ -1009,8 +1057,9 @@ async function runBuild(
 
   report.totalDurationMs = Math.round(performance.now() - started)
   report.finishedAt = new Date().toISOString()
-  report.reportPath = reportPath
-  await writeJsonAtomic(reportPath, report)
+  report.currentStage = report.status === "success" ? null : report.currentStage
+  delete report.currentStageStartedAt
+  await persistBuildProgress(report, root)
   return report
 }
 

@@ -76,6 +76,5 @@ Vilniuje sušauktame seime, pasak Narbuto, buvo patvirtinta Skirgailos investit�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

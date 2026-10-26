@@ -73,6 +73,5 @@ Ji susidėdavo iš didžiosios aukos ir bendrų vaišių; jų metu ant laužo su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

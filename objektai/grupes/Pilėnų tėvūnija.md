@@ -7,10 +7,10 @@ datos:
   - '1930 m.'
 date_start: '1930'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,13 +34,14 @@ Alfonsas Valentėlis buvo Pilėnų tėvūnijos Visuomeninės dalies viršininkas
 
 Alfonsas Valentėlis buvo Pilėnų tėvūnijos Visuomeninės dalies viršininkas.
 
-## Citatos
+## Reikšmingi paminėjimai
 
-- id: c-213840
-  autorius: "Ona Dapšytė-Kriukelienė"
-  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+- c-001
+  santrauka: 'Alfonsas Valentėlis buvo Pilėnų tėvūnijos Visuomeninės dalies viršininkas.'
+  šaltinis: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika
   puslapiai: "PDF 437"
-  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 437."
   citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-09-28 17:40"

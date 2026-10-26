@@ -80,6 +80,5 @@ Miškelių garbinimas buvo taip sureikšmintas, kad juose jokiu būdu nederėjo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

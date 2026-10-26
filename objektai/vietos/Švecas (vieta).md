@@ -82,6 +82,5 @@ Lygia dalia antrą seną pilį, vardu Švecas, ties Kulmu ant skardžio Vyslos p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

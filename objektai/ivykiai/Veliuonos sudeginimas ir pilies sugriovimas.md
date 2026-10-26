@@ -73,6 +73,5 @@ Narbutas teigia, kad 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

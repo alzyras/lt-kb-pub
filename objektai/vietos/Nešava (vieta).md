@@ -91,6 +91,5 @@ Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

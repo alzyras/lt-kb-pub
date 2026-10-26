@@ -56,10 +56,10 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   pagrindžia:
     - c-174048
 
-<a id="claim-t-212827"></a>
-- t-212827
+<a id="claim-t-191167"></a>
+- t-002
   teiginys: "Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,6 +73,8 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odinas\" parinktas kaip owner_note_path. Targetas \"Keltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174049
 
 ## Citatos
 
@@ -97,7 +99,7 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-174049
@@ -122,27 +124,5 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-- id: c-195751
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 82"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 82."
-  citata_originali: |
-    Plutarchas Kjamilio gyveni­
-    mo aprašyme išdėstė senovės padavimą apie keltų gen­
-    čių persikėlimą iš Pietų per Rifėjų kalnus ir įsikūrimą
-    tolimoje šalyje, esančioje Europos šiaurėje. Sis pasako­
-    jimas patvirtina mūsų padavimą apie dalies senovės ski­
-    tų su Odinu priešakyje kelionę į Skandinaviją (§ 13). Si
-    keltų šaka, išsiplėtusi Siaurės krašte, skyrėsi nuo jai
-    giminingų genčių savo ypatingu azartinių žygių pomė­
-    giu, neramiu charakteriu, neprisirišimu prie vienos vie­
-    tos, polinkiu grobti ir panieka žmoniškumo teisėms.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-002

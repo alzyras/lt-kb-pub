@@ -120,6 +120,5 @@ Kryžiaus žygis esą paskelbtas ne pavergti ar kamuoti ne laisvėje pagonis, d�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

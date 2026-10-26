@@ -43,6 +43,21 @@ media_primary_json: '{"mediaId":"m-6c8eccc8e2db1668dc29b340","title":"Gediminas.
 media_direct_json: '[{"mediaId":"m-6c8eccc8e2db1668dc29b340","title":"Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas","caption":"Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas","originalTitle":"Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas","creator":"Aleksandro Gvagninio leidinys","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"XVI–XVII a.; katalogo datavimas nevienodas","width":796,"height":767,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Gedimin_grav_xvii.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Gedimin_grav_xvii.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Gedimin_grav_xvii.jpg","displayUrl":"/static/media/museum/gediminas.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:48+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Gediminas.md","relationType":"portrait_of","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)"}],"attribution":"Aleksandro Gvagninio leidinys · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Gedimin_grav_xvii.jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."},{"mediaId":"m-c1505772e5a0a162aa2b242a","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument, Vilnius.jpg","caption":"Gedimino paminklas prie Lietuvos Didžiųjų Kunigaikščių rūmų Vilniuje.","originalTitle":"Palace of the Grand Dukes of Lithuania and Gediminas Monument, Vilnius.jpg","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-08-15","dateStart":null,"dateEnd":null,"width":4032,"height":3024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"2020 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas Monument in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Palace of the Grand Dukes of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:19:17.873148+03:00","reviewedAt":"2026-08-11T00:48:51.191194+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma raitelio su kardu Gedimino skulptūra Vilniuje, prie Lietuvos Didžiųjų Kunigaikščių rūmų.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai įvardija Gedimino monumentą Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus Gedimino paminklas, todėl vaizdo ryšys su target yra tiesioginis.","isPrimary":1},{"mediaId":"m-e7c45c518ba33edc4c4d6bc9","title":"193 vilnius Gediminas Statue (15420580639).jpg","caption":"Gedimino paminklo skulptūra Vilniuje.","originalTitle":"193 vilnius Gediminas Statue (15420580639).jpg","creator":"Brian Toward from London, United Kingdom","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"193 vilnius Gediminas Statue","dateDisplay":"2014-09-04 13:18","dateStart":null,"dateEnd":null,"width":6000,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A193_vilnius_Gediminas_Statue_%2815420580639%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/193_vilnius_Gediminas_Statue_%2815420580639%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/193_vilnius_Gediminas_Statue_%2815420580639%29.jpg/1920px-193_vilnius_Gediminas_Statue_%2815420580639%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/193_vilnius_Gediminas_Statue_%2815420580639%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC published in","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:53.374368+03:00","reviewedAt":"2026-08-11T00:48:51.216464+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma raitelio Gedimino statula ant postamento, su kardu ir žirgu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardyta Gedimino statula Vilniuje; aprašas pateikia jos istorinę tapatybę.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Gedimino paminklinę skulptūrą.","isPrimary":0},{"mediaId":"m-07b4a5dfee480bfa206148b2","title":"203 vilnius Gediminas Statue (15869746255).jpg","caption":"Gedimino paminklas Vilniuje","originalTitle":"203 vilnius Gediminas Statue (15869746255).jpg","creator":"Brian Toward from London, United Kingdom","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"203 vilnius Gediminas Statue","dateDisplay":"2014-09-04 13:22","dateStart":null,"dateEnd":null,"width":5498,"height":3596,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A203_vilnius_Gediminas_Statue_%2815869746255%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/203_vilnius_Gediminas_Statue_%2815869746255%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/203_vilnius_Gediminas_Statue_%2815869746255%29.jpg/1920px-203_vilnius_Gediminas_Statue_%2815869746255%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/203_vilnius_Gediminas_Statue_%2815869746255%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:53.374804+03:00","reviewedAt":"2026-08-11T00:48:51.233918+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas monumentalus viduramžių valdovo ir raitelio paminklas prie Vilniaus katedros; kompozicijoje matomi ginklai, šarvai ir žirgas.","metadataEvidence":"Pavadinimas yra „203 vilnius Gediminas Statue“, o aprašas išsamiai nurodo Gedimino valdžią ir paminklą Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai identifikuotas Gedimino paminklas.","isPrimary":0},{"mediaId":"m-f0b446f145335e212e4b070c","title":"Apdovanojimo medalis. Lietuva. Didžiojo Lietuvos kunigaikščio Gedimino ordino. 2-ojo laipsnio.","caption":"Didžiojo Lietuvos kunigaikščio Gedimino ordino medalio aversas su Gedimino portretu","originalTitle":"Apdovanojimo medalis. Lietuva. Didžiojo Lietuvos kunigaikščio Gedimino ordino. 2-ojo laipsnio.","creator":"","provider":"europeana","providerLabel":"National Museum of Lithuania","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_949451789","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-949451789/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnm-bucket%2FLIMIS-949451789%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-949451789/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bron","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronca","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronce","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Brons","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Brontze","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronze","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronzo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Brąz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Cré-umha","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pronks","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pronssi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"An Liotuáin","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Leedu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Liettua","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lietuva","language":"def","canonicalCode":"lietuva"},{"provider":"europeana","field":"edm_places","label":"Litauen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lithuania","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litouwen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lituania","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lituanie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lituânia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litvánia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litwa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litwanja","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:23:01.841928+03:00","reviewedAt":"2026-07-18T20:42:44.266765+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apdovanojimo medalis su barzdoto valdovo portretu, šalmu ir šarvais; aplink portretą įskaitomas įrašas „DIDYSIS LIETUVOS KUNIGAIKŠTIS GEDIMINAS“.","metadataEvidence":"Kandidato pavadinimas ir aprašymas tiesiogiai nurodo Didžiojo Lietuvos kunigaikščio Gedimino ordiną bei Gedimino bareljefinį portretą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai patvirtina, kad medalio averso portrete pavaizduotas konkretus targetas Gediminas.","isPrimary":0},{"mediaId":"m-97bf9fcd5a62280ba531141b","title":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","caption":"Gedimino, Lietuvos didžiojo kunigaikščio, tapytas atvaizdas, 1709 m.","originalTitle":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maria Kałamajska-Saeed, Genealogia prez obrazy, barokowa ikonografia rodu Sapiehów na tle staropolskich galerii portretowych, Warszawa 2006","dateDisplay":"1709","dateStart":null,"dateEnd":null,"width":2424,"height":2512,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas'' Cap","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:19:17.872737+03:00","reviewedAt":"2026-08-11T00:48:51.206979+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuoto, barzdoto valdovo biustinis portretas su istoriniais valdovo drabužiais.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai įvardija paveikslą kaip Gedimino atvaizdą.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis Gedimino portretas.","isPrimary":0},{"mediaId":"m-6002b4a724dd051d5a7eaf4b","title":"Giedzimin. Гедзімін (1709).jpg","caption":"Gedimino istorinis portretas, 1709 m.","originalTitle":"Giedzimin. Гедзімін (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Wawel Royal Castle","dateDisplay":"1709 date QS:P571,+1709-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":649,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGiedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%281709%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait gallery of Sapieha family in Kodeń","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits with the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:55.420168+03:00","reviewedAt":"2026-08-11T00:48:51.244442+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas barzdotas valdovas su skeptru ir heraldiniu apsiaustu; apačioje įrašyta „Gedimins Magnus Lithuaniae“.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Gediminą; datuojama 1709 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Gedimino portretas su identifikuojančiu įrašu.","isPrimary":0},{"mediaId":"m-0905458297a1c708b54913a3","title":"Giedzimin. Гедзімін (J. Fleck, 1856).jpg","caption":"Gedimino istorinis portretas, J. Flecko graviūra","originalTitle":"Giedzimin. Гедзімін (J. Fleck, 1856).jpg","creator":"J. Fleck","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"1856","dateStart":null,"dateEnd":null,"width":604,"height":860,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGiedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%28J._Fleck%2C_1856%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%28J._Fleck%2C_1856%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%28J._Fleck%2C_1856%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%28J._Fleck%2C_1856%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"19th-century depictions of the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:55.420374+03:00","reviewedAt":"2026-08-11T00:48:51.227061+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdoto valdovo portretas su kunigaikščio galvos apdangalu, apsiaustu ir skeptru; apačioje įrašyta „Gedimins Magnus Lithuaniae“.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didysis kunigaikštis Gediminas; autorius J. Fleck, 1856.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Gedimino portretas.","isPrimary":0},{"mediaId":"m-ecc2e8600d65d7345c5a5a92","title":"LT-1996-50litų-Gediminas-b.png","caption":"Gedimino 50 litų proginės monetos aversas, 1996 m.","originalTitle":"LT-1996-50litų-Gediminas-b.png","creator":"uploaded by User:M.K.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lithuanian Bank","dateDisplay":"2 April 2007 (upload date)","dateStart":null,"dateEnd":null,"width":221,"height":221,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALT-1996-50lit%C5%B3-Gediminas-b.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/LT-1996-50lit%C5%B3-Gediminas-b.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/LT-1996-50lit%C5%B3-Gediminas-b.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/LT-1996-50lit%C5%B3-Gediminas-b.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"moneta","label":"moneta","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"moneta","label":"moneta","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Antanas Žukauskas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Commemorative coins of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (coins)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"coin_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:35.598340+03:00","reviewedAt":"2026-08-11T00:48:51.201991+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Monetoje aiškiai matomas šarvuoto valdovo atvaizdas ir įrašas „GEDIMINAS – DIDYSIS LIETUVOS KUNIGAIKŠTIS“.","metadataEvidence":"Pavadinimas ir aprašas nurodo Gediminui skirtą 50 litų monetą.","confidenceLevel":"high","relationType":"coin_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Monetos pusėje tiesiogiai pavaizduotas Gediminas ir jis įvardytas įrašu.","isPrimary":0},{"mediaId":"m-f0a9482f370144e4e734d9db","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius in winter in 2022.jpg","caption":"Gedimino paminklas prie Lietuvos Didžiųjų Kunigaikščių rūmų žiemą.","originalTitle":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius in winter in 2022.jpg","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2022-12-26","dateStart":null,"dateEnd":null,"width":4032,"height":3024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"2022 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas Monument in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Night in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Palace of the Grand Dukes of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Snow in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Winter in Vilnius","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:19:17.873506+03:00","reviewedAt":"2026-08-11T00:48:51.221818+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žiemą aiškiai matoma Gedimino raitelio skulptūra prie Lietuvos Didžiųjų Kunigaikščių rūmų Vilniuje.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai įvardija Gedimino monumentą bei Geležinio Vilko simbolį.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus Gedimino paminklas, tiesiogiai matomas fotografijoje.","isPrimary":0}]'
 media_contextual_json: '[{"mediaId":"m-c76e92b6f457ab5df2585989","title":"Funeral of Grand Duke of Lithuania Gediminas, painting by K. Alchimowicz, 1888.jpg","caption":"Gedimino laidotuvių scena, K. Alchimowicziaus paveikslas","originalTitle":"Funeral of Grand Duke of Lithuania Gediminas, painting by K. Alchimowicz, 1888.jpg","creator":"Kazimierz Alchimowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Muzeum Narodowe w Krakowie , image","dateDisplay":"1888 date QS:P571,+1888-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":4000,"height":2508,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFuneral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1880s history paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1888 paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1888 paintings from Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"19th-century paintings in the National Museum in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks digital representation of 2D work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item missing genre","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with accession number from Wikidata","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings by Kazimierz Alchimowicz","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:19:17.873330+03:00","reviewedAt":"2026-08-11T00:48:51.238270+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma miško aplinkoje vykstanti ginkluotų karių ir gedėtojų laidotuvių procesija.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytos Lietuvos didžiojo kunigaikščio Gedimino laidotuvės; autorius K. Alchimowicz, 1888.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai pagrįstas Gedimino laidotuvių istorinis vaizdas, nors pats asmuo scenoje nėra individualiai atpažįstamas.","isPrimary":0},{"mediaId":"m-e9ec299f03857fc7d4edaf5d","title":"Lithuania 1991 FDC MiNr0488 B002.jpg","caption":"Lietuvos 1991 m. pirmosios dienos vokas, skirtas Gedimino mirties 650-osioms metinėms.","originalTitle":"Lithuania 1991 FDC MiNr0488 B002.jpg","creator":"Postal Administration (of the Ministry of Communications) of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1991-09-28","dateStart":null,"dateEnd":null,"width":2584,"height":1850,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1991_FDC_MiNr0488_B002.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Lithuania_1991_FDC_MiNr0488_B002.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lithuania_1991_FDC_MiNr0488_B002.jpg/1920px-Lithuania_1991_FDC_MiNr0488_B002.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Lithuania_1991_FDC_MiNr0488_B002.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1991 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1991-09-28 postmarks","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"First Day Covers of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas on stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kostas Katkus","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pictorial postmarks of Lithuania","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:21:55.421132+03:00","reviewedAt":"2026-08-11T00:48:51.196709+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas Lietuvos pašto ženklas ir pirmosios dienos antspaudas su Gedimino atvaizdu bei 650-ųjų mirties metinių įrašu.","metadataEvidence":"Apraše nurodyta 1991 m. Gedimino mirties 650-ųjų metinių laida ir Vilniaus pirmosios dienos antspaudas.","confidenceLevel":"high","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai Gediminą įamžinantis filatelinis dokumentas.","isPrimary":0},{"mediaId":"m-d56ea5b6dc866d44e41c5f3a","title":"Lithuania 1991 MiNr0487 B002.jpg","caption":"Lietuvos 1991 m. pašto ženklas, skirtas Gedimino mirties 650-osioms metinėms.","originalTitle":"Lithuania 1991 MiNr0487 B002.jpg","creator":"Postal Administration of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1991-09-28","dateStart":null,"dateEnd":null,"width":489,"height":596,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1991_MiNr0487_B002.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Lithuania_1991_MiNr0487_B002.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Lithuania_1991_MiNr0487_B002.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Lithuania_1991_MiNr0487_B002.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1991 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Green stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kostas Katkus","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People of Lithuania on stamps","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:21:55.421363+03:00","reviewedAt":"2026-08-11T00:48:51.212200+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas Lietuvos pašto ženklas su stilizuotu Gedimino istoriniu portretu ir įrašu apie 650-ąsias mirties metines.","metadataEvidence":"Apraše tiesiogiai nurodyta, kad tai 1991 m. Gedimino mirties 650-osioms metinėms skirta laida.","confidenceLevel":"high","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai Gediminą įamžinantis nacionalinis pašto ženklas.","isPrimary":0},{"mediaId":"m-152f7897cbf36b257998de31","title":"LT-1996-50litų-Gediminas-a.png","caption":"Gedimino 50 litų proginės monetos reversas, 1996 m.","originalTitle":"LT-1996-50litų-Gediminas-a.png","creator":"uploaded by User:M.K.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lithuanian Bank","dateDisplay":"2 April 2007 (upload date)","dateStart":null,"dateEnd":null,"width":220,"height":220,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALT-1996-50lit%C5%B3-Gediminas-a.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/LT-1996-50lit%C5%B3-Gediminas-a.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/LT-1996-50lit%C5%B3-Gediminas-a.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/LT-1996-50lit%C5%B3-Gediminas-a.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"moneta","label":"moneta","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.82},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.82},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"moneta","label":"moneta","facetKind":"tema","confidence":0.82},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Antanas Žukauskas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Commemorative coins of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (coins)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on Lithuanian coins","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"coin_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:21:35.597954+03:00","reviewedAt":"2026-08-11T00:48:43.532649+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma 50 litų 1996 m. Lietuvos moneta su Gedimino serijai būdingais heraldiniais ir istoriniais motyvais.","metadataEvidence":"Pavadinime ir apraše tiksliai nurodyta, kad tai Gediminui, Lietuvos didžiajam kunigaikščiui, skirta moneta.","confidenceLevel":"medium","relationType":"coin_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Ryšys su Gediminu aiškus iš konkrečios proginės monetos identifikacijos, nors šioje pusėje pats asmuo nevaizduojamas.","isPrimary":0}]'
 media_all_json: '[{"mediaId":"m-6c8eccc8e2db1668dc29b340","title":"Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas","caption":"Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas","originalTitle":"Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas","creator":"Aleksandro Gvagninio leidinys","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"XVI–XVII a.; katalogo datavimas nevienodas","width":796,"height":767,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Gedimin_grav_xvii.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Gedimin_grav_xvii.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Gedimin_grav_xvii.jpg","displayUrl":"/static/media/museum/gediminas.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:48+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Gediminas.md","relationType":"portrait_of","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)"}],"attribution":"Aleksandro Gvagninio leidinys · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Gedimin_grav_xvii.jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."},{"mediaId":"m-c1505772e5a0a162aa2b242a","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument, Vilnius.jpg","caption":"Gedimino paminklas prie Lietuvos Didžiųjų Kunigaikščių rūmų Vilniuje.","originalTitle":"Palace of the Grand Dukes of Lithuania and Gediminas Monument, Vilnius.jpg","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-08-15","dateStart":null,"dateEnd":null,"width":4032,"height":3024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument%2C_Vilnius.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"2020 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas Monument in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Palace of the Grand Dukes of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:19:17.873148+03:00","reviewedAt":"2026-08-11T00:48:51.191194+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma raitelio su kardu Gedimino skulptūra Vilniuje, prie Lietuvos Didžiųjų Kunigaikščių rūmų.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai įvardija Gedimino monumentą Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus Gedimino paminklas, todėl vaizdo ryšys su target yra tiesioginis.","isPrimary":1},{"mediaId":"m-e7c45c518ba33edc4c4d6bc9","title":"193 vilnius Gediminas Statue (15420580639).jpg","caption":"Gedimino paminklo skulptūra Vilniuje.","originalTitle":"193 vilnius Gediminas Statue (15420580639).jpg","creator":"Brian Toward from London, United Kingdom","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"193 vilnius Gediminas Statue","dateDisplay":"2014-09-04 13:18","dateStart":null,"dateEnd":null,"width":6000,"height":4000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A193_vilnius_Gediminas_Statue_%2815420580639%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/193_vilnius_Gediminas_Statue_%2815420580639%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/193_vilnius_Gediminas_Statue_%2815420580639%29.jpg/1920px-193_vilnius_Gediminas_Statue_%2815420580639%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/193_vilnius_Gediminas_Statue_%2815420580639%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images missing SDC published in","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:53.374368+03:00","reviewedAt":"2026-08-11T00:48:51.216464+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma raitelio Gedimino statula ant postamento, su kardu ir žirgu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardyta Gedimino statula Vilniuje; aprašas pateikia jos istorinę tapatybę.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo Gedimino paminklinę skulptūrą.","isPrimary":0},{"mediaId":"m-07b4a5dfee480bfa206148b2","title":"203 vilnius Gediminas Statue (15869746255).jpg","caption":"Gedimino paminklas Vilniuje","originalTitle":"203 vilnius Gediminas Statue (15869746255).jpg","creator":"Brian Toward from London, United Kingdom","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"203 vilnius Gediminas Statue","dateDisplay":"2014-09-04 13:22","dateStart":null,"dateEnd":null,"width":5498,"height":3596,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A203_vilnius_Gediminas_Statue_%2815869746255%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/203_vilnius_Gediminas_Statue_%2815869746255%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/203_vilnius_Gediminas_Statue_%2815869746255%29.jpg/1920px-203_vilnius_Gediminas_Statue_%2815869746255%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/af/203_vilnius_Gediminas_Statue_%2815869746255%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:53.374804+03:00","reviewedAt":"2026-08-11T00:48:51.233918+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas monumentalus viduramžių valdovo ir raitelio paminklas prie Vilniaus katedros; kompozicijoje matomi ginklai, šarvai ir žirgas.","metadataEvidence":"Pavadinimas yra „203 vilnius Gediminas Statue“, o aprašas išsamiai nurodo Gedimino valdžią ir paminklą Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai identifikuotas Gedimino paminklas.","isPrimary":0},{"mediaId":"m-f0b446f145335e212e4b070c","title":"Apdovanojimo medalis. Lietuva. Didžiojo Lietuvos kunigaikščio Gedimino ordino. 2-ojo laipsnio.","caption":"Didžiojo Lietuvos kunigaikščio Gedimino ordino medalio aversas su Gedimino portretu","originalTitle":"Apdovanojimo medalis. Lietuva. Didžiojo Lietuvos kunigaikščio Gedimino ordino. 2-ojo laipsnio.","creator":"","provider":"europeana","providerLabel":"National Museum of Lithuania","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_949451789","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-949451789/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnm-bucket%2FLIMIS-949451789%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-949451789/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bron","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronca","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronce","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Brons","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Brontze","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronze","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bronzo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Brąz","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Cré-umha","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pronks","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Pronssi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"An Liotuáin","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Leedu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Liettua","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lietuva","language":"def","canonicalCode":"lietuva"},{"provider":"europeana","field":"edm_places","label":"Litauen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lithuania","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litouwen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lituania","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lituanie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Lituânia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litvánia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litwa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_places","label":"Litwanja","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:23:01.841928+03:00","reviewedAt":"2026-07-18T20:42:44.266765+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apdovanojimo medalis su barzdoto valdovo portretu, šalmu ir šarvais; aplink portretą įskaitomas įrašas „DIDYSIS LIETUVOS KUNIGAIKŠTIS GEDIMINAS“.","metadataEvidence":"Kandidato pavadinimas ir aprašymas tiesiogiai nurodo Didžiojo Lietuvos kunigaikščio Gedimino ordiną bei Gedimino bareljefinį portretą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai patvirtina, kad medalio averso portrete pavaizduotas konkretus targetas Gediminas.","isPrimary":0},{"mediaId":"m-97bf9fcd5a62280ba531141b","title":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","caption":"Gedimino, Lietuvos didžiojo kunigaikščio, tapytas atvaizdas, 1709 m.","originalTitle":"Gediminas, the Grand Duke of Lithuania, painted in 1709.png","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maria Kałamajska-Saeed, Genealogia prez obrazy, barokowa ikonografia rodu Sapiehów na tle staropolskich galerii portretowych, Warszawa 2006","dateDisplay":"1709","dateStart":null,"dateEnd":null,"width":2424,"height":2512,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Gediminas%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas'' Cap","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:19:17.872737+03:00","reviewedAt":"2026-08-11T00:48:51.206979+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuoto, barzdoto valdovo biustinis portretas su istoriniais valdovo drabužiais.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai įvardija paveikslą kaip Gedimino atvaizdą.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis Gedimino portretas.","isPrimary":0},{"mediaId":"m-6002b4a724dd051d5a7eaf4b","title":"Giedzimin. Гедзімін (1709).jpg","caption":"Gedimino istorinis portretas, 1709 m.","originalTitle":"Giedzimin. Гедзімін (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Wawel Royal Castle","dateDisplay":"1709 date QS:P571,+1709-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":649,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGiedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%281709%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Ermine (clothing) in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait gallery of Sapieha family in Kodeń","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits with the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:55.420168+03:00","reviewedAt":"2026-08-11T00:48:51.244442+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotas barzdotas valdovas su skeptru ir heraldiniu apsiaustu; apačioje įrašyta „Gedimins Magnus Lithuaniae“.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Gediminą; datuojama 1709 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Gedimino portretas su identifikuojančiu įrašu.","isPrimary":0},{"mediaId":"m-0905458297a1c708b54913a3","title":"Giedzimin. Гедзімін (J. Fleck, 1856).jpg","caption":"Gedimino istorinis portretas, J. Flecko graviūra","originalTitle":"Giedzimin. Гедзімін (J. Fleck, 1856).jpg","creator":"J. Fleck","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"1856","dateStart":null,"dateEnd":null,"width":604,"height":860,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGiedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%28J._Fleck%2C_1856%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%28J._Fleck%2C_1856%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%28J._Fleck%2C_1856%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/Giedzimin._%D0%93%D0%B5%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D0%BD_%28J._Fleck%2C_1856%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"19th-century depictions of the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:55.420374+03:00","reviewedAt":"2026-08-11T00:48:51.227061+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdoto valdovo portretas su kunigaikščio galvos apdangalu, apsiaustu ir skeptru; apačioje įrašyta „Gedimins Magnus Lithuaniae“.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didysis kunigaikštis Gediminas; autorius J. Fleck, 1856.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis istorinis Gedimino portretas.","isPrimary":0},{"mediaId":"m-ecc2e8600d65d7345c5a5a92","title":"LT-1996-50litų-Gediminas-b.png","caption":"Gedimino 50 litų proginės monetos aversas, 1996 m.","originalTitle":"LT-1996-50litų-Gediminas-b.png","creator":"uploaded by User:M.K.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lithuanian Bank","dateDisplay":"2 April 2007 (upload date)","dateStart":null,"dateEnd":null,"width":221,"height":221,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALT-1996-50lit%C5%B3-Gediminas-b.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/LT-1996-50lit%C5%B3-Gediminas-b.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/LT-1996-50lit%C5%B3-Gediminas-b.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/LT-1996-50lit%C5%B3-Gediminas-b.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"moneta","label":"moneta","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"moneta","label":"moneta","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Antanas Žukauskas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Commemorative coins of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (coins)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"coin_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:21:35.598340+03:00","reviewedAt":"2026-08-11T00:48:51.201991+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Monetoje aiškiai matomas šarvuoto valdovo atvaizdas ir įrašas „GEDIMINAS – DIDYSIS LIETUVOS KUNIGAIKŠTIS“.","metadataEvidence":"Pavadinimas ir aprašas nurodo Gediminui skirtą 50 litų monetą.","confidenceLevel":"high","relationType":"coin_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Monetos pusėje tiesiogiai pavaizduotas Gediminas ir jis įvardytas įrašu.","isPrimary":0},{"mediaId":"m-f0a9482f370144e4e734d9db","title":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius in winter in 2022.jpg","caption":"Gedimino paminklas prie Lietuvos Didžiųjų Kunigaikščių rūmų žiemą.","originalTitle":"Palace of the Grand Dukes of Lithuania and Gediminas Monument in Vilnius in winter in 2022.jpg","creator":"Pofka","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2022-12-26","dateStart":null,"dateEnd":null,"width":4032,"height":3024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Palace_of_the_Grand_Dukes_of_Lithuania_and_Gediminas_Monument_in_Vilnius_in_winter_in_2022.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"2022 in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas Monument in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Night in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Palace of the Grand Dukes of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Snow in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Winter in Vilnius","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:19:17.873506+03:00","reviewedAt":"2026-08-11T00:48:51.221818+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žiemą aiškiai matoma Gedimino raitelio skulptūra prie Lietuvos Didžiųjų Kunigaikščių rūmų Vilniuje.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai įvardija Gedimino monumentą bei Geležinio Vilko simbolį.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus Gedimino paminklas, tiesiogiai matomas fotografijoje.","isPrimary":0},{"mediaId":"m-c76e92b6f457ab5df2585989","title":"Funeral of Grand Duke of Lithuania Gediminas, painting by K. Alchimowicz, 1888.jpg","caption":"Gedimino laidotuvių scena, K. Alchimowicziaus paveikslas","originalTitle":"Funeral of Grand Duke of Lithuania Gediminas, painting by K. Alchimowicz, 1888.jpg","creator":"Kazimierz Alchimowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Muzeum Narodowe w Krakowie , image","dateDisplay":"1888 date QS:P571,+1888-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":4000,"height":2508,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFuneral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Funeral_of_Grand_Duke_of_Lithuania_Gediminas%2C_painting_by_K._Alchimowicz%2C_1888.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1880s history paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1888 paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1888 paintings from Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"19th-century paintings in the National Museum in Kraków","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks digital representation of 2D work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item missing genre","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with accession number from Wikidata","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings by Kazimierz Alchimowicz","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:19:17.873330+03:00","reviewedAt":"2026-08-11T00:48:51.238270+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma miško aplinkoje vykstanti ginkluotų karių ir gedėtojų laidotuvių procesija.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytos Lietuvos didžiojo kunigaikščio Gedimino laidotuvės; autorius K. Alchimowicz, 1888.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai pagrįstas Gedimino laidotuvių istorinis vaizdas, nors pats asmuo scenoje nėra individualiai atpažįstamas.","isPrimary":0},{"mediaId":"m-e9ec299f03857fc7d4edaf5d","title":"Lithuania 1991 FDC MiNr0488 B002.jpg","caption":"Lietuvos 1991 m. pirmosios dienos vokas, skirtas Gedimino mirties 650-osioms metinėms.","originalTitle":"Lithuania 1991 FDC MiNr0488 B002.jpg","creator":"Postal Administration (of the Ministry of Communications) of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1991-09-28","dateStart":null,"dateEnd":null,"width":2584,"height":1850,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1991_FDC_MiNr0488_B002.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Lithuania_1991_FDC_MiNr0488_B002.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lithuania_1991_FDC_MiNr0488_B002.jpg/1920px-Lithuania_1991_FDC_MiNr0488_B002.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Lithuania_1991_FDC_MiNr0488_B002.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1991 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1991-09-28 postmarks","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"First Day Covers of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas on stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kostas Katkus","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pictorial postmarks of Lithuania","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:21:55.421132+03:00","reviewedAt":"2026-08-11T00:48:51.196709+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas Lietuvos pašto ženklas ir pirmosios dienos antspaudas su Gedimino atvaizdu bei 650-ųjų mirties metinių įrašu.","metadataEvidence":"Apraše nurodyta 1991 m. Gedimino mirties 650-ųjų metinių laida ir Vilniaus pirmosios dienos antspaudas.","confidenceLevel":"high","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai Gediminą įamžinantis filatelinis dokumentas.","isPrimary":0},{"mediaId":"m-d56ea5b6dc866d44e41c5f3a","title":"Lithuania 1991 MiNr0487 B002.jpg","caption":"Lietuvos 1991 m. pašto ženklas, skirtas Gedimino mirties 650-osioms metinėms.","originalTitle":"Lithuania 1991 MiNr0487 B002.jpg","creator":"Postal Administration of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1991-09-28","dateStart":null,"dateEnd":null,"width":489,"height":596,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1991_MiNr0487_B002.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Lithuania_1991_MiNr0487_B002.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Lithuania_1991_MiNr0487_B002.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Lithuania_1991_MiNr0487_B002.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1991 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Green stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kostas Katkus","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"People of Lithuania on stamps","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:21:55.421363+03:00","reviewedAt":"2026-08-11T00:48:51.212200+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas Lietuvos pašto ženklas su stilizuotu Gedimino istoriniu portretu ir įrašu apie 650-ąsias mirties metines.","metadataEvidence":"Apraše tiesiogiai nurodyta, kad tai 1991 m. Gedimino mirties 650-osioms metinėms skirta laida.","confidenceLevel":"high","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai Gediminą įamžinantis nacionalinis pašto ženklas.","isPrimary":0},{"mediaId":"m-152f7897cbf36b257998de31","title":"LT-1996-50litų-Gediminas-a.png","caption":"Gedimino 50 litų proginės monetos reversas, 1996 m.","originalTitle":"LT-1996-50litų-Gediminas-a.png","creator":"uploaded by User:M.K.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lithuanian Bank","dateDisplay":"2 April 2007 (upload date)","dateStart":null,"dateEnd":null,"width":220,"height":220,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALT-1996-50lit%C5%B3-Gediminas-a.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/LT-1996-50lit%C5%B3-Gediminas-a.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/LT-1996-50lit%C5%B3-Gediminas-a.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/LT-1996-50lit%C5%B3-Gediminas-a.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"moneta","label":"moneta","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.82},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.82},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"moneta","label":"moneta","facetKind":"tema","confidence":0.82},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Antanas Žukauskas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Commemorative coins of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (coins)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on Lithuanian coins","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Gediminas.md","title":"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","itemType":"asmuo","relationType":"coin_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:21:35.597954+03:00","reviewedAt":"2026-08-11T00:48:43.532649+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma 50 litų 1996 m. Lietuvos moneta su Gedimino serijai būdingais heraldiniais ir istoriniais motyvais.","metadataEvidence":"Pavadinime ir apraše tiksliai nurodyta, kad tai Gediminui, Lietuvos didžiajam kunigaikščiui, skirta moneta.","confidenceLevel":"medium","relationType":"coin_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Ryšys su Gediminu aiškus iš konkrečios proginės monetos identifikacijos, nors šioje pusėje pats asmuo nevaizduojamas.","isPrimary":0}]'
+entity_id: ent-c2ed925b51f7b9f5e0f7b986
+canonical_name: 'Gediminas (Lietuvos didysis kunigaikštis, XIV a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Gediminas
+  - 'Gediminas (Lietuvos didysis kunigaikštis, XIV a.)'
+  - Gedimino
+  - Gedimins
+  - Gediminui
+  - Gedyminą
+  - lietuvių karalius
+sameAs: []
+canonical_biography: 'Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais. Matydamas užtruksiančią kovą su kryžiuočiais, Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
 external_sources_json: '[{"title":"Gediminas","url":"https://lt.wikipedia.org/wiki/Gediminas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Gediminas","url":"https://www.vle.lt/straipsnis/gediminas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T19:42:59+00:00","source_checked_at":"2026-09-18T19:42:59+00:00","counts":{"relations":93,"gallery":13,"sources":18},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau- geliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies- tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie- tuvą; visiems žadėjo savo globos ir paramos įsikurti.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-10677","evidence_id":"c-00145","origin":"internal"},"wiki":{"intro":"Gediminas (lot. Gedeminne, Gedeminnus; ~1275–1341 m.) – Lietuvos didysis kunigaikštis iš Gediminaičių dinastijos, pavadintos jo garbei. Titulavosi lietuvių ir rusų karaliumi, Žiemgalos kunigaikščiu. Popiežius Jonas XXII Gediminą įvardijo kaip „lietuvių ir daugelio rusų karalių“.","infobox":[{"code":"row_1","label":"","value":"Gediminas","cells":[{"text":"Gediminas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Imaginacinis portretas Aleksandro Gvanjinio „Europos Sarmatijos aprašyme“, 1578 m.","cells":[{"text":"Imaginacinis portretas Aleksandro Gvanjinio „Europos Sarmatijos aprašyme“, 1578 m.","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"","value":"Gediminaičių dinastija","cells":[{"text":"Gediminaičių dinastija","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Gimė","value":"~1275 m.","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"~1275 m.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Mirė","value":"1341 m. (~66 metai)\nVilnius (?)","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1341 m. (~66 metai)\nVilnius (?)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Palaidotas (-a)","value":"Vilnius (?)","cells":[{"text":"Palaidotas (-a)","header":true,"colspan":1,"rowspan":1},{"text":"Vilnius (?)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Tėvas","value":"Butvydas arba Skalmantas","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Butvydas arba Skalmantas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Sutuoktinis (-ė)","value":"Ieva\nVindemunda\nOlga Smolenskietė","cells":[{"text":"Sutuoktinis (-ė)","header":true,"colspan":1,"rowspan":1},{"text":"Ieva\nVindemunda\nOlga Smolenskietė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"Vaikai","value":"Algirdas\nKęstutis\nLiubartas\nJaunutis\nMantvydas\nNarimantas\nKarijotas\nElžbieta\nMarija\nEufemija\nAldona","cells":[{"text":"Vaikai","header":true,"colspan":1,"rowspan":1},{"text":"Algirdas\nKęstutis\nLiubartas\nJaunutis\nMantvydas\nNarimantas\nKarijotas\nElžbieta\nMarija\nEufemija\nAldona","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"Valdė","value":"1316–1341 m.","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1316–1341 m.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_13","label":"Pirmtakas","value":"Vytenis","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Vytenis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_14","label":"Įpėdinis","value":"Jaunutis","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Jaunutis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_15","label":"","value":"Pinsko kunigaikštis","cells":[{"text":"Pinsko kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_16","label":"Valdė","value":"nuo 1320 m.","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"nuo 1320 m.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_17","label":"Pirmtakas","value":"Jeržis Dmitrjevičius","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Jeržis Dmitrjevičius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_18","label":"Įpėdinis","value":"Narimantas","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Narimantas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_19","label":"Vikiteka","value":"Gediminas","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Gediminas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"1693","revision_id":"7470624","status":"published","translation_status":"native","source":{"title":"Gediminas","url":"https://lt.wikipedia.org/wiki/Gediminas","publisher":"Vikipedija","language":"lt","article_id":"1693","revision_id":"7470624","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7470624","history_url":"https://lt.wikipedia.org/w/index.php?title=Gediminas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:07:29.233567+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"MediaWiki rendered HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"7133741c7f3803a889483587f7e4cfcdaf582e1ece3ad25cd6daccea1c823847","version_pk":"6d83a324a28ec2fa9653d13dd813eb1b"}},"source_buttons":[{"label":"Vikipedija","title":"Gediminas","url":"https://lt.wikipedia.org/wiki/Gediminas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Gediminas","url":"https://www.vle.lt/straipsnis/gediminas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Gediminas","https://www.vle.lt/straipsnis/gediminas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"867b05d5505883a4229f1aaa","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos didysis kunigaikštis, valdęs 1316–1341 m.","context":"Alfredas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis nurodo Gedimino valdymo laikotarpį.","support_ids":["t-176342","c-160383"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176342","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160383","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"1253 VII 6 susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi karaliumi. 1316–1341 Gediminaičių dinastijai vardą davusio Gedimino valdymas. 1323 Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių."}],"status":"published","conflict_status":"clear"},{"trait_id":"f0b67beafb4eebef1a2e62ec","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Valstybininkas, veikęs ne tik kardu, bet ir diplomatija.","context":"Zenonas Ivinskis taip Gediminą apibūdina jo kovų su kryžiuočiais kontekste.","support_ids":["t-05173","c-160345"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05173","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-160345","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"«Lietuviai iš Žemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą. Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia kardo jis veikė ir diplomatija."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a807439c10432f104e386ecb","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Derėjosi su totoriais 1324 m. Vilniuje.","context":"Zenonas Ivinskis aprašo 1324 m. derybas Gedimino naujoje sostinėje Vilniuje.","support_ids":["t-05166","c-160363"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05166","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-160363","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Sambijos kanauninko** **_Epitome_** **1315 m. kalba, kad totoriai lietuviams esą padarę** **_magna dampna_** **(SBP I, 286). Yra žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis. 1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8cf048d4420a6db6d401f6a7","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Sudarydamas sąjungą su Lenkija, veikė diplomatinėmis priemonėmis ir dinastinėmis vedybomis.","context":"A. Šapokos redaguotoje Lietuvos istorijoje tai aprašoma Gedimino valstybės plėtros ir kovos su kryžiuočiais kontekste.","support_ids":["t-10675","c-00143"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10675","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-00143","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0d3a60ed3c606619f17b48b6","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Sėkmingai jungė rytines rusų žemes prie Lietuvos.","context":"Zenonas Ivinskis Gedimino veiklą apibūdina kaip sėkmingą rytinių rusų žemių jungimą.","support_ids":["t-05174","c-160406"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05174","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-160406","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Kęstutis vy­ riausiuoju Lietuvos valdovu tetapo 1381, kai pats, išvaręs Jogailą, atsisėdo Vilniaus pilyje. Ir Vytautas įgijo didžiojo Lietuvos kuni­ gaikščio titulą, kai 1392 m. gavo vyriausią Lietuvos miestą Vilnių ; taip ėjo ir toliau. Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungė­ jas prie Lietuvos."}],"status":"published","conflict_status":"clear"},{"trait_id":"51ef1efa3ff5ab2eb5063d72","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Laiškais kvietė į Lietuvą Vakarų pirklius ir amatininkus.","context":"2013 m. Lietuvos istorijoje tai siejama su Gedimino titulavimusi Rex Lethowye ir derybomis dėl krikšto.","support_ids":["t-176322","c-160350"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176322","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160350","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Grossmacht), o nuo jos iki imperijos – jau tik žingsnis. L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs inten- syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus. Lietuvos antiizo- liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver- tė Lietuvą visą energiją skirti karybai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7934317f4e2e87352b9634ed","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Iki gyvenimo galo liko pagonis; dėl religinių priežasčių nieko nepersekiojo ir Naugarduke palaikė atskirą stačiatikių arkivyskupiją.","context":"Zenonas Ivinskis taip aprašo Gedimino religinę laikyseną ir politiką.","support_ids":["t-203158","c-160376"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203158","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-160376","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­ vinės rusų kalbos. Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b5f137fabbe36b8d4a8ef2af","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Jo religinis pakantrumas, Zenono Ivinskio vertinimu, anų laikų akimis buvo nuostabus.","context":"Tai autoriaus vertinimas, pateiktas aprašant Gedimino dinastines santuokas ir santykius su skirtingų tikybų bendruomenėmis.","support_ids":["t-203196","c-179558"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203196","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-179558","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Elzbieta — už Vaclovo- « Vankos » Plocke-Mozūrijoje ; 1325 m. Aldona-Ona — už Kazi­ miero). Aniems laikams Gedimino religinis pakantrumas buvo nuosta­ bus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"be7383c88318e944bc092f79","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Balińskio apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų Lietuvoje įkūrėjas.","context":"Michałas Balińskis taip vertina Gedimino vaidmenį XIV a. Lietuvos valstybės raidoje.","support_ids":["t-198020","c-160377"],"source_refs":[{"kind":"internal_claim","claim_id":"t-198020","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160377","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tokią Lietuvą rado kunigaikštis Gediminas, dar­ nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo šalyje įkūrėjas. Vėliau pamatysime, kaip buvo įkurta jo sostinė - Vilnius; čia tik apskritai pakalbėsime, kokie saviti buvo miestų formavimosi Lietuvoje bruožai. Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­ ma, kad jis vėlavo, kaip ir bendra šalies civilizacijos raida, juk tai vyko tik XIV amžiuje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"429c7075bd52fcc2da08e4cc","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Zenono Ivinskio vadinamas didžiuoju Lietuvos valstybės atnaujintoju.","context":"Tai Zenono Ivinskio autoriaus vertinimas, pateiktas aptariant vėlesnę Lietuvos ir rytų slavų santykių raidą.","support_ids":["t-203418","c-179642"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203418","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-179642","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Algirdaičiui tapus Lenkijos karaliumi (1386 m.), reikia nuolat sekti « Karūnos » politinį ir kultūrinį vystymąsi, darantį pastovios įtakos Lietuvai. O dviejų šimtmečių bendrajame palikime Žečpospolitos (Lietuvos ir Lenkijos respublikos), kuri nuo Liublino seimo metų (1569) pamažu ėmė funkcijonuoti, kartais sunku pasidaro surasti lietuvius Lietuvos istorijoje^21. Nuo didžiojo Lietuvos valstybės atnaujintojo Gedimino laikų varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko į Lietuvos sudėtį, darėsi vis reikšmingesnis."}],"status":"published","conflict_status":"clear"},{"trait_id":"2468ab39e1a2c5a938a33729","canonical_code":"person.appearance","label":"Išvaizda","group":"Asmens bruožai","value":"Ant 1323 m. laiško antspaudo pavaizduotas ilgais plaukais vyras, sėdintis soste, dešinėje rankoje laikantis karūną, kairėje – skeptrą.","context":"Michałas Balińskis aprašo Gedimino vardu naudotą antspaudą; šis vaizdas yra antspaudo atvaizdas, o ne tiesioginis Gedimino išvaizdos aprašymas.","support_ids":["t-176397","c-160384"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176397","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160384","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi litteris appensum erat rotundum cereum, continens circulum duodecim angulorum et in medio circuli yma- ginem viri capillati residentis in Cathedra, continentis in manu dextra coronam et ceptrum in sinistra, et in circumferenda eius per quadraginta unam litteras et cruce sculptum erat: S. dei gra- cia Gedemini lethvinorum et ruthenor. reg. [O prie šio laiško buvo prikabintas apvalus vaško antspaudas su dvylikos kampų apvadu, o šio apvado centre atvaizdas ilgais plau­ kais vyro, sėdinčio soste, dešinėje rankoje laikančio karūną ir kairėje - skeptrą, aplink jį išskaptuota keturiasdešimt vie­ na raidė ir kryžius…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Gediminas buvo Lietuvos didysis kunigaikštis, valdęs 1316–1341 m. ir davęs vardą Gediminaičių dinastijai. Jo valdymo laikotarpiu Vilnius tapo nuolatine Lietuvos sostine, o 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad miestas buvo Gedimino sostinė. Laiškais Vakarų šalims, miestams, popiežiui ir Hanzos miestams Gediminas kvietė į Lietuvą amatininkus, pirklius, žemdirbius bei riterius, žadėdamas globą ir paramą įsikurti. Valstybę jis plėtė ne tik karine jėga, bet ir gudria politika, dinastinėmis vedybomis bei sąjunga su Lenkija. Jo laiškai laikomi reikšmingiausiu politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą, apimančią derybas dėl krikšto bei bažnytinės struktūros kūrimą.","sentences":[{"sentence_id":"s1","text":"Gediminas buvo Lietuvos didysis kunigaikštis, valdęs 1316–1341 m. ir davęs vardą Gediminaičių dinastijai.","support_ids":["t-176342","c-160383"]},{"sentence_id":"s2","text":"Jo valdymo laikotarpiu Vilnius tapo nuolatine Lietuvos sostine, o 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad miestas buvo Gedimino sostinė.","support_ids":["t-10678","c-00146","t-176339","c-160396"]},{"sentence_id":"s3","text":"Laiškais Vakarų šalims, miestams, popiežiui ir Hanzos miestams Gediminas kvietė į Lietuvą amatininkus, pirklius, žemdirbius bei riterius, žadėdamas globą ir paramą įsikurti.","support_ids":["t-10677","c-00145","t-198018","c-160350"]},{"sentence_id":"s4","text":"Valstybę jis plėtė ne tik karine jėga, bet ir gudria politika, dinastinėmis vedybomis bei sąjunga su Lenkija.","support_ids":["t-10675","c-00143"]},{"sentence_id":"s5","text":"Jo laiškai laikomi reikšmingiausiu politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą, apimančią derybas dėl krikšto bei bažnytinės struktūros kūrimą.","support_ids":["t-176327","c-160336"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniais: Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Vilniaus tapimą nuolatine sostine ir 1323 m. spalio 2 d. sutarties reikšmę."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai patvirtina laiškus popiežiui, Europos ir Hanzos miestams, kvietimus amatininkams, pirkliams, žemdirbiams bei riteriams ir globos pažadą."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta šaltiniu apie sąjungą su Lenkija, gudrią politiką ir dinastines vedybas."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo laiškų reikšmę, europėjimo programą, derybas dėl krikšto ir bažnytinės struktūros kūrimą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-176342","c-160383"]},{"sentence_id":"s2","supported":true,"support_ids":["t-10678","c-00146","t-176339","c-160396"]},{"sentence_id":"s3","supported":true,"support_ids":["t-10677","c-00145","t-198018","c-160350"]},{"sentence_id":"s4","supported":true,"support_ids":["t-10675","c-00143"]},{"sentence_id":"s5","supported":true,"support_ids":["t-176327","c-160336"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-6c8eccc8e2db1668dc29b340"},"featured_gallery":[{"media_id":"m-c1505772e5a0a162aa2b242a","relation_type":"statue_of"},{"media_id":"m-ecc2e8600d65d7345c5a5a92","relation_type":"coin_depiction_of"},{"media_id":"m-f0b446f145335e212e4b070c","relation_type":"portrait_of"},{"media_id":"m-e9ec299f03857fc7d4edaf5d","relation_type":"commemoration_of"},{"media_id":"m-c76e92b6f457ab5df2585989","relation_type":"event_documentation_of"}],"media_verification":{"status":"verified","primary_media_id":"m-97bf9fcd5a62280ba531141b","candidate_count":13,"visual_verified_count":13,"identity_verified_count":9,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Tai konkretus istorinis Gedimino portretas.","visual_evidence":"Matomas karūnuoto, barzdoto valdovo biustinis portretas su istoriniais valdovo drabužiais.","metadata_evidence":"Pavadinimas ir aprašas tiesiogiai įvardija paveikslą kaip Gedimino atvaizdą.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[{"slug":"parodos/lietuvos-ir-atr-valdovai","title":"LDK ir ATR valdovai"}],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Bajerburgas","claim_id":"t-176364","confidence":0.82},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Vladimiras","claim_id":"t-185204","confidence":0.96},{"predicate":"buvo_brolis","direction":"outbound","target":"objektai/asmenys/Vytenis","claim_id":"t-176843","confidence":0.98},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Teodoras","claim_id":"t-79203","confidence":0.99},{"predicate":"buvo_dukte","direction":"inbound","target":"objektai/asmenys/Aldona Gediminaitė","claim_id":"t-05154","confidence":0.97},{"predicate":"buvo_dukte","direction":"inbound","target":"objektai/asmenys/Aldona Ona","claim_id":"t-39997","confidence":0.95},{"predicate":"buvo_dukte","direction":"inbound","target":"objektai/asmenys/Marija (Gedimino duktė)","claim_id":"t-82550","confidence":0.92},{"predicate":"buvo_dukte","direction":"inbound","target":"objektai/asmenys/Marija","claim_id":"t-97314","confidence":0.96},{"predicate":"buvo_palaidotas","direction":"outbound","target":"objektai/vietos/Gedimino kalnas","claim_id":"t-176328","confidence":0.65},{"predicate":"buvo_palaidotas","direction":"outbound","target":"objektai/vietos/Veliuona","claim_id":"t-176387","confidence":0.68},{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-05169","confidence":0.86},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/grupes/Teutonai","claim_id":"t-88261","confidence":0.58},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/asmenys/Vladislovas Lokietka","claim_id":"t-184378","confidence":0.88},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-179182","confidence":0.84},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Vladislovas Lokietka","claim_id":"t-221269","confidence":0.9},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Rygiečiai","claim_id":"t-05581","confidence":0.68},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-176274","confidence":0.97},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-97293","confidence":0.91},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Liubartas","claim_id":"t-48789","confidence":0.9},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-108287","confidence":0.87},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/grupes/Rusai","claim_id":"t-108287","confidence":0.87},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-108282","confidence":0.9},{"predicate":"buvo_zmona","direction":"inbound","target":"objektai/asmenys/Jaunė (Jievna)","claim_id":"t-34795","confidence":0.92},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)","claim_id":"t-86976","confidence":0.86},{"predicate":"gyne","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-184550","confidence":0.74},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Veliuona","claim_id":"t-176346","confidence":0.78},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Ariogala","claim_id":"t-219255","confidence":0.95},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Auksinė Orda","claim_id":"t-224773","confidence":0.78},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Krikščionys","claim_id":"t-87141","confidence":0.86},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-05154","confidence":0.78},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Livonijos riteriai","claim_id":"t-219255","confidence":0.88},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Rusai","claim_id":"t-180056","confidence":0.88},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Totoriai","claim_id":"t-180056","confidence":0.88},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Bajerburgas","claim_id":"t-86002","confidence":0.82},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-05292","confidence":0.62},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Severskas","claim_id":"t-184700","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-86893","confidence":0.74},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Bajerburgas","claim_id":"t-176326","confidence":0.88},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Veliuona","claim_id":"t-180738","confidence":0.78},{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Krunevičius","claim_id":"t-217860","confidence":0.72},{"predicate":"paskyre","direction":"inbound","target":"objektai/grupes/Lietuvos ponai","claim_id":"t-219255","confidence":0.9},{"predicate":"pastate","direction":"outbound","target":"objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios","claim_id":"t-87077","confidence":0.93},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Aukštutinė pilis","claim_id":"t-172933","confidence":0.87},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Naugardukas","claim_id":"t-119091","confidence":0.84},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Trakai","claim_id":"t-10689","confidence":0.76},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vilniaus Aukštutinė pilis","claim_id":"t-86854","confidence":0.78},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-119091","confidence":0.84},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-05293","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Gedimino antspaudas","claim_id":"t-86541","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Naugardas","claim_id":"t-88421","confidence":0.84},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vitebskas","claim_id":"t-30356","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Ditrichas iš Altenburgo","claim_id":"t-224887","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Fridrichas iš Libencelės","claim_id":"t-224529","confidence":0.68},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Rusai","claim_id":"t-172902","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Bajerburgas","claim_id":"t-176364","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Brandenburgo žemė","claim_id":"t-41628","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Dobrynė","claim_id":"t-81985","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kulmas","claim_id":"t-88368","confidence":0.7},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-81985","confidence":0.93},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Mozūrijos žemė","claim_id":"t-41945","confidence":0.74},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Rezeknės regionas","claim_id":"t-42096","confidence":0.8},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Semba","claim_id":"t-31432","confidence":0.91},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Tomas Aldenburgas","claim_id":"t-182830","confidence":0.62},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Vladislovas Lokietka","claim_id":"t-222143","confidence":0.88},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Vladislovas","claim_id":"t-184855","confidence":0.9},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Dominikonų ordinas","claim_id":"t-172082","confidence":0.82},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Pranciškonų ordinas","claim_id":"t-87156","confidence":0.84},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Stačiatikiai","claim_id":"t-176360","confidence":0.78},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Naugardukiečiai","claim_id":"t-185096","confidence":0.78},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Polockiečiai","claim_id":"t-185096","confidence":0.78},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Europa","claim_id":"t-05290","confidence":0.82},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-180131","confidence":0.65},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-180131","confidence":0.62},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-225407","confidence":0.8},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/asmenys/Lokietka","claim_id":"t-176376","confidence":0.95},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-05291","confidence":0.76},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Bajerburgas","claim_id":"t-176354","confidence":0.83},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Dobrynė","claim_id":"t-176347","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Kijevas","claim_id":"t-187438","confidence":0.76},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-176347","confidence":0.92},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Brianskas","claim_id":"t-184968","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Drohičinas","claim_id":"t-184644","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kijevas","claim_id":"t-180056","confidence":0.94},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kijevo žemės","claim_id":"t-78789","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Perejeslavlis","claim_id":"t-184968","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Voluinė","claim_id":"t-87156","confidence":0.88},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Kijevas","claim_id":"t-181115","confidence":0.9},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Severskas","claim_id":"t-185134","confidence":0.84},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-181115","confidence":0.92},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Volynė","claim_id":"t-185134","confidence":0.86},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-169687","confidence":0.79},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-108288","confidence":0.84},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vyšgorodas","claim_id":"t-42340","confidence":0.82}],"timeline":[{"date":"1302 m.","label":"Narbutas rašo, kad 1302 m.","claimId":"t-212116"},{"date":"1302 m.","label":"Narbutas rašo, kad 1302 m.","claimId":"t-212726"},{"date":"1302 m.","label":"Narbutas mini, kad 1302 m.","claimId":"t-216180"},{"date":"1316 m.","label":"1316 m.","claimId":"t-176357"},{"date":"1316 m.","label":"1316 m.","claimId":"t-198059"},{"date":"1316 m.","label":"Narbutas rašo, kad Lietuvos ponai 1316 m.","claimId":"t-216918"},{"date":"1317 m.","label":"1317 m.","claimId":"t-176395"},{"date":"1317 m.","label":"1317 m.","claimId":"t-198091"}],"support_disclosure":{"claims":220,"sources":16}}'
 object_page_finisher: 'true'
@@ -58,13 +73,6 @@ object_page_seo_generated_at: '2026-09-18T19:42:59+00:00'
 object_page_seo_policy_version: object-page-policy/v7
 media_primary_width: 796
 media_primary_height: 767
-entity_id: "ent-c2ed925b51f7b9f5e0f7b986"
-canonical_name: "Gediminas (Lietuvos didysis kunigaikštis, XIV a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Gediminas","Gediminas (Lietuvos didysis kunigaikštis, XIV a.)","Gedimino","Gedimins","Gediminui","Gedyminą","lietuvių karalius"]
-sameAs: ["https://www.wikidata.org/entity/Q244852"]
-canonical_biography: "Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais. Matydamas užtruksiančią kovą su kryžiuočiais, Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje."
 ---
 # Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
 
@@ -414,8 +422,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Pašalinta boilerplate įžanga, faktas tiesiogiai remiasi citata."
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-179585
     - c-56145
+    - c-179585
 
 <a id="claim-t-176335"></a>
 - t-020
@@ -436,7 +444,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-160390
-    - c-56144
 
 <a id="claim-t-176336"></a>
 - t-021
@@ -581,7 +588,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-179582
     - c-56146
 
 <a id="claim-t-176351"></a>
@@ -719,7 +725,23 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160376
-    - c-179634
+
+<a id="claim-t-176362"></a>
+- t-036
+  teiginys: "Į popiežiaus rūmus atvykusi misija pranešė apie Gedimino ryžtą pereiti į naują tikėjimą."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-160346
 
 <a id="claim-t-176363"></a>
 - t-037
@@ -1147,7 +1169,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160344
-    - c-179619
 
 <a id="claim-t-176401"></a>
 - t-061
@@ -1490,6 +1511,43 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - c-160387
 
+<a id="claim-t-198012"></a>
+- t-082
+  teiginys: "Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę)."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra faktinis sakinys apie Gediminą ir Algirdą, paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kondominiumas|kondominiumas]]; mentioned_place: Lietuva"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179589
+
+<a id="claim-t-198015"></a>
+- t-083
+  teiginys: "Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Gedimino antspaudas|Gedimino antspaudas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]"
+  ryšio_patikimumas: "surenge_zygi_i -> Mazovija: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino kariaunos įsiveržimą į Mazoviją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-179631
+
 <a id="claim-t-198023"></a>
 - t-084
   teiginys: "Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą."
@@ -1523,6 +1581,25 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - c-168060
 
+<a id="claim-t-198051"></a>
+- t-086
+  teiginys: "Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai nurodo, kad tai buvo gandas, ir atitinka citatą."
+  susije_objektai: "mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ryga"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179549
+
 <a id="claim-t-198063"></a>
 - t-087
   teiginys: "Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų."
@@ -1541,6 +1618,39 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-179568
+
+<a id="claim-t-198066"></a>
+- t-088
+  teiginys: "Lietuvos metraštis Gediminą vaizduoja kaip ilgai Lietuvą, Rusų ir Žemaičių kunigaikštystes valdžiusį ir daug karų laimėjusį didįjį kunigaikštį."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Moralinis ir titulinis Gedimino apibūdinimas paliktas su Lietuvos metraščio atribucija. Turinys sutrumpintas iki pagrįstos valdžios ir karo sėkmės charakteristikos."
+  ryšio_patikimumas: "priklause -> Gediminas (Lietuvos didysis kunigaikštis, XIV a.): 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stulpai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Gediminas (Lietuvos didysis kunigaikštis, XIV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Stulpai tiesiogiai įvardyti kaip Gediminaičių herbas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179596
+
+<a id="claim-t-198076"></a>
+- t-089
+  teiginys: "Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys nutrūkęs ir turi būti paverstas pilnu sakiniu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vokietija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179625
 
 <a id="claim-t-198090"></a>
 - t-090
@@ -1626,6 +1736,42 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - c-185998
 
+<a id="claim-t-198122"></a>
+- t-094
+  teiginys: "Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  susije_objektai: "llm_object: Mazovija; llm_object: Dobrynė; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Mazovija; [[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Dobrynė"
+  ryšio_patikimumas: "susije_su -> Kristmemelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kristmemelis: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kristmemelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179628
+
+<a id="claim-t-198125"></a>
+- t-095
+  teiginys: "1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  susije_objektai: "llm_object: Mazovija; llm_object: Dobrynė; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Mazovija; [[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Dobrynė"
+  temporaliniai_duomenys: "įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179628
+
 <a id="claim-t-200986"></a>
 - t-096
   teiginys: "Gediminas nuo savo pusės prižadėjo jų tikybą, arba vierą, kalbą, dobę ir apsiėjimus jų bočių probočių užlaikyti ir niekam pikto nedaryti; idant jis kuo didesniai ūkinykams Kijevo pasigerintų, padėjo tenai urėdu Mintautą, kunigaikštį Alšėnų, kursai neseniai."
@@ -1684,7 +1830,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-160376
-    - c-179634
 
 <a id="claim-t-203180"></a>
 - t-101
@@ -1804,7 +1949,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs, citata pagrindžia užbaigtą faktinį sakinį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-160390
     - c-56144
 
 <a id="claim-t-203347"></a>
@@ -1873,7 +2017,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-160376
     - c-179634
 
 <a id="claim-t-203415"></a>
@@ -1886,7 +2029,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] pastatė Aukštutinė pilis"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-160344
     - c-179619
 
 <a id="claim-t-203418"></a>
@@ -1945,7 +2087,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-08-12T04:54:50+00:00"
   pagrindžia:
     - c-179582
-    - c-56146
 
 <a id="claim-t-203503"></a>
 - t-122
@@ -1957,8 +2098,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-160419
-    - c-179565
     - c-179598
 
 <a id="claim-t-203527"></a>
@@ -2005,7 +2144,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-160396
     - c-179552
 
 <a id="claim-t-203564"></a>
@@ -2085,639 +2223,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
   pagrindžia:
     - c-188292
-
-<a id="claim-t-05167"></a>
-- t-05167
-  teiginys: "Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160343
-    - c-160352
-    - c-179618
-    - c-179642
-
-<a id="claim-t-176361"></a>
-- t-176361
-  teiginys: "Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gediminas tiesiogiai įvardytas Lietuvos didžiuoju kunigaikščiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas buvo valdovas Lietuva (0.90)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160375
-    - c-160411
-    - c-179567
-
-<a id="claim-t-198104"></a>
-- t-198104
-  teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Reikia tiksliau perteikti citatos akcentą apie pirmą autentišką paliudijimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "sutarties data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia tiksliau perteikti citatos akcentą apie pirmą autentišką paliudijimą."
-  ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Gediminui sapno aiškinimas buvo vada pastatydinti Aukštutinę mūro pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-160344
-    - c-179619
-    - c-160396
-    - c-179552
-
-<a id="claim-t-207423"></a>
-- t-207423
-  teiginys: "Alfredas Bumblauskas nurodo, kad 1323–1324 m. Gedimino krikšto akcija nepavyko."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1323-1324; įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai pateikia Alfredo Bumblausko nurodomą 1323–1324 m. krikšto akcijos baigtį."
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-190070
-
-<a id="claim-t-207446"></a>
-- t-207446
-  teiginys: "Gediminas rašė garsiuosius laiškus Vilniuje 1323 m."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Gedimino laiškus, jų datą ir vietą."
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-190071
-
-<a id="claim-t-207458"></a>
-- t-207458
-  teiginys: "Alfredas Bumblauskas Gedimino laiškus laiko reikšmingiausiu Gedimino politikos atspindžiu."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
-  pagrindžia:
-    - c-190095
-
-<a id="claim-t-207493"></a>
-- t-207493
-  teiginys: "Gedimino ir Algirdo valdymo metu Lietuva išsiplėtė ir tapo reikšminga Vidurio ir Rytų Europos jėga."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
-  pagrindžia:
-    - c-190046
-
-<a id="claim-t-211755"></a>
-- t-211755
-  teiginys: "Ir dievas padėjo didžiajam kuni gaikščiui Gediminui, jis visus vokiečius triuškinte su triuškino, o žemaičiai atsimetė nuo vokiečių ir perėjo pas savo tikrąjį valdovą Gediminą, kuris sumušė visą vokiečių kariuomenę."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193855
-
-<a id="claim-t-216180"></a>
-- t-216180
-  teiginys: "Narbutas mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Išskleista, kad tai Strijkovskiu paremta Narbuto žinia. Nepridėta informacijos apie paties herbo pavidalą."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris"
-  temporaliniai_duomenys: "įvykio data: 1302 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleista, kad tai Strijkovskiu paremta Narbuto žinia. Nepridėta informacijos apie paties herbo pavidalą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-
-<a id="claim-t-216398"></a>
-- t-216398
-  teiginys: "Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintos išnašos ir lotyniškos citatos triukšmas. Ginčytina vietos identifikacija palikta su Narbuto atribucija."
-  susije_objektai: "mentioned_place: Antakalnis; mentioned_place: Užupis; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Plockas"
-  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: apie 1320 m.; įvykio data: 1320 m.; įvykio data: apie 1320 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalintos išnašos ir lotyniškos citatos triukšmas. Ginčytina vietos identifikacija palikta su Narbuto atribucija."
-  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-
-<a id="claim-t-216918"></a>
-- t-216918
-  teiginys: "Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Sakinys sutrumpintas ir pataisyti lūžiai. Titulas bei kronikinė žinia palikti su Narbuto atribucija."
-  susije_objektai: "llm_object: Ariogala; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ariogala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos ponai|Lietuvos ponai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] gyveno Ariogala; [[objektai/grupes/Lietuvos ponai|Lietuvos ponai]] paskyrė [[objektai/asmenys/Gediminas|Gediminas]]"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1316 m.; įvykio data: 1316 m.; gyvenimo laikotarpis: 1316 m.; įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Gediminas gyveno Ariogala“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos ponai paskyrė Gediminas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir pataisyti lūžiai. Titulas bei kronikinė žinia palikti su Narbuto atribucija."
-  ryšio_patikimumas: "gyveno -> Ariogala: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ariogala: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Gediminas anksčiau gyveno Ariogaloje."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-200410
-    - c-201279
-
-<a id="claim-t-216937"></a>
-- t-216937
-  teiginys: "1329 metais Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199459
-
-<a id="claim-t-218104"></a>
-- t-218104
-  teiginys: "Narbutas pateikia teiginį, kad ypač nuo Gedimino valdymo Lietuvos galia ir jėga nepaprastai išaugo."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Vertinamasis teiginys priskirtas Narbutui. Išlaikyta citatos mintis apie Gedimino valdymo reikšmę."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Lietuva"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] valdė Lietuva"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-198264
-
-<a id="claim-t-220206"></a>
-- t-220206
-  teiginys: "Čia įvyko derybos tarp Gedimino ir Lokietkos."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202017
-
-<a id="claim-t-221912"></a>
-- t-221912
-  teiginys: "1324 m. legatai siuntė pasiuntinystę pas Gediminą, kad ištirtų jo norą priimti krikštą."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-201756
-
-<a id="claim-t-222763"></a>
-- t-222763
-  teiginys: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204009
-
-<a id="claim-t-223260"></a>
-- t-223260
-  teiginys: "Dusburgietis teigia, kad pats Gediminas atsisakė sumanymo krikštytis."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205749
-
-<a id="claim-t-223904"></a>
-- t-223904
-  teiginys: "Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys susieja Gediminą su jo sąjungininku ir yra paremtas citata."
-  susije_objektai: "llm_object: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Pamaris; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] buvo sąjungininkas su [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Gedimino žūtis aprašoma mūšyje su kryžiuočiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202164
-    - c-204438
-
-<a id="claim-t-224704"></a>
-- t-224704
-  teiginys: "1326 m. Gediminas Lokietkai davė 1200 raitelių."
-  atnaujinta: "2026-09-18 22:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-204335
-
-<a id="claim-t-05173"></a>
-- t-05173
-  teiginys: "Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> diplomatija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "diplomatija: mention_match, thing, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"diplomatija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160345
-    - c-179594
-    - c-179617
-
-<a id="claim-t-176328"></a>
-- t-176328
-  teiginys: "Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Bajerburgas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bajerburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Gediminą žuvus prie Bajerburgo pilies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas mirė Bajerburgas (0.82); Gediminas buvo palaidotas Gedimino kalnas (0.65)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160342
-    - c-179571
-    - c-160407
-    - c-179573
-    - c-179564
-    - c-179625
-    - c-160347
-    - c-160412
-    - c-179575
-    - c-179629
-
-<a id="claim-t-176339"></a>
-- t-176339
-  teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "sutarties data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160340
-    - c-160344
-    - c-160396
-    - c-179552
-    - c-179619
-
-<a id="claim-t-176341"></a>
-- t-176341
-  teiginys: "Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160342
-    - c-179571
-    - c-179625
-    - c-160356
-    - c-179636
-    - c-179621
-
-<a id="claim-t-176345"></a>
-- t-176345
-  teiginys: "Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=105"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160375
-    - c-179559
-
-<a id="claim-t-176347"></a>
-- t-176347
-  teiginys: "1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Mazovija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino kariaunos įsiveržimą į Mazoviją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas surengė žygį į Mazovija (0.92); Gediminas surengė žygį į Dobrynė (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160379
-    - c-179603
-    - c-179628
-
-<a id="claim-t-176355"></a>
-- t-176355
-  teiginys: "Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-160342
-    - c-179571
-    - c-179625
-
-<a id="claim-t-176362"></a>
-- t-176362
-  teiginys: "Į popiežiaus rūmus atvykusi misija pranešė apie Gedimino ryžtą pereiti į naują tikėjimą."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160346
-    - c-160419
-    - c-179565
-    - c-179598
-    - c-160355
-    - c-179579
-    - c-179602
-
-<a id="claim-t-176371"></a>
-- t-176371
-  teiginys: "Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160419
-    - c-179565
-    - c-179598
-
-<a id="claim-t-176376"></a>
-- t-176376
-  teiginys: "1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Lokietka: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lokietka: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Gedimino sutartį su Lokietka."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas sudarė sutartį su Lokietka (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir pataisytas pagal citatoje nurodytą įvykį."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160355
-    - c-179579
-    - c-179602
-    - c-160338
-    - c-160396
-    - c-179546
-    - c-179552
-
-<a id="claim-t-176380"></a>
-- t-176380
-  teiginys: "Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę)."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160353
-    - c-179589
-    - c-179605
-
-<a id="claim-t-176383"></a>
-- t-176383
-  teiginys: "Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-160384
-    - c-179550
-    - c-179631
-
-<a id="claim-t-176384"></a>
-- t-176384
-  teiginys: "Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-160342
-    - c-179571
-    - c-160356
-    - c-179636
-    - c-179621
-    - c-179625
-
-<a id="claim-t-176396"></a>
-- t-176396
-  teiginys: "Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160380
-    - c-179549
-    - c-179597
-
-<a id="claim-t-176397"></a>
-- t-176397
-  teiginys: "Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę."
-  atnaujinta: "2026-09-29 18:43"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Mazovija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino kariaunos įsiveržimą į Mazoviją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas surengė žygį į Mazovija (0.92); Gediminas surengė žygį į Dobrynė (0.90)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160379
-    - c-179603
-    - c-179628
-    - c-160384
-    - c-179550
-    - c-179631
 
 ## Reikšmingi paminėjimai
 - c-006
@@ -2948,7 +2453,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-00145
@@ -2968,7 +2473,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-00146
@@ -2989,7 +2494,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-11533
@@ -3010,7 +2515,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-069
 
 - id: c-41920
@@ -3043,7 +2548,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-56143
@@ -3067,7 +2572,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-56144
@@ -3087,8 +2592,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-020
+  pagrindzia:
     - t-110
 
 - id: c-56145
@@ -3106,7 +2610,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-56146
@@ -3127,9 +2631,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
-    - t-121
 
 - id: c-160335
   autorius: "Michał Baliński"
@@ -3152,7 +2655,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
 
 - id: c-160336
@@ -3174,7 +2677,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-160337
@@ -3196,7 +2699,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-160338
@@ -3223,10 +2726,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
     - t-056
-    - t-176376
 
 - id: c-160339
   autorius: "Zenonas Ivinskis"
@@ -3246,7 +2748,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-160340
@@ -3289,9 +2791,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
-    - t-176339
 
 - id: c-160341
   autorius: "Michał Baliński"
@@ -3328,7 +2829,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-160342
@@ -3364,12 +2865,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176328
-    - t-176341
-    - t-176355
-    - t-176384
-
 - id: c-160343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3387,9 +2882,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-    - t-05167
 
 - id: c-160344
   autorius: "Michał Baliński"
@@ -3440,13 +2934,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
     - t-043
     - t-060
-    - t-116
-    - t-176339
-    - t-198104
 
 - id: c-160345
   autorius: "Zenonas Ivinskis"
@@ -3464,9 +2955,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05173
-
 - id: c-160346
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3494,8 +2982,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176362
+  pagrindzia:
+    - t-036
 
 - id: c-160347
   autorius: "Michał Baliński"
@@ -3519,9 +3007,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-052
-    - t-176328
 
 - id: c-160348
   autorius: "Michał Baliński"
@@ -3551,7 +3038,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-054
 
 - id: c-160350
@@ -3574,7 +3061,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-160352
@@ -3598,9 +3085,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05167
-
 - id: c-160353
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3623,9 +3107,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176380
-
 - id: c-160354
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3652,7 +3133,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-160355
@@ -3683,10 +3164,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176362
-    - t-176376
-
 - id: c-160356
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3723,10 +3200,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176341
-    - t-176384
-
 - id: c-160357
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3746,7 +3219,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
     - t-114
 
@@ -3774,7 +3247,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-160359
@@ -3813,7 +3286,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
     - t-025
     - t-099
@@ -3841,12 +3314,11 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
     mu prie jo, yra apie 160 namų ir dvaras.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
     - t-044
 
@@ -3878,12 +3350,11 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     vas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­
     tų danguose su palaimintaisiais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
     - t-070
     - t-090
@@ -3911,7 +3382,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
     - t-041
 
@@ -3930,7 +3401,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-160367
@@ -3961,7 +3432,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-055
 
 - id: c-160369
@@ -3979,7 +3450,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
     - t-124
 
@@ -4001,7 +3472,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-160371
@@ -4022,7 +3493,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-051
     - t-101
     - t-103
@@ -4055,7 +3526,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
     - t-032
 
@@ -4078,16 +3549,11 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     kad tik neturėtume būti budeliams, tai yra Ordino Magist­
     rui ir riteriams, už ką nors dėkingi"**.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176345
-    - t-176361
-
 - id: c-160376
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4108,11 +3574,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-035
     - t-100
-    - t-115
 
 - id: c-160377
   autorius: "Michał Baliński"
@@ -4133,7 +3598,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-160378
@@ -4152,7 +3617,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-160379
@@ -4192,10 +3657,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176347
-    - t-176397
-
 - id: c-160380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4228,9 +3689,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176396
-
 - id: c-160381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4255,7 +3713,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-058
 
 - id: c-160383
@@ -4276,7 +3734,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-160384
@@ -4304,10 +3762,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176383
-    - t-176397
-
 - id: c-160387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4323,7 +3777,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-081
 
 - id: c-160388
@@ -4351,7 +3805,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-160390
@@ -4371,9 +3825,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
-    - t-110
 
 - id: c-160395
   autorius: "Zenonas Ivinskis"
@@ -4390,7 +3843,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-160396
@@ -4421,12 +3874,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-126
-    - t-176339
-    - t-176376
-    - t-198104
-
 - id: c-160397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4448,7 +3895,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-061
 
 - id: c-160398
@@ -4473,7 +3920,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-160401
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4493,7 +3939,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-160403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4525,7 +3970,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-053
 
 - id: c-160405
@@ -4544,7 +3989,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-160406
@@ -4565,7 +4010,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-160407
@@ -4588,9 +4033,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176328
-
 - id: c-160408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4612,7 +4054,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-160409
@@ -4635,7 +4077,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-160410
@@ -4655,7 +4097,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-057
 
 - id: c-160411
@@ -4674,15 +4116,11 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     vo išlikęs Gedimino, geranoriško krikščionybės atžvilgiu,
     atminimas.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176361
-
 - id: c-160412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4702,9 +4140,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-045
-    - t-176328
 
 - id: c-160413
   autorius: "Michał Baliński"
@@ -4725,7 +4162,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
     - t-059
 
@@ -4763,7 +4200,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-050
 
 - id: c-160416
@@ -4791,7 +4228,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
     - t-107
 
@@ -4823,11 +4260,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-122
-    - t-176362
-    - t-176371
-
 - id: c-166925
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4851,7 +4283,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-168060
@@ -4899,7 +4331,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-062
     - t-085
 
@@ -4927,7 +4359,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-063
     - t-074
     - t-108
@@ -4963,7 +4395,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-064
     - t-076
     - t-105
@@ -4988,7 +4420,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-091
 
 - id: c-171417
@@ -5010,7 +4442,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5032,7 +4463,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171421
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5060,7 +4490,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171422
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5082,7 +4511,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-171423
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5100,7 +4528,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-173738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5123,7 +4550,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-065
 
 - id: c-173739
@@ -5143,7 +4570,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-173740
@@ -5165,7 +4592,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-067
 
 - id: c-176291
@@ -5186,7 +4613,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-068
 
 - id: c-176826
@@ -5214,7 +4641,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-071
 
 - id: c-177099
@@ -5236,7 +4663,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-072
 
 - id: c-178698
@@ -5272,7 +4699,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-073
 
 - id: c-178699
@@ -5303,7 +4730,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-075
 
 - id: c-178930
@@ -5335,7 +4762,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-077
 
 - id: c-178931
@@ -5356,7 +4783,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-078
 
 - id: c-178932
@@ -5378,7 +4805,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-079
 
 - id: c-178933
@@ -5396,7 +4823,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-080
 
 - id: c-179544
@@ -5416,7 +4843,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179545
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5434,7 +4860,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-179546
@@ -5461,9 +4887,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-056
-    - t-176376
 
 - id: c-179547
   autorius: "Petras Dusburgietis"
@@ -5490,7 +4915,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-179548
@@ -5512,7 +4937,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-127
 
 - id: c-179549
@@ -5546,8 +4971,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176396
+  pagrindzia:
+    - t-086
 
 - id: c-179550
   autorius: "Michał Baliński"
@@ -5574,10 +4999,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176383
-    - t-176397
-
 - id: c-179552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5601,16 +5022,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
   citata_rodoma: "Pirmąjį Vilniaus paminėjimą, pirmą autentišką\npaliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be\nabejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­\nniuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip\npat su Vokiečių ordino Livonijoje magistru ir broliais - iš\nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-126
-    - t-176339
-    - t-176376
-    - t-198104
 
 - id: c-179553
   autorius: "Zenonas Ivinskis"
@@ -5631,7 +5048,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5651,7 +5067,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-067
 
 - id: c-179555
@@ -5683,7 +5099,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-077
 
 - id: c-179556
@@ -5712,7 +5128,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179557
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5729,7 +5144,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179558
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5742,12 +5156,11 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Aniems laikams Gedimino religinis pakantrumas buvo nuosta­
     bus.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-104
 
 - id: c-179559
@@ -5774,9 +5187,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176345
-
 - id: c-179560
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5800,7 +5210,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-084
 
 - id: c-179561
@@ -5824,7 +5234,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-179562
@@ -5844,7 +5254,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5866,7 +5275,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179564
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5887,9 +5295,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176328
-
 - id: c-179565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5918,11 +5323,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-122
-    - t-176362
-    - t-176371
-
 - id: c-179566
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5938,7 +5338,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-179567
@@ -5957,14 +5357,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     vo išlikęs Gedimino, geranoriško krikščionybės atžvilgiu,
     atminimas.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-118
-    - t-176361
 
 - id: c-179568
   autorius: "Michał Baliński"
@@ -5987,7 +5385,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-087
 
 - id: c-179570
@@ -6012,7 +5410,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-065
 
 - id: c-179571
@@ -6048,12 +5446,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176328
-    - t-176341
-    - t-176355
-    - t-176384
-
 - id: c-179572
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6082,7 +5474,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
     - t-032
     - t-044
@@ -6108,9 +5500,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176328
-
 - id: c-179574
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -6131,7 +5520,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6154,9 +5542,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-052
-    - t-176328
 
 - id: c-179576
   autorius: "Michał Baliński"
@@ -6184,7 +5571,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-179577
@@ -6207,7 +5594,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179578
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6226,7 +5612,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-179579
@@ -6257,10 +5643,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176362
-    - t-176376
-
 - id: c-179580
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6285,7 +5667,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-113
 
 - id: c-179582
@@ -6306,8 +5688,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-028
+  pagrindzia:
     - t-121
 
 - id: c-179583
@@ -6329,7 +5710,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179584
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -6347,7 +5727,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-179585
@@ -6365,7 +5745,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-179586
@@ -6388,7 +5768,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-102
 
 - id: c-179587
@@ -6410,7 +5790,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-069
 
 - id: c-179588
@@ -6440,7 +5820,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6462,8 +5841,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176380
+  pagrindzia:
+    - t-082
 
 - id: c-179590
   autorius: "Michał Baliński"
@@ -6499,7 +5878,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
     - t-050
 
@@ -6539,7 +5918,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179593
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -6570,7 +5948,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-179594
@@ -6589,9 +5967,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05173
-
 - id: c-179595
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -6617,7 +5992,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179596
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -6642,6 +6016,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-088
 
 - id: c-179597
   autorius: "Michał Baliński"
@@ -6675,9 +6051,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176396
-
 - id: c-179598
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6705,10 +6078,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-122
-    - t-176362
-    - t-176371
 
 - id: c-179599
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -6736,7 +6107,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179600
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -6753,7 +6123,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-179601
@@ -6780,7 +6150,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179602
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6809,10 +6178,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176362
-    - t-176376
-
 - id: c-179603
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6850,10 +6215,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176347
-    - t-176397
-
 - id: c-179604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -6885,7 +6246,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-053
 
 - id: c-179605
@@ -6910,9 +6271,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176380
-
 - id: c-179606
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -6932,7 +6290,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-125
 
 - id: c-179607
@@ -6953,7 +6311,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-068
 
 - id: c-179608
@@ -6980,7 +6338,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-179609
@@ -7000,7 +6358,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-179610
@@ -7019,7 +6377,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179611
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -7040,7 +6397,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-179612
@@ -7059,7 +6416,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179613
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7101,7 +6457,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179614
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -7123,7 +6478,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179615
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -7139,7 +6493,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-080
 
 - id: c-179616
@@ -7160,7 +6514,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-112
 
 - id: c-179617
@@ -7179,9 +6533,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05173
-
 - id: c-179618
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -7199,9 +6550,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
-    - t-05167
 
 - id: c-179619
   autorius: "Michał Baliński"
@@ -7252,13 +6602,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
     - t-043
-    - t-060
     - t-116
-    - t-176339
-    - t-198104
 
 - id: c-179621
   autorius: "Michał Baliński"
@@ -7295,10 +6642,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-120
-    - t-176341
-    - t-176384
 
 - id: c-179623
   autorius: "Michał Baliński"
@@ -7328,7 +6673,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-109
 
 - id: c-179624
@@ -7352,7 +6697,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-179625
@@ -7387,12 +6732,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-089
     - t-119
-    - t-176328
-    - t-176341
-    - t-176355
-    - t-176384
 
 - id: c-179626
   autorius: "Petras Dusburgietis"
@@ -7413,7 +6755,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
 
 - id: c-179627
@@ -7436,7 +6778,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179628
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7473,9 +6814,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176347
-    - t-176397
+  pagrindzia:
+    - t-094
+    - t-095
 
 - id: c-179629
   autorius: "Michał Baliński"
@@ -7497,9 +6838,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176328
-
 - id: c-179630
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -7519,7 +6857,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179631
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7544,9 +6881,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176383
-    - t-176397
+  pagrindzia:
+    - t-083
 
 - id: c-179633
   autorius: "Zenonas Ivinskis"
@@ -7565,7 +6901,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-057
 
 - id: c-179634
@@ -7588,10 +6924,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-    - t-035
-    - t-100
     - t-115
 
 - id: c-179635
@@ -7612,7 +6946,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179636
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7649,10 +6982,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176341
-    - t-176384
-
 - id: c-179637
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -7672,7 +7001,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-079
 
 - id: c-179638
@@ -7696,7 +7025,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
 
 - id: c-179639
@@ -7726,7 +7055,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-179641
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -7745,7 +7073,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-078
 
 - id: c-179642
@@ -7764,13 +7092,11 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko
     į Lietuvos sudėtį, darėsi vis reikšmingesnis.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-05167
+  pagrindzia:
     - t-117
 
 - id: c-184336
@@ -7796,7 +7122,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-096
 
 - id: c-184337
@@ -7820,7 +7146,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-097
 
 - id: c-184338
@@ -7847,7 +7173,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-098
 
 - id: c-185994
@@ -7871,7 +7197,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
 
 - id: c-185995
@@ -7889,7 +7215,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-185996
@@ -7909,7 +7235,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-185997
@@ -7931,7 +7257,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-092
 
 - id: c-185998
@@ -7955,7 +7281,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-093
 
 - id: c-186611
@@ -7972,7 +7298,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-128
 
 - id: c-187770
@@ -7996,7 +7322,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-129
 
 - id: c-188289
@@ -8014,7 +7340,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-130
 
 - id: c-188291
@@ -8033,7 +7359,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-131
 
 - id: c-188292
@@ -8057,515 +7383,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-132
-
-- id: c-190046
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 106"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 106."
-  citata_originali: |
-    Įprasta teigti, kad Kijevą prijungė Algir-
-    das po mūšio prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Tačiau pastaruoju metu istorikai
-    linkę manyti, kad Kijevas galėjo būti prijungtas dar 1322 m., valdant Gediminui. Kad ir
-    kaip būtų, Gedimino ir Algirdo valdymo metu išsiplėtė ne tik valstybės teritorija – Lietuva
-    pasidarė reikšminga Vidurio ir Rytų Europos jėga.
-  citata_rodoma: "Gedimino ir Algirdo valdymo metu išsiplėtė ne tik valstybės teritorija – Lietuva \npasidarė reikšminga Vidurio ir Rytų Europos jėga."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207493
-
-- id: c-190070
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 94"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 94."
-  citata_originali: |
-    Tačiau 1323–1324 m. Gedimino krikšto akcija nepa-
-    vyko. Matyt, išaiškėjus, kad popiežius ir krikšto klausimu tarpininkavęs Rygos arkivys-
-    kupas dėl politinio silpnumo nepadės apsisaugoti nuo Vokiečių ordino, o labiausiai – dėl
-    žemaičių ir stačiatikių dvariškių pasipriešinimo Gediminas krikštytis atsisakė.
-  citata_rodoma: "1323–1324 m. Gedimino krikšto akcija nepa-\nvyko. Matyt"
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207423
-
-- id: c-190071
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 40"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 40."
-  citata_originali: |
-    Vis dėlto 1323 m. Gediminas savo garsiuosius laiškus rašo Vilniuje. Tai – ne tik sutar-
-    tinė miesto įkūrimo data, bet ir nuolatinės LDK sostinės tapsmo data.
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207446
-
-- id: c-190095
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 92"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 92."
-  citata_originali: |
-    Tai leido Lietuvai tapti didelių politinių kombinacijų dalyve ir vyraujančia regio-
-    no jėga – didvalstybe. Vadinasi, palyginti lokali jos politika tampa plataus regiono ar net
-    Europos masto politika – tai pripažįsta ir nelietuviai istorikai.
-    Gedimino politikos reikšmingiausiu atspindžiu yra laikomi Gedimino laiškai.
-  citata_rodoma: "Gedimino politikos reikšmingiausiu atspindžiu yra laikomi Gedimino laiškai."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207458
-
-- id: c-193094
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 63-64"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 63-64."
-  citata_originali: |
-    Greitai praėjo Velykos, ir jis, sutelkęs visas savo
-    pajėgas — lietuvius, žemaičius ir rusus, po Velykų se­
-    kančią savaitę ištraukė prieš Kijevo kunigaikštį Sta­
-    6 e
-
-    nislovą 8 ir pakeliui paėmė Ovručo9 miestą ir 2itomi-
-    ro 10 miestą.
-    Kijevo kunigaikštis Stanislovas susižinojo su Pere-
-    jaslavlio kunigaikščiu Olegu ", su Briansko kunigaikš­
-    čiu Romanu, su Volynės kunigaikščiu Levu, kurį di­
-    dysis kunigaikštis Gediminas buvo išvaręs iš Lucko, ir
-    visi susirinko su baisia galybe savo rusų karių ir susi­
-    tiko su didžiuoju kunigaikščiu Gediminu ties Belgoro-
-    du l2, už šešių mylių nuo Kijevo, prie Irpenio 13 upės.
-    Ir įvyko mūšis bei didelės kapotynės, ir dievas padėjo
-    didžiajam kunigaikščiui Gediminui; sutriuškino visus
-    rusų kunigaikščius, ir visa jų sumuštoji kariuomenė
-    liko gulėti vietoje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-193855
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 62"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 62."
-  citata_originali: |
-    Ir dievas padėjo didžiajam kuni­
-    gaikščiui Gediminui, jis visus vokiečius triuškinte su­
-    triuškino, o žemaičiai atsimetė nuo vokiečių ir perėjo
-    pas savo tikrąjį valdovą Gediminą, kuris sumušė visą
-    vokiečių kariuomenę.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211755
-
-- id: c-193962
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 213"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 213."
-  citata_originali: |
-    Kijevu valdė kunigaikštis Teodoras, kuris
-    buvo Gedimino brolis ar pusbrolis ir politiškai nuo Lietuvos pri­
-    klausomas. 1362 m. Algirdas pašalino ŠĮ Teodorų iš Kijevo ir davė
-    jj valdyti savo sūnui Vladimirui.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194313
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 67"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 67."
-  citata_originali: |
-    Sulaukęs gilios senatvės, didysis kunigaikštis Gedi­
-    minas prie savo gyvos galvos apdalijo visus savo sū­
-    nus, ir penkiems savo sūnums davė dalis, būtent: vy­
-    riausiam sūnui Mantvydui 3 — Karačevą bei Slonimą.
-    Narimantui1 — Pinską, o Algirdui5 — Krėvą. Be to,
-    Vitebsko kunigaikštis neturėjo sūnų, tiktai dukterį, jis
-    išleido už Algirdo savo dukterį ir priėmė jį Vitebsko
-    žemėn 6.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194369
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 64"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 64."
-  citata_originali: |
-    Paskui kunigaikštis Gediminas su visomis savo jė­
-    gomis patraukė prie Kijevo ir apgulė Kijevo miestą,
-    o kijeviečiai šoko jo ginti. Didysis kunigaikštis Gedi­
-    minas stovyklavo prie Kijevo mėnesį. O vėliau kije­
-    viečiai pasitarę nusprendė, kad be savo valdovo, Kije­
-    vo didžiojo kunigaikščio Stanislovo, prieš didžiojo
-    kunigaikščio Gedimino pajėgas daugiau nebeištvers.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:48"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-194698
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 509"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
-  citata_originali: |
-    180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
-    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
-    tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys
-    lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, pri­
-    klausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), ga­
-    lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
-    kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
-    Lietuvoje šeimos herbai egzistavo70.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-195780
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 489"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
-  citata_originali: |
-    Si moneta yra senesnė už mūsų
-    turimą.
-    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta ir
-    daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau nuken­
-    tėjusios). Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
-    kokia neaiški raidė.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-198264
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 457"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
-  citata_originali: |
-    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
-    metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
-    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
-    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
-    prastai išaugo.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218104
-
-- id: c-199459
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 130"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
-  citata_originali: |
-    XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
-    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
-    buvo sunaikintos.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216937
-
-- id: c-200073
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 276"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
-  citata_originali: |
-    Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
-    kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
-    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
-    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
-    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
-    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
-    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
-    daikto pavadinimo, nes jį turėjo savo pačių kalboje.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200410
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 287"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
-  citata_originali: |
-    Straips­
-    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
-    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
-    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
-    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
-    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
-    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
-    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
-    tos, todėl turėjo būti jau labai senas.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216918
-
-- id: c-201279
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 214"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
-  citata_originali: |
-    Lietuvos ponai 1316 metų sausio mėnesį
-    Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
-    tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes
-    Žemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
-    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
-    naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
-    Jaunę, o su jomis - septynis sūnus3.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216918
-
-- id: c-201756
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 221"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
-  citata_originali: |
-    Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
-    šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
-    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
-    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
-    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
-    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
-    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
-    tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
-    kad atvykę deramai pataisytų tai, kas atsitiko. Po to legatai išleido į kelią iškilmingą
-    pasiuntinystę pas Gediminą, lietuvių karalių, turėjusią jam pranešti apie apaštališkojo
-    sosto jiedviem duotą uždavinį ir atidžiai ištirti, ar jis su visais savo karalystės žmonėmis
-    norįs priimti krikšto malonę ir, metęs stabmeldystę, nuolankiai išpažinti mūsų viešpaties
-    Jėzaus Kristaus vardą.
-    357 (350).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-221912
-
-- id: c-202017
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 256"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
-  citata_originali: |
-    Čia įvyko derybos tarp Gedimino ir Lokietkos.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220206
-
-- id: c-202164
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
-  citata_originali: |
-    Šitaip norima pabrėžti, kad Ordino politika esanti teisinga,
-    nors turime pagrindo manyti, kad būtent Ordino klasta sužlugdė Gedimino planus67.
-    Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
-    padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68.
-  statusas: verified
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223904
-
-- id: c-204009
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 15"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
-  citata_originali: |
-    Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
-    Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
-    kelius vakaruose ir šiaurėje blokavo Ordinas).
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222763
-
-- id: c-204335
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 223."
-  citata_originali: |
-    361 (354). Apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­
-    vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių
-    1326 viešpaties metais Lokietka, Lenkijos karalius, paprašė Gediminą, lietuvių
-    karalių, kurio dukterį neseniai buvo paėmęs į žmonas jo sūnus592, atsiųsti jam iš savo
-    krašto karių. Patenkindamas jo prašymą, šis davė jam 1200 raitelių.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-224704
-
-- id: c-204438
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 13-14"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13-14."
-  citata_originali: |
-    Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
-    aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
-    ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis“
-    (1322 m. laiškas popiežiui)48; „Kur atrasime didesnių skriaudų, didesnės neteisybės,
-    smurto, nedorumo ir turto gobšumo, jei ne tarp krikščionių žmonių, o ypač tarp tų,
-    kurie dedasi dorais vienuoliais kaip, pavyzdžiui, kryžiuočiai, tačiau kurie daro visokį
-      42 CEV, p. 1018—1021.
-      43 LIS, t. 1, p. 93—94; Dundulis B. Lietuvių kova..., p. 97, 115—116, 163—164, 221.
-      44 Zajączkowski S. Jotvingių problema..., p. 390—394.
-      45 Кушнер П. И. Этнические территории..., c. 159, 185. 270.
-      46 Ловмянский Г. Роль рыцарских орденов..., с. 76—77.
-      47 Jakštas J. Vokiečių ordinas..., p. 149—155; Caune M. Rīgas pilsētas un Livonijas
-    ordena karš..., lpp. 63—74.
-      48 GL, Nr. 2, p. 26—27.
-
-    pikta...“ (Gedimino pareiškimas popiežiaus legatų pasiuntiniams Vilniuje 1324 m.)49;
-    „...labai daug [nuostolių] [...] mums padarė minėtieji broliai kryžiuočiai [...], jie nebijo
-    dievo, negerbia žmonių ir [elgiasi] kaip žmonės, kurie tiki tik savo rankos jėga“ (1325
-    m. Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui  ir
-    Rygos miesto tarybai)50.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223904
-
-- id: c-205457
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 17-18"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17-18."
-  citata_originali: |
-    Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
-    pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
-
-      66 PD, II, 6; PKD, s. 172—182.
-
-    valdovas tokio plano neturėjęs, jokių laiškų krikšto reikalu nebuvo rašęs, niekam nebuvo
-    įsakęs juos skelbti (III, 359). Šitaip norima pabrėžti, kad Ordino politika esanti teisinga,
-    nors turime pagrindo manyti, kad būtent Ordino klasta sužlugdė Gedimino planus67.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-205749
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 29"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
-  citata_originali: |
-    Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
-    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
-    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad
-    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
-    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223260
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Jaunė (Jievna)]]

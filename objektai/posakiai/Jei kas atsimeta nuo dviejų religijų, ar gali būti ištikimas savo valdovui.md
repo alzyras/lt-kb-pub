@@ -57,6 +57,5 @@ Didysis kunigaikštis ištarė klausimą: „Jei kas atsimeta nuo dviejų religi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -72,6 +72,5 @@ T. Narbutas teigia, kad samojedai dar XVII amžiuje prie Baltosios jūros garbin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -83,6 +83,5 @@ Teodoras Narbutas aprašo, kad lietuvių kunigaikščiai prie Rūdavos kaimo už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

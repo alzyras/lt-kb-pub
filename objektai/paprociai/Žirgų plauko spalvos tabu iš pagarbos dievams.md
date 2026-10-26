@@ -60,22 +60,10 @@ Nenurodyta
   pagrindžia:
     - c-62636
 
-<a id="claim-t-196994"></a>
-- t-003
-  teiginys: "Ketvirtą kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs, iki tą prūsą atpratinsiąs nuo prietarų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-62635
-
-<a id="claim-t-225089"></a>
-- t-225089
+<a id="claim-t-62180"></a>
+- t-002
   teiginys: "Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "gyveno -> Semba: 0.90"
@@ -87,6 +75,20 @@ Nenurodyta
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Dargis gyveno Sembos žemėje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Dargis gyveno Semba (0.90)"
+  pagrindžia:
+    - c-62635
+
+<a id="claim-t-196994"></a>
+- t-003
+  teiginys: "Ketvirtą kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs, iki tą prūsą atpratinsiąs nuo prietarų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-62635
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -128,7 +130,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
+    - t-002
     - t-003
 
 - id: c-62636
@@ -146,6 +149,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -48,7 +48,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 <a id="claim-t-184836"></a>
 - t-001
   teiginys: "Skalvių didikas Surdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,24 +67,17 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   pagrindžia:
     - c-168197
 
-<a id="claim-t-222205"></a>
+<a id="claim-t-197157"></a>
 - t-002
-  teiginys: "Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius."
-  atnaujinta: "2026-09-28 21:24"
+  teiginys: "Surdeta esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas."
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
+  teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Skalva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Surdeta: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Skalva: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Surdeta\" parinktas kaip owner_note_path. Targetas \"Skalva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-205423
+    - c-167515
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -128,6 +121,8 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-168197
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -146,32 +141,9 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     mai Lenkijoje.
   citata_rodoma: "Tiesą sakant,\ntą pasitraukimą su visa manta ir vaikais į Lietuvą, kur\ngyveno tos pačios kilmės tauta, vargu ar galima va­\ndinti tremtimi. Tokio paties likimo ištikti skalvių di­\ndikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje,\npersikraustė su savo turtais ir žmonėmis toliau į Lie­\ntuvą. Tuo tarpu kilo neramu-\n1269 m e ta i\nmai Lenkijoje."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-- id: c-205423
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 158"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
-  citata_originali: |
-    188 (183). Apie tai, kaip buvo apleista Skalvos žemė
-    Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
-    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
-    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
-    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
-    kito patraukė pas brolius su visais savo namais ir šeimyna.
-  citata_rodoma: "Kai \ngalingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta \nir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai \npalankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po \nkito patraukė pas brolius su visais savo namais ir šeimyna."
-  statusas: verified
-  atnaujinta: "2026-09-30 07:06"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-

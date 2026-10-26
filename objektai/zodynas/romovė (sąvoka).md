@@ -70,6 +70,5 @@ Jis kalba apie kadaise buvusį šventą Romovės miestą, kaip apie krivio buvei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

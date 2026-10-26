@@ -45,23 +45,10 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
 
 ## Teiginiai
 
-<a id="claim-t-205701"></a>
-- t-002
-  teiginys: "Teodoras Narbutas nurodo, kad po Vernerio mirties kryžiuočiai Liuterį iš Braunšveigo išrinko didžiuoju magistru."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188316
-
-<a id="claim-t-222728"></a>
-- t-222728
+<a id="claim-t-60380"></a>
+- t-001
   teiginys: "Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą."
-  atnaujinta: "2026-09-28 21:24"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mikalojus iš Jerošino: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,6 +61,21 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   temporaliniai_duomenys: "įvykio data: 1335 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1341 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys apie Liuterį pateiktas per neaiškų įvardį; citata remia aiškesnį sakinį."
+  pagrindžia:
+    - c-61012
+
+<a id="claim-t-205701"></a>
+- t-002
+  teiginys: "Teodoras Narbutas nurodo, kad po Vernerio mirties kryžiuočiai Liuterį iš Braunšveigo išrinko didžiuoju magistru."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188316
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,6 +108,8 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-188316
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -124,6 +128,5 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

@@ -63,6 +63,5 @@ Prie autentiško 1436 metų rašto buvo įspaustas ir prikabintas Žygimanto Kę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

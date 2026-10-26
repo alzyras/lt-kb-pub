@@ -56,6 +56,5 @@ Dabar pradėsime nagrinėti lietuvių tautos versmes, arba ieško sime vardo ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

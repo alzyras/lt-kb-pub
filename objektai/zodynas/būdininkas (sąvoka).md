@@ -62,6 +62,5 @@ Matyt, vienoje būdoje dirbančių būdininkų optimalus skaičius buvo apie 40.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

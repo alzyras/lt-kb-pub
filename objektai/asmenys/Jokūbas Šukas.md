@@ -61,6 +61,5 @@ Vaitas Jokūbas Šukas prisiminęs, kad buvę viešai paskelbta, jog be laidavim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -55,6 +55,5 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

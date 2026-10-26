@@ -81,6 +81,5 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

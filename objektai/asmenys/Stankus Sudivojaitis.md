@@ -70,6 +70,5 @@ canonical_biography: "Į Kauną bernardinus kvietė buvusio Kauno seniūno Sudiv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

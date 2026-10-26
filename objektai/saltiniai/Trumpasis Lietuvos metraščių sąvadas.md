@@ -67,6 +67,5 @@ Trumpajame sąvade, sudarytame apie 1446 m., nuo sekliau ir išsamiau nušvieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -99,6 +99,5 @@ Po II Pasaulinio karo pabaigos 1951 m. žemės teismo knygos buvo pervežtos į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

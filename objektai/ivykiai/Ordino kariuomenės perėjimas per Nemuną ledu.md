@@ -73,6 +73,5 @@ Ordino kariuomenė vidurnaktį su ginklais perėjo Nemuną ledu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

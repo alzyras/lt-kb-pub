@@ -77,6 +77,5 @@ p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Au
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

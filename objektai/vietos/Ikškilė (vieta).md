@@ -94,7 +94,7 @@ Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-188385
@@ -115,6 +115,5 @@ Tuo metu vyskupystės katedra iš Ikškilės buvo perkelta į Rygą ir prie jos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

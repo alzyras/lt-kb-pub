@@ -54,6 +54,16 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
 
 ## Teiginiai
 
+<a id="claim-t-195278"></a>
+- t-001
+  teiginys: "Leibienė buvo siejama su moteriškomis prekėmis ir vėliau išėjo gyventi į Panevėžį."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177643
+
 <a id="claim-t-195279"></a>
 - t-002
   teiginys: "Leibienė nešiojo kromą kita pakraipa negu Leiba."
@@ -63,16 +73,6 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177644
-
-<a id="claim-t-195278"></a>
-- t-195278
-  teiginys: "Leibienė buvo siejama su moteriškomis prekėmis ir vėliau išėjo gyventi į Panevėžį."
-  atnaujinta: "2026-09-28 21:24"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177643
 
 ## Citatos
 
@@ -89,8 +89,8 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-195278
+  pagrindzia:
+    - t-001
 
 - id: c-177644
   autorius: "M. Katkus"
@@ -109,6 +109,5 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-

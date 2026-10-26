@@ -31,6 +31,16 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+entity_id: ent-a659b6007ea57dae6a75709f
+canonical_name: 'Motiejus Valančius (vyskupas, XIX a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Motiejus Valančius
+  - 'Motiejus Valančius (vyskupas, XIX a.)'
+sameAs: []
+canonical_biography: 'Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas. Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba.'
 external_sources_json: '[{"title":"Motiejus Valančius","url":"https://lt.wikipedia.org/wiki/Motiejus_Valan%C4%8Dius","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Motiejus Valančius","url":"https://www.vle.lt/straipsnis/motiejus-valancius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:37:17+00:00","source_checked_at":"2026-09-18T23:37:17+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Motiejus Kazimieras Valančius (1801 m. vasario 16 d. – 1875 m. gegužės 17 d. pagal Julijaus kalendorių) – Žemaičių vyskupas (1849–1875 m.), švietėjas, rašytojas, istorikas, blaivybės sąjūdžio organizatorius.","infobox":[{"code":"row_1","label":"","value":"Motiejus Valančius","cells":[{"text":"Motiejus Valančius","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"Gimė","value":"1801 m. vasario 28 d.\nNasrėnai, Salantų valsčius","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1801 m. vasario 28 d.\nNasrėnai, Salantų valsčius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Mirė","value":"1875 m. gegužės 29 d. (74 metai)\nKaunas","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1875 m. gegužės 29 d. (74 metai)\nKaunas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Palaidotas (-a)","value":"Arkikatedros bazilikos","cells":[{"text":"Palaidotas (-a)","header":true,"colspan":1,"rowspan":1},{"text":"Arkikatedros bazilikos","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Tėvas","value":"Mykolas Valančius","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Mykolas Valančius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Motina","value":"Ona Stonkutė-Valančienė","cells":[{"text":"Motina","header":true,"colspan":1,"rowspan":1},{"text":"Ona Stonkutė-Valančienė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Veikla","value":"Žemaičių vyskupas, švietėjas, rašytojas, blaivybės sąjūdžio organizatorius","cells":[{"text":"Veikla","header":true,"colspan":1,"rowspan":1},{"text":"Žemaičių vyskupas, švietėjas, rašytojas, blaivybės sąjūdžio organizatorius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Alma mater","value":"1828 m. Vilniaus kunigų seminarija","cells":[{"text":"Alma mater","header":true,"colspan":1,"rowspan":1},{"text":"1828 m. Vilniaus kunigų seminarija","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Vikiteka","value":"Motiejus Valančius","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Motiejus Valančius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"23702","revision_id":"7882642","status":"published","translation_status":"native","source":{"title":"Motiejus Valančius","url":"https://lt.wikipedia.org/wiki/Motiejus_Valan%C4%8Dius","publisher":"Vikipedija","language":"lt","article_id":"23702","revision_id":"7882642","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7882642","history_url":"https://lt.wikipedia.org/w/index.php?title=Motiejus_Valan%C4%8Dius&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:11:33.976005+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"0010e1676ff88279e6d16d1d6c2ff33cbe8fcf00555970a4b30e9f8523b2690b","version_pk":"ae86f99dac4e8a9a9b51cdcd1ce562d4"}},"source_buttons":[{"label":"Vikipedija","title":"Motiejus Valančius","url":"https://lt.wikipedia.org/wiki/Motiejus_Valan%C4%8Dius","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Motiejus Valančius","url":"https://www.vle.lt/straipsnis/motiejus-valancius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Motiejus_Valan%C4%8Dius","https://www.vle.lt/straipsnis/motiejus-valancius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3797e3348d529aeacc106735","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Žemaičių vyskupas","context":"Šaltinyje jis įvardijamas kaip Žemaičių vyskupas; laikotarpis ir data nenurodyti.","support_ids":["t-209464","c-192084"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209464","source":"darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md"},{"kind":"evidence","evidence_id":"c-192084","source":"darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md","quote":"Motiejus Valančauskis, Žemaičių vyskupas, su savo ranka."}],"status":"published","conflict_status":"clear"},{"trait_id":"4fb0c890eb12adada8a4442f","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Nuo 1856 m. domėjosi blaivybės brolijų veikimu Lenkijos Karalystėje.","context":"Tai nurodyta Motiejaus Valančiaus dienoraščio pastabų aprašyme; nuo 1856 m., Lenkijos Karalystės blaivybės brolijų kontekste.","support_ids":["t-208491","c-191111"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208491","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md"},{"kind":"evidence","evidence_id":"c-191111","source":"darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md","quote":"Kiek kitaip savo dienoraščio pastabose pirmuosius blaivybės brolijų, žingsnius Žemaičių (Teisių) vyskupystėje aprašė pats Motiejus Valančius. Apie užsienyje plintantį judėjimą jis buvo girdėjęs ir skaitęs anksčiau. NUo 1856 m. domėjosi, kaip blaivybės brolijos veikia Lenkijos Karalystėje11."}],"status":"published","conflict_status":"clear"},{"trait_id":"12684a66aa3a484772f36b0f","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Lietuviškus ganytojiškus laiškus pasirašinėjo „Motiejus Wiskupas“.","context":"Šaltinis aprašo jo laiškų pasirašymo būdą; laikotarpis nenurodytas.","support_ids":["t-209461","c-192081"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209461","source":"darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md"},{"kind":"evidence","evidence_id":"c-192081","source":"darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md","quote":"Valančius lietuviškus ganytojiškus laiškus pasirašinėjo: Motiejus Wiskupas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
 object_page_finisher: 'true'
@@ -44,13 +54,6 @@ object_page_seo_description: 'Motiejus Valančius (vyskupas, XIX a.): Valančius
 object_page_seo_input_hash: 74673c647a69c7fca39a4666c42194666d0fcf97dd2d6927272cc2de3f6cd39a
 object_page_seo_generated_at: '2026-09-18T23:37:17+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-a659b6007ea57dae6a75709f"
-canonical_name: "Motiejus Valančius (vyskupas, XIX a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Motiejus Valančius","Motiejus Valančius (vyskupas, XIX a.)"]
-sameAs: ["https://www.wikidata.org/entity/Q627106"]
-canonical_biography: "Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas. Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba."
 ---
 # Motiejus Valančius (vyskupas, XIX a.)
 
@@ -947,22 +950,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   pagrindžia:
     - c-206373
 
-<a id="claim-t-225977"></a>
-- t-225977
-  teiginys: "1855 m. lapkričio 17 d. vyskupas Motiejus Valančius suteikė kunigystės šventimus."
-  atnaujinta: "2026-09-25 02:17"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
-  temporaliniai_duomenys: "įvykio data: 1855 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija vyskupą Motiejų Valančių, datą ir kunigystės šventimų suteikimą; gavėjo tapatybės, kurios citata neįvardija, nepridėjau."
-  vertinimo_atnaujinta: "2026-09-23T18:01:34Z"
-  pagrindžia:
-    - c-206493
-
 ## Citatos
 
 - id: c-176357
@@ -983,7 +970,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-176358
@@ -1008,7 +995,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-176359
@@ -1030,7 +1017,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-176360
@@ -1048,7 +1035,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-184234
@@ -1077,7 +1064,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-191095
@@ -1100,7 +1087,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
 
 - id: c-191096
@@ -1123,7 +1110,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-191097
@@ -1149,7 +1136,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
 
 - id: c-191098
@@ -1167,7 +1154,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-017
 
 - id: c-191099
@@ -1191,7 +1178,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
 
 - id: c-191100
@@ -1215,7 +1202,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
 
 - id: c-191101
@@ -1235,7 +1222,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-191102
@@ -1258,7 +1245,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-191103
@@ -1279,7 +1266,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-191104
@@ -1297,7 +1284,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-023
 
 - id: c-191105
@@ -1319,7 +1306,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-024
 
 - id: c-191106
@@ -1344,7 +1331,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-191107
@@ -1370,7 +1357,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
 
 - id: c-191109
@@ -1394,7 +1381,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-027
 
 - id: c-191110
@@ -1411,7 +1398,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
 
 - id: c-191111
@@ -1435,7 +1422,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
 
 - id: c-191112
@@ -1458,7 +1445,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-009
 
 - id: c-191114
@@ -1483,7 +1470,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-030
 
 - id: c-191115
@@ -1502,7 +1489,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
 
 - id: c-191116
@@ -1523,7 +1510,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-191117
@@ -1543,7 +1530,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
 
 - id: c-191119
@@ -1562,7 +1549,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-191120
@@ -1580,7 +1567,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-191122
@@ -1598,7 +1585,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-035
 
 - id: c-191123
@@ -1616,7 +1603,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-036
 
 - id: c-191124
@@ -1641,7 +1628,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
 
 - id: c-191125
@@ -1663,7 +1650,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
 
 - id: c-191126
@@ -1688,7 +1675,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-191127
@@ -1706,7 +1693,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-191128
@@ -1732,7 +1719,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-041
 
 - id: c-191129
@@ -1750,7 +1737,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
 
 - id: c-191131
@@ -1774,7 +1761,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-043
 
 - id: c-191132
@@ -1800,7 +1787,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
 
 - id: c-191134
@@ -1825,7 +1812,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-044
 
 - id: c-191135
@@ -1846,7 +1833,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-045
 
 - id: c-191136
@@ -1871,7 +1858,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
 
 - id: c-191138
@@ -1894,7 +1881,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-191139
@@ -1916,7 +1903,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-191877
@@ -1940,7 +1927,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-191884
@@ -1967,7 +1954,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-052
 
 - id: c-191897
@@ -1986,7 +1973,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-051
 
 - id: c-191926
@@ -2012,7 +1999,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-049
 
 - id: c-191958
@@ -2033,7 +2020,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-050
 
 - id: c-191972
@@ -2056,7 +2043,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
 
 - id: c-192039
@@ -2078,7 +2065,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
 
 - id: c-192050
@@ -2104,7 +2091,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-192081
@@ -2126,7 +2113,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-053
 
 - id: c-192082
@@ -2145,7 +2132,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-054
 
 - id: c-192083
@@ -2167,7 +2154,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-055
 
 - id: c-192084
@@ -2187,7 +2174,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-056
 
 - id: c-192085
@@ -2207,7 +2194,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-192086
@@ -2228,7 +2215,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-057
 
 - id: c-206363
@@ -2280,7 +2267,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-058
 
 - id: c-206364
@@ -2308,7 +2295,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-059
 
 - id: c-206365
@@ -2334,7 +2321,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-060
 
 - id: c-206366
@@ -2356,7 +2343,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-061
 
 - id: c-206367
@@ -2384,7 +2371,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-062
 
 - id: c-206368
@@ -2426,7 +2413,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-063
 
 - id: c-206369
@@ -2453,7 +2440,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-064
 
 - id: c-206370
@@ -2474,7 +2461,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-065
 
 - id: c-206371
@@ -2519,7 +2506,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-206372
@@ -2543,7 +2530,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-067
 
 - id: c-206373
@@ -2563,18 +2550,5 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-068
-
-- id: c-206493
-  autorius: "Aldona Vasiliauskienė"
-  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija"
-  puslapiai: "p. 468 (PDF 469)"
-  indeksas: "Aldona Vasiliauskienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija, p. 468 (PDF 469)."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-25 02:17"
-  pagrindžia:
-    - t-225977
-

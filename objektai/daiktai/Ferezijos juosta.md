@@ -79,6 +79,5 @@ Auksinė ferezijos juosta, pasak Teodoro Narbuto, panaudota Krėvos pilyje pasma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

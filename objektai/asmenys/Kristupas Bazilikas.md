@@ -70,6 +70,5 @@ canonical_biography: "1608 m. Kauno miesto tarybos posėdyje, dalyvaujant Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

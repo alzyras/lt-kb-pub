@@ -71,6 +71,5 @@ Trumpesnis Vytauto pagyrimo variantas žinomas iš 1428 m., o platesnis parašyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

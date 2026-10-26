@@ -78,6 +78,5 @@ Teodoras Narbutas Jogailą apibūdina kaip tuometinį Vitebsko, Krėvos ir Lydos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

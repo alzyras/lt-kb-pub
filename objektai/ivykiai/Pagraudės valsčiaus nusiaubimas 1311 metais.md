@@ -71,6 +71,5 @@ Fridrichas iš Vildenbergo po Vytenio žygio įsiveržė į Pagraudės valsčių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

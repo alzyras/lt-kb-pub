@@ -79,11 +79,9 @@ Nenurodyta
     tas, tradiciškai įsitvirtinęs ir XIX a. pirmojoje pusėje mažai koreguojamas tiek visuo­
     menės, tiek valstybės.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 11:43"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-

@@ -71,18 +71,3 @@ Terminas vartojamas aprašant gaminimą ir sudėtį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-195468"></a>
-- t-001
-  teiginys: "Grucė šiame šaltinyje gaminama iš džiovintų ir grūstų miežių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177889
-

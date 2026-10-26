@@ -136,7 +136,7 @@ canonical_biography: "Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-21865
@@ -163,7 +163,7 @@ canonical_biography: "Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-21866
@@ -184,7 +184,7 @@ canonical_biography: "Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-184109
@@ -209,11 +209,9 @@ canonical_biography: "Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, t
     dvasios liepsną; apie gyventojus, kurie šlovino vienatį ją Dievą įvairiomis
     kalbomis ir įvairių tikybų pavidalais.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
-

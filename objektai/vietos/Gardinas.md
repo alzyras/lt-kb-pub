@@ -46,6 +46,20 @@ media_primary_json: '{"mediaId":"m-4a817efa1586499bfa3bb0a1","title":"Gardinas �
 media_direct_json: '[{"mediaId":"m-4a817efa1586499bfa3bb0a1","title":"Gardinas · dabartinis vietovės vaizdas","caption":"Gardinas · dabartinis vietovės vaizdas","originalTitle":"Gardinas · dabartinis vietovės vaizdas","creator":"Liashko","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"2021-07-05 14:51:37","width":960,"height":720,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Horadnia_(Hrodna),_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F,_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(2021)_05.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/32/Horadnia_%28Hrodna%29%2C_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%282021%29_05.jpg","thumbUrl":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Horadnia_%28Hrodna%29%2C_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%282021%29_05.jpg/960px-Horadnia_%28Hrodna%29%2C_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%282021%29_05.jpg","displayUrl":"/static/media/museum/vieta-gardinas.webp","focalPoint":{"x":50,"y":50},"reviewStatus":"accepted","directness":"direct","relationType":"depicts","isPrimary":1,"reviewedAt":"2026-09-20T21:40:55+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"vieta","notePath":"objektai/vietos/Gardinas.md","relationType":"depicts","title":"Gardinas"}],"attribution":"Liashko · CC BY-SA 4.0","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Horadnia_(Hrodna),_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F,_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(2021)_05.jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."}]'
 media_contextual_json: '[]'
 media_all_json: '[{"mediaId":"m-4a817efa1586499bfa3bb0a1","title":"Gardinas · dabartinis vietovės vaizdas","caption":"Gardinas · dabartinis vietovės vaizdas","originalTitle":"Gardinas · dabartinis vietovės vaizdas","creator":"Liashko","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"2021-07-05 14:51:37","width":960,"height":720,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Horadnia_(Hrodna),_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F,_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(2021)_05.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/32/Horadnia_%28Hrodna%29%2C_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%282021%29_05.jpg","thumbUrl":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Horadnia_%28Hrodna%29%2C_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%282021%29_05.jpg/960px-Horadnia_%28Hrodna%29%2C_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%282021%29_05.jpg","displayUrl":"/static/media/museum/vieta-gardinas.webp","focalPoint":{"x":50,"y":50},"reviewStatus":"accepted","directness":"direct","relationType":"depicts","isPrimary":1,"reviewedAt":"2026-09-20T21:40:55+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"vieta","notePath":"objektai/vietos/Gardinas.md","relationType":"depicts","title":"Gardinas"}],"attribution":"Liashko · CC BY-SA 4.0","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Horadnia_(Hrodna),_Vilienskaja._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F,_%D0%92%D1%96%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(2021)_05.jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."}]'
+entity_id: ent-91df89033747c93364457ec8
+canonical_name: Gardinas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Gardinan
+  - Gardinas
+  - Gardine
+  - Gardino
+sameAs: []
+canonical_biography: 'Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo religinių fundacijų ir 1429 m. politinių derybų centras.'
+place_authority: true
+historical_names: []
 external_sources_json: '[{"title":"Gardinas","url":"https://lt.wikipedia.org/wiki/Gardinas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Gardinas","url":"https://www.vle.lt/straipsnis/gardinas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-18T21:42:08+00:00","source_checked_at":"2026-09-18T21:42:08+00:00","counts":{"relations":20,"gallery":1,"sources":24},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra- dėjusiai veikti generalgubernatoriaus institucijai. 1819 m.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-179833","evidence_id":"c-163524","origin":"internal"},"wiki":{"intro":"Gar̃dinas (bltr. Гродна, Гародня, Горадня; rus. Гродно) – miestas vakarų Baltarusijoje, netoli sienos su Lenkija ir Lietuva, prie Nemuno upės. Gardino Srities ir rajono centras. Išvystyta chemijos ir lengvoji pramonė; veikia kelios aukštosios mokyklos. Mieste išlikusi XII a. statyta Koložos cerkvė, Stepono Batoro iki 1580 m. perstatytos Senosios Vytauto pilies griuvėsiai, XVIII a. statyta Gardino Naujoji pilis, daugelis kitų architektūros paminklų. Yra Gardino universitetas, Gardino istorijos ir archeologijos muziejus, Gardino zoologijos sodas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"20951","revision_id":"7629579","status":"published","translation_status":"native","source":{"title":"Gardinas","url":"https://lt.wikipedia.org/wiki/Gardinas","publisher":"Vikipedija","language":"lt","article_id":"20951","revision_id":"7629579","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7629579","history_url":"https://lt.wikipedia.org/w/index.php?title=Gardinas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:18.593169+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"6c7d33b0c45b4d51f986e3b05cf68368c3554d09df6944c762e0a7d688d2bd44","version_pk":"5522ffc5122853f425049759c8866b56"}},"source_buttons":[{"label":"Vikipedija","title":"Gardinas","url":"https://lt.wikipedia.org/wiki/Gardinas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Gardinas","url":"https://www.vle.lt/straipsnis/gardinas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Gardinas","https://www.vle.lt/straipsnis/gardinas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0784142fa41121c489075aa9","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Gardino pilis stovėjo ant dešiniojo Nemuno skardžio.","context":"Šaltinyje aprašoma Gardino pilis; laikas nenurodytas.","support_ids":["t-201060","c-184410"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201060","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184410","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuvių Parusny, nenorinčių vo- kyčiams vergauti, išsikraustė į Lietuvą ir Žemai­ čius ir apygardose Gardino apsigyveno, kurie, trau­ kiant lietuviams ir žemaičiams į Parusnį, rodė kelią ir tuo pačiu didžiai pavojais buvo kryžėjams, kurie dėl to vien ketėjo šiuo žygiu su kariauna tą sritį aplankyti, kaipogi mistras paėmęs dar su savim Skomantą, kaipo žinovą tų kraštų, kursai slapsty­ damos nuo kryžėjų pirma tenai gyveno. Vasarop persikėlęs per Nemuną, įsigrūdo staiga į Lietuvą ir Gardino pilį, ant dešinio skardžio Nemuno riogsan­ čią, apgulė. Vos buvo atkolęs drobynas į mūrus, tuojau visų baisiausia kova prasidėjo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"311d5236fc5c9a1c6aadab3d","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Gardinas buvo neseniai kuo puikiausiai sutvirtinta pasienio pilis.","context":"Taip Gardiną apibūdina cituojamas laiškas; kalbama apie laikotarpį po paliaubų, kai buvo sustiprintos pasienio pilys.","support_ids":["t-205766","c-188381"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205766","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188381","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Jeigu Jūsų Šventenybė,— toliau jie rašo,— mūsų krašto, t. y. Plocko diecezijos, ir apskritai lenkų tautos neapgins nuo lietuvių, tuomet tie pagonys, jau pralobę iš grobimo, turtingi karo amunicijos, per paliaubas sustiprinę ir pa­ taisę savo pasienio pilis, kaip neseniai kuo puikiausiai sutvirtino Gardiną, esantį tik už keleto mylių nuo mūsų sienų, po kurio priedanga nesiliauja pulti mūsų kraštų panašiai kaip per anksčiau aprašytą neseniai buvusį puo­ limą, taigi tie pagonys be perstojo viską niokos"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d5f7c0f62b2d980d7d8a6720","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Gardino Žemutinė pilis, regis, buvo griuvėsiuose, o gintis galėjo tik Aukštutinė pilis.","context":"Pasak Teodoro Narbuto, Vytauto apsiausties metu.","support_ids":["t-206478","c-189093"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206478","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189093","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Nedaug tepraėjo laiko, kai kunigaikštis Vytautas su pagalbon atėjusiomis pajėgomis, tik ką minėtomis, apsupo Gardiną; tuo metu Žemutinė pilis po pastarojo jos užėmimo, regis, nebuvo pakilusi iš griuvėsių, tik Aukštutinė tegalėjo būti ginama."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0245bee938a9d8b2bdc01e9e","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Gardine buvo pilis ir miestas.","context":"Magistras Konradas įsakė Albertui Hagenui užpulti Gardino pilį ir miestą; šaltinyje aprašomas istorinis karo epizodas.","support_ids":["t-184952","c-168313"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184952","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168313","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Magistras Konradas, gavęs ži­ nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­ nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti. Linksmai nusiteikę, prie­ šai iš arti grasino piliai, vildamiesi, jog klastingas su­ manymas pasiseks, tačiau jų kėslus suardė kilusi ne­ regėta audra. Smarkios liū- I š v y k u s V y te n iu i, tys, juodi debesys ir baisios P rū sijo s k ry žiu o č ia i ūkanos, dieną mažne paver- u žp u o la G ardin ą tusios naktimi, neleido ne tik imtis ginklo, bet ir vienam kitą matyti, be to, nesiliaujantis griaustinio dundėji­ mas, vėjo šėlsmas, lietaus šniokštimas trukdė vadams…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"12a306af837a87d75ba4dbb8","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Gardine veikė jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.","context":"A. Šapokos redaguotame šaltinyje aprašomos XVI–XVII a. kolegijų fundacijos.","support_ids":["t-179879","c-21453"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179879","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-21453","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig- manto fundacija), Smolenske (klebono Lempickio ir kt. fun- dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau- garduke (sudėtinė fundacija), Bobruiske (Triznos fun- dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa- šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja), Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš- kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa- piegos f-ja)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0ce267958a102d055e0aa078","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Gardine buvo įkurtos matininkų, buhalterių, statybininkų ir veterinarų mokyklos.","context":"Šaltinis nurodo, kad jas įkūrė Antanas Tyzenhauzas XVIII a.","support_ids":["t-179872","c-163537"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179872","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163537","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 89 Lietuvos valstiečiai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4113e1e503431d113e896cd3","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Gardino centre buvo gotikinė parapinė bažnyčia, kuri XX a. penktojo–šeštojo dešimtmečių sandūroje buvo sunaikinta.","context":"Šaltinio autoriaus vertinimas apie vieną svarbiausių Vytauto laikų paveldo objektų.","support_ids":["t-207577","c-190194"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207577","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190194","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"kai, regis, ką tik – XX a. penktojo–šeštojo dešimtmečio sandūroje buvo nugriauta Pinsko jėzuitų bažnyčia ar Gardino centre sunaikintas vienas iš svarbiausių Vytauto laikų paveldo objektų – gotikinė Gardino parapinė bažnyčia, jau darosi liūdna."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b191cf92f6cdb5dc762f4795","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1390 m. Gardinas buvo Vytauto buveinė.","context":"Michał Balińskis rašo, kad 1390 m. sausio pradžioje Vytautas dar labiau įtvirtino Gardiną kaip savo buveinę.","support_ids":["t-179850","c-163515"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179850","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163515","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"1390 metų sausio pradžioje visą savo šei­ mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­ tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­ gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­ siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios pilies sudarė sutartį su Vytautu. Netrukus po to Ordino maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­ tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, o prie pat sostinės su karių likučiais…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"884e48dd7328d830928e4f01","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Gardinas buvo vadinamas Vytauto valdos sostine.","context":"Michał Balińskio pasakojime apie Gardino užėmimą kovo mėnesį; konkretūs metai ištraukoje nenurodyti.","support_ids":["t-179827","c-163478"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179827","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163478","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Pats tuo metu už­ ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­ ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­ mu užėmė ano valdos sostinę Gardiną ir šiaip taip patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau Vilniaus diecezijos senųjų turto do- Vilnensis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8bc7e39f6fca5a2440fb7951","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1792 m. Gardinas paskelbtas Abiejų Tautų konfederacijos centru.","context":"Šaltinis nurodo, kad Targovicos ir Vilniaus konfederacijos 1792 m. rugsėjo 11 d. susijungė Brastoje ir savo centru paskelbė Gardiną.","support_ids":["t-179890","c-163527"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179890","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163527","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Rugsėjo 11 dieną Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir savo centru paskelbė Gardiną. LLV sąjungininkę Prūsiją išgąsdino gali- mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri- na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Gardinas – istorinė vieta ir svarbus politinis bei gynybinis centras, įvairiais laikotarpiais siejamas su Lietuvos valdovais ir valstybės institucijomis. Gedimino arba Algirdo laikais Gardino pilis priklausė aplink valstybės branduolį sukurtai mūro pilių sistemai, o 1390 m. Vytautas Gardiną dar labiau įtvirtino kaip savo buveinę. 1392 m. birželio pabaigoje jis sudegino prie Nemuno stovėjusias Ordino pilis – Naująjį Gardiną ir Meteną, o Ostrovo taikos metu Jogaila Gardiną grąžino Vytautui kartu su jo tėviške. XVIII amžiaus pabaigoje miestas tapo svarbių politinių įvykių vieta: 1792 m. paskelbtas Abiejų Tautų konfederacijos centru, o 1793 m. čia sušauktas Seimas, turėjęs patvirtinti antrąjį valstybės padalijimą. Vėliau Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas, o 1801 m. miestas tapo Lietuvos Gardino gubernijos centru.","sentences":[{"sentence_id":"s1","text":"Gardinas – istorinė vieta ir svarbus politinis bei gynybinis centras, įvairiais laikotarpiais siejamas su Lietuvos valdovais ir valstybės institucijomis.","support_ids":["t-179859","t-179850","t-179833","c-163495","c-163515","c-163524"]},{"sentence_id":"s2","text":"Gedimino arba Algirdo laikais Gardino pilis priklausė aplink valstybės branduolį sukurtai mūro pilių sistemai, o 1390 m. Vytautas Gardiną dar labiau įtvirtino kaip savo buveinę.","support_ids":["t-179859","t-179850","c-163495","c-163515"]},{"sentence_id":"s3","text":"1392 m. birželio pabaigoje jis sudegino prie Nemuno stovėjusias Ordino pilis – Naująjį Gardiną ir Meteną, o Ostrovo taikos metu Jogaila Gardiną grąžino Vytautui kartu su jo tėviške.","support_ids":["t-179841","t-179847","c-163482","c-163488"]},{"sentence_id":"s4","text":"XVIII amžiaus pabaigoje miestas tapo svarbių politinių įvykių vieta: 1792 m. paskelbtas Abiejų Tautų konfederacijos centru, o 1793 m. čia sušauktas Seimas, turėjęs patvirtinti antrąjį valstybės padalijimą.","support_ids":["t-179890","t-179869","c-163527","c-163483"]},{"sentence_id":"s5","text":"Vėliau Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas, o 1801 m. miestas tapo Lietuvos Gardino gubernijos centru.","support_ids":["t-179872","t-179833","c-163537","c-163524"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį tiesiogiai pagrindžia nurodyti šaltiniai apie Gardino karinę, politinę ir institucinę reikšmę bei sąsajas su Lietuvos valdovais."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Gardino pilies priklausymą Gedimino arba Algirdo laikų mūro pilių sistemai ir Vytauto buveinės įtvirtinimą 1390 m."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1392 m. pilių sudeginimą ir Ostrovo taikos metu Jogailos Vytautui grąžintą Gardiną bei tėviškę."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Gardino paskelbimą konfederacijos centru 1792 m. ir Seimo sušaukimą 1793 m. dėl antrojo valstybės padalijimo."},{"sentence_id":"s5","supported":false,"reason":"Mokyklų įkūrimas tiesiogiai patvirtintas, tačiau nurodyti šaltiniai teigia, kad 1801 m. gubernija buvo padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas, o ne tiesiogiai, kad Gardinas tapo gubernijos centru."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-179859","t-179850","t-179833","c-163495","c-163515","c-163524"]},{"sentence_id":"s2","supported":true,"support_ids":["t-179859","t-179850","c-163495","c-163515"]},{"sentence_id":"s3","supported":true,"support_ids":["t-179841","t-179847","c-163482","c-163488"]},{"sentence_id":"s4","supported":true,"support_ids":["t-179890","t-179869","c-163527","c-163483"]},{"sentence_id":"s5","supported":true,"support_ids":["t-179872","t-179833","c-163537","c-163524"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-4a817efa1586499bfa3bb0a1"},"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179842","confidence":0.9},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-222541","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179882","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Ibrahimas (Turkijos čiaušas)","claim_id":"t-87513","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179677","confidence":0.62},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zigfridas iš Rechbergo","claim_id":"t-223263","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Žygimantas","claim_id":"t-217212","confidence":0.62},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Slavai","claim_id":"t-182877","confidence":0.8},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Steponas Batoras","claim_id":"t-113991","confidence":0.96},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Gorodnica","claim_id":"t-67978","confidence":0.83},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Koložas","claim_id":"t-99928","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Albrechtas iš Hageno","claim_id":"t-222942","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Konradas","claim_id":"t-185716","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179715","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-173130","confidence":0.9},{"predicate":"siunte_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-179088","confidence":0.78},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-176978","confidence":0.87},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis","claim_id":"t-40212","confidence":0.91},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-112051","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-112048","confidence":0.72}],"timeline":[{"date":"1295 m.","label":"1295 m.","claimId":"t-223106"},{"date":"1305 m.","label":"1305 m.","claimId":"t-222098"},{"date":"1365 m.","label":"1365 m.","claimId":"t-179849"},{"date":"1376 m.","label":"1376 m.","claimId":"t-179842"},{"date":"1380 m.","label":"Dovydiškių sutartis 1380 m.","claimId":"t-179829"},{"date":"1380 m.","label":"Dovydiškių sutartis buvo slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m.","claimId":"t-179836"},{"date":"1380 m.","label":"1380 m.","claimId":"t-179854"},{"date":"1390 m.","label":"1390 m.","claimId":"t-179850"}],"support_disclosure":{"claims":100,"sources":22}}'
 object_page_finisher: 'true'
@@ -61,15 +75,6 @@ object_page_seo_generated_at: '2026-09-18T21:42:08+00:00'
 object_page_seo_policy_version: object-page-policy/v7
 media_primary_width: 960
 media_primary_height: 720
-entity_id: "ent-91df89033747c93364457ec8"
-canonical_name: "Gardinas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Gardinan","Gardinas","Gardine","Gardino"]
-sameAs: ["https://www.wikidata.org/entity/Q181376"]
-canonical_biography: "Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo religinių fundacijų ir 1429 m. politinių derybų centras."
-place_authority: true
-historical_names: []
 ---
 # Gardinas
 
@@ -1584,191 +1589,6 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   pagrindžia:
     - c-189093
 
-<a id="claim-t-207577"></a>
-- t-207577
-  teiginys: "XX a. penktojo–šeštojo dešimtmečių sandūroje Gardino centre, pasak šaltinio, buvo sunaikinta gotikinė Gardino parapinė bažnyčia."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
-  pagrindžia:
-    - c-190194
-
-<a id="claim-t-207988"></a>
-- t-207988
-  teiginys: "Iš Knyšino J. Cyras išvyko į Gardiną susitikti su Lietuvos Didžiosios Kunigaikštystės didikais."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
-  pagrindžia:
-    - c-190394
-
-<a id="claim-t-208033"></a>
-- t-208033
-  teiginys: "Nuo 1740 m. Gardino pasiuntinių seimelis nebuvo sužlugdytas."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  temporaliniai_duomenys: "įvykio data: po 1740 m.; įvykio data: 1740 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190651
-
-<a id="claim-t-208063"></a>
-- t-208063
-  teiginys: "1791 m. rugsėjo 15 d. atskirta nuo Karūnos Lietuvos iždo komisija sugrįžo į Gardiną ir ten atnaujino veiklą."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190652
-
-<a id="claim-t-208073"></a>
-- t-208073
-  teiginys: "Gardino Grabnyčių seimeliai buvo dažnai žlugdomi."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190681
-
-<a id="claim-t-208087"></a>
-- t-208087
-  teiginys: "J. Fontana veikiausiai dirbo Gardine prieš atvykdamas į Vilnių."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190804
-
-<a id="claim-t-208132"></a>
-- t-208132
-  teiginys: "Gardine vyko politiškai svarbūs pasiuntinių seimelių rinkimai."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190649
-
-<a id="claim-t-208229"></a>
-- t-208229
-  teiginys: "Gardino vienuolyne jis buvo palaidotas 1706 m. balandžio pabaigoje."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  temporaliniai_duomenys: "mirties data: 1706 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190832
-
-<a id="claim-t-210462"></a>
-- t-210462
-  teiginys: "Būdamas Gardine, pajuto, kad iš tos ligos nebesi kels, ir, pasišaukęs į miegamąjį savo Lietuvos Didžio sios Kunigaikštystės Tarybos ponus."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193693
-
-<a id="claim-t-211439"></a>
-- t-211439
-  teiginys: "Vytautas iš Gardino per vieną dieną atskubėjo pas Kęstutį."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193529
-
-<a id="claim-t-211792"></a>
-- t-211792
-  teiginys: "Vytautas išvyko į Gardiną ir Drohičiną."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193817
-
-<a id="claim-t-215967"></a>
-- t-215967
-  teiginys: "Kobelio ežeras, pasak Narbuto, yra Lydos ir Gardino apskričių sandūroje."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200889
-
-<a id="claim-t-216599"></a>
-- t-216599
-  teiginys: "Čia ap rašomas seimas pradėjo posėdžiauti 1568 metų pa vasarį, nes Gardino archyvuose yra likęs pėdsa kas, jog tų metų balandžio 28 dieną karaliaus bū ta Gardine."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200063
-
-<a id="claim-t-219587"></a>
-- t-219587
-  teiginys: "Narbutas rašė, kad Gardine aprašomas seimas pradėjo posėdžiauti 1568 m. vasarį, o balandžio 28 d. ten buvo karalius."
-  atnaujinta: "2026-09-19 00:42"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1568 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas Gardino seimo laikas ir archyvinis argumentas sutrauktas į vieną sakinį. Palikta atribucija, nes tai Narbuto istoriografinė rekonstrukcija."
-  pagrindžia:
-    - c-200063
-
 ## Reikšmingi paminėjimai
 - c-029
   santrauka: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
@@ -1914,7 +1734,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-058
 
 - id: c-21449
@@ -1933,7 +1753,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
 
 - id: c-21453
@@ -1960,7 +1780,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-045
 
 - id: c-32050
@@ -1979,7 +1799,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-042
     - t-061
 
@@ -2004,7 +1824,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-030
 
@@ -2028,7 +1848,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-014
     - t-023
 
@@ -2057,7 +1877,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-033
 
 - id: c-163477
@@ -2085,7 +1905,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-013
 
 - id: c-163478
@@ -2112,7 +1932,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-163479
@@ -2143,7 +1963,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-059
 
 - id: c-163480
@@ -2162,7 +1982,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-057
 
 - id: c-163481
@@ -2184,7 +2004,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-008
 
 - id: c-163482
@@ -2205,7 +2025,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-012
     - t-017
     - t-054
@@ -2228,7 +2048,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-036
 
 - id: c-163484
@@ -2254,7 +2074,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-007
     - t-063
 
@@ -2286,7 +2106,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-028
 
 - id: c-163486
@@ -2311,7 +2131,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-016
     - t-053
 
@@ -2335,7 +2155,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-049
 
@@ -2358,7 +2178,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-018
     - t-050
 
@@ -2383,7 +2203,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-056
 
 - id: c-163491
@@ -2403,7 +2223,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-031
     - t-044
 
@@ -2429,7 +2249,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-010
     - t-027
 
@@ -2450,7 +2270,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-015
 
 - id: c-163495
@@ -2473,7 +2293,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-029
 
 - id: c-163496
@@ -2494,7 +2314,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-039
 
 - id: c-163497
@@ -2516,7 +2336,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-026
     - t-052
 
@@ -2539,7 +2359,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-025
 
 - id: c-163499
@@ -2560,7 +2380,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-060
 
 - id: c-163502
@@ -2590,7 +2410,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-043
 
 - id: c-163504
@@ -2614,7 +2434,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-011
     - t-051
 
@@ -2640,7 +2460,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-019
     - t-035
 
@@ -2674,7 +2494,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-032
 
 - id: c-163508
@@ -2705,7 +2525,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-048
 
 - id: c-163509
@@ -2773,7 +2593,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-062
 
 - id: c-163512
@@ -2796,7 +2616,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-022
 
 - id: c-163514
@@ -2815,7 +2635,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
     - t-009
     - t-024
@@ -2844,7 +2664,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-021
 
 - id: c-163516
@@ -2860,7 +2680,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-041
 
 - id: c-163523
@@ -2878,7 +2698,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-163524
@@ -2900,7 +2720,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-006
 
 - id: c-163527
@@ -2924,7 +2744,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-055
 
 - id: c-163528
@@ -2952,7 +2772,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-037
 
 - id: c-163531
@@ -2975,7 +2795,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-040
 
 - id: c-163532
@@ -3010,7 +2830,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-047
 
 - id: c-163533
@@ -3036,7 +2856,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-020
 
 - id: c-163534
@@ -3058,7 +2878,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-034
 
 - id: c-163537
@@ -3083,7 +2903,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-038
 
 - id: c-163540
@@ -3110,7 +2930,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-046
 
 - id: c-167172
@@ -3137,7 +2957,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-056
 
 - id: c-168311
@@ -3162,7 +2982,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-064
     - t-070
 
@@ -3197,7 +3017,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-065
     - t-071
 
@@ -3220,7 +3040,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-066
 
 - id: c-171584
@@ -3242,7 +3062,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-067
 
 - id: c-171585
@@ -3270,7 +3090,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-068
 
 - id: c-176307
@@ -3290,7 +3110,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-069
 
 - id: c-178838
@@ -3326,7 +3146,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-072
 
 - id: c-184057
@@ -3336,9 +3156,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindžia:
+  pagrindzia:
     - t-073
 
 - id: c-184410
@@ -3365,7 +3184,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-074
 
 - id: c-184942
@@ -3384,7 +3203,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-075
 
 - id: c-184943
@@ -3400,7 +3219,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-076
 
 - id: c-184944
@@ -3419,7 +3238,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-077
 
 - id: c-184945
@@ -3438,7 +3257,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-078
 
 - id: c-186347
@@ -3457,7 +3276,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-079
 
 - id: c-186692
@@ -3477,7 +3296,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-080
 
 - id: c-186960
@@ -3501,7 +3320,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-081
 
 - id: c-187846
@@ -3520,7 +3339,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-082
 
 - id: c-188149
@@ -3539,7 +3358,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-083
 
 - id: c-188380
@@ -3559,7 +3378,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-084
 
 - id: c-188381
@@ -3587,7 +3406,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-085
 
 - id: c-188382
@@ -3606,7 +3425,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-086
 
 - id: c-189088
@@ -3625,7 +3444,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-087
 
 - id: c-189089
@@ -3641,7 +3460,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-088
 
 - id: c-189090
@@ -3660,7 +3479,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-089
 
 - id: c-189091
@@ -3678,7 +3497,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-090
 
 - id: c-189092
@@ -3694,7 +3513,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-091
 
 - id: c-189093
@@ -3712,337 +3531,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-092
-
-- id: c-190194
-  autorius: "Alfredas Bumblauskas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
-  puslapiai: "PDF 270"
-  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 270."
-  citata_originali: |
-    Negalima reikšti pretenzijų ir dėl to, kad Lietuvos Brastoje, tapusio-
-    je Rusijos imperijos pasienio miestu, buvo nušluotas visas senamiestis, o jo vietoje atsirado
-    SSRS ir Vokietijos karo pradžioje išgarsėjusi Bresto tvirtovė. Apskritai XX a. pasauliniai
-    karai baisiai nusiaubė LDK paveldą Baltarusijoje – Pirmojo pasaulinio karo frontas ėjo tie-
-    siai per Krėvos pilį, po karų dingo Kleckas, Valkaviskas, didingasis Radvilų Sluckas. Tačiau
-    kai, regis, ką tik – XX a. penktojo–šeštojo dešimtmečio sandūroje buvo nugriauta Pinsko
-    jėzuitų bažnyčia ar Gardino centre sunaikintas vienas iš svarbiausių Vytauto laikų paveldo
-    objektų – gotikinė Gardino parapinė bažnyčia, jau darosi liūdna.
-  citata_rodoma: "kai, regis, ką tik – XX a. penktojo–šeštojo dešimtmečio sandūroje buvo nugriauta Pinsko \njėzuitų bažnyčia ar Gardino centre sunaikintas vienas iš svarbiausių Vytauto laikų paveldo \nobjektų – gotikinė Gardino parapinė bažnyčia, jau darosi liūdna."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207577
-
-- id: c-190394
-  autorius: "Jūratė Kiaupienė"
-  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
-  puslapiai: "PDF 201"
-  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 201."
-  citata_originali: |
-    Tokiame kontekste geriausias jam atrodo Austrijos dinastijos atstovas,
-    nes „visada geresnis tas, kurio senelis ir prosenelis valdovu buvo"
-    46.
-    Po poros savaičių jaunasis Radvila džiaugiasi, kad į Knyšiną liepos 28 d. atvažiavo
-    Žemaitijos seniūnas J. Chodkevičius, kuris, esant tokiems įtemptiems santykiams su
-    lenkais, Knyšine labai reikalingas, nes „ten mūsų lietuviško kailio likimas sprendžiasi".
-    Iš šio laiško taip pat sužinome, kad Našlaitėlis palaikė ryšius su imperatoriaus pasiunti-
-    niu J. Cyru, kuris taip pat buvo Knyšine, iš kur išvyko į Gardiną susitikti su kitais
-    Lietuvos Didžiosios Kunigaikštystės dignitoriais, sužinome ir tai, kad imperatorius ga-
-    vo Radvilos Rudojo laišką.
-  citata_rodoma: "Našlaitėlis palaikė ryšius su imperatoriaus pasiunti-\nniu J. Cyru, kuris taip pat buvo Knyšine, iš kur išvyko į Gardiną susitikti su kitais\nLietuvos Didžiosios Kunigaikštystės dignitoriais, sužinome ir tai, kad imperatorius ga-\nvo Radvilos Rudojo laišką."
-  statusas: verified
-  atnaujinta: "2026-09-13 18:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-207988
-
-- id: c-190649
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 51"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 51."
-  citata_originali: |
-    Tribunolo maršalas buvo Kauno
-    seimelyje penkis kartus iš eilės rinktas deputatas. Vis dėlto didikų grupuotėms
-    rinkimai Kauno pasiuntinių seimelyje didesnės reikšmės neturėjo.
-    Didikų grupuotėms politiškai svarbūs buvo rinkimai Gardino ir Slanimo
-    pasiuntinių seimeliuose.
-  citata_rodoma: "Didikų grupuotėms politiškai svarbūs buvo rinkimai Gardino ir Slanimo \npasiuntinių seimeliuose."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208132
-
-- id: c-190651
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 51"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 51."
-  citata_originali: |
-    Augusto III valdymo pabaigoje seimelių ir Tribunolo kampanijose Radviloms
-    svarbiausias buvo Slanimo seimelis. Nuo 1740 m. Gardino pasiuntinių seimelis
-    nebuvo „sužlugdytas", jame pasiuntiniais dažniausiai būdavo renkami Familijos
-    šalininkai, neretai šios didikų grupuotės lyderiai.
-  citata_rodoma: "Nuo 1740 m. Gardino pasiuntinių seimelis \nnebuvo „sužlugdytas\", jame pasiuntiniais dažniausiai būdavo renkami Familijos \nšalininkai, neretai šios didikų grupuotės lyderiai."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208033
-
-- id: c-190652
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 143"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 143."
-  citata_originali: |
-    1 4 4
-    X V I I I amžiaus studijos 1
-    Lietuvos konfederacijos vadovybė taip pat ėmėsi iki Ketverių metų seimo
-    veikusių institucijų restitucijos: buvo paskelbta apie visų buvusių bendrų valstybi­
-    nių institucijų atskyrimą ir Lietuvos pareigūnų sugrąžinimą iš Varšuvos j Gardiną.
-    179z m. rugpjūčio 14 d. Lietuvos generalinės konfederacijos vardu buvo duotas
-    jsakymas Lietuvos pareigūnams prisiekti ištikimybę Respublikai ir paklusnumą
-    Lietuvos konfederacijai. Atskirta nuo Karūnos Lietuvos iždo komisija j Gardiną
-    sugrįžo ir veiklą atnaujino 1791 m. rugsėjo 15 d.
-    Išvados
-    Įsteigus Įstatymų sargybą iždo administravimo struktūroje esminių pakeitimų
-    nebuvo įvesta, kadangi šios institucijos Iždo ministro skyrius iš esmės perėmė
-    panaikintos Nuolatinės tarybos Iždo departamento funkcijas.
-  citata_rodoma: "Atskirta nuo Karūnos Lietuvos iždo komisija j Gardiną \nsugrįžo ir veiklą atnaujino 1791 m. rugsėjo 15 d."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208063
-
-- id: c-190681
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 51"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 51."
-  citata_originali: |
-    Didikų grupuotėms politiškai svarbūs buvo rinkimai Gardino ir Slanimo
-    pasiuntinių seimeliuose. Būtent juose pasiuntiniais dažnai buvo tcnkornxFamilijos
-    (Čartoriskiai ir kt.) bei Radvilų grupuočių lyderiai. Ypač dažnai žlugdomi buvo
-    Gardino ir Slanimo pavietų Grabnyčių seimeliai.
-  citata_rodoma: "Ypač dažnai žlugdomi buvo \nGardino ir Slanimo pavietų Grabnyčių seimeliai."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208073
-
-- id: c-190804
-  autorius: "sudarytojas nenurodytas"
-  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
-  puslapiai: "PDF 251"
-  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 251."
-  citata_originali: |
-    Lietuvos Didžiosios Kunigaikštystės architektų praktinės veiklos baras.
-    Minėtas priežasris puikiai iliustruoja architekto J. Fontanos pavyzdys. J. Fon­
-    tana, prieš atvykdamas į Lietuvos sostinę, veikiausiai dirbo Gardine.
-  citata_rodoma: "J. Fon­\ntana, prieš atvykdamas į Lietuvos sostinę, veikiausiai dirbo Gardine."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208087
-
-- id: c-190832
-  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
-  puslapiai: "PDF 230"
-  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 230."
-  citata_originali: |
-    Pajutęs maskvėnų
-    keliamą grėsmę, iš savo Valkininkų vienuolyno nusprendė pasitraukti gvardijonas
-    Bonaventūra Švideris. Ilgą laiką niekas nežinojo, kur jis dingo. Galiausiai buvo
-    aptiktas jo lavonas, kuris nugabentas į Gardino vienuolyną, kur ir buvo palaidotas
-    paskutinėmis 1706 m. balandžio dienomis38.
-  citata_rodoma: "Galiausiai buvo \naptiktas jo lavonas, kuris nugabentas į Gardino vienuolyną, kur ir buvo palaidotas \npaskutinėmis 1706 m. balandžio dienomis38."
-  statusas: verified
-  atnaujinta: "2026-09-08 15:24"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208229
-
-- id: c-193529
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 79"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 79."
-  citata_originali: |
-    Didysis kunigaikštis Vytautas
-    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
-    dįjį kunigaikštį Kęstutį.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211439
-
-- id: c-193693
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 142."
-  citata_originali: |
-    Būdamas Gardine, pajuto, kad iš tos ligos nebesi­
-    kels, ir, pasišaukęs į miegamąjį savo Lietuvos Didžio­
-    sios Kunigaikštystės Tarybos ponus
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-210462
-
-- id: c-193817
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 78"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78."
-  citata_originali: |
-    Ir, tai taręs, didysis
-    kunigaikštis Vytautas išvyko į Gardiną ir į Drohi-
-    činą
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 19:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211792
-
-- id: c-199285
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 452"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 452."
-  citata_originali: |
-    Arčiausiai jo yra
-    Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­
-    mos. Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip
-    įprasta tame krašte.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-200063
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
-  citata_originali: |
-    Romanas Sanguška kovojo kruvinus mū­
-    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
-    seime parengęs abiejų tautų žygį, rudenį su ka­
-    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
-    daškovičius; ten jis susitiko su caro pasiuntiniais,
-    pareiškusiais pageidavimą taikytis. Nors karalius
-    nenutraukė karo veiksmų, už kuriuos stojo San­
-    guška ir Jonas Chodkevičius, tačiau, matyt, sku­
-    bėjo sušaukti seimą Gardine dar 1567 metų pa­
-    baigoje, išsiuntinėjęs universalus Lietuvai. Čia ap­
-    rašomas seimas pradėjo posėdžiauti 1568 metų pa­
-    vasarį, nes Gardino archyvuose yra likęs pėdsa­
-    kas, jog tų metų balandžio 28 dieną karaliaus bū­
-    ta Gardine.
-  statusas: verified
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-216599
-    - t-219587
-
-- id: c-200889
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 182"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
-  citata_originali: |
-    Lydos ir Gardino apskričių sandūroje yra didelis ežeras,
-    vadinamas Kobeliu.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-215967
-
-- id: c-201190
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 514"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
-  citata_originali: |
-    Tame vei­
-    kale turėtų būti ir Vilniaus vaizdas. Po trumpo
-    miesto aprašymo ir žinutės apie Lietuvos seimą,
-    posėdžiavusį Gardine 1567 metais (Ar posėdžia­
-    vo seimas Gardine 1567 metais, buvo abejonių,
-    kurių vien kronikos nepašalino. Iš tikrųjų tais me­
-    tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
-    ir sėkmingai posėdžiavęs.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-12 23:45"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-- id: c-203082
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 253"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253."
-  citata_originali: |
-    6. Apie Gardino pilies apylinkių nusiaubimą
-
-      Tuo metu 60 brolių ir būrys vyrų iš Prūsijos patraukė link Gardino pilies, tačiau, patyrę,
-    jog tie perspėti, pasiuntė 400 vyrų, kurie įsiveržė į šios pilies apylinkes, apiplėšė jas ir
-    sugrįžo ten, kur stovėjo brolių kariuomenė. Kitą dieną, kai lietuviai, manydami, jog
-    broliai bus patraukę  į savo žemę, ėjo  į savo laukus, broliai su visa savo kariuomene
-    užgriuvo mūsų minėtą žemę ir per šešias mylias ją nusiaubė, degindami bei grobdami.
-  statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
-  atnaujinta: "2026-09-13 18:02"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

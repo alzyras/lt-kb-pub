@@ -28,6 +28,21 @@ media_all_json: |-
 
 Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėtis kultūroje ėmė švelnėti tik šeštojo dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
 
+## Teiginiai
+
+<a id="claim-t-193602"></a>
+- t-001
+  teiginys: "Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-176275
+
 ## Citatos
 
 - id: c-24798
@@ -55,7 +70,6 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
 - id: c-176275
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -70,4 +84,5 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  pagrindzia:
+    - t-001

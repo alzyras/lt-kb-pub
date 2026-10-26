@@ -107,7 +107,7 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
 
@@ -126,6 +126,5 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-

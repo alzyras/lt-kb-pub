@@ -69,6 +69,5 @@ Dancigiečiai patys muitų nerinko, jie buvo pavedę tai Dovydui Šmerlevičiui,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
