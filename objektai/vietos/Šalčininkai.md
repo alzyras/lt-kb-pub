@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Šalčininkai'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
   - '1382 m.'
 date_start: '1382'
@@ -47,7 +48,7 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
 <a id="claim-t-85644"></a>
 - t-001
   teiginys: "1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -62,6 +63,45 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
   pagrindžia:
     - c-81627
+
+<a id="claim-t-233844"></a>
+- t-002
+  teiginys: "Jokūbas iš Sialeco išvijo haidamakus iš Lydos, o haidamakai su savo vadu pasislėpė Šalčininkų miškuose."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:47Z"
+  pagrindžia:
+    - c-216664
+
+<a id="claim-t-233845"></a>
+- t-003
+  teiginys: "Ašmenos link veržęsi kariai pasuko į Šalčininkus, juos sudegino, pakeliui naikino viską ir žudė žmones, kuriuos Narbutas vadina nekaltais."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:47Z"
+  pagrindžia:
+    - c-216665
+
+<a id="claim-t-233846"></a>
+- t-004
+  teiginys: "Narbutas Šalčininkus priskiria anuomet garsiems valsčiams ir mėgstamoms kaimiško gyvenimo vietoms, remdamasis čia kryžiuočiams rašytų laiškų datomis."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:47Z"
+  pagrindžia:
+    - c-216666
 
 ## Citatos
 
@@ -79,9 +119,45 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
     Šalčininkus ir Trakus buvo pasiekę. Vilniui grėsė naujas
     pavojus.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-216664
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 20"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 20."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-002
+
+- id: c-216665
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 113."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003
+
+- id: c-216666
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 444"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 444."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

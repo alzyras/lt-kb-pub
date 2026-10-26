@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Austrija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1717 m.'
@@ -35,7 +36,7 @@ canonical_name: "Austrija"
 entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Austrija"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q40"]
 canonical_biography: "Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reformas, Rusija rėmė: ji nenorėjo, kad per didele netvarka naudotųsi kiti kaimynai (Prūsija ir Austrija), ir tikėjosi, kad susitvarkęs kraštas liks jos vienos įtakoje, nes visą laiką bus reikalingas jos paramos."
 place_authority: true
 historical_names: []
@@ -51,7 +52,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 <a id="claim-t-182067"></a>
 - t-001
   teiginys: "Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,7 +68,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 <a id="claim-t-182996"></a>
 - t-002
   teiginys: "Austrijos Juozapas II vykdė reformas, kuriomis net Bažnyčią pajungė valstybės valdžiai."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,6 +76,32 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-24050
+
+<a id="claim-t-233413"></a>
+- t-003
+  teiginys: "Narbutas Austrijos kunigaikščiu vadina Ernestą ir rašo, kad Ernestas į Krokuvą atvyko tarsi privačiai ir iš įdomumo, o susitikęs su lenkų senatoriais pareiškė ketinąs vesti Cimbarką."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:37Z"
+  pagrindžia:
+    - c-216233
+
+<a id="claim-t-233414"></a>
+- t-004
+  teiginys: "Narbutas Zigmantą vadina karaliumi ir nurodo, kad Zigmantas su Barbora sausio 22 d. atvyko lydimas Vokietijos imperijos kunigaikščių bei Čekijos, Vengrijos, Austrijos, Kroatijos ir kitų jam pavaldžių šalių magnatų."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:37Z"
+  pagrindžia:
+    - c-216234
 
 ## Citatos
 
@@ -109,9 +136,33 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
     visai naują epochą Lietuvos istorijoje.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-216233
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 262."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003
+
+- id: c-216234
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 411"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 411."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

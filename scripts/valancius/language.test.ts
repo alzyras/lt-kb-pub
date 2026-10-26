@@ -20,7 +20,7 @@ test('all four approved titles retain distinct URLs, dates and publication metad
     assert.equal(data.seo_title,title)
     assert.equal(data.noindex,false)
     assert.equal(data.statusas,'paskelbta')
-    assert.equal(data.atnaujinta,'2026-09-20')
+    assert.equal(data.atnaujinta,'2026-09-30')
     assert.equal(data.sukurta,'2026-09-13')
     assert.equal(new Date(data.date).toISOString().slice(0,10),'2026-09-20')
     assert.equal(data.relatedContent.length,4)

@@ -3,6 +3,8 @@ tipas: zodyno_irasas
 pavadinimas: 'chanas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +34,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 <a id="claim-t-78881"></a>
 - t-001
   teiginys: "Aukso ordos chanas Timūr-Kutlukas įsijungė į mūšį su didele totorių jėga ir nugalėjo Vytautą bei Lietuvos kariuomenę."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -48,7 +50,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 <a id="claim-t-78882"></a>
 - t-002
   teiginys: "Prieš mūšį Vytautas pokalbyje su chanu Timūr-Kutluku tarsi reikalavo pavaldumo ir Ordos pinigų žymėjimo Vytauto ženklu."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.58"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,7 +67,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 <a id="claim-t-78883"></a>
 - t-003
   teiginys: "Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Edyga: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -78,6 +80,31 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   semantiniai_rysiai: "Totorių pajėgos priklausė Edyga (0.82); Totorių pajėgos priklausė Auksinė Orda (0.76)"
   pagrindžia:
     - c-75998
+
+<a id="claim-t-210598"></a>
+- t-004
+  teiginys: "Vieto vardis primena totorių-mongolų chano Batu karvedį Kaidaną."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193587
+
+<a id="claim-t-233123"></a>
+- t-005
+  teiginys: "Narbuto pasakojimu, monarchai sutiko sudaryti taiką su Edyga, kuris, patvirtintas chanu, pažadėjo būti priklausomas nuo Lietuvos didžiojo kunigaikščio."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:48Z"
+  pagrindžia:
+    - c-215943
 
 ## Citatos
 
@@ -96,7 +123,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     nugalėjo caras Timūr-Kutlukas, nugalėjo
     Vytautą ir visą Lietuvos jėgą“.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,9 +172,38 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     siuntė Vytautui daug galvijų, jaučių, avių,
     sveikino jį.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-193587
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 196."
+  citata_originali: |
+    XVI a. buvo | šiaurę nuo Naugarduko vaivadijos sienos. Vieto­
+    vardis primena totorių-mongolų chano Batu karvedį Kaidaną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-215943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 343"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 343."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005

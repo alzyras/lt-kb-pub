@@ -1,22 +1,24 @@
 ---
 tipas: vieta
-pavadinimas: Dubysa
+pavadinimas: 'Dubysa'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - 1236 m.
-  - 1350 m.
-  - 1363 m.
-  - 1377 m.
-  - 1382 m.
-  - 1413 m.
-  - 2026 m.
-date_start: '1236'
+  - '1350 m.'
+  - '1363 m.'
+  - '1377 m.'
+  - '1382 m.'
+  - '1406 m.'
+  - '1413 m.'
+  - '2026 m.'
+date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -25,44 +27,29 @@ tags:
   - pilis
   - upė
 amziai:
-  - XIII
-  - XXI
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-d416640b6546beebf7881df3
-canonical_name: Dubysa
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Dubysa
-  - Dubysos
-  - Dubysos upė
-  - Dubysos upės
-sameAs: []
-canonical_biography: 'Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pilių juostos orientyras ir 1382 m. sutartyje apibrėžta riba.'
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-d416640b6546beebf7881df3"
+canonical_name: "Dubysa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubysa","Dubysos","Dubysos upė","Dubysos upės"]
+sameAs: ["https://www.wikidata.org/entity/Q1263309"]
+canonical_biography: "Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pilių juostos orientyras ir 1382 m. sutartyje apibrėžta riba."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Dubysa","url":"https://lt.wikipedia.org/wiki/Dubysa","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Dubysa","url":"https://www.vle.lt/straipsnis/dubysa/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-19T04:34:46+00:00","source_checked_at":"2026-09-19T04:34:46+00:00","counts":{"relations":4,"gallery":0,"sources":8},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Dubysa – upė Vidurio Lietuvoje, tekanti Žemaitijoje; Nemuno dešinysis intakas. Ilgis 130,9 km (14-oji pagal ilgį Lietuvos upė). Prasideda Šiaulių rajone, 4 km į šiaurės vakarus nuo Rėkyvos ežero, iš Bubių tvenkinio, ties užtvanka. Teka į pietus per Kelmės rajoną, pro Lyduvėnus, Betygalą, Ariogalą (Raseinių rajonas), Gėluvą. Žemupys skiria Jurbarko ir Kauno rajonus. Įteka į Nemuną 167,5 km nuo jo žiočių, ties Seredžiumi.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"29103","revision_id":"7799079","status":"published","translation_status":"native","source":{"title":"Dubysa","url":"https://lt.wikipedia.org/wiki/Dubysa","publisher":"Vikipedija","language":"lt","article_id":"29103","revision_id":"7799079","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7799079","history_url":"https://lt.wikipedia.org/w/index.php?title=Dubysa&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:18:02.899265+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"5e4369a9163b5a236e290f0ba5a8934eb1d1f84e33806d30b150629cbb22b1e3","version_pk":"6358c8681e974dc1d9178f7ecb7d9fb3"}},"source_buttons":[{"label":"Vikipedija","title":"Dubysa","url":"https://lt.wikipedia.org/wiki/Dubysa","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Dubysa","url":"https://www.vle.lt/straipsnis/dubysa/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Dubysa","https://www.vle.lt/straipsnis/dubysa/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0a72e51d9a6e67b402b8046c","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dubysa turi žiotis ir žemupį; jos žemupys apibūdinamas kaip atskiriantis dyk­rą nuo toliau prasidedančių gyvenviečių.","context":"Zenono Ivinskio aprašymas, kalbant apie laikotarpį po 1363 m. Peštvės ir Veliuonos pilių sunaikinimo.","support_ids":["t-179816","c-163457"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179816","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163457","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"** (^256) n skyrius: valstybės iškilimas Atrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­ rianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo (1363). Tada jau visas pietvakarių Žemaičių plotas, ištisai prijungiant ir Mituvos baseiną, buvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra, kurioje nebeliko pastovių sodybų ir kaimų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4f56f70b9a6aaf213da012dc","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dubysos žemupio aplinkoje buvo suverstų medžių užtvara.","context":"Zenono Ivinskio spėjimas apie užtvarą po 1363 m.; autorius vartoja neapibrėžtą vertinimą „atrodo“ arba „veikiausiai“.","support_ids":["t-179816","c-163457"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179816","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163457","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"** (^256) n skyrius: valstybės iškilimas Atrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­ rianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo (1363). Tada jau visas pietvakarių Žemaičių plotas, ištisai prijungiant ir Mituvos baseiną, buvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra, kurioje nebeliko pastovių sodybų ir kaimų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"54a44d04969116c8a2da71ac","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Dubysos žemupio apylinkės po 1363 m. apibūdintos kaip dykra, kurioje nebeliko pastovių sodybų ir kaimų; ją lankė bitininkai, medžiotojai ir žvejai.","context":"Zenono Ivinskio istorinis aprašymas apie pietvakarių Žemaitiją po Peštvės ir Veliuonos pilių sunaikinimo 1363 m.","support_ids":["t-179816","c-163457"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179816","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163457","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"** (^256) n skyrius: valstybės iškilimas Atrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­ rianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo (1363). Tada jau visas pietvakarių Žemaičių plotas, ištisai prijungiant ir Mituvos baseiną, buvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra, kurioje nebeliko pastovių sodybų ir kaimų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ad389d4e513bd6d02c7dc122","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Prie Dubysos žiočių aprašyta graži lyguma, išsidriekusi pakrantėmis.","context":"Alberto Vijūko-Kojelavičiaus aprašymas; tai autoriaus vertinamasis aplinkos apibūdinimas.","support_ids":["t-184949","c-168310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184949","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168310","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Taigi šitie arba kiti (apskritai nieko ne­ drįstu tokiu neaišku reikalu tvirtai sakyti), Venedų, arba Baltijos, jūra įplaukę neplačiu sąsiauriu į Kuršių įlanką, palei krantą nusigavo į Nemuno, arba Chrono, žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų. Plaukdami prieš srovę į krašto gilumą, prie Dubysos žiočių, patogioje vietoje, pakrantėmis išsidriekusioje gražioje lygumoje, padėjo savo naujos sodybos pama­ tus. Toji sodyba, tada vadinama R om a n o va , paskui Romnove bei Romove, vėliau tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine, kurią, Gediminui vieš- pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­ liai…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"70a11f75a8e0a0c1645fcb87","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dubysa minima kaip upė, kurios žiotyse yra sala arba salelė.","context":"Šaltiniuose aprašomi 1382 m. įvykiai Dubysos žiočių saloje ir Dubysos upės salelėje.","support_ids":["t-179806","c-163460","t-179812","c-163456"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179806","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-179812","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163460","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Suvažiavus gausiam kryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino maršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­ mas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių dienų derybų buvo surašytos trys sutartys^19."},{"kind":"evidence","evidence_id":"c-163456","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­ duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­ 36 Klausimas, ar Kęstutis pats pasirin­ kęs mirtį, - juk Skirgaila, važiavęs jo aplankyti, netikėtai rado negyvą, ar nužudytas, o jo žmona kunigaikš­ tienė Birutė paskandinta, - nėra iki šiol aiškus ir rašantiesiems Lietuvos istoriją dera jo imtis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"004b6b15d997f088175f60c4","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dubysos baseinas apėmė dalį Žemaitijos teritorijos.","context":"Zenono Ivinskio istorinis teritorijos aprašymas.","support_ids":["t-179822","c-163463"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179822","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163463","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y. Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6ac72893e35ef2bd70ea816e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dubysa turi aukštupį; šaltinyje minimas Dubysos aukštupio regionas.","context":"Karolio Zikaro sudaryto veikalo aprašymas apie Saulės mūšio gynybos variantą.","support_ids":["t-179814","c-163459"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179814","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-163459","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"SAULĖS (ŠIAULIŲ) MUSIS 21 va AS al o a4 mn z o o © a o = = iki Vytauto imperijos ## Puslapis 24 (Upytės) ir Dubysos (Šiaulių) aukštu- pių regionus. Pirmuoju atveju - gynyba iš esmės tektų Mindaugo vadovaujamai kariuomenei, o juos paremtų žemaičių raiteliai; antruoju atveju - pagrindinė gynybos našta tektų žemaičiams, vado- vaujamiems Vykinto, juos vėliau paremtų Mindaugo raiteliai. Kadangi priešas įsi- veržė į Dubysos aukštupį, tad buvo akty- vuotas antrasis gynybos variantas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"52418805fde80321570b831d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Dubysa buvo naudojama kaip kelias plaukti iš Nemuno iki Aukokalnio ties dabartine Betygala.","context":"1413 m. Vytauto ir Jogailos kelionės aprašymas; šaltinis nurodo, kad jie keliavo Dubysa.","support_ids":["t-179809","c-163454"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179809","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-163454","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Tačiau Vytautas dar dvejus metus už­ truko su kitais reikalais (Horodlės unija ir Makro lankymasis) ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją. Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."}],"status":"published","conflict_status":"clear"},{"trait_id":"613f3dbe086ba1d0f9fa0c2e","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Dubysos krantuose buvo pilys, kurias Vytautas liepė atnaujinti.","context":"Vytauto veiksmų aprašymas; šaltinis nenurodo konkrečių visų pilių pavadinimų.","support_ids":["t-179826","c-163469"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179826","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-163469","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Vytautas, norėdamas geriau juose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­ ti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"703aedd1bb16b99e077458a5","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Dubysos žiotyse, Seredžiuje, buvo atstatyta Peštvė.","context":"Zenono Ivinskio aprašymas; Peštvė nuo XIX a. šaltinyje vadinama Palemono kalnu.","support_ids":["t-179808","c-163458"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179808","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163458","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tuo pat metu, kai kryžiuočiai įrodinėjo, kad dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje) atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2. Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­ tęs prieš vokiečius »."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-179759","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179759","confidence":0.76},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-179820","confidence":0.68},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-32644","confidence":0.74}],"timeline":[{"date":"1363 m.","label":"Dubysos žemupyje suverstų medžių užtvara veikiausiai buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo 1363 m.","claimId":"t-179816"},{"date":"1363 m.","label":"Po Peštvės ir Veliuonos pilių sunaikinimo 1363 m.","claimId":"t-179817"},{"date":"1382 m.","label":"Dubysos žiočių saloje 1382 m.","claimId":"t-179806"},{"date":"1382 m.","label":"1382 m.","claimId":"t-179812"},{"date":"1382 m.","label":"1382 m.","claimId":"t-179819"},{"date":"1382 m.","label":"1382 m.","claimId":"t-179823"},{"date":"1413 m.","label":"1413 m.","claimId":"t-179824"}],"support_disclosure":{"claims":23,"sources":6}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: e1c8f34d1f5f9b39
-object_page_generated_at: '2026-09-19T04:34:46+00:00'
-object_page_source_checked_at: '2026-09-19T04:34:46+00:00'
-object_page_content_state: content
-object_page_claim_count: '23'
-object_page_source_count: '6'
-object_page_seo_description: 'Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pilių juostos orientyras ir 1382 m. sutartyje apibrėžta riba. Šaltinių citatos.'
-object_page_seo_input_hash: a85397b5c56d688baeccb3941fb15f1a5ff5bcface523b4b949cdb01b8e68589
-object_page_seo_generated_at: '2026-09-19T04:34:46+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Dubysa
 
@@ -75,7 +62,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 <a id="claim-t-179804"></a>
 - t-001
   teiginys: "Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Veliuona: 0.79"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -92,7 +79,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 <a id="claim-t-179806"></a>
 - t-002
   teiginys: "Dubysos žiočių saloje 1382 m. spalio 31 d. po šešių dienų derybų buvo surašytos trys sutartys."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konradas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,7 +98,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 <a id="claim-t-179807"></a>
 - t-003
   teiginys: "Kryžiuočių viršininkas, Ordino kapitulai sutikus, pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Alšėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -127,7 +114,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 <a id="claim-t-179808"></a>
 - t-004
   teiginys: "Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Palemonas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -139,12 +126,11 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163458
-    - c-163470
 
 <a id="claim-t-179809"></a>
 - t-005
   teiginys: "Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Aukokalnis: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -154,14 +140,14 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   ryšio_targeto_parinkimas: "Aukokalnis: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Jogaila yra tarp keliaujančiųjų, o maršrutas tiesiogiai veda iki Aukokalnio."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis (0.82); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Aukokalnis (0.82); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.81); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.81)"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Aukokalnis (0.82); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis (0.82); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.81); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.81)"
   pagrindžia:
     - c-163454
 
 <a id="claim-t-179812"></a>
 - t-006
   teiginys: "1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -180,7 +166,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 <a id="claim-t-179813"></a>
 - t-007
   teiginys: "Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -193,29 +179,10 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - c-163464
 
-<a id="claim-t-179814"></a>
-- t-008
-  teiginys: "Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Dubysos aukštupį ir pasirinktą gynybos variantą."
-  pagrindžia:
-    - c-163459
-
 <a id="claim-t-179815"></a>
-- t-009
+- t-008
   teiginys: "Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio."
-  atnaujinta: "2026-05-31 14:18"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "aukstas"
@@ -225,14 +192,14 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata nurodo, kad Vytautas kartu su Jogaila keliavo į Kauną."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.83); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.83); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis (0.82); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Aukokalnis (0.82)"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.83); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.83); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis (0.82); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Aukokalnis (0.82)"
   pagrindžia:
     - c-163474
 
 <a id="claim-t-179816"></a>
-- t-010
+- t-009
   teiginys: "Dubysos žemupyje suverstų medžių užtvara veikiausiai buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo 1363 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Peštvė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -249,9 +216,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163457
 
 <a id="claim-t-179817"></a>
-- t-011
+- t-010
   teiginys: "Po Peštvės ir Veliuonos pilių sunaikinimo 1363 m. Dubysos žemupyje, atrodo, buvo padaryta suverstų medžių užtvara."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mituva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -268,9 +235,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163457
 
 <a id="claim-t-179818"></a>
-- t-012
+- t-011
   teiginys: "Jogaila turėjo Prūsų kryžiuočiams užleisti Žemaičių plotą tarp Livonijos ir Prūsų iki Dubysos upės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -284,9 +251,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163467
 
 <a id="claim-t-179820"></a>
-- t-013
+- t-012
   teiginys: "Konradas Zöllneris von Rotensteinas su komtūrais ir dviem vyskupais išsirengė į Dubysos salą krikštyti lietuvių kunigaikščių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Dubysa: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -301,9 +268,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163464
 
 <a id="claim-t-179821"></a>
-- t-014
+- t-013
   teiginys: "Naujoji Marienburgo pilis stovėjo prie Nemuno, žemiau Dubysos įtakos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -317,9 +284,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163472
 
 <a id="claim-t-179822"></a>
-- t-015
+- t-014
   teiginys: "Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Minija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -333,9 +300,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163463
 
 <a id="claim-t-179823"></a>
-- t-016
+- t-015
   teiginys: "1382 m. spalio 31 d. Dubysos žiočių saloje po šešių dienų derybų buvo surašytos trys sutartys."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konradas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -352,9 +319,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163460
 
 <a id="claim-t-179824"></a>
-- t-017
+- t-016
   teiginys: "1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Aukokalnis: 0.83"
   ryšio_patikimumo_lygis: "aukstas"
@@ -372,9 +339,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163454
 
 <a id="claim-t-179826"></a>
-- t-018
+- t-017
   teiginys: "Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose pilis."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -388,9 +355,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     - c-163469
 
 <a id="claim-t-184949"></a>
-- t-019
+- t-018
   teiginys: "Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -406,10 +373,36 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - c-168310
 
-<a id="claim-t-188687"></a>
+<a id="claim-t-206465"></a>
+- t-019
+  teiginys: "Pasak Teodoro Narbuto, didysis kunigaikštis su motina ir broliais visam laikui perleido Vokiečių ordinui vakarinę Žemaitijos dalį, kurios riba siekė Dubysos žiotis."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189080
+
+<a id="claim-t-206466"></a>
 - t-020
+  teiginys: "Pasak Teodoro Narbuto, rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo abu didieji kunigaikščiai – Vytautas ir Skirgaila, o Ordinui – maršalka Verneris Tetingenas su vyresniaisiais."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189081
+
+<a id="claim-t-215982"></a>
+- t-021
   teiginys: "Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -423,34 +416,121 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Palemonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171576
+    - c-198101
 
-<a id="claim-t-206465"></a>
-- t-021
-  teiginys: "Pasak Teodoro Narbuto, didysis kunigaikštis su motina ir broliais visam laikui perleido Vokiečių ordinui vakarinę Žemaitijos dalį, kurios riba siekė Dubysos žiotis."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189080
-
-<a id="claim-t-206466"></a>
+<a id="claim-t-233449"></a>
 - t-022
-  teiginys: "Pasak Teodoro Narbuto, rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo abu didieji kunigaikščiai – Vytautas ir Skirgaila, o Ordinui – maršalka Verneris Tetingenas su vyresniaisiais."
-  atnaujinta: "2026-08-16 22:50"
+  teiginys: "Pasak Narbuto, Lietuvos kariuomenė, kurioje buvo karaliaus atsiųstas lenkų būrys, susijungė su Ordino maršalu prie Dubysos žiočių."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
   pagrindžia:
-    - c-189081
+    - c-216269
 
+<a id="claim-t-233450"></a>
+- t-023
+  teiginys: "Narbutas pasakoja, kad 1406 m. didysis kunigaikštis padėjo statyti tvirtovę prie Dubysos."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-216270
+
+<a id="claim-t-233451"></a>
+- t-024
+  teiginys: "Teodoras Narbutas visą svitą apibūdino kaip apaštalaujančią ir rašė, kad ji plaukė Nemunu žemyn iki Dubysos žiočių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:38Z"
+  pagrindžia:
+    - c-216271
+
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    SAULĖS (ŠIAULIŲ) MUSIS 21
+
+    va
+    AS
+    al
+    o
+    a4
+    mn
+    z
+    o
+    o
+    ©
+    a
+    o
+    =
+    =
+
+    iki Vytauto imperijos
+
+    ## Puslapis 24
+
+    (Upytės) ir Dubysos (Šiaulių) aukštu-
+    pių regionus. Pirmuoju atveju - gynyba
+    iš esmės tektų Mindaugo vadovaujamai
+    kariuomenei, o juos paremtų žemaičių
+    raiteliai; antruoju atveju - pagrindinė
+    gynybos našta tektų žemaičiams, vado-
+    vaujamiems Vykinto, juos vėliau paremtų
+    Mindaugo raiteliai. Kadangi priešas įsi-
+    veržė į Dubysos aukštupį, tad buvo akty-
+    vuotas antrasis gynybos variantas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-012
+  santrauka: 'Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytautas teigė, jog pati Klaipėda priklausanti
+    Žemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
+    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
+    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
+    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-018
+  santrauka: 'Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Dėl šito nėra abejonės, kadangi Biarmija,
+    turtinga senovinė šalis, garsėjanti IX ir X amžių šiaurės sago­
+    se10, turėjo savo raštą, apie kurį teks dar kartą išsamiau kalbė­
+    ti. Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?
+    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
+    užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę­
+    sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir
+    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
+    kraštams.
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-37358
@@ -467,11 +547,11 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     Čia atvyko ir Vytauto jauniausias brolis Zigmantas, čia persi­
     kraustė ir Alšėnų kunigaikštis ir kiti.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-163454
@@ -489,13 +569,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
-    - t-017
+    - t-016
 
 - id: c-163456
   autorius: "Michał Baliński"
@@ -528,7 +608,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-163457
@@ -554,9 +634,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-009
     - t-010
-    - t-011
 
 - id: c-163458
   autorius: "Zenonas Ivinskis"
@@ -577,54 +657,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
-
-- id: c-163459
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 23-24"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23-24."
-  citata_originali: |
-    1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MUSIS 21
-
-    va
-    AS
-    al
-    o
-    a4
-    mn
-    z
-    o
-    o
-    ©
-    a
-    o
-    =
-    =
-
-    iki Vytauto imperijos
-
-    ## Puslapis 24
-
-    (Upytės) ir Dubysos (Šiaulių) aukštu-
-    pių regionus. Pirmuoju atveju - gynyba
-    iš esmės tektų Mindaugo vadovaujamai
-    kariuomenei, o juos paremtų žemaičių
-    raiteliai; antruoju atveju - pagrindinė
-    gynybos našta tektų žemaičiams, vado-
-    vaujamiems Vykinto, juos vėliau paremtų
-    Mindaugo raiteliai. Kadangi priešas įsi-
-    veržė į Dubysos aukštupį, tad buvo akty-
-    vuotas antrasis gynybos variantas.
-  citata_rodoma: "SAULĖS (ŠIAULIŲ) MUSIS 21\n\nva\nAS\nal\no\na4\nmn\nz\no\no\n©\na\no\n=\n=\n\niki Vytauto imperijos\n\n## Puslapis 24\n\n(Upytės) ir Dubysos (Šiaulių) aukštu-\npių regionus. Pirmuoju atveju - gynyba\niš esmės tektų Mindaugo vadovaujamai\nkariuomenei, o juos paremtų žemaičių\nraiteliai; antruoju atveju - pagrindinė\ngynybos našta tektų žemaičiams, vado-\nvaujamiems Vykinto, juos vėliau paremtų\nMindaugo raiteliai. Kadangi priešas įsi-\nveržė į Dubysos aukštupį, tad buvo akty-\nvuotas antrasis gynybos variantas."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-163460
   autorius: "Zenonas Ivinskis"
@@ -643,9 +677,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
-    - t-016
+    - t-015
 
 - id: c-163463
   autorius: "Zenonas Ivinskis"
@@ -665,8 +699,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
+  pagrindžia:
+    - t-014
 
 - id: c-163464
   autorius: "Zenonas Ivinskis"
@@ -681,13 +715,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     tūrų ir du vyskupai, kurie turėjo lietuvių kunigaikščius krikštyti.
     Su kryžiuočiais drauge buvo ir Vytautas.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
-    - t-013
+    - t-012
 
 - id: c-163467
   autorius: "Zenonas Ivinskis"
@@ -710,8 +744,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
+  pagrindžia:
+    - t-011
 
 - id: c-163469
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -735,31 +769,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-018
-
-- id: c-163470
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 352"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 352."
-  citata_originali: |
-    Tuoj po Torno taikos Vytautas ėmė reikalauti, kad į Žemaitijos
-    ribas butų pripažintos dešiniojo Nemuno kranto girios su ordino
-    pilimis žemupyje. Vytautas teigė, jog pati Klaipėda priklausanti
-    Žemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
-    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
-    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
-    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
-  citata_rodoma: "Vytautas teigė, jog pati Klaipėda priklausanti\nŽemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad\ndešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas\npasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)\natstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+    - t-017
 
 - id: c-163472
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -775,12 +787,12 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
     muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
     sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-013
 
 - id: c-163474
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -802,8 +814,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-008
 
 - id: c-168310
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -830,35 +842,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
-
-- id: c-171576
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 219"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
-  citata_originali: |
-    218
-
-    ## Puslapis 218
-
-    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
-    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
-    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
-    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
-    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
-    lemonu Kalnas).
-    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
-    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-  citata_rodoma: "218\n\n## Puslapis 218\n\nnikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­\nmuno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
+  pagrindžia:
+    - t-018
 
 - id: c-189080
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -882,8 +867,8 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
+  pagrindžia:
+    - t-019
 
 - id: c-189081
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -900,5 +885,69 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-020
+
+- id: c-198101
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  citata_originali: |
+    218
+
+    ## Puslapis 218
+
+    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
+    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
+    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
+    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
+    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
+    lemonu Kalnas).
+    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
+    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
+  citata_rodoma: "218\n\n## Puslapis 218\n\nnikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­\nmuno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris)."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-021
+
+- id: c-216269
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 141"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 141."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
     - t-022
+
+- id: c-216270
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 149."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-023
+
+- id: c-216271
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 279"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 279."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-024
+

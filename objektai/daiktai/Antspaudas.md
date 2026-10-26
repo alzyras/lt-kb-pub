@@ -2,6 +2,8 @@
 tipas: daiktas
 pavadinimas: 'Antspaudas'
 saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)'
 datos:
@@ -65,7 +67,7 @@ Nenurodyta
 <a id="claim-t-64897"></a>
 - t-001
   teiginys: "1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -84,7 +86,7 @@ Nenurodyta
 <a id="claim-t-64898"></a>
 - t-002
   teiginys: "XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -100,7 +102,7 @@ Nenurodyta
 <a id="claim-t-202342"></a>
 - t-003
   teiginys: "Vijūkai, regis, paprastai neprispausdavo savo antspaudų prie dokumentų, nors vieta jiems dažnai būdavo paruošta."
-  atnaujinta: "2026-07-26 21:30"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,6 +117,32 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185689
+
+<a id="claim-t-221884"></a>
+- t-004
+  teiginys: "Trys Pomeranijos kunigaikščiai išdavė broliams raštus, kuriuos patvirtino savo antspaudais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
+  pagrindžia:
+    - c-202225
+
+<a id="claim-t-233075"></a>
+- t-005
+  teiginys: "Teodoro Narbuto pasakojime karalius ir didysis magistras savo antspaudais patvirtino nutarimą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:25Z"
+  pagrindžia:
+    - c-215895
 
 ## Citatos
 
@@ -171,6 +199,38 @@ Nenurodyta
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-26 21:24"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-05 16:13"
   pagrindzia:
     - t-003
+
+- id: c-202225
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
+  citata_originali: |
+    Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
+    ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
+    veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
+    palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-215895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 128."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005

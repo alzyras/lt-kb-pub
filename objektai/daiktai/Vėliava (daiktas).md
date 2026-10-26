@@ -1,52 +1,37 @@
 ---
 tipas: daiktas
-pavadinimas: Vėliava (daiktas)
-identifikacija: daiktas
+pavadinimas: 'Vėliava (daiktas)'
+identifikacija: 'daiktas'
 variantai:
-  - Vėliava
+  - 'Vėliava'
 aliases:
-  - Vėliava
+  - 'Vėliava'
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-datos:
-  - 1289 m.
-  - 1293 m.
-date_start: '1289'
-date_end: '1293'
-external_sources_json: '[]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:46:26+00:00","source_checked_at":"2026-09-19T23:46:26+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"41940790655c2673f0447a16","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Suburti pavaldžias tautas ir karinius būrius","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.): šaltinis teigia, kad hunų valdovas apie savo vėliavas sutelkė jam pavaldžias tautas ir karinius būrius.","support_ids":["t-214194","c-195608"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214194","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195608","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tikra tai, kad hunų valdovas apie savo vėliavas sutelkė goiarns pi ¡klausiusias tautas, ku­ rios visos turėjo rytuose jiems pavaldžių ir pasirengusių savo karinių būrių; vien todėl jis galėjo įsakinėti, nes jo rankose buvo savotiški įkaitai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1779d47787320544873188a2","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Suburti žmones po karvedžio vėliava ir įspėti apie priešo išsilaipinimą","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.): Natangijoje karo laužais būdavo įspėjami žmonės, stodavę po garsių karvedžių vėliavomis, jei priešas išsilaipindavo pakrantėse.","support_ids":["t-215151","c-194975"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215151","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194975","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Šios tvir­ tovės kalvoje, matomoje per daugelį mylių Sambijos ir 1 Garbe lietuvių kalba reiškia kalną, šlovę, aukštumą, iškilimą. 357 Natangijoje, būdavo užkuriami karo laužai, kai prireik­ davo įspėti žmones, kurie stodavo po garsių karvedžių vėliavomis, jei priešas išsilaipindavo pakrantėse. Galbūt žemės aplink Gailgarbį priklausė jo sosto pilyje gyvenu­ siam kunigaikščiui, be to, buvo vadinamos Rinavos ap­ skritimi"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5b386cda19f2768a1ad0ea32","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Suburti žmones žygiui ar puolimui","context":"Petro Dusburgiečio „Prūsijos žemės kronikoje“ (1985 m.) aprašoma, kad Ragainės broliai su ginklanešiais iškėlė vėliavą ir patraukė prie pilies; prie brolių vėliavos susibūrę žmonės buvo puolimo taikinys.","support_ids":["t-222638","c-201808","t-223055","c-203805"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222638","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-223055","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201808","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"surengę pasalas, Ragainės broliai su savo ginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių, kurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos tikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų."},{"kind":"evidence","evidence_id":"c-203805","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kai prūsai pastebėjo tiek maža žmonių, [susibūrusių] prie brolių vėliavos, atgavo jėgas bei drąsą, staiga juos užpuolė"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":3}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: aa6f40f2f7e666e9
-object_page_generated_at: '2026-09-19T23:46:26+00:00'
-object_page_source_checked_at: '2026-09-19T23:46:26+00:00'
-object_page_content_state: content
-object_page_claim_count: '7'
-object_page_source_count: '3'
-description: 'Vėliava (daiktas): Karūžuosiai į karę nešė vėliavas. Šaltinių citatos.'
-socialDescription: Karūžuosiai į karę nešė vėliavas. Patikrinti teiginiai ir šaltiniai.
-object_page_seo_description: 'Vėliava (daiktas): Karūžuosiai į karę nešė vėliavas. Šaltinių citatos.'
-object_page_seo_input_hash: bb3ffefc2d5bda850d8cc3f8467df1bb4b700696e690e6684e2297837d70fd82
-object_page_seo_generated_at: '2026-09-19T23:46:26+00:00'
-object_page_seo_policy_version: object-page-policy/v7
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vėliava (daiktas)
 
 ## Santrauka
 
-Karūžuosiai į karę nešė vėliavas.
+Karūžuosiai į karę nešė vėliavas. Moldavai, prisiekę karaliui vasalo ištikimybę, sudėjo savo vėliavas į jo rankas. Kita pusė: raitas lietuvis su vėliava, bet be žvėries.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -149,6 +134,19 @@ Nenurodyta
   pagrindžia:
     - c-203805
 
+<a id="claim-t-233085"></a>
+- t-008
+  teiginys: "Karalius vieną labai puošnią vėliavą kartu su kitais vertingais daiktais pasiuntė karalienei."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:26Z"
+  pagrindžia:
+    - c-215905
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karūžuosiai į karę nešė vėliavas.'
@@ -162,7 +160,7 @@ Nenurodyta
   statusas: verified
 ## Santrauka
 
-Karūžuosiai į karę nešė vėliavas.
+Karūžuosiai į karę nešė vėliavas. Moldavai, prisiekę karaliui vasalo ištikimybę, sudėjo savo vėliavas į jo rankas. Kita pusė: raitas lietuvis su vėliava, bet be žvėries.
 
 ## Citatos
 
@@ -316,3 +314,14 @@ Karūžuosiai į karę nešė vėliavas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-215905
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 239."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-008

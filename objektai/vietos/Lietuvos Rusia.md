@@ -58,18 +58,30 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
   pagrindžia:
     - c-171906
 
-<a id="claim-t-205385"></a>
-- t-002
-  teiginys: "Narbutas rašo, kad Brunonas per Galindą, Bartą ir Nadruvą pateko į Lietuvos Rusią, arba Saloviją."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-220178"></a>
+- t-220178
+  teiginys: "Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie tuvoje, bet ir Lietuvos Rusioje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198541
+
+<a id="claim-t-233575"></a>
+- t-233575
+  teiginys: "Narbutas pasakoja, kad 1276 m. Krymo chanas, padedamas rusenų, užkariavo iki Lietuvos Rusios klajojusius jazygus ir užėmė jų įtvirtintą sostinę Davidgorodą, kurią Narbutas tapatina su Davidgrudeku."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  vertinimo_atnaujinta: "2026-10-14T06:37:41Z"
   pagrindžia:
-    - c-187829
+    - c-216395
 
 ## Citatos
 
@@ -92,7 +104,7 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187829
@@ -113,5 +125,34 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-198541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 333"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 333."
+  citata_originali: |
+    Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­
+    gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­
+    tuvoje, bet ir Lietuvos Rusioje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220178
+
+- id: c-216395
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 344."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233575
+

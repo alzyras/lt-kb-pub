@@ -178,15 +178,43 @@ function wikiSourceLabel(source: ObjectPageModule): string {
 
 function wikiModuleHasContent(module: ObjectPageModule | undefined): boolean {
   if (!module) return false
+  const reference = module.reference_overview as ObjectPageModule | undefined
+  if (reference?.status === "published" && (moduleRows(reference.sentences).length || moduleRows(reference.rows).length)) return true
   const source =
     module.source && typeof module.source === "object" && !Array.isArray(module.source)
       ? (module.source as ObjectPageModule)
       : {}
+  const infoboxRows = [
+    ...moduleRows(module.infobox),
+    ...moduleRows(module.infoboxes).flatMap((box) => moduleRows(box.rows)),
+  ]
   return Boolean(
     cleanText(module.intro) ||
-    moduleRows(module.infobox).some((row) => cleanText(row.value)) ||
+    infoboxRows.some(
+      (row) => cleanText(row.value) || moduleRows(row.cells).some((cell) => cleanText(cell.text)),
+    ) ||
     safeExternalUrl(source.url),
   )
+}
+
+function wikiInfoboxes(module: ObjectPageModule): ObjectPageModule[] {
+  const boxes = moduleRows(module.infoboxes)
+    .map((box) => ({ ...box, rows: moduleRows(box.rows) }))
+    .filter((box) => box.rows.length > 0)
+  if (boxes.length) return boxes
+  const legacyRows = moduleRows(module.infobox)
+  return legacyRows.length
+    ? [{ role: "primary", type: "infobox", title: "", rows: legacyRows }]
+    : []
+}
+
+function wikiInfoboxHeading(box: ObjectPageModule, index: number): string {
+  const title = cleanText(box.title)
+  if (title) return title
+  if (index === 0 || cleanText(box.role) === "primary") return "Pagrindinė infodėžutė"
+  if (cleanText(box.type).toLocaleLowerCase() === "taxobox") return "Taksonominė lentelė"
+  if (cleanText(box.type).toLocaleLowerCase() === "sinottico") return "Santraukos lentelė"
+  return "Papildoma lentelė"
 }
 
 function WikipediaIntro({
@@ -209,11 +237,19 @@ function WikipediaIntro({
       ? (module.source as ObjectPageModule)
       : {}
   const intro = cleanText(module.intro)
-  const infobox = moduleRows(module.infobox).filter(
-    (row) => cleanText(row.value) || moduleRows(row.cells).some((cell) => cleanText(cell.text)),
-  )
+  const infoboxes = wikiInfoboxes(module)
   const wikiUrl = safeExternalUrl(source.url)
-  if (!intro && infobox.length === 0 && !wikiUrl && !summary) return null
+  const reference = module.reference_overview && typeof module.reference_overview === "object"
+    ? module.reference_overview as ObjectPageModule : {}
+  const referenceSentences = reference.status === "published" ? moduleRows(reference.sentences) : []
+  const referenceRows = reference.status === "published" ? moduleRows(reference.rows) : []
+  const referenceSources = moduleRows(reference.sources)
+  const referenceLinks = (row: ObjectPageModule) => (Array.isArray(row.source_urls) ? row.source_urls : [])
+    .map((value) => safeExternalUrl(value)).filter(Boolean).map((url, index) => {
+      const found = referenceSources.find((entry) => safeExternalUrl(entry.url) === url)
+      return <a href={url} target="_blank" rel="noreferrer noopener" key={url} title={cleanText(found?.title)}>{index ? "; " : " "}{cleanText(found?.publisher) || "Šaltinis"}</a>
+    })
+  if (!intro && infoboxes.length === 0 && !wikiUrl && !summary && !referenceSentences.length && !referenceRows.length) return null
   const languageLabel = wikiSourceLabel(source)
   const translation = cleanText(module.translation_status) === "translated_verified"
   const links = [
@@ -231,7 +267,7 @@ function WikipediaIntro({
     (entry, index) => links.findIndex((candidate) => candidate.url === entry.url) === index,
   )
   const portraitUrl = heroImage(portrait)
-  const hasAside = infobox.length > 0
+  const hasAside = infoboxes.length > 0 || referenceRows.length > 0
   const hasLinks = uniqueLinks.length > 0
   const attribution = (
     <p class="object-detail-wiki-attribution">
@@ -273,14 +309,21 @@ function WikipediaIntro({
       data-object-panel="apzvalga"
     >
       <div class="object-detail-wiki-main">
-        <div class="object-detail-wiki-copy">
+        {(intro || wikiUrl) && <div class="object-detail-wiki-copy">
           <p class="museum-eyebrow">Vikipedijos įžanga</p>
           {intro && <p class="object-detail-wiki-intro">{intro}</p>}
+          {cleanText(module.original_intro) && <details><summary>Originalo įžanga</summary><p>{cleanText(module.original_intro)}</p></details>}
           <p class="object-detail-paragraph-source">
             Šaltinis: <a href={wikiUrl}>{languageLabel}</a>
             {translation && " · versta"}
           </p>
-        </div>
+        </div>}
+        {referenceSentences.length > 0 && <div class="object-detail-wiki-summary">
+          <p class="museum-eyebrow">VLE ir kitų patikimų šaltinių apžvalga</p>
+          {referenceSentences.map((row) => <p key={cleanText(row.id)} class="object-detail-wiki-summary-text">
+            {cleanText(row.text)} <small class="object-detail-paragraph-source">{referenceLinks(row)}</small>
+          </p>)}
+        </div>}
         {summary && (
           <div class="object-detail-wiki-summary" id="musu-santrauka">
             <p class="museum-eyebrow">Pagal publikuotus šaltinius</p>
@@ -307,49 +350,92 @@ function WikipediaIntro({
         )}
       </div>
       {hasAside && (
-        <aside class="object-detail-wiki-aside" aria-label="Vikipedijos duomenys ir portretas">
-          {infobox.length > 0 && (
-            <div class="object-detail-wiki-infobox">
-              <p class="object-detail-wiki-infobox-label">Pagrindinė lentelė · {languageLabel}</p>
-              <div class="object-detail-wiki-table-wrap">
-                <table class="object-detail-wiki-table">
-                  <tbody>
-                    {infobox.map((row) => (
-                      <tr>
-                        {moduleRows(row.cells).length ? (
-                          moduleRows(row.cells).map((cell) => {
-                            const Tag = cell.header ? "th" : "td"
-                            const span = (value: unknown) =>
-                              Math.max(1, Math.min(100, Number(value) || 1))
-                            return (
-                              <Tag
-                                colSpan={span(cell.colspan)}
-                                rowSpan={span(cell.rowspan)}
-                                scope={
-                                  cell.header
-                                    ? span(cell.colspan) > 1
-                                      ? "colgroup"
+        <aside class="object-detail-wiki-aside" aria-label="Šaltinių faktų lentelės">
+          {referenceRows.length > 0 && <section class="object-detail-wiki-infobox">
+            <p class="object-detail-wiki-infobox-label">Faktai iš patikrintų puslapių</p>
+            <div class="object-detail-wiki-table-wrap"><table class="object-detail-wiki-table">
+              <tbody>{referenceRows.map((row) => <tr key={cleanText(row.id)}>
+                <th scope="row">{cleanText(row.label)}</th><td>{cleanText(row.value)}<br/><small>{referenceLinks(row)}</small></td>
+              </tr>)}</tbody>
+            </table></div>
+          </section>}
+          {infoboxes.map((box, boxIndex) => {
+            const rows = moduleRows(box.rows)
+            const type = cleanText(box.type).toLocaleLowerCase() || "infobox"
+            return (
+              <section
+                class={`object-detail-wiki-infobox${boxIndex > 0 ? " object-detail-wiki-infobox--secondary" : ""}`}
+                aria-label={wikiInfoboxHeading(box, boxIndex)}
+                data-infobox-type={type}
+                key={`wikipedia-infobox-${boxIndex}`}
+              >
+                <p class="object-detail-wiki-infobox-label">
+                  {wikiInfoboxHeading(box, boxIndex)} · {languageLabel}
+                </p>
+                <div class="object-detail-wiki-table-wrap">
+                  <table class="object-detail-wiki-table">
+                    <tbody>
+                      {rows.map((row, rowIndex) => {
+                        const cells = moduleRows(row.cells)
+                        const span = (value: unknown) =>
+                          Math.max(1, Math.min(100, Number(value) || 1))
+                        const sectionHeading =
+                          cells.length === 1 &&
+                          Boolean(cells[0].header) &&
+                          span(cells[0].colspan) > 1
+                        const columnHeading =
+                          cells.length > 1 && cells.every((cell) => Boolean(cell.header))
+                        const fullWidth = cells.length === 1 && span(cells[0].colspan) > 1
+                        const rowClass = sectionHeading
+                          ? "object-detail-wiki-row--section"
+                          : columnHeading
+                            ? "object-detail-wiki-row--columns"
+                            : fullWidth
+                              ? "object-detail-wiki-row--full"
+                              : undefined
+                        return (
+                          <tr
+                            class={rowClass}
+                            key={`wikipedia-infobox-${boxIndex}-row-${rowIndex}`}
+                          >
+                            {cells.length ? (
+                              cells.map((cell, cellIndex) => {
+                                const Tag = cell.header ? "th" : "td"
+                                const scope = !cell.header
+                                  ? undefined
+                                  : sectionHeading
+                                    ? undefined
+                                    : columnHeading
+                                      ? span(cell.colspan) > 1
+                                        ? "colgroup"
+                                        : "col"
                                       : "row"
-                                    : undefined
-                                }
-                              >
-                                {String(cell.text || "")}
-                              </Tag>
-                            )
-                          })
-                        ) : (
-                          <>
-                            <th scope="row">{cleanText(row.label)}</th>
-                            <td>{cleanText(row.value)}</td>
-                          </>
-                        )}
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          )}
+                                return (
+                                  <Tag
+                                    colSpan={span(cell.colspan)}
+                                    rowSpan={span(cell.rowspan)}
+                                    scope={scope}
+                                    key={`wikipedia-infobox-${boxIndex}-row-${rowIndex}-cell-${cellIndex}`}
+                                  >
+                                    {String(cell.text || "")}
+                                  </Tag>
+                                )
+                              })
+                            ) : (
+                              <>
+                                <th scope="row">{cleanText(row.label)}</th>
+                                <td>{cleanText(row.value)}</td>
+                              </>
+                            )}
+                          </tr>
+                        )
+                      })}
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+            )
+          })}
         </aside>
       )}
       {(hasLinks || source.license || source.history_url || source.license_url) && (
@@ -359,7 +445,7 @@ function WikipediaIntro({
               <p class="object-detail-wiki-footer-heading">Nuorodos</p>
               <nav
                 class="object-detail-wiki-links"
-                aria-label="Vikipedijos ir kiti išoriniai šaltiniai"
+                aria-label="Visi patikrinti išoriniai šaltiniai"
               >
                 {uniqueLinks.map((link) => (
                   <a href={link.url} target="_blank" rel="noreferrer noopener">
@@ -369,7 +455,7 @@ function WikipediaIntro({
               </nav>
             </div>
           )}
-          {attribution}
+          {wikiUrl && attribution}
         </footer>
       )}
     </section>

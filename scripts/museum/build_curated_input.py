@@ -30,7 +30,7 @@ def media_record(p,key,caption,date,portrait=True):
 snapshots=json.loads((ROOT/'scripts/museum/wikipedia-snapshots.json').read_text())
 def wiki_snapshot(note):
  wiki=snapshots[note]
- assert wiki.get('extraction_version')=='wikipedia-rendered-v2' and wiki.get('intro') and wiki['source'].get('revision_id'),note
+ assert wiki.get('extraction_version') in {'wikipedia-rendered-v2','wikipedia-rendered-v3'} and wiki.get('intro') and wiki['source'].get('revision_id'),note
  return wiki
 rulers=[];objects=[]
 for key,date in zip(order,dates,strict=True):

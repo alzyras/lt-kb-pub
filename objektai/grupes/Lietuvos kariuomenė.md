@@ -287,18 +287,69 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   pagrindžia:
     - c-176232
 
-<a id="claim-t-207515"></a>
-- t-207515
-  teiginys: "Lietuvos kariuomenės siekį parodyti savo istorinę gelmę, pasak Alfredo Bumblausko, išreiškė garbės kuopa su XIV a. riterių, XVII a. husarų ir XVIII a. pabaigos karių uniformomis."
-  atnaujinta: "2026-09-24 21:57"
+<a id="claim-t-230507"></a>
+- t-230507
+  teiginys: "1944 m. liepą Juozas Alekna pasiūlė susirinkusiems stoti į Lietuvos kariuomenę ir tęsti kovą su sovietinės armijos daliniais."
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
-  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
   pagrindžia:
-    - c-190132
+    - c-211146
+
+<a id="claim-t-233005"></a>
+- t-233005
+  teiginys: "Narbutas aprašo, kad didžiojo kunigaikščio kariuomenė persikėlė per Nevėžį ir užėmė Raseinių, Viduklės bei Ariogalos pavietus."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:28Z"
+  pagrindžia:
+    - c-215825
+
+<a id="claim-t-233006"></a>
+- t-233006
+  teiginys: "Lietuvos kariuomenė nužygiavo už Nevėžio, kur žemaičiai jau kurį laiką buvo apsiginklavę; Narbutas tai laikė pirmuoju Vytauto žingsniu išvaduojant Žemaitiją."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:28Z"
+  pagrindžia:
+    - c-215826
+
+<a id="claim-t-233008"></a>
+- t-233008
+  teiginys: "Narbutas atmetė spėliones, kad Vytautas Prūsijoje neteko tiek karių, jog negalėjo pridengti savo grįžimo: dalis buvo paskirstyti į pilis, o kiti liko prie karaliaus iki kariuomenės paleidimo po Torunės taikos, kaip rašė Dlugošas."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:28Z"
+  pagrindžia:
+    - c-215828
+
+<a id="claim-t-233010"></a>
+- t-233010
+  teiginys: "Didžiulė kariuomenė birželio pradžioje žygiavo Juodojo miško perėjos link, o priešakyje dešimties tūkstančių darbininkų armija tiesė kelius ir statė tiltus bei perkėlas."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:28Z"
+  pagrindžia:
+    - c-215830
 
 ## Citatos
 
@@ -626,8 +677,75 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-210657
+  autorius: "Gediminas Grina"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Šapalų Grinos ir jų palikuonys"
+  puslapiai: "p. 204 (PDF 205)"
+  indeksas: "Gediminas Grina, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Šapalų Grinos ir jų palikuonys, p. 204 (PDF 205)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-10-13 11:48"
+
+- id: c-211146
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 30"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 30."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
   pagrindžia:
-    - t-207515
+    - t-230507
+
+- id: c-215825
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 139."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindžia:
+    - t-233005
+
+- id: c-215826
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 190."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindžia:
+    - t-233006
+
+- id: c-215828
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 251."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233008
+
+- id: c-215830
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 406."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233010
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lenkai]]

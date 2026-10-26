@@ -29,17 +29,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-92debd1308ef1218a267a6f1
-canonical_name: Daugai
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Daugai
-sameAs: []
-canonical_biography: 'Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Daugai","url":"https://lt.wikipedia.org/wiki/Daugai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Daugai - Wikipedia","url":"https://en.wikipedia.org/wiki/Daugai","publisher":"Wikimedia Foundation","kind":"institutional","status":"published","confidence":0.99,"language":""},{"title":"Daugai – Wikipedia","url":"https://de.wikipedia.org/wiki/Daugai","publisher":"Wikimedia Foundation","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:35:29+00:00","source_checked_at":"2026-09-19T22:35:29+00:00","counts":{"relations":2,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Daugai – miestas Alytaus rajono savivaldybėje, 22 km į rytus nuo Alytaus ir tiek pat į šiaurės vakarus nuo Varėnos, 1 km į pietus nuo plento 128 Naujieji Valkininkai–Daugai–Alytus . Seniūnijos centras, didžioji dalis miesto yra Daugų I seniūnaitijoje, mažoji dalis – Daugų II seniūnaitijoje. Urbanistikos paminklas. Miesto planas linijinis, su ryškiais stačiakampio plano elementais. Centrinė dalis, suformuota apie 1560 m., išplėsta 1928 m. stačiakampio plano su stačiakampe aikšte, suformuota XVI a. antroje pusėje) ir trapecine aikšte, suformuota XX a. pirmoje pusėje. Namai daugiausia vienaukščiai (XX a. pirmos pusės).","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"19504","revision_id":"7866313","status":"published","translation_status":"native","source":{"title":"Daugai","url":"https://lt.wikipedia.org/wiki/Daugai","publisher":"Vikipedija","language":"lt","article_id":"19504","revision_id":"7866313","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7866313","history_url":"https://lt.wikipedia.org/w/index.php?title=Daugai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:17:37.581367+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"98ca1a486cd9614de0be8830911df156ae7ed9e88542b0a28fe420f6cd4fdf01","version_pk":"ba17bac66e817b370ff0c2c972f97665"}},"source_buttons":[{"label":"Vikipedija","title":"Daugai","url":"https://lt.wikipedia.org/wiki/Daugai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Wikimedia Foundation","title":"Daugai - Wikipedia","url":"https://en.wikipedia.org/wiki/Daugai","kind":"institutional","bucket":"institutional"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Daugai","https://en.wikipedia.org/wiki/Daugai"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-118265","confidence":0.78},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-183791","confidence":0.57}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -53,6 +42,15 @@ object_page_seo_description: 'Daugai: Per susitikimą Dauguose patyrę ištarmę
 object_page_seo_input_hash: a9e966d2305c7b966c5934e8e9c232e0ead70462da7958fc70b830008b6a5157
 object_page_seo_generated_at: '2026-09-19T22:35:29+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-92debd1308ef1218a267a6f1"
+canonical_name: "Daugai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daugai"]
+sameAs: ["https://www.wikidata.org/entity/Q2044578"]
+canonical_biography: "Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13."
+place_authority: true
+historical_names: []
 ---
 # Daugai
 
@@ -61,22 +59,6 @@ object_page_seo_policy_version: object-page-policy/v7
 Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13.
 
 ## Teiginiai
-
-<a id="claim-t-118262"></a>
-- t-001
-  teiginys: "Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alytus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daugai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Alytus: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugai\" parinktas kaip owner_note_path. Targetas \"Alytus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-108760
 
 <a id="claim-t-118263"></a>
 - t-002
@@ -97,22 +79,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-43369
-
-<a id="claim-t-118264"></a>
-- t-003
-  teiginys: "Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daugai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-108760
 
 <a id="claim-t-118265"></a>
 - t-004
@@ -163,20 +129,31 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - c-108761
 
-<a id="claim-t-204174"></a>
-- t-007
-  teiginys: "1561 m. iš Daugų į medžioklę Valkininkuose turėjo būti pasiųsti 75 valstiečiai penkioms dienoms."
-  atnaujinta: "2026-08-07 10:39"
+<a id="claim-t-233427"></a>
+- t-233427
+  teiginys: "Žygeiviai Daugų apylinkėse prie Žemininkų kaimo įsirengė stovyklą ir joje praleido dvi dienas, o vėliau pro Alovę nužygiavo iki Steigvilių prie Strėvos."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1561 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir veiksmą bei tiesiogiai siejasi su Daugais. Šaltinio dokumento atribucija nereikalinga."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:37Z"
   pagrindžia:
-    - c-186724
+    - c-216247
+
+<a id="claim-t-233428"></a>
+- t-233428
+  teiginys: "Narbutas Daugus ir kitus anuomet žymius valsčius apibūdino kaip mėgstamas kaimiško gyvenimo vietas, remdamasis šiose vietovėse datuotais laiškais kryžiuočiams."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:37Z"
+  pagrindžia:
+    - c-216248
 
 ## Citatos
 
@@ -195,7 +172,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-108760
@@ -225,9 +202,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
 
 - id: c-108761
   sudarytojas: "Karolis Zikaras"
@@ -249,7 +223,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-108762
@@ -269,7 +243,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-108764
@@ -291,7 +265,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-186724
@@ -315,5 +289,28 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+
+- id: c-216247
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 115."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233427
+
+- id: c-216248
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 444"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 444."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233428
+

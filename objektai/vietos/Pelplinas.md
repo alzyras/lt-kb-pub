@@ -2,11 +2,13 @@
 tipas: vieta
 pavadinimas: 'Pelplinas'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1305 m.'
   - '1323 m.'
   - '1324 m.'
-date_start: '1323'
+date_start: '1305'
 date_end: '1324'
 sukurta: ''
 atnaujinta: ''
@@ -43,46 +45,48 @@ historical_names: []
 
 1), kurį magistras Fridrichas fon Vildenbergas Meve 1324 m., daly­ vaujant Pelplino abatui Jordanui, liepė parengti, yra Slapt. Pavyzdžiui, abatai iš Olivos ir Pelplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­ mus per presentes, eundem prefatum regem quasdam per piures mundi partes litteras direxisse, in quibus se cum suis et toto Reg­ no asseruit baptizari et conjungi.
 
-## Teiginiai
-
-<a id="claim-t-86029"></a>
-- t-001
-  teiginys: "1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus, kuriuose jis teigė norįs krikštytis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pelplinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pelplinas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perrašytas į aiškų sakinį, neperkeliant lotyniškos ištraukos."
-  pagrindžia:
-    - c-82008
-
-<a id="claim-t-86030"></a>
-- t-002
-  teiginys: "1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Fridrichas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pelplinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Fridrichas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pelplinas\" parinktas kaip owner_note_path. Targetas \"Fridrichas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą, susijusį su Pelplino abatu."
-  pagrindžia:
-    - c-82009
-
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: '1324 m. sausį Pelplino ir Olyvos cistersų abatai nusiuntė Jonui XXII tokį pat laišką kaip brolis Mikalojus.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Šis liudijimas prieštarauja 1323 m. rugpjūčio
+    mėn. Livonijos pasiuntinybės duomenims, tačiau patvirtina, jog Gediminas labiau negu kas
+    kitas buvo laikomas visiškai atsakingu už savo vardu parašytus laiškus. 1324 m. sausio mėn.
+    cistersų abatai iš Pelplino ir Olyvos (Gdansko kaimynystėje), tų vienuolių, kurie pardavė
+    Daugavgryvą riteriams 1305 m., broliai, nusiuntė Jonui XXII tokį pat laišką kaip brolis Mikalo­
+    jus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Pelplino abatas Jordanas ir Olyvos abatas Paulius laiške teigė pamaldžiai bei nuolankiai bučiuojantys palaimintųjų pėdas.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Š venčiausiajam ir pamaldžiausiam Tėvui ir Viešpačiui ponui Jonui, aukščiausiam Dievo
+    apvaizda Apaštalų Sosto vyskupui, Vloclaveko vyskupystės cistersų ordino brolis Pau­
+    lius, Olyvos abatas, bei brolis Jordanas, Pelplino abatas, pamaldžiai, su nuolankiu atsidavimu
+    palaimintųjų pėdas bučiuoja.
+    Žiūrint, jog lygiai nusikalto ir tas, kuris tiesą slepia, ir tas, kuris perduoda melą, ir kad laikui
+    bėgant būtų sveikiau dėl tiesos iškęsti kančią, net jeigu įsakymo straipsnis taip reikalautų,
+    negu nusipelnyti iš neteisybės, todėl mes, esantys iš paklusnumo savo regulai tiesos skelbėjai,
+    suprantame, jog rimčiau bei nepelnytai juodinama garbė tų vyrų bei vienuolių, kurie yra
+    pagirtino gyvenimo ir labai naudingi tikintiesiems ginti fiziniu kardu, būtent Vokiečių namo
+    ordino brolių, su kuriais esame iš daugelio praėjusių laikų kaimynai. Ir iš arti reikia ieškoti
+    tiesos [apie juos], ir [suprasdami] dėl to, kad kai kurie jų priešininkai drįsta tvirtinti, jog
+    lietuvių karaliui, trokštančiam su saviškiais priimti katalikų tikėjimą, šie siekią atkakliai
+    trukdyti, jūsų šventenybei tikėjimu, kurio laikomės, ir dievobaimingumu minėtų ponų
+    pateisinimui, kaip mums tikrai ir aiškiausiai žinoma iš nesenų įvykių, atskleidžiame šiuo
+    [laišku], kad tas pats minėtas karalius į daugelį pasaulio kraštų nusiuntė laiškus, kuriuose
+    teigė, jog jis su saviškiais ir visa karalyste norįs apsikrikštyti ir prisijungti prie tikinčių tautų
+    būrio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-82008
@@ -102,37 +106,28 @@ historical_names: []
     nėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais
     ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
     tautų bendruomenės]. (Slaptasis archyvas, Spinta
-    XI, Nr. 19 ir 20).
-  citata_rodoma: "2) Kurį laiką buvo manoma, kad Gediminas \niš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel- \nplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­\nmus per presentes, eundem prefatum regem quasdam per piures \nmundi partes litteras direxisse, in quibus se cum suis et toto Reg­\nno asseruit baptizari et conjungi velle turbe fidelium populorum \n[Iš neseniai gautų dabartinių dokumentų įsitikinome, kad \ntas pats minėtas karalius po daugelį pasaulio šalių išsiunti­\nnėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais \nir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių \ntautų bendruomenės]. (Slaptasis archyvas, Spinta \nXI, Nr."
+    XI, Nr.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-82009
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   puslapiai: "PDF 93"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 93."
   citata_originali: |
-    Mažesniųjų brolių laiškas, rašytas in
-    Culmine [Kulme], datuotas fl. d. 1323
-    in die S. Katherine, du originalai (XI,
-    Nr. 19, 20) ir nuorašas (LII, Spinta
-    Nr. 1), kurį magistras Fridrichas fon
+    1), kurį magistras Fridrichas fon
     Vildenbergas Meve 1324 m., daly­
     vaujant Pelplino abatui Jordanui,
     liepė parengti, yra Slapt. Archyve.
     Olivos ir Pelplino abatų laiškas pa­
     žymėtas vėlesne data.
-  citata_rodoma: "1), kurį magistras Fridrichas fon \nVildenbergas Meve 1324 m., daly­\nvaujant Pelplino abatui Jordanui, \nliepė parengti, yra Slapt. Archyve. \nOlivos ir Pelplino abatų laiškas pa­\nžymėtas vėlesne data."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

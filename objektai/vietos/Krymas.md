@@ -3,6 +3,8 @@ tipas: vieta
 pavadinimas: 'Krymas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1395 m.'
@@ -50,7 +52,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 <a id="claim-t-36338"></a>
 - t-001
   teiginys: "1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Machmetas: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -70,7 +72,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 <a id="claim-t-184994"></a>
 - t-002
   teiginys: "Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,7 +92,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 <a id="claim-t-206511"></a>
 - t-003
   teiginys: "Po Uzbeko mirties totorių ordos skilo į nepriklausomas valstybes, o viena jų užvaldė Dnepro žemupį ir skverbėsi į Krymą."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,6 +102,47 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   pagrindžia:
     - c-189126
 
+<a id="claim-t-233521"></a>
+- t-004
+  teiginys: "Narbutas sieja totorių priklausomybę nuo Lietuvos didžiųjų kunigaikščių su vėlesnėmis pergalėmis Kryme, Chersono paėmimu ir grėsminga padėtimi Podolėje."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:40Z"
+  pagrindžia:
+    - c-216341
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Prasidėjęs po to lenkų sei­
+    l ė j m e ta i
+    mas Piotrkove vėl pakurstė
+    L ietu vių
+    g in čas
+    su
+    lietuvius kovoti dėl Podolės.
+    le n k a is
+    d ė l
+    P o d o lės
+    Jų pasiuntiniai Tautvilas ir
+    Kučiukas griežtai pareikala­
+    vo ne tik Podolės, bet ir Belzo žemės bei turtingų Rai­
+    no ir Olesko valdų. Gavo jie tik tokį atsakymą, kad
+    lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­
+    mams. Kai Vilniuje susirinko lietuvių seimas, atvyko
+    čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kali-
+    šo vaivada, ir Jonas Ritvianskis, karalystės maršalas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-38532
@@ -167,8 +210,19 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   pagrindzia:
     - t-003
 
+- id: c-216341
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 344."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004
+
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Oramas]]
 - Buvo valdoma: [[objektai/asmenys/Kutlubugas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Gilbert de Lannoy]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

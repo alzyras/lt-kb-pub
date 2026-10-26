@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'J. Voigt'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
 date_start: ''
@@ -44,7 +45,7 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
 <a id="claim-t-71512"></a>
 - t-001
   teiginys: "J. Voigtas 1827–1838 m. išleido devynių tomų veikalą „Geschichte Preussens“, kuriame nagrinėjo kryžiuočių santykius su Lietuva."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,7 +64,7 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
 <a id="claim-t-71513"></a>
 - t-002
   teiginys: "J. Voigtas 1827–1838 m. devynių tomų veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki 1525 m."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,11 +74,37 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
   ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=78"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Voigt\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: iki 1525 m.; įvykio data: 1525 m.; įvykio data: 1647 m.; įvykio data: 1827-1838; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporaliniai_duomenys: "įvykio data: 1525 m.; įvykio data: 1647 m.; įvykio data: 1827-1838; įvykio data: 1838 m.; įvykio data: iki 1525 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Reikia pataisyti pavardės lietuvinimą ir pašalinti rašybos klaidą pavadinime."
   pagrindžia:
     - c-30597
+
+<a id="claim-t-233098"></a>
+- t-003
+  teiginys: "T. Narbutas, kaip atsargiai spėjama leidinio aptarime, galėjo iš J. Voigto netiesiogiai perimti kruopštų šaltinių dokumentavimą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:25Z"
+  pagrindžia:
+    - c-215918
+
+<a id="claim-t-233100"></a>
+- t-004
+  teiginys: "J. Voigtas, Teodoro Narbuto apibūdinimu, nekomentavo Dlugošo teiginių tikrumo ir nutylėjo apie kviečius, teisindamasis, kad jų nėra archyvų šaltiniuose."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:25Z"
+  pagrindžia:
+    - c-215920
 
 ## Citatos
 
@@ -104,3 +131,27 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
   pagrindzia:
     - t-001
     - t-002
+
+- id: c-215918
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 17."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003
+
+- id: c-215920
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 23"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 23."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-004

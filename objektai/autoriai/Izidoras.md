@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'Izidoras'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -32,25 +33,95 @@ canonical_biography: "Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs
 
 ## Santrauka
 
-Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu. Izidoras lošė tuo metu, kai atlėkė bitė su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos neužmušė jos už įkyrų zvimbimą paausy.
+Izidoras lošė tuo metu, kai atlėkė bitė su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos neužmušė jos už įkyrų zvimbimą paausy. Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu. Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu.
+
+## Santrauka
+
+Izidoras lošė tuo metu, kai atlėkė bitė su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos neužmušė jos už įkyrų zvimbimą paausy. Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu. Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu.
 
 ## Teiginiai
 
-<a id="claim-t-197300"></a>
+<a id="claim-t-217080"></a>
 - t-001
   teiginys: "Izidoras lošė tuo metu, kai atlėkė bitė su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos neužmušė jos už įkyrų zvimbimą paausy."
-  atnaujinta: "2026-07-12 22:32"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-173312
+    - c-200750
 
+<a id="claim-t-218357"></a>
+- t-002
+  teiginys: "Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199790
+
+<a id="claim-t-219020"></a>
+- t-003
+  teiginys: "Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Abraomas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Izidoras: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Abraomas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Izidoras\" parinktas kaip owner_note_path. Targetas \"Abraomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-199790
+    - c-200750
+
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Gedimino laiškų aptarime rusas sekretorius Izidoras nurodomas kaip tekstą už metropolitą parašęs asmuo, vėliau tapęs Lietuvos ir Rusios metropolitu bei kardinolu.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Už metropolitą tekstą parašė sekretorius rusas Izidoras, kuris vėliau tapo Lietuvos
+    ir Rusios metropolitas (paskui-ir kardinolas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
-- id: c-173312
+- id: c-199790
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Izidoras, gy­
+    venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­
+    gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas
+    statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė
+    šventu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-003
+
+- id: c-200750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 233"
@@ -70,9 +141,11 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
     medžiojusį Arką, prašydama nukreipti šalin vandenį ir apkas­
     ti žemėmis jau beveik griūvantį medį.
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-003

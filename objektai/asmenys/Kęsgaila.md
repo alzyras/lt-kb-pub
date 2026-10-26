@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Kęsgaila'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -33,14 +34,14 @@ canonical_biography: "Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo su
 
 ## Santrauka
 
-Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku.
+Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 
 ## Teiginiai
 
 <a id="claim-t-35195"></a>
 - t-001
   teiginys: "Kęsgaila buvo Žemaičių seniūnas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> seniūnas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,17 +54,30 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
   pagrindžia:
     - c-38074
 
-<a id="claim-t-193945"></a>
+<a id="claim-t-211948"></a>
 - t-002
   teiginys: "Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-176570
+    - c-194050
+
+<a id="claim-t-233239"></a>
+- t-003
+  teiginys: "Kęsgaila vadovavo civilinių institucijų atnaujinimui kaip tam reikalui paskirtas seniūnas."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:20Z"
+  pagrindžia:
+    - c-216059
 
 ## Citatos
 
@@ -88,7 +102,7 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
   pagrindzia:
     - t-001
 
-- id: c-176570
+- id: c-194050
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 124"
@@ -121,9 +135,21 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
     vo mažametis.
   citata_rodoma: "O paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės. Ir su visais tais miestais prisijungė \nprie Mazovijos ir ėmė tarnauti Mykoliukui\nIšgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­\nzimieras ir Didžiosios Kunigaikštystės Ponų Taryba \nskubiai siunčia su kariuomene Joną Goštautą, kurį, įke­\nliant Kazimierą į sostą, buvo paskyrę didžiojo kuni­\ngaikščio globėju, nes kunigaikštis Kazimieras dar bu­\nvo mažametis."
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-09-12 23:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-216059
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 281."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003

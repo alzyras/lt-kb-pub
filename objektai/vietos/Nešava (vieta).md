@@ -44,18 +44,43 @@ Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, p
 
 ## Teiginiai
 
-<a id="claim-t-205310"></a>
-- t-001
-  teiginys: "Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, pastatydino kry žiuočiams dar vieną tvirtovę, pavadintą Nesava."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-233655"></a>
+- t-233655
+  teiginys: "Lenkai reikalavo, kad Pamarys, Kulmo žemė, Nešavos apylinkės net iki Klodavos upės, kur Prūsų Švietės pavietai siekia Lenki jos sieną, Drezdenkas ir Santokas priklausytų karaliui."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
   pagrindžia:
-    - c-187895
+    - c-216475
+
+<a id="claim-t-233656"></a>
+- t-233656
+  teiginys: "Pasiūlyme numatyta, kad Ordinas atsisakytų Michalovo žemės, Nešavos ir Mužynovo bei joms priklausančių valdų, jei būtų nugriauta Nešavos pilis."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:43Z"
+  pagrindžia:
+    - c-216476
+
+<a id="claim-t-233657"></a>
+- t-233657
+  teiginys: "Reikalauta Ordinui grąžinti dokumentus dėl Nešavos ir pervežimų pro Torunę, tarp jų Torunės taikos aktus, Zigmanto dekretus bei Lenkijos karaliaus išsižadėjimą Žemaitijos, Sūduvos ir Livonijos."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:43Z"
+  pagrindžia:
+    - c-216477
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,5 +116,40 @@ Konradas ten, kur dabar kairiajame Vys los krante driekiasi Nešavos kaimelis, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-216475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 287."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233655
+
+- id: c-216476
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 291."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233656
+
+- id: c-216477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 373."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233657
+

@@ -6,9 +6,16 @@ variantai:
 aliases:
   - 'Vilniaus taikos sutarties sudarymas'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
+datos:
+  - '1323 m.'
+date_start: '1323'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -26,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vilniaus taikos sutarties kopija, iš vokiečių kalbos išversta į lotynų kalbą, buvo nusiųsta popiežiui su prašymu ją patvirtinti.
+Vilniaus taikos sutarties kopija, iš vokiečių kalbos išversta į lotynų kalbą, buvo nusiųsta popiežiui su prašymu ją patvirtinti. 1323 m. spalio 2 d. livoniečiai Vilniuje sudarė taikos sutartį su Gediminu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -40,24 +47,24 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205912"></a>
-- t-001
-  teiginys: "Vilniaus taikos sutarties kopija, iš vokiečių kalbos išversta į lotynų kalbą, buvo nusiųsta popiežiui su prašymu ją patvirtinti."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188527
-
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1323 m. spalio 2 d. livoniečiai Vilniuje sudarė taikos sutartį su Gediminu.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Patenkinti tuo, ką sužinojo, livoniečiai spalio 2 d. Vilniuje sudarė taikos sutartį su Gediminu. Ji
+    buvo sudaryta dviem egzemplioriais: vieną patvirtino antspaudu Gediminas, antrą - katalikiš­
+    kosios jėgos. Sutartis nurodo, kad ji yra Gedimino laiškų rezultatas ir aiškiai patvirtina pažadus,
+    duotus kolonistams 1323 m. sausio ir gegužės mėn.: laikytis Rygos teisės, suteikti judėjimo lais­
+    vę pirkliams LDK ir Livonijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Santrauka
 
-Vilniaus taikos sutarties kopija, iš vokiečių kalbos išversta į lotynų kalbą, buvo nusiųsta popiežiui su prašymu ją patvirtinti.
+Vilniaus taikos sutarties kopija, iš vokiečių kalbos išversta į lotynų kalbą, buvo nusiųsta popiežiui su prašymu ją patvirtinti. 1323 m. spalio 2 d. livoniečiai Vilniuje sudarė taikos sutartį su Gediminu.
 
 ## Citatos
 
@@ -66,8 +73,6 @@ Vilniaus taikos sutarties kopija, iš vokiečių kalbos išversta į lotynų kal
   puslapiai: "PDF 411"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 411."
   citata_originali: |
-    Mykolo Arkange-
-    lo;
     išvardytos žemės, kurias apima
     ši
     sutartis,
@@ -81,11 +86,9 @@ Vilniaus taikos sutarties kopija, iš vokiečių kalbos išversta į lotynų kal
     tynų kalbą, buvo nusiųsta popiežiui ir primygtinai pra­
     šoma patvirtinti. Jonas XXII įsakė ilgiau negaištant ją
     patenkinti; tai ir buvo padaryta1.
-  citata_rodoma: "išvardytos žemės, kurias apima \nši \nsutartis, \nga­\nrantuojamas saugumas viešuose keliuose ir upėse šių \nžemių žmonėms, prekiaujantiems arba kitu tikslu keliau­\njantiems, teismuose nagrinėjami pasienio ginčai, galintys \nkilti tarp gyventojų. Galų gale nustatytos apiplėštųjų \nteisės atgauti daiktus, pabėgusius tarnus bei valdinius \nir 1.1. Šios sutarties kopija, išversta iš vokiečių į lo­\ntynų kalbą, buvo nusiųsta popiežiui ir primygtinai pra­\nšoma patvirtinti. Jonas XXII įsakė ilgiau negaištant ją \npatenkinti; tai ir buvo padaryta1."
   statusas: verified
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-10-05 16:07"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

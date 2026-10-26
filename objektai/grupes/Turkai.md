@@ -1,11 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: Turkai
+pavadinimas: 'Turkai'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
-  - 1399 m.
+  - '1399 m.'
 date_start: '1399'
 date_end: ''
 sukurta: ''
@@ -15,42 +16,32 @@ tags:
   - etninė-grupė
   - grupe
 amziai:
-  - XIV
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-external_sources_json: '[{"title":"Turkai","url":"https://lt.wikipedia.org/wiki/Turkai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Turkai","url":"https://www.vle.lt/straipsnis/turkai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:48:44+00:00","source_checked_at":"2026-09-20T12:48:44+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Turkai (turk. türkler) – tiurkų tauta, gyvenanti daugiausia Turkijoje (Mažoji Azija ir rytų Trakija) taip pat Šiaurės Kipre, Balkanuose, Artimuosiuose Rytuose, sudaro gausią diasporą Europos valstybėse (Vokietija, Nyderlandai, Prancūzija, Belgija, Austrija, Jungtinė Karalystė ir kt.), JAV, Australijoje. Vartoja turkų kalbą. Didžioji dauguma tikinčiųjų – musulmonai sunitai, yra alevitų.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"656000","revision_id":"7532012","status":"published","translation_status":"native","source":{"title":"Turkai","url":"https://lt.wikipedia.org/wiki/Turkai","publisher":"Vikipedija","language":"lt","article_id":"656000","revision_id":"7532012","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7532012","history_url":"https://lt.wikipedia.org/w/index.php?title=Turkai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:15:49.002161+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"08ecaf4a3451444a74564f9a77b10f5311d324d0bc9787a88210269e1463288f","version_pk":"85e9980aa2b15e378fcdf1901b7b1803"}},"source_buttons":[{"label":"Vikipedija","title":"Turkai","url":"https://lt.wikipedia.org/wiki/Turkai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Turkai","url":"https://www.vle.lt/straipsnis/turkai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Turkai","https://www.vle.lt/straipsnis/turkai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"33d568dcb885e41e2ee2ef8d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Paėmė Konstantinopolį.","context":"1453 m. gegužės 29 d.","support_ids":["t-210715","c-193996"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210715","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193996","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Šeši tūkstančiai devyni šimtai šešiasdešimt pirmai­ siais Į1453] metais gegužės dvidešimt devintą turkai paėmė Konstantinopolį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"adffac1f803df7045cf08cd7","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Atėjo į Moldaviją ir užėmė Kiliją bei Belgorodą.","context":"Laikas šaltinyje nenurodytas.","support_ids":["t-210800","c-194293"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210800","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194293","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"O paskui13 turkai atėjo j Moldaviją ir užėmė Kiliją 14 ir Belgorodą 15."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: de10c5adc060b243
-object_page_generated_at: '2026-09-20T12:48:44+00:00'
-object_page_source_checked_at: '2026-09-20T12:48:44+00:00'
-object_page_content_state: content
-object_page_claim_count: '2'
-object_page_source_count: '1'
-object_page_seo_description: 'Turkai: 1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus. Jogaila sutiko stoti į ginklų…'
-object_page_seo_input_hash: 31243b63db9ea27655900804ad47b8bdc4c00e443c22aef1ffa69a9e36ef2cf4
-object_page_seo_generated_at: '2026-09-20T12:48:44+00:00'
-object_page_seo_policy_version: object-page-policy/v7
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Turkai
 
 ## Santrauka
 
-1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus. Jogaila sutiko stoti į ginklų sąjungą prieš turkus tik tada, jei visi krikščioniškųjų šalių valdovai ryžtųsi karui sausumoje ir jūroje. Turkų sultono didysis paša Malkočas su Moldavijos vaivada Steponu kariavo Lenkijos žemėje iki Lvovo ir Tarnovo apylinkių.
+Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart.
 
 ## Teiginiai
 
 <a id="claim-t-185420"></a>
 - t-001
   teiginys: "1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,11 +49,12 @@ object_page_seo_policy_version: object-page-policy/v7
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168781
+    - c-168782
 
 <a id="claim-t-185421"></a>
 - t-002
   teiginys: "Jogaila sutiko stoti į ginklų sąjungą prieš turkus tik tada, jei visi krikščioniškųjų šalių valdovai ryžtųsi karui sausumoje ir jūroje."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,23 +63,10 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-168782
 
-<a id="claim-t-187769"></a>
-- t-003
-  teiginys: "Turkų sultono didysis paša Malkočas su Moldavijos vaivada Steponu kariavo Lenkijos žemėje iki Lvovo ir Tarnovo apylinkių."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170708
-
 <a id="claim-t-193466"></a>
-- t-004
+- t-003
   teiginys: "1429 m. valdovų posėdyje imperatorius Zigmantas ragino po husitų numalšinimo nukreipti kariuomenę prieš turkus ir saracėnus."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -96,6 +75,70 @@ object_page_seo_policy_version: object-page-policy/v7
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168782
+
+<a id="claim-t-210715"></a>
+- t-004
+  teiginys: "Turkai 1453 metais paėmė Konstantinopolį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-193996
+
+<a id="claim-t-210800"></a>
+- t-005
+  teiginys: "Turkai užėmė Kalą, Kiliją ir Belgorodą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-194293
+
+<a id="claim-t-210905"></a>
+- t-006
+  teiginys: "Iš tikrųjų, sudarius paliaubas, Steponas įspėjo Lenkijos ka ralių Joną Olbrachtą nežygiuoti atgal stačiai i šiaurę, nes paliau bų sutartis neliete Moldavijos sąjungininkų turkų, totorių ir vala kų (rumunų), o Sučiavos—Cernovcų kelias kalnų tarpekliuose buvo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194155
+
+<a id="claim-t-233041"></a>
+- t-007
+  teiginys: "Pasak Teodoro Narbuto, lenkų diplomatų kaltinimas, kad Romos karalius nesumaniai vadovavo karui su turkais, smarkiai užgavo Romos karalių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:29Z"
+  pagrindžia:
+    - c-215861
+
+<a id="claim-t-233042"></a>
+- t-008
+  teiginys: "Teodoras Narbutas rašo, kad lenkai linkėjo sėkmės krikščionių ginklams, bet ragino nelaužyti su turkais sudarytos taikos ir įspėjo, jog karas nukreiptų turkų galybę prieš Lenkiją."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:29Z"
+  pagrindžia:
+    - c-215862
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -157,8 +200,25 @@ object_page_seo_policy_version: object-page-policy/v7
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- t-004
+- t-003
 
+- c-003
+  santrauka: 'Turkų sultono didysis paša Malkočas su Moldavijos vaivada Steponu kariavo Lenkijos žemėje iki Lvovo ir Tarnovo apylinkių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-168781
@@ -224,26 +284,86 @@ object_page_seo_policy_version: object-page-policy/v7
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004
+    - t-003
 
-- id: c-170708
+- id: c-193996
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 140."
   citata_originali: |
-    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
-    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
-    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
-    vaivada Steponas, o su juo — turkų sultono didysis pa­
-    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
-    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
-    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
-    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+    Šeši tūkstančiai devyni šimtai šešiasdešimt pirmai­
+    siais Į1453] metais gegužės dvidešimt devintą turkai
+    paėmė Konstantinopolį.
   statusas: verified
-  atnaujinta: "2026-08-11 18:54"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
+
+- id: c-194155
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 312."
+  citata_originali: |
+    Iš tikrųjų, sudarius paliaubas, Steponas įspėjo Lenkijos ka­
+    ralių Joną Olbrachtą nežygiuoti atgal stačiai i šiaurę,
+    nes paliau­
+    bų sutartis neliete Moldavijos sąjungininkų turkų, totorių ir vala­
+    kų (rumunų), o Sučiavos—Cernovcų kelias kalnų tarpekliuose buvo
+    patogus antpuoliams iš pasalų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-194293
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 141"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 141."
+  citata_originali: |
+    O paskui13 turkai atėjo j Moldaviją ir užėmė
+    Kiliją 14 ir Belgorodą 15.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-215861
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 412."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-007
+
+- id: c-215862
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 412."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-008

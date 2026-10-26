@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Edyga'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1414 m.'
@@ -50,7 +51,7 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 <a id="claim-t-63557"></a>
 - t-001
   teiginys: "Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,7 +68,7 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 <a id="claim-t-63558"></a>
 - t-002
   teiginys: "Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką."
-  atnaujinta: "2026-06-13 17:24"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kijevas: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -77,12 +78,37 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad totoriai puldinėjo Kijevo kraštus."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Totoriai puolė Kijevas (0.82); Totoriai puolė Podolė (0.82); Totoriai puolė Luckas (0.80); Edyga puolė Kijevas (0.76); Edyga puolė Podolė (0.76)"
+  semantiniai_rysiai: "Totoriai puolė Kijevas (0.82); Totoriai puolė Podolė (0.82); Totoriai puolė Luckas (0.80); Edyga puolė Podolė (0.76); Edyga puolė Kijevas (0.76)"
   temporaliniai_duomenys: "įvykio data: 1414-1416; įvykio data: 1416 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, aiškus ir paremtas citata."
   pagrindžia:
     - c-64553
+
+<a id="claim-t-233174"></a>
+- t-003
+  teiginys: "1416 m. pabaigoje Edyga su gausiais totorių pulkais įsiveržė į Ukrainą, persikėlė per Dnieprą ir apgulė Kijevą, tačiau pilies neužėmė ir nusiaubė miestą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:18Z"
+  pagrindžia:
+    - c-215994
+
+<a id="claim-t-233175"></a>
+- t-004
+  teiginys: "Perekopo totoriai, vadovaujami Edygos, įsiveržė į Podolę."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-215995
 
 ## Citatos
 
@@ -165,3 +191,27 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-215994
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 315."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003
+
+- id: c-215995
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 324."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

@@ -7,6 +7,7 @@ variantai:
 aliases:
   - 'Statinė'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1806 m.'
@@ -33,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Iš Lietuvos į Dancigą gabenta 197,5 gabalo ir 13 akmenų vaško, 778,5 šimtinės įvairių medžio pusfabrikačių (Wagenschoss - vančo sas, Klappholz - klepkos, Knarrholz, Koggenbort, Eibenholz, Fassholz - statinių šuleliai, Stabholz), 20 medžių kamienų stiebams.
+Iš Lietuvos į Dancigą gabenta 197,5 gabalo ir 13 akmenų vaško, 778,5 šimtinės įvairių medžio pusfabrikačių (Wagenschoss - vančo sas, Klappholz - klepkos, Knarrholz, Koggenbort, Eibenholz, Fassholz - statinių šuleliai, Stabholz), 20 medžių kamienų stiebams. Narbutas pasakoja, kad didžiajai kunigaikštienei buvo padovanotos kelios statinės tokio pat Reino vyno.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -55,7 +56,7 @@ Nenurodyta
 <a id="claim-t-201994"></a>
 - t-001
   teiginys: "Iš Lietuvos į Dancigą gabenta 197,5 gabalo ir 13 akmenų vaško, 778,5 šimtinės įvairių medžio pusfabrikačių (Wagenschoss - vančo sas, Klappholz - klepkos, Knarrholz, Koggenbort, Eibenholz, Fassholz - statinių šuleliai, Stabholz), 20 medžių kamienų stiebams."
-  atnaujinta: "2026-07-19 10:19"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,6 +64,22 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185341
+
+<a id="claim-t-233084"></a>
+- t-002
+  teiginys: "Narbutas pasakoja, kad didžiajai kunigaikštienei buvo padovanotos kelios statinės tokio pat Reino vyno."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-215904
+
+## Santrauka
+
+Iš Lietuvos į Dancigą gabenta 197,5 gabalo ir 13 akmenų vaško, 778,5 šimtinės įvairių medžio pusfabrikačių (Wagenschoss - vančo sas, Klappholz - klepkos, Knarrholz, Koggenbort, Eibenholz, Fassholz - statinių šuleliai, Stabholz), 20 medžių kamienų stiebams. Narbutas pasakoja, kad didžiajai kunigaikštienei buvo padovanotos kelios statinės tokio pat Reino vyno.
 
 ## Citatos
 
@@ -88,3 +105,15 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-215904
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 176"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 176."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

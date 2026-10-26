@@ -2,8 +2,8 @@
 tipas: asmuo
 pavadinimas: 'Otonas'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
   - '1210 m.'
   - '1239 m.'
@@ -42,14 +42,14 @@ canonical_biography: "Brolis Otonas buvo antrasis magistras, daug metų vadovavo
 
 ## Santrauka
 
-Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone. Otonas buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą.
+Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną ir palaidotas Akone156.
 
 ## Teiginiai
 
-<a id="claim-t-60400"></a>
+<a id="claim-t-223458"></a>
 - t-001
   teiginys: "Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.99"
   ryšio_patikimumo_lygis: "aukstas"
@@ -61,7 +61,56 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Otonas buvo palaidotas Akonas (0.99); Otonas mirė Akonas (0.68)"
   pagrindžia:
-    - c-61032
+    - c-202692
+
+<a id="claim-t-223987"></a>
+- t-002
+  teiginys: "1266 metais — Brandenburgo markgrafas Otonas su sūnumi bei tikruoju broliu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204815
+
+<a id="claim-t-224102"></a>
+- t-003
+  teiginys: "Šaltinis pasakoja, kad Otonas, Braunšveigo valdovas ir kunigaikštis, į Prūsiją atvyko su daugybe maldininkų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206078
+
+<a id="claim-t-225420"></a>
+- t-004
+  teiginys: "Otonas buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202692
+
+<a id="claim-t-233261"></a>
+- t-005
+  teiginys: "Narbutas nurodo, kad iš Naujosios Markos pranešta apie Lenkijos karaliaus mėginimą patraukti į savo pusę Sventiborą ir jo sūnų Otoną, abu Pamario kunigaikščius."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:21Z"
+  pagrindžia:
+    - c-216081
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,11 +129,11 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- t-002
+- t-004
 
 ## Citatos
 
-- id: c-61032
+- id: c-202692
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 40"
@@ -101,12 +150,61 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
                              4.
   citata_rodoma: "Apie brolį Otoną, antrą magistrą\n\n  Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną  ir\npalaidotas Akone156.\n\n\n\n\n                         4."
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-004
+
+- id: c-204815
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
+  citata_originali: |
+    1266 metais — Brandenburgo
+    markgrafas Otonas su sūnumi bei tikruoju broliu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-206078
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
+  citata_originali: |
+    į Prūsijos žemę su daugybe
+    maldininkų atvyko kilnusis ir pamaldusis Otonas, šviesusis Braunšveigo valdovas ir
+    kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-216081
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 203."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Otonas buvo palaidotas [[objektai/vietos/Akonas]]

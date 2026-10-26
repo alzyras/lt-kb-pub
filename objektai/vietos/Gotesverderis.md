@@ -3,6 +3,8 @@ tipas: vieta
 pavadinimas: 'Gotesverderis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +27,7 @@ canonical_name: "Gotesverderis"
 entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Gotesverderis"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q12655753"]
 canonical_biography: "Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr."
 place_authority: true
 historical_names: []
@@ -41,7 +43,7 @@ historical_names: []
 <a id="claim-t-02460"></a>
 - t-001
   teiginys: "Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -57,7 +59,7 @@ historical_names: []
 <a id="claim-t-206479"></a>
 - t-002
   teiginys: "Gotesverderio tvirtovė buvo pastatyta ant Naujojo Kauno griuvėsių dviejų upių santakoje, o ši vieta anksčiau vadinta Virgaliu."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,6 +68,45 @@ historical_names: []
   vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
   pagrindžia:
     - c-189094
+
+<a id="claim-t-233475"></a>
+- t-003
+  teiginys: "Kryžiuočiai visiškai atnaujino prie Nemuno esančią Gotesverderio, arba Naujojo Kauno, pilį."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:39Z"
+  pagrindžia:
+    - c-216295
+
+<a id="claim-t-233476"></a>
+- t-004
+  teiginys: "Vytauto vadovaujami lietuviai užpuolė Gotesverderio tvirtovę Salyno saloje; vietos komtūrui žuvus, įgula trečią dieną pasidavė, o pilis buvo sugriauta iki pamatų."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:39Z"
+  pagrindžia:
+    - c-216296
+
+<a id="claim-t-233477"></a>
+- t-005
+  teiginys: "Kariuomenė, žygiavusi Panemune ir upe plukdžiusi krovinius, pasiekė Nevėžio žiotis ir įsirengė stovyklą ant Gotesverderio griuvėsių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:39Z"
+  pagrindžia:
+    - c-216297
 
 ## Citatos
 
@@ -114,6 +155,42 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-216295
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 92."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003
+
+- id: c-216296
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 112."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-004
+
+- id: c-216297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 112."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

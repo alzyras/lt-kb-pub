@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Ostrovas'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1392 m.'
@@ -47,7 +48,7 @@ historical_names: []
 <a id="claim-t-36467"></a>
 - t-001
   teiginys: "Jogaila rugpjūčio 5 d. atvyko į Ostrovą netoli Lydos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Ostrovas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -64,7 +65,7 @@ historical_names: []
 <a id="claim-t-184317"></a>
 - t-002
   teiginys: "1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,6 +84,19 @@ historical_names: []
   pagrindžia:
     - c-167688
 
+<a id="claim-t-233665"></a>
+- t-003
+  teiginys: "Kristinas iš Ostrovo buvo paskirtas komisaru, o komisija, kaltintojams nepateikus daugiau įrodymų, leido kaltinamajai prisiekti su septyniomis liudytojomis."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:43Z"
+  pagrindžia:
+    - c-216485
+
 ## Citatos
 
 - id: c-37611
@@ -97,7 +111,7 @@ historical_names: []
     los dvariškių ir Vytauto bajorų akivaizdoj įvyko iškilmingas
     jųdviejų susitaikinimas.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,6 +140,18 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-216485
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 401."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

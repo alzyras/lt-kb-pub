@@ -46,31 +46,18 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-206064"></a>
-- t-001
-  teiginys: "Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o gerai organizuota įgula sumaniai ir drąsiai gynėsi."
-  atnaujinta: "2026-08-12 08:57"
+<a id="claim-t-233080"></a>
+- t-233080
+  teiginys: "Narbutas aprašo didžiojo magistro Ulricho pasirengimą krašto gynybai, kurio metu buvo liejami pabūklai ir gaminami ginklai."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  vertinimo_atnaujinta: "2026-10-14T06:37:25Z"
   pagrindžia:
-    - c-188679
-
-<a id="claim-t-206065"></a>
-- t-002
-  teiginys: "Vokiečiai keletą kartų šovė iš pabūklų, o žemaičiai iš užnugario puolė ir apsupo tą pačią koloną."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188680
+    - c-215900
 
 ## Santrauka
 
@@ -97,8 +84,6 @@ Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188680
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -123,5 +108,16 @@ Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-215900
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 175"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 175."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233080
+

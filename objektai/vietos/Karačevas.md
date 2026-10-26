@@ -1,8 +1,9 @@
 ---
 tipas: vieta
-pavadinimas: Karačevas
+pavadinimas: 'Karačevas'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,46 +15,46 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-bd533fa2c150d814777be6ca
-canonical_name: Karačevas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Karačevas
-sameAs: []
-canonical_biography: 'Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais. Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą. Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.'
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-bd533fa2c150d814777be6ca"
+canonical_name: "Karačevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karačevas"]
+sameAs: ["https://www.wikidata.org/entity/Q145115"]
+canonical_biography: "Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais. Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą. Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
 place_authority: true
 historical_names: []
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:38:36+00:00","source_checked_at":"2026-09-20T18:38:36+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Karačevas (rus. Карачев) – miestas Rusijoje, Briansko srityje, 43 km į pietryčius nuo Briansko, prie Snežetės upės; rajono centras. Paeina Briansko–Oriolo geležinkelis ir plentas. Vystoma automobilių dalių gamyba, elektronikos, siuvimo, maisto pramonė. Veikia krašto muziejus. Yra XVIII a. Arkangelo Mykolo, Kristaus Prisikėlimo cerkvės.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"610747","revision_id":"7760486","status":"published","translation_status":"native","source":{"title":"Karačevas","url":"https://lt.wikipedia.org/wiki/Kara%C4%8Devas","publisher":"Vikipedija","language":"lt","article_id":"610747","revision_id":"7760486","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7760486","history_url":"https://lt.wikipedia.org/w/index.php?title=Kara%C4%8Devas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:32.965974+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"4db92e6e54999048c6fb17da7906b47cd41b2b60a739bae153fd7c4aa35b16ff","version_pk":"c1b654cd7cc5e515e5153f7f53cd0616"}},"source_buttons":[{"label":"Vikipedija","title":"Karačevas","url":"https://lt.wikipedia.org/wiki/Kara%C4%8Devas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kara%C4%8Devas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5c8299e496de63c88e75bca4","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Miestas į pietryčius nuo Briansko.","context":"Šaltinyje aprašoma kaip RTFSR miestas; XX a. 7 dešimtmetyje.","support_ids":["t-210790","c-194046"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210790","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194046","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Karačevas — RTFSR miestas (| pietryčius nuo Briansko)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:38:36+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Skirmantas","claim_id":"t-185052","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
-external_sources_json: '[{"title":"Karačevas","url":"https://lt.wikipedia.org/wiki/Kara%C4%8Devas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
-object_page_finisher: 'true'
-object_page_finisher_hash: 62bf15894d4c1e38
-object_page_generated_at: '2026-09-20T18:38:36+00:00'
-object_page_source_checked_at: '2026-09-20T18:38:36+00:00'
-object_page_content_state: content
-object_page_claim_count: '5'
-object_page_source_count: '1'
-object_page_seo_description: 'Karačevas – istorinis miestas ir su juo siejama kunigaikštystė, minima Lietuvos metraštyje bei siejama su Černigovo žeme. XIII a. viduryje Karačevo…'
-object_page_seo_input_hash: 37d62d176f94dad733189d09f819188776f66218ac21c3d950c0a6d77d46ada3
-object_page_seo_generated_at: '2026-09-20T18:38:36+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Karačevas
 
 ## Santrauka
 
-Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais. Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą. Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
+Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru kunigaikščio titulu.
 
 ## Teiginiai
 
-<a id="claim-t-187231"></a>
+<a id="claim-t-210790"></a>
 - t-001
+  teiginys: "Karačevas yra miestas į pietryčius nuo Briansko."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194046
+
+<a id="claim-t-211203"></a>
+- t-002
   teiginys: "Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "buvo_sunus -> Liubartas: 0.96"
@@ -67,12 +68,12 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
   semantiniai_rysiai: "Skirmantas buvo sūnus Pisimantas (0.96); Skirmantas užėmė Karačevas (0.93); Skirmantas užėmė Mozyrius (0.93)"
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
-    - c-170297
+    - c-193097
 
-<a id="claim-t-187580"></a>
-- t-002
+<a id="claim-t-211251"></a>
+- t-003
   teiginys: "Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -88,12 +89,12 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
   semantiniai_rysiai: "Skirmantas buvo sūnus Pisimantas (0.96); Skirmantas užėmė Karačevas (0.93); Skirmantas užėmė Mozyrius (0.93)"
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
-    - c-170297
+    - c-193097
 
-<a id="claim-t-194027"></a>
-- t-003
+<a id="claim-t-211421"></a>
+- t-004
   teiginys: "Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
-  atnaujinta: "2026-07-12 22:45"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,7 +102,32 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
-    - c-170297
+    - c-193097
+
+<a id="claim-t-211747"></a>
+- t-005
+  teiginys: "Karačevo kunigaikštystė buvo Černigovo žemės dalis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193793
+
+<a id="claim-t-233492"></a>
+- t-006
+  teiginys: "Teodoras Narbutas Julijoną įvardija Alšėnų ir Karačevo kunigaikščio Jono Mindaugaičio dukterimi, kurią Vytautas vedė po Onos mirties."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:39Z"
+  pagrindžia:
+    - c-216312
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,12 +147,12 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-- t-002
-    - t-003
+- t-003
+    - t-004
 
 ## Citatos
 
-- id: c-170297
+- id: c-193097
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 48"
@@ -138,14 +164,64 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
     jęs pergalę, be nuostolių pargrįžo atgalios.
   citata_rodoma: "Su didžios pergalės \nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus \nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios."
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002
     - t-003
+    - t-004
+
+- id: c-193793
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 197."
+  citata_originali: |
+    Karačevo kunigaikštystė (Černigovo žemės dalis) XIII a. vi­
+    duryje
+    buvo
+    vieno
+    Iš Černigovo rusų kunigaikščių — Mstislavo
+    Michallovičiaus — dala.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+- id: c-194046
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 196."
+  citata_originali: |
+    Karačevas — RTFSR miestas (| pietryčius nuo Briansko).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-216312
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 447"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 447."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 - Užėmė Karačevą: [[objektai/asmenys/Skirmantas]]

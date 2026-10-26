@@ -1,10 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Teodoras'
+pavadinimas: 'Teodoras (Lietuvos didysis kunigaikštis, XIV a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
   - '1330 m.'
   - '1331 m.'
@@ -40,47 +42,27 @@ entity_aliases: ["Teodoras"]
 sameAs: []
 canonical_biography: "Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija. 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve. Algirdas Podolę atidavė Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui, iš kurių buvo sulaukęs pagalbos kare su totoriais."
 ---
-# Teodoras
+# Teodoras (Lietuvos didysis kunigaikštis, XIV a.)
 
 ## Santrauka
 
-Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija. 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve. Algirdas Podolę atidavė Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui, iš kurių buvo sulaukęs pagalbos kare su totoriais.
+1575 m. pasibaigus paliaubų laikui, caras dar nepradėjo karo, nes vis dar tikėjosi, kad jis pats arba jo sūnus Teodoras gaus Lietuvos ir Lenkijos sostus. Po jo, 15 metų buvo caru jokiems dideliems žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim pasibaigė Kalitos dinastija. Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (1613 m.).
 
 ## Teiginiai
 
 <a id="claim-t-79202"></a>
 - t-001
   teiginys: "Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-76275
 
-<a id="claim-t-79203"></a>
-- t-002
-  teiginys: "1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Gediminas: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teodoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Teodoras buvo Gedimino brolis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Teodoras buvo brolis Gediminas (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1330-1331; įvykio data: 1331 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir paremtas citata."
-  pagrindžia:
-    - c-76272
-
 <a id="claim-t-196600"></a>
-- t-003
+- t-002
   teiginys: "Algirdas Podolę atidavė Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui, iš kurių buvo sulaukęs pagalbos kare su totoriais."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,9 +73,9 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
     - c-178789
 
 <a id="claim-t-206397"></a>
-- t-004
+- t-003
   teiginys: "Narbutas vaizduoja Dorpato vyskupą Teodorą, baimindamąsi dėl galimo arkivyskupijos nusavinimo, aktyviai rėmusį dvasininkiją ir besikreipusį pagalbos į švedus."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,16 +85,38 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   pagrindžia:
     - c-189012
 
-## Citatos
+<a id="claim-t-233275"></a>
+- t-004
+  teiginys: "Posadnikas Teodoras Narbuto pasakojime su bajorais buvo pasiųstas tarpininkauti, tačiau didysis kunigaikštis atsisakė tarpininkavimo ir liepė tęsti puolimą bei daužyti mūrus akmeniniais patrankų sviediniais."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:22Z"
+  pagrindžia:
+    - c-216095
 
-- id: c-76272
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 37"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 37."
+<a id="claim-t-233276"></a>
+- t-005
+  teiginys: "Posadnikai Joakimas ir Teodoras, kaip pasakoja Narbutas, pažadėjo Lietuvos iždui sumokėti 1 000 rublių (kiti nurodė 1 450); didžiojo kunigaikščio Bazilijaus atstovas Aleksandras Lykovas tarpininkavo jų susitarimui su Vytautu, kai buvo reikalaujama 3 000 rublių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:22Z"
+  pagrindžia:
+    - c-216096
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Prie krūtinšarvio pritvirtintos lapo formos pečių
-    apsaugos. Rankoje raitininkas laiko pusantros rankos
+    Rankoje raitininkas laiko pusantros rankos
     XIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją
 
     Kijevo prijungimą tuo metu prie
@@ -120,14 +124,12 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
     kiai šaltiniai kiek vėliau, 1330-1331 m. jau
     aiškiai mini „Gedimino brolį“ Teodorą,
     Lietuvos valdovo vietininką Kijeve.
-  citata_rodoma: "Rankoje raitininkas laiko pusantros rankos\nXIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją\n\nKijevo prijungimą tuo metu prie\nLietuvos patvirtina faktas, kad vienalai-\nkiai šaltiniai kiek vėliau, 1330-1331 m. jau\naiškiai mini „Gedimino brolį“ Teodorą,\nLietuvos valdovo vietininką Kijeve."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  statusas: verified
+## Citatos
 
 - id: c-76275
   redaktorius: "A. Šapoka"
@@ -173,7 +175,7 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-189012
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -188,12 +190,34 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
     kurią pasirašė Vilniaus vyskupas Andrius, taip pat pirmieji Lie­
     tuvos didikai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
+
+- id: c-216095
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 394."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
     - t-004
 
-## Ryšiai
-- Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- id: c-216096
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 395"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 395."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005

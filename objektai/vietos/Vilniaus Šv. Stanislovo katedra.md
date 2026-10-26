@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vilniaus Šv. Stanislovo katedra'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
   - '1462 m.'
   - '1481 m.'
@@ -11,6 +12,7 @@ date_end: '1481'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - miestas
   - pilis
   - vieta
@@ -46,29 +48,10 @@ historical_names: []
 
 ## Teiginiai
 
-<a id="claim-t-86162"></a>
-- t-001
-  teiginys: "Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus Šv. Stanislovo katedra: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus Šv. Stanislovo katedra\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: iki 1481 m.; įvykio data: po 1462 m.; įvykio data: 1462 m.; įvykio data: 1481 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatos informacija apie katedrą."
-  pagrindžia:
-    - c-82142
-
 <a id="claim-t-86163"></a>
-- t-002
+- t-001
   teiginys: "Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,6 +64,36 @@ historical_names: []
   pagrindžia:
     - c-82141
 
+<a id="claim-t-233795"></a>
+- t-002
+  teiginys: "Narbuto teigimu, karalienė Bona Vilniaus Katedroje pastatė marmurinį antkapį, kurį Kojalavičius matė prie didžiojo altoriaus."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-216615
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1 9 1
+
+    ## Puslapis 208
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    8. Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko,
+    paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje
+    įrengęs Vyskupų koplyčią. Mirė 1481 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-82141
@@ -99,33 +112,21 @@ historical_names: []
     tinės Šv. Stanislovo katedroje jį iškilmingai paskelbė didžiuo­
     ju kunigaikščiu.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
-- id: c-82142
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 207-208"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207-208."
-  citata_originali: |
-    1 9 1
-
-    ## Puslapis 208
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    8. Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko,
-    paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje
-    įrengęs Vyskupų koplyčią. Mirė 1481 m.
-    9.
-  citata_rodoma: "1 9 1\n\n## Puslapis 208\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\n8. Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, \npaskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje \nįrengęs Vyskupų koplyčią. Mirė 1481 m."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-216615
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 439"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 439."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

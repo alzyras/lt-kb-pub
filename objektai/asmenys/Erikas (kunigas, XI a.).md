@@ -8,6 +8,7 @@ aliases:
   - 'Erikas'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos: []
 date_start: ''
 date_end: ''
@@ -40,14 +41,18 @@ canonical_biography: "Būk kariavęs ant galų galo su Eriku, norvegų, tai yra 
 
 ## Santrauka
 
-Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu. Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų.
+Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu. Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų. Narbutas nurodo, kad Erikas sudarė puolamąją ir gynybinę sutartį su Vladislovu ir Vytautu prieš kryžiuočius.
+
+## Santrauka
+
+Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu. Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų. Narbutas nurodo, kad Erikas sudarė puolamąją ir gynybinę sutartį su Vladislovu ir Vytautu prieš kryžiuočius.
 
 ## Teiginiai
 
 <a id="claim-t-201401"></a>
 - t-001
   teiginys: "Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,7 +64,7 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
 <a id="claim-t-201402"></a>
 - t-002
   teiginys: "Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų."
-  atnaujinta: "2026-07-16 14:32"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,6 +72,30 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184752
+
+<a id="claim-t-233177"></a>
+- t-003
+  teiginys: "Narbutas nurodo, kad Erikas sudarė puolamąją ir gynybinę sutartį su Vladislovu ir Vytautu prieš kryžiuočius."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-215997
+
+<a id="claim-t-233178"></a>
+- t-004
+  teiginys: "Į šias iškilmes Kroku von atvyko Romos karalius Zigmantas su žmona Barbora, Dani jos karalius Erikas, kunigaikštis Žygimantas Kaributaitis, popie žiaus legatas Branda, titulinis Šv."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-215998
 
 ## Citatos
 
@@ -114,3 +143,27 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-215997
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 341."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003
+
+- id: c-215998
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 380."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

@@ -3,6 +3,11 @@ tipas: daiktas
 pavadinimas: 'Ginklai'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis.
+Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis. 1230 m. popiežius Grigalius IX liepė Upsalos arkivyskupui ir Linköpingo vyskupui iškeikti krikščionis, parduodančius ginklą žemaičiams pagonims. Pasaulio sostinę didžiai nustebino neregėta pra banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio metu naudoti reikmenys spindėjo gintaru.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -46,7 +51,7 @@ Nenurodyta
 <a id="claim-t-185851"></a>
 - t-001
   teiginys: "Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +68,7 @@ Nenurodyta
     - c-169212
 
 <a id="claim-t-213031"></a>
-- t-213031
+- t-002
   teiginys: "Pasaulio sostinę didžiai nustebino neregėta pra banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio metu naudoti reikmenys spindėjo gintaru."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -76,7 +81,7 @@ Nenurodyta
     - c-194807
 
 <a id="claim-t-222405"></a>
-- t-222405
+- t-003
   teiginys: "1283 m. keturi broliai ir vienas tarnas su arkliais bei ginklais paskendo Nemune."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -88,7 +93,7 @@ Nenurodyta
     - c-205208
 
 <a id="claim-t-223123"></a>
-- t-223123
+- t-004
   teiginys: "Danijos karaliaus kariai teigė, kad dėl sunkių ginklų mūšyje negalėtų atsilaikyti be arklių."
   atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
@@ -99,6 +104,34 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-206133
+
+<a id="claim-t-233076"></a>
+- t-005
+  teiginys: "Narbutas aprašo, kad didysis magistras rengė pasipriešinimą: buvo liejami pabūklai, gaminami ginklai, o konventų riteriams įvesta karo reikalavimus atitinkanti tvarka."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:25Z"
+  pagrindžia:
+    - c-215896
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1230 m. popiežius Grigalius IX liepė Upsalos arkivyskupui ir Linköpingo vyskupui iškeikti krikščionis, parduodančius ginklą žemaičiams pagonims.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Lygia dalia popiežius Grigalius devintasis metuose 1230 liepė arkivyskupui Upsalos ir vyskupui Linkopingo iškeikti visus tuos krikščionis, kurie geležį, ginklą per jūrą žemaičiams pagonims pardavotų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Santrauka
+
+Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis. 1230 m. popiežius Grigalius IX liepė Upsalos arkivyskupui ir Linköpingo vyskupui iškeikti krikščionis, parduodančius ginklą žemaičiams pagonims. Pasaulio sostinę didžiai nustebino neregėta pra banga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto jų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio metu naudoti reikmenys spindėjo gintaru.
 
 ## Citatos
 
@@ -129,7 +162,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-194807
@@ -148,8 +181,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-213031
+  pagrindzia:
+    - t-002
 
 - id: c-205208
   autorius: "Petras Dusburgietis"
@@ -166,8 +199,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-222405
+  pagrindzia:
+    - t-003
 
 - id: c-206133
   autorius: "Petras Dusburgietis"
@@ -184,6 +217,35 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-223123
+  pagrindzia:
+    - t-004
 
+- id: c-211199
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 10"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 10."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-10-13 11:48"
+
+- id: c-211200
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 12"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 12."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-10-13 11:48"
+
+- id: c-215896
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 175"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 175."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005

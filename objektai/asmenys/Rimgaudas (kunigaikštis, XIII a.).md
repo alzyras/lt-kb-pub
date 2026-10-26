@@ -50,45 +50,6 @@ Teodoras Narbutas rašo, kad Algimanto sūnus ir įpėdinis Rimgaudas, jei tikė
 
 ## Teiginiai
 
-<a id="claim-t-206081"></a>
-- t-001
-  teiginys: "Teodoras Narbutas rašo, kad Algimanto sūnus ir įpėdinis Rimgaudas, jei tikėti genealogine lentele, valstybės valdžią perėmė sulaukęs 50 metų ir siekė suvienyti genties interesus."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188696
-
-<a id="claim-t-206082"></a>
-- t-002
-  teiginys: "Teodoras Narbutas perteikia metraštininkų teiginį, kad Rimgaudas be ginklo suvienijo lietuvių žemes ir kunigaikščių valdas, išskyrus Prūsiją bei Livoniją, o apskaičiavimai šį įvykį datuoja 1230 m."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188697
-
-<a id="claim-t-206084"></a>
-- t-003
-  teiginys: "Teodoras Narbutas rašo, kad Rimgaudas, žinodamas krikščionių ketinimus, buvo pasirengęs gintis: jo kariai traukė iš visų Lietuvos žemių, o vadai jungė dalinius dešiniajame Neries krante."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188699
-
 <a id="claim-t-206374"></a>
 - t-004
   teiginys: "Narbutas, lygindamas kronikų aprašymus su vietove, Rimgaudo 1233 m. mūšio su Livonijos riteriais vietą nustatė Užpalių apylinkėse."
@@ -101,6 +62,19 @@ Teodoras Narbutas rašo, kad Algimanto sūnus ir įpėdinis Rimgaudas, jei tikė
   vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
   pagrindžia:
     - c-188989
+
+<a id="claim-t-233264"></a>
+- t-233264
+  teiginys: "Teodoras Narbutas Lietuvos virtimą tikra monarchija siejo su trečiąja kunigaikščių dinastija ir rašė, kad Rimgaudas, o vėliau Mindaugas, valdė autokratiškai, kol revoliucijos nutraukė tokį valdymą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:21Z"
+  pagrindžia:
+    - c-216084
 
 ## Citatos
 
@@ -121,8 +95,6 @@ Teodoras Narbutas rašo, kad Algimanto sūnus ir įpėdinis Rimgaudas, jei tikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188697
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -143,8 +115,6 @@ Teodoras Narbutas rašo, kad Algimanto sūnus ir įpėdinis Rimgaudas, jei tikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-188699
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -167,8 +137,6 @@ Teodoras Narbutas rašo, kad Algimanto sūnus ir įpėdinis Rimgaudas, jei tikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-188989
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -183,5 +151,18 @@ Teodoras Narbutas rašo, kad Algimanto sūnus ir įpėdinis Rimgaudas, jei tikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-216084
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 447"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 447."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233264
+

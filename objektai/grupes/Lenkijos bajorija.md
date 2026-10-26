@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Lenkijos bajorija'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1413 m.'
@@ -38,7 +39,7 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
 <a id="claim-t-34373"></a>
 - t-001
   teiginys: "1413 m. Jogailos ir Vytauto unijos aktas numatė Lietuvos ir Lenkijos bajorijų pasitarimus dėl valstybės reikalų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,6 +54,19 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
   temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir sutrumpinti."
   pagrindžia:
     - c-35598
+
+<a id="claim-t-232988"></a>
+- t-002
+  teiginys: "Narbuto pasakojimu, siūlyta suvienodinti lenkų ir čekų bajorų privilegijas bei herbus, o Lenkijos bajorijai priėmus čekų herbus, tarp abiejų tautų įsivyravo taika ir vienybė visiems laikams."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:28Z"
+  pagrindžia:
+    - c-215808
 
 ## Citatos
 
@@ -69,9 +83,21 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
     tarimus apie valstybės reikalus (conventiones et parlamenta).
     Liubline ar Parčiove^2 ).
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-215808
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 276."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

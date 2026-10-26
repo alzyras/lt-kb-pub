@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Smolenskiečiai'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -33,7 +34,7 @@ Tos vė­ liavos buvusios smolenskiečių.
 <a id="claim-t-34366"></a>
 - t-001
   teiginys: "Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenkų ir narsiai kovėsi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -46,10 +47,10 @@ Tos vė­ liavos buvusios smolenskiečių.
   pagrindžia:
     - c-35591
 
-<a id="claim-t-187745"></a>
+<a id="claim-t-211179"></a>
 - t-002
   teiginys: "Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,8 +65,50 @@ Tos vė­ liavos buvusios smolenskiečių.
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
-    - c-170684
+    - c-193621
 
+<a id="claim-t-233032"></a>
+- t-003
+  teiginys: "Teodoras Narbutas vaizduoja, kad Smolenskiečiai, nekęsdami Jurgio dėl jo žiaurumo, norėjo atiduoti Smolenską lietuviams, tačiau sąmokslas buvo atskleistas."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:29Z"
+  pagrindžia:
+    - c-215852
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir užbaigė susitardami, kad jie patys užims
+    Vilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri­
+    gailai, kuris po Pabaisko pralaimėjimo mūšyje su My-
+    koliuku Zygimantaičiu buvo pabėgęs į Moldaviją ",
+    Ir, taip nutarę, išsiuntė dvarionį Skabeiką '5, kilusį
+    iš Kijevo, davė jam tris šimtus vežimų šieno, o kiek­
+    viename vežime po šienu paslėpė po penkis ginkluotus
+    vyrus, o vienas važnyčiojo; ir išsiuntė tą Skabeiką į
+    Trakus neva su dėkliniu šienu.
+    Išsiuntę Skabeiką, pasiuntė į Moldaviją16 ieškoti
+    kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras
+    Cartorijskis su Skabeika Verbų sekmadienį17 įvažiavo
+    į Trakų pilį. Tuo metu kunigaikščio Žygimanto sūnus
+    buvo išėjęs iš pilies į bažnyčią, o pats kunigaikštis Žy­
+    gimantas klausė mišių pilies miegamajame. Ir, kuni­
+    gaikščiui Cartorijskiui su Skabeika ir su visais tais
+    vežimais įvažiavus į pilį ir užrakinus vartus, visi tie vy­
+    rai išlindo iš vežimų ir metėsi stačiai į kunigaikščio Žy­
+    gimanto miegamąjį, kur jis klausė mišių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-35591
@@ -80,14 +123,14 @@ Tos vė­ liavos buvusios smolenskiečių.
     liavos buvusios smolenskiečių. Jos visą mūšį labai narsiai ko­
     vėsi.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
 
-- id: c-170684
+- id: c-193621
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 120"
@@ -107,9 +150,21 @@ Tos vė­ liavos buvusios smolenskiečių.
     ir jo sūnui kunigaikščiui Mykolui5 5 .
   citata_rodoma: "O \ngyvų paimta keturios dešimtys5 0  kunigaikščių su Kijevo \nmetropolitu6 I, jų vardais žinomi du: Kijevo kuni­\ngaikštis Ivanas Vladimirovičius 5 2 ir jo brolis Teodoras \nKaributaitis5 3 , o visų kitų vardai neužrašyti.\nPraėjus nuo to mūšio trims savaitėms, didysis ku­\nnigaikštis Žygimantas sutelkė visas savo lietuvių pa­\njėgas ir išsiuntė savo sūnų kunigaikštį Mykolą į Rusią. \nIr kunigaikštis Mykolas, tenai nuvykęs, apsistojo Or­\nšoje; smolenskiečiai pasitiko Oršoje kunigaikštį My­\nkolą ir pasidavė didžiajam kunigaikščiui Žygimantui \nir jo sūnui kunigaikščiui Mykolui5 5 ."
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-09-12 23:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-215852
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 100."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003

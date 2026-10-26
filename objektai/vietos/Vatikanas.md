@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vatikanas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Gedimino laiškai'
 datos:
   - '1925 m.'
   - '1927 m.'
@@ -49,7 +50,7 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 <a id="claim-t-181301"></a>
 - t-001
   teiginys: "Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -62,6 +63,22 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   pagrindžia:
     - c-164858
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Vatikano registrai skirstyti pagal laiškų tipus ir juos išleidusias įstaigas.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Popiežiaus archyvo tarnautojam s tokie laiškai buvo naudingi - jei reikėdavo kam
+    nors pasiųsti nesudėtingą laišką, jį galima buvo nukopijuoti nuo panašaus dokumento. Taip atsi­
+    tiko, kai į Gediminą 1324 m. birželio mėn. buvo kreiptasi taip pat kaip ir į serbų karalių Urošą III.
+    Vatikano registrai yra skirstomi pagal kaupiamų laiškų tipus ir įstaigą, kuri juos išleido: bendrąjį
+    (kanceliarijos), kurijos (iš Apašalų palatos), slaptąjį (sekretoriato) ir diversor (įvairūs)57
+    Registravimo mokestis 1324 m. siuntėjui iš Mazovijos kainavo 36 florinus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-164858
@@ -79,7 +96,7 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
     tokį Vatikano elgesį, kurio negalima buvo laikyti bešališku, ir
     dėl to santykiai su Vatikanu nutrūko.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

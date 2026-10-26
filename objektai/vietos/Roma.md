@@ -3,11 +3,13 @@ tipas: vieta
 pavadinimas: 'Roma'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Gedimino laiškai'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1317 m.'
   - '1975 m.'
   - '1978 m.'
-date_start: '1975'
+date_start: '1317'
 date_end: '1978'
 sukurta: ''
 atnaujinta: ''
@@ -15,6 +17,7 @@ tags:
   - vieta
   - miestas
 amziai:
+  - 'XIV'
   - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -33,7 +36,7 @@ canonical_name: "Roma"
 entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Roma"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q220"]
 canonical_biography: "Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą. Roma: ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą. Roma: pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie- žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos pravoslavų vardu padarė bažnytinę uniją."
 place_authority: true
 historical_names: []
@@ -46,31 +49,29 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 
 ## Teiginiai
 
-<a id="claim-t-180499"></a>
-- t-001
-  teiginys: "Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Husitai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Roma: owner_note_path, place"
-  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Roma\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164108
-
 <a id="claim-t-180501"></a>
-- t-002
+- t-001
   teiginys: "1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-164107
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Gedimino laiškų įvade nurodoma, kad 1317 m. popiežiaus laiškais raginta pagonis ir stačiatikius kunigaikščius paklusti Romai, o Pietvakarių Rusios kunigaikščiai vadinti atskalūnais.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Jonas XXII turėjo
+    elgtis su Ordinu atsargiau, kad nepastūmėtų jo savo varžovo pusėn32.
+    1317 m. vasarį popiežius nusiuntė Gediminui ir Pietvakarių Rusios atskalūnams kunigaikš­
+    čiams laiškus. Juose ragino pagonis ir stačiatikius kunigaikščius paklusti Romai [12, 74].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-164107
@@ -93,7 +94,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-164108
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -106,14 +107,10 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     Ypatingai sekė jo užsimojimus Romos kurija, teisingai iš
     anksto numatydama jį veiksiant Lucke prieš Martyno V planus
     dėl Čekų husitų reikalo. Roma buvo tvirtai įsitikinusi, kad tik
-    abu lietuviai, t. y. Vytautas ir Jogaila kaip reikiant galės iš­
-    spręsti šį husitų klausimą, dėl kurio tiek daug nerangumo ir ne­
-    pajėgumo parodė imperatorius Zigmantas L.^3 ).
-  citata_rodoma: "Neapsirikta ir šį kartą.\nYpatingai sekė jo užsimojimus Romos kurija, teisingai iš\nanksto numatydama jį veiksiant Lucke prieš Martyno V planus\ndėl Čekų husitų reikalo. Roma buvo tvirtai įsitikinusi, kad tik\nabu lietuviai, t."
+    abu lietuviai, t.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

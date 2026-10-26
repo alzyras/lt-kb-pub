@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "source": "workflow.sqlite3",
+  "source": "postgresql:lithuanianhistory.workflow",
   "contract": {
     "claims_missing_global_id": 0,
     "contradictory_public_claims": 0,

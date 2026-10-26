@@ -2,8 +2,9 @@
 
 `npm run build` yra patikrintas pilnas build iš jau eksportuotų public failų.
 `npm run regenerate -- --output PATH` naudoja auto režimą ir tą patį runnerį,
-bet neprijungia privačios SQLite duomenų bazės. End-to-end projekciją iš DB
-pradėkite komanda iš `lt-kb` repo:
+bet neprijungia privačios PostgreSQL duomenų bazės. End-to-end projekciją iš DB
+pradėkite komanda iš `lt-kb` repo; projekcija skaitoma iš
+`lithuanianhistory.workflow` PostgreSQL schemos:
 
 ```sh
 uv run lt-kb site regenerate

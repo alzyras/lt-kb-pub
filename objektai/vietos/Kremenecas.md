@@ -2,13 +2,14 @@
 tipas: vieta
 pavadinimas: 'Kremenecas'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1407 m.'
   - '1418 m.'
+  - '1551 m.'
 date_start: '1407'
-date_end: '1418'
+date_end: '1551'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +17,7 @@ tags:
   - vieta
 amziai:
   - 'XV'
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,14 +44,14 @@ historical_names: []
 
 ## Santrauka
 
-Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m.
+Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­ tas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė pabėgti — vėl pas kryžiuočius — tik 1418 m. Dar tebevykstant Maskvos žygiams.
 
 ## Teiginiai
 
 <a id="claim-t-32259"></a>
 - t-001
   teiginys: "Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,6 +66,19 @@ historical_names: []
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-33900
+
+<a id="claim-t-233513"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad kunigaikštį Švitrigailą už maištą ir ryšius su tėvynės priešais laikė Voluinės Kremenece, kurio pilies sargybai vadovavo iš Prūsijos kilęs Lenkijos bajoras Konradas Frankenbergas."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:40Z"
+  pagrindžia:
+    - c-216333
 
 ## Citatos
 
@@ -89,3 +104,15 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-216333
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 324."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

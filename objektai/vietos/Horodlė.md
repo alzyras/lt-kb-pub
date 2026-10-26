@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Horodlė'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1413 m.'
@@ -33,7 +34,7 @@ canonical_name: "Horodlė"
 entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Horodlė"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q934815"]
 canonical_biography: "2 d. Horodlės miestelyje (prie Būgo upės)."
 place_authority: true
 historical_names: []
@@ -49,7 +50,7 @@ historical_names: []
 <a id="claim-t-34186"></a>
 - t-001
   teiginys: "1413 m. spalio 2 d. Jogaila sušaukė suvažiavimą Horodlės miestelyje prie Būgo upės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Būgas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,10 +66,10 @@ historical_names: []
   pagrindžia:
     - c-35411
 
-<a id="claim-t-188699"></a>
+<a id="claim-t-217658"></a>
 - t-002
   teiginys: "1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,7 +88,20 @@ historical_names: []
   temporalinis_llm_pakomentavimas: "Išskleistas Horodlės seimo kontekstas ir pašalinti OCR trūkiai. Teiginys nepapildytas detalėmis už citatos ribų."
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171588
+    - c-201297
+
+<a id="claim-t-233481"></a>
+- t-003
+  teiginys: "Horodlėje prie Bugo rugsėjį įvyko visuotinis abiejų tautų bajorų suvažiavimas."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:39Z"
+  pagrindžia:
+    - c-216301
 
 ## Citatos
 
@@ -103,14 +117,14 @@ historical_names: []
     Būgo upės). Suvažiavimo nutarimai palietė politinius Lietuvos
     ir Lenkijos santykius.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
 
-- id: c-171588
+- id: c-201297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 402"
@@ -125,9 +139,22 @@ historical_names: []
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-216301
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 277"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 277."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-003

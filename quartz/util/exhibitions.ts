@@ -11,6 +11,7 @@ import {
   type EvidenceEntry,
 } from "./citationFilter"
 import { mediaImageUrl, type MediaEntry } from "./objectMedia"
+import { resolveExhibitionNavigationMedia } from "./exhibitionMedia"
 import { loadCanonicalMediaCatalog } from "./mediaCatalog"
 import { createUniqueSlugMap, type FilePath } from "./path"
 import { objectClaimHref, objectDetailEvidenceFromFile } from "./objectDetail"
@@ -270,7 +271,11 @@ function resolveExhibition(
   const imageUrls: string[] = []
   const sections: ExhibitionSection[] = []
   for (const section of source.sections) {
-    const navMedia = mediaById.get(section.navMediaId)
+    const navMedia = resolveExhibitionNavigationMedia(
+      section.navMediaId,
+      section.items,
+      mediaById,
+    )
     if (!navMedia) {
       throw new Error(
         `${source.exhibitionId}/${section.sectionId}: navigation media ${section.navMediaId} was not found`,

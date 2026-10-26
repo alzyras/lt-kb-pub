@@ -2,6 +2,8 @@
 tipas: vieta
 pavadinimas: 'Suražas'
 saltiniai:
+  - 'Gedimino laiškai'
+  - 'Lietuvių tautos istorija, t. 5'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -34,14 +36,14 @@ historical_names: []
 
 ## Santrauka
 
-Nenurodyta
+Jonušas puolė Suražą.
 
 ## Teiginiai
 
 <a id="claim-t-206581"></a>
 - t-001
   teiginys: "Narbutas Suražą apibūdina kaip prie Narvos stovėjusią tvirtovę, Jogailos užleistą Henrikui Mazoviečiui."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -51,6 +53,18 @@ Nenurodyta
   pagrindžia:
     - c-189196
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Pornikas iš Suražo paėmė dukrą Antanę, senelį, pusbrolį, tetą ir pusseserę.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Pornikas iš Suražo paėmė dukrą Antanę, senelį ir
+    pusbrolį, tetą bei pusseserę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-189196

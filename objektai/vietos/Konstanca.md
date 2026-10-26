@@ -4,9 +4,11 @@ pavadinimas: 'Konstanca'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1415 m.'
+  - '1417 m.'
   - '1418 m.'
   - '2026 m.'
 date_start: '1415'
@@ -52,7 +54,7 @@ historical_names: []
 <a id="claim-t-68240"></a>
 - t-001
   teiginys: "Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas XXIII: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,7 +70,7 @@ historical_names: []
 <a id="claim-t-68241"></a>
 - t-002
   teiginys: "1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1415 m."
@@ -80,7 +82,7 @@ historical_names: []
 <a id="claim-t-68242"></a>
 - t-003
   teiginys: "G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Konstanca: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -97,10 +99,10 @@ historical_names: []
   pagrindžia:
     - c-24199
 
-<a id="claim-t-188725"></a>
+<a id="claim-t-218636"></a>
 - t-004
   teiginys: "Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,8 +117,65 @@ historical_names: []
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171614
+    - c-201234
 
+<a id="claim-t-233510"></a>
+- t-005
+  teiginys: "Teodoro Narbuto pasakojime 1417 m. sausį Romos karaliui grįžus į Konstancą ir susirinkus Ordiną palaikantiems kunigaikščiams, didysis magistras pasiuntė ten gausią Prūsijos bajorų ir miestiečių delegaciją."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:40Z"
+  pagrindžia:
+    - c-216330
+
+<a id="claim-t-233511"></a>
+- t-006
+  teiginys: "Jonas Falkenbergas, dominikonų vienuolis ir teologijos magistras iš vieno Pamario vienuolyno, tuo metu buvo atvykęs į Konstancą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:40Z"
+  pagrindžia:
+    - c-216331
+
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė­
+    ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos
+    katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo
+    kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
+    krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
+    ri laikytina grynai stabmeldiška.
+    Antra vertus, reikia atkreipti dėmesį, kad katalikų bažny­
+    čioje yra ne vienos religinės apeigos, kurioms įprasta suteikti
+    naują vardą: krikštijimas vandeniu, patepimas šventais alie­
+    jais, sutvirtinimas, įstojimas į vienuolius. Todėl, šitaip žiūrint,
+    lietuvių tautybės asmenys, kad ir kokio būtų tikėjimo, priima­
+    mi kryžiuočių ar lenkų į katalikų bažnyčios bendrystę, nors
+    jau ir būtų buvę pirmiau pakrikštyti kito tikėjimo krikščionių
+    kunigų, galėjo pasikrikštyti patepant šventais aliejais arba su­
+    teikiant sutvirtinimo sakramentą ir gauti kitus vardus, nors iš
+    tikrųjų krikšto sakramentas nebūdavo pakartojamas.
+    Apie lietuvių herbus
+    Čia derėtų paminėti kai kuriuos senuosius lietuvių her­
+    bus, kurie susiję su mitologija5.
+    4 Baptismus Ruthenorum, cum Bulla Alexandri Papae, de non
+    rebaptisandis Ruthenis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-24199
@@ -173,14 +232,14 @@ historical_names: []
     kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje
     (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
 
-- id: c-171614
+- id: c-201234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 399"
@@ -209,13 +268,37 @@ historical_names: []
     čioje.
   citata_rodoma: "Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­\njoje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte\napie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­\nsirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik\natverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­\nmas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­\nnyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­\nmą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą\nkartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį\n398\n\n## Puslapis 398\n\npatarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;\njis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­\nka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­\nčioje."
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
 
+- id: c-216330
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 318."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005
+
+- id: c-216331
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 318."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-006
+
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Jeronimas Prahiškis]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila (Lenkijos karalius, XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -8,6 +8,7 @@ aliases:
   - 'kailiniai'
 saltiniai:
   - 'Lituanistika-3-Kazimiero-Jogailaicio-dvaras'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -27,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vienas Kazimiero dvaro tarnas, pasak šaltinio, buvo įkeitęs kailinius už žuvis, o karalius juos vėliau išpirko.
+Vienas Kazimiero dvaro tarnas, pasak šaltinio, buvo įkeitęs kailinius už žuvis, o karalius juos vėliau išpirko. Didysis kunigaikštis Konradui siuntė brangius kailinius kartu su ištvermingais žirgais, azijietiškais audiniais, atlasais ir sabalais.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -49,7 +50,7 @@ Nenurodyta
 <a id="claim-t-202458"></a>
 - t-001
   teiginys: "Vienas Kazimiero dvaro tarnas, pasak šaltinio, buvo įkeitęs kailinius už žuvis, o karalius juos vėliau išpirko."
-  atnaujinta: "2026-07-24 14:22"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,6 +66,23 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-24T11:16:16Z"
   pagrindžia:
     - c-185805
+
+<a id="claim-t-233078"></a>
+- t-002
+  teiginys: "Didysis kunigaikštis Konradui siuntė brangius kailinius kartu su ištvermingais žirgais, azijietiškais audiniais, atlasais ir sabalais."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:26Z"
+  pagrindžia:
+    - c-215898
+
+## Santrauka
+
+Vienas Kazimiero dvaro tarnas, pasak šaltinio, buvo įkeitęs kailinius už žuvis, o karalius juos vėliau išpirko. Didysis kunigaikštis Konradui siuntė brangius kailinius kartu su ištvermingais žirgais, azijietiškais audiniais, atlasais ir sabalais.
 
 ## Citatos
 
@@ -85,9 +103,22 @@ Nenurodyta
     už žuvis, o paskui karalius juos išpirko
     6 5.
   statusas: verified
-  atnaujinta: "2026-07-24 14:16"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-05 15:20"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-215898
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 145."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

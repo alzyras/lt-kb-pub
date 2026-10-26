@@ -3,11 +3,12 @@ tipas: autorius
 pavadinimas: 'Adomas Honorijus Kirkoras'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
-  - '1857 m.'
-  - '1859 m.'
-date_start: '1857'
-date_end: '1859'
+  - '1818 m.'
+  - '1886 m.'
+date_start: '1818'
+date_end: '1886'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -48,7 +49,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
 <a id="claim-t-54996"></a>
 - t-001
   teiginys: "Adomas Honorijus Kirkoras 1857–1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“)."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "gap::authors"
   ryšio_patikimumas: "susije_su -> Vilniaus Senienų muziejus: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,7 +68,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
 <a id="claim-t-81882"></a>
 - t-002
   teiginys: "Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“)."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "gap::authors"
   ryšio_patikimumas: "susije_su -> Vilniaus Senienų muziejus: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -86,7 +87,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
 <a id="claim-t-81883"></a>
 - t-003
   teiginys: "1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "gap::authors"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -101,6 +102,21 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Kirkoro pastebėjimą, kurį patvirtina citata."
   pagrindžia:
     - c-78419
+
+<a id="claim-t-233091"></a>
+- t-004
+  teiginys: "A. H. Kirkoro teigimu, 1851 m. E. Tiškevičius paskatino M. Homolickį vėl nagrinėti Vytauto kapavietės Vilniaus katedroje mįslę, nes kilo sumanymas bent iš dalies rekonstruoti karalienės Bonos statytą paminklą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1851 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas sakinys, aiškiai perteikiantis Kirkoro nurodytą paskatą ir išlaikantis jo pasakojimo atribuciją."
+  pagrindžia:
+    - c-215911
 
 ## Citatos
 
@@ -119,7 +135,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
     tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
     tiečių kilęs švietėjas Mikalojus Akelaitis.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,9 +156,21 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
     norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas
     miestas jau turi savo istorikus.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-215911
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 59."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

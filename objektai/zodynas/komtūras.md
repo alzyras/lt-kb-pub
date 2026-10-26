@@ -4,21 +4,25 @@ pavadinimas: 'komtūras'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1346 m.'
   - '1348 m.'
   - '1383 m.'
+  - '1419 m.'
 date_start: '1346'
-date_end: '1383'
+date_end: '1419'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ordinas
   - sąvoka
   - pareigybė
   - karinis-terminas
 amziai:
   - 'XIV'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +47,7 @@ media_all_json: |-
 <a id="claim-t-182848"></a>
 - t-001
   teiginys: "Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -59,7 +63,7 @@ media_all_json: |-
 <a id="claim-t-183715"></a>
 - t-002
   teiginys: "1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -81,7 +85,7 @@ media_all_json: |-
 <a id="claim-t-183834"></a>
 - t-003
   teiginys: "Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -97,6 +101,31 @@ media_all_json: |-
   semantiniai_rysiai: "Gotfridas Lindenas puolė Vilnius (0.83)"
   pagrindžia:
     - c-167219
+
+<a id="claim-t-221074"></a>
+- t-004
+  teiginys: "1327 metais brolis Hermanas buvo Elbingo komtūras ir didysis Ordino špitolininkas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204086
+
+<a id="claim-t-233130"></a>
+- t-005
+  teiginys: "1419 m. pradžioje Vytautas, pasak Narbuto, priekaištavo Ordinui dėl Ragnitos komtūro laikomų į Prūsiją pabėgusių rusėnų neišdavimo."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:48Z"
+  pagrindžia:
+    - c-215950
 
 ## Citatos
 
@@ -114,7 +143,7 @@ media_all_json: |-
     buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
     tatėvis, Ragainės komtūras.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,3 +190,33 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-204086
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
+  citata_originali: |
+    1327 viešpaties metais brolis Hermanas, Elbingo komtūras bei didysis Ordino
+    špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600,
+    gavusį vardą nuo ežero, kurio pakrantėje jis ir buvęs įkurdintas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-215950
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 338."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005

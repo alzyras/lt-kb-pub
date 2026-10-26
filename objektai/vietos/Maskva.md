@@ -1,72 +1,66 @@
 ---
 tipas: vieta
-pavadinimas: Maskva
+pavadinimas: 'Maskva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 3'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 datos:
-  - 1349 m.
-  - 1372 m.
-  - 1387 m.
-  - 1388 m.
-  - 1426 m.
-  - 1427 m.
-  - 1428 m.
-  - 1430 m.
-  - 1494 m.
-  - 1495 m.
-  - 1609 m.
+  - '1349 m.'
+  - '1372 m.'
+  - '1387 m.'
+  - '1388 m.'
+  - '1494 m.'
+  - '1495 m.'
+  - '1496 m.'
+  - '1500 m.'
+  - '1609 m.'
+  - '1926 m.'
+  - '1940 m.'
 date_start: '1349'
-date_end: '1609'
+date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - valstybė
 amziai:
-  - XIV
-  - XVII
+  - 'XIV'
+  - 'XX'
 media_total_count: '10'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png'
-media_primary_directness: direct
-media_primary_relation_type: map_of
-media_primary_json: '{"mediaId":"m-439de99642d154fd67b3e1f5","title":"Upper Oka Principalities 1462 ru.png","caption":"Maskva ir Aukštutinės Okos kunigaikštystės istorinis regionas apie 1462 m.","originalTitle":"Upper Oka Principalities 1462 ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":1107,"height":902,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Upper Oka Principalities","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.966164+03:00","reviewedAt":"2026-07-18T14:08:58.080925+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai pažymėta Москва; parodytas Maskvos kunigaikštystės ir aplinkinių teritorijų išsidėstymas.","metadataEvidence":"Aprašyme tiesiogiai nurodomi miestai, tarp jų Moscow (Москва), ir 1462 m. regionas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis žemėlapis, tiesiogiai vaizduojantis Maskvą.","isPrimary":0}'
-media_direct_json: '[{"mediaId":"m-48060bd6fa4a1335a5ac9fb6","title":"Vasnetsov Moskovsky Kreml pri Ivane III.jpg","caption":"Maskvos Kremliaus vaizdas Ivano III laikais","originalTitle":"Vasnetsov Moskovsky Kreml pri Ivane III.jpg","creator":"Apollinary Vasnetsov","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://vasnec.ru/kartina4.php","dateDisplay":"1921 date QS:P571,+1921-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1200,"height":846,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow Kremlin in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-Russia)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pages with complex technique templates","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings by Apollinary Vasnetsov in the Museum of Moscow History","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Watercolor paintings by Apollinary Vasnetsov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Watercolor paintings of the Moscow Kremlin by Apollinary Vasnetsov","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.990312+03:00","reviewedAt":"2026-07-18T14:08:58.123932+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istoristinė Maskvos Kremliaus panorama su gynybinėmis sienomis, bokštais, gyvenamaisiais ir sakraliniais pastatais.","metadataEvidence":"Kandidato pavadinimas aiškiai nurodo „The Moscow Kremlin in the era of Ivan III“, autorius Apollinary Vasnetsov, 1921 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Maskvos istorinį centrą ir Kremlių.","isPrimary":1},{"mediaId":"m-939c0465dbc2aad751f17539","title":"Cathedral of the Annunciation and Cathedral of the Archangel Michael (19964208105).jpg","caption":"Maskvos Kremliaus Apreiškimo ir Arkangelo Mykolo katedros.","originalTitle":"Cathedral of the Annunciation and Cathedral of the Archangel Michael (19964208105).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Cathedral of the Annunciation and Cathedral of the Archangel Michael","dateDisplay":"Taken on 4 October 2014, 17:20","dateStart":null,"dateEnd":null,"width":5520,"height":3680,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg/1920px-Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of Annunciation Cathedral in Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-04","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.974963+03:00","reviewedAt":"2026-07-18T14:08:58.096813+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos Maskvos Kremliaus Katedros aikštės katedros ir jų auksiniai kupolai.","metadataEvidence":"Aprašyme tiesiogiai nurodyta Moscow Kremlin ir Cathedral Square.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Nuotrauka aiškiai vaizduoja Maskvoje esantį konkretų istorinį objektą.","isPrimary":0},{"mediaId":"m-256a0194cdf870fde1a8c95a","title":"Church of the Twelve Apostles (19342847674).jpg","caption":"Maskvos Kremliaus Dvylikos Apaštalų cerkvė.","originalTitle":"Church of the Twelve Apostles (19342847674).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Church of the Twelve Apostles","dateDisplay":"Taken on 4 October 2014, 17:25","dateStart":null,"dateEnd":null,"width":5520,"height":3680,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChurch_of_the_Twelve_Apostles_%2819342847674%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg/1920px-Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Church of the Twelve Apostles, Moscow - south facade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-04","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.975402+03:00","reviewedAt":"2026-07-18T14:08:58.100474+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma balta penkiakupolė Dvylikos Apaštalų cerkvė Maskvos Kremliaus teritorijoje.","metadataEvidence":"Pavadinimas ir aprašymas aiškiai identifikuoja Church of the Twelve Apostles kaip Maskvos Kremliaus objektą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuojamas istorinis Maskvos objektas.","isPrimary":0},{"mediaId":"m-1128e3848ce41fa00fbd0aa3","title":"Golden domes at Cathedral Square (inside the Moscow Kremlin) (19968714741).jpg","caption":"Maskvos Kremliaus Soboro aikštė su cerkvėmis ir Ivano Didžiojo varpine.","originalTitle":"Golden domes at Cathedral Square (inside the Moscow Kremlin) (19968714741).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Golden domes at Cathedral Square (inside the Moscow Kremlin)","dateDisplay":"Taken on 3 October 2014, 16:50","dateStart":null,"dateEnd":null,"width":7360,"height":4912,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGolden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg/1920px-Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-03","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Views of Moscow Kremlin from Bolshoy Moskvoretsky Bridge","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.979058+03:00","reviewedAt":"2026-07-18T14:08:58.103662+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi Maskvos Kremliaus auksiniai kupolai, Ivano Didžiojo varpinė ir Kremliaus sienos.","metadataEvidence":"Pavadinime ir apraše tiksliai nurodyta Cathedral Square inside the Moscow Kremlin.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis aiškiai atpažįstamos Maskvos panoramos vaizdas.","isPrimary":0},{"mediaId":"m-20b8adef5f2e5b4eb6990380","title":"Iw. P. MARTOS Denkm. Minin u. Požarskij, 1804- - 18 -- Moskau, Roter Platz - 88 - 137.78.jpg","caption":"Minino ir Požarskio paminklas Raudonojoje aikštėje; fone – Šv. Vasilijaus soboras Maskvoje.","originalTitle":"Iw. P. MARTOS Denkm. Minin u. Požarskij, 1804- - 18 -- Moskau, Roter Platz - 88 - 137.78.jpg","creator":"Peter H. Feist","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Feist collection of slides, resource ID 11561","dateDisplay":"1988","dateStart":null,"dateEnd":null,"width":519,"height":724,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AIw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks main subject 3D work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks main subject type unknown type of work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with main subject different depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Feist collection of photographs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monument to Minin and Pozharsky in Moscow (front)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pages with complex technique templates","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red Square in 1988","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.980714+03:00","reviewedAt":"2026-07-18T14:08:58.107137+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas Minino ir Požarskio paminklas, už jo – Šv. Vasilijaus soboro kupolai.","metadataEvidence":"Pavadinime nurodyta Maskva ir Raudonoji aikštė; apraše patvirtintas paminklas bei bazilika.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkrečią Maskvos vietą ir jos istorinius orientyrus.","isPrimary":0},{"mediaId":"m-951fd46b2b6a606b7215319e","title":"Moscow satellite image.jpeg","caption":"Maskvos palydovinis vaizdas, kuriame matoma miesto urbanizuota teritorija ir Maskvos upė.","originalTitle":"Moscow satellite image.jpeg","creator":"NASA/USGS EROS Data Center Satellite Systems Branch/Landsat 7/ETM+","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"NASA Visible Earth project, http://visibleearth.nasa.gov/view_rec.php?id=3434","dateDisplay":"2 August 2002","dateStart":null,"dateEnd":null,"width":1000,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMoscow_satellite_image.jpeg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Landsat images of Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD NASA","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD USGS","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Summer 2002 in Moscow","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.986645+03:00","reviewedAt":"2026-07-18T14:08:58.116718+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas tankus miesto branduolys, upė, keliai, dirbami laukai ir aplinkiniai miškai.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Moscow bei Landsat 7 palydovinį vaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Maskvos miesto vaizdas iš palydovo.","isPrimary":0},{"mediaId":"m-4ebe82158ae7283d31edc1f8","title":"Moscow, Russia - Flickr - NASA Goddard Photo and Video.jpg","caption":"Maskvos palydovinis vaizdas, kuriame matoma miesto urbanizuota teritorija ir Maskvos upė.","originalTitle":"Moscow, Russia - Flickr - NASA Goddard Photo and Video.jpg","creator":"NASA Goddard Space Flight Center from Greenbelt, MD, USA","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Moscow, Russia","dateDisplay":"2012-07-26 13:50","dateStart":null,"dateEnd":null,"width":1000,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMoscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from NASA Goddard Space Flight Center Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD NASA","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures by Landsat 7","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures of Moscow","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.986100+03:00","reviewedAt":"2026-07-18T14:08:58.111330+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma didelė urbanizuota teritorija, vingiuojanti upė ir aplinkiniai kraštovaizdžiai.","metadataEvidence":"Pavadinimas yra „Moscow, Russia“, o NASA aprašas aiškiai nurodo Maskvą ir Landsat 7 palydovinį vaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Maskvos miesto teritoriją iš palydovo.","isPrimary":0},{"mediaId":"m-439de99642d154fd67b3e1f5","title":"Upper Oka Principalities 1462 ru.png","caption":"Maskva ir Aukštutinės Okos kunigaikštystės istorinis regionas apie 1462 m.","originalTitle":"Upper Oka Principalities 1462 ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":1107,"height":902,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Upper Oka Principalities","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.966164+03:00","reviewedAt":"2026-07-18T14:08:58.080925+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai pažymėta Москва; parodytas Maskvos kunigaikštystės ir aplinkinių teritorijų išsidėstymas.","metadataEvidence":"Aprašyme tiesiogiai nurodomi miestai, tarp jų Moscow (Москва), ir 1462 m. regionas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis žemėlapis, tiesiogiai vaizduojantis Maskvą.","isPrimary":0},{"mediaId":"m-730816417aab2f0715740ed9","title":"VKL-1462-ru.png","caption":"Lietuvos Didžiosios Kunigaikštystės teritorija ir Maskva apie 1462 m.","originalTitle":"VKL-1462-ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":2328,"height":1845,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVKL-1462-ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/VKL-1462-ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VKL-1462-ru.png/1920px-VKL-1462-ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/VKL-1462-ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.969824+03:00","reviewedAt":"2026-07-18T14:08:58.092926+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai matomas užrašas Москва Maskvos kunigaikštystės teritorijoje.","metadataEvidence":"Pavadinimas identifikuoja 1462 m. LDK žemėlapį; vizualus užrašas tiesiogiai nurodo Maskvą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Maskva yra aiškiai identifikuota istoriniame politiniame žemėlapyje.","isPrimary":0}]'
-media_contextual_json: '[{"mediaId":"m-e6fb0859cbbf0ce6bc97f69b","title":"NicholasKremlin.jpeg","caption":"Šv. Mikalojaus Mozajiečio ikona ant Maskvos Kremliaus Nikolskio bokšto.","originalTitle":"NicholasKremlin.jpeg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.cirota.ru/forum/view.php?subj=79505","dateDisplay":"end of 15th - beginning of 16th century","dateStart":null,"dateEnd":null,"width":405,"height":599,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANicholasKremlin.jpeg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.82},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.82},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.82},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.82},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Icon of Nikolskaya Tower","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T13:10:27.987947+03:00","reviewedAt":"2026-07-18T14:08:58.119734+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma šventojo ikona, įkomponuota į raudonų plytų Kremliaus bokšto fasadą.","metadataEvidence":"Aprašas tiksliai nurodo Saint Nicholas of Mozhaysk ikoną ant Nikolsky Tower of Moscow Kremlin.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne miesto atvaizdas, bet aiškiai dokumentuotas Maskvos Kremliaus simbolis.","isPrimary":0}]'
-media_all_json: '[{"mediaId":"m-48060bd6fa4a1335a5ac9fb6","title":"Vasnetsov Moskovsky Kreml pri Ivane III.jpg","caption":"Maskvos Kremliaus vaizdas Ivano III laikais","originalTitle":"Vasnetsov Moskovsky Kreml pri Ivane III.jpg","creator":"Apollinary Vasnetsov","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://vasnec.ru/kartina4.php","dateDisplay":"1921 date QS:P571,+1921-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1200,"height":846,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow Kremlin in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-Russia)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pages with complex technique templates","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings by Apollinary Vasnetsov in the Museum of Moscow History","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Watercolor paintings by Apollinary Vasnetsov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Watercolor paintings of the Moscow Kremlin by Apollinary Vasnetsov","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.990312+03:00","reviewedAt":"2026-07-18T14:08:58.123932+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istoristinė Maskvos Kremliaus panorama su gynybinėmis sienomis, bokštais, gyvenamaisiais ir sakraliniais pastatais.","metadataEvidence":"Kandidato pavadinimas aiškiai nurodo „The Moscow Kremlin in the era of Ivan III“, autorius Apollinary Vasnetsov, 1921 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Maskvos istorinį centrą ir Kremlių.","isPrimary":1},{"mediaId":"m-939c0465dbc2aad751f17539","title":"Cathedral of the Annunciation and Cathedral of the Archangel Michael (19964208105).jpg","caption":"Maskvos Kremliaus Apreiškimo ir Arkangelo Mykolo katedros.","originalTitle":"Cathedral of the Annunciation and Cathedral of the Archangel Michael (19964208105).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Cathedral of the Annunciation and Cathedral of the Archangel Michael","dateDisplay":"Taken on 4 October 2014, 17:20","dateStart":null,"dateEnd":null,"width":5520,"height":3680,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg/1920px-Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of Annunciation Cathedral in Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-04","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.974963+03:00","reviewedAt":"2026-07-18T14:08:58.096813+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos Maskvos Kremliaus Katedros aikštės katedros ir jų auksiniai kupolai.","metadataEvidence":"Aprašyme tiesiogiai nurodyta Moscow Kremlin ir Cathedral Square.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Nuotrauka aiškiai vaizduoja Maskvoje esantį konkretų istorinį objektą.","isPrimary":0},{"mediaId":"m-256a0194cdf870fde1a8c95a","title":"Church of the Twelve Apostles (19342847674).jpg","caption":"Maskvos Kremliaus Dvylikos Apaštalų cerkvė.","originalTitle":"Church of the Twelve Apostles (19342847674).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Church of the Twelve Apostles","dateDisplay":"Taken on 4 October 2014, 17:25","dateStart":null,"dateEnd":null,"width":5520,"height":3680,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChurch_of_the_Twelve_Apostles_%2819342847674%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg/1920px-Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Church of the Twelve Apostles, Moscow - south facade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-04","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.975402+03:00","reviewedAt":"2026-07-18T14:08:58.100474+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma balta penkiakupolė Dvylikos Apaštalų cerkvė Maskvos Kremliaus teritorijoje.","metadataEvidence":"Pavadinimas ir aprašymas aiškiai identifikuoja Church of the Twelve Apostles kaip Maskvos Kremliaus objektą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuojamas istorinis Maskvos objektas.","isPrimary":0},{"mediaId":"m-1128e3848ce41fa00fbd0aa3","title":"Golden domes at Cathedral Square (inside the Moscow Kremlin) (19968714741).jpg","caption":"Maskvos Kremliaus Soboro aikštė su cerkvėmis ir Ivano Didžiojo varpine.","originalTitle":"Golden domes at Cathedral Square (inside the Moscow Kremlin) (19968714741).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Golden domes at Cathedral Square (inside the Moscow Kremlin)","dateDisplay":"Taken on 3 October 2014, 16:50","dateStart":null,"dateEnd":null,"width":7360,"height":4912,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGolden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg/1920px-Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-03","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Views of Moscow Kremlin from Bolshoy Moskvoretsky Bridge","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.979058+03:00","reviewedAt":"2026-07-18T14:08:58.103662+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi Maskvos Kremliaus auksiniai kupolai, Ivano Didžiojo varpinė ir Kremliaus sienos.","metadataEvidence":"Pavadinime ir apraše tiksliai nurodyta Cathedral Square inside the Moscow Kremlin.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis aiškiai atpažįstamos Maskvos panoramos vaizdas.","isPrimary":0},{"mediaId":"m-20b8adef5f2e5b4eb6990380","title":"Iw. P. MARTOS Denkm. Minin u. Požarskij, 1804- - 18 -- Moskau, Roter Platz - 88 - 137.78.jpg","caption":"Minino ir Požarskio paminklas Raudonojoje aikštėje; fone – Šv. Vasilijaus soboras Maskvoje.","originalTitle":"Iw. P. MARTOS Denkm. Minin u. Požarskij, 1804- - 18 -- Moskau, Roter Platz - 88 - 137.78.jpg","creator":"Peter H. Feist","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Feist collection of slides, resource ID 11561","dateDisplay":"1988","dateStart":null,"dateEnd":null,"width":519,"height":724,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AIw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks main subject 3D work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks main subject type unknown type of work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with main subject different depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Feist collection of photographs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monument to Minin and Pozharsky in Moscow (front)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pages with complex technique templates","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red Square in 1988","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.980714+03:00","reviewedAt":"2026-07-18T14:08:58.107137+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas Minino ir Požarskio paminklas, už jo – Šv. Vasilijaus soboro kupolai.","metadataEvidence":"Pavadinime nurodyta Maskva ir Raudonoji aikštė; apraše patvirtintas paminklas bei bazilika.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkrečią Maskvos vietą ir jos istorinius orientyrus.","isPrimary":0},{"mediaId":"m-951fd46b2b6a606b7215319e","title":"Moscow satellite image.jpeg","caption":"Maskvos palydovinis vaizdas, kuriame matoma miesto urbanizuota teritorija ir Maskvos upė.","originalTitle":"Moscow satellite image.jpeg","creator":"NASA/USGS EROS Data Center Satellite Systems Branch/Landsat 7/ETM+","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"NASA Visible Earth project, http://visibleearth.nasa.gov/view_rec.php?id=3434","dateDisplay":"2 August 2002","dateStart":null,"dateEnd":null,"width":1000,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMoscow_satellite_image.jpeg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Landsat images of Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD NASA","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD USGS","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Summer 2002 in Moscow","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.986645+03:00","reviewedAt":"2026-07-18T14:08:58.116718+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas tankus miesto branduolys, upė, keliai, dirbami laukai ir aplinkiniai miškai.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Moscow bei Landsat 7 palydovinį vaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Maskvos miesto vaizdas iš palydovo.","isPrimary":0},{"mediaId":"m-4ebe82158ae7283d31edc1f8","title":"Moscow, Russia - Flickr - NASA Goddard Photo and Video.jpg","caption":"Maskvos palydovinis vaizdas, kuriame matoma miesto urbanizuota teritorija ir Maskvos upė.","originalTitle":"Moscow, Russia - Flickr - NASA Goddard Photo and Video.jpg","creator":"NASA Goddard Space Flight Center from Greenbelt, MD, USA","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Moscow, Russia","dateDisplay":"2012-07-26 13:50","dateStart":null,"dateEnd":null,"width":1000,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMoscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from NASA Goddard Space Flight Center Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD NASA","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures by Landsat 7","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures of Moscow","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.986100+03:00","reviewedAt":"2026-07-18T14:08:58.111330+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma didelė urbanizuota teritorija, vingiuojanti upė ir aplinkiniai kraštovaizdžiai.","metadataEvidence":"Pavadinimas yra „Moscow, Russia“, o NASA aprašas aiškiai nurodo Maskvą ir Landsat 7 palydovinį vaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Maskvos miesto teritoriją iš palydovo.","isPrimary":0},{"mediaId":"m-439de99642d154fd67b3e1f5","title":"Upper Oka Principalities 1462 ru.png","caption":"Maskva ir Aukštutinės Okos kunigaikštystės istorinis regionas apie 1462 m.","originalTitle":"Upper Oka Principalities 1462 ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":1107,"height":902,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Upper Oka Principalities","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.966164+03:00","reviewedAt":"2026-07-18T14:08:58.080925+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai pažymėta Москва; parodytas Maskvos kunigaikštystės ir aplinkinių teritorijų išsidėstymas.","metadataEvidence":"Aprašyme tiesiogiai nurodomi miestai, tarp jų Moscow (Москва), ir 1462 m. regionas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis žemėlapis, tiesiogiai vaizduojantis Maskvą.","isPrimary":0},{"mediaId":"m-730816417aab2f0715740ed9","title":"VKL-1462-ru.png","caption":"Lietuvos Didžiosios Kunigaikštystės teritorija ir Maskva apie 1462 m.","originalTitle":"VKL-1462-ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":2328,"height":1845,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVKL-1462-ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/VKL-1462-ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VKL-1462-ru.png/1920px-VKL-1462-ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/VKL-1462-ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.969824+03:00","reviewedAt":"2026-07-18T14:08:58.092926+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai matomas užrašas Москва Maskvos kunigaikštystės teritorijoje.","metadataEvidence":"Pavadinimas identifikuoja 1462 m. LDK žemėlapį; vizualus užrašas tiesiogiai nurodo Maskvą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Maskva yra aiškiai identifikuota istoriniame politiniame žemėlapyje.","isPrimary":0},{"mediaId":"m-e6fb0859cbbf0ce6bc97f69b","title":"NicholasKremlin.jpeg","caption":"Šv. Mikalojaus Mozajiečio ikona ant Maskvos Kremliaus Nikolskio bokšto.","originalTitle":"NicholasKremlin.jpeg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.cirota.ru/forum/view.php?subj=79505","dateDisplay":"end of 15th - beginning of 16th century","dateStart":null,"dateEnd":null,"width":405,"height":599,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANicholasKremlin.jpeg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.82},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.82},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.82},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.82},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Icon of Nikolskaya Tower","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T13:10:27.987947+03:00","reviewedAt":"2026-07-18T14:08:58.119734+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma šventojo ikona, įkomponuota į raudonų plytų Kremliaus bokšto fasadą.","metadataEvidence":"Aprašas tiksliai nurodo Saint Nicholas of Mozhaysk ikoną ant Nikolsky Tower of Moscow Kremlin.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne miesto atvaizdas, bet aiškiai dokumentuotas Maskvos Kremliaus simbolis.","isPrimary":0}]'
-entity_id: ent-c0e1f1e4a8bc80c674deff9f
-canonical_name: Maskva
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Maskva
-sameAs: []
-canonical_biography: 'Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas ir ilgainiui išaugęs pavojus, pagal kurį autorius siūlo matyti Lietuvos istorijos lūžius. Šiame šaltinyje Maskva taip pat rodoma kaip Vytauto dinastinių planų ir artimos giminystės su Sofija centras.'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-439de99642d154fd67b3e1f5","title":"Upper Oka Principalities 1462 ru.png","caption":"Maskva ir Aukštutinės Okos kunigaikštystės istorinis regionas apie 1462 m.","originalTitle":"Upper Oka Principalities 1462 ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":1107,"height":902,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Upper Oka Principalities","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.966164+03:00","reviewedAt":"2026-07-18T14:08:58.080925+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai pažymėta Москва; parodytas Maskvos kunigaikštystės ir aplinkinių teritorijų išsidėstymas.","metadataEvidence":"Aprašyme tiesiogiai nurodomi miestai, tarp jų Moscow (Москва), ir 1462 m. regionas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis žemėlapis, tiesiogiai vaizduojantis Maskvą.","isPrimary":0,"identityVerified":false}
+media_direct_json: |-
+  [{"mediaId":"m-48060bd6fa4a1335a5ac9fb6","title":"Vasnetsov Moskovsky Kreml pri Ivane III.jpg","caption":"Maskvos Kremliaus vaizdas Ivano III laikais","originalTitle":"Vasnetsov Moskovsky Kreml pri Ivane III.jpg","creator":"Apollinary Vasnetsov","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://vasnec.ru/kartina4.php","dateDisplay":"1921 date QS:P571,+1921-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1200,"height":846,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow Kremlin in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-Russia)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pages with complex technique templates","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings by Apollinary Vasnetsov in the Museum of Moscow History","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Watercolor paintings by Apollinary Vasnetsov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Watercolor paintings of the Moscow Kremlin by Apollinary Vasnetsov","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.990312+03:00","reviewedAt":"2026-07-18T14:08:58.123932+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istoristinė Maskvos Kremliaus panorama su gynybinėmis sienomis, bokštais, gyvenamaisiais ir sakraliniais pastatais.","metadataEvidence":"Kandidato pavadinimas aiškiai nurodo „The Moscow Kremlin in the era of Ivan III“, autorius Apollinary Vasnetsov, 1921 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Maskvos istorinį centrą ir Kremlių.","isPrimary":1,"identityVerified":false},{"mediaId":"m-939c0465dbc2aad751f17539","title":"Cathedral of the Annunciation and Cathedral of the Archangel Michael (19964208105).jpg","caption":"Maskvos Kremliaus Apreiškimo ir Arkangelo Mykolo katedros.","originalTitle":"Cathedral of the Annunciation and Cathedral of the Archangel Michael (19964208105).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Cathedral of the Annunciation and Cathedral of the Archangel Michael","dateDisplay":"Taken on 4 October 2014, 17:20","dateStart":null,"dateEnd":null,"width":5520,"height":3680,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg/1920px-Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of Annunciation Cathedral in Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-04","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.974963+03:00","reviewedAt":"2026-07-18T14:08:58.096813+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos Maskvos Kremliaus Katedros aikštės katedros ir jų auksiniai kupolai.","metadataEvidence":"Aprašyme tiesiogiai nurodyta Moscow Kremlin ir Cathedral Square.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Nuotrauka aiškiai vaizduoja Maskvoje esantį konkretų istorinį objektą.","isPrimary":0,"identityVerified":false},{"mediaId":"m-256a0194cdf870fde1a8c95a","title":"Church of the Twelve Apostles (19342847674).jpg","caption":"Maskvos Kremliaus Dvylikos Apaštalų cerkvė.","originalTitle":"Church of the Twelve Apostles (19342847674).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Church of the Twelve Apostles","dateDisplay":"Taken on 4 October 2014, 17:25","dateStart":null,"dateEnd":null,"width":5520,"height":3680,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChurch_of_the_Twelve_Apostles_%2819342847674%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg/1920px-Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Church of the Twelve Apostles, Moscow - south facade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-04","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.975402+03:00","reviewedAt":"2026-07-18T14:08:58.100474+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma balta penkiakupolė Dvylikos Apaštalų cerkvė Maskvos Kremliaus teritorijoje.","metadataEvidence":"Pavadinimas ir aprašymas aiškiai identifikuoja Church of the Twelve Apostles kaip Maskvos Kremliaus objektą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuojamas istorinis Maskvos objektas.","isPrimary":0,"identityVerified":false},{"mediaId":"m-1128e3848ce41fa00fbd0aa3","title":"Golden domes at Cathedral Square (inside the Moscow Kremlin) (19968714741).jpg","caption":"Maskvos Kremliaus Soboro aikštė su cerkvėmis ir Ivano Didžiojo varpine.","originalTitle":"Golden domes at Cathedral Square (inside the Moscow Kremlin) (19968714741).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Golden domes at Cathedral Square (inside the Moscow Kremlin)","dateDisplay":"Taken on 3 October 2014, 16:50","dateStart":null,"dateEnd":null,"width":7360,"height":4912,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGolden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg/1920px-Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-03","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Views of Moscow Kremlin from Bolshoy Moskvoretsky Bridge","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.979058+03:00","reviewedAt":"2026-07-18T14:08:58.103662+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi Maskvos Kremliaus auksiniai kupolai, Ivano Didžiojo varpinė ir Kremliaus sienos.","metadataEvidence":"Pavadinime ir apraše tiksliai nurodyta Cathedral Square inside the Moscow Kremlin.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis aiškiai atpažįstamos Maskvos panoramos vaizdas.","isPrimary":0,"identityVerified":false},{"mediaId":"m-20b8adef5f2e5b4eb6990380","title":"Iw. P. MARTOS Denkm. Minin u. Požarskij, 1804- - 18 -- Moskau, Roter Platz - 88 - 137.78.jpg","caption":"Minino ir Požarskio paminklas Raudonojoje aikštėje; fone – Šv. Vasilijaus soboras Maskvoje.","originalTitle":"Iw. P. MARTOS Denkm. Minin u. Požarskij, 1804- - 18 -- Moskau, Roter Platz - 88 - 137.78.jpg","creator":"Peter H. Feist","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Feist collection of slides, resource ID 11561","dateDisplay":"1988","dateStart":null,"dateEnd":null,"width":519,"height":724,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AIw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks main subject 3D work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks main subject type unknown type of work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with main subject different depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Feist collection of photographs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monument to Minin and Pozharsky in Moscow (front)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pages with complex technique templates","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red Square in 1988","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.980714+03:00","reviewedAt":"2026-07-18T14:08:58.107137+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas Minino ir Požarskio paminklas, už jo – Šv. Vasilijaus soboro kupolai.","metadataEvidence":"Pavadinime nurodyta Maskva ir Raudonoji aikštė; apraše patvirtintas paminklas bei bazilika.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkrečią Maskvos vietą ir jos istorinius orientyrus.","isPrimary":0,"identityVerified":false},{"mediaId":"m-951fd46b2b6a606b7215319e","title":"Moscow satellite image.jpeg","caption":"Maskvos palydovinis vaizdas, kuriame matoma miesto urbanizuota teritorija ir Maskvos upė.","originalTitle":"Moscow satellite image.jpeg","creator":"NASA/USGS EROS Data Center Satellite Systems Branch/Landsat 7/ETM+","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"NASA Visible Earth project, http://visibleearth.nasa.gov/view_rec.php?id=3434","dateDisplay":"2 August 2002","dateStart":null,"dateEnd":null,"width":1000,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMoscow_satellite_image.jpeg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Landsat images of Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD NASA","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD USGS","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Summer 2002 in Moscow","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.986645+03:00","reviewedAt":"2026-07-18T14:08:58.116718+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas tankus miesto branduolys, upė, keliai, dirbami laukai ir aplinkiniai miškai.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Moscow bei Landsat 7 palydovinį vaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Maskvos miesto vaizdas iš palydovo.","isPrimary":0,"identityVerified":false},{"mediaId":"m-4ebe82158ae7283d31edc1f8","title":"Moscow, Russia - Flickr - NASA Goddard Photo and Video.jpg","caption":"Maskvos palydovinis vaizdas, kuriame matoma miesto urbanizuota teritorija ir Maskvos upė.","originalTitle":"Moscow, Russia - Flickr - NASA Goddard Photo and Video.jpg","creator":"NASA Goddard Space Flight Center from Greenbelt, MD, USA","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Moscow, Russia","dateDisplay":"2012-07-26 13:50","dateStart":null,"dateEnd":null,"width":1000,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMoscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from NASA Goddard Space Flight Center Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD NASA","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures by Landsat 7","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures of Moscow","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.986100+03:00","reviewedAt":"2026-07-18T14:08:58.111330+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma didelė urbanizuota teritorija, vingiuojanti upė ir aplinkiniai kraštovaizdžiai.","metadataEvidence":"Pavadinimas yra „Moscow, Russia“, o NASA aprašas aiškiai nurodo Maskvą ir Landsat 7 palydovinį vaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Maskvos miesto teritoriją iš palydovo.","isPrimary":0,"identityVerified":false},{"mediaId":"m-439de99642d154fd67b3e1f5","title":"Upper Oka Principalities 1462 ru.png","caption":"Maskva ir Aukštutinės Okos kunigaikštystės istorinis regionas apie 1462 m.","originalTitle":"Upper Oka Principalities 1462 ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":1107,"height":902,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Upper Oka Principalities","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.966164+03:00","reviewedAt":"2026-07-18T14:08:58.080925+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai pažymėta Москва; parodytas Maskvos kunigaikštystės ir aplinkinių teritorijų išsidėstymas.","metadataEvidence":"Aprašyme tiesiogiai nurodomi miestai, tarp jų Moscow (Москва), ir 1462 m. regionas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis žemėlapis, tiesiogiai vaizduojantis Maskvą.","isPrimary":0,"identityVerified":false},{"mediaId":"m-730816417aab2f0715740ed9","title":"VKL-1462-ru.png","caption":"Lietuvos Didžiosios Kunigaikštystės teritorija ir Maskva apie 1462 m.","originalTitle":"VKL-1462-ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":2328,"height":1845,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVKL-1462-ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/VKL-1462-ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VKL-1462-ru.png/1920px-VKL-1462-ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/VKL-1462-ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.969824+03:00","reviewedAt":"2026-07-18T14:08:58.092926+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai matomas užrašas Москва Maskvos kunigaikštystės teritorijoje.","metadataEvidence":"Pavadinimas identifikuoja 1462 m. LDK žemėlapį; vizualus užrašas tiesiogiai nurodo Maskvą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Maskva yra aiškiai identifikuota istoriniame politiniame žemėlapyje.","isPrimary":0,"identityVerified":false}]
+media_contextual_json: |-
+  [{"mediaId":"m-e6fb0859cbbf0ce6bc97f69b","title":"NicholasKremlin.jpeg","caption":"Šv. Mikalojaus Mozajiečio ikona ant Maskvos Kremliaus Nikolskio bokšto.","originalTitle":"NicholasKremlin.jpeg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.cirota.ru/forum/view.php?subj=79505","dateDisplay":"end of 15th - beginning of 16th century","dateStart":null,"dateEnd":null,"width":405,"height":599,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANicholasKremlin.jpeg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.82},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.82},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.82},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.82},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Icon of Nikolskaya Tower","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T13:10:27.987947+03:00","reviewedAt":"2026-07-18T14:08:58.119734+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma šventojo ikona, įkomponuota į raudonų plytų Kremliaus bokšto fasadą.","metadataEvidence":"Aprašas tiksliai nurodo Saint Nicholas of Mozhaysk ikoną ant Nikolsky Tower of Moscow Kremlin.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne miesto atvaizdas, bet aiškiai dokumentuotas Maskvos Kremliaus simbolis.","isPrimary":0,"identityVerified":false}]
+media_all_json: |-
+  [{"mediaId":"m-48060bd6fa4a1335a5ac9fb6","title":"Vasnetsov Moskovsky Kreml pri Ivane III.jpg","caption":"Maskvos Kremliaus vaizdas Ivano III laikais","originalTitle":"Vasnetsov Moskovsky Kreml pri Ivane III.jpg","creator":"Apollinary Vasnetsov","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://vasnec.ru/kartina4.php","dateDisplay":"1921 date QS:P571,+1921-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1200,"height":846,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/40/Vasnetsov_Moskovsky_Kreml_pri_Ivane_III.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow Kremlin in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-Russia)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pages with complex technique templates","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings by Apollinary Vasnetsov in the Museum of Moscow History","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Watercolor paintings by Apollinary Vasnetsov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Watercolor paintings of the Moscow Kremlin by Apollinary Vasnetsov","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.990312+03:00","reviewedAt":"2026-07-18T14:08:58.123932+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istoristinė Maskvos Kremliaus panorama su gynybinėmis sienomis, bokštais, gyvenamaisiais ir sakraliniais pastatais.","metadataEvidence":"Kandidato pavadinimas aiškiai nurodo „The Moscow Kremlin in the era of Ivan III“, autorius Apollinary Vasnetsov, 1921 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Maskvos istorinį centrą ir Kremlių.","isPrimary":1,"identityVerified":false},{"mediaId":"m-939c0465dbc2aad751f17539","title":"Cathedral of the Annunciation and Cathedral of the Archangel Michael (19964208105).jpg","caption":"Maskvos Kremliaus Apreiškimo ir Arkangelo Mykolo katedros.","originalTitle":"Cathedral of the Annunciation and Cathedral of the Archangel Michael (19964208105).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Cathedral of the Annunciation and Cathedral of the Archangel Michael","dateDisplay":"Taken on 4 October 2014, 17:20","dateStart":null,"dateEnd":null,"width":5520,"height":3680,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg/1920px-Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Cathedral_of_the_Annunciation_and_Cathedral_of_the_Archangel_Michael_%2819964208105%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exterior of Annunciation Cathedral in Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-04","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.974963+03:00","reviewedAt":"2026-07-18T14:08:58.096813+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos Maskvos Kremliaus Katedros aikštės katedros ir jų auksiniai kupolai.","metadataEvidence":"Aprašyme tiesiogiai nurodyta Moscow Kremlin ir Cathedral Square.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Nuotrauka aiškiai vaizduoja Maskvoje esantį konkretų istorinį objektą.","isPrimary":0,"identityVerified":false},{"mediaId":"m-256a0194cdf870fde1a8c95a","title":"Church of the Twelve Apostles (19342847674).jpg","caption":"Maskvos Kremliaus Dvylikos Apaštalų cerkvė.","originalTitle":"Church of the Twelve Apostles (19342847674).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Church of the Twelve Apostles","dateDisplay":"Taken on 4 October 2014, 17:25","dateStart":null,"dateEnd":null,"width":5520,"height":3680,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChurch_of_the_Twelve_Apostles_%2819342847674%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg/1920px-Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_the_Twelve_Apostles_%2819342847674%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Church of the Twelve Apostles, Moscow - south facade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-04","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.975402+03:00","reviewedAt":"2026-07-18T14:08:58.100474+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma balta penkiakupolė Dvylikos Apaštalų cerkvė Maskvos Kremliaus teritorijoje.","metadataEvidence":"Pavadinimas ir aprašymas aiškiai identifikuoja Church of the Twelve Apostles kaip Maskvos Kremliaus objektą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuojamas istorinis Maskvos objektas.","isPrimary":0,"identityVerified":false},{"mediaId":"m-1128e3848ce41fa00fbd0aa3","title":"Golden domes at Cathedral Square (inside the Moscow Kremlin) (19968714741).jpg","caption":"Maskvos Kremliaus Soboro aikštė su cerkvėmis ir Ivano Didžiojo varpine.","originalTitle":"Golden domes at Cathedral Square (inside the Moscow Kremlin) (19968714741).jpg","creator":"Jorge Láscar from Melbourne, Australia","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","licenseUrl":"https://creativecommons.org/licenses/by/2.0","attribution":"Golden domes at Cathedral Square (inside the Moscow Kremlin)","dateDisplay":"Taken on 3 October 2014, 16:50","dateStart":null,"dateEnd":null,"width":7360,"height":4912,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGolden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg/1920px-Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_domes_at_Cathedral_Square_%28inside_the_Moscow_Kremlin%29_%2819968714741%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Jorge Láscar Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR 2","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Moscow photographs taken on 2014-10-03","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Views of Moscow Kremlin from Bolshoy Moskvoretsky Bridge","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.979058+03:00","reviewedAt":"2026-07-18T14:08:58.103662+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi Maskvos Kremliaus auksiniai kupolai, Ivano Didžiojo varpinė ir Kremliaus sienos.","metadataEvidence":"Pavadinime ir apraše tiksliai nurodyta Cathedral Square inside the Moscow Kremlin.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis aiškiai atpažįstamos Maskvos panoramos vaizdas.","isPrimary":0,"identityVerified":false},{"mediaId":"m-20b8adef5f2e5b4eb6990380","title":"Iw. P. MARTOS Denkm. Minin u. Požarskij, 1804- - 18 -- Moskau, Roter Platz - 88 - 137.78.jpg","caption":"Minino ir Požarskio paminklas Raudonojoje aikštėje; fone – Šv. Vasilijaus soboras Maskvoje.","originalTitle":"Iw. P. MARTOS Denkm. Minin u. Požarskij, 1804- - 18 -- Moskau, Roter Platz - 88 - 137.78.jpg","creator":"Peter H. Feist","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Feist collection of slides, resource ID 11561","dateDisplay":"1988","dateStart":null,"dateEnd":null,"width":519,"height":724,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AIw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Iw._P._MARTOS_Denkm._Minin_u._Po%C5%BEarskij%2C_1804-_-_18_--_Moskau%2C_Roter_Platz_-_88_-_137.78.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks main subject 3D work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks main subject type unknown type of work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with main subject different depicts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Feist collection of photographs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monument to Minin and Pozharsky in Moscow (front)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pages with complex technique templates","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red Square in 1988","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.980714+03:00","reviewedAt":"2026-07-18T14:08:58.107137+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas Minino ir Požarskio paminklas, už jo – Šv. Vasilijaus soboro kupolai.","metadataEvidence":"Pavadinime nurodyta Maskva ir Raudonoji aikštė; apraše patvirtintas paminklas bei bazilika.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkrečią Maskvos vietą ir jos istorinius orientyrus.","isPrimary":0,"identityVerified":false},{"mediaId":"m-951fd46b2b6a606b7215319e","title":"Moscow satellite image.jpeg","caption":"Maskvos palydovinis vaizdas, kuriame matoma miesto urbanizuota teritorija ir Maskvos upė.","originalTitle":"Moscow satellite image.jpeg","creator":"NASA/USGS EROS Data Center Satellite Systems Branch/Landsat 7/ETM+","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"NASA Visible Earth project, http://visibleearth.nasa.gov/view_rec.php?id=3434","dateDisplay":"2 August 2002","dateStart":null,"dateEnd":null,"width":1000,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMoscow_satellite_image.jpeg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_satellite_image.jpeg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Landsat images of Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD NASA","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD USGS","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Summer 2002 in Moscow","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.986645+03:00","reviewedAt":"2026-07-18T14:08:58.116718+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas tankus miesto branduolys, upė, keliai, dirbami laukai ir aplinkiniai miškai.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Moscow bei Landsat 7 palydovinį vaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Maskvos miesto vaizdas iš palydovo.","isPrimary":0,"identityVerified":false},{"mediaId":"m-4ebe82158ae7283d31edc1f8","title":"Moscow, Russia - Flickr - NASA Goddard Photo and Video.jpg","caption":"Maskvos palydovinis vaizdas, kuriame matoma miesto urbanizuota teritorija ir Maskvos upė.","originalTitle":"Moscow, Russia - Flickr - NASA Goddard Photo and Video.jpg","creator":"NASA Goddard Space Flight Center from Greenbelt, MD, USA","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Moscow, Russia","dateDisplay":"2012-07-26 13:50","dateStart":null,"dateEnd":null,"width":1000,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMoscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow%2C_Russia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-2.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from NASA Goddard Space Flight Center Flickr stream","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Flickr images reviewed by FlickreviewR","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD NASA","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures by Landsat 7","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Satellite pictures of Moscow","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.986100+03:00","reviewedAt":"2026-07-18T14:08:58.111330+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma didelė urbanizuota teritorija, vingiuojanti upė ir aplinkiniai kraštovaizdžiai.","metadataEvidence":"Pavadinimas yra „Moscow, Russia“, o NASA aprašas aiškiai nurodo Maskvą ir Landsat 7 palydovinį vaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja Maskvos miesto teritoriją iš palydovo.","isPrimary":0,"identityVerified":false},{"mediaId":"m-439de99642d154fd67b3e1f5","title":"Upper Oka Principalities 1462 ru.png","caption":"Maskva ir Aukštutinės Okos kunigaikštystės istorinis regionas apie 1462 m.","originalTitle":"Upper Oka Principalities 1462 ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":1107,"height":902,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Upper Oka Principalities","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.966164+03:00","reviewedAt":"2026-07-18T14:08:58.080925+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai pažymėta Москва; parodytas Maskvos kunigaikštystės ir aplinkinių teritorijų išsidėstymas.","metadataEvidence":"Aprašyme tiesiogiai nurodomi miestai, tarp jų Moscow (Москва), ir 1462 m. regionas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis žemėlapis, tiesiogiai vaizduojantis Maskvą.","isPrimary":0,"identityVerified":false},{"mediaId":"m-730816417aab2f0715740ed9","title":"VKL-1462-ru.png","caption":"Lietuvos Didžiosios Kunigaikštystės teritorija ir Maskva apie 1462 m.","originalTitle":"VKL-1462-ru.png","creator":"Koryakov Yuri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"Own work","dateDisplay":"2007-01","dateStart":null,"dateEnd":null,"width":2328,"height":1845,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVKL-1462-ru.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/VKL-1462-ru.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VKL-1462-ru.png/1920px-VKL-1462-ru.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a9/VKL-1462-ru.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-2.5","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical map images that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Europe in the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Grand Principality of Moscow","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Russia in Russian","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing 1462","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PNG that should use vector graphics","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T13:10:27.969824+03:00","reviewedAt":"2026-07-18T14:08:58.092926+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai matomas užrašas Москва Maskvos kunigaikštystės teritorijoje.","metadataEvidence":"Pavadinimas identifikuoja 1462 m. LDK žemėlapį; vizualus užrašas tiesiogiai nurodo Maskvą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Maskva yra aiškiai identifikuota istoriniame politiniame žemėlapyje.","isPrimary":0,"identityVerified":false},{"mediaId":"m-e6fb0859cbbf0ce6bc97f69b","title":"NicholasKremlin.jpeg","caption":"Šv. Mikalojaus Mozajiečio ikona ant Maskvos Kremliaus Nikolskio bokšto.","originalTitle":"NicholasKremlin.jpeg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.cirota.ru/forum/view.php?subj=79505","dateDisplay":"end of 15th - beginning of 16th century","dateStart":null,"dateEnd":null,"width":405,"height":599,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANicholasKremlin.jpeg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/NicholasKremlin.jpeg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.82},{"code":"maskva","label":"maskva","facetKind":"tema","confidence":0.82},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.82},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.82},{"code":"sostinė","label":"sostinė","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Icon of Nikolskaya Tower","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Maskva.md","title":"Maskva","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T13:10:27.987947+03:00","reviewedAt":"2026-07-18T14:08:58.119734+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma šventojo ikona, įkomponuota į raudonų plytų Kremliaus bokšto fasadą.","metadataEvidence":"Aprašas tiksliai nurodo Saint Nicholas of Mozhaysk ikoną ant Nikolsky Tower of Moscow Kremlin.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne miesto atvaizdas, bet aiškiai dokumentuotas Maskvos Kremliaus simbolis.","isPrimary":0,"identityVerified":false}]
+entity_id: "ent-c0e1f1e4a8bc80c674deff9f"
+canonical_name: "Maskva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Maskva"]
+sameAs: ["https://www.wikidata.org/entity/Q649"]
+canonical_biography: "Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas ir ilgainiui išaugęs pavojus, pagal kurį autorius siūlo matyti Lietuvos istorijos lūžius. Šiame šaltinyje Maskva taip pat rodoma kaip Vytauto dinastinių planų ir artimos giminystės su Sofija centras."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Maskva","url":"https://lt.wikipedia.org/wiki/Maskva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-18T21:21:13+00:00","source_checked_at":"2026-09-18T21:21:13+00:00","counts":{"relations":49,"gallery":10,"sources":7},"featured_claim_ids":["t-177717","t-193215","t-177727","t-177784","t-177788","t-177809","t-177716"],"featured_claims":[{"claim_id":"t-177717","text":"Maskva, nepaisydama Lenkijos nepasitenkinimo, pripažino Lietuvos suverenitetą Vilniuje.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-161567"]},{"claim_id":"t-193215","text":"Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-175959"]},{"claim_id":"t-177727","text":"Maskva, siekdama sujungti visą Rusią, reiškė pretenzijas į Naugardo ir Pskovo respublikas.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-161636"]},{"claim_id":"t-177784","text":"Kazimiero Jogailaičio laikais Lietuvos valstybė Maskvai nebekėlė tikro pavojaus, nors politine jėga dar buvo už ją pranašesnė.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-05665"]},{"claim_id":"t-177788","text":"Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-161565"]},{"claim_id":"t-177809","text":"Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-161568"]},{"claim_id":"t-177716","text":"Per Lenkijos ultimatumą Maskva ir Berlynas Kaunui patarė priimti lenkų reikalavimus.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-161557"]}],"featured_quote":{"text":"Tad matydamas, kad geruoju neatgaus savo tėviškės — Trakų, Vytautas ėmė ruoštis kovai. Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su- siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask- vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-193213","evidence_id":"c-175957","origin":"internal"},"wiki":{"intro":"Maskva (rus. Москва) – Rusijos Federacijos sostinė, vienas iš trijų šalies federalinių miestų bei Centrinės federalinės apygardos ir Maskvos srities administracinis centras. Antras pagal dydį (po Stambulo) Europos miestas. 2022 m. sausio 1 d. duomenimis Maskvos aglomeracijoje gyvena 17,4 mln. žmonių.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"6445","revision_id":"7879571","status":"published","translation_status":"native","source":{"title":"Maskva","url":"https://lt.wikipedia.org/wiki/Maskva","publisher":"Vikipedija","language":"lt","article_id":"6445","revision_id":"7879571","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7879571","history_url":"https://lt.wikipedia.org/w/index.php?title=Maskva&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:19:52.072982+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"8d6977dbc74b273f8013a46425e025ab76d0e6572c53f6483e87ecfbc44afb53","version_pk":"89364361e80139d384ec1d4410764b67"}},"source_buttons":[{"label":"Vikipedija","title":"Maskva","url":"https://lt.wikipedia.org/wiki/Maskva","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Maskva"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"ef055e9c75f1a3315ce3d5c0","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Menka gyvenvietė","context":"Šaltinio autoriaus teigimu, tuo metu Maskva dar buvo menka gyvenvietė.","support_ids":["t-177788","c-161565"],"source_refs":[{"kind":"internal_claim","claim_id":"t-177788","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-161565","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­ vių, kad galėtų bent kiek paveikti kaimyninius kraštus."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Maskva – istorinė gyvenvietė ir politinis centras, Lietuvos istorijos šaltiniuose išryškėjantis kaip svarbi rytų kaimynė. Ankstyvuoju laikotarpiu ji dar buvo menka gyvenvietė, o pietų Rusioje klestėjęs Kijevas turėjo gerokai didesnę reikšmę. Vėliau, siekdama sujungti visą Rusią, Maskva reiškė pretenzijas į Naugardo ir Pskovo respublikas bei tapo Lietuvos rytų varžove. Vytauto santykiuose su Jogaila Maskva atliko diplomatinio artėjimo vaidmenį, o Švitrigailos laikais ji tapo jo sąjungininke kartu su Tvere ir Ordinu. Ilgainiui Maskva buvo suvokiama kaip imperines ambicijas išplėtojusi grėsmė Lietuvos didvalstybei, tačiau XX amžiuje ji taip pat pripažino Lietuvos teritorinį suverenumą Vilniuje ir Kaunui patarė priimti Lenkijos ultimatumo reikalavimus.","sentences":[{"sentence_id":"s1","text":"Maskva – istorinė gyvenvietė ir politinis centras, Lietuvos istorijos šaltiniuose išryškėjantis kaip svarbi rytų kaimynė.","support_ids":["t-177788","t-177809","c-161565","c-161568"]},{"sentence_id":"s2","text":"Ankstyvuoju laikotarpiu ji dar buvo menka gyvenvietė, o pietų Rusioje klestėjęs Kijevas turėjo gerokai didesnę reikšmę.","support_ids":["t-177788","c-161565"]},{"sentence_id":"s3","text":"Vėliau, siekdama sujungti visą Rusią, Maskva reiškė pretenzijas į Naugardo ir Pskovo respublikas bei tapo Lietuvos rytų varžove.","support_ids":["t-177727","t-177809","c-161636","c-161568"]},{"sentence_id":"s4","text":"Vytauto santykiuose su Jogaila Maskva atliko diplomatinio artėjimo vaidmenį, o Švitrigailos laikais ji tapo jo sąjungininke kartu su Tvere ir Ordinu.","support_ids":["t-193213","t-193215","c-175957","c-175959"]},{"sentence_id":"s5","text":"Ilgainiui Maskva buvo suvokiama kaip imperines ambicijas išplėtojusi grėsmė Lietuvos didvalstybei, tačiau XX amžiuje ji taip pat pripažino Lietuvos teritorinį suverenumą Vilniuje ir Kaunui patarė priimti Lenkijos ultimatumo reikalavimus.","support_ids":["t-177809","t-177717","t-177716","c-161568","c-161567","c-161557"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia, kad Maskva buvo menka gyvenvietė ir rytų grėsmė, tačiau nepatvirtina jos kaip politinio centro ar svarbios rytų kaimynės."},{"sentence_id":"s2","supported":true,"reason":"Sakinį tiesiogiai pagrindžia šaltinis apie menką Maskvos gyvenvietę ir didesnę Kijevo reikšmę."},{"sentence_id":"s3","supported":false,"reason":"Pretenzijos į Naugardo ir Pskovo respublikas pagrįstos, tačiau pateikti support_ids tiesiogiai nepatvirtina teiginio, kad Maskva tapo Lietuvos rytų varžove."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Vytauto suartėjimą su Maskva ir Švitrigailos sąjungą su Maskva, Tvere bei Ordinu."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Maskvos imperines ambicijas kaip grėsmę, Lietuvos suvereniteto Vilniuje pripažinimą ir patarimą Kaunui priimti Lenkijos ultimatumo reikalavimus."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-177788","t-177809","c-161565","c-161568"]},{"sentence_id":"s2","supported":true,"support_ids":["t-177788","c-161565"]},{"sentence_id":"s3","supported":true,"support_ids":["t-177727","t-177809","c-161636","c-161568"]},{"sentence_id":"s4","supported":true,"support_ids":["t-193213","t-193215","c-175957","c-175959"]},{"sentence_id":"s5","supported":true,"support_ids":["t-177809","t-177717","t-177716","c-161568","c-161567","c-161557"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-439de99642d154fd67b3e1f5","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-48060bd6fa4a1335a5ac9fb6","relation_type":"painting_of"},{"media_id":"m-939c0465dbc2aad751f17539","relation_type":"depicts"},{"media_id":"m-256a0194cdf870fde1a8c95a","relation_type":"depicts"},{"media_id":"m-951fd46b2b6a606b7215319e","relation_type":"map_of"},{"media_id":"m-e6fb0859cbbf0ce6bc97f69b","relation_type":"associated_symbol_of"}],"media_verification":{"status":"not_required","primary_media_id":"m-439de99642d154fd67b3e1f5","candidate_count":10,"visual_verified_count":10,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Tai konkretus istorinis žemėlapis, tiesiogiai vaizduojantis Maskvą.","visual_evidence":"Žemėlapyje aiškiai pažymėta Москва; parodytas Maskvos kunigaikštystės ir aplinkinių teritorijų išsidėstymas.","metadata_evidence":"Aprašyme tiesiogiai nurodomi miestai, tarp jų Moscow (Москва), ir 1462 m. regionas.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-177746","confidence":0.74},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Dimitrijus","claim_id":"t-186105","confidence":0.86},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Dmitrijus Ivanovičius","claim_id":"t-183734","confidence":0.86},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Jonas Kalita","claim_id":"t-30308","confidence":0.9},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Vasiljevičius (Maskvos valdovas)","claim_id":"t-88071","confidence":0.9},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Livonijos valstybė","claim_id":"t-72598","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Ciprijonas","claim_id":"t-35044","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Josifas Stalinas","claim_id":"t-101653","confidence":0.65},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Baltai","claim_id":"t-181216","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Maskvos Helsinkio grupė","claim_id":"t-75451","confidence":0.62},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-41484","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Elena","claim_id":"t-87198","confidence":0.55},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Fotijus","claim_id":"t-82300","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jonas Gornostajus","claim_id":"t-186047","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Juozas Urbšys","claim_id":"t-19029","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Juozas Zdebskis","claim_id":"t-177777","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Motiejus Kločka","claim_id":"t-186070","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Białas","claim_id":"t-87825","confidence":0.83},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas","claim_id":"t-186156","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Stanislovas Goštautas","claim_id":"t-87477","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Stanislovas Jendžejevskis","claim_id":"t-186255","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Tomas Naruševičius","claim_id":"t-76026","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vladimiras (Pronsko kunigaikštis)","claim_id":"t-183767","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-18849","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-05288","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Maskvėnai","claim_id":"t-185880","confidence":0.78},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Mykolas (Švitrigailos sūnus)","claim_id":"t-87798","confidence":0.9},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Mykolas","claim_id":"t-177765","confidence":0.86},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-35871","confidence":0.72},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-68824","confidence":0.76},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-177734","confidence":0.62},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Naugardas","claim_id":"t-94771","confidence":0.76},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-176302","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Maskvos Helsinkio grupė","claim_id":"t-181640","confidence":0.65},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Maskvėnai","claim_id":"t-185879","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Smolenskas","claim_id":"t-02157","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Tartai","claim_id":"t-43877","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Stanislovas Kiška","claim_id":"t-184831","confidence":0.82},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Augustas","claim_id":"t-186255","confidence":0.92},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Juozas Urbšys","claim_id":"t-19027","confidence":0.94},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-05286","confidence":0.97},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Andrius Algirdaitis","claim_id":"t-177713","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-177713","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-177708","confidence":0.91},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-177761","confidence":0.96},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vosylius II","claim_id":"t-35334","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vosylius","claim_id":"t-51192","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-177724","confidence":0.66},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-67257","confidence":0.68}],"timeline":[],"support_disclosure":{"claims":12,"sources":6}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: d19f184c91ada85f
-object_page_generated_at: '2026-09-18T21:21:13+00:00'
-object_page_source_checked_at: '2026-09-18T21:21:13+00:00'
-object_page_content_state: content
-object_page_claim_count: '12'
-object_page_source_count: '6'
-object_page_seo_description: 'Maskva – istorinė gyvenvietė ir politinis centras, Lietuvos istorijos šaltiniuose išryškėjantis kaip svarbi rytų kaimynė. Ankstyvuoju laikotarpiu ji dar buvo…'
-object_page_seo_input_hash: 0a69fc7e7041f0f07e623f8bc4aac1edfeb7578afcd3741e77f9f02c258db3f4
-object_page_seo_generated_at: '2026-09-18T21:21:13+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Maskva
 
@@ -76,44 +70,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 
 ## Teiginiai
 
-<a id="claim-t-177701"></a>
-- t-001
-  teiginys: "Vytautas siekė paimti Maskvą savo valdžion arba bent turėti jai didelę įtaką."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-37540
-
-<a id="claim-t-177703"></a>
-- t-002
-  teiginys: "Keliais šimtmečiais Lietuva gynė sukurtą didvalstybę nuo stiprėjančių rytų grėsmių, tarp jų Maskvos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1919-1920; įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-43625
-
 <a id="claim-t-177704"></a>
-- t-003
+- t-001
   teiginys: "Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -126,26 +86,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161597
 
-<a id="claim-t-177705"></a>
-- t-004
-  teiginys: "Jonas Basanavičius, pirmasis mėnraščio redaktorius, buvo baigęs medicinos studijas Maskvoje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161615
-
 <a id="claim-t-177707"></a>
-- t-005
+- t-002
   teiginys: "Maskvos metropolitams kasmet buvo teikiamos nemažos pajamos iš Lietuvos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -158,31 +102,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161553
 
-<a id="claim-t-177708"></a>
-- t-006
-  teiginys: "1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas tiesiogiai aprašytas kaip žygiavęs į Maskvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Maskva (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1426 m.; įvykio data: 1427 m.; įvykio data: 1428 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, faktinis ir paremtas citata."
-  pagrindžia:
-    - c-161575
-    - c-161563
-
 <a id="claim-t-177709"></a>
-- t-007
+- t-003
   teiginys: "Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Maskva: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -192,69 +115,17 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Vilniaus prekybiniai santykiai apėmė pirklius iš Maskvos."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vilnius prekiavo su Maskva (0.76); Vilnius prekiavo su Pskovas (0.76); Vilnius prekiavo su Tverė (0.76)"
+  semantiniai_rysiai: "Vilnius prekiavo su Pskovas (0.76); Vilnius prekiavo su Maskva (0.76); Vilnius prekiavo su Tverė (0.76)"
   temporaliniai_duomenys: "įvykio data: 1500 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiksliai remiasi citata."
   pagrindžia:
     - c-161552
 
-<a id="claim-t-177710"></a>
-- t-008
-  teiginys: "Lietuvos metraščiuose Algirdo žygiai į Maskvą priskiriami epinius pasakojimus atitinkantiems siužetams."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai sieja Algirdą su žygiais į Maskvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.86)"
-  pagrindžia:
-    - c-24290
-
-<a id="claim-t-177711"></a>
-- t-009
-  teiginys: "Vytautas esą žadėjo Tochtamišui ordos sostą mainais į savo pasodinimą Maskvos didžiojoje kunigaikštijoje ir visos Rusios valdžioje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-161583
-
-<a id="claim-t-177712"></a>
-- t-010
-  teiginys: "J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> SSRS: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "SSRS: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra kontekstinis fragmentas be aiškaus veiksnio."
-  pagrindžia:
-    - c-161581
-
 <a id="claim-t-177713"></a>
-- t-011
+- t-004
   teiginys: "1372 m. balandį trečiąjį Maskvos žygį pradėjo Kęstutis ir Andrius Algirdaitis, įsiveržę į Dmitrijaus Doniečio žemes."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -270,66 +141,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-32225
 
-<a id="claim-t-177714"></a>
-- t-012
-  teiginys: "Po Lietuvos didvalstybės sukūrimo Maskva laikyta viena iš stiprėjančių rytų grėsmių."
-  atnaujinta: "2026-06-01 14:44"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1919-1920; įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-43625
-
-<a id="claim-t-177715"></a>
-- t-013
-  teiginys: "Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus XVII a."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra gramatiškas ir pagrįstas citata."
-  pagrindžia:
-    - c-161612
-
-<a id="claim-t-177716"></a>
-- t-014
-  teiginys: "Per Lenkijos ultimatumą Maskva ir Berlynas Kaunui patarė priimti lenkų reikalavimus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį kontekstą apie ultimatumą."
-  pagrindžia:
-    - c-161557
-
 <a id="claim-t-177717"></a>
-- t-015
+- t-005
   teiginys: "Maskva, nepaisydama Lenkijos nepasitenkinimo, pripažino Lietuvos suverenitetą Vilniuje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -343,9 +158,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161567
 
 <a id="claim-t-177718"></a>
-- t-016
+- t-006
   teiginys: "1940 m. birželio 10 d. Kaune nutarta pasiųsti ministrą J. Urbšį į Maskvą, nes A. Merkiui nesisekė normalizuoti situacijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Merkys: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -361,9 +176,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161629
 
 <a id="claim-t-177720"></a>
-- t-017
+- t-007
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Maskva: 0.67"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -378,9 +193,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161622
 
 <a id="claim-t-177722"></a>
-- t-018
+- t-008
   teiginys: "Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta)."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> didžioji suirutė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -393,35 +208,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-46614
 
-<a id="claim-t-177723"></a>
-- t-019
-  teiginys: "Vytautas rytuose siekė valdyti arba stipriai paveikti Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riazanė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riazanė: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Riazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-37540
-
-<a id="claim-t-177724"></a>
-- t-020
-  teiginys: "Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-161582
-
 <a id="claim-t-177725"></a>
-- t-021
+- t-009
   teiginys: "Georgijaus Čičerino nota patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -435,45 +225,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161567
 
-<a id="claim-t-177726"></a>
-- t-022
-  teiginys: "1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Josifas Stalinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Josifas Stalinas: mention_match, person, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Josifas Stalinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "sutarties data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir paremtas citata."
-  pagrindžia:
-    - c-161591
-
-<a id="claim-t-177727"></a>
-- t-023
-  teiginys: "Maskva, siekdama sujungti visą Rusią, reiškė pretenzijas į Naugardo ir Pskovo respublikas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-161636
-
 <a id="claim-t-177732"></a>
-- t-024
+- t-010
   teiginys: "1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -488,69 +243,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161551
 
-<a id="claim-t-177733"></a>
-- t-025
-  teiginys: "Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1576-1586; įvykio data: 1586 m.; įvykio data: 1609-1611; įvykio data: 1611 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas trumpas faktas apie Maskvą."
-  pagrindžia:
-    - c-161633
-
-<a id="claim-t-177734"></a>
-- t-026
-  teiginys: "Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Lietuva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Leningradas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Leningradas nurodytas kaip Lietuvos maisto produktų vartotojas, todėl ryšys yra ekonominis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Maskva prekiavo su Lietuva (0.62); Leningradas prekiavo su Lietuva (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1959 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir tiesiogiai susijęs su Maskva."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-161594
-
-<a id="claim-t-177735"></a>
-- t-027
-  teiginys: "Per Lenkijos ultimatumą Prancūzija, Britanija, Maskva ir Berlynas patarė Kaunui priimti lenkų reikalavimus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas kontekstas ir išplėstas dalyvių pavadinimas."
-  pagrindžia:
-    - c-161557
-
 <a id="claim-t-177736"></a>
-- t-028
+- t-011
   teiginys: "1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -566,61 +262,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161620
 
-<a id="claim-t-177737"></a>
-- t-029
-  teiginys: "Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje reikalavo pripažinti atkurtą Lietuvos valstybę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161592
-
-<a id="claim-t-177738"></a>
-- t-030
-  teiginys: "Livonijos kare pasiektos pergalės prieš Maskvą jos pavojų atitolino daugiau nei pusamžiui."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1576-1586; įvykio data: 1586 m.; įvykio data: 1609-1611; įvykio data: 1611 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-161574
-
-<a id="claim-t-177739"></a>
-- t-031
-  teiginys: "Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Algirdo žygiai į Maskvą: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdo žygiai į Maskvą: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Algirdą su jo žygiais į Maskvą kaip įvykiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Algirdo žygiai į Maskvą (0.88)"
-  pagrindžia:
-    - c-24290
-
 <a id="claim-t-177740"></a>
-- t-032
+- t-012
   teiginys: "Dėl karo su Maskva patirtų nuostolių Vilniaus vyskupija sunkiai galėjo aprūpinti klierikų kolegiją lėšomis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilniaus vyskupija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -633,87 +278,26 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161569
 
-<a id="claim-t-177741"></a>
-- t-033
-  teiginys: "1617–1618 m. žygyje į Maskvą Jonas Karolis Chodkevičius pasiekė laimėjimų, tačiau Maskvos užimti nepavyko."
-  atnaujinta: "2026-07-10 10:39"
+<a id="claim-t-177745"></a>
+- t-013
+  teiginys: "Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją."
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1617-1618; įvykio data: 1618 m.; įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia aiškiai įvardyti žygio dalyvį."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-161640
-
-<a id="claim-t-177742"></a>
-- t-034
-  teiginys: "Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1349 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-161571
-
-<a id="claim-t-177743"></a>
-- t-035
-  teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, gramatiškas ir pagrįstas citata."
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-161604
-
-<a id="claim-t-177744"></a>
-- t-036
-  teiginys: "XV a. pabaigoje sustiprėjusi Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 250 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir pagrįstas šaltinio citata."
-  pagrindžia:
-    - c-43627
+    - c-161585
 
 <a id="claim-t-177746"></a>
-- t-037
+- t-014
   teiginys: "Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Maskva: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -727,118 +311,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161632
 
-<a id="claim-t-177747"></a>
-- t-038
-  teiginys: "Kaip neprivaloma disciplina lietuvių kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos universitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, turintiems atestate lietuvių kalbos pažymį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161606
-
-<a id="claim-t-177748"></a>
-- t-039
-  teiginys: "1611 m. Jonui Karoliui Chodkevičiui pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo."
-  atnaujinta: "2026-06-01 14:44"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1611 m.; įvykio data: 1615-1616; įvykio data: 1616 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-43628
-
-<a id="claim-t-177749"></a>
-- t-040
-  teiginys: "Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1812 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi kontekstinę jungtį, kurią reikia pašalinti."
-  pagrindžia:
-    - c-161570
-
-<a id="claim-t-177751"></a>
-- t-041
-  teiginys: "XV a. pabaigoje stiprėjanti Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui."
-  atnaujinta: "2026-06-14 10:59"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 250 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai atitinka citatos faktą."
-  pagrindžia:
-    - c-43627
-
-<a id="claim-t-177752"></a>
-- t-042
-  teiginys: "Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161634
-
-<a id="claim-t-177753"></a>
-- t-043
-  teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasilijus Vasiljevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vasilijus Vasiljevičius nurodytas tarp asmenų, atvykusių į Trakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vasilijus Vasiljevičius keliavo į Trakai (0.90); Vasilijus Vasiljevičius keliavo į Vilnius (0.90)"
-  temporaliniai_duomenys: "kelionės data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus asmenis bei vietas."
-  pagrindžia:
-    - c-161560
-
 <a id="claim-t-177754"></a>
-- t-044
+- t-015
   teiginys: "1926 m. rugsėjo 28 d. Maskvoje Lietuva pasirašė nepuolimo ir neutralumo sutartį su SSRS."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -855,9 +331,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161586
 
 <a id="claim-t-177755"></a>
-- t-045
+- t-016
   teiginys: "Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -871,9 +347,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161610
 
 <a id="claim-t-177756"></a>
-- t-046
+- t-017
   teiginys: "Lietuvos kariuomenė į Vilnių įžengė liepos 15 d., jau pasirašius sutartį Maskvoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -888,9 +364,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161623
 
 <a id="claim-t-177757"></a>
-- t-047
+- t-018
   teiginys: "Karai su Maskva rytuose reikalavo daug pinigų, todėl reikėjo rūpintis didesniu parduodamų prekių kiekiu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -903,69 +379,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161600
 
-<a id="claim-t-177759"></a>
-- t-048
-  teiginys: "Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=115"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1514 m.; įvykio data: 1526 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra gramatiškas ir susieja Maskvą su Oršos pergale."
-  pagrindžia:
-    - c-161554
-
-<a id="claim-t-177760"></a>
-- t-049
-  teiginys: "Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas surengė žygį į Maskvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1372 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatiškas ir tiesiogiai susijęs su Maskva."
-  pagrindžia:
-    - c-161616
-
-<a id="claim-t-177761"></a>
-- t-050
-  teiginys: "1610 m. lenkų kariuomenė, sumušusi rusus prie Klušino, užėmė Maskvą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Maskva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lenkų kariuomenė tiesiogiai įvardyta kaip užėmusi Maskvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lenkai užėmė Maskva (0.96); Lenkai kariavo prieš Rusai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus kontekstinis žodis „šios“ ir paliktas citatos paremtas faktas."
-  pagrindžia:
-    - c-43629
-
 <a id="claim-t-177762"></a>
-- t-051
+- t-019
   teiginys: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet nieko nelaimėjęs išvyko į Maskvą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -978,26 +395,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161631
 
-<a id="claim-t-177764"></a>
-- t-052
-  teiginys: "Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-161582
-
 <a id="claim-t-177765"></a>
-- t-053
+- t-020
   teiginys: "Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Maskva: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1011,9 +412,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161562
 
 <a id="claim-t-177766"></a>
-- t-054
+- t-021
   teiginys: "Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Riazanė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1026,30 +427,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-46608
 
-<a id="claim-t-177767"></a>
-- t-055
-  teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Disidentinio judėjimo pradžia Lietuvoje (1960 m.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Disidentinio judėjimo pradžia Lietuvoje (1960 m.): mention_match, event"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Disidentinio judėjimo pradžia Lietuvoje (1960 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau, paliekant tiesiogiai su Maskva susijusį faktą."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  pagrindžia:
-    - c-161604
-
 <a id="claim-t-177768"></a>
-- t-056
+- t-022
   teiginys: "Vytauto kariuomenės būrys palydėjo į Maskvą vykstantį kunigaikščio sūnų Vosylių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1062,26 +443,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161644
 
-<a id="claim-t-177769"></a>
-- t-057
-  teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-161642
-
 <a id="claim-t-177771"></a>
-- t-058
+- t-023
   teiginys: "Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjusios stalininės jėgos prisidėjo prie valdymo sugriežtinimo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1097,9 +462,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161602
 
 <a id="claim-t-177773"></a>
-- t-059
+- t-024
   teiginys: "Rusijoje kilus dideliam sukilimui, Maskvoje įsitvirtinę lenkai ir lietuviai buvo apsupti ir priversti kapituliuoti."
-  atnaujinta: "2026-05-31 14:16"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1113,9 +478,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161549
 
 <a id="claim-t-177774"></a>
-- t-060
+- t-025
   teiginys: "Maskvoje buvo išlikęs priežodis: „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“"
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1128,26 +493,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161555
 
-<a id="claim-t-177775"></a>
-- t-061
-  teiginys: "Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161592
-
 <a id="claim-t-177776"></a>
-- t-062
+- t-026
   teiginys: "Vokietijai greitai užėmus Lietuvą, sovietai vos spėjo išgabenti LSSR vyriausybę į Maskvą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1161,9 +510,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161550
 
 <a id="claim-t-177777"></a>
-- t-063
+- t-027
   teiginys: "1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Maskva: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1180,27 +529,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161580
 
-<a id="claim-t-177779"></a>
-- t-064
-  teiginys: "J. Paleckio vadovaujama delegacija Maskvoje rugpjūčio 3 d. pasiprašė neva savanoriškai įeiti į SSRS sudėtį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> SSRS: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo Lietuvos įtraukimą į SSRS sudėtį, nors formuluotė pateikta okupacinės procedūros kontekste."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuva priklausė SSRS (0.78)"
-  pagrindžia:
-    - c-161548
-
 <a id="claim-t-177782"></a>
-- t-065
+- t-028
   teiginys: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1214,9 +546,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161631
 
 <a id="claim-t-177783"></a>
-- t-066
+- t-029
   teiginys: "Algirdas tris dienas ir tris naktis stovėjo prie Maskvos mūrų, nusiaubė apylinkę ir grįžo atgal."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Maskva: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1231,9 +563,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-32224
 
 <a id="claim-t-177784"></a>
-- t-067
+- t-030
   teiginys: "Kazimiero Jogailaičio laikais Lietuvos valstybė Maskvai nebekėlė tikro pavojaus, nors politine jėga dar buvo už ją pranašesnė."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1247,9 +579,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-05665
 
 <a id="claim-t-177786"></a>
-- t-068
+- t-031
   teiginys: "Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1263,9 +595,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161555
 
 <a id="claim-t-177787"></a>
-- t-069
+- t-032
   teiginys: "Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską."
-  atnaujinta: "2026-07-26 23:35"
+  atnaujinta: "2026-10-14 08:08"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> didžioji suirutė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1275,16 +607,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   ryšio_targeto_parinkimas: "didžioji suirutė: mention_match, thing, gap=52"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"didžioji suirutė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "mūšio data: 1617-1618; mūšio data: 1618 m.; mūšio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas asmens vardas ir išlaikytas citatos paremtas faktas."
   pagrindžia:
     - c-161549
 
 <a id="claim-t-177788"></a>
-- t-070
+- t-033
   teiginys: "Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1298,9 +627,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161565
 
 <a id="claim-t-177789"></a>
-- t-071
+- t-034
   teiginys: "Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1314,9 +643,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161553
 
 <a id="claim-t-177790"></a>
-- t-072
+- t-035
   teiginys: "1940 m. birželio 10 d. Kaune nutarta pasiųsti užsienio reikalų ministrą Juozą Urbšį į Maskvą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1332,43 +661,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161629
 
-<a id="claim-t-177791"></a>
-- t-073
-  teiginys: "Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161646
-
-<a id="claim-t-177792"></a>
-- t-074
-  teiginys: "1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasilijus Vasiljevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vasilijus Vasiljevičius nurodytas tarp asmenų, atvykusių į Trakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vasilijus Vasiljevičius keliavo į Trakai (0.90); Vasilijus Vasiljevičius keliavo į Vilnius (0.90)"
-  pagrindžia:
-    - c-161560
-
 <a id="claim-t-177794"></a>
-- t-075
+- t-036
   teiginys: "Jogailos vyriausiasis brolis Andrius, valdęs Polocką, pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1381,99 +677,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161596
 
-<a id="claim-t-177797"></a>
-- t-076
-  teiginys: "1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir pagrįstas citata."
-  pagrindžia:
-    - c-161588
-
-<a id="claim-t-177798"></a>
-- t-077
-  teiginys: "1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas diegė Maskvos sprendimus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-161572
-
-<a id="claim-t-177800"></a>
-- t-078
-  teiginys: "Viačeslavas Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Joachimas (Pskovo vietininkas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Joachimas (Pskovo vietininkas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Joachimas (Pskovo vietininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161576
-
-<a id="claim-t-177802"></a>
-- t-079
-  teiginys: "Lenkų kariuomenė 1610 m., sumušusi rusus prie Klušino, užėmė Maskvą."
-  atnaujinta: "2026-06-01 14:44"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Maskva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lenkų kariuomenė užėmė Maskvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lenkai užėmė Maskva (0.95); Lenkai kariavo prieš Rusai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-43629
-
-<a id="claim-t-177804"></a>
-- t-080
-  teiginys: "Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Pronskas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pronskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo tolimiausią Vytauto žygio kryptį prie Pronsko."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Pronskas (0.78)"
-  pagrindžia:
-    - c-37537
-
 <a id="claim-t-177807"></a>
-- t-081
+- t-037
   teiginys: "Polocką valdęs Andrius pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brianskas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1486,44 +693,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-46605
 
-<a id="claim-t-177808"></a>
-- t-082
-  teiginys: "Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė konfliktus tarp Abiejų Tautų Respublikos ir Rusijos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-161612
-
-<a id="claim-t-177809"></a>
-- t-083
-  teiginys: "Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-161568
-
 <a id="claim-t-177810"></a>
-- t-084
+- t-038
   teiginys: "Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir nurodė vyskupams išrinkti Lietuvai atskirą metropolitą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Fotijus: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1536,61 +709,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-161579
 
-<a id="claim-t-177811"></a>
-- t-085
-  teiginys: "Jonas Basanavičius, pirmasis „Aušros“ redaktorius, buvo baigęs medicinos studijas Maskvoje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161615
-
-<a id="claim-t-177813"></a>
-- t-086
-  teiginys: "1611 m. Jonui Karoliui Chodkevičiui buvo pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1611 m.; įvykio data: 1615-1616; įvykio data: 1616 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas asmuo, data ir įgula, pašalinta neaiški nuoroda „ši“."
-  pagrindžia:
-    - c-43628
-
-<a id="claim-t-177814"></a>
-- t-087
-  teiginys: "Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Joachimas (Pskovo vietininkas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Joachimas (Pskovo vietininkas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Joachimas (Pskovo vietininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-161576
-
 <a id="claim-t-177815"></a>
-- t-088
+- t-039
   teiginys: "1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1607,9 +729,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-161593
 
 <a id="claim-t-183050"></a>
-- t-089
+- t-040
   teiginys: "Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta)."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1626,9 +748,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-166441
 
 <a id="claim-t-185039"></a>
-- t-090
+- t-041
   teiginys: "Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1646,9 +768,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - c-168400
 
 <a id="claim-t-185042"></a>
-- t-091
+- t-042
   teiginys: "Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1664,10 +786,122 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-168403
 
-<a id="claim-t-187607"></a>
-- t-092
+<a id="claim-t-193213"></a>
+- t-043
+  teiginys: "Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė susiartindamas su Maskva."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175957
+
+<a id="claim-t-193214"></a>
+- t-044
+  teiginys: "Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175958
+
+<a id="claim-t-193215"></a>
+- t-045
+  teiginys: "Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175959
+
+<a id="claim-t-196716"></a>
+- t-046
+  teiginys: "Kojelavičiaus pasakojime švedų valdovas, būgštaudamas dėl Maskvos grėsmės, atsisakė Augusto siūlytos sąjungos."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178862
+
+<a id="claim-t-205374"></a>
+- t-047
+  teiginys: "Pasak legendos, Maskvoje vėliau atsirado sustiprinta tvirtovė Kremlius."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187739
+
+<a id="claim-t-206521"></a>
+- t-048
+  teiginys: "Voros suko tiesiai į Maskvą."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189136
+
+<a id="claim-t-206522"></a>
+- t-049
+  teiginys: "Gruodžio 6 d. Algirdo vėliavos plevėsavo ant kalvų prie Maskvos."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189137
+
+<a id="claim-t-206523"></a>
+- t-050
+  teiginys: "Tochtamyšas apsupo Maskvą, kuri, Teodoro Narbuto aprašymu, buvo didžiojo kunigaikščio Dmitrijaus apleista."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189138
+
+<a id="claim-t-210689"></a>
+- t-051
+  teiginys: "Bychovco kronikoje aprašomas karas su Maskvos didžiąja kunigaikštyste 1445 m."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193916
+
+<a id="claim-t-210787"></a>
+- t-052
   teiginys: "Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1682,12 +916,48 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
-    - c-170554
+    - c-193009
 
-<a id="claim-t-188770"></a>
-- t-093
+<a id="claim-t-211261"></a>
+- t-053
+  teiginys: "Šventasis metropolitas Kiprijonas27 su arkivyskupais ir vyskupais, su archi mandritais, igumenais ir su visų rangų dvasininkais pa sitiko ją priešais Maskvos miestą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193347
+
+<a id="claim-t-211482"></a>
+- t-054
+  teiginys: "Mykoliukas Žygimantaitis pabėgo į Maskvą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193607
+
+<a id="claim-t-215263"></a>
+- t-055
+  teiginys: "Taip pat kalbama ir apie tautų protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir Tobolsko pirmtakus2."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197494
+
+<a id="claim-t-217225"></a>
+- t-056
   teiginys: "Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1702,121 +972,643 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
-    - c-171659
+    - c-200137
 
-<a id="claim-t-193213"></a>
-- t-094
-  teiginys: "Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė susiartindamas su Maskva."
-  atnaujinta: "2026-07-06 12:54"
+<a id="claim-t-233607"></a>
+- t-057
+  teiginys: "Maskvos bajorai, Teodoro Narbuto teigimu, plėšikavo Lietuvos žemėse Serpeisko, Kozelsko ir Viazmos apylinkėse."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:42Z"
   pagrindžia:
-    - c-175957
+    - c-216427
 
-<a id="claim-t-193214"></a>
-- t-095
-  teiginys: "Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175958
-
-<a id="claim-t-193215"></a>
-- t-096
-  teiginys: "Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175959
-
-<a id="claim-t-194934"></a>
-- t-097
-  teiginys: "Taip pat kalbama ir apie tautų protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir Tobolsko pirmtakus2."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-233608"></a>
+- t-058
+  teiginys: "Vilniaus valdžia pasiuntė į Maskvą atstovą dėl apiplėšimo pasienyje."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-177330
+    - c-216428
 
-<a id="claim-t-196716"></a>
-- t-098
-  teiginys: "Kojelavičiaus pasakojime švedų valdovas, būgštaudamas dėl Maskvos grėsmės, atsisakė Augusto siūlytos sąjungos."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178862
-
-<a id="claim-t-205374"></a>
-- t-099
-  teiginys: "Pasak legendos, Maskvoje vėliau atsirado sustiprinta tvirtovė Kremlius."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187739
-
-<a id="claim-t-206521"></a>
-- t-100
-  teiginys: "Voros suko tiesiai į Maskvą."
-  atnaujinta: "2026-08-16 22:50"
+<a id="claim-t-233609"></a>
+- t-059
+  teiginys: "Pimenas gyveno Maskvoje."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-189136
+    - c-216429
 
-<a id="claim-t-206522"></a>
-- t-101
-  teiginys: "Gruodžio 6 d. Algirdo vėliavos plevėsavo ant kalvų prie Maskvos."
-  atnaujinta: "2026-08-16 22:50"
+<a id="claim-t-233610"></a>
+- t-060
+  teiginys: "Fotijus po kelionės į Kijevą buvo išgintas atgal į Maskvą."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-189137
-
-<a id="claim-t-206523"></a>
-- t-102
-  teiginys: "Tochtamyšas apsupo Maskvą, kuri, Teodoro Narbuto aprašymu, buvo didžiojo kunigaikščio Dmitrijaus apleista."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189138
+    - c-216430
 
 ## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-032
+
+- c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Savo laiške jis rašo, kad su vi­
+    sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­
+    lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­
+    nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
+    Pronsko (visai netoli dabartinės Penzos). Čia Vytautą sveiki­
+    no ir jam lenkėsi Riazaniaus, Perejaslavlio, Pronsko, Novosiels-
+
+    (^1) ) L.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-021
+
+- c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+
+- c-007
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
+
+    ## Puslapis 11
+
+    valdovai sugebėjo užkariavimais ir kitomis dominavimo formo-
+    mis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais
+    šiandien pavadiname net imperija. Po to sekė kelių šimtmečių
+    kova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš
+    rytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi
+    manipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-
+    nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
+    krante siekusia užkariauti Švedija.
+
+    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-012
+
+- c-008
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po to Lietuva ilgesnį laiką gyveno sąlyginai ramiai, iki kol naujas
+    galios centras - Maskvos valstybė ėmė stiprėti ir xv a. pabaigoje
+    kelti grėsmę Lietuvos teritorijos vientisumui.
+
+    m“
+
+    k
+    NN
+    a
+
+    Vytis iš XV a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-037
+
+- c-009
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1611m. J. K. Chodkevičiui buvo pavesta vadovauti
+    Maskvoje apsuptos lenkų ir lietuvių įgulos debloka-
+    vimui, tačiau ši, nesulaukusi pagalbos, kapituliavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-041
+
+- c-010
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lenkų ka-
+    riuomenė šios sumaišties metu 1610 m. su-
+
+    mušusi rusus prie Klušino, užėmė Maskvą.
+
+    Dalis Rusijos bojarinų naujuoju caru iš-
+    rinko Zigmanto Vazos sūnų Vladislovą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-086
+
+- c-014
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
+    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
+    Rinkimų į Liaudies seimą agitacinis plakatas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-020
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva, Lenkijos padedama, atsilaikė prieš sta-
+    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
+    lapio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-022
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
+    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
+    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-014
+
+- c-023
+  santrauka: '1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-045
+
+- c-025
+  santrauka: '1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
+    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
+    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-028
+  santrauka: 'Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    viduryje.
+
+    8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
+
+    ## Puslapis 11
+
+    valdovai sugebėjo užkariavimais ir kitomis dominavimo formo-
+    mis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais
+    šiandien pavadiname net imperija. Po to sekė kelių šimtmečių
+    kova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš
+    rytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi
+    manipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-
+    nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
+    krante siekusia užkariauti Švedija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-030
+  santrauka: 'Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau Napoleonui teko trauktis
+    iš Maskvos, o besitraukiant neliko ir jo kariuomenės. 1812 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-031
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.
+    Varžybinė kova tarp Vilniaus ir Maskvos jau prasidėjo pačioje
+    Algirdo valdymo pradžioje, kai jis, norėdamas sulaužyti Maskvos
+    jėgą, nutarė susiartinti su totorių chanu ir siuntė pas jį 1349 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-032
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reali aukščiausioji valdžia atiteko ne šalyje li-
+    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
+    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
+    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
+    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis,
+    kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
+    iš Maskvos. V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-033
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ) pasiektos lemiamos pergalės
+    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
+    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą). Tačiau
+    svarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-
+    publika, kuri egzistavo dar du amžius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-034
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1427 m. žygiavo į Maskvą padėti vaikaičiui
+    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas
+    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
+    pajungiami Pskovas (1426 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-035
+  santrauka: 'Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
+    kvą ministrą Juozą Urbšį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-085
+
+- c-038
+  santrauka: 'J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Buvo nacionalizuoti
+    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
+    prašė neva savanoriškai įeiti į SSRS sudėtį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-039
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-040
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jis esą Tochtamišui sakęs : « Aš įkelsiu tave ordos sostan, o
+    tu pasodinsi mane didžiojoje Maskvos kunigaikštijoje ir visos Ru­
+    sijos valdžioje »^19.
+    Tochtamišo «jarlykas » Vytautui nėra išlikęs ; bet jis turėjo
+    reikšti pažadą chano, kuris buvo skirstęs rusų kunigaikščių sostus,
+    perleisti Vytautui valdžią ant visų rusų žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-043
+  santrauka: '1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
+    somybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
+    susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
+    žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
+    Sausio agresijos aukų laidotuvės – visos Lietuvos
+    protestas prieš SSRS politiką
+
+    L I E T U V O S  I S T O R I J A
+    248
+    pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-044
+  santrauka: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jo kelionės išvakarėse
+    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
+    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
+    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
+    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
+    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-045
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    142
+    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
+    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
+    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
+    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
+    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
+    mo dokumentu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-030
+
+- c-047
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mariaus Baranausko nuotrauka
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    219
+    mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
+    ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
+    pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje
+    SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į
+    kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai –
+    Maskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos
+    pajamos patekdavo į bendrą SSRS biudžetą.
+    Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-
+    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
+    čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-
+    kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
+    visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
+    laiku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-062
+
+- c-052
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
+    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
+    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
+    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
+    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
+    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-058
+
+- c-053
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kaip neprivaloma disciplina lietuvių
+    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
+    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
+    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
+    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
+    lietuvių „suartinimo“ su rusų kultūra gija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-055
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    rudenį padarė es-
+    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
+    valstybės institucijose.
+    Apšvieta ateina į LDK
+    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
+    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
+    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+    kariškai sustiprėjusios Švedijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-089
+
+- c-056
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pirmuoju redaktoriumi buvo tuomet Prahoje
+    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
+    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
+    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
+    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
+    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
+    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
+    imperijoje turi latviai ir estai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-092
+
+- c-057
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
+    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
+    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+    Vilnius nevirto „antruoju Kijevu“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-064
+  santrauka: 'Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
+
+    L I E T U V O S  I S T O R I J A
+    66
+    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
+    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
+    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-065
+  santrauka: 'Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Senovės nekeitimo“ tezė tėra istoriografi-
+    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
+    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
+    rankiškais keliais.
+    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
+    išteklius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-066
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tos respublikos, tarpininkaujant
+    Maskvai, mokėjo totoriams duoklę, — iš čia jų ryšiai su Mas­
+    kva, nekalbant jau apie jų tautinį ir religinį vieningumą su ja;
+    tuo remdamasi Maskva ir rūpindamasi sujungti visą Rusiją, reiš­
+    kė pretenzijų ir į minėtas respublikas. Tiktai D.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-067
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1617-1618 m. daly-
+    vavo žygyje į Maskvą, nepaisant tam tikrų laimėjimų,
+    Maskvos užimti nepavyko. 1621 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-074
+
+- c-068
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Livonijos
+    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
+    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
+    žemes.
+    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
+
+    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-070
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gavusi Maskvos palaimi-
+    nimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės
+    įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas. Tokia
+    politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-073
   santrauka: 'Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1841,7 +1633,43 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-074
+- c-082
+  santrauka: '1611 m. Lenkijos ir Lietuvos kariuomenė buvo užėmusi Maskvą.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    611 m. Lenkija–Lie-
+    tuva net buvo užėmusi Maskvą). Tač
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-083
+  santrauka: '„Žalgiris“ įvardijamas kaip sovietinė sporto draugija, sukurta Maskvoje.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    sovietinė sporto draugija, sukurta Maskvoje ir globa apglobusi antrąją, o iš
+    tikrųjų pirmąją lietuvių religiją, pakeitusią ne tik krikščionybę, bet net ir pagonybę. Žy-
+    dai – vi
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-084
+  santrauka: 'Maskvoje lankėsi 1570 m. Varšuvos seimo dienoraščio autorius Rafałas Leszczyńskis.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Tyrėjo teigimu, šio dienoraščio, nors tai
+    yra vienintelis iki šiol žinomas 1570 m. Varšuvos seimo darbą nušviečiantis šaltinis,
+    vertė santykiškai nėra labai didelė, nes jį rašęs Rafałas Leszczyńskis tuo metu, kai seimas
+    posėdžiavo Varšuvoje, pats būdamas Lenkijos pasiuntinybės narys, lankėsi Maskvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-085
   santrauka: 'Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1858,7 +1686,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-075
+- c-090
   santrauka: 'Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1893,37 +1721,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     jau nebesukėlė tikro pavojaus, nors ji vis dar buvo politinės jėgos
     atžvilgiu pranašesnė už naują konkurentę rytų Europoje—Maskvą.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-067
-
-- id: c-24290
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 25."
-  citata_originali: |
-    Galėtume ma-
-    nyti, kad ir lietuvių epas buvo pradėjęs formuotis. Visų pirma atsirado
-    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
-    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
-    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
-    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
-    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
-    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
-    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios).
-  citata_rodoma: "Šiandien pripažįstama, kad \nepinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-\nčiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į \nMaskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi \ndar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-\ndota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, \no Birutės kalnas Palangoje buvo gerbiamas kaip šventosios)."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-    - t-031
+  pagrindžia:
+    - t-030
 
 - id: c-32224
   autorius: "Zenonas Ivinskis"
@@ -1937,12 +1740,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     apgaubtas žygis teturėjo reikšti vien Tverės Mykolo teisių gynimą,
     ar kai ką ir daugiau.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-066
+  pagrindžia:
+    - t-029
 
 - id: c-32225
   autorius: "Zenonas Ivinskis"
@@ -1954,183 +1757,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     Algirdaitis (iš Polocko), netikėtai su didele kariuomene įsiveržę į
     Dimitro Doniečio žemes.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
-
-- id: c-37537
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 156."
-  citata_originali: |
-    Šis daly­
-    kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­
-    būtų aplenkęs, tačiau, iš kitos pusės Vytautas, tapdamas savo
-    duktėno globėju, tuo pačiu ir Maskvos kunigaikštijos protekto­
-    rium, iškilo aukščiau kitų rusų kunigaikščių, kas vertė juos dar
-    labiau lenktis Vytauto galybei. Savo laiške jis rašo, kad su vi­
-    sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­
-    lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­
-    nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
-    Pronsko (visai netoli dabartinės Penzos). Čia Vytautą sveiki­
-    no ir jam lenkėsi Riazaniaus, Perejaslavlio, Pronsko, Novosiels-
-
-    (^1) ) L. E. K. U., VII, 222 nr.
-    (^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­
-    tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
-    sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.
-  citata_rodoma: "Savo laiške jis rašo, kad su vi­\nsa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­\nlensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­\nnų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už\nPronsko (visai netoli dabartinės Penzos). Čia Vytautą sveiki­\nno ir jam lenkėsi Riazaniaus, Perejaslavlio, Pronsko, Novosiels-\n\n(^1) ) L."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-080
-
-- id: c-37540
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 282"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 282."
-  citata_originali: |
-    Palaikydamas labai gyvus politinius santykius
-    su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
-    dėmesio ir į rytus. Per metų metus rytų reikalai jam vyrauja;
-    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
-    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
-    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
-    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
-    ar bent turėti jiems didelę įtaką.
-  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-019
-
-- id: c-43625
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 10-11"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10-11."
-  citata_originali: |
-    8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
-
-    ## Puslapis 11
-
-    valdovai sugebėjo užkariavimais ir kitomis dominavimo formo-
-    mis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais
-    šiandien pavadiname net imperija. Po to sekė kelių šimtmečių
-    kova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš
-    rytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi
-    manipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-
-    nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
-    krante siekusia užkariauti Švedija.
-
-    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
-    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
-    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
-    pat Daugpilio.
-  citata_rodoma: "8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai\n\n## Puslapis 11\n\nvaldovai sugebėjo užkariavimais ir kitomis dominavimo formo-\nmis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais\nšiandien pavadiname net imperija. Po to sekė kelių šimtmečių\nkova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš\nrytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi\nmanipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-\nnusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-\nkrante siekusia užkariauti Švedija.\n\nGimstanti Pirmoji Lietuvos Respublika 1919-1920 m."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-012
-
-- id: c-43627
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
-  citata_originali: |
-    Jau
-    krikščioniška valstybe tapusi Lietuva xv a. Žalgirio ir Pabaisko
-    mūšiuose pergalingai užbaigė savo Didįjį (beveik 250 m. trukusį)
-    pagoniškosios epochos karą dėl išlikimo prieš Vokiečių ordiną.
-    Po to Lietuva ilgesnį laiką gyveno sąlyginai ramiai, iki kol naujas
-    galios centras - Maskvos valstybė ėmė stiprėti ir xv a. pabaigoje
-    kelti grėsmę Lietuvos teritorijos vientisumui.
-
-    m“
-
-    k
-    NN
-    a
-
-    Vytis iš XV a.
-    pirmos pusės
-    Bergshamaro
-    herbyno
-  citata_rodoma: "Po to Lietuva ilgesnį laiką gyveno sąlyginai ramiai, iki kol naujas\ngalios centras - Maskvos valstybė ėmė stiprėti ir xv a. pabaigoje\nkelti grėsmę Lietuvos teritorijos vientisumui.\n\nm“\n\nk\nNN\na\n\nVytis iš XV a."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-036
-    - t-041
-
-- id: c-43628
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
-  citata_originali: |
-    1611m. J. K. Chodkevičiui buvo pavesta vadovauti
-    Maskvoje apsuptos lenkų ir lietuvių įgulos debloka-
-    vimui, tačiau ši, nesulaukusi pagalbos, kapituliavo.
-    1615-1616 m.
-  citata_rodoma: "1611m. J. K. Chodkevičiui buvo pavesta vadovauti\nMaskvoje apsuptos lenkų ir lietuvių įgulos debloka-\nvimui, tačiau ši, nesulaukusi pagalbos, kapituliavo."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-039
-    - t-086
-
-- id: c-43629
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 120"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 120."
-  citata_originali: |
-    Dėl valdžios ėmė kovoti
-    Abiejų Tautų valdovo Zigmanto Vazos re-
-    miami išgyvenusiu Dmitrijumi apsimetę
-    pretendentai į Rusijos sostą ir kai kurių
-    rusų bojarinų giminių atstovai. Lenkų ka-
-    riuomenė šios sumaišties metu 1610 m. su-
-
-    mušusi rusus prie Klušino, užėmė Maskvą.
-
-    Dalis Rusijos bojarinų naujuoju caru iš-
-    rinko Zigmanto Vazos sūnų Vladislovą.
-  citata_rodoma: "Lenkų ka-\nriuomenė šios sumaišties metu 1610 m. su-\n\nmušusi rusus prie Klušino, užėmė Maskvą.\n\nDalis Rusijos bojarinų naujuoju caru iš-\nrinko Zigmanto Vazos sūnų Vladislovą."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-050
-    - t-079
+  pagrindžia:
+    - t-004
 
 - id: c-46605
   redaktorius: "A. Šapoka"
@@ -2147,12 +1779,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     Dimitrijas, Briansko valdovas, ir pritarė Kijevo valdovas Vla-
     dimiras.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-081
+  pagrindžia:
+    - t-037
 
 - id: c-46608
   redaktorius: "A. Šapoka"
@@ -2170,12 +1802,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
     siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-054
+  pagrindžia:
+    - t-021
 
 - id: c-46614
   redaktorius: "A. Šapoka"
@@ -2190,32 +1822,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
     jokio pavojaus Lietuvai.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
-
-- id: c-161548
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 192"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 192."
-  citata_originali: |
-    Buvo nacionalizuoti
-    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
-    Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: "Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija, \nRinkimų į Liaudies seimą agitacinis plakatas."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-064
+  pagrindžia:
+    - t-008
 
 - id: c-161549
   sudarytojas: "Karolis Zikaras"
@@ -2237,9 +1849,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-059
-    - t-069
+  pagrindžia:
+    - t-024
+    - t-032
 
 - id: c-161550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2264,12 +1876,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
     nėjo šnipinėjimu.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-062
+  pagrindžia:
+    - t-026
 
 - id: c-161551
   autorius: "Michał Baliński"
@@ -2299,8 +1911,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
+  pagrindžia:
+    - t-010
 
 - id: c-161552
   autorius: "Michał Baliński"
@@ -2323,8 +1935,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-003
 
 - id: c-161553
   autorius: "Michał Baliński"
@@ -2350,36 +1962,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     būdavo teikiamos Maskvos metro­
     politams.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-071
-
-- id: c-161554
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 53"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 53."
-  citata_originali: |
-    Taigi,
-    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
-    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente. Jo-
-    gailaičių Europa pradėjo vaidinti „krikščionybės forposto“ vaidmenį, tie-
-    sa, nevienodai sėkmingai. Lietuva, Lenkijos padedama, atsilaikė prieš sta-
-    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
-    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
-    lapio.
-  citata_rodoma: "Lietuva, Lenkijos padedama, atsilaikė prieš sta-\nčiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. \npatyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-\nlapio."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-048
+  pagrindžia:
+    - t-002
+    - t-034
 
 - id: c-161555
   autorius: "Michał Baliński"
@@ -2403,63 +1992,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     atlydėjo į Vilnių ir buvo sužavėti
     nuostabaus priėmimo.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-060
-    - t-068
-
-- id: c-161557
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 178"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 178."
-  citata_originali: |
-    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
-    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
-    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
-    S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
-    Lietuvos kariuomenės paradinė rikiuotė 1937 m.
-  citata_rodoma: "Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti \nsantykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį \nKaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
-    - t-027
-
-- id: c-161560
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 174"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
-    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
-    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
-    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
-    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
-    metais), kur didysis kunigaikštis paprastai gyvendavo di­
-    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
-    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
-    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
-    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
-    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
-    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-043
-    - t-074
+  pagrindžia:
+    - t-025
+    - t-031
 
 - id: c-161562
   autorius: "Michał Baliński"
@@ -2477,31 +2016,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     gaikščio Mykolo palaikai. Jis, klajodamas po tremtį
     Maskvoje, mirė nunuodytas kažkokiame vienuolyne.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-053
-
-- id: c-161563
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
-  citata_originali: |
-    Atėjo metas Lietuvos ir Lenkijos santykių
-    problemai. XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
-    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
-    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
-  citata_rodoma: "trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis \nkaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui \nBaziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-020
 
 - id: c-161565
   autorius: "Michał Baliński"
@@ -2523,8 +2043,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-070
+  pagrindžia:
+    - t-033
 
 - id: c-161567
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2540,43 +2060,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
     mentarizmo krizės, diktatūrų įvedimai, perversmai.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
-    - t-021
-
-- id: c-161568
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 10-11"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10-11."
-  citata_originali: |
-    Klaipėdos sukilimas, kuriam vadovavo J. Budrys, tapo paskutine ofenzyvinio pobūdžio Lietuvos karinė operacija, kurios dėka xx a. pirmoje pusėje buvo susigrąžintas
-    Klaipėdos kraštas, vokiečių užgrobtas dar XII a. viduryje.
-
-    8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
-
-    ## Puslapis 11
-
-    valdovai sugebėjo užkariavimais ir kitomis dominavimo formo-
-    mis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais
-    šiandien pavadiname net imperija. Po to sekė kelių šimtmečių
-    kova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš
-    rytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi
-    manipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-
-    nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
-    krante siekusia užkariauti Švedija.
-  citata_rodoma: "viduryje.\n\n8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai\n\n## Puslapis 11\n\nvaldovai sugebėjo užkariavimais ir kitomis dominavimo formo-\nmis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais\nšiandien pavadiname net imperija. Po to sekė kelių šimtmečių\nkova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš\nrytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi\nmanipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-\nnusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-\nkrante siekusia užkariauti Švedija."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-083
+  pagrindžia:
+    - t-005
+    - t-009
 
 - id: c-161569
   autorius: "Michał Baliński"
@@ -2603,143 +2093,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     427
     Vaisgėliškis (vert.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-032
-
-- id: c-161570
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 103"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 103."
-  citata_originali: |
-    Vilniaus katedroje, dalyvaujant Varšuvos
-    kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Len-
-    kija, susigrąžinant LDK prarastas žemes. Tačiau Napoleonui teko trauktis
-    iš Maskvos, o besitraukiant neliko ir jo kariuomenės. 1812 m. pabaigoje
-    Lietuvoje vėl buvo rusai.
-  citata_rodoma: "Tačiau Napoleonui teko trauktis \niš Maskvos, o besitraukiant neliko ir jo kariuomenės. 1812 m."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-040
-
-- id: c-161571
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 270"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
-  citata_originali: |
-    Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
-    kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
-    viams »^14.
-    Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.
-    Varžybinė kova tarp Vilniaus ir Maskvos jau prasidėjo pačioje
-    Algirdo valdymo pradžioje, kai jis, norėdamas sulaužyti Maskvos
-    jėgą, nutarė susiartinti su totorių chanu ir siuntė pas jį 1349 m.
-  citata_rodoma: "Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.\nVaržybinė kova tarp Vilniaus ir Maskvos jau prasidėjo pačioje\nAlgirdo valdymo pradžioje, kai jis, norėdamas sulaužyti Maskvos\njėgą, nutarė susiartinti su totorių chanu ir siuntė pas jį 1349 m."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-034
-
-- id: c-161572
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 190"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
-  citata_originali: |
-    Reali aukščiausioji valdžia atiteko ne šalyje li-
-    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
-    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
-    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
-    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis,
-    kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
-    iš Maskvos. V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju
-    atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
-    dyje veikusi maža Lietuvos komunistų partija (LKP).
-  citata_rodoma: "Reali aukščiausioji valdžia atiteko ne šalyje li-\nkusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos \natvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-\ntu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis \npavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis, \nkaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus \niš Maskvos. V."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-077
-
-- id: c-161574
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 66"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 66."
-  citata_originali: |
-    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
-    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
-    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą). Tačiau
-    svarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-
-    publika, kuri egzistavo dar du amžius.
-  citata_rodoma: ") pasiektos lemiamos pergalės \nLivonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-\nžiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą). Tačiau \nsvarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-\npublika, kuri egzistavo dar du amžius."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-030
-
-- id: c-161575
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
-  citata_originali: |
-    XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
-    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
-    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas
-    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
-    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
-  citata_rodoma: "1427 m. žygiavo į Maskvą padėti vaikaičiui \nBaziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas \nnamo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – \npajungiami Pskovas (1426 m."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-
-- id: c-161576
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 184"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
-  citata_originali: |
-    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
-    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
-    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
-    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
-    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
-    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
-    spaudimą Lietuvai kaip ranka nuėmė.
-    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
-    kvą ministrą Juozą Urbšį.
-  citata_rodoma: "Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp \nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į \nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos \nspaudimą Lietuvai kaip ranka nuėmė. \nUžtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-\nkvą ministrą Juozą Urbšį."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-078
-    - t-087
+  pagrindžia:
+    - t-012
 
 - id: c-161579
   autorius: "Michał Baliński"
@@ -2771,8 +2130,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-084
+  pagrindžia:
+    - t-038
 
 - id: c-161580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2803,76 +2162,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-063
-
-- id: c-161581
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 192"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 192."
-  citata_originali: |
-    Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais. Buvo nacionalizuoti
-    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį.
-  citata_rodoma: "Buvo nacionalizuoti \nbankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
-
-- id: c-161582
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 228"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
-  citata_originali: |
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
-    džiai priimti.
-  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
-    - t-052
-
-- id: c-161583
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 322"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
-  citata_originali: |
-    Vytauto nusistaty­
-    mas rusų metraščiuose yra atžymėtas įvairiais vaizdingais posa­
-    kiais. Jis esą Tochtamišui sakęs : « Aš įkelsiu tave ordos sostan, o
-    tu pasodinsi mane didžiojoje Maskvos kunigaikštijoje ir visos Ru­
-    sijos valdžioje »^19.
-    Tochtamišo «jarlykas » Vytautui nėra išlikęs ; bet jis turėjo
-    reikšti pažadą chano, kuris buvo skirstęs rusų kunigaikščių sostus,
-    perleisti Vytautui valdžią ant visų rusų žemių.
-  citata_rodoma: "Jis esą Tochtamišui sakęs : « Aš įkelsiu tave ordos sostan, o\ntu pasodinsi mane didžiojoje Maskvos kunigaikštijoje ir visos Ru­\nsijos valdžioje »^19.\nTochtamišo «jarlykas » Vytautui nėra išlikęs ; bet jis turėjo\nreikšti pažadą chano, kuris buvo skirstęs rusų kunigaikščių sostus,\nperleisti Vytautui valdžią ant visų rusų žemių."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-027
 
 - id: c-161585
   redaktorius: "A. Šapoka"
@@ -2890,10 +2181,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   citata_rodoma: "Rusai iš Vilniaus į\nMaskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi\nį Stokholmą net akademijos biblioteką ir daugybę kitų kultū-\nros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet\nvis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir\nšiandien."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-013
+
 - id: c-161586
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2912,82 +2205,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-044
-
-- id: c-161588
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 247-248"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 247-248."
-  citata_originali: |
-    Pagalba atėjo iš Islandijos – 1991 m.
-    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
-    somybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
-    susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
-    žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
-    Sausio agresijos aukų laidotuvės – visos Lietuvos
-    protestas prieš SSRS politiką
-
-    L I E T U V O S  I S T O R I J A
-    248
-    pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.), Didžioji Britanija
-    (rugpjūčio 27 d.), JAV (rugsėjo 3 d.) ir pagaliau rugsėjo 6 d. – SSRS.
-  citata_rodoma: "Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-\nsomybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino \nsusigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-\nžinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios \nSausio agresijos aukų laidotuvės – visos Lietuvos  \nprotestas prieš SSRS politiką\n\nL I E T U V O S  I S T O R I J A\n248\npasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-076
-
-- id: c-161591
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 184"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
-  citata_originali: |
-    Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
-    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
-    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
-    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
-    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
-    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: "Jo kelionės išvakarėse \npradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-\nnis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti. \nMaskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio \npagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį \ndėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-022
-
-- id: c-161592
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 142"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    142
-    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
-    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
-    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
-    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
-    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
-    mo dokumentu.
-    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
-    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
-  citata_rodoma: "L I E T U V O S  I S T O R I J A\n142\nJos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-\nmiausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-\nmo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf \nJoffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-\ntuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-\nmo dokumentu."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-029
-    - t-061
+  pagrindžia:
+    - t-015
 
 - id: c-161593
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3004,45 +2223,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
     iš Maskvos.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-088
-
-- id: c-161594
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 218-219"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 218-219."
-  citata_originali: |
-    Kaunas, 1959 m. liepos 16 d.
-    Mariaus Baranausko nuotrauka
-
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    219
-    mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
-    ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
-    pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje
-    SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į
-    kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai –
-    Maskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos
-    pajamos patekdavo į bendrą SSRS biudžetą.
-    Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-
-    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
-    čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-
-    kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
-    visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
-    laiku.
-  citata_rodoma: "Mariaus Baranausko nuotrauka\n\n5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n219\nmą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-\nria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno \npramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje \nSSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į \nkitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – \nMaskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos \npajamos patekdavo į bendrą SSRS biudžetą. \nSovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-\nkvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog \nčia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-\nkalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo \nvisiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau \nlaiku."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
+  pagrindžia:
+    - t-039
 
 - id: c-161596
   redaktorius: "A. Šapoka"
@@ -3059,12 +2245,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     volgio miestus, ir Livonijos ordinas, kuris visada rėmė kiek-
     vieną neramumą Lietuvoje.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-075
+  pagrindžia:
+    - t-036
 
 - id: c-161597
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3080,12 +2266,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
     sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-001
 
 - id: c-161600
   redaktorius: "A. Šapoka"
@@ -3106,8 +2292,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-047
+  pagrindžia:
+    - t-018
 
 - id: c-161602
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3126,61 +2312,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     tūkstančius žmonių, bet ir ištisus socialinius sluoksnius, jų kultūrą ir tur-
     tą.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-058
-
-- id: c-161604
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 229"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
-  citata_originali: |
-    Disidentinis judėjimas sten-
-    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
-    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
-    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
-    jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
-    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
-    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
-    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
-    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
-    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
-  citata_rodoma: "Lietuvos disidentų siekis buvo tautos savasties išsaugojimas, \npriešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas. \nDisidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji \nlietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus \nužmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti \nžurnalą „Sintaksis“, teikė informaciją iš Lietuvos."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-035
-    - t-055
-
-- id: c-161606
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 116"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 116."
-  citata_originali: |
-    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
-    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
-    kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių
-    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
-    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
-    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
-    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
-    lietuvių „suartinimo“ su rusų kultūra gija.
-  citata_rodoma: "Kaip neprivaloma disciplina lietuvių \nkalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-\nversitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, \nturintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių \nparuošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir \nlietuvių „suartinimo“ su rusų kultūra gija."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-038
+  pagrindžia:
+    - t-023
 
 - id: c-161610
   sudarytojas: "Karolis Zikaras"
@@ -3197,88 +2334,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
     rengė į ją tris karo žygius (1368; 1370; 1372).
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-045
-
-- id: c-161612
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 85"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 85."
-  citata_originali: |
-    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
-    mėnesiais aplenkusi Prancūzijos konstituciją.
-    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
-    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
-    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
-    valstybės institucijose.
-    Apšvieta ateina į LDK
-    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
-    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
-    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
-    kariškai sustiprėjusios Švedijos.
-  citata_rodoma: "rudenį padarė es-\nminę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių \nvalstybės institucijose. \nApšvieta ateina į LDK\nNuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-\ngaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos \njūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a. \nkariškai sustiprėjusios Švedijos."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
-    - t-082
-
-- id: c-161615
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 118"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 118."
-  citata_originali: |
-    Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
-    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
-    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
-    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
-    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
-    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
-    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
-    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
-    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
-    imperijoje turi latviai ir estai.
-  citata_rodoma: "Pirmuoju redaktoriumi buvo tuomet Prahoje \ngyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-\neuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-\nčius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų \ntautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos \npozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent \njau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos \nimperijoje turi latviai ir estai."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-085
-
-- id: c-161616
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 38"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 38."
-  citata_originali: |
-    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
-    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
-    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire. Rem-
-    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
-    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
-    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
-    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
-    Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: "Rem-\ndamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-\nbę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, \ntačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-\nkytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o \nVilnius nevirto „antruoju Kijevu“."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-049
+  pagrindžia:
+    - t-016
 
 - id: c-161620
   autorius: "Michał Baliński"
@@ -3302,8 +2363,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-028
+  pagrindžia:
+    - t-011
 
 - id: c-161622
   autorius: "Michał Baliński"
@@ -3321,12 +2382,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     jo lankytis tolimose provincijose, kur artimiau susipažino su
     krikščioniškąja kultūra26.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
+  pagrindžia:
+    - t-007
 
 - id: c-161623
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3339,12 +2400,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi
     Maskvoje... Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-046
+  pagrindžia:
+    - t-017
 
 - id: c-161629
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3364,9 +2425,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
-    - t-072
+  pagrindžia:
+    - t-006
+    - t-035
 
 - id: c-161631
   autorius: "Michał Baliński"
@@ -3392,13 +2453,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
     ju.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-051
-    - t-065
+  pagrindžia:
+    - t-019
+    - t-028
 
 - id: c-161632
   autorius: "Zenonas Ivinskis"
@@ -3412,132 +2473,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai
     nebuvo pasiekę Maskvos vartų.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-037
-
-- id: c-161633
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 65-66"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65-66."
-  citata_originali: |
-    Liublino unijos nauda pasireiškė jau ne-
-    trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
-
-    L I E T U V O S  I S T O R I J A
-    66
-    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
-    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
-    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą).
-  citata_rodoma: "Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui\n\nL I E T U V O S  I S T O R I J A\n66\nSteponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės \nLivonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-\nžiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą)."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
-
-- id: c-161634
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 45"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45."
-  citata_originali: |
-    LDK būtent Vytauto
-    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
-    matuojant net tų laikų mastu. „Senovės nekeitimo“ tezė tėra istoriografi-
-    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
-    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
-    rankiškais keliais.
-    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
-    išteklius.
-  citata_rodoma: "„Senovės nekeitimo“ tezė tėra istoriografi-\nnis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė \nį dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-\nrankiškais keliais. \nVytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje \ništeklius."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-042
-
-- id: c-161636
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 72."
-  citata_originali: |
-    vo valdomos pačių žmonių, pasikviečiant vadas ar iš lietuvių
-    ar iš rusų kunigaikščių tarpo. Tos respublikos, tarpininkaujant
-    Maskvai, mokėjo totoriams duoklę, — iš čia jų ryšiai su Mas­
-    kva, nekalbant jau apie jų tautinį ir religinį vieningumą su ja;
-    tuo remdamasi Maskva ir rūpindamasi sujungti visą Rusiją, reiš­
-    kė pretenzijų ir į minėtas respublikas. Tiktai D. Naugardo bajo­
-    rija, siekdama nepriklausomybės ir nenorėdama būti suvienyta
-    su Maskva, priešingai liaudžiai, linko prie Lietuvos, mielai iš
-    čia imdamasi sau vadus.
-  citata_rodoma: "Tos respublikos, tarpininkaujant\nMaskvai, mokėjo totoriams duoklę, — iš čia jų ryšiai su Mas­\nkva, nekalbant jau apie jų tautinį ir religinį vieningumą su ja;\ntuo remdamasi Maskva ir rūpindamasi sujungti visą Rusiją, reiš­\nkė pretenzijų ir į minėtas respublikas. Tiktai D."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023
-
-- id: c-161640
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 112"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
-  citata_originali: |
-    J. K. Chodkevičius kovojo su Maskvos
-    kariuomene gindamas Smolenską. 1617-1618 m. daly-
-    vavo žygyje į Maskvą, nepaisant tam tikrų laimėjimų,
-    Maskvos užimti nepavyko. 1621 m. didysis etmo-
-    nas, vadovaudamas jungtinei Lietuvos ir Lenkijos
-    kariuomenei prieš turkus, pasiekė savo paskutinę
-    pergalę,mūšyje prie Chotino.
-  citata_rodoma: "1617-1618 m. daly-\nvavo žygyje į Maskvą, nepaisant tam tikrų laimėjimų,\nMaskvos užimti nepavyko. 1621 m."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-033
-
-- id: c-161642
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 136"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
-  citata_originali: |
-    Vy­
-    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
-    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
-    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
-    nas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos
-    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
-    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
-    žemes.
-    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
-
-    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
-  citata_rodoma: "Livonijos\nOrdinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai\njiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų\nžemes.\nTokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­\n\nkarų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-057
+  pagrindžia:
+    - t-014
 
 - id: c-161644
   redaktorius: "A. Šapoka"
@@ -3557,30 +2498,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-056
-
-- id: c-161646
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 217"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 217."
-  citata_originali: |
-    Pramonė labiau
-    specializuota, imta kurti chemijos, elektronikos pramonė, vietos valdžia
-    ypač didino žemės ūkio produkcijos gamybą ir apdirbimą, taip plėtodama
-    agropramoninį kompleksą, lengvąją pramonę. Gavusi Maskvos palaimi-
-    nimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės
-    įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas. Tokia
-    politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
-  citata_rodoma: "Gavusi Maskvos palaimi-\nnimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės \nįmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas. Tokia \npolitika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-073
+  pagrindžia:
+    - t-022
 
 - id: c-166441
   redaktorius: "A. Šapoka"
@@ -3594,12 +2513,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
     nebe puolančioji, bet puolamoji.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-089
+  pagrindžia:
+    - t-040
 
 - id: c-168400
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3633,8 +2553,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-090
+  pagrindžia:
+    - t-041
 
 - id: c-168403
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3657,50 +2577,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-091
-
-- id: c-170554
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 22"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
-  citata_originali: |
-    Kalbant apie LDK santykius su Rusų valstybe, labai
-    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
-    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
-    garduko feodalinių respublikų atžvilgiu. XV a. pabai­
-    gos ir XVI a. pradžios karai su Maskvos didžiąja ku­
-    nigaikštyste vaizduojami, laikantis Lietuvos valstybi­
-    nių pozicijų.
-  citata_rodoma: "Kalbant apie LDK santykius su Rusų valstybe, labai \niškeliamas Vytauto pranašumas savo žento Vasilijaus, \nMaskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­\ngarduko feodalinių respublikų atžvilgiu. XV a. pabai­\ngos ir XVI a. pradžios karai su Maskvos didžiąja ku­\nnigaikštyste vaizduojami, laikantis Lietuvos valstybi­\nnių pozicijų."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-092
-
-- id: c-171659
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 185"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
-  citata_originali: |
-    24
-    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
-    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
-    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
-    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
-  citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-093
+  pagrindžia:
+    - t-042
 
 - id: c-175957
   redaktorius: "A. Šapoka"
@@ -3719,8 +2597,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-094
+  pagrindžia:
+    - t-043
 
 - id: c-175958
   redaktorius: "A. Šapoka"
@@ -3738,8 +2616,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-095
+  pagrindžia:
+    - t-044
 
 - id: c-175959
   redaktorius: "A. Šapoka"
@@ -3761,31 +2639,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-096
-
-- id: c-177330
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 72"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
-  citata_originali: |
-    Tačiau šio Ross pavadini­
-    mo neįmanoma susieti su jokia kita tauta, išskyrus bu­
-    dinus, kai jau dauguma mokslininkų neigia slavų rusų
-    egzistavimą iki Riuriko. Taip pat kalbama ir apie tautų
-    protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven­
-    tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir
-    Tobolsko pirmtakus2.
-    57
-    Europos budinai.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-097
+  pagrindžia:
+    - t-045
 
 - id: c-178862
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3807,8 +2662,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-098
+  pagrindžia:
+    - t-046
 
 - id: c-187739
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -3822,12 +2677,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     tvirtovė Kremlius; Maskvos pavadinimas kilo iš upės var­
     do ir tos kalbos.
   statusas: verified
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-10-05 15:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-099
+  pagrindžia:
+    - t-047
 
 - id: c-189136
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3845,8 +2700,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-100
+  pagrindžia:
+    - t-048
 
 - id: c-189137
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3874,8 +2729,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-101
+  pagrindžia:
+    - t-049
 
 - id: c-189138
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3893,16 +2748,186 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-102
+  pagrindžia:
+    - t-050
+
+- id: c-193009
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
+  citata_originali: |
+    Kalbant apie LDK santykius su Rusų valstybe, labai
+    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
+    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
+    garduko feodalinių respublikų atžvilgiu. XV a. pabai­
+    gos ir XVI a. pradžios karai su Maskvos didžiąja ku­
+    nigaikštyste vaizduojami, laikantis Lietuvos valstybi­
+    nių pozicijų.
+  citata_rodoma: "Kalbant apie LDK santykius su Rusų valstybe, labai \niškeliamas Vytauto pranašumas savo žento Vasilijaus, \nMaskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­\ngarduko feodalinių respublikų atžvilgiu. XV a. pabai­\ngos ir XVI a. pradžios karai su Maskvos didžiąja ku­\nnigaikštyste vaizduojami, laikantis Lietuvos valstybi­\nnių pozicijų."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-052
+
+- id: c-193347
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 92"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 92."
+  citata_originali: |
+    Šventasis metropolitas
+    Kiprijonas27 su arkivyskupais ir vyskupais, su archi­
+    mandritais, igumenais ir su visų rangų dvasininkais pa­
+    sitiko ją priešais Maskvos miestą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-053
+
+- id: c-193607
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 131."
+  citata_originali: |
+    Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­
+    riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-054
+
+- id: c-193916
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 16."
+  citata_originali: |
+    Bychovco kronikos tekstas, kuris dar remiasi anks­
+    tesnių sąvadų medžiaga, baigiasi perrašytu iš Trumpojo
+    sąvado, bet taip pat perredaguotu pasakojimu apie
+    1440 m. sukilimą Smolenske ir 1445 m. pradžios karą
+    su Maskvos didžiąja kunigaikštyste.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-051
+
+- id: c-197494
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
+  citata_originali: |
+    Tačiau šio Ross pavadini­
+    mo neįmanoma susieti su jokia kita tauta, išskyrus bu­
+    dinus, kai jau dauguma mokslininkų neigia slavų rusų
+    egzistavimą iki Riuriko. Taip pat kalbama ir apie tautų
+    protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven­
+    tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir
+    Tobolsko pirmtakus2.
+    57
+    Europos budinai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-055
+
+- id: c-200137
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
+  citata_originali: |
+    24
+    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
+    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
+    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
+    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
+  citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-056
+
+- id: c-216427
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 152."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindžia:
+    - t-057
+
+- id: c-216428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 168."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-058
+
+- id: c-216429
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 305"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 305."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindžia:
+    - t-059
+
+- id: c-216430
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 306."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-060
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Fotijus]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Fotijus|Fotijus (Lietuvos didysis kunigaikštis, XV a.)]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]
 - Mirties vieta: [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
 - Apgulė Maskvą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Užėmė Maskvą: [[objektai/grupes/Lenkai]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Juozas Urbšys]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Juozas Urbšys]]
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Prekiavo su: [[objektai/vietos/Vilnius]]
 - Turėjo priklausinį: [[objektai/grupes/Maskvos pasiuntiniai]]

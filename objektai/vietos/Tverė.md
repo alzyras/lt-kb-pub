@@ -1,23 +1,25 @@
 ---
 tipas: vieta
-pavadinimas: Tverė
+pavadinimas: 'Tverė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Gedimino laiškai'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - 1328 m.
-  - 1399 m.
-  - 1400 m.
-  - 1430 m.
-  - 1432 m.
-  - 1434 m.
-  - 1435 m.
-  - 2026 m.
+  - '1328 m.'
+  - '1399 m.'
+  - '1400 m.'
+  - '1430 m.'
+  - '1432 m.'
+  - '1434 m.'
+  - '1435 m.'
+  - '2026 m.'
 date_start: '1328'
 date_end: '2026'
 sukurta: ''
@@ -26,41 +28,30 @@ tags:
   - vieta
   - miestas
 amziai:
-  - XIV
-  - XXI
+  - 'XIV'
+  - 'XXI'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg/1920px-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg'
-media_primary_directness: direct
-media_primary_relation_type: map_of
-media_primary_json: '{"mediaId":"m-4ca8da6b63cb1b930e49437b","title":"Планы городов из Полного собрания законов Российской империи 339.jpg","caption":"Istorinis Tverės miesto planas, 1839 m.","originalTitle":"Планы городов из Полного собрания законов Российской империи 339.jpg","creator":"Собственная Его Императорского Величества Канцелярия","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.bibliophika.ru/index.php?id=232 , http://fotki.yandex.ru/users/andrew-wagin/album/113144/?p=0 , http://rutracker.org/forum/viewtopic.php?t=1774967 , http://45f.ru/albums/113144.html","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":3000,"height":2408,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg/1920px-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"City maps from the complete collection of laws of the Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Andrew Butko from various sources (19th century)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Tver","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-RusEmpire","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Tverė.md","title":"Tverė","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T15:57:48.958835+03:00","reviewedAt":"2026-07-18T15:58:08.063860+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršuje aiškiai įskaitomas užrašas „Планъ Губернскому Городу Твери“; matomas detalus Tverės gatvių, kvartalų, upių ir įtvirtinimų planas.","metadataEvidence":"Kandidato apraše nurodytas 1839 m. Rusijos imperijos miestų planų leidinys, o deterministinis atitikmuo nurodo „Tver“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir aiškiai vaizduoja konkretų Tverės miestą kaip istorinį miesto planą.","isPrimary":1}'
-media_direct_json: '[{"mediaId":"m-4ca8da6b63cb1b930e49437b","title":"Планы городов из Полного собрания законов Российской империи 339.jpg","caption":"Istorinis Tverės miesto planas, 1839 m.","originalTitle":"Планы городов из Полного собрания законов Российской империи 339.jpg","creator":"Собственная Его Императорского Величества Канцелярия","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.bibliophika.ru/index.php?id=232 , http://fotki.yandex.ru/users/andrew-wagin/album/113144/?p=0 , http://rutracker.org/forum/viewtopic.php?t=1774967 , http://45f.ru/albums/113144.html","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":3000,"height":2408,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg/1920px-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"City maps from the complete collection of laws of the Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Andrew Butko from various sources (19th century)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Tver","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-RusEmpire","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Tverė.md","title":"Tverė","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T15:57:48.958835+03:00","reviewedAt":"2026-07-18T15:58:08.063860+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršuje aiškiai įskaitomas užrašas „Планъ Губернскому Городу Твери“; matomas detalus Tverės gatvių, kvartalų, upių ir įtvirtinimų planas.","metadataEvidence":"Kandidato apraše nurodytas 1839 m. Rusijos imperijos miestų planų leidinys, o deterministinis atitikmuo nurodo „Tver“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir aiškiai vaizduoja konkretų Tverės miestą kaip istorinį miesto planą.","isPrimary":1}]'
-media_contextual_json: '[]'
-media_all_json: '[{"mediaId":"m-4ca8da6b63cb1b930e49437b","title":"Планы городов из Полного собрания законов Российской империи 339.jpg","caption":"Istorinis Tverės miesto planas, 1839 m.","originalTitle":"Планы городов из Полного собрания законов Российской империи 339.jpg","creator":"Собственная Его Императорского Величества Канцелярия","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.bibliophika.ru/index.php?id=232 , http://fotki.yandex.ru/users/andrew-wagin/album/113144/?p=0 , http://rutracker.org/forum/viewtopic.php?t=1774967 , http://45f.ru/albums/113144.html","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":3000,"height":2408,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg/1920px-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"City maps from the complete collection of laws of the Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Andrew Butko from various sources (19th century)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Tver","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-RusEmpire","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Tverė.md","title":"Tverė","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T15:57:48.958835+03:00","reviewedAt":"2026-07-18T15:58:08.063860+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršuje aiškiai įskaitomas užrašas „Планъ Губернскому Городу Твери“; matomas detalus Tverės gatvių, kvartalų, upių ir įtvirtinimų planas.","metadataEvidence":"Kandidato apraše nurodytas 1839 m. Rusijos imperijos miestų planų leidinys, o deterministinis atitikmuo nurodo „Tver“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir aiškiai vaizduoja konkretų Tverės miestą kaip istorinį miesto planą.","isPrimary":1}]'
-entity_id: ent-457b5569da9ddbdc67f37834
-canonical_name: Tverė
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Tverė
-sameAs: []
-canonical_biography: 'Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį. Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-4ca8da6b63cb1b930e49437b","title":"Планы городов из Полного собрания законов Российской империи 339.jpg","caption":"Istorinis Tverės miesto planas, 1839 m.","originalTitle":"Планы городов из Полного собрания законов Российской империи 339.jpg","creator":"Собственная Его Императорского Величества Канцелярия","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.bibliophika.ru/index.php?id=232 , http://fotki.yandex.ru/users/andrew-wagin/album/113144/?p=0 , http://rutracker.org/forum/viewtopic.php?t=1774967 , http://45f.ru/albums/113144.html","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":3000,"height":2408,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg/1920px-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"City maps from the complete collection of laws of the Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Andrew Butko from various sources (19th century)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Tver","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-RusEmpire","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Tverė.md","title":"Tverė","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T15:57:48.958835+03:00","reviewedAt":"2026-07-18T15:58:08.063860+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršuje aiškiai įskaitomas užrašas „Планъ Губернскому Городу Твери“; matomas detalus Tverės gatvių, kvartalų, upių ir įtvirtinimų planas.","metadataEvidence":"Kandidato apraše nurodytas 1839 m. Rusijos imperijos miestų planų leidinys, o deterministinis atitikmuo nurodo „Tver“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir aiškiai vaizduoja konkretų Tverės miestą kaip istorinį miesto planą.","isPrimary":1,"identityVerified":false}
+media_direct_json: |-
+  [{"mediaId":"m-4ca8da6b63cb1b930e49437b","title":"Планы городов из Полного собрания законов Российской империи 339.jpg","caption":"Istorinis Tverės miesto planas, 1839 m.","originalTitle":"Планы городов из Полного собрания законов Российской империи 339.jpg","creator":"Собственная Его Императорского Величества Канцелярия","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.bibliophika.ru/index.php?id=232 , http://fotki.yandex.ru/users/andrew-wagin/album/113144/?p=0 , http://rutracker.org/forum/viewtopic.php?t=1774967 , http://45f.ru/albums/113144.html","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":3000,"height":2408,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg/1920px-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"City maps from the complete collection of laws of the Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Andrew Butko from various sources (19th century)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Tver","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-RusEmpire","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Tverė.md","title":"Tverė","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T15:57:48.958835+03:00","reviewedAt":"2026-07-18T15:58:08.063860+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršuje aiškiai įskaitomas užrašas „Планъ Губернскому Городу Твери“; matomas detalus Tverės gatvių, kvartalų, upių ir įtvirtinimų planas.","metadataEvidence":"Kandidato apraše nurodytas 1839 m. Rusijos imperijos miestų planų leidinys, o deterministinis atitikmuo nurodo „Tver“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir aiškiai vaizduoja konkretų Tverės miestą kaip istorinį miesto planą.","isPrimary":1,"identityVerified":false}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-4ca8da6b63cb1b930e49437b","title":"Планы городов из Полного собрания законов Российской империи 339.jpg","caption":"Istorinis Tverės miesto planas, 1839 m.","originalTitle":"Планы городов из Полного собрания законов Российской империи 339.jpg","creator":"Собственная Его Императорского Величества Канцелярия","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.bibliophika.ru/index.php?id=232 , http://fotki.yandex.ru/users/andrew-wagin/album/113144/?p=0 , http://rutracker.org/forum/viewtopic.php?t=1774967 , http://45f.ru/albums/113144.html","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":3000,"height":2408,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg/1920px-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"City maps from the complete collection of laws of the Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Andrew Butko from various sources (19th century)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Tver","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-RusEmpire","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Tverė.md","title":"Tverė","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T15:57:48.958835+03:00","reviewedAt":"2026-07-18T15:58:08.063860+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršuje aiškiai įskaitomas užrašas „Планъ Губернскому Городу Твери“; matomas detalus Tverės gatvių, kvartalų, upių ir įtvirtinimų planas.","metadataEvidence":"Kandidato apraše nurodytas 1839 m. Rusijos imperijos miestų planų leidinys, o deterministinis atitikmuo nurodo „Tver“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir aiškiai vaizduoja konkretų Tverės miestą kaip istorinį miesto planą.","isPrimary":1,"identityVerified":false}]
+entity_id: "ent-457b5569da9ddbdc67f37834"
+canonical_name: "Tverė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tverė"]
+sameAs: ["https://www.wikidata.org/entity/Q2288"]
+canonical_biography: "Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį. Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Tverė","url":"https://lt.wikipedia.org/wiki/Tver%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Tverė","url":"https://www.vle.lt/straipsnis/tvere/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-19T02:19:49+00:00","source_checked_at":"2026-09-19T02:19:49+00:00","counts":{"relations":4,"gallery":1,"sources":10},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis: Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie- tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai pasirinkti sau globą.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-180689","evidence_id":"c-164274","origin":"internal"},"wiki":{"intro":"Tverė (rus. Тверь) – miestas Rusijoje, Volgos aukštupyje (prie jos intako Tvercos žiočių), 167 km į šiaurės vakarus nuo Maskvos; srities centras. Geležinkelio stotis, oro uostas. Per miestą nutiestas Maskvos–Naugardo–Sankt Peterburgo federalinis kelias. Išvystyta mašinų, chemijos, tekstilės, maisto, poligrafijos, statybų, vaistų, baldų pramonė, veikia Tverės vagonų gamykla.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"176476","revision_id":"7758492","status":"published","translation_status":"native","source":{"title":"Tverė","url":"https://lt.wikipedia.org/wiki/Tver%C4%97","publisher":"Vikipedija","language":"lt","article_id":"176476","revision_id":"7758492","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7758492","history_url":"https://lt.wikipedia.org/w/index.php?title=Tver%C4%97&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:22:28.256015+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"be43f6d13183a2284abaaa0b5995c87eab667f6e9b8f08feb97ecab8fd4b131e","version_pk":"adac4d1beaa6a554976b2c15ca97db8b"}},"source_buttons":[{"label":"Vikipedija","title":"Tverė","url":"https://lt.wikipedia.org/wiki/Tver%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Tverė","url":"https://www.vle.lt/straipsnis/tvere/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Tver%C4%97","https://www.vle.lt/straipsnis/tvere/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2caf72d02718533ba11c1c74","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Tverė apibūdinama kaip vyriausioji rusėnų žemė.","context":"Karolis Zikaras, aprašydamas 1328 m. sukilimo aplinkybes, Tverę taip įvardija istoriniame kontekste.","support_ids":["t-180690","c-164271"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180690","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-164271","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"## Puslapis 21 Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val- dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius mongolus prie Mėlynųjų vandenų. 1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau- sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai), gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno- sios Rusios kunigaikštijų."}],"status":"published","conflict_status":"clear"},{"trait_id":"c36e096ab4c5b81177d15bf6","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Tverės kunigaikštystė apibūdinama kaip viena galingiausių, greta Maskvos — galingiausia.","context":"A. Šapoka pateikia šį vertinimą aprašydamas laikotarpį, kai Gediminas siekė susigiminiuoti su Tverės kunigaikščiu.","support_ids":["t-180704","c-164288"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180704","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-164288","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tuo metu, greta Maskvos, visų ga- lingiausia buvo Tverės kunigaikštystė. Kad ji nekliudytų, Gedi- minas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį. Apskritai Gediminas daug pasiekė gausingos savo šeimos vedybomis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7bfb4e50e20eaa1a75a69c88","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Tverė apibūdinama kaip turėjusi labai galingas karo jėgas, galėjusias išvesti į kovos lauką didelę kariuomenę.","context":"Albertas Vijūkas-Kojelavičius tai teigia pasakodamas apie 1486 m. Tverės konfliktą su Maskva; tai šaltinio autoriaus apibūdinimas.","support_ids":["t-185167","c-168528"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185167","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168528","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Kai Tvėrėje ar dėl M a s k v o s ku n ig a ik š- Maskvos valdovo Vasiljevi- tis užima T v e r ę čiaus klastos, ar dėl kokių ki­ tų priežasčių kilo maištas, ku­ nigaikštis, valdinių išvytas iš savo senolių valdų, pabė­ go pas karalių. Žadėdamas amžiną santarvę ir deramą karinę pagalbą bet kuriuo at- 1486 m e ta i veju, jis ragino ir kalbino karalių atkeršyti už jam pa­ darytą skriaudą, ypač dėl to, kad visa Tverė, atsikra­ čiusi teisėto kunigaikščio valdžios, susivienijo su mas- kvėnais, o šia sąjunga Vasiljevičius galėjo smarkiai sustiprinti savo jėgas, jeigu jam kuo greičiausiai nebū­ siąs duotas atkirtis. Tverė turėjo labai galingas karo jėgas, ji galėjo išvesti į kovos lauką ligi…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Tverė – istorinė Rusios kunigaikštystė ir svarbi Lietuvos rytų politikos erdvė. 1328 m. joje kilus sukilimui prieš Aukso ordą, Maskvos kunigaikštis gavo mongolų leidimą rinkti duoklę iš kitų senosios Rusios kunigaikštijų. Algirdas, gindamas savo svainio, Tverės kunigaikščio Mykolo, teises, tris kartus – 1368, 1370 ir 1372 m. – žygiavo prieš Maskvą ir trukdė jai įsitvirtinti Tverėje. Vėliau Vytautas siekė Tverę paimti savo valdžion arba įgyti jai didelę įtaką; 1430 m. Tverės kunigaikščiai atvyko į jo aplinkoje vykusius priėmimus Trakuose ir Vilniuje. 1449 m. Tverė buvo palikta Lietuvos įtakos sričiai, tačiau vėliau Maskva privertė Lietuvos sąjungininkę pasiduoti savo valdžiai.","sentences":[{"sentence_id":"s1","text":"Tverė – istorinė Rusios kunigaikštystė ir svarbi Lietuvos rytų politikos erdvė.","support_ids":["t-180690","t-180678"]},{"sentence_id":"s2","text":"1328 m. joje kilus sukilimui prieš Aukso ordą, Maskvos kunigaikštis gavo mongolų leidimą rinkti duoklę iš kitų senosios Rusios kunigaikštijų.","support_ids":["t-180690"]},{"sentence_id":"s3","text":"Algirdas, gindamas savo svainio, Tverės kunigaikščio Mykolo, teises, tris kartus – 1368, 1370 ir 1372 m. – žygiavo prieš Maskvą ir trukdė jai įsitvirtinti Tverėje.","support_ids":["t-180680"]},{"sentence_id":"s4","text":"Vėliau Vytautas siekė Tverę paimti savo valdžion arba įgyti jai didelę įtaką; 1430 m. Tverės kunigaikščiai atvyko į jo aplinkoje vykusius priėmimus Trakuose ir Vilniuje.","support_ids":["t-180678","t-180681"]},{"sentence_id":"s5","text":"1449 m. Tverė buvo palikta Lietuvos įtakos sričiai, tačiau vėliau Maskva privertė Lietuvos sąjungininkę pasiduoti savo valdžiai.","support_ids":["t-180684","t-180687"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia Tverės svarbą Lietuvos rytų politikoje, tačiau tiesiogiai nepatvirtina, kad Tverė buvo istorinė Rusios kunigaikštystė."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai patvirtinta 1328 m. Tverėje kilusio sukilimo, Maskvos kunigaikščio leidimo rinkti duoklę ir kitų Rusios kunigaikštijų aplinkybių."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo Mykolo teisių gynimą, tris Algirdo žygius prieš Maskvą 1368, 1370 ir 1372 m. bei Maskvos įsitvirtinimo Tverėje trukdymą."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai pagrindžia Vytauto siekį valdyti Tverę arba daryti jai didelę įtaką ir Tverės kunigaikščių atvykimą į Trakus bei Vilnių 1430 m."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina, kad 1449 m. Tverė liko Lietuvos įtakos srityje, o vėliau Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti savo valdžiai."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180690","t-180678"]},{"sentence_id":"s2","supported":false,"support_ids":["t-180690"]},{"sentence_id":"s3","supported":false,"support_ids":["t-180680"]},{"sentence_id":"s4","supported":false,"support_ids":["t-180678","t-180681"]},{"sentence_id":"s5","supported":false,"support_ids":["t-180684","t-180687"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":{"media_id":"m-4ca8da6b63cb1b930e49437b","reason":"deterministic_media_primary","identity_verified":false,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"m-4ca8da6b63cb1b930e49437b","candidate_count":1,"visual_verified_count":1,"identity_verified_count":0,"primary":{"visual_verified":true,"identity_verified":false,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdas tiesiogiai ir aiškiai vaizduoja konkretų Tverės miestą kaip istorinį miesto planą.","visual_evidence":"Viršuje aiškiai įskaitomas užrašas „Планъ Губернскому Городу Твери“; matomas detalus Tverės gatvių, kvartalų, upių ir įtvirtinimų planas.","metadata_evidence":"Kandidato apraše nurodytas 1839 m. Rusijos imperijos miestų planų leidinys, o deterministinis atitikmuo nurodo „Tver“.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Michailas Aleksandrovičius","claim_id":"t-183753","confidence":0.92},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Vilnius","claim_id":"t-177709","confidence":0.76},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Dmitrijus Ivanovičius","claim_id":"t-183734","confidence":0.94},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Borisas (Tverės kunigaikštis)","claim_id":"t-87596","confidence":0.87}],"timeline":[{"date":"1328 m.","label":"1328 m.","claimId":"t-180690"},{"date":"1328 m.","label":"1328 m.","claimId":"t-180703"},{"date":"1430 m.","label":"1430 m.","claimId":"t-180681"},{"date":"1432 m.","label":"1432 m.","claimId":"t-180686"},{"date":"1432 m.","label":"1432 m.","claimId":"t-180688"},{"date":"1434 m.","label":"Popiežius Eugenijus IV 1434 m.","claimId":"t-180677"},{"date":"1449 m.","label":"1449 m.","claimId":"t-180684"}],"support_disclosure":{"claims":29,"sources":8}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: e30666d04d080a5f
-object_page_generated_at: '2026-09-19T02:19:49+00:00'
-object_page_source_checked_at: '2026-09-19T02:19:49+00:00'
-object_page_content_state: content
-object_page_claim_count: '29'
-object_page_source_count: '8'
-object_page_seo_description: 'Tverė – istorinė Rusios kunigaikštystė ir svarbi Lietuvos rytų politikos erdvė. 1328 m. joje kilus sukilimui prieš Aukso ordą, Maskvos kunigaikštis gavo…'
-object_page_seo_input_hash: 20407fc664f9de4262b3413e7124f27fdd0cb9443bd3212cc7603466e51aeed4
-object_page_seo_generated_at: '2026-09-19T02:19:49+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Tverė
 
@@ -70,29 +61,10 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 
 ## Teiginiai
 
-<a id="claim-t-180675"></a>
-- t-001
-  teiginys: "Vytautas gerais santykiais su Didžiuoju Magistru siekė apsaugoti savo susilpnėjusią įtaką Tverio kunigaikštijoje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=90"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1400 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata apie Tverio kunigaikštiją."
-  pagrindžia:
-    - c-164278
-
 <a id="claim-t-180677"></a>
-- t-002
+- t-001
   teiginys: "Popiežius Eugenijus IV 1434 m. laiške užtarė Sofiją, Tverės kunigaikščio Boriso dukterį, patekusią Žygimanto galion."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Borisas (Tverės kunigaikštis): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -107,42 +79,10 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindžia:
     - c-164284
 
-<a id="claim-t-180678"></a>
-- t-003
-  teiginys: "Vytauto rytų politikoje Tverė buvo viena iš sričių, kurią jis siekė paimti savo valdžion arba turėti jai didelę įtaką."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164281
-
-<a id="claim-t-180679"></a>
-- t-004
-  teiginys: "Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164282
-
 <a id="claim-t-180680"></a>
-- t-005
+- t-002
   teiginys: "Algirdas gynė Tverės kunigaikščio Mykolo teises ir ginklu trukdė Maskvai įsitvirtinti Tverėje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -156,9 +96,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164272
 
 <a id="claim-t-180681"></a>
-- t-006
+- t-003
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Trakai: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -168,16 +108,16 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Tverės ir Riazanės kunigaikščiai įvardyti tarp atvykstančių į Trakus svečių."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.82); Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.82); Mazovijos kunigaikščiai keliavo į Trakai (0.63); Totoriai keliavo į Trakai (0.58)"
+  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.82); Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.82); Mazovijos kunigaikščiai keliavo į Trakai (0.63); Totoriai keliavo į Trakai (0.58)"
   temporaliniai_duomenys: "kelionės data: 1430 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-164268
 
 <a id="claim-t-180684"></a>
-- t-007
+- t-004
   teiginys: "1449 m. Kazimieras ir Maskva pasidalijo įtakos sritimis, o Tverė liko Lietuvos įtakoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -193,30 +133,10 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindžia:
     - c-164274
 
-<a id="claim-t-180686"></a>
-- t-008
-  teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Švitrigailos ir Ordino patvirtintą anksčiau pasirašytą sutartį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Švitrigaila sudarė sutartį su Kryžiuočių ordinas (0.84); Švitrigaila buvo sąjungininkas su Kryžiuočių ordinas (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-164273
-
 <a id="claim-t-180687"></a>
-- t-009
+- t-005
   teiginys: "Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti jos valdžiai."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -232,9 +152,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164279
 
 <a id="claim-t-180689"></a>
-- t-010
+- t-006
   teiginys: "Kazimierui pasidalijus įtakos sritimis su Maskva, Tverė buvo palikta Lietuvos įtakoje."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -250,9 +170,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164274
 
 <a id="claim-t-180690"></a>
-- t-011
+- t-007
   teiginys: "1328 m. Maskvos kunigaikštis, pasinaudojęs Tverėje kilusiu sukilimu prieš Aukso ordą, gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mongolai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -268,42 +188,10 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindžia:
     - c-164271
 
-<a id="claim-t-180691"></a>
-- t-012
-  teiginys: "Vytautas rytų politikoje siekė valdyti arba stipriai veikti Tverę, Maskvą, Pskovą, Naugardą, Riazanę ir totorius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riazanė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riazanė: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Riazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164281
-
-<a id="claim-t-180692"></a>
-- t-013
-  teiginys: "Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164276
-
 <a id="claim-t-180694"></a>
-- t-014
+- t-008
   teiginys: "Po Aleksandro ir Elenos santuokos į Vilnių atvykstantiems pirkliams iš Tverės ir kitų Rusios miestų imta steigti naujas užeigas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -319,28 +207,10 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindžia:
     - c-164275
 
-<a id="claim-t-180695"></a>
-- t-015
-  teiginys: "Susilpnėjusią įtaką Rusijoje, ypač Tverės kunigaikštijoje, buvo siekiama apsaugoti gerais santykiais su didžiuoju magistru."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1400 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-164278
-
 <a id="claim-t-180697"></a>
-- t-016
+- t-009
   teiginys: "Algirdo žmonos, Tverės kunigaikštytės, pakviesti bazilijonai jo valdymo pradžioje įsikūrė Vilniuje ir turėjo medinę bažnyčią."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -354,9 +224,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164286
 
 <a id="claim-t-180699"></a>
-- t-017
+- t-010
   teiginys: "1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mazovijos kunigaikščiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -370,9 +240,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164268
 
 <a id="claim-t-180700"></a>
-- t-018
+- t-011
   teiginys: "Algirdas buvo vedęs Tverės kunigaikštytę Mariją ir, sekdamas Gedimino politika, leido Vilniuje veikti Romos bei graikų apeigų dvasininkams."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -386,9 +256,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164291
 
 <a id="claim-t-180701"></a>
-- t-019
+- t-012
   teiginys: "Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti savo valdžiai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -405,9 +275,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164279
 
 <a id="claim-t-180702"></a>
-- t-020
+- t-013
   teiginys: "Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Borisas (Tverės kunigaikštis): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -422,9 +292,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164284
 
 <a id="claim-t-180703"></a>
-- t-021
+- t-014
   teiginys: "1328 m. Tverėje kilus sukilimui prieš Aukso ordą, Maskvos kunigaikštis gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -441,9 +311,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-43926
 
 <a id="claim-t-180704"></a>
-- t-022
+- t-015
   teiginys: "Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -460,9 +330,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164288
 
 <a id="claim-t-185167"></a>
-- t-023
+- t-016
   teiginys: "Kojelavičiaus pasakojime Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -482,30 +352,10 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindžia:
     - c-168528
 
-<a id="claim-t-187665"></a>
-- t-024
-  teiginys: "Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "didysis kunigaikštis: mention_match, thing, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"didysis kunigaikštis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170607
-
 <a id="claim-t-193236"></a>
-- t-025
+- t-017
   teiginys: "Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -515,9 +365,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-175973
 
 <a id="claim-t-193237"></a>
-- t-026
+- t-018
   teiginys: "Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -527,9 +377,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-175974
 
 <a id="claim-t-193238"></a>
-- t-027
+- t-019
   teiginys: "Dėl šio kunigaikščio titulo varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -538,6 +388,103 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindžia:
     - c-175975
 
+<a id="claim-t-210818"></a>
+- t-020
+  teiginys: "Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu'garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193709
+
+<a id="claim-t-232796"></a>
+- t-232796
+  teiginys: "Gedimino laiškų įvade dinastinė ir politinė sąjunga su Tverės kunigaikščiu siejama su sustiprėjusiomis Gedimino ambicijomis Rusios atžvilgiu."
+  atnaujinta: "2026-10-13 11:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Gedimino laiškai"
+  vertinimo_atnaujinta: "2026-10-13T06:07:38Z"
+  pagrindžia:
+    - c-215154
+
+<a id="claim-t-233763"></a>
+- t-233763
+  teiginys: "Atskira sutartimi patvirtinta sąjunga su Tverės kunigaikščiu Jonu, Mykolo sūnumi."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:45Z"
+  pagrindžia:
+    - c-216583
+
+<a id="claim-t-233764"></a>
+- t-233764
+  teiginys: "Narbutas vaizduoja Tverės kunigaikštį Joną, Mykolo sūnų, kaip ypač svarbų Edygos rėmėją tarp Rusios kunigaikščių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:45Z"
+  pagrindžia:
+    - c-216584
+
+<a id="claim-t-233765"></a>
+- t-233765
+  teiginys: "Narbutas nurodo, kad Kijeve priimtas Tverės kunigaikštis Aleksandras, Jono sūnus, norėjo atnaujinti senus ryšius su Lietuvos Didžiąja Kunigaikštyste, o susitikimo dalyviai sutarė dėl geros kaimynystės."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:45Z"
+  pagrindžia:
+    - c-216585
+
+## Reikšmingi paminėjimai
+- c-022
+  santrauka: 'Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    * Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso
+    Aleksandravičiaus brolis. Talkininkaudamas Svitrigai'ai, žuvo Pa­
+    baisko (Ukmergės) m ūšyje 1435 m.
+    Tverė teikė karinę pagalbų Svitrigai'ai. kadangi jos didysis
+    kunigaikšl s (nuo 1425 m.) Boruos Aleksandravičius (1399— I4fil|
+    buvo Švitrigailos giminaitis (Švitrigaila buvo vedęs spėjamų Bonso
+    Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
+    tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
+    tarti, kurios laikėsi ir Vytautui mirus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-024
+  santrauka: 'Gedimino laiškų įvade dinastinė ir politinė sąjunga su Tverės kunigaikščiu siejama su sustiprėjusiomis Gedimino ambicijomis Rusios atžvilgiu.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Gediminas kontrolia­
+    vo Polocką, Vitebską, Naugarduką, Gardiną. Juos lietuviai nukariavo ankstesniame amžiuje ir
+    (kaip ir šiaurinius miestus) ilgus metus valdė. Jis puolė Kijevą9 ir pasiuntė savo patikėtinį būti
+    Pskovo kunigaikščiu, t. y. miesto karo vadu; dinastijos ir politinė sąjunga su Tverės kunigaikš­
+    čiu sustiprino Gedimino ambicijas Rusios atžvilgiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-43926
@@ -553,12 +500,12 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     sios Rusios kunigaikštijų. Tai reiškė, kad Maskva tapo nauju nuo
     Lietuvos nepriklausiusių rusėnų žemių centru.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
+  pagrindžia:
+    - t-014
 
 - id: c-164268
   autorius: "Michał Baliński"
@@ -585,9 +532,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-    - t-017
+  pagrindžia:
+    - t-003
+    - t-010
 
 - id: c-164271
   sudarytojas: "Karolis Zikaras"
@@ -607,12 +554,12 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
     sios Rusios kunigaikštijų.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-007
 
 - id: c-164272
   autorius: "Zenonas Ivinskis"
@@ -631,8 +578,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-002
 
 - id: c-164273
   sudarytojas: "Karolis Zikaras"
@@ -640,10 +587,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   puslapiai: "PDF 68"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
-    1432 m. pradžioje derybos tarp lenkų
-    ir lietuvių strigo (tuo metu Jogaila sto-
-    vėjo Liubline, Švitrigaila su kryžiuo-
-    čių atstovais - Brastoje). Gegužės 15 d.
+    Gegužės 15 d.
 
     Skirsnemunėje Švitrigaila ir Ordinas
     patvirtino prieš metus pasirašytą sutartį,
@@ -651,14 +595,12 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     Naugardu, Pskovu, Mozūrija, Odojevo ir
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais. Tuo tarpu Jogailos\nLenkijos santykiai su Ordinu aštrėjo."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-164274
   redaktorius: "A. Šapoka"
@@ -679,9 +621,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-    - t-010
+  pagrindžia:
+    - t-004
+    - t-006
 
 - id: c-164275
   autorius: "Michał Baliński"
@@ -704,8 +646,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-008
 
 - id: c-164276
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -714,25 +656,18 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   puslapiai: "PDF 228"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
   citata_originali: |
-    Atvyko
-    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
-    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
-    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
-    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
     zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
     niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
-  citata_rodoma: "Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 )."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
 
 - id: c-164278
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -741,24 +676,17 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   puslapiai: "PDF 185"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 185."
   citata_originali: |
-    Tai Vytautas gerai suprato ir todėl sten­
-    gėsi, kad ir mažais patarnavimais, palenkti tiek lenkų, tiek ir
-    Ordino simpatijas savo pusėn, kas šiuo laiku jam taip buvo rei­
-    kalinga. Naudodamasis gerais santykiais su Didžiuoju Ma­
+    Naudodamasis gerais santykiais su Didžiuoju Ma­
     gistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką
     Rusijoj, ypač Tverio kunigaikštijoj. Jis vėl ėmė artėti su toto­
     riais ir stengėsi su jais atnaujinti gerus santykius^2 ); o norėda­
-    mas įsiteikti pačiam Ordinui, 1400 m. padarė žygį prieš Žemai­
-    čius.
-  citata_rodoma: "Naudodamasis gerais santykiais su Didžiuoju Ma­\ngistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką\nRusijoj, ypač Tverio kunigaikštijoj. Jis vėl ėmė artėti su toto­\nriais ir stengėsi su jais atnaujinti gerus santykius^2 ); o norėda­\nmas įsiteikti pačiam Ordinui, 1400 m."
+    mas įsiteikti pačiam Ordinui, 1400 m.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-015
 
 - id: c-164279
   redaktorius: "A. Šapoka"
@@ -778,9 +706,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
-    - t-019
+  pagrindžia:
+    - t-005
+    - t-012
 
 - id: c-164281
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -789,23 +717,18 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   puslapiai: "PDF 282"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 282."
   citata_originali: |
-    Palaikydamas labai gyvus politinius santykius
-    su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
-    dėmesio ir į rytus. Per metų metus rytų reikalai jam vyrauja;
+    Per metų metus rytų reikalai jam vyrauja;
     jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
     rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
     gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
     čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
     ar bent turėti jiems didelę įtaką.
-  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-012
 
 - id: c-164282
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -814,21 +737,18 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   puslapiai: "PDF 228"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
   citata_originali: |
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    Atkeliavo ir Vytauto giminaičiai, Mo­
     zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
     niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
-  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-164284
   autorius: "Michał Baliński"
@@ -861,9 +781,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-020
+  pagrindžia:
+    - t-001
+    - t-013
 
 - id: c-164286
   autorius: "Michał Baliński"
@@ -881,8 +801,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
+  pagrindžia:
+    - t-009
 
 - id: c-164288
   redaktorius: "A. Šapoka"
@@ -896,12 +816,12 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     savo dukterį. Apskritai Gediminas daug pasiekė gausingos savo
     šeimos vedybomis.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-022
+  pagrindžia:
+    - t-015
 
 - id: c-164291
   autorius: "Michał Baliński"
@@ -929,8 +849,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
+  pagrindžia:
+    - t-011
 
 - id: c-168528
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -963,30 +883,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023
-
-- id: c-170607
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    * Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso
-    Aleksandravičiaus brolis. Talkininkaudamas Svitrigai'ai, žuvo Pa­
-    baisko (Ukmergės) m ūšyje 1435 m.
-    Tverė teikė karinę pagalbų Svitrigai'ai. kadangi jos didysis
-    kunigaikšl s (nuo 1425 m.) Boruos Aleksandravičius (1399— I4fil|
-    buvo Švitrigailos giminaitis (Švitrigaila buvo vedęs spėjamų Bonso
-    Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
-    tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
-    tarti, kurios laikėsi ir Vytautui mirus.
-  statusas: verified
-  atnaujinta: "2026-08-11 18:54"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
+  pagrindžia:
+    - t-016
 
 - id: c-175973
   redaktorius: "A. Šapoka"
@@ -1005,8 +903,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
+  pagrindžia:
+    - t-017
 
 - id: c-175974
   redaktorius: "A. Šapoka"
@@ -1028,8 +926,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
+  pagrindžia:
+    - t-018
 
 - id: c-175975
   redaktorius: "A. Šapoka"
@@ -1049,8 +947,100 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-027
+  pagrindžia:
+    - t-019
+
+- id: c-190228
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 108"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 108."
+  citata_originali: |
+    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko tapo Tverė ir Maskva,
+    kurią laimėjo Maskva, įsitvirtinusi ir Vladimire.
+  statusas: verified
+  atnaujinta: "2026-10-05 15:03"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193709
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
+  citata_originali: |
+    Ir Moldavų bei Besarabų * šalies valdovai, valachų
+    kalba vadinami vaivadomis5, ir Bu'garų šalies val­
+    dovas, bulgarų kalba vadinamas despotu6, ir kiti di­
+    dieji kunigaikščiai — Tverės didysis kunigaikštis, ir
+    Riazanės didysis kunigaikštis, ir Odojevo didysis ku­
+    nigaikštis, ir Didysis Naugardas, ir Didysis Pskovas;
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-020
+
+- id: c-215154
+  šaltinis: "Gedimino laiškai"
+  puslapiai: "PDF 11"
+  indeksas: "Gedimino laiškai, PDF 11."
+  citata_originali: |
+    Gediminas kontrolia­
+    vo Polocką, Vitebską, Naugarduką, Gardiną. Juos lietuviai nukariavo ankstesniame amžiuje ir
+    (kaip ir šiaurinius miestus) ilgus metus valdė. Jis puolė Kijevą9 ir pasiuntė savo patikėtinį būti
+    Pskovo kunigaikščiu, t. y. miesto karo vadu; dinastijos ir politinė sąjunga su Tverės kunigaikš­
+    čiu sustiprino Gedimino ambicijas Rusios atžvilgiu.
+  citata_rodoma: "Jis puolė Kijevą9 ir pasiuntė savo patikėtinį būti \nPskovo kunigaikščiu, t. y. miesto karo vadu; dinastijos ir politinė sąjunga su Tverės kunigaikš­\nčiu sustiprino Gedimino ambicijas Rusios atžvilgiu."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-13 11:46"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-232796
+
+- id: c-216583
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 90."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233763
+
+- id: c-216584
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 173."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233764
+
+- id: c-216585
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 258."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233765
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Michailas Aleksandrovičius]]

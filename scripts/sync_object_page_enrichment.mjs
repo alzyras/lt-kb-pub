@@ -5,32 +5,39 @@ import crypto from "node:crypto"
 import { execFileSync } from "node:child_process"
 import matter from "gray-matter"
 
-const [sourceRoot, database] = process.argv.slice(2)
-if (!sourceRoot || !database)
-  throw new Error("Usage: node scripts/sync_object_page_enrichment.mjs SOURCE_ROOT DATABASE")
+const [sourceRoot] = process.argv.slice(2)
+if (!sourceRoot)
+  throw new Error("Usage: node scripts/sync_object_page_enrichment.mjs SOURCE_ROOT")
+const backendRoot = path.resolve(process.env.LT_KB_BACKEND_ROOT || path.resolve(process.cwd(), "../lt-kb"))
 const snapshot = JSON.parse(
   execFileSync(
-    "python3",
+    process.env.LT_KB_PYTHON || (process.platform === "win32" ? "python" : "python3"),
     [
       "-c",
       `
-import sqlite3,json,sys
-from pathlib import Path
-c=sqlite3.connect(Path(sys.argv[1]).resolve().as_uri()+'?mode=ro',uri=True)
-c.row_factory=sqlite3.Row
-c.execute('BEGIN')
-rows=c.execute("SELECT m.* FROM object_page_modules m JOIN items i ON i.note_path=m.note_path WHERE i.status='active' ORDER BY m.updated_at DESC, m.created_at DESC").fetchall()
-modules={}
-for r in rows:
-    payload=json.loads(r['payload_json'])
-    if r['status'] in ('rejected','revoked'): payload['status']=r['status']
-    modules.setdefault(r['note_path'],{}).setdefault(r['module_key'],payload)
-renders={r['note_path']:dict(r) for r in c.execute("SELECT r.note_path,r.content_hash,r.rendered_hash FROM render_state r JOIN items i ON i.note_path=r.note_path WHERE i.status='active' AND r.status='rendered'")}
-print(json.dumps({'modules':modules,'renders':renders},ensure_ascii=False))
+import json
+from lt_kb_app.core.workflow_state import connect_readonly
+with connect_readonly() as c:
+    rows=c.execute("SELECT m.* FROM object_page_modules m JOIN items i ON i.note_path=m.note_path WHERE i.status='active' ORDER BY m.updated_at DESC, m.created_at DESC").fetchall()
+    modules={}
+    for r in rows:
+        payload=json.loads(r['payload_json'])
+        if r['status'] in ('rejected','revoked'): payload['status']=r['status']
+        modules.setdefault(r['note_path'],{}).setdefault(r['module_key'],payload)
+    renders={r['note_path']:dict(r) for r in c.execute("SELECT r.note_path,r.content_hash,r.rendered_hash FROM render_state r JOIN items i ON i.note_path=r.note_path WHERE i.status='active' AND r.status='rendered'")}
+    print(json.dumps({'modules':modules,'renders':renders},ensure_ascii=False))
 `,
-      database,
     ],
-    { encoding: "utf8", maxBuffer: 100 * 1024 * 1024 },
+    {
+      cwd: backendRoot,
+      env: {
+        ...process.env,
+        LT_KB_WORKFLOW_BACKEND: "postgres",
+        LT_KB_INGEST_BACKEND: "postgres",
+      },
+      encoding: "utf8",
+      maxBuffer: 100 * 1024 * 1024,
+    },
   ),
 )
 

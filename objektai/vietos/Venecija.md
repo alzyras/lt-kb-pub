@@ -2,16 +2,19 @@
 tipas: vieta
 pavadinimas: 'Venecija'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1302 m.'
+  - '1309 m.'
 date_start: '1302'
-date_end: ''
+date_end: '1309'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
+  - ordinas
   - vieta
 amziai:
   - 'XIV'
@@ -45,27 +48,10 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
 ## Teiginiai
 
-<a id="claim-t-58747"></a>
-- t-001
-  teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Venecija: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigfridas iš Foichtvangeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Venecija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zigfridas iš Foichtvangeno keliavo į Venecija (0.98)"
-  pagrindžia:
-    - c-167599
-
 <a id="claim-t-200782"></a>
-- t-002
+- t-001
   teiginys: "Vorobjovas rašė, kad Vilniaus gatvių vaizdai primena Veneciją, Bergamą ir kitus garsius turistų lankomus miestus."
-  atnaujinta: "2026-07-14 21:36"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,9 +61,79 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   pagrindžia:
     - c-184127
 
+<a id="claim-t-223570"></a>
+- t-002
+  teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Venecija: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigfridas iš Foichtvangeno: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Venecija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kelionę į Veneciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigfridas iš Foichtvangeno keliavo į Venecija (0.98)"
+  pagrindžia:
+    - c-204848
+
+<a id="claim-t-223604"></a>
+- t-003
+  teiginys: "Po Akono miesto sugriovimo Ordino vyriausioji būstinė buvo Venecijoje iki perkėlimo į Marienburgą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205330
+
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: '1309 m. Ordinas perkėlė savo centrinę būstinę iš Venecijos.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    1323 m. spalio 16 d., praėjus trims savaitėms nuo Vilniaus sutar­
+    ties pasirašymo, Eberhardas, Varmės vyskupas, žinomas O rdino apologetas, išsiuntė atvirą laiš­
+    ką, palaikantį riterius, Rygos, Saremos, Tartu ir Talino vyskupams bei Livonijos brolių viršinin­
+    kams [26]28. Varmės vyskupystė apėmė Marienburgą, Ordino administracinį centrą. Kai Ordinas
+    1309 m. perkėlė savo centrinę būstinę iš Venecijos, Varmės vyskupas pasijuto privaląs kiek
+    įmanydamas riterius remti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
-- id: c-167599
+- id: c-184127
+  autorius: "Mikalojus Vorobjovas"
+  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 12."
+  citata_originali: |
+    Kai eini Vil­
+    niaus gatvėmis, tai posūkiuose ir namų protarpiuose kas valandėlė išdygsta
+    prieš akis tai puošni varpinė, tai dekoratyviški bažnyčių frontonai.
+    Visa tai verčia prisiminti tai Veneciją, tai Bergamo ar kitus garsius turistų
+    lankomus miestus. Amžių senovės antkrytis, — tai, ką vadina „patina” —
+    suteikia miestui dar romantiškesnį pobūdį, — lygiai, kaip ir apleista, ap­
+    kerpėjusi daugelio pastatų ir ištisų kvartalų išvaizda.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-07-14 21:29"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-204848
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 195-196"
@@ -95,33 +151,32 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
     284 (277).
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-184127
-  autorius: "Mikalojus Vorobjovas"
-  šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
-  puslapiai: "PDF 12"
-  indeksas: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.), PDF 12."
-  citata_originali: |
-    Kai eini Vil­
-    niaus gatvėmis, tai posūkiuose ir namų protarpiuose kas valandėlė išdygsta
-    prieš akis tai puošni varpinė, tai dekoratyviški bažnyčių frontonai.
-    Visa tai verčia prisiminti tai Veneciją, tai Bergamo ar kitus garsius turistų
-    lankomus miestus. Amžių senovės antkrytis, — tai, ką vadina „patina” —
-    suteikia miestui dar romantiškesnį pobūdį, — lygiai, kaip ir apleista, ap­
-    kerpėjusi daugelio pastatų ir ištisų kvartalų išvaizda.
-  statusas: verified
-  atnaujinta: "2026-07-14 21:29"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-13 09:13"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-205330
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
+  citata_originali: |
+    1309 viešpaties metais, rugsėjį atvyko į Prūsijos žemę brolis Zigfridas iš Foichtvangeno,
+    vienuoliktas didysis magistras ir aštuonioliktas Prūsijos žemės magistras, ir perkėlė į
+    Marienburgo pilį Prūsijoje Ordino vyriausiąją būstinę, kuri po Akono miesto sugriovimo
+    buvo Venecijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

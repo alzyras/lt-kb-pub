@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: Algirdas (Lietuvos valdovas)
+pavadinimas: 'Algirdas (Lietuvos valdovas)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -8,18 +8,36 @@ saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvių tautos istorija, t. 5'
-  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
-datos: []
-date_start: ''
-date_end: ''
+datos:
+  - '1259 m.'
+  - '1378 m.'
+date_start: '1259'
+date_end: '1378'
+external_sources_json: '[{"title":"Algirdas","url":"https://lt.wikipedia.org/wiki/Algirdas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-10-23T00:45:40+00:00","source_checked_at":"2026-10-23T00:45:40+00:00","counts":{"relations":76,"gallery":19,"sources":16},"featured_claim_ids":["t-10071","t-10670","t-176274","t-198002","t-212032","t-176292","t-176301"],"featured_claims":[{"claim_id":"t-10071","text":"1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.","source":"objektai/saltiniai/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-41820","c-179429"]},{"claim_id":"t-10670","text":"1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.","source":"objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-160286","c-179448"]},{"claim_id":"t-176274","text":"Algirdas buvo Gedimino sūnus ir Jogailos tėvas.","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-160322","c-179439"]},{"claim_id":"t-198002","text":"Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.","source":"objektai/saltiniai/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-160310","c-179457"]},{"claim_id":"t-212032","text":"Algirdas sumušė totorius prie Mėlynųjų Vandenų.","source":"objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-193392"]},{"claim_id":"t-176292","text":"Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-179431"]},{"claim_id":"t-176301","text":"Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir sugrąžinti Lietuvai vakarines baltų žemes.","source":"objektai/saltiniai/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-41820","c-179429"]}],"featured_quote":{"text":"Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai- kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui- nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos. Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga Vidurio ir Rytų Europos jėga.","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-176310","evidence_id":"c-179436","origin":"internal"},"wiki":{"status":"published","source":{"title":"Algirdas","url":"https://lt.wikipedia.org/wiki/Algirdas","publisher":"Vikipedija","language":"lt","article_id":"17725","revision_id":"7839118","published_at":"","version_pk":"dd4feb59b9f120fb172450afa55ef1e2","content_hash":"80cc6762573184f6f8f686399bc9d1d5bc328160d694ba3fc554ae4b0f3bfd25","retrieved_at":"2026-09-29T20:19:46.532686+03:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Algirdas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"version":"wikipedia-rendered-v3","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7839118"},"intro":"Algirdas (1296 m. vasario 11 d. – 1377 m. gegužės 24 d.) – Lietuvos didysis kunigaikštis (1345–1377 m.), Vitebsko kunigaikštis (apie 1318–1345 m.). Gedimino sūnus. Buvo du kartus vedęs, turėjo kelias dukteris ir sūnus, iš kurių žinomiausi yra Jogaila, Skirgaila ir Švitrigaila.","original_intro":"","translation_status":"native","infobox":[{"code":"row_1","label":"","value":"Algirdas","cells":[{"text":"Algirdas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Imaginacinis portretas Aleksandro Gvanjinio „Europos Sarmatijos aprašyme“, 1578 m.","cells":[{"text":"Imaginacinis portretas Aleksandro Gvanjinio „Europos Sarmatijos aprašyme“, 1578 m.","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"","value":"Gediminaičiai","cells":[{"text":"Gediminaičiai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Gimė","value":"1296 m. vasario 11 d.","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1296 m. vasario 11 d.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Mirė","value":"1377 m. gegužės 24 d. (81 metai)","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1377 m. gegužės 24 d. (81 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Tėvas","value":"Gediminas","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Gediminas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Motina","value":"Olga (?)","cells":[{"text":"Motina","header":true,"colspan":1,"rowspan":1},{"text":"Olga (?)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Sutuoktinis (-ė)","value":"Marija Vitebskietė,\nJulijona Tverietė","cells":[{"text":"Sutuoktinis (-ė)","header":true,"colspan":1,"rowspan":1},{"text":"Marija Vitebskietė,\nJulijona Tverietė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"Vaikai","value":"Marijos\nAndrius Polockietis\nDmitrijus\nVladimiras\nJulijonos\nJogaila\nSkirgaila\nŠvitrigaila\nAleksandra","cells":[{"text":"Vaikai","header":true,"colspan":1,"rowspan":1},{"text":"Marijos\nAndrius Polockietis\nDmitrijus\nVladimiras\nJulijonos\nJogaila\nSkirgaila\nŠvitrigaila\nAleksandra","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"Valdė","value":"1345 m. – 1377 m. (~32 metai)","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1345 m. – 1377 m. (~32 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_13","label":"Pirmtakas","value":"Jaunutis","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Jaunutis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_14","label":"Įpėdinis","value":"Jogaila","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Jogaila","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_15","label":"","value":"Vitebsko kunigaikštis","cells":[{"text":"Vitebsko kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_16","label":"Valdė","value":"1320 m. – 1377 m. (~57 metai)","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1320 m. – 1377 m. (~57 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_17","label":"Pirmtakas","value":"Jaroslavas Vasiljevičius","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Jaroslavas Vasiljevičius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_18","label":"Įpėdinis","value":"Julijona Tverietė","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Julijona Tverietė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_19","label":"","value":"Zaslavlio kunigaikštis","cells":[{"text":"Zaslavlio kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_20","label":"Valdė","value":"1320 m. – 1345 m. (~25 metai)","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1320 m. – 1345 m. (~25 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_21","label":"Pirmtakas","value":"Nežinomas","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Nežinomas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_22","label":"Įpėdinis","value":"Jaunutis","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Jaunutis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_23","label":"Vikiteka","value":"Algirdas","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Algirdas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v3","identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Algirdas","url":"https://lt.wikipedia.org/wiki/Algirdas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Algirdas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1a50b7c7182e1b4e440ed1ab","canonical_code":"person.appearance","label":"Išvaizda","group":"Asmens bruožai","value":"Teodoro Narbuto apibūdinimu, Algirdas grožiu pranoko savo brolius.","context":"Narbuto vertinimas; Algirdo aprašyme „nuo jaunumės“.","support_ids":["t-206260","c-188875"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206260","source":"objektai/saltiniai/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188875","source":"objektai/saltiniai/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Algirdas nuo jaunumės nevartojo nei midaus, nei vyno, nei kokio kito nenatūralaus gėrimo, nebent kaip vaistą; buvo labai kuklios elgsenos; pro­ tu, kaip ir grožiu, buvo iš brolių pirmiausias; bendrai išmin­ tim , nuovoka ir saiku niekas jo nebuvo pralenkęs - nei pirmtakai, nei įpėdiniai"}],"status":"published","conflict_status":"clear"},{"trait_id":"5f8816ef38da22c6a656db20","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Narbuto apibūdinimu, Algirdas buvo labai kuklios elgsenos; išmintimi, nuovoka ir saiku jo nepranoko nei pirmtakai, nei įpėdiniai. Narbutas taip pat rašo, kad nuosaikumas, žmoniškumas ir tolerancija pelnė jam šlovę bei žmonių prieraišumą, o valdydamas jis žiūrėjo teisingumo.","context":"Tai Narbuto vertinimai, pateikti jo pasakojime apie Algirdo valdymą; ne nepriklausomai patvirtinti būdo bruožai.","support_ids":["t-206260","c-188875","t-206259","c-188874"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206260","source":"objektai/saltiniai/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"internal_claim","claim_id":"t-206259","source":"objektai/saltiniai/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188875","source":"objektai/saltiniai/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Algirdas nuo jaunumės nevartojo nei midaus, nei vyno, nei kokio kito nenatūralaus gėrimo, nebent kaip vaistą; buvo labai kuklios elgsenos; pro­ tu, kaip ir grožiu, buvo iš brolių pirmiausias; bendrai išmin­ tim , nuovoka ir saiku niekas jo nebuvo pralenkęs - nei pirmtakai, nei įpėdiniai"},{"kind":"evidence","evidence_id":"c-188874","source":"objektai/saltiniai/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Taip įvykiams klostantis, di­ dysis kunigaikštis Algirdas, Šiaurės kraštų kariauninkų Nesto­ ras, dėl išmintingo nuosaikumo, žmoniškumo, tolerancijos, ne mažiau kaip ir dėl karo veiksmų pelnė šlovę ir daugelio žmo­ nių prieraišumą, kuriuos džiugino įsigalėjusia taika ir kuriuos 1 A čto pošli v Ordy ko Gariu, luidi žalovatsia na Kniazia Michailu, a to jesmy v Boži voli i vo Carevi, kak povelit, tak ny diejati, a to ot nas v imienu (Sobranije gosud. gram. i dogovorov. - T. I. - S. 52)*. 2 Karamzin. - T. V. - S. 27-29 (pastabos nr. 28, 29). 209 valdė teisingumo žiūrėdamas, senoviniu būdu; kadangi pats, būdamas dvylikos sūnų tėvas, per juos valdė didžiulius R u­ sios kraštus, kurie sudarė…"}],"status":"published","conflict_status":"clear"},{"trait_id":"dc682640af40fd3dd2b32f96","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Narbuto teigimu, nuo jaunystės Algirdas nevartojo midaus, vyno ar kitų gėrimų, išskyrus atvejus, kai juos vartojo kaip vaistus.","context":"Narbuto aprašytas įprotis nuo Algirdo jaunystės.","support_ids":["t-206260","c-188875"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206260","source":"objektai/saltiniai/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188875","source":"objektai/saltiniai/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Algirdas nuo jaunumės nevartojo nei midaus, nei vyno, nei kokio kito nenatūralaus gėrimo, nebent kaip vaistą; buvo labai kuklios elgsenos; pro­ tu, kaip ir grožiu, buvo iš brolių pirmiausias; bendrai išmin­ tim , nuovoka ir saiku niekas jo nebuvo pralenkęs - nei pirmtakai, nei įpėdiniai"}],"status":"published","conflict_status":"clear"},{"trait_id":"8a89e8b9f91d8b28c1e1fe9f","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Balińskis Algirdą apibūdina kaip drąsa ir proto guvumu nenusileidusį tėvo šlovei, o karo veiksmuose – kaip įgudusį mūšiuose. Zikaras nurodo, kad Algirdas vedė gerai organizuotą Lietuvos kariuomenę prie Mėlynųjų Vandenų.","context":"Balińskio vertinimas ir Zikaro pateiktas kariuomenės veiksmų aprašymas; tai šaltinių teiginiai apie Algirdo gebėjimus, o ne iš vieno veiksmo išvesta charakterio išvada.","support_ids":["t-176287","c-160283","t-176294","c-160306","t-10070","c-179425"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176287","source":"objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-176294","source":"objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-10070","source":"objektai/saltiniai/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160283","source":"objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­ rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet galingiausiu valdovu Šiaurės Europoje. Jau apsipratęs su 16 Jaunutis, pasak Rusios metraštinin- miennik Sofijski."},{"kind":"evidence","evidence_id":"c-160306","source":"objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"12 000 žmonių vedini, pakeliui sudeginę Trakų mies­ tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti, 1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­ mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo senasis Algirdas. Užvirė kova: abiejose tvirtovėse nuo gau­ sesnių pajėgų narsiai gynėsi įgudęs mūšiuose Lietuvos val­ dovas, bet miestas, priešo padegtas, prarado du trečdalius namų, kitą trečdalį miestiečiai vos pajėgė išgelbėti24."},{"kind":"evidence","evidence_id":"c-179425","source":"objektai/saltiniai/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"## Puslapis 21 Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val- dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius mongolus prie Mėlynųjų vandenų. 1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau- sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai), gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno- sios Rusios kunigaikštijų."}],"status":"published","conflict_status":"clear"},{"trait_id":"ba705804141f7cf5c50af64c","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo, kad kryžiuočiai būtų iškelti į rytų stepes kovoti su mongolais ir kad Lietuvai būtų sugrąžintos vakarinės baltų žemės iki Alnos, Priegliaus bei Dauguvos.","context":"Karolio Zikaro aprašytos 1358 m. derybos; autorius Algirdo reikalavimus apibūdina kaip išdidžius.","support_ids":["t-10071","c-41820"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10071","source":"objektai/saltiniai/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-41820","source":"objektai/saltiniai/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lietuvos galybės maksimumas Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu- vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos. Kryžiuočiai į tai atsakė 1360 m. prasidėjusiomis intensyviomis puolamosiomis operacijomis."}],"status":"published","conflict_status":"clear"},{"trait_id":"5176dc1aa880fa6ba79c4d54","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"A. Šapokos redaguotoje istorijoje Algirdas apibūdinamas kaip pagonis. Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis teigia, kad jis toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo, interesams.","context":"Teiginiai iš skirtingų istorikų veikalų; Šapokos redaguotoje knygoje taip pat nurodoma, kad 1377 m. Algirdas buvo sudegintas ir palaidotas pagonių papročiais.","support_ids":["t-10672","c-160312","t-193617","c-176288"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10672","source":"objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-193617","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160312","source":"objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Visi jo vaikai, gimę Vitebske, buvo krikštyti rytų Bažny- čios apeigomis; bet tie, kurie gimė Vilniuje, buvo pagonys. Ir pat- sai Algirdas buvo pagonis. 1377 m. miręs, jis buvo sudegintas ant laužo Vilniuje ir palaidotas pagonių papročiais."},{"kind":"evidence","evidence_id":"c-176288","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Gyvendami Lietuvos valstybėje iš senrusių jie pradėjo virsti nauja tauta – rusėnais, gerokai besiskiriančiais nuo Maskvos valstybės rusų. Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo, interesams. Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo- se, kūrė valdovo raštinę."}],"status":"published","conflict_status":"clear"},{"trait_id":"d9ccc0f9ddf27dbfa213e79d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Algirdas buvo Lietuvos didysis kunigaikštis; 1345–1377 m. valdė Lietuvą, o Vilnius buvo jo sostinė. Bychovco kronikoje rašoma, kad jis kunigaikščiavo Lietuvoje ir Rusioje.","context":"Eidinto ir bendraautorių pateiktas valdymo laikotarpis; Balińskio ir Lietuvos metraščio aprašymai apie sostinę bei valdomas žemes.","support_ids":["t-176292","c-179431","t-197950","c-179423","t-211210","c-193415"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176292","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-197950","source":"objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-211210","source":"objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-179431","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Kryžiaus karai prieš Lietuvą iš dalies paaiški- na Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose. Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes."},{"kind":"evidence","evidence_id":"c-179423","source":"objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­ se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­ tu ir Algirdo sostine, kai kurių autorių dvasininkų1 many­ mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­ gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia, i Grzybowski knygoje Skarb nieoszacowany O O."},{"kind":"evidence","evidence_id":"c-193415","source":"objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Kunigaikštis Teodo­ ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­ vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15 O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­ dysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras, paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­ klusti didžiajam kunigaikščiui Algirduil7."}],"status":"published","conflict_status":"clear"},{"trait_id":"e11f82fdeb69e9d212bf5763","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Balińskis Algirdą vadina anuomet galingiausiu valdovu Šiaurės Europoje. Eidintas ir bendraautoriai teigia, kad valdant Algirdui Lietuva tapo didvalstybe ir išsiplėtė nuo Baltijos iki Juodosios jūros.","context":"Tai autorių istoriniai vertinimai apie Lietuvos ir Algirdo padėtį jo valdymo laikotarpiu.","support_ids":["t-176287","c-160283","t-176292","c-179431"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176287","source":"objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-176292","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160283","source":"objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­ rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet galingiausiu valdovu Šiaurės Europoje. Jau apsipratęs su 16 Jaunutis, pasak Rusios metraštinin- miennik Sofijski."},{"kind":"evidence","evidence_id":"c-179431","source":"objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Kryžiaus karai prieš Lietuvą iš dalies paaiški- na Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose. Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-10-23T00:45:40+00:00"},"portrait":{"media_id":"m-fdb6056fb3dfef9280f63681","reason":"visual_verified_identity_primary","identity_verified":true,"visual_review_version":"media-visual-validator-v2"},"featured_gallery":[{"media_id":"m-71a6f43b44745c1bf0732fd9","relation_type":"manuscript_depiction_of"},{"media_id":"m-829d238fa7302d4fbf51ec19","relation_type":"painting_of"},{"media_id":"m-9ec4bf329b580c62bcf8da62","relation_type":"painting_of"},{"media_id":"m-b7b3019281fb989c99bcabe2","relation_type":"portrait_of"},{"media_id":"m-8c13f764008c72b308ce8d4e","relation_type":"seal_of"}],"media_verification":{"status":"verified","primary_media_id":"m-fdb6056fb3dfef9280f63681","candidate_count":18,"visual_verified_count":17,"identity_verified_count":17,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdo užrašas ir kandidato metaduomenys aiškiai identifikuoja konkretų target – Lietuvos valdovą Algirdą.","visual_evidence":"Matomas viduramžių karys su ginklu ir aiškus užrašas „OLGIERD“, atitinkantis Algirdo vardo formą.","metadata_evidence":"Kandidato pavadinime nurodyta „Algierd“, aprašyme – Lietuvos didžiojo kunigaikščio Algirdo atvaizdas, kūrėjas A. Tarasievičius, 1675 m.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Kremlius","claim_id":"t-176311","confidence":0.65},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-177746","confidence":0.74},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Karijotas","claim_id":"t-177931","confidence":0.95},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-28531","confidence":0.93},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Narimantas Gediminaitis","claim_id":"t-40370","confidence":0.99},{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Maskvos kunigaikštystė","claim_id":"t-92733","confidence":0.88},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-184664","confidence":0.8},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Dimitras (Maskvos kunigaikštis)","claim_id":"t-184255","confidence":0.7},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-28579","confidence":0.61},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Patirgas","claim_id":"t-96040","confidence":0.72},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Svirdeika","claim_id":"t-80723","confidence":0.76},{"predicate":"buvo_sunus","direction":"outbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176274","confidence":0.97},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Dimitras Kaributas","claim_id":"t-184692","confidence":0.94},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-182812","confidence":0.96},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Karigaila","claim_id":"t-55009","confidence":0.92},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-55009","confidence":0.92},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Simonas Lengvenis","claim_id":"t-82662","confidence":0.95},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Vladimiras (Algirdo sūnus)","claim_id":"t-35316","confidence":0.95},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Vladimiras Algirdaitis","claim_id":"t-184291","confidence":0.95},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogaila","claim_id":"t-173249","confidence":0.95},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-180060","confidence":0.82},{"predicate":"buvo_zmona","direction":"inbound","target":"objektai/asmenys/Julijona Vitebskietė","claim_id":"t-216673","confidence":0.94},{"predicate":"buvo_zmona","direction":"inbound","target":"objektai/asmenys/Marija (Algirdo žmona)","claim_id":"t-87546","confidence":0.97},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Algirdo žygiai į Maskvą","claim_id":"t-77949","confidence":0.76},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)","claim_id":"t-185735","confidence":0.78},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)","claim_id":"t-10253","confidence":0.9},{"predicate":"gyne","direction":"outbound","target":"objektai/grupes/Tverės kunigaikštystė","claim_id":"t-31363","confidence":0.72},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Pskovas","claim_id":"t-178116","confidence":0.96},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-185362","confidence":0.68},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Mongolai","claim_id":"t-10070","confidence":0.87},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Totoriai","claim_id":"t-10253","confidence":0.88},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Dmitrijus","claim_id":"t-217724","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-115020","confidence":0.7},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Kanevas","claim_id":"t-10254","confidence":0.78},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-41484","confidence":0.78},{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Goštautas","claim_id":"t-184709","confidence":0.96},{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Petras Goštautas","claim_id":"t-184822","confidence":0.95},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-184666","confidence":0.7},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Totoriai","claim_id":"t-183719","confidence":0.76},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Brianskas","claim_id":"t-69217","confidence":0.96},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kremlius","claim_id":"t-183354","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-184668","confidence":0.83},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Vėluva","claim_id":"t-171553","confidence":0.66},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Želva","claim_id":"t-171553","confidence":0.6},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Pranciškonų ordinas","claim_id":"t-183838","confidence":0.62},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Stačiatikiai","claim_id":"t-182592","confidence":0.68},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-186242","confidence":0.91},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/asmenys/Dimitrijus","claim_id":"t-186308","confidence":0.93},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Dimitrijus","claim_id":"t-186308","confidence":0.9},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-179020","confidence":0.64},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)","claim_id":"t-10670","confidence":0.8},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Deimena","claim_id":"t-68371","confidence":0.84},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-05286","confidence":0.97},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Nadruva","claim_id":"t-171553","confidence":0.91},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Rusia Rusios žemės","claim_id":"t-85948","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Rusia","claim_id":"t-85945","confidence":0.86},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Desna","claim_id":"t-97827","confidence":0.68},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Dniepras","claim_id":"t-177941","confidence":0.68},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kijevas","claim_id":"t-10670","confidence":0.92},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Mogiliavas","claim_id":"t-182083","confidence":0.88},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Mstislavlis","claim_id":"t-182083","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Podolė","claim_id":"t-177914","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Toropiec","claim_id":"t-99915","confidence":0.95},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Volynė","claim_id":"t-184669","confidence":0.78},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Brasta","claim_id":"t-180152","confidence":0.72},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Kijevo Rusia","claim_id":"t-83627","confidence":0.82},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Krėva","claim_id":"t-10666","confidence":0.96},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-176292","confidence":0.9},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Možaiskas","claim_id":"t-180152","confidence":0.72},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-10666","confidence":0.96},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Krėva","claim_id":"t-181129","confidence":0.9},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-176287","confidence":0.9},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-176293","confidence":0.86},{"predicate":"valde_teritorija","direction":"outbound","target":"objektai/vietos/Kijevo Rusia","claim_id":"t-05159","confidence":0.74},{"predicate":"valde_teritorija","direction":"outbound","target":"objektai/vietos/Podolė","claim_id":"t-184709","confidence":0.92},{"predicate":"vede","direction":"outbound","target":"objektai/asmenys/Marija (Vitebsko sosto įpėdinė)","claim_id":"t-30356","confidence":0.93}],"timeline":[{"date":"1296 m.","label":"Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“.","claimId":"t-219782"},{"date":"1342 m.","label":"Teodoro Narbuto pasakojimu, 1342 m., Algirdo valdymo pradžioje, vienuolis Nestoras, Marijos Algirdienės rūmų kapelionas, į krikščionybę atvertė dvariškius brolius Kuklėjų ir Michlėjų, Algirdo numylėtinius.","claimId":"t-206261"},{"date":"1349 m.","label":"Algirdas, Teodoro Narbuto vadinamas didžiuoju kunigaikščiu, 1349 m.","claimId":"t-206252"},{"date":"1358 m.","label":"1358 m.","claimId":"t-10071"},{"date":"1358 m.","label":"Algirdas 1358 m.","claimId":"t-176301"},{"date":"1358 m.","label":"Algirdas 1358 m.","claimId":"t-197975"},{"date":"1358 m.","label":"1358 m.","claimId":"t-198005"},{"date":"1362 m.","label":"1362 m.","claimId":"t-10670"}],"support_disclosure":{"claims":121,"sources":15}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: '9ce1b341c7a85b75'
+object_page_generated_at: '2026-10-23T00:45:40+00:00'
+object_page_source_checked_at: '2026-10-23T00:45:40+00:00'
+object_page_content_state: 'content'
+object_page_claim_count: '121'
+object_page_source_count: '15'
+description: 'Algirdas (Lietuvos valdovas): Algirdas buvo Lietuvos didysis kunigaikštis, valdęs 1345–1377 m. Jo valdymo laikais Lietuva tapo didvalstybe ir išplėtė savo…'
+socialDescription: 'Algirdas buvo Lietuvos didysis kunigaikštis, valdęs 1345–1377 m. Jo valdymo laikais Lietuva tapo didvalstybe ir išplėtė savo teritoriją nuo Baltijos iki Juodosios jūros, apimdama etnines lietuvių žemes ir gausesnes stačiatikių senrusių žemes. Algirdas plėtė…'
+object_page_seo_description: 'Algirdas (Lietuvos valdovas): Algirdas buvo Lietuvos didysis kunigaikštis, valdęs 1345–1377 m.; šiuo laikotarpiu Lietuva tapo didvalstybe ir išplėtė savo…'
+object_page_seo_input_hash: 'a2bc19597efdb136b801e75662e7dc0d07d93254b19bda93c5e8b90c740216f6'
+object_page_seo_generated_at: '2026-10-23T00:45:40+00:00'
+object_page_seo_policy_version: 'object-page-policy/v7'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,52 +45,36 @@ tags:
   - valdovas
   - vyskupas
 amziai:
-  - V
-periodo_grupes: []
-media_total_count: 18
-media_primary_thumb_url: /static/media/museum/algirdas.webp
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File:Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_(A._Guagnini,_1578).jpg'
-media_primary_directness: direct
-media_primary_relation_type: portrait_of
-media_primary_json: '{"mediaId":"m-b6079ac7c02694637cd64f89","title":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","caption":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","originalTitle":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"1578 m.","width":960,"height":960,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_(A._Guagnini,_1578).jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg/960px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"/static/media/museum/algirdas.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:48+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Algirdas.md","relationType":"portrait_of","title":"Algirdas (Lietuvos valdovas)"}],"attribution":"Alessandro Guagnini · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_(A._Guagnini,_1578).jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."}'
-media_direct_json: '[{"mediaId":"m-b6079ac7c02694637cd64f89","title":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","caption":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","originalTitle":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"1578 m.","width":960,"height":960,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_(A._Guagnini,_1578).jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg/960px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"/static/media/museum/algirdas.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:48+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Algirdas.md","relationType":"portrait_of","title":"Algirdas (Lietuvos valdovas)"}],"attribution":"Alessandro Guagnini · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_(A._Guagnini,_1578).jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."},{"mediaId":"m-9ec4bf329b580c62bcf8da62","title":"Algierd. Альгерд (1831).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas, 1831 m.","originalTitle":"Algierd. Альгерд (1831).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bernardo Zaydler. Storia della Polonia. Florencija, 1831.","dateDisplay":"1831","dateStart":null,"dateEnd":null,"width":2460,"height":3870,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.933111+03:00","reviewedAt":"2026-07-18T21:28:29.508819+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas vyras su valdovo ir kario apranga, šalmu bei šarvais.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad vaizduojamas Lietuvos didysis kunigaikštis Algirdas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo istorinis portretas.","isPrimary":1},{"mediaId":"m-829d238fa7302d4fbf51ec19","title":"Algierd. Альгерд (1578).jpg","caption":"Algirdo atvaizdas iš 1578 m. leidinio.","originalTitle":"Algierd. Альгерд (1578).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Paprocki B. Gniazdo cnoty. — Krakow, 1578. S. 1145.","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":845,"height":1293,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas'' Cap","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.931526+03:00","reviewedAt":"2026-07-18T21:28:29.520223+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas šarvuotas barzdotas valdovas su kalaviju ir puošniu galvos apdangalu.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didysis kunigaikštis Algirdas, 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-03761d6e40e9dd4d007297d3","title":"Algierd. Альгерд (1890).jpg","caption":"Algirdo portretas, 1890 m.","originalTitle":"Algierd. Альгерд (1890).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Батюшков П. И. Белоруссия и Литва. — СПб., 1890. С. 55.","dateDisplay":"1890","dateStart":null,"dateEnd":null,"width":1385,"height":1462,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Belarus and Lithuania by Batyushkov (1890)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.933878+03:00","reviewedAt":"2026-07-18T21:28:29.523313+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karys su šarvais, puošniu šalmu, plunksnomis ir valdžios simboliu rankoje.","metadataEvidence":"Pavadinime ir apraše įvardytas Lietuvos didžiojo kunigaikščio Algirdo portretas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo portretas.","isPrimary":0},{"mediaId":"m-b7b3019281fb989c99bcabe2","title":"Algierd. Альгерд (1906).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (1906).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos istorija. — Petropilis, 1906.","dateDisplay":"1906","dateStart":null,"dateEnd":null,"width":674,"height":791,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.934863+03:00","reviewedAt":"2026-08-11T00:56:19.789108+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas valdovas su karūnuotu šalmu ir skeptru; veidas bei apranga atitinka kitus Algirdo atvaizdus.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Algierd / Algirdas, kūrinys datuojamas 1906 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-84d408ad19b6c88671dfdf08","title":"Algierd. Альгерд (1911).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (1911).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos istorija. Kaunas: Šv. Kazimiero d-ja, 1911.","dateDisplay":"1911","dateStart":null,"dateEnd":null,"width":370,"height":377,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.935545+03:00","reviewedAt":"2026-08-11T00:56:19.779167+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pavaizduotas barzdotas vyras su šarvais, dekoruotu šalmu ir skeptru; kompozicija atitinka Algirdo portretinę ikonografiją.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Algierd / Algirdas, kūrinys datuojamas 1911 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys vienareikšmiškai identifikuoja Algirdą, o vaizdas atitinka portretą.","isPrimary":0},{"mediaId":"m-358a9845c78da83b471f6007","title":"Algierd. Альгерд (A. Guagnini, 1578, 1885).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (A. Guagnini, 1578, 1885).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur. Сапунов А. Витебская старина. Т. 4. Ч. 1. Полоцкое воеводство под властью царя Иоанна Васильевича Грозного (1563-1580); Ч. 2. Полоцкое и Витебское воеводство под властью царя Алексея Михайловича (1654-1667 гг.). — Витебск, 1885. С. 5.","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":873,"height":970,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.937414+03:00","reviewedAt":"2026-08-11T00:56:19.783441+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas valdovas su plunksnuotu šalmu, skeptru ir dekoratyviais šarvais.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas; nurodyta Guagnini tradicija ir 1578 m. atvaizdas, išleistas 1885 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Algirdą.","isPrimary":0},{"mediaId":"m-fdb6056fb3dfef9280f63681","title":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","caption":"Algirdo (Olgierdo) istorinis atvaizdas, A. Tarasievičius, 1675 m.","originalTitle":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa, G.2165.","dateDisplay":"1675","dateStart":null,"dateEnd":null,"width":408,"height":446,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938346+03:00","reviewedAt":"2026-08-11T00:56:19.793337+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas viduramžių karys su ginklu ir aiškus užrašas „OLGIERD“, atitinkantis Algirdo vardo formą.","metadataEvidence":"Kandidato pavadinime nurodyta „Algierd“, aprašyme – Lietuvos didžiojo kunigaikščio Algirdo atvaizdas, kūrėjas A. Tarasievičius, 1675 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdo užrašas ir kandidato metaduomenys aiškiai identifikuoja konkretų target – Lietuvos valdovą Algirdą.","isPrimary":0},{"mediaId":"m-8e6935361cd861fdf5f60e97","title":"Algierd. Альгерд (J. Aziambłoŭski, 1833-39).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (J. Aziambłoŭski, 1833-39).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Narbutt T. Dzieje narodu litewskiego. T. 5: Od śmierci Gedymina do bitwy nad Worskłą. Wilno, 1839.","dateDisplay":"between 1833 and 1839 date QS:P571,+1833-00-00T00:00:00Z/8,P1319,+1833-00-00T00:00:00Z/9,P1326,+1839-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":2935,"height":5075,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Engravings in the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Józef Oziębłowski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938743+03:00","reviewedAt":"2026-08-11T00:56:19.736343+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas viduramžių valdovas su karūnuotu šalmu, šarvais ir skeptru; apačioje įrašas „OLGERD“.","metadataEvidence":"Pavadinime nurodytas Algierd, aprašyme – Lietuvos didysis kunigaikštis Algirdas; autorius ir data pateikti.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-d47bd959c63a0558ee623fc1","title":"Algierd. Альгерд (L. Decius, 1521).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portreto fragmentas","originalTitle":"Algierd. Альгерд (L. Decius, 1521).jpg","creator":"Ludovicus Decius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Decius L. De Jegellonum familia liber II. Kraków, 1521.","dateDisplay":"1521","dateStart":null,"dateEnd":null,"width":329,"height":481,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.939360+03:00","reviewedAt":"2026-08-11T00:56:19.761975+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas vyras su šalmu ir kardu; tai portretinė valdovo figūra.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas, autorius Ludovicus Decius ir 1521 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors apkarpytas, Algirdo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-c27e9b6602dd30962e518836","title":"Algirdas kunigaikštis.jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algirdas kunigaikštis.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] ; originally from Sarmatiae Europeae descriptio published in 1578 / \"Дмитрий Донской\" (ЖЗЛ), Москва","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2030,"height":2140,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgirdas_kunigaik%C5%A1tis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Algirdas_kunigaik%C5%A1tis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Algirdas_kunigaik%C5%A1tis.jpg/1920px-Algirdas_kunigaik%C5%A1tis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Algirdas_kunigaik%C5%A1tis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Canon PowerShot A630","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"VKL","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.940205+03:00","reviewedAt":"2026-08-11T00:56:19.768591+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pavaizduotas barzdotas valdovas su dekoruotu šalmu, šarvais ir skeptru; matoma ta pati Algirdo ikonografinė kompozicija.","metadataEvidence":"Pavadinime „Algirdas kunigaikštis“, aprašyme – Lietuvos didysis kunigaikštis Algirdas; nurodyta 1578 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybę aiškiai patvirtina ir vaizdas, ir metaduomenys.","isPrimary":0},{"mediaId":"m-f314e22102925462f08ddfdc","title":"Atvirukas. A. Aleksandravičiaus sukurtas biustas (1924 m.). Algirdas. XX a. III–IV deš.","caption":"Antano Aleksandravičiaus sukurtas Lietuvos didžiojo kunigaikščio Algirdo biustas, 1924 m.","originalTitle":"Atvirukas. A. Aleksandravičiaus sukurtas biustas (1924 m.). Algirdas. XX a. III–IV deš.","creator":"Fotoateljė „Modern“","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIMIS_669138040","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-669138040/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-669138040%2Fthumbnail-original%2Fget.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-669138040/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"A két világháború közötti időszak","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Art","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Art of sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arti","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Beeldhouwkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bildhauerkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bildhuggeri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dealbhóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dwudziestolecie międzywojenne","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ealaín","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entre-deux-guerres","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Escultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Eskulturagintza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Europa i svijet između dva svjetska rata","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gerrarteko garaia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Interbellum","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Interwar period","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kiparstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Konst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kuvanveisto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Medvojno obdobje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Medzivojnové obdobie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Mellankrigstiden","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Mellemkrigstiden","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Menas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Meziválečné období","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Māksla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Művészet","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Na blianta idirchogaidh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Perioada interbelică","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Periodo interbellico","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Període d''entreguerres","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Período de entreguerras","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Período entreguerras","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rzeźbiarstwo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculptură","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Scultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulpturkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulptuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulptūra","language":"def","canonicalCode":"skulptūra"},{"provider":"europeana","field":"edm_concepts","label":"Skultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sochařství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sochárstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sotien välinen aika","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Starpkaru periods","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Szobrászat","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sztuka","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taide","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tarpukaris","language":"def","canonicalCode":"tarpukaris"},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tēlniecība","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umenie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umetnost","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umjetnost","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umění","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zwischenkriegszeit","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:55:17.499237+03:00","reviewedAt":"2026-08-11T00:56:37.993608+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas vyro su valdovo galvos apdangalu ir šarvais skulptūrinis biustas; apatiniame kampe įspaudas „MODERN KAUNAS“.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta, kad tai Antano Aleksandravičiaus sukurtas Lietuvos didžiojo kunigaikščio Algirdo biustas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Algirdo istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-8c13f764008c72b308ce8d4e","title":"Drawing of seals from the treaty of 1366.jpg","caption":"Algirdo antspaudo piešinys iš 1366 m. taikos sutarties antspaudų dokumento.","originalTitle":"Drawing of seals from the treaty of 1366.jpg","creator":"Невядомы мастак XVIII стагоддзя","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Барэйша, Ю. (2024) З гісторыі беларускай сфрагістыкі XII-XIV стст.: пломбы з легендай “NОЪГРОДЪ”, свінцовыя булы “Міндоўга”, невядомая пячатка Андрэя Альгердавіча Полацкага , Minsk : Энэргапрэс, p. 191 ISBN : 978-985-7298-30-3 .","dateDisplay":"between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":701,"height":660,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"sutartis","label":"sutartis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1366 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century drawings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Manuscripts in the Czartoryski Library","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Algirdas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.525037+03:00","reviewedAt":"2026-07-18T21:28:29.529525+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi du pakabinamų antspaudų piešiniai; didesnis ovalus antspaudas priskirtas Lietuvos didžiajam kunigaikščiui Olgierdui.","metadataEvidence":"Apraše aiškiai nurodyta, kad didesnis antspaudas priklausė Olgierdui, istoriniam Algirdo vardui, ir autentifikavo 1366 m. taikos sutartį.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo antspaudo atvaizdas istoriniame dokumentiniame kontekste.","isPrimary":0},{"mediaId":"m-71a6f43b44745c1bf0732fd9","title":"Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg","caption":"Algirdo mirties scena iš XVI a. Rusios iliustruotos kronikos.","originalTitle":"Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg","creator":"Anonymous Russian manuscript illuminators, 1560-1570s Facial Chronicle (Illustrated Chronicle of Ivan the Terrible) (in 10 volumes: pdf , pdf with translation ) Public domain image","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://sterligoff.ru/","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1699,"height":3172,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFacial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1377 in Europe","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Algirdas in miniature","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Death in Facial Chronicle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Facial Chronicle (v.6) - Ostermanovskiy 1-y tom (1254-1378)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Facial Chronicle miniatures (all)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Shakko from various sources","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:10.121657+03:00","reviewedAt":"2026-07-18T21:28:29.500180+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma valdovo mirties arba laidotuvių scena su kariuomene, miestu ir gedinčiais asmenimis.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didžiojo kunigaikščio Algirdo mirties vaizdas.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Algirdo mirties įvykio vaizdavimas.","isPrimary":0},{"mediaId":"m-807418e146c50df1e572a907","title":"Kunigaikštis Algirdas.jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Kunigaikštis Algirdas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":976,"height":944,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKunigaik%C5%A1tis_Algirdas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Engravings of people of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scanned with HP PSC 1500","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.941628+03:00","reviewedAt":"2026-08-11T00:56:19.774334+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas tas pats barzdotas šarvuotas valdovas su šalmu, skeptru ir dekoratyviais šarvais.","metadataEvidence":"Pavadinime „Kunigaikštis Algirdas“, aprašyme aiškiai įvardytas Algirdas; nurodyta 1578 m. data ir Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis target atvaizdas.","isPrimary":0},{"mediaId":"m-7852b2c936b85a0578f250d3","title":"Lob Печать Ольгерда.svg","caption":"Algirdo valdovo antspaudo grafinė rekonstrukcija, 1366 m.","originalTitle":"Lob Печать Ольгерда.svg","creator":"Лобачев Владимир","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work","dateDisplay":"2012-01-30","dateStart":null,"dateEnd":null,"width":1049,"height":1049,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Church Slavonic inscriptions in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Algirdas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Slavonic seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"АВЕ letter combinations","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.525405+03:00","reviewedAt":"2026-07-18T21:28:29.512836+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus antspaudas su valdovo ženklu ir įrašu aplink kraštą.","metadataEvidence":"Apraše aiškiai nurodyta, kad tai Lietuvos didžiojo kunigaikščio Algirdo antspaudas, datuojamas 1366 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Algirdo antspaudą.","isPrimary":0},{"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"Algirdo antspaudo rekonstrukcija pagal 1371 m. istorinį antspaudą.","originalTitle":"POL Seal of Olgierd (1371).svg","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2022-05-18","dateStart":null,"dateEnd":null,"width":512,"height":512,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec New SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"User:Guccee/Graphics","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.524680+03:00","reviewedAt":"2026-07-18T21:28:29.526486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas skydas su stilizuotu ženklu ir heraldinė kompozicija.","metadataEvidence":"Pavadinime nurodytas Olgierd antspaudas, o apraše – istorinis 1371 m. Lietuvos didžiojo kunigaikščio antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Algirdo valdovo antspaudą.","isPrimary":0},{"mediaId":"m-51dc4aece1a0de4a0916e633","title":"Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg","caption":"Algirdo portretas, sukurtas Józefo Oziębłowskio XIX a. 5-ajame dešimtmetyje.","originalTitle":"Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Белорусская национальная библиотека","dateDisplay":"1840s date QS:P,+1840-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":472,"height":527,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Józef Oziębłowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Retrospective portraits","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:14.497274+03:00","reviewedAt":"2026-07-18T21:28:29.516702+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karys-valdovas su šalmu, plunksnų kuodu, šarvais ir ginklu.","metadataEvidence":"Pavadinime ir apraše įvardytas Lietuvos didžiojo kunigaikščio Algirdo portretas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo portretas.","isPrimary":0}]'
-media_contextual_json: '[]'
-media_all_json: '[{"mediaId":"m-b6079ac7c02694637cd64f89","title":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","caption":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","originalTitle":"Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.","dateDisplay":"1578 m.","width":960,"height":960,"canonicalUrl":"https://commons.wikimedia.org/wiki/File:Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_(A._Guagnini,_1578).jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg/960px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"/static/media/museum/algirdas.webp","focalPoint":{"x":50,"y":25},"reviewStatus":"accepted","directness":"direct","relationType":"portrait_of","isPrimary":1,"reviewedAt":"2026-09-20T21:40:48+03:00","visualReviewVersion":"media-import-visual-v1","relatedObjects":[{"directness":"direct","itemType":"asmuo","notePath":"objektai/asmenys/Algirdas.md","relationType":"portrait_of","title":"Algirdas (Lietuvos valdovas)"}],"attribution":"Alessandro Guagnini · Public domain","collection":"","confidence":0.95,"confidenceLevel":"high","country":"","dateEnd":null,"dateStart":null,"institution":"","judgeModel":"editorial-curation","judgeReason":"Parodos ir objektų enciklopedinis papildymas.","language":"","metadataEvidence":"https://commons.wikimedia.org/wiki/File:Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_(A._Guagnini,_1578).jpg","sourceMethod":"museum_curated_v1","sourceTags":[],"tags":[],"visualEvidence":"Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą."},{"mediaId":"m-9ec4bf329b580c62bcf8da62","title":"Algierd. Альгерд (1831).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas, 1831 m.","originalTitle":"Algierd. Альгерд (1831).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bernardo Zaydler. Storia della Polonia. Florencija, 1831.","dateDisplay":"1831","dateStart":null,"dateEnd":null,"width":2460,"height":3870,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.933111+03:00","reviewedAt":"2026-07-18T21:28:29.508819+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas vyras su valdovo ir kario apranga, šalmu bei šarvais.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad vaizduojamas Lietuvos didysis kunigaikštis Algirdas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo istorinis portretas.","isPrimary":1},{"mediaId":"m-829d238fa7302d4fbf51ec19","title":"Algierd. Альгерд (1578).jpg","caption":"Algirdo atvaizdas iš 1578 m. leidinio.","originalTitle":"Algierd. Альгерд (1578).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Paprocki B. Gniazdo cnoty. — Krakow, 1578. S. 1145.","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":845,"height":1293,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas'' Cap","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.931526+03:00","reviewedAt":"2026-07-18T21:28:29.520223+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas šarvuotas barzdotas valdovas su kalaviju ir puošniu galvos apdangalu.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didysis kunigaikštis Algirdas, 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-03761d6e40e9dd4d007297d3","title":"Algierd. Альгерд (1890).jpg","caption":"Algirdo portretas, 1890 m.","originalTitle":"Algierd. Альгерд (1890).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Батюшков П. И. Белоруссия и Литва. — СПб., 1890. С. 55.","dateDisplay":"1890","dateStart":null,"dateEnd":null,"width":1385,"height":1462,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Belarus and Lithuania by Batyushkov (1890)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.933878+03:00","reviewedAt":"2026-07-18T21:28:29.523313+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karys su šarvais, puošniu šalmu, plunksnomis ir valdžios simboliu rankoje.","metadataEvidence":"Pavadinime ir apraše įvardytas Lietuvos didžiojo kunigaikščio Algirdo portretas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo portretas.","isPrimary":0},{"mediaId":"m-b7b3019281fb989c99bcabe2","title":"Algierd. Альгерд (1906).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (1906).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos istorija. — Petropilis, 1906.","dateDisplay":"1906","dateStart":null,"dateEnd":null,"width":674,"height":791,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.934863+03:00","reviewedAt":"2026-08-11T00:56:19.789108+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas valdovas su karūnuotu šalmu ir skeptru; veidas bei apranga atitinka kitus Algirdo atvaizdus.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Algierd / Algirdas, kūrinys datuojamas 1906 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-84d408ad19b6c88671dfdf08","title":"Algierd. Альгерд (1911).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (1911).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos istorija. Kaunas: Šv. Kazimiero d-ja, 1911.","dateDisplay":"1911","dateStart":null,"dateEnd":null,"width":370,"height":377,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.935545+03:00","reviewedAt":"2026-08-11T00:56:19.779167+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pavaizduotas barzdotas vyras su šarvais, dekoruotu šalmu ir skeptru; kompozicija atitinka Algirdo portretinę ikonografiją.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Algierd / Algirdas, kūrinys datuojamas 1911 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys vienareikšmiškai identifikuoja Algirdą, o vaizdas atitinka portretą.","isPrimary":0},{"mediaId":"m-358a9845c78da83b471f6007","title":"Algierd. Альгерд (A. Guagnini, 1578, 1885).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (A. Guagnini, 1578, 1885).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur. Сапунов А. Витебская старина. Т. 4. Ч. 1. Полоцкое воеводство под властью царя Иоанна Васильевича Грозного (1563-1580); Ч. 2. Полоцкое и Витебское воеводство под властью царя Алексея Михайловича (1654-1667 гг.). — Витебск, 1885. С. 5.","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":873,"height":970,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.937414+03:00","reviewedAt":"2026-08-11T00:56:19.783441+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas valdovas su plunksnuotu šalmu, skeptru ir dekoratyviais šarvais.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas; nurodyta Guagnini tradicija ir 1578 m. atvaizdas, išleistas 1885 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Algirdą.","isPrimary":0},{"mediaId":"m-fdb6056fb3dfef9280f63681","title":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","caption":"Algirdo (Olgierdo) istorinis atvaizdas, A. Tarasievičius, 1675 m.","originalTitle":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa, G.2165.","dateDisplay":"1675","dateStart":null,"dateEnd":null,"width":408,"height":446,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938346+03:00","reviewedAt":"2026-08-11T00:56:19.793337+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas viduramžių karys su ginklu ir aiškus užrašas „OLGIERD“, atitinkantis Algirdo vardo formą.","metadataEvidence":"Kandidato pavadinime nurodyta „Algierd“, aprašyme – Lietuvos didžiojo kunigaikščio Algirdo atvaizdas, kūrėjas A. Tarasievičius, 1675 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdo užrašas ir kandidato metaduomenys aiškiai identifikuoja konkretų target – Lietuvos valdovą Algirdą.","isPrimary":0},{"mediaId":"m-8e6935361cd861fdf5f60e97","title":"Algierd. Альгерд (J. Aziambłoŭski, 1833-39).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (J. Aziambłoŭski, 1833-39).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Narbutt T. Dzieje narodu litewskiego. T. 5: Od śmierci Gedymina do bitwy nad Worskłą. Wilno, 1839.","dateDisplay":"between 1833 and 1839 date QS:P571,+1833-00-00T00:00:00Z/8,P1319,+1833-00-00T00:00:00Z/9,P1326,+1839-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":2935,"height":5075,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Engravings in the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Józef Oziębłowski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938743+03:00","reviewedAt":"2026-08-11T00:56:19.736343+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas viduramžių valdovas su karūnuotu šalmu, šarvais ir skeptru; apačioje įrašas „OLGERD“.","metadataEvidence":"Pavadinime nurodytas Algierd, aprašyme – Lietuvos didysis kunigaikštis Algirdas; autorius ir data pateikti.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-d47bd959c63a0558ee623fc1","title":"Algierd. Альгерд (L. Decius, 1521).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portreto fragmentas","originalTitle":"Algierd. Альгерд (L. Decius, 1521).jpg","creator":"Ludovicus Decius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Decius L. De Jegellonum familia liber II. Kraków, 1521.","dateDisplay":"1521","dateStart":null,"dateEnd":null,"width":329,"height":481,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.939360+03:00","reviewedAt":"2026-08-11T00:56:19.761975+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas vyras su šalmu ir kardu; tai portretinė valdovo figūra.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas, autorius Ludovicus Decius ir 1521 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors apkarpytas, Algirdo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-c27e9b6602dd30962e518836","title":"Algirdas kunigaikštis.jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algirdas kunigaikštis.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] ; originally from Sarmatiae Europeae descriptio published in 1578 / \"Дмитрий Донской\" (ЖЗЛ), Москва","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2030,"height":2140,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgirdas_kunigaik%C5%A1tis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Algirdas_kunigaik%C5%A1tis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Algirdas_kunigaik%C5%A1tis.jpg/1920px-Algirdas_kunigaik%C5%A1tis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Algirdas_kunigaik%C5%A1tis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Canon PowerShot A630","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"VKL","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.940205+03:00","reviewedAt":"2026-08-11T00:56:19.768591+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pavaizduotas barzdotas valdovas su dekoruotu šalmu, šarvais ir skeptru; matoma ta pati Algirdo ikonografinė kompozicija.","metadataEvidence":"Pavadinime „Algirdas kunigaikštis“, aprašyme – Lietuvos didysis kunigaikštis Algirdas; nurodyta 1578 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybę aiškiai patvirtina ir vaizdas, ir metaduomenys.","isPrimary":0},{"mediaId":"m-f314e22102925462f08ddfdc","title":"Atvirukas. A. Aleksandravičiaus sukurtas biustas (1924 m.). Algirdas. XX a. III–IV deš.","caption":"Antano Aleksandravičiaus sukurtas Lietuvos didžiojo kunigaikščio Algirdo biustas, 1924 m.","originalTitle":"Atvirukas. A. Aleksandravičiaus sukurtas biustas (1924 m.). Algirdas. XX a. III–IV deš.","creator":"Fotoateljė „Modern“","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIMIS_669138040","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-669138040/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-669138040%2Fthumbnail-original%2Fget.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-669138040/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"A két világháború közötti időszak","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Art","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Art of sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arti","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Beeldhouwkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bildhauerkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bildhuggeri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dealbhóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dwudziestolecie międzywojenne","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ealaín","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entre-deux-guerres","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Escultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Eskulturagintza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Europa i svijet između dva svjetska rata","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gerrarteko garaia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Interbellum","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Interwar period","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kiparstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Konst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kuvanveisto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Medvojno obdobje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Medzivojnové obdobie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Mellankrigstiden","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Mellemkrigstiden","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Menas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Meziválečné období","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Māksla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Művészet","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Na blianta idirchogaidh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Perioada interbelică","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Periodo interbellico","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Període d''entreguerres","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Período de entreguerras","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Período entreguerras","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rzeźbiarstwo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculptură","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Scultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulpturkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulptuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulptūra","language":"def","canonicalCode":"skulptūra"},{"provider":"europeana","field":"edm_concepts","label":"Skultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sochařství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sochárstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sotien välinen aika","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Starpkaru periods","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Szobrászat","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sztuka","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taide","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tarpukaris","language":"def","canonicalCode":"tarpukaris"},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tēlniecība","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umenie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umetnost","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umjetnost","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umění","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zwischenkriegszeit","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:55:17.499237+03:00","reviewedAt":"2026-08-11T00:56:37.993608+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas vyro su valdovo galvos apdangalu ir šarvais skulptūrinis biustas; apatiniame kampe įspaudas „MODERN KAUNAS“.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta, kad tai Antano Aleksandravičiaus sukurtas Lietuvos didžiojo kunigaikščio Algirdo biustas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Algirdo istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-8c13f764008c72b308ce8d4e","title":"Drawing of seals from the treaty of 1366.jpg","caption":"Algirdo antspaudo piešinys iš 1366 m. taikos sutarties antspaudų dokumento.","originalTitle":"Drawing of seals from the treaty of 1366.jpg","creator":"Невядомы мастак XVIII стагоддзя","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Барэйша, Ю. (2024) З гісторыі беларускай сфрагістыкі XII-XIV стст.: пломбы з легендай “NОЪГРОДЪ”, свінцовыя булы “Міндоўга”, невядомая пячатка Андрэя Альгердавіча Полацкага , Minsk : Энэргапрэс, p. 191 ISBN : 978-985-7298-30-3 .","dateDisplay":"between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":701,"height":660,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"sutartis","label":"sutartis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1366 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century drawings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Manuscripts in the Czartoryski Library","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Algirdas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.525037+03:00","reviewedAt":"2026-07-18T21:28:29.529525+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi du pakabinamų antspaudų piešiniai; didesnis ovalus antspaudas priskirtas Lietuvos didžiajam kunigaikščiui Olgierdui.","metadataEvidence":"Apraše aiškiai nurodyta, kad didesnis antspaudas priklausė Olgierdui, istoriniam Algirdo vardui, ir autentifikavo 1366 m. taikos sutartį.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo antspaudo atvaizdas istoriniame dokumentiniame kontekste.","isPrimary":0},{"mediaId":"m-71a6f43b44745c1bf0732fd9","title":"Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg","caption":"Algirdo mirties scena iš XVI a. Rusios iliustruotos kronikos.","originalTitle":"Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg","creator":"Anonymous Russian manuscript illuminators, 1560-1570s Facial Chronicle (Illustrated Chronicle of Ivan the Terrible) (in 10 volumes: pdf , pdf with translation ) Public domain image","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://sterligoff.ru/","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1699,"height":3172,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFacial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1377 in Europe","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Algirdas in miniature","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Death in Facial Chronicle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Facial Chronicle (v.6) - Ostermanovskiy 1-y tom (1254-1378)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Facial Chronicle miniatures (all)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Shakko from various sources","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:10.121657+03:00","reviewedAt":"2026-07-18T21:28:29.500180+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma valdovo mirties arba laidotuvių scena su kariuomene, miestu ir gedinčiais asmenimis.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didžiojo kunigaikščio Algirdo mirties vaizdas.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Algirdo mirties įvykio vaizdavimas.","isPrimary":0},{"mediaId":"m-807418e146c50df1e572a907","title":"Kunigaikštis Algirdas.jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Kunigaikštis Algirdas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":976,"height":944,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKunigaik%C5%A1tis_Algirdas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Engravings of people of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scanned with HP PSC 1500","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.941628+03:00","reviewedAt":"2026-08-11T00:56:19.774334+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas tas pats barzdotas šarvuotas valdovas su šalmu, skeptru ir dekoratyviais šarvais.","metadataEvidence":"Pavadinime „Kunigaikštis Algirdas“, aprašyme aiškiai įvardytas Algirdas; nurodyta 1578 m. data ir Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis target atvaizdas.","isPrimary":0},{"mediaId":"m-7852b2c936b85a0578f250d3","title":"Lob Печать Ольгерда.svg","caption":"Algirdo valdovo antspaudo grafinė rekonstrukcija, 1366 m.","originalTitle":"Lob Печать Ольгерда.svg","creator":"Лобачев Владимир","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work","dateDisplay":"2012-01-30","dateStart":null,"dateEnd":null,"width":1049,"height":1049,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Church Slavonic inscriptions in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Algirdas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Slavonic seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"АВЕ letter combinations","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.525405+03:00","reviewedAt":"2026-07-18T21:28:29.512836+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus antspaudas su valdovo ženklu ir įrašu aplink kraštą.","metadataEvidence":"Apraše aiškiai nurodyta, kad tai Lietuvos didžiojo kunigaikščio Algirdo antspaudas, datuojamas 1366 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Algirdo antspaudą.","isPrimary":0},{"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"Algirdo antspaudo rekonstrukcija pagal 1371 m. istorinį antspaudą.","originalTitle":"POL Seal of Olgierd (1371).svg","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2022-05-18","dateStart":null,"dateEnd":null,"width":512,"height":512,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec New SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"User:Guccee/Graphics","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.524680+03:00","reviewedAt":"2026-07-18T21:28:29.526486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas skydas su stilizuotu ženklu ir heraldinė kompozicija.","metadataEvidence":"Pavadinime nurodytas Olgierd antspaudas, o apraše – istorinis 1371 m. Lietuvos didžiojo kunigaikščio antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Algirdo valdovo antspaudą.","isPrimary":0},{"mediaId":"m-51dc4aece1a0de4a0916e633","title":"Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg","caption":"Algirdo portretas, sukurtas Józefo Oziębłowskio XIX a. 5-ajame dešimtmetyje.","originalTitle":"Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Белорусская национальная библиотека","dateDisplay":"1840s date QS:P,+1840-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":472,"height":527,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Józef Oziębłowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Retrospective portraits","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:14.497274+03:00","reviewedAt":"2026-07-18T21:28:29.516702+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karys-valdovas su šalmu, plunksnų kuodu, šarvais ir ginklu.","metadataEvidence":"Pavadinime ir apraše įvardytas Lietuvos didžiojo kunigaikščio Algirdo portretas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo portretas.","isPrimary":0}]'
-entity_id: ent-5b3136ec3f5a6258255bb695
-canonical_name: Algirdas (Lietuvos valdovas)
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Algirdas
-  - Algirdas (Lietuvos valdovas)
-  - 'Algirdas (Lietuvos valdovas, XIV a.)'
-  - Algirdo
-  - Algirdui
-  - Olgierd
-sameAs: []
-canonical_biography: 'Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais. Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti. Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.'
-external_sources_json: '[{"title":"Algirdas","url":"https://lt.wikipedia.org/wiki/Algirdas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-18T20:34:32+00:00","source_checked_at":"2026-09-18T20:34:32+00:00","counts":{"relations":79,"gallery":18,"sources":16},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Rinkdamas į savo valdžią centrinės Rusijos kunigaikštystes, jis irgi susidūrė su sustiprė- jusią Maskva. Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną. Kadangi tuo metu Tverė varžėsi su Maskva dėl įtakos, tai Algirdui teko net kelis kartus padėti savo svainiui prieš Maskvą.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-10671","evidence_id":"c-160323","origin":"internal"},"wiki":{"intro":"Algirdas (1296 m. vasario 11 d. – 1377 m. gegužės 24 d.) – Lietuvos didysis kunigaikštis (1345–1377 m.), Vitebsko kunigaikštis (apie 1318–1345 m.). Gedimino sūnus. Buvo du kartus vedęs, turėjo kelias dukteris ir sūnus, iš kurių žinomiausi yra Jogaila, Skirgaila ir Švitrigaila.","infobox":[{"code":"row_1","label":"","value":"Algirdas","cells":[{"text":"Algirdas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Imaginacinis portretas Aleksandro Gvanjinio „Europos Sarmatijos aprašyme“, 1578 m.","cells":[{"text":"Imaginacinis portretas Aleksandro Gvanjinio „Europos Sarmatijos aprašyme“, 1578 m.","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"","value":"Gediminaičiai","cells":[{"text":"Gediminaičiai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Gimė","value":"1296 m. vasario 11 d.","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1296 m. vasario 11 d.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Mirė","value":"1377 m. gegužės 24 d. (81 metai)","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1377 m. gegužės 24 d. (81 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Tėvas","value":"Gediminas","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Gediminas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Motina","value":"Olga (?)","cells":[{"text":"Motina","header":true,"colspan":1,"rowspan":1},{"text":"Olga (?)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Sutuoktinis (-ė)","value":"Marija Vitebskietė,\nJulijona Tverietė","cells":[{"text":"Sutuoktinis (-ė)","header":true,"colspan":1,"rowspan":1},{"text":"Marija Vitebskietė,\nJulijona Tverietė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"Vaikai","value":"Marijos\nAndrius Polockietis\nDmitrijus\nVladimiras\nJulijonos\nJogaila\nSkirgaila\nŠvitrigaila\nAleksandra","cells":[{"text":"Vaikai","header":true,"colspan":1,"rowspan":1},{"text":"Marijos\nAndrius Polockietis\nDmitrijus\nVladimiras\nJulijonos\nJogaila\nSkirgaila\nŠvitrigaila\nAleksandra","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"","value":"Lietuvos didysis kunigaikštis","cells":[{"text":"Lietuvos didysis kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"Valdė","value":"1345 m. – 1377 m. (~32 metai)","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1345 m. – 1377 m. (~32 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_13","label":"Pirmtakas","value":"Jaunutis","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Jaunutis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_14","label":"Įpėdinis","value":"Jogaila","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Jogaila","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_15","label":"","value":"Vitebsko kunigaikštis","cells":[{"text":"Vitebsko kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_16","label":"Valdė","value":"1320 m. – 1377 m. (~57 metai)","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"1320 m. – 1377 m. (~57 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_17","label":"Pirmtakas","value":"Jaroslavas Vasiljevičius","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Jaroslavas Vasiljevičius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_18","label":"Įpėdinis","value":"Julijona Tverietė","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Julijona Tverietė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_19","label":"","value":"Zaslavlio kunigaikštis\nValdė\n1320 m. – 1345 m. (~25 metai)\nPirmtakas\nNežinomas\nĮpėdinis\nJaunutis","cells":[{"text":"Zaslavlio kunigaikštis\nValdė\n1320 m. – 1345 m. (~25 metai)\nPirmtakas\nNežinomas\nĮpėdinis\nJaunutis","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_20","label":"Vikiteka","value":"Algirdas","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Algirdas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"17725","revision_id":"7839118","status":"published","translation_status":"native","source":{"title":"Algirdas","url":"https://lt.wikipedia.org/wiki/Algirdas","publisher":"Vikipedija","language":"lt","article_id":"17725","revision_id":"7839118","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7839118","history_url":"https://lt.wikipedia.org/w/index.php?title=Algirdas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:05:51.160207+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"MediaWiki rendered HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"849dde8cf64af052251f34bc81b70d3a211097bfd2fda00574081dfa140a9070","version_pk":"556b385879180a56915e486990fcc85a"}},"source_buttons":[{"label":"Vikipedija","title":"Algirdas","url":"https://lt.wikipedia.org/wiki/Algirdas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Algirdas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"80fd3e3e7d5183015f4f8f8b","canonical_code":"person.appearance","label":"Išvaizda","group":"Asmens bruožai","value":"Teodoro Narbuto apibūdinimu, Algirdas iš brolių išsiskyrė grožiu.","context":"Autoriaus vertinimas; Algirdo gyvenimo aprašymas, be tikslesnės datos.","support_ids":["t-206260","c-188875"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206260","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188875","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Algirdas nuo jaunumės nevartojo nei midaus, nei vyno, nei kokio kito nenatūralaus gėrimo, nebent kaip vaistą; buvo labai kuklios elgsenos; pro­ tu, kaip ir grožiu, buvo iš brolių pirmiausias; bendrai išmin­ tim , nuovoka ir saiku niekas jo nebuvo pralenkęs - nei pirmtakai, nei įpėdiniai"}],"status":"published","conflict_status":"clear"},{"trait_id":"31a55f5e2aa092db0c6842c6","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Teodoro Narbuto apibūdinimu, Algirdas buvo labai kuklios elgsenos, išmintingas, nuovokus ir saikingas.","context":"Autoriaus vertinimas; aprašoma Algirdo elgsena nuo jaunystės.","support_ids":["t-206260","c-188875"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206260","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188875","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Algirdas nuo jaunumės nevartojo nei midaus, nei vyno, nei kokio kito nenatūralaus gėrimo, nebent kaip vaistą; buvo labai kuklios elgsenos; pro­ tu, kaip ir grožiu, buvo iš brolių pirmiausias; bendrai išmin­ tim , nuovoka ir saiku niekas jo nebuvo pralenkęs - nei pirmtakai, nei įpėdiniai"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4fc8fb45c3cde343a7e751c5","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Teodoro Narbuto vertinimu, Algirdas pasižymėjo išmintingu nuosaikumu, žmoniškumu ir tolerancija; dėl to, taip pat dėl karo veiksmų, pelnė šlovę ir daugelio žmonių prieraišumą, o valdydamas žiūrėjo teisingumo.","context":"Autoriaus vertinimas apie Algirdo valdymą; laikas šaltinio ištraukoje nenurodytas.","support_ids":["t-206259","c-188874"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206259","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188874","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Taip įvykiams klostantis, di­ dysis kunigaikštis Algirdas, Šiaurės kraštų kariauninkų Nesto­ ras, dėl išmintingo nuosaikumo, žmoniškumo, tolerancijos, ne mažiau kaip ir dėl karo veiksmų pelnė šlovę ir daugelio žmo­ nių prieraišumą, kuriuos džiugino įsigalėjusia taika ir kuriuos 1 A čto pošli v Ordy ko Gariu, luidi žalovatsia na Kniazia Michailu, a to jesmy v Boži voli i vo Carevi, kak povelit, tak ny diejati, a to ot nas v imienu (Sobranije gosud. gram. i dogovorov. - T. I. - S. 52)*. 2 Karamzin. - T. V. - S. 27-29 (pastabos nr. 28, 29). 209 valdė teisingumo žiūrėdamas, senoviniu būdu; kadangi pats, būdamas dvylikos sūnų tėvas, per juos valdė didžiulius R u­ sios kraštus, kurie sudarė…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"55fbff50ab858b08b8e96f6a","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Teodoro Narbuto teigimu, Algirdas nuo jaunystės nevartojo midaus, vyno ar kitų svaigiųjų gėrimų, išskyrus vaistus.","context":"Autoriaus aprašymas; įprotis nuo jaunystės.","support_ids":["t-206260","c-188875"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206260","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188875","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Algirdas nuo jaunumės nevartojo nei midaus, nei vyno, nei kokio kito nenatūralaus gėrimo, nebent kaip vaistą; buvo labai kuklios elgsenos; pro­ tu, kaip ir grožiu, buvo iš brolių pirmiausias; bendrai išmin­ tim , nuovoka ir saiku niekas jo nebuvo pralenkęs - nei pirmtakai, nei įpėdiniai"}],"status":"published","conflict_status":"clear"},{"trait_id":"7c7313a7771a1616809f7941","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Šaltinyje Algirdas aprašomas kaip mūšiuose įgudęs Lietuvos valdovas; 1377 m. prie Vilniaus jis narsiai gynėsi nuo gausesnių pajėgų.","context":"Michał Baliński aprašymas apie 1377 m. birželio pabaigos įvykius prie Vilniaus.","support_ids":["t-176294","c-160306"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176294","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160306","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"12 000 žmonių vedini, pakeliui sudeginę Trakų mies­ tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti, 1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­ mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo senasis Algirdas. Užvirė kova: abiejose tvirtovėse nuo gau­ sesnių pajėgų narsiai gynėsi įgudęs mūšiuose Lietuvos val­ dovas, bet miestas, priešo padegtas, prarado du trečdalius namų, kitą trečdalį miestiečiai vos pajėgė išgelbėti24."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6f0a95b00986b97a994e5063","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Algirdas įsakė kariuomenei sustoti, pasirengti kautynėms, padalijo ją į penkias dalis ir išrikiavo puslankiais.","context":"Albertas Vijūkas-Kojelavičius aprašė konkretų mūšio pasirengimą; data iš pateiktos ištraukos nenustatyta.","support_ids":["t-184665","c-168026"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184665","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168026","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Didžiulę į tris dalis padalytą kariuomenę vedė trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus Girėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­ rai pasirengę mūšiui ir negaišdami stos į kovą. Todėl Algirdas įsakė kariuomenei sustoti ir pasirengti kau­ tynėms. Visą kariuomenę jis padalijo į penkias dalis, išrikiavęs jas puslankiais, sparnus kiek galėdamas iš­ skleidė; priekinę liniją taip sutvarkė, kad tarp ati­ trauktų vienas nuo kito dalinių susidarytų tarpai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3a99241a6dda9d8c87ae26c6","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietuvai vakarines baltų žemes iki Alnos, Priegliaus ir Dauguvos.","context":"Aprašytos 1358 m. derybos; šaltinio autoriaus vertinime Algirdo reikalavimas vadinamas išdidžiu.","support_ids":["t-10071","c-41820"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10071","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-41820","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lietuvos galybės maksimumas Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu- vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos. Kryžiuočiai į tai atsakė 1360 m. prasidėjusiomis intensyviomis puolamosiomis operacijomis."}],"status":"published","conflict_status":"clear"},{"trait_id":"9eddd2a7186f7590fdbbc8f5","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"A. Šapokos redaguotoje Lietuvos istorijoje Algirdas apibūdinamas kaip pagonis; 1377 m. jis sudegintas Vilniuje ir palaidotas pagonių papročiais.","context":"Šaltinio teiginys apie Algirdo religiją ir 1377 m. laidotuves.","support_ids":["t-10672","c-160312"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10672","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-160312","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Visi jo vaikai, gimę Vitebske, buvo krikštyti rytų Bažny- čios apeigomis; bet tie, kurie gimė Vilniuje, buvo pagonys. Ir pat- sai Algirdas buvo pagonis. 1377 m. miręs, jis buvo sudegintas ant laužo Vilniuje ir palaidotas pagonių papročiais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2397b11e4fc2a9ba2956dcc0","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Algirdas toleravo stačiatikybę, jei ji neprieštaravo jo, kaip valdovo, interesams.","context":"Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio vertinimas apie Algirdo valdymo laikyseną.","support_ids":["t-193617","c-176288"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193617","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-176288","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Gyvendami Lietuvos valstybėje iš senrusių jie pradėjo virsti nauja tauta – rusėnais, gerokai besiskiriančiais nuo Maskvos valstybės rusų. Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo, interesams. Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo- se, kūrė valdovo raštinę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2137b52c24efeab44fc90205","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Algirdas buvo Lietuvos didysis kunigaikštis; su Kęstučiu jie valdžią pasidalijo lygiomis, Algirdui teko didžiojo kunigaikščio titulas.","context":"Valdžios pasidalijimo po Jaunučio pašalinimo aprašymas; XIV a. vidurys.","support_ids":["t-184664","c-168025"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184664","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168025","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Kęstutis siūlė valdžią Algirdui, kaip vyresniajam, Algirdas — Kęstučiui, kuris vienas pats pašalinęs Jaunutį. Galop abu sutarė, kad Algirdas gausiąs didžiojo kunigaikščio titulą, o visa kita jie dalysią lygiomis, tiktai priešai būsią abiem bendri. Jaunučiui, paleistam į laisvę, ati­ davė Zaslavlio kunigaikštystę, kuri vėliau, kadangi Jau­ nutis neturėjo sūnaus, kaip motinos paveldima žemė atiteko Glebavičiams."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ce2a299ffc39a1fd2b1d1221","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Algirdas valdė Vilnių, o Kęstutis tuo pat metu valdė Trakuose.","context":"Dviejų didžiųjų kunigaikščių valdymo tvarkos aprašymas; Algirdo valdymo laikotarpis.","support_ids":["t-197990","c-179421"],"source_refs":[{"kind":"internal_claim","claim_id":"t-197990","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-179421","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Tuo pačiu bus aptarta ir tų santykių forma, kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­ to laikais. Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­ nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­ vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­ torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas (1377)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a37978404cc1860f4fb4fec0","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Michał Baliński Algirdą vadina Gedimino vertu įpėdiniu, teigia, kad jis grąžino Lietuvos valstybei vienybę ir galią bei tapo anuomet galingiausiu valdovu Šiaurės Europoje.","context":"Autoriaus istorinis vertinimas po politinių pokyčių Vilniuje; laikotarpis siejamas su Algirdo valdžios įtvirtinimu.","support_ids":["t-176287","c-160283"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176287","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160283","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­ rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet galingiausiu valdovu Šiaurės Europoje. Jau apsipratęs su 16 Jaunutis, pasak Rusios metraštinin- miennik Sofijski."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"09c9cd7085cb3bd4d3226e59","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.","context":"Autorių istorinis vertinimas apie Algirdo valdymo laikotarpį.","support_ids":["t-176292","c-160311"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176292","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-160311","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Kryžiaus karai prieš Lietuvą iš dalies paaiški- na Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose. Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Algirdas buvo Lietuvos didysis kunigaikštis, Gedimino sūnus ir Jogailos tėvas. 1345–1377 m. valdant Algirdui, Lietuva tapo didvalstybe, kurios teritorija driekėsi nuo Baltijos iki Juodosios jūros, apimdama pagoniškas lietuvių ir stačiatikiškas senrusių žemes. Jis vadovavo gerai organizuotai kariuomenei, kuri prie Mėlynųjų Vandenų sutriuškino su lietuviais konkuravusius mongolus; 1362 m. Algirdas nugalėjo totorius, paėmė Kijevą ir ten įkurdino savo sūnų Vladimirą. Plėsdamas valdžią į rytus ir pietus, jis Rusios žemėse išlaikė ankstesnę tvarką, o jo žygiai sustiprino Lietuvos politinę įtaką regione. Algirdas buvo pagonis; 1377 m. miręs Vilniuje, jis buvo sudegintas ant laužo ir palaidotas pagal pagonių papročius.","sentences":[{"sentence_id":"s1","text":"Algirdas buvo Lietuvos didysis kunigaikštis, Gedimino sūnus ir Jogailos tėvas.","support_ids":["c-160322"]},{"sentence_id":"s2","text":"1345–1377 m. valdant Algirdui, Lietuva tapo didvalstybe, kurios teritorija driekėsi nuo Baltijos iki Juodosios jūros, apimdama pagoniškas lietuvių ir stačiatikiškas senrusių žemes.","support_ids":["c-160311"]},{"sentence_id":"s3","text":"Jis vadovavo gerai organizuotai kariuomenei, kuri prie Mėlynųjų Vandenų sutriuškino su lietuviais konkuravusius mongolus; 1362 m. Algirdas nugalėjo totorius, paėmė Kijevą ir ten įkurdino savo sūnų Vladimirą.","support_ids":["c-160290","c-160286"]},{"sentence_id":"s4","text":"Plėsdamas valdžią į rytus ir pietus, jis Rusios žemėse išlaikė ankstesnę tvarką, o jo žygiai sustiprino Lietuvos politinę įtaką regione.","support_ids":["c-160310","c-160319"]},{"sentence_id":"s5","text":"Algirdas buvo pagonis; 1377 m. miręs Vilniuje, jis buvo sudegintas ant laužo ir palaidotas pagal pagonių papročius.","support_ids":["c-160312"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltinis patvirtina, kad Algirdas buvo Gedimino sūnus ir Jogailos tėvas, tačiau tiesiogiai nepatvirtina, kad jis buvo Lietuvos didysis kunigaikštis."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina Algirdo valdymo laikotarpį, Lietuvos tapimą didvalstybe, teritoriją nuo Baltijos iki Juodosios jūros ir pagoniškų bei stačiatikiškų žemių apėmimą."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina gerai organizuotos kariuomenės pergalę prie Mėlynųjų Vandenų, totorių nugalėjimą 1362 m., Kijevo paėmimą ir Vladimiro paskyrimą."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina ankstesnės tvarkos išlaikymą Rusios žemėse, valdžios plėtrą į rytus ir pietus bei Lietuvos galios ir politinės įtakos sustiprėjimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad Algirdas buvo pagonis, 1377 m. mirė, buvo sudegintas Vilniuje ir palaidotas pagal pagonių papročius."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["c-160322"]},{"sentence_id":"s2","supported":false,"support_ids":["c-160311"]},{"sentence_id":"s3","supported":false,"support_ids":["c-160290","c-160286"]},{"sentence_id":"s4","supported":false,"support_ids":["c-160310","c-160319"]},{"sentence_id":"s5","supported":false,"support_ids":["c-160312"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":{"media_id":"m-b6079ac7c02694637cd64f89"},"featured_gallery":[{"media_id":"m-9ec4bf329b580c62bcf8da62","relation_type":"painting_of"},{"media_id":"m-71a6f43b44745c1bf0732fd9","relation_type":"manuscript_depiction_of"},{"media_id":"m-829d238fa7302d4fbf51ec19","relation_type":"painting_of"},{"media_id":"m-b7b3019281fb989c99bcabe2","relation_type":"portrait_of"},{"media_id":"m-8c13f764008c72b308ce8d4e","relation_type":"seal_of"}],"media_verification":{"status":"verified","primary_media_id":"m-fdb6056fb3dfef9280f63681","candidate_count":17,"visual_verified_count":17,"identity_verified_count":17,"primary":{"visual_verified":true,"identity_verified":true,"visual_review_version":"media-visual-validator-v2","judge_model":"gpt-5.6-luna","judge_reason":"Vaizdo užrašas ir kandidato metaduomenys aiškiai identifikuoja konkretų target – Lietuvos valdovą Algirdą.","visual_evidence":"Matomas viduramžių karys su ginklu ir aiškus užrašas „OLGIERD“, atitinkantis Algirdo vardo formą.","metadata_evidence":"Kandidato pavadinime nurodyta „Algierd“, aprašyme – Lietuvos didžiojo kunigaikščio Algirdo atvaizdas, kūrėjas A. Tarasievičius, 1675 m.","conflicting_identity":""}},"related_content":{"articles":[],"exhibitions":[{"slug":"parodos/lietuvos-ir-atr-valdovai","title":"LDK ir ATR valdovai"}],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Kremlius","claim_id":"t-176311","confidence":0.65},{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-177746","confidence":0.74},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Karijotas","claim_id":"t-177931","confidence":0.95},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-28531","confidence":0.93},{"predicate":"buvo_brolis","direction":"inbound","target":"objektai/asmenys/Narimantas Gediminaitis","claim_id":"t-40370","confidence":0.99},{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Maskvos kunigaikštystė","claim_id":"t-92733","confidence":0.88},{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-184664","confidence":0.8},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Dimitras (Maskvos kunigaikštis)","claim_id":"t-184255","confidence":0.7},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-28579","confidence":0.61},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Patirgas","claim_id":"t-96040","confidence":0.72},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Svirdeika","claim_id":"t-80723","confidence":0.76},{"predicate":"buvo_sunus","direction":"outbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176274","confidence":0.97},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Andrius Algirdaitis","claim_id":"t-54944","confidence":0.97},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Dimitras Kaributas","claim_id":"t-184692","confidence":0.94},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-182812","confidence":0.96},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Karigaila","claim_id":"t-55009","confidence":0.92},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-55009","confidence":0.92},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Simonas Lengvenis","claim_id":"t-82662","confidence":0.95},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Vladimiras (Algirdo sūnus)","claim_id":"t-35316","confidence":0.95},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Vladimiras Algirdaitis","claim_id":"t-184291","confidence":0.95},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogaila","claim_id":"t-173249","confidence":0.95},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-180060","confidence":0.82},{"predicate":"buvo_zmona","direction":"inbound","target":"objektai/asmenys/Marija (Algirdo žmona)","claim_id":"t-87545","confidence":0.97},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Algirdo žygiai į Maskvą","claim_id":"t-77949","confidence":0.76},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)","claim_id":"t-185735","confidence":0.78},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)","claim_id":"t-10253","confidence":0.9},{"predicate":"gyne","direction":"outbound","target":"objektai/grupes/Tverės kunigaikštystė","claim_id":"t-31363","confidence":0.72},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Pskovas","claim_id":"t-178116","confidence":0.96},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-185362","confidence":0.68},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Mongolai","claim_id":"t-10070","confidence":0.87},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Totoriai","claim_id":"t-10253","confidence":0.88},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Dmitrijus","claim_id":"t-117482","confidence":0.78},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-115020","confidence":0.7},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/ivykiai/Algirdo žygiai į Maskvą","claim_id":"t-176318","confidence":0.83},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Kanevas","claim_id":"t-10254","confidence":0.78},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-41484","confidence":0.78},{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Goštautas","claim_id":"t-184709","confidence":0.96},{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Petras Goštautas","claim_id":"t-184822","confidence":0.95},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-184666","confidence":0.7},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Totoriai","claim_id":"t-183719","confidence":0.76},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Brianskas","claim_id":"t-69217","confidence":0.96},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Kremlius","claim_id":"t-183354","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-184668","confidence":0.83},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Vėluva","claim_id":"t-171553","confidence":0.66},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Želva","claim_id":"t-171553","confidence":0.6},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Karijotaičiai","claim_id":"t-171343","confidence":0.95},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Pranciškonų ordinas","claim_id":"t-183838","confidence":0.62},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Stačiatikiai","claim_id":"t-182592","confidence":0.68},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-186242","confidence":0.91},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/asmenys/Dimitrijus","claim_id":"t-186308","confidence":0.93},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Dimitrijus","claim_id":"t-186308","confidence":0.9},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-54706","confidence":0.74},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/ivykiai/Algirdo žygiai į Maskvą","claim_id":"t-176279","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)","claim_id":"t-10670","confidence":0.8},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Deimena","claim_id":"t-68371","confidence":0.84},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-05286","confidence":0.97},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Nadruva","claim_id":"t-171553","confidence":0.91},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Rusia Rusios žemės","claim_id":"t-85948","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Rusia","claim_id":"t-85945","confidence":0.86},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Desna","claim_id":"t-97827","confidence":0.68},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Dniepras","claim_id":"t-177941","confidence":0.68},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kijevas","claim_id":"t-10670","confidence":0.92},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Mogiliavas","claim_id":"t-182083","confidence":0.88},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Mstislavlis","claim_id":"t-182083","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Podolė","claim_id":"t-177914","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Toropiec","claim_id":"t-99915","confidence":0.95},{"predicate":"uzkariavo","direction":"outbound","target":"objektai/vietos/Volynė","claim_id":"t-184669","confidence":0.78},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Brasta","claim_id":"t-180152","confidence":0.72},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Kijevo Rusia","claim_id":"t-83627","confidence":0.82},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Krėva","claim_id":"t-10666","confidence":0.96},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-176292","confidence":0.9},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Možaiskas","claim_id":"t-180152","confidence":0.72},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-10666","confidence":0.96},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Krėva","claim_id":"t-181129","confidence":0.9},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-176287","confidence":0.9},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-176293","confidence":0.86},{"predicate":"valde_teritorija","direction":"outbound","target":"objektai/vietos/Kijevo Rusia","claim_id":"t-05159","confidence":0.74},{"predicate":"valde_teritorija","direction":"outbound","target":"objektai/vietos/Podolė","claim_id":"t-184709","confidence":0.92},{"predicate":"vede","direction":"outbound","target":"objektai/asmenys/Marija (Vitebsko sosto įpėdinė)","claim_id":"t-30356","confidence":0.93}],"timeline":[{"date":"1296 m.","label":"Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“.","claimId":"t-219782"},{"date":"1342 m.","label":"Teodoro Narbuto pasakojimu, 1342 m., Algirdo valdymo pradžioje, vienuolis Nestoras, Marijos Algirdienės rūmų kapelionas, į krikščionybę atvertė dvariškius brolius Kuklėjų ir Michlėjų, Algirdo numylėtinius.","claimId":"t-206261"},{"date":"1349 m.","label":"Algirdas, Teodoro Narbuto vadinamas didžiuoju kunigaikščiu, 1349 m.","claimId":"t-206252"},{"date":"1358 m.","label":"1358 m.","claimId":"t-10071"},{"date":"1358 m.","label":"Algirdas 1358 m.","claimId":"t-176301"},{"date":"1358 m.","label":"Algirdas 1358 m.","claimId":"t-197975"},{"date":"1358 m.","label":"1358 m.","claimId":"t-198005"},{"date":"1362 m.","label":"1362 m.","claimId":"t-10670"}],"support_disclosure":{"claims":125,"sources":15}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: d4f846d3cdde072a
-object_page_generated_at: '2026-09-18T20:34:32+00:00'
-object_page_source_checked_at: '2026-09-18T20:34:32+00:00'
-object_page_content_state: content
-object_page_claim_count: '125'
-object_page_source_count: '15'
-object_page_seo_description: 'Algirdas (Lietuvos valdovas): Algirdas buvo Lietuvos didysis kunigaikštis, Gedimino sūnus ir Jogailos tėvas. 1345–1377 m. valdant Algirdui, Lietuva tapo…'
-object_page_seo_input_hash: 3ad102c6e21495e51499db42efd25e76cfd5654fcc2bfff61e9e4cf01f1fa2d6
-object_page_seo_generated_at: '2026-09-18T20:34:32+00:00'
-object_page_seo_policy_version: object-page-policy/v7
-media_primary_width: 960
-media_primary_height: 960
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
+media_total_count: '18'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'painting_of'
+media_primary_json: |-
+  {"mediaId":"m-fdb6056fb3dfef9280f63681","title":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","caption":"Algirdo (Olgierdo) istorinis atvaizdas, A. Tarasievičius, 1675 m.","originalTitle":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa, G.2165.","dateDisplay":"1675","dateStart":null,"dateEnd":null,"width":408,"height":446,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938346+03:00","reviewedAt":"2026-08-11T00:56:19.793337+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas viduramžių karys su ginklu ir aiškus užrašas „OLGIERD“, atitinkantis Algirdo vardo formą.","metadataEvidence":"Kandidato pavadinime nurodyta „Algierd“, aprašyme – Lietuvos didžiojo kunigaikščio Algirdo atvaizdas, kūrėjas A. Tarasievičius, 1675 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdo užrašas ir kandidato metaduomenys aiškiai identifikuoja konkretų target – Lietuvos valdovą Algirdą.","isPrimary":0,"identityVerified":true}
+media_direct_json: |-
+  [{"mediaId":"m-829d238fa7302d4fbf51ec19","title":"Algierd. Альгерд (1578).jpg","caption":"Algirdo atvaizdas iš 1578 m. leidinio.","originalTitle":"Algierd. Альгерд (1578).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Paprocki B. Gniazdo cnoty. — Krakow, 1578. S. 1145.","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":845,"height":1293,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas' Cap","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.931526+03:00","reviewedAt":"2026-07-18T21:28:29.520223+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas šarvuotas barzdotas valdovas su kalaviju ir puošniu galvos apdangalu.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didysis kunigaikštis Algirdas, 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-9ec4bf329b580c62bcf8da62","title":"Algierd. Альгерд (1831).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas, 1831 m.","originalTitle":"Algierd. Альгерд (1831).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bernardo Zaydler. Storia della Polonia. Florencija, 1831.","dateDisplay":"1831","dateStart":null,"dateEnd":null,"width":2460,"height":3870,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.933111+03:00","reviewedAt":"2026-07-18T21:28:29.508819+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas vyras su valdovo ir kario apranga, šalmu bei šarvais.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad vaizduojamas Lietuvos didysis kunigaikštis Algirdas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo istorinis portretas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-03761d6e40e9dd4d007297d3","title":"Algierd. Альгерд (1890).jpg","caption":"Algirdo portretas, 1890 m.","originalTitle":"Algierd. Альгерд (1890).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Батюшков П. И. Белоруссия и Литва. — СПб., 1890. С. 55.","dateDisplay":"1890","dateStart":null,"dateEnd":null,"width":1385,"height":1462,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Belarus and Lithuania by Batyushkov (1890)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.933878+03:00","reviewedAt":"2026-07-18T21:28:29.523313+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karys su šarvais, puošniu šalmu, plunksnomis ir valdžios simboliu rankoje.","metadataEvidence":"Pavadinime ir apraše įvardytas Lietuvos didžiojo kunigaikščio Algirdo portretas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo portretas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-b7b3019281fb989c99bcabe2","title":"Algierd. Альгерд (1906).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (1906).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos istorija. — Petropilis, 1906.","dateDisplay":"1906","dateStart":null,"dateEnd":null,"width":674,"height":791,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.934863+03:00","reviewedAt":"2026-08-11T00:56:19.789108+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas valdovas su karūnuotu šalmu ir skeptru; veidas bei apranga atitinka kitus Algirdo atvaizdus.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Algierd / Algirdas, kūrinys datuojamas 1906 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-84d408ad19b6c88671dfdf08","title":"Algierd. Альгерд (1911).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (1911).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos istorija. Kaunas: Šv. Kazimiero d-ja, 1911.","dateDisplay":"1911","dateStart":null,"dateEnd":null,"width":370,"height":377,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.935545+03:00","reviewedAt":"2026-08-11T00:56:19.779167+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pavaizduotas barzdotas vyras su šarvais, dekoruotu šalmu ir skeptru; kompozicija atitinka Algirdo portretinę ikonografiją.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Algierd / Algirdas, kūrinys datuojamas 1911 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys vienareikšmiškai identifikuoja Algirdą, o vaizdas atitinka portretą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-537802881fbd3f6847000fda","title":"Algierd. Альгерд (A. Guagnini, 1578).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (A. Guagnini, 1578).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2385,"height":2386,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Renaissance warfare","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.936295+03:00","reviewedAt":"2026-08-11T00:56:19.756700+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduotas šarvuotas, barzdotas valdovas su šalmu, skeptru ir Algirdo ikonografijai būdinga apranga.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas; kūrinys datuojamas 1578 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys ir vaizdas tiesiogiai sutampa su Algirdo atvaizdu.","isPrimary":0,"identityVerified":true},{"mediaId":"m-358a9845c78da83b471f6007","title":"Algierd. Альгерд (A. Guagnini, 1578, 1885).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (A. Guagnini, 1578, 1885).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur. Сапунов А. Витебская старина. Т. 4. Ч. 1. Полоцкое воеводство под властью царя Иоанна Васильевича Грозного (1563-1580); Ч. 2. Полоцкое и Витебское воеводство под властью царя Алексея Михайловича (1654-1667 гг.). — Витебск, 1885. С. 5.","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":873,"height":970,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.937414+03:00","reviewedAt":"2026-08-11T00:56:19.783441+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas valdovas su plunksnuotu šalmu, skeptru ir dekoratyviais šarvais.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas; nurodyta Guagnini tradicija ir 1578 m. atvaizdas, išleistas 1885 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Algirdą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-fdb6056fb3dfef9280f63681","title":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","caption":"Algirdo (Olgierdo) istorinis atvaizdas, A. Tarasievičius, 1675 m.","originalTitle":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa, G.2165.","dateDisplay":"1675","dateStart":null,"dateEnd":null,"width":408,"height":446,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938346+03:00","reviewedAt":"2026-08-11T00:56:19.793337+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas viduramžių karys su ginklu ir aiškus užrašas „OLGIERD“, atitinkantis Algirdo vardo formą.","metadataEvidence":"Kandidato pavadinime nurodyta „Algierd“, aprašyme – Lietuvos didžiojo kunigaikščio Algirdo atvaizdas, kūrėjas A. Tarasievičius, 1675 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdo užrašas ir kandidato metaduomenys aiškiai identifikuoja konkretų target – Lietuvos valdovą Algirdą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-8e6935361cd861fdf5f60e97","title":"Algierd. Альгерд (J. Aziambłoŭski, 1833-39).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (J. Aziambłoŭski, 1833-39).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Narbutt T. Dzieje narodu litewskiego. T. 5: Od śmierci Gedymina do bitwy nad Worskłą. Wilno, 1839.","dateDisplay":"between 1833 and 1839 date QS:P571,+1833-00-00T00:00:00Z/8,P1319,+1833-00-00T00:00:00Z/9,P1326,+1839-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":2935,"height":5075,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Engravings in the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Józef Oziębłowski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938743+03:00","reviewedAt":"2026-08-11T00:56:19.736343+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas viduramžių valdovas su karūnuotu šalmu, šarvais ir skeptru; apačioje įrašas „OLGERD“.","metadataEvidence":"Pavadinime nurodytas Algierd, aprašyme – Lietuvos didysis kunigaikštis Algirdas; autorius ir data pateikti.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-d47bd959c63a0558ee623fc1","title":"Algierd. Альгерд (L. Decius, 1521).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portreto fragmentas","originalTitle":"Algierd. Альгерд (L. Decius, 1521).jpg","creator":"Ludovicus Decius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Decius L. De Jegellonum familia liber II. Kraków, 1521.","dateDisplay":"1521","dateStart":null,"dateEnd":null,"width":329,"height":481,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.939360+03:00","reviewedAt":"2026-08-11T00:56:19.761975+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas vyras su šalmu ir kardu; tai portretinė valdovo figūra.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas, autorius Ludovicus Decius ir 1521 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors apkarpytas, Algirdo istorinis atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-c27e9b6602dd30962e518836","title":"Algirdas kunigaikštis.jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algirdas kunigaikštis.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] ; originally from Sarmatiae Europeae descriptio published in 1578 / \"Дмитрий Донской\" (ЖЗЛ), Москва","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2030,"height":2140,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgirdas_kunigaik%C5%A1tis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Algirdas_kunigaik%C5%A1tis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Algirdas_kunigaik%C5%A1tis.jpg/1920px-Algirdas_kunigaik%C5%A1tis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Algirdas_kunigaik%C5%A1tis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Canon PowerShot A630","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"VKL","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.940205+03:00","reviewedAt":"2026-08-11T00:56:19.768591+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pavaizduotas barzdotas valdovas su dekoruotu šalmu, šarvais ir skeptru; matoma ta pati Algirdo ikonografinė kompozicija.","metadataEvidence":"Pavadinime „Algirdas kunigaikštis“, aprašyme – Lietuvos didysis kunigaikštis Algirdas; nurodyta 1578 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybę aiškiai patvirtina ir vaizdas, ir metaduomenys.","isPrimary":0,"identityVerified":true},{"mediaId":"m-f314e22102925462f08ddfdc","title":"Atvirukas. A. Aleksandravičiaus sukurtas biustas (1924 m.). Algirdas. XX a. III–IV deš.","caption":"Antano Aleksandravičiaus sukurtas Lietuvos didžiojo kunigaikščio Algirdo biustas, 1924 m.","originalTitle":"Atvirukas. A. Aleksandravičiaus sukurtas biustas (1924 m.). Algirdas. XX a. III–IV deš.","creator":"Fotoateljė „Modern“","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIMIS_669138040","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-669138040/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-669138040%2Fthumbnail-original%2Fget.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-669138040/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"A két világháború közötti időszak","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Art","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Art of sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arti","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Beeldhouwkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bildhauerkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bildhuggeri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dealbhóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dwudziestolecie międzywojenne","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ealaín","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entre-deux-guerres","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Escultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Eskulturagintza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Europa i svijet između dva svjetska rata","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gerrarteko garaia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Interbellum","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Interwar period","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kiparstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Konst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kuvanveisto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Medvojno obdobje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Medzivojnové obdobie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Mellankrigstiden","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Mellemkrigstiden","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Menas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Meziválečné období","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Māksla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Művészet","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Na blianta idirchogaidh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Perioada interbelică","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Periodo interbellico","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Període d'entreguerres","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Período de entreguerras","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Período entreguerras","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rzeźbiarstwo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculptură","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Scultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulpturkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulptuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulptūra","language":"def","canonicalCode":"skulptūra"},{"provider":"europeana","field":"edm_concepts","label":"Skultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sochařství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sochárstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sotien välinen aika","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Starpkaru periods","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Szobrászat","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sztuka","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taide","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tarpukaris","language":"def","canonicalCode":"tarpukaris"},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tēlniecība","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umenie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umetnost","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umjetnost","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umění","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zwischenkriegszeit","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:55:17.499237+03:00","reviewedAt":"2026-08-11T00:56:37.993608+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas vyro su valdovo galvos apdangalu ir šarvais skulptūrinis biustas; apatiniame kampe įspaudas „MODERN KAUNAS“.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta, kad tai Antano Aleksandravičiaus sukurtas Lietuvos didžiojo kunigaikščio Algirdo biustas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Algirdo istorinį atvaizdą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-8c13f764008c72b308ce8d4e","title":"Drawing of seals from the treaty of 1366.jpg","caption":"Algirdo antspaudo piešinys iš 1366 m. taikos sutarties antspaudų dokumento.","originalTitle":"Drawing of seals from the treaty of 1366.jpg","creator":"Невядомы мастак XVIII стагоддзя","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Барэйша, Ю. (2024) З гісторыі беларускай сфрагістыкі XII-XIV стст.: пломбы з легендай “NОЪГРОДЪ”, свінцовыя булы “Міндоўга”, невядомая пячатка Андрэя Альгердавіча Полацкага , Minsk : Энэргапрэс, p. 191 ISBN : 978-985-7298-30-3 .","dateDisplay":"between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":701,"height":660,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"sutartis","label":"sutartis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1366 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century drawings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Manuscripts in the Czartoryski Library","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Algirdas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.525037+03:00","reviewedAt":"2026-07-18T21:28:29.529525+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi du pakabinamų antspaudų piešiniai; didesnis ovalus antspaudas priskirtas Lietuvos didžiajam kunigaikščiui Olgierdui.","metadataEvidence":"Apraše aiškiai nurodyta, kad didesnis antspaudas priklausė Olgierdui, istoriniam Algirdo vardui, ir autentifikavo 1366 m. taikos sutartį.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo antspaudo atvaizdas istoriniame dokumentiniame kontekste.","isPrimary":0,"identityVerified":true},{"mediaId":"m-71a6f43b44745c1bf0732fd9","title":"Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg","caption":"Algirdo mirties scena iš XVI a. Rusios iliustruotos kronikos.","originalTitle":"Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg","creator":"Anonymous Russian manuscript illuminators, 1560-1570s Facial Chronicle (Illustrated Chronicle of Ivan the Terrible) (in 10 volumes: pdf , pdf with translation ) Public domain image","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://sterligoff.ru/","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1699,"height":3172,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFacial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1377 in Europe","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Algirdas in miniature","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Death in Facial Chronicle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Facial Chronicle (v.6) - Ostermanovskiy 1-y tom (1254-1378)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Facial Chronicle miniatures (all)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Shakko from various sources","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:10.121657+03:00","reviewedAt":"2026-07-18T21:28:29.500180+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma valdovo mirties arba laidotuvių scena su kariuomene, miestu ir gedinčiais asmenimis.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didžiojo kunigaikščio Algirdo mirties vaizdas.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Algirdo mirties įvykio vaizdavimas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-807418e146c50df1e572a907","title":"Kunigaikštis Algirdas.jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Kunigaikštis Algirdas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":976,"height":944,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKunigaik%C5%A1tis_Algirdas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Engravings of people of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scanned with HP PSC 1500","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.941628+03:00","reviewedAt":"2026-08-11T00:56:19.774334+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas tas pats barzdotas šarvuotas valdovas su šalmu, skeptru ir dekoratyviais šarvais.","metadataEvidence":"Pavadinime „Kunigaikštis Algirdas“, aprašyme aiškiai įvardytas Algirdas; nurodyta 1578 m. data ir Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis target atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-7852b2c936b85a0578f250d3","title":"Lob Печать Ольгерда.svg","caption":"Algirdo valdovo antspaudo grafinė rekonstrukcija, 1366 m.","originalTitle":"Lob Печать Ольгерда.svg","creator":"Лобачев Владимир","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work","dateDisplay":"2012-01-30","dateStart":null,"dateEnd":null,"width":1049,"height":1049,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Church Slavonic inscriptions in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Algirdas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Slavonic seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"АВЕ letter combinations","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.525405+03:00","reviewedAt":"2026-07-18T21:28:29.512836+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus antspaudas su valdovo ženklu ir įrašu aplink kraštą.","metadataEvidence":"Apraše aiškiai nurodyta, kad tai Lietuvos didžiojo kunigaikščio Algirdo antspaudas, datuojamas 1366 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Algirdo antspaudą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"Algirdo antspaudo rekonstrukcija pagal 1371 m. istorinį antspaudą.","originalTitle":"POL Seal of Olgierd (1371).svg","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2022-05-18","dateStart":null,"dateEnd":null,"width":512,"height":512,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec New SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"User:Guccee/Graphics","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.524680+03:00","reviewedAt":"2026-07-18T21:28:29.526486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas skydas su stilizuotu ženklu ir heraldinė kompozicija.","metadataEvidence":"Pavadinime nurodytas Olgierd antspaudas, o apraše – istorinis 1371 m. Lietuvos didžiojo kunigaikščio antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Algirdo valdovo antspaudą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-51dc4aece1a0de4a0916e633","title":"Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg","caption":"Algirdo portretas, sukurtas Józefo Oziębłowskio XIX a. 5-ajame dešimtmetyje.","originalTitle":"Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Белорусская национальная библиотека","dateDisplay":"1840s date QS:P,+1840-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":472,"height":527,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Józef Oziębłowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Retrospective portraits","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:14.497274+03:00","reviewedAt":"2026-07-18T21:28:29.516702+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karys-valdovas su šalmu, plunksnų kuodu, šarvais ir ginklu.","metadataEvidence":"Pavadinime ir apraše įvardytas Lietuvos didžiojo kunigaikščio Algirdo portretas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo portretas.","isPrimary":0,"identityVerified":true}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-829d238fa7302d4fbf51ec19","title":"Algierd. Альгерд (1578).jpg","caption":"Algirdo atvaizdas iš 1578 m. leidinio.","originalTitle":"Algierd. Альгерд (1578).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Paprocki B. Gniazdo cnoty. — Krakow, 1578. S. 1145.","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":845,"height":1293,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gediminas' Cap","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.931526+03:00","reviewedAt":"2026-07-18T21:28:29.520223+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas šarvuotas barzdotas valdovas su kalaviju ir puošniu galvos apdangalu.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didysis kunigaikštis Algirdas, 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-9ec4bf329b580c62bcf8da62","title":"Algierd. Альгерд (1831).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas, 1831 m.","originalTitle":"Algierd. Альгерд (1831).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bernardo Zaydler. Storia della Polonia. Florencija, 1831.","dateDisplay":"1831","dateStart":null,"dateEnd":null,"width":2460,"height":3870,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.933111+03:00","reviewedAt":"2026-07-18T21:28:29.508819+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas vyras su valdovo ir kario apranga, šalmu bei šarvais.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad vaizduojamas Lietuvos didysis kunigaikštis Algirdas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo istorinis portretas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-03761d6e40e9dd4d007297d3","title":"Algierd. Альгерд (1890).jpg","caption":"Algirdo portretas, 1890 m.","originalTitle":"Algierd. Альгерд (1890).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Батюшков П. И. Белоруссия и Литва. — СПб., 1890. С. 55.","dateDisplay":"1890","dateStart":null,"dateEnd":null,"width":1385,"height":1462,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Belarus and Lithuania by Batyushkov (1890)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.933878+03:00","reviewedAt":"2026-07-18T21:28:29.523313+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karys su šarvais, puošniu šalmu, plunksnomis ir valdžios simboliu rankoje.","metadataEvidence":"Pavadinime ir apraše įvardytas Lietuvos didžiojo kunigaikščio Algirdo portretas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo portretas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-b7b3019281fb989c99bcabe2","title":"Algierd. Альгерд (1906).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (1906).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos istorija. — Petropilis, 1906.","dateDisplay":"1906","dateStart":null,"dateEnd":null,"width":674,"height":791,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281906%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.934863+03:00","reviewedAt":"2026-08-11T00:56:19.789108+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas valdovas su karūnuotu šalmu ir skeptru; veidas bei apranga atitinka kitus Algirdo atvaizdus.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Algierd / Algirdas, kūrinys datuojamas 1906 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-84d408ad19b6c88671dfdf08","title":"Algierd. Альгерд (1911).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (1911).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos istorija. Kaunas: Šv. Kazimiero d-ja, 1911.","dateDisplay":"1911","dateStart":null,"dateEnd":null,"width":370,"height":377,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281911%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.935545+03:00","reviewedAt":"2026-08-11T00:56:19.779167+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pavaizduotas barzdotas vyras su šarvais, dekoruotu šalmu ir skeptru; kompozicija atitinka Algirdo portretinę ikonografiją.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Algierd / Algirdas, kūrinys datuojamas 1911 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys vienareikšmiškai identifikuoja Algirdą, o vaizdas atitinka portretą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-537802881fbd3f6847000fda","title":"Algierd. Альгерд (A. Guagnini, 1578).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (A. Guagnini, 1578).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2385,"height":2386,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Renaissance warfare","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.936295+03:00","reviewedAt":"2026-08-11T00:56:19.756700+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduotas šarvuotas, barzdotas valdovas su šalmu, skeptru ir Algirdo ikonografijai būdinga apranga.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas; kūrinys datuojamas 1578 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys ir vaizdas tiesiogiai sutampa su Algirdo atvaizdu.","isPrimary":0,"identityVerified":true},{"mediaId":"m-358a9845c78da83b471f6007","title":"Algierd. Альгерд (A. Guagnini, 1578, 1885).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (A. Guagnini, 1578, 1885).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur. Сапунов А. Витебская старина. Т. 4. Ч. 1. Полоцкое воеводство под властью царя Иоанна Васильевича Грозного (1563-1580); Ч. 2. Полоцкое и Витебское воеводство под властью царя Алексея Михайловича (1654-1667 гг.). — Витебск, 1885. С. 5.","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":873,"height":970,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%2C_1885%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.937414+03:00","reviewedAt":"2026-08-11T00:56:19.783441+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas valdovas su plunksnuotu šalmu, skeptru ir dekoratyviais šarvais.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas; nurodyta Guagnini tradicija ir 1578 m. atvaizdas, išleistas 1885 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Algirdą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-fdb6056fb3dfef9280f63681","title":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","caption":"Algirdo (Olgierdo) istorinis atvaizdas, A. Tarasievičius, 1675 m.","originalTitle":"Algierd. Альгерд (A. Tarasievič, 1675).jpg","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa, G.2165.","dateDisplay":"1675","dateStart":null,"dateEnd":null,"width":408,"height":446,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938346+03:00","reviewedAt":"2026-08-11T00:56:19.793337+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas viduramžių karys su ginklu ir aiškus užrašas „OLGIERD“, atitinkantis Algirdo vardo formą.","metadataEvidence":"Kandidato pavadinime nurodyta „Algierd“, aprašyme – Lietuvos didžiojo kunigaikščio Algirdo atvaizdas, kūrėjas A. Tarasievičius, 1675 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdo užrašas ir kandidato metaduomenys aiškiai identifikuoja konkretų target – Lietuvos valdovą Algirdą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-8e6935361cd861fdf5f60e97","title":"Algierd. Альгерд (J. Aziambłoŭski, 1833-39).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algierd. Альгерд (J. Aziambłoŭski, 1833-39).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Narbutt T. Dzieje narodu litewskiego. T. 5: Od śmierci Gedymina do bitwy nad Worskłą. Wilno, 1839.","dateDisplay":"between 1833 and 1839 date QS:P571,+1833-00-00T00:00:00Z/8,P1319,+1833-00-00T00:00:00Z/9,P1326,+1839-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":2935,"height":5075,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28J._Aziamb%C5%82o%C5%ADski%2C_1833-39%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Engravings in the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Józef Oziębłowski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.938743+03:00","reviewedAt":"2026-08-11T00:56:19.736343+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas viduramžių valdovas su karūnuotu šalmu, šarvais ir skeptru; apačioje įrašas „OLGERD“.","metadataEvidence":"Pavadinime nurodytas Algierd, aprašyme – Lietuvos didysis kunigaikštis Algirdas; autorius ir data pateikti.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis Algirdo istorinis atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-d47bd959c63a0558ee623fc1","title":"Algierd. Альгерд (L. Decius, 1521).jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portreto fragmentas","originalTitle":"Algierd. Альгерд (L. Decius, 1521).jpg","creator":"Ludovicus Decius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Decius L. De Jegellonum familia liber II. Kraków, 1521.","dateDisplay":"1521","dateStart":null,"dateEnd":null,"width":329,"height":481,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28L._Decius%2C_1521%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.939360+03:00","reviewedAt":"2026-08-11T00:56:19.761975+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas šarvuotas vyras su šalmu ir kardu; tai portretinė valdovo figūra.","metadataEvidence":"Pavadinime ir aprašyme aiškiai nurodyta Algierd / Algirdas, autorius Ludovicus Decius ir 1521 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis, nors apkarpytas, Algirdo istorinis atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-c27e9b6602dd30962e518836","title":"Algirdas kunigaikštis.jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Algirdas kunigaikštis.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] ; originally from Sarmatiae Europeae descriptio published in 1578 / \"Дмитрий Донской\" (ЖЗЛ), Москва","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2030,"height":2140,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlgirdas_kunigaik%C5%A1tis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Algirdas_kunigaik%C5%A1tis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Algirdas_kunigaik%C5%A1tis.jpg/1920px-Algirdas_kunigaik%C5%A1tis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Algirdas_kunigaik%C5%A1tis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Canon PowerShot A630","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"VKL","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.940205+03:00","reviewedAt":"2026-08-11T00:56:19.768591+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pavaizduotas barzdotas valdovas su dekoruotu šalmu, šarvais ir skeptru; matoma ta pati Algirdo ikonografinė kompozicija.","metadataEvidence":"Pavadinime „Algirdas kunigaikštis“, aprašyme – Lietuvos didysis kunigaikštis Algirdas; nurodyta 1578 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybę aiškiai patvirtina ir vaizdas, ir metaduomenys.","isPrimary":0,"identityVerified":true},{"mediaId":"m-f314e22102925462f08ddfdc","title":"Atvirukas. A. Aleksandravičiaus sukurtas biustas (1924 m.). Algirdas. XX a. III–IV deš.","caption":"Antano Aleksandravičiaus sukurtas Lietuvos didžiojo kunigaikščio Algirdo biustas, 1924 m.","originalTitle":"Atvirukas. A. Aleksandravičiaus sukurtas biustas (1924 m.). Algirdas. XX a. III–IV deš.","creator":"Fotoateljė „Modern“","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIMIS_669138040","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-669138040/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-669138040%2Fthumbnail-original%2Fget.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-669138040/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.8}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"A két világháború közötti időszak","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Art","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Art of sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arti","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Beeldhouwkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bildhauerkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Bildhuggeri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dealbhóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dwudziestolecie międzywojenne","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ealaín","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entre-deux-guerres","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Escultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Eskulturagintza","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Europa i svijet između dva svjetska rata","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Gerrarteko garaia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"História","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Interbellum","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Interwar period","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kiparstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Konst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kuvanveisto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Medvojno obdobje","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Medzivojnové obdobie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Mellankrigstiden","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Mellemkrigstiden","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Menas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Meziválečné období","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Māksla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Művészet","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Na blianta idirchogaidh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Perioada interbelică","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Periodo interbellico","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Període d'entreguerres","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Período de entreguerras","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Período entreguerras","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rzeźbiarstwo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculptură","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Scultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulpturkunst","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulptuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Skulptūra","language":"def","canonicalCode":"skulptūra"},{"provider":"europeana","field":"edm_concepts","label":"Skultura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sochařství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sochárstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sotien välinen aika","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Starpkaru periods","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Szobrászat","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sztuka","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taide","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tarpukaris","language":"def","canonicalCode":"tarpukaris"},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Tēlniecība","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umenie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umetnost","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umjetnost","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Umění","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zwischenkriegszeit","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:55:17.499237+03:00","reviewedAt":"2026-08-11T00:56:37.993608+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas vyro su valdovo galvos apdangalu ir šarvais skulptūrinis biustas; apatiniame kampe įspaudas „MODERN KAUNAS“.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai nurodyta, kad tai Antano Aleksandravičiaus sukurtas Lietuvos didžiojo kunigaikščio Algirdo biustas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Algirdo istorinį atvaizdą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-8c13f764008c72b308ce8d4e","title":"Drawing of seals from the treaty of 1366.jpg","caption":"Algirdo antspaudo piešinys iš 1366 m. taikos sutarties antspaudų dokumento.","originalTitle":"Drawing of seals from the treaty of 1366.jpg","creator":"Невядомы мастак XVIII стагоддзя","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Барэйша, Ю. (2024) З гісторыі беларускай сфрагістыкі XII-XIV стст.: пломбы з легендай “NОЪГРОДЪ”, свінцовыя булы “Міндоўга”, невядомая пячатка Андрэя Альгердавіча Полацкага , Minsk : Энэргапрэс, p. 191 ISBN : 978-985-7298-30-3 .","dateDisplay":"between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":701,"height":660,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"sutartis","label":"sutartis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1366 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century drawings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Manuscripts in the Czartoryski Library","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Algirdas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.525037+03:00","reviewedAt":"2026-07-18T21:28:29.529525+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomi du pakabinamų antspaudų piešiniai; didesnis ovalus antspaudas priskirtas Lietuvos didžiajam kunigaikščiui Olgierdui.","metadataEvidence":"Apraše aiškiai nurodyta, kad didesnis antspaudas priklausė Olgierdui, istoriniam Algirdo vardui, ir autentifikavo 1366 m. taikos sutartį.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo antspaudo atvaizdas istoriniame dokumentiniame kontekste.","isPrimary":0,"identityVerified":true},{"mediaId":"m-71a6f43b44745c1bf0732fd9","title":"Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg","caption":"Algirdo mirties scena iš XVI a. Rusios iliustruotos kronikos.","originalTitle":"Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg","creator":"Anonymous Russian manuscript illuminators, 1560-1570s Facial Chronicle (Illustrated Chronicle of Ivan the Terrible) (in 10 volumes: pdf , pdf with translation ) Public domain image","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://sterligoff.ru/","dateDisplay":"16 th century date QS:P,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1699,"height":3172,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFacial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1377 in Europe","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Algirdas in miniature","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Death in Facial Chronicle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Facial Chronicle (v.6) - Ostermanovskiy 1-y tom (1254-1378)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Facial Chronicle miniatures (all)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Shakko from various sources","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:10.121657+03:00","reviewedAt":"2026-07-18T21:28:29.500180+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma valdovo mirties arba laidotuvių scena su kariuomene, miestu ir gedinčiais asmenimis.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodytas Lietuvos didžiojo kunigaikščio Algirdo mirties vaizdas.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Algirdo mirties įvykio vaizdavimas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-807418e146c50df1e572a907","title":"Kunigaikštis Algirdas.jpg","caption":"Algirdo, Lietuvos didžiojo kunigaikščio, portretas","originalTitle":"Kunigaikštis Algirdas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":976,"height":944,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKunigaik%C5%A1tis_Algirdas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kunigaik%C5%A1tis_Algirdas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Engravings of people of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sarmatiae Europeae descriptio","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scanned with HP PSC 1500","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:23.941628+03:00","reviewedAt":"2026-08-11T00:56:19.774334+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas tas pats barzdotas šarvuotas valdovas su šalmu, skeptru ir dekoratyviais šarvais.","metadataEvidence":"Pavadinime „Kunigaikštis Algirdas“, aprašyme aiškiai įvardytas Algirdas; nurodyta 1578 m. data ir Alexander Guagnini.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tiesioginis target atvaizdas.","isPrimary":0,"identityVerified":true},{"mediaId":"m-7852b2c936b85a0578f250d3","title":"Lob Печать Ольгерда.svg","caption":"Algirdo valdovo antspaudo grafinė rekonstrukcija, 1366 m.","originalTitle":"Lob Печать Ольгерда.svg","creator":"Лобачев Владимир","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work","dateDisplay":"2012-01-30","dateStart":null,"dateEnd":null,"width":1049,"height":1049,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Church Slavonic inscriptions in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Algirdas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Slavonic seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"АВЕ letter combinations","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.525405+03:00","reviewedAt":"2026-07-18T21:28:29.512836+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apvalus antspaudas su valdovo ženklu ir įrašu aplink kraštą.","metadataEvidence":"Apraše aiškiai nurodyta, kad tai Lietuvos didžiojo kunigaikščio Algirdo antspaudas, datuojamas 1366 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Algirdo antspaudą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-480a09950fc1fa93830f625f","title":"POL Seal of Olgierd (1371).svg","caption":"Algirdo antspaudo rekonstrukcija pagal 1371 m. istorinį antspaudą.","originalTitle":"POL Seal of Olgierd (1371).svg","creator":"Guccee This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2022-05-18","dateStart":null,"dateEnd":null,"width":512,"height":512,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec New SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Unspec SVG created with Inkscape","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"User:Guccee/Graphics","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:21.524680+03:00","reviewedAt":"2026-07-18T21:28:29.526486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas skydas su stilizuotu ženklu ir heraldinė kompozicija.","metadataEvidence":"Pavadinime nurodytas Olgierd antspaudas, o apraše – istorinis 1371 m. Lietuvos didžiojo kunigaikščio antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesiogiai vaizduoja Algirdo valdovo antspaudą.","isPrimary":0,"identityVerified":true},{"mediaId":"m-51dc4aece1a0de4a0916e633","title":"Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg","caption":"Algirdo portretas, sukurtas Józefo Oziębłowskio XIX a. 5-ajame dešimtmetyje.","originalTitle":"Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Белорусская национальная библиотека","dateDisplay":"1840s date QS:P,+1840-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":472,"height":527,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Algirdas in engravings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Józef Oziębłowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Retrospective portraits","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Algirdas.md","title":"Algirdas (Lietuvos valdovas)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T10:53:14.497274+03:00","reviewedAt":"2026-07-18T21:28:29.516702+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karys-valdovas su šalmu, plunksnų kuodu, šarvais ir ginklu.","metadataEvidence":"Pavadinime ir apraše įvardytas Lietuvos didžiojo kunigaikščio Algirdo portretas.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis Algirdo portretas.","isPrimary":0,"identityVerified":true}]
+entity_id: "ent-5b3136ec3f5a6258255bb695"
+canonical_name: "Algirdas (Lietuvos valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Algirdas","Algirdas (Lietuvos valdovas)","Algirdas (Lietuvos valdovas, XIV a.)","Algirdo","Algirdui","Olgierd"]
+sameAs: ["https://www.wikidata.org/entity/Q336754"]
+canonical_biography: "Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais. Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti. Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus."
 ---
 # Algirdas (Lietuvos valdovas)
 
 ## Santrauka
 
-Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais. Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais. Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti.
+Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais. Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti. Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
 
 ## Vaidmenys
 
@@ -80,29 +82,24 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 
 ## Teiginiai
 
-<a id="claim-t-05157"></a>
+<a id="claim-t-05156"></a>
 - t-001
   teiginys: "Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
   temporaliniai_duomenys: "mirties data: iki 1385 m.; mirties data: 1259 m.; mirties data: 1377 m.; mirties data: 1382 m.; mirties data: 1385 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip mirties data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160302
+    - c-179470
 
 <a id="claim-t-05158"></a>
 - t-002
   teiginys: "Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -115,11 +112,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-04145
+    - c-179450
 
 <a id="claim-t-05159"></a>
 - t-003
   teiginys: "Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_teritorija -> Kijevo Rusia: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -133,11 +131,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160310
+    - c-179457
 
 <a id="claim-t-10070"></a>
 - t-004
   teiginys: "Algirdas vedė gerai organizuotą Lietuvos kariuomenę, kuri prie Mėlynųjų Vandenų sutriuškino su lietuviais konkuravusius mongolus."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-14 07:53"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.87"
   ryšio_patikimumo_lygis: "aukstas"
@@ -148,17 +147,14 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   ryšio_paaiskinimas: "Kariuomenė, vedama Algirdo, sutriuškino mongolus, todėl tiesiogiai pagrįstas karinis santykis prieš mongolus."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Mongolai (0.87)"
-  temporaliniai_duomenys: "įvykio data: 1328 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-160290
     - c-179425
 
 <a id="claim-t-10071"></a>
 - t-005
   teiginys: "1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mongolai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -179,7 +175,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-10072"></a>
 - t-006
   teiginys: "Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -194,11 +190,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-41820
+    - c-179429
 
 <a id="claim-t-10666"></a>
 - t-007
   teiginys: "Algirdas valdė Krėvą ir Vitebską."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Krėva: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -208,16 +205,17 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginys aiškiai sako, kad Algirdas valdė Krėvą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Krėva (0.96); Algirdas (Lietuvos valdovas) valdė Vitebskas (0.96)"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Vitebskas (0.96); Algirdas (Lietuvos valdovas) valdė Krėva (0.96)"
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160292
+    - c-179432
     - c-21572
 
 <a id="claim-t-10667"></a>
 - t-008
   teiginys: "Kęstučiui užėmus Vilnių, Algirdas gavo valdyti Vilniaus kunigaikštystę."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Julijona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -234,7 +232,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-10670"></a>
 - t-009
   teiginys: "1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kijevas: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -255,7 +253,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-10671"></a>
 - t-010
   teiginys: "Algirdas vedė Julijoną, siekdamas sąjungininko prieš Maskvą."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -268,11 +266,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-160323
+    - c-179463
 
 <a id="claim-t-10672"></a>
 - t-011
   teiginys: "Algirdas buvo pagonis ir 1377 m. buvo sudegintas Vilniuje pagal pagonių papročius."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -282,16 +281,15 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=49"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160312
+    - c-179438
 
 <a id="claim-t-176274"></a>
 - t-012
   teiginys: "Algirdas buvo Gedimino sūnus ir Jogailos tėvas."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Gediminas: 0.97"
   ryšio_patikimumo_lygis: "aukstas"
@@ -307,10 +305,29 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-160322
     - c-179439
 
-<a id="claim-t-176276"></a>
+<a id="claim-t-176275"></a>
 - t-013
+  teiginys: "1440 m. privilegijoje Vilniaus miestiečių laisva prekyba be muito vadinta Algirdo ir jo įpėdinių suteiktos laisvės atnaujinimu."
+  atnaujinta: "2026-10-14 07:53"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179433
+    - c-160283
+    - c-179446
+
+<a id="claim-t-176276"></a>
+- t-014
   teiginys: "Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -325,49 +342,10 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-160309
     - c-179427
 
-<a id="claim-t-176279"></a>
-- t-014
-  teiginys: "Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo Algirdo žygių kryptį į Maskvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.84); Algirdas (Lietuvos valdovas) surengė žygį į Algirdo žygiai į Maskvą (0.82)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-160298
-
-<a id="claim-t-176281"></a>
-- t-015
-  teiginys: "1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kijevas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Algirdas paėmė Kijevą į savo valdžią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Kijevas (0.92); Algirdas (Lietuvos valdovas) kariavo prieš Totoriai (0.90); Algirdas (Lietuvos valdovas) surengė žygį į Mėlynųjų Vandenų mūšis (1362 m.) (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1365 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata."
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-160316
-
 <a id="claim-t-176282"></a>
-- t-016
+- t-015
   teiginys: "Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Severskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -383,9 +361,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179466
 
 <a id="claim-t-176283"></a>
-- t-017
+- t-016
   teiginys: "Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_teritorija -> Kijevo Rusia: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -399,12 +377,31 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-160287
+    - c-179444
     - c-160288
+    - c-179474
+
+<a id="claim-t-176284"></a>
+- t-017
+  teiginys: "1440 m. privilegijoje Vilniui atnaujintos senos laisvės, suteiktos Algirdo ir jo įpėdinių."
+  atnaujinta: "2026-10-14 07:53"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179433
 
 <a id="claim-t-176287"></a>
 - t-018
   teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo į Algirdo rankas."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vilnius: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -419,11 +416,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-160283
     - c-179446
+    - c-179467
 
 <a id="claim-t-176288"></a>
 - t-019
   teiginys: "Algirdo ir Kęstučio palaikų deginimo aprašymai išliko istoriniuose šaltiniuose."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -435,12 +433,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-160315
+    - c-179426
 
 <a id="claim-t-176289"></a>
 - t-020
   teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-14 07:53"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vilnius: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -455,11 +453,32 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-160319
     - c-179430
+    - c-179433
+
+<a id="claim-t-176291"></a>
+- t-021
+  teiginys: "Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus."
+  atnaujinta: "2026-10-14 07:53"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mongolai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kariuomenė, vedama Algirdo, sutriuškino mongolus, todėl santykis su mongolais yra karinis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Mongolai (0.87)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-179425
+    - c-167113
+    - c-179471
 
 <a id="claim-t-176292"></a>
-- t-021
+- t-022
   teiginys: "Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -470,18 +489,14 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad 1345–1377 m. Lietuva buvo Algirdo valdymo laikotarpiu."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Lietuva (0.90); Algirdas (Lietuvos valdovas) valdė teritoriją Kijevo Rusia (0.71)"
-  temporaliniai_duomenys: "įvykio data: 1345-1377; įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata."
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-160311
     - c-179431
 
 <a id="claim-t-176293"></a>
-- t-022
+- t-023
   teiginys: "Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vitebskas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -495,11 +510,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-160296
+    - c-179455
 
 <a id="claim-t-176294"></a>
-- t-023
+- t-024
   teiginys: "1377 m. birželio pabaigoje Algirdas su žmona ir vaikais buvo Vilniuje, kai priešai sustojo prie miesto."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -516,47 +532,37 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-160306
     - c-179442
 
-<a id="claim-t-176299"></a>
-- t-024
-  teiginys: "Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine."
-  atnaujinta: "2026-08-06 20:25"
+<a id="claim-t-176298"></a>
+- t-025
+  teiginys: "Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi."
+  atnaujinta: "2026-10-13 12:10"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Brasta: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179462
+
+<a id="claim-t-176299"></a>
+- t-026
+  teiginys: "Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine."
+  atnaujinta: "2026-10-14 07:53"
+  sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-160301
     - c-179423
 
-<a id="claim-t-176300"></a>
-- t-025
-  teiginys: "Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Krėva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys ir citata tiesiogiai nurodo, kad Algirdas viešpatavo Krėvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė miestą Vitebskas (0.86); Algirdas (Lietuvos valdovas) valdė miestą Krėva (0.86)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-160296
-    - c-179455
-
 <a id="claim-t-176301"></a>
-- t-026
+- t-027
   teiginys: "Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir sugrąžinti Lietuvai vakarines baltų žemes."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -575,21 +581,30 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179429
 
 <a id="claim-t-176302"></a>
-- t-027
+- t-028
   teiginys: "Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-10-14 07:53"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini prekių mainus Vilniuje tarp Maskvos ir kitų miestų pirklių."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vilnius prekiavo su Maskva (0.74); Vilnius prekiavo su Ryga (0.74)"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-167224
-    - c-160297
     - c-179434
+    - c-160319
+    - c-179430
+    - c-179433
 
 <a id="claim-t-176304"></a>
-- t-028
+- t-029
   teiginys: "Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -605,9 +620,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179428
 
 <a id="claim-t-176305"></a>
-- t-029
+- t-030
   teiginys: "Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo tikėjimo apeigas."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-14 07:53"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -618,12 +633,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-160308
+    - c-179467
 
 <a id="claim-t-176310"></a>
-- t-030
+- t-031
   teiginys: "Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:10"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kijevas: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -634,18 +649,14 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas prijungė Kijevą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Kijevas (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1340 m.; įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia šaltinyje nurodytą istoriografinę nuomonę."
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-160303
-    - c-185990
+    - c-179436
 
 <a id="claim-t-176311"></a>
-- t-031
+- t-032
   teiginys: "Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -664,35 +675,10 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-160299
     - c-179465
 
-<a id="claim-t-183725"></a>
-- t-032
-  teiginys: "Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mongolai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Algirdo vedama Lietuvos kariuomenė sutriuškino mongolus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Mongolai (0.87)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1328 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia faktą, bet pradiniame teiginyje yra antraštės triukšmo."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-167113
-    - c-160290
-
 <a id="claim-t-183838"></a>
 - t-033
   teiginys: "Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -709,11 +695,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-167223
+    - c-179468
 
 <a id="claim-t-184664"></a>
 - t-034
   teiginys: "Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -734,7 +721,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-184665"></a>
 - t-035
   teiginys: "Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -754,7 +741,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-184666"></a>
 - t-036
   teiginys: "Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -775,7 +762,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-184667"></a>
 - t-037
   teiginys: "Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -796,7 +783,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 <a id="claim-t-184668"></a>
 - t-038
   teiginys: "Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -813,10 +800,33 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-168029
 
-<a id="claim-t-184670"></a>
+<a id="claim-t-184669"></a>
 - t-039
+  teiginys: "Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzkariavo -> Kijevas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Algirdas peržengė Kijevo kunigaikštystės sienas, sumušė svetimšalius ir išstūmė juos iš šių žemių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užkariavo Volynė (0.78)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168025
+    - c-168030
+    - c-178673
+
+<a id="claim-t-184670"></a>
+- t-040
   teiginys: "Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -831,32 +841,15 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
+    - c-168025
+    - c-168027
+    - c-168028
     - c-168031
-
-<a id="claim-t-190846"></a>
-- t-040
-  teiginys: "Narbutas mini Algirdo privilegijos nuorašą, kuriuo patvirtinta riteriška kilmė ir herbas su strėlių ryšuliu raudoname lauke."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-173728
 
 <a id="claim-t-193617"></a>
 - t-041
   teiginys: "Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -865,11 +858,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-176288
+    - c-179451
 
 <a id="claim-t-193618"></a>
 - t-042
   teiginys: "O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -878,23 +872,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-176289
-
-<a id="claim-t-193891"></a>
-- t-043
-  teiginys: "APIE DIDŽIOJO KUNIGAIKŠČIO ALGIRDO 2YG| 1 PODOLĘ, TOTORIŲ SUMUŠIMA IR KARIJOTO GEDIMINAICIO ŠONŲ KARIJOTAICIŲ ĮSIGALĖJIMĄ PODOLĖJE 1351 metai."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176516
+    - c-179418
 
 <a id="claim-t-194221"></a>
-- t-044
+- t-043
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -902,11 +885,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176822
+    - c-179443
 
 <a id="claim-t-196416"></a>
-- t-045
+- t-044
   teiginys: "Todėl Algirdas įsakė kariuomenei sustoti ir pasirengti kau tynėms."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -916,9 +900,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-168026
 
 <a id="claim-t-196417"></a>
-- t-046
+- t-045
   teiginys: "Apvalęs Podolę nuo totorių, Algirdas atidavė šį kraštą savo giminaičiams, brolio Karijoto sūnums — Aleksandrui, Konstantinui, Teodorui ir Jurgiui, iš ku rių buvo susilaukęs pagalbos per šį karą."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -928,9 +912,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-178673
 
 <a id="claim-t-196418"></a>
-- t-047
+- t-046
   teiginys: "Algirdas pradėjo karą prieš Teodorą Karijotaitį, užėmė kelias Podolės pilis ir, paskelbęs visą Podolę savo valda, jos seniūnu paskyrė Goštautą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -941,9 +925,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-168028
 
 <a id="claim-t-196419"></a>
-- t-048
+- t-047
   teiginys: "Algirdas ir Aleksandras Karijotaitis, padaliję kariuomenę keliomis žygio voromis, nuniokojo Prūsijos vietas ir sugriovė Tilžę bei Ragainę."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -954,9 +938,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-168029
 
 <a id="claim-t-196420"></a>
-- t-049
+- t-048
   teiginys: "Algirdas ir Kęstutis po penkias savaites trukusių antpuolių užėmė ir ligi pamatų sugriovė prie Kauno buvusią kryžiuočių pilį."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -966,24 +950,10 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-178675
 
-<a id="claim-t-196809"></a>
-- t-050
-  teiginys: "Lietuvos metraštis Algirdą vadina didžiuoju kunigaikščiu ir nurodo, kad Teodoro Karijotaičio įsikūrimo Podolėje metu jis kunigaikščiavo Lietuvoje ir Rusioje."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176516
-    - c-179435
-
 <a id="claim-t-197961"></a>
-- t-051
+- t-049
   teiginys: "Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
   susije_objektai: "mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
@@ -993,9 +963,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179452
 
 <a id="claim-t-197964"></a>
-- t-052
+- t-050
   teiginys: "Kojelavičiaus pasakojime Algirdas, žmonos Julijonos noru sutikęs priimti krikščionybę, rusams Vitebske pastatė dvi šventoves."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1015,42 +985,10 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-168027
 
-<a id="claim-t-197977"></a>
-- t-053
-  teiginys: "Algirdas prieš trijų kunigaikščių vedamą kariuomenę savo pajėgas padalijo į penkias dalis ir išrikiavo jas puslankiais."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-168026
-
-<a id="claim-t-197978"></a>
-- t-054
-  teiginys: "Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata palaiko aiškų faktą apie Algirdą, bet pradinis sakinys yra kontekstinis ir triukšmingas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Lietuva; mentioned_place: Perudžija; mentioned_place: Poznanė; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-185991
-
 <a id="claim-t-197980"></a>
-- t-055
+- t-051
   teiginys: "Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys gramatiškas ir tiesiogiai atitinka citatos faktą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva"
@@ -1066,32 +1004,10 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-36244
 
-<a id="claim-t-197981"></a>
-- t-056
-  teiginys: "1440 m. privilegijoje Vilniui atnaujintos senos laisvės, suteiktos Algirdo ir jo įpėdinių."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Algirdo suteiktų laisvių atnaujinimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Algirdo suteiktų laisvių atnaujinimą."
-  ryšio_patikimumas: "valde -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad 1345–1377 m. Lietuva buvo Algirdo valdymo laikotarpiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179433
-
 <a id="claim-t-197984"></a>
-- t-057
+- t-052
   teiginys: "Algirdas ir Kęstutis pasidalijo Lietuvos vadovavimo darbą pusiau."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalinta archajiška dalelytė ir suformuluotas glaustesnis enciklopedinis sakinys."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Vilnius"
@@ -1105,33 +1021,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-185992
-
-<a id="claim-t-197989"></a>
-- t-058
-  teiginys: "Lietuvos metraštis Algirdą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis su Lietuvos pajėgomis išžygiavo į Podolę, o Teodoras Karijotaitis pabėgo pas vengrus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Titulas ir kronikinis pasakojimas palikti su atribucija. Pašalinti OCR lūžiai, o veikėjai ir veiksmai suformuluoti aiškiai."
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Algirdas ir Kęstutis sutarė dalytis valdžią, todėl jų politinė sąjunga tiesiogiai paremta tekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179464
+    - c-36243
 
 <a id="claim-t-197990"></a>
-- t-059
+- t-053
   teiginys: "Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-14 07:53"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata pagrindžia faktą, bet teiginį reikia pataisyti į glaustą enciklopedinį sakinį."
   susije_objektai: "mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]"
@@ -1141,9 +1036,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179447
 
 <a id="claim-t-197994"></a>
-- t-060
+- t-054
   teiginys: "Algirdas buvo vyriausias iš brolių."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra trumpas, gramatiškas ir paremtas citatos informacija."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Vilnius"
@@ -1159,43 +1054,22 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-179420
 
-<a id="claim-t-198004"></a>
-- t-061
-  teiginys: "Prieduose cituojamas pasakojimas teigia, kad senelis Algirdui skyrė valdžią Vitebske, o vėliau Algirdas su Kęstučiu susitarė užimti Vilnių ir išvyti Jaunutį."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintas puslapio ir priedo triukšmas, išskleisti Algirdo, Kęstučio ir Jaunučio veiksmai. Kadangi tai kronikinis pasakojimas apie valdžią, palikta atribucija."
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-179437
-
 <a id="claim-t-198011"></a>
-- t-062
+- t-055
   teiginys: "Nuo Algirdo laikų įsigalėjusios tradicijos padėjo Vytautui prijungti rusų žemes."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pirminis teiginys per ilgas ir fragmentiškas; citata leidžia glaustai nusakyti priežastį."
   susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-185993
+    - c-179460
 
 <a id="claim-t-200967"></a>
-- t-063
+- t-056
   teiginys: "Taip graudinant toj pusėj lenkus, antroj pusėj Algirdas, susinėręs su totoriais, ištrėmė juos iš Pa daliju, valakus trakuojančius sudraudė ir jiems urėdu, arba gaspadorium, sūnų Liubartą perdėjo, ant galo nusiaubęs visą kraštą tarp Dunojaus ir Dnestro."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1206,9 +1080,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-184317
 
 <a id="claim-t-200968"></a>
-- t-064
+- t-057
   teiginys: "Lietuvių dešinuoju sparnu rykavo Algirdas, o kairiuoju Kęstutis."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1218,9 +1092,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-184318
 
 <a id="claim-t-201514"></a>
-- t-065
+- t-058
   teiginys: "Po Algirdo mirties 1377 m. Lietuvoje įsiliepsnojo vidaus kovos dėl valdžios."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1230,9 +1104,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-184861
 
 <a id="claim-t-203135"></a>
-- t-066
+- t-059
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ rašo, kad 1377 m. birželio pabaigoje prie Vilniaus sustojus pajėgoms, mieste su žmona ir vaikais buvo Algirdas."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai"
   temporaliniai_duomenys: "įvykio data: 1377 m."
@@ -1242,9 +1116,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-160306
 
 <a id="claim-t-203136"></a>
-- t-067
+- t-060
   teiginys: "Algirdas viešpatavo Vitebske ir Krėvoje ir dar savo tėvui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: Krėva; llm_object: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Krėva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva"
   semantiniai_rysiai: "[[objektai/asmenys/Algirdas|Algirdas]] valdė miestą Vitebskas; [[objektai/asmenys/Algirdas|Algirdas]] valdė miestą Krėva"
@@ -1253,9 +1127,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-160296
 
 <a id="claim-t-203205"></a>
-- t-068
+- t-061
   teiginys: "A. Šapokos (red.) „Lietuvos istorijoje“ teigiama, kad Algirdas vedė Tverės kunigaikščio seserį Julijoną, norėdamas turėti sąjungininką prieš Maskvą."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Tverė"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
@@ -1263,9 +1137,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179463
 
 <a id="claim-t-203288"></a>
-- t-069
+- t-062
   teiginys: "Michał Baliński rašo, kad Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata palaiko faktą, bet pradinis teiginys yra nutrūkęs ir su OCR klaidomis."
   susije_objektai: "llm_object: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva"
@@ -1275,9 +1149,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179455
 
 <a id="claim-t-203293"></a>
-- t-070
+- t-063
   teiginys: "Algirdas derybose reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]"
   temporaliniai_duomenys: "įvykio data: 1358 m.; įvykio data: 1360 m."
@@ -1287,9 +1161,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179429
 
 <a id="claim-t-203304"></a>
-- t-071
+- t-064
   teiginys: "Knygoje „Lietuvos istorija“ teigiama, kad Algirdo ir Kęstučio palaikų deginimo aprašymai išliko istoriniuose šaltiniuose."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Perrašyta į aiškesnį sakinį apie Algirdą, pašalinant neenciklopedinę pradžią."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva"
@@ -1297,25 +1171,10 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-179426
 
-<a id="claim-t-203431"></a>
-- t-072
-  teiginys: "Šaltinyje „Petras Dusburgietis, Prūsijos žemės kronika“ teigiama, kad 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata."
-  susije_objektai: "llm_object: Kijevas; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Vladimiras; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Algirdas|Algirdas]] užėmė Kijevas; [[objektai/asmenys/Algirdas|Algirdas]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]; [[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]"
-  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1365 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-179475
-
 <a id="claim-t-203467"></a>
-- t-073
+- t-065
   teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio „Lietuvos istorijoje“ teigiama, kad Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Reikia pašalinti platesnį interpretacinį kontekstą ir palikti faktą apie Algirdą."
   susije_objektai: "mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
@@ -1323,22 +1182,10 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-179462
 
-<a id="claim-t-203493"></a>
-- t-074
-  teiginys: "Veikale „Lietuvos istorija“ teigiama, kad Lietuvos metraščiuose užrašyti Ldk Algirdo žygių į Maskvą siužetai atitinka epinius pasakojimus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys nutrūkęs ir apima kelis siužetus."
-  susije_objektai: "mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_place: Maskva; llm_object: Maskva; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Birutės kalnas; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vilnius; llm_object: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į Maskva; [[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-160298
-
 <a id="claim-t-203538"></a>
-- t-075
+- t-066
   teiginys: "Zenono Ivinskio teigimu, Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas ir citata jį tiesiogiai pagrindžia."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva"
@@ -1347,9 +1194,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179450
 
 <a id="claim-t-203563"></a>
-- t-076
+- t-067
   teiginys: "Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo, interesams."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1359,9 +1206,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179451
 
 <a id="claim-t-203572"></a>
-- t-077
+- t-068
   teiginys: "Michał Baliński Lietuvos istoriją apibūdino kaip „mažai težinomą mums patiems, o Europai visai negirdėtą“, garsią riterių žygiais ir išmintingiausia Mindaugo, Gedimino, Algirdo, Kęstučio, Jogailos bei Vytauto politika, taip pat kaip menkame plote gyvenusios ir pagonybės nuo kitų Europos šalių atskirtos tautos istoriją."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1371,9 +1218,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-179443
 
 <a id="claim-t-206252"></a>
-- t-078
+- t-069
   teiginys: "Algirdas, Teodoro Narbuto vadinamas didžiuoju kunigaikščiu, 1349 m. vedė Julijoną, Tverės kunigaikščio Aleksandro Michailovičiaus dukterį ir Simono giminaitę."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1384,9 +1231,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188867
 
 <a id="claim-t-206253"></a>
-- t-079
+- t-070
   teiginys: "Teodoro Narbuto vadinamas didžiuoju kunigaikščiu, Algirdas, Kęstučio ir Liubarto lydimas, vadovavo Lietuvos, Lietuvos Rusios ir totorių kariaunai, užėmusiai Belzą, Kulmą, Vladimirą ir Brastą."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1397,9 +1244,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188868
 
 <a id="claim-t-206254"></a>
-- t-080
+- t-071
   teiginys: "Teodoro Narbuto pasakojimu, Algirdas pasiuntė pasiuntinius, kurie sudarė taikos sutartį su Simonu; šis, nuo Visegrodo pasiekęs Ugrą, ten sustojo ir pakluso Algirdo reikalavimams."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1410,9 +1257,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188869
 
 <a id="claim-t-206255"></a>
-- t-081
+- t-072
   teiginys: "Algirdas, anot Teodoro Narbuto, siekdamas apsaugoti savo valstybę nuo karų su krikščionimis, pradėjo derybas su imperatoriumi Karoliu ir pasiuntė Kęstučio vadovaujamą pasiuntinybę."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1423,9 +1270,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188870
 
 <a id="claim-t-206256"></a>
-- t-082
+- t-073
   teiginys: "Teodoro Narbuto pasakojimu, Algirdas su Rusios gvardija atžygiavo palei Nerį ir susijungė su Kęstučio kariauna, rengdamasis jai padėti."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1436,9 +1283,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188871
 
 <a id="claim-t-206257"></a>
-- t-083
+- t-074
   teiginys: "Gavęs žinią apie nepajėgius totorių antpuoliams pasipriešinti vietos valdovus, Teodoro Narbuto vadinamas didžiuoju kunigaikščiu Algirdas įsakė kariams stoti į kovą, Kęstutį palikdamas saugoti sienos nuo kryžiuočių ir pats patraukdamas į Dnepro žemupį."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1449,9 +1296,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188872
 
 <a id="claim-t-206258"></a>
-- t-084
+- t-075
   teiginys: "Teodoro Narbuto pasakojimu, Algirdas pats nepajudėjo su kariuomene, tačiau nedraudė Kęstučiui, Vytautui, Andriui ir Dmitrijui Kaributaičiui veikti kunigaikščio Mykolo naudai ir nedavė jiems aiškių nurodymų."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1462,9 +1309,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188873
 
 <a id="claim-t-206259"></a>
-- t-085
+- t-076
   teiginys: "Teodoro Narbuto vertinimu, Algirdas dėl nuosaikumo, žmoniškumo, tolerancijos ir karo veiksmų pelnė šlovę bei žmonių prieraišumą, o jo valdymas rėmėsi teisingumu."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1475,9 +1322,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188874
 
 <a id="claim-t-206260"></a>
-- t-086
+- t-077
   teiginys: "Teodoro Narbuto apibūdinamas Algirdas nuo jaunystės nevartojo midaus, vyno ar kitų gėrimų, išskyrus vaistus, buvo kuklus ir išsiskyrė išmintimi, nuovoka, saiku bei grožiu."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1488,9 +1335,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - c-188875
 
 <a id="claim-t-206261"></a>
-- t-087
+- t-078
   teiginys: "Teodoro Narbuto pasakojimu, 1342 m., Algirdo valdymo pradžioje, vienuolis Nestoras, Marijos Algirdienės rūmų kapelionas, į krikščionybę atvertė dvariškius brolius Kuklėjų ir Michlėjų, Algirdo numylėtinius."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1500,8 +1347,391 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindžia:
     - c-188876
 
+<a id="claim-t-210956"></a>
+- t-079
+  teiginys: "APIE DIDŽIOJO KUNIGAIKŠČIO ALGIRDO 2YG| 1 PODOLĘ, TOTORIŲ SUMUŠIMA IR KARIJOTO GEDIMINAICIO ŠONŲ KARIJOTAICIŲ ĮSIGALĖJIMĄ PODOLĖJE 1351 metai."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-193415
+
+<a id="claim-t-211115"></a>
+- t-080
+  teiginys: "Tuomet didysis kunigaikštis Algirdas Podolės Ka menecą davė valdyti savo vardu Goštautui Goštautaičiui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194097
+
+<a id="claim-t-211145"></a>
+- t-081
+  teiginys: "Paskui atvyko kunigaikštis Algirdas prie Vilniaus pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių, kadangi jis (Algirdas) buvo jo vyriausias brolis, atida vė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo jie viską pusiau."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193626
+
+<a id="claim-t-211210"></a>
+- t-082
+  teiginys: "Lietuvos metraštis Algirdą vadina didžiuoju kunigaikščiu ir nurodo, kad Teodoro Karijotaičio įsikūrimo Podolėje metu jis kunigaikščiavo Lietuvoje ir Rusioje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193415
+
+<a id="claim-t-212022"></a>
+- t-083
+  teiginys: "Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė vui kunigaikščiui Kęstučiui—Trakuose."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193152
+
+<a id="claim-t-212032"></a>
+- t-084
+  teiginys: "Algirdas sumušė totorius prie Mėlynųjų Vandenų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193392
+
+<a id="claim-t-212678"></a>
+- t-085
+  teiginys: "Narbutas mini Algirdo privilegijos nuorašą, kuriuo patvirtinta riteriška kilmė ir herbas su strėlių ryšuliu raudoname lauke."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys apie Algirdo privilegijos nuorašą ir jos patvirtintą herbą. Sąmoningai neperkelti papildomi herbo elementai ir Ostapo Kropotkovo kontekstas."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Luckas; mentioned_place: Voluinė"
+  ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mongolai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Algirdo vedama Lietuvos kariuomenė sutriuškino mongolus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-196902
+
+<a id="claim-t-213039"></a>
+- t-086
+  teiginys: "Švitrigailos privilegijoje buvo atnaujinta Algirdo privilegija."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196902
+
+<a id="claim-t-217222"></a>
+- t-087
+  teiginys: "Išjos sūnūs: Algirdas (Olgerd, tai reiškia: Olgos meilė4 5), gimęs 1296 metais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198916
+
+<a id="claim-t-218179"></a>
+- t-088
+  teiginys: "Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys susietas su Algirdu per jo žmoną Julijoną. Religinis maldyklos ir cerkvės kontekstas paliktas su Narbuto atribucija."
+  susije_objektai: "llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Naugardukas; mentioned_place: Turovas"
+  semantiniai_rysiai: "[[objektai/asmenys/Julijona|Julijona]] buvo žmona [[objektai/asmenys/Algirdas|Algirdas]]"
+  temporaliniai_duomenys: "įkūrimo data: 1331 m.; įkūrimo data: apie 1331 m.; įkūrimo data: 1331 m.; įkūrimo data: apie 1331 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Julijona buvo žmona Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys susietas su Algirdu per jo žmoną Julijoną. Religinis maldyklos ir cerkvės kontekstas paliktas su Narbuto atribucija."
+  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Julijona: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo Julijoną kaip Algirdo žmoną."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-199181
+
+<a id="claim-t-219151"></a>
+- t-089
+  teiginys: "Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199492
+
+<a id="claim-t-219782"></a>
+- t-090
+  teiginys: "Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išskleistas Algirdo ryšys su motina ir gimimo data. Vardo reikšmė palikta su Narbuto atribucija, nepridedant kitų genealoginių duomenų."
+  susije_objektai: "mentioned_place: Smolenskas"
+  temporaliniai_duomenys: "įvykio data: 1296 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas Algirdo ryšys su motina ir gimimo data. Vardo reikšmė palikta su Narbuto atribucija, nepridedant kitų genealoginių duomenų."
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdas (Lietuvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-200732
+
+<a id="claim-t-221210"></a>
+- t-091
+  teiginys: "1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1365 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-206312
+
+<a id="claim-t-225513"></a>
+- t-092
+  teiginys: "Šaltinyje „Petras Dusburgietis, Prūsijos žemės kronika“ teigiama, kad 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata."
+  susije_objektai: "llm_object: Kijevas; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Vladimiras; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Algirdas|Algirdas]] užėmė Kijevas; [[objektai/asmenys/Algirdas|Algirdas]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]; [[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]"
+  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1365 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206312
+
+<a id="claim-t-233160"></a>
+- t-093
+  teiginys: "Narbutas rašo, kad plėšikaujančios klajoklių totorių gaujos vėl užplūdo dešinįjį Dniepro krantą ir Bugo žemupį, o Algirdas jas išvijo po pergalės prie Mėlynųjų Vandenų; tuomet Lietuvos valdžia išplito iki Dono."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:17Z"
+  pagrindžia:
+    - c-215980
+
 ## Reikšmingi paminėjimai
-- c-042
+- c-012
+  santrauka: 'Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ## Puslapis 21
+
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
+
+    1328 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-064
+    - t-055
+
+- c-013
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ten puikiai pavaišinti, dosniai apdovanoti,
+    pagaliau paliko miestą ir šalį.
+    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
+    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
+    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
+    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
+    Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-080
+
+- c-017
+  santrauka: 'Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
+    pasakojimai užrašyti XV–XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-118
+
+- c-020
+  santrauka: 'Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-022
+  santrauka: 'Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
+    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
+    Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
+    Vidurio ir Rytų Europos jėga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-024
+  santrauka: 'Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo tikėjimo apeigas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-027
+  santrauka: 'Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdant Ldk
+    Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia
+    savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva
+    pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes
+    teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-029
+  santrauka: 'Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-030
+  santrauka: 'Algirdo ir Kęstučio palaikų deginimo aprašymai išliko istoriniuose šaltiniuose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdovai buvo deginami iki pat
+    krikšto: šaltiniuose išliko Lietuvos didžiųjų kunigaikščių Algirdo ir Kęs-
+    tučio palaikų deginimo aprašymai.
+    Daugelis tautų sukūrė epą, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+- c-041
   santrauka: 'Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1523,10 +1753,10 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- t-057
-    - t-096
+- t-052
+    - t-087
 
-- c-043
+- c-042
   santrauka: 'Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1551,7 +1781,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   statusas: verified
 
-- c-044
+- c-043
   santrauka: 'Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1585,25 +1815,164 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-045
-  santrauka: 'Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+- c-052
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kartą, kai Vitolfas puotavo pas vieną karalių,
-    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
-    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
-    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
-    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
-    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
-    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
-    nugalėjo ir paėmė nesuskaičiuojamus turtus.
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
+    vos žemių dviejų kun.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-046
-  santrauka: 'Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.'
+
+- c-092
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
+    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
+    Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
+    Vidurio ir Rytų Europos jėga. Akivaizdu, kad LDK niekada nebūtų ga-
+    lėjusi užvaldyti Kijevo Rusios erdvių, jei ne mongolų invazija – Lietuva
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- c-093
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tad
+    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
+    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
+    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
+    kunigaikščio Algirdo. Pasiuntiniai rado popiežių Perudžijoje
+    (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę
+    (1388. IV.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- c-094
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Algirdas gi su Kęstučiu pasidalino
+    sunkų krašto vadovavimo darbą pusiau. Vienas, sėdėdamas
+    didž. kung. soste, nusigręžė vykdyti Lietuvos uždavinius ry­
+    tuose, o antras pasiėmė ginti ją nuo germanų pasaulio ant­
+    plūdžio. Kęstučio sritis apėmė visą kryžiuočių pasienį, kurio
+    šiaurėje buvo Žemaitija,, o pietuose — L. Brastos sritis.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- c-095
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Naugardu ir Maskva. Teko dabar jam ir naujų Rusijos
+    žemių.
+    Toks Vytauto pasisekimas prijungiant rusų žemes įvyko
+    dėl stipriai įsigalėjusių tradicijų nuo Algirdo laikų; tai sustiprino
+    ir jo būklę, ir galybę Lietuvoj, kas negalėjo neatsiliepti į
+    jo elgesį su Lenkija.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- c-106
+  santrauka: 'Gedimino arba jo sūnaus Algirdo valdymo metu aplink Lietuvos valstybės branduolį – sostinę – buvo sukurta mūro pilių sistema, apėmusi Medininkus, Krėvą, Lydą ir Trakus.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    t Gediminui ar jo sūnui Algirdui, buvo
+    sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krė-
+    va, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietu
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-107
+  santrauka: 'XIV a. viduryje Algirdas, Alfredo Bumblausko teigimu, suformulavo imperines pretenzijas, pareikšdamas, kad „savaime visa Rusia turėtų priklausyti lietuviams“.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    nors Vokie-
+    čių ordino agresija XIV a. viduryje pasiekė aukščiausią kulminaciją, tuo metu Algirdas
+    suformulavo savo imperines pretenzijas pareikšdamas, kad „savaime visa Rusia turėtų
+    priklausyti lietuviams“. V
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-108
+  santrauka: '1371 m. laiške Konstantinopolio patriarchui Algirdas, Alfredo Bumblausko teigimu, pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės ir kitų kunigaikščių bei prilygindamas Bizantijos imperatoriui.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    as paskutinį Tverės bandymą
+    atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – su-
+    rengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos jau anks-
+    čiau Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“,
+    ir Vilnius nevirto „antruoju Kijevu“. Tačiau neatsitiktinai būtent šių žygių į Maskvą metu
+    1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietuvių imperatoriumi“
+    („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės bei kitų kunigaikščių ir pri-
+    silygindamas Bizantijos imperatoriui. Tai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-112
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    . 2 0
+
+    ## Puslapis 171
+
+    PRIEDAI
+
+    ## Puslapis 172
+
+    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1  vieton
+    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
+    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
+    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
+    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
+    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
+    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
+    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
+    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
+    nutį išvyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-114
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis
+    kunigaikštis Algirdas su visomis Lietuvos pajėgomis
+    išžygiavo į Podolę; išgirdęs apie tai, kunigaikštis Teo­
+    doras Karijotaitis pabėgo iš Podolės žemės pas veng­
+    rus ” , o į miestus įvedė moldavų įgulas. Didysis kuni­
+    gaikštis Algirdas 1 0  pirmiausia nužygiavo prie Bracla-
+    vo 2 0 ;  paėmęs Braclavą, nužygiavo prie Sokoleco2 1 ;  ir,
+    paėmęs Sokolecą, naktį priėjo Kamenecą ir Kamenecą
+    paėmė. O paskui užėmė Smotričių, ir Skalą2 2 , ir Cer-
+    vonogradą * * , užėmė visus miestus, sučiupo kunigaikš­
+    čio Teodoro vaivadą, vardu Nestaną2 1 , tvarkiusį tuos
+    miestus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-118
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tai davė jiems dingstį pasista­
@@ -1622,48 +1991,24 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 - c-120
-  santrauka: 'XIV a. viduryje Algirdas, Alfredo Bumblausko teigimu, suformulavo imperines pretenzijas, pareikšdamas, kad „savaime visa Rusia turėtų priklausyti lietuviams“.'
-  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    nors Vokie-
-    čių ordino agresija XIV a. viduryje pasiekė aukščiausią kulminaciją, tuo metu Algirdas
-    suformulavo savo imperines pretenzijas pareikšdamas, kad „savaime visa Rusia turėtų
-    priklausyti lietuviams“. V
+    Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
+    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
+    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
+    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
+    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
+    nugalėjo ir paėmė nesuskaičiuojamus turtus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-121
-  santrauka: 'Gedimino arba jo sūnaus Algirdo valdymo metu aplink Lietuvos valstybės branduolį – sostinę – buvo sukurta mūro pilių sistema, apėmusi Medininkus, Krėvą, Lydą ir Trakus.'
-  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
-  citata_originali: |
-    t Gediminui ar jo sūnui Algirdui, buvo
-    sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krė-
-    va, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietu
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-122
-  santrauka: '1371 m. laiške Konstantinopolio patriarchui Algirdas, Alfredo Bumblausko teigimu, pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės ir kitų kunigaikščių bei prilygindamas Bizantijos imperatoriui.'
-  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
-  citata_originali: |
-    as paskutinį Tverės bandymą
-    atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – su-
-    rengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos jau anks-
-    čiau Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“,
-    ir Vilnius nevirto „antruoju Kijevu“. Tačiau neatsitiktinai būtent šių žygių į Maskvą metu
-    1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietuvių imperatoriumi“
-    („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės bei kitų kunigaikščių ir pri-
-    silygindamas Bizantijos imperatoriui. Tai
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+
 ## Citatos
 
 - id: c-00136
@@ -1736,11 +2081,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     gavo valdyti Zaslaulį. Algirdas gi su Kęstučiu pasidalino
     sunkų krašto vadovavimo darbą pusiau.
   statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-052
+
 - id: c-36244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1756,12 +2103,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     prie Rytų Bažnyčios praeitis, tradicijos, tautybė ir net tai, kad
     iš jos giminės buvo stačiatikių Bažnyčios šventųjų.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-055
+    - t-051
 
 - id: c-41820
   sudarytojas: "Karolis Zikaras"
@@ -1785,7 +2132,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-005
     - t-006
-    - t-026
+    - t-027
 
 - id: c-160283
   autorius: "Michał Baliński"
@@ -1808,6 +2155,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-013
     - t-018
 
 - id: c-160284
@@ -1831,7 +2179,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-029
 
 - id: c-160286
   redaktorius: "A. Šapoka"
@@ -1871,7 +2219,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-016
 
 - id: c-160288
   autorius: "Zenonas Ivinskis"
@@ -1891,80 +2239,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-016
 
-- id: c-160290
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 21"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
-  citata_originali: |
-    ## Puslapis 21
-
-    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
-    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
-    mongolus prie Mėlynųjų vandenų.
-
-    1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
-    sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
-    (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
-    gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
-    sios Rusios kunigaikštijų.
-  statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-032
-
-- id: c-160291
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 48-49"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48-49."
-  citata_originali: |
-    Betgi yra ir
-    Rudamina, miestelis, arba bažnyt­
-    kaimis, pietryčiuose, už pusantros
-    mylios nuo miesto.
-    26
-    Kazimiero IV, kai jis buvo dar Lie­
-    tuvos didysis kunigaikštis, privile­
-    gijoje, 1440 metais duotoje Romos
-    katalikų ir stačiatikių tikėjimo Vil­
-    niaus miestiečiams, kuriems leidžia­
-    ma laisvai prekiauti nemokant mui­
-    to mokesčio visoje Lietuvos valsty­
-    bėje, pasakyta, kad tai yra senos lais­
-    vės, senolio Algirdo ir jo įpėdinių
-    suteiktos Vilniui, atnaujinimas. Con­
-    cedimus ac darnus hanc libertatem, quod
-    per totum nostrum Magnum Ducatum
-    Lithuaniae et Russiae nullum thelo-
-    neum a quibuscumque mercantiis darė
-    et solvere tenebuntur; sed juxta consu­
-    etudinem antiquam a Nostris Praede­
-    cessoribus et signanter Serenissimis
-    Principibus Avo videlicet Olgerdo,
-    olim Magno Duce Lithuaniae et Domi­
-    no Vladislao Rege Poloniae, tunc autem
-    32
-
-    ## Puslapis 49
-
-    I  KNYGA
-    padaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos
-    ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
-    gonims skiepyti krikščionišką graikų apeigų tikėjimą.
-  citata_rodoma: "26\nKazimiero IV, kai jis buvo dar Lie­\ntuvos didysis kunigaikštis, privile­\ngijoje, 1440 metais duotoje Romos\nkatalikų ir stačiatikių tikėjimo Vil­\nniaus miestiečiams, kuriems leidžia­\nma laisvai prekiauti nemokant mui­\nto mokesčio visoje Lietuvos valsty­\nbėje, pasakyta, kad tai yra senos lais­\nvės, senolio Algirdo ir jo įpėdinių\nsuteiktos Vilniui, atnaujinimas. Con­\ncedimus ac darnus hanc libertatem, quod\nper totum nostrum Magnum Ducatum\nLithuaniae et Russiae nullum thelo-\nneum a quibuscumque mercantiis darė\net solvere tenebuntur; sed juxta consu­\netudinem antiquam a Nostris Praede­\ncessoribus et signanter Serenissimis\nPrincipibus Avo videlicet Olgerdo,\nolim Magno Duce Lithuaniae et Domi­\nno Vladislao Rege Poloniae, tunc autem\n32\n\n## Puslapis 49\n\nI  KNYGA\npadaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos\nypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­\ngonims skiepyti krikščionišką graikų apeigų tikėjimą."
-  statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-160292
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2009,57 +2285,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-025
-    - t-067
-
-- id: c-160297
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
-  citata_originali: |
-    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
-    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
-    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
-    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
-    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
-    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
-    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
-    jo lankytis tolimose provincijose, kur artimiau susipažino su
-    krikščioniškąja kultūra26.
-  statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-027
-
-- id: c-160298
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 25."
-  citata_originali: |
-    Visų pirma atsirado
-    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
-    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
-    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
-    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
-    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
-    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
-    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
-    pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
-    patvirtina vienalaikiai rašytiniai šaltiniai.
-  statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
-    - t-074
+    - t-023
+    - t-060
 
 - id: c-160299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2084,7 +2311,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-032
 
 - id: c-160300
   autorius: "Michał Baliński"
@@ -2117,34 +2344,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-
-- id: c-160301
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 205"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205."
-  citata_originali: |
-    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
-    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
-    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
-    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
-    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
-    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
-    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
-    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
-    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
-    i
-    Grzybowski knygoje Skarb
-    nieoszacowany O O. Franciszkanów.
-  citata_rodoma: "Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­\nnių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti \nLietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­\nse]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­\ntu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­\nmu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje \nsteigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats \ntapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­\ngi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,\ni\nGrzybowski knygoje Skarb \nnieoszacowany O O."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
+    - t-015
 
 - id: c-160302
   autorius: "Zenonas Ivinskis"
@@ -2169,29 +2369,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-001
 
-- id: c-160303
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 36"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 36."
-  citata_originali: |
-    Mindaugo laikais
-    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
-    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
-    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
-    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
-    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
-    Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
-    Vidurio ir Rytų Europos jėga.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-030
-
 - id: c-160306
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2212,35 +2389,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-066
-
-- id: c-160308
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 42-43"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42-43."
-  citata_originali: |
-    Žr. V\lre- tis buvęs Kęstudo karių suduptas.
-    26
-
-    ## Puslapis 43
-
-    I  KNYGA
-    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
-    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
-    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
-    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
-    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
-    gas. Jau Algirdo viešpatavimo pradžioje Šv.
-  citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-029
+    - t-024
+    - t-059
 
 - id: c-160309
   autorius: "Michał Baliński"
@@ -2281,7 +2431,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-160310
   autorius: "Zenonas Ivinskis"
@@ -2307,27 +2457,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-003
 
-- id: c-160311
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 36"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 36."
-  citata_originali: |
-    Kryžiaus karai prieš Lietuvą iš dalies paaiški-
-    na Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų
-    pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose. Valdant Ldk
-    Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia
-    savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva
-    pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes
-    teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
-
 - id: c-160312
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2346,65 +2475,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-011
 
-- id: c-160313
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 27."
-  citata_originali: |
-    Nors nebus nė vieno kunigaikščio,
-    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
-    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
-    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
-    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
-    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
-    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-160315
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 25"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 25."
-  citata_originali: |
-    mirusiųjų kūnų deginimo mitologija. Valdovai buvo deginami iki pat
-    krikšto: šaltiniuose išliko Lietuvos didžiųjų kunigaikščių Algirdo ir Kęs-
-    tučio palaikų deginimo aprašymai.
-    Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
-    ir didvyrius.
-  statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
-
-- id: c-160316
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
-  citata_originali: |
-    1365 m. Kęstutis,
-    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
-    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
-    belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
-    paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
-    (SRP, 2, 596).
-  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
-
 - id: c-160319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2422,12 +2492,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
     galingiausiu valdovu Šiaurės Europoje.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 18:01"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-020
+    - t-028
 
 - id: c-160322
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2499,7 +2570,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-021
 
 - id: c-167223
   autorius: "Michał Baliński"
@@ -2528,27 +2599,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-033
 
-- id: c-167224
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
-  citata_originali: |
-    Ten puikiai pavaišinti, dosniai apdovanoti,
-    pagaliau paliko miestą ir šalį.
-    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
-    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
-    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
-    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
-    Naugardo, Pskovo, Rygos ir Maskvos pirklių.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-027
-
 - id: c-168025
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2575,6 +2625,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-034
+    - t-039
+    - t-040
 
 - id: c-168026
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2598,8 +2650,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-035
-    - t-045
-    - t-053
+    - t-044
 
 - id: c-168027
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2633,7 +2684,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-036
-    - t-052
+    - t-040
+    - t-050
 
 - id: c-168028
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2682,7 +2734,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-037
-    - t-047
+    - t-040
+    - t-046
 
 - id: c-168029
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2708,7 +2761,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-038
-    - t-048
+    - t-047
 
 - id: c-168030
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2731,10 +2784,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   citata_rodoma: "Algirdas, Lietuvos didysis kuni­\ngaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių\nsienas, pirmas sumušęs svetimšalius ir juos išstūmęs iš\nšių žemių, po to padalijęs brolio Karijoto sūnums kraš­\ntą; šie čia pastatę Smotričiaus, Bakotos, Kameneco ir\nkitas pilis\nir jas sutvirtinę, nesigailėdami didelių iš­\nlaidų. Mirus Konstantinui Karijotaičiui, Podolės kuni­\ngaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.\nKadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš­\nčiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­\nda, paskirdamas vietininku Goštautą."
   statusas: verified
   atnaujinta: "2026-07-29 11:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-039
+
 - id: c-168031
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2762,72 +2817,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   citata_rodoma: "Kas be ko, jie visi neišpasakytai trokštą, kad\nkaralius asmeniškai juos valdytų, tačiau jie to nesitiki,\n511\n\n## Puslapis 510\n\nn es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad\nkaralius ilgam  atitrūktų nuo jų valstybės reikalų. Štai\nto d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­\nd a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,\nSlucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais\nAlgirdo proanūkį. Karalius, g erai žinodamas, kiek rū­\npesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,\nnutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko\ngero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­\nrai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­\nsakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s\nsumanymus, g an a tolim us jų reikalavimams."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-039
-
-- id: c-171401
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
-  citata_originali: |
-    Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
-    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
-  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-171402
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
-  citata_originali: |
-    Viena tokia buvo Didžiojoje
-    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
-    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
-    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
-    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
-    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
-    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
-    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
-    dyklos vietoje įkūrė cerkvę su šventiku.
-  citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-173728
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 510"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
-  citata_originali: |
-    Neseckiui šis herbas, pavadintas Kru-
-    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
-    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
-    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
-    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
-    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
-    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
-    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
-    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2874,33 +2863,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-042
 
-- id: c-176516
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 71"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 71."
-  citata_originali: |
-    O kuni­
-    gaikštį Jurgį moldavai pasikvietė būti jų vaivada ir
-    ten jį nunuodijo M.
-    Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
-    taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
-    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
-    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15
-    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
-    dysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras,
-    paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­
-    klusti didžiajam kunigaikščiui Algirduil7.
-  citata_rodoma: "Kunigaikštis Teodo­\nras išgirdo, kad jo brolių Podolės žemėje nebėra gy­\nvųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15\nO tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­\ndysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras, \npaėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­\nklusti didžiajam kunigaikščiui Algirduil7."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-043
-    - t-050
-
 - id: c-176822
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2945,7 +2907,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-043
 
 - id: c-178673
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2971,7 +2933,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-039
+    - t-045
 
 - id: c-178675
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3002,27 +2965,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-048
 
-- id: c-179417
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 27"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 27."
-  citata_originali: |
-    Nors nebus nė vieno kunigaikščio,
-    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
-    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
-    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
-    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
-    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
-    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
-  statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-179418
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3034,11 +2978,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     ateities planų garantas, pati didžiausia vertybė.
     Kauno sporto halėje 1939 m.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
 - id: c-179420
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3052,34 +2998,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
     gavo valdyti Zaslaulį.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-060
+    - t-054
 
-- id: c-179421
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 223"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 223."
-  citata_originali: |
-    Tuo pačiu bus aptarta ir tų santykių forma,
-    kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
-    to laikais.
-    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
-    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
-    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
-    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
-    (1377).
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-179423
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3105,7 +3030,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-026
 
 - id: c-179425
   sudarytojas: "Karolis Zikaras"
@@ -3131,6 +3056,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+    - t-021
 
 - id: c-179426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3149,7 +3075,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-071
+    - t-019
+    - t-064
 
 - id: c-179427
   autorius: "Michał Baliński"
@@ -3185,12 +3112,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     vada, iš Rusios ir Podolės atkvietęs
     į Vilnių keturiolika Šv.
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-179428
   autorius: "Michał Baliński"
@@ -3208,12 +3135,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     vokiečių raštininko, šiandien negalima suprasti, kokia tai
     buvo vieta.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-029
 
 - id: c-179429
   sudarytojas: "Karolis Zikaras"
@@ -3230,14 +3157,15 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Kryžiuočiai į tai atsakė 1360 m. prasidėjusiomis intensyviomis
     puolamosiomis operacijomis.
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-026
-    - t-070
+    - t-006
+    - t-027
+    - t-063
 
 - id: c-179430
   autorius: "Michał Baliński"
@@ -3256,12 +3184,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
     galingiausiu valdovu Šiaurės Europoje.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-020
+    - t-028
 
 - id: c-179431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3282,7 +3211,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-022
 
 - id: c-179432
   redaktorius: "A. Šapoka"
@@ -3298,10 +3227,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
   statusas: verified
   atnaujinta: "2026-07-29 11:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-179433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3343,12 +3274,15 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: "26\nKazimiero IV, kai jis buvo dar Lie­\ntuvos didysis kunigaikštis, privile­\ngijoje, 1440 metais duotoje Romos\nkatalikų ir stačiatikių tikėjimo Vil­\nniaus miestiečiams, kuriems leidžia­\nma laisvai prekiauti nemokant mui­\nto mokesčio visoje Lietuvos valsty­\nbėje, pasakyta, kad tai yra senos lais­\nvės, senolio Algirdo ir jo įpėdinių\nsuteiktos Vilniui, atnaujinimas. Con­\ncedimus ac darnus hanc libertatem, quod\nper totum nostrum Magnum Ducatum\nLithuaniae et Russiae nullum thelo-\nneum a quibuscumque mercantiis darė\net solvere tenebuntur; sed juxta consu­\netudinem antiquam a Nostris Praede­\ncessoribus et signanter Serenissimis\nPrincipibus Avo videlicet Olgerdo,\nolim Magno Duce Lithuaniae et Domi­\nno Vladislao Rege Poloniae, tunc autem\n32\n\n## Puslapis 49\n\nI  KNYGA\npadaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos\nypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­\ngonims skiepyti krikščionišką graikų apeigų tikėjimą."
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-09-13 18:01"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
+    - t-013
+    - t-017
+    - t-020
+    - t-028
 
 - id: c-179434
   autorius: "Michał Baliński"
@@ -3371,33 +3305,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
-
-- id: c-179435
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 71"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 71."
-  citata_originali: |
-    O kuni­
-    gaikštį Jurgį moldavai pasikvietė būti jų vaivada ir
-    ten jį nunuodijo M.
-    Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
-    taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
-    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
-    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15
-    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
-    dysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras,
-    paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­
-    klusti didžiajam kunigaikščiui Algirduil7.
-  citata_rodoma: "Kunigaikštis Teodo­\nras išgirdo, kad jo brolių Podolės žemėje nebėra gy­\nvųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15\nO tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­\ndysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras, \npaėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­\nklusti didžiajam kunigaikščiui Algirduil7."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-050
+    - t-028
 
 - id: c-179436
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3416,40 +3324,11 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Vidurio ir Rytų Europos jėga.
   statusas: verified
   atnaujinta: "2026-07-29 11:11"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-179437
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    . 2 0
-
-    ## Puslapis 171
-
-    PRIEDAI
-
-    ## Puslapis 172
-
-    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1  vieton
-    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
-    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
-    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
-    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
-    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
-    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
-    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
-    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
-    nutį išvyti.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-061
+    - t-031
 
 - id: c-179438
   redaktorius: "A. Šapoka"
@@ -3463,10 +3342,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     laužo Vilniuje ir palaidotas pagonių papročiais.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
 - id: c-179439
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3486,35 +3367,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     įtakos viršūnę. Jos atstovai vienu metu sėdėjo Lietuvos, Lenkijos, Čekijos
     (1471–1526) ir Vengrijos (1490–1506) sostuose.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
 
-- id: c-179440
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 274"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
-  citata_originali: |
-    Viena tokia buvo Didžiojoje
-    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
-    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
-    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
-    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
-    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
-    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
-    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
-    dyklos vietoje įkūrė cerkvę su šventiku.
-  citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
-  statusas: verified
-  atnaujinta: "2026-07-28 14:17"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-179442
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3535,7 +3394,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-024
 
 - id: c-179443
   autorius: "Michał Baliński"
@@ -3576,12 +3435,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     kia detaliai išnarplioti atskirų šios šalies miestų, būtent jos sos­
     tinės, istoriją.
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-077
+    - t-043
+    - t-068
 
 - id: c-179444
   autorius: "Zenonas Ivinskis"
@@ -3597,56 +3457,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     ginklu, bet ir taikiu būdu, net giminystėmis.
   statusas: verified
   atnaujinta: "2026-07-29 11:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- id: c-179445
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 48-49"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48-49."
-  citata_originali: |
-    Betgi yra ir
-    Rudamina, miestelis, arba bažnyt­
-    kaimis, pietryčiuose, už pusantros
-    mylios nuo miesto.
-    26
-    Kazimiero IV, kai jis buvo dar Lie­
-    tuvos didysis kunigaikštis, privile­
-    gijoje, 1440 metais duotoje Romos
-    katalikų ir stačiatikių tikėjimo Vil­
-    niaus miestiečiams, kuriems leidžia­
-    ma laisvai prekiauti nemokant mui­
-    to mokesčio visoje Lietuvos valsty­
-    bėje, pasakyta, kad tai yra senos lais­
-    vės, senolio Algirdo ir jo įpėdinių
-    suteiktos Vilniui, atnaujinimas. Con­
-    cedimus ac darnus hanc libertatem, quod
-    per totum nostrum Magnum Ducatum
-    Lithuaniae et Russiae nullum thelo-
-    neum a quibuscumque mercantiis darė
-    et solvere tenebuntur; sed juxta consu­
-    etudinem antiquam a Nostris Praede­
-    cessoribus et signanter Serenissimis
-    Principibus Avo videlicet Olgerdo,
-    olim Magno Duce Lithuaniae et Domi­
-    no Vladislao Rege Poloniae, tunc autem
-    32
+  pagrindzia:
+    - t-016
 
-    ## Puslapis 49
-
-    I  KNYGA
-    padaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos
-    ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
-    gonims skiepyti krikščionišką graikų apeigų tikėjimą.
-  citata_rodoma: "26\nKazimiero IV, kai jis buvo dar Lie­\ntuvos didysis kunigaikštis, privile­\ngijoje, 1440 metais duotoje Romos\nkatalikų ir stačiatikių tikėjimo Vil­\nniaus miestiečiams, kuriems leidžia­\nma laisvai prekiauti nemokant mui­\nto mokesčio visoje Lietuvos valsty­\nbėje, pasakyta, kad tai yra senos lais­\nvės, senolio Algirdo ir jo įpėdinių\nsuteiktos Vilniui, atnaujinimas. Con­\ncedimus ac darnus hanc libertatem, quod\nper totum nostrum Magnum Ducatum\nLithuaniae et Russiae nullum thelo-\nneum a quibuscumque mercantiis darė\net solvere tenebuntur; sed juxta consu­\netudinem antiquam a Nostris Praede­\ncessoribus et signanter Serenissimis\nPrincipibus Avo videlicet Olgerdo,\nolim Magno Duce Lithuaniae et Domi­\nno Vladislao Rege Poloniae, tunc autem\n32\n\n## Puslapis 49\n\nI  KNYGA\npadaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos\nypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­\ngonims skiepyti krikščionišką graikų apeigų tikėjimą."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-179446
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3668,6 +3484,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-013
     - t-018
 
 - id: c-179447
@@ -3691,7 +3508,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
+    - t-053
 
 - id: c-179448
   redaktorius: "A. Šapoka"
@@ -3730,7 +3547,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
+    - t-002
+    - t-066
 
 - id: c-179451
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3747,12 +3565,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
     se, kūrė valdovo raštinę.
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-076
+    - t-041
+    - t-067
 
 - id: c-179452
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3774,7 +3593,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-051
+    - t-049
 
 - id: c-179455
   autorius: "Michał Baliński"
@@ -3800,31 +3619,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-069
+    - t-023
+    - t-062
 
-- id: c-179456
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 510"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
-  citata_originali: |
-    Neseckiui šis herbas, pavadintas Kru-
-    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
-    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
-    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
-    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
-    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
-    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
-    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
-    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
-    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-179457
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3843,30 +3640,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     savo valdžią labiausiai išplėtė į rytus ir į pietus.
   statusas: verified
   atnaujinta: "2026-07-29 11:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- id: c-179459
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
-  citata_originali: |
-    Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
-    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
-  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
-  statusas: verified
-  atnaujinta: "2026-07-28 14:17"
+  pagrindzia:
+    - t-003
 
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-179460
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3885,10 +3664,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     santykių su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-29 11:11"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-055
+
 - id: c-179462
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3903,12 +3684,14 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-073
+    - t-025
+    - t-065
 
 - id: c-179463
   redaktorius: "A. Šapoka"
@@ -3928,32 +3711,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-068
-
-- id: c-179464
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir didysis
-    kunigaikštis Algirdas su visomis Lietuvos pajėgomis
-    išžygiavo į Podolę; išgirdęs apie tai, kunigaikštis Teo­
-    doras Karijotaitis pabėgo iš Podolės žemės pas veng­
-    rus ” , o į miestus įvedė moldavų įgulas. Didysis kuni­
-    gaikštis Algirdas 1 0  pirmiausia nužygiavo prie Bracla-
-    vo 2 0 ;  paėmęs Braclavą, nužygiavo prie Sokoleco2 1 ;  ir,
-    paėmęs Sokolecą, naktį priėjo Kamenecą ir Kamenecą
-    paėmė. O paskui užėmė Smotričių, ir Skalą2 2 , ir Cer-
-    vonogradą * * , užėmė visus miestus, sučiupo kunigaikš­
-    čio Teodoro vaivadą, vardu Nestaną2 1 , tvarkiusį tuos
-    miestus.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-058
+    - t-010
+    - t-061
 
 - id: c-179465
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3973,12 +3732,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
     politinėje sistemoje.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-032
 
 - id: c-179466
   autorius: "Michał Baliński"
@@ -4006,12 +3765,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-015
 
 - id: c-179467
   autorius: "Michał Baliński"
@@ -4034,10 +3793,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+    - t-030
+
 - id: c-179468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4058,11 +3820,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     savo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
     dė Goštauto uolumo.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
+
 - id: c-179470
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4080,10 +3844,12 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     niška.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-179471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -4103,11 +3869,13 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 
     1328 m.
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
 - id: c-179474
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4122,30 +3890,11 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     Kijevo Rusios įsigijo plačias teritorijas.
   statusas: verified
   atnaujinta: "2026-07-29 11:34"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-179475
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  puslapiai: "PDF 69"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
-  citata_originali: |
-    1365 m. Kęstutis,
-    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
-    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
-    belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
-    paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
-    (SRP, 2, 596).
-  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
-  statusas: verified
-  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-072
+    - t-016
 
 - id: c-184317
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -4174,7 +3923,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-056
 
 - id: c-184318
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -4193,7 +3942,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
+    - t-057
 
 - id: c-184861
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -4209,91 +3958,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
-
-- id: c-185990
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
-  citata_originali: |
-    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
-    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
-    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
-    Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
-    Vidurio ir Rytų Europos jėga. Akivaizdu, kad LDK niekada nebūtų ga-
-    lėjusi užvaldyti Kijevo Rusios erdvių, jei ne mongolų invazija – Lietuva
-  citata_rodoma: "Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau \nlinkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso \nordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir \nAlgirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga \nVidurio ir Rytų Europos jėga. Akivaizdu, kad LDK niekada nebūtų ga-\nlėjusi užvaldyti Kijevo Rusios erdvių, jei ne mongolų invazija – Lietuva"
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-030
-
-- id: c-185991
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Tad
-    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
-    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
-    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
-    kunigaikščio Algirdo. Pasiuntiniai rado popiežių Perudžijoje
-    (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę
-    (1388. IV.
-  citata_rodoma: "Tad\nkiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­\nniai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­\npininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos\nkunigaikščio Algirdo. Pasiuntiniai rado popiežių Perudžijoje\n(Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę\n(1388. IV."
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-054
-
-- id: c-185992
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Algirdas gi su Kęstučiu pasidalino
-    sunkų krašto vadovavimo darbą pusiau. Vienas, sėdėdamas
-    didž. kung. soste, nusigręžė vykdyti Lietuvos uždavinius ry­
-    tuose, o antras pasiėmė ginti ją nuo germanų pasaulio ant­
-    plūdžio. Kęstučio sritis apėmė visą kryžiuočių pasienį, kurio
-    šiaurėje buvo Žemaitija,, o pietuose — L. Brastos sritis.
-  citata_rodoma: "Algirdas gi su Kęstučiu pasidalino\nsunkų krašto vadovavimo darbą pusiau. Vienas, sėdėdamas\ndidž. kung. soste, nusigręžė vykdyti Lietuvos uždavinius ry­\ntuose, o antras pasiėmė ginti ją nuo germanų pasaulio ant­\nplūdžio. Kęstučio sritis apėmė visą kryžiuočių pasienį, kurio\nšiaurėje buvo Žemaitija,, o pietuose — L. Brastos sritis."
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-057
-
-- id: c-185993
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Naugardu ir Maskva. Teko dabar jam ir naujų Rusijos
-    žemių.
-    Toks Vytauto pasisekimas prijungiant rusų žemes įvyko
-    dėl stipriai įsigalėjusių tradicijų nuo Algirdo laikų; tai sustiprino
-    ir jo būklę, ir galybę Lietuvoj, kas negalėjo neatsiliepti į
-    jo elgesį su Lenkija.
-  citata_rodoma: "Teko dabar jam ir naujų Rusijos\nžemių.\nToks Vytauto pasisekimas prijungiant rusų žemes įvyko\ndėl stipriai įsigalėjusių tradicijų nuo Algirdo laikų; tai sustiprino\nir jo būklę, ir galybę Lietuvoj, kas negalėjo neatsiliepti į\njo elgesį su Lenkija."
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-062
+    - t-058
 
 - id: c-188867
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4314,7 +3979,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-078
+    - t-069
 
 - id: c-188868
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4338,7 +4003,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-079
+    - t-070
 
 - id: c-188869
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4356,7 +4021,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-080
+    - t-071
 
 - id: c-188870
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4373,7 +4038,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-081
+    - t-072
 
 - id: c-188871
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4394,7 +4059,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-082
+    - t-073
 
 - id: c-188872
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4412,7 +4077,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
+    - t-074
 
 - id: c-188873
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4436,7 +4101,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-084
+    - t-075
 
 - id: c-188874
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4464,7 +4129,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-085
+    - t-076
 
 - id: c-188875
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4483,7 +4148,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-086
+    - t-077
 
 - id: c-188876
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -4508,12 +4173,262 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-078
+
+- id: c-193152
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+  citata_originali: |
+    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
+    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
+    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
+    tutis, nuo jaunystės sutarė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-083
+
+- id: c-193392
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 69-70"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 69-70."
+  citata_originali: |
+    Didysis kunigaikštis Algirdas, sutelkęs
+    savo lietuvių pajėgas, išžygiavo į žygį ir ties Mėly­
+    naisiais Vandenimis sumušė totorius 1 — tris brolius:
+
+    Chadži-bėjų, Kutiubugą 2 ir Dimitrą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-084
+
+- id: c-193415
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 71"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 71."
+  citata_originali: |
+    O kuni­
+    gaikštį Jurgį moldavai pasikvietė būti jų vaivada ir
+    ten jį nunuodijo M.
+    Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
+    taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
+    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
+    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15
+    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
+    dysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras,
+    paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­
+    klusti didžiajam kunigaikščiui Algirduil7.
+  citata_rodoma: "Kunigaikštis Teodo­\nras išgirdo, kad jo brolių Podolės žemėje nebėra gy­\nvųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.15\nO tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­\ndysis kunigaikštis Algirdas l6. Kunigaikštis Teodoras, \npaėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­\nklusti didžiajam kunigaikščiui Algirduil7."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-079
+    - t-082
+
+- id: c-193626
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+  citata_originali: |
+    Paskui atvyko kunigaikštis Algirdas prie Vilniaus
+    pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių,
+    kadangi jis (Algirdas) buvo jo vyriausias brolis, atida­
+    vė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo
+    jie viską pusiau
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-081
+
+- id: c-194097
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 71"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 71."
+  citata_originali: |
+    Tuomet didysis kunigaikštis Algirdas Podolės Ka­
+    menecą davė valdyti savo vardu Goštautui Goštautai-
+    čiui
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-080
+
+- id: c-196902
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  citata_originali: |
+    Neseckiui šis herbas, pavadintas Kru-
+    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-085
+    - t-086
+
+- id: c-198916
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
     - t-087
+
+- id: c-199181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
+  citata_originali: |
+    Viena tokia buvo Didžiojoje
+    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
+    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
+  citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-088
+
+- id: c-199492
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
+  citata_originali: |
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-089
+
+- id: c-200732
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
+  citata_originali: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
+  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-090
+
+- id: c-206312
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  citata_originali: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
+    paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
+    (SRP, 2, 596).
+  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-091
+    - t-092
+
+- id: c-215980
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 344."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-093
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Julijona Vitebskietė]], [[objektai/asmenys/Marija (Algirdo žmona)]]
 - Sutuoktiniai: [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė)]]
-- Sūnūs: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]], [[objektai/asmenys/Vladimiras (Algirdo sūnus)]], [[objektai/asmenys/Vladimiras Algirdaitis]], [[objektai/asmenys/Vladislovas Jogaila]]
+- Sūnūs: [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]], [[objektai/asmenys/Vladimiras (Algirdo sūnus)]], [[objektai/asmenys/Vladimiras Algirdaitis]], [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila (Lenkijos karalius, XV a.)]]
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Broliai: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Narimantas Gediminaitis]]
 - Algirdas (Lietuvos valdovas) valdė [[objektai/vietos/Krėva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Podolė]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
@@ -4526,4 +4441,3 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
 - Algirdas (Lietuvos valdovas) kariavo prieš [[objektai/grupes/Totoriai]]
 - Algirdas (Lietuvos valdovas) dalyvavo mūšyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - Algirdas (Lietuvos valdovas) paskyrė [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Petras Goštautas]]
-- Algirdas (Lietuvos valdovas) rėmė [[objektai/grupes/Karijotaičiai]]

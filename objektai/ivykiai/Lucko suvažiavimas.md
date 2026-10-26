@@ -1,13 +1,15 @@
 ---
 tipas: ivykis
-pavadinimas: Lucko suvažiavimas
+pavadinimas: 'Lucko suvažiavimas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
-  - 1429 m.
+  - '1429 m.'
 date_start: '1429'
 date_end: ''
 sukurta: ''
@@ -18,35 +20,25 @@ tags:
   - karalius
   - kunigaikštis
 amziai:
-  - XV
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-external_sources_json: '[{"title":"Lucko suvažiavimas","url":"https://lt.wikipedia.org/wiki/Lucko_suva%C5%BEiavimas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Lucko suvažiavimas","url":"https://www.vle.lt/straipsnis/lucko-suvaziavimas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:56:06+00:00","source_checked_at":"2026-09-19T23:56:06+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Europos valdovų kongresas Lucke − 1429 m. sausio 9−29 d. vykęs Europos valdovų diplomatinis suvažiavimas Liubarto pilyje Vidurio ir Rytų Europos klausimams aptarti, sušauktas Lietuvos Didžiosios Kunigaikštystės Didžiojo kunigaikščio Vytauto.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"263544","revision_id":"7855232","status":"published","translation_status":"native","source":{"title":"Lucko suvažiavimas","url":"https://lt.wikipedia.org/wiki/Lucko_suva%C5%BEiavimas","publisher":"Vikipedija","language":"lt","article_id":"263544","revision_id":"7855232","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7855232","history_url":"https://lt.wikipedia.org/w/index.php?title=Lucko_suva%C5%BEiavimas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:16:25.983071+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"f4c5d6f2f81769345a925a7b21ab76b5f751b7f69fb4e4da9931bf4fa8ef99bc","version_pk":"c7829a193206f6a047a12bf814c87b5f"}},"source_buttons":[{"label":"Vikipedija","title":"Lucko suvažiavimas","url":"https://lt.wikipedia.org/wiki/Lucko_suva%C5%BEiavimas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Lucko suvažiavimas","url":"https://www.vle.lt/straipsnis/lucko-suvaziavimas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Lucko_suva%C5%BEiavimas","https://www.vle.lt/straipsnis/lucko-suvaziavimas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1b5886ae0af8a74a19c5d3eb","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. Jis buvo skirtas Vidurio ir Rytų Europos politikos problemoms aptarti.","context":"Aprašyta Lietuvos istorijoje.","support_ids":["t-75250","c-23136"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75250","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23136","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi- gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš- čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da- nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"aa754af2d4beeafc7a42bff8","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Dalyvavo Vytautas, Jogaila, Šventosios Romos imperijos imperatorius ir Vengrijos karalius Zigmantas I, taip pat Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo ir Pskovo atstovai, popiežiaus legatas bei Vokiečių ordino, Aukso ordos, Moldavijos, Danijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.","context":"Dalyvių sudėtis aprašyta Lietuvos istorijoje.","support_ids":["t-75249","c-73097"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75249","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73097","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš- čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da- nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi- mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau- to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu valdovu."}],"status":"published","conflict_status":"clear"},{"trait_id":"6114274e6fddbc2a7e7c5ff4","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione; į Lietuvos istoriją jis įėjo pirmiausia dėl Vytauto vainikavimo plano.","context":"Tai šaltinio autorių pateiktas istorinis vertinimas.","support_ids":["t-75251","c-23136"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75251","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23136","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi- gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš- čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da- nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai."}],"status":"published","conflict_status":"clear"},{"trait_id":"eb68693aa6b7d26ec417f398","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Pasak Viljamo Pochliobkino, 1429 m. Lucko suvažiavime Genujos pasiuntiniai Jogailai ir Vytautui demonstravo distiliuotą alkoholį kaip vaistą; straipsnyje pabrėžiama, kad šis teiginys nepriklausomais šaltiniais nepatvirtintas.","context":"Tai Rimvydo Laužiko straipsnyje perteiktas Viljamo Pochliobkino teiginys apie 1429 m. įvykį.","support_ids":["t-200708","c-184053"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200708","source":"darbas/sources/Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.).md"},{"kind":"evidence","evidence_id":"c-184053","source":"darbas/sources/Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.).md","quote":"Pasak rusų degtinės tyrėjo Viljamo Pochliobkino, distiliuotą alkoholį Jogailai ir Vytautui kaip vaistą demonstravo Genujos pasiuntiniai 1387 m. Lietuvos krikšto proga ir 1429 m. Lucko suvažiavime (Похлебкин 2005: 134–136)."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: 2293e5423e668536
-object_page_generated_at: '2026-09-19T23:56:06+00:00'
-object_page_source_checked_at: '2026-09-19T23:56:06+00:00'
-object_page_content_state: content
-object_page_claim_count: '4'
-object_page_source_count: '2'
-object_page_seo_description: 'Lucko suvažiavimas: Lucko suvažiavime dalyvavo Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo ir kitų valstybių atstovai. Lucko suvažiavimas…'
-object_page_seo_input_hash: a29d776b52fb3dfd797d6b18a2cba7ad9991c5b55c75a179fcb252e02de205cc
-object_page_seo_generated_at: '2026-09-19T23:56:06+00:00'
-object_page_seo_policy_version: object-page-policy/v7
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lucko suvažiavimas
 
 ## Santrauka
 
-Lucko suvažiavime dalyvavo Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo ir kitų valstybių atstovai. Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. ir buvo skirtas Vidurio bei Rytų Europos politikos problemoms aptarti. Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano.
+Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29. Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
 
 ## Laikotarpis ir datos
 
@@ -66,29 +58,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-75249"></a>
-- t-001
-  teiginys: "Lucko suvažiavime dalyvavo Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo ir kitų valstybių atstovai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Luckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lucko suvažiavimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Luckas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lucko suvažiavimas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl sutrumpintas į pilną sakinį."
-  pagrindžia:
-    - c-73097
-
 <a id="claim-t-75250"></a>
-- t-002
+- t-001
   teiginys: "Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. ir buvo skirtas Vidurio bei Rytų Europos politikos problemoms aptarti."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -106,9 +79,9 @@ Nenurodyta
     - c-23136
 
 <a id="claim-t-75251"></a>
-- t-003
+- t-002
   teiginys: "Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -125,9 +98,9 @@ Nenurodyta
     - c-23136
 
 <a id="claim-t-193360"></a>
-- t-004
+- t-003
   teiginys: "Štai todėl karalius po senato posėdžio, net neatsi sveikinęs su imperatoriumi, skubiai išvyko iš Lucko."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -144,9 +117,9 @@ Nenurodyta
     - c-176087
 
 <a id="claim-t-200708"></a>
-- t-005
+- t-004
   teiginys: "Pasak Viljamo Pochliobkino, 1429 m. Lucko suvažiavime Genujos pasiuntiniai Jogailai ir Vytautui demonstravo distiliuotą alkoholį kaip vaistą, tačiau šis teiginys nepriklausomais šaltiniais nepatvirtintas."
-  atnaujinta: "2026-07-26 20:37"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -166,7 +139,91 @@ Nenurodyta
   pagrindžia:
     - c-184053
 
+<a id="claim-t-211362"></a>
+- t-005
+  teiginys: "Suvažiavimo dieno tvarkėje buvo Moldavijos padalijimas Vengrijai ir Lenkijai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-192994
+
+<a id="claim-t-211511"></a>
+- t-006
+  teiginys: "Suvažiavimas truko maždaug tris savaites."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194242
+
+<a id="claim-t-211934"></a>
+- t-007
+  teiginys: "Tokiu pačiu sakiniu prasideda Lietuvos metraščių TS nuora šų trumpas pasakojimas apie dalies Vidurio ir Rylų Europos val dovų suvažiavimą 1429 m. pradžioje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
+  pagrindžia:
+    - c-193743
+
+<a id="claim-t-233069"></a>
+- t-008
+  teiginys: "Lucke broliai sutarė 1429 m. per Tris Karalius sušaukti didelį suvažiavimą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:32Z"
+  pagrindžia:
+    - c-215889
+
+<a id="claim-t-233070"></a>
+- t-009
+  teiginys: "Narbutas vaizduoja Romos karalių kaip siekusį slapta įtikinti Vladislovą pritarti Vytauto vainikavimui Lietuvos karaliumi ir tikėjusį tai pasiekti Lucko suvažiavime."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:32Z"
+  pagrindžia:
+    - c-215890
+
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Lucko suvažiavime dalyvavo Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo ir kitų valstybių atstovai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
+    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
+    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
+    valdovu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Štai todėl karalius po senato posėdžio, net neatsi sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -205,6 +262,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 ## Citatos
 
 - id: c-23136
@@ -235,37 +293,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-003
-
-- id: c-73097
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 51"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 51."
-  citata_originali: |
-    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
-    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
-    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
-    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
-    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
-    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
-    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
-    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
-    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
-    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
-    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
-    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
-    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
-    valdovu.
-  citata_rodoma: "Suvažiavime \ntaip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio \npasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-\nčiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-\nnijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-\nmas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją \nįėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I \nir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-\nto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, \nkad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu \nvaldovu."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
     - t-001
+    - t-002
 
 - id: c-176087
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -294,7 +323,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-184053
   autorius: "Rimvydas Laužikas"
@@ -303,6 +332,85 @@ Nenurodyta
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-26 20:35"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-05 15:40"
+  pagrindzia:
+    - t-004
+
+- id: c-192994
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 260"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 260."
+  citata_originali: |
+    Suvažiavimo dieno­
+    tvarkėje buvo Moldavijos padalijimas Vengrijai ir Lenkijai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-193743
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    Tokiu pačiu sakiniu prasideda Lietuvos metraščių TS nuora­
+    šų trumpas pasakojimas apie dalies Vidurio ir Rylų Europos val­
+    dovų suvažiavimą 1429 m. pradžioje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-194242
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 262."
+  citata_originali: |
+    Lucko
+    suvažiavimas
+    truko ne septynias, o maždaug tris
+    savaites
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-215889
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 411"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 411."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-008
+
+- id: c-215890
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 413"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 413."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-009

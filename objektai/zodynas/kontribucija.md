@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'kontribucija'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1426 m.'
@@ -41,7 +42,7 @@ media_all_json: |-
 <a id="claim-t-181977"></a>
 - t-001
   teiginys: "Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Kijevas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -54,6 +55,19 @@ media_all_json: |-
   semantiniai_rysiai: "Totoriai keliavo į Kijevas (0.90)"
   pagrindžia:
     - c-37924
+
+<a id="claim-t-233131"></a>
+- t-002
+  teiginys: "Už Porchovą buvo sutarta sumokėti 5 000 rublių kontribuciją, už Naugardą – tiek pat, o už belaisvius – 3 000 sidabro rublių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:48Z"
+  pagrindžia:
+    - c-215951
 
 ## Citatos
 
@@ -69,9 +83,21 @@ media_all_json: |-
     link, paėmė iš jo 3000 rublių kontribucijos. Po to dar pasu­
     ko į Lucko žemes, ir tik iš ten grįžo į savo stepes.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-215951
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 407."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

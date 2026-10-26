@@ -1,17 +1,18 @@
 ---
 tipas: vieta
-pavadinimas: Čekija
+pavadinimas: 'Čekija'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - 1402 m.
-  - 1403 m.
-  - 1419 m.
-  - 1553 m.
-  - 2026 m.
+  - '1402 m.'
+  - '1403 m.'
+  - '1419 m.'
+  - '1553 m.'
+  - '2026 m.'
 date_start: '1402'
 date_end: '2026'
 sukurta: ''
@@ -20,41 +21,29 @@ tags:
   - vieta
   - valstybė
 amziai:
-  - XV
-  - XXI
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-6a01dd20477d9bcf363338f5
-canonical_name: Čekija
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Čekija
-sameAs: []
-canonical_biography: 'Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir anksčiau, liko tik Lenkija ir Lietuva.'
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-6a01dd20477d9bcf363338f5"
+canonical_name: "Čekija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čekija"]
+sameAs: ["https://www.wikidata.org/entity/Q213"]
+canonical_biography: "Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir anksčiau, liko tik Lenkija ir Lietuva."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Čekija","url":"https://lt.wikipedia.org/wiki/%C4%8Cekija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Čekija","url":"https://www.vle.lt/straipsnis/cekija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:14:33+00:00","source_checked_at":"2026-09-20T11:14:33+00:00","counts":{"relations":8,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Čekija (ček. Česko; oficialiai Čekijos Respublika, ček. Česká republika) – valstybė Vidurio Europoje. Pietuose ribojasi su Austrija, vakaruose – su Vokietija, šiaurės rytuose – su Lenkija, pietryčiuose – su Slovakija. Šalies sostinė ir didžiausias miestas – Praha. Kiti didieji miestai: Brno, Ostrava, Pilzenas ir Liberecas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"2319","revision_id":"7712112","status":"published","translation_status":"native","source":{"title":"Čekija","url":"https://lt.wikipedia.org/wiki/%C4%8Cekija","publisher":"Vikipedija","language":"lt","article_id":"2319","revision_id":"7712112","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7712112","history_url":"https://lt.wikipedia.org/w/index.php?title=%C4%8Cekija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:38.879881+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"323bb85539337333e85a14ae5f2b0aeb115337715bc2a5435fd76723b0db34c4","version_pk":"03a08a545ce5fdccb96fd85d67ac4867"}},"source_buttons":[{"label":"Vikipedija","title":"Čekija","url":"https://lt.wikipedia.org/wiki/%C4%8Cekija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Čekija","url":"https://www.vle.lt/straipsnis/cekija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C4%8Cekija","https://www.vle.lt/straipsnis/cekija/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Jonas Liuksemburgietis","claim_id":"t-30310","confidence":0.9},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Pršemyslas Otokaras II","claim_id":"t-39630","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Martynas iš Opavos","claim_id":"t-221260","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Kaributas","claim_id":"t-184326","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zigmantas Kaributas","claim_id":"t-176867","confidence":0.86},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176882","confidence":0.9},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogailaitis","claim_id":"t-183769","confidence":0.82},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Jogailaičių dinastija","claim_id":"t-101620","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: 5deeb5fd49a085fb
-object_page_generated_at: '2026-09-20T11:14:33+00:00'
-object_page_source_checked_at: '2026-09-20T11:14:33+00:00'
-object_page_content_state: content
-object_page_claim_count: '0'
-object_page_source_count: '0'
-object_page_seo_description: 'Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir anksčiau, liko tik Lenkija ir Lietuva. Šaltinių citatos.'
-object_page_seo_input_hash: eea12fa8445026a9ab511fb48d4d2358159ca9891ae10e8dbbba47e7c6675bcd
-object_page_seo_generated_at: '2026-09-20T11:14:33+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Čekija
 
@@ -67,7 +56,7 @@ object_page_seo_policy_version: object-page-policy/v7
 <a id="claim-t-182878"></a>
 - t-001
   teiginys: "Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Čekija: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -84,7 +73,7 @@ object_page_seo_policy_version: object-page-policy/v7
 <a id="claim-t-184326"></a>
 - t-002
   teiginys: "Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,7 +92,7 @@ object_page_seo_policy_version: object-page-policy/v7
 <a id="claim-t-184408"></a>
 - t-003
   teiginys: "Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -125,7 +114,7 @@ object_page_seo_policy_version: object-page-policy/v7
 <a id="claim-t-185214"></a>
 - t-004
   teiginys: "Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -134,10 +123,10 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-168575
 
-<a id="claim-t-192787"></a>
+<a id="claim-t-212721"></a>
 - t-005
   teiginys: "Narbutas rašė, kad 1402 ir 1403 m. Čekijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai kartu su kumanais."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -156,12 +145,12 @@ object_page_seo_policy_version: object-page-policy/v7
   temporalinis_llm_pakomentavimas: "Teiginys susietas su Čekija ir pašalintas neenciklopedinis žodis „linksminosi“. Nepridėta daugiau apie jazigus, nes tai nėra tiesiogiai Čekijos faktas."
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175557
+    - c-195758
 
-<a id="claim-t-192788"></a>
+<a id="claim-t-213795"></a>
 - t-006
   teiginys: "Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -176,8 +165,61 @@ object_page_seo_policy_version: object-page-policy/v7
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175558
+    - c-196520
 
+<a id="claim-t-233840"></a>
+- t-007
+  teiginys: "Narbutas aprašo, kad samdiniai verbuoti Moravijoje, Čekijoje ir Vokietijoje, o valdovų rūmams siųstuose raštuose apgailestauta dėl žemaičių ir didžiojo kunigaikščio Vytauto apostazės."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:47Z"
+  pagrindžia:
+    - c-216660
+
+<a id="claim-t-233841"></a>
+- t-008
+  teiginys: "Narbutas nurodo, kad karalius Zigmantas su Barbora sausio 22 d. atvyko į susirinkimą, lydimas Vokietijos imperijos kunigaikščių ir Čekijos, Vengrijos, Austrijos, Kroatijos bei kitų jam pavaldžių šalių magnatų."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:47Z"
+  pagrindžia:
+    - c-216661
+
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pilies gynėjai, iš visų pusių apsupti,
+    mėgino prasiveržti, tačiau juos sumušė ir atstūmė; kai
+    nuo padegamųjų strėlių daugelyje vietų suliepsnojo
+    namai, jie, praradę bet kokią viltį, pasiūlius Ulrichui,
+    įgulos viršininkui, pasidavė
+    1467 m e ta i
+    karaliui. Choinicams kritus,
+    G im sta
+    k u n ig a ik štis
+    popiežiaus pasiuntinys
+    Ru-
+    Z y g im a n ta s
+    dolfas pasistengė, kad būtų
+    sudaryta taika.
+    Pirmąją sekančių metų dieną padaugėjo karaliui ir
+    įpėdinių, nes gimė Žygimantas16, ir rūpesčių, nes neži­
+    nojo, ar pavyks išlaikyti savo rankose Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-166282
@@ -192,9 +234,8 @@ object_page_seo_policy_version: object-page-policy/v7
     Dimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog
     _«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
     to » (« postulati regis Bohemiae Vitoldi »)^17.
-  citata_rodoma: "Su\n5000-7000 vyrų jis nusiuntė Čekijon Jogailos brolio Kaributo-\nDimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog\n_«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­\nto » (« postulati regis Bohemiae Vitoldi »)^17."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -268,7 +309,7 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindzia:
     - t-004
 
-- id: c-175557
+- id: c-195758
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 136"
@@ -283,14 +324,15 @@ object_page_seo_policy_version: object-page-policy/v7
     ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
     kariai kartu su kumanais linksminosi2.
   statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
 
-- id: c-175558
+- id: c-196520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 148"
@@ -309,12 +351,37 @@ object_page_seo_policy_version: object-page-policy/v7
     ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
     tojai žino, iš ko jis atsiranda2.
   statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-216660
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 207"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 207."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-007
+
+- id: c-216661
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 411"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 411."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jonas Liuksemburgietis]], [[objektai/asmenys/Pršemyslas Otokaras II]]

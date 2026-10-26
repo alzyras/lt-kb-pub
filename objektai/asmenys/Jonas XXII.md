@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Jonas XXII (arkivyskupas, XIV a.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Gedimino laiškai'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -52,7 +53,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 <a id="claim-t-183545"></a>
 - t-001
   teiginys: "Popiežius Jonas XXII kėlė bažnytinės unijos idėją, o Gediminas jam siuntė laiškus dėl krikšto."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,7 +72,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 <a id="claim-t-183840"></a>
 - t-002
   teiginys: "Popiežius Jonas XXII po pasitarimo su kardinolais paskelbė sprendimą dėl Kryžiuočių ordino ir Rygos Bažnyčios ginčo."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,10 +88,10 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   pagrindžia:
     - c-167225
 
-<a id="claim-t-184095"></a>
+<a id="claim-t-222739"></a>
 - t-003
   teiginys: "1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -100,8 +101,51 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo su antraštės ir fragmentų triukšmu, todėl perrašytas į aiškų sakinį."
   pagrindžia:
-    - c-167480
+    - c-205687
 
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Gedimino laiškų komentaro vertinimu, Jonas XXII 1324 m. birželį laiškuose pasiuntiniams ir Gediminui citavo Gedimino laišką, kuris pirmasis pasiekė popiežių.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Šio rankraščio ritinėlis išliko Ordino Karaliaučiaus archyve (dabar
+    laikomas Berlyne). Kad tai buvo pirmasis Gedimino laiškas, pasiekęs popiežių, aiškėja iš pažodi­
+    nių citatų, kurias vartoja Jonas XXII laiškuose savo pasiuntiniams ir Gediminui 1324 m. birželio
+    mėn. [plg. 14 ir 41].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Laiško Gediminui rašymo išvakarėse Jonas XXII Danijos karaliui pranešė siunčiąs pasiuntinius aptarti konflikto su imperatoriumi ir sunkumų, su kuriais Taline susidūrė danai.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    1324 m. vasario mėn. popiežius įspėjo O rdiną tiriąs prieš jį pateiktus skundus iš
+    Lenkijos ir Livonijos, bet nepaminėjo Gedimino apeliacijos. Laiško Gediminui rašymo išvaka­
+    rėse Jonas XXII pranešė Danijos karaliui siunčiąs pasiuntinius aptarti konfliktą su imperatoriu­
+    mi ir sunkumus, su kuriais susiduria danai Taline. Popiežius įspėjo karalių, jog už pasiruošimų
+    Margaretos (iš Danijos) ir markgrafo Liudviko iš Brandenburgo vedyboms slypi sąmokslas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-007
+  santrauka: 'Jonas XXII buvo kreiptasi taip pat kaip ir į serbų karalių Urošą III.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Laiškų gavėjai ir siuntėjai galėjo
+    sumokėti, kad laiškai būtų registruojami, ir taip apsidrausti, kad laiško turinys nedingtų, jei
+    originalas bus pavogtas ar iškraipytas (panašiu būdu dokum entai saugomi Lietuvos Metrikos
+    knygose). Popiežiaus archyvo tarnautojam s tokie laiškai buvo naudingi - jei reikėdavo kam
+    nors pasiųsti nesudėtingą laišką, jį galima buvo nukopijuoti nuo panašaus dokumento. Taip atsi­
+    tiko, kai į Gediminą 1324 m. birželio mėn. buvo kreiptasi taip pat kaip ir į serbų karalių Urošą III.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-166938
@@ -153,7 +197,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   pagrindzia:
     - t-002
 
-- id: c-167479
+- id: c-202423
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 221"
@@ -175,12 +219,12 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
     kad atvykę deramai pataisytų tai, kas atsitiko.
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- id: c-167480
+- id: c-205687
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 249"
@@ -195,7 +239,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 
           119.
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

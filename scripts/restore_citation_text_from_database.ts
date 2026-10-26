@@ -35,7 +35,8 @@ interface CitationSpan extends EvidenceEntry {
 
 const root = path.resolve(process.cwd())
 const objectRoot = path.join(root, "objektai")
-const databasePath = "/Users/tomas/Documents/important/lt/lt-kb/darbas/state/workflow.sqlite3"
+const backendRoot = path.resolve(process.env.LT_KB_BACKEND_ROOT || path.join(root, "../lt-kb"))
+const python = process.env.LT_KB_PYTHON || (process.platform === "win32" ? "python" : "python3")
 const writeChanges = process.argv.includes("--write")
 const requestedFile = process.env.RESTORE_FILE
 
@@ -48,7 +49,19 @@ function listMarkdownFiles(dir: string): string[] {
 }
 
 function query<T>(sql: string): T[] {
-  const output = execFileSync("sqlite3", ["-json", databasePath, sql], {
+  const output = execFileSync(python, ["-c", `
+import json,sys
+from lt_kb_app.core.workflow_state import connect_readonly
+with connect_readonly() as con:
+    rows=con.execute(sys.argv[1]).fetchall()
+    print(json.dumps([dict(row) for row in rows],ensure_ascii=False,default=str))
+`, sql], {
+    cwd: backendRoot,
+    env: {
+      ...process.env,
+      LT_KB_WORKFLOW_BACKEND: "postgres",
+      LT_KB_INGEST_BACKEND: "postgres",
+    },
     encoding: "utf8",
     maxBuffer: 128 * 1024 * 1024,
   }).trim()

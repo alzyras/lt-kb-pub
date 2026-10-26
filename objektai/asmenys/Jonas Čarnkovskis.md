@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Jonas Čarnkovskis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,14 +33,18 @@ canonical_biography: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
 
 ## Santrauka
 
-Jonas Čarnkovskis nepatvirtintas jokia priesaika.
+Jonas Čarnkovskis nepatvirtintas jokia priesaika. Teodoras Narbutas Joną Čarnkovskį, Poznanės pakamarį, įvardija apginklavimo įkvėpėju.
+
+## Santrauka
+
+Jonas Čarnkovskis nepatvirtintas jokia priesaika. Teodoras Narbutas Joną Čarnkovskį, Poznanės pakamarį, įvardija apginklavimo įkvėpėju.
 
 ## Teiginiai
 
 <a id="claim-t-196500"></a>
 - t-001
   teiginys: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -47,6 +52,19 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169579
+
+<a id="claim-t-233206"></a>
+- t-002
+  teiginys: "Teodoras Narbutas Joną Čarnkovskį, Poznanės pakamarį, įvardija apginklavimo įkvėpėju."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:19Z"
+  pagrindžia:
+    - c-216026
 
 ## Citatos
 
@@ -76,3 +94,15 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-216026
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 428"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 428."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

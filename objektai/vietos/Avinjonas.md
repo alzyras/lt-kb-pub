@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Avinjonas'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -35,7 +36,7 @@ canonical_name: "Avinjonas"
 entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Avinjonas"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q6397"]
 canonical_biography: "Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patogesnę būklę tolimesnei kovai Volinijoje, Lenkijos Kazimieras informavo Klemensą VI apie Kęstučio norą krikštytis. Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka­."
 place_authority: true
 historical_names: []
@@ -51,7 +52,7 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 <a id="claim-t-173341"></a>
 - t-001
   teiginys: "1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis."
-  atnaujinta: "2026-05-31 14:14"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -69,7 +70,7 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 <a id="claim-t-173342"></a>
 - t-002
   teiginys: "1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,6 +86,39 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   pagrindžia:
     - c-157665
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Avinjono registrai padaryti popieriuje ir paprastai senesni už XIV a. dokumentus turinčius Vatikano registrus.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    RV 77 -J o n o XXII bendrų laiškų rinkinys, pergamentas, 379 4- 15 lapų.
+    Avinjono registrai padaryti popieriuje ir paprastai senesni negu XIV a. dokumentus turintys Vati­
+    kano registrai. Tačiau tie Avinjono registrai, kuriuose esama nuorašų medžiagos, svarbios Lietu­
+    vos misijai, dažniausiai yra blogos kokybės — kai kurios teksto dalys išblukusios nuo vandens.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Dokumentas datuotas Avinjone trečią dieną iki vasario nonų, pirmaisiais metais.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Maldaujame, kad su tautomis, tau
+    pavaldžiomis, atsisakęs įsisenėjusių nuodėmių ir tamsybės klaidų, per krikšto sakramentą
+    pereitum į Jo šviesą ir karalystę, šį tikėjimą tvirtai išlaikydamas, kad per jį jūs ir tos pačios
+    tautos, dieviška malone išgelbėti, galėtumėte po dabartinio gyvenimo pabaigos su Dievo
+    išrinktaisiais pasiekti tikrą [jums skirtą] palikimą, nesuteptą ir nesilpstantį7, išsaugotą
+    danguje. Nes norime, kad tu žinotum, jog jei tau bus duota iš aukščiau, po šitokių mūsų
+    prašymų ir raginimų tu savo klausą pakreipsi ir dievobaimingai atgręši į Dievą, mūsų širdis
+    keleriopai džiaugsis Viešpatyje, M otina bažnyčia didžiai bus pamaloninta, ir tu rasi mūsų ir
+    A paštalų Sosto m alonių duris, atvertas tavo garbės augimui, kiek tik Dievas leis.
+    D uota Avinjone trečią dieną iki vasario nonų, pirmaisiais metais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-157664

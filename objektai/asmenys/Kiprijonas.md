@@ -3,6 +3,8 @@ tipas: asmuo
 pavadinimas: 'Kiprijonas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1390 m.'
@@ -50,7 +52,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 <a id="claim-t-63828"></a>
 - t-001
   teiginys: "Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,7 +70,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 <a id="claim-t-63829"></a>
 - t-002
   teiginys: "Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,7 +87,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 <a id="claim-t-206322"></a>
 - t-003
   teiginys: "Teodoras Narbutas rašo, kad Kiprijonas Vytautui išdėstė Bažnyčios interesus Rusioje, buvo pripažintas visos Rusios ganytoju ir Kijeve įtvirtino hierarchinį valdymą."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,7 +100,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 <a id="claim-t-206323"></a>
 - t-004
   teiginys: "Teodoras Narbutas Kiprijoną vaizduoja kaip Vytauto draugą, beveik linkusį pritarti krikščioniškojo pasaulio vienybei ir taikai, kurią galėjo įtvirtinti popiežiaus sprendimai."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -107,6 +109,19 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
   pagrindžia:
     - c-188938
+
+<a id="claim-t-233216"></a>
+- t-005
+  teiginys: "Narbutas pasakoja, kad visos Rusios metropolitas Kiprijonas atvyko į karaliaus Vladislovo ir didžiojo kunigaikščio Vytauto surengtą suvažiavimą Miloliube, Voluinėje."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:20Z"
+  pagrindžia:
+    - c-216036
 
 ## Citatos
 
@@ -204,3 +219,15 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-216036
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 151."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005

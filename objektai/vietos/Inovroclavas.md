@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Inovroclavas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -38,34 +39,25 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 
 ## Teiginiai
 
-<a id="claim-t-86190"></a>
+<a id="claim-t-233482"></a>
 - t-001
-  teiginys: "Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo."
-  atnaujinta: "2026-07-10 10:39"
+  teiginys: "Popiežiaus pasiūlytas ir paskirtas suvažiavimas Inovroclave neįvyko; vėliau gautas užtikrinimas dėl suvažiavimo Lietuvoje."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Inovroclavas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Inovroclavas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:39Z"
   pagrindžia:
-    - c-82169
+    - c-216302
 
-## Citatos
-
-- id: c-82169
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 291"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Šio karaliaus laikais Vilnius buvo aprūpintas geriausiais
-    amatininkais iš Krokuvos, kurie, apsigyvenę mieste, daug
-    prisidėjo prie karaliaus uoliai steigiamų cechų organizavi­
-    mo. Dailieji menai, architektūra, tapyba ir skulptūra, mažai
+    Dailieji menai, architektūra, tapyba ir skulptūra, mažai
     pažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­
     vyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti. Trys į
     Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
@@ -78,11 +70,21 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     ko Valerijono parašu, su prikabintu
     Lietuvos Didžiosios Kunigaikštystės
     antspaudu.
-  citata_rodoma: "Dailieji menai, architektūra, tapyba ir skulptūra, mažai \npažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­\nvyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti. Trys į \nVilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­\ntiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­\nnanės, o du architektai ir raižytojai - Jonas Marija ir Jonas\n34\nPrivilegija, duota Paleckiui steigti šią \nliejyklą, yra rašyta slavų kalba, su lo­\ntynišku karaliaus ir rusišku raštinin­\nko Valerijono parašu, su prikabintu \nLietuvos Didžiosios Kunigaikštystės \nantspaudu."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-216302
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 333"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 333."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
   pagrindzia:
     - t-001

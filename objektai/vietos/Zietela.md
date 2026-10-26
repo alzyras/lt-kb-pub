@@ -2,6 +2,8 @@
 tipas: vieta
 pavadinimas: 'Zietela'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -25,7 +27,7 @@ canonical_name: "Zietela"
 entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Zietela"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q1025883"]
 canonical_biography: "(^126) I SKYRIUS: LIETUVOS PROISTORĖ Lietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo Naugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių kalbos sala."
 place_authority: true
 historical_names: []
@@ -41,7 +43,7 @@ historical_names: []
 <a id="claim-t-32707"></a>
 - t-001
   teiginys: "Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,6 +55,31 @@ historical_names: []
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-34109
+
+<a id="claim-t-211156"></a>
+- t-002
+  teiginys: "Zietela, baltarusiškai Diatlov ir lenkiškai Zdzlęclot, yra tarp Slonimo ir aukštutinio Nemuno, apie 30 km į pietvakarius nuo Naugarduko."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192986
+
+<a id="claim-t-233839"></a>
+- t-003
+  teiginys: "Narbuto pasakojime didysis kunigaikštis, sužinojęs apie Valkavisko užpuolimą, iš Slanimo išvyko į Zietelos įtvirtintą pilį ir įsakė atremti arba vytis priešą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:47Z"
+  pagrindžia:
+    - c-216659
 
 ## Citatos
 
@@ -79,3 +106,36 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-192986
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 200."
+  citata_originali: |
+    Orig.— link Zditovo. Sis IM Zditovas klaidingai tapatinamas
+    su Zditovo gyvenviete pietinėje BTSR dalyje (Pinsko balose, prie
+    Jieseldos upės). Iš tikrųjų pagal metraščio pasakojimą tai galėjo
+    būti tik Zietela (baltar. Diatlov, lenk. Zdzlęclot) — tarp Slonimo ir
+    aukštutinio Nemuno, apie 30 km | pietvakarius nuo Naugarduko,
+    kurį Haličo-Volynės kunigaikštis Danielius pabijojo pulti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-216659
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 203."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003

@@ -45,24 +45,18 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 
 ## Teiginiai
 
-<a id="claim-t-94047"></a>
-- t-001
-  teiginys: "1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus."
-  atnaujinta: "2026-07-10 10:39"
+<a id="claim-t-233474"></a>
+- t-233474
+  teiginys: "Gniezno arkivyskupo ir Kujavijos vyskupo dvarai Ordino teritorijoje liko po senovei."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Breslavas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gniezno: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Breslavas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gniezno\" parinktas kaip owner_note_path. Targetas \"Breslavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1415 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo per trumpas ir nepilnas, citata leidžia pilną sakinį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:39Z"
   pagrindžia:
-    - c-37387
+    - c-216294
 
 ## Citatos
 
@@ -83,8 +77,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-89256
   autorius: "Simonas Daukantas"
@@ -99,6 +91,18 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-216294
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 256"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 256."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233474
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Vilniaus vyskupija]]

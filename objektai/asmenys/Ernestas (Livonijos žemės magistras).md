@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Ernestas (Livonijos žemės magistras)'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1279 m.'
@@ -44,10 +45,10 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
 
 ## Teiginiai
 
-<a id="claim-t-89708"></a>
+<a id="claim-t-220722"></a>
 - t-001
   teiginys: "Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konradas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -61,12 +62,12 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata apie Ernestą palaiko tik jo žūtį ir pareigas, o ne visą pradinę konstrukciją."
   pagrindžia:
-    - c-85639
+    - c-203129
 
-<a id="claim-t-89709"></a>
+<a id="claim-t-222744"></a>
 - t-002
   teiginys: "Ernestas buvo Livonijos žemės magistras ir žuvo prieš Konrado iš Foichtvangeno paskyrimą 1279 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,26 +81,47 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys daugiausia apie Konradą, bet citata leidžia suformuluoti faktą apie Ernestą."
   pagrindžia:
-    - c-85640
+    - c-203720
+
+<a id="claim-t-223548"></a>
+- t-003
+  teiginys: "Ernestas buvo Livonijos žemės magistras."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203129
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-003
+  santrauka: 'Ernestas laiške įvardijamas Vokiečių ordino magistru, valdančiu Livoniją.'
+  šaltinis: Gedimino laiškai
   citata_originali: |
-    Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
-    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
-    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
-    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
-    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
+    J o nas1, Dievo gailestingumu Rygos šventosios bažnyčios arkivyskupas, su nuoširdžia meile
+    [linki] Viešpaties išganymo bei palaiminimo garbingiems ir mylimiems Kristuje vyrams
+    Liubeko vaitui, tarybos nariams ir Liubeko miesto bendruomenei2.
+    Mes tinkamai pamanėme, kad jūsų dėmesingumui reikia patikimai bei teisingai paaiškinti
+    mums geriausiai žinomą dalyką: būtent mes ir regėjome, ir girdėjome, ir dalyvavome [mini-
+    muose įvykiuose], kai dar buvome paskirti Rygos prepozito pareigoms. O būtent: kai tarp
+    gerbiamo tėvo ir pono Jono3, mūsų pirmtako, tuo metu buvusio Rygos arkivyskupu, bei
+    brolio Ernesto4, Vokiečių ordino magistro, valdančio Livoniją, ir Rygos miesto bei visų
+    gyventojų iš vienos pusės ir Lietuvos karaliaus, vardu Traidenis5, veikusio už save patį ir visus
+    savo pavaldinius, iš kitos pusės, buvo patvirtinta nuolatinės taikos sutartis6, tasai karalius,
+    paskyręs pasiuntinį pas anksčiau nurodytą šviesaus atminimo mūsų pirmtaką, minėtą magist­
+    rą bei Rygos miestiečius, atidžiau susirūpino prašyti, idant iš pastarųjų būtų atsiųstas pas
+    karalių rūpestingas bei garbingas pasiuntinys, su kuriuo jis galėtų patikimai bei naudingai
+    abiem pusėms kalbėtis apie įvairius reikalus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
 ## Citatos
 
-- id: c-85639
+- id: c-203129
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 163"
@@ -114,14 +136,15 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
     494  Žuvo 1279.111.5 prie dab.
   citata_rodoma: "Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,\nLivonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių\npasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties\nmetais."
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-003
 
-- id: c-85640
+- id: c-203720
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 163"
@@ -135,7 +158,8 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
     metais.
   citata_rodoma: "Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais\n\n   Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.\nMirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,\nLivonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių\npasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties\nmetais."
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

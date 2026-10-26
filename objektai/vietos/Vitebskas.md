@@ -1,20 +1,28 @@
 ---
 tipas: vieta
-pavadinimas: Vitebskas
+pavadinimas: 'Vitebskas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Gedimino laiškai'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - 'Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių'
+  - 'Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+  - 'Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 datos:
-  - 1307 m.
-  - 2026 m.
+  - '1307 m.'
+  - '2026 m.'
 date_start: '1307'
 date_end: '2026'
 sukurta: ''
@@ -25,45 +33,29 @@ tags:
   - vieta
   - žemė
 amziai:
-  - XIV
-  - XXI
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-089dad8a89d343cb9bc9a59a
-canonical_name: Vitebskas
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Vitebskan
-  - Vitebskas
-  - Vitebske
-  - Vitebsko
-  - Vitebską
-sameAs: []
-canonical_biography: 'Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske. 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė. Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.'
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-089dad8a89d343cb9bc9a59a"
+canonical_name: "Vitebskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vitebskan","Vitebskas","Vitebske","Vitebsko","Vitebską"]
+sameAs: ["https://www.wikidata.org/entity/Q102217"]
+canonical_biography: "Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske. 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė. Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Vitebskas","url":"https://lt.wikipedia.org/wiki/Vitebskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vitebskas","url":"https://www.vle.lt/straipsnis/vitebskas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-18T21:59:54+00:00","source_checked_at":"2026-09-18T21:59:54+00:00","counts":{"relations":32,"gallery":0,"sources":18},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­ mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­ gos pirklys Hanulo įteikė jam pilies raktus^1 ).","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","claim_id":"t-181111","evidence_id":"c-164682","origin":"internal"},"wiki":{"intro":"Vìtebskas (bltr. Віцебск, rus. Витебск) – miestas šiaurės rytų Baltarusijoje, 275 km į šiaurės rytus nuo Minsko, Dauguvos ir jos intako Vitbos upių santakoje. Vitebsko srities ir Vitebsko rajono centras. Antras (po Polocko) pagal senumą Baltarusijoje ir ketvirtas pagal dydį (po Minsko, Gomelio ir Mogiliavo) šalies miestas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"35258","revision_id":"7859977","status":"published","translation_status":"native","source":{"title":"Vitebskas","url":"https://lt.wikipedia.org/wiki/Vitebskas","publisher":"Vikipedija","language":"lt","article_id":"35258","revision_id":"7859977","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7859977","history_url":"https://lt.wikipedia.org/w/index.php?title=Vitebskas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:23:20.143924+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"abdf922974703c93ba137e2f6d9d6586a3f9ff8e050c31c097613cb737cecd58","version_pk":"32ddf8e39df5c99ff88be962747f45fe"}},"source_buttons":[{"label":"Vikipedija","title":"Vitebskas","url":"https://lt.wikipedia.org/wiki/Vitebskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vitebskas","url":"https://www.vle.lt/straipsnis/vitebskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vitebskas","https://www.vle.lt/straipsnis/vitebskas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"49075cf4cd53130fd253581b","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Vitebskas buvo Dauguvos prekybos kelio erdvėje; per Polocką ir Vitebską plačios LDK sritys buvo įtrauktos į Dauguvos prekybą.","context":"Zenonas Ivinskis, 1978 m., aprašydamas LDK prekybą.","support_ids":["t-200350","c-32548"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200350","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32548","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Esant nepatogiam susisiekimui į Pietus, vis daugiau reikšmės įgijo Dauguvos kelias. Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą. Vilniuje ir Trakuose atsirado vokiečių pirklių kolonijos. Nuo Vytenio ir Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos centru."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"390faa22173ff34e942d0288","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Vitebsko apylinkės priklausė LDK branduoliui, kurį Karolis Zikaras apibūdina kaip tankiausiai apgyventą ir turtingiausią kraštą.","context":"Karolis Zikaras, 2013 m.; autoriaus apibūdinimas 1505 m. totorių žygio kontekste.","support_ids":["t-181148","c-164683"],"source_refs":[{"kind":"internal_claim","claim_id":"t-181148","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-164683","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte. Totoriai neturėjo pagrindo įtarti, kad sėkmė nuo jų šį kartą nusisuks."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4a2e68e859d255c37c02d4cb","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Vitebskas buvo miestas prie Dauguvos; Narbutas Vitebsko vietoje mini senovės pilį Witsby.","context":"Teodoras Narbutas, 1995 m., remdamasis Karamzinu; senovės laikotarpio aprašymas.","support_ids":["t-213140","c-195715"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213140","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195715","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Toliausiai į pietryčius gyveno stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų pavadinimą išsaugojo, kaip teisingai pastebėjo Malte- Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi- bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­ lis prie Dauguvos Witsby, kur dabar yra Vitebskas, — apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma nustatyti, kuriai giminei priklausė šios tautos; jos pasi­ meta sarmatų genčių sūkuryje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"799de90d65bd23aa794c2430","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Vitebskas buvo atskiros kunigaikštijos centras; XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos.","context":"A. Šapoka (red.), 1936 m.; XII a. istorinis laikotarpis.","support_ids":["t-203201","c-183595"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203201","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-183595","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"26c3c5700205c6b674edf44c","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Vitebskas buvo politinės valdžios vieta: čia viešpatavo Algirdas, vėliau jo tėvo žemės Vitebskas buvo paliktos Jogailai.","context":"Michał Baliński, 2007 m., ir Zenonas Ivinskis, 1978 m.; XIV a. politinis kontekstas.","support_ids":["t-200342","c-164684","t-200353","c-183587"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200342","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-200353","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-164684","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma- zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės neįgijęs, sergėjo."},{"kind":"evidence","evidence_id":"c-183587","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Jogailai nenujaučiant, Kęstutis, staiga užėmęs sostinę, nelais­ vėn paėmė Jogailą su jo broliais ir motina. Perversmo pasėkoje Jogailai tebuvo paliktos jo tėvo žemės — Vitebskas ir Kriavo kunigaikštystė, o pats Kęstutis pirmą kartą paėmė aukščiausią valdžią, tapdamas didžiuoju kunigaikščiu (1381-82). Jogailos prie­ šui Andriui jis leido grįžti į Polocką."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ceeb6743ddb1121d12e035fe","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Vitebskas buvo karinių pajėgų telkimo vieta: Švitrigaila čia sutelkė savo ir pavaldžių rusų kunigaikščių pajėgas prieš žygį į Lietuvą.","context":"Karolis Zikaras, 2013 m.; žygio į Lietuvą prieš mūšį kontekstas.","support_ids":["t-200320","c-164706"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200320","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-164706","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Prieš mūšį Žygiui į Lietuvą kunigaikštis Švitrigaila savo ir pavaldžių rusų kunigaikščių pa- jėgas sutelkė Vitebske, iš kur patraukė į Breslaują. Čia prisijungė Livonijos ma- gistro kariuomenė ir šios jungtinės pajė- gos „Užnerio puse“ žygiavo į Vilkmergę (Ukmergę)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"87a5b4f64e95584a878e586f","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1562 m. Vitebske vyko Lietuvos Didžiosios Kunigaikštystės „karo lauko“ seimas.","context":"Alfonsas Eidintas ir kt., 2013 m.; Livonijos karo laikotarpis.","support_ids":["t-181153","c-164724"],"source_refs":[{"kind":"internal_claim","claim_id":"t-181153","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-164724","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvos Didžiajai Kunigaikštijai sunkiai sekėsi atlaikyti rytų frontą Li- vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"80047d04c7f853bb2ef37080","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Vitebske buvo įkurta pijarų mokykla – pilna kolegija arba žemesnioji mokykla.","context":"A. Šapoka (red.), 1936 m.; mokyklų steigimo laikotarpio aprašymas.","support_ids":["t-181155","c-164686"],"source_refs":[{"kind":"internal_claim","claim_id":"t-181155","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-164686","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie- tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va- leranavoj, Vitebske, Želviuose ir dar vienur kitur. #### 6."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c109097c4d98a61c6c739cb2","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Vitebske veikė jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.","context":"A. Šapoka (red.), 1936 m.; jėzuitų kolegijų fundacijų aprašymas.","support_ids":["t-181150","c-21492"],"source_refs":[{"kind":"internal_claim","claim_id":"t-181150","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-21492","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig- manto fundacija), Smolenske (klebono Lempickio ir kt. fun- dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau- garduke (sudėtinė fundacija), Bobruiske (Triznos fun- dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa- šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja), Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš- kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa- piegos f-ja)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2a279c6e40d7d330387c5da5","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1742 m. Vitebske buvo numatyta pastatyti bernardinams Šv. Antano bažnyčią.","context":"Šaltinis apie LDK tradicijas ir naujoves; 1742 m. sutarties kontekstas.","support_ids":["t-208192","c-190727"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208192","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"},{"kind":"evidence","evidence_id":"c-190727","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md","quote":"1742, m. vasario mėn. Vilniuje J. Fontana pasirašė sutartį su Vitebsko vaivadiene Tekle Oginskiene Vitebske pastatyti bernardinams Šv. Antano bažnyčią"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vitebskas – istorinis miestas ir kunigaikštystėms svarbi vieta dabartinės Baltarusijos istorijos erdvėje. XII a., Polocko kunigaikštijai suskilus, iš Vitebsko susidarė atskira kunigaikštija. Vėliau miestas tapo Lietuvos ekspansijos ir valdovų kovų dalimi: Gediminas prie anksčiau lietuvių valdytų žemių prijungė ir Vitebsko žemes. XIV a. pabaigoje Vitebskas buvo reikšmingas kariniuose įvykiuose – 1382 m. birželio 12 d. Jogaila nuo jo atėjo į Vilnių, o Vytautas, sutelkęs pulkus Smolenske, po keturias savaites trukusio puolimo miestą užėmė. XVI a. Vitebskas išliko politinio sprendimo vieta: 1562 m. čia susirinkęs karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.","sentences":[{"sentence_id":"s1","text":"Vitebskas – istorinis miestas ir kunigaikštystėms svarbi vieta dabartinės Baltarusijos istorijos erdvėje.","support_ids":["t-181113","c-164690"]},{"sentence_id":"s2","text":"XII a., Polocko kunigaikštijai suskilus, iš Vitebsko susidarė atskira kunigaikštija.","support_ids":["t-181113","c-164690"]},{"sentence_id":"s3","text":"Vėliau miestas tapo Lietuvos ekspansijos ir valdovų kovų dalimi: Gediminas prie anksčiau lietuvių valdytų žemių prijungė ir Vitebsko žemes.","support_ids":["t-181115","c-164696"]},{"sentence_id":"s4","text":"XIV a. pabaigoje Vitebskas buvo reikšmingas kariniuose įvykiuose – 1382 m. birželio 12 d. Jogaila nuo jo atėjo į Vilnių, o Vytautas, sutelkęs pulkus Smolenske, po keturias savaites trukusio puolimo miestą užėmė.","support_ids":["t-200322","c-164682","t-181156","c-164697"]},{"sentence_id":"s5","text":"XVI a. Vitebskas išliko politinio sprendimo vieta: 1562 m. čia susirinkęs karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.","support_ids":["t-181153","c-164724"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai neparemia teiginių, kad Vitebskas buvo istorinis miestas ir svarbi vieta dabartinės Baltarusijos istorijoje; jie tik nurodo Vitebsko kunigaikštijos susidarymą."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai teigia, kad XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis tiesiogiai patvirtina, kad Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo Vitebsko žemes, tačiau neparemia viso apibendrinimo apie Lietuvos ekspansiją ir valdovų kovas."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina, kad 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, o Vytautas, sutelkęs pulkus Smolenske, po keturias savaites trukusio puolimo užėmė Vitebską."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad 1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-181113","c-164690"]},{"sentence_id":"s2","supported":true,"support_ids":["t-181113","c-164690"]},{"sentence_id":"s3","supported":true,"support_ids":["t-181115","c-164696"]},{"sentence_id":"s4","supported":true,"support_ids":["t-200322","c-164682","t-181156","c-164697"]},{"sentence_id":"s5","supported":true,"support_ids":["t-181153","c-164724"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-181140","confidence":0.88},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-180060","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Aleksandras Balinskis","claim_id":"t-181112","confidence":0.64},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Vikintas","claim_id":"t-34831","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-122427","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Pijarų ordinas","claim_id":"t-72605","confidence":0.75},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Elena","claim_id":"t-210521","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-181124","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-181124","confidence":0.91},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-181141","confidence":0.66},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-184666","confidence":0.7},{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Gediminas","claim_id":"t-30356","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Jogaila","claim_id":"t-210488","confidence":0.73},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-181128","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mechmet Girėjus","claim_id":"t-185753","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179399","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Livonijos ordinas","claim_id":"t-179399","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Maskvėnai","claim_id":"t-181144","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-119096","confidence":0.72},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-210722","confidence":0.87},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-181136","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-176733","confidence":0.93},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176733","confidence":0.95},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179367","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Smolensko pulkai","claim_id":"t-81606","confidence":0.82},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-181115","confidence":0.92},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-10666","confidence":0.96},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-176293","confidence":0.86},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179699","confidence":0.96},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/grupes/Lietuvos Didžioji Kunigaikštija","claim_id":"t-169687","confidence":0.74},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-35996","confidence":0.74},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-181125","confidence":0.94}],"timeline":[{"date":"1382 m.","label":"1382 m.","claimId":"t-181111"},{"date":"1382 m.","label":"1382 m.","claimId":"t-181118"},{"date":"1382 m.","label":"1382 m.","claimId":"t-200322"},{"date":"1382 m.","label":"1382 m.","claimId":"t-200355"},{"date":"1382 m.","label":"1382 m.","claimId":"t-200360"},{"date":"1392 m.","label":"Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m.","claimId":"t-200364"},{"date":"1411 m.","label":"1411 m.","claimId":"t-181124"},{"date":"1411 m.","label":"1411 m.","claimId":"t-200337"}],"support_disclosure":{"claims":91,"sources":16}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: f731a93de7407030
-object_page_generated_at: '2026-09-18T21:59:54+00:00'
-object_page_source_checked_at: '2026-09-18T21:59:54+00:00'
-object_page_content_state: content
-object_page_claim_count: '91'
-object_page_source_count: '16'
-object_page_seo_description: 'Vitebskas – istorinis miestas ir kunigaikštystėms svarbi vieta dabartinės Baltarusijos istorijos erdvėje. XII a., Polocko kunigaikštijai suskilus, iš Vitebsko…'
-object_page_seo_input_hash: cc1ed1e7d8523ae48773a1a497136ada5158c8dbfe940ae89c3c8e16ea349740
-object_page_seo_generated_at: '2026-09-18T21:59:54+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vitebskas
 
@@ -76,7 +68,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-181110"></a>
 - t-001
   teiginys: "Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,7 +85,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-181111"></a>
 - t-002
   teiginys: "1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -114,7 +106,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-181113"></a>
 - t-003
   teiginys: "XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -128,30 +120,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindžia:
     - c-164690
     - c-183595
-    - c-183607
-
-<a id="claim-t-181115"></a>
-- t-004
-  teiginys: "Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Vitebskas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Gediminą su užkariautų Vitebsko žemių prijungimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gediminas užkariavo Vitebskas (0.92); Gediminas užkariavo Kijevas (0.90); Lietuviai valdė teritoriją Polockas (0.55)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-164696
 
 <a id="claim-t-181118"></a>
-- t-005
+- t-004
   teiginys: "1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -170,9 +143,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183601
 
 <a id="claim-t-181121"></a>
-- t-006
+- t-005
   teiginys: "Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -188,30 +161,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-164705
-
-<a id="claim-t-181123"></a>
-- t-007
-  teiginys: "Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Švitrigaila: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Bendra pajėgų antraštė rodo Švitrigailos ir Ordino sąjungą šiame kariniame kontekste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas buvo sąjungininkas su Švitrigaila (0.74)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-164716
-    - c-183596
+    - c-183617
 
 <a id="claim-t-181124"></a>
-- t-008
+- t-006
   teiginys: "1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vitebskas: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -228,11 +183,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164703
+    - c-183605
 
 <a id="claim-t-181125"></a>
-- t-009
+- t-007
   teiginys: "Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_teritorija -> Polockas: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -246,11 +202,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-164695
+    - c-183584
 
 <a id="claim-t-181126"></a>
-- t-010
+- t-008
   teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Ukraina: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -263,11 +220,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   semantiniai_rysiai: "Švitrigaila keliavo į Ukraina (0.90); Švitrigaila gyveno Vitebskas (0.78)"
   pagrindžia:
     - c-164691
+    - c-183616
 
 <a id="claim-t-181127"></a>
-- t-011
+- t-009
   teiginys: "Vitebskas buvo viena iš vietų, kur įkurtos pijarų mokyklos."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -282,31 +240,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-164686
     - c-183615
 
-<a id="claim-t-181128"></a>
-- t-012
-  teiginys: "Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vitebskas pateiktas kaip viena prie Lietuvos prijungtų Baltosios Rusios vietų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Vitebskas priklausė Lietuva (0.86); Polockas priklausė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1340 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutelktas į Vitebską ir sutrumpintas."
-  pagrindžia:
-    - c-164685
-    - c-183588
-
 <a id="claim-t-181129"></a>
-- t-013
+- t-010
   teiginys: "Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Krėva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -316,15 +253,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Krėva išvardyta kaip viena iš vietų, kur Algirdas viešpatavo."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė miestą Vitebskas (0.90); Algirdas (Lietuvos valdovas) valdė miestą Krėva (0.90)"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė miestą Krėva (0.90); Algirdas (Lietuvos valdovas) valdė miestą Vitebskas (0.90)"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-164684
+    - c-183585
 
 <a id="claim-t-181131"></a>
-- t-014
+- t-011
   teiginys: "Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_teritorija -> Vitebskas: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -340,31 +278,30 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-164695
     - c-183584
 
-<a id="claim-t-181136"></a>
-- t-015
-  teiginys: "Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
-  atnaujinta: "2026-07-19 16:46"
+<a id="claim-t-181132"></a>
+- t-012
+  teiginys: "Panaikinus Vitebsko kunigaikštiją, jos dvarai ir pajamos pateko į tiesioginę Vytauto valdžią."
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Naugardukas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Naugarduko apylinkės tiesiogiai išvardytos tarp totorių žygio niokojamų vietų."
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Totoriai surengė žygį į Vitebskas (0.82); Totoriai surengė žygį į Vilnius (0.82); Totoriai surengė žygį į Naugardukas (0.82); Totoriai surengė žygį į Sluckas (0.82)"
-  temporaliniai_duomenys: "mūšio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-164683
-    - c-183594
+    - c-164692
+    - c-164703
+    - c-183605
+    - c-183589
 
 <a id="claim-t-181138"></a>
-- t-016
+- t-013
   teiginys: "Iš Rusios miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> kunigaikštija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -377,11 +314,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-164690
+    - c-183595
 
 <a id="claim-t-181139"></a>
-- t-017
+- t-014
   teiginys: "Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krėva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -393,11 +331,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-164684
+    - c-183585
 
 <a id="claim-t-181140"></a>
-- t-018
+- t-015
   teiginys: "Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo jį užėmė, o Švitrigailą paėmė į nelaisvę."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Vitebskas: 0.97"
   ryšio_patikimumo_lygis: "aukstas"
@@ -414,9 +353,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183619
 
 <a id="claim-t-181143"></a>
-- t-019
+- t-016
   teiginys: "Žygiui į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Breslauja: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -428,11 +367,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-164709
+    - c-183583
 
 <a id="claim-t-181144"></a>
-- t-020
+- t-017
   teiginys: "1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -452,9 +392,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183586
 
 <a id="claim-t-181145"></a>
-- t-021
+- t-018
   teiginys: "Švitrigaila Vitebske įsakė Alšėnų kunigaikštį nuo aukšto skardžio įmesti į Dviną."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Alšėnai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -467,11 +407,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-164712
+    - c-183597
 
 <a id="claim-t-181146"></a>
-- t-022
+- t-019
   teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Ukraina: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -485,49 +426,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164691
-
-<a id="claim-t-181148"></a>
-- t-023
-  teiginys: "1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vitebskas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Niokojimas apylinkėse tiesiogiai palaiko totorių puolimą prieš Vitebsko apylinkes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Totoriai puolė Vitebskas (0.87)"
-  temporaliniai_duomenys: "įvykio data: 1505 m.; įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinti neaiškūs įvardžiai ir kontekstinė formuluotė."
-  pagrindžia:
-    - c-164683
-    - c-183594
-
-<a id="claim-t-181149"></a>
-- t-024
-  teiginys: "Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dlugošas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dlugošas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164710
-    - c-164716
+    - c-183616
 
 <a id="claim-t-181150"></a>
-- t-025
+- t-020
   teiginys: "Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -542,9 +446,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-21492
 
 <a id="claim-t-181153"></a>
-- t-026
+- t-021
   teiginys: "1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -562,9 +466,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183608
 
 <a id="claim-t-181155"></a>
-- t-027
+- t-022
   teiginys: "Vitebske veikė pijarų mokykla - pilna kolegija arba žemesnioji mokykla."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -576,11 +480,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-164686
+    - c-183615
 
 <a id="claim-t-181156"></a>
-- t-028
+- t-023
   teiginys: "Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Vitebskas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -593,32 +498,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.96); Vytautas (Lietuvos valdovas, XIV–XV a.) apgulė Vitebskas (0.88)"
   pagrindžia:
     - c-164697
+    - c-183603
     - c-164713
 
-<a id="claim-t-184324"></a>
-- t-029
-  teiginys: "Jogailai grįžus iš Vitebsko, Kęstutis organizavo pasipriešinimą, o Vytautas jam tik padėjo."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-167695
-    - c-183592
-
 <a id="claim-t-185201"></a>
-- t-030
+- t-024
   teiginys: "Algirdas, priėmęs krikščionybę žmonos Julijonos noru, neatmetė rusų apeigų ir pastatė rusams Vitebske porą šventovių."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -635,9 +521,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-168562
 
 <a id="claim-t-185202"></a>
-- t-031
+- t-025
   teiginys: "Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -653,10 +539,293 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindžia:
     - c-168563
 
-<a id="claim-t-187685"></a>
+<a id="claim-t-193250"></a>
+- t-026
+  teiginys: "Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175983
+    - c-183593
+
+<a id="claim-t-193251"></a>
+- t-027
+  teiginys: "Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175984
+    - c-183582
+
+<a id="claim-t-200328"></a>
+- t-028
+  teiginys: "Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
+  susije_objektai: "mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius; llm_object: Vilnius"
+  semantiniai_rysiai: "Vitebskas priklausė Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-183590
+
+<a id="claim-t-200350"></a>
+- t-029
+  teiginys: "Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys tiesiogiai remiasi citata apie prekybą per Vitebską."
+  susije_objektai: "mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Ryga; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Dauguva; llm_object: Lietuva"
+  semantiniai_rysiai: "Vitebskas prekiavo su Dauguva"
+  ryšio_patikimumas: "keliavo_i -> Vitebskas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas tiesiogiai minimas vykęs pro Vitebską."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-32548
+
+<a id="claim-t-200351"></a>
+- t-030
+  teiginys: "Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuotas pilnas sakinys apie Vitebską."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Strėva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-183611
+
+<a id="claim-t-200355"></a>
+- t-031
+  teiginys: "1382 m. birželio 12 d. Jogailai atvykus iš Vitebsko į Vilnių, Hanulis jam įteikė pilies raktus."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Hanulis|Hanulis]]; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-32547
+
+<a id="claim-t-200364"></a>
 - t-032
+  teiginys: "Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiesiogiai atitinka citatą."
+  susije_objektai: "llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brianskas; mentioned_place: Naugardas"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vitebskas; [[objektai/asmenys/Skirgaila|Skirgaila]] užėmė Vitebskas"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-183602
+
+<a id="claim-t-201680"></a>
+- t-033
+  teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185027
+
+<a id="claim-t-203166"></a>
+- t-034
+  teiginys: "Vitebskas minimas tarp vietų, kuriose buvo įkurtos pijarų mokyklos – pilnos kolegijos arba žemesniosios mokyklos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinė formuluotė yra ilgas sąrašas su nutrūkusia pabaiga."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-183615
+
+<a id="claim-t-203195"></a>
+- t-035
+  teiginys: "Veikale „A. Šapoka (red.), Lietuvos istorija“ teigiama, kad sąmokslui ne visai pavykus Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Polockas; llm_object: Vitebskas; llm_object: Kijevas; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas"
+  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Vitebskas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-183584
+
+<a id="claim-t-203201"></a>
+- t-036
+  teiginys: "Iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Polockas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-183595
+
+<a id="claim-t-203278"></a>
+- t-037
+  teiginys: "Pasak „Lietuvos istorijos“, sąmokslui ne visai pasisekus Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys yra nutrūkęs ir per daug apkrautas sąrašu."
+  susije_objektai: "llm_object: Vitebskas; llm_object: Polockas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas"
+  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Vitebskas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-183584
+
+<a id="claim-t-203326"></a>
+- t-038
+  teiginys: "Michał Baliński rašo, kad Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutinių audringos senatvės dienų."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginį reikia sugramatinti, išlaikant citatos patvirtintą turinį."
+  susije_objektai: "llm_object: Ukraina; mentioned_place: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Vitebskas"
+  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] gyveno Vitebskas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-183616
+
+<a id="claim-t-203329"></a>
+- t-039
+  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginį verta sugramatinti ir tiksliau perteikti citatos formuluotę."
+  susije_objektai: "llm_object: Ukraina; mentioned_place: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Vitebskas"
+  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] gyveno Vitebskas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-183616
+
+<a id="claim-t-203335"></a>
+- t-040
+  teiginys: "Albertas Vijūkas-Kojelavičius „Lietuvos istorijoje“ rašo, kad Algirdas, žmonos Julijonos noru sutikęs priimti krikščionybę, neatmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys aiškiai nurodo Algirdo veiksmą Vitebske ir yra paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168562
+
+<a id="claim-t-203389"></a>
+- t-041
+  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad Švitrigaila, sugavęs Alšėnų kunigaikštį, įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje aprašytą Švitrigailos veiksmą Vitebske."
+  susije_objektai: "mentioned_place: Alšėnai; mentioned_place: Dvina; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-183597
+
+<a id="claim-t-203965"></a>
+- t-042
+  teiginys: "1433 m. Lietuvos didysis kunigaikštis Švitrigaila Vitebske, Dauguvos upėje prie miesto, įsakė nuskandinti kunigaikštį Mykolą Jonaitį Alšėniškį."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1433 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Švitrigailos titulą, 1433 m. įvykį, Vitebsko vietą, bausmės būdą ir nukentėjusį asmenį. Šaltinio faktai išlaikyti be papildomų išvadų."
+  pagrindžia:
+    - c-186569
+
+<a id="claim-t-204090"></a>
+- t-043
+  teiginys: "Vitebsko poreforminio LDK pavieto rankraštinės žemės teismo knygos išliko Baltarusijos NIA iki XVII a. pradžios."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186694
+
+<a id="claim-t-206601"></a>
+- t-044
+  teiginys: "Švitrigailos veiksmus Teodoras Narbutas aiškina jo įsižeidimu dėl Vitebsko atėmimo: kunigaikštis, kaip išdavikas, užpuolė miestą, nužudė Viosną ir įkurdino vietininką."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189216
+
+<a id="claim-t-206602"></a>
+- t-045
+  teiginys: "Vitebsko apgulties metu, kaip pasakoja Teodoras Narbutas, atvykus Smolensko kunigaikščiui Jurijui Sviatoslavovičiui, išgąsdinti miestiečiai atidavė miestą puolėjams."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189217
+
+<a id="claim-t-206603"></a>
+- t-046
+  teiginys: "Didysis kunigaikštis, kaip aprašo Teodoras Narbutas, apsupo Vitebską; maištininkai trisdešimt dienų priešinosi, kol šturmu buvo paimta Žemutinė pilis."
+  atnaujinta: "2026-09-28 21:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189218
+
+<a id="claim-t-210406"></a>
+- t-047
+  teiginys: "Prie kronikos rankraščio buvo pridėta trumpa Vitebsko kunigaikščių genealogija."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193456
+
+<a id="claim-t-210488"></a>
+- t-048
   teiginys: "Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -672,84 +841,37 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   semantiniai_rysiai: "Vitebskas priklausė Jogaila (kunigaikštis, XIV–XV a.) (0.73)"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-170626
-    - c-186191
+    - c-194103
+    - c-193437
 
-<a id="claim-t-192778"></a>
-- t-033
-  teiginys: "Narbutas, remdamasis Karamzinu, Vitebsko vietoje minėjo senovės pilį prie Dauguvos Witsby kaip vibionų arba vitbionų genties sostinę."
-  atnaujinta: "2026-08-06 20:25"
+<a id="claim-t-211104"></a>
+- t-049
+  teiginys: "Išsiuntė jį į Vitebską ir ten liepė jį Dauguvoje, prie Vitebsko, nu skandinti."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-175548
-    - c-183598
+    - c-193959
 
-<a id="claim-t-193250"></a>
-- t-034
-  teiginys: "Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis."
-  atnaujinta: "2026-08-06 20:25"
+<a id="claim-t-211139"></a>
+- t-050
+  teiginys: "Švitrigaila Vitebske sudegino metropolitą Gerasimą."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-175983
-    - c-183593
+    - c-193993
 
-<a id="claim-t-193251"></a>
-- t-035
-  teiginys: "Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175984
-    - c-183582
-
-<a id="claim-t-200321"></a>
-- t-036
-  teiginys: "Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Strėva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-183611
-
-<a id="claim-t-200328"></a>
-- t-037
-  teiginys: "Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją."
-  susije_objektai: "mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius; llm_object: Vilnius"
-  semantiniai_rysiai: "Vitebskas priklausė Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-183590
-
-<a id="claim-t-200345"></a>
-- t-038
+<a id="claim-t-211223"></a>
+- t-051
   teiginys: "Vytautas su Skirgaila ir didele kariuomene žygiavo į Vitebską prieš kunigaikštį Švitrigailą."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -766,12 +888,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-183620
+    - c-194338
 
-<a id="claim-t-200347"></a>
-- t-039
+<a id="claim-t-211355"></a>
+- t-052
   teiginys: "Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -789,271 +911,31 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-186190
+    - c-193446
+    - c-193437
+    - c-194103
 
-<a id="claim-t-200350"></a>
-- t-040
-  teiginys: "Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-213140"></a>
+- t-053
+  teiginys: "Narbutas, remdamasis Karamzinu, Vitebsko vietoje minėjo senovės pilį prie Dauguvos Witsby kaip vibionų arba vitbionų genties sostinę."
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys tiesiogiai remiasi citata apie prekybą per Vitebską."
-  susije_objektai: "mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Ryga; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Dauguva; llm_object: Lietuva"
-  semantiniai_rysiai: "Vitebskas prekiavo su Dauguva"
-  ryšio_patikimumas: "keliavo_i -> Vitebskas: 0.91"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išskleistas Vitebsko vietos ryšys su Witsby ir genties sostine. Senovės lokalizacija bei rėmimasis Karamzinu palikti su autoriaus atribucija."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vibionai|Vibionai]]; mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Sarmatai|Sarmatai]]; mentioned_place: Styrė"
+  ryšio_patikimumas: "keliavo_i -> Ukraina: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas tiesiogiai minimas vykęs pro Vitebską."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ukraina: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Švitrigaila nusigavo į Ukrainą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-32548
-
-<a id="claim-t-200355"></a>
-- t-041
-  teiginys: "1382 m. birželio 12 d. Jogailai atvykus iš Vitebsko į Vilnių, Hanulis jam įteikė pilies raktus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Hanulis|Hanulis]]; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-32547
-
-<a id="claim-t-200361"></a>
-- t-042
-  teiginys: "Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys aiškiai nurodo Švitrigailos veiksmą Vitebske ir yra paremtas citata."
-  susije_objektai: "llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vitebskas; [[objektai/asmenys/Skirgaila|Skirgaila]] užėmė Vitebskas; [[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė miestą Vitebskas"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Švitrigailos veiksmą Vitebske ir yra paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-183602
-
-<a id="claim-t-200364"></a>
-- t-043
-  teiginys: "Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiesiogiai atitinka citatą."
-  susije_objektai: "llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brianskas; mentioned_place: Naugardas"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vitebskas; [[objektai/asmenys/Skirgaila|Skirgaila]] užėmė Vitebskas"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai atitinka citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-183602
-
-<a id="claim-t-200367"></a>
-- t-044
-  teiginys: "Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Vitebskas; llm_object: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-183610
-
-<a id="claim-t-201680"></a>
-- t-045
-  teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185027
-
-<a id="claim-t-203166"></a>
-- t-046
-  teiginys: "Vitebskas minimas tarp vietų, kuriose buvo įkurtos pijarų mokyklos – pilnos kolegijos arba žemesniosios mokyklos."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinė formuluotė yra ilgas sąrašas su nutrūkusia pabaiga."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-183615
-
-<a id="claim-t-203195"></a>
-- t-047
-  teiginys: "Veikale „A. Šapoka (red.), Lietuvos istorija“ teigiama, kad sąmokslui ne visai pavykus Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Polockas; llm_object: Vitebskas; llm_object: Kijevas; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas"
-  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Vitebskas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-183584
-
-<a id="claim-t-203201"></a>
-- t-048
-  teiginys: "Iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Polockas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-183595
-
-<a id="claim-t-203278"></a>
-- t-049
-  teiginys: "Pasak „Lietuvos istorijos“, sąmokslui ne visai pasisekus Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys yra nutrūkęs ir per daug apkrautas sąrašu."
-  susije_objektai: "llm_object: Vitebskas; llm_object: Polockas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas"
-  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Vitebskas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-183584
-
-<a id="claim-t-203326"></a>
-- t-050
-  teiginys: "Michał Baliński rašo, kad Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutinių audringos senatvės dienų."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginį reikia sugramatinti, išlaikant citatos patvirtintą turinį."
-  susije_objektai: "llm_object: Ukraina; mentioned_place: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Vitebskas"
-  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] gyveno Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-183616
-
-<a id="claim-t-203329"></a>
-- t-051
-  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginį verta sugramatinti ir tiksliau perteikti citatos formuluotę."
-  susije_objektai: "llm_object: Ukraina; mentioned_place: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Vitebskas"
-  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] gyveno Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-183616
-
-<a id="claim-t-203335"></a>
-- t-052
-  teiginys: "Albertas Vijūkas-Kojelavičius „Lietuvos istorijoje“ rašo, kad Algirdas, žmonos Julijonos noru sutikęs priimti krikščionybę, neatmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys aiškiai nurodo Algirdo veiksmą Vitebske ir yra paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168562
-
-<a id="claim-t-203389"></a>
-- t-053
-  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad Švitrigaila, sugavęs Alšėnų kunigaikštį, įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje aprašytą Švitrigailos veiksmą Vitebske."
-  susije_objektai: "mentioned_place: Alšėnai; mentioned_place: Dvina; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-183597
-
-<a id="claim-t-203965"></a>
-- t-054
-  teiginys: "1433 m. Lietuvos didysis kunigaikštis Švitrigaila Vitebske, Dauguvos upėje prie miesto, įsakė nuskandinti kunigaikštį Mykolą Jonaitį Alšėniškį."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  temporaliniai_duomenys: "įvykio data: 1433 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Švitrigailos titulą, 1433 m. įvykį, Vitebsko vietą, bausmės būdą ir nukentėjusį asmenį. Šaltinio faktai išlaikyti be papildomų išvadų."
-  pagrindžia:
-    - c-186569
-
-<a id="claim-t-204090"></a>
-- t-055
-  teiginys: "Vitebsko poreforminio LDK pavieto rankraštinės žemės teismo knygos išliko Baltarusijos NIA iki XVII a. pradžios."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186694
-
-<a id="claim-t-204285"></a>
-- t-056
-  teiginys: "1556 m. Vitebsko vaivada Steponas Zbaražskis, nuomodamasis smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  temporaliniai_duomenys: "įvykio data: 1556 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir tiesiogiai pagrįstas 1556 m. aktu. Išlaikyti visi citatoje nurodyti asmenys bei veiksmas."
-  pagrindžia:
-    - c-186914
-
-<a id="claim-t-206601"></a>
-- t-057
-  teiginys: "Švitrigailos veiksmus Teodoras Narbutas aiškina jo įsižeidimu dėl Vitebsko atėmimo: kunigaikštis, kaip išdavikas, užpuolė miestą, nužudė Viosną ir įkurdino vietininką."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189216
-
-<a id="claim-t-206602"></a>
-- t-058
-  teiginys: "Vitebsko apgulties metu, kaip pasakoja Teodoras Narbutas, atvykus Smolensko kunigaikščiui Jurijui Sviatoslavovičiui, išgąsdinti miestiečiai atidavė miestą puolėjams."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189217
-
-<a id="claim-t-206603"></a>
-- t-059
-  teiginys: "Didysis kunigaikštis, kaip aprašo Teodoras Narbutas, apsupo Vitebską; maištininkai trisdešimt dienų priešinosi, kol šturmu buvo paimta Žemutinė pilis."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189218
+    - c-195715
 
 ## Reikšmingi paminėjimai
 - c-028
@@ -1083,36 +965,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- t-078
+- t-071
 
-- c-029
-  santrauka: 'Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    . 2 0
-
-    ## Puslapis 171
-
-    PRIEDAI
-
-    ## Puslapis 172
-
-    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1  vieton
-    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
-    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
-    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
-    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
-    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
-    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
-    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
-    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
-    nutį išvyti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-050
+- c-076
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O Moldavijos vaivada, matydamas, kad
@@ -1136,6 +991,20 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     taikos sutarties, darydamas gėdą savo šaliai, skubiai
     pranešė turkų sultonui, ir Vengrijai, ir Valakijos vai­
     vadai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+- c-082
+  santrauka: 'Gediminas kontroliavo Vitebską, kurį lietuviai nukariavo ankstesniame amžiuje ir ilgus metus valdė.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Gedimino valdymas pasižymi stiprėjančia Lietuvos ekspansija į Vakarų Rusią (arba kaip sovietų
+    autoriai vadina „agresija prieš" ją, kai aprašo Vokiečių ordino veiksmus). Gediminas kontrolia­
+    vo Polocką, Vitebską, Naugarduką, Gardiną. Juos lietuviai nukariavo ankstesniame amžiuje ir
+    (kaip ir šiaurinius miestus) ilgus metus valdė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1168,7 +1037,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-020
 
 - id: c-32547
   autorius: "Zenonas Ivinskis"
@@ -1181,12 +1050,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     raktus^13 , ir Vytautas, atvykęs su savo kariuomene prie pilies mūrų,
     jau nieko nebegalėjo padaryti.
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-031
 
 - id: c-32548
   autorius: "Zenonas Ivinskis"
@@ -1201,12 +1070,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
     centru.
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-029
 
 - id: c-44028
   sudarytojas: "Karolis Zikaras"
@@ -1235,7 +1104,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-017
 
 - id: c-164682
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1262,7 +1131,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-004
 
 - id: c-164683
   sudarytojas: "Karolis Zikaras"
@@ -1270,24 +1139,19 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 78"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
-    1506 m. vasarą totoriai įsiveržė į LDK valdas
-    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    Prieš metus įvykęs jų žygis
     leido jiems „smagintis“ Vilniaus ir Polocko,
     Vitebsko ir Drucko, Naugarduko ir Slucko
     apylinkėse - tikrajame LDK branduolyje,
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
-    - t-023
-
 - id: c-164684
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1310,8 +1174,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-017
+    - t-010
+    - t-014
 
 - id: c-164685
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1319,24 +1183,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 36"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 36."
   citata_originali: |
-    Tai šiek tiek primena frankus Galijoje,
-    t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
-    perėmusią vietinių žmonių kalbą bei kultūrą.
-    Algirdo didvalstybė
-    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
-    pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais
+    Mindaugo laikais
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:10"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
-
 - id: c-164686
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1359,8 +1215,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-027
+    - t-009
+    - t-022
 
 - id: c-164687
   autorius: "Michał Baliński"
@@ -1403,7 +1259,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-016
+    - t-013
 
 - id: c-164691
   autorius: "Michał Baliński"
@@ -1432,8 +1288,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-022
+    - t-008
+    - t-019
 
 - id: c-164692
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1453,10 +1309,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­\nko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­\nnijos ir Podolijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
 - id: c-164695
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1478,8 +1336,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-014
+    - t-007
+    - t-011
 
 - id: c-164696
   sudarytojas: "Karolis Zikaras"
@@ -1487,20 +1345,16 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 20"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 20."
   citata_originali: |
-    Pasiekimai vakaruose Gediminui leido
-    plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
+    Prie jau anksčiau lietuvių užvaldytų
     Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
     pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
     Lietuva tapo didvalstybe - regiono lydere.
-  citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere."
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-164697
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1530,7 +1384,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-023
 
 - id: c-164703
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1555,7 +1409,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
+    - t-012
 
 - id: c-164705
   autorius: "Michał Baliński"
@@ -1575,7 +1430,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-164706
   sudarytojas: "Karolis Zikaras"
@@ -1591,11 +1446,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Breslaują. Čia prisijungė Livonijos ma-
     gistro kariuomenė ir šios jungtinės pajė-
     gos „Užnerio puse“ žygiavo į Vilkmergę
-    (Ukmergę). Toliau planavo pulti Trakų -
-    Vilniaus kryptimi.
-  citata_rodoma: "Prieš mūšį\n\nŽygiui į Lietuvą kunigaikštis Švitrigaila\nsavo ir pavaldžių rusų kunigaikščių pa-\njėgas sutelkė Vitebske, iš kur patraukė į\nBreslaują. Čia prisijungė Livonijos ma-\ngistro kariuomenė ir šios jungtinės pajė-\ngos „Užnerio puse“ žygiavo į Vilkmergę\n(Ukmergę)."
+    (Ukmergę).
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:17"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1626,7 +1479,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-016
 
 - id: c-164710
   sudarytojas: "Karolis Zikaras"
@@ -1634,12 +1487,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 70"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
-    Žygimanto Kęstutaičio pajėgos
-    Žygimanto „lietuvių pajėgos“ (apie 5000
-    karių), kažkiek Lietuvos totorių, karaliaus
-    Vladislovo Jogailaičio atsiųstas į pagalbą
-    lenkų dalinys („800 iečių - apie 4000
-    karių, vadovaujamų Jokūbo iš Kobylanų).
     Bendrai jungtinės pajėgos galėjo sudaryti
     apie 9500 karių (šaltiniuose nurodomi
     skaičiai gerokai padidinti, tai atsispindi ir
@@ -1653,17 +1500,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     500 totorių; Kryžiuočių ordino Livonijos
     atšakos „Rygos“ magistro pajėgos — apie
     500 riterių, apie 100 riterių — „svečių iš už-
-    jūrio“ (J. Dlugošas mini Prūsijos magistro
-    karius), Livonijos samdiniai - apie 4500.
-  citata_rodoma: "Bendrai jungtinės pajėgos galėjo sudaryti\napie 9500 karių (šaltiniuose nurodomi\nskaičiai gerokai padidinti, tai atsispindi ir\nistoriografijoje - iki 30 ooo karių).\n\nŠvitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
+    jūrio“ (J.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
-
 - id: c-164712
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1687,7 +1530,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-018
 
 - id: c-164713
   autorius: "Michał Baliński"
@@ -1711,8 +1554,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-028
+    - t-015
+    - t-023
 
 - id: c-164716
   sudarytojas: "Karolis Zikaras"
@@ -1728,21 +1571,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     500 totorių; Kryžiuočių ordino Livonijos
     atšakos „Rygos“ magistro pajėgos — apie
     500 riterių, apie 100 riterių — „svečių iš už-
-    jūrio“ (J. Dlugošas mini Prūsijos magistro
-    karius), Livonijos samdiniai - apie 4500.
-    Iš viso - apie 11000 žmonių (istoriogra-
-    fijoje šis skaičius kartais padidinamas iki
-    30 000).
-  citata_rodoma: "Švitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
+    jūrio“ (J.
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-    - t-024
-
 - id: c-164724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1759,7 +1594,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-021
 
 - id: c-167695
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1768,20 +1603,22 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 278"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 278."
   citata_originali: |
-    Bet jo veikime nežymu dar didelio veiklumo, savos
-    iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus. Kai Jo­
-    gaila grįžo iš Vitebsko, Kęstutis, skubiai parvykęs Lietuvon, or­
-    ganizuoja pasipriešinimą, Vytautas jam tik padeda. Stačiai
-    keistai atrodo Vytauto pasitikėjimas Jogaila, nors jau ne kartą
-    buvo paaiškėję, kad Jogaila neteisingai elgėsi.
+    Taigi Lietuvos ribos bu­
+    vo praplėstos toliau į vakarus, apimdamos didesnius tikrų lie­
+    tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
+    autoritetas.
+    ```
+    Panašiai buvo ir rusiškuose Lietuvos valstybės kraštuose,
+    kur apie Vytauto pergalę skleidė žinias iš Žalgirio mūšio sugrį­
+    žusieji rusų kareiviai ir vokiečių belaisviai, kalinami tų kraštų
+    pilyse, kaip Vitebske, Kijeve ir kitur. Tos žinios kėlė Vytauto
+    garbę, aukštino jį vietinių gyventojų akyse.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-029
-
 - id: c-168562
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1813,8 +1650,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
-    - t-052
+    - t-024
+    - t-040
 
 - id: c-168563
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1839,66 +1676,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     nosi iš paskutiniųjų.
   citata_rodoma: "Taip pat ir Jurijus Svia-\ntoslavovičius, Smolensko valdovas, nors ir elgėsi kaip\nneabejotinas priešas, kol Vytautas dar nebuvo atvykęs,\ntačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­\ndraugiškus jausmus ir prijungė, puoselėdamas tam tik­\nrus sumanymus, savo karines jėgas prie Vytauto. Smo-\nlenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė\nbuvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,\ntačiau ne dėl to, kad nebuvo\nA p su p a  V ite b s k ą\ndaroma, kas tokiais atvejais\nreikalinga, o todėl, kad gynė­\njai, ypač Livonijos kariai, klausydami ne tiek Švitri­\ngailos skatinimų, kiek įsakymų bei grasinimų, prieši­\nnosi iš paskutiniųjų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
-
-- id: c-170626
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
-  citata_originali: |
-    Mūsų tėvas šitą tikrai patyrė
-    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
-    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
-    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
-    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
-    ir iždą, ir žirgyną, viską tą jis paėmė.
-    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
-    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
-    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
-    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
-    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
-    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
-    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
-    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
-    Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
-    nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
-    žygyje.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-032
-
-- id: c-175548
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
-  citata_originali: |
-    Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
-    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
-    meta sarmatų genčių sūkuryje.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-033
+    - t-025
 
 - id: c-175983
   redaktorius: "A. Šapoka"
@@ -1921,7 +1705,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-026
 
 - id: c-175984
   redaktorius: "A. Šapoka"
@@ -1939,7 +1723,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-027
 
 - id: c-183582
   redaktorius: "A. Šapoka"
@@ -1952,12 +1736,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską. Alek-
     sandras pradėjo derybas dėl taikos.
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-027
 
 - id: c-183583
   sudarytojas: "Karolis Zikaras"
@@ -1980,11 +1764,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     gos „Užnerio puse“ žygiavo į Vilkmergę
     (Ukmergę).
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
 - id: c-183584
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2006,9 +1792,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-047
-    - t-049
+    - t-007
+    - t-011
+    - t-035
+    - t-037
 
 - id: c-183585
   autorius: "Michał Baliński"
@@ -2028,10 +1815,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -\nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-\nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės\nneįgijęs, sergėjo."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+    - t-014
+
 - id: c-183586
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2054,12 +1844,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 
     nių rezultatų nepasiekė.
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-017
 
 - id: c-183587
   autorius: "Zenonas Ivinskis"
@@ -2097,12 +1887,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
-
 - id: c-183589
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2121,10 +1909,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­\nko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­\nnijos ir Podolijos."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
 - id: c-183590
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2143,7 +1933,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-028
 
 - id: c-183592
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2159,13 +1949,11 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     keistai atrodo Vytauto pasitikėjimas Jogaila, nors jau ne kartą
     buvo paaiškėję, kad Jogaila neteisingai elgėsi.
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-10-05 16:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-029
-
 - id: c-183593
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2182,12 +1970,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Ki-
     jevas ir Voluinė su Lucku.
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-026
 
 - id: c-183594
   sudarytojas: "Karolis Zikaras"
@@ -2206,13 +1994,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
-    - t-023
-
 - id: c-183595
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2233,7 +2018,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-048
+    - t-013
+    - t-036
 
 - id: c-183596
   sudarytojas: "Karolis Zikaras"
@@ -2257,12 +2043,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "Švitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-
 - id: c-183597
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2286,63 +2070,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-018
+    - t-041
 
-- id: c-183598
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
-  citata_originali: |
-    Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
-    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
-    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
-    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
-    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
-    meta sarmatų genčių sūkuryje.
-  statusas: verified
-  atnaujinta: "2026-07-12 23:04"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-033
-
-- id: c-183599
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 148"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 148."
-  citata_originali: |
-    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
-    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
-    SU MOLDAVUOS VAIVADA STEPONU
-    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
-    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
-
-    ## Puslapis 146
-
-    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
-    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
-    Aleksandras su didžiąja kunigaikštiene Elena bei su
-    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
-    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
-    j Vilnių 3 .
-    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
-    taus gimimo tūkstantis keturi šimtai devyniasdešimt
-    šeštaisiais didysis kunigaikštis Aleksandras išvyko
-    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
-    čiu Zigmantu — į Liubliną 5 .
-  citata_rodoma: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO \nALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA \nSU MOLDAVUOS VAIVADA STEPONU\nTą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo \nbrolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­\n\n## Puslapis 146\n\nvai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti \nseimą Parčeve. Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 ."
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-183600
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2402,7 +2132,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-004
 
 - id: c-183602
   autorius: "Zenonas Ivinskis"
@@ -2423,8 +2153,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
-    - t-043
+    - t-032
 
 - id: c-183603
   autorius: "Michał Baliński"
@@ -2450,11 +2179,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
     nelaisvę.
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
-
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
 - id: c-183605
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2474,10 +2205,13 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+    - t-012
+
 - id: c-183606
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2492,11 +2226,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Breslaują. Čia prisijungė Livonijos ma-
     gistro kariuomenė ir šios jungtinės pajė-
     gos „Užnerio puse“ žygiavo į Vilkmergę
-    (Ukmergę). Toliau planavo pulti Trakų -
-    Vilniaus kryptimi.
-  citata_rodoma: "Prieš mūšį\n\nŽygiui į Lietuvą kunigaikštis Švitrigaila\nsavo ir pavaldžių rusų kunigaikščių pa-\njėgas sutelkė Vitebske, iš kur patraukė į\nBreslaują. Čia prisijungė Livonijos ma-\ngistro kariuomenė ir šios jungtinės pajė-\ngos „Užnerio puse“ žygiavo į Vilkmergę\n(Ukmergę)."
+    (Ukmergę).
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:17"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2507,20 +2239,25 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 53"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
   citata_originali: |
-    Kurį laiką Padauguvio giminės net mo-
-    kėjo jam duoklę — buvo pripažinusios jo valdžią. Bet jau XII
-    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
-    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
-    nigaikštijos.
-  citata_rodoma: "Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos."
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
+    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
+    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
+    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
+    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja).
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:10"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-183608
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2532,12 +2269,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
     karinės pagalbos, kartu unijos.
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-021
 
 - id: c-183609
   autorius: "Michał Baliński"
@@ -2579,12 +2316,10 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "Prieš mūšį\n\nŽygiui į Lietuvą kunigaikštis Švitrigaila\nsavo ir pavaldžių rusų kunigaikščių pa-\njėgas sutelkė Vitebske, iš kur patraukė į\nBreslaują. Čia prisijungė Livonijos ma-\ngistro kariuomenė ir šios jungtinės pajė-\ngos „Užnerio puse“ žygiavo į Vilkmergę\n(Ukmergę)."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-044
-
 - id: c-183611
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2596,12 +2331,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
     tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
   statusas: verified
-  atnaujinta: "2026-07-28 14:17"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-030
 
 - id: c-183613
   autorius: "Zenonas Ivinskis"
@@ -2609,42 +2344,12 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   puslapiai: "PDF 318"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 318."
   citata_originali: |
-    Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
-    Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
-    Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
-    Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
-    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
+    Jam priklausė betarpiškai Vilniaus
+    žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio
+    sritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­
+    tytus vietininkus (« namiestniki ») ir tijūnus.
   statusas: verified
-  atnaujinta: "2026-07-28 14:17"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-183614
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 173"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
-  citata_originali: |
-    Mūsų tėvas šitą tikrai patyrė
-    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
-    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
-    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
-    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
-    ir iždą, ir žirgyną, viską tą jis paėmė.
-    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
-    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
-    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
-    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
-    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
-    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
-    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
-    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
-    Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
-    nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
-    žygyje.
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
+  atnaujinta: "2026-10-05 16:10"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2671,8 +2376,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-046
+    - t-009
+    - t-022
+    - t-034
 
 - id: c-183616
   autorius: "Michał Baliński"
@@ -2696,13 +2402,15 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     nesutarimai (1434 metų), galėję kilti tarp Žygimanto ir Jo­
     gailos, buvo užglaistyti naujos tarpusavio sutarties23.
   statusas: verified
-  atnaujinta: "2026-07-29 11:34"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
-    - t-051
+    - t-008
+    - t-019
+    - t-038
+    - t-039
 
 - id: c-183617
   autorius: "Michał Baliński"
@@ -2718,24 +2426,26 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   citata_rodoma: "M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­\nli Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti\nMickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­\nmas\"2."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-183618
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   puslapiai: "PDF 281"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 281."
   citata_originali: |
-    Jogailai nenujaučiant, Kęstutis, staiga užėmęs sostinę, nelais­
-    vėn paėmė Jogailą su jo broliais ir motina. Perversmo pasėkoje
-    Jogailai tebuvo paliktos jo tėvo žemės — Vitebskas ir Kriavo
-    kunigaikštystė, o pats Kęstutis pirmą kartą paėmė aukščiausią
-    valdžią, tapdamas didžiuoju kunigaikščiu (1381-82). Jogailos prie­
-    šui Andriui jis leido grįžti į Polocką.
+    Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+    Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
+    žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
+    Strėvoje, kai pati upė yra nesunkiai perbrendama.
   statusas: verified
-  atnaujinta: "2026-07-28 14:17"
+  atnaujinta: "2026-10-05 16:10"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2762,27 +2472,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-
-- id: c-183620
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 94"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 94."
-  citata_originali: |
-    Didysis kunigaikštis Vytautas pasiėmė su sa­
-    vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
-    nę, ir išžygiavo į Vitebsko miestą prieš kunigaikštį
-    Švitrigailą'. Pirmiausia atvyko prie Drucko pilies.
-    Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
-    Iš ten nužygiavo į Oršą.
-  statusas: verified
-  atnaujinta: "2026-07-12 23:04"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-038
+    - t-015
 
 - id: c-185027
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -2798,37 +2488,173 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
+    - t-033
 
-- id: c-186190
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 172"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+- id: c-186569
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 12"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 12."
   citata_originali: |
-    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1 vieton
-    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
-    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
-    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
-    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
-    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
-    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
-    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
-    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
-    nutį išvyti. Ir sutarė dieną, kurią jie turės būti prie
-    Vilniaus.
-    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
-    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
-  citata_rodoma: "Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1 vieton \nsavęs davė aukščiausią valdžią Vilniuje Jaunučiui; \nJogailos tėvui Algirdui — valdžią Vitebske, o mano tė­\nvui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi \nmūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­\ntutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­\nnigaikščio Jaunučio kai kurias neteisybes, tai susitarė \nkunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­\ntučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­\nnutį išvyti. Ir sutarė dieną, kurią jie turės būti prie \nVilniaus.\nMūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­\nniaus pilies, o kunigaikštis Algirdas negalėjo atvykti."
+    Pavyzdžiui, Švitrigailos ir Žygimanto Kęstutaičio konflikto dėl valdžios LDK metu. 1433 m. Ldk
+    Švitrigaila suėmė ir įsakė nuskandinti Vitebske (Dauguvos upėje) kunigaikštį Mykolą Jonaitį Alšėniškį, re­
+    gis, kaltindamas jį išdavyste.
   statusas: verified
-  atnaujinta: "2026-07-29 11:11"
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-042
 
-- id: c-186191
+- id: c-186694
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 12"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 12."
+  citata_originali: |
+    Išvados. Baltarusijos N I A išliko keliasdešimt keturios baltarusiškosios (Brastos, Gar­
+    dino, Slanimo ir Vitebsko) LDK poreforminių pavietų rankraštinės žemės teismo knygos
+    (iki X V I I a. pradžios). Jos pasižymi tematine įvairove, bet savo turiniu nedaug skiriasi
+    nuo tokių pačių lietuviškosios LDK dalies pavietų medžiagos. Šios knygos kiekybiškai
+    ir kokybiškai papildo lietuviškųjų LDK pavietų žemės teismų knygų medžiagą, padeda
+    susidaryti išsamesnį (pilna panorama negalima, nes neišliko visų LDK pavietų žemės
+    teismų knygos) žemės teismų darbo ir bajorijos veiklos juose vaizdą.
+  statusas: verified
+  atnaujinta: "2026-10-05 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+
+- id: c-186914
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 9"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 9."
+  citata_originali: |
+    Apie XVI a. bajorų patiekalus bei suvar­
+    tojamus jų kiekius beveik neturime šaltinių,
+    todėl ypač įdomus 1556 m. aktas, kuriuo
+    Vitebsko vaivada Steponas Zbaražskis, iš­
+    sinuomodamas smuklę iš Vitebsko klebono
+    Juozapo Jasinskio, pasižadėjo už tai išmai­
+    tinti kelis kunigus.
+  statusas: verified
+  atnaujinta: "2026-10-05 15:22"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-189216
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 426"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 426."
+  citata_originali: |
+    Švitrigaila, įsižeidęs, kad atėmė Vitebską, kai
+    gražiuoju nepavyko priprašyti, kad tą valdą grąžintų, kaip iš­
+    davikas užpuolė miestą, nužudė Viosną ir įkurdino savo vieti­
+    ninką. Kai žinia apie tai pasiekė karalių, jis pavedė Vytautui
+    nubausti kunigaikštį kaip sąmokslininką, prasižengusį teisei ir
+    aukščiausiajai valdžiai.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044
+
+- id: c-189217
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 426-427"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 426-427."
+  citata_originali: |
+    Atėjo eilė Vitebskui. Švitrigaila užsidarė pilyje ir nusprendė
+    gintis iki galo. Apgultis, atrodė, grėsė pareikalausianti daug
+    1 Stebelski. Zywoty švviętych Panieri. - T. II. - S. 9*.
+    2 Būtent tai, kad Vitebskas priklausė didžiajai kunigaikštienei Julijonai
+    ir suklaidino kai kuriuos kronikininkus: laikydami ją Vitebsko kunigaikšty­
+    te, skelbia, kad esą ji buvusi pirmoji Algirdo žmona, kuria iš tiesų buvo
+    Marija.
+    428
+
+    jėgų, tad didieji kunigaikščiai kreipėsi pagalbos į Smolensko
+    kunigaikšti Jurijų Sviatoslavovičių; kai šis atvyko, vitebskie-
+    čiai, išgąsdinti puolėjų galios ir dažnų atakų, išgirdę grasini­
+    mus bausme, nepermaldaujama už priešinimąsi, jeigu tuojau
+    pat nepasiduos, atidavė miestą
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+
+- id: c-189218
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 467"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 467."
+  citata_originali: |
+    Didysis kunigaikštis greitai sužinojo apie tai, pas­
+    kubėjo su kariauna, apsupo Vitebską, kur maištininkai prieši­
+    nosi trisdešimt dienų, kol šturmu buvo paim ta Žemutinė pilis.
+    Visi žmonės pabėgo į Aukštutinę, prasidėjo badas*, didžiulė
+    sumaištis, norėta išvyti gyventojus iš pilies, kilo panika, ir šie
+    atidarė vartus puolėjams.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-046
+
+- id: c-190244
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 158"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 158."
+  citata_originali: |
+    Tai parodė ir 1562 m. Vitebsko „karo lauko“ seimas, siuntęs tą
+    patį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos.
+  statusas: verified
+  atnaujinta: "2026-10-05 15:03"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-190428
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 96"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 96."
+  citata_originali: |
+    Taip jau susiklostė, kad ši tezė istoriografijoje buvo priimta be diskusijų; neieškota
+    ir daug argumentų jai paremti, pasitenkinta žinomais 1562 m. įvykių Lietuvos Didžio-
+    sios Kunigaikštystės karo lauko stovykloje prie Vitebsko aprašymais.
+  statusas: verified
+  atnaujinta: "2026-10-05 15:06"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-190727
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 252"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 252."
+  citata_originali: |
+    1742, m. vasario mėn.
+    Vilniuje J. Fontana pasirašė sutartį su Vitebsko vaivadiene Tekle Oginskiene
+    Vitebske pastatyti bernardinams Šv. Antano bažnyčią
+  statusas: verified
+  atnaujinta: "2026-10-05 15:08"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-193437
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 173"
@@ -2867,145 +2693,210 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     Vitebske.
   citata_rodoma: "tėvas kunigaikštis Kęstutis (tada jis buvo galingas), \njei būtų norėjęs, būtų atėmęs Vilnių ir kunigaikščiui \nJogailai, jei būtų panoręs, būtų davęs kunigaikštystę, \nnes kunigaikštis Jogaila po savo tėvo [mirties) tebebu­\nvo visai jaunas. Mūsų tėvas šito padaryti, atimti iš jo \nVilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­\nsiojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje \nir saugojo jį iš visų pusių, kol jis paaugo ir kol prie \njo priprato žmonės.\nIr paskui mūsų tėvas patyrė iš kai kurių savo drau­\ngų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­\nslėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu \nir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs \nturėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­\ndėti ir nuolatos galvojo tik, kaip mano tėvą ir mane \npatį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­\nsų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė \nir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­\nnių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį \nJogailą, ir jo brolius, ir jo motiną, ir jo visas žemes \nbei pilis jis paėmė taip pat į savo rankas; ir jo auksą, \nir iždą, ir žirgyną, viską tą jis paėmė.\nTačiau mūsų tėvas, vengdamas apie save piktų kal­\nbų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­\nžino jam visą jo tėvo dalį — Vitebską ir kitas sritis, \nkurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­\nnigaikštis Jogaila prižadėjo mūsų tėvui su savo motina \nir savo broliais ir prisiekė ištikimybę, sutvirtindamas \ntai raštais ta prasme, kad jis Vilniaus niekados nebe- \nreikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje \nVitebske."
   statusas: verified
-  atnaujinta: "2026-07-29 11:11"
+  atnaujinta: "2026-09-12 20:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-048
+    - t-052
 
-- id: c-186569
-  autorius: "Andrej Ryčkov"
-  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
-  puslapiai: "PDF 12"
-  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 12."
+- id: c-193446
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
   citata_originali: |
-    Pavyzdžiui, Švitrigailos ir Žygimanto Kęstutaičio konflikto dėl valdžios LDK metu. 1433 m. Ldk
-    Švitrigaila suėmė ir įsakė nuskandinti Vitebske (Dauguvos upėje) kunigaikštį Mykolą Jonaitį Alšėniškį, re­
-    gis, kaltindamas jį išdavyste.
+    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1 vieton
+    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
+    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
+    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
+    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
+    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
+    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
+    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
+    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
+    nutį išvyti. Ir sutarė dieną, kurią jie turės būti prie
+    Vilniaus.
+    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
+    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
+  citata_rodoma: "Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1 vieton \nsavęs davė aukščiausią valdžią Vilniuje Jaunučiui; \nJogailos tėvui Algirdui — valdžią Vitebske, o mano tė­\nvui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi \nmūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­\ntutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­\nnigaikščio Jaunučio kai kurias neteisybes, tai susitarė \nkunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­\ntučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­\nnutį išvyti. Ir sutarė dieną, kurią jie turės būti prie \nVilniaus.\nMūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­\nniaus pilies, o kunigaikštis Algirdas negalėjo atvykti."
   statusas: verified
-  atnaujinta: "2026-08-07 10:39"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-054
+    - t-052
 
-- id: c-186694
-  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
-  puslapiai: "PDF 12"
-  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 12."
+- id: c-193456
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 10"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 10."
   citata_originali: |
-    Išvados. Baltarusijos N I A išliko keliasdešimt keturios baltarusiškosios (Brastos, Gar­
-    dino, Slanimo ir Vitebsko) LDK poreforminių pavietų rankraštinės žemės teismo knygos
-    (iki X V I I a. pradžios). Jos pasižymi tematine įvairove, bet savo turiniu nedaug skiriasi
-    nuo tokių pačių lietuviškosios LDK dalies pavietų medžiagos. Šios knygos kiekybiškai
-    ir kokybiškai papildo lietuviškųjų LDK pavietų žemės teismų knygų medžiagą, padeda
-    susidaryti išsamesnį (pilna panorama negalima, nes neišliko visų LDK pavietų žemės
-    teismų knygos) žemės teismų darbo ir bajorijos veiklos juose vaizdą.
+    Po Bychovco kronikos tekstu, pačia­
+    me gale, kita ranka buvo prirašyta trumpa Vitebsko
+    kunigaikščių genealogija, pavadinta „A se jest ro-
+    doslowie kniazey VVytebskich".
   statusas: verified
-  atnaujinta: "2026-08-07 10:39"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-055
+    - t-047
 
-- id: c-186914
-  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
-  puslapiai: "PDF 9"
-  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 9."
+- id: c-193576
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 148."
   citata_originali: |
-    Apie totorių, lietuvių ir mas­
-    kvėnų papročius / Red. K. Korsakas. Vilnius, 1966, p. 40.
-    teigti, jog brangių užsieninių prieskonių
-    vartojimas buvo vienas esminių skirties tarp
-    bajorų ir valstiečių virtuvių taškų 133.
-    Apie XVI a. bajorų patiekalus bei suvar­
-    tojamus jų kiekius beveik neturime šaltinių,
-    todėl ypač įdomus 1556 m. aktas, kuriuo
-    Vitebsko vaivada Steponas Zbaražskis, iš­
-    sinuomodamas smuklę iš Vitebsko klebono
-    Juozapo Jasinskio, pasižadėjo už tai išmai­
-    tinti kelis kunigus.
-  citata_rodoma: "Apie XVI a. bajorų patiekalus bei suvar­\ntojamus jų kiekius beveik neturime šaltinių, \ntodėl ypač įdomus 1556 m. aktas, kuriuo \nVitebsko vaivada Steponas Zbaražskis, iš­\nsinuomodamas smuklę iš Vitebsko klebono \nJuozapo Jasinskio, pasižadėjo už tai išmai­\ntinti kelis kunigus."
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
+  citata_rodoma: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO \nALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA \nSU MOLDAVUOS VAIVADA STEPONU\nTą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo \nbrolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­\n\n## Puslapis 146\n\nvai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti \nseimą Parčeve. Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 ."
   statusas: verified
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-12 20:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-056
-
-- id: c-189216
-  šaltinis: "Lietuvių tautos istorija, t. 5"
-  puslapiai: "PDF 426"
-  indeksas: "Lietuvių tautos istorija, t. 5, PDF 426."
+- id: c-193959
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116."
   citata_originali: |
-    Švitrigaila, įsižeidęs, kad atėmė Vitebską, kai
-    gražiuoju nepavyko priprašyti, kad tą valdą grąžintų, kaip iš­
-    davikas užpuolė miestą, nužudė Viosną ir įkurdino savo vieti­
-    ninką. Kai žinia apie tai pasiekė karalių, jis pavedė Vytautui
-    nubausti kunigaikštį kaip sąmokslininką, prasižengusį teisei ir
-    aukščiausiajai valdžiai.
+    Išsiuntė jį į
+    Vitebską ir ten liepė jį Dauguvoje, prie Vitebsko, nu­
+    skandinti.
   statusas: verified
-  atnaujinta: "2026-08-16 22:50"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
+    - t-049
 
-- id: c-189217
-  šaltinis: "Lietuvių tautos istorija, t. 5"
-  puslapiai: "PDF 426-427"
-  indeksas: "Lietuvių tautos istorija, t. 5, PDF 426-427."
+- id: c-193993
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 117"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 117."
   citata_originali: |
-    Atėjo eilė Vitebskui. Švitrigaila užsidarė pilyje ir nusprendė
-    gintis iki galo. Apgultis, atrodė, grėsė pareikalausianti daug
-    1 Stebelski. Zywoty švviętych Panieri. - T. II. - S. 9*.
-    2 Būtent tai, kad Vitebskas priklausė didžiajai kunigaikštienei Julijonai
-    ir suklaidino kai kuriuos kronikininkus: laikydami ją Vitebsko kunigaikšty­
-    te, skelbia, kad esą ji buvusi pirmoji Algirdo žmona, kuria iš tiesų buvo
-    Marija.
-    428
-
-    jėgų, tad didieji kunigaikščiai kreipėsi pagalbos į Smolensko
-    kunigaikšti Jurijų Sviatoslavovičių; kai šis atvyko, vitebskie-
-    čiai, išgąsdinti puolėjų galios ir dažnų atakų, išgirdę grasini­
-    mus bausme, nepermaldaujama už priešinimąsi, jeigu tuojau
-    pat nepasiduos, atidavė miestą
+    O trečią vasa­
+    rą37 kunigaikštis Švitrigaila Vitebske sudegino metro­
+    politą Gerasimą 33
   statusas: verified
-  atnaujinta: "2026-08-16 22:50"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
+    - t-050
 
-- id: c-189218
-  šaltinis: "Lietuvių tautos istorija, t. 5"
-  puslapiai: "PDF 467"
-  indeksas: "Lietuvių tautos istorija, t. 5, PDF 467."
+- id: c-194103
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
-    Didysis kunigaikštis greitai sužinojo apie tai, pas­
-    kubėjo su kariauna, apsupo Vitebską, kur maištininkai prieši­
-    nosi trisdešimt dienų, kol šturmu buvo paim ta Žemutinė pilis.
-    Visi žmonės pabėgo į Aukštutinę, prasidėjo badas*, didžiulė
-    sumaištis, norėta išvyti gyventojus iš pilies, kilo panika, ir šie
-    atidarė vartus puolėjams.
+    Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
+    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
+    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
+    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
+    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
+    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
+    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
+    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
+    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
+    Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
+    nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
+    žygyje.
   statusas: verified
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-12 20:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
+    - t-048
+    - t-052
+
+- id: c-194338
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 94"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 94."
+  citata_originali: |
+    Didysis kunigaikštis Vytautas pasiėmė su sa­
+    vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
+    nę, ir išžygiavo į Vitebsko miestą prieš kunigaikštį
+    Švitrigailą'. Pirmiausia atvyko prie Drucko pilies.
+    Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
+    Iš ten nužygiavo į Oršą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-051
+
+- id: c-195715
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  citata_originali: |
+    Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
+    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
+    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
+    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
+    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
+    meta sarmatų genčių sūkuryje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Švitrigaila]]
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Vitebską: [[objektai/asmenys/Mechmet Girėjus]], [[objektai/asmenys/Švitrigaila]]
 - Užėmė Vitebską: [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Vitebskas priklausė [[objektai/vietos/Lietuva]]

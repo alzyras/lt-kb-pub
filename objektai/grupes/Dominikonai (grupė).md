@@ -8,6 +8,7 @@ aliases:
   - 'Dominikonai'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Gedimino laiškai'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -28,14 +29,18 @@ media_all_json: |-
 
 ## Santrauka
 
-Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti. Vienintelė didesnė statyba, kurios plane ir išorėje galėjo būti naudojamos šio architektūros stiliaus formos, yra dominikonų Šv.
+Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti. Vienintelė didesnė statyba, kurios plane ir išorėje galėjo būti naudojamos šio architektūros stiliaus formos, yra dominikonų Šv. Dominikonas brolis Mikalojus, Gedimino patarėjas, įspėjo Gediminą nedėti vilčių į Rygos arkivyskupą kaip sąjungininką.
+
+## Santrauka
+
+Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti. Vienintelė didesnė statyba, kurios plane ir išorėje galėjo būti naudojamos šio architektūros stiliaus formos, yra dominikonų Šv. Dominikonas brolis Mikalojus, Gedimino patarėjas, įspėjo Gediminą nedėti vilčių į Rygos arkivyskupą kaip sąjungininką.
 
 ## Teiginiai
 
 <a id="claim-t-201237"></a>
 - t-001
   teiginys: "Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -47,7 +52,7 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
 <a id="claim-t-201475"></a>
 - t-002
   teiginys: "Vienintelė didesnė statyba, kurios plane ir išorėje galėjo būti naudojamos šio architektūros stiliaus formos, yra dominikonų Šv."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,6 +61,21 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   pagrindžia:
     - c-184822
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Dominikonas brolis Mikalojus, Gedimino patarėjas, įspėjo Gediminą nedėti vilčių į Rygos arkivyskupą kaip sąjungininką.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Ginčas baigėsi tuo, kad advoka­
+    tas ir Mikalojus apkaltino pranciškonų raštininkus suklaidinus didįjį kunigaikštį. Buvo pasaky­
+    ta, kad didysis kunigaikštis pirm a svarstė galimybę krikštytis, bet per pastaruosius metus pran­
+    ciškonai neturėjo jo pasitikėjimo. Atvirkščiai, brolis Mikalojus, Gedimino patarėjas dominikonas,
+    įspėjo didįjį kunigaikštį nedėti vilčių į Rygos arkivyskupą kaip sąjungininką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-184587

@@ -1,12 +1,13 @@
 ---
 tipas: asmuo
-pavadinimas: Fotijus
+pavadinimas: 'Fotijus (Lietuvos didysis kunigaikštis, XV a.)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - 1408 m.
-  - 1431 m.
+  - '1408 m.'
+  - '1431 m.'
 date_start: '1408'
 date_end: '1431'
 sukurta: ''
@@ -15,42 +16,30 @@ tags:
   - asmuo
   - karalius
 amziai:
-  - XV
+  - 'XV'
 periodo_grupes:
-  - LDK
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-b42b23a22943dc3a03f06233
-canonical_name: Fotijus
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Fotijus
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-b42b23a22943dc3a03f06233"
+canonical_name: "Fotijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fotijus"]
 sameAs: []
-canonical_biography: Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu graiką Fotijų (1408-1431)^62.
-external_sources_json: '[]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:31:45+00:00","source_checked_at":"2026-09-20T11:31:45+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"022769b0c6a653b513156c34","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Naujai išrinktas Maskvos metropolitas","context":"XIV–XV a. sandūroje, kai Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė išrinkti Lietuvai atskirą metropolitą.","support_ids":["t-82301","c-78779"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82301","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78779","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Kenksmingą tos virše­ nybės įtaką graikų apeigų tikėjimo dvasininkų ir gyventojų rusų mąs- tvmo būdui ne kartą didysis kuni­ gaikštis buvo pajutęs, ypač karų su Maskva laikais; o, be to, juk ir ne­ mažos pajamos kasmet iš Lietuvos būdavo teikiamos Maskvos metro­ politams. Vytautas užkirto tam ke­ lią, nutraukdamas iš karto visus ry­ šius su naujai išrinktu Maskvos metropolitu Fotijumi ir paliepdamas vyskupams, susirinkusiems į Nau­ garduką, išrinkti iš savo tarpo Lie­ tuvai atskirą metropolitą. Daugiau apie tai žinių yra įdėję: K u 1 c z y ń s- k i Specimen Ecclesiae Ruthenicae, Pars."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-82300","confidence":0.95}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: ca17b6febd127d83
-object_page_generated_at: '2026-09-20T11:31:45+00:00'
-object_page_source_checked_at: '2026-09-20T11:31:45+00:00'
-object_page_content_state: content
-object_page_claim_count: '2'
-object_page_source_count: '1'
-object_page_seo_description: 'Fotijus: Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu graiką Fotijų (1408-1431)^62. Šaltinių citatos.'
-object_page_seo_input_hash: 094aef3f01f34088f012e3902136cd3fb6d446d40d9821d5048e69d753872fa1
-object_page_seo_generated_at: '2026-09-20T11:31:45+00:00'
-object_page_seo_policy_version: object-page-policy/v7
+canonical_biography: "Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu graiką Fotijų (1408-1431)^62."
 ---
-# Fotijus
+# Fotijus (Lietuvos didysis kunigaikštis, XV a.)
 
 ## Santrauka
 
@@ -61,7 +50,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 <a id="claim-t-82300"></a>
 - t-001
   teiginys: "Maskvos metropolitas Fotijus siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjęs išvyko į Maskvą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Maskva: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -78,7 +67,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 <a id="claim-t-82301"></a>
 - t-002
   teiginys: "Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius siekdamas Lietuvai atskiro metropolito."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -94,7 +83,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 <a id="claim-t-82302"></a>
 - t-003
   teiginys: "Fotijus 1408-1431 m. buvo pripažintas Kijevo ir visos Rusios metropolitu."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,7 +101,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 <a id="claim-t-82303"></a>
 - t-004
   teiginys: "Fotijus siekė Kijevo metropoliją prijungti prie Maskvos, bet Vytauto priimtas dėl jo ligos nieko nepasiekė ir išvyko į Maskvą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Maskva: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -129,7 +118,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 <a id="claim-t-82304"></a>
 - t-005
   teiginys: "Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius ir liepė Lietuvai rinkti atskirą metropolitą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -141,6 +130,58 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78779
+
+<a id="claim-t-233182"></a>
+- t-006
+  teiginys: "Fotijus sužinojo, kad neteko valdžios Lietuvos Rusios provincijose ir jam uždrausta rinkti Kijevo katedros dvarų pajamas, todėl prašė atvykti į Gardiną, tačiau didysis kunigaikštis prašymo nepatenkino ir Fotijus grįžo į Smolenską."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:18Z"
+  pagrindžia:
+    - c-216002
+
+<a id="claim-t-233183"></a>
+- t-007
+  teiginys: "Fotijus, nepaisydamas draudimo, išvyko į Kijevą be garantinio rašto, buvo palaikytas svetimu žmogumi, neteko mantos ir išvarytas atgal į Maskvą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:18Z"
+  pagrindžia:
+    - c-216003
+
+<a id="claim-t-233184"></a>
+- t-008
+  teiginys: "Narbutas aiškesnį skilimą Lietuvos Rusios Bažnyčioje siejo su Fotijumi, kuris paskelbė Grigalių atskalūnu, nors, Narbuto vertinimu, Grigalius laikėsi Kiprijono nuostatos ir senųjų Rytų Bažnyčios kanonų."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:18Z"
+  pagrindžia:
+    - c-216004
+
+<a id="claim-t-233185"></a>
+- t-009
+  teiginys: "1427 m. Fotijus gavo leidimą aplankyti Lietuvos ir Lietuvos Rusios cerkves, nepripažinusias Lietuvos Rusios metropolito valdžios; kelionė truko du mėnesius."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:18Z"
+  pagrindžia:
+    - c-216005
 
 ## Citatos
 
@@ -169,7 +210,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     k i Specimen Ecclesiae Ruthenicae,
     Pars.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -223,7 +264,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
     ju.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -231,5 +272,53 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - t-001
     - t-004
 
+- id: c-216002
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 298."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-006
+
+- id: c-216003
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 306."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-007
+
+- id: c-216004
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 307."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-008
+
+- id: c-216005
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 407."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-009
+
 ## Ryšiai
-- Fotijus keliavo į [[objektai/vietos/Maskva]]
+- Fotijus (Lietuvos didysis kunigaikštis, XV a.) keliavo į [[objektai/vietos/Maskva]]

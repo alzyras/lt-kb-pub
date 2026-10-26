@@ -1,15 +1,16 @@
 ---
 tipas: asmuo
-pavadinimas: Manvydas
+pavadinimas: 'Manvydas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvių tautos istorija, t. 3'
+  - 'Lietuvių tautos istorija, t. 5'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-datos:
-  - 1276 m.
-  - 1396 m.
-date_start: '1276'
-date_end: '1396'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,41 +19,27 @@ tags:
   - karalius
   - kunigaikštis
 amziai:
-  - XIII
-  - XIV
-periodo_grupes:
-  - LDK
+  - 'M'
+periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-0652305ba5cdd88631902624
-canonical_name: Manvydas
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Manvydas
-sameAs: []
-canonical_biography: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus. Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].'
-external_sources_json: '[{"title":"Manvydas - Wikipedia","url":"https://en.wikipedia.org/wiki/Manvydas","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""},{"title":"Manvydas","url":"https://www.vle.lt/straipsnis/manvydas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Manvydas – Wikipedia","url":"https://de.wikipedia.org/wiki/Manvydas","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:32:39+00:00","source_checked_at":"2026-09-19T15:32:39+00:00","counts":{"relations":5,"gallery":0,"sources":8},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Mantvydas, arba Manvydas (prieš 1300 arba tarp 1313 ir 1315 m. – ~1342 arba 1348 m. vasario 2) – lietuvių kunigaikštis, Lietuvos didžiojo kunigaikščio Gedimino vyriausias (pagal Naugardo IV metraštį − jauniausias) sūnus, kunigaikščių Narimanto, Algirdo, Jaunučio, Kęstučio, Karijoto ir Liubarto brolis (T. Baranauskas ir kai kurie kt. istorikai spėja, kad Mantvydas buvo Gedimino ir jo hipotetinės pirmosios žmonos sūnus; pasak S. Rouvelo, ta spėjama pirmoji Gedimino žmona tikriausiai buvusi pagonybės išpažinėja).","infobox":[{"code":"row_1","label":"","value":"Mantvydas","cells":[{"text":"Mantvydas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Gediminaičiai","cells":[{"text":"Gediminaičiai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Gediminaičių stulpai","cells":[{"text":"Gediminaičių stulpai","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Gimė","value":"prieš 1300 arba apie 1314 m.","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"prieš 1300 arba apie 1314 m.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Mirė","value":"apie 1342 m. arba 1348 m. vasario 2 d.","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"apie 1342 m. arba 1348 m. vasario 2 d.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Tėvas","value":"Gediminas","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Gediminas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"","value":"Kernavės kunigaikštis","cells":[{"text":"Kernavės kunigaikštis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Valdė","value":"apie 1316 m. - apie 1348 m.","cells":[{"text":"Valdė","header":true,"colspan":1,"rowspan":1},{"text":"apie 1316 m. - apie 1348 m.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"146817","revision_id":"7927853","status":"published","translation_status":"native","source":{"title":"Mantvydas","url":"https://lt.wikipedia.org/wiki/Mantvydas","publisher":"Vikipedija","language":"lt","article_id":"146817","revision_id":"7927853","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7927853","history_url":"https://lt.wikipedia.org/w/index.php?title=Mantvydas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:24:52.671672+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"ea921a4a27ba4c6f1a457e158b2066693b0590c7b7a19f999c0df845012a594b","version_pk":"8af76aeef766b08c0fb62e9c97aa8d25"}},"source_buttons":[{"label":"Wikipedia","title":"Manvydas - Wikipedia","url":"https://en.wikipedia.org/wiki/Manvydas","kind":"institutional","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Manvydas","url":"https://www.vle.lt/straipsnis/manvydas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://en.wikipedia.org/wiki/Manvydas","https://www.vle.lt/straipsnis/manvydas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1018f4ee33ef3029a7534ccd","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Vienas garsiausių Lietuvos didikų","context":"Michał Baliński taip vertina Manvydą savo 2007 m. veikale apie Vilniaus istoriją.","support_ids":["t-87374","c-83354"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87374","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83354","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių."}],"status":"published","conflict_status":"clear"},{"trait_id":"357daae1a87b544ece30957e","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Trakų vaivada","context":"1396 m. įvykių aprašyme Manvydas įvardijamas Trakų vaivada; šaltinis nurodo, kad jis buvo sučiuptas ir Žygimanto įsakymu nukirsdintas.","support_ids":["t-87378","c-83356"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87378","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83356","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­ rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­ ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai, atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­ skandinti. O Manvydas, Trakų vaivada, buvo sučiuptas ir, Žygimanto įsakymu, nukirsdintas20. Vėl įsiliepsnojo kelerius metus trukęs karas tarp rusų, vadovaujamų Švitrigailos, ir Lietuvos, valdomos Žygimanto."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"022d92146f5c26786bd7f35c","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kariuomenės vadas","context":"Teodoras Narbutas 2001 m. veikale rašo, kad Manvydas buvo kariuomenės vadas ir jo rankose buvo daugiau valdžios nei Jaunučio.","support_ids":["t-206360","c-188975"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206360","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188975","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Panašu, kad tas kunigaikštis, savo šeimoje vyriausias, nors buvo gavęs skirtinę valdą Kara- čeve ir Slonime, prieš tėvo mirtį turėjęs Žemaitijoje į kovą su kryžiuočiais vesti karius, tad jis pirmagimio teise buvo aukš­ čiausiojo tautos titulo paveldėtojas. Nors, tėvo nurodymu, Jau­ nučiui su motina privalėjo atitekti Vilnius, Lietuvos Didžiosios Kunigaikštystės sostinė, o kartu su juo ir valdžios vairas. Betgi Manvydo, kaip kariuomenės vado, rankose buvo daugiau val­ džios negu kad galėjo turėti ištižęs Jaunutis, ir, kaip įsitikinsi­ me vėliau, žmogus visiškas menkysta protu ir širdim, kad gebėtų atėjus momentui pasipriešinti vyriausiajam broliui, ku­ ris, valdydamas Kernavę, turėjo progos…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f30f4fa576e763430b13e1b7","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kariaunos vadas","context":"Teodoras Narbutas, remdamasis metraštininkais, nurodo, kad Manvydas stojo kariaunos vadu tautai siekiant atkeršyti už didžiojo kunigaikščio mirtį.","support_ids":["t-206361","c-188976"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206361","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188976","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"M et­ raštininkai sutaria1, kad, siekdam a atkeršyti už didžiojo ku­ nigaikščio mirtį, visa tauta griebėsi ginklo; kariaunos vadu stojo Manvydas, arba, kaip vadina Prūsijos kronikininkas, - Orthmannowitz"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c78b2daa2975ada2e8175079","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Susitarė su Goštautu ir Astiku dėl valdovo paskelbimo","context":"Albertas Vijūkas-Kojelavičius 1989 m. veikale aprašo Manvydo politinį susitarimą, sudarytą laikantis senojo susitarimo su lenkais.","support_ids":["t-184780","c-168141"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184780","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168141","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos gimine ir sąjungą su lenkais. Manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len­ kais, paskelbti valdovu patį karalių Vladislovą. Kiti manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu gali atnešti daugiau žalos nei naudos, nes, neseniai pa­ keltas į Vengrijos karaliaus sostą ir atskirtas nuo Lietu­ vos tokių didelių nuotolių, negalėsiąs laiku nei žinios apie pavojų gauti, nei ką padėti, todėl griežtai prieši­ nosi karaliaus kandidatūrai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/asmenys/Astikas","claim_id":"t-184780","confidence":0.82},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-87374","confidence":0.52},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai","claim_id":"t-87083","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Manvydo rūmai","claim_id":"t-86087","confidence":0.88},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Astikas","claim_id":"t-186182","confidence":0.78}],"timeline":[],"support_disclosure":{"claims":8,"sources":5}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: ceaf294007dcda9b
-object_page_generated_at: '2026-09-19T15:32:39+00:00'
-object_page_source_checked_at: '2026-09-19T15:32:39+00:00'
-object_page_content_state: content
-object_page_claim_count: '8'
-object_page_source_count: '5'
-object_page_seo_description: 'Manvydas: O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei…'
-object_page_seo_input_hash: 0145bba2d044162795e87a27d646da23780af0dac3a927e8c73dada5fc999dd3
-object_page_seo_generated_at: '2026-09-19T15:32:39+00:00'
-object_page_seo_policy_version: object-page-policy/v7
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-0652305ba5cdd88631902624"
+canonical_name: "Manvydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Manvydas"]
+sameAs: ["https://www.wikidata.org/entity/Q609862"]
+canonical_biography: "O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus. Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo]."
 ---
 # Manvydas
 
@@ -65,7 +52,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 <a id="claim-t-87374"></a>
 - t-001
   teiginys: "Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Vilnius: 0.52"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,7 +69,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 <a id="claim-t-87375"></a>
 - t-002
   teiginys: "1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> vaivada: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -101,7 +88,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 <a id="claim-t-87376"></a>
 - t-003
   teiginys: "Trakų vaivada Manvydas įspėjo Švitrigailą, todėl šis, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,26 +101,10 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   pagrindžia:
     - c-83355
 
-<a id="claim-t-87377"></a>
-- t-004
-  teiginys: "Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Manvydas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Manvydas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83357
-
 <a id="claim-t-87378"></a>
-- t-005
+- t-004
   teiginys: "Trakų vaivada Manvydas buvo sučiuptas ir Žygimanto įsakymu nukirsdintas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Žygimantas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -147,9 +118,9 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-83356
 
 <a id="claim-t-184780"></a>
-- t-006
+- t-005
   teiginys: "Manvydas susitarė su Goštautu ir Astiku paskelbti valdovu karalių Vladislovą pagal senąjį susitarimą su lenkais."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -166,10 +137,49 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   pagrindžia:
     - c-168141
 
-<a id="claim-t-188582"></a>
+<a id="claim-t-205530"></a>
+- t-006
+  teiginys: "Narbutas teigia, kad Manvydui priklausiusį Graužiškių dvarą didysis kunigaikštis Žygimantas paėmė iždo žinion."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187851
+
+<a id="claim-t-206360"></a>
 - t-007
+  teiginys: "Narbutas rašo, kad Manvydas, būdamas kariuomenės vadas, turėjo daugiau valdžios nei Jaunutis, kuriam, tėvo nurodymu, turėjo atitekti Vilnius ir valdžios vairas."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188975
+
+<a id="claim-t-206361"></a>
+- t-008
+  teiginys: "Narbutas nurodo, kad metraštininkai Manvydą laikė kariaunos vadu, stojusiu į kovą tautai siekiant atkeršyti už didžiojo kunigaikščio mirtį."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188976
+
+<a id="claim-t-217686"></a>
+- t-009
   teiginys: "Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -185,47 +195,64 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   semantiniai_rysiai: "Manvydas buvo sūnus Gediminas (0.78)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171471
+    - c-198515
 
-<a id="claim-t-205530"></a>
-- t-008
-  teiginys: "Narbutas teigia, kad Manvydui priklausiusį Graužiškių dvarą didysis kunigaikštis Žygimantas paėmė iždo žinion."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-187851
-
-<a id="claim-t-206360"></a>
-- t-009
-  teiginys: "Narbutas rašo, kad Manvydas, būdamas kariuomenės vadas, turėjo daugiau valdžios nei Jaunutis, kuriam, tėvo nurodymu, turėjo atitekti Vilnius ir valdžios vairas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188975
-
-<a id="claim-t-206361"></a>
+<a id="claim-t-220084"></a>
 - t-010
-  teiginys: "Narbutas nurodo, kad metraštininkai Manvydą laikė kariaunos vadu, stojusiu į kovą tautai siekiant atkeršyti už didžiojo kunigaikščio mirtį."
-  atnaujinta: "2026-08-16 22:50"
+  teiginys: "Iš jos sūnūs: Manvydas (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198887
+
+<a id="claim-t-233245"></a>
+- t-011
+  teiginys: "Narbutas 1416 m. pabaigą apibūdina kaip neramią: prie Dauguvos vyko pasienio puldinėjimai ir peštynės tarp Dinaburgo komtūro ir Manvydo, kurį Narbutas vadina to krašto kariniu valdytoju."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  vertinimo_atnaujinta: "2026-10-14T06:37:20Z"
   pagrindžia:
-    - c-188976
+    - c-216065
 
+## Reikšmingi paminėjimai
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
+    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
+    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
+    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
+    turtus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-010
+  santrauka: 'Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Turėjo žirgą, vadintą Juodžiu (Jodž), su kuriuo pralenkdavo
+    vėją. Jo rūmai buvo to žirgo galva - per vieną ausį įeidavo, per
+    antrą išeidavo. Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
+    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
+    pančius vienas ant kito.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-83353
@@ -262,7 +289,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     vai ir Milonui bei daugeliui kitų, ver­
     tų pasitikėjimo].
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -287,7 +314,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
     didžiai garbinama lietuvių.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -317,7 +344,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
     do, bus vėl patyręs nesėkmių.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -339,31 +366,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     metus trukęs karas tarp rusų, vadovaujamų Švitrigailos, ir
     Lietuvos, valdomos Žygimanto.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
-- id: c-83357
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 156"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
-  citata_originali: |
-    Vytautas, sutelkęs Smo­
-    lenske pulkus, apsupo tą miestą ir po keturias savaites
-    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
-    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
-    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
-    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
-    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
-    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
-    turtus.
-  citata_rodoma: "Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -392,28 +395,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-
-- id: c-171471
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 215"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
-  citata_originali: |
-    Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
-    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
-    bartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) -  1277 metais.
-  citata_rodoma: "Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir\nJaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės\nbartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-187851
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -426,12 +408,12 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     joje nužudė. Manvydas buvo kilęs iš vyresniosios Graužos
     palikuonių linijos.
   statusas: verified
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-10-05 15:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-188975
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -458,7 +440,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-188976
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -476,7 +458,54 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-008
+
+- id: c-198515
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
+  citata_originali: |
+    Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
+    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
+    bartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais.
+  citata_rodoma: "Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir\nJaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės\nbartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-198887
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
     - t-010
 
-## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Manvydo rūmai]]
+- id: c-216065
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 315."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-011

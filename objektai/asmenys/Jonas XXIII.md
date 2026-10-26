@@ -1,13 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: Jonas XXIII
+pavadinimas: 'Jonas XXIII'
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - ordinas
   - popiežius
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -15,31 +17,19 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-88507093b3d0db2186fc1ebd
-canonical_name: Jonas XXIII
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jonas XXIII
-sameAs: []
-canonical_biography: 'Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas į Lietuvą, pagal Jogailos ir Vytauto prašymą^31. Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman.'
-external_sources_json: '[{"title":"Jonas XXIII","url":"https://lt.wikipedia.org/wiki/Jonas_XXIII","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:39:13+00:00","source_checked_at":"2026-09-20T04:39:13+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":["t-184282","t-176495","t-176496","t-176497","t-176499"],"featured_claims":[{"claim_id":"t-184282","text":"Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-167659"]},{"claim_id":"t-176495","text":"Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-160497"]},{"claim_id":"t-176496","text":"Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-36388"]},{"claim_id":"t-176497","text":"Jonas XXIII pagal Jogailos ir Vytauto prašymą panaikino pasenusias Ordino privilegijas į Lietuvą.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-160496"]},{"claim_id":"t-176499","text":"Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-36387"]}],"featured_quote":{"text":"Todėl tokias ir panašias neteisybes lietuvių delegacijai reikėjo su­ griauti Konstancijoje. Lietuvių delegacijai buvo tas gera, kad dar prieš susirin­ kimą popiež. Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","claim_id":"t-184281","evidence_id":"c-167658","origin":"internal"},"wiki":{"intro":"Jonas XXIII (lot. Johannes XXIII, tikrasis vardas Andželas Džiuzepė Ronkalis – Angelo Giuseppe Roncalli, 1881 m. lapkričio 25 d. – 1963 m. birželio 3 d.) – šventasis Romos Katalikų Bažnyčios popiežius nuo 1958 m. spalio 28 d. iki mirties 1963 m. Nuo 2000 m. – palaimintasis, nuo 2014 m. balandžio 27 d. – šventasis. Katalikų Bažnyčios atsinaujinimo pradininkas.","infobox":[{"code":"row_1","label":"","value":"Jonas XXIII\nlot. Johannes XXIII","cells":[{"text":"Jonas XXIII\nlot. Johannes XXIII","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"261-asis Popiežius","cells":[{"text":"261-asis Popiežius","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Gimimo vardas","value":"it. Angelo Giuseppe Roncalli","cells":[{"text":"Gimimo vardas","header":true,"colspan":1,"rowspan":1},{"text":"it. Angelo Giuseppe Roncalli","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Gimė","value":"1881 m. lapkričio 25 d.\nSoto il Montė, Italija","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1881 m. lapkričio 25 d.\nSoto il Montė, Italija","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Mirė","value":"1963 m. birželio 3 d. (81 metai)","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1963 m. birželio 3 d. (81 metai)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Palaidotas (-a)","value":"Šv. Petro bazilika, Roma","cells":[{"text":"Palaidotas (-a)","header":true,"colspan":1,"rowspan":1},{"text":"Šv. Petro bazilika, Roma","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Tautybė","value":"italas","cells":[{"text":"Tautybė","header":true,"colspan":1,"rowspan":1},{"text":"italas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"","value":"Jono XXIII herbas","cells":[{"text":"Jono XXIII herbas","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"","value":"261-asis Popiežius","cells":[{"text":"261-asis Popiežius","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"Išrinktas","value":"1958 m. spalio 28 d.","cells":[{"text":"Išrinktas","header":true,"colspan":1,"rowspan":1},{"text":"1958 m. spalio 28 d.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"Baigė","value":"1963 m. birželio 3 d.","cells":[{"text":"Baigė","header":true,"colspan":1,"rowspan":1},{"text":"1963 m. birželio 3 d.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"Pirmtakas","value":"Pijus XII","cells":[{"text":"Pirmtakas","header":true,"colspan":1,"rowspan":1},{"text":"Pijus XII","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_13","label":"Įpėdinis","value":"Paulius VI","cells":[{"text":"Įpėdinis","header":true,"colspan":1,"rowspan":1},{"text":"Paulius VI","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_14","label":"Vikiteka","value":"Jonas XXIII","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Jonas XXIII","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"161191","revision_id":"7882678","status":"published","translation_status":"native","source":{"title":"Jonas XXIII","url":"https://lt.wikipedia.org/wiki/Jonas_XXIII","publisher":"Vikipedija","language":"lt","article_id":"161191","revision_id":"7882678","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7882678","history_url":"https://lt.wikipedia.org/w/index.php?title=Jonas_XXIII&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:11:21.584273+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"a8daec4f4dc010826ac48ed0489377ba66e175bc244597d52730e056ff037cc7","version_pk":"247b19204b2eceda7105fdab9add2075"}},"source_buttons":[{"label":"Vikipedija","title":"Jonas XXIII","url":"https://lt.wikipedia.org/wiki/Jonas_XXIII","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Jonas_XXIII"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f656eb2e6fa0430c005922fd","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Antipopiežius Jonas XXIII; šaltinis jį apibūdina kaip Lietuvai ir Lenkijai palankų.","context":"Zenono Ivinskio 1978 m. veikale, aprašant Konstancijos susirinkimo laikotarpį.","support_ids":["t-176495","c-160497"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176495","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-160497","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Bažnyčios susirinkime aplinkybės laikinai buvo ėmusios dėsty­ tis ordino naudai. Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman. O imperatorius, kuris susirinkime turėjo vadovaujamą vaidmenį, iš anksto buvo raštu pasižadėjęs Žemaičius priskirti ordinui^33."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6d05ee6d496a96b9c54cd4e3","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Popiežius Jonas XXIII panaikino Vokiečių ordino privilegijas ir teises kariauti Lietuvą; taip pat pasiūlė Vytautui bylą su Ordinu perduoti Konstancijos susirinkimui.","context":"1930 m. šaltinyje, aprašant laikotarpį prieš Konstancijos susirinkimą.","support_ids":["t-176496","c-36388","t-184282","c-167659"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176496","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-184282","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36388","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Jonas XXIII atėmė Vok. Ordinui visas teises ir privilegijas, kuriomis jis pateisindavo savo už­ puldinėjimus, ir pasiūlė Vytautui pavesti bylą su Ordinu Kon­ stancijos susirinkimui. Tačiau visi žymesni Vytauto žygiai, ku­ rie lietė bažnytinį Lietuvos gyvenimą, buvo surišti su popiežium Martynu V, kadangi su juo pasibaigė Vak."},{"kind":"evidence","evidence_id":"c-167659","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok. Ordinui visas teises ir privilegijas, kuriomis jis pateisindavo savo už­ puldinėjimus, ir pasiūlė Vytautui pavesti bylą su Ordinu Kon­ stancijos susirinkimui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c282b80e37669cc222ee909d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Jonas XXIII, pagal Jogailos ir Vytauto prašymą, panaikino pasenusias Ordino privilegijas į Lietuvą.","context":"Zenono Ivinskio 1978 m. veikale, aprašant laikotarpį prieš Konstancijos susirinkimą.","support_ids":["t-176497","c-160496"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176497","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-160496","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas į Lietuvą, pagal Jogailos ir Vytauto prašymą^31. Visuotinis susirinkimas, lyg kokia aukščiausioji tautų organi­ zacija, apskritai turėjo tarti savo žodį ir apie tiek ilgai Bažnyčios globoto ordino misijas, jo santykius su naujakrikštais lietuviais ir ką tik Jogailos ir Vytauto imtais krikštyti Žemaičiais."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Jonas XXIII buvo Lietuvai ir Lenkijai palankus antipopiežius, susijęs su Vytauto ir Jogailos pastangomis apriboti Vokiečių ordino veiksmus. Pagal pateiktus šaltinius, jis panaikino pasenusias Ordino privilegijas ir teises kariauti Lietuvą, kuriomis Ordinas teisino savo užpuolimus. Jonas XXIII taip pat pasiūlė Vytautui perduoti ginčą su Ordinu Konstancijos bažnytiniam susirinkimui, kuriame turėjo būti svarstomi su Lietuva, Žemaitija, naujakrikštais lietuviais ir Ordino misijomis susiję klausimai. Vis dėlto pats Jonas XXIII Konstancoje buvo atstatydintas ir įmestas į kalėjimą, nors anksčiau buvo prašęs imperatoriaus Zigmanto sušaukti šį susirinkimą. Šaltiniai neleidžia patikimai nustatyti jo pontifikato datų ar išsamiau apibūdinti jo veiklos už šio Lietuvos ir Ordino konflikto ribų.","sentences":[{"sentence_id":"s1","text":"Jonas XXIII buvo Lietuvai ir Lenkijai palankus antipopiežius, susijęs su Vytauto ir Jogailos pastangomis apriboti Vokiečių ordino veiksmus.","support_ids":["t-176495","t-176497"]},{"sentence_id":"s2","text":"Pagal pateiktus šaltinius, jis panaikino pasenusias Ordino privilegijas ir teises kariauti Lietuvą, kuriomis Ordinas teisino savo užpuolimus.","support_ids":["t-176496","t-176497","t-176499"]},{"sentence_id":"s3","text":"Jonas XXIII taip pat pasiūlė Vytautui perduoti ginčą su Ordinu Konstancijos bažnytiniam susirinkimui, kuriame turėjo būti svarstomi su Lietuva, Žemaitija, naujakrikštais lietuviais ir Ordino misijomis susiję klausimai.","support_ids":["t-184282","t-176497"]},{"sentence_id":"s4","text":"Vis dėlto pats Jonas XXIII Konstancoje buvo atstatydintas ir įmestas į kalėjimą, nors anksčiau buvo prašęs imperatoriaus Zigmanto sušaukti šį susirinkimą.","support_ids":["t-176495"]},{"sentence_id":"s5","text":"Šaltiniai neleidžia patikimai nustatyti jo pontifikato datų ar išsamiau apibūdinti jo veiklos už šio Lietuvos ir Ordino konflikto ribų.","support_ids":[]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniais: Jonas XXIII įvardijamas Lietuvai ir Lenkijai palankiu antipopiežiumi, o jo veiksmai siejami su Jogailos ir Vytauto prašymais prieš Ordiną."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Jonas XXIII panaikino Ordino privilegijas ir teises, kuriomis Ordinas teisino užpuolimus."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai nurodo, kad jis pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui, kuriame turėjo būti svarstomi tekste išvardyti Lietuvos, Žemaitijos, naujakrikštų ir Ordino misijų klausimai."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta šaltiniu: Jonas XXIII prašė imperatoriaus Zigmanto sušaukti susirinkimą, o Konstancoje buvo atstatydintas ir įkalintas."},{"sentence_id":"s5","supported":false,"reason":"Nėra pateikto support_id, tiesiogiai pagrindžiančio išvadą apie pontifikato datų nenustatomumą ar veiklos apibūdinimo ribotumą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-176495","t-176497"]},{"sentence_id":"s2","supported":false,"support_ids":["t-176496","t-176497","t-176499"]},{"sentence_id":"s3","supported":false,"support_ids":["t-184282","t-176497"]},{"sentence_id":"s4","supported":false,"support_ids":["t-176495"]},{"sentence_id":"s5","supported":false,"support_ids":[]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: 70f2c3782cb6ba5e
-object_page_generated_at: '2026-09-20T04:39:13+00:00'
-object_page_source_checked_at: '2026-09-20T04:39:13+00:00'
-object_page_content_state: content
-object_page_claim_count: '6'
-object_page_source_count: '2'
-object_page_seo_description: 'Jonas XXIII buvo Lietuvai ir Lenkijai palankus antipopiežius, susijęs su Vytauto ir Jogailos pastangomis apriboti Vokiečių ordino veiksmus. Pagal pateiktus…'
-object_page_seo_input_hash: 01af4891c93e62478fae2a2d0fef437ae67b966e8dfbb192dc062e11bf38ec31
-object_page_seo_generated_at: '2026-09-20T04:39:13+00:00'
-object_page_seo_policy_version: object-page-policy/v7
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-88507093b3d0db2186fc1ebd"
+canonical_name: "Jonas XXIII"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas XXIII"]
+sameAs: ["https://www.wikidata.org/entity/Q23873"]
+canonical_biography: "Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas į Lietuvą, pagal Jogailos ir Vytauto prašymą^31. Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman."
 ---
 # Jonas XXIII
 
@@ -52,7 +42,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 <a id="claim-t-176495"></a>
 - t-001
   teiginys: "Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konstanca: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,7 +58,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 <a id="claim-t-176496"></a>
 - t-002
   teiginys: "Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -84,7 +74,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 <a id="claim-t-176497"></a>
 - t-003
   teiginys: "Jonas XXIII pagal Jogailos ir Vytauto prašymą panaikino pasenusias Ordino privilegijas į Lietuvą."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -100,7 +90,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 <a id="claim-t-176499"></a>
 - t-004
   teiginys: "Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-14 07:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,12 +102,11 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36387
-    - c-167658
 
 <a id="claim-t-184282"></a>
 - t-005
   teiginys: "Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,6 +122,43 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   pagrindžia:
     - c-167659
 
+<a id="claim-t-233204"></a>
+- t-006
+  teiginys: "Narbuto pasakojimu, popiežius Jonas XXIII atsisakė globoti Ordiną, kol šis neapsišvarins nuo jam mestų priekaištų."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:19Z"
+  pagrindžia:
+    - c-216024
+
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ).
+
+
+    ```
+    104
+    ```
+    Vytautas ir Jogaila, kaip žymūs to meto valdovai krikš­
+    čioniškoje Europoje, popiežiaus Jono XXIII pasiuntinių taip pat
+    buvo pakviesti į susirinkimą. Sumanus Vytautas tuojau suprato,
+    kokią didelę reikšmę gali turėti Lietuvai toks visuotinis su­
+    sirinkimas, kuriame geriausiai bus galima parodyti, kad Lietu­
+    va jau katalikų šalis, kad Kristaus tikėjimas joje prigyja ir todėl
+    be reikalo Ordinas ir toliau ją puola, skleisdamas Europoje vi­
+    sokių neteisybių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-36387
@@ -148,7 +174,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     tą, išdėstydamas žalingą Lietuvai Ordino politiką, siekusią ap­
     krikštyti lietuvius kardu ir ugnimi.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -169,7 +195,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     rie lietė bažnytinį Lietuvos gyvenimą, buvo surišti su popiežium
     Martynu V, kadangi su juo pasibaigė Vak.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -220,27 +246,6 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   pagrindzia:
     - t-001
 
-- id: c-167658
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 127"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 127."
-  citata_originali: |
-    Todėl
-    tokias ir panašias neteisybes lietuvių delegacijai reikėjo su­
-    griauti Konstancijoje.
-    Lietuvių delegacijai buvo tas gera, kad dar prieš susirin­
-    kimą popiež. Jonas XXIII panaikino visas Ordino privilegijas
-    ir teises kariauti Lietuvą.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-167659
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -260,3 +265,15 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-216024
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 286."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-006

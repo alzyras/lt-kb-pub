@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Lautenburgas'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -37,42 +38,67 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 
 ## Teiginiai
 
-<a id="claim-t-95917"></a>
+<a id="claim-t-233534"></a>
 - t-001
-  teiginys: "Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link."
-  atnaujinta: "2026-07-10 10:39"
+  teiginys: "Kariuomenė tuojau išžygiavo ir sustojo ties Lautenburgu."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Soldau: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lautenburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Soldau: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lautenburgas\" parinktas kaip owner_note_path. Targetas \"Soldau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-90716
+    - c-216354
 
-## Citatos
+<a id="claim-t-233535"></a>
+- t-002
+  teiginys: "Kariuomenė liepos 12 d. vėl pasiekė Lautenburgą, paskui pasuko į kairę, aplenkė Soldau ir įsirengė stovyklą prie Vysokos kaimo."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:40Z"
+  pagrindžia:
+    - c-216355
 
-- id: c-90716
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 101"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Prieš pasitraukimą Jogaila dar jautė pareigą siųsti pasiun­
-    tinį pas magistrą paklausti, ar jis nesutiktų aukščiau minėto­
-    mis sąlygomis taikintis. Magistras tada atsakė, kad ginčą
+    Magistras tada atsakė, kad ginčą
     tarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­
     gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
     link.
-  citata_rodoma: "Magistras tada atsakė, kad ginčą\ntarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­\ngininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau\nlink."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-216354
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 215."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
   pagrindzia:
     - t-001
+
+- id: c-216355
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 217."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

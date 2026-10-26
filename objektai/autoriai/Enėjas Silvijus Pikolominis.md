@@ -3,6 +3,7 @@ tipas: autorius
 pavadinimas: 'Enėjas Silvijus Pikolominis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,14 +32,18 @@ canonical_biography: "Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „
 
 ## Santrauka
 
-Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato.
+Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato. Teodoras Narbutas valdovo vaizdinį šiek tiek papildė, kompiliuodamas Enėjo Silvijaus Pikolominio ir Mykolo Lietuvio tekstus.
+
+## Santrauka
+
+Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato. Teodoras Narbutas valdovo vaizdinį šiek tiek papildė, kompiliuodamas Enėjo Silvijaus Pikolominio ir Mykolo Lietuvio tekstus.
 
 ## Teiginiai
 
 <a id="claim-t-193717"></a>
 - t-001
   teiginys: "Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -72,3 +77,12 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-215915
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 27"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 27."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-10-14 09:40"

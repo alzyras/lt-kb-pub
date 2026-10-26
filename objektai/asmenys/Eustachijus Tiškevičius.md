@@ -4,11 +4,12 @@ pavadinimas: 'Eustachijus Tiškevičius'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
   - '1857 m.'
-  - '1858 m.'
+  - '1862 m.'
 date_start: '1857'
-date_end: '1858'
+date_end: '1862'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -46,29 +47,22 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
 
 ## Teiginiai
 
-<a id="claim-t-87665"></a>
+<a id="claim-t-212973"></a>
 - t-001
-  teiginys: "Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę."
-  atnaujinta: "2026-07-10 10:39"
+  teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus Senienų muziejus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eustachijus Tiškevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus Senienų muziejus: mention_match, group, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eustachijus Tiškevičius\" parinktas kaip owner_note_path. Targetas \"Vilniaus Senienų muziejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1857-1858; įvykio data: 1858 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Tiškevičiaus iniciatyvą ir muziejaus reikšmę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-83644
+    - c-195003
 
-<a id="claim-t-190853"></a>
+<a id="claim-t-214938"></a>
 - t-002
   teiginys: "Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,70 +77,55 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
-    - c-173735
+    - c-195003
 
-<a id="claim-t-197727"></a>
+<a id="claim-t-233180"></a>
 - t-003
-  teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
-  atnaujinta: "2026-07-12 22:34"
+  teiginys: "1862 m. kovo 22 d. Eustachijus Tiškevičius Vilniaus katedroje po Vytauto paminklu pakabino Švč. Mergelės Marijos paveikslą, tuomet laikytą Vytauto dovana Senųjų Trakų benediktinų vienuolynui."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1862 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtraukti citatoje nurodyta data, vieta, veiksmas ir paveikslas. Paveikslo kilmės įsitikinimas paliktas kaip to meto manymas."
+  vertinimo_atnaujinta: "2026-10-14T06:37:18Z"
+  pagrindžia:
+    - c-216000
+
+<a id="claim-t-233181"></a>
+- t-004
+  teiginys: "T. Narbuto knygos egzemplioriuje išliko jo ranka rašyta dedikacija E. Tiškevičiui."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-173735
+    - c-216001
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    In­
-    formaciją apie
-    ukrainiečių pilkapius skaitytojas
-    ras
-    veikale, kurį kruopščiai ir moksliškai parašė M. Gra-
-    bovskis1. Sis darbas tikriausiai yra vienas žymiau­
-    sių ir dėl jame išdėstytų naujų faktų, ir dėl apimties. Ant­
-    ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
-    randami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir
-    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
-    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
-    čius3.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- t-003
-
-## Citatos
-
-- id: c-83644
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 13."
+- c-001
+  santrauka: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
     meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
     tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
     institucija, sutelkusi krašto visuomenę. Adomas Honorijus Kir­
-    koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­
-    tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
-    tiečių kilęs švietėjas Mikalojus Akelaitis.
-  citata_rodoma: "Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­\nmo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­\nmeninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­\ntyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė \ninstitucija, sutelkusi krašto visuomenę. Adomas Honorijus Kir­\nkoras 1857-1858 m."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+    koras 1857-1858 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  statusas: verified
+## Citatos
 
-- id: c-173735
+- id: c-195003
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 385"
@@ -166,10 +145,35 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
     čius3.
   citata_rodoma: "In­\nformaciją apie \nukrainiečių pilkapius skaitytojas \nras \nveikale, kurį kruopščiai ir moksliškai parašė M. Gra- \nbovskis1. Sis darbas tikriausiai yra vienas žymiau­\nsių ir dėl jame išdėstytų naujų faktų, ir dėl apimties. Ant­\nra vertus, beveik visoje Siaurės Europoje tai šen, tai ten \nrandami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir \nEstijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­\nsioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­\nčius3."
   statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
+
+- id: c-216000
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 68"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 68."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
     - t-003
+
+- id: c-216001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 73."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

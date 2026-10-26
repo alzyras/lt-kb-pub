@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'metropolija'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -69,7 +70,7 @@ Nenurodyta.
 <a id="claim-t-05445"></a>
 - t-001
   teiginys: "Gediminui nepasisekė išlaikyti Lietuvos metropolijos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1300 m."
@@ -80,7 +81,7 @@ Nenurodyta.
 <a id="claim-t-05446"></a>
 - t-002
   teiginys: "Kijevo metropolijos rezidencija buvo perkelta į Vladimirą Maskvos žemėse."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,21 +94,10 @@ Nenurodyta.
   pagrindžia:
     - c-91771
 
-<a id="claim-t-05450"></a>
-- t-003
-  teiginys: "1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1389 m.; įvykio data: 1415 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-05580
-
 <a id="claim-t-97282"></a>
-- t-004
+- t-003
   teiginys: "1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, didindamas pavojų Lietuvos stačiatikių plotams."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -124,9 +114,9 @@ Nenurodyta.
     - c-05575
 
 <a id="claim-t-97283"></a>
-- t-005
+- t-004
   teiginys: "Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -138,6 +128,19 @@ Nenurodyta.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-91771
+
+<a id="claim-t-233139"></a>
+- t-005
+  teiginys: "Narbutas nurodo, kad didysis kunigaikštis buvo nutaręs įkurti nuo Maskvoje gyvenančio ganytojo nepriklausomą Kijevo metropoliją, bet atmetė metropolito prašymą atvykti į Gardiną."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:48Z"
+  pagrindžia:
+    - c-215959
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -155,14 +158,11 @@ Nenurodyta.
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Konstan­
-    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
-    sančių žemių metropolitą — arkivyskupą Romaną.
-    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
-    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
-    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
-    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
-    Filotėją įtikinti Lietuvos ortodoksų labui.
+    Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos
+    perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko
+    1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
+    tikių plotuose augino rimtą pavojų. Tik Algirdui vėl pasisekė (1353)
+    šimtui metų laimėti atskirus metropolitus Lietuvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -218,7 +218,7 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-05576
   autorius: "Zenonas Ivinskis"
@@ -255,23 +255,6 @@ Nenurodyta.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- id: c-05578
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 271"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
-  citata_originali: |
-    Lietuvos stačiatikių metropolija nebebuvo
-    atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
-    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
-    Filotėją įtikinti Lietuvos ortodoksų labui.
-  citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - id: c-05579
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -301,12 +284,10 @@ Nenurodyta.
   citata_rodoma: "Nuo 1389 m. Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri-\ngorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino\njos atnaujinimą, tepatverusį vos penkerius metus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-91771
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -319,11 +300,23 @@ Nenurodyta.
     metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
     į Maskvą.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
     - t-002
+    - t-004
+
+- id: c-215959
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 298."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
     - t-005

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Prūsų kraštas (kraštas)'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -38,10 +39,10 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
 
 ## Teiginiai
 
-<a id="claim-t-187297"></a>
+<a id="claim-t-210392"></a>
 - t-001
   teiginys: "Lietuvos metraštyje Kęstučio pusės pasakojime Jogaila kaltinamas be Kęstučio žinios sudaręs taiką su Prūsų kraštu."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
@@ -54,11 +55,37 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
-    - c-170339
+    - c-193663
+
+<a id="claim-t-233704"></a>
+- t-002
+  teiginys: "Liepos 5 d. karalius, kaip jį įvardija Narbutas, buvo apsistojęs keturių dienų žygio atstumu nuo priešo sienos, o naktį Prūsų krašte matėsi didelės gaisrų pašvaistės."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:44Z"
+  pagrindžia:
+    - c-216524
+
+<a id="claim-t-233705"></a>
+- t-003
+  teiginys: "Narbutas rašė, kad savavališkai sieną peržengę kareiviai, siekdami grobio, padegė Prūsų kaimus nepaisydami įsakymų ir dėl to buvo išbarti."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:44Z"
+  pagrindžia:
+    - c-216525
 
 ## Citatos
 
-- id: c-170339
+- id: c-193663
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 173"
@@ -83,9 +110,34 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
     sų žemę pasiglemžti.
   citata_rodoma: "Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­\ngų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­\nslėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu\nir su Livonijos kraštu ir mūsų tėvą išdavė;"
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-216524
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 211."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002
+
+- id: c-216525
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 211."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003

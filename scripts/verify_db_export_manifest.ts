@@ -56,7 +56,7 @@ function readManifest(): ProjectionManifest {
   const parsed = JSON.parse(fs.readFileSync(manifestPath, "utf8")) as Partial<ProjectionManifest>
   if (
     parsed.version !== 1 ||
-    parsed.source !== "workflow.sqlite3" ||
+    parsed.source !== "postgresql:lithuanianhistory.workflow" ||
     !parsed.files ||
     !parsed.contract
   ) {

@@ -3,16 +3,18 @@ tipas: asmuo
 pavadinimas: 'Henrikas Plauenas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
-  - '1443 m.'
+  - '1410 m.'
   - '1468 m.'
-date_start: '1443'
+date_start: '1410'
 date_end: '1468'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - ordinas
 amziai:
   - 'XV'
 periodo_grupes:
@@ -48,7 +50,7 @@ canonical_biography: "Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi s
 <a id="claim-t-87689"></a>
 - t-001
   teiginys: "Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.65"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,6 +66,45 @@ canonical_biography: "Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi s
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Henriką Plaueną ir atitinka citatos turinį."
   pagrindžia:
     - c-83668
+
+<a id="claim-t-233190"></a>
+- t-002
+  teiginys: "Henrikas Plauenas pasiskelbė laikinuoju Ordino valdytoju, telkė pastiprinimus, pasikvietė Zigmantą į pagalbą ir galiausiai jam pasiūlė taiką."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:19Z"
+  pagrindžia:
+    - c-216010
+
+<a id="claim-t-233191"></a>
+- t-003
+  teiginys: "Henrikas Plauenas perėmė ginkluotų vyrų vadovavimą, sudegino gintis nepajėgusį miestą, susprogdino tiltą per Nogatą ir užsidarė pilyje, kad atremtų apsiaustį."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:19Z"
+  pagrindžia:
+    - c-216011
+
+<a id="claim-t-233193"></a>
+- t-004
+  teiginys: "Narbuto vertinimu, vienuolių riterių bendrija nepagrįstai persekiojo buvusį didįjį magistrą Henriką Plaueną, kritišku metu gynusį Ordiną, ir jo jaunesnįjį brolį, taip užsitraukdama nešlovę."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:19Z"
+  pagrindžia:
+    - c-216013
 
 ## Citatos
 
@@ -88,9 +129,45 @@ canonical_biography: "Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi s
     1451,1452,1457 (tais metais Goštau­
     tui atleido).
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-216010
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 248."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-002
+
+- id: c-216011
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 248."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-003
+
+- id: c-216013
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 289."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

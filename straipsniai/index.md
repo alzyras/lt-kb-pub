@@ -4,7 +4,7 @@ description: "Šaltiniais ir patikrintais Lietuvos istorijos žinių lobyno teig
 tipas: kolekcija
 date: 2026-07-26
 sukurta: "2026-07-26"
-atnaujinta: "2026-07-26"
+atnaujinta: "2026-09-30"
 tags:
   - straipsniai
 cssclasses:
@@ -31,14 +31,14 @@ cssclasses:
 
 <a class="article-card article-card--vilnius" href="/straipsniai/viena-diena-xviii-a-vilniuje">
   <span class="article-card-kicker">XVIII a. Vilnius · Miesto kasdienybė</span>
-  <strong>Viena diena XVIII a. Vilniuje</strong>
-  <span>Ką apie sostinės ritmą pasakoja kanauninko Jono Dominyko Lopacinskio laiškai: Tribunolas, rūmai, vaišės, lošimai ir konfliktai.</span>
+  <strong>Vilnius kanauninko laiškuose</strong>
+  <span>1747–1760 m. miesto epizodai: atvykstančių bajorų būstai, seimeliai, rūmų statybos, vestuvės ir naktinės kortų partijos.</span>
   <em>Skaityti straipsnį →</em>
 </a>
 
 <a class="article-card article-card--puota" href="/straipsniai/puota-svecias-ir-statusas">
   <span class="article-card-kicker">XVI–XVIII a. · Bajorų kasdienybė</span>
   <strong>Puota, svečias ir statusas</strong>
-  <span>Kaip dvaro virtuvė, bendra taurė, pietūs, karnavalai ir egzotiniai konfitiūrai kūrė bajorų statusą, pasitikėjimą ir politinius ryšius.</span>
+  <span>Dvaro virtuvė, vaišių kaina ir svečio priėmimas: kaip bajorai rodė savo galimybes ir palaikė pažintis.</span>
   <em>Skaityti straipsnį →</em>
 </a>

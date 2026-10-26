@@ -2,7 +2,9 @@
 tipas: vieta
 pavadinimas: 'Liubuckas'
 saltiniai:
+  - 'Lietuvių tautos istorija, t. 5'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
   - '1408 m.'
   - '1494 m.'
@@ -45,27 +47,22 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
 
 ## Teiginiai
 
-<a id="claim-t-187255"></a>
+<a id="claim-t-206514"></a>
 - t-001
-  teiginys: "Pagal 1494.II.5 sutarties rezultatą Liubuckas paliko LDK."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginys: "Liubuckas buvo pilis, stovėjusi netoli Kalugos."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Chlepenis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liubuckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Chlepenis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubuckas\" parinktas kaip owner_note_path. Targetas \"Chlepenis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-170313
+    - c-189129
 
-<a id="claim-t-187256"></a>
+<a id="claim-t-211734"></a>
 - t-002
   teiginys: "Liubuckas lokalizuojamas į šiaurės vakarus nuo Tūlos ir apie 150 km į pietus nuo Maskvos."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
@@ -76,34 +73,57 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=81"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubuckas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 1408 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas sakinys apie Liubucko lokalizaciją. Jis remiasi aiškinamąja pastaba ir neprideda vertinimų ar metraščio interpretacijų."
   pagrindžia:
-    - c-170312
+    - c-193008
 
-<a id="claim-t-206514"></a>
+<a id="claim-t-211906"></a>
 - t-003
-  teiginys: "Liubuckas buvo pilis, stovėjusi netoli Kalugos."
-  atnaujinta: "2026-08-16 22:50"
+  teiginys: "Liubuckas buvo LDK ir Maskvos didžiosios kunigaikštystės pasienio miestas prie Okos."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubuckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubuckas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-193008
+
+<a id="claim-t-233580"></a>
+- t-004
+  teiginys: "Prie Liubucko susikovusiose kautynėse Rodoslavas buvo visiškai sumuštas ir paimtas į nelaisvę."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:41Z"
   pagrindžia:
-    - c-189129
+    - c-216400
 
 ## Reikšmingi paminėjimai
-- c-001
+- c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    (Mezecko) valsčius, buvęs Zizdros upės baseine, buvo prijungtas
-    prie LDK. matyt, 1407—1408 m.
-    '  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­
-    ros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!.
-    8  M censkas — dabar RTFSR miestas (apie 50 km į šiaurės ry­
-    tus nuo Oriolo).
+    iš lenkų istorikų tų posakį mini Kromeris ir B. Vapovskis, ta­
+    čiau priskiria ji ne Aleksandrui, o jo broliui Lenkijos karaliui
+    Jonui Olbrachtui; taip jis atsakęs j Lenkijos kanclerio Kreslavo
+    Kurozvenskio
+    mėginimą
+    atkalbėti
+    Olbrachtą nuo žygiavimo per
+    Moldavijos teritoriją. M. Strijkovskio Kronikoje (p. 648) savo marš­
+    kinius žada sudeginti ir Aleksandras, ir Jonas Olbrachtas.
+    14 Vadovaujančių Lietuvos feodalinių sluoksnių neutrali pozi­
+    cija Lenkijos—Moldavijos konflikto atžvilgiu galėjo būti sukelta
+    Maskvos didžiojo kunigaikščio Ivano III-jo, Moldavijos vaivados
+    Stepono giminaičio ir sąjungininko, diplomatinio spaudimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -111,7 +131,7 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   statusas: verified
 - t-003
 
-- c-002
+- c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš-
@@ -122,44 +142,10 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
     щ ая Новгородскую и Киевскую сокращенные летописи.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
 ## Citatos
-
-- id: c-170312
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 310"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 310."
-  citata_originali: |
-    '  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­
-    ros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!.
-  citata_rodoma: "'  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­\nros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
-- id: c-170313
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš-
-    čovskas, but taip pat daug miestų ir valsčių, kurie BK neišvardyti.
-    Uubuckas, Serpeiskas, M censkas paliko LDK.
-  citata_rodoma: "jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš- \nčovskas, but taip pat daug miestų ir valsčių, kurie BK neišvardyti. \nUubuckas, Serpeiskas, M censkas paliko LDK."
-  statusas: verified
-  atnaujinta: "2026-08-11 18:54"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-189129
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -180,4 +166,34 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
+
+- id: c-193008
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 310"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 310."
+  citata_originali: |
+    '  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­
+    ros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!.
+  citata_rodoma: "'  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­\nros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
     - t-003
+
+- id: c-216400
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 108."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

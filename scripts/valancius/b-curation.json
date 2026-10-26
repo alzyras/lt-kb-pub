@@ -5,13 +5,13 @@
   "title": "Valančiaus blaivybės brolijos",
   "seo_title": "Valančiaus blaivybės brolijos",
   "subtitle": "Kaip buvo raginama negerti ir ką reiškė blaivybės pažadas",
-  "description": "Blaivybės brolijos knygelė, pamokantis raižinys, karčemos dokumentas ir kiti eksponatai apie Valančiaus raginimą atsisakyti degtinės.",
+  "description": "Karčemos nuomos raštas, blaivybės knygelės, Valančiaus ir Oginskio portretai bei pamokantys vaizdai pasakoja apie raginimą negerti, brolijų pažadą ir skirtingą atsaką į blaivybės sąjūdį.",
   "hero": "brostwa",
   "sections": [
     {
       "slug": "karcema-ir-pajamos",
       "title": "Karčema ir jos pajamos",
-      "lead": "Į karčemą žmonės eidavo susitikti ir išgerti. Savininkui bei nuomininkui ji buvo verslas, už kurį reikėjo atsiskaityti. Šalia rodomi paveikslas ir piniginių reikalų raštas leidžia apžiūrėti abi puses. Smuglevičius nutapė žmones prie stalo gerokai iki Valančiaus sąjūdžio, o Smilgių karčema paminėta 1864 metų dokumente. Tai skirtingų vietų ir laikų liudijimai. Paveiksle atkreipkite dėmesį į susibūrusią grupę, rankraštyje — į nuomos mokestį ir greta surašytus kitus mokėjimus.",
+      "lead": "Smuglevičiaus paveiksle žmonės susibūrę prie stalo. 1864 m. Panevėžyje rašytame pranešime Smilgių karčema minima tarp nuomos ir kitų mokėjimų. Šie skirtingo laiko eksponatai supažindina su karčema kaip susitikimų vieta ir pajamas duodančiu turtu.",
       "items": [
         {
           "key": "karcemos-paveikslas",
@@ -24,7 +24,7 @@
           "institution": "Nacionalinis muziejus Krokuvoje, MNK II-a-618",
           "primary": "https://zbiory.mnk.pl/en/search-result/advance/catalog/417435",
           "claim": "t-225841",
-          "description": "Prie stalo susėdusius žmones Smuglevičius nutapė arti vienas kito. Priekyje sėdintį vyrą matome iš nugaros; už jo išryškėja kitų veidai, rankos ir indai. Karčema šiame paveiksle yra vieta bendrauti. Ką žmonės sako ir kiek išgėrė, nežinome. Kūrinys nutapytas iki dailininko mirties 1807 metais, gerokai anksčiau už Valančiaus sąjūdį. Tai nėra dokumentinis 1858 metų Žemaitijos kaimo vaizdas. Paveikslą saugo Nacionalinis muziejus Krokuvoje, iš kurio skaitmeninio rinkinio paimta reprodukcija. Parodoje jis padeda įsižiūrėti į gėrimą lydėjusią susitikimo aplinką.",
+          "description": "Pranciškaus Smuglevičiaus paveiksle žmonės susėdę arti vienas kito; tarp jų matyti rankos ir indai. Priekyje esantis vyras atsuktas nugara į žiūrovą. Kūrinys nutapytas iki 1807 m., gerokai prieš Valančiaus blaivybės sąjūdį. Jis suteikia susitikimo karčemoje vaizdą, o konkrečios Žemaitijos bendruomenės gyvenimą reikia pažinti iš jos šaltinių. Paveikslą saugo Nacionalinis muziejus Krokuvoje, MNK II-a-618.",
           "citation": "c-206365"
         },
         {
@@ -37,7 +37,7 @@
           "date": "1864 m. vasario 6 d. (dokumento data, neperversta į kitą kalendorių)",
           "year": 1864,
           "claim": "t-225847",
-          "description": "„Za Karczmę Smilgewską“ — už Smilgių karčemą. Taip pirmojo lapo viduryje prasideda sakinys apie nuomos mokestį ir pinigų perdavimą. Greta surašytos kitos sumos, pavardės ir reikalai, o paraštėje juos atskiria kryžiukai. Dokumentas rašytas 1864 metais Panevėžyje; bibliotekos katalogas autoriaus ir adresato nenustato. Tai ne Valančiaus laiškas ir ne blaivybės sukeltų nuostolių ataskaita. Jame karčema minima kaip nuomojamas, pajamas duodantis turtas. Čia rodomas visas pirmas lapas, o likusius galima atversti bibliotekos skaitmeniniame rinkinyje pagal galerijos kortelės nuorodą.",
+          "description": "„Za Karczmę Smilgewską“ – už Smilgių karčemą. Pirmojo lapo viduryje taip pradedamas sakinys apie nuomos mokestį ir pinigų perdavimą. Greta surašytos kitos sumos, pavardės ir reikalai, paraštėje atskirti kryžiukais. 1864 m. Panevėžyje rašytame dokumente karčema minima kaip nuomojamas turtas. Bibliotekos katalogas autoriaus ir adresato nenustato.",
           "citation": "c-206371"
         }
       ]
@@ -45,7 +45,7 @@
     {
       "slug": "kvietimas-ir-pazadas",
       "title": "Kaip plito kvietimas negerti",
-      "lead": "Blaivybės knygos buvo leidžiamos dar prieš Valančiaus sąjūdį. Čia rodomas 1849 metų leidinys latvių kalba, 1857 metų vyskupo portretas ir 1861 metų knygelė apie blaivybės broliją. Jų datos padeda sekti, kaip ankstesnius raginimus papildė organizuotas parapijų darbas. Vyskupo laišką galėjo išgirsti ir nemokantis skaityti žmogus — jį skelbdavo kunigas. Spausdinta knygelė savo ruožtu aiškino, kam brolija skirta ir kokį pažadą duoda jos narys. Tų žodžių reikėjo laikytis ir išėjus iš bažnyčios.",
+      "lead": "1849 m. knygelė latvių kalba liudija ankstesnę blaivybės tekstų sklaidą. Valančiaus sąjūdyje kvietimas negerti buvo siejamas su parapijų darbu: kunigai skelbdavo vyskupo laiškus, o brolijos knygelė aiškino priėmimo tvarką ir nario pareigas. Todėl vyskupo žodis galėjo pasiekti ir nemokančius skaityti žmones.",
       "items": [
         {
           "key": "knyga1849",
@@ -57,7 +57,7 @@
           "date": "1849",
           "year": 1849,
           "claim": "t-209294",
-          "description": "Antraštinio lapo apačioje įrašyta leidimo vieta — Peterburgas — ir 1849 metai. Aukščiau minima lietuvių kalba, Mieleškos vardas ir vertimas į latvių kalbą. Taigi tekstas skaitytojus pasiekė per vertėjus. Biblioteka leidinį priskiria Döbneriui, kurio pavardės šiame lape nėra. Tai ankstesnė už Valančiaus 1858 metų sąjūdį knygelė, ne jo brolijų vadovėlis. Apžiūrėkite ir antspaudus: jie atsirado egzemplioriui patekus į bibliotekas. Išlikęs lapas pasako apie blaivybės raštų kelią tarp kalbų, nors nežinome, kas šį konkretų egzempliorių skaitė pirmas.",
+          "description": "Antraštinio lapo apačioje nurodyti Peterburgas ir 1849 m. Aukščiau minima lietuvių kalba, Mieleškos vardas ir vertimas į latvių kalbą. Biblioteka leidinį priskiria Christianui Carlui Augustui Döbneriui. Knygelė išleista dar prieš 1858 m. Valančiaus sąjūdį; ji supažindina su blaivybės tekstų sklaida tarp kalbų. Antspaudai išsaugojo vėlesnės egzemplioriaus bibliotekinės istorijos žymes.",
           "citation": "c-192028"
         },
         {
@@ -71,7 +71,7 @@
           "institution": "Lietuvos nacionalinis dailės muziejus (ankstesnis pavadinimas — Lietuvos dailės muziejus)",
           "claim": "t-209551",
           "citation": "c-192171",
-          "description": "Adolphe’o Lafosse’o 1857 metų litografijoje Valančius pavaizduotas su vyskupo apranga ir krūtinės kryžiumi. Apačioje įrašytas jo vardas. Portretas sukurtas prieš masinio blaivybės sąjūdžio pradžią, kai vyskupas jau vadovavo parapijų kunigams. Vėliau jų balsu žmones pasieks jo raginimai negerti: laišką buvo galima išgirsti nė karto nemačius autoriaus gyvai. Litografija pristato, kaip pats vyskupas buvo vaizduojamas spaudoje. Nėra žinių, kad šis atvaizdas kabėjo konkretaus brolijos nario namuose; parodoje jis skirtas susipažinti su žmogumi, kurio vardu duotas kvietimas."
+          "description": "Adolphe’o Lafosse’o 1857 m. litografijoje Valančius pavaizduotas su vyskupo apranga ir krūtinės kryžiumi. Apačioje įrašytas jo vardas. Portretas sukurtas prieš masinio blaivybės sąjūdžio pradžią. Vyskupo laiškus skelbę kunigai vėliau perteikė jo raginimus negerti; žmogus galėjo juos išgirsti ir nebūti matęs paties Valančiaus."
         },
         {
           "key": "brostwa",
@@ -79,19 +79,19 @@
           "page": 3,
           "file": "valancius-apej-brostwa-blaivistes-1861.jpg",
           "title": "„Apej brostwą błaiwistes arba nusiturieima“",
-          "creator": "Motiejus Valančius; leidėjas Ed. Waikinnis ir Co.",
+          "creator": "Motiejus Valančius; antraštiniame lape – Ed. Waikinnis ir Co.",
           "date": "1861",
           "year": 1861,
           "claim": "t-208821",
           "citation": "c-191441",
-          "description": "„Brostwa“ reiškia broliją, „nusiturieimas“ — susilaikymą. Taip pavadinta 1861 metais Klaipėdoje išleista knygelė, kurios antraštinį lapą matote. Brolijos nario laukė apibrėžtos pareigos, maldos ir priėmimo tvarka. Puzaro perteiktose taisyklėse pažadas apėmė degtinę bei kitus stipriuosius gėrimus; alus, vynas ir midus buvo vertinami kitaip. Todėl jo nereikėtų suprasti kaip dabartinio pažado nevartoti jokio alkoholio. Atkreipkite dėmesį į senąją rašybą ir vėlesnius antspaudus. Knygelė išliko, tačiau kurio žmogaus įsipareigojimą lydėjo šis egzempliorius, iš bibliotekos žymų nesužinosime."
+          "description": "„Brostwa“ reiškia broliją, „nusiturieimas“ – susilaikymą. Knygelė aiškino brolijos nario pareigas, maldas ir priėmimo tvarką. Pagal Puzaro perteiktas taisykles pažadas apėmė degtinę bei kitus stipriuosius gėrimus; alus, vynas ir midus vertinti kitaip. Antraštiniame lape nurodyta Klaipėda ir 1861 m. Aušra Navickienė, palyginusi egzempliorius, šriftus ir leidybos dokumentus, argumentuoja, kad 1860–1861 m. leidimai iš tikrųjų spausdinti Vilniuje. Taigi nurodyta leidimo vieta ir tyrėjos nustatyta spaudos vieta skiriasi."
         }
       ]
     },
     {
       "slug": "tarp-kaimynu",
       "title": "Kaip buvo perspėjama dėl girtavimo",
-      "lead": "Įkalbinėjamas išgerti žmogus turėjo prisiminti savo pažadą. Jį primindavo kunigo žodis, aplinkiniai ir blaivybę skelbiantys vaizdai. Vinkaus-Vitkausko raižinyje perspėjama apie girtavimo pasekmes, pasitelkiant religinius ženklus bei užrašus. Apžiūrėkite atskiras jo scenas ir palyginkite, kaip jose vaizduojami žmonių pasirinkimai. Toks pamokantis kūrinys galėjo kalbėti griežtai. Tačiau griežtas perspėjimas nesuteikė teisės žeminti žmogaus: atskirai pateikiamas šaltinis apie Valančiaus draudimą taikyti prievartines blaivinimo priemones. Tai buvo tikras ginčas dėl elgesio, ne vien dėl žodžių.",
+      "lead": "Vinkaus-Vitkausko raižinyje religiniai vaizdai ir užrašai perspėja apie girtavimo pasekmes. Griežtą raginimą lydėjo ir ginčas dėl priemonių: Valančius draudė žmones blaivinti prievarta. Šalia raižinio pateikta šio draudimo atrama leidžia palyginti skelbtą tvarką su jos pažeidimais.",
       "items": [
         {
           "key": "medzio-raizinys",
@@ -104,14 +104,14 @@
           "institution": "Lietuvos nacionalinis dailės muziejus",
           "claim": "t-208512",
           "citation": "c-191132",
-          "description": "Aleksandro Vinkaus-Vitkausko raižinyje vaizdai gretinami su religiniais ženklais ir užrašais. Apačioje matyti 1861 metų data. Apžiūrint atskiras grupes aiškėja pamokantis sumanymas: parodyti elgesio pasekmes ir raginti rinktis blaivybę. Scenos nėra konkrečių šeimų nutikimų atvaizdai. Jos skirtos įtikinti žiūrovą, kaip pamokslas ar blaivybės knygelė — klausytoją ir skaitytoją. Greta pateiktas šaltinis pasakoja apie Valančiaus draudimą blaivinti žmones prievarta. Toks draudimas svarbus skaitant griežtus perspėjimus: girtavimo smerkimas ir leidimas žeminti geriantįjį nebuvo tas pats, nors praktikoje ši riba peržengta."
+          "description": "Aleksandro Vinkaus-Vitkausko 1861 m. raižinyje žmonių grupės gretinamos su religiniais ženklais ir užrašais. Scenų seka perspėja apie girtavimo pasekmes ir ragina rinktis blaivybę. Tai pamokantis vaizdų pasakojimas. Prie eksponato pateiktas šaltinis apie Valančiaus draudimą blaivinti prievarta paaiškina kitą sąjūdžio pusę: vyskupui teko nustatyti ir raginimo laikytis pažado ribas."
         }
       ]
     },
     {
       "slug": "permaina-ir-pasipriesinimas",
       "title": "Blaivybę parėmęs dvarininkas",
-      "lead": "Irenėjus Kleopas Oginskis dėkojo Valančiui už blaivybės skelbimą, nors pats dėl jos neteko pajamų. Šis jo pasirinkimas neleidžia visų dvarininkų laikyti sąjūdžio priešininkais. Vyskupui tuo pat metu teko tramdyti iš degtinės besipelniusius vienuolynus, o imperijos pareigūnai tarpusavyje nesutarė, kaip vertinti blaivybę. Šiame skyriuje — Oginskio portretas. Jis nutapytas anksčiau už laišką Valančiui, todėl su kunigaikščio sprendimu supažindina prie eksponato pateiktas šaltinis, o paveikslas parodo patį žmogų.",
+      "lead": "1858 m. gruodį Irenėjus Kleopas Oginskis dėkojo Valančiui už blaivybės skelbimą, nors tai mažino jo pajamas. Šis pasirinkimas parodo, kad ekonominis nuostolis nebūtinai reiškė priešinimąsi sąjūdžiui. Oginskio portretas nutapytas 1845 m.; apie vėlesnį jo sprendimą pasakoja prie eksponato susietas šaltinis.",
       "items": [
         {
           "key": "oginskis",
@@ -125,7 +125,7 @@
           "primary": "https://www.15min.lt/media-pasakojimai/veidai-is-butojo-laiko-kunigaiksciai-oginskiai-kulturos-mecenatai-926",
           "catalogNote": "Muziejaus kolekcijos pristatymas pagal 2015 m. katalogą „Veidai iš būtojo laiko: kunigaikščių Oginskių dailės kolekcija“; nurodytas NČDM inventoriaus numeris Mt-1397. Tiesioginis individualus muziejaus katalogo URL nerastas.",
           "claim": "t-208599",
-          "description": "Portreto dešinėje matyti dailininko parašas ir 1845 metų data. Janas Ksaveras Kaniewskis Oginskį nutapė gerokai prieš jo laišką Valančiui. 1858 metų gruodį Rietavo kunigaikštis vyskupui dėkojo už blaivybės skelbimą, nors pats patyrė nuostolių. Tai svarbus dvarininko, sąmoningai parėmusio savo pajamoms nepalankų sąjūdį, pavyzdys. Tikslios nuostolių sumos nenurodome, nes istorikų pateikti dydžiai apibrėžti nevienodai. Laiško aplinkybės aptartos šaltinyje prie eksponato; pats portretas sukurtas kita proga. Jį saugo Nacionalinis M. K. Čiurlionio dailės muziejus, inventoriaus numeris Mt-1397.",
+          "description": "1845 m. Janas Ksaveras Kaniewskis nutapė Irenėjaus Kleopo Oginskio portretą. Kūrinio dešinėje matyti parašas ir data. 1858 m. gruodį kunigaikštis Valančiui dėkojo už blaivybės skelbimą, nors pats dėl jo patyrė nuostolių. Šį vėlesnį pasirinkimą paliudija prie eksponato pateiktas šaltinis. Portretą saugo Nacionalinis M. K. Čiurlionio dailės muziejus, Mt-1397.",
           "citation": "c-191219"
         }
       ]
@@ -133,7 +133,7 @@
     {
       "slug": "kas-isliko",
       "title": "Blaivybės ženklai po Valančiaus",
-      "lead": "1864 metais blaivybės brolijos buvo uždraustos. Tačiau raginimai negerti ir religinis pažadas neišnyko kartu su jų organizacija. Parodą baigiantis medalis pagamintas jau po Valančiaus mirties. Jo nežinomas savininkas priklausė vėlesniam laikui, todėl šis daiktas negali būti pirmųjų brolijų narystės įrodymas. Kitokį tęstinumo liudijimą paliko Salantų klebonas: 1877 metais jis rašė apie parapijos vestuves, krikštynas ir pakasynas be degtinės. Tas laiškas aptartas poriniame straipsnyje; su medalio savininku jo nesiejame.",
+      "lead": "1864 m. blaivybės brolijos buvo uždraustos, tačiau raginimai negerti tęsėsi. 1877 m. Salantų klebonas rašė apie vestuves, krikštynas ir pakasynas be degtinės. Šis laiškas aptartas poriniame straipsnyje. Muziejaus po 1889 m. datuojamas medalis priklauso vėlesnei blaivybės tradicijai.",
       "items": [
         {
           "key": "medalis",
@@ -146,7 +146,7 @@
           "institution": "Žemaičių vyskupystės muziejus",
           "claim": "t-209416",
           "citation": "c-192042",
-          "description": "Nedideliame aliuminio medalyje telpa religinis atvaizdas ir užrašai. Muziejus jį datuoja laikotarpiu po 1889 metų, tad tai vėlesnės blaivybės tradicijos daiktas. Valančius jo negalėjo įteikti 1858 metais į broliją stojusiam žmogui. Kam šis medalis priklausė ir kaip buvo nešiojamas, nežinoma. Jį verta apžiūrėti iš arti: ženklas buvo skirtas turėti su savimi, o blaivybės raginimą lydėjo religinis vaizdas. Parodą jis baigia jau kitu laikotarpiu, kai pirmųjų brolijų organizacija nebeveikė, tačiau jų skelbtas įsipareigojimas buvo tęsiamas ir prisimenamas."
+          "description": "Aliuminio medalyje religinis atvaizdas derinamas su užrašais apie blaivybę. Muziejus jį datuoja laikotarpiu po 1889 m., jau po Valančiaus mirties. Tai vėlesnės blaivybės tradicijos daiktas; jo savininkas ir naudojimo aplinkybės nežinomi. Pažado ar narystės istoriją galėtume patikslinti tik radę su šiuo egzemplioriumi susijusių duomenų."
         }
       ]
     }

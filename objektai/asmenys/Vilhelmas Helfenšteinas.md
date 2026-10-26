@@ -2,18 +2,10 @@
 tipas: asmuo
 pavadinimas: 'Vilhelmas Helfenšteinas'
 saltiniai:
-  - 'į Ą'
-datos:
-  - '1382 m.'
-  - '1393 m.'
-date_start: '1382'
-date_end: '1393'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +41,7 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
 <a id="claim-t-206971"></a>
 - t-001
   teiginys: "Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijonai, Algirdo žmonai."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,7 +54,7 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
 <a id="claim-t-206972"></a>
 - t-002
   teiginys: "Narbutas neabejodamas nurodo, kad laišką parašė didysis komtūras Vilhelmas Helfenšteinas ir laiko jį 1382 metų antrosios pusės dokumentu."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,7 +67,7 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
 <a id="claim-t-206973"></a>
 - t-003
   teiginys: "1393 m. Marienburgo tvirtovėje Vilhelmas Helfenšteinas, kurį Narbutas įvardija didžiuoju Teutonų ordino patikėtiniu, perdavė valstybės notarui du pergamentinius laiškus, kad šis juos deramai perrašytų."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -84,6 +76,19 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
   vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
   pagrindžia:
     - c-189588
+
+<a id="claim-t-233289"></a>
+- t-004
+  teiginys: "Graudenco komtūras Vilhelmas Helfenšteinas žuvo mūšyje kartu su visais savo vėliavos kariais."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:22Z"
+  pagrindžia:
+    - c-216109
 
 ## Citatos
 
@@ -111,6 +116,7 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
     helmo Helfenšteino. D ata nenurodyta, tačiau laikytina, kad
     tai 1382 metų antroji pusė.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -144,3 +150,15 @@ Vilhelmo Helfenšteino laiškas buvo skirtas didžiajai kunigaikštienei Julijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-216109
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 237."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-004

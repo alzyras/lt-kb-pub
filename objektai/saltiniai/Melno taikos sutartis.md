@@ -3,6 +3,7 @@ tipas: saltinis
 pavadinimas: 'Melno taikos sutartis'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
   - '1420 m.'
   - '1422 m.'
@@ -11,6 +12,7 @@ date_end: '1422'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
   - saltinis
   - dokumentas
 amziai:
@@ -36,52 +38,71 @@ Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta 
 
 ## Teiginiai
 
-<a id="claim-t-88263"></a>
+<a id="claim-t-233119"></a>
 - t-001
-  teiginys: "1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą."
-  atnaujinta: "2026-07-10 10:39"
+  teiginys: "Didysis magistras, kaip pasakoja Teodoras Narbutas, ketino nutraukti Melno sutartį ir slapta įspėjo komtūrus bei Livonijos magistrą būti pasirengusius veikti."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.55"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Čekai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Čekų pasiuntiniai kvietė Vytautą užimti sostą, todėl tai interpretuotina kaip politinis palaikymas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Čekai rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.55)"
-  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas vertinamasis perteklius ir paliktas citatos palaikomas faktas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:36Z"
   pagrindžia:
-    - c-84242
+    - c-215939
 
-## Citatos
+<a id="claim-t-233120"></a>
+- t-002
+  teiginys: "Ordino magistras, pagal Teodoro Narbuto perteiktą sąlygą, turėjo oficialiai pranešti Romos karaliui, kad Ordinas ir Prūsijos luomai dorai ir negrįžtamai prisijungia prie Melno sutarties."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:36Z"
+  pagrindžia:
+    - c-215940
 
-- id: c-84242
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 167"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Valakijos kunigaikščiai jo globos sie­
-    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
-    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
-    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
+    ) pageidaujamu valdovu kunigaikštį
     Žygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė
     jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių
     karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos
     su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.
     75
-    Žr. Stryjkowski, p. 518, ed. ac Vitoldum Ducem Lithuaniae, Duces-
-    Varšuv. que Masoviae ab um, et Paulum deRus-
-    76 dorf, Magistrum Cruciferorum et suum
-    Kojałowicz,Pars.
-  citata_rodoma: ") pageidaujamu valdovu kunigaikštį \nŽygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė \njau anais laikais buvo tokia didelė, kad lygia greta svarbiausių \nkaralystės miestų, jam buvo leista laiduoti sutarties, sudarytos \nsu kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.\n75\nŽr."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+    Žr.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-215939
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 376."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
   pagrindzia:
     - t-001
+
+- id: c-215940
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 377."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002

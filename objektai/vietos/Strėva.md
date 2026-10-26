@@ -1,13 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: Strėva
+pavadinimas: 'Strėva'
 saltiniai:
+  - 'Lietuvių tautos istorija, t. 5'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - 1348 m.
-  - 1351 m.
-  - 1805 m.
+  - '1348 m.'
+  - '1351 m.'
+  - '1805 m.'
 date_start: '1348'
 date_end: '1805'
 sukurta: ''
@@ -16,41 +18,29 @@ tags:
   - upė
   - vieta
 amziai:
-  - XIV
-  - XIX
+  - 'XIV'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-8b38bc7bf174b55e5fae16a7
-canonical_name: Strėva
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Strėva
-sameAs: []
-canonical_biography: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t. Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­ upio Strėvos (arti Žiežmarių). Tačiau Strėvos kau­ tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet.'
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-8b38bc7bf174b55e5fae16a7"
+canonical_name: "Strėva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Strėva"]
+sameAs: ["https://www.wikidata.org/entity/Q3488538"]
+canonical_biography: "Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t. Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­ upio Strėvos (arti Žiežmarių). Tačiau Strėvos kau­ tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Strėva","url":"https://lt.wikipedia.org/wiki/Str%C4%97va","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Strėva","url":"https://www.vle.lt/straipsnis/streva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:10:03+00:00","source_checked_at":"2026-09-20T04:10:03+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Strėva – upė Trakų rajone, Elektrėnų savivaldybėje ir Kaišiadorių rajone; dešinysis Nemuno intakas. Prasideda Mackantiškių kaime, 5 km į rytus nuo Aukštadvario. Pačiame aukštupyje teka į rytus, prateka ežerų virtinę: Šamuką, Drabužį, Spindžiuką, Spindžių, toliau pasuka į šiaurę ir prateka dar kelis ežerus: Stanką, Gilūšį, Ėglį, Strėvį, Strėvaitį, kiek toliau – Nestrėvantį. Toliau Strėva prateka Elektrėnų marias ir aplinkinius tvenkinius ir teka vakarų kryptimi. Kanalu Strėvos vaga nukreipta palei Ilgio ežerą. Įteka į Kauno marias ties Lašiniais. Ties ta pačia vieta į marias įteka ir vandens vaga iš Kruonio HAE.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"85907","revision_id":"7799060","status":"published","translation_status":"native","source":{"title":"Strėva","url":"https://lt.wikipedia.org/wiki/Str%C4%97va","publisher":"Vikipedija","language":"lt","article_id":"85907","revision_id":"7799060","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7799060","history_url":"https://lt.wikipedia.org/w/index.php?title=Str%C4%97va&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:22:10.427088+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"920cf3e90bb169384fa1a395c5e063268c4b3a9ef8d0a6fe93067057b72c0730","version_pk":"47e54a06ed5f07dd35621ae62f9e355c"}},"source_buttons":[{"label":"Vikipedija","title":"Strėva","url":"https://lt.wikipedia.org/wiki/Str%C4%97va","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Strėva","url":"https://www.vle.lt/straipsnis/streva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Str%C4%97va","https://www.vle.lt/straipsnis/streva/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Jonas Lonei","claim_id":"t-80718","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: f8f2650d15aac555
-object_page_generated_at: '2026-09-20T04:10:03+00:00'
-object_page_source_checked_at: '2026-09-20T04:10:03+00:00'
-object_page_content_state: content
-object_page_claim_count: '0'
-object_page_source_count: '0'
-object_page_seo_description: 'Strėva: Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t. Kryžiuočiai su Kęstučio ir Algirdo…'
-object_page_seo_input_hash: 02e3f15e55f0b503e6f17ea16051319bce5a885add53cb6fa7397c08ab891af3
-object_page_seo_generated_at: '2026-09-20T04:10:03+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Strėva
 
@@ -63,7 +53,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 <a id="claim-t-115020"></a>
 - t-001
   teiginys: "Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Algirdas (Lietuvos valdovas): 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,9 +63,9 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
   ryšio_paaiskinimas: "Algirdo kariuomenė tiesiogiai minima kaip susitikusi su kryžiuočiais mūšio kontekste."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas kariavo prieš Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.70); Kryžiuočių ordinas kariavo prieš Algirdas (Lietuvos valdovas) (0.70)"
-  temporaliniai_duomenys: "įvykio data: po 1351 m.; įvykio data: 1351 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  semantiniai_rysiai: "Kryžiuočių ordinas kariavo prieš Algirdas (Lietuvos valdovas) (0.70); Kryžiuočių ordinas kariavo prieš Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1351 m.; įvykio data: po 1351 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir tiksliai perteikia citatos informaciją."
   pagrindžia:
     - c-106012
@@ -83,7 +73,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 <a id="claim-t-115021"></a>
 - t-002
   teiginys: "Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,7 +89,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 <a id="claim-t-115022"></a>
 - t-003
   teiginys: "Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -115,7 +105,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 <a id="claim-t-115023"></a>
 - t-004
   teiginys: "Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -135,7 +125,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 <a id="claim-t-184403"></a>
 - t-005
   teiginys: "Strėvos kautynės, kuriose dalyvavo būriai iš kelių rytinių žemių, baigėsi lietuvių pralaimėjimu."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -154,7 +144,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 <a id="claim-t-206580"></a>
 - t-006
   teiginys: "Kryžiuočiai, atsitraukdami nuo Vilniaus, persikėlė per Strėvos upę."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -162,6 +152,19 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-189195
+
+<a id="claim-t-233741"></a>
+- t-007
+  teiginys: "Žygio dalyviai, aplenkę Trakų pilį, nužygiavo iki Steigvilių kaimo prie Strėvos upės."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:45Z"
+  pagrindžia:
+    - c-216561
 
 ## Citatos
 
@@ -178,11 +181,11 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
     Strėvoje, kai pati upė yra nesunkiai perbrendama.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-106011
@@ -204,7 +207,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-106012
@@ -225,7 +228,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-106013
@@ -276,11 +279,11 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     Il KNYGA
     jais užvertė kelią.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167768
@@ -298,7 +301,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-189195
@@ -318,5 +321,18 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-216561
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 115."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-007
+

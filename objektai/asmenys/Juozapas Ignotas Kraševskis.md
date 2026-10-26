@@ -1,13 +1,13 @@
 ---
 tipas: asmuo
-pavadinimas: 'Juozapas Ignotas Kraševskis'
+pavadinimas: 'Juozapas Ignotas Kraševskis (istorikas, XVIII–XIX a.)'
 saltiniai:
+  - 'Lietuvių tautos istorija, t. 5'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-datos:
-  - '1835 m.'
-  - '1836 m.'
-date_start: '1835'
-date_end: '1836'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,8 +15,7 @@ tags:
   - asmuo
 amziai:
   - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
+periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,18 +36,71 @@ entity_aliases: ["Juozapas Ignotas Kraševskis"]
 sameAs: []
 canonical_biography: "Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbuto „Lietuvių mitologiją“, paskelbta „Tygodnik Petersburski“. Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“. Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose."
 ---
-# Juozapas Ignotas Kraševskis
+# Juozapas Ignotas Kraševskis (istorikas, XVIII–XIX a.)
 
 ## Santrauka
 
-Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbuto „Lietuvių mitologiją“, paskelbta „Tygodnik Petersburski“. Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“. Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose.
+Teodoras Narbutas pažymi, kad Juozapas Ignotas Kraševskis, pats patyręs istoriko darbo skonį, negalėjo nuslėpti nuostabos. Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose. Narbuto darbas paskatino Kraševskį beveik dešimtmetį studijuoti Lietuvos praeitį.
+
+## Santrauka
+
+Teodoras Narbutas pažymi, kad Juozapas Ignotas Kraševskis, pats patyręs istoriko darbo skonį, negalėjo nuslėpti nuostabos. Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose. Narbuto darbas paskatino Kraševskį beveik dešimtmetį studijuoti Lietuvos praeitį.
 
 ## Teiginiai
 
-<a id="claim-t-190034"></a>
+<a id="claim-t-206306"></a>
 - t-001
+  teiginys: "Teodoras Narbutas pažymi, kad Juozapas Ignotas Kraševskis, pats patyręs istoriko darbo skonį, negalėjo nuslėpti nuostabos."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188921
+
+<a id="claim-t-216606"></a>
+- t-002
+  teiginys: "Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201161
+
+<a id="claim-t-216614"></a>
+- t-003
+  teiginys: "Narbuto darbas paskatino Kraševskį beveik dešimtmetį studijuoti Lietuvos praeitį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200115
+
+<a id="claim-t-217199"></a>
+- t-004
+  teiginys: "Kraševskio santykiams (nors, jeigu tikėsime pir muoju, jie niekuomet nebuvo asmeniškai pažįstami)."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197857
+
+<a id="claim-t-217511"></a>
+- t-005
   teiginys: "Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbuto „Lietuvių mitologiją“, paskelbta „Tygodnik Petersburski“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,12 +115,12 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172917
+    - c-201161
 
-<a id="claim-t-190035"></a>
-- t-002
+<a id="claim-t-217627"></a>
+- t-006
   teiginys: "Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,36 +135,122 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172918
+    - c-198624
 
-<a id="claim-t-197408"></a>
-- t-003
-  teiginys: "Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-172917
-
-<a id="claim-t-206306"></a>
-- t-004
-  teiginys: "Teodoras Narbutas pažymi, kad Juozapas Ignotas Kraševskis, pats patyręs istoriko darbo skonį, negalėjo nuslėpti nuostabos."
-  atnaujinta: "2026-08-16 22:50"
+<a id="claim-t-233213"></a>
+- t-007
+  teiginys: "Juozapas Ignotas Kraševskis visuomenei pristatė Nesvyžiaus galerijos portretą veikale „Vilnius nuo jo pradžios iki 1750 metų“, o vėliau ir trilogijos „Anafielas“ dalyje „Vytauto kovos“."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  vertinimo_atnaujinta: "2026-10-14T06:37:19Z"
   pagrindžia:
-    - c-188921
+    - c-216033
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šitai įrodo daugybė kapų,
+    arba laidojimo laukų, išsibarsčiusių po visą Lietuvą, kurie pa­
+    davimuose laikomi pagoniškais. Kartais jie būna apdėti ak­
+    menimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių
+    asmenų kūnus laidodavo ne tik su visais drabužiais, būdingais
+    kiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­
+    vas būdamas: karys su ginklu, medžiotojas su lanku, amati­
+    ninkas su savo amato įrankiais. Visuomet pagoniškose kapa­
+    vietėse randamas koks nors geležinis daiktas, padėtas prie deši­
+    niojo peties, prie motenį - varinės adatos, akmeniniai verpstukų
+    smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
+    kio lygintuvo liekanas, iškastas Obeliuose).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
-- id: c-172917
+- id: c-188921
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 55"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 55."
+  citata_originali: |
+    Net Juozapas Ignotas Kraševskis,
+    kurio rašytojo ištvermė, darbštumas, optimizmas ir produk­
+    tyvumas stebina ir šiandien, tiesiogiai patyręs istoriko darbo
+    skonį, negalėjo nuslėpti savo nuostabos.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-197857
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 59."
+  citata_originali: |
+    Ga­
+    lima spėti, kad būtent ši recenzija davė pradžią šaltiems T. Nar­
+    buto ir J. I. Kraševskio santykiams (nors, jeigu tikėsime pir­
+    muoju, jie niekuomet nebuvo asmeniškai pažįstami).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-198624
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
+  citata_originali: |
+    Tada aprengia drabužiais, pritinkančiais luomui ir ly­
+    čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
+    rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
+    riai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti
+    drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
+    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
+    rūs“. Mes gi apie tai nieko negalime pasakyti*.
+  citata_rodoma: "Tada aprengia drabužiais, pritinkančiais luomui ir ly­\nčiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša\nrankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­\nriai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti\ndrabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot\npono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­\nrūs“. Mes gi apie tai nieko negalime pasakyti*."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-200115
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 10"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 10."
+  citata_originali: |
+    Bet T. Narbuto istorijos pasirodymas
+    paskatino patį J. I. Kraševskį beveik dešimtmetį paskirti nuo­
+    dugnioms Lietuvos praeities studijoms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-201161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 55"
@@ -134,49 +272,23 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
     18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
     ta.
   statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
-
-- id: c-172918
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 363"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
-  citata_originali: |
-    Tada aprengia drabužiais, pritinkančiais luomui ir ly­
-    čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
-    rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
-    riai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti
-    drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
-    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
-    rūs“. Mes gi apie tai nieko negalime pasakyti*.
-  citata_rodoma: "Tada aprengia drabužiais, pritinkančiais luomui ir ly­\nčiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša\nrankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­\nriai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti\ndrabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot\npono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­\nrūs“. Mes gi apie tai nieko negalime pasakyti*."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-005
 
-- id: c-188921
-  šaltinis: "Lietuvių tautos istorija, t. 5"
-  puslapiai: "PDF 55"
-  indeksas: "Lietuvių tautos istorija, t. 5, PDF 55."
-  citata_originali: |
-    Net Juozapas Ignotas Kraševskis,
-    kurio rašytojo ištvermė, darbštumas, optimizmas ir produk­
-    tyvumas stebina ir šiandien, tiesiogiai patyręs istoriko darbo
-    skonį, negalėjo nuslėpti savo nuostabos.
+- id: c-216033
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 44."
+  citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-08-16 22:50"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
   pagrindzia:
-    - t-004
+    - t-007

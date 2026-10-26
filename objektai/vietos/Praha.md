@@ -1,17 +1,20 @@
 ---
 tipas: vieta
-pavadinimas: Praha
+pavadinimas: 'Praha'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
 datos:
-  - 1490 m.
-  - 1851 m.
-  - 1927 m.
-  - 1999 m.
-  - 2002 m.
+  - '1490 m.'
+  - '1851 m.'
+  - '1927 m.'
+  - '1990 m.'
+  - '1999 m.'
+  - '2002 m.'
 date_start: '1490'
 date_end: '2002'
 sukurta: ''
@@ -20,41 +23,29 @@ tags:
   - vieta
   - miestas
 amziai:
-  - XV
-  - XXI
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-84052c8ea0d93a909c158574
-canonical_name: Praha
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Praha
-sameAs: []
-canonical_biography: 'Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą.'
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-84052c8ea0d93a909c158574"
+canonical_name: "Praha"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Praha"]
+sameAs: ["https://www.wikidata.org/entity/Q1085"]
+canonical_biography: "Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Praha","url":"https://lt.wikipedia.org/wiki/Praha","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Praha","url":"https://www.vle.lt/straipsnis/praha/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:20:54+00:00","source_checked_at":"2026-09-20T03:20:54+00:00","counts":{"relations":7,"gallery":0,"sources":6},"featured_claim_ids":["t-181441","t-183079","t-185099","t-183868","t-193227"],"featured_claims":[{"claim_id":"t-181441","text":"2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164994"]},{"claim_id":"t-183079","text":"Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-166468"]},{"claim_id":"t-185099","text":"Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168460"]},{"claim_id":"t-183868","text":"Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-167253"]},{"claim_id":"t-193227","text":"Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-24405"]}],"featured_quote":null,"wiki":{"intro":"Praha (ček. Praha) – Čekijos sostinė ir didžiausias miestas; Vidurio Čekijos krašto administracinis centras, miestas taip pat turi atskiro administracinio vieneto statusą. Svarbus susisiekimo, pramonės ir kultūros centras. Išvystyta mašinų, chemijos, tekstilės, siuvimo, poligrafijos, maisto pramonė. Prahoje yra Karolio universitetas, mokslų akademija, daug bibliotekų, nacionalinis ir kiti teatrai, nacionalinė galerija, nacionalinis muziejus ir kt.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"7487","revision_id":"7722186","status":"published","translation_status":"native","source":{"title":"Praha","url":"https://lt.wikipedia.org/wiki/Praha","publisher":"Vikipedija","language":"lt","article_id":"7487","revision_id":"7722186","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7722186","history_url":"https://lt.wikipedia.org/w/index.php?title=Praha&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:21:13.845893+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"0224267605bcf39c925cbcc53076632fc8395e35323e2e5131c2fb4eb8a5e761","version_pk":"49bc69e345d26f13c89927ceab31bb93"}},"source_buttons":[{"label":"Vikipedija","title":"Praha","url":"https://lt.wikipedia.org/wiki/Praha","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Praha","url":"https://www.vle.lt/straipsnis/praha/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Praha","https://www.vle.lt/straipsnis/praha/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"cdcd152f5f3d19ce783377fc","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"kautynių vieta","context":"Šaltinyje aprašoma, kad prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta; 2007 m. šaltinio pasakojimas apie apsiausties laikotarpį.","support_ids":["t-183868","c-167253"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183868","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-167253","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tos niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems lenkai paaiškino, kad jeigu esą tikri riteriai ir norį parodyti narsą, nustatytas jų skaičius tepasirenka tam vietą. Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o imperatorių Vaclovą abiejų tautų teisėju pasirinkę32. Taip įvairioms kautynėms ir ginčams besitęsiant praėjo penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­ nėje pilyje33."}],"status":"published","conflict_status":"clear"},{"trait_id":"dfe6009671d2a3f0ef59402e","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"lietuvių kolegija","context":"Šaltinyje teigiama, kad karalienė Jadvyga Čekijos Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų; 1989 m. šaltinio istorinis pasakojimas.","support_ids":["t-185099","c-168460"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185099","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168460","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Mat valdovė ypač mylėjo lietuvius ir visada jais rūpinosi, stengėsi, kad šio krašto jaunuomenė eitų M irus karalienei Jad- visokius mokslus. Kol Kroku- v y g a i voje dar nebuvo akademijos, ji tuo tikslu įkūrė Čekijos Prahoje lietuvių kolegiją ir jai paskyrė gausių lėšų. Ka­ ralius, patyręs pralaimėjimą kovos lauke ir prislėgtas asmeninio sielvarto, skaudžiai liūdėjo ir dėl kito namų negando."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Praha – istorinė vieta Čekijoje, minima Lietuvos politinių, religinių ir kultūrinių ryšių istorijoje. 2002 m. lapkritį čia Lietuva ir dar šešios NATO kandidatės buvo pakviestos pradėti derybas dėl narystės Šiaurės Atlanto sutarties organizacijoje, todėl miestas tapo svarbiu Lietuvos euroatlantinės integracijos epizodo fonu. Viduramžiais Praha buvo pasirinkta ir kaip numatoma kautynių vieta, kai prancūzai priėmė lenkų kvietimą į dvikovą, o imperatorius Vaclovas turėjo būti jos teisėjas. Su Praha siejamas ir švietimo vaidmuo: karalienė Jadvyga čia įkūrė lietuvių kolegiją bei skyrė jai gausių lėšų. Miestas taip pat minimas krikščionybės sklaidos istorijoje, nes Prahos vyskupas šv. Vaitiekus, arba Adalbertas, laikomas pirmuoju žinomu aisčių apaštalu.","sentences":[{"sentence_id":"s1","text":"Praha – istorinė vieta Čekijoje, minima Lietuvos politinių, religinių ir kultūrinių ryšių istorijoje.","support_ids":["c-168460","c-24405"]},{"sentence_id":"s2","text":"2002 m. lapkritį čia Lietuva ir dar šešios NATO kandidatės buvo pakviestos pradėti derybas dėl narystės Šiaurės Atlanto sutarties organizacijoje, todėl miestas tapo svarbiu Lietuvos euroatlantinės integracijos epizodo fonu.","support_ids":["t-181441","c-164994"]},{"sentence_id":"s3","text":"Viduramžiais Praha buvo pasirinkta ir kaip numatoma kautynių vieta, kai prancūzai priėmė lenkų kvietimą į dvikovą, o imperatorius Vaclovas turėjo būti jos teisėjas.","support_ids":["t-183868","c-167253"]},{"sentence_id":"s4","text":"Su Praha siejamas ir švietimo vaidmuo: karalienė Jadvyga čia įkūrė lietuvių kolegiją bei skyrė jai gausių lėšų.","support_ids":["t-185099","c-168460"]},{"sentence_id":"s5","text":"Miestas taip pat minimas krikščionybės sklaidos istorijoje, nes Prahos vyskupas šv. Vaitiekus, arba Adalbertas, laikomas pirmuoju žinomu aisčių apaštalu.","support_ids":["t-193227","c-24405"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia Prahos ryšį su Lietuvos švietimo ir religijos istorija, bet nepakankamai pagrindžia politinius ir kultūrinius ryšius."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis pagrindžia kvietimą pradėti narystės derybas Prahoje, tačiau neparemia išvados, kad miestas tapo svarbiu Lietuvos euroatlantinės integracijos epizodo fonu."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad prancūzai pasirinko Prahą kautynių vieta, o imperatorių Vaclovą – teisėju."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Prahos vyskupas šv. Vaitiekus, arba Adalbertas, buvo pirmasis žinomas aisčių apaštalas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["c-168460","c-24405"]},{"sentence_id":"s2","supported":true,"support_ids":["t-181441","c-164994"]},{"sentence_id":"s3","supported":true,"support_ids":["t-183868","c-167253"]},{"sentence_id":"s4","supported":true,"support_ids":["t-185099","c-168460"]},{"sentence_id":"s5","supported":true,"support_ids":["t-193227","c-24405"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Jonas Basanavičius","claim_id":"t-78004","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Butrimas","claim_id":"t-97031","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zigmantas Kaributas","claim_id":"t-176865","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Žygimantas Kaributaitis","claim_id":"t-114098","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-183828","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Prancūzai","claim_id":"t-183828","confidence":0.74},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176671","confidence":0.91}],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: 2724b7ba3cf41cd8
-object_page_generated_at: '2026-09-20T03:20:54+00:00'
-object_page_source_checked_at: '2026-09-20T03:20:54+00:00'
-object_page_content_state: content
-object_page_claim_count: '6'
-object_page_source_count: '4'
-object_page_seo_description: 'Praha – istorinė vieta Čekijoje, minima Lietuvos politinių, religinių ir kultūrinių ryšių istorijoje. 2002 m. lapkritį čia Lietuva ir dar šešios NATO…'
-object_page_seo_input_hash: c25bcea6381a823c7378dc5b5f2f83287fcef47ecd8e0032b6c4f378921aeac6
-object_page_seo_generated_at: '2026-09-20T03:20:54+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Praha
 
@@ -67,7 +58,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 <a id="claim-t-181441"></a>
 - t-001
   teiginys: "2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,10 +74,26 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   pagrindžia:
     - c-164994
 
-<a id="claim-t-183079"></a>
+<a id="claim-t-181442"></a>
 - t-002
+  teiginys: "Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Basanavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Praha: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Basanavičius: mention_match, author, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Praha\" parinktas kaip owner_note_path. Targetas \"Jonas Basanavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-164993
+
+<a id="claim-t-183079"></a>
+- t-003
   teiginys: "Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,9 +110,9 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - c-166468
 
 <a id="claim-t-183868"></a>
-- t-003
+- t-004
   teiginys: "Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -122,9 +129,9 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - c-167253
 
 <a id="claim-t-185099"></a>
-- t-004
+- t-005
   teiginys: "Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -142,9 +149,9 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - c-168460
 
 <a id="claim-t-193227"></a>
-- t-005
+- t-006
   teiginys: "Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -153,26 +160,45 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   pagrindžia:
     - c-24405
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
-    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
-    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
-    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
-    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
-    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
-    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
-    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
-    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
-    imperijoje turi latviai ir estai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-233687"></a>
+- t-007
+  teiginys: "Prašyto konvojaus negavęs šešiasdešimties vyrų būrys iš Prahos grįžo į namus per Sileziją."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:44Z"
+  pagrindžia:
+    - c-216507
+
+<a id="claim-t-233688"></a>
+- t-008
+  teiginys: "Po Brodo pasidavimo Zaviša Juodasis, Lenkijos pasiuntinys, buvo paimtas į nelaisvę ir nugabentas į Prahą."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:44Z"
+  pagrindžia:
+    - c-216508
+
+<a id="claim-t-233689"></a>
+- t-009
+  teiginys: "Narbutas rašo, kad iš Moravijos į Čekiją atvykęs Žygimantas Kaributaitis Prahoje buvo entuziastingai sutiktas ir gyventojų sveikinamas kaip karalius bei tėvynės gynėjas."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:44Z"
+  pagrindžia:
+    - c-216509
+
 ## Citatos
 
 - id: c-24405
@@ -189,7 +215,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-164993
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -197,21 +223,24 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   puslapiai: "PDF 118"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 118."
   citata_originali: |
-    rusėnai
-    skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
-    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
-    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
-    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
-    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
-    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
-    Biblija“.
-  citata_rodoma: "rusėnai \nskilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje. \nIš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-\nvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus \nSkorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-\ndicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs \npsalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų \nBiblija“."
+    Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
+    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
+    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
+    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
+    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
+    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
+    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
+    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
+    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
+    imperijoje turi latviai ir estai.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-
+  atnaujinta: "2026-10-05 15:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-164994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -249,12 +278,13 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vado-
     vaujamą. Ji turėjo baigti derybas dėl krikšto.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-167253
   autorius: "Michał Baliński"
@@ -277,7 +307,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-168460
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -303,7 +333,52 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
+
+- id: c-206584
+  autorius: "Dalia Klajumienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio Kristaus Žengimo į dangų bažnyčios architektūra ir dailės kūriniai"
+  puslapiai: "p. 445 (PDF 446)"
+  indeksas: "Dalia Klajumienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio Kristaus Žengimo į dangų bažnyčios architektūra ir dailės kūriniai, p. 445 (PDF 446)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-10-13 11:48"
+
+- id: c-216507
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 200."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-007
+
+- id: c-216508
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 361"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 361."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-008
+
+- id: c-216509
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 364."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Butrimas]], [[objektai/asmenys/Zigmantas Kaributas]]

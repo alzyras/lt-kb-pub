@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Červinskas'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1418 m.'
@@ -46,27 +47,10 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 
 ## Teiginiai
 
-<a id="claim-t-178755"></a>
-- t-001
-  teiginys: "Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Červinskas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vengrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Červinskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad vengrų pasiuntiniai atvyko į Červinską."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vengrai keliavo į Červinskas (0.87)"
-  pagrindžia:
-    - c-162451
-
 <a id="claim-t-178759"></a>
-- t-002
+- t-001
   teiginys: "1418 m. Vytautas ir Jogaila sutelkė kariuomenes prie Červinsko, bet popiežiaus pasiuntiniai pratęsė paliaubas dar metams."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> paliaubos: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,31 +66,36 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - c-162452
 
-## Citatos
+<a id="claim-t-233842"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad Lenkijos kariuomenė persikėlė per upę prie Červinsko, o karalius liepė tiltą išardyti ir nuplukdyti į Plocką."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:47Z"
+  pagrindžia:
+    - c-216662
 
-- id: c-162451
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 100"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 100."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo metu ir įvyko lietuvių puolimas iš
     Žemaičių, o lenkų — netoli Sviečės.
     Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai
     klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
     bas. Jogaila vietos neskyrė, tik nurodė, kad bus galima susi­
-    tikti apie liepos 5—6 d. Pasiuntiniai grįžę nupasakojo, ką ma­
-    tę, bet magistras nepatikėjęs, kad sąjungininkai įstengtų čia su­
-    sirinkti.
-  citata_rodoma: "Tuo metu ir įvyko lietuvių puolimas iš\nŽemaičių, o lenkų — netoli Sviečės.\nĮ Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai\nklausti Jogailos, kur ir kada būtų galima pradėti taikos dery­\nbas. Jogaila vietos neskyrė, tik nurodė, kad bus galima susi­\ntikti apie liepos 5—6 d."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+    tikti apie liepos 5—6 d.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  statusas: verified
+## Citatos
 
 - id: c-162452
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -125,11 +114,22 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     buvo dar metams prailgintos.
     Tokia netikra kelių metų padėtis nepaprastai trukdė kul­
     tūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus.
-  citata_rodoma: "Vienais metais (1418) Vytautas ir Jo­\ngaila buvo net išsirengę į karą ir savo kariuomenes sutraukę\nprie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos\nbuvo dar metams prailgintos.\nTokia netikra kelių metų padėtis nepaprastai trukdė kul­\ntūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-216662
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 210."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
   pagrindzia:
     - t-002

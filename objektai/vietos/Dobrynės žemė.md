@@ -2,26 +2,22 @@
 tipas: vieta
 pavadinimas: 'Dobrynės žemė'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
 datos:
   - '1323 m.'
   - '1324 m.'
 date_start: '1323'
 date_end: '1324'
-aliases:
-  - 'Dobrynės žemė'
-  - 'Dobrynės žemė kunigaikštystė'
-variantai:
-  - 'Dobrynės žemė'
-  - 'Dobrynės žemė kunigaikštystė'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žemė
   - miestas
   - vieta
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,45 +46,23 @@ historical_names: []
 
 Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.
 
-## Teiginiai
-
-<a id="claim-t-195084"></a>
-- t-001
-  teiginys: "Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia faktą apie kunigaikštystės nuniokojimą."
-  susije_objektai: "mentioned_place: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mazovija; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177467
-
-<a id="claim-t-195085"></a>
-- t-002
-  teiginys: "1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas puslapio triukšmas; citata palaiko glaustą faktą apie Dobrynės žemę."
-  susije_objektai: "mentioned_place: Dobrynė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: Dobrynė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177468
-
-<a id="claim-t-205761"></a>
-- t-003
-  teiginys: "Lietuviai su šešių tūkstančių karių armija netikėtai užpuolė Dobrynės žemę, apiplėšė žemdirbių namus, sudegino kaimų ir paėmė belaisvių."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188376
-
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Laiške teigiama, kad Dovydas su lietuvių kariuomene nuniokojo Dobrynės žemę, esančią Plocko vyskupystėje.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    amžinai vergystei, išskyrus mažutėlius, kurie nuogi ir smarkaus šalčio sušaldyti nuošaliuose
+    keliuose, miškuose ir giraitėse buvo palikti žvėrims suėsti.
+    Šis šventvagis kunigaikštis Dovydas, šiek tiek anksčiau prieš minėtų paliaubų paskelbimą
+    įžengdamas su galinga lietuvių kariuomene į Dobrynės žemę10, esančią minėtoje Plocko
+    vyskupystėje, visą apgailėtinai nuniokojo. Ir vis tiek vieną įtvirtintą miestą, vietos kalba
+    vadintą Dobrzyn, visiškai nukariavęs ir pelenais pavertęs, daug tikinčiųjų ten kardu nužudęs,
+    dešimt tūkstančių ir daugiau ir vyrų, ir moterų su savimi išvarė ir išsivedė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-177467
@@ -97,38 +71,7 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
   puslapiai: "PDF 85"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85."
   citata_originali: |
-    Tokios
-    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
-    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
-    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
-    trisdešimt šešiais kariais nužudė8.
-    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
-    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
-    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
-    linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
-    Šv.
-  citata_rodoma: "Tokios \ndidelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi- \ngavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis \nkaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su \ntrisdešimt šešiais kariais nužudė8.\nPer vieną tokių antpuolių baisiausiai nukentėjo Dobry­\nnės kunigaikštystė, kurią maždaug tuo metu valdė kuni­\ngaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­\nlinkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad \nŠv."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-177468
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 113-114"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 113-114."
-  citata_originali: |
-    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
-    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
-    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
-    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
-    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
-    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
-    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
+    Tačiau Gediminas, jei galiu taip
     sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
     1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
     97
@@ -146,30 +89,50 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
     antiquis, verum et ex novis experimentis lamentosis novissime in
     terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
     lor evidenter!
-  citata_rodoma: "Trečias ir itin svarbus laiškų netikrumo įrodymas yra \nužuomina juose apie Mazoviją, kaip apie kraštą, per kurį \nkviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­\nnančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi \ntą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­\ndovo sąjungininku, sutartinai veikiančiu sprendžiant sve­\ntimšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip \nsakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik \n1323 ir 1324 metais su plėšikaujančia ir viską naikinančia\n97\n\n## Puslapis 114\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę, \nnepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo \nne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet \nbyloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­\nchyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija: \nquod nichil aliud quam vestrarum nostrarumque terrarum sub­\nversionem sua dolosa calliditate pretendit, non solum ex multis \nantiquis, verum et ex novis experimentis lamentosis novissime in \nterra Dobrynen et confinibus Culmensibus patet et patuit prohdo- \nlor evidenter!"
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-177468
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  puslapiai: "PDF 113-114"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 113-114."
+  citata_originali: |
+    Tačiau Gediminas, jei galiu taip
+    sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
+    1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
+    97
+
+    ## Puslapis 114
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,
+    nepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo
+    ne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet
+    byloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­
+    chyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija:
+    quod nichil aliud quam vestrarum nostrarumque terrarum sub­
+    versionem sua dolosa calliditate pretendit, non solum ex multis
+    antiquis, verum et ex novis experimentis lamentosis novissime in
+    terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
+    lor evidenter!
+  statusas: verified
+  atnaujinta: "2026-10-05 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 - id: c-188376
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
   puslapiai: "PDF 326"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 326."
   citata_originali: |
-    klaidingas, nors kartais būdavo stebėtinai galingas ir sėk­
-    mingas, tačiau jo padariniai visada būdavo pražūtingi, ir
-    mechanizmas visiškai išsiderindavo; kaimynai negalėdavo
-    iiisiiaikyti tuo nepasinaudoję. Kaip tik taip atsitiko, kai
-    Vladislovas Lokietka per kažkokį neapdairumą prarado
-    aukščiausiąsias pareigas, o į jo vietą Lenkijos didikų
-    didesniosios dalies buvo išrinktas Čekijos karalius Vac­
-    lovas (spėjama, buvęs vyras Riksos, vienintelės Lenkijos
-    sosto paveldėtojos po karaliaus Pšemislo mirties), kuris
-    pasivadino dar ir Pamario kunigaikščiu; taigi lietuviai,
+    taigi lietuviai,
     pastebėję Lenkijoje apraiškas įprastinės netvarkos ir ši­
     taip įgiję persvarą, per pačias naujojo monarcho vestu­
     ves, kai lenkai, linkę puotauti, buvo įnikę Poznanėje į
@@ -179,11 +142,171 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
     pergabeno savo turtus. Tad laimikis buvo neįkainojamas,
     galimybės grobti didžiausios, be to, dar daug apiplėšta
     žemdirbių namų, sudeginta kaimų, paimta belaisvių.
-  citata_rodoma: "taigi lietuviai, \npastebėję Lenkijoje apraiškas įprastinės netvarkos ir ši­\ntaip įgiję persvarą, per pačias naujojo monarcho vestu­\nves, kai lenkai, linkę puotauti, buvo įnikę Poznanėje į \nlinksmybes, netikėtai užgriuvo Dobrynės žemę su šešeto \ntūkstančių karių armija, pirm sužinoję, kad Lokietkos \nšalininkai, saugodamiesi Vaclovo šalininkų puolimo, ten \npergabeno savo turtus. Tad laimikis buvo neįkainojamas, \ngalimybės grobti didžiausios, be to, dar daug apiplėšta \nžemdirbių namų, sudeginta kaimų, paimta belaisvių."
   statusas: verified
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-10-05 16:07"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-215118
+  šaltinis: "Gedimino laiškai"
+  puslapiai: "PDF 297"
+  indeksas: "Gedimino laiškai, PDF 297."
+  citata_originali: |
+    amžinai vergystei, išskyrus mažutėlius, kurie nuogi ir smarkaus šalčio sušaldyti nuošaliuose
+    keliuose, miškuose ir giraitėse buvo palikti žvėrims suėsti.
+    Šis šventvagis kunigaikštis Dovydas, šiek tiek anksčiau prieš minėtų paliaubų paskelbimą
+    įžengdamas su galinga lietuvių kariuomene į Dobrynės žemę10, esančią minėtoje Plocko
+    vyskupystėje, visą apgailėtinai nuniokojo. Ir vis tiek vieną įtvirtintą miestą, vietos kalba
+    vadintą Dobrzyn, visiškai nukariavęs ir pelenais pavertęs, daug tikinčiųjų ten kardu nužudęs,
+    dešimt tūkstančių ir daugiau ir vyrų, ir moterų su savimi išvarė ir išsivedė.
+  citata_rodoma: "Šis šventvagis kunigaikštis Dovydas, šiek tiek anksčiau prieš minėtų paliaubų paskelbimą \nįžengdamas su galinga lietuvių kariuomene į Dobrynės žemę10, esančią minėtoje Plocko \nvyskupystėje, visą apgailėtinai nuniokojo."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-13 11:46"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-216260
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 129."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-002
+
+- id: c-216262
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 189."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
     - t-003
+
+- id: c-216263
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 201"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 201."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindžia:
+    - t-004
+
+- id: c-216264
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 292"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 292."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-005
+
+- id: c-216265
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 341."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-006
+
+## Teiginiai
+
+<a id="claim-t-232760"></a>
+- t-001
+  teiginys: "Laiške teigiama, kad Dovydas su lietuvių kariuomene nuniokojo Dobrynės žemę, esančią Plocko vyskupystėje."
+  atnaujinta: "2026-10-13 11:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Gedimino laiškai"
+  pagrindžia:
+    - c-215118
+
+<a id="claim-t-233440"></a>
+- t-002
+  teiginys: "Narbuto perteiktame susitarime Ordinas negrąžinamai užleido Dobrynės žemę ir Zlotoryjos pilį Lenkijos Karūnai, o karalius įsipareigojo sumokėti 50 000 auksinų ir 2 400 kapų Prahos grašių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:38Z"
+  pagrindžia:
+    - c-216260
+
+<a id="claim-t-233442"></a>
+- t-003
+  teiginys: "Narbutas Dobrynės žemės nusiaubimą ugnimi ir kalaviju po Zlotoryjos sugriovimo apibūdina kaip barbarų papročių laikymąsi, o Plocko vyskupo valdas, jam prašant, teigia buvus pasigailėta."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:38Z"
+  pagrindžia:
+    - c-216262
+
+<a id="claim-t-233443"></a>
+- t-004
+  teiginys: "Narbuto perteiktoje sąlygoje numatyta Dobrynės žemę grąžinti Lenkijos karaliui tik prieš tai perdavus Čekijos karaliui arba jo paskirtam asmeniui."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:38Z"
+  pagrindžia:
+    - c-216263
+
+<a id="claim-t-233444"></a>
+- t-005
+  teiginys: "Pasak Narbuto, niekur nebuvo smarkiai pasipriešinta, išskyrus Dobrynės pilies įgulą, kuri gerai gynėsi."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:38Z"
+  pagrindžia:
+    - c-216264
+
+<a id="claim-t-233445"></a>
+- t-006
+  teiginys: "Pasak Narbuto, karalius Vladislovas su gausia kariuomene įžengė į Dobrynės žemę, o didysis kunigaikštis Vytautas vyko į Mazoviją."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:38Z"
+  pagrindžia:
+    - c-216265
+

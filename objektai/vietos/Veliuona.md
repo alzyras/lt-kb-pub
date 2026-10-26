@@ -1,24 +1,29 @@
 ---
 tipas: vieta
-pavadinimas: Veliuona
+pavadinimas: 'Veliuona'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Motiejus Valančius. Ganytojiški laiškai'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 datos:
-  - 1200 m.
-  - 1337 m.
-  - 1338 m.
-  - 1360 m.
-  - 1364 m.
-  - 1406 m.
-  - 1418 m.
-  - 1561 m.
-  - 2026 m.
+  - '1200 m.'
+  - '1338 m.'
+  - '1360 m.'
+  - '1364 m.'
+  - '1406 m.'
+  - '1418 m.'
+  - '1423 m.'
+  - '1561 m.'
+  - '2026 m.'
 date_start: '1200'
 date_end: '2026'
 sukurta: ''
@@ -27,41 +32,29 @@ tags:
   - vieta
   - pilis
 amziai:
-  - XII
-  - XXI
+  - 'XII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-a61bf7c549a45c5204127479
-canonical_name: Veliuona
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Veliuona
-sameAs: []
-canonical_biography: saugoti Dubysos upyną.
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-a61bf7c549a45c5204127479"
+canonical_name: "Veliuona"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Veliuona"]
+sameAs: ["https://www.wikidata.org/entity/Q161890"]
+canonical_biography: "saugoti Dubysos upyną."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Veliuona","url":"https://lt.wikipedia.org/wiki/Veliuona","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Veliuona","url":"https://www.vle.lt/straipsnis/veliuona/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:49:37+00:00","source_checked_at":"2026-09-19T01:49:37+00:00","counts":{"relations":14,"gallery":0,"sources":12},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Grįždami jie sudegino dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose iki Kauno nebeliko jokio lietuvių gynimosi punkto. Apie Peštvės įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi krikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po 10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot) pakeliui į vyr. magistro stovyklą buvo išžudyti^16.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-180752","evidence_id":"c-32515","origin":"internal"},"wiki":{"intro":"Veliuona – miestelis Jurbarko rajono savivaldybės rytinėje dalyje, 36 km į rytus nuo Jurbarko, prie kelio 141 Kaunas–Jurbarkas–Šilutė–Klaipėda , dešiniajame Nemuno krante. Seniūnijos centras, priklauso Antkalnės ir Veliuonos seniūnaitijoms. Urbanistikos paminklas, istorinis kraštovaizdžio draustinis. Viršutinė terasa vadinama Antkalne, apatinė – Pakalne. Stovi mūrinė Veliuonos Švč. Mergelės Marijos Ėmimo į dangų bažnyčia (pastatyta 1644 m.), yra Antano ir Jono Juškų vidurinė mokykla (su tautosakininkų brolių A. ir J. Juškų ekspozicija), biblioteka, Veliuonos kultūros centras, paštas (LT-74054), stovi Veliuonos dvaro sodyba (XIX a. pradžia, dabar kraštotyros muziejus), Vytauto Didžiojo paminklas (miestelyje priešais bažnyčią pastatytas 1930 m., autorius Apolinaras Šimkūnas), Gedimino paminklas (ant I piliakalnio pastatytas 1922 ar 1925 m.), aukuras deivei Velionai (ant I piliakalnio), Kristaus skulptūra (autorius Sigitas Straigys), Veliuonos jubiliejinis paminklas (atidengtas 1991 m., skulptorius Šarūnas Šimulynas). Pakalnėje išlikęs grūdų sandėlis-magazinas (XIX a.).","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"17247","revision_id":"7864041","status":"published","translation_status":"native","source":{"title":"Veliuona","url":"https://lt.wikipedia.org/wiki/Veliuona","publisher":"Vikipedija","language":"lt","article_id":"17247","revision_id":"7864041","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7864041","history_url":"https://lt.wikipedia.org/w/index.php?title=Veliuona&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:22:54.905240+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"519c9b382a9e7a8ee74fa510319bfe488ae1b1fa10e7ecca9fc89c20b8db788e","version_pk":"2d9cd50ce3cd6d78d51d4adf7af7468b"}},"source_buttons":[{"label":"Vikipedija","title":"Veliuona","url":"https://lt.wikipedia.org/wiki/Veliuona","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Veliuona","url":"https://www.vle.lt/straipsnis/veliuona/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Veliuona","https://www.vle.lt/straipsnis/veliuona/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9d573dff4b9747dedbe50599","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Veliuona išsidėsčiusi prie Nemuno; netoliese yra medžioklei ir poilsiui tinkamų vietų.","context":"Michał Balińskis aprašo Veliuoną kaip esančią prie Nemuno; Albertas Vijūkas-Kojelavičius nurodo, kad po 1418 m. susitikimo netoliese buvo vietų, tinkamų medžioklei ir poilsiui.","support_ids":["t-194261","c-164341","t-185172","c-168533"],"source_refs":[{"kind":"internal_claim","claim_id":"t-194261","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-185172","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-164341","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"100 ## Puslapis 117 III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­ žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­ vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už 7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per pusantros mylios nutolusi nuo dabartinės Prūsijos sienos. Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­ mu prie jo, yra apie 160 namų ir dvaras. Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­ kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium [šventovė], regis, turėtų…"},{"kind":"evidence","evidence_id":"c-168533","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Kadangi kryžiuočiai atmetė vieną po kitos visas 1418 m e ta i siūlomas taikos sąlygas, pasi- S u sitik im a s d ė l tai- pūtėliškai reikalaudami visos k o s a tn eša k a rą Žemaitijos, susitikimas neat­ nešė jokios naudos, ir netru­ kus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­ gus susitikimui, karalius kurį laiką pasiliko Veliuono­ je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­ mų medžioklei ir poilsiui. Medžiodamas jis pats kartą vos nepakliuvo į kryžiuočių K araliu s išv e n g ia rankas, tik narsi jo palyda k ry ž iu o č ių pasalų vargais negalais išgelbėjo valdovą nuo pasalų, kurias surengė Rastenburgo komtūras vienoje tam reikalui tinkamoje vietoje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5fbee5ca446893dae03b0891","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.","context":"Michał Balińskio aprašymas; šaltinis kalba apie vietos kraštovaizdį dabarties kontekste.","support_ids":["t-180759","c-164340"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180759","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164340","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai, pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­ dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­ na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies, žuvusio Gedimino kapas. Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8abe49df3306e146d1860b87","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Senoji piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gana gilią griovą.","context":"Michał Balińskio aprašymas apie senąją Veliuonos piliavietę.","support_ids":["t-180737","c-164335"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180737","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164335","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia, ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­ das."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"88a1daad82b81bc6362c19f5","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Veliuona, pasak Michało Balińskio, seniau buvo pilis, tikriausiai pastatyta XIII amžiuje.","context":"Michał Balińskio vertinimas; vartojamas neapibrėžtumas „tikriausiai“ ir istorinis laikas.","support_ids":["t-194261","c-164341"],"source_refs":[{"kind":"internal_claim","claim_id":"t-194261","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164341","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"100 ## Puslapis 117 III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­ žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­ vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už 7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per pusantros mylios nutolusi nuo dabartinės Prūsijos sienos. Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­ mu prie jo, yra apie 160 namų ir dvaras. Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­ kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium [šventovė], regis, turėtų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"024760679825ee7657294ab3","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Veliuona, pasak Michało Balińskio, tikriausiai buvo pastatyta Žemaitijos sienoms įtvirtinti ir apsaugoti nuo kryžiuočių puldinėjimų.","context":"Michał Balińskio aiškinimas apie XIII amžiaus pilies paskirtį.","support_ids":["t-180743","c-164341"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180743","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164341","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"100 ## Puslapis 117 III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­ žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­ vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už 7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per pusantros mylios nutolusi nuo dabartinės Prūsijos sienos. Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­ mu prie jo, yra apie 160 namų ir dvaras. Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­ kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium [šventovė], regis, turėtų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a7dc26a68084db9ca568f521","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Veliuona buvo lietuvių gynybos punktas; Zenonas Ivinskis ją vadina svarbia lietuvių pilimi, kuri ilgai rodė tvirtą atsparumą.","context":"Zenono Ivinskio aprašymas apie kryžiuočių žygį ir Veliuonos gynybinę reikšmę istoriniame kontekste.","support_ids":["t-180752","c-32515"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180752","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32515","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Grįždami jie sudegino dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose iki Kauno nebeliko jokio lietuvių gynimosi punkto. Apie Peštvės įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi krikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po 10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot) pakeliui į vyr. magistro stovyklą buvo išžudyti^16."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d2bc80a80cd758b1558c7256","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Šiandieninė Veliuona, pasak Michało Balińskio, buvo miestelis, kuriame kartu su gretimu kaimu buvo apie 160 namų ir dvaras.","context":"Michał Balińskio aprašymas apie XIX amžiaus Veliuoną.","support_ids":["t-194261","c-164341"],"source_refs":[{"kind":"internal_claim","claim_id":"t-194261","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164341","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"100 ## Puslapis 117 III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­ žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­ vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už 7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per pusantros mylios nutolusi nuo dabartinės Prūsijos sienos. Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­ mu prie jo, yra apie 160 namų ir dvaras. Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­ kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium [šventovė], regis, turėtų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"596ad07ed414317091de7be9","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Miestelis buvo dalijamas į aukštutinį ir žemutinį; aukštutiniame stovėjo aukšta gotikinė mūro bažnyčia.","context":"Michał Balińskio aprašymas apie tuometinę Veliuonos urbanistinę struktūrą ir pastatus.","support_ids":["t-194261","c-164341"],"source_refs":[{"kind":"internal_claim","claim_id":"t-194261","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-164341","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"100 ## Puslapis 117 III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­ žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­ vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už 7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per pusantros mylios nutolusi nuo dabartinės Prūsijos sienos. Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­ mu prie jo, yra apie 160 namų ir dvaras. Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­ kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium [šventovė], regis, turėtų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f0599a52614fb714d3929309","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Teodoro Narbuto pasakojime Veliuona turėjo plačiai nusidriekusius įtvirtinimus ir buvo gausiai žmonių apgyvendinta.","context":"Teodoro Narbuto aprašymas istorinio apsiausties kontekste.","support_ids":["t-206588","c-189203"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206588","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189203","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Veliuona, turėjusi plačiai nu­ 164 sidriekusius įtvirtinimus, gausiai žmonių apgyvendinta, vado­ vaujama Lietuvos maršalkos Goštauto, su pavaldžiais kitais dviem įžymiais lietuvių didikais - Surminu ir Meteviku, stip­ riai priešinosi kryžiuočių kariaunai. Dešimtį dienų tęsėsi ap­ gultis ir įvairūs mėginimai užgrobti, po to prasidėjo sklandus šturmuotės veiksmai"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Veliuona – istorinė vietovė prie Nemuno, ilgą laiką buvusi svarbi lietuvių gynybos ir politinių įvykių vieta. Tikriausiai XIII amžiuje ji buvo įtvirtinta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų, o jos apylinkės driekėsi prie Nemuno netoli Kauno ir Jurbarko. Vytautas čia pasistatė tvirtą pilį, kai Kryžiuočių ordinas reiškė pretenzijas į dešinįjį Nemuno krantą; vėliau jis Veliuoną vadino savo tėviške ir pareiškė jos niekada neišsižadėsiąs. Veliuonos reikšmę išryškina ir 1418 m. nesėkmingos derybos dėl Žemaitijos sienų, kuriose dalyvavo Hanzos miestų atstovai. Senoji piliavietė apėmė du prie Nemuno esančius kalnus, sujungtus tiltu per gilią griovą, o tarp tilto polių buvo įrengtas kalėjimas.","sentences":[{"sentence_id":"s1","text":"Veliuona – istorinė vietovė prie Nemuno, ilgą laiką buvusi svarbi lietuvių gynybos ir politinių įvykių vieta.","support_ids":["t-180743","t-180740","t-180744"]},{"sentence_id":"s2","text":"Tikriausiai XIII amžiuje ji buvo įtvirtinta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų, o jos apylinkės driekėsi prie Nemuno netoli Kauno ir Jurbarko.","support_ids":["t-180743"]},{"sentence_id":"s3","text":"Vytautas čia pasistatė tvirtą pilį, kai Kryžiuočių ordinas reiškė pretenzijas į dešinįjį Nemuno krantą; vėliau jis Veliuoną vadino savo tėviške ir pareiškė jos niekada neišsižadėsiąs.","support_ids":["t-180740","t-180747"]},{"sentence_id":"s4","text":"Veliuonos reikšmę išryškina ir 1418 m. nesėkmingos derybos dėl Žemaitijos sienų, kuriose dalyvavo Hanzos miestų atstovai.","support_ids":["t-180744"]},{"sentence_id":"s5","text":"Senoji piliavietė apėmė du prie Nemuno esančius kalnus, sujungtus tiltu per gilią griovą, o tarp tilto polių buvo įrengtas kalėjimas.","support_ids":["t-180737"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį tiesiogiai pagrindžia šaltiniai apie Veliuonos vietą prie Nemuno, gynybinę reikšmę ir politinius įvykius."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai atitinka t-180743 pateiktą informaciją apie XIII a. pilį, Žemaitijos sienų apsaugą, Nemuną, Kauną ir Jurbarką."},{"sentence_id":"s3","supported":true,"reason":"t-180740 pagrindžia Vytauto pilies pastatymą ir kryžiuočių pretenzijas, o t-180747 – jo pareiškimą dėl Veliuonos kaip tėviškės."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai atitinka t-180744 informaciją apie nesėkmingas 1418 m. derybas ir Hanzos miestų atstovų dalyvavimą."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai atitinka t-180737 aprašymą apie du kalnus, tiltą per gilią griovą ir tarp polių įrengtą kalėjimą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180743","t-180740","t-180744"]},{"sentence_id":"s2","supported":false,"support_ids":["t-180743"]},{"sentence_id":"s3","supported":false,"support_ids":["t-180740","t-180747"]},{"sentence_id":"s4","supported":false,"support_ids":["t-180744"]},{"sentence_id":"s5","supported":false,"support_ids":["t-180737"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-184496","confidence":0.84},{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-32414","confidence":0.65},{"predicate":"buvo_palaidotas","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176387","confidence":0.68},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-176346","confidence":0.78},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-180738","confidence":0.78},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Petras Goštautas","claim_id":"t-184823","confidence":0.73},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179804","confidence":0.79},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-180746","confidence":0.85},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Junigeda","claim_id":"t-225769","confidence":0.84},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Nemunas","claim_id":"t-180759","confidence":0.64},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Ditrichas fon Altenburgas","claim_id":"t-186107","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-180746","confidence":0.75},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-180746","confidence":0.68},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-180747","confidence":0.7}],"timeline":[{"date":"1317 m.","label":"Prie Veliuonos 1317 m.","claimId":"t-207806"},{"date":"1337 m.","label":"Gediminas žuvo 1337 m.","claimId":"t-180738"},{"date":"1337 m.","label":"Gediminas, pasak citatos, buvo nužudytas 1337 m.","claimId":"t-180751"},{"date":"1338 m.","label":"Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m.","claimId":"t-180741"},{"date":"1338 m.","label":"Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m.","claimId":"t-180758"},{"date":"1360 m.","label":"1360 m.","claimId":"t-180757"},{"date":"1364 m.","label":"Veliuonos gynimui 1364 m.","claimId":"t-210433"},{"date":"1418 m.","label":"1418 m.","claimId":"t-180744"}],"support_disclosure":{"claims":32,"sources":10}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: 6bf1989fabcbcf19
-object_page_generated_at: '2026-09-19T01:49:37+00:00'
-object_page_source_checked_at: '2026-09-19T01:49:37+00:00'
-object_page_content_state: content
-object_page_claim_count: '32'
-object_page_source_count: '10'
-object_page_seo_description: 'Veliuona – istorinė vietovė prie Nemuno, ilgą laiką buvusi svarbi lietuvių gynybos ir politinių įvykių vieta. Tikriausiai XIII amžiuje ji buvo įtvirtinta kaip…'
-object_page_seo_input_hash: d64f804989ec7988fe1a59d185a1bb29617dfc17eff79c026415197c7ca8651c
-object_page_seo_generated_at: '2026-09-19T01:49:37+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Veliuona
 
@@ -74,7 +67,7 @@ saugoti Dubysos upyną.
 <a id="claim-t-180736"></a>
 - t-001
   teiginys: "Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,7 +83,7 @@ saugoti Dubysos upyną.
 <a id="claim-t-180737"></a>
 - t-002
   teiginys: "Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,30 +97,10 @@ saugoti Dubysos upyną.
     - c-164335
     - c-164339
 
-<a id="claim-t-180738"></a>
-- t-003
-  teiginys: "Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gediminas žuvo mūšyje su kryžiuočiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.90); Gediminas mirė Veliuona (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1337 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkęs tęsinys ir paliktas aiškus citatos remiamas faktas."
-  pagrindžia:
-    - c-164326
-
 <a id="claim-t-180739"></a>
-- t-004
+- t-003
   teiginys: "M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -141,9 +114,9 @@ saugoti Dubysos upyną.
     - c-164332
 
 <a id="claim-t-180740"></a>
-- t-005
+- t-004
   teiginys: "Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Veliuona: 0.97"
   ryšio_patikimumo_lygis: "aukstas"
@@ -157,29 +130,10 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-164325
 
-<a id="claim-t-180741"></a>
-- t-006
-  teiginys: "Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Veliuona: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Veliuona\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1338 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje minimą klaidingą Gedimino mirties aiškinimą."
-  pagrindžia:
-    - c-164343
-
 <a id="claim-t-180743"></a>
-- t-007
+- t-005
   teiginys: "Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -193,9 +147,9 @@ saugoti Dubysos upyną.
     - c-164341
 
 <a id="claim-t-180744"></a>
-- t-008
+- t-006
   teiginys: "1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Hanza: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -212,9 +166,9 @@ saugoti Dubysos upyną.
     - c-164323
 
 <a id="claim-t-180746"></a>
-- t-009
+- t-007
   teiginys: "Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "aukstas"
@@ -230,9 +184,9 @@ saugoti Dubysos upyną.
     - c-164336
 
 <a id="claim-t-180747"></a>
-- t-010
+- t-008
   teiginys: "Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Veliuona: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -247,9 +201,9 @@ saugoti Dubysos upyną.
     - c-164345
 
 <a id="claim-t-180748"></a>
-- t-011
+- t-009
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Panemunė: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -263,29 +217,10 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-164327
 
-<a id="claim-t-180751"></a>
-- t-012
-  teiginys: "Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Veliuona: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Mirties vieta lokalizuota per mylią nuo Veliuonos, todėl ryšys su Veliuona yra geografiškai artimas, bet netiesioginis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas mirė Veliuona (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1337 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-164326
-
 <a id="claim-t-180752"></a>
-- t-013
+- t-010
   teiginys: "Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Veliuona: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -300,9 +235,9 @@ saugoti Dubysos upyną.
     - c-32515
 
 <a id="claim-t-180754"></a>
-- t-014
+- t-011
   teiginys: "Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Veliuona: 0.97"
   ryšio_patikimumo_lygis: "aukstas"
@@ -317,9 +252,9 @@ saugoti Dubysos upyną.
     - c-164325
 
 <a id="claim-t-180755"></a>
-- t-015
+- t-012
   teiginys: "Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Veliuona: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -334,9 +269,9 @@ saugoti Dubysos upyną.
     - c-37790
 
 <a id="claim-t-180756"></a>
-- t-016
+- t-013
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Panemunė: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -351,9 +286,9 @@ saugoti Dubysos upyną.
     - c-164327
 
 <a id="claim-t-180757"></a>
-- t-017
+- t-014
   teiginys: "1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -370,9 +305,9 @@ saugoti Dubysos upyną.
     - c-43974
 
 <a id="claim-t-180758"></a>
-- t-018
+- t-015
   teiginys: "Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -389,9 +324,9 @@ saugoti Dubysos upyną.
     - c-164324
 
 <a id="claim-t-180759"></a>
-- t-019
+- t-016
   teiginys: "Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Nemunas: 0.64"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -406,9 +341,9 @@ saugoti Dubysos upyną.
     - c-164340
 
 <a id="claim-t-180760"></a>
-- t-020
+- t-017
   teiginys: "M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -422,9 +357,9 @@ saugoti Dubysos upyną.
     - c-164332
 
 <a id="claim-t-185172"></a>
-- t-021
+- t-018
   teiginys: "Po 1418 m. susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -445,9 +380,9 @@ saugoti Dubysos upyną.
     - c-168533
 
 <a id="claim-t-194261"></a>
-- t-022
+- t-019
   teiginys: "III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko vų su Ordinu šioje vietovėje."
-  atnaujinta: "2026-07-06 13:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -457,22 +392,10 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-164341
 
-<a id="claim-t-194758"></a>
-- t-023
-  teiginys: "Vis dėlto 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-177154
-
 <a id="claim-t-201670"></a>
-- t-024
+- t-020
   teiginys: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adomas Timas Kauno vaitui Motiejui Heinui apskundė dėl vagystės Andrisą Rodtą, matyt, vokietį, kuris Veliuonoje prisijungė prie jo, kad išmoktų lietuvių kalbos."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -482,9 +405,9 @@ saugoti Dubysos upyną.
     - c-185017
 
 <a id="claim-t-206587"></a>
-- t-025
+- t-021
   teiginys: "Priešais Veliuoną, ant Nemuno kranto, buvo įrengta stovykla, o pavieniai daliniai pasklido po apylinkes iki Vaikių valsčiaus."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -495,9 +418,9 @@ saugoti Dubysos upyną.
     - c-189202
 
 <a id="claim-t-206588"></a>
-- t-026
+- t-022
   teiginys: "Teodoro Narbuto pasakojime Veliuonai vadovavo Lietuvos maršalka Goštautas, o jam buvo pavaldūs Surminas ir Metevikas; įtvirtinta gyvenvietė dešimt dienų priešinosi kryžiuočių kariaunai."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -507,8 +430,199 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-189203
 
+<a id="claim-t-210433"></a>
+- t-023
+  teiginys: "Veliuonos gynimui 1364 m. vadovavo Goštautas, Veliuonos pilies viršininkas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193401
+
+<a id="claim-t-216950"></a>
+- t-024
+  teiginys: "Vis dėlto 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201205
+
+<a id="claim-t-233775"></a>
+- t-025
+  teiginys: "Žemaitijoje imtasi statyti dvi pilis, iš kurių Frydbergą ketinta statyti ant Veliuonos griuvėsių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
+  pagrindžia:
+    - c-216595
+
+<a id="claim-t-233776"></a>
+- t-026
+  teiginys: "Teodoras Narbutas rašo, kad paėmus Veliuoną Žemaitija atsikratė savo ponų."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
+  pagrindžia:
+    - c-216596
+
+<a id="claim-t-233777"></a>
+- t-027
+  teiginys: "Prie Veliuonos, Nemuno saloje, sutarta susitikti praėjus dviem savaitėms po Šv. Jono dienos."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
+  pagrindžia:
+    - c-216597
+
+<a id="claim-t-233778"></a>
+- t-028
+  teiginys: "Teodoras Narbutas pasakoja, kad nutrūkus prie Veliuonos vykusioms taikos deryboms karalius ir didysis kunigaikštis išvyko į Žemaitiją rūpintis krašto gerinimu; ten buvo duoti vidaus tvarkos potvarkiai."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
+  pagrindžia:
+    - c-216598
+
+<a id="claim-t-233779"></a>
+- t-029
+  teiginys: "Teodoro Narbuto pasakojimu, kryžiuočių svita įsikūrė saloje prie Veliuonos, o karalius ir didysis kunigaikštis, atvykę beveik tuo pat metu, apsistojo dešiniajame Nemuno krante prie tvirtovės."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
+  pagrindžia:
+    - c-216599
+
+<a id="claim-t-233780"></a>
+- t-030
+  teiginys: "Gegužės pradžioje prie Veliuonos vyko ketvirtasis žinomas šios vietos diplomatinis suvažiavimas; jame atmesti kryžiuočių reikalavimai patvirtinti sutartį ir keisti jos straipsnius."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
+  pagrindžia:
+    - c-216600
+
+<a id="claim-t-233781"></a>
+- t-031
+  teiginys: "Teodoro Narbuto cituojamame laiške 1418 m. susitikimas prie Veliuonos, praėjus 14 dienų po Šv. Mykolo, apibūdintas kaip draugiškas; dalyviais įvardijami Vladislovas, Vytautas ir jų sąjungininkai bei Vokiečių ordino didysis magistras."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
+  pagrindžia:
+    - c-216601
+
 ## Reikšmingi paminėjimai
-- c-019
+- c-007
+  santrauka: 'Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
+    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
+    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
+    giję feodalinio valdymo principai.
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-013
+
+- c-016
+  santrauka: 'Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
+    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
+    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-022
+  santrauka: 'Prie Veliuonos 1317 m. įvyko čekų riterio Plichtos ir lietuvių didžiūno kova.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    čekų riterio Plichtos kova su lietuvių didžiūnu prie Veliuonos 1317 m.;
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-023
+  santrauka: 'Šį ganytojišką laišką Skapiškio ir Kamajų para pijoms Valančius 1861 m. spalio 13 d. ir 1862 m. ko vo 20 d. peradresavo Kulių, Vainuto bei Veliuonos '' parapijoms.'
+  šaltinis: Motiejus Valancius - Ganytojiski laiskai
+  citata_originali: |
+    Šį ganytojišką laišką Skapiškio ir Kamajų para­
+    pijoms Valančius 1861 m. spalio 13 d. ir 1862 m. ko­
+    vo 20 d. peradresavo Kulių, Vainuto bei Veliuonos
+    ' parapijoms
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-024
+  santrauka: 'Tekstas Veliuonos parapijai lyginamas su panašiais laiškais Skapiškio, Kamajų, Kulių ir Vainuto parapijoms.'
+  šaltinis: Motiejus Valancius - Ganytojiski laiskai
+  citata_originali: |
+    Ganytojiškas laiškas Veliuonos parapijai panašus
+    į laiškus Skapiškio bei Kamajų parapijoms, taip pat
+    Rietavo dekanato Kulių ir Vainuto parapijoms.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-026
   santrauka: 'Vis dėlto 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -542,12 +656,12 @@ saugoti Dubysos upyną.
     10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
     pakeliui į vyr. magistro stovyklą buvo išžudyti^16.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-37790
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -567,12 +681,12 @@ saugoti Dubysos upyną.
     Jogailos mirties, dabar jis tokį raštą kartu su Jogaila parašė, bet
     labai neformalų.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-012
 
 - id: c-43974
   sudarytojas: "Karolis Zikaras"
@@ -591,12 +705,12 @@ saugoti Dubysos upyną.
     padarė jai daug žalos. Rudenį Veliuona
     vėl pulta.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-014
 
 - id: c-164323
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -620,7 +734,7 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-164324
   autorius: "Zenonas Ivinskis"
@@ -639,7 +753,7 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-015
 
 - id: c-164325
   autorius: "Zenonas Ivinskis"
@@ -661,48 +775,8 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-014
-
-- id: c-164326
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  puslapiai: "PDF 41"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41."
-  citata_originali: |
-    Betgi toje epochoje, kai naujos civilizacijos
-    spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
-    nepaisant Lietuvos valdovų išmintingų siekių, karo reikalai
-    ir užgrobimai labiau už įstatymų leidimą ar krašto valdy­
-    mą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­
-    gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
-    kimumą? O vis dėlto Vilniuje, galingos valstybės sostinėje,
-    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
-    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
-    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
-    giję feodalinio valdymo principai.
-    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
-    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
-    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
-    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
-    13
-    Rygos miestas buvo įkurtas 1200
-    metais, ant kalno, vadinto Righe,
-    Dvinos pakrantėje, vyskupo Alber­
-    to fon Apeldemo, pasiųsto skleisti
-    krikščioniškąjį tikėjimą Livonijoje,
-    bet ten dar prieš aštuonerius metus
-    Bremeno pirkliai jau buvo pastaty­
-    dinę keletą namų.
-  citata_rodoma: "O vis dėlto Vilniuje, galingos valstybės sostinėje, \nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su \nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200 \nmetais, ant kalno, vadinto Righe, \nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti \nkrikščioniškąjį tikėjimą Livonijoje, \nbet ten dar prieš aštuonerius metus \nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-012
+    - t-004
+    - t-011
 
 - id: c-164327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -725,8 +799,8 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-016
+    - t-009
+    - t-013
 
 - id: c-164328
   autorius: "Michał Baliński"
@@ -776,8 +850,8 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-020
+    - t-003
+    - t-017
 
 - id: c-164335
   autorius: "Michał Baliński"
@@ -795,7 +869,7 @@ saugoti Dubysos upyną.
     ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
     das.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -822,12 +896,12 @@ saugoti Dubysos upyną.
     svarbios Lietuvai blokuojant Livoniją iš
     rytų.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-164339
   autorius: "Michał Baliński"
@@ -871,7 +945,7 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-016
 
 - id: c-164341
   autorius: "Michał Baliński"
@@ -903,29 +977,8 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-022
-
-- id: c-164343
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  puslapiai: "PDF 251"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
-  citata_originali: |
-    Kai rytiniame savo šone Lietuva
-    vis daugiau įgijo žemių, reikėjo ir sostinei parinkti vietą labiau
-    etnografinių lietuvių žemių rytuose.
-    Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
-    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
-    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.
-  citata_rodoma: "Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,\njog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per\nVeliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+    - t-005
+    - t-019
 
 - id: c-164345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -943,12 +996,12 @@ saugoti Dubysos upyną.
     niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­
     ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 16:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-168533
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -986,27 +1039,7 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-
-- id: c-177154
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 131"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
-  citata_originali: |
-    Vis dėlto 1364 metais kryžiuočiai sudegino
-    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
-    gė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,
-    kuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­
-    mė pilį ir perstatė į krikščionių bažnyčią.
-  citata_rodoma: "Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­\ngė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,\nkuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­\nmė pilį ir perstatė į krikščionių bažnyčią."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023
+    - t-018
 
 - id: c-185017
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1024,7 +1057,7 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-020
 
 - id: c-189202
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1042,7 +1075,7 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-021
 
 - id: c-189203
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1064,9 +1097,131 @@ saugoti Dubysos upyną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-022
+
+- id: c-193401
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 210"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 210."
+  citata_originali: |
+    Veliuonos gynimui 1364 m. tikrai vadovavo Goštautas, Ve­
+    liuonos pilies viršininkas. Nebepajėgdamas atsispirti kryžiuočiams, jis
+    pasidavė drauge su ¡gula ir buvo kryžiuočių nužudytas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
+- id: c-201205
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
+  citata_originali: |
+    Vis dėlto 1364 metais kryžiuočiai sudegino
+    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
+    gė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,
+    kuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­
+    mė pilį ir perstatė į krikščionių bažnyčią.
+  citata_rodoma: "Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­\ngė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,\nkuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­\nmė pilį ir perstatė į krikščionių bažnyčią."
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
+
+- id: c-216595
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 86"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 86."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-025
+
+- id: c-216596
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 190."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
     - t-026
+
+- id: c-216597
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 310."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-027
+
+- id: c-216598
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 313."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-028
+
+- id: c-216599
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 334."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-029
+
+- id: c-216600
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 378."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-030
+
+- id: c-216601
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 465"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 465."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:39"
+  pagrindzia:
+    - t-031
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Puolė Veliuoną: [[objektai/asmenys/Ditrichas fon Altenburgas]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Veliuoną: [[objektai/asmenys/Ditrichas fon Altenburgas]]
 - Apgulė Veliuoną: [[objektai/grupes/Kryžiuočių ordinas]]

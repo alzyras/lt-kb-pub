@@ -1,62 +1,56 @@
 ---
 tipas: vieta
-pavadinimas: Raseiniai
+pavadinimas: 'Raseiniai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
+  - 'Vyskupo Motiejaus Valančiaus pastoracinė veikla'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - 1322 m.
-  - 1352 m.
-  - 1416 m.
-  - 1836 m.
+  - '1322 m.'
+  - '1352 m.'
+  - '1416 m.'
+  - '1836 m.'
 date_start: '1322'
 date_end: '1836'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ordinas
   - vieta
   - dvaras
 amziai:
-  - XIV
-  - XIX
+  - 'XIV'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-7951874d2dd0c78a7cedd6b0
-canonical_name: Raseiniai
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Raseiniai
-sameAs: []
-canonical_biography: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-7951874d2dd0c78a7cedd6b0"
+canonical_name: "Raseiniai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raseiniai"]
+sameAs: ["https://www.wikidata.org/entity/Q658562"]
+canonical_biography: "Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
 place_authority: true
 historical_names: []
-external_sources_json: '[{"title":"Raseiniai","url":"https://lt.wikipedia.org/wiki/Raseiniai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Raseiniai","url":"https://www.vle.lt/straipsnis/raseiniai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Raseiniai - Wikipedia","url":"https://en.wikipedia.org/wiki/Raseiniai","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""},{"title":"Raseiniai – Wikipedia","url":"https://de.wikipedia.org/wiki/Raseiniai","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:27:16+00:00","source_checked_at":"2026-09-19T10:27:16+00:00","counts":{"relations":2,"gallery":0,"sources":13},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tačiau jei norėtų į vidurines sritis, tokias kaip Vilnius, Vi­ duklė, Raseiniai arba Ariogala, ruošti ekspediciją, tada terašo Brandenburgo markgrafui, kad nori paviešėti.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","claim_id":"t-206567","evidence_id":"c-189182","origin":"internal"},"wiki":{"intro":"Raseiniai – miestas vidurio vakarų Lietuvoje, Žemaitijoje, Kauno apskrityje, 76 km į šiaurės vakarus nuo Kauno, Žemaičių aukštumos pietrytinėse priekalnėse, prie Žemaičių plento. Raseinių rajono savivaldybės centras. Raseinių miesto seniūnija, yra apylinkės seniūnijos centras, Dubysos regioninio parko direkcija.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"19373","revision_id":"7928163","status":"published","translation_status":"native","source":{"title":"Raseiniai","url":"https://lt.wikipedia.org/wiki/Raseiniai","publisher":"Vikipedija","language":"lt","article_id":"19373","revision_id":"7928163","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7928163","history_url":"https://lt.wikipedia.org/w/index.php?title=Raseiniai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:21:30.078709+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"9ced414e3eb1bd43db7b2ce681d1ec6e5b6e07efbd5e0433fca398ba4dbd3796","version_pk":"556e82b9b42c2cf16dde8c28de2d7f94"}},"source_buttons":[{"label":"Vikipedija","title":"Raseiniai","url":"https://lt.wikipedia.org/wiki/Raseiniai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Raseiniai","url":"https://www.vle.lt/straipsnis/raseiniai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Raseiniai","https://www.vle.lt/straipsnis/raseiniai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"07ca43aacb92e9f0cafe9275","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Raseiniuose buvo įkurta pijarų mokykla.","context":"A. Šapokos redaguotame 1936 m. leidinyje aprašoma pijarų mokyklų vieta.","support_ids":["t-183087","c-166475"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183087","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-166475","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui- tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie- tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va- leranavoj, Vitebske, Želviuose ir dar vienur kitur. #### 6."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"452656e60117594cfc9498c3","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Raseiniuose buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje.","context":"1971 m. Lietuvos metraštyje ir Bychovco kronikos ištraukoje Raseiniai minimi tarp pietrytinėje Žemaitijos dalyje įsteigtų pirmųjų katalikų bažnyčių vietų.","support_ids":["t-211942","c-194090"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211942","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194090","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Pirmo­ sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f4fe4d20f56418c266ef8da0","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Raseinių vienuolynas buvo vienas iš vienuolynų, kurių caro valdžia neuždarė.","context":"Petro Puzaro darbe apie vyskupo Motiejaus Valančiaus pastoracinę veiklą aprašoma caro valdžios vykdyta vienuolynų uždarymo tvarka.","support_ids":["t-208591","c-191211"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208591","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191211","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Caro valdžia panaikino parapines katalikiškas mokyk­ las, uždarė visus vienuolynus, išskyrus Kalvarijos, Kre­ tingos ir Raseinių."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Raseiniai – istorinis vietovardis, šaltiniuose aprašomas kaip sritis, valsčius ir svarbi vietovė. 1352 m. vasarį Kniprodė smarkiai nusiaubė Raseinių sritį, tačiau atsitraukimą apsunkino staigus polaidis. Žemaitijos puolimo metu Raseinių valsčius, kartu su Vaikių, Ariogalos ir Klogėnų valsčiais, buvo sulygintas su žeme. Vėlesniuose aprašymuose Raseiniai minimi kaip viena iš vidurinių sričių, o karo žygiuose priešas po Pamedės apylinkių puolimo slinko jų link. Raseiniuose taip pat veikė pijarų mokykla, o 1918–1920 m. nepriklausomybės kovų laikotarpiu bermontininkai, užėmę Šiaurės Lietuvą, pasiekė Raseinius.","sentences":[{"sentence_id":"s1","text":"Raseiniai – istorinis vietovardis, šaltiniuose aprašomas kaip sritis, valsčius ir svarbi vietovė.","support_ids":["t-184395","t-185121","t-182825"]},{"sentence_id":"s2","text":"1352 m. vasarį Kniprodė smarkiai nusiaubė Raseinių sritį, tačiau atsitraukimą apsunkino staigus polaidis.","support_ids":["t-184395"]},{"sentence_id":"s3","text":"Žemaitijos puolimo metu Raseinių valsčius, kartu su Vaikių, Ariogalos ir Klogėnų valsčiais, buvo sulygintas su žeme.","support_ids":["t-185121"]},{"sentence_id":"s4","text":"Vėlesniuose aprašymuose Raseiniai minimi kaip viena iš vidurinių sričių, o karo žygiuose priešas po Pamedės apylinkių puolimo slinko jų link.","support_ids":["t-206567","t-206566"]},{"sentence_id":"s5","text":"Raseiniuose taip pat veikė pijarų mokykla, o nepriklausomybės kovų laikotarpiu bermontininkai, užėmę Šiaurės Lietuvą, pasiekė Raseinius.","support_ids":["t-183087","t-183804"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai mini Raseinių sritį, valsčių ir Raseinių svarbą kaip vietovę."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1352 m. vasarį, Raseinių srities nusiaubimą ir staigų polaidį, apsunkinusį grįžimą."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Raseinių, Vaikių, Ariogalos ir Klogėnų valsčiai buvo sulyginti su žeme."},{"sentence_id":"s4","supported":true,"reason":"Abu teiginio aspektai tiesiogiai paremti nurodytais šaltiniais: Raseiniai priskiriami vidurinėms sritims, o priešas slinko jų link po Pamedės apylinkių puolimo."},{"sentence_id":"s5","supported":false,"reason":"Pijarų mokyklos įkūrimas pagrįstas, tačiau nurodyti šaltiniai tiesiogiai nepatvirtina, kad ji veikė nepriklausomybės kovų laikotarpiu; bermontininkų šaltinio citatoje laikotarpis taip pat neįvardytas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-184395","t-185121","t-182825"]},{"sentence_id":"s2","supported":false,"support_ids":["t-184395"]},{"sentence_id":"s3","supported":false,"support_ids":["t-185121"]},{"sentence_id":"s4","supported":false,"support_ids":["t-206567","t-206566"]},{"sentence_id":"s5","supported":false,"support_ids":["t-183087","t-183804"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Bermontininkai","claim_id":"t-183804","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Fridrichas iš Vildenbergo","claim_id":"t-224228","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":11,"sources":9}}'
-object_page_finisher: 'true'
-object_page_finisher_hash: 8f6285a24cfacd82
-object_page_generated_at: '2026-09-19T10:27:16+00:00'
-object_page_source_checked_at: '2026-09-19T10:27:16+00:00'
-object_page_content_state: content
-object_page_claim_count: '11'
-object_page_source_count: '9'
-object_page_seo_description: 'Raseiniai – istorinis vietovardis, šaltiniuose aprašomas kaip sritis, valsčius ir svarbi vietovė. 1352 m. vasarį Kniprodė smarkiai nusiaubė Raseinių sritį…'
-object_page_seo_input_hash: 98162c59e46c89fd0b731345b68ef3a905b12b13e66f5b799ab5632cf4a7fe9b
-object_page_seo_generated_at: '2026-09-19T10:27:16+00:00'
-object_page_seo_policy_version: object-page-policy/v7
 ---
 # Raseiniai
 
@@ -69,7 +63,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-182825"></a>
 - t-001
   teiginys: "Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ariogala: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,7 +79,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-183087"></a>
 - t-002
   teiginys: "Raseiniuose buvo įkurta pijarų mokykla."
-  atnaujinta: "2026-06-14 10:15"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,7 +98,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-183804"></a>
 - t-003
   teiginys: "Bermontininkai, užėmę Šiaurės Lietuvą, judėdami į pietus pasiekė Raseinius."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,7 +118,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-184321"></a>
 - t-004
   teiginys: "Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,7 +137,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-184395"></a>
 - t-005
   teiginys: "1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -165,7 +159,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-184396"></a>
 - t-006
   teiginys: "Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -185,7 +179,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-185121"></a>
 - t-007
   teiginys: "Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -205,10 +199,73 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   pagrindžia:
     - c-168482
 
-<a id="claim-t-188818"></a>
+<a id="claim-t-206566"></a>
 - t-008
+  teiginys: "Teodoras Narbutas aprašo, kad po žygio per Graudžių girią priešas smogė Pamedės valsčiaus apylinkėms ir paslinko Raseinių link."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189181
+
+<a id="claim-t-206567"></a>
+- t-009
+  teiginys: "Raseiniai Narbuto aprašyme priskiriami vidurinėms sritims, į kurias rengiant ekspediciją nurodoma apie ketinimą rašyti Brandenburgo markgrafui."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189182
+
+<a id="claim-t-208593"></a>
+- t-010
+  teiginys: "Vyskupas Motiejus Valančius aplankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Čekiškę."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191213
+
+<a id="claim-t-211942"></a>
+- t-011
+  teiginys: "Raseiniuose buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194090
+
+<a id="claim-t-213560"></a>
+- t-012
+  teiginys: "Taip tvirtina ponas Simonas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au torius, man rašytame laiške (Raseiniai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194786
+
+<a id="claim-t-216430"></a>
+- t-013
   teiginys: "Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose parašytame laiške Narbutui patvirtino jo aptariamą teiginį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -225,34 +282,76 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į pilną sakinį, aiškiai įvardijant Simoną Stanevičių, laiško datą ir Raseinius. Neįvardytas pats teiginys, nes citata jo turinio nepateikia."
   pagrindžia:
-    - c-171707
+    - c-201303
 
-<a id="claim-t-206566"></a>
-- t-009
-  teiginys: "Teodoras Narbutas aprašo, kad po žygio per Graudžių girią priešas smogė Pamedės valsčiaus apylinkėms ir paslinko Raseinių link."
-  atnaujinta: "2026-08-16 22:50"
+<a id="claim-t-233713"></a>
+- t-014
+  teiginys: "Narbutas rašo, kad tuo pat metu didžiojo kunigaikščio kariuomenė persikėlė per Nevėžį ir iškart užėmė pirmiausia sukilusius Raseinių, Viduklės bei Ariogalos pavietus."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  vertinimo_atnaujinta: "2026-10-14T06:37:44Z"
   pagrindžia:
-    - c-189181
+    - c-216533
 
-<a id="claim-t-206567"></a>
-- t-010
-  teiginys: "Raseiniai Narbuto aprašyme priskiriami vidurinėms sritims, į kurias rengiant ekspediciją nurodoma apie ketinimą rašyti Brandenburgo markgrafui."
-  atnaujinta: "2026-08-16 22:50"
+<a id="claim-t-233714"></a>
+- t-015
+  teiginys: "Narbutas nurodo, kad Raseinių pavieto bajorai atsisakė duoti naujų įkaitų."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
   pagrindžia:
-    - c-189182
+    - c-216534
 
+## Reikšmingi paminėjimai
+- c-010
+  santrauka: 'Caro valdžia uždarė visus vienuolynus, išskyrus Kalvarijos, Kretingos ir Raseinių vienuolynus.'
+  šaltinis: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla
+  citata_originali: |
+    Caro valdžia panaikino parapines katalikiškas mokyk­
+    las, uždarė visus vienuolynus, išskyrus Kalvarijos, Kre­
+    tingos ir Raseinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-012
+  santrauka: 'Vyskupas Motiejus Valančius teigė, kad, keliaudamas per vyskupiją, Šiauliuose, Telšiuose, Raseiniuose, Vilkmergėje, Panevėžyje, Ežerėnuose ir Kaune rado daugybę per nelaimes uždarytų savo vaikų.'
+  šaltinis: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla
+  citata_originali: |
+    Važiuodamas kiaurai per vyskupystę, aplankiau visus
+    kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­
+    šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir
+    Kaune daugybę uždarytų per nelaimes, vaikų savo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-015
+  santrauka: 'Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose parašytame laiške Narbutui patvirtino jo aptariamą teiginį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pusdievio ir Nemuno vardo panašumas
+    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
+    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
+    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
+    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
+    navičiaus (Niemonowicz) parašu. Matyti, kad ta pavardė yra
+    kilusi iš Nemuno pavadinimo, kaip Piotrowicz, tai yra Petro
+    sūnus, iš Petro.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-32377
@@ -309,7 +408,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
     vių Krivaičio pagrindinė buveinė).
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -418,24 +517,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   pagrindzia:
     - t-007
 
-- id: c-171707
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
-  citata_originali: |
-    Taip tvirtina ponas Simo­
-    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
-    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
-  citata_rodoma: "Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio\nautorius, man rašytame laiške (Raseiniai. -  1836.IV19)*."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-
 - id: c-189181
   šaltinis: "Lietuvių tautos istorija, t. 5"
   puslapiai: "PDF 432"
@@ -452,7 +533,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-189182
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -468,7 +549,104 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-009
+
+- id: c-191213
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 56"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 56."
+  citata_originali: |
+    Todėl vysk. M. Valančius tais metais ap­
+    lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če­
+    kiškę 6 7. Kitais metais vizitavo tik Vilkijos ir Karmėlavos
+    parapijas 1.
+  statusas: verified
+  atnaujinta: "2026-10-05 15:32"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
     - t-010
+
+- id: c-194090
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    Pirmo­
+    sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos
+    dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-194786
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 481"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 481."
+  citata_originali: |
+    Taip tvirtina ponas Simonas
+    Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au­
+    torius, man rašytame laiške (Raseiniai. 1836.IV.19).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-201303
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
+  citata_originali: |
+    Taip tvirtina ponas Simo­
+    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
+    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
+  citata_rodoma: "Taip tvirtina ponas Simo­\nnas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio\nautorius, man rašytame laiške (Raseiniai. -  1836.IV19)*."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-216533
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 139."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-014
+
+- id: c-216534
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 148."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-015
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]]

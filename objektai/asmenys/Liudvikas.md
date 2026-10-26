@@ -4,6 +4,7 @@ pavadinimas: 'Liudvikas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1351 m.'
@@ -42,14 +43,14 @@ canonical_biography: "Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą 
 
 ## Santrauka
 
-Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją. Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio. Liudvikas visas savo teises į Rusią buvo perleidęs Kazimierui ir lenkams.
+Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš d'Anjou giminės). Liudvikas mirė (1382 m.), taip pat nepalikęs sūnų.
 
 ## Teiginiai
 
 <a id="claim-t-63883"></a>
 - t-001
   teiginys: "Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Galicija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,7 +66,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
 <a id="claim-t-63884"></a>
 - t-002
   teiginys: "Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,7 +83,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
 <a id="claim-t-196548"></a>
 - t-003
   teiginys: "Liudvikas visas savo teises į Rusią buvo perleidęs Kazimierui ir lenkams."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,7 +95,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
 <a id="claim-t-196550"></a>
 - t-004
   teiginys: "Po karaliaus Liudviko mirties vengrai pardavė Liubartui Oleską, Kremenecą, Horodlę, Lopatiną ir Sniatiną."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,6 +104,19 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178759
+
+<a id="claim-t-233243"></a>
+- t-005
+  teiginys: "Ordino maršalas, Zigmanto paveiktas, pradėjo slapta tartis su Bavarijos kunigaikščiu Liudviku ir Silezijos kunigaikščiais, kaip aprašo Narbutas."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:20Z"
+  pagrindžia:
+    - c-216063
 
 ## Citatos
 
@@ -240,3 +254,15 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-216063
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 376."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-005

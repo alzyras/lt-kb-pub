@@ -3,6 +3,8 @@ tipas: autorius
 pavadinimas: 'Adolfas Šapoka'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Gedimino laiškai'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1936 m.'
@@ -36,7 +38,7 @@ canonical_name: "Adolfas Šapoka"
 entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Adolfas Šapoka"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q16442739"]
 canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
 ---
 # Adolfas Šapoka
@@ -50,7 +52,7 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
 <a id="claim-t-63301"></a>
 - t-001
   teiginys: "Adolfas Šapoka redagavo plačios apimties Lietuvos istoriją, kurią išleido grupė lietuvių istorikų."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -70,7 +72,7 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
 <a id="claim-t-183339"></a>
 - t-002
   teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,7 +94,7 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
 <a id="claim-t-201492"></a>
 - t-003
   teiginys: "Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,6 +103,21 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
   pagrindžia:
     - c-184839
 
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Šapoka Lietuvos istorijoje citavo Gedimino korespondenciją kaip Lietuvos visuomenės „europizacijos“ įrodymą.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Jakštas ėmėsi atsakomybės apginti laiškų autentiškum ą
+    nuo politiškai angažuoto nacio Forstreuterio.
+    Maironis citavo Gedimino laiškus popiežiui ir rėmėsi Hanzos laiškais kaip Lietuvos troškimo
+    šviestis įrodymu. Šapoka Lietuvos istorijoje cituoja šią korespondenciją kaip Lietuvos visuome­
+    nės „europizacijos“ įrodymą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-64340
@@ -160,3 +177,17 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-190147
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 240"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 240."
+  citata_originali: |
+    Adolfo Šapokos raginimu LDK istorijoje ieškoma tik lietuvių.
+  statusas: verified
+  atnaujinta: "2026-10-05 15:03"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

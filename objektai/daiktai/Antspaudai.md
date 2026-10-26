@@ -2,6 +2,7 @@
 tipas: daiktas
 pavadinimas: 'Antspaudai'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1413 m.'
@@ -58,7 +59,7 @@ Nenurodyta
 <a id="claim-t-86979"></a>
 - t-001
   teiginys: "Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,7 +75,7 @@ Nenurodyta
 <a id="claim-t-86981"></a>
 - t-002
   teiginys: "Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -83,7 +84,7 @@ Nenurodyta
 <a id="claim-t-86982"></a>
 - t-003
   teiginys: "Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Vilniaus magistratas: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,6 +98,23 @@ Nenurodyta
   pagrindžia:
     - c-82960
 
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Gedimino laiške nurodyta, kad karališkas antspaudas uždėtas ant rašto minėtiems dalykams paliudyti ir taikai patvirtinti.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    O jeigu kuri nors pusė norėtų atšaukti minėtą taiką dėl teisingos priežasties, turi aiškiai
+    pranešti kitai pusei prieš du mėnesius.
+    Be to, kad viskas tarp mūsų vyktų pagarbiai ir draugiškai, suteikiame bet kuriam žmogui, pas
+    mus atvykstančiam ar iš mūsų išvykstančiam, Rygos teisę35, ir kiekvienas pirklys iš abiejų
+    pusių gali pirkti kokią panorėjęs prekę.
+    M inėtų dalykų paliudijimui ir minėtos taikos patvirtinimui mūsų karališkas antspaudas ant
+    šio rašto yra uždėtas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-82958
@@ -118,7 +136,7 @@ Nenurodyta
     Valentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­
     sprendėme ir suteikiame.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,7 +158,7 @@ Nenurodyta
     tos privilegijos Žygimanto Augusto
     patvirtinimas su dviem antspaudais.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -198,7 +216,7 @@ Nenurodyta
     sų-palikuonių sutikimo ar kitos
     naujos ar atskiros privilegijos.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

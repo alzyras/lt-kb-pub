@@ -1,8 +1,18 @@
 ---
 tipas: asmuo
-pavadinimas: 'Bertoldas'
+pavadinimas: 'Bertoldas (kunigas, XIV a.)'
 saltiniai:
+  - 'Gedimino laiškai'
+  - 'Lietuvių tautos istorija, t. 3'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1323 m.'
+date_start: '1323'
+date_end: ''
+variantai:
+  - 'Bertoldas'
+aliases:
+  - 'Bertoldas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +20,10 @@ tags:
   - kunigaikštis
   - kunigas
   - popiežius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,7 +44,7 @@ entity_aliases: ["Bertoldas"]
 sameAs: []
 canonical_biography: "Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­ muose. Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la­ biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini­ mų Ordinui."
 ---
-# Bertoldas
+# Bertoldas (kunigas, XIV a.)
 
 ## Santrauka
 
@@ -41,7 +55,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 <a id="claim-t-87485"></a>
 - t-001
   teiginys: "Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Ryga: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -58,7 +72,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 <a id="claim-t-194223"></a>
 - t-002
   teiginys: "Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini mų Ordinui."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,7 +84,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 <a id="claim-t-205143"></a>
 - t-003
   teiginys: "Pritardami tai nuo monei ir remdamiesi kronikos liudijimais, manome la biausiai tikėtina esant, kad Bertoldas pirma kiek laiko lankėsi Latvijos žemėse, lydėdamas Meinhardą, taigi bu vo žinomas tenykščiams gyventojams ir mokėjo jų kalbą."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,6 +94,20 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   pagrindžia:
     - c-188155
 
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Bertoldas rašė laiškus popiežiui, arkivyskupui ir „totus mundus“, siųstus Rygos keliu 1323 m. gegužę.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Brolis Mikalojus (tikriausiai tas pats dominikonų mini­
+    mas Mikalojus, o gal kitas dvasininkas pranciškonas) buvo didžiojo kunigaikščio tarybos narys;
+    anksčiau patarinėjo Henrikas ir pranciškonas Bertoldas. Pastarasis rašė laiškus popiežiui, arki­
+    vyskupui ir totus mundus, kurie buvo siunčiami Rygos keliu (1323 m. gegužės mėn.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-83464
@@ -98,7 +126,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgalijoje
     ir daugelyje kitų [vietų].
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-05 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,7 +173,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     lankėsi Latvijos žemėse, lydėdamas Meinhardą, taigi bu­
     vo žinomas tenykščiams gyventojams ir mokėjo jų kalbą.
   statusas: verified
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-10-05 15:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,4 +181,6 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     - t-003
 
 ## Ryšiai
-- Bertoldas mirė [[objektai/vietos/Ryga]]
+- Bertoldas (kunigas, XIV a.) valdė [[objektai/vietos/Ragainė]]
+- Bertoldas (kunigas, XIV a.) mirė [[objektai/vietos/Ryga]]
+- Bertoldas (kunigas, XIV a.) puolė [[objektai/vietos/Medraba]]

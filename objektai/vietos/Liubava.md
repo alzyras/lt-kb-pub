@@ -24,7 +24,7 @@ canonical_name: "Liubava"
 entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Liubava"]
-sameAs: []
+sameAs: ["https://www.wikidata.org/entity/Q987188"]
 canonical_biography: "Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies."
 place_authority: true
 historical_names: []
@@ -56,17 +56,31 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   pagrindžia:
     - c-168614
 
-<a id="claim-t-205521"></a>
-- t-002
-  teiginys: "1214 metais Narbutas Svavabuną vadina Liubavo žemės savininku."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-233577"></a>
+- t-233577
+  teiginys: "Kryžiuočiai paliko stovyklą, persikėlė per Dravantą ir, žygiuodami palei Bratianą, patraukė Liubavos link."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:41Z"
   pagrindžia:
-    - c-187782
+    - c-216397
+
+<a id="claim-t-233578"></a>
+- t-233578
+  teiginys: "Kariuomenė iš Liubavos pasuko į rytus, aplenkė Marvaldės gyvenvietę ir pasiekė Frogenau kaimą, kur sustojo."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:41Z"
+  pagrindžia:
+    - c-216398
 
 ## Citatos
 
@@ -96,7 +110,7 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187782
@@ -124,5 +138,28 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-216397
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 220."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233577
+
+- id: c-216398
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 221."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233578
+

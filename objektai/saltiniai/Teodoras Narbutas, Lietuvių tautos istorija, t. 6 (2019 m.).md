@@ -1,24 +1,34 @@
 ---
 tipas: saltinis
 pavadinimas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
-saltinio_tipas: leidinys
-sukurta: ''
-atnaujinta: ''
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+sukurta: "2026-10-15"
+variantai: []
+aliases: []
+saltiniai: []
+tags: []
+laikotarpis: ""
+datos: []
+periodas: ""
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: ""
 ---
+
 # Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)
 
-## Šaltinio dalys
+## Bibliografiniai duomenys
 
-- Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)
+## Turinys ir apimtis
+
+## Ryšiai
+
+## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
+
+## Pastabos

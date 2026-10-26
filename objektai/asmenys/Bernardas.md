@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Bernardas'
 saltiniai:
+  - 'Gedimino laiškai'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -36,30 +37,41 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 ## Teiginiai
 
-<a id="claim-t-60248"></a>
+<a id="claim-t-225771"></a>
 - t-001
   teiginys: "Pasakojime šventasis Bernardas sapne žengė brolių priekyje ir atsisakė priimti maldavusį vyrą į bendrininkus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-28 21:24"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60880
+    - c-201860
 
-<a id="claim-t-197061"></a>
-- t-002
-  teiginys: "Bernardas nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60880
-
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Gedimino laiškuose Bernardas įvardijamas Anesi vyskupijos Šv. Teofredo vienuolyno abatu, giriamas už rašto išmanymą bei evangelijos aiškinimą ir paskirtas skelbti krikščionybę Gediminui.'
+  šaltinis: Gedimino laiškai
+  citata_originali: |
+    Ir todėl tėvišku palanku­
+    mu trokštame, jog, išvengęs išsigelbėjimo praradimo, nusipelnytum prisijungti prie išrinktųjų
+    bendruomenės, ir, visiškai palikęs atskalūnų klaidas13, kurių laikantis nukrypstama nuo
+    šviesos kelio ir atsiveria kelias į tamsybes, įgytum tą tikro atsivertimo ir bendravimo malonę,
+    kuria tiki, laiko ir saugo ta pati M otina Romos bažnyčia. Todėl mes kreipėme mūsų sielos akis
+    į gerbiamą mūsų brolį Baltramiejų14, A leto vyskupą, ir mielą sūnų Bernardą15 , Anesi vysku­
+    pystės Švento Teofredo vienuolyno abatą, vyrus, ypač apdovanotus rašto išmanymu, pagirti­
+    no gyvenimo ir bendravimo, turinčius dievišką evangelijos aiškinimo dovaną, dėl ko jie
+    mums ir minėtiems broliams yra priimtini. Pasitarę su tais pačiais mūsų broliais kardinolais,
+    liepėme juos pas tave ir į tavo valdomus krastus pasiųsti specialiai kaip mūsų ir minėto Sosto
+    pasiuntinius, kad tau ir tavo karalystei išpažintų evangeliją ir skelbtų Dievą ir Viešpatį mūsų
+    Jėzų Kristų ir jus pamokytų jūsų išgelbėjimo naudai, ir lavintų tikrojo ir šventojo visuotinio
+    apaštališkosios Romos bažnyčios tikėjimo tiesoje, idant jų išganingai pamokyti pažinti patį
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
-- id: c-60880
+- id: c-201860
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 75"
@@ -73,10 +85,10 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
     randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar
     neatrodo, kad štai šie tavo broliai yra šiek tiek kentėję dėl Jėzaus Kristaus vardo“.
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

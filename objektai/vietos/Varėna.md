@@ -25,17 +25,6 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-entity_id: ent-f8281d2adc7efe2463b960ed
-canonical_name: Varėna
-entity_roles:
-  - place
-entity_view_role: place
-entity_aliases:
-  - Varėna
-sameAs: []
-canonical_biography: '1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį. 7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir. Lenkų vyriausybė apsimetė nieko apie tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems klausimams išspręsti.'
-place_authority: true
-historical_names: []
 external_sources_json: '[{"title":"Varėna","url":"https://lt.wikipedia.org/wiki/Var%C4%97na","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Varėna","url":"https://www.vle.lt/straipsnis/varena/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
 object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:31:00+00:00","source_checked_at":"2026-09-20T13:31:00+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Varėna – miestas pietų Lietuvoje, Alytaus apskrityje, 51 km į pietryčius nuo Alytaus. Varėnos rajono savivaldybės ir seniūnijos centras. Yra 6 seniūnaitijos (Dzūkų, M. K. Čiurlionio, Parko, Šilo, Vytauto, Žalioji). Miestas išsidėstęs į šiaurę nuo Vilniaus–Marcinkonių geležinkelio, prie plento 127 Babriškės–Varėna–Eišiškės . Stovi medinė Šv. arkangelo Mykolo bažnyčia (nuo 1933 m.), Varėnos sinagoga (XX a. pr.), yra paštas, Varėnos geležinkelio stotis. Miesto centre yra savivaldybė, kultūros namai. Šiaurės rytiniame miesto pakraštyje gausu pramonės įmonių (melioracijos, pieno, transporto ir kt.). Ten ir Varėnos poliklinika – trijų aukštų pastate (vienas korpusas statytas 1968 m., kitas – 1982 m.) bei ligoninė.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"13981","revision_id":"7867393","status":"published","translation_status":"native","source":{"title":"Varėna","url":"https://lt.wikipedia.org/wiki/Var%C4%97na","publisher":"Vikipedija","language":"lt","article_id":"13981","revision_id":"7867393","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7867393","history_url":"https://lt.wikipedia.org/w/index.php?title=Var%C4%97na&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:22:50.766021+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"9309c18674ff792fab01eafada0b6c78dffeccaf4000892bb9b0fecaac543198","version_pk":"7e06121d2a6ce2a3fd3ce755d244c47c"}},"source_buttons":[{"label":"Vikipedija","title":"Varėna","url":"https://lt.wikipedia.org/wiki/Var%C4%97na","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Varėna","url":"https://www.vle.lt/straipsnis/varena/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Var%C4%97na","https://www.vle.lt/straipsnis/varena/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Husitai","claim_id":"t-172102","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-172037","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-172035","confidence":0.84},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-41367","confidence":0.74}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
 object_page_finisher: 'true'
@@ -49,6 +38,15 @@ object_page_seo_description: 'Varėna: 1—2 d. lenkai sumušė mūsų kariuomen
 object_page_seo_input_hash: eafb354fefecbadda609fbabfa5ef8a4d7e1acdce0cffbc44caeb15e0e5f2306
 object_page_seo_generated_at: '2026-09-20T13:31:00+00:00'
 object_page_seo_policy_version: object-page-policy/v7
+entity_id: "ent-f8281d2adc7efe2463b960ed"
+canonical_name: "Varėna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varėna"]
+sameAs: ["https://www.wikidata.org/entity/Q835843"]
+canonical_biography: "1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį. 7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir. Lenkų vyriausybė apsimetė nieko apie tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems klausimams išspręsti."
+place_authority: true
+historical_names: []
 ---
 # Varėna
 
@@ -58,85 +56,31 @@ object_page_seo_policy_version: object-page-policy/v7
 
 ## Teiginiai
 
-<a id="claim-t-172033"></a>
-- t-001
-  teiginys: "Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alytus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varėna: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Alytus: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varėna\" parinktas kaip owner_note_path. Targetas \"Alytus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-43965
-
-<a id="claim-t-172035"></a>
-- t-002
-  teiginys: "Spalio 3 d. Lenkijos pajėgos užėmė Varėnos stotį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Varėna: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Varėna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad lenkai užėmė Varėnos stotį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lenkai užėmė Varėna (0.84)"
-  pagrindžia:
-    - c-156468
-
-<a id="claim-t-172037"></a>
-- t-003
-  teiginys: "Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bastūnai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Bastūnų stotis liko lenkų pusėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Varėna priklausė Lenkai (0.82); Bastūnai priklausė Lenkai (0.82)"
-  pagrindžia:
-    - c-43964
-
-<a id="claim-t-172038"></a>
-- t-004
-  teiginys: "Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varėna: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varėna\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-156467
-
-<a id="claim-t-205476"></a>
-- t-005
-  teiginys: "Ik i šiol galima pastebėti tokias kepures turint lietuvius kai miečius, gyvenančius tarp Kauno ir Varėnos."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-233772"></a>
+- t-233772
+  teiginys: "Teodoras Narbutas rašo, kad Švitrigailos šalininkų padedamas priešas žinojo krašto kariuomenės veiksmus, per Eišiškes ir Varėną pasuko prie Nemuno ties Pervalku ir ten persikėlė."
+  atnaujinta: "2026-10-14 10:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
   pagrindžia:
-    - c-187766
+    - c-216592
+
+<a id="claim-t-233773"></a>
+- t-233773
+  teiginys: "Teodoras Narbutas Varėną, Dubičius, Eišiškes, Šalčininkus, Birštoną ir Daugus apibūdina kaip anuomet garsius valsčius ir mėgstamas kaimiško gyvenimo vietas, tai grįsdamas kryžiuočiams rašytų laiškų datomis."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:46Z"
+  pagrindžia:
+    - c-216593
 
 ## Citatos
 
@@ -159,8 +103,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-43965
   sudarytojas: "Karolis Zikaras"
@@ -177,8 +119,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-156467
   sudarytojas: "Karolis Zikaras"
@@ -197,8 +137,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-156468
   sudarytojas: "Karolis Zikaras"
@@ -218,8 +156,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-187766
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -239,5 +175,28 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+
+- id: c-216592
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 113."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233772
+
+- id: c-216593
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 444"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 444."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindžia:
+    - t-233773
+

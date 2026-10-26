@@ -2,12 +2,23 @@
 tipas: vieta
 pavadinimas: 'Kazanė'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1666 m.'
+  - '1837 m.'
+date_start: '1666'
+date_end: '1837'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
+  - karalius
+  - kunigaikštis
   - vieta
+amziai:
+  - 'XVII'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +52,7 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 <a id="claim-t-36295"></a>
 - t-001
   teiginys: "Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,6 +64,19 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38515
+
+<a id="claim-t-233504"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Bazilijaus sūnus savo namuose nebuvo saugus nuo artimų kunigaikščių ir Kazanės totorių."
+  atnaujinta: "2026-10-14 10:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-10-14T06:37:39Z"
+  pagrindžia:
+    - c-216324
 
 ## Citatos
 
@@ -78,3 +102,15 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-216324
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.)"
+  puslapiai: "PDF 410-411"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.), PDF 410-411."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-14 09:40"
+  pagrindzia:
+    - t-002
