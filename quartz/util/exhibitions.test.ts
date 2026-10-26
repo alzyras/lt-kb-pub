@@ -72,8 +72,15 @@ describe("exhibition manifest", () => {
         }
       }
       for (const item of family.sections.flatMap(section => section.items))
-        for (const link of item.objectLinks ?? [])
-          assert.ok(sourcePath(link.href), `${item.titleLt}: missing related object ${link.href}`)
+        for (const link of item.objectLinks ?? []) {
+          if (link.href.startsWith("https://")) {
+            assert.ok(members.some(member => member.href === link.href && member.sources.some(source => source.url === link.href)), `${item.titleLt}: fallback must be the same person's cited source`)
+          } else if (link.href.startsWith(`/${family.slug}#`)) {
+            assert.equal(link.href, `/${family.slug}#${item.exhibitionItemId}`)
+          } else {
+            assert.ok(sourcePath(link.href), `${item.titleLt}: missing related object ${link.href}`)
+          }
+        }
     }
   })
   const historical = exhibitions.find(

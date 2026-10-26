@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto"
 import assert from "node:assert/strict"
 import fs from "node:fs"
 import path from "node:path"
@@ -111,14 +112,21 @@ test("sourced biographies are discoverable without manufacturing quotation recor
 test("keeps every Vytautas claim, canonical citation, and significant mention reachable", () => {
   const source = path.join(process.cwd(), "objektai/asmenys/Vytautas.md")
   if (!fs.existsSync(source)) return
-  const evidence = objectDetailEvidence(fs.readFileSync(source, "utf8"))
-  // Counts match the current DB-projected public snapshot. Quarantined,
-  // superseded, or removed legacy records are not restored to match an older
-  // page snapshot.
-  assert.equal(evidence.claims.length, 373)
-  assert.equal(evidence.citations.size, 312)
-  assert.equal(evidence.citationRecords.filter((record) => record.significantMention).length, 30)
-  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 45)
+  const markdown = fs.readFileSync(source, "utf8")
+  const projection = JSON.parse(fs.readFileSync("public-projection-manifest.json", "utf8"))
+  assert.equal(projection.source, "postgresql:lithuanianhistory.workflow")
+  assert.equal(createHash("sha256").update(markdown).digest("hex"), projection.files["objektai/asmenys/Vytautas.md"].rendered_hash)
+  const section = (name: string) => (markdown.split(`## ${name}\n`)[1] ?? "").split(/\n## /)[0]
+  const rowIds = (text: string) => [...text.matchAll(/^- (?:id: )?([ct]-\d+)\s*$/gm)].map(match => match[1])
+  const rawClaimAnchors = [...section("Teiginiai").matchAll(/^<a id="claim-(t-\d+)"><\/a>$/gm)]
+  const significantRows = rowIds(section("Reikšmingi paminėjimai"))
+  const citationRows = [...rowIds(section("Citatos")), ...significantRows].filter(id => id.startsWith("c-"))
+  const linkedCitations = new Set([...section("Teiginiai").matchAll(/^    - (c-\d+)\s*$/gm)].map(match => match[1]))
+  const evidence = objectDetailEvidence(markdown)
+  assert.equal(evidence.claims.length, rawClaimAnchors.length)
+  assert.equal(evidence.citations.size, new Set(citationRows).size)
+  assert.equal(evidence.citationRecords.filter(record => record.significantMention).length, significantRows.length)
+  assert.equal(evidence.citationRecords.filter(record => record.standalone).length, citationRows.filter(id => !linkedCitations.has(id)).length)
 })
 
 test("collapses duplicate quote displays but preserves distinct sources, pages and records", () => {

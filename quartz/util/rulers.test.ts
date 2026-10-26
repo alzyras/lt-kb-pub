@@ -7,7 +7,7 @@ import { slugifyFilePath } from "./path"
 
 const rulers = loadRulers()
 const exhibition = JSON.parse(fs.readFileSync("quartz/static/exhibitionRulers.json", "utf8")).exhibitions[0]
-test("one canonical biography covers every ruler and the cross-union reign", () => {
+test("every ruler keeps provenance and a published biography or exact curated story", () => {
   assert.equal(rulers.length, 33)
   assert.equal(new Set(rulers.map(r => r.id)).size, 33)
   assert.equal(new Set(rulers.map(r => r.objectSlug)).size, 33)
@@ -32,13 +32,22 @@ test("one canonical biography covers every ruler and the cross-union reign", () 
     assert.deepEqual(item.externalSources, ruler.sources)
     assert.equal(item.claimCodes.length, 0, "encyclopedia provenance must not invent local book claims")
     for (const source of ruler.sources) assert.equal(new URL(source.url).protocol, "https:")
+    assert.ok(fs.existsSync(`quartz${ruler.media.displayUrl}`))
+    assert.ok(ruler.media.focalPoint && ruler.media.license && ruler.imageNote)
+    const projection = JSON.parse(fs.readFileSync("public-projection-manifest.json", "utf8"))
+    assert.equal(projection.source, "postgresql:lithuanianhistory.workflow")
+    assert.equal(ruler.biographyAvailable, Object.hasOwn(projection.files, ruler.notePath))
+    if (!ruler.biographyAvailable) {
+      assert.equal(ruler.href, `/${rulerExhibitionSlug}#${ruler.id}`)
+      assert.equal(fs.existsSync(ruler.notePath), false)
+      continue
+    }
+    assert.equal(ruler.href, `/${ruler.objectSlug}`)
     const fm = matter(fs.readFileSync(ruler.notePath, "utf8")).data
     const wiki = JSON.parse(fm.object_page_view_json).wiki
     assert.equal(wiki.status, "published")
     assert.ok(wiki.intro.length > 100)
     assert.equal(JSON.parse(fm.media_primary_json).mediaId, ruler.media.mediaId)
-    assert.ok(fs.existsSync(`quartz${ruler.media.displayUrl}`))
-    assert.ok(ruler.media.focalPoint && ruler.media.license && ruler.imageNote)
   }
 })
 test("all eight homepage places have a sourced introduction and reviewed local image", () => {

@@ -1,0 +1,110 @@
+{
+  "status": "resource_blocked_review_candidate",
+  "built_source_tree": "74be9f1cecf958888386b1c7be64e19d89863131",
+  "product_files_unchanged_after_that_build": true,
+  "source_archive_sha256": "101dc68eff46f795274c49bdc49773bef935ffcae8ade6e9eb283b1904d478af",
+  "full_build_report": {
+    "schemaVersion": 1,
+    "runId": "499515f5-bdd3-4d5d-92b1-e41139ca26f8",
+    "parentRunId": null,
+    "mode": "full",
+    "status": "failed",
+    "result": "failed",
+    "outputRoot": "/work/public",
+    "startedAt": "2026-10-26T11:38:10.539Z",
+    "updatedAt": "2026-10-26T11:52:45.917Z",
+    "currentStage": "quartz-build",
+    "reportPath": "/work/.cache/site-regenerate/targets/801f23cd5931ec8f2a73fd66/latest-build.json",
+    "stages": [
+      {
+        "name": "target-validation",
+        "status": "success",
+        "durationMs": 4
+      },
+      {
+        "name": "input-fingerprint",
+        "status": "success",
+        "durationMs": 14595,
+        "inputCount": 19718
+      },
+      {
+        "name": "output-integrity",
+        "status": "skipped",
+        "reason": "Output is checked after a build because there is no reusable auto-build state.",
+        "durationMs": 0
+      },
+      {
+        "name": "verify_db_export_manifest",
+        "status": "success",
+        "durationMs": 1424,
+        "exitCode": 0
+      },
+      {
+        "name": "audit_evidence_matches",
+        "status": "success",
+        "durationMs": 7562,
+        "exitCode": 0
+      },
+      {
+        "name": "unit-tests",
+        "status": "success",
+        "durationMs": 88025,
+        "exitCode": 0
+      },
+      {
+        "name": "typescript",
+        "status": "success",
+        "durationMs": 25587,
+        "exitCode": 0
+      },
+      {
+        "name": "verify_relations_integrity",
+        "status": "success",
+        "durationMs": 14336,
+        "exitCode": 0
+      },
+      {
+        "name": "quartz-build",
+        "status": "failed",
+        "durationMs": 706334,
+        "error": "quartz-build terminated by SIGABRT",
+        "exitCode": 1
+      }
+    ],
+    "fallbackReasons": [],
+    "inputFingerprint": "aa79f4e2000eca074c0985e2fd300a605e2c3ef9995b0e66c151b6e874950ac5",
+    "brokenInputSymlinks": [
+      {
+        "path": "content/paveikslėliai",
+        "target": "../paveikslėliai"
+      }
+    ],
+    "error": "quartz-build failed: quartz-build terminated by SIGABRT",
+    "totalDurationMs": 875417,
+    "finishedAt": "2026-10-26T11:52:45.915Z"
+  },
+  "passed_checks": {
+    "tests": 352,
+    "typescript": true,
+    "evidence_audit": true,
+    "certified_postgresql_manifest_paths": 18979,
+    "relation_integrity_issues": 0
+  },
+  "resource_limit": {
+    "node_heap_mib": 8192,
+    "cgroup_memory_gib": 12,
+    "parser_concurrency": 1,
+    "storage": "owned disk-backed Docker volume",
+    "quartz_duration_seconds": 706,
+    "observed_live_heap_mib": 8039
+  },
+  "rollback": {
+    "public_site_published": false,
+    "canonical_public_checkout_modified": false,
+    "main_base": "11c2333d6b4652432e36c48b0975c42f8ceede01",
+    "checkpoint": "de2b68208f35c96a1d10660cd4643b2c06d73e10",
+    "pg_projection_history": "19fced637e835296a4199f111de3e53ed16dd3b6"
+  },
+  "preserved_local_exports_archive": "0b145cf04f1998d84fb01d42f9e1a03668520875",
+  "database_copies_created": 0
+}

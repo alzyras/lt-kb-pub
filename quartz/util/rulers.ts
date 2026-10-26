@@ -1,6 +1,7 @@
 import fs from "node:fs"
 import path from "node:path"
 import { MediaEntry } from "./objectMedia"
+import { hasPublishedObjectHref } from "./publicObjectRoutes"
 
 export type RulerEra = "ldk" | "atr"
 export type RulerSource = { title: string; url: string; revision?: number }
@@ -9,6 +10,8 @@ export type Ruler = {
   name: string
   objectSlug: string
   notePath: string
+  href: string
+  biographyAvailable: boolean
   years: string
   reigns: { start: number; end: number }[]
   eras: RulerEra[]
@@ -25,7 +28,10 @@ export const rulerEras: { id: RulerEra; title: string; dates: string; introducti
 ]
 let catalogue: Ruler[] | undefined
 export function loadRulers(): Ruler[] {
-  if (!catalogue) catalogue = JSON.parse(fs.readFileSync(path.resolve("quartz/static/rulersSource.json"), "utf8")).rulers
+  if (!catalogue) catalogue = JSON.parse(fs.readFileSync(path.resolve("quartz/static/rulersSource.json"), "utf8")).rulers.map((ruler: Ruler) => {
+    const biographyAvailable = hasPublishedObjectHref(`/${ruler.objectSlug}`)
+    return { ...ruler, biographyAvailable, href: biographyAvailable ? `/${ruler.objectSlug}` : `/${rulerExhibitionSlug}#${ruler.id}` }
+  })
   return catalogue!
 }
 export function rulersForEra(era: RulerEra): Ruler[] {

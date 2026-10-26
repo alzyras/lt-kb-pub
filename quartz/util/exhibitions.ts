@@ -12,6 +12,7 @@ import {
 } from "./citationFilter"
 import { mediaImageUrl, type MediaEntry } from "./objectMedia"
 import { resolveExhibitionNavigationMedia } from "./exhibitionMedia"
+import { publicObjectHref } from "./publicObjectRoutes"
 import { loadCanonicalMediaCatalog } from "./mediaCatalog"
 import { createUniqueSlugMap, type FilePath } from "./path"
 import { objectClaimHref, objectDetailEvidenceFromFile } from "./objectDetail"
@@ -354,6 +355,21 @@ export function loadExhibitionSlugs(): Set<string> {
     .flatMap(source => [source.slug, ...(source.legacySlugs ?? [])]))
 }
 
+function resolvePublishedObjectLinks(exhibition: ExhibitionManifest): ExhibitionManifest {
+  const replacements = new Map<string, string>()
+  const fallback = `/${exhibition.slug}`
+  const familyMembers = exhibition.familyMembers?.map(member => {
+    const href = publicObjectHref(member.href, member.sources, fallback)
+    replacements.set(member.href, href)
+    return { ...member, href }
+  })
+  return { ...exhibition, familyMembers, sections: exhibition.sections.map(section => ({
+    ...section, items: section.items.map(item => ({ ...item, objectLinks: item.objectLinks?.map(link => ({
+      ...link, href: replacements.get(link.href) ?? publicObjectHref(link.href, [], `${fallback}#${item.exhibitionItemId}`),
+    })) })),
+  })) }
+}
+
 export function loadExhibitions(): ExhibitionManifest[] {
   const mediaById = loadMediaCatalog()
   const claimsById = loadClaimRegistry()
@@ -361,6 +377,7 @@ export function loadExhibitions(): ExhibitionManifest[] {
   const exhibitions = sourcePaths
     .flatMap((path) => sourcePayload(path))
     .map((source) => resolveExhibition(source, mediaById, claimsById))
+    .map(resolvePublishedObjectLinks)
   const seenExhibitionIds = new Set<string>()
   const seenExhibitionSlugs = new Set<string>()
   const seenMediaIds = new Set<string>()

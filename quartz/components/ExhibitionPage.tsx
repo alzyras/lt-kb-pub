@@ -234,9 +234,12 @@ function Exhibit({
         {Boolean(item.objectLinks?.length) && (
           <nav class="exhibition-item-sources" aria-label="Susiję žmonės, vietos ir dokumentai">
             <ul>
-              {item.objectLinks!.map((link) => (
-                <li><a class="internal" href={link.href}>{link.title}</a></li>
-              ))}
+              {item.objectLinks!.map((link) => {
+                const external = /^https?:\/\//i.test(link.href)
+                return <li><a class={external ? "external" : "internal"} href={link.href}
+                  target={external ? "_blank" : undefined}
+                  rel={external ? "noopener noreferrer" : undefined}>{link.title}</a></li>
+              })}
             </ul>
           </nav>
         )}
