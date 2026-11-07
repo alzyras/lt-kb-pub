@@ -176,6 +176,33 @@ function wikiSourceLabel(source: ObjectPageModule): string {
   return "Vikipedija"
 }
 
+function infoboxCellSpan(value: unknown): number {
+  return Math.max(1, Math.min(100, Number(value) || 1))
+}
+
+function wikiInfoboxColumnCount(rows: ObjectPageModule[]): number {
+  const occupiedThrough: number[] = []
+  let maxColumns = 2
+  rows.forEach((row, rowIndex) => {
+    let column = 0
+    for (const cell of moduleRows(row.cells)) {
+      while ((occupiedThrough[column] ?? -1) >= rowIndex) column += 1
+      const colSpan = infoboxCellSpan(cell.colspan)
+      const rowSpan = infoboxCellSpan(cell.rowspan)
+      for (let offset = 0; offset < colSpan; offset += 1) {
+        const targetColumn = column + offset
+        occupiedThrough[targetColumn] = Math.max(
+          occupiedThrough[targetColumn] ?? -1,
+          rowIndex + rowSpan - 1,
+        )
+      }
+      column += colSpan
+    }
+    maxColumns = Math.max(maxColumns, column)
+  })
+  return maxColumns
+}
+
 function wikiModuleHasContent(module: ObjectPageModule | undefined): boolean {
   if (!module) return false
   const source =
@@ -184,7 +211,9 @@ function wikiModuleHasContent(module: ObjectPageModule | undefined): boolean {
       : {}
   return Boolean(
     cleanText(module.intro) ||
-    moduleRows(module.infobox).some((row) => cleanText(row.value)) ||
+    moduleRows(module.infobox).some(
+      (row) => cleanText(row.value) || moduleRows(row.cells).some((cell) => cleanText(cell.text)),
+    ) ||
     safeExternalUrl(source.url),
   )
 }
@@ -212,6 +241,8 @@ function WikipediaIntro({
   const infobox = moduleRows(module.infobox).filter(
     (row) => cleanText(row.value) || moduleRows(row.cells).some((cell) => cleanText(cell.text)),
   )
+  const infoboxColumnCount = wikiInfoboxColumnCount(infobox)
+  const wideInfobox = infoboxColumnCount > 4
   const wikiUrl = safeExternalUrl(source.url)
   if (!intro && infobox.length === 0 && !wikiUrl && !summary) return null
   const languageLabel = wikiSourceLabel(source)
@@ -231,8 +262,52 @@ function WikipediaIntro({
     (entry, index) => links.findIndex((candidate) => candidate.url === entry.url) === index,
   )
   const portraitUrl = heroImage(portrait)
-  const hasAside = infobox.length > 0
+  const hasAside = infobox.length > 0 && !wideInfobox
   const hasLinks = uniqueLinks.length > 0
+  const infoboxPanel = infobox.length > 0 && (
+    <div
+      class={`object-detail-wiki-infobox${wideInfobox ? " object-detail-wiki-infobox--wide" : ""}`}
+      data-column-count={infoboxColumnCount}
+    >
+      <p class="object-detail-wiki-infobox-label">Pagrindinė lentelė · {languageLabel}</p>
+      <div class="object-detail-wiki-table-wrap">
+        <table class="object-detail-wiki-table">
+          <tbody>
+            {infobox.map((row, rowIndex) => (
+              <tr key={`wikipedia-infobox-row-${rowIndex}`}>
+                {moduleRows(row.cells).length ? (
+                  moduleRows(row.cells).map((cell, cellIndex) => {
+                    const Tag = cell.header ? "th" : "td"
+                    return (
+                      <Tag
+                        colSpan={infoboxCellSpan(cell.colspan)}
+                        rowSpan={infoboxCellSpan(cell.rowspan)}
+                        scope={
+                          cell.header
+                            ? infoboxCellSpan(cell.colspan) > 1
+                              ? "colgroup"
+                              : "row"
+                            : undefined
+                        }
+                        key={`wikipedia-infobox-row-${rowIndex}-cell-${cellIndex}`}
+                      >
+                        {String(cell.text || "")}
+                      </Tag>
+                    )
+                  })
+                ) : (
+                  <>
+                    <th scope="row">{cleanText(row.label)}</th>
+                    <td>{cleanText(row.value)}</td>
+                  </>
+                )}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  )
   const attribution = (
     <p class="object-detail-wiki-attribution">
       {languageLabel}
@@ -267,7 +342,7 @@ function WikipediaIntro({
   )
   return (
     <section
-      class="object-detail-wiki"
+      class={`object-detail-wiki${hasAside ? "" : " object-detail-wiki--full-main"}`}
       id="vikipedija"
       aria-label="Apie objektą"
       data-object-panel="apzvalga"
@@ -308,50 +383,10 @@ function WikipediaIntro({
       </div>
       {hasAside && (
         <aside class="object-detail-wiki-aside" aria-label="Vikipedijos duomenys ir portretas">
-          {infobox.length > 0 && (
-            <div class="object-detail-wiki-infobox">
-              <p class="object-detail-wiki-infobox-label">Pagrindinė lentelė · {languageLabel}</p>
-              <div class="object-detail-wiki-table-wrap">
-                <table class="object-detail-wiki-table">
-                  <tbody>
-                    {infobox.map((row) => (
-                      <tr>
-                        {moduleRows(row.cells).length ? (
-                          moduleRows(row.cells).map((cell) => {
-                            const Tag = cell.header ? "th" : "td"
-                            const span = (value: unknown) =>
-                              Math.max(1, Math.min(100, Number(value) || 1))
-                            return (
-                              <Tag
-                                colSpan={span(cell.colspan)}
-                                rowSpan={span(cell.rowspan)}
-                                scope={
-                                  cell.header
-                                    ? span(cell.colspan) > 1
-                                      ? "colgroup"
-                                      : "row"
-                                    : undefined
-                                }
-                              >
-                                {String(cell.text || "")}
-                              </Tag>
-                            )
-                          })
-                        ) : (
-                          <>
-                            <th scope="row">{cleanText(row.label)}</th>
-                            <td>{cleanText(row.value)}</td>
-                          </>
-                        )}
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          )}
+          {infoboxPanel}
         </aside>
       )}
+      {wideInfobox && <div class="object-detail-wiki-wide-tables">{infoboxPanel}</div>}
       {(hasLinks || source.license || source.history_url || source.license_url) && (
         <footer class="object-detail-wiki-footer">
           {hasLinks && (
