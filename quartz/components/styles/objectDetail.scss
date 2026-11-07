@@ -248,6 +248,9 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   border-top: 4px solid var(--secondary);
   background: var(--object-wash);
 }
+.object-detail-wiki--full-main {
+  grid-template-columns: minmax(0, 1fr);
+}
 .object-detail-wiki-main {
   min-width: 0;
 }
@@ -370,6 +373,10 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   gap: 1rem;
   align-self: start;
 }
+.object-detail-wiki-wide-tables {
+  grid-column: 1 / -1;
+  min-width: 0;
+}
 .object-detail-wiki-origin,
 .object-detail-wiki-attribution,
 .object-detail-wiki-infobox-label {
@@ -481,6 +488,14 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   border-collapse: collapse;
   color: var(--darkgray);
   font-size: 0.88rem;
+}
+.object-detail-wiki-infobox--wide .object-detail-wiki-table {
+  min-width: 60rem;
+}
+.object-detail-wiki-infobox--wide .object-detail-wiki-table th,
+.object-detail-wiki-infobox--wide .object-detail-wiki-table td {
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 .object-detail-wiki-table th,
 .object-detail-wiki-table td {
