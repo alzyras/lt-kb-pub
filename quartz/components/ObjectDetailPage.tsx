@@ -242,7 +242,7 @@ function WikipediaIntro({
     (row) => cleanText(row.value) || moduleRows(row.cells).some((cell) => cleanText(cell.text)),
   )
   const infoboxColumnCount = wikiInfoboxColumnCount(infobox)
-  const wideInfobox = infoboxColumnCount > 4
+  const wideInfobox = infoboxColumnCount > 2
   const wikiUrl = safeExternalUrl(source.url)
   if (!intro && infobox.length === 0 && !wikiUrl && !summary) return null
   const languageLabel = wikiSourceLabel(source)
@@ -262,7 +262,7 @@ function WikipediaIntro({
     (entry, index) => links.findIndex((candidate) => candidate.url === entry.url) === index,
   )
   const portraitUrl = heroImage(portrait)
-  const hasAside = infobox.length > 0 && !wideInfobox
+  const hasAside = infobox.length > 0
   const hasLinks = uniqueLinks.length > 0
   const infoboxPanel = infobox.length > 0 && (
     <div
@@ -270,7 +270,12 @@ function WikipediaIntro({
       data-column-count={infoboxColumnCount}
     >
       <p class="object-detail-wiki-infobox-label">Pagrindinė lentelė · {languageLabel}</p>
-      <div class="object-detail-wiki-table-wrap">
+      <div
+        class="object-detail-wiki-table-wrap"
+        tabIndex={wideInfobox ? 0 : undefined}
+        role={wideInfobox ? "region" : undefined}
+        aria-label={wideInfobox ? "Vikipedijos lentelė, slenkama horizontaliai" : undefined}
+      >
         <table class="object-detail-wiki-table">
           <tbody>
             {infobox.map((row, rowIndex) => (
@@ -386,7 +391,6 @@ function WikipediaIntro({
           {infoboxPanel}
         </aside>
       )}
-      {wideInfobox && <div class="object-detail-wiki-wide-tables">{infoboxPanel}</div>}
       {(hasLinks || source.license || source.history_url || source.license_url) && (
         <footer class="object-detail-wiki-footer">
           {hasLinks && (

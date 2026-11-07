@@ -373,10 +373,6 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   gap: 1rem;
   align-self: start;
 }
-.object-detail-wiki-wide-tables {
-  grid-column: 1 / -1;
-  min-width: 0;
-}
 .object-detail-wiki-origin,
 .object-detail-wiki-attribution,
 .object-detail-wiki-infobox-label {
@@ -481,6 +477,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   text-transform: uppercase;
 }
 .object-detail-wiki-table-wrap {
+  max-width: 100%;
   overflow-x: auto;
 }
 .object-detail-wiki-table {
@@ -489,13 +486,20 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   color: var(--darkgray);
   font-size: 0.88rem;
 }
-.object-detail-wiki-infobox--wide .object-detail-wiki-table {
-  min-width: 60rem;
+.object-detail-page .object-detail-wiki-infobox--wide .object-detail-wiki-table {
+  width: max-content;
+  min-width: 100%;
+  max-width: none;
+  table-layout: auto;
 }
-.object-detail-wiki-infobox--wide .object-detail-wiki-table th,
-.object-detail-wiki-infobox--wide .object-detail-wiki-table td {
-  overflow-wrap: break-word;
+.object-detail-page .object-detail-wiki-infobox--wide .object-detail-wiki-table :is(th, td) {
+  width: auto;
+  min-width: 6.5rem;
+  max-width: 24rem;
+  white-space: normal;
+  overflow-wrap: normal;
   word-break: normal;
+  hyphens: none;
 }
 .object-detail-wiki-table th,
 .object-detail-wiki-table td {
