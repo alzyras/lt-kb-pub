@@ -1,3 +1,11 @@
+import {
+  selectCollectionSpotlightItems,
+  validCollectionSpotlightData,
+  type CollectionSpotlightClaim,
+  type CollectionSpotlightItem,
+  type CollectionSpotlightObject,
+} from "../../util/homeCollectionSpotlight"
+
 type ContentMetaEntry = {
   slug?: string
   title?: string
@@ -26,26 +34,6 @@ type CollectionObjectItem = {
   originalIndex: number
 }
 
-type CollectionSpotlightClaim = {
-  id: string
-  text: string
-  source?: string
-  contributor?: string
-}
-
-type CollectionSpotlightObject = {
-  title: string
-  slug: string
-  typeLabel: string
-  claimCount: number
-  claims: CollectionSpotlightClaim[]
-}
-
-type CollectionSpotlightSelection = {
-  object: CollectionSpotlightObject
-  claims: CollectionSpotlightClaim[]
-}
-
 type CollectionSearchRuntime = Window & {
   loadContentMeta?: () => Promise<ContentMetaIndex>
   spaNavigate?: (url: URL) => void
@@ -69,7 +57,7 @@ const collectionObjectTypeByValue = new Map(collectionObjectTypes.map((type) => 
 
 let collectionObjectItemsPromise: Promise<CollectionObjectItem[]> | undefined
 let collectionSpotlightObjectsPromise: Promise<CollectionSpotlightObject[]> | undefined
-let collectionSpotlightSelection: CollectionSpotlightSelection | undefined
+let collectionSpotlightSelection: CollectionSpotlightItem[] | undefined
 
 function normalizeCollectionSearchText(value: string): string {
   return value
@@ -200,55 +188,16 @@ function collectionRandomIndex(length: number): number {
   return Math.floor(Math.random() * length)
 }
 
-function collectionShuffle<T>(items: T[]): T[] {
-  const copy = [...items]
-  for (let index = copy.length - 1; index > 0; index -= 1) {
-    const swapIndex = collectionRandomIndex(index + 1)
-    ;[copy[index], copy[swapIndex]] = [copy[swapIndex], copy[index]]
-  }
-  return copy
-}
-
 function collectionClaimHref(
-  object: CollectionSpotlightObject,
+  object: Pick<CollectionSpotlightObject, "slug">,
   claim: CollectionSpotlightClaim,
 ): string {
   return `${collectionObjectHref(object.slug)}irodymai#claim-${claim.id}`
 }
 
-function validCollectionSpotlightData(value: unknown): CollectionSpotlightObject[] {
-  if (!Array.isArray(value)) return []
-  return value.filter((object): object is CollectionSpotlightObject =>
-    Boolean(
-      object &&
-      typeof object === "object" &&
-      typeof (object as CollectionSpotlightObject).title === "string" &&
-      typeof (object as CollectionSpotlightObject).slug === "string" &&
-      Array.isArray((object as CollectionSpotlightObject).claims) &&
-      (object as CollectionSpotlightObject).claims.length >= 10,
-    ),
-  )
-}
-
-function parseCollectionSpotlightData(host: HTMLElement): CollectionSpotlightObject[] {
-  const data = host.querySelector<HTMLScriptElement>("[data-collection-spotlight-data]")
-  if (!data?.textContent) {
-    return []
-  }
-
-  try {
-    return validCollectionSpotlightData(JSON.parse(data.textContent))
-  } catch {
-    return []
-  }
-}
-
 function loadCollectionSpotlightData(host: HTMLElement): Promise<CollectionSpotlightObject[]> {
-  const inline = parseCollectionSpotlightData(host)
-  if (inline.length) return Promise.resolve(inline)
   if (collectionSpotlightObjectsPromise) return collectionSpotlightObjectsPromise
-  const url = host.querySelector<HTMLElement>("[data-collection-spotlight-url]")?.dataset
-    .collectionSpotlightUrl
+  const url = host.dataset.collectionSpotlightUrl
   if (!url) return Promise.resolve([])
   collectionSpotlightObjectsPromise = fetch(url, { cache: "force-cache" })
     .then((response) => (response.ok ? response.json() : []))
@@ -273,25 +222,13 @@ function collectionSpotlightSourceText(claim: CollectionSpotlightClaim): string 
   return ""
 }
 
-async function pickCollectionSpotlight(
-  host: HTMLElement,
-): Promise<CollectionSpotlightSelection | undefined> {
-  if (collectionSpotlightSelection && !parseCollectionSpotlightData(host).length) {
+async function pickCollectionSpotlight(host: HTMLElement): Promise<CollectionSpotlightItem[]> {
+  if (collectionSpotlightSelection) {
     return collectionSpotlightSelection
   }
 
   const objects = await loadCollectionSpotlightData(host)
-  const object = objects[collectionRandomIndex(objects.length)]
-  if (!object) {
-    return undefined
-  }
-
-  const claims = parseCollectionSpotlightData(host).length ? object.claims.slice(0, 10) : collectionShuffle(object.claims).slice(0, 10)
-  if (claims.length === 0) {
-    return undefined
-  }
-
-  collectionSpotlightSelection = { object, claims }
+  collectionSpotlightSelection = selectCollectionSpotlightItems(objects, 10, collectionRandomIndex)
   return collectionSpotlightSelection
 }
 
@@ -310,7 +247,15 @@ async function setupCollectionClaimSpotlight() {
     const type = host.querySelector<HTMLElement>("[data-collection-spotlight-type]")
     const count = host.querySelector<HTMLElement>("[data-collection-spotlight-count]")
 
-    if (!selection || !objectLink || !claimLink || !source || !dots || !type || !count) {
+    if (
+      selection.length === 0 ||
+      !objectLink ||
+      !claimLink ||
+      !source ||
+      !dots ||
+      !type ||
+      !count
+    ) {
       host.hidden = true
       continue
     }
@@ -348,23 +293,23 @@ async function setupCollectionClaimSpotlight() {
         window.clearTimeout(cycleTimer)
       }
       cycleTimer = window.setTimeout(() => {
-        showClaim((activeIndex + 1) % selection.claims.length)
+        showClaim((activeIndex + 1) % selection.length)
       }, cycleDelay)
     }
 
     function showClaim(nextIndex: number) {
       clearTimers()
-      activeIndex = (nextIndex + activeSelection.claims.length) % activeSelection.claims.length
-      const claim = activeSelection.claims[activeIndex]
-      const href = collectionClaimHref(activeSelection.object, claim)
+      activeIndex = (nextIndex + activeSelection.length) % activeSelection.length
+      const { object, claim } = activeSelection[activeIndex]
+      const href = collectionClaimHref(object, claim)
 
-      activeObjectLink.textContent = activeSelection.object.title
-      activeObjectLink.href = collectionObjectHref(activeSelection.object.slug)
+      activeObjectLink.textContent = object.title
+      activeObjectLink.href = collectionObjectHref(object.slug)
       activeClaimLink.href = href
       activeSource.textContent = collectionSpotlightSourceText(claim)
       activeSource.hidden = false
-      activeType.textContent = activeSelection.object.typeLabel
-      activeCount.textContent = `${collectionFormatNumber(activeSelection.object.claimCount)} teig.`
+      activeType.textContent = object.typeLabel
+      activeCount.textContent = `${collectionFormatNumber(object.claimCount)} teig.`
 
       activeDots.querySelectorAll<HTMLButtonElement>("button").forEach((dot, index) => {
         const active = index === activeIndex
@@ -382,13 +327,17 @@ async function setupCollectionClaimSpotlight() {
         length = Math.min(chars.length, length + 2)
         activeClaimLink.textContent = chars.slice(0, length).join("")
         if (length < chars.length) typingTimer = window.setTimeout(tick, 18)
-        else { typing = false; activeClaimLink.classList.remove("is-typing"); scheduleNext() }
+        else {
+          typing = false
+          activeClaimLink.classList.remove("is-typing")
+          scheduleNext()
+        }
       }
       tick()
     }
 
     activeDots.replaceChildren()
-    activeSelection.claims.forEach((_, index) => {
+    activeSelection.forEach((_, index) => {
       const dot = document.createElement("button")
       dot.type = "button"
       dot.className = "collection-spotlight-dot"
@@ -423,14 +372,14 @@ async function setupCollectionClaimSpotlight() {
       if (pauseButton) pauseButton.textContent = manualPause ? "Tęsti" : "Pristabdyti"
       if (manualPause) {
         clearTimers()
-        activeClaimLink.textContent = activeSelection.claims[activeIndex].text
+        activeClaimLink.textContent = activeSelection[activeIndex].claim.text
         activeClaimLink.classList.remove("is-typing")
       } else scheduleNext()
     }
     const onMotionChange = () => {
       if (reducedMotion.matches) {
         clearTimers()
-        activeClaimLink.textContent = activeSelection.claims[activeIndex].text
+        activeClaimLink.textContent = activeSelection[activeIndex].claim.text
         activeClaimLink.classList.remove("is-typing")
       } else scheduleNext()
     }

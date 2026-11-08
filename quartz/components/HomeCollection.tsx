@@ -14,6 +14,7 @@ import {
   selectHomeCollectionCandidates,
   type HomeCollectionCandidate,
 } from "../util/homeCollectionSelection"
+import type { CollectionSpotlightObject } from "../util/homeCollectionSpotlight"
 import { buildMediaCatalog, mediaEntriesByObject } from "../util/mediaCatalog"
 import { cleanText, displayCaption, objectMediaSet, type MediaEntry } from "../util/objectMedia"
 import { FullSlug, resolveRelative } from "../util/path"
@@ -52,21 +53,6 @@ type MediaObjectCard = ObjectCard &
 type HighlightPreference = {
   slug: FullSlug
   preferredMediaTitle?: string
-}
-
-type SpotlightClaim = {
-  id: string
-  text: string
-  source?: string
-  contributor?: string
-}
-
-type SpotlightObject = {
-  title: string
-  slug: FullSlug
-  typeLabel: string
-  claimCount: number
-  claims: SpotlightClaim[]
 }
 
 type BrowseLink = {
@@ -408,12 +394,15 @@ function claimSupportIds(block: string): string[] {
   return [...match[1].matchAll(/-\s+(c-\d+)/g)].map((support) => support[1])
 }
 
-function spotlightClaims(markdown: string, preferredIds: string[] = []): SpotlightClaim[] {
+function spotlightClaims(
+  markdown: string,
+  preferredIds: string[] = [],
+): CollectionSpotlightObject["claims"] {
   const claimsSection = sectionMarkdown(markdown, "Teiginiai")
   const citations = citationSources(markdown)
   const claimRegex =
     /<a id="claim-(t-\d+)"><\/a>\s*\n-\s+t-\d+\s*\n([\s\S]*?)(?=\n<a id="claim-t-\d+"><\/a>|\n-\s+susijęs iš|\s*$)/g
-  const claims: SpotlightClaim[] = []
+  const claims: CollectionSpotlightObject["claims"] = []
   const seen = new Set<string>()
 
   for (const match of claimsSection.matchAll(claimRegex)) {
@@ -441,14 +430,17 @@ function spotlightClaims(markdown: string, preferredIds: string[] = []): Spotlig
     const claimsById = new Map(claims.map((claim) => [claim.id, claim]))
     const selected = preferredIds
       .map((id) => claimsById.get(id))
-      .filter((claim): claim is SpotlightClaim => Boolean(claim))
+      .filter((claim): claim is CollectionSpotlightObject["claims"][number] => Boolean(claim))
     if (selected.length > 0) return selected
   }
 
   return claims
 }
 
-function claimPool(claims: SpotlightClaim[], limit: number): SpotlightClaim[] {
+function claimPool(
+  claims: CollectionSpotlightObject["claims"],
+  limit: number,
+): CollectionSpotlightObject["claims"] {
   if (claims.length <= limit) {
     return claims
   }
@@ -459,10 +451,12 @@ function claimPool(claims: SpotlightClaim[], limit: number): SpotlightClaim[] {
   })
 }
 
-export function buildHomeCollectionSpotlight(allFiles: QuartzPluginData[]): SpotlightObject[] {
+export function buildHomeCollectionSpotlight(
+  allFiles: QuartzPluginData[],
+): CollectionSpotlightObject[] {
   return allFiles
     .filter(isObjectPage)
-    .map((page): SpotlightObject | undefined => {
+    .map((page): CollectionSpotlightObject | undefined => {
       const markdown = markdownFor(page)
       const claimCount = collectClaimCount(markdown)
       if (claimCount <= 30) {
@@ -486,7 +480,7 @@ export function buildHomeCollectionSpotlight(allFiles: QuartzPluginData[]): Spot
         claims,
       }
     })
-    .filter((entry): entry is SpotlightObject => Boolean(entry))
+    .filter((entry): entry is CollectionSpotlightObject => Boolean(entry))
 }
 
 function objectCountText(count: number): string {
@@ -801,9 +795,10 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
 
   const groups = browseGroups(allFiles, typeCounts)
   const spotlight = buildHomeCollectionSpotlight(allFiles)
-  const seed = spotlight.find((entry) => entry.slug.endsWith("/Gediminas")) ?? spotlight[0]
+  const seed = spotlight[0]
   const seedClaims = seed?.claims.slice(0, 10) ?? []
-  const seedSource = (claim: SpotlightClaim) => [claim.contributor, claim.source ? `Šaltinis: ${claim.source}` : ""].filter(Boolean).join(" / ")
+  const seedSource = (claim: CollectionSpotlightObject["claims"][number]) =>
+    [claim.contributor, claim.source ? `Šaltinis: ${claim.source}` : ""].filter(Boolean).join(" / ")
   const objectTotal = [...typeCounts.values()].reduce((sum, count) => sum + count, 0)
   const claimTotal = cards.reduce((sum, card) => sum + card.claimCount, 0)
   const quoteTotal = cards.reduce((sum, card) => sum + card.quoteCount, 0)
@@ -827,27 +822,67 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
             <section
               class="collection-hero-spotlight"
               data-collection-claim-spotlight="true"
+              data-collection-spotlight-url={resolveRelative(
+                currentSlug,
+                "static/collectionSpotlight.json" as FullSlug,
+              )}
             >
-              <script type="application/json" data-collection-spotlight-data dangerouslySetInnerHTML={{ __html: JSON.stringify([{...seed, claims: seedClaims}]).replaceAll("<", "\\u003c") }} />
               <p class="collection-spotlight-kicker">
                 <span data-collection-spotlight-type>{seed?.typeLabel}</span>
                 <span data-collection-spotlight-count>{seed?.claimCount} teig.</span>
               </p>
-              <a class="collection-spotlight-object" href={`/${seed?.slug}`} data-collection-spotlight-object>{seed?.title}</a>
+              <a
+                class="collection-spotlight-object"
+                href={`/${seed?.slug}`}
+                data-collection-spotlight-object
+              >
+                {seed?.title}
+              </a>
               <div class="collection-claim-stage">
-                {seedClaims.map((claim) => <span class="collection-spotlight-claim collection-measure" aria-hidden="true">{claim.text}</span>)}
-                <a class="collection-spotlight-claim" href={`/${seed?.slug}/irodymai#claim-${seedClaims[0]?.id}`} data-collection-spotlight-claim>{seedClaims[0]?.text}</a>
+                {seedClaims.map((claim) => (
+                  <span class="collection-spotlight-claim collection-measure" aria-hidden="true">
+                    {claim.text}
+                  </span>
+                ))}
+                <a
+                  class="collection-spotlight-claim"
+                  href={`/${seed?.slug}/irodymai#claim-${seedClaims[0]?.id}`}
+                  data-collection-spotlight-claim
+                >
+                  {seedClaims[0]?.text}
+                </a>
               </div>
               <div class="collection-source-stage">
-                {seedClaims.map((claim) => <p class="collection-spotlight-source collection-measure" aria-hidden="true">{seedSource(claim)}</p>)}
-                <p class="collection-spotlight-source" data-collection-spotlight-source>{seedClaims[0] && seedSource(seedClaims[0])}</p>
+                {seedClaims.map((claim) => (
+                  <p class="collection-spotlight-source collection-measure" aria-hidden="true">
+                    {seedSource(claim)}
+                  </p>
+                ))}
+                <p class="collection-spotlight-source" data-collection-spotlight-source>
+                  {seedClaims[0] && seedSource(seedClaims[0])}
+                </p>
               </div>
               <div
                 class="collection-spotlight-dots"
                 aria-label="Teiginių pasirinkimas"
                 data-collection-spotlight-dots
-              >{seedClaims.map((_, i) => <button type="button" class="collection-spotlight-dot" aria-label={`Rodyti ${i + 1} teiginį`} />)}</div>
-              <button type="button" class="collection-spotlight-pause" data-collection-pause aria-pressed="false">Pristabdyti</button>
+              >
+                {seedClaims.map((_, i) => (
+                  <button
+                    type="button"
+                    class="collection-spotlight-dot"
+                    aria-label={`Rodyti ${i + 1} teiginį`}
+                  />
+                ))}
+              </div>
+              <button
+                type="button"
+                class="collection-spotlight-pause"
+                data-collection-pause
+                aria-pressed="false"
+              >
+                Pristabdyti
+              </button>
             </section>
           )}
           <form
@@ -1014,8 +1049,6 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
           <a href={resolveRelative(currentSlug, "zemelapis" as FullSlug)}>Žemėlapis</a>
         </nav>
       </section>
-
-
     </div>
   )
 }
