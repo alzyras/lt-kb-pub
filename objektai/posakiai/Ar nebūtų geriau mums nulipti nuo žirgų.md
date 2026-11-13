@@ -30,14 +30,9 @@ Jaščioldas mūšio metu siūlo nulipti nuo žirgų ir garbę ginti krauju.
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    mišką, bet vis dėlto neteko daug karių, o Fiodoras Dmitri-
-    jevičius, narsiai puolęs, buvo sužeistas ir mirė prie Narevo
-    upės. Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
-    nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,
-    tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­
-    gę pataikyti savo krauju".
-  citata_rodoma: ''
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  citatos_rezimas: "indeksas"
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -45,21 +40,11 @@ Jaščioldas mūšio metu siūlo nulipti nuo žirgų ir garbę ginti krauju.
 
 ## Citatos
 
-- id: c-175000
+- id: c-196668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 130"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
-  citata_originali: |
-    Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
-      nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,
-      tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­
-      gę pataikyti savo krauju".
-  citata_rodoma: "Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums\n  nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,\n  tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­\n  gę pataikyti savo krauju\"."
+  citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
+  atnaujinta: "2026-09-12 23:39"

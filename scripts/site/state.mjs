@@ -3,7 +3,7 @@ import { execFileSync } from "node:child_process"
 import { lstat, readFile, readlink, readdir, realpath, stat } from "node:fs/promises"
 import path from "node:path"
 
-export const STATE_SCHEMA_VERSION = 4
+export const STATE_SCHEMA_VERSION = 5
 export const INPUTS_SCHEMA_VERSION = 1
 
 const INPUT_DIRECTORIES = ["content", "quartz"]
@@ -432,6 +432,13 @@ export async function fingerprintTree(directory) {
   )
   records.sort((left, right) => comparePaths(left.path, right.path))
   metadataRecords.sort((left, right) => comparePaths(left.path, right.path))
+  if (process.platform === "win32") {
+    const hashes = new Map(records.map((record) => [record.path, record.sha256]))
+    for (const record of metadataRecords) {
+      const hash = hashes.get(record.path)
+      if (hash) record.sha256 = hash
+    }
+  }
   return {
     fingerprint: digest(JSON.stringify(records)),
     metadataFingerprint: digest(JSON.stringify(metadataRecords)),
@@ -464,6 +471,14 @@ export async function fingerprintTreeMetadata(directory) {
     { includeIdentity: true, hashContent: false },
     new Set(),
   )
+  // Windows ctime can remain unchanged when bytes and then mtime are restored.
+  if (process.platform === "win32") {
+    for (const record of records) {
+      if (record.type !== "file" && record.type !== "symlink") continue
+      const absolutePath = path.join(directory, ...record.path.split("/"))
+      if ((await stat(absolutePath)).isFile()) record.sha256 = digest(await readFile(absolutePath))
+    }
+  }
   records.sort((left, right) => comparePaths(left.path, right.path))
   return {
     fingerprint: digest(JSON.stringify(records)),

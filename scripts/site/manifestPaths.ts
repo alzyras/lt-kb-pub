@@ -8,7 +8,7 @@ export function indexNormalizedPaths(paths: Iterable<string>): NormalizedPathInd
   const indexed = new Map<string, string>()
   const collisions = new Map<string, string[]>()
   for (const relativePath of paths) {
-    const key = relativePath.normalize("NFC")
+    const key = relativePath.replace(/\\/g, "/").normalize("NFC")
     const previous = indexed.get(key)
     if (previous === undefined) {
       indexed.set(key, relativePath)

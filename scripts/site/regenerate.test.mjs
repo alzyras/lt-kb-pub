@@ -15,6 +15,7 @@ import path from "node:path"
 import test from "node:test"
 import { buildSite, parseArguments, recoverInterruptedSwap, repositoryRoot } from "./regenerate.mjs"
 import { collectInputFingerprints } from "./state.mjs"
+import { createTestSymlink } from "../testSupport/symlink.mjs"
 
 async function makeFixture(t) {
   const parent = await mkdtemp(path.join(os.tmpdir(), "site-regenerate-test-"))
@@ -119,7 +120,7 @@ test("build runner is rooted at the public repository", async () => {
 
 test("a broken optional input symlink is reported without preventing a site build", async (t) => {
   const { root } = await makeFixture(t)
-  await symlink("../missing", path.join(root, "content", "missing"), "dir")
+  if (!(await createTestSymlink(t, "../missing", path.join(root, "content", "missing"), "dir"))) return
   const calls = []
 
   const built = await buildSite(
@@ -234,7 +235,7 @@ test("auto selects incremental mode for 50 new Markdown files and 20 edits", asy
   const { root, output } = await makeFixture(t)
   const objectRoot = path.join(root, "objektai")
   await mkdir(objectRoot, { recursive: true })
-  await symlink("../objektai", path.join(root, "content", "objektai"), "dir")
+  if (!(await createTestSymlink(t, "../objektai", path.join(root, "content", "objektai"), "dir"))) return
   const graphNodesPath = path.join(root, "quartz", "static", "graph-data", "nodes", "00.json")
   await mkdir(path.dirname(graphNodesPath), { recursive: true })
   await writeFile(graphNodesPath, '{"nodes":[] }\n')

@@ -2,31 +2,33 @@
 tipas: vieta
 pavadinimas: Minskas
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
-  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
-  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+- Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis,
+  2011 m.)
+- Michał Baliński, Vilniaus miesto istorija (2007 m.)
+- Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki
+  1655 metų (2010 m.)'
 datos:
-  - 1432 m.
-  - 1506 m.
-  - 1529 m.
-  - 1535 m.
-  - 1654 m.
-  - 1655 m.
-  - 1960 m.
+- 1432 m.
+- 1506 m.
+- 1529 m.
+- 1535 m.
+- 1654 m.
+- 1655 m.
+- 1960 m.
 date_start: '1432'
 date_end: '1960'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - vieta
+- miestas
+- vieta
 amziai:
-  - XV
-  - XX
+- XV
+- XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,8 +38,25 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
-external_sources_json: '[{"title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Minskas","url":"https://www.vle.lt/straipsnis/minskas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
-object_page_view_json: '{"version":3,"generated_at":"2026-09-19T06:01:51+00:00","source_checked_at":"2026-09-19T06:01:51+00:00","counts":{"relations":8,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Minskas (bltr. Мiнск, rus. Минск) – Baltarusijos sostinė ir didžiausias šalies miestas; srities ir rajono centras; miestas-didvyris. Vienuoliktas pagal dydį Europos žemyno miestas. Tai artimiausia nuo Vilniaus užsienio sostinė.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"12640","revision_id":"7665635","status":"published","translation_status":"native","source":{"title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","publisher":"Vikipedija","language":"lt","article_id":"12640","revision_id":"7665635","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7665635","history_url":"https://lt.wikipedia.org/w/index.php?title=Minskas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:20:10.266105+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"bf2ac731d0e64ae9eb6cc11b902003604db031cdd881529ece3f55c36e9b6280","version_pk":"add8ca7480d59a238a3b37e3fc48bbdc"}},"source_buttons":[{"label":"Vikipedija","title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Minskas","url":"https://www.vle.lt/straipsnis/minskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Minskas","https://www.vle.lt/straipsnis/minskas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"be885623dd31e018939d9889","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Minskas buvo viena iš paskutinių rytinių slavų pilių.","context":"Rytiniame lietuvių etnografinės sienos pakraštyje; autoriaus Zenono Ivinskio vertinimas, aprašantis laikotarpį iki Vytauto Didžiojo mirties.","support_ids":["t-180332","c-163943"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180332","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163943","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"čia randamas, palyginti, ne retas sodybų plotas su eile didžiojo kunigaikščio dvarų. Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas. Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Aleksandras","claim_id":"t-185049","confidence":0.82},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Vilniaus miestiečių luomas","claim_id":"t-180323","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Slavai","claim_id":"t-180332","confidence":0.76},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mechmet Girėjus","claim_id":"t-185753","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-180333","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/A. N. Trubeckojus","claim_id":"t-39979","confidence":0.66},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusijos kariuomenė","claim_id":"t-180330","confidence":0.96},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-180328","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":4,"sources":3}}'
+external_sources_json: '[{"title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Minskas","url":"https://www.vle.lt/straipsnis/minskas/","publisher":"Visuotinė
+  lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T06:01:51+00:00","source_checked_at":"2026-09-19T06:01:51+00:00","counts":{"relations":8,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"intro":"Minskas
+  (bltr. Мiнск, rus. Минск) – Baltarusijos sostinė ir didžiausias šalies miestas;
+  srities ir rajono centras; miestas-didvyris. Vienuoliktas pagal dydį Europos žemyno
+  miestas. Tai artimiausia nuo Vilniaus užsienio sostinė.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"12640","revision_id":"7665635","status":"published","translation_status":"native","source":{"title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","publisher":"Vikipedija","language":"lt","article_id":"12640","revision_id":"7665635","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7665635","history_url":"https://lt.wikipedia.org/w/index.php?title=Minskas&action=history","license":"CC
+  BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos
+  bendradarbiai"],"retrieved_at":"2026-09-20T22:20:10.266105+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia
+  rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting
+  and reference markers removed; images handled by reviewed media pipeline; article
+  text unabridged"},"content_hash":"bf2ac731d0e64ae9eb6cc11b902003604db031cdd881529ece3f55c36e9b6280","version_pk":"add8ca7480d59a238a3b37e3fc48bbdc"}},"source_buttons":[{"label":"Vikipedija","title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė
+  lietuvių enciklopedija","title":"Minskas","url":"https://www.vle.lt/straipsnis/minskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Minskas","https://www.vle.lt/straipsnis/minskas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"be885623dd31e018939d9889","canonical_code":"place.physical_features","label":"Fiziniai
+  bruožai","group":"Vietos bruožai","value":"Minskas buvo viena iš paskutinių rytinių
+  slavų pilių.","context":"Rytiniame lietuvių etnografinės sienos pakraštyje; autoriaus
+  Zenono Ivinskio vertinimas, aprašantis laikotarpį iki Vytauto Didžiojo mirties.","support_ids":["t-180332","c-163943"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180332"},{"kind":"evidence","evidence_id":"c-163943","quote":""}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Aleksandras","claim_id":"t-185049","confidence":0.82},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Vilniaus
+  miestiečių luomas","claim_id":"t-180323","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Slavai","claim_id":"t-180332","confidence":0.76},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mechmet
+  Girėjus","claim_id":"t-185753","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-180333","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/A.
+  N. Trubeckojus","claim_id":"t-39979","confidence":0.66},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusijos
+  kariuomenė","claim_id":"t-180330","confidence":0.96},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-180328","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":4,"sources":3}}'
 object_page_finisher: 'true'
 object_page_finisher_hash: 1adefb199918a018
 object_page_generated_at: '2026-09-19T06:01:51+00:00'
@@ -45,17 +64,24 @@ object_page_source_checked_at: '2026-09-19T06:01:51+00:00'
 object_page_content_state: content
 object_page_claim_count: '4'
 object_page_source_count: '3'
-object_page_seo_description: 'Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: smolensko, Vitebsko, Minsko…'
+object_page_seo_description: 'Minskas: iš jos miestų, kaip antai: Minskas: smolensko,
+  Vitebsko, Minsko…'
 object_page_seo_input_hash: bf6e07dde145435776260e3ee1959f89babf2b3135c835288a58b6c4dd545be5
 object_page_seo_generated_at: '2026-09-19T06:01:51+00:00'
 object_page_seo_policy_version: object-page-policy/v7
-entity_id: "ent-22a2ec416f45436449cc6690"
-canonical_name: "Minskas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Minskas"]
-sameAs: ["https://www.wikidata.org/entity/Q2280"]
-canonical_biography: "Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig- mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-."
+entity_id: ent-22a2ec416f45436449cc6690
+canonical_name: Minskas
+entity_roles:
+- place
+entity_view_role: place
+entity_aliases:
+- Minskas
+sameAs:
+- https://www.wikidata.org/entity/Q2280
+canonical_biography: 'Minskas: iš jos miestų, kaip antai: Minskas: Minskas: tačiau
+  sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į
+  savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo
+  sritis; tuo būdu Zig- mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-.'
 place_authority: true
 historical_names: []
 ---
@@ -63,7 +89,7 @@ historical_names: []
 
 ## Santrauka
 
-Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig- mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-.
+Minskas: iš jos miestų, kaip antai: Minskas: Minskas: tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig- mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-.
 
 ## Teiginiai
 
@@ -117,23 +143,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   pagrindžia:
     - c-163953
 
-<a id="claim-t-180323"></a>
-- t-005
-  teiginys: "Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Minskas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Minskas nurodytas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vilniaus miestiečių luomas prekiavo su Minskas (0.72)"
-  pagrindžia:
-    - c-163947
-
 <a id="claim-t-180324"></a>
 - t-006
   teiginys: "Baziliaus Serebriano ir Petro Šuiskio vadovaujamos pajėgos turėjo susijungti Drucke ir pulti Minsko, Naugarduko bei Vilniaus kryptimi."
@@ -182,43 +191,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   semantiniai_rysiai: "Totoriai užėmė Minskas (0.94); Totoriai puolė Lietuva (0.90); Totoriai užėmė Vilnius (0.90); Totoriai užėmė Trakai (0.90)"
   pagrindžia:
     - c-163950
-
-<a id="claim-t-180330"></a>
-- t-009
-  teiginys: "Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Minskas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Rusijos kariuomenė užėmė Minską."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Rusijos kariuomenė užėmė Minskas (0.96); Kazokai buvo sąjungininkas su Rusai (0.90); Rusai puolė Vilnius (0.66)"
-  temporaliniai_duomenys: "įvykio data: 1654 m.; įvykio data: 1654-1655; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, išsamus ir tiksliai perteikia citatos faktus apie Minską."
-  pagrindžia:
-    - c-163956
-
-<a id="claim-t-180332"></a>
-- t-010
-  teiginys: "Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Slavai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Slavai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Minskas įvardytas tarp paskutinių rytinių slavų pilių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Minskas priklausė Slavai (0.76)"
-  pagrindžia:
-    - c-163943
 
 <a id="claim-t-180333"></a>
 - t-011
@@ -365,29 +337,26 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   pagrindžia:
     - c-191197
 
+<a id="claim-t-235392"></a>
+- t-235392
+  teiginys: "Minsko apylinkėse vienuolynas turėjo 670 dešimtinių žemės, o 1879 m. grafienė Orlova-Denisova jam testamentu skyrė 5 000 rublių."
+  atnaujinta: "2026-11-13 01:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: low; atribucija: optional; atribucijos vardas: original"
+  vertinimo_atnaujinta: "2026-10-30T13:38:30Z"
+  pagrindžia:
+    - c-218618
+
 ## Reikšmingi paminėjimai
 - c-014
   santrauka: 'Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą, sudegino miestą ir neapgulė pilies.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
-    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
-    dar stipriau saugojo, ypač
-    K ry m o sk ita i n io k o -
-    dėl to, kad Krymo chanas
-    ja L ie tu v ą
-    Mengli Girėjus per pasiunti­
-    nius žadėjo karaliui taiką ir
-    pagalbą, jeigu šis neleis Šich Achmetui pasprukti. Ne­
-    rasdamas užtarėjų žemėje, Šich Achmetas kreipėsi mal­
-    domis į dangų, norėdamas, atgavęs aukščiausiojo ma­
-    lonę, atkeršyti jo padedamas už skriaudas. Išklausė
-    dangus varguolio maldų. Mengli Girėjaus kariai, veda­
-    mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­
-    los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
-    jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
-    jūčio viduryje užpuolė Slucką.
-  citata_rodoma: ''
+  puslapiai: "PDF 248"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
+  citatos_rezimas: "indeksas"
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -397,25 +366,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-43646
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 88"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
-  citata_originali: |
-    Viena jų, vadovaujama
-    kunigaikščio Baziliaus Serebriano, pajudėjo
-    iš Smolensko, kita, vadovaujama patyru-
-    sio karvedžio kunigaikščio Petro Šuiskio,
-
-    iš Polocko traukė į Drucką. Čia jos turėjo
-    susijungti ir pulti Minsko, Naugarduko, o
-    vėliau Vilniaus kryptimi. Buvo planuojama
-    stambaus masto ilgalaikė kampanija,
-
-    gal net visai Lietuvos Didžiajai
-    Kunigaikštystei užimti, nes
-
-    dar prieš tai į Didžiųjų Lukų tvirtovę buvo
-    nurodyta suvežti atsargas, kurių kariuome-
-    nei turėjo pakakti net pusei metų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -427,43 +380,21 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-163943
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 133"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 133."
-  citata_originali: |
-    XIV amž.
-    čia randamas, palyginti, ne retas sodybų plotas su eile didžiojo
-    kunigaikščio dvarų.
-    Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar
-    sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.
-    Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,
-    Minskas, Zaslavlis.
-  citata_rodoma: "čia randamas, palyginti, ne retas sodybų plotas su eile didžiojo\nkunigaikščio dvarų.\nEtnografinė lietuvių siena rytuose šiauriau Nemuno yra dar\nsunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.\nPaskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,\nMinskas, Zaslavlis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
 
 - id: c-163944
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 216"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 216."
-  citata_originali: |
-    Be to, Lietuvos po-
-    nai, jo priešai, norėdami jį
-    pražudyti, grasino jam iš-
-    kelti bylą tarsi už Aleksan-
-    dro nužudymą. Visa tai
-    matydamas, jis sumanė už-
-    grobti kuo daugiausia Lie-
-    tuvos žemių ir pasiduoti Maskvos kunigaikščiui Vosyliui III
-    (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
-    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
-    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: "Tačiau jis kiek apsivylė: Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -475,15 +406,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-163945
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 53"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
-  citata_originali: |
-    Kurį laiką Padauguvio giminės net mo-
-    kėjo jam duoklę — buvo pripažinusios jo valdžią. Bet jau XII
-    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
-    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
-    nigaikštijos.
-  citata_rodoma: "Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -495,44 +420,21 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-163947
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 233"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
-  citata_originali: |
-    Šis teisingu­
-    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
-    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
-    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
-    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
-    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
-    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
-    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
-    17
-    Apie tai didžiajam magistrui pra­
-    neša komtūras iš Lealio, iš Rygos,
-    laiške, datuotame 1432 metų rugpjū­
-    čio 19 d. Ind.
-  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
 
 - id: c-163948
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 53"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
-  citata_originali: |
-    Bet jau XII
-    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
-    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
-    nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
-    pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
-    paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles.
-  citata_rodoma: "Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:\nSmolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -544,20 +446,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-163949
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 184"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 184."
-  citata_originali: |
-    Kaip sąmokslas buvo
-    ruošiamas, tikslių žinių neturime, tik žinome, kad tada nema-
-    žai pasidarbavo vienas atvykęs Lenkų ponas — Zaremba.
-    Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
-    damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
-    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
-    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
-    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
-    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
-    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
-  citata_rodoma: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti\nį Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,\nNaugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-\nmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-\nvos, liko tiktai Palenkės, Pagirio ir Minsko žemės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -569,42 +460,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-163950
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 69-70"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 69-70."
-  citata_originali: |
-    Maskva
-    viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
-
-    kunigaikštystės, totorių kariuomenė
-    įsiveržė į Lietuvą. Šios pajėgos užėmė
-    Borisovą, Minską, Zaslavlį, Krėvą, Lydą,
-    Vilnių, Trakus ir priartėjo prie Kauno.
-    Žygimantas su savo mažesne Lietuvos ka-
-    riuomene nestojo į mūšį, bet vesdamas
-    savo pajėgas ne keliais ir neprieinamomis
-    vietomis, puldinėjo Švitrigailos tiekimo da-
-    linius, padarydamas jiems daug nuostolių,
-
-    67
-
-    pi
-    6£
-    kr L
-    610
-    2 a
-    T
-    = 5
-    o 2
-    22
-    co
-    “+
-    p
-    23
-    iv
-
-    ## Puslapis 70
-
-    priversdamas priešą badauti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -616,19 +474,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-163951
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 248"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
-  citata_originali: |
-    Miestiečiai prie jų
-    dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
-    imti po vieną pinigą kas dveji metai, arba po vieną akmenį
-    nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­
-    duktus. Tačiau šis karaliaus nurodymas gal taip greitai ne­
-    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
-    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
-    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
-    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
-    limu, išmetę medinius statinius.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -640,22 +488,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-163953
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 354"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
-  citata_originali: |
-    Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
-    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
-    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -667,48 +502,21 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-163956
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 128"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
-  citata_originali: |
-    Kazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti
-    iš Lenkijos valdžios, 1654 m. sudarė sąjungą su Maskva. Tais pa-
-    čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
-    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
-    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
-    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
-    priartėjo prie Vilniaus.
-  citata_rodoma: "Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
 
 - id: c-168409
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 558"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 558."
-  citata_originali: |
-    Aleksandras, praradęs bet kokias vil­
-    tis susitaikyti, nenoromis griebėsi ginklų. Jis pasiuntė
-    į Smolenską lengvuosius dalinius, vedamus Konstanti­
-    no, Ostrogo kunigaikščio, o
-    K o n sta n tin a s
-    O stio -
-    pats su pagrindinėmis jėgo-
-    g išk is
-    traukia
-    p rieš
-    mis lėtai patraukė iš paskos,
-    M a s k v ą
-    šiek tiek
-    stabtelėdamas iš
-    pradžių Minske, o po to Bo­
-    risove. Žymiausi luomų vadovai, garsūs pareigomis ir
-    didžiomis privilegijomis, nuskubėjo pas Ostrogiškį.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -720,22 +528,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-168410
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 563"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 563."
-  citata_originali: |
-    Mat va­
-    saros pabaigoje Ivano sūnus Dimitrijus Žilka, perėjęs
-    su labai stipria kariuomene sienų, apsupo Smolenską.
-    Aleksandras, iš visa ko ge-
-    M a s k v ė n a i
-    a p su p a
-    rai supratęs, kaip menkai
-    S m o len sk ą
-    galima pasitikėti maskvėnų
-    pažadais, įsikūrė Minske pa­
-    siryžęs iš arti vadovauti kariuomenei, jeigu užgriūtų
-    karas. Rudens pradžioje į stovyklą atvyko ir rotmist­
-    ras Černinas su čekų bei vokiečių algininkais.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -747,22 +542,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-168411
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 582"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
-  citata_originali: |
-    Vaivada Goštautas, pilies seniūnas
-    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
-    taip nukamavo priešą, šaudydami iš patrankų bei reng­
-    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
-    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
-    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
-    sūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis
-    visur nuniokojo kraštą, sudegino miestą, o matydamas,
-    jog pilies nieku būdu greitai neužims, jos neapgulė,
-    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
-    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
-    mo, ir sugrįžo atgal su didžiausiu grobiu.
-  citata_rodoma: "Vaivada Goštautas, pilies seniūnas\nMaskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai\ntaip nukamavo priešą, šaudydami iš patrankų bei reng­\ndami išpuolius, kad tas, nebesitikėdamas užkariauti pi­\nlies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas\nsmarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus\nsūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis\nvisur nuniokojo kraštą, sudegino miestą, o matydamas,\njog pilies nieku būdu greitai neužims, jos neapgulė,\nbet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko\nir Vitebsko žemes, niekur nesutikdamas pasipriešini­\nmo, ir sugrįžo atgal su didžiausiu grobiu."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -774,17 +556,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-168412
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 583"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
-  citata_originali: |
-    Žmonės pa­
-    sakojo, kad šimtą tūkstančių žmonių, jaunų ir stiprių,
-    priešas išsivarė iš Baltarusijos ir Lietuvos į nelaisvę,
-    neskaitant žuvusių visokiausiose skerdynėse nuo kar­
-    do senių bei vaikų. Po priešo niokojamo antpuolio
-    Minske ir kituose miestuose užėjo maras. Dažni skitų
-    žygiai į Lietuvos gilumą paskatino luomus geriau su­
-    tvirtinti Vilnių.
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
@@ -795,15 +569,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 
 - id: c-184980
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 389"
   indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
-  citata_originali: |
-    Vilniaus sąraše nėra, bet iš kitų šaltinių žinoma, kad jam teko 8 000 kapų
-    grašių norma. Kiti miestai turėjo mokėti kur kas mažiau, daugiausia Brestas ir Kije-
-    vas, - po 200 kapų grašių, Minskas, Mogiliavas, Pinskas - po 150 kapų grašių, Gar-
-    dinas - 120 kapų grašių. Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100
-    kapų grašių, Merkinė, Šeduva, Virbalis - po 40 kapų grašių, Jurbarkas, Panevėžys,
-    Šiauliai - po 30 kapų grašių, dar keliolika miestų ir miestelių - po 8-20 kapų grašių.
   statusas: verified
   atnaujinta: "2026-07-19 10:18"
   teiginio_tipas: faktas
@@ -827,13 +595,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-191197
   autorius: "Puzaras, Petras"
   šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 58"
   indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 58."
-  citata_originali: |
-    Į Kauną
-    priimti Sutvirtinimo sakramento atkeliaudavo žmonės ne
-    tik iš tolimiausių Žemaičių vyskupijos parapijų, bet ir
-    iš Vilniaus, Minsko ir Polocko5.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
@@ -846,18 +610,34 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-193520
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 116"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116."
-  citata_originali: |
-    Priėjo Minską, sudegi­
-    no Minsko miestą, ir iš daugelio valsčių bei kaimų išsi­
-    varė belaisvių ir padarė Lietuvos žemei nemaža žalos.
   statusas: verified
   atnaujinta: "2026-09-12 23:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-218618
+  autorius: "unknown"
+  šaltinis: "Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz"
+  puslapiai: "PDF 170"
+  indeksas: "unknown, Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz, PDF 170."
+  citata_originali: |
+    Prócz tego w okoliey
+    Minską monastyr posiada 670 dziesięcin ziemi
+    a w 1879 r. hr. Orlowa-Denisowa zapisala
+    mu rs. 5000.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-30 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-235392
 
 ## Ryšiai
 - Užėmė Minską: [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]

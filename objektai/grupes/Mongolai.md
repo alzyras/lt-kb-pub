@@ -110,20 +110,9 @@ Nenurodyta
 - id: c-104470
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 21"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
-  citata_originali: |
-    ## Puslapis 21
-
-    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
-    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
-    mongolus prie Mėlynųjų vandenų.
-
-    1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
-    sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
-    (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
-    gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
-    sios Rusios kunigaikštijų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -135,22 +124,9 @@ Nenurodyta
 - id: c-104471
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 24-25"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24-25."
-  citata_originali: |
-    Naugardukas jau buvo garsiojo Min­
-    daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
-    d)
-    Harris, Voyages. T. 1, p. 554.
-    8
-
-    ## Puslapis 25
-
-    ĮVADAS
-    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
-    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
-    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
-    su Nogajaus mongolais.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -162,21 +138,9 @@ Nenurodyta
 - id: c-167057
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 20-21"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 20-21."
-  citata_originali: |
-    Gedimino laikais Lie-
-    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
-    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
-    žmonės - kariai, galintys bet kada stoti į tarnybą.
-
-    ## Puslapis 21
-
-    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
-    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
-    mongolus prie Mėlynųjų vandenų.
-
-    1328 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -184,6 +148,42 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+- id: c-218609
+  autorius: "unknown"
+  šaltinis: "Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz"
+  puslapiai: "PDF 550"
+  indeksas: "unknown, Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz, PDF 550."
+  citata_originali: |
+    W X III w., kiedy jarzmo Mongolöw nad Ru­
+    sią zacięžylo, w Marmaroszu na Wcgrzech
+    spotykamy ludnošc woloską; može szczątki
+    rzymskich kolonii. Ludnošc ta wiodla zywot
+    pasterski.
+  statusas: verified
+  atnaujinta: "2026-10-30 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-218610
+  autorius: "unknown"
+  šaltinis: "Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz"
+  puslapiai: "PDF 550"
+  indeksas: "unknown, Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz, PDF 550."
+  citata_originali: |
+    Skoro w wieku następnym Giedy-
+    min przelamal potęgę Mongolöw i zdobyl Ki­
+    jo w, a zięe j ego Kazimierz Wielki zająl ziemie
+    czerwienskie, bezpieczenstwo tych stron wzra-
+    stalo.
+  statusas: verified
+  atnaujinta: "2026-10-30 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]]

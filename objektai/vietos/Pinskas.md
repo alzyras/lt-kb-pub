@@ -82,7 +82,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - c-164032
     - c-182510
-    - c-186122
 
 <a id="claim-t-180415"></a>
 - t-002
@@ -196,7 +195,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164039
-    - c-186121
 
 <a id="claim-t-199666"></a>
 - t-008
@@ -276,44 +274,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - c-182512
 
-<a id="claim-t-208049"></a>
-- t-208049
-  teiginys: "Pinsko seimelis 1736-1738 m. ir 1741-1744 m. buvo praktiškai nesužlugdytas."
-  atnaujinta: "2026-09-19 07:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  temporaliniai_duomenys: "įvykio data: 1736-1738; įvykio data: 1738 m.; įvykio data: 1741-1744; įvykio data: 1744 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-190667
-
-<a id="claim-t-208050"></a>
-- t-208050
-  teiginys: "Būtent jo pozicija lėmė sėkmingą Pinsko seimelių baigtį."
-  atnaujinta: "2026-09-19 07:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  pagrindžia:
-    - c-190743
-
-<a id="claim-t-208327"></a>
-- t-208327
-  teiginys: "Pinsko pranciškonų vienuolynas buvo nusiaubtas."
-  atnaujinta: "2026-09-19 07:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
-  pagrindžia:
-    - c-190894
-
 <a id="claim-t-212802"></a>
 - t-212802
   teiginys: "1276 metais jotvingiai gyveno tarp Dnepro ir Pinsko pelkių."
@@ -326,25 +286,27 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - c-196787
 
+<a id="claim-t-235393"></a>
+- t-235393
+  teiginys: "Pinsko apskritis buvo padalyta į keturias teismų apygardas, kurių centrai buvo Pohost-Zahorodnyje, Pinsko mieste, Brodčioje ir Sudčioje."
+  atnaujinta: "2026-11-13 01:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: low; atribucija: optional; atribucijos vardas: original"
+  vertinimo_atnaujinta: "2026-10-30T13:38:30Z"
+  pagrindžia:
+    - c-218619
+
 ## Citatos
 
 - id: c-164031
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 42"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
-  citata_originali: |
-    Kęstutis iš Trakų, savo
-    valdos sostinės, turėjęs geriausių galimybių stebėti visus
-    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
-    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
-    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
-    mas kartu su jam palankiu broliu Narimantu, Pinsko
-    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
-    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
-    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
-    dymą, kaip ir patį miestą, perleido į Algirdo rankas.
-  citata_rodoma: "lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­\nmas kartu su jam palankiu broliu Narimantu, Pinsko \nkunigaikščiu; pirmasis - Smolenske, antrasis pas totorių \nchaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -358,20 +320,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 140"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
-  citata_originali: |
-    Pane­
-    lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
-    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
-    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
-    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
-    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
-    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
-    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
-    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
-    varniuose, Veliuonoje.
-  citata_rodoma: "Trakuose,\nDarsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­\nbingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -383,16 +334,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-164036
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 201"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 201."
-  citata_originali: |
-    Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
-    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
-    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
-    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
-    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
-    valstybės vieningumui.
-  citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -404,16 +348,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-164037
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 93"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 93."
-  citata_originali: |
-    Mirdamas jis paliko 7 sūnus.
-    Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Man-
-    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
-    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
-    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
-    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
-  citata_rodoma: "Vyriausias sūnus, Man-\nv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą\nir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-\ndas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų\npasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -425,22 +362,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-164038
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 354"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
-  citata_originali: |
-    Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
-    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
-    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -452,27 +376,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-164039
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 78"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
-  citata_originali: |
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-    Vietą savo stovyklavietei jie pasirinko prie
-    Klecko miesto, kuris dar 1503 m. buvo jų
-    sunaikintas ir nekėlė pavojaus, o stovėda-
-    mas ant kelių, vedančių į Pinską, Vilnių,
-    Nesvyžių ir Slucką, buvo itin geras punktas
-    išpuoliams, kuriuos totoriai vykdė pasi-
-    skirstę mažesniais būriais.
-
-    Lietuvos kariuomenės mobilizacija, vadai
-    ir pirmieji susidūrimai
-
-    Staigus totorių įsiveržimas sutrukdė jų
-    veiksmus patyrusių paliestų pavietų ba-
-    jorijai mobilizuotis, o jų mažesnių būrių
-
-    Vilnius Aleksandro valdymo laikais.
-  citata_rodoma: "Vietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais.\n\nLietuvos kariuomenės mobilizacija, vadai\nir pirmieji susidūrimai\n\nStaigus totorių įsiveržimas sutrukdė jų\nveiksmus patyrusių paliestų pavietų ba-\njorijai mobilizuotis, o jų mažesnių būrių\n\nVilnius Aleksandro valdymo laikais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -484,15 +390,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-182504
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 53"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
-  citata_originali: |
-    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
-    GALĄ
-    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
-    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
-    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
-    savo valdovo sūnų didžiai džiaugdamasi.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -504,22 +404,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-182505
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 354"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
-  citata_originali: |
-    Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
-    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
-    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja).
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -531,18 +418,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-182506
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 252"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 252."
-  citata_originali: |
-    Istorijoje
-    niekur daugiau nebesutinkamas Manvydas (Manivydas) savo dalį
-    gavo etnografinėje Lietuvoje — Kernavę, o Juodojoje Rusijoje — Slo­
-    nimą. Negalima apibrėžti tiksliai, koks teko Manvydui politinis
-    uždavinys Gedimino valstybėje, ir iš viso keliamas klausimas, gal
-    tokio Gediminaičio nesą buvę^18. Narimantui, kuris 1348 m. žuvo
-    Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
-    kunigaikštijos, t. y. dabartinė Polesė (Pripetės plote).
-  citata_rodoma: "Narimantui, kuris 1348 m. žuvo\nStrėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo\nkunigaikštijos, t. y. dabartinė Polesė (Pripetės plote)."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
@@ -554,16 +432,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-182507
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 201"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 201."
-  citata_originali: |
-    Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
-    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
-    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
-    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
-    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
-    valstybės vieningumui.
-  citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos"
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
 
@@ -576,21 +447,11 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-182508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 42"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
-  citata_originali: |
-    Kęstutis iš Trakų, savo
-    valdos sostinės, turėjęs geriausių galimybių stebėti visus
-    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
-    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
-    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
-    mas kartu su jam palankiu broliu Narimantu, Pinsko
-    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
-    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
-    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
-    dymą, kaip ir patį miestą, perleido į Algirdo rankas.
-  citata_rodoma: "lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­\nmas kartu su jam palankiu broliu Narimantu, Pinsko \nkunigaikščiu; pirmasis - Smolenske, antrasis pas totorių \nchaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -603,21 +464,11 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 140"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
-  citata_originali: |
-    Pane­
-    lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
-    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
-    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
-    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
-    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
-    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
-    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
-    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
-    varniuose, Veliuonoje.
-  citata_rodoma: "Trakuose,\nDarsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­\nbingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:11"
 
   teiginio_tipas: faktas
@@ -629,28 +480,11 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-182511
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 78"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
-  citata_originali: |
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-    Vietą savo stovyklavietei jie pasirinko prie
-    Klecko miesto, kuris dar 1503 m. buvo jų
-    sunaikintas ir nekėlė pavojaus, o stovėda-
-    mas ant kelių, vedančių į Pinską, Vilnių,
-    Nesvyžių ir Slucką, buvo itin geras punktas
-    išpuoliams, kuriuos totoriai vykdė pasi-
-    skirstę mažesniais būriais.
-
-    Lietuvos kariuomenės mobilizacija, vadai
-    ir pirmieji susidūrimai
-
-    Staigus totorių įsiveržimas sutrukdė jų
-    veiksmus patyrusių paliestų pavietų ba-
-    jorijai mobilizuotis, o jų mažesnių būrių
-
-    Vilnius Aleksandro valdymo laikais.
-  citata_rodoma: "Vietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais.\n\nLietuvos kariuomenės mobilizacija, vadai\nir pirmieji susidūrimai\n\nStaigus totorių įsiveržimas sutrukdė jų\nveiksmus patyrusių paliestų pavietų ba-\njorijai mobilizuotis, o jų mažesnių būrių\n\nVilnius Aleksandro valdymo laikais."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:11"
 
   teiginio_tipas: faktas
@@ -660,16 +494,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-182512
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 93"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 93."
-  citata_originali: |
-    Mirdamas jis paliko 7 sūnus.
-    Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Man-
-    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
-    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
-    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
-    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
-  citata_rodoma: "Vyriausias sūnus, Man-\nv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą\nir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-\ndas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų\npasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą."
   statusas: verified
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
@@ -680,20 +507,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 
 - id: c-184449
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 23"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 23."
-  citata_originali: |
-    Už tų tyragetų
-    juo tolesniai dar į šiaurę gyveno masagetai, beje, me-
-    žės getai, arba medės gyventojai, kurie giriose Juo­
-    dojoj ir Žaliojoj gyveno. Versmėse Pinsko gyveno
-    vadinami budinai, kurie kalbėjo mišria grekonų ir
-    skitų kalba, už tų budinu juo dar į šiaurę, beje, apy­
-    gardose Vilniaus, neiriai; regis, upė Neris ir kalnai
-    to krašto Paneriai nuo tų gyventojų yra praminti.
-    Tie getai kariavo su Darijum, viešpačiu persų, pas-
-    kiaus su Pilypu, viešpačiu maudonų, bet tų karių
-    trumpumas mano rašto neleidžia čia išguldyti.
   statusas: verified
   atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
@@ -704,15 +520,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 
 - id: c-185003
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 389"
   indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
-  citata_originali: |
-    Tai
-    antra pagal dydį suma, daugiau turėjo mokėti Vilnius - 500 kapų grašių ir dar iš-
-    rengti 300 raitelių. Po Kauno ėjo 100 kapų grašių mokėti turėję Belskas, Drohičinas,
-    Gardinas, Pinskas, Polockas, kiti - dar mažiau. Iš valstybės lietuviškųjų žemių miestų
-    sąraše dar yra Trakai, kurių miestiečiai krikščionys ir karaimai kartu turėjo mokėti 60
-    kapų grašių, ir Merkinė, turėjusi mokėti 30 kapų grašių.
   statusas: verified
   atnaujinta: "2026-07-19 10:18"
   teiginio_tipas: faktas
@@ -721,75 +531,14 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - t-011
 
-- id: c-186121
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d. jie sustojo.
-    Vietą savo stovyklavietei jie pasirinko prie
-    Klecko miesto, kuris dar 1503 m. buvo jų
-    sunaikintas ir nekėlė pavojaus, o stovėda-
-    mas ant kelių, vedančių į Pinską, Vilnių,
-    Nesvyžių ir Slucką, buvo itin geras punktas
-    išpuoliams, kuriuos totoriai vykdė pasi-
-    skirstę mažesniais būriais.
-  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d. jie sustojo.\nVietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais."
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- id: c-186122
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai
-    apdovanojo žemėmis, javais ir pinigais.
-    Be bažnyčių Vytautas taip pat statė Lietuvoje ir vienuoly­
-    nų. Savo tėviškėn į Trakus parkvietė benediktinus, kuriems pa­
-    statė vienuolyną ir bažnyčią, kad jie užsiimtų mokslu. Kaune ir
-    Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus
-    pranciškonams; Breste įsteigė vienuolyną augustinijonams;
-    juos taip pat gausiai apdovanojo Medininkuose (Viln.) ir Pane­
-    munėje; domininkonus parėmė donacijomis Lucke, Gardine ir
-    Naugardėlyje; pranciškonams pastatė jau minėtas bažnyčias
-    Kaune, Gardine, Pinske, Drahočyne.
-  citata_rodoma: "Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai\napdovanojo žemėmis, javais ir pinigais.\nBe bažnyčių Vytautas taip pat statė Lietuvoje ir vienuoly­\nnų. Savo tėviškėn į Trakus parkvietė benediktinus, kuriems pa­\nstatė vienuolyną ir bažnyčią, kad jie užsiimtų mokslu. Kaune ir\nAšmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus\npranciškonams; Breste įsteigė vienuolyną augustinijonams;\njuos taip pat gausiai apdovanojo Medininkuose (Viln.) ir Pane­\nmunėje; domininkonus parėmė donacijomis Lucke, Gardine ir\nNaugardėlyje; pranciškonams pastatė jau minėtas bažnyčias\nKaune, Gardine, Pinske, Drahočyne."
-  statusas: verified
-  atnaujinta: "2026-07-29 11:11"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 - id: c-186123
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  puslapiai: "PDF 42"
+  citatos_rezimas: "indeksas"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Kivirčai tarp brolių da­
-    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
-    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
-    valdos sostinės, turėjęs geriausių galimybių stebėti visus
-    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
-    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
-    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
-    mas kartu su jam palankiu broliu Narimantu, Pinsko
-    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
-    chaną ieškojo prieglobsčio16 * .
-  citata_rodoma: "Kęstutis iš Trakų, savo \nvaldos sostinės, turėjęs geriausių galimybių stebėti visus \nbrolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­\nmas kartu su jam palankiu broliu Narimantu, Pinsko \nkunigaikščiu; pirmasis - Smolenske, antrasis pas totorių \nchaną ieškojo prieglobsčio16 * ."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -800,74 +549,44 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-190667
   autorius: "sudarytojas nenurodytas"
   šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 52"
   indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
-  citata_originali: |
-    1754-1762 m. vyko 7 pasiuntinių seimeliai, iš jų 6 buvo sužlugdyti.
-    Augusto III valdymo laikais nebūdingas buvo 1736-1738 m. it 1741-1744 m.
-    Pinsko seimelis, kurio buvo praktiškai neįmanoma sužlugdyti, nes pavieto elitas
-    gerai sutarė su didiku - Lietuvos didžiuoju etmonu ir Vilniaus vaivada Mykolu
-    Višneveckiu.
-  citata_rodoma: "Augusto III valdymo laikais nebūdingas buvo 1736-1738 m. it 1741-1744 m. \nPinsko seimelis, kurio buvo praktiškai neįmanoma sužlugdyti, nes pavieto elitas \ngerai sutarė su didiku - Lietuvos didžiuoju etmonu ir Vilniaus vaivada Mykolu \nVišneveckiu."
   statusas: verified
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208049
 
 - id: c-190743
   autorius: "sudarytojas nenurodytas"
   šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 52"
   indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
-  citata_originali: |
-    Augusto III valdymo laikais nebūdingas buvo 1736-1738 m. it 1741-1744 m.
-    Pinsko seimelis, kurio buvo praktiškai neįmanoma sužlugdyti, nes pavieto elitas
-    gerai sutarė su didiku - Lietuvos didžiuoju etmonu ir Vilniaus vaivada Mykolu
-    Višneveckiu. Būtent jo pozicija lėmė sėkmingą Pinsko seimelių baigtį.
-  citata_rodoma: "Būtent jo pozicija lėmė sėkmingą Pinsko seimelių baigtį."
   statusas: verified
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208050
 
 - id: c-190894
   šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 234"
   indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 234."
-  citata_originali: |
-    Napoleonui grįžtant iš Rusijos jis tapo marodierių ir įvairiausių
-    pabėgėlių priebėga, o pati bažnyčia buvo paversta sandėliu59. Nusiaubto ir ištuštėjusio
-    vienuolyno vaizdas iškyla aprašant Dysnos konvento gvardijono Stepono Čarkovskio
-    mirtį (ti8i3 03 07)60. Nusiaubtas buvo ir Pinsko pranciškonų vienuolynas61.
-    pasiekė Leontijaus Bennigseno vadovaujamas Rusijos kariuomenės dalinys, užklupęs ir sumušęs ten
-    susitelkusių sukilėlių grupę, žr. Powstanie kościuszkowskie 1794.
-  citata_rodoma: "Nusiaubtas buvo ir Pinsko pranciškonų vienuolynas61."
   statusas: verified
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-208327
 
 - id: c-193044
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 53"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
-  citata_originali: |
-    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
-    GALĄ
-    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
-    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
-    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
-    savo valdovo sūnų didžiai džiaugdamasi.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-12 23:39"
@@ -878,18 +597,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - id: c-196787
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 133-134"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133-134."
-  citata_originali: |
-    1276 metais Hipčiakų kanas Mengu-Ti-
-    muras surengė žygį prieš įazigus, jotvingių tautą, kuri
-    •'Lietuvos kronika
-    (rankraštis).
-    P.
-    20—22.
-    136
-
-    gyveno tarp Dnepro ir Pinsko pelkių
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-12 23:39"
@@ -898,6 +608,28 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212802
+
+- id: c-218619
+  autorius: "unknown"
+  šaltinis: "Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz"
+  puslapiai: "PDF 176"
+  indeksas: "unknown, Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz, PDF 176."
+  citata_originali: |
+    Do okręgu 3 naležy 5 gmin: Lemieszewicze,
+    Plotnica, Radczyce, Stolin i Terebiež. Do 4
+    wreszcie 4 gminy: Lohiszyn, Porzecze, Šwię-
+    ta Wola i Telechany. Powiat pinski dzieli się
+    na 4 okręgi sadowe, z siedzibą w Pohoscie Za­
+    horodnym, w Pinsku, w Brodczy (gm. plotni-
+    ckiej) i w Sudczy (gminy kuchecko-wolskiej).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-30 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-235393
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

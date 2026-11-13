@@ -47,6 +47,18 @@ Didieji taip sulaiko jauną žmogų, kai šis sudejuoja, kad jau aušta.
 
 Pašaipi formulė, kuria gėdinamas bijantis aušros.
 
+## Teiginiai
+
+<a id="claim-t-195426"></a>
+- t-001
+  teiginys: "Auštant jauną žmogų sulaiko posakiu apie dienos baimę."
+  atnaujinta: "2026-10-13 12:00"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177847
+
 ## Citatos
 
 - id: c-177847
@@ -54,34 +66,8 @@ Pašaipi formulė, kuria gėdinamas bijantis aušros.
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 66 (PDF 64)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 66 (PDF 64)."
-  citata_originali: |
-    „jau aušti“ Tada didieji, jį sulaikydami, sako: „Ar tu apsivogei, kad
-    dienos bijai?“
-    Sakoma,
-    kad laimės kiekis
-    išdėstytas lygiai ir didžturčiams ir
-    vargdieniams, kad laimės tiek pat suvokia ir vienas ir kitas.
-    Del to
-    paties sakoma: „Nėr to blogo, kad ant gera neišeitų“ .
-  citata_rodoma: "„jau aušti“ Tada didieji, jį sulaikydami, sako: „Ar tu apsivogei, kad\ndienos bijai?“"
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-195426"></a>
-- t-001
-  teiginys: "Auštant jauną žmogų sulaiko posakiu apie dienos baimę."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177847
-

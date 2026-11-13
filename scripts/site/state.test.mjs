@@ -5,6 +5,7 @@ import path from "node:path"
 import test from "node:test"
 
 import { collectInputFingerprints, fingerprintTree, fingerprintTreeMetadata } from "./state.mjs"
+import { createTestSymlink } from "../testSupport/symlink.mjs"
 
 test("input fingerprint follows content symlinks and catches same-size byte edits", async (t) => {
   const parent = await mkdtemp(path.join(os.tmpdir(), "site-input-fingerprint-"))
@@ -15,8 +16,8 @@ test("input fingerprint follows content symlinks and catches same-size byte edit
   await mkdir(external, { recursive: true })
   await writeFile(path.join(content, "index.md"), "# Home\n")
   await writeFile(path.join(external, "entry.md"), "aaa\n")
-  await symlink("../objects", path.join(content, "objects"), "dir")
   t.after(() => rm(parent, { recursive: true, force: true }))
+  if (!(await createTestSymlink(t, "../objects", path.join(content, "objects"), "dir"))) return
 
   const first = await collectInputFingerprints(root, { SITE_ORIGIN: "https://example.invalid" })
   const target = path.join(external, "entry.md")
@@ -38,8 +39,8 @@ test("broken input symlinks are fingerprinted and target appearance invalidates 
   const content = path.join(root, "content")
   await mkdir(content, { recursive: true })
   await writeFile(path.join(content, "index.md"), "# Home\n")
-  await symlink("../optional-media", path.join(content, "media"), "dir")
   t.after(() => rm(parent, { recursive: true, force: true }))
+  if (!(await createTestSymlink(t, "../optional-media", path.join(content, "media"), "dir"))) return
 
   const first = await collectInputFingerprints(root, {})
   assert.deepEqual(first.brokenSymlinks, [{ path: "content/media", target: "../optional-media" }])

@@ -40,51 +40,40 @@ Stanisławo Augusto karūnacinio seimo 1764 m. konstitucija po pusantro šimtme�
 - c-001
   santrauka: 'Stanisławo Augusto karūnacinio seimo 1764 m. konstitucija po pusantro šimtmečio patikslino ankstesniais metais nustatytus principus.'
   šaltinis: 03-ldk-tarp-tradiciju-ir-naujoviu
-  citata_originali: |
-    . .
-    6 l
-    Zasady z 16ц roku uściślała, półtora wieku później, konstytucja sejmu ko­
-    ronacyjnego Stanisława Augusta z 1 7 6 4 roku.
-  citata_rodoma: ''
+  puslapiai: "PDF 60"
+  indeksas: "03-ldk-tarp-tradiciju-ir-naujoviu, PDF 60."
+  citatos_rezimas: "indeksas"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-<a id="claim-t-208015"></a>
-- t-001
-  teiginys: "Stanisławo Augusto karūnacinio seimo 1764 m. konstitucija po pusantro šimtmečio patikslino ankstesniais metais nustatytus principus."
-  atnaujinta: "2026-09-13 21:47"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
-  vertinimo_atnaujinta: "2026-08-18T20:43:07Z"
-  pagrindžia:
-    - c-190626
 
 ## Citatos
 
 - id: c-190626
   autorius: "sudarytojas nenurodytas"
   šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 60"
   indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 60."
-  citata_originali: |
-    . .
-    6 l
-    Zasady z 16ц roku uściślała, półtora wieku później, konstytucja sejmu ko­
-    ronacyjnego Stanisława Augusta z 1 7 6 4 roku.
-  citata_rodoma: "Zasady z 16ц roku uściślała, półtora wieku później, konstytucja sejmu ko­\nronacyjnego Stanisława Augusta z 1 7 6 4 roku."
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
+- id: c-218616
+  autorius: "unknown"
+  šaltinis: "Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz"
+  puslapiai: "PDF 763"
+  indeksas: "unknown, Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz, PDF 763."
+  citata_originali: |
+    Byla to wies krölewska; Stanislaw August
+    mial tu podobno dwör mysliwski.
+  statusas: verified
+  atnaujinta: "2026-10-30 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

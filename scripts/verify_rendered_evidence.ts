@@ -266,11 +266,11 @@ const issues: Array<{ file: string; claim: string; citation?: string; reason: st
 const ignoredSourcePaths = new Set<string>(INTENTIONAL_IGNORED_OBJECT_PAGES)
 const sourceFiles = listMarkdownFiles(objectRoot)
 const slugMap = createUniqueSlugMap(
-  sourceFiles.map((file) => path.relative(process.cwd(), file) as FilePath),
+  sourceFiles.map((file) => path.relative(process.cwd(), file).split(path.sep).join("/") as FilePath),
 )
 
 for (const file of sourceFiles) {
-  const relativePath = path.relative(process.cwd(), file) as FilePath
+  const relativePath = path.relative(process.cwd(), file).split(path.sep).join("/") as FilePath
   if (ignoredSourcePaths.has(relativePath)) continue
   const markdown = fs.readFileSync(file, "utf8")
   const sections = parseEvidenceSections(markdown)

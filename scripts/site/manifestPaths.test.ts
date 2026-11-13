@@ -3,6 +3,13 @@ import { describe, it } from "node:test"
 import { indexNormalizedPaths } from "./manifestPaths"
 
 describe("public manifest path normalization", () => {
+  it("matches Windows separators to canonical manifest paths", () => {
+    const actual = "objektai\\vietos\\Vilnius.md"
+    const index = indexNormalizedPaths([actual])
+    assert.equal(index.paths.get("objektai/vietos/Vilnius.md"), actual)
+    assert.deepEqual(index.collisions, [])
+  })
+
   it("matches composed and decomposed Lithuanian filenames while preserving their filesystem path", () => {
     const composed = "objektai/zodynas/žodis.md"
     const decomposed = composed.normalize("NFD")

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { execFile, spawn } from "node:child_process"
-import { lstat, mkdir, readFile, readdir, rename, rm, stat, writeFile } from "node:fs/promises"
+import { cp, lstat, mkdir, readFile, readdir, rename, rm, stat, writeFile } from "node:fs/promises"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { performance } from "node:perf_hooks"
@@ -215,7 +215,7 @@ function makeChecks(root, outputRoot, env, reportDirectory, evidenceAuditScope) 
   const prebuild = [
     ...scripts(["verify_db_export_manifest"]),
     evidenceAudit,
-    { name: "unit-tests", command: "npm", args: ["test"] },
+    { name: "unit-tests", command: process.env.npm_execpath ? process.execPath : "npm", args: process.env.npm_execpath ? [process.env.npm_execpath, "test"] : ["test"] },
     { name: "typescript", command: process.execPath, args: [tsc, "--noEmit"] },
     ...scripts(["verify_relations_integrity"]),
   ]
@@ -431,7 +431,11 @@ async function seedStagingFromPreviousOutput(source, destination) {
     }
   }
 
-  await execFileAsync("cp", ["-al", `${source}${path.sep}.`, destination])
+  if (process.platform === "win32") {
+    await cp(source, destination, { recursive: true, preserveTimestamps: true })
+  } else {
+    await execFileAsync("cp", ["-al", `${source}${path.sep}.`, destination])
+  }
   return "hardlinks"
 }
 

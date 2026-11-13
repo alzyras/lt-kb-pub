@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-09588"></a>
 - t-001
   teiginys: "Pirmose fronto linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -70,7 +70,7 @@ Nenurodyta
 <a id="claim-t-09589"></a>
 - t-002
   teiginys: "Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-10-13 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,21 +90,9 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   puslapiai: "PDF 212"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 212."
-  citata_originali: |
-    Tuo metu, kai lenkai veržėsi Ukmergės link ir vyko sunkios
-    kovos ties Giedraičiais, mėginta pralaužti lietuvių pozicijas ir
-    kitoje Neries pusėje. 6-ojo pulko viršila apibendrina padėtį jų
-    fronto ruože, po to, kai pavyko sėkmingai atremti želigovski-
-    ninkų puolimą.
-    „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
-    jome, o dieną slėptuvėse miegojome.
-  citata_rodoma: "„Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-\njome, o dieną slėptuvėse miegojome."
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
     - t-002
-

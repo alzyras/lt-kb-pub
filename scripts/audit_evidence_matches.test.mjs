@@ -94,7 +94,8 @@ test("incremental evidence audit checks only listed object Markdown files", asyn
   const nestedRoot = path.join(objectRoot, "nested")
   await mkdir(nestedRoot)
   const escapingSymlink = path.join(nestedRoot, "outside.md")
-  await symlink(outsideFile, escapingSymlink)
+  const { createTestSymlink } = await import("./testSupport/symlink.mjs")
+  if (!(await createTestSymlink(t, outsideFile, escapingSymlink))) return
   assert.throws(
     () =>
       runEvidenceAudit({

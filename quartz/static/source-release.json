@@ -1,0 +1,165 @@
+{
+  "projection_manifest_sha256": "98883df6fcdc09635cce33ef17e72a9e41766d388d901a040844957a879a99a8",
+  "public_tree_hash": "7c881529f35c31c9784f88d4d167d2ae3c5971eb0422feef5f8529284fc9476b",
+  "release_id": "4ac862fa30f2f96ca129e494a81928b96d93a3444c8b0cc2c4b6d52f036f7e44",
+  "schema": "ltkb-source-release-assembly/v1",
+  "snapshot_id": "mvcc-3f381beea7710efc9acb1968fe146bbb7810d4d30753d55944e9d17d77ee104b",
+  "sources": [
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "0296cbc8dcf6e13061a8cb4f629dc271fc3b1aff3986fe3579e860d6c155733b",
+      "source_hash": "80f0903526a7f3d7a14bbc464266d0ade6fd7bf3d9d4d3b731de47709f6a1339",
+      "source_rel": "darbas/sources/open-corpus/55e6aae5-933f-450b-af8a-e6a93cf3282e/original.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "499000b23b1452ecf37766fc386a3d8b9e09f5494e8d0ab710c0803aa919b457",
+      "source_hash": "6023dbd072f6cdae4bcd499c648dd0842c1f9cf707ea2110b9116e4fcb2804a4",
+      "source_rel": "darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "cd41388b1f356d1eba2aa654c2f2e5ccf2d1660497684350699dd27a2f233d01",
+      "source_hash": "ced915424db8cb233023884e1e295f68a21ea8b37d6d65a8f94727d8c1dbfcf4",
+      "source_rel": "darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "4f58eb60be4685eafd1f579ea2a41223431cfcb9424afcc52ecb67b48774d7c1",
+      "source_hash": "66a408c57096594d30c1b4dc663331bef14310a4362bcbfce197ae3d7871233f",
+      "source_rel": "darbas/sources/04-ldk-personalijos-idejos-refleksijos.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "de6794e2bb2a2d51f8f0a05cec0a9b23fc5a83928c37f7316328fd78ca70005c",
+      "source_hash": "9a315a7aebbb7e38c983434086fe0c52474a7e2affe216f515baa05aeebf07b7",
+      "source_rel": "darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "62c03e616bbe28a78033243eaf622c605105dcf38e01847bed1b61fc9829fa59",
+      "source_hash": "20d6fa7720fa04cae1b86a1440360be2fee28585c96ef2562515cd3e5683a09d",
+      "source_rel": "darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "235fff66fb0dc25dc23e1904119b68a2f5e3cc9681017e1605da65c5392fe3fc",
+      "source_hash": "f7dba18b36f238deb96675c557a2d262d24ae3669f004281dfaa20ccfebcd502",
+      "source_rel": "darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "21539927c675dfabd5e2636765c6bb0751793095166ec74a2656b5cdda2a647f",
+      "source_hash": "c62c530a8dd9dff5a18eee56668ffe1d3f7b7eaaad32900820fd2dc5d3489ecf",
+      "source_rel": "darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "490a81925b41e20e096604016b5d822ea6bf9e9ec5c40d18450f7de2a959476e",
+      "source_hash": "bdefdc12bdf7abe41d6af505dd6697a4334e7dc07a482cb463b044729ad28c96",
+      "source_rel": "darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "85ee05036fc815b20e808c12b0cf3e76373022b6b7e096678abdf36f22f105f8",
+      "source_hash": "025858bc331d2956899a7130c5845f3e37d808b54aafd4c5ce9862fc0eacadbe",
+      "source_rel": "darbas/sources/Lenkai Lietuvoje Dr. J. Basanavičius.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "",
+      "source_hash": "396aeeca3795aecfb64cb147d2227e849c7d281b1ceaf6b96aee9e6ebcc9b247",
+      "source_rel": "darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "91c22a34d4151e3faa75557b2b272e45f0464441bf40ef72b57cc2261767c8b2",
+      "source_hash": "45d07a6edf0899b6f8ebd58c6eb0fb67c05df5ad83f2222c9720d8eac916749b",
+      "source_rel": "darbas/sources/Lituanistika-38937-Siauliu-ekonomijos-1769-maistas-ar-sukilimas.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "ba9172ddb3d5e225fda1a972811980212f6ec6e50b3a578798e02fcc64b4d0a7",
+      "source_hash": "8524c70621a2910677f7686398226cd5a4aa93f534c5c46e3438ad125d98da19",
+      "source_rel": "darbas/sources/Lituanistika-64400-Feodalines-teises-apraiskos-LDK.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "aa2f771f10d394fea8c8b168e71926d4f51b582ed6369e00bc74e2dd3b9d669c",
+      "source_hash": "028991f97c77cc68e9e9d75c01b08bbc49f0b18660c3ee8b0bf3c37af30881a7",
+      "source_rel": "darbas/sources/Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "8227ee9d6f0d3aa0bcbf9f57805641a282d5152caa270b75f0464def7b5e0fc3",
+      "source_hash": "4981d7031473b51de6ed36b205d588760027a53f163667e8c305135a9a29ef25",
+      "source_rel": "darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "19d99139f4dd431d4fb60aaca938fd6ca5520fa435b83f4fa919ac2a3d83df7d",
+      "source_hash": "f1b0ac9c4619383b1f70f590a17aa76ba8820ae6e729da1d85eb1643e25fbb96",
+      "source_rel": "darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "9564c42c4bcd0aa86b5c8219b655cb4a6672af18c1932a8884d255c76bdf82d7",
+      "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+      "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "",
+      "source_hash": "e2fdb11df3cc764452b1d0a89ffb6e440671368a7767d17951c47238a96ec897",
+      "source_rel": "darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "",
+      "source_hash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "",
+      "source_hash": "07c0550a6f61e21ee809e3b1490567f9c315479c2f197f65d4726e539f63a464",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "c323410e77afc1aa64e8b3a575a4206e4456c3a9a1078675002d230bc4e34810",
+      "source_hash": "bb31d14a6231a115149854554468149eb38a07d4514cd937795eda8fc218eab2",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "",
+      "source_hash": "c7ea44cc7c12de91777839abcb029df067855c96af80f2ade5c530b9e99b6145",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 6 (2019 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "598055e7ba4d3acfcd6b95c21612ab53d82cb3cc384709881e5b53635c61fac5",
+      "source_hash": "fb44eb01ce5acad99becf54dd7c8bad947b71f5310113f9ecf3d8f889d31047b",
+      "source_rel": "darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "ea2b6c7b2ef08ef4a8387d1ab7d241eb25f1227663984aed91c6cbf31961d4b8",
+      "source_hash": "05b03fcdc51693deafd0bc712f10ff862e3acdd244b034554dd285bb50f2a08a",
+      "source_rel": "darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"
+    },
+    {
+      "publication_mode": "facts_only_page_locator",
+      "release_id": "125b368248682eda73415ab42a35b9d726f921c4e7f7c32e87bdae7fd68482e9",
+      "source_hash": "63ab3826a5e91211eaaf9686f624c750c6578a7dadcc2d0222ab67d10eeaaa5a",
+      "source_rel": "darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "",
+      "source_hash": "3c5f718f2953da0a0e197a322838cbf9cbb8981fff49c561da696bf8da743e2a",
+      "source_rel": "darbas/sources/open-corpus/3fef7f8c-1c7c-4d60-bb0b-41c3348276a3/original.md"
+    }
+  ]
+}

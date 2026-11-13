@@ -27,7 +27,7 @@ Objektų skaičius: 23.
 
 ### Papročiai
 - [[objektai/paprociai/Burnos prausimas prieš valgant pusryčius]]
-- [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
+- [[objektai/paprociai/Fronto kasdienybė - naktinis budėjimas ir dienos miegas slėptuvėse|Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
 - [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]
 - [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje]]
 - [[objektai/paprociai/Jaunuomenės vamzdžiavimas ir piemenėlių pypynės pavasarį]]

@@ -1,0 +1,46 @@
+---
+tipas: grupe
+pavadinimas: 'Tucholcų giminė'
+saltiniai:
+  - 'original'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Tucholcų giminė
+
+## Santrauka
+
+Vietos gyventojai priklausė kalnų Tucholcų giminei.
+
+## Santrauka
+
+Vietos gyventojai priklausė kalnų Tucholcų giminei.
+
+## Citatos
+
+- id: c-218712
+  autorius: "unknown"
+  šaltinis: "Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz"
+  puslapiai: "PDF 276"
+  indeksas: "unknown, Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz, PDF 276."
+  citata_originali: |
+    Ludnoso tutejsza naležy do gorskie-
+    go rodu Tucholcow.
+  statusas: verified
+  atnaujinta: "2026-10-30 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

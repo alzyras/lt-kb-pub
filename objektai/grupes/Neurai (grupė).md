@@ -49,12 +49,9 @@ Narbutas neurus apibūdina kaip miškų gyventojus, kurie nepereidavo į atviras
 - id: c-197002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 51"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
-  citata_originali: |
-    už tų linijų be paliovos bastėsi pusiau laukinės
-    gentys, vadinamos neurais; tai buvo miškų gyventojai,
-    kurie niekados nepereidavo į atviras skitų šalis.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-12 23:39"
@@ -64,3 +61,21 @@ Narbutas neurus apibūdina kaip miškų gyventojus, kurie nepereidavo į atviras
   pagrindžia:
     - t-001
 
+- id: c-218611
+  autorius: "unknown"
+  šaltinis: "Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz"
+  puslapiai: "PDF 549"
+  indeksas: "unknown, Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich. T. 8: Per - Poz, PDF 549."
+  citata_originali: |
+    Herodot
+    opowiada, iz Dniestr, przy ujsciu ktorego
+    miescily si§ kolonie greckie, wyplywa z wiel-
+    kiego jeziora, oddzielajucego Skitow budz to
+    od Neurow, budz od Agatyrsow (Herod., IV,
+    51, cf. 100).
+  statusas: verified
+  atnaujinta: "2026-10-30 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
