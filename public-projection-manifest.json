@@ -1034,6 +1034,10 @@
       "content_hash": "5d94c17bfd6ef1675985876d0a279f9dbab2eddc5d79d41541584d4a493ece48",
       "rendered_hash": "ec8107333ad1b1c49cd5f05a31f3726a628f484488785bbe3a76b1ce34805556"
     },
+    "objektai/asmenys/Alena Liubaya.md": {
+      "content_hash": "233328fe708b320a8ed404f1d8fe79e24d486eefcc737b992c7283b841d51477",
+      "rendered_hash": "233328fe708b320a8ed404f1d8fe79e24d486eefcc737b992c7283b841d51477"
+    },
     "objektai/asmenys/Alepas.md": {
       "content_hash": "9efd6fc7c3ce529a43b04dcb1de575e87fef3cc3daab2cc56b76f0200187e479",
       "rendered_hash": "febe8b744a275ea18ed65251cc9df7aa9d25f242c07bddf3cd1622c4fc145825"
@@ -1273,6 +1277,10 @@
     "objektai/asmenys/Anatolis Lieven.md": {
       "content_hash": "e130a2d1bd4477fa3d12ff31dcf39e7ec024e5aec36578a0fcfb64826fea37fd",
       "rendered_hash": "ee9ef0a4ae05e579a6d398809bbead482fa960bdd8cce19e6535dcec6abc7dcb"
+    },
+    "objektai/asmenys/Andrei Liuby.md": {
+      "content_hash": "a24fcfe7d225899a3a764e30f65d1c14126b52c5cbbfa5e868eef9759dcf0036",
+      "rendered_hash": "a24fcfe7d225899a3a764e30f65d1c14126b52c5cbbfa5e868eef9759dcf0036"
     },
     "objektai/asmenys/Andreika.md": {
       "content_hash": "4857a5027c7cd82fa27cb6241c619de9de3fcf6348d0d9997d808e8c6c5bd189",
@@ -2473,6 +2481,10 @@
     "objektai/asmenys/Bernardas Berensonas.md": {
       "content_hash": "7e1289b4bdffd94e7caa8bd39043c452ab5179e5f573b5f88ba3b7fec0a0ae89",
       "rendered_hash": "f3f9d1740e598cefb060d4b3d918ec2ebb41e16a8331f7d547d1fe53e1d6ce2c"
+    },
+    "objektai/asmenys/Bernardas Maciejovskis.md": {
+      "content_hash": "3b205ec9881ca53316afd4f54a51fdb87f3f9fd80b9aaf3b963346b50e8abed1",
+      "rendered_hash": "3b205ec9881ca53316afd4f54a51fdb87f3f9fd80b9aaf3b963346b50e8abed1"
     },
     "objektai/asmenys/Bernardas Svidnickis.md": {
       "content_hash": "c906239caa175d6829e47ff2465af5d545b17d1d5f0d46d1ca19e258773eeee3",
@@ -4762,6 +4774,10 @@
       "content_hash": "b26b447990edddb014c5e5c58bc714d034586d9fe99d5fb4447780a8da387d42",
       "rendered_hash": "baffc22df15bfd036dc3bf834833cf66b0206b3b0b2cc386a987d496eb5cc46c"
     },
+    "objektai/asmenys/Giedrius Kujelis.md": {
+      "content_hash": "eb8964b46a5d957c4dfda8b0afbcbd511ed11fdec0c4aab408813c6cb8510226",
+      "rendered_hash": "eb8964b46a5d957c4dfda8b0afbcbd511ed11fdec0c4aab408813c6cb8510226"
+    },
     "objektai/asmenys/Gilbert de Lannoy.md": {
       "content_hash": "d812163f4aa9d455adaa4ed4fae68a25e1a685f89cea111b890e43671fb7c753",
       "rendered_hash": "b65319c03ec0610c23b9e5c7d47f6ff537b9ca5c06da17a5cf5a36000f310959"
@@ -6027,8 +6043,8 @@
       "rendered_hash": "c9d54068f019f5d0bebe39fa65c75134a4d885c7a2098042b5797a7a56725d87"
     },
     "objektai/asmenys/J. Sobieskis.md": {
-      "content_hash": "1f1b7f30f8ec2f27cf50f21c1537208cc4694cd607817947a2c36b8a37a47cd1",
-      "rendered_hash": "7e84b5bb8250c85c069e4dd319d5d3003aa637e7632e7d7cd89246cfbd6c9679"
+      "content_hash": "b44f731b3348d7edc95a90dfecc3ace85eae7e69c2be1417d6743095a14c6c4c",
+      "rendered_hash": "b44f731b3348d7edc95a90dfecc3ace85eae7e69c2be1417d6743095a14c6c4c"
     },
     "objektai/asmenys/J. Stalinas.md": {
       "content_hash": "f373e3084e3b4b09c5bd424263d39c55001153113236ffda7c263c70c0f0486f",
@@ -8243,8 +8259,8 @@
       "rendered_hash": "4a6d24072661bb7aebfd2ecbc0b8834b9334ddd3430483a210302c8e2298a5fd"
     },
     "objektai/asmenys/Jurgis Radvila.md": {
-      "content_hash": "30f42f3e0c5e9a5ef41aab5160518678356a05fdf8637686cf2be62c93a2d871",
-      "rendered_hash": "ff7f7e8a17eccff0d286fec0a8acb301a3bbcdb908b11aa6027410c015d8a1ed"
+      "content_hash": "40130912c4ee346b6183ecda4400cdff26be15d82cc3fef849370c315a63da09",
+      "rendered_hash": "40130912c4ee346b6183ecda4400cdff26be15d82cc3fef849370c315a63da09"
     },
     "objektai/asmenys/Jurgis Reineris.md": {
       "content_hash": "e44d779e2b2f687059380670ad078591303e984fa8b02998cb36335de4b242ee",
@@ -10713,6 +10729,10 @@
     "objektai/asmenys/Maryna Dmuchowska.md": {
       "content_hash": "b7da3a72f96138e2076116e5dd45e88aefe2250ee8666702973e2f6af2429690",
       "rendered_hash": "b7da3a72f96138e2076116e5dd45e88aefe2250ee8666702973e2f6af2429690"
+    },
+    "objektai/asmenys/Marzena Liedke.md": {
+      "content_hash": "242772dbb01970acd54edd8cb61ecd7c21d93bd404ca2582de0a78bdc654750a",
+      "rendered_hash": "242772dbb01970acd54edd8cb61ecd7c21d93bd404ca2582de0a78bdc654750a"
     },
     "objektai/asmenys/Masis Mejeravičius.md": {
       "content_hash": "f2a78e004ed3deedb955c0d6627092ffe3e3f106bd57b1fcadb8e0ab3a8eedf2",
@@ -13378,6 +13398,10 @@
       "content_hash": "f77792500f0b84a45bc278c2a06bc6034e8c527978c776049f682a76b78976af",
       "rendered_hash": "580a35a40257be7167e3d34825a8467d4ad8c3a796aaa39aa50f954819c99059"
     },
+    "objektai/asmenys/Prokopas Baltramiejavičius.md": {
+      "content_hash": "18f8c4166d2b5faf427d2a9d672a4414be4b25558a04ed581d73db952e5d253d",
+      "rendered_hash": "18f8c4166d2b5faf427d2a9d672a4414be4b25558a04ed581d73db952e5d253d"
+    },
     "objektai/asmenys/Prokopas.md": {
       "content_hash": "85261c099e7c84d350c5d7f1939c2f88277343650b952b1c97d816421c931e29",
       "rendered_hash": "04f88924897f84ccfe03dfdba9cfd2665eb212761d84588100dded64224056d1"
@@ -13450,6 +13474,10 @@
       "content_hash": "29c752efa3038140ea06a30a7525deeeed69ecd5915fb698d7a3b3c5b01f303c",
       "rendered_hash": "5c66bf6c24faf2db83a942db5afed2a40bfa4f5696a4f1fc1d2f3eae97db15fe"
     },
+    "objektai/asmenys/Radosław Poniat.md": {
+      "content_hash": "4b8ca8dee1f163c8785c95407968ca2de5673e772aa6c7840ac5c8724baa1840",
+      "rendered_hash": "4b8ca8dee1f163c8785c95407968ca2de5673e772aa6c7840ac5c8724baa1840"
+    },
     "objektai/asmenys/Radvila (maršalka).md": {
       "content_hash": "bd3a9cd31c697e3f0671d3a59aa15e8ee9ae2b9251f1313bdc639eaa5864087a",
       "rendered_hash": "e59b5e675f9b0961d9d6785b3a9d5d977915d0fec17105fe3486d4e27d5ef709"
@@ -13457,6 +13485,10 @@
     "objektai/asmenys/Radvila Juodasis.md": {
       "content_hash": "48a9cd8e2a21168c2893189c84c15039ca2da127f80936b9237ff7c5c361550a",
       "rendered_hash": "57356b1e15b88b54c16ff0bab00677048c8be1eb2adc9904722c132176edde84"
+    },
+    "objektai/asmenys/Radvila Žuvelė.md": {
+      "content_hash": "6f3e2f48228960edf87df2326dd800e151c319c1ff108cb3952b0cdc0a3fcd60",
+      "rendered_hash": "6f3e2f48228960edf87df2326dd800e151c319c1ff108cb3952b0cdc0a3fcd60"
     },
     "objektai/asmenys/Radvila.md": {
       "content_hash": "ea3d5fbec572d42585e1cebf79ca82baa5bdb1a525da9f235b7f775606e96d1d",
@@ -13806,6 +13838,10 @@
       "content_hash": "14e1d39eb3e298fed5c9f630c33cd4f0068f939d70c6d0ea77c7f276d3462571",
       "rendered_hash": "8fa35d5c6a30902f5a6f15520925a94b57327845d32ae1ecbda8b04c3bd6a11a"
     },
+    "objektai/asmenys/Rūstis Kamuntavičius.md": {
+      "content_hash": "bf3c5fa57a37622e01a7a4cfd4c1906359a6aed78a5ef5202f814b601e841b53",
+      "rendered_hash": "bf3c5fa57a37622e01a7a4cfd4c1906359a6aed78a5ef5202f814b601e841b53"
+    },
     "objektai/asmenys/S. Chominskis.md": {
       "content_hash": "c25cabe41148d466474ed58623c851adebd05095d45ff12b2c9d6252f0db8d2a",
       "rendered_hash": "c6f1c33a8077302bbfbfa9de5216eae2799e3e3ee64adf29076ea488ee05063d"
@@ -14001,6 +14037,10 @@
     "objektai/asmenys/Siggo.md": {
       "content_hash": "9b7e1b9181de509dbb8ef7508bf706737913be60349b81114c2cf3e962a03b0f",
       "rendered_hash": "5778a22b377e556a9828c37938a0de91b68098f3555b6d212cb413c479107b12"
+    },
+    "objektai/asmenys/Sigitas Lūžys.md": {
+      "content_hash": "ae017d1ac500874fac6526e5335c7266965aceb3c771f40d4380e4ae062edd0a",
+      "rendered_hash": "ae017d1ac500874fac6526e5335c7266965aceb3c771f40d4380e4ae062edd0a"
     },
     "objektai/asmenys/Sigizmundas Herberšteinas.md": {
       "content_hash": "edacfe4fbd78c74d4f58039221af644bab035b95f7f98d984a7e93a11e375f0f",
@@ -21586,6 +21626,10 @@
       "content_hash": "4e26f51d67c8a45909010890e71d44fd84ec6cfd58b32d86235349d9911317ad",
       "rendered_hash": "0b9a255fe318259d66e2c1fc8236acfb2f0f6e032f0d5d8ba86d545b18747434"
     },
+    "objektai/autoriai/Prokopas Baltramiejavičius.md": {
+      "content_hash": "0886ad7f01db16c98fae2baa0b275f5c3d23d4d3d0b0b60b604a6449244b2575",
+      "rendered_hash": "0886ad7f01db16c98fae2baa0b275f5c3d23d4d3d0b0b60b604a6449244b2575"
+    },
     "objektai/autoriai/Prokopijus.md": {
       "content_hash": "d4c9f7de2e77447e0a8769348d70fba46b8eb5b5d4e3d583ec1230d0efe593f4",
       "rendered_hash": "23d1afb3b9b43fff22d901237faac092e3592337bd2c28749bea4af2897d817e"
@@ -26810,6 +26854,10 @@
       "content_hash": "582f54120ed52c495619e388f8419d9b291e3d4b85a12d6ba22dc202760cbbc9",
       "rendered_hash": "f6775ac39b5c6f40865475b0eb8c2ba0d7cc34c7ddad424a1bc37b3ae88cf9e3"
     },
+    "objektai/daiktai/Rokiškio dvaro kokliai su herbų įspaudais.md": {
+      "content_hash": "4ba12e2f842ae5068fb6632871ddc7258e2b4f7bfcfa8ecdc4549387d2c64db2",
+      "rendered_hash": "4ba12e2f842ae5068fb6632871ddc7258e2b4f7bfcfa8ecdc4549387d2c64db2"
+    },
     "objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai.md": {
       "content_hash": "624be4f79fc7c5a56dc46152a612a39db571ed912f28c85fceca4024027a37e5",
       "rendered_hash": "46852beea3f26bb9f9a4c48f6aa9ebd242dcaf81588ee6871afd9d68c2c21714"
@@ -30391,8 +30439,8 @@
       "rendered_hash": "938927a46901c7fe95e552d900a06daad4139d6eaa005b2a23cf3b4ebc42f9d0"
     },
     "objektai/grupes/Jogailaičių dinastija.md": {
-      "content_hash": "ca5fb863802d7b5d93dc4ddd35cfa2d27612bb6b2df3b7b287ae903207dd0dba",
-      "rendered_hash": "ffcdff2ec3b256dea4d8d2173a6e76d18319b38a7efd11edd73784a24d96bdea"
+      "content_hash": "fb185ceac00edad6319fd16d2b5be14edc37da16296cdab8c35eebaa55bd38ce",
+      "rendered_hash": "fb185ceac00edad6319fd16d2b5be14edc37da16296cdab8c35eebaa55bd38ce"
     },
     "objektai/grupes/Jogailaičių dvaras.md": {
       "content_hash": "012290da3709b595cb77bea010b56423503f7f6e4f7b56709cebb8b892b6bb08",
@@ -60524,6 +60572,10 @@
       "content_hash": "f067dc0946dd56c95e0d2f6a60e81c101a2050e75de1cc9826ff4f9c9167e5d0",
       "rendered_hash": "42488ace851eb5afdaad2010c2a97cb03ee1f37a54ce80aebf0caeeb68226863"
     },
+    "objektai/saltiniai/Censura, arba Prokopo Baltramiejavičiaus nuomonė ir pastabos dėl Vilniaus vyskupo nominacijos, padarytos jo malonybės kunigaikščio Karūnos p.md": {
+      "content_hash": "0a150c1a7be262ef9e4cc01069f3073cc373d23b22822e9c4b2f836362fba936",
+      "rendered_hash": "0a150c1a7be262ef9e4cc01069f3073cc373d23b22822e9c4b2f836362fba936"
+    },
     "objektai/saltiniai/Chilinskio Senasis Testamentas.md": {
       "content_hash": "8e4df7103eb07b1d1d4a373ea3653f095c8f6a4942773e5b2c27bb6dd2efcbe1",
       "rendered_hash": "e52a401cab634f332e753a34790d20fcdaf3c87a06612adc825012675ce83aa3"
@@ -64087,6 +64139,10 @@
     "objektai/saltiniai/Lietuvos istorijos metraštis 2019 metai 1. J. P a š k a u s k a s. Tamara Bairašauskaitė. Bajorų dvaras keičia savininką. Vilniaus, Kauno ir Gardino gubernij--0bf72a016a.md": {
       "content_hash": "79de3d99db0a7283418ff98d75cb52885d6db83da7af08d31e145f06918a574d",
       "rendered_hash": "79de3d99db0a7283418ff98d75cb52885d6db83da7af08d31e145f06918a574d"
+    },
+    "objektai/saltiniai/Lietuvos istorijos metraštis 2019 metai 1. L. B u c e v i č i ū t ė. Aktualūs XVIII a. Lietuvos Didžiosios Kunigaikštystės tyrimai tarptautinėje mokslinėje--4236229635.md": {
+      "content_hash": "a0b55bf353bc983b5e79dc37ee3079e387177f2f3d0b75256e8b1a639e7fa4b7",
+      "rendered_hash": "a0b55bf353bc983b5e79dc37ee3079e387177f2f3d0b75256e8b1a639e7fa4b7"
     },
     "objektai/saltiniai/Lietuvos kaimo papročiai.md": {
       "content_hash": "9e47011fcfa77e3e47d6b914f2bfc016eb80af9451b428892a3be46c23e4d9f2",
@@ -69455,6 +69511,10 @@
     "objektai/saltiniai/oji psalmė.md": {
       "content_hash": "4b6d09a36288c579dc46bad13734363c667061fbe0aca5960ed6410d536e4783",
       "rendered_hash": "45c33d2694382ff2fab2f7668f849316c2d0d91329580d955380c09f158e3a0b"
+    },
+    "objektai/saltiniai/original-155eecd830-01-aktual-s-xvii-a-lietuvos-did-iosios-kunigaik-tys.md": {
+      "content_hash": "8922487b7019ff579cffeb13abf0445bb1a0efdeb094023b02d170db0d14a2b0",
+      "rendered_hash": "8922487b7019ff579cffeb13abf0445bb1a0efdeb094023b02d170db0d14a2b0"
     },
     "objektai/saltiniai/original-81aa4a6a37-01-review-of-tamara-baira-auskait-bajor-dvaras-kei-.md": {
       "content_hash": "640cdf5703036370aaecd04825e6ab8b74c901856b6a795312aa386a8f1f2156",

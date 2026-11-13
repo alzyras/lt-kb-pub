@@ -63,19 +63,29 @@ Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenki
   pagrindžia:
     - c-41965
 
+<a id="claim-t-230338"></a>
+- t-230338
+  teiginys: "1677 m. rugpjūčio 21 d. Jonas Sobieskis įpareigojo Kotryną Tyzenhauzienę perduoti Kupiškio seniūnijos valdymą Steponui ir Barborai Tyzenhauzams."
+  atnaujinta: "2026-10-27 18:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  temporaliniai_duomenys: "įvykio data: 1677 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Jonas Sobieskis, data, įpareigota Kotryna ir valdymo gavėjai aiškiai nurodyti; platesnio istorinio konteksto nepridėjau."
+  pagrindžia:
+    - c-210955
+
 ## Citatos
 
 - id: c-41965
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  citatos_rezimas: "indeksas"
   puslapiai: "PDF 142"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
-  citata_originali: |
-    įsijungė į 1683 m. J. Sobieskio pradėtą
-    karą su Turkija ir jam net pavyko atsi-
-    imti šiek tiek Lenkijos anksčiau prarastų
-    “ teritorijų, tačiau tai nevirto įspūdingomis
-    pergalėmis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -84,3 +94,27 @@ Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenki
   pagrindžia:
     - t-001
 
+- id: c-210955
+  autorius: "Alvydas Totoris"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio seniūnija XVI–XIX amžiais"
+  puslapiai: "p. 159 (PDF 160)"
+  indeksas: "Alvydas Totoris, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio seniūnija XVI–XIX amžiais, p. 159 (PDF 160)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-10-13 11:48"
+  pagrindžia:
+    - t-230338
+
+- id: c-218218
+  autorius: "Laima Bucevičiūtė"
+  šaltinis: "Lietuvos istorijos metraštis 2019 metai 1. L. B u c e v i č i ū t ė. Aktualūs XVIII a. Lietuvos Didžiosios Kunigaikštystės tyrimai tarptautinėje mokslinėje konferencijoje „Nuo Liublino iki Gardino (1569–1697): ir kiti tekstai (2) — Aktualūs XVII a. Lietuvos Didžiosios Kunigaikštystės tyrimai tarptautinėje mokslinėje konferencijoje „Nuo Liublino iki Gardino (1569–1697): valstybės ir visuomenės raidos trajektorijos 3“"
+  citatos_rezimas: "indeksas"
+  puslapiai: "PDF 7"
+  indeksas: "Laima Bucevičiūtė, Lietuvos istorijos metraštis 2019 metai 1. L. B u c e v i č i ū t ė. Aktualūs XVIII a. Lietuvos Didžiosios Kunigaikštystės tyrimai tarptautinėje mokslinėje konferencijoje „Nuo Liublino iki Gardino (1569–1697): ir kiti tekstai (2) — Aktualūs XVII a. Lietuvos Didžiosios Kunigaikštystės tyrimai tarptautinėje mokslinėje konferencijoje „Nuo Liublino iki Gardino (1569–1697): valstybės ir visuomenės raidos trajektorijos 3“, PDF 7."
+  statusas: verified
+  atnaujinta: "2026-10-28 02:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
