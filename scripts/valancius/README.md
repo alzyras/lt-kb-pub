@@ -1,5 +1,9 @@
 # Motiejaus Valančiaus ciklas: redakcinė peržiūra
 
+**2026-11-13 B straipsnio suderinimas:** [sprendimas, kilmė ir ribos](review/RECONCILIATION-20261113.md).
+Autorinį `b-article.md` ir esamą straipsnį tikrina `node scripts/valancius/sync_b_article.mjs --check`;
+tik straipsniui atnaujinti naudoti `--write`. Tai ne DB eksportas, svetainės regeneravimas ar diegimas.
+
 **2026-09-20 vartotojas patvirtino publikavimą.** Aktuali leidimo informacija —
 [publikavimo suvestinėje](review/PUBLICATION.md). Toliau paliktas ankstesnių etapų žurnalas.
 
